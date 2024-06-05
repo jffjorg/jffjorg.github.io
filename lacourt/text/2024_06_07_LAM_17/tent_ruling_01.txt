@@ -1,0 +1,221 @@
+  Case Number:  24STCV04219    Hearing Date:   June 7, 2024    Dept:  17 Superior Court of California
+County of Los
+Angeles
+ 
+DEPARTMENT 17
+ 
+TENTATIVE RULING
+ 
+
+
+
+VALSOFT CORPORATION, INC. 
+  
+        
+  vs.
+ 
+FLEET LOGIC LLC dba VELOCITY TRUCK RENTAL
+  AND LEASING 
+  
+
+
+ Case
+  No.:  24STCV04219    
+ 
+ 
+ 
+ Hearing Date:  June 7, 2024
+
+
+
+
+ 
+Defendant’s
+demurrer is OVERRULED as to the third cause of action, but SUSTAINED, WITH 15
+DAYS LEAVE TO AMEND, as to the sixth cause of action. 
+ 
+            On
+2/20/2024, Plaintiff Valsoft Corporation, Inc. (Plaintiff) filed suit against
+Fleet Logic LLC dba Velocity Truck Rental and Leasing (Defendant), alleging:
+(1) misappropriation of trade secrets; (2) breach of contract; (3) breach of
+the implied covenant of good faith and fair dealing; (4) conversion; (5) unjust
+enrichment; (6) unauthorized computer access and fraud; (7) violation of
+computer fraud and abuse; and (8) unfair competition. 
+ 
+            On
+6/7/2024, Defendant demurred to the third and sixth causes of action. 
+ 
+Factual Background 
+ 
+            Plaintiff
+alleges that Defendant stole unspecified trade secrets within database software
+Valsoft owns. 
+ 
+Discussion 
+ 
+            Defendant
+argues that Plaintiff cannot state a claim for the breach of implied covenant
+because it is superfluous to the breach of contract claim, and is preempted by Plaintiff’s
+claim for misappropriation of trade secrets under the California Uniform Trade
+Secrets Act (CUTSA). Defendant argues that Plaintiff cannot state a claim under
+California’s Comprehensive Computer Data and Fraud Act (CDAFA) because the
+allegations in the Complaint are not truly directed to unauthorized access of
+Valsoft’s software (Fleet was an authorized licensee) but to alleged
+unauthorized use of items that were accessed with admitted authorization.
+Moreover, the Complaint does not allege the requisite damages or that any
+alleged unauthorized access took place in California, as required under the
+statute.
+ 
+            After
+review, the Court agrees in part. 
+ 
+            As
+to the third cause of action for breach of implied covenant, a plaintiff may
+bring both a breach of contract claim and breach of the implied covenant of
+good faith and fair dealing claim. (Guz v. Bechtel Nat. Inc. (2000) 24
+Cal.4th 317, 327, 377.) However, in order to maintain both, a claim alleging
+breach of the implied covenant of good faith and fair dealing must be based on
+a different breach than the breach of contract claim. (Id.; Careau
+& Co. v. Sec. Pac. Bus. Credit, Inc. (1990) 222 Cal.App.3d 1371, 1392
+[observing that the plaintiff’s breach of implied covenant claim is “simply
+duplicative [of her breach of contract cause of action], and thus may be
+disregarded.”]) 
+ 
+Here,
+Plaintiff alleges that Fleet Logic breached the operative agreements by
+“conspiring, engaging in, or facilitating theft of Valsoft’s intellectual
+property and trade secrets; using confidential and proprietary information
+without Valsoft’s knowledge or consent for its own benefit; using Valsoft’s
+trade secrets and confidential information in a manner that was inconsistent
+with the terms of the RAA and Addendum #2; and developing competing software
+based on Valsoft’s proprietary assets and confidential information.”
+(Complaint, ¶ 46.) Plaintiff’s breach of implied covenant claim recites nearly
+identical factual allegations. (Cf. Complaint, ¶¶ 46, 53.) 
+ 
+However, as
+noted by Plaintiff in opposition, the claim is not duplicative where the
+plaintiff alleges that the defendant acted in bad faith to frustrate the
+contract’s benefits. (Guz, supra, 24 Cal. 4th 312, 353 n.18; See
+Beaulieu Grp., LLC v. Bates (C.D. Cal. 2015) 2015 WL 13950821, at *7) )
+(“[E]ven though they are based on the same factual allegations, the breach of
+contract claim and the breach of the implied covenant of good faith and fair
+dealing claim are not duplicative because Plaintiff may be successful on one
+but not the other.”) 
+ 
+Here, Plaintiff
+alleges that Defendant breached the implied covenant of fair dealing and abused
+its discretion by using ODBC in bad faith and conspiring with offshore agents
+to circumvent the terms of the parties’ contracts and misappropriate Fleet
+Logic trade secrets and proprietary assets. (See e.g. Compl. ¶ 18
+(“[Fleet Logic’s access to ODBC was granted as a discretionary privilege to
+facilitate [Fleet Logic’s] business reporting.”).] As such, Plaintiff’s
+allegations are distinct from and go beyond Defendant’s alleged improper use of
+DMB, which is explicitly covered by Addendum #2. (See Compl. ¶¶ 19, 20,
+24, 26, 44.) 
+ 
+The Court
+also finds that Plaintiff’s claims are not preempted on their face by CUTSA.
+CUTSA expressly carves out claims for breach of contract and breach of the
+implied covenant of good faith and fair dealing. Cal. Civ. Code § 3426.7(b)(1)
+(“This title does not affect (1) contractual remedies, whether or not based
+upon misappropriation of a trade secret, . . . .”); see also Thrifty
+Payless, Inc. v. The Americana at Brand (2013) LLC, 218 Cal. App.
+4th 1230, 1244 (“A breach of the implied covenant of good faith and fair
+dealing is a breach of the contract . . .”). The cases relied upon by
+Defendant, K.C. Multimedia and Silvaco, are distinguishable because
+those decisions did not concern an implied covenant claims. (K.C.
+Multimedia, Inc. v. Bank of America Technology & Operations, Inc.
+(2009) 171 Cal. App. 4th 939; Silvaco Data Sys. v. Intel Corp. (2010)
+184 Cal. App. 4th 210.) 
+ 
+As for the
+sixth cause of action for unauthorized computer access and fraud, the CDAFA
+prohibits “tampering, interference, damage, and unauthorized access to lawfully
+created computer data and computer systems.” (Cal. Penal Code § 502(a).)
+Section 502 permits civil suit only where a computer system is accessed
+“without permission” by an outsider who thereby causes the victim some damage
+or loss. (See Chrisman v. City of Los Angeles (2007) 155 Cal.App.4th 29,
+34 [“Section 502 defines ‘access’ in terms redolent of ‘hacking’ or breaking into
+a computer.”])
+ 
+Here,
+contrary to Defendant’s contention, Plaintiff does allege that Defendant
+accessed the Software without permission: “Valsoft is informed and believes
+Velocity knowingly and without permission altered, deleted, destroyed, or
+otherwise used Valsoft’s data, computer, computer system, or computer network
+in order to devise or execute a scheme to wrongfully control or obtain
+Valsoft’s money, property, or data.” Complaint, ¶ 67.) 
+ 
+However, the
+Court agrees that such a generic allegation is conclusory and does not allege
+facts which could show on what basis Plaintiff believes Defendant accessed
+Plaintiff’s software. (Pridonoff v. Balokovich (1951) 36 Cal.2d 788,
+792.) (“Plaintiff may allege on information and belief any matters that are not
+within his personal knowledge, if he has information leading him to believe
+that the allegations are true.”) As such, Plaintiff must allege some facts
+which could show that it has a basis for believing this to be true.
+ 
+The Court
+also finds Plaintiff’s allegations of damage to be insufficient. While
+Plaintiff alleges that Defendant “strained Valsoft’s servers” and “caused
+operational stress to the Software,” Plaintiff alleges only that it is
+“entitled to compensation for any expenditure reasonably and necessarily
+incurred to verify that a computer system, computer network, computer program,
+or data was or was not altered, damaged, or deleted by Velocity’s actions.”
+(Complaint ¶ 71.) This creates uncertainty as to whether or not such expenses
+were, in fact, incurred. 
+ 
+However, the
+Court declines to conclude that Plaintiff cannot state a CDAFA claim under
+Section 502 claim based on extraterritorial activity. Defendant’s argument is
+based on a single citation Sullivan v. Oracle Corp. (2011) 51 Cal.4th
+1191, wherein the California Supreme Court wrote: : “[h]owever far the
+Legislature’s power may theoretically extend, we presume the Legislature did
+not intend a statute to be ‘operative, with respect to occurrences outside the
+state, ... unless such intention is clearly expressed or reasonably to be
+inferred from the language of the act or from its purpose, subject matter or
+history.” (Id. at p. 1207.) However, this case involved alleged labor
+violations, and did not involve conduct that took place over the internet or
+through web servers. There is strong reason to believe that the same physical
+boundary rules that apply to physical conduct do not apply in the same way to
+internet-based conduct. Accordingly, the Court cannot conclude as a matter of
+law based on this case that Plaintiff cannot assert a CDAFA based on
+allegations that actions were undertaken through various internet service
+providers “from multiple offshore locations” and different places across India.
+(Complaint. at ¶ 24.) 
+ 
+The Court
+also declines to find that the CDAFA claim is preempted by CUTSA at this time. 
+ 
+Plaintiff
+will be afforded leave to amend to address the identified deficiencies. 
+ 
+Based on the
+foregoing, Defendant’s demurrer is overruled as to the third cause of action,
+but sustained, with 15 days leave to amend, as to the sixth cause of action. 
+ 
+It is so ordered. 
+ 
+Dated:  June   
+, 2024
+                                                                                                                                                           
+   Hon. Jon R.
+Takasugi
+   Judge of the
+Superior Court
+ 
+ 
+ 
+Parties who intend to submit on this tentative must
+send an email to the court at smcdept17@lacourt.org
+by 4 p.m. the day prior as directed by the instructions provided on the court
+website at www.lacourt.org.  If a party submits
+on the tentative, the party’s email must include the case number and must
+identify the party submitting on the tentative. 
+If all parties to a motion submit, the court will adopt this
+tentative as the final order.  If the department
+does not receive an email indicating the parties are submitting on the
+tentative and there are no appearances at the hearing, the motion may be placed
+off calendar.  For more information, please contact the court clerk at (213)
+633-0517.  
+ 

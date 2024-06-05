@@ -1,0 +1,167 @@
+
+
+ 
+            The
+Complaint alleged that Plaintiff Anne Heiting (Plaintiff)
+accessed the website of Design Holdings, Inc. (Defendant). Thereafter, Design
+Holdings allegedly invaded Plaintiff’s right to privacy without her consent by
+aiding a third-party company, Salesforce, to secretly eavesdrop, record, and
+harvest data in real time collected from Plaintiff’s interaction with Design
+Holdings’ chat box on its website. The Complaint alleges causes of action for
+(1.) Violations of the California Invasion of Privacy Act (CIPA), and (2.) Violations
+of the California Unauthorized Access to Computer Data Act (CDAFA). 
+ 
+On October 24, 2023, Defendant demurred
+to the entire Complaint. Plaintiff filed an opposition to the demurrer. The Court sustained the demurrer in its entirety. 
+ 
+On February 5, 2024, Plaintiff filed
+a First Amended Complaint (FAC) containing a single claim for Violations of the California Invasion of Privacy Act
+(CIPA).
+ 
+On March
+7, 2024, Defendant demurred to the FAC. Plaintiff opposed the demurrer. 
+ 
+             The demurrer is sustained without leave to
+amend. 
+ 
+Legal Standard for
+Demurrers
+ 
+A demurrer is an objection to a
+pleading, the grounds for which are apparent from either the face of the
+complaint or a matter of which the court may take judicial notice. (Civ.
+Proc., § 430.30, subd. (a); see also Blank v. Kirwan (1985) 39 Cal.3d 311,
+318.) The purpose of a demurrer is to challenge the sufficiency of a
+pleading “by raising questions of law.” (Postley v. Harvey (1984)
+153 Cal.App.3d 280, 286.) “In the construction of a pleading, for the
+purpose of determining its effect, its allegations must be liberally construed,
+with a view to substantial justice between the parties.” (Code Civ. Proc., §
+452.) The court “ ‘ “treat[s] the demurrer as admitting all material facts
+properly pleaded, but not contentions, deductions or conclusions of fact or law
+. . . .” ’ ”  (Berkley v. Dowds (2007) 152 Cal.App.4th 518,
+525.) In applying these standards, the court liberally construes the
+complaint to determine whether a cause of action has been stated. (Picton
+v. Anderson Union High School Dist. (1996) 50 Cal.App.4th 726, 733.)
+ 
+First
+Cause of Action – Violations of the California Invasion of Privacy Act (Penal
+Code section 631, subdivision (a):
+ 
+             Defendant argues the first cause of
+action fails to allege facts sufficient to state a claim.
+ 
+            Penal
+Code section 631(a) provides that a person who does any of the following has
+acted in violation of California’s
+Invasion of Privacy Act (CIPA):
+ 
+“Any person
+who, by means of any machine, instrument, or contrivance, or in any other
+manner, [i] intentionally taps, or makes any unauthorized connection, whether
+physically, electrically, acoustically, inductively, or otherwise, with any
+telegraph or telephone wire, line, cable, or instrument, including the wire,
+line, cable, or instrument of any internal telephone communication system, or
+[ii] who willfully and without the consent of all parties to the communication,
+or in any unauthorized manner, reads, or attempts to read, or to learn the
+contents or meaning of any message, report, or communication while the same is
+in transit or passing over any wire, line, or cable, or is being sent from, or
+received at any place within this state; or [iii] who uses, or attempts to use,
+in any manner, or for any purpose, or to communicate in any way, any information
+so obtained, or [iv] who aids, agrees with, employs, or conspires with any
+person or persons to unlawfully do, or permit, or cause to be done any of the
+acts or things mentioned above.”
+ 
+            Here,
+the FAC alleges that Plaintiff
+was browsing Defendant’s website,
+www.danishdesignstore.com, and interacted with a chat box on the site. (FAC ¶ 11.) The
+FAC further alleges that Defendant recorded Plaintiff’s conversation and paid a
+third-party company, Salesforce.com (Salesforce), to eavesdrop in real time, harvest
+Plaintiff’s personal information through her interaction with a chat box
+through a data sharing agreement. (FAC ¶¶ 12-18.) Plaintiff alleges that Design
+Holdings’ failure to disclose its use of Salesforce as a service provider
+violates CIPA, because “Design Holdings did not obtain Plaintiff’s express or
+implied consent to wiretap or allow third parties to eavesdrop on visitor
+conversations.” (FAC ¶ 20.)
+            
+            Defendant
+argues these allegations fail as matter of law. The statue has four clauses; the first three clauses are premised
+on direct liability while the last is premised on derivative—or aiding and
+abetting—liability. As the Court previously determined, only the fourth
+clause for aiding and abetting liability possibly applies to the allegations
+here. 
+ 
+            With
+respect to this fourth clause, Defendant argues the FAC fails to state a claim
+for derivative liability for “aiding and abetting.” Specifically, Defendant argues
+that (a) Plaintiff
+fails to allege an underlying CIPA violation; (b) Plaintiff’s allegations show
+that Salesforce was a third-party tool that was utilized by Design Holdings as
+a mere extension of its own operations; and (c) Plaintiff fails to allege
+Design Holdings knew of (or specifically intended to aid) Salesforce’s alleged
+plan to violate CIPA. (Dem., 14:10-20:5.)[1]
+
+ 
+            With
+respect to the second argument, the allegations show that Salesforce was a third-party tool
+that was utilized by Design Holdings as a mere extension of its own operations.
+ 
+ 
+            As
+noted in the Court’s previous ruling on demurrer, numerous courts that have held
+that the statute requires plaintiffs to allege facts indicating that the third
+party is recording the customers’ information “for some use or potential future
+use beyond simply supplying this information back to Defendant.” (Cody v.
+Boscov's, Inc. (C.D. Cal. 2023) 658 F.Supp.3d 779, 782 [dismissing with
+leave to amend claim for aiding wiretapping where Plaintiff's only allegation
+related to the software providers was that they “harvest valuable data from
+such [customer] communications for the benefit of their clients like Defendant”].)
+“One is not considered a third-party eavesdropper when they merely provide a
+tool that allows another party to record and analyze its own data.” (Nora
+Gutierrez v. Converse Inc. (C.D. Cal., Oct. 27, 2023, No. 223CV06547RGKMAR)
+2023 WL 8939221, at *3.)[2]
+
+ 
+            The
+FAC alleges that “Design
+Holdings entered into a data sharing agreement with Salesforce to record and
+mine chats. The relationship begins when Defendant installs the Salesforce
+software onto its site and provides a pathway for the chats to be recorded.”
+(FAC ¶ 12.) Messages sent by customers are then diverted
+from Design Holdings to Sales Force with Salesforce collecting “Professional
+life data,” “Personal life data,” and “Localisation data.” (FAC ¶ 14.) The FAC
+alleges that Salesforce “brags about how it ‘ingests and stores real-time data
+streams at scale and combines it with Salesforce transactional data and
+includes built-in connectors that bring in data from every channel …and
+historical data from proprietary data lakes.’” (FAC ¶ 17.) The FAC alleges that
+“Defendant should not be permitted to acquire such extensive personal
+information from unsuspecting consumers who visit their website merely to make
+a purchase, such as buying a new coffee table.” (FAC ¶ 18.) 
+ 
+            These allegations
+again fail to show that Salesforce was recording the information for its own
+benefit. In fact, the allegations in the FAC more definitively show that Design
+Holdings extracts greater information for its own benefit through Salesforce.
+ 
+            Thus, the FAC fails
+to demonstrate that Defendant used third-party vendor, SalesForce, as a
+“third-party eavesdropper.” Rather, the allegations show nothing more than
+Defendant using SalesForce in aid of Defendant’s business and not for some
+other purpose, which makes the third-party an “extension” of Defendant's
+website. (Byars v. Hot Topic, Inc. (C.D. Cal. 2023) 656 F.Supp.3d 1051,
+1068.)
+ 
+            The
+demurrer to the CIPA cause of action is sustained.[3]
+ Plaintiff did not make a specific showing of a reasonable
+possibility of amending. (Rakestraw v. California Physicians’ Service
+(2000) 81 Cal.App.4th 39, 43 [“The plaintiff bears the burden of proving there
+is a reasonable possibility of amendment.”].) Accordingly, the Court denies
+leave to amend.
+ 
+Conclusion
+ 
+            Defendant Design
+Holdings’s demurrer is sustained without leave to amend.
+
+
