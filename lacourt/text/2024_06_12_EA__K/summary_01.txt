@@ -1,0 +1,68 @@
+Here is the summary in YAML format:
+
+```
+case_number: 23PSCV03122
+plaintiff:
+  name: Santander Bank, N.A.
+  role: Lender
+defendant:
+  name: Clifford Glassman
+  role: Borrower
+people_names:
+  - Clifford Glassman
+  - David Ware
+company_names:
+  - Cross River Bank
+  - Upgrade, Inc.
+  - Santander Bank, N.A.
+places:
+  - None mentioned
+dates:
+  - January 28, 2022 (loan agreement)
+  - October 10, 2023 (complaint filed)
+  - March 5, 2024 (default entered)
+  - June 12, 2024 (hearing date)
+events:
+  - Loan agreement between CRB and Defendant
+  - Loan funds disbursed
+  - Default entered
+  - Complaint filed
+  - Application for default judgment filed
+money:
+  - Loan amount (amount not specified)
+  - Repayment (amount not specified)
+intentions:
+  - To obtain default judgment
+facts:
+  - Loan agreement between CRB and Defendant
+  - Defendant failed to repay loan
+  - Default judgment sought
+disputes:
+  - Breach of contract
+  - Money lent, paid, or expended
+acts:
+  - Loan agreement
+  - Loan disbursed
+  - Default entered
+agreements:
+  - Loan agreement between CRB and Defendant
+  - Loan sale and purchase agreements between Upgrade and Plaintiff
+laws:
+  - None mentioned
+case_citations:
+  - None mentioned
+statutes:
+  - None mentioned
+roles:
+  - Lender (Santander Bank, N.A.)
+  - Borrower (Clifford Glassman)
+  - Assignor (CRB)
+  - Assignee (Upgrade, Inc.)
+  - Purchaser (Plaintiff)
+significant_statements:
+  - Plaintiff's Application for Default Judgment is denied without prejudice
+```
+
+And here is the English text to summarize the judge's tentative ruling:
+
+The judge has denied the plaintiff's application for default judgment without prejudice. The plaintiff, Santander Bank, N.A., had sought to obtain a default judgment against the defendant, Clifford Glassman, for breach of contract and money lent, paid, or expended. However, the judge has noted several defects in the plaintiff's application, including a lack of documentation regarding the assignment of the loan from CRB to Upgrade, Inc. and from Upgrade, Inc. to the plaintiff. The judge has requested that the plaintiff provide the court with a copy of the loan agreements in question.
