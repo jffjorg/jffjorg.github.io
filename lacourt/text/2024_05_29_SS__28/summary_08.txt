@@ -1,0 +1,58 @@
+Here is a summary of the Judge's tentative ruling in YAML format:
+
+```
+case_number: 22STCV29810
+plaintiff: Derrick Bernard
+defendant: Sergio Vargas, Ericka Gomez, Does 1-50
+people_names:
+  - Derrick Bernard
+  - Sergio Vargas
+  - Ericka Gomez
+company_names: []
+places:
+  - 123 W 58th St, Los Angeles, CA 90037
+dates:
+  - October 22, 2020
+  - April 2, 2024
+  - April 3, 2024
+  - April 18, 2024
+  - April 23, 2024
+  - April 26, 2024
+  - May 29, 2024
+events:
+  - Demurrer
+  - Motion to strike
+  - Opposition
+  - Reply
+  - Hearing
+money: N/A
+intentions:
+  - To sustain or strike demurrer and motion to strike
+facts:
+  - Plaintiff was bitten by a dog
+  - Defendant allegedly knew or should have known about the dog's dangerous propensities
+  - Defendant allegedly failed to warn of the dangerous condition of the premises
+disputes:
+  - Negligence and premises liability claims
+  - Negligence per se claim
+acts:
+  - Plaintiff filed a complaint
+  - Defendant filed a demurrer and motion to strike
+agreements: N/A
+laws:
+  - Code of Civil Procedure
+  - California Civil Code
+  - Kesner v. Superior Court (2016)
+  - Salinas v. Martin (2008)
+  - Priebe v. Nelson (2006)
+roles:
+  - Plaintiff: Derrick Bernard
+  - Defendant: Sergio Vargas, Ericka Gomez, Does 1-50
+significant_statements:
+  - The Court sustains the demurrer to the negligence and premises liability claims asserted against Vargas with leave to amend.
+  - The Court sustains the demurrer to the negligence per se claim asserted against Vargas with leave to amend.
+  - The Court denies as moot the motion to strike the punitive damages allegations from the complaint.
+```
+
+Summary:
+The Judge's tentative ruling is a summary of the hearing on May 29, 2024, regarding the demurrer and motion to strike filed by Sergio Vargas in the case of Derrick Bernard v. Sergio Vargas, Ericka Gomez, and Does 1-50. The Judge sustains the demurrer to the negligence and premises liability claims asserted against Vargas with leave to amend, and sustains the demurrer to the negligence per se claim asserted against Vargas with leave to amend. The Judge also denies as moot the motion to strike the punitive damages allegations from the complaint.

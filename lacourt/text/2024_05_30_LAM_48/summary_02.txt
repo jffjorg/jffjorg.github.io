@@ -1,0 +1,63 @@
+Here is the summary in YAML format:
+
+```
+case_number: 23STCV00699
+plaintiff: Carl Rinsch
+defendants: Hastens Beds, Inc., et al.
+people:
+  - Carl Rinsch
+  - Jacob Koo
+  - Kristofer Eriksson
+company-names:
+  - Hastens Beds, Inc.
+  - Damon Capital LLC
+places:
+  - Los Angeles
+  - California
+dates:
+  - September 18, 2023
+  - October 10, 2023
+  - May 30, 2024
+events:
+  - Demurrer
+  - Motion to strike
+money:
+  - Refund
+  - Payment
+  - Conversion of money
+intentions:
+  - To show that the defendants committed fraud and breach of contract
+facts:
+  - Plaintiff alleged that defendants made false promises and failed to deliver products
+  - Defendants moved to strike plaintiff's prayer for punitive damages and attorney fees
+  - Court sustained demurrer to fraud causes of action
+disputes:
+  - Plaintiff's claims against defendants
+  - Defendants' demurrer to plaintiff's complaint
+acts:
+  - Plaintiff filed a first amended complaint
+  - Defendants filed a demurrer and motion to strike
+  - Court sustained demurrer to plaintiff's fraud causes of action
+agreements:
+  - None mentioned
+laws:
+  - California Rules of Court
+  - Code of Civil Procedure
+  - California Civil Code
+statutes:
+  - Code Civ. Proc., § 1021
+  - Code Civ. Proc., § 436
+  - Civ. Code § 3294
+  - Civ. Code § 1021
+roles:
+  - Plaintiff: Carl Rinsch
+  - Defendants: Hastens Beds, Inc., et al.
+  - Judge: Hon. Thomas D. Long
+significant-statements:
+  - Court sustained demurrer to plaintiff's fraud causes of action
+  - Court granted defendants' motion to strike plaintiff's prayer for punitive damages and attorney fees
+```
+
+Here is a summary of the judge's tentative ruling in English text:
+
+The court has sustained the demurrer to the plaintiff's fraud causes of action, dismissing the claims for intentional and negligent misrepresentation, promissory estoppel, and unjust enrichment. The court has also granted the defendants' motion to strike the plaintiff's prayer for punitive damages and attorney fees. The court has dismissed the defendants Jacob Koo and Kristofer Eriksson, as they are not named in the surviving causes of action. The court has ordered Damon Capital LLC to file an answer within 10 days. The court has not granted leave to amend the complaint.

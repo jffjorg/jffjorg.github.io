@@ -1,0 +1,79 @@
+Here is the summary in YAML format:
+
+```
+case_number: 23TRCV03434
+plaintiff_names:
+  - Clara M. Ramirez
+  - Jose P. Carrubba
+defendant_names:
+  - Christina Carrubba
+  - Manuel Parra
+people_names:
+  - Clara M. Ramirez
+  - Jose P. Carrubba
+  - Christina Carrubba
+  - Manuel Parra
+companies:
+  -
+places:
+  -
+dates:
+  - October 16, 2023
+  - February 13, 2024
+  - February 16, 2024
+  - March 15, 2024
+  - March 18, 2024
+  - April 12, 2024
+  - April 23, 2024
+  - May 21, 2024
+  - May 28, 2024
+  - May 30, 2024
+events:
+  - Filing of complaint
+  - Propounding of discovery requests
+  - Failure to respond to discovery requests
+  - Filing of motions to compel
+  - Motion for sanctions
+money:
+  - $1,635 (Form Interrogatories)
+  - $1,810 (Special Interrogatories)
+  - $1,880 (Requests for Production of Documents)
+  - $1,845 (Fingerprinting)
+  - $1,985 (Request to Deem Requests for Admission as Admitted)
+intention:
+  - To compel Plaintiff to respond to discovery requests
+  - To obtain sanctions for failure to respond to discovery requests
+facts:
+  - Plaintiff failed to respond to discovery requests
+  - Plaintiff's counsel claimed that Plaintiff was grieving and unable to assist with discovery responses
+disputes:
+  - Plaintiff's failure to respond to discovery requests
+  - Defendant's request for sanctions
+acts:
+  - Propounding of discovery requests
+  - Failure to respond to discovery requests
+  - Filing of motions to compel
+  - Request for sanctions
+agreements:
+  - None
+laws:
+  - California Code of Civil Procedure (CCP)
+  - CCP § 2030.260
+  - CCP § 2030.290
+  - CCP § 2031.300
+  - CCP § 2033.290
+  - CCP § 2033.280
+roles:
+  - Plaintiff
+  - Defendant
+  - Counsel
+  - Judge
+significant_statements:
+  - Plaintiff failed to respond to discovery requests
+  - Defendant requested sanctions for failure to respond to discovery requests
+  - Plaintiff's counsel claimed that Plaintiff was grieving and unable to assist with discovery responses
+```
+
+And here is a summary of the judge's tentative ruling:
+
+The judge's tentative ruling is that the defendants' motions to compel further responses to discovery requests will be granted if the requested discovery responses have not been provided by the time of the hearing. If the responses have been provided, the motions will be mooted. The judge is inclined to grant the motions to compel and to continue the deemed admissions motion pending the provision of verified responses. The judge also continues the hearing on the issue of sanctions to allow counsel to negotiate a reasonable figure or for the court to decide once the verified responses are in hand.

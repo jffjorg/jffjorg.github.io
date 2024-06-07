@@ -1,0 +1,61 @@
+Here is the summary in YAML format:
+
+```
+Case Number: LAM15K08573
+Plaintiff's Name: American Contractors Indemnity Company (Judgment Creditor)
+Defendant's Name: Francis Edwin Azevedo (Judgment Debtor)
+People-Names:
+  - Francis Edwin Azevedo
+Companies:
+  - American Contractors Indemnity Company
+  - Ed's Custom Truck Bodies, Inc.
+Places:
+  - None
+Dates:
+  - July 10, 2021 (Complaint filed)
+  - September 29, 2015 (Default judgment entered)
+  - March 20, 2024 (Motion for Assignment Order filed)
+  - May 29, 2024 (Tentative Ruling)
+Events:
+  - Breach of contract
+  - Default judgment
+  - Bank levies
+  - Voluntary payments
+  - Post-judgment attorney's fees and costs
+Money:
+  - $12,112.49 (initial judgment amount)
+  - $10,961.18 (amount obtained through bank levies and voluntary payments)
+  - $10,447.30 (remaining interest)
+  - $5,927.80 (post-judgment attorney's fees and costs)
+Intentions:
+  - Judgment Creditor seeks assignment of payments made to Ed's Custom to Judgment Creditor
+  - Judgment Creditor seeks assignment of payments made out of Ed's Custom's account(s) to Judgment Debtor to Judgment Creditor
+  - Judgment Creditor seeks order turning over any payments made by Ed's Custom or out of Ed's Custom's account(s) to Judgment Debtor to Judgment Creditor
+Facts:
+  - Judgment Creditor filed a Complaint against Judgment Debtor for breach of contract
+  - Default judgment was entered in favor of Judgment Creditor in the amount of $12,112.49
+  - Judgment Creditor has attempted to enforce its judgment, but has only obtained $10,961.18 through bank levies and voluntary payments
+  - Remaining interest amounts to $10,447.30
+  - Judgment Creditor incurred post-judgment attorney's fees and costs of $5,927.80
+Disputes:
+  - Whether the withdrawals from Ed's Custom's bank account are for Judgment Debtor's personal use or for the company
+Acts:
+  - Judgment Creditor's Motion for Assignment Order
+  - Judgment Debtor's alleged use of Ed's Custom's account for personal gain
+Laws:
+  - Code of Civil Procedure, section 708.510
+  - Code of Civil Procedure, section 708.510, subdivision (a)
+  - Code of Civil Procedure, section 708.510, subdivision (c)
+Statutes:
+  - Code of Civil Procedure, section 708.510
+Roles:
+  - Judge: [Judge's name]
+Significant Statements:
+  - "The request to assign payments made to Ed's Custom to Judgment Creditor, or to assign payments made out of Ed's Custom's account(s) to Judgment Debtor to Judgment Creditor, therefore, is denied."
+  - "The request for a turnover order is also denied."
+  - "The requests to restrain the assignment of payments or for an accounting are premature."
+```
+
+And here is the English text to summarize the judge's tentative ruling:
+
+The judge denies the plaintiff, American Contractors Indemnity Company (Judgment Creditor),'s motion for an assignment order against Francis Edwin Azevedo (Judgment Debtor). The motion seeks to assign payments made to Ed's Custom Truck Bodies, Inc. to Judgment Creditor, or to assign payments made out of Ed's Custom's account(s) to Judgment Debtor to Judgment Creditor. The judge also denies the request for a turnover order, as the statute only allows for the assignment of "all or part of a right to payment due or to become due." The judge finds that there is no evidence to show which payments were made by Ed's Custom "to" Judgment Debtor in the sense that they were used by Judgment Debtor for himself, instead of for the company.

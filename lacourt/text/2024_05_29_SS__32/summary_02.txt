@@ -1,0 +1,52 @@
+Here is the summary in YAML format:
+
+```
+case_number: 22STCV10012
+plaintiff_name: Jose Estrada
+defendant_name: L.A. Family Housing Corporation and Raul Maldonado
+people_names:
+  - Jose Estrada
+  - Raul Maldonado
+company_names:
+  - L.A. Family Housing Corporation
+places:
+  - Spring Street Courthouse
+dates:
+  - November 16, 2023
+  - January 30, 2024
+  - December 9, 2024
+  - November 25, 2024
+events:
+  - Motion to compel responses
+  - Request for production of documents
+  - Special interrogatories
+  - Form interrogatories
+money:
+  - Monetary sanctions
+intentions:
+  - To compel responses to discovery requests
+facts:
+  - Defendants served requests for production of documents, special interrogatories, and form interrogatories on November 16, 2023
+  - No responses were served by January 30, 2024
+disputes:
+  - Failure to serve timely responses to discovery requests
+acts:
+  - Served requests for production of documents, special interrogatories, and form interrogatories
+  - Failed to serve timely responses to discovery requests
+agreements:
+  - None
+laws:
+  - California Code of Civil Procedure
+  - California Rules of Court
+roles:
+  - Plaintiff: Jose Estrada
+  - Defendant: L.A. Family Housing Corporation and Raul Maldonado
+significant_statements:
+  - Court grants motions to compel responses
+  - Plaintiff shall provide verified responses within 10 days
+  - No monetary sanctions are awarded
+```
+
+Here is a summary of the judge's tentative ruling in English text:
+
+The court has granted the defendants' motions to compel responses to their requests for production of documents, special interrogatories, and form interrogatories. The plaintiff, Jose Estrada, failed to serve timely responses to these requests, despite being served on November 16, 2023, with an extension until January 30, 2024. As a result, the court has ordered the plaintiff to provide verified responses without objection within 10 days. The court did not award monetary sanctions, as requested by the defendants.

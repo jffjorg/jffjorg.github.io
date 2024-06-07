@@ -1,0 +1,52 @@
+Here is the summary in YAML format:
+
+```
+case_number: 22STCV39573
+plaintiff_name: Ryan Caldwell
+defendant_name: None
+people_names:
+  - Khashayar Eshraghi (Counsel)
+  - Ryan Caldwell (Plaintiff)
+company_names: None
+places:
+  - California
+dates:
+  - May 29, 2024
+  - June 5, 2024
+  - June 20, 2024
+events:
+  - Motion to be Relieved as Counsel
+  - Final Status Conference
+  - Trial
+money: None
+intentions:
+  - Counsel wants to withdraw from the case
+facts:
+  - Breakdown in attorney-client relationship
+  - Counsel unable to confirm Plaintiff's address
+  - Proposed order lacks Plaintiff's full zip code and judicial officer information
+disputes:
+  - Counsel's motion to withdraw from the case
+acts:
+  - Counsel's failure to take reasonable steps to avoid prejudice to the rights of the Plaintiff
+  - Counsel's inability to confirm Plaintiff's address
+  - Counsel's failure to provide complete information in the proposed order
+agreements: None
+laws:
+  - California Rules of Court (CRC) 3.1362
+  - California Rule of Professional Conduct (CRPC) 3.700
+  - CRPC 1.16(d)
+  - Vann v. Shilleh (1975) 54 Cal.App.3d 192
+  - People v. Prince (1968) 268 Cal.App.2d 398
+  - Hodcarriers, Bldg. and Common Laborers Local Union No. 89 v. Miller (1966) 243 Cal.App.2d 391
+  - Pineda v. State Bar (1989) 49 Cal.3d 753
+roles:
+  - Counsel: Khashayar Eshraghi
+  - Plaintiff: Ryan Caldwell
+significant_statements:
+  - Counsel's motion to withdraw from the case is denied due to the proximity to the trial date and lack of reasonable steps taken to avoid prejudice to the rights of the Plaintiff.
+```
+
+And here is the English-text summary:
+
+The tentative ruling denies the motion to relieve counselor, Khashayar Eshraghi, from representing Plaintiff Ryan Caldwell. The motion was filed due to a breakdown in the attorney-client relationship. However, the court finds that relieving counsel would likely prejudice the Plaintiff's rights, particularly given the proximity to the trial date. Additionally, Counsel failed to take reasonable steps to avoid prejudice to the Plaintiff's rights and was unable to confirm the Plaintiff's address. The proposed order lacked Plaintiff's full zip code and judicial officer information. Therefore, the court denies the motion and requires Counsel to provide notice of the ruling and file proof of service.

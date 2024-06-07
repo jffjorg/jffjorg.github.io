@@ -1,0 +1,62 @@
+Here is the YAML file:
+
+```
+Case Number: 23STCV16651
+Plaintiff's Name: William Kim
+Defendant's Name: Sorough Yegan
+People-Names:
+  - William Kim
+  - Sorough Yegan
+Company-Names: []
+Places: []
+Dates:
+  - January 19, 2024
+  - April 15, 2024
+  - May 29, 2024
+Events:
+  - Motions to Compel Initial Responses and Request for Sanctions
+Money:
+  - $585.00
+  - $1000.00
+Intentions:
+  - To compel Plaintiff to serve verified and complete responses to the discovery requests
+  - To impose sanctions on Plaintiff for non-responsiveness
+Facts:
+  - Defendant served Demand for Production, Special Interrogatories, and Form Interrogatories on Plaintiff
+  - Plaintiff failed to serve discovery responses by the statutory deadline
+Disputes:
+  - Plaintiff's non-responsiveness
+  - Defendant's request for sanctions
+Acts:
+  - Defendant served discovery requests
+  - Plaintiff failed to respond
+  - Defendant filed motions to compel initial responses and request for sanctions
+  - Court granted motions
+Agreements: []
+Laws:
+  - Code Civ. Proc., § 2031.020
+  - Code Civ. Proc., § 2030.020
+  - Code Civ. Proc., § 2031.030
+  - Code Civ. Proc., § 2030.030
+  - Code Civ. Proc., § 2031.260
+  - Code Civ. Proc., § 2030.260
+  - Code Civ. Proc., § 2031.270
+  - Code Civ. Proc., § 2030.270
+  - Code Civ. Proc., § 2031.300
+  - Code Civ. Proc., § 2030.290
+  - Code Civ. Proc., § 2023.010
+  - Code Civ. Proc., § 2023.030
+Statutes:
+  - California Code of Civil Procedure
+Roles:
+  - Plaintiff: William Kim
+  - Defendant: Sorough Yegan
+  - Judge: Hon. Lee S. Arian
+Significant Statements:
+  - "Plaintiff is ORDERED to serve verified and complete responses to the discovery requests at issue without objections within 20 days of today."
+  - "Plaintiff and his counsel are ORDERED, jointly and severally, to pay sanctions of $1000 to Defendant within 20 days of today's date."
+```
+
+And here is the English-text summary:
+
+The Judge's tentative ruling grants the motions to compel initial responses and request for sanctions filed by Defendant Sorough Yegan against Plaintiff William Kim. Plaintiff failed to serve discovery responses by the statutory deadline, forcing Defendant to file the motions and incur attorney's fees. The Court orders Plaintiff to serve verified and complete responses to the discovery requests at issue without objections within 20 days. Additionally, the Court imposes sanctions on Plaintiff and his counsel to pay $1000 to Defendant within 20 days.

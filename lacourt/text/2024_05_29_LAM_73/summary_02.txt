@@ -1,0 +1,76 @@
+Here is the summary in YAML format:
+
+```
+case_number: 22STCV23460
+plaintiff_name: Eric Kaufman
+defendant_names:
+  - Lockton Investment Advisors, LLC
+  - Lockton Investment Securities, LLC
+  - Lockton Companies, LLC
+company_names:
+  - Lockton Companies, LLC
+  - Lockton Investment Advisors, LLC
+  - Lockton Investment Securities, LLC
+places:
+  - California
+  - Missouri
+dates:
+  - December 13, 2023
+  - December 18, 2023
+  - February 27, 2024
+  - March 1, 2024
+  - March 8, 2024
+  - April 18, 2024
+events:
+  - Motion for Reconsideration
+  - Motion to Conditionally Seal
+  - Motion to Seal
+  - Protective Order
+  - Deposition
+  - Trial
+  - Writ Proceedings
+money: None
+intentions:
+  - To declaratory relief
+  - To enforce forum selection clause
+  - To seal documents
+facts:
+  - Kaufman is a former producer member of Lockton Companies, LLC
+  - Kaufman withdrew from and terminated his membership in Lockton Companies, LLC
+  - Kaufman joined Alliant, a competitor of Lockton
+disputes:
+  - Forum non conveniens
+  - Enforceability of forum selection clause
+  - Confidentiality
+acts:
+  - Withdrawing from Lockton Companies, LLC
+  - Joining Alliant, a competitor of Lockton
+agreements:
+  - Member Agreements
+  - Confidentiality Agreement
+laws:
+  - California Rules of Court
+  - Code of Civil Procedure
+  - Evidence Code
+  - Federal Rules of Civil Procedure
+  - California Civil Code
+case_citations:
+  - Skinner Decl.
+  - Supp. Falconer Decl.
+  - Cal. Rules of Court
+  - CCP § 1008(a)
+  - Evid. Code § 452
+  - CCP § 2.550-2.551
+  - Cal. Rules of Court, rule 2.551
+  - Cal. Rules of Court, rule 2.550
+roles:
+  - Judge Rolf Treu
+  - Judge Timothy Dillon
+  - Judge in the Supreme Court of California
+significant_statements:
+  - "Full faith and credit must be given to a final order or judgment of a federal court."
+  - "Unless confidentiality is required by law, court records are presumed to be open."
+  - "A party that files or intends to file with the court, for the purposes of adjudication or to use at trial, records produced in discovery that are subject to a confidentiality agreement or protective order, and does not intend to request to have the records sealed..."
+```
+
+The document is a tentative ruling in a court case, discussing the motion for reconsideration of a previous ruling, the motion to conditionally seal documents, and the motion to seal. The judge grants the defendants' motion to conditionally seal excerpts of a deposition transcript and reply in support of their motion to continue trial date and related dates. The judge also grants the defendants' motion to seal certain documents.

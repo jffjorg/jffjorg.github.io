@@ -1,0 +1,55 @@
+Here is the summary of the legal document in YAML format:
+
+```
+case_number: 23NWCV01442
+plaintiff: Georgia Grissom
+defendant: FCA US LLC
+people:
+  - Georgia Grissom
+  - Hollins
+company-names:
+  - FCA US LLC
+places:
+  - California
+dates:
+  - June 21, 2023
+  - May 29, 2024
+events:
+  - Request for Admissions
+  - Monetary Sanctions
+money:
+  - $2060.00 (requested by Plaintiff)
+  - $620.00 (granted by the Court)
+intentions:
+  - Plaintiff seeks to have the truth of all matters specified in the requests for admission deemed admitted against Defendant.
+  - Plaintiff seeks monetary sanctions.
+facts:
+  - Plaintiff propounded the first set of requests for admission on Defendant on June 21, 2023.
+  - No responses have been provided.
+disputes:
+  - Failure to respond to requests for admission
+acts:
+  - Plaintiff moves for an order deeming requests for admissions admitted
+  - Plaintiff seeks monetary sanctions
+agreements:
+  - Code of Civil Procedure section 2033.280, subdivision (c)
+  - Code of Civil Procedure section 2023.010, et seq.
+laws:
+  - California Code of Civil Procedure
+  - California Code of Civil Procedure section 2033.280
+  - California Code of Civil Procedure section 2023.010
+case-citations:
+  - Code Civ. Proc., § 2033.280, subd. (c)
+  - Code Civ. Proc., § 2023.010, et seq.
+roles:
+  - Plaintiff (Georgia Grissom)
+  - Defendant (FCA US LLC)
+  - Judge (author of the tentative ruling)
+significant-statements:
+  - The Court grants the motion for an order deeming requests for admissions admitted.
+  - The Court grants monetary sanctions in the amount of $620.00.
+```
+
+And here is the English text summary of the judge's tentative ruling:
+
+The judge grants the plaintiff's motion for an order deeming the truth of all matters specified in the first set of requests for admission admitted against the defendant. The plaintiff also seeks monetary sanctions, which the court grants in the amount of $620.00. The plaintiff propounded the requests for admission on June 21, 2023, but no responses were provided. The court finds that the defendant's failure to respond necessitated this motion and grants the motion for monetary sanctions.

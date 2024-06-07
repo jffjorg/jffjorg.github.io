@@ -1,0 +1,61 @@
+Here is the YAML summary of the legal document:
+
+```
+case_number: [redacted]
+plaintiff_name: [redacted]
+defendant_name: [redacted]
+people_names:
+  - Plaintiff
+  - Defendant
+  - Villagrana
+  - Adams
+company_names:
+  - VVS
+places:
+  - California
+dates:
+  - May 2, 2024
+  - May 30, 2024
+  - May 24, 2024
+events:
+  - Motion filed
+  - Hearing set
+  - Proof of service not filed
+  - Settlement agreement
+money: $0
+intentions:
+  - Determine whether service was made
+  - Continue the hearing if not satisfied
+facts:
+  - Motion not accompanied by proof of service
+  - Plaintiff's counsel responsible for preparing joint stipulation
+  - Villagrana's individual claims settled
+disputes:
+  - Lack of proof of service
+  - Failure to serve defendant
+acts:
+  - Plaintiff's counsel failed to file proof of service
+  - Defendant not served
+agreements:
+  - "Private Attorneys General Act Settlement Agreement"
+  - Individual settlement agreement
+laws:
+  - California Rules of Court rule 3.1300, subdivision (c)
+  - Article III, Paragraph 8 of the parties' agreement
+case_citations: [redacted]
+statutes:
+  - California Rules of Court rule 3.1300, subdivision (c)
+  - Article III, Paragraph 8 of the parties' agreement
+roles:
+  - Plaintiff's counsel
+  - Defendant's counsel
+  - Villagrana
+  - Adams
+significant_statements:
+  - The court will inquire of Plaintiff on the day of the hearing whether service was made.
+  - To the extent the court is not satisfied that service has been made, it will continue the hearing.
+```
+
+And here is the English text to summarize the judge's tentative ruling:
+
+"On May 2, 2024, a motion was filed and set for hearing on May 30, 2024. However, the motion was not accompanied by a proof of service, which must be filed at least 5 court days before the hearing. The court will inquire of the Plaintiff on the day of the hearing whether service was made. If the court is not satisfied that service has been made, it will continue the hearing. Additionally, the court notes that VVS has agreed to settle Villagrana's individual claims alleged in arbitration, which is set forth in a separate individual settlement agreement."

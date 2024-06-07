@@ -1,0 +1,27 @@
+Here is a summary of the tentative ruling in YAML format:
+
+```
+case_number: 21STCV43407
+hearing_date: 2024-05-30
+department: 20
+judge: Kevin C. Brazile
+
+parties:
+  - Simmons Unlimited, LLC (SU)
+  - Dejanee Riley Izydorczyk (Riley)
+  - Gabriella McNeill (McNeill)
+  - Deja Riley Athletics, LLC (DRA)
+
+issues:
+  - Motion for Summary Judgment (MSJ)
+  - Motion for Summary Adjudication (MSA)
+  - Motion for Summary Judgment or in the Alternative Summary Adjudication (MSJ/MSA)
+
+rulings:
+  - MSJ: DENIED
+  - MSA: DENIED IN PART AND GRANTED IN PART
+  - MSJ/MSA: DENIED
+
+facts:
+  - SU and Riley formed a contract in August 2020
+  - SU performed all obligations under the contract
