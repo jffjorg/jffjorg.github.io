@@ -1,0 +1,52 @@
+Here is the summary in YAML format:
+```
+case_number: "Unknown"
+plaintiff: "Freedman + Taitelman, LLP"
+defendant: "S.P. Das Enterprises, LLC d.b.a. Das Films, LLC ("Das Films") and Sriram Das"
+people_names:
+  - Sriram Das
+company_names:
+  - S.P. Das Enterprises, LLC
+  - Das Films, LLC
+places:
+  - Unknown
+dates:
+  - January 1, 2016
+  - Present
+events:
+  - Discovery
+  - Litigation
+  - Negotiations
+money:
+  - $286,969.62
+  - Attorneys' fees
+intentions:
+  - Compel further responses from Defendants
+  - Establish whether a unity of interest exists between Defendants
+facts:
+  - Das Films has substantial liabilities and little income
+  - Das Films and Sriram Das are alleged to be alter egos
+disputes:
+  - Overbreadth of requests for production
+  - Privacy rights
+acts:
+  - Request for production, set one, nos. 1-11, 13-40
+agreements:
+  - Unknown
+laws:
+  - Unknown
+case_citations:
+  - Unknown
+statutes:
+  - Unknown
+roles:
+  - Plaintiff: Freedman + Taitelman, LLP
+  - Defendant: S.P. Das Enterprises, LLC d.b.a. Das Films, LLC and Sriram Das
+significant_statements:
+  - "The Motion is granted as to request nos. 1-11, 14-34, and 36-40..."
+  - "The Motion is denied as to request no. 13, which seeks all of Defendants' quickbooks..."
+  - "The Court declines to award sanctions."
+```
+And here is the English-text summary of the judge's tentative ruling:
+
+The judge's tentative ruling grants the plaintiff's motion to compel further responses from the defendants in relation to their requests for production, set one, nos. 1-11, 14-34, and 36-40. Specifically, the court grants the motion as to requests for information about corporate organization, transactions, capital contributions, liabilities, income, financial statements, and subsidiaries, which are directly relevant to establishing whether a unity of interest exists between the defendants. However, the court narrows requests nos. 14-34 and 36-40 to January 1, 2016, until the present. The court denies the motion as to requests nos. 13 and 35, which seek all of the defendants' QuickBooks data and asset information for subsidiaries, respectively, deeming these requests overbroad. The court also denies the plaintiff's request for sanctions. The defendants are ordered to provide further responses and production within 30 days.

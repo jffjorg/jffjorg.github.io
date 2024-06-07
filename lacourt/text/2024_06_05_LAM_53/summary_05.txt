@@ -1,0 +1,53 @@
+Here is the summary in YAML format:
+
+```
+case_number: "Unknown"
+plaintiff_name: "Unknown"
+defendant_name: "Unknown"
+people_names:
+  - Nemececk
+company_names:
+  - Unknown
+places:
+  - Unknown
+dates:
+  - Unknown
+events:
+  - Motion for reconsideration
+  - Hearing
+  - Motions in limine
+money: Unknown
+intentions:
+  - Reconsideration
+facts:
+  - Plaintiff did not raise offset defense in opposition to motions in limine
+  - Plaintiff raised offset defense at hearing
+  - Defendants did not address issue in briefs
+disputes:
+  - Use of offset defense
+  - Admission of evidence
+acts:
+  - Filing of motions in limine
+  - Filing of opposition to motions in limine
+  - Presentation of arguments at hearing
+agreements: Unknown
+laws:
+  - Code Civ. Proc., § 1008
+  - Code Civ. Proc., § 1008, subd. (a)
+  - Flynn, supra, 4 Cal.App.5th at pp. 100-101
+statutes:
+  - Code Civ. Proc., § 1008
+  - Code Civ. Proc., § 1008, subd. (a)
+roles:
+  - Plaintiff
+  - Defendant
+  - Judge
+significant_statements:
+  - Plaintiff did not raise offset defense in opposition to motions in limine
+  - Plaintiff raised offset defense at hearing
+  - Defendants did not address issue in briefs
+```
+
+And here is the English-text summary:
+
+The court has issued a tentative ruling regarding a motion for reconsideration. The defendants have argued that the plaintiff did not properly raise the affirmative defense of offset in their opposition to the motions in limine, and instead raised it at the hearing. The court finds that the defendants did not have the opportunity to address this issue in their briefs. As a result, the court grants the motion for reconsideration and will reconsider its order denying the defendants' motions in limine.

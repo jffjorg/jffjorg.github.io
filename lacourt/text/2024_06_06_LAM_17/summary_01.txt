@@ -1,0 +1,87 @@
+Here is the summary in YAML format:
+
+```
+case_number: "21STCV15281"
+hearing_date: "June 6, 2024"
+dept: "17 Superior Court of California"
+county: "Los Angeles"
+
+plaintiffs:
+  - name: "STEPHEN CLEGG"
+  - name: "MICHAEL EMMENS"
+  role: "individually, and on behalf of other aggrieved employees"
+
+defendants:
+  - name: "BOB'S DISCOUNT FURNITURE, LLC"
+
+people:
+  - name: "STEPHEN CLEGG"
+  - name: "MICHAEL EMMENS"
+  - name: "JON R. TAKASUGI"
+
+dates:
+  - "March 28, 2024"
+  - "June 6, 2024"
+
+events:
+  - "Plaintiffs' motion for approval of representative action settlement"
+  - "Mediations"
+
+money:
+  - amount: "900,000"
+    type: "Gross Settlement Amount"
+  - amount: "562,222.68"
+    type: "Settlement Amount"
+  - amount: "421,667.01"
+    type: "Amount going to LWDA"
+  - amount: "140,555.67"
+    type: "Amount going to aggrieved employees"
+  - amount: "300,000"
+    type: "Litigation reimbursement fees and costs"
+  - amount: "19,077.32"
+    type: "Litigation reimbursement fees and costs"
+
+intentions:
+  - "To determine whether a settlement is fair, adequate, and reasonable"
+  - "To approve the representative action settlement"
+
+facts:
+  - "Plaintiffs' case alleges violation of California Labor Code Sections 2800,2802, and 2804"
+  - "Plaintiffs' case alleges violation of Business and Professions Code section 17220"
+  - "Settlement Amount reflects the competing risks associated with litigating these claims"
+
+disputes:
+  - "Reasonableness of the settlement"
+
+acts:
+  - "Parties participated in two different mediations"
+  - "Plaintiffs' motion thoroughly sets through an analysis of the competing risks"
+
+agreements:
+  - "Settlement Agreement"
+
+laws:
+  - "California Labor Code Sections 2800,2802, and 2804"
+  - "Business and Professions Code section 17220"
+  - "Labor Code section 2699(i)"
+
+case_citations:
+  - "Kullar v. Foot Locker Retail, Inc."
+  - "Laffitte v. Robert Half Intern. Inc."
+
+statutes:
+  - "Labor Code section 2699(i)"
+
+roles:
+  - "Plaintiffs"
+  - "Defendants"
+  - "Judge"
+
+significant_statements:
+  - "The Court must independently and objectively analyze the evidence and circumstances before it"
+  - "The Court must consider the strength of plaintiffs' case, the risk, expense, complexity, and likely duration of further litigation"
+```
+
+And here is the English text to summarize the Judge's tentative ruling:
+
+"The court has granted the plaintiffs' motion for approval of the representative action settlement. The settlement amount is $900,000, with $562,222.68 going to the Labor and Workforce Development Agency and $140,555.67 going to the aggrieved employees. The court found that the settlement is fair, adequate, and reasonable based on the competing risks associated with litigating the claims. The court considered the strength of the plaintiffs' case, the risk, expense, complexity, and likely duration of further litigation, and the amount offered in settlement. The parties participated in two mediations and the settlement reflects the competing risks. The court also found the litigation reimbursement fees and costs to be reasonable. The court grants the plaintiffs' motion for approval of the representative action settlement."

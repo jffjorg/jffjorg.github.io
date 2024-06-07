@@ -1,0 +1,36 @@
+Here is a summary of the tentative ruling in YAML format:
+
+```
+case_number: 22STCV32743
+hearing_date: 2024-06-05
+department: 53
+judge: Robert B. Broadbelt III
+
+parties:
+  - plaintiff: Gladys Hampton
+  - defendant: Department of Motor Vehicles
+
+causes_of_action:
+  - disability_discrimination
+  - failure_to_accommodate
+  - failure_to_engage_in_interactive_process
+  - gender_discrimination
+  - age_discrimination
+  - harassment
+  - retaliation
+  - negligence
+  - intentional_infliction_of_emotional_distress
+
+rulings:
+  - sustained: demurrer to 1st cause of action (disability discrimination) without leave to amend
+  - overruled: demurrer to 2nd, 3rd, and 6th causes of action
+  - granted: motion to strike 9th and 10th causes of action without leave to amend
+
+orders:
+  - Defendant Department of Motor Vehicles to file an answer to plaintiff's Second Amended Complaint within 10 days
+  - Defendant Department of Motor Vehicles to give notice of this ruling
+```
+
+English-text summary:
+
+The tentative ruling grants the defendant's motion to strike the 9th and 10th causes of action (negligence and intentional infliction of emotional distress) without leave to amend. The ruling also sustains the defendant's demurrer to the 1st cause of action (disability discrimination), 4th cause of action (gender discrimination), and 5th cause of action (age discrimination) without leave to amend. The ruling overrules the defendant's demurrer to the 2nd, 3rd, and 6th causes of action. The court orders the defendant to file an answer to the plaintiff's Second Amended Complaint within 10 days and to give notice of this ruling.

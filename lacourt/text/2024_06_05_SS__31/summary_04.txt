@@ -1,0 +1,64 @@
+Here is the summary in YAML format:
+
+```
+case_number: 21STCV12566
+plaintiff_name: Meilyn Zelaya et al.
+defendant_name: Jose R. Herrera et al.
+people_names:
+  - Santiago Raphael Teodocio
+  - Meilyn Zelaya
+  - Jose R. Herrera
+  - Elia Herrera
+company_names: []
+places:
+  - California
+  - United States
+dates:
+  - April 10, 2024
+  - June 5, 2024
+events:
+  - Dog bite
+  - Property rental
+  - Default judgment request
+  - Failure to submit proposed judgment
+  - Failure to dismiss other parties
+  - Failure to file declaration of damages
+money:
+  - Damages sought
+  - Medical bills
+  - Monetary sanctions
+intentions:
+  - Seek default judgment against Jose R. Herrera and Elia Herrera
+facts:
+  - Plaintiff alleges Jose R. Herrera and Elia Herrera rented property to Doe 1 and Doe 2
+  - Plaintiff alleges the Herreras and/or their renters owned a pit bull named "Bella"
+  - Plaintiff alleges Bella had vicious and dangerous propensities to attack people
+disputes:
+  - Plaintiff's request for default judgment
+  - Failure to comply with Court rules and procedures
+acts:
+  - Plaintiff's counsel submitted declarations without personal knowledge
+  - Plaintiff's counsel failed to authenticate medical records and bills
+agreements:
+  - Civil Code § 3342
+  - Negligence
+laws:
+  - California Rules of Court (CRC) 3.1800
+  - California Civil Code
+statutes:
+  - Civil Code § 3342
+roles:
+  - Judge
+  - Plaintiff
+  - Defendant
+  - Guardian ad litem
+  - Counsel
+significant_statements:
+  - "Plaintiff has not submitted a proposed judgment on judicial council form JUD-100 [Rev. January 1, 2024]."
+  - "Plaintiff has not dismissed all other parties against whom default judgment is not sought."
+  - "Plaintiff has not filed a declaration under penalty of perjury supporting the amount of damages sought."
+```
+
+And here is a summary of the judge's tentative ruling in English text:
+
+The court has reviewed the plaintiff's request for default judgment against defendants Jose R. Herrera and Elia Herrera. The court finds that the plaintiff has failed to comply with several court rules and procedures. Specifically, the plaintiff has not submitted a proposed judgment on judicial council form JUD-100, has not dismissed all other parties against whom default judgment is not sought, and has not filed a declaration under penalty of perjury supporting the amount of damages sought. The court therefore denies the plaintiff's request for default judgment. The plaintiff is ordered to correct these defects and submit a new default judgment package. Failure to do so may result in the imposition of sanctions, including monetary sanctions and/or dismissal. The OSC re entry of default judgment is continued to a later date.

@@ -1,0 +1,53 @@
+Here is the summary in YAML format:
+
+```
+case_number: 21STCV44236
+plaintiff: JOSEPH PARRAGA
+defendant: RAMON OCHART, ET AL.
+people:
+  - JOSEPH PARRAGA
+  - RAMON OCHART
+  - K. KEVIN LEVIAN
+company:
+  - LEVIAN LAW
+places:
+  - LOS ANGELES
+  - CALIFORNIA
+dates:
+  - June 4, 2024
+  - June 3, 2024
+events:
+  - MOTION TO BE RELIEVED AS COUNSEL
+money: none
+intentions:
+  - TO BE RELIEVED AS COUNSEL
+facts:
+  - CERTIFIED MAIL WAS SENT TO DEFENDANT AT HIS LAST KNOWN ADDRESS
+  - CERTIFIED MAIL DOES NOT ESTABLISH PROOF OF DEFENDANT'S ADDRESS WITHOUT A SIGNED RETURN RECEIPT
+  - MOTION TO BE RELIEVED AS COUNSEL FAILS TO COMPLY WITH REQUIREMENTS OF CALIFORNIA RULES OF COURT
+disputes:
+  - ATTORNEY-CLIENT COMMUNICATION ISSUES
+  - FAILURE TO PROVE SERVICE ON DEFENDANT
+acts:
+  - SERVICE OF MOTION TO BE RELIEVED AS COUNSEL
+  - FAILURE TO SERVE DEFENDANT
+agreements: none
+laws:
+  - CALIFORNIA RULES OF COURT
+  - CALIFORNIA CODE OF CIVIL PROCEDURE
+  - CALIFORNIA RULES OF COURT, RULE 3.1362
+  - CALIFORNIA RULES OF COURT, RULE 3.1362(d)
+  - CALIFORNIA RULES OF COURT, RULE 3.1362(d)(2)
+roles:
+  - JUDGE: Hon. Michelle C. Kim
+  - ATTORNEY: K. Kevin Levian, Esq.
+  - PLAINTIFF: JOSEPH PARRAGA
+  - DEFENDANT: RAMON OCHART
+significant statements:
+  - THE MOTION IS DENIED WITHOUT PREJUDICE
+  - THE COURT IS NOT AVAILABLE TO HEAR ORAL ARGUMENT ON THIS DATE
+```
+
+And here is a summary of the judge's tentative ruling in English text:
+
+This tentative ruling denies without prejudice a motion by the defendant's attorney, K. Kevin Levian, to be relieved as counsel due to attorney-client communication issues. The motion is denied because the attorney failed to provide proof of service on the defendant and because the certified mail sent to the defendant's last known address did not establish proof of the defendant's address without a signed return receipt. The attorney is ordered to provide a signed return receipt if the motion is refiled. The court will not hear oral argument on this date and encourages the parties to meet and confer to reach an agreement. If a party intends to submit on the tentative ruling, they must send an email to the court with the subject line "SUBMIT" followed by the case number.

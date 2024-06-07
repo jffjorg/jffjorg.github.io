@@ -1,0 +1,39 @@
+Here is a summary of the tentative ruling in YAML format:
+
+```
+case_number: 21STCV06266
+hearing_date: 2024-06-05
+department: 50
+
+plaintiff:
+  name: Jesua Ochoa
+
+defendants:
+  name: General Motors LLC
+
+people:
+  - Jesua Ochoa
+  - David N. Barry
+  - Stephanie Papayanis
+  - Carrie A. Shumake
+  - Anna H. Galaviz
+  - Elizabeth Eabisa
+  - Erik Whitman
+  - Brian Kim
+  - Andrew P. Matera
+
+companies:
+  - General Motors LLC
+  - The Barry Law Firm
+
+places:
+  - Los Angeles
+  - California
+
+dates:
+  - 2021-02-16
+  - 2021-08-02
+  - 2022-02-28
+  - 2021-01-20
+  - 2021-09-18
+  -

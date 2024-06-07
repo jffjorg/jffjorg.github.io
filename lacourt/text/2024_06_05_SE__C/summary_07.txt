@@ -1,0 +1,56 @@
+Here is the summary in YAML format:
+
+```
+case_number: 23NWCV01042
+plaintiff: Anthony Rangel Orozco
+defendant: Southland Transit, Inc.
+people_names:
+  - Anthony Rangel Orozco
+  - Judge (unnamed)
+company_names:
+  - Southland Transit, Inc.
+places:
+  - California (implied)
+dates:
+  - May 8, 2024
+  - June 4, 2024
+  - June 5, 2024
+events:
+  - Hearing on May 8, 2024
+  - Meeting and conferencing between parties
+  - Filing of joint statement (failed to happen)
+  - Cancellation of hearing
+money:
+  - none mentioned
+intentions:
+  - Plaintiff's intention to compel further responses to Requests for Admissions
+disputes:
+  - Dispute over discovery responses
+facts:
+  - Court ordered parties to meet and confer
+  - Parties failed to file joint statement
+  - Hearing was cancelled
+acts:
+  - Court ordered parties to meet and confer
+  - Parties failed to comply
+  - Hearing was cancelled
+agreements:
+  - Parties failed to agree on discovery responses
+laws:
+  - California Rules of Court (implied)
+  - Federal Rules of Civil Procedure (implied)
+case_citations:
+  - none mentioned
+statutes:
+  - California Code of Civil Procedure (implied)
+roles:
+  - Judge: Judge (unnamed)
+  - Plaintiff: Anthony Rangel Orozco
+  - Defendant: Southland Transit, Inc.
+significant_statements:
+  - Motion to compel further responses is DENIED with prejudice
+```
+
+And here is the English-text summary:
+
+The Court has made a tentative ruling in the case of Anthony Rangel Orozco v. Southland Transit, Inc. The Plaintiff's motion to compel further responses to Requests for Admissions, Set One is DENIED with prejudice. The Court had previously ordered the parties to meet and confer on outstanding discovery issues, but neither party filed a joint statement as required. As a result, the hearing scheduled for June 5, 2024, was cancelled. The Plaintiff's motion is DENIED with prejudice.

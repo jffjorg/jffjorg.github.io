@@ -1,0 +1,76 @@
+Here is the summary in YAML format:
+
+```
+case_number: 23STCV27886
+plaintiff_name: 1200 Management LLC
+defendant_name: Liron Shvartz
+people_names:
+  - Liron Shvartz
+  - Theresa M. Traber
+company_names:
+  - 1200 Management LLC
+places:
+  - California
+dates:
+  - 2023-11-14 (filing date)
+  - 2024-05-31 (date of last response)
+  - 2024-06-05 (hearing date)
+  - 2024-06-05 (date of tentative ruling)
+events:
+  - Unlawful detainer action
+  - Demurrer to Complaint
+  - Motion to Strike Complaint
+  - Motion for Judicial Notice
+money: None
+intentions:
+  - To determine the validity of the complaint
+facts:
+  - The complaint alleges non-payment of rent
+  - The 3-Day Notice to Pay Rent or Quit was served exclusively by posting
+  - No proof of service was attached to the complaint
+  - The complaint does not allege service by mail
+disputes:
+  - Validity of the complaint
+  - Proper service of the 3-Day Notice
+  - Owner of the premises
+  - Uncertainty in the pleadings
+acts:
+  - Demurrer to the Complaint
+  - Motion to Strike the Complaint
+  - Request for Judicial Notice
+  - Dismissal of the complaint
+agreements:
+  - California Code of Civil Procedure section 1162
+  - California Civil Code section 3294
+  - California Rules of Court, Rule 3.1350
+laws:
+  - California Code of Civil Procedure
+  - California Civil Code
+  - California Rules of Court
+case_citations:
+  - Downing v. Cutting Packing Co. (1920) 183 Cal. 91
+  - Horton-Howard v. Payton (1919) 44 Cal.App. 108
+  - Bevill v. Zoura (1994) 27 Cal.App.4th 694
+  - Kwok v. Bergren (1982) 130 Cal. App. 3d 596
+  - Lawrence Barker, Inc. v. Briggs (1952) 39 Cal.2d 654
+  - Gbur v. Cohen (1979) 93 Cal.App.3d 296
+  - Blank v. Kirwan (1985) 39 Cal.3d 311
+  - Reed v. Norman (1957) 152 Cal.App.2d 892
+  - Goodman v. Kennedy (1976) 18 Cal.3d 335
+  - Angie M. v. Superior Court (1995) 37 Cal.App.4th 1217
+  - Cantu v. Resolution Trust Corporation (1992) 4 Cal.App.4th 857
+statutes:
+  - California Code of Civil Procedure section 1162
+roles:
+  - Judge: Theresa M. Traber
+  - Plaintiff: 1200 Management LLC
+  - Defendant: Liron Shvartz
+significant_statements:
+  - The complaint contains a fatal defect in service of the underlying 3-Day Notice.
+  - The court sustains the demurrer to the complaint without leave to amend.
+  - The court dismisses the complaint with prejudice.
+```
+
+And here is the English-text summary:
+
+The tentative ruling is a summary of the court's thinking on the case, written by Judge Theresa M. Traber. The case is a civil action for unlawful detainer, involving a dispute over non-payment of rent. The plaintiff, 1200 Management LLC, alleges that the defendant, Liron Shvartz, failed to pay rent and has filed a complaint seeking to eject him from the premises. The defendant has filed a demurrer to the complaint, arguing that the complaint is defective and that the notice of the 3-Day Notice to Pay Rent or Quit was not properly served. The court finds that the notice was not properly served, as it was only posted and not served by mail, as required by California Code of Civil Procedure section 1162. Therefore, the court sustains the demurrer to the complaint without leave to amend and dismisses the complaint with prejudice.

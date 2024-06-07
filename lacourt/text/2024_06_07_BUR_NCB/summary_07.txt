@@ -1,0 +1,118 @@
+Here is the summary in YAML format:
+
+```yaml
+case_number: 24BBCV00304
+hearing_date: June 7, 2024
+dept: NCB
+judge: John Kralik
+plaintiff: Rene De La Nuez
+defendants:
+  - Burbank Healthcare, Inc. dba Burbank Healthcare and Rehabilitation Center
+  - Burbank Healthcare LLC dba Burbank Healthcare and Rehabilitation Center
+  - Longwood Management LLC
+  - Longwood Management Corp.
+  - Ayuna K. Panossian, M.D. (a professional corporation)
+  - Dr. Joseph A. Addiego, D.P.M. (an individual)
+  - Dr. Joseph A. Addiego, D.P.M. (a professional corporation)
+  - California Wound Healing Medical Group, Inc.
+people:
+  - Rene De La Nuez
+  - Ayuna K. Panossian, M.D.
+  - Dr. Joseph A. Addiego, D.P.M.
+companies:
+  - Burbank Healthcare, Inc.
+  - Burbank Healthcare LLC
+  - Longwood Management LLC
+  - Longwood Management Corp.
+  - California Wound Healing Medical Group, Inc.
+places:
+  - Burbank
+  - Los Angeles
+  - North Central District
+  - Superior Court of California
+dates:
+  - September 28, 2022
+  - September 29, 2022
+  - December 7, 2022
+  - April 7, 2023
+  - May 12, 2023
+  - June to August 2023
+  - September 1, 2023
+  - September 8, 2023
+  - October 1, 2023
+  - February 6, 2024
+  - April 23, 2024
+  - May 24, 2024
+  - May 31, 2024
+  - June 7, 2024
+events:
+  - Plaintiff's admission to the Facility
+  - Plaintiff's treatment at the Facility
+  - Plaintiff's development of left lateral foot and ankle wounds
+  - Plaintiff's transfer to Providence
+  - Plaintiff's amputation
+  - Plaintiff's transfer to a different skilled nursing facility
+  - Demurrer filed by Addiego Defendants
+  - Opposition to demurrer filed by Plaintiff
+  - Reply to opposition filed by Addiego Defendants
+money:
+  - None
+intention:
+  - To determine the sufficiency of the Plaintiff's allegations against the Addiego Defendants
+facts:
+  - Plaintiff alleged that the Addiego Defendants were responsible for his custodial and medical care
+  - Plaintiff alleged that the Addiego Defendants failed to provide proper wound care and treatment
+  - Plaintiff alleged that the Addiego Defendants were aware of his dependent status and failed to provide necessary care
+disputes:
+  - Dispute over whether the Addiego Defendants had a caretaking or custodial relationship with the Plaintiff
+  - Dispute over whether the Addiego Defendants' failure to provide proper wound care and treatment constitutes elder abuse
+acts:
+  - Plaintiff's admission to the Facility
+  - Plaintiff's treatment at the Facility
+  - Plaintiff's development of left lateral foot and ankle wounds
+  - Plaintiff's transfer to Providence
+  - Plaintiff's amputation
+  - Plaintiff's transfer to a different skilled nursing facility
+  - Demurrer filed by Addiego Defendants
+  - Opposition to demurrer filed by Plaintiff
+  - Reply to opposition filed by Addiego Defendants
+agreements:
+  - None
+laws:
+  - Welfare & Institutions Code, § 15600 et al.
+  - Welfare & Institutions Code, § 15610.57(b)(2)
+  - Welfare & Institutions Code, § 15657
+  - Health & Safety Code, § 1430(b)
+  - Carter v. Prime Healthcare Paradise Valley LLC (2011) 198 Cal.App.4th 396
+  - Delaney v. Baker (1999) 20 Cal.4th 23
+  - Winn v. Pioneer Medical Group, Inc. (2016) 63 Cal.4th 148
+  - Covenant Care, Covenant Care, Inc. v. Superior Court (2004) 32 Cal.4th 771
+  - Carter v. Prime Healthcare Paradise Valley LLC (2011) 198 Cal.App.4th 396
+  - Smith v. Ben Bennett, Inc. (2005) 133 Cal.App.4th 1507
+  - Benun v. Superior Court (2004) 123 Cal.App.4th 113
+citations:
+  - Welfare & Institutions Code, § 15600 et al.
+  - Welfare & Institutions Code, § 15610.57(b)(2)
+  - Welfare & Institutions Code, § 15657
+  - Health & Safety Code, § 1430(b)
+  - Carter v. Prime Healthcare Paradise Valley LLC (2011) 198 Cal.App.4th 396
+  - Delaney v. Baker (1999) 20 Cal.4th 23
+  - Winn v. Pioneer Medical Group, Inc. (2016) 63 Cal.4th 148
+  - Covenant Care, Covenant Care, Inc. v. Superior Court (2004) 32 Cal.4th 771
+  - Carter v. Prime Healthcare Paradise Valley LLC (2011) 198 Cal.App.4th 396
+  - Smith v. Ben Bennett, Inc. (2005) 133 Cal.App.4th 1507
+  - Benun v. Superior Court (2004) 123 Cal.App.4th 113
+roles:
+  - Plaintiff: Rene De La Nuez
+  - Defendant: Burbank Healthcare, Inc. dba Burbank Healthcare and Rehabilitation Center
+  - Defendant: Burbank Healthcare LLC dba Burbank Healthcare and Rehabilitation Center
+  - Defendant: Longwood Management LLC
+  - Defendant: Longwood Management Corp.
+  - Defendant: Ayuna K. Panossian, M.D.
+  - Defendant: Dr. Joseph A. Addiego, D.P.M.
+  - Defendant: California Wound Healing Medical Group, Inc.
+  - Judge: John Kralik
+significant statements:
+  - "There are several factors that must be pled with particularity, including: (1) defendants had responsibility for meeting the basic needs of the elder or dependent adult, such as nutrition, hydration, hygiene or medical care; (2) defendants knew of conditions that made the elder or dependent adult unable to provide for his or her own basic needs; (3) defendants denied or withheld goods or services necessary to meet the elder or dependent adult's basic needs, either with knowledge that injury was substantially certain to befall the elder or dependent adult (if the plaintiff alleges oppression, fraud or malice) or with conscious disregard of the high probability of such injury (if the plaintiff alleges recklessness); and (4) the neglect caused the elder or dependent adult to suffer physical harm, pain or mental suffering."
+  - "The Court concludes that the complaint does not rise to the level of showing that Addiego Defendants had a caretaking or custodial relationship with Plaintiff. While Addiego Defendants may have been Plaintiff’s podiatrist/doctor and provided wound care to Plaintiff, Plaintiff has not alleged specific facts against Addiego Defendants showing that they undertook caretaking or custodial duties with ongoing responsibilities of Plaintiff’s basic needs that an able-bodied and fully competent adult would be capable of managing without assistance."
+```

@@ -1,0 +1,50 @@
+Here is the summary in YAML format:
+
+```
+case_number: 23VECV05203
+plaintiff: Ana Real Estate LLC
+defendant: Ekaterina Dmitriyeva, et al.
+people: 
+  - Ekaterina Dmitriyeva
+company_names: 
+  - Ana Real Estate LLC
+places: 
+  - Los Angeles
+  - California
+dates: 
+  - June 6, 2024
+events: 
+  - Default judgment application
+money: 
+  - $1,000 (attorney's fees)
+  - $1,678.99 (calculated attorney's fees)
+intentions: 
+  - Plaintiff seeks default judgment against multiple defendants
+facts: 
+  - Plaintiff does not attach a copy of the underlying rental agreement
+  - Plaintiff does not explain or show calculations for attorney's fees
+disputes: 
+  - Liability of defendants
+  - Amount of attorney's fees
+acts: 
+  - Plaintiff's default judgment application
+  - Defendant's liability
+agreements: 
+  - Plaintiff seeks judgment against multiple defendants
+laws: 
+  - California law
+citations: 
+  - Local Rule 3.2
+statutes: 
+  - None mentioned
+roles: 
+  - Plaintiff: Ana Real Estate LLC
+  - Defendant: Ekaterina Dmitriyeva, et al.
+  - Judge: Hon. Eric Harmon
+significant_statements: 
+  - Plaintiff's default judgment application is DENIED WITHOUT PREJUDICE
+```
+
+And here is the English text to summarize the judge's tentative ruling:
+
+The judge has issued a tentative ruling in the case of Ana Real Estate LLC vs. Ekaterina Dmitriyeva, et al. The plaintiff's default judgment application is denied without prejudice. The plaintiff has failed to provide a copy of the underlying rental agreement, which is necessary to establish liability of the defendants. Additionally, the plaintiff has not provided calculations for attorney's fees, which are sought in the amount of $1,000. However, had the plaintiff followed the local rule, the calculated attorney's fees would have been $1,678.99. The judge has denied the plaintiff's application without prejudice, allowing the plaintiff to re-file with the necessary documentation.

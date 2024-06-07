@@ -1,0 +1,63 @@
+Here is the summary in YAML format:
+
+```
+case_number: "23STCV30991"
+hearing_date: "June 5, 2024"
+department: "55"
+nature_of_proceedings: "Motion of Plaintiff for Entry of Stipulated Consent Judgment"
+plaintiff: "TAMAR KALOUSTIAN"
+defendant: "ANCIENT BRANDS, LLC"
+people:
+  - TAMAR KALOUSTIAN
+  - ANCIENT BRANDS, LLC
+companies:
+  - ANCIENT BRANDS, LLC
+places: []
+dates:
+  - "June 5, 2024"
+events:
+  - Plaintiff's motion for entry of stipulated consent judgment
+money:
+  - $5,000.00 (penalty)
+  - $40,000.00 (attorneys' fees)
+intentions:
+  - Serve the public interest
+  - Limit exposures to lead
+  - Provide clear and reasonable warnings
+facts:
+  - Defendant sold and distributed Organic Super Greens with excess lead
+  - Plaintiff alleges violation of Proposition 65
+  - Defendant allegedly did not provide adequate warning to consumers
+disputes:
+  - Plaintiff's motion for entry of stipulated consent judgment
+  - Defendant's alleged violation of Proposition 65
+  - Plaintiff's claims of exposure to lead
+acts:
+  - Defendant's sale and distribution of Organic Super Greens
+  - Plaintiff's filing of lawsuit
+  - Defendant's reported cooperation in complying with law
+agreements:
+  - Stipulated Consent Judgment
+laws:
+  - California Health and Safety Code, section 25249.5, et seq.
+  - California Code of Regulations, tit. 22, § 12601, subdivision (a)
+  - California Code of Regulations, tit. 22, § 12903(b)(2)
+case_citations:
+  - Consumer Advocacy Group, Inc. v. Kintetsu Ent. of Amer. (2006) 141 Cal.App.4th 46
+  - Consumer Cause, Inc. v. SmileCare (2001) 91 Cal.App.4th 454
+  - Yeroushalmi v. Miramar Sheraton (2001) 88 Cal.App.4th 738
+  - American Meat Institute v. Leeman (2009) 180 Cal.App.4th 728
+roles:
+  - Judge
+  - Plaintiff
+  - Defendant
+  - Attorney General
+significant_statements:
+  - The Court grants the motion as prayed, after considering all applicable factors...
+  - The Court finds that the Consent Judgment is drafted to serve the public interest...
+  - The Court finds that the proposed notices are clear, reasonable, understandable and informative.
+```
+
+And here is the English-text summary of the judge's tentative ruling:
+
+The judge has granted the plaintiff's motion for entry of a stipulated consent judgment in a Proposition 65 case. The plaintiff, Tamar Kalooustian, sued Ancient Brands, LLC, alleging that they sold and distributed Organic Super Greens with excess lead without adequately warning consumers. The consent judgment aims to serve the public interest by limiting exposures to lead and providing clear and reasonable warnings to consumers. The judge finds that the proposed notices are clear, reasonable, understandable, and informative, and that the penalty of $5,000 and attorneys' fees of $40,000 are appropriate.

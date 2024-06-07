@@ -1,0 +1,84 @@
+Here is the YAML representation of the tentative ruling:
+
+```
+case_number: 22STCV38658
+hearing_date: 2024-06-06
+dept: 48
+plaintiff:
+  - name: Jaime Aguayo
+  - name: Giovani Tzul
+defendant:
+  - name: 839 S Carondelet Street LLC
+  - name: J.K. Residential Services Inc
+people:
+  - name: Jaime Aguayo
+  - name: Giovani Tzul
+  - name: Doe 1 (fictitious name)
+companies:
+  - 839 S Carondelet Street LLC
+  - J.K. Residential Services Inc
+places:
+  - Los Angeles
+  - California
+dates:
+  - 2022-12-12 (Complaint filed)
+  - 2023-10-26 (Court granted motion to strike)
+  - 2024-01-16 (First Amended Complaint filed)
+  - 2024-06-06 (Tentative ruling)
+events:
+  - Complaint filed
+  - Motion to strike granted
+  - First Amended Complaint filed
+  - Tentative ruling issued
+money:
+  - punitive damages
+  - exemplary damages
+intention:
+  - to deny Defendants' motion to strike
+facts:
+  - Doe 1 is a managing director and officer of the respective companies
+  - Defendants hired Doe 1 to manage, supervise, and provide maintenance of the property
+  - Plaintiffs complained to Defendants about Doe 1's alleged wrongful conduct
+  - Defendants laughed at Plaintiffs' complaints
+disputes:
+  - punitive damages
+  - exemplary damages
+  - ratification of conduct
+acts:
+  - Plaintiffs filed a complaint
+  - Defendants filed a motion to strike
+  - Plaintiffs filed a first amended complaint
+  - Defendants filed a reply to the opposition
+agreements:
+  - Plaintiffs did not have access to the specific names of the employees
+  - Plaintiffs will attempt to identify the names of the employees
+  - Doe 1 is a fictitious name
+  - Plaintiffs will amend the pleading accordingly
+laws:
+  - California Civil Code section 3294
+  - California Code of Civil Procedure section 474
+  - Hillard v. A.H. Robins Co. (1983)
+  - Smith v. Superior Court (1992)
+  - Code Civ. Proc., section 474
+statutes:
+  - California Civil Code section 3294
+  - California Code of Civil Procedure section 474
+roles:
+  - Judge
+  - Plaintiff
+  - Defendant
+  - Managing director
+  - Officer
+  - Managing agent
+  - Employee
+  - Managing director
+significant statements:
+  - The Court finds that the Complaint contained only conclusions, not facts, about Defendants' ratification of the conduct
+  - The Court granted the motion to strike allegations relating to punitive damages
+  - The Court denied Defendants' motion to strike
+  - The Court ordered Defendants to file an answer within 10 days
+```
+
+And here is the English text summarizing the judge's tentative ruling:
+
+The judge has denied Defendants' motion to strike allegations relating to punitive damages. The Court found that the Complaint contained only conclusions, not facts, about Defendants' ratification of the conduct. The Court also found that the Complaint contained sufficient allegations to support a request for punitive damages. The Court denied the motion to strike and ordered Defendants to file an answer within 10 days.

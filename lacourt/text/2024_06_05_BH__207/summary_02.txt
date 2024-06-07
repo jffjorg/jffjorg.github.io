@@ -1,0 +1,29 @@
+Here is the summary of the tentative ruling in YAML format:
+
+```
+case_number: "Unknown"
+plaintiff_name: ""
+defendant_name: ""
+people_names: ["UK", "Landmark Screens, LLC", "Morgan, Lewis & Bockius, LLP"]
+company_names: ["Landmark Screens, LLC", "Morgan, Lewis & Bockius, LLP"]
+places: ["United Kingdom", "California"]
+dates: ["2010"]
+events: ["judicial proceeding", "service of process"]
+money: $0
+intentions: ["effect service", "obtain jurisdiction"]
+facts: ["unpublished California cases", "published federal cases", "service in the United Kingdom"]
+disputes: ["jurisdiction", "service of process"]
+acts: ["service of process", "citation of cases"]
+agreements: ["California Rules of Court", "Conventions on the Service Abroad of Judicial and Extrajudicial Documents"]
+laws: ["California Rules of Court", "Conventions on the Service Abroad of Judicial and Extrajudicial Documents"]
+case_citations: ["Landmark Screens, LLC v. Morgan, Lewis & Bockius, LLP (2010) 183 Cal.App.4th 238, 251, fn. 6"]
+statutes: ["Cal. Rules of Court, rule 8.1115"]
+roles: ["judge", "solicitor", "judicial officer"]
+significant_statements:
+  - "Our declaration does not preclude any person in another Contracting State who is interested in a judicial proceeding (including his lawyer) from effecting service in the United Kingdom directly through a competent person other than a judicial officer or official, e.g., a solicitor."
+  - "Although [a court] may not rely on unpublished California cases, the California Rules of Court do not prohibit citation to unpublished federal cases, which may properly be cited as persuasive, although not binding, authority."
+```
+
+And here is the English-text summary of the tentative ruling:
+
+The tentative ruling discusses the service of process in a judicial proceeding in the United Kingdom. The UK has declared that it will not object to service of process being made in the UK by a competent person, such as a solicitor. The ruling also notes that while a court may not rely on unpublished California cases, it is permissible to cite to unpublished federal cases as persuasive authority. The ruling is based on a California court's decision in Landmark Screens, LLC v. Morgan, Lewis & Bockius, LLP.

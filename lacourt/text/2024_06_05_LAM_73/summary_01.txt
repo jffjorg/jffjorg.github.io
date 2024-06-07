@@ -1,0 +1,42 @@
+Here is a summary of the tentative ruling in YAML format:
+
+```
+case_number: 23STCP02966
+hearing_date: 2024-06-05
+dept: 73
+judge: Hon. Rolf Treu
+parties:
+  - Plaintiff/Petitioner: Seavey, et al.
+  - Defendant/Respondent: Signature Entertainment, LLC, et al.
+counsel:
+  - For Appellants/Petitioners: Alan Gutman (Gutman Law), Howard King (King, Holmes, Paterno & Soriano, LLP)
+  - For Respondents: David Stern, Michael Levin (Baker & Hostetler LLP)
+motion:
+  - Type: Motion to Dismiss or Stay
+  - Filed: 2024-04-08
+ruling:
+  - Type: Tentative Ruling
+  - Date: 2024-06-05
+  - Holdings:
+    - Respondent's Motion to Dismiss is DENIED.
+    - Request to Stay is also DENIED.
+facts:
+  - Parties entered into agreements with Signature Entertainment, LLC.
+  - Agreements contained a Florida choice of law provision and forum selection provision.
+  - Labor Commissioner found choice of law and forum selection provisions controlled and dismissed the action.
+  - Petitioners seek to determine controversy regarding alleged violations of California Talent Agencies Act (TAA).
+dispute:
+  - Parties dispute whether Florida forum selection and choice of law provision is enforceable.
+  - Petitioners argue clause violates California public policy.
+  - Respondents argue Petitioners were not California residents when they entered into agreements.
+  - Court held that Petitioners were California residents at the time of the alleged violations.
+  - Court held that Respondents failed to show that enforcing forum selection clause would not diminish Petitioners' rights.
+laws:
+  - California Talent Agencies Act (TAA)
+  - California Labor Code
+  - California Code of Civil Procedure
+```
+
+Here is a summary of the tentative ruling in English text:
+
+The court denied Respondents' Motion to Dismiss and Motion to Stay. Petitioners entered into agreements with Signature Entertainment, LLC, which contained a Florida choice of law provision and forum selection provision. The Labor Commissioner found the choice of law and forum selection provisions controlled and dismissed the action. Petitioners seek to determine the controversy regarding alleged violations of the California Talent Agencies Act (TAA). The court held that the Florida forum selection and choice of law provision is not enforceable because it violates California public policy. The court also held that Petitioners were California residents at the time of the alleged violations. The court denied Respondents' request to stay the action pending the resolution of the Florida action.

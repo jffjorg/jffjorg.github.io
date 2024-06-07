@@ -1,0 +1,45 @@
+Here is a summary of the tentative ruling in YAML format:
+
+```yaml
+case_number: 22STCP36316
+hearing_date: June 6, 2024
+dept: 73
+
+parties:
+  - plaintiff: Martin Warren
+    plaintiff: Bessie Ellen Warren
+  - defendant: Scott Kenneth Warren
+    defendant: Bruce Michael Warren
+  - cross-defendant: Laurie Shahar
+  - cross-complainant: Scott Warren
+
+motions:
+  - cross-complainant's motion: Assignment Order; For Order Restraining Judgment Debtor; and Order Requiring Disclosure (filed on January 23, 2023)
+  - cross-defendant's motion: To Correct Judgment Nunc Pro Tunc to Remove Improper Costs and Expert Witness Fees Awarded Against Cross-Defendant (filed on February 23, 2024)
+
+judgments:
+  - jury verdict: $600,000 in favor of Scott Kenneth Warren against Laurie Shahar
+  - court's judgment: entered on September 27, 2023, and corrected on October 2, 2023
+
+issues:
+  - clerk's error: alleged clerical mistake in entering judgment
+  - excusable neglect: Lauri's delay in disputing costs
+  - assignment: Scott's request to assign Lauri's rights to collect rents from apartment buildings
+
+orders:
+  - cross-defendant's motion: Denied
+  - cross-complainant's motion: Denied without prejudice
+  - judgment debt: $175,195.47 due from Lauri to Scott within 10 days of the Court's order
+
+facts:
+  - Plaintiffs Martin and Bessie Warren gifted their interest in three LLCs to their children, Scott and Bruce
+  - Scott represented to Plaintiffs that they could reduce their estate taxes by creating an LLC for each investment property
+  - Plaintiffs transferred their interests in the LLCs to Defendants
+  - Defendants failed to make promised payments to Plaintiffs
+  - Plaintiffs asked Defendants to make monthly deposits to their Chase bank account, but were refused
+  - Scott filed a cross-complaint against Lauri and sought to recover costs and expert witness fees from her
+  - Lauri filed a motion to correct judgment to remove improper costs and expert witness fees
+```
+
+English-text summary:
+The tentative ruling denies Cross-Complainant's motion for an assignment order, restraining judgment debtor, and requiring disclosure. The motion was filed by Scott Warren to collect rents from apartment buildings owned by DD Partners, LLC. The ruling also denies Cross-Defendant's motion to correct judgment to remove improper costs and expert witness fees awarded against her. The judgment debt of $175,195.47 is due from Lauri to Scott within 10 days of the Court's order.

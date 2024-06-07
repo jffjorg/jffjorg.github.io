@@ -1,0 +1,62 @@
+Here is the summary in YAML format:
+
+```
+case_number: 22STCV31534
+plaintiff: TABORA WARD JR, ET AL.
+defendant: DAVID ESCALANTE MELQUISEDEC, ET AL.
+people_names:
+  - Chanice Ward
+  - Tambora Ward
+  - David Escalante Melquisedec
+company_names:
+  - T-Mobile
+places:
+  - New Jersey
+  - California
+dates:
+  - June 5, 2024
+  - November 1, 2023
+  - December 1, 2023
+  - February 9, 2024
+  - April 22, 2024
+  - May 16, 2024
+events:
+  - Motion to compel compliance with deposition subpoena
+  - Deposition subpoena
+  - Production of business records
+  - Service of subpoena
+  - Filing of motion to compel
+money: N/A
+intentions:
+  - To compel compliance with deposition subpoena
+  - To produce business records
+facts:
+  - Defendant served deposition subpoena on T-Mobile in New Jersey
+  - Defendant's motion to compel compliance was initially denied due to issue of service
+  - Defendant cured the defect and re-filed the motion
+disputes:
+  - Jurisdiction over out-of-state non-party
+  - Timeliness of motion to compel
+acts:
+  - Service of deposition subpoena
+  - Production of business records
+  - Filing of motion to compel
+agreements: N/A
+laws:
+  - Uniformed Interstate Deposition and Discovery Act (UIDDA)
+  - California Rules of Court, rule 3.1346
+  - Code of Civil Procedure, section 2025.480
+  - Code of Civil Procedure, section 1005.5
+roles:
+  - Judge: Hon. Michelle C. Kim
+  - Plaintiff: TABORA WARD JR, ET AL.
+  - Defendant: DAVID ESCALANTE MELQUISEDEC, ET AL.
+  - Counsel: N/A
+significant_statements:
+  - The court has jurisdiction over out-of-state non-party to compel compliance with deposition subpoena
+  - The motion to compel compliance is denied due to untimeliness
+```
+
+And here is the English text to summarize the judge's tentative ruling:
+
+"The court has denied the defendant's motion to compel compliance with a deposition subpoena for production of business records. The court found that the motion was untimely, as it was filed 70 days after the production deadline. The court also expressed concerns about jurisdiction over the out-of-state non-party. The court encourages the parties to meet and confer to reach an agreement, and if a party intends to submit on this tentative ruling, they must send an email to the court with the subject line 'SUBMIT' followed by the case number."

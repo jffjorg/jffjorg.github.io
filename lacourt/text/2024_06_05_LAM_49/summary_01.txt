@@ -1,0 +1,67 @@
+Here is the summary in YAML format:
+
+```
+case_number: 23STCV03601
+hearing_date: 2024-06-05
+dept: 49
+case_name: CIC Inc. v. Prestige Default Services, LLC
+movant: Defendant Prestige Default Services, LLC
+respondent: CIC Inc.
+statement_of_material_facts_and_or_proceedings:
+  - CIC Inc. as Trustee of the Serra Trust alleged it placed a bid with Defendant Prestige Default Services, LLC to obtain a residential home at a trustee's sale.
+  - Plaintiff alleged it was the only party to bid on the property and submitted a cashier's check sufficient to cover the bid.
+  - Defendant allegedly rejected Plaintiff's bid and offered to return the funds.
+  - Plaintiff alleged Defendant wrongfully rejected the bid in violation of California Civil Code § 2924m.
+
+intervening_events:
+  - Plaintiff filed a First Amended Complaint (FAC) on October 16, 2023, asserting two causes of action for breach of contract and quiet title.
+  - Plaintiff filed its Second Amended Complaint (SAC) on February 08, 2024, asserting causes of action against Prestige for breach of agreement to sell real property and damages.
+
+money: $ (not specified)
+intentions:
+  - Defendant Prestige Default Services, LLC, demurred to the Second Amended Complaint.
+  - Plaintiff opposed the demurrer.
+
+facts:
+  - Plaintiff is a third-party beneficiary of the deed of trust.
+  - The deed of trust was entered into between Defendant Prestige, on one hand, and an unnamed "trustor" and "beneficiary," on the other.
+  - Plaintiff submitted the highest bid for the property at the trustee's sale, but Defendant wrongfully rejected it.
+
+disputes:
+  - Whether Plaintiff is a third-party beneficiary of the deed of trust.
+  - Whether Defendant's rejection of Plaintiff's bid was in violation of California Civil Code § 2924m.
+
+acts:
+  - Plaintiff submitted a bid for the property at the trustee's sale.
+  - Defendant rejected Plaintiff's bid.
+
+agreements:
+  - The parties agreed in writing to sell the property to the highest bidder.
+  - The deed of trust was entered into between Defendant Prestige, on one hand, and an unnamed "trustor" and "beneficiary," on the other.
+
+laws:
+  - California Civil Code § 2924m
+  - CCP § 430.30(a)
+  - CCP § 581 (f)(1)
+
+case_citations:
+  - Goodman v. Kennedy (1976) 18 Cal.3d 335, 348
+  - Hahn v. Mirda (2007) 147 Cal. App. 4th 740, 747
+  - Taylor v. City of Los Angeles Dept. of Water and Power (2006) 144 Cal. App. 4th 1216, 1228
+  - SKF Farms v. Superior Court (1984) 153 Cal. App. 3d 902, 905
+  - Real Est. Analytics, LLC v. Vallas (2008) 160 Cal. App. 4th 463, 472
+  - Goonewardene v. ADP, LLC (2019) 6 Cal. 5th 817, 821
+  - Miles v. Deutsche Bank National Trust Co. (2015) 236 Cal.App.4th 394, 402
+
+roles:
+  - Judge Randolph M. Hammock
+
+significant_statements:
+  - Defendant's Demurrer to the Second Amended Complaint is SUSTAINED.
+  - Leave to amend is denied as there is no reasonable possibility of successful amendment.
+  - A judgment for dismissal with prejudice is to be entered.
+```
+
+Summary in English:
+
+The court has issued a tentative ruling in the case of CIC Inc. v. Prestige Default Services, LLC, dismissing the plaintiff's complaint with prejudice. The plaintiff alleged that it submitted the highest bid for a residential property at a trustee's sale, but the defendant rejected the bid in violation of California Civil Code § 2924m. The defendant demurred to the complaint, arguing that the plaintiff was not a third-party beneficiary of the deed of trust. The court agrees with the defendant's argument, finding that the parties did not intend to benefit the plaintiff. As a result, the court sustains the defendant's demurrer and denies the plaintiff's request for leave to amend the complaint. A judgment for dismissal with prejudice will be entered.

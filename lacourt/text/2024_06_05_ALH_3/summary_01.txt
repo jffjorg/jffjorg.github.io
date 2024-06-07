@@ -1,0 +1,52 @@
+Here is the summary in YAML format:
+
+```
+case_number: 23AHCV01802
+plaintiff: Georgina Onaga (trustee of Kiyoko Keefe Trust)
+defendant: Krystal Clay et al
+people_names:
+  - Georgina Onaga
+  - Krystal Clay
+company_names: []
+places:
+  - California
+  - Los Angeles
+  - Northeast District
+dates:
+  - May 17, 2024
+  - June 5, 2024
+events:
+  - Application for default judgment
+  - Unpaid rent and repairs to property
+money:
+  - $50,473.04 (total judgment)
+  - $435 (costs)
+  - $50,038.04 (damages)
+intentions:
+  - Obtain default judgment against defendant
+facts:
+  - Defendant failed to pay rent and repair property
+  - Plaintiff seeks damages of $50,038.04
+disputes:
+  - Amount of damages (incorrectly claimed $50,038.44, corrected to $50,038.04)
+acts:
+  - Plaintiff submitted revised proposed judgment
+  - Court interlineated damages on proposed judgment
+agreements:
+  - None mentioned
+laws:
+  - None mentioned
+case_citations: []
+statutes: []
+roles:
+  - Judge: William A. Crowfoot
+  - Plaintiff: Georgina Onaga (trustee of Kiyoko Keefe Trust)
+  - Defendant: Krystal Clay et al
+significant_statements:
+  - Court enters default judgment of $50,473.04
+  - Court interlineates damages on proposed judgment
+```
+
+And here is the English-text summary:
+
+The Court has issued a tentative ruling on an application for default judgment in the case of Georgina Onaga, as trustee of the Kiyoko Keefe Trust, against defendant Krystal Clay et al. The Plaintiff seeks a default judgment for unpaid rent and repairs to property. The Court has entered a default judgment of $50,473.04, consisting of $435 in costs and $50,038.04 in damages. The Court has interlineated the damages on the proposed judgment, correcting the originally claimed amount of $50,038.44 to $50,038.04. The parties who intend to submit on this tentative ruling must send an email to the Court indicating their intention to submit.

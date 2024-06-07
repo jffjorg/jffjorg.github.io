@@ -1,0 +1,83 @@
+Here is the summary in YAML format:
+
+```
+case_number: 23PSCV01102
+hearing_date: 2024-06-06
+dept: O
+
+people:
+  - Olidio Lopez
+  - Leonardo Parra
+  - LP Design Construction
+  - Blueprints and Build Construction, Inc.
+
+companies:
+  - Blueprints and Build Construction, Inc.
+  - LP Design Construction
+
+places:
+  - California
+
+dates:
+  - 2021-09-01 (contract date)
+  - 2023-04-14 (filing of suit)
+  - 2023-06-21 (rejection of entry of default)
+  - 2023-08-18 (second rejection of entry of default)
+  - 2023-11-20 (entry of default)
+  - 2023-12-04 (rejection of entry of default)
+  - 2024-03-05 (hearing on Order to Show Cause)
+  - 2024-05-23 (filing of JUD-100 form)
+  - 2024-06-06 (hearing date)
+
+events:
+  - Contract creation
+  - Suit filing
+  - Entry of default
+  - Rejection of entry of default
+  - Hearing on Order to Show Cause
+
+money:
+  - $51,250 (contract price)
+  - $27,250 (paid by plaintiff)
+
+intentions:
+  - Plaintiff seeks default judgment
+  - Defendants have not performed under contract
+
+facts:
+  - Plaintiff alleges breach of contract, conversion, and other causes of action
+  - Defendants failed to perform under contract
+  - Plaintiff paid $27,250 of the contract price
+
+disputes:
+  - Breach of contract
+  - Conversion
+  - Intentional interference with prospective economic advantage
+
+acts:
+  - Plaintiff filed suit
+  - Plaintiff paid $27,250 of the contract price
+  - Defendants failed to perform under contract
+
+agreements:
+  - Contract between plaintiff and defendants
+
+laws:
+  - California Business and Professions Code section 17200
+  - Kobayashi v. Superior Court (2009) 175 Cal.App.4th 536
+
+citations:
+  - Kobayashi v. Superior Court (2009) 175 Cal.App.4th 536
+
+roles:
+  - Plaintiff: Olidio Lopez
+  - Defendant: Leonardo Parra, LP Design Construction, Blueprints and Build Construction, Inc.
+
+significant statements:
+  - Plaintiff is denied entry of default judgment without prejudice
+  - Plaintiff must refile request for entry of default judgment with sufficient evidence
+```
+
+And here is the English text summarizing the judge's tentative ruling:
+
+The court has denied the plaintiff's application for default judgment without prejudice. The plaintiff, Olidio Lopez, has not provided sufficient evidence to support damages, despite being held to the same standards as attorneys. The court has previously rejected the plaintiff's requests for entry of default due to faulty proof of service and failure to file a statement of damages. The plaintiff must refile their request for entry of default judgment with sufficient evidence at least 16 court days before the hearing.

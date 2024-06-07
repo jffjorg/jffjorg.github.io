@@ -1,0 +1,72 @@
+Here is the YAML representation of the tentative ruling:
+
+```
+case_number: 21STCV22100
+plaintiff_name: Johnnie McGee
+defendant_name: County of Los Angeles
+people_names:
+  - Jackie Switzler
+  - James Bailey
+  - Albert Yanagisawa
+  - Johnnie McGee
+company_names:
+  - Los Angeles County Fire Department (LACOFD)
+  - Los Angeles County (County)
+places:
+  - Los Angeles
+  - Calabasas
+dates:
+  - 12/15/2022
+  - 4/29/2024
+  - 2020
+  - 2021
+  - 2022
+  - 2023
+  - 2019
+  - 2021
+  - 2022
+events:
+  - Plaintiff's motion to compel further documents
+  - Plaintiff's lawsuit
+  - COVID-19 pandemic
+  - Medical leave of absence
+  - Retirement
+  - Performance evaluations
+  - Meet and confer
+money: None
+intention: Plaintiff's motion to compel further documents
+facts:
+  - Plaintiff filed suit against Defendant alleging discrimination, retaliation, and failure to prevent discrimination, harassment, and retaliation
+  - Defendant argues Plaintiff failed to adequately meet and confer
+  - Defendant argues Plaintiff has not met his burden to show relevance outweighs confidentiality
+disputes:
+  - Plaintiff's motion to compel further documents
+  - Defendant's opposition to Plaintiff's motion
+acts:
+  - Plaintiff filed suit
+  - Defendant responded to Plaintiff's request for production
+  - Plaintiff moved to compel further responses
+  - Defendant opposed Plaintiff's motion
+  - Court granted Plaintiff's motion to compel further documents
+agreements:
+  - Plaintiff and Defendant agreed to meet and confer
+laws:
+  - None
+case_citations:
+  - None
+statutes:
+  - None
+roles:
+  - Plaintiff: Johnnie McGee
+  - Defendant: County of Los Angeles
+  - Judge: Hon. Jon R. Takasugi
+significant_statements:
+  - Plaintiff's motion to compel further documents is GRANTED
+  - Defendant's opposition to Plaintiff's motion is DENIED
+  - Court finds performance evaluations relevant and narrowly tailored
+  - Court declines to award sanctions at this time
+```
+
+And here is the English text summary:
+
+The judge has issued a tentative ruling in the case of Johnnie McGee vs. County of Los Angeles. The plaintiff, Johnnie McGee, has moved to compel further responses to his request for production of performance evaluations. The defendant, County of Los Angeles, has opposed the motion, arguing that the plaintiff failed to adequately meet and confer. The court has granted the plaintiff's motion to compel further responses to his request for production of performance evaluations. The court has also declined to award sanctions at this time. The court has ordered the parties to attempt informal resolution of the pending motion to compel further responses to special interrogatories.

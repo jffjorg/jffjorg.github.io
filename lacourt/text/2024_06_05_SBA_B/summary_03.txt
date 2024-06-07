@@ -1,0 +1,62 @@
+Here is the YAML representation of the tentative ruling:
+
+```
+case_number: 23TRCV04100
+hearing_date: 2024-06-05
+judge: [Unknown]
+plaintiffs:
+  - name: Andrea Covington
+  - name: Shomari Wilson
+defendants:
+  - name: Highridge Apartments
+    type: Defendant
+    company: Essex Property Trust, Inc.
+events:
+  - Complaint filed on December 7, 2023
+  - Water damage on March 29, 2024
+  - Plaintiffs vacated apartment on April 8, 2024
+  - Plaintiffs unable to operate businesses in apartment
+places:
+  - 28120 Peacock Ridge Drive, #9-304, Rancho Palos Verdes
+  - Los Angeles County
+dates:
+  - December 7, 2023
+  - March 29, 2024
+  - April 8, 2024
+  - April 30, 2024
+  - May 2, 2024
+money:
+  - None mentioned
+intentions:
+  - Plaintiffs intend to prove breach of habitability, negligence, intentional infliction of emotional distress, negligence per se, harassment, and retaliation
+facts:
+  - Plaintiffs signed lease on October 6, 2021
+  - Plaintiffs' apartment sustained water damage on March 29, 2024
+  - Plaintiffs were advised to vacate property and pay rent in a timely manner
+  - Plaintiffs were not assisted in finding temporary accommodations
+disputes:
+  - Plaintiffs vs. Defendants
+  - Failure to respond to discovery requests
+acts:
+  - Serving of form interrogatories and demand for identification and production of records, documents, and other tangible items
+agreements:
+  - None mentioned
+laws:
+  - CCP §2030.290(b)
+  - CCP §2031.300
+  - CCP §2031.010
+  - Leach v. Superior Court (1980)
+  - Weil & Brown, Civil Procedure Before Trial
+roles:
+  - Plaintiffs: Andrea Covington and Shomari Wilson
+  - Defendants: Highridge Apartments and Essex Property Trust, Inc.
+  - Judge: [Unknown]
+significant_statements:
+  - The motions are GRANTED.
+  - Plaintiffs are ordered to respond without objections to defendants' Form Interrogatories (Set One) within twenty days.
+  - Plaintiffs are ordered to serve a verified response without objections to defendants' Demand for Identification and Production of Records, Documents, and Other Tangible Items (Set One) and produce all responsive documents within twenty days.
+```
+
+And here is the English-text summary of the judge's tentative ruling:
+
+The court has granted the defendants' motions to compel responses to their form interrogatories and demand for identification and production of records, documents, and other tangible items. The defendants had served their discovery requests on the plaintiffs, but the plaintiffs failed to respond. The court finds that the defendants properly served their discovery requests and the plaintiffs failed to respond. As a result, the court is ordering the plaintiffs to respond without objections to the defendants' form interrogatories and to produce all responsive documents within 20 days.
