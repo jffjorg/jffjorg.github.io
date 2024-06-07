@@ -1,0 +1,68 @@
+Here is the summary in YAML format:
+
+```
+case_number: 24STCV04219
+hearing_date: 2024-06-07
+department: 17
+county: Los Angeles
+judge: Hon. Jon R. Takasugi
+parties:
+  plaintiff: Valsoft Corporation, Inc.
+  defendant: Fleet Logic LLC dba Velocity Truck Rental and Leasing
+people:
+  Judge: Jon R. Takasugi
+  Plaintiff: [Unknown]
+  Defendant: [Unknown]
+company-names:
+  Valsoft Corporation, Inc.
+  Fleet Logic LLC
+  Velocity Truck Rental and Leasing
+places:
+  Los Angeles
+dates:
+  - 2024-02-20
+  - 2024-06-07
+events:
+  - Demurrer
+  - Breach of contract
+  - Misappropriation of trade secrets
+  - Breach of implied covenant of good faith and fair dealing
+  - Unauthorized computer access and fraud
+money:
+  - Compensation for expenditure reasonably and necessarily incurred
+  - Damages
+intentions:
+  - To determine the viability of the plaintiff's claims
+  - To address the defendant's demurrer
+facts:
+  - Plaintiff alleges that defendant stole trade secrets
+  - Defendant argues that plaintiff's claims are preempted by CUTSA and CDAFA
+  - Plaintiff alleges that defendant accessed software without permission
+  - Defendant argues that plaintiff cannot state a claim under CDAFA
+  - Plaintiff alleges that defendant caused damage to plaintiff's servers
+laws:
+  - California Uniform Trade Secrets Act (CUTSA)
+  - California Comprehensive Computer Data and Fraud Act (CDAFA)
+  - California Penal Code § 502
+  - California Civil Code § 3426.7(b)(1)
+citations:
+  - Guz v. Bechtel Nat. Inc. (2000) 24 Cal.4th 317, 327
+  - Careau & Co. v. Sec. Pac. Bus. Credit, Inc. (1990) 222 Cal.App.3d 1371
+  - Silvaco Data Sys. v. Intel Corp. (2010) 184 Cal. App. 4th 210
+  - K.C. Multimedia, Inc. v. Bank of America Technology & Operations, Inc. (2009) 171 Cal. App. 4th 939
+  - Chrisman v. City of Los Angeles (2007) 155 Cal.App.4th 29
+  - Sullivan v. Oracle Corp. (2011) 51 Cal.4th 1191
+roles:
+  - Judge: Jon R. Takasugi
+  - Plaintiff: Valsoft Corporation, Inc.
+  - Defendant: Fleet Logic LLC dba Velocity Truck Rental and Leasing
+significant-statements:
+  - Plaintiff's breach of implied covenant claim is not duplicative
+  - Plaintiff's claims are not preempted on their face by CUTSA
+  - Plaintiff must allege some facts to show that it has a basis for believing that defendant accessed plaintiff's software without permission
+  - Plaintiff's allegations of damage are insufficient
+```
+
+And here is the text summary:
+
+The court has issued a tentative ruling on the demurrer filed by Fleet Logic LLC dba Velocity Truck Rental and Leasing (Defendant) in response to the lawsuit filed by Valsoft Corporation, Inc. (Plaintiff). The court has overruled the demurrer as to the third cause of action for breach of implied covenant of good faith and fair dealing, and sustained it with 15 days leave to amend as to the sixth cause of action for unauthorized computer access and fraud. The court found that the Plaintiff's allegations of breach of implied covenant are not duplicative of the breach of contract claim, and that the Plaintiff's claims are not preempted on their face by the California Uniform Trade Secrets Act (CUTSA). However, the court found that the Plaintiff's allegations of unauthorized computer access and fraud are insufficient and that the Plaintiff must allege some facts to show that it has a basis for believing that the defendant accessed the plaintiff's software without permission.
