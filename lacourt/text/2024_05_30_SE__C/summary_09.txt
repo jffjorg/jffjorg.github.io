@@ -1,0 +1,74 @@
+Here is the summary in YAML format:
+
+```
+case_number: 24NWCV00800
+plaintiffs_name: 45TH STREET, LLC
+defendants_name: QUALEX, INC.
+people_names:
+  - Gabbai
+company_names:
+  - 45TH STREET, LLC
+  - QUALEX, INC.
+places:
+  - 4615 Alcoa Avenue
+  - Vernon
+  - California
+dates:
+  - March 15, 2024
+  - October 1, 2018
+  - October 31, 2023
+  - November 1, 2023
+  - January 2024
+  - February 21, 2024
+  - May 30, 2024
+events:
+  - Unlawful detainer action
+  - Lease agreement
+  - Rent payment
+  - Notice to pay rent
+  - Summary judgment motion
+money:
+  - $35,000
+  - $46,000.00
+  - $1,112.00
+intention:
+  - To determine whether the defendant is in default of rent payment
+facts:
+  - Defendant QUALEX, INC. is delinquent in rent payment
+  - Defendant failed to exercise option to extend lease
+  - Lease became month-to-month term
+  - Defendant became delinquent in rent payment
+  - Estimated Notice was served
+  - Defendant did not pay or attempt to pay full amount of rent due
+disputes:
+  - Defendant's failure to pay rent
+  - Plaintiff's right to summary judgment
+acts:
+  - Plaintiff filed action
+  - Defendant failed to exercise option to extend lease
+  - Defendant became delinquent in rent payment
+  - Estimated Notice was served
+agreements:
+  - Lease agreement
+  - Estimated Notice
+laws:
+  - CCP §1161(2)
+  - CCP §1170.7
+  - CRC Rule 3.1351(b)
+  - CRC Rule 3.1351(c)
+case_citations:
+  - Kruger v. Reyes (2014) 232 Cal.App.4th Supp. 10, 16
+statutes:
+  - CCP §1161(2)
+  - CCP §1170.7
+roles:
+  - Plaintiff: 45TH STREET, LLC
+  - Defendant: QUALEX, INC.
+  - Judge: [Judge's name]
+significant_statements:
+  - Plaintiff's Motion for Summary Judgment is GRANTED
+```
+
+And here is the English-text summary:
+
+The Judge has made a tentative ruling in the case of 45TH STREET, LLC v. QUALEX, INC. The case is an unlawful detainer action regarding a commercial real property located at 4615 Alcoa Avenue, Vernon, CA 90058. Plaintiff 45TH STREET, LLC has moved for summary judgment against Defendant QUALEX, INC. The Judge has granted the motion, finding that the defendant is in default of rent payment. The lease agreement was entered into on October 1, 2018, and became a month-to-month term on October 31, 2023. The defendant failed to exercise the option to extend the lease and became delinquent in rent payment. The plaintiff served an Estimated Notice on February 21, 2024, and the defendant failed to pay or attempt to pay the full amount of rent due. The Judge has granted the plaintiff's motion for summary judgment.

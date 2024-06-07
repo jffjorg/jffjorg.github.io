@@ -1,0 +1,74 @@
+Here is a summary of the tentative ruling in YAML format:
+
+```
+case_number: 24STCP02973
+hearing_date: 2024-05-30
+dept: 86
+people:
+  - Chester P. Kim
+  - Alex Myung Cha
+  - Young Nae Lee
+  - Benedict J. Pak
+  - Hyunjung Lee
+companies:
+  - Los Angeles Korean Festival Foundation
+places:
+  - 965 South Normandie Avenue #102, Los Angeles, CA 90006
+dates:
+  - 2024-02-12
+  - 2024-02-13
+  - 2024-04-15
+  - 2024-04-29
+  - 2024-05-06
+  - 2024-05-30
+  - 2024-06-25
+events:
+  - Motion to quash service of summons
+  - Service of summons
+  - Election of directors
+  - Challenge to election
+money:
+  - $10,000 (director fee)
+  - $5,000 (director fee)
+intentions:
+  - To demonstrate compliance with statutory procedures for service of summons
+  - To challenge the validity of the election of directors
+facts:
+  - Service of summons was allegedly made on February 12, 2024
+  - Defendants averred they were not at the Normandie address on February 12, 2024
+  - Hyunjung Lee, an employee at the Normandie address, allegedly received envelopes with the names of defendants Lee and Pak on the cover
+acts:
+  - Filing of motions to quash service of summons
+  - Filing of joinder to defendant Alex Cha's opposition to the petition for writ of mandate
+  - Service of summons
+  - Election of directors
+  - Challenge to the election
+agreements:
+  - Corporations Code § 5527
+  - Code of Civil Procedure § 415.10
+  - Code of Civil Procedure § 418.10
+laws:
+  - Corporations Code § 5527
+  - Code of Civil Procedure § 415.10
+  - Code of Civil Procedure § 418.10
+  - Code of Civil Procedure § 410.50
+citations:
+  - Dill v. Berquist Construction Co. (1994) 24 Cal.App.4th 1426, 1444
+  - Roy v. Superior Court (2005) 127 Cal.App.4th 337, 341
+  - Dial 800 v. Fesbinder (2004) 118 Cal.App.4th 32, 52
+  - Small v. Fritz Cos. Inc. (2003) 30 Cal.4th 167, 173
+roles:
+  - Plaintiff
+  - Defendant
+  - Judge
+significant_statements:
+  - The Court finds that plaintiffs failed to meet their burden to demonstrate proper service
+  - The motion to quash is GRANTED
+  - The hearing is CONTINUED to 6/25/24 at 1:30 PM
+```
+
+And here is a summary of the tentative ruling in English text:
+
+The Court's tentative ruling grants the motion to quash service of summons filed by defendants Young Nae Lee and Benedict J. Pak. The Court finds that plaintiffs failed to demonstrate compliance with statutory procedures for service of summons. The Court also finds that plaintiffs failed to establish that they served defendants with the summons and First Amended Complaint as required by law. The Court notes that defendants may not have been personally served with the summons and First Amended Complaint, and that substitute service may not have been effectuated.
+
+The Court also rules on the hearing regarding the validity of the election of directors. The Court finds that plaintiffs must demonstrate fraud in order to avoid the conclusive presumption that the election was valid. The Court notes that there is competing evidence regarding whether there was fraud in the election, and that the Court shall continue the hearing to receive live testimony regarding the issues of fraud. The Court sets the continued hearing for 6/25/24 at 1:30 PM.

@@ -1,0 +1,62 @@
+Here is the YAML summary:
+
+```
+case_number: 24NWCV00574
+plaintiff: Kim
+defendant: Ionix Construction, Inc., Saddleback Square, LLC, 1800 Argyle, LLC
+people_names:
+  - Kim
+  - Saddleback Square, LLC
+  - 1800 Argyle, LLC
+  - Ionix Construction, Inc.
+company_names:
+  - Ionix Construction, Inc.
+  - Saddleback Square, LLC
+  - 1800 Argyle, LLC
+places:
+  - California
+dates:
+  - May 30, 2024
+  - February 13, 2025
+  - August 15, 2024
+events:
+  - Demurrer
+  - Ex parte relief
+  - Hearing
+  - Construction breach of contract
+money: None
+intentions:
+  - Judicial economy
+  - Breach of contract
+facts:
+  - Defendants seek ex parte relief to advance demurrer
+  - No evidence of notice to all parties
+  - No exceptional circumstances for shorter notice
+disputes:
+  - Breach of contract
+  - Ex parte relief
+acts:
+  - Demurrer
+  - Ex parte relief
+  - Notice to parties
+  - Judicial economy
+agreements: None
+laws:
+  - Cal. Rules of Court, rule 3.1202(c)
+  - Cal. Rules of Court, rule 3.1203(a)
+statutes:
+  - Cal. Rules of Court, rule 3.1202(c)
+  - Cal. Rules of Court, rule 3.1203(a)
+roles:
+  - Judge C Kim
+  - Plaintiff (Kim)
+  - Defendant (Ionix Construction, Inc., Saddleback Square, LLC, 1800 Argyle, LLC)
+significant_statements:
+  - The Court grants the motion.
+  - The Court advances the demurrer to May 30, 2024.
+  - The Court continues the demurrer to Thursday, August 15, 2024.
+```
+
+And here is the English-text summary of the judge's tentative ruling:
+
+The court grants the defendants' motion to advance the demurrer, which is currently scheduled for February 13, 2025. The defendants argue that granting the demurrer will promote judicial economy. The court notes that the defendants have not submitted evidence of notice to all parties no later than 10 a.m. the court day before the ex parte appearance, as required by California Rules of Court. The court also finds that the defendants have not shown exceptional circumstances that justify a shorter time for notice. As a result, the court advances the demurrer to May 30, 2024, and continues it to Thursday, August 15, 2024, at 10:30 A.M. in Dept. SE-C.

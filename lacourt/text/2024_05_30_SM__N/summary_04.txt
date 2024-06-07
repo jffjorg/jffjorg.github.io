@@ -1,0 +1,110 @@
+Here is a summary of the judge's tentative ruling in YAML format:
+
+```
+case_number: 24SMCV00519
+hearing_date: 2024-05-30
+dept: N
+
+people:
+  - Kraig Hill (defendant)
+  - Lacy J. Harber (plaintiff)
+  - Dorothy J. Harber (plaintiff)
+  - Lea Johnson (Sotheby's employee)
+  - Cristian E. David (Sotheby's employee)
+  - Guy Roberts (Plaintiffs' financial adviser)
+  - Peter Sunukjian (expert witness)
+
+companies:
+  - Sotheby's International Realty, Inc.
+  - Concierge Auctions, LLC
+
+places:
+  - Malibu
+  - Los Angeles County
+  - Pacific Coast Highway
+  - Seaboard Road
+  - Flores Mesa
+
+dates:
+  - 2023-05-11 (agreement with Sotheby's)
+  - 2023-06-30 (agreement with Concierge)
+  - 2023-08-18 (Defendant's letter)
+  - 2023-08-25-09-18 (auction period)
+  - 2023-09-18 (auction rescheduled)
+  - 2023-12-14 (property sold)
+
+events:
+  - Auction
+  - Letter sent by Defendant
+  - Agreements with Sotheby's and Concierge
+  - Property sale
+
+money:
+  - $9,500,000 (purchase price)
+  - $3,550,000 (highest bid)
+  - $3,225,000 (final sale price)
+
+intentions:
+  - Defendant's intention to discourage sale of property
+  - Plaintiffs' intention to sell property
+
+facts:
+  - Plaintiffs own a 32-acre parcel of land in Malibu
+  - Defendant resides near the property
+  - Defendant sent a letter criticizing the property's development
+  - Plaintiffs advertised the property for sale
+  - Property sold for $3,225,000
+
+disputes:
+  - Defendant's letter allegedly harmed Plaintiffs' ability to sell the property
+  - Plaintiffs claim Defendant's letter was false and caused them harm
+
+acts:
+  - Defendant sent a letter criticizing the property's development
+  - Plaintiffs advertised the property for sale
+  - Property was sold for $3,225,000
+
+agreements:
+  - Agreement with Sotheby's (2023-05-11)
+  - Agreement with Concierge (2023-06-30)
+
+laws:
+  - Code of Civil Procedure section 425.16 (anti-SLAPP statute)
+  - Civil Code section 813 (notice of consent to use of land)
+
+citations:
+  - Code Civ. Proc. § 425.16
+  - Code Civ. Proc. § 451.16
+  - Code Civ. Proc. § 813
+  - City of Cotati v. Cashman (2002) 29 Cal.4th 69
+  - Braun v. Chronicle Publishing Co. (1997) 52 Cal.App.4th 1036
+  - In re Episcopal Church Cases (2009) 45 Cal.4th 467
+  - Wilson v. Parker, Covert & Chidester (2002) 28 Cal.4th 811
+  - Phillips v. Glazer (1949) 94 Cal.App.2d 673
+  - Schep v. Capital One, N.A. (2017) 12 Cal.App.5th 1331
+  - I-CA Enterprises, Inc. v. Palram Americas, Inc. (2015) 235 Cal.App.4th 257
+  - Crown Imports, LLC v. Superior Court (2014) 223 Cal.App.4th 1395
+  - Ketchum v. Moses (2001) 24 Cal.4th 1122
+
+roles:
+  - Defendant (Kraig Hill)
+  - Plaintiffs (Lacy J. Harber and Dorothy J. Harber)
+  - Defendant's counsel
+  - Plaintiffs' counsel
+  - Expert witnesses (Guy Roberts and Peter Sunukjian)
+
+significant statements:
+  - Defendant's letter criticizing the property's development
+  - Plaintiffs' allegations of harm caused by Defendant's letter
+  - Defendant's contention that Plaintiffs cannot succeed on their claims
+```
+
+And here is a summary of the judge's tentative ruling in English text:
+
+The defendant, Kraig Hill, moves to strike the complaint pursuant to Code of Civil Procedure section 425.16, alleging that the plaintiff's claims arise from protected activity. The court grants the motion, finding that the defendant's letter criticizing the property's development is protected speech under the anti-SLAPP statute.
+
+The court finds that the defendant has satisfied the first prong of the anti-SLAPP statute, that the plaintiff's claims arise from protected activity. The court also finds that the plaintiff has failed to demonstrate a probability of prevailing on the merits of their claims.
+
+The court concludes that the defendant's letter was privileged as a communication made by an interested person to another interested person without malice. The court further concludes that the plaintiff has failed to provide admissible evidence showing that the defendant's statements were false, and that the plaintiff has failed to demonstrate pecuniary loss as a result of the defendant's letter.
+
+Accordingly, the court grants the defendant's special motion to strike the complaint, and the defendant is entitled to recover his reasonable attorney's fees and costs.

@@ -1,0 +1,67 @@
+Here is the summary in YAML format:
+
+```
+Case Number: 23VECV00915
+Case Type: Civil
+Plaintiff's Name: Roxana Eli
+Defendant's Name: General Motors LLC
+People-Names:
+  - Roxana Eli
+  - Joseph Liu
+Company-Names:
+  - General Motors LLC
+Places:
+  - California
+Dates:
+  - November 20, 2023
+  - March 19, 2024
+  - December 20, 2023
+  - April 15, 2024
+  - May 30, 2024
+Events:
+  - Motion for Terminating Sanctions
+  - Motion for Issue, Evidentiary, and Alternative Monetary Sanctions
+  - Hearing on March 19, 2024
+  - Default Judgment package
+  - OSC (Order to Show Cause)
+  - Termination of Sanctions
+Money:
+  - $500/day (monetary sanctions)
+Intentions:
+  - Plaintiff seeks terminating sanctions against Defendant for failure to comply with court orders
+  - Defendant seeks to avoid terminating sanctions by claiming they have already complied with the court's orders
+Facts:
+  - Defendant failed to comply with court orders regarding Requests for Production of Documents (RPD)
+  - Defendant's responses were incomplete and not code-compliant
+  - Plaintiff moved for terminating, issue, or evidentiary sanctions and alternatively for monetary sanctions
+Disputes:
+  - Dispute over whether Defendant complied with court orders
+  - Dispute over whether Plaintiff's motion for terminating sanctions is warranted
+Acts:
+  - Defendant failed to produce responsive documents
+  - Defendant failed to provide a verified code-compliant response
+  - Plaintiff moved for terminating sanctions
+  - Court ordered Defendant to supplement responses
+  - Defendant failed to comply with court orders
+  - Court ordered Defendant to produce documents or explain why they cannot be produced
+  - Defendant failed to produce documents or explain why they cannot be produced
+  - Court granted Plaintiff's motion for terminating sanctions
+Laws:
+  - California Evidence Code
+  - Federal Rules of Civil Procedure
+Case Citations:
+  - None
+Statutes:
+  - None
+Roles:
+  - Plaintiff: Roxana Eli
+  - Defendant: General Motors LLC
+  - Judge: (unnamed)
+Significant Statements:
+  - "The Court finds that the violation of the Court’s Orders is willful and Defendant persisted in a pattern of refusal to give meaningful discovery responses."
+  - "The Court finds that terminating sanctions are authorized because less severe sanctions would be futile."
+```
+
+And here is the English-text summary:
+
+The Judge has issued a tentative ruling in a case between Roxana Eli, the plaintiff, and General Motors LLC, the defendant. The plaintiff moved for terminating sanctions against the defendant for failing to comply with court orders regarding Requests for Production of Documents (RPD). The defendant had failed to produce responsive documents and had provided incomplete and non-compliant responses. The court had ordered the defendant to supplement its responses, but the defendant failed to comply. The court finds that the defendant's violation of the court's orders was willful and that the defendant persisted in a pattern of refusal to provide meaningful discovery responses. As a result, the court granted the plaintiff's motion for terminating sanctions, striking the defendant's answer and entering default. The court also ordered the plaintiff to submit a default judgment package.
