@@ -1,0 +1,27 @@
+Here is the summary in YAML format:
+
+```
+---
+case_number: 22STCV07526
+plaintiff: CR&R Incorporated
+defendant: Robert O'Neill
+judges: Judge Mel Red Recana
+department: 45
+county: Los Angeles
+state: California
+filing_date: 03/02/2022
+trial_date: 08/05/2024
+hearing_date: 05/31/2024
+moving_party: Plaintiff CR&R Incorporated
+responding_party: Defendant Robert O'Neill
+motion: Motion to Compel Deposition
+motion_type: Compel Deposition
+factual_dispute: Failure to appear for deposition
+legal_standard: Code of Civil Procedure § 2025.450(a)
+judgment: Granting motion to compel deposition
+sanctions: $2,187.50
+```
+
+And here is a summary in English text:
+
+The Judge's Tentative Ruling in this case is about a motion to compel the deposition of Defendant Robert O'Neill. The Plaintiff, CR&R Incorporated, has filed a motion to compel the deposition of the Defendant, who failed to appear for a previously scheduled deposition. The Judge has granted the motion and ordered the Defendant to appear for deposition. The Judge also ordered the Defendant and his counsel to pay monetary sanctions in the reduced amount of $2,187.50 to the Plaintiff's counsel. The Defendant's failure to cooperate in discovery has resulted in this ruling.

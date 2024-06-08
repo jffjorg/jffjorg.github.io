@@ -1,0 +1,70 @@
+Here is the summary in YAML format:
+
+```
+case_number: 21STCV35861
+plaintiff_names:
+  - Olmes Edmundo Arias
+  - Melida Viera
+  - Camila Arias
+defendant_names:
+  - Devin Rudy Espinosa
+  - Rury Espinoza
+people_names:
+  - Arias
+  - Viera
+  - Espinosa
+  - Espinoza
+company_names: []
+places:
+  - Los Angeles
+  - California
+dates:
+  - September 29, 2021
+  - February 2, 2022
+  - September 26, 2024
+  - May 30, 2024
+events:
+  - Motor vehicle collision
+  - Trial
+  - Discovery
+  - Accident investigation
+  - Accident reconstruction
+  - Cross-complaint
+money: []
+intentions:
+  - Comparative indemnity
+  - Declaratory relief
+facts:
+  - Plaintiffs filed an action against defendants for damages arising from a motor vehicle collision.
+  - Defendants filed an answer to the complaint.
+  - Plaintiffs oppose the motion.
+disputes:
+  - Leave to file a cross-complaint
+acts:
+  - Filing an answer to the complaint
+  - Filing a cross-complaint
+  - Seeking leave to file a cross-complaint
+agreements:
+  - CCP § 412.20(a)(3)
+  - CCP § 428.50(a)
+  - CCP § 432.10
+laws:
+  - California Code of Civil Procedure (CCP)
+statutes:
+  - CCP § 426.50
+  - CCP § 428.50
+  - Code Civ. Proc., § 426.50
+roles:
+  - Plaintiff
+  - Defendant
+  - Guardian Ad Litem
+  - Accident reconstructionist
+significant_statements:
+  - The motion for leave to file a cross-complaint is therefore GRANTED.
+  - The motion must be granted unless bad faith of the moving party is demonstrated.
+  - Leave to file a permissive cross-complaint need only be granted in the interest of justice.
+```
+
+And here is the English-text summary:
+
+The tentative ruling grants the defendants' motion for leave to file a cross-complaint against the plaintiff, Olmes Edmundo Arias. The defendants seek to file a cross-complaint for comparative indemnity and declaratory relief, arguing that they were not certain of the plaintiff's liability and comparative fault until after discovery and the accident investigation. The plaintiff opposes the motion, citing delay in seeking leave to file the cross-complaint. The court finds that the motion must be granted unless bad faith of the moving party is demonstrated, and since there is no evidence of bad faith, the motion is granted. The defendants are ordered to file a separate copy of their proposed cross-complaint within five days of the date of the order.

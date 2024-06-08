@@ -1,0 +1,71 @@
+Here is the summary in YAML format:
+
+```
+case_number: 24STCV06590
+hearing_date: May 31, 2024
+department: 55
+plaintiff: Francesca Webb
+defendants: Bounty La, LLC and Cyrus Davar
+people_names:
+  - Neville Johnson
+company_names:
+  - Bounty La, LLC
+places:
+  - California
+dates:
+  - 2001
+  - 2008
+  - 2009
+events:
+  - Conversion
+  - Breach Of Fiduciary Duty
+  - Fraud
+  - Declaratory Relief
+  - Breach Of The Implied Covenant Of Good Faith And Fair Dealing
+  - Violation Of Civil Code § 3344
+  - Violation Of Common Law Rights Of Publicity
+  - Violation Of Lab. Code § 1700.25
+  - Violation Of Bus. & Pro. Code § 17200
+  - Accounting
+  - Petition to Determine Controversy
+  - Stay Action Pending Labor Commission Proceeding
+money:
+  - Damages
+intentions:
+  - To stay the action pending a final determination by the Labor Commission
+facts:
+  - Plaintiff brought the case against the defendants, alleging conversion, breach of fiduciary duty, fraud, and other causes of action
+  - The defendants filed a motion to stay the action pending the completion of Labor Commission proceedings
+  - The Labor Commissioner has exclusive jurisdiction over some issues in the case
+  - The case is based on the "Talent Agencies Act, Labor Code section 1700 et seq."
+disputes:
+  - Plaintiff disputes that the Labor Commission proceedings will conclusively resolve all issues between the parties
+acts:
+  - The defendants filed a Petition to Determine Controversy with the California Labor Commissioner
+agreements:
+  - The parties' written agreement
+laws:
+  - Labor Code section 1700 et seq.
+  - Civil Code § 3344
+  - Common Law Rights Of Publicity
+  - Bus. & Pro. Code § 17200
+  - Talent Agencies Act
+statutes:
+  - Labor Code section 1700 et seq.
+  - Talent Agencies Act
+roles:
+  - Judge
+  - Plaintiff (Francesca Webb)
+  - Defendants (Bounty La, LLC and Cyrus Davar)
+  - Labor Commissioner
+  - Neville Johnson (witness)
+  - Parties (Plaintiff and Defendants)
+significant_statements:
+  - The Court's current lack of jurisdiction over the case is clear
+  - A stay would promote efficiency by having at least some alleged issues resolved administratively
+  - The Labor Commissioner has exclusive jurisdiction over some issues in the case
+```
+
+And here is the English text to summarize the judge's tentative ruling:
+
+The defendants, Bounty La, LLC and Cyrus Davar, have moved to stay the action pending the completion of Labor Commission proceedings between the parties. The plaintiff, Francesca Webb, agrees that the Labor Commissioner has exclusive jurisdiction over some issues in the case and that the case should be stayed. The court finds that the Labor Commissioner has exclusive jurisdiction over some issues in the case and that staying the action would promote efficiency. Therefore, the court grants the non-opposed motion and stays the action pending a final determination by the Labor Commission.

@@ -1,0 +1,81 @@
+Here is the summary in YAML format:
+
+```yaml
+case_number: 20STCV03496
+hearing_date: 2024-06-04
+department: T
+moving_party: Defendant HD Supply Construction Supply, Limited Partnership
+responding_party: Plaintiff Armando Ruiz Carlos
+tentative_ruling: Deny as moot; Sanctions awarded
+
+people:
+  - Defendant: HD Supply Construction Supply, Limited Partnership
+  - Plaintiff: Armando Ruiz Carlos
+
+companies:
+  - HD Supply Construction Supply, Limited Partnership
+
+places:
+  - None
+
+dates:
+  - May 5, 2024
+  - 2024-06-04
+
+events:
+  - Defendant filed motions to compel discovery responses
+  - Plaintiff failed to respond to discovery requests
+  - Court considered moving, opposition, and reply papers
+
+money:
+  - $484 (2.2 hrs. x $220/hr.) for request for admissions
+  - $440 (2 hr. x $220/hr.) for special interrogatories
+  - $506 (2.3 hrs. x $220/hr.) for form interrogatories
+  - $462 (2.1 hrs. $220/hr.) for request for production of documents
+  - Total sanctions: $1,892
+
+intentions:
+  - Defendant seeks to compel discovery responses
+  - Plaintiff failed to respond to discovery requests
+
+facts:
+  - Defendant filed motions to compel discovery responses
+  - Plaintiff failed to respond to discovery requests
+  - Court considers discovery requests and responses
+
+disputes:
+  - Defendant seeks to compel discovery responses
+  - Plaintiff failed to respond to discovery requests
+
+acts:
+  - Defendant filed motions to compel discovery responses
+  - Plaintiff failed to respond to discovery requests
+  - Court considered moving, opposition, and reply papers
+
+agreements:
+  - None
+
+laws:
+  - Code of Civil Procedure sections 2030.290 and 2031.300
+  - Code of Civil Procedure section 2033.280
+  - Cal. Rules of Court, Rule 3.1348(a)
+
+case_citations:
+  - Code of Civil Procedure sections 2030.290 and 2031.300
+  - Code of Civil Procedure section 2033.280
+  - Cal. Rules of Court, Rule 3.1348(a)
+
+roles:
+  - Judge: [Judge's name]
+  - Defendant: HD Supply Construction Supply, Limited Partnership
+  - Plaintiff: Armando Ruiz Carlos
+  - Counsel: [Counsel's name]
+
+significant_statements:
+  - Defendant's motions to compel discovery responses are MOOT
+  - Sanctions are imposed against Plaintiff and counsel of record in the amount of $1,892
+```
+
+And here is a summary of the judge's tentative ruling in English text:
+
+The court has considered the motions to compel discovery responses filed by the defendant, HD Supply Construction Supply, Limited Partnership. The plaintiff, Armando Ruiz Carlos, failed to respond to the discovery requests, necessitating the motion practice. Although the requested discovery has been provided, sanctions are warranted. The court finds the amounts requested by the defendant for the motions related to request for admissions, special interrogatories, form interrogatories, and request for production of documents to be reasonable. The court awards total sanctions of $1,892 to be paid by the plaintiff and counsel of record within 30 days of notice.

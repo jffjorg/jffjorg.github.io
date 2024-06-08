@@ -1,0 +1,70 @@
+Here is the summary in YAML format:
+
+```
+case_number: 23STCV09430
+plaintiff: Sung Sik Lim
+defendant: Peter Eunsang Kim
+people:
+  - Sung Sik Lim
+  - Peter Eunsang Kim
+company_names:
+  - Papilion, Inc.
+  - Concerto Restaurant
+places:
+  - California
+dates:
+  - 2020-01-31 (restaurant lease expiration)
+  - 2023-04-27 (complaint filed)
+  - 2023-12-29 (first amended complaint filed)
+  - 2024-04-15 (informal discovery conference)
+  - 2024-05-02 (motion filed)
+  - 2024-06-03 (tentative ruling)
+events:
+  - Motion to Compel Further Responses to Special Interrogatories
+  - Motion to Compel Further Responses to Requests for Production
+  - Unlawful detainer action
+  - Demurrer to the Complaint
+  - Informal Discovery Conference
+money:
+  - $3,435 (requested sanctions)
+intentions:
+  - To compel further responses to special interrogatories and requests for production
+  - To seek sanctions against defendant
+facts:
+  - Defendant failed to respond to plaintiff's requests for production and special interrogatories
+  - Defendant's objections were deemed invalid
+disputes:
+  - Failure to respond to discovery requests
+  - Invalid objections to discovery requests
+acts:
+  - Plaintiff propounded special interrogatories and requests for production
+  - Defendant failed to respond to these requests
+  - Plaintiff moved to compel further responses
+  - Defendant failed to justify objections
+agreements:
+  - Defendant's counsel agreed to an extension of the time to file the motion
+laws:
+  - California Civil Procedure Code
+  - California Rules of Court
+case_citations:
+  - Sexton v. Superior Court (1997) 58 Cal.App.4th 1403
+  - Vidal Sassoon, Inc. v. Superior Court (1983) 147 Cal.App.3d 681
+  - TBG Ins. Servs. Corp. v. Superior Court (2002) 96 Cal.App.4th 443
+statutes:
+  - California Code of Civil Procedure
+roles:
+  - Judge: Theresa M. Traber
+  - Plaintiff: Sung Sik Lim
+  - Defendant: Peter Eunsang Kim
+  - Counsel: Dennis McPhillips
+significant_statements:
+  - Defendant's objections were deemed invalid
+  - Plaintiff is entitled to an order compelling further responses
+  - Defendant is ordered to provide verified, code compliant responses without objections within 30 days of this order
+```
+
+Here is the summary in English text:
+
+**Case Summary**
+
+The case is a dispute between Sung Sik Lim (Plaintiff) and Peter Eunsang Kim (Defendant) regarding a restaurant business and a lease agreement. The Plaintiff seeks to compel further responses to special interrogatories and requests for production. The Defendant failed to respond to these requests, and the Plaintiff moved to compel further responses. The Court granted the Plaintiff's motion, ordering the Defendant to provide verified, code-compliant responses without objections within 30 days. The Plaintiff also requested sanctions against the Defendant, but the Court denied the request. The Defendant is ordered to provide responses to the requests for production and special interrogatories.

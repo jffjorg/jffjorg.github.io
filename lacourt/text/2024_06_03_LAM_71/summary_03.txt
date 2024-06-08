@@ -1,0 +1,21 @@
+Here is a summary of the tentative ruling in YAML format:
+
+```
+case_number: 23STCV09051
+hearing_date: 2024-06-03
+department: 71 Superior Court of California, County of Los Angeles
+
+plaintiff:
+  name: Almost Nothing, Inc.
+defendants:
+  - Pacific Printex Corp.
+  - Morad Ben Neman
+  - Los Angeles ML, LLC
+  - Shawn Simon Neman
+  - Brian Neman
+
+causes_of_action:
+  - Breach of Joint Venture (1st COA)
+  - Breach of Warranty of Good Faith and Fair Dealing (2nd COA)
+  - Breach of Fiduciary Duty (3rd COA)
+  - Declaratory Relief (4th COA

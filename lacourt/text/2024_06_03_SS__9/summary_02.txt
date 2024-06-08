@@ -1,0 +1,47 @@
+Here is the summary in YAML format:
+
+```
+case_number: 24STCP00025
+hearing_date: 2024-06-03
+dept: 9
+petitioner:
+  name: Petitioner
+  role: Petitioner
+  intentions:
+    - ensure new name is correctly spelled and legible
+    - submit corrected proposed decree if necessary
+  facts:
+    - new name is proposed on the decree
+  disputes:
+    - clarity and correctness of new name
+  acts:
+    - review and sign the decree
+  agreements:
+    - sign the decree in its current form
+  laws:
+    - case citations: [insert citations]
+  statutes:
+    - [insert statutes]
+  roles:
+    - Judge
+    - Petitioner
+  significant_statements:
+    - "NO APPEARANCE IS NECESSARY" if satisfied with new name
+    - "Petitioner must appear at the hearing" if new name is not clear
+  money: $0
+  places:
+    - Room 112 of the Clerk's Office
+  dates:
+    - seven days after the date of the hearing
+  events:
+    - hearing on June 3, 2024
+  people:
+    - Judge
+    - Petitioner
+  company_names: []
+  case_citations: []
+```
+
+And here is the English-text summary:
+
+The judge's tentative ruling grants the petition and allows the petitioner to change their name. However, the petitioner must review the proposed decree to ensure that the new name is correctly spelled and legible. If the new name is clear and correctly spelled, no appearance is necessary. But if the name is not clear, the petitioner must appear at the hearing to submit a corrected proposed decree. Once the decree is signed, it cannot be amended without a new petition to change name. A copy of the signed decree will be available in Room 112 of the Clerk's Office seven days after the hearing date.

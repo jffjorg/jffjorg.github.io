@@ -1,0 +1,50 @@
+Here is the summary in YAML format:
+
+```
+Case Number: 2022-001234
+Plaintiff's Name: Suny Khurana
+Defendant's Name: Guy Giat and S Visions Construction, Inc.
+People-Names:
+  - Suny Khurana
+  - Guy Giat
+Company-Names:
+  - S Visions Construction, Inc.
+Places:
+  - California
+Dates:
+  - November 23, 2021
+  - May 31, 2022
+Events:
+  - Breach of contract
+  - Disgorgement
+  - Common counts
+  - Conversion
+Money:
+  - Settlement Agreement and General Release
+Intentions:
+  - Bifurcate trial
+  - Seal certain documents
+Facts:
+  - Plaintiff entered into two contracts with Defendants
+  - Defendants did not properly complete the work
+  - Plaintiff was forced to hire another contractor
+  - Defendants took Plaintiff's money but refused to commence work
+Disputes:
+  - Are Plaintiff's claims against Defendants barred by the Settlement Agreement and General Release?
+  - Are Defendants licensed contractors with the California State Contractor's License Board?
+Acts:
+  - Motion to Bifurcate
+  - Motion to Seal
+Laws:
+  - California Rules of Court 2.550(c)
+  - California Constitution, Article I, Section 3, Subdivision (b)(1)
+  - Civil Code § 3295(d)
+Statutes:
+  - California Rules of Court, rule 2.550(d)
+Roles:
+  - Judge
+  - Plaintiff
+  - Defendant
+  - Counsel
+Significant Statements:
+  - "The court may order that a record be filed under seal only if it expressly finds facts that establish...".

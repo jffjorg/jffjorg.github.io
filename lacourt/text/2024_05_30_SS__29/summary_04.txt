@@ -1,0 +1,83 @@
+Here is the summary in YAML format:
+
+```yaml
+case_number: 21STCV02487
+plaintiff: Francisco Fierro
+defendant: City of Downey, County of Los Angeles, City of Los Angeles, NR Development, Inc.
+people_names:
+  - Francisco Fierro
+  - City of Downey
+  - County of Los Angeles
+  - City of Los Angeles
+  - NR Development, Inc.
+company_names:
+  - NR Development, Inc.
+places:
+  - Downey
+  - Los Angeles
+dates:
+  - January 21, 2021
+  - August 18, 2022
+  - September 19, 2022
+  - November 18, 2022
+  - June 5, 2023
+  - October 24, 2023
+  - November 22, 2023
+  - February 13, 2024
+  - December 7, 2023
+  - January 9, 2024
+  - March 20, 2024
+  - April 12, 2024
+  - May 16, 2024
+  - May 22, 2024
+  - May 30, 2024
+events:
+  - Premises liability and general negligence lawsuit
+  - Discovery disputes
+  - Motions to compel
+  - Request for admissions
+  - Interrogatories
+money:
+  - Monetary sanctions
+intentions:
+  - To compel NR to respond to Form Interrogatories
+  - To deem NR to have admitted as true the matters specified in Requests for Admission
+facts:
+  - NR failed to provide timely responses to Form Interrogatories and Requests for Admission
+  - City filed motions to compel and for an order deeming NR to have admitted as true
+  - NR sent verifications on March 20, 2024
+disputes:
+  - City vs. NR Development, Inc.
+acts:
+  - NR failed to respond timely to Form Interrogatories and Requests for Admission
+  - City filed motions to compel and for an order deeming NR to have admitted as true
+  - NR provided verifications on March 20, 2024
+agreements:
+  - None
+laws:
+  - California Code of Civil Procedure
+  - California Rules of Court
+  - California Civil Discovery Act
+case_citations:
+  - Code Civ. Proc., § 2030.260
+  - Code Civ. Proc., § 2030.290
+  - Code Civ. Proc., § 2033.250
+  - Code Civ. Proc., § 2033.280
+  - Code Civ. Proc., § 2023.010
+  - Code Civ. Proc., § 2023.030
+statutes:
+  - California Code of Civil Procedure
+  - California Rules of Court
+  - California Civil Discovery Act
+roles:
+  - Plaintiff: Francisco Fierro
+  - Defendant: City of Downey, County of Los Angeles, City of Los Angeles, NR Development, Inc.
+significant_statements:
+  - City made false statements in its moving papers regarding NR's failure to provide verifications.
+  - The Court will hear from counsel regarding whether the false statements were intentional or accidental.
+  - The motions are continued for at least 21 days.
+```
+
+And here is a summary of the tentative ruling in English text:
+
+The Court will consider two discovery disputes between City and NR Development, Inc. (NR) on May 30, 2024. City filed motions to compel NR to respond to Form Interrogatories and for an order deeming NR to have admitted as true the matters specified in Requests for Admission. NR failed to provide timely responses to these discovery requests. City made false statements in its moving papers regarding NR's failure to provide verifications. The Court will hear from counsel regarding whether these false statements were intentional or accidental. The motions are continued for at least 21 days.

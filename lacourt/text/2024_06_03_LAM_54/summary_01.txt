@@ -1,0 +1,62 @@
+Here is the summary in YAML format:
+
+```
+case_number: 22STCV28297
+plaintiff_name: Marcia Mohler
+defendant_names:
+  - Emerge Capital Management, Inc.
+  - Lisa Langley
+people_names:
+  - Marcia Mohler
+  - Lisa Langley
+  - Maurice A. Leiter
+company_names:
+  - Emerge Capital Management, Inc.
+places:
+  - Superior Court of California
+    - County of Los Angeles
+dates:
+  - August 30, 2022
+  - March 21, 2024
+  - April 23, 2024
+  - June 3, 2024
+events:
+  - Motion to Compel Deposition
+  - Deposition of Defendant Lisa Langley
+  - Notice of Ruling
+money:
+  - Sanctions
+intentions:
+  - To compel Defendant Langley's deposition
+  - To set a deposition schedule for Defendant Emerge's PMK and employee-witnesses
+facts:
+  - Plaintiff alleges claims for employment discrimination and failure to accommodate
+  - Plaintiff filed a complaint against Defendants on August 30, 2022
+  - Defendant Langley refused to appear for depositions
+  - Defendant Emerge refused to produce their PMK and employee-witnesses
+disputes:
+  - Plaintiff's motion to compel deposition
+  - Defendant Emerge's refusal to produce PMK and employee-witnesses
+acts:
+  - Plaintiff's motion to compel deposition
+  - Defendant Langley's refusal to appear for deposition
+  - Defendant Emerge's refusal to produce PMK and employee-witnesses
+agreements:
+  - Plaintiff's request for sanctions
+  - Defendant Emerge's refusal to produce PMK and employee-witnesses
+laws:
+  - CCP § 2025.410
+  - CCP § 2025.450, subd. (a)
+statutes:
+  - California Code of Civil Procedure (CCP)
+roles:
+  - Plaintiff (Marcia Mohler)
+  - Defendant (Emerge Capital Management, Inc. and Lisa Langley)
+  - Judge (Maurice A. Leiter)
+significant_statements:
+  - "If, after service of a deposition notice, a party to the action … without having served a valid objection under Section 2025.410, fails to appear for examination, or to proceed with it, or to produce for inspection any document, electronically stored information, or tangible thing described in the deposition notice, the party giving the notice may move for an order compelling the deponent's attendance and testimony, and the production for inspection of any document, electronically stored information, or tangible thing described in the deposition notice." (CCP § 2025.450, subd. (a))
+```
+
+And here is the summary in English text:
+
+The Judge's tentative ruling grants the plaintiff's motion to compel the deposition of Defendant Lisa Langley. The plaintiff has attempted to depose Langley several times, but she has refused to appear. The Court finds that Langley is a named defendant in the action and is therefore entitled to be deposed. The Court declines to make orders on the deposition schedule for Defendant Emerge's PMK and employee-witnesses, given Emerge's status as an unrepresented entity. The plaintiff's request for sanctions is denied because the plaintiff has not provided an attorney declaration calculating or justifying sanctions.

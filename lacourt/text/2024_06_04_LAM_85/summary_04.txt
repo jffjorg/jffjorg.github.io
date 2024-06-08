@@ -1,0 +1,84 @@
+Here is the tentative ruling in YAML format:
+
+```
+case_number: unknown
+plaintiff_name: Petitioners
+defendant_name: City
+people_names:
+  - Petitioners
+  - City
+company_names:
+  - Los Angeles Department of Building and Safety (LADBS)
+  - City of Los Angeles
+  - Commission
+places:
+  - Los Angeles
+  - Dougherty House
+  - Hermitage
+dates:
+  - July 31, 2023
+  - September 7, 2023
+  - September 8, 2023
+  - October 15, 2019
+  - June 16
+events:
+  - Notice of Proposed Demolition
+  - Demolition permit
+  - Grading permit
+  - City Council motion
+  - Commission nomination
+  - City Council approval
+  - CPRA inquiry
+  - Real estate report
+money:
+  - $8.35 million
+intentions:
+  - To preserve the status quo
+  - To protect the Property
+facts:
+  - The City issued a demolition permit
+  - The Property is a potential historic-cultural monument
+  - The City Council will consider designation of the Property as a historic-cultural monument
+disputes:
+  - Whether the City Council will designate the Property as a historic-cultural monument
+acts:
+  - Demolition permit issued by LADBS
+  - Grading permit issued by the City
+  - City Council motion
+  - Commission nomination
+  - CPRA inquiry
+  - Real estate report
+agreements:
+  - LAAC §22.171.7
+  - LAAC §22.171.1
+  - LAMC section 91.106.4.5.1
+  - LAAC §22.171.10(d)
+laws:
+  - Agricultural Labor Relations Bd. v. Superior Court
+  - Teachers Ins. & Annuity Assoc. v. Furlotti
+  - CCP §526(a)(3)
+  - Evid. Code §§ 452(b), (c), (d)
+  - Evans v. City of Berkeley
+  - San Clemente Estates v. City of San Clemente
+statutes:
+  - LAAC §22.171.7
+  - LAAC §22.171.1
+  - LAMC section 91.106.4.5.1
+  - LAAC §22.171.10(d)
+roles:
+  - Petitioners
+  - City
+  - Commission
+  - LADBS
+  - City Council
+  - Planning Department
+  - Department of Planning
+significant statements:
+  - The court grants judicial notice of Exhibits Ex. 10, 11, 31, 32, and 53.
+  - The court denies judicial notice of Exhibits 1, 12, 46, 47, and 54.
+  - The court finds that the outcome before the City Council is virtually assured.
+```
+
+And here is the English text summarizing the judge's tentative ruling:
+
+The court has issued a tentative ruling on the petition for injunctive relief. The court has granted judicial notice of certain exhibits, including the demolition permit, grading permit, and Los Angeles Municipal Code section 91.106.4.5.1. The court has denied judicial notice of other exhibits, including the notice of proposed demolition and the September 11, 2023 letter from the City's Permit and Engineering Bureau. The court has also denied the City's request for judicial notice of the real estate report showing the last sale of the Property for $8.35 million. The court has ruled on the petitioners' written evidentiary objections and has directed the clerk to scan and electronically file the court's rulings. The court has also found that the outcome before the City Council is virtually assured, and that it is futile for the petitioners to fight City Hall.

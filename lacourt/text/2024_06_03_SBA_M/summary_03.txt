@@ -1,0 +1,60 @@
+Here is the summary in YAML format:
+
+```
+case_number: BC55801
+plaintiff_names:
+  - Jason Nicholson
+defendant_names:
+  - Southern California Edison
+people_names: []
+company_names: []
+places: []
+dates:
+  - March 29, 2017
+  - April 15, 2015
+  - August 2, 2019
+  - June 22, 2021
+  - June 3, 2024
+events: []
+money: []
+intentions:
+  - To determine if Defendant's motion for summary adjudication is granted or denied
+facts:
+  - Plaintiffs alleged that they were injured in an electrical discharge while working on a maintenance project
+  - Plaintiffs alleged that Defendant failed to de-energize the cables and equipment
+  - Defendant moved for summary adjudication of the claim for punitive damages
+disputes:
+  - Whether Defendant's motion for summary adjudication should be granted
+acts:
+  - Defendant filed a motion for summary adjudication
+  - Plaintiffs filed opposition to Defendant's motion
+  - Judge reviewed the discovery responses and made a tentative ruling
+agreements: []
+laws:
+  - California Code of Civil Procedure
+  - California Public Utilities Code
+  - Evidence Code
+  - Code of Civil Procedure section 437c
+  - Code of Civil Procedure section 437c(f)(2)
+  - Code of Civil Procedure section 437c(p)(2)
+  - Code of Civil Procedure section 1008(b)
+  - Public Utilities Code section 2106
+  - Public Utilities Code section 452(d)
+statutes:
+  - Code of Civil Procedure section 437c
+  - Code of Civil Procedure section 437c(f)(2)
+  - Code of Civil Procedure section 437c(p)(2)
+  - Code of Civil Procedure section 1008(b)
+  - Public Utilities Code section 2106
+  - Public Utilities Code section 452(d)
+roles:
+  - Judge: Gary Y. Tanaka
+significant_statements:
+  - Defendant's motion for summary adjudication of the claim for punitive damages is denied.
+  - Plaintiffs' factually devoid discovery responses do not render the entirety of the discovery responses "factually devoid."
+  - The burden of proof is not met when plaintiffs produce discovery responses that do not exclude the possibility that plaintiffs may possess or may reasonably obtain evidence to establish the claim.
+```
+
+And here is a brief summary of the judge's tentative ruling:
+
+The judge denied Defendant's motion for summary adjudication of the claim for punitive damages. The judge found that Defendant failed to meet its burden of proof under the Union Bank standard, as the discovery responses provided by Plaintiffs were not entirely devoid of facts. The judge also noted that the responses referred to previously produced documentary evidence that supported Plaintiffs' claim for punitive damages. As a result, the judge declined to shift the burden of proof to Plaintiffs.

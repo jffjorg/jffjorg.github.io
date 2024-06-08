@@ -1,0 +1,62 @@
+Here is the YAML summary of the tentative ruling:
+
+```
+case_number: 24LBCV00641
+plaintiff: Sharereh Moazed
+defendant: Mercedes-Benz USA, LLC and Fletcher Jones Motor Cars, Inc.
+people: Sharereh Moazed, Defense Counsel
+company_names: Mercedes-Benz USA, LLC, Fletcher Jones Motor Cars, Inc.
+places: Orange County Superior Court, Department S27
+dates:
+  - 5/21/24: Plaintiff filed Notice of Non-Opposition
+  - 4/15/24: Defense Counsel emailed Plaintiff's attorney
+  - 4/22/24: Deadline for Plaintiff's response
+  - 4/25/24: Plaintiff did not respond
+  - 6/4/24: Hearing Date
+  - 6/17/24: OSC re: proof of service (vacated)
+  - 9/03/24: CMC (vacated)
+  - 7/16/24: OSC re: dismissal in light of transfer
+events:
+  - Motion to Transfer Venue
+  - Order to pay fees and costs
+  - Sanctions against Plaintiff's attorney
+money:
+  - Fees: $1410
+  - Costs: unknown
+intention:
+  - Transfer the case to Orange County Superior Court
+  - Award sanctions against Plaintiff
+facts:
+  - Plaintiff filed the action in the wrong court
+  - All defendants reside in Orange County
+  - All acts giving rise to the litigation occurred in Orange County
+disputes:
+  - Transfer of venue
+  - Fees and costs
+  - Sanctions against Plaintiff's attorney
+acts:
+  - Defendant moved to transfer venue
+  - Plaintiff did not oppose the motion
+  - Defendant seeks payment of fees and costs
+  - Plaintiff's attorney did not respond to Defense Counsel's email
+agreements:
+  - Plaintiff will pay all fees and costs associated with the transfer
+  - Defendant will receive sanctions against Plaintiff's attorney
+laws:
+  - CCP §399(a)
+  - CCP §396b(b)
+  - CCP §399
+  - Stasz v. Eisenberg (2010) 190 Cal.App.4th 1032, 1037
+roles:
+  - Plaintiff: Sharereh Moazed
+  - Defendant: Mercedes-Benz USA, LLC and Fletcher Jones Motor Cars, Inc.
+  - Defense Counsel
+significant_statements:
+  - Plaintiff did not oppose the motion to transfer venue
+  - Defendant seeks payment of fees and costs
+  - Plaintiff's attorney did not respond to Defense Counsel's email
+```
+
+English-text summary:
+
+This tentative ruling concerns a motion to transfer venue from the current court to Orange County Superior Court. The defendant, Mercedes-Benz USA, LLC and Fletcher Jones Motor Cars, Inc., seeks to transfer the case, citing that all defendants reside in Orange County and all acts giving rise to the litigation occurred in Orange County. The plaintiff, Sharereh Moazed, did not oppose the motion. The court orders the plaintiff to pay all fees and costs associated with the transfer. Additionally, the court awards sanctions against the plaintiff's attorney in the amount of $1410.

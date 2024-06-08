@@ -1,0 +1,24 @@
+Here is a summary of the tentative ruling in YAML format:
+
+```
+case_number: 23PSCV01590
+hearing_date: 2024-06-03
+dept: 6
+case_name: Xchange USA Inc. v. MEG Home Plus, LLC, et al.
+tentative_ruling:
+  - Anti-SLAPP: DENIED
+  - Demurrer: SUSTAINED (with leave to amend)
+  - Motion to Strike: SUSTAINED (with leave to amend)
+  - Common Count: SUSTAINED (with leave to amend)
+issues:
+  - Anti-SLAPP: Moving Parties' anti-SLAPP motion was denied as the Court found that the cross-complaint was not directed at protected activity.
+  - Demurrer: The demurrer was sustained with leave to amend as the First Cause of Action for breach of contract was uncertain and the Second Cause of Action for common count: open book account was based on the same facts as the First Cause of Action.
+  - Motion to Strike: The motion to strike was sustained with leave to amend as the Court found that the addition of Xchange Logistics as a plaintiff was permitted under Code of Civil Procedure section 472.
+  - Common Count: The demurrer was sustained with leave to amend as the Second Cause of Action for common count: open book account was based on the same facts as the First Cause of Action.
+people:
+  - Xchange USA Inc.
+  - MEG Home Plus, LLC
+  - Xchange Logistics Corporation
+  - Mia Zhang
+  - Jie Li
+  -

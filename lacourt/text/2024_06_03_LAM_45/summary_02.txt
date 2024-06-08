@@ -1,0 +1,67 @@
+Here is the YAML summary:
+
+```
+case_number: 22STCV27993
+plaintiffs:
+  - name: SUZANNE M. EMERSON
+  - name: AUSTIN J. COOK
+defendants:
+  - name: JEFFREY L MARTIN
+people_names:
+  - Suzanne M. Emerson
+  - Austin J. Cook
+  - Jeffrey L. Martin
+company_names: []
+places:
+  - Los Angeles
+  - California
+dates:
+  - 08/29/22 (filing date)
+  - 12/04/23 (substitution of party)
+  - 01/17/24 (filing of motion)
+  - 07/29/24 (trial date)
+  - 06/03/24 (hearing date)
+events:
+  - Partition
+  - Breach of contract
+  - Fraud
+  - Conversion
+  - Theft
+money:
+  - $1,526.65 (sanctions)
+  - $1,976.65 (initial request for sanctions)
+intentions:
+  - Compel inspection of real property
+  - Obtain discovery
+facts:
+  - Plaintiffs filed action against Defendant
+  - Defendant refused to leave property
+  - Plaintiffs' counsel sent requests for inspection
+  - Defendant did not respond
+  - Plaintiffs' counsel hired attorney support to videotape inspection
+disputes:
+  - Defendant's refusal to allow inspection
+acts:
+  - Plaintiffs filed action against Defendant
+  - Plaintiffs sent requests for inspection
+  - Defendant failed to respond
+  - Plaintiffs' counsel hired attorney support to videotape inspection
+agreements:
+  - None
+laws:
+  - CCP § 2031.010
+  - CCP § 2031.210
+  - CCP § 2031.320
+  - CRC 3.1348
+  - Penal Code § 496(c)
+  - CCP § 872.230
+roles:
+  - Judge: MEL RED RECANA
+  - Plaintiffs' counsel: [name]
+  - Defendant's counsel: [name]
+significant_statements:
+  - Defendant refused to leave property
+  - Plaintiffs' counsel sent requests for inspection
+  - Defendant failed to respond
+  - Plaintiffs' counsel hired attorney support to videotape inspection
+  - Sanctions imposed against Defendant

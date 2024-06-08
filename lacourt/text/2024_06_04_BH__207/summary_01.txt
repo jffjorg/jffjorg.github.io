@@ -1,0 +1,61 @@
+Here is a summary of the tentative ruling in YAML format:
+
+```
+case_number: 22STCV14240
+hearing_date: June 4, 2024
+dept: 207
+
+parties:
+  - name: Michelle Ortiz (Plaintiff)
+  - name: David Frey, DDS (Defendant)
+
+motions:
+  - description: Motion for Protective Order and/or Appointment of a Discovery Referee and Monetary Sanctions against Plaintiff and/or Plaintiff’s Attorney
+  - description: Motion for Protective Order; Request for Sanctions
+
+issues:
+  - dispute: Dispute over HIPAA protected information about Defendant’s current and past patients
+  - dispute: Dispute over Defendant’s alleged improper behavior during deposition
+
+facts:
+  - During deposition, Plaintiff sought the full identity of “Frida” and asked questions about HIPAA rules
+  - Defendant asserted improper Speaking/Coaching objections during the deposition
+  - Plaintiff and Defendant both engaged in conduct that ran afoul of the Guidelines for Civility in Litigation
+
+intentions:
+  - Plaintiff seeks a protective order preventing Defendant from asserting improper objections/instructions
+  - Defendant seeks a protective order precluding Mai from revealing HIPAA protected information about Defendant’s current and past patients
+
+disputes:
+  - Plaintiff and Defendant dispute the scope of HIPAA protected information
+  - Plaintiff and Defendant dispute the propriety of Defendant’s alleged behavior during deposition
+
+acts:
+  - Plaintiff sought the full identity of “Frida”
+  - Defendant asserted improper Speaking/Coaching objections during the deposition
+  - Plaintiff and Defendant both engaged in conduct that ran afoul of the Guidelines for Civility in Litigation
+
+agreements:
+  - None
+
+laws:
+  - Code of Civil Procedure section 2025.420
+  - Code of Civil Procedure section 639
+  - Code of Civil Procedure section 2023.010
+
+case_citations:
+  - Stadish v. Superior Court (1999) 71 Cal.App.4th 1130, 1145
+  - Hood v. Superior Court (1999)
+  - Taggares v. Superior Court (1998) 62 Cal.App.4th 94, 105-106
+
+roles:
+  - Judge Michael E. Whitaker
+
+significant_statements:
+  - The Court finds that both parties misused the discovery process by opposing each other’s motions without substantial justification.
+  - The Court exercises its discretion and declines to award monetary sanctions.
+```
+
+And here is a summary of the tentative ruling in English text:
+
+The Court rules in part and denies in part both motions for a protective order. The Court grants a protective order limiting the deposition of Mai to 4 hours, excluding breaks, and sets the deadline for completion of the deposition on or before June 13, 2024. The Court also orders the parties to adhere to the Guidelines for Civility in Litigation and to meet and confer in a collaborative fashion forthwith. The Court denies both parties' requests to appoint a discovery referee and for monetary sanctions. The Court observes that non-expert discovery is closed as of June 3, 2024, and denies Plaintiff's requests that the Court order Defendant to appear for deposition and to continue the trial.

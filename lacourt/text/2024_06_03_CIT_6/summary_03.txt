@@ -1,0 +1,47 @@
+Here is the summary in YAML format:
+
+```
+case:
+  number: " [Case Number]"
+  plaintiff:
+    name: "[Plaintiff's Name]"
+  defendant:
+    name: "[Defendant's Name]"
+  people:
+    - Xchange USA, Inc.
+    - Xchange Logistics Corporation
+  companies:
+    - Xchange USA, Inc.
+    - Xchange Logistics Corporation
+  places:
+  dates:
+    - March 29, 2024
+    - April 2, 2024
+  events:
+    - Filing of anti-SLAPP motion
+    - Refiling of anti-SLAPP motion
+  money:
+  intentions:
+    - To clarify which plaintiff is being referred to
+  facts:
+    - Plaintiffs failed to specify which plaintiff was referring to
+  disputes:
+    - Dispute over which plaintiff is being referred to
+  acts:
+    - Filing of anti-SLAPP motion
+    - Refiling of anti-SLAPP motion
+  agreements:
+  laws:
+    - [Case Citations]
+  statutes:
+  roles:
+    - Cross-Defendants
+    - Plaintiffs
+  significant statements:
+    - "MEG’s opposition predates the anti-SLAPP motion"
+    - "The Court admonishes Plaintiffs to be clear in their documents filed with the Court"
+```
+
+And here is the English-text summary:
+
+The Judge's tentative ruling addresses the filing of an anti-SLAPP motion by Cross-Defendants, which was initially rejected due to a filing error and subsequently refiled. The Court notes that Cross-Defendants failed to specify which company they were referring to, whether Xchange USA, Inc. or Xchange Logistics Corporation. The Plaintiffs also failed to specify which plaintiff was being referred to in several instances. The Judge admonishes the Plaintiffs to be clear in their documents filed with the Court, given the similarities between the names of the companies.

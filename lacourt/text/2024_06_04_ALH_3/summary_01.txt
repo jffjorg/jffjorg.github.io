@@ -1,0 +1,60 @@
+Here is the summary in YAML format:
+
+```
+case_number: 19STCV34640
+plaintiff: Jose R. Rocaleon
+defendant: Harley-Davidson Motor Company Group, LLC, TMCHB, Inc. dba Huntington Beach Harley-Davidson
+people_names:
+  - Leah Orloff
+companies:
+  - Harley-Davidson Motor Company Group, LLC
+  - TMCHB, Inc. dba Huntington Beach Harley-Davidson
+places:
+  - California
+  - Los Angeles
+  - Northeast District
+dates:
+  - June 4, 2024
+  - April 6, 2024
+events:
+  - Motion to seal evidence
+  - Motion for Summary Judgment/Summary Adjudication
+  - Declaration of Leah Orloff
+money:
+  - Confidential information regarding the seat mounting system for the motorcycle model
+  - Economic value of the information
+intentions:
+  - To seal portions of the Orloff MSJ Declaration and Exhibit BB
+facts:
+  - The Orloff MSJ Declaration includes engineering drawings for the motorcycle seat
+    which contain sensitive and confidential information
+  - The drawings are labeled as restricted and confidential
+  - Access to the drawings is controlled and requires prior written consent
+disputes:
+  - Whether the proposed sealing is necessary to protect the confidential information
+acts:
+  - Leah Orloff's declaration attesting to the need for the information to be sealed
+  - Harley-Davidson's employees signing confidentiality agreements upon hire
+agreements:
+  - Confidentiality agreements between Harley-Davidson and its employees
+  - Prior written consent required for access to the engineering drawings
+laws:
+  - California law regarding confidentiality and trade secrets
+  - Federal law regarding trade secrets
+case_citations:
+  - California Code of Civil Procedure § 2017.020
+statutes:
+  - California Civil Code § 3422
+roles:
+  - Judge: William A. Crowfoot
+  - Plaintiff: Jose R. Rocaleon
+  - Defendant: Harley-Davidson Motor Company Group, LLC, TMCHB, Inc. dba Huntington Beach Harley-Davidson
+  - Witness: Leah Orloff
+significant_statements:
+  - The proposed sealing is narrowly tailored and the least restrictive means available to protect Defendants' interest
+  - The economic value of the information is dependent on it not being known or ascertainable by Harley-Davidson's competitors in the highly competitive motorcycle manufacturing industry or the public
+```
+
+And here is the English text to summarize the judge's tentative ruling:
+
+"The Court grants the motion to seal portions of the Orloff MSJ Declaration and Exhibit BB. The motion was made by the defendants, Harley-Davidson Motor Company Group, LLC, and TMCHB, Inc. dba Huntington Beach Harley-Davidson, to protect confidential information regarding the seat mounting system for the motorcycle model. The information is labeled as restricted and confidential and includes engineering drawings for the motorcycle seat. The Court finds that there exists an overriding interest in maintaining the proprietary and confidential nature of the information, and that the defendants' interest in sealing the information overcomes the right of the public access to the records. The proposed sealing is narrowly tailored and the least restrictive means available to protect the defendants' interest. The motion is granted, and the following portions of the Orloff MSJ Declaration are sealed: page 4, lines 12 through 18, page 8, lines 1 through 8 and 21 through 27, page 10, lines 3 through 10, and Exhibit BB."

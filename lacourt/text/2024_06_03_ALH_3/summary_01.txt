@@ -1,0 +1,73 @@
+Here is the summary in YAML format:
+
+```
+case_number: 23AHCV02173
+plaintiff: Kristina Hovakimyan
+defendant: City of Los Angeles and County of Los Angeles
+people:
+  - Kristina Hovakimyan
+  - Miguel Santoscoy
+companies: []
+places:
+  - Los Angeles
+  - California
+dates:
+  - September 19, 2023
+  - November 13, 2023
+  - November 17, 2023
+  - January 16, 2024
+  - May 21, 2024
+  - May 24, 2024
+  - June 7, 2022
+  - June 3, 2024
+events:
+  - Demurrer
+  - Claim presentation
+  - Suit filing
+  - Claim rejection
+  - Application for leave to present late claim
+money: []
+intentions:
+  - Compliance with Government Tort Claims Act
+  - Equitable estoppel
+  - Premature suit
+facts:
+  - Plaintiff was injured in a motor vehicle incident
+  - Defendant was employed by co-defendants City of Los Angeles and County of Los Angeles
+  - Plaintiff failed to present claim to public entity
+  - Claim was rejected for untimeliness
+  - No application to present late claim was filed
+disputes:
+  - Failure to state cause of action
+  - Premature suit
+  - Failure to comply with claim presentation requirement
+acts:
+  - Filing of demurrer
+  - Filing of opposition brief
+  - Filing of reply brief
+agreements:
+  - Government Tort Claims Act
+  - Code of Civil Procedure
+laws:
+  - Government Code
+  - Code of Civil Procedure
+case_citations:
+  - City of Atascadero v. Merrill Lynch, Pierce, Fenner & Smith, Inc. (1998) 68 Cal.App.4th 445, 459
+  - Goodman v. Kennedy (1976) 18 Cal.3d 335, 348
+  - State of California v. Superior Court (2004) 32 Cal.4th 1234, 1237
+  - Phillips v. Desert Hospital Dist. (1989) 49 Cal.3d 699, 708
+  - K.J. v. Arcadia Unified School District (2009) 172 Cal.App.4th 1229
+  - Lowry v. Port San Luis Harbor District (2020) 56 Cal.App.5th 211, 221
+roles:
+  - Judge: William A. Crowfoot
+  - Plaintiff: Kristina Hovakimyan
+  - Defendant: City of Los Angeles and County of Los Angeles
+significant_statements:
+  - Plaintiff failed to state a cause of action against a public entity
+  - Suit is premature and demurrer is sustained
+  - Defendant is dismissed from this action without prejudice
+```
+
+And here is the English-text summary:
+
+This is a tentative ruling by Judge William A. Crowfoot on the demurrer filed by the County of Los Angeles against the Plaintiff, Kristina Hovakimyan. The Court finds that the Plaintiff failed to comply with the Government Tort Claims Act, which requires a written claim to be presented to the public entity before filing a suit. The Plaintiff's claim was rejected for untimeliness, and no application to present a late claim was filed. The Court sustains the demurrer without leave to amend and dismisses the Defendant from the action without prejudice.

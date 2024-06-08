@@ -1,0 +1,85 @@
+Here is the summary in YAML format:
+
+```
+case_number: 23STCV28232
+plaintiff: Rosalie Genus
+defendant: Janet Haywood, 8424 Western Plaza, LLC, Lawyers Title Company
+people_names:
+  - Rosalie Genus
+  - Janet Haywood
+company_names:
+  - Lawyers Title Company
+  - 8424 Western Plaza, LLC
+places:
+  - Los Angeles, California
+  - Chino Hills, California
+  - 939 Everest Court
+dates:
+  - January 27, 2007
+  - April 7, 2017
+  - January 25, 2018
+  - January 17, 2024
+  - January 29, 2024
+  - May 3, 2024
+  - November 16, 2023
+  - November 29, 2022
+events:
+  - Demurrer proceedings
+  - Default judgment
+  - Escrow instructions
+  - Title insurance
+  - Real property dispute
+intents:
+  - To clarify the obligations of Lawyers Title Company
+  - To determine the status of the escrow instructions
+  - To resolve the real property dispute
+facts:
+  - Rosalie Genus and Janet Haywood are sisters
+  - Janet Haywood owned the real property at 10427 S. Denker Avenue
+  - Rosalie Genus purchased the property from Western Plaza, LLC
+  - Western Plaza, LLC defaulted on the sale
+  - Rosalie Genus sought to compel the transfer of the property
+disputes:
+  - Dispute over the obligations of Lawyers Title Company
+  - Dispute over the status of the escrow instructions
+  - Dispute over the transfer of the property
+acts:
+  - Demurrer proceedings
+  - Default judgment
+  - Escrow instructions
+  - Title insurance
+  - Real property transfer
+agreements:
+  - Escrow instructions
+  - Title insurance policy
+  - Real property sale agreement
+laws:
+  - California Code of Civil Procedure, Section 430.40
+  - California Civil Code, Section 1710
+  - California Insurance Code, Section 1321
+case_citations:
+  - Donabedian v. Mercury Ins. Co. (2004) 116 Cal.App.4th 968
+  - E-Fab, Inc. v. Accountants, Inc. Servs. (2007) 153 Cal.App.4th 1308
+  - Goodman v. Kennedy (1976) 18 Cal.3d 335
+  - Youngman v. Nevada Irrigation Dist. (1969) 70 Cal.2d 240
+  - Quelimane Co. v. Stewart Title Guaranty Co. (1998) 19 Cal.4th 26
+statutes:
+  - California Code of Civil Procedure, Section 430.40
+  - California Civil Code, Section 1710
+  - California Insurance Code, Section 1321
+roles:
+  - Judge
+  - Plaintiff
+  - Defendant
+  - Escrow officer
+  - Title insurance company
+significant_statements:
+  - The Court overrules Haywood's demurrer.
+  - The Court overrules Western Plaza's demurrer.
+  - The Court sustains Lawyers Title's demurrer with leave to amend.
+  - The Court denies Lawyers Title's motion to strike as moot.
+```
+
+And here is the English-text summary:
+
+The tentative ruling outlines the court's decisions on the demurrer proceedings in the case involving Rosalie Genus, Janet Haywood, and Lawyers Title Company. The court overrules Haywood's demurrer, as it was filed late. The court also overrules Western Plaza's demurrer, as it was filed by a defendant against whom a default had been entered. The court sustains Lawyers Title's demurrer to the first, second, and fourth claims, allowing leave to amend. The court denies Lawyers Title's motion to strike as moot. The case involves a real property dispute, with Rosalie Genus seeking to compel the transfer of the property from Western Plaza, LLC. The court's decisions are based on the allegations in the complaint, including the escrow instructions and title insurance policy.

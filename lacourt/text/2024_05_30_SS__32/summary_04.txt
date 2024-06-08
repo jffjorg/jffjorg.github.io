@@ -1,0 +1,47 @@
+Here is a summary of the Judge's tentative ruling in YAML format:
+
+```
+case_number: 22STCV21387
+hearing_date: 2024-05-30
+dept: 32
+parties:
+  - name: Evelyn Arias
+    role: Plaintiff
+  - name: Gail Rose Kelch
+    role: Defendant
+facts:
+  - June 30, 2022: Plaintiff filed a complaint against Defendant for negligence related to a motor vehicle accident.
+  - December 18, 2023: Plaintiff propounded Request for Production, Set Two and Special Interrogatories, Set Two, on Defendant.
+  - February 2, 2024: Defendant served responses on Plaintiff.
+  - April 17, 2024: Parties appeared for a scheduled IDC (Informal Discovery Conference).
+  - May 13, 2024: Defendant provided supplemental responses to Plaintiff's requests.
+disputes:
+  - Plaintiff seeks to compel further responses to Request for Production, Set Two, numbers 19 to 23 and Special Interrogatories, Set Two, numbers 32 to 72.
+  - Defendant opposes the motion, arguing that the requests are vague, overly broad, and seek information protected by attorney-client privilege and work product doctrines.
+laws:
+  - Code of Civil Procedure sections 2031.310, 2031.320, 2030.300, and 2030.220
+citations:
+  - Code Civ. Proc. § 2031.310(a)
+  - Code Civ. Proc. § 2031.320(a)
+  - Code Civ. Proc. § 2030.300(a)
+  - Code Civ. Proc. § 2030.220(c)
+roles:
+  - Judge: [Your Name]
+  - Plaintiff: Evelyn Arias
+  - Defendant: Gail Rose Kelch
+  - Counsel: [Counsel's Name]
+significant_statements:
+  - The Court finds that the responses to Requests 19 and 20 are insufficient and grants the motion to compel further responses.
+  - The Court finds that the responses to Special Interrogatories, Set Two, are sufficient and denies the motion to compel further responses.
+  - The Court grants monetary sanctions against Plaintiff and her counsel in the amount of $380.00.
+```
+
+And here is a summary of the Judge's tentative ruling in English text:
+
+The Court's tentative ruling is as follows:
+
+* The Court GRANTS in part Plaintiff's motion to compel further responses to Request for Production, Set Two, numbers 19 and 20. The remainder are denied. Defendant shall serve further responses within 30 days.
+* The Court DENIES Plaintiff's motion to compel further responses to Special Interrogatories, Set Two.
+* The Court grants monetary sanctions against Plaintiff and her counsel in the amount of $380.00. Said monetary sanctions shall be paid to counsel for Defendant within 30 days of this order.
+
+Note: The Court's tentative ruling is subject to change and may be updated before the hearing date.

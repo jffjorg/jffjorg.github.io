@@ -1,0 +1,60 @@
+Here is the summary in YAML format:
+
+```
+case_number: 24STCV05131
+hearing_date: 2024-06-04
+dept: 76
+judge: [Unknown]
+plaintiff: Hyun J Kang
+defendant: [Unknown]
+people:
+  - Hyun J Kang
+  - Sena Hori
+company_names: []
+places: []
+dates:
+  - 2024-04-30
+  - 2024-05-03
+  - 2024-06-03
+  - 2024-06-04
+events:
+  - Motion to compel responses to form interrogatories
+  - Request for sanctions
+money:
+  - $350 (2 hours at $350)
+  - $60 (filing fee)
+  - $810 (total sanctions)
+intentions:
+  - Plaintiff seeks to compel responses to form interrogatories
+  - Plaintiff seeks sanctions against Defendant and Defendant's attorneys
+facts:
+  - Defendant served unverified responses to form interrogatories
+  - Responses were due on April 30, 2024
+  - Defendant has waived all objections
+  - Plaintiff's motion to compel responses to form interrogatories is MOOT
+disputes:
+  - Plaintiff v. Defendant
+acts:
+  - Plaintiff moves to compel responses to form interrogatories
+  - Defendant serves unverified responses to form interrogatories
+agreements:
+  - None
+laws:
+  - Civ. Proc. Code, § 2030.290(a)
+  - Civ. Proc. Code, § 2030.290(b)
+  - Cal. Rules Court, Rule 3.1348(a)
+  - Cal. Rules Court, Rule 3.1308
+  - Leach v. Sup. Ct. (1980) 111 Cal.App.3d 902
+  - Civ. Proc. Code, § 2030.290(a)
+roles:
+  - Judge
+  - Plaintiff
+  - Defendant
+significant_statements:
+  - Plaintiff's motion to compel responses to form interrogatories is MOOT
+  - Plaintiff's request for sanctions against Defendant and Defendant's attorneys is GRANTED in the reduced amount of $810
+```
+
+And here is the English-text summary:
+
+The tentative ruling by the judge is issued on June 3, 2024, and sets the hearing date for June 4, 2024. The court does not desire oral argument on the motion addressed herein. Plaintiff Hyun J Kang's motion to compel responses to form interrogatories is moot by virtue of verified responses having been served before the hearing on this motion. If Plaintiff seeks further responses, Plaintiff may bring an appropriate motion. Plaintiff's request for sanctions against Defendant and Defendant's attorneys of record, jointly and severally, is granted in the reduced amount of $810. Sanctions are to be paid to Plaintiff's counsel within 30 days.

@@ -1,0 +1,45 @@
+Here is the summary in YAML format:
+
+```
+case_number: 23STLC00181
+hearing_date: 2024-05-30
+dept: 26
+parties:
+  - plaintiff: Law Offices of Stephen L. Cawelti, APC
+    defendant: Casentini, IV, et al
+motion_type: MOTION TO STRIKE ANSWER
+codes_and_statutes:
+  - CCP: 436
+  - CCP: 431.30
+  - CCP: 435.5
+  - CCP: 92
+acts_and_events:
+  - Plaintiff filed instant action on January 10, 2023
+  - Defendant filed answer on November 19, 2023
+  - Plaintiff filed motion to strike on March 19, 2024
+disputes:
+  - Motion to Strike Answer
+intentions:
+  - To determine if the answer should be struck
+facts:
+  - Defendant's answer does not contain a general or specific denial
+    and does not contain a statement of any new matter constituting a defense
+  - Plaintiff's motion to strike is procedurally defective
+  - No opposition has been filed to date
+laws:
+  - Code of Civil Procedure (CCP)
+  - CCP 435.5 (meet and confer declaration)
+  - CCP 92 (grounds for motion to strike)
+roles:
+  - Judge: [Judge's name]
+  - Plaintiff: Law Offices of Stephen L. Cawelti, APC
+  - Defendant: Casentini, IV, et al
+significant_statements:
+  - "Plaintiff Law Offices of Stephen L. Cawelti, APC's Motion to Strike Answer is DENIED."
+  - "The instant Motion to Strike is procedurally defective."
+  - "This is not a permissible basis to strike the answer in the limited jurisdiction court."
+```
+
+And here is the English text to summarize the judge's tentative ruling:
+
+The judge has denied the plaintiff's motion to strike the defendant's answer. The plaintiff's motion is procedurally defective because it lacks a meet and confer declaration, as required by Code of Civil Procedure section 435.5. Additionally, the motion is based on grounds that are not permitted in a court of limited jurisdiction, as specified in Code of Civil Procedure section 92. The defendant's answer does not contain a general or specific denial and does not contain a statement of any new matter constituting a defense, which is not a permissible basis to strike the answer in the limited jurisdiction court.

@@ -1,0 +1,88 @@
+Here is the summary in YAML format:
+```yaml
+case_number: 22CHCV00676
+plaintiff: Sergey Vershinin
+defendant: Jane Cohen
+people:
+  - Sergey Vershinin
+  - Jane Cohen
+  - William Anthony Gilmore
+  - Daniel Ballesteros
+companies:
+  - Coldwell Banker Residential Brokerage Company
+  - Coldwell Banker Commercial Realty
+dates:
+  - November 3, 2023
+  - December 4, 2023
+  - April 18, 2024
+  - May 21, 2024
+  - May 23, 2024
+  - June 3, 2024
+  - February 10, 2025
+events:
+  - Motion to compel responses
+  - Sanctions
+  - Summary judgment
+places:
+  - San Andreas Fault
+  - Chicago Title
+  - Escrow company
+  - Property
+  - California
+money:
+  - $1,950
+  - $3,250
+  - $650
+  - $2,925.00
+intentions:
+  - Compel responses
+  - Sanctions
+  - Summary judgment
+facts:
+  - Sergey Vershinin sued Jane Cohen for breach of contract, intentional misrepresentation, negligent misrepresentation, and violation of Civil and Public Resources Codes.
+  - Jane Cohen cross-complained against Coldwell Banker Residential Brokerage Company and William Anthony Gilmore for negligence and breach of fiduciary duty.
+  - The parties' escrow company, Chicago Title, prepared a "Natural Hazards Report" that included information about the fault lines on the property.
+  - Coldwell Banker Residential Brokerage Company and William Anthony Gilmore ensured that Chicago Title provided the Natural Hazards Report to Sergey Vershinin.
+  - Sergey Vershinin did not read or understand the report.
+  - Coldwell Banker Residential Brokerage Company and William Anthony Gilmore did not ensure that Sergey Vershinin read or understood the report.
+disputes:
+  - Sergey Vershinin vs. Jane Cohen
+  - Coldwell Banker Residential Brokerage Company vs. Sergey Vershinin
+  - William Anthony Gilmore vs. Sergey Vershinin
+  - Coldwell Banker Commercial Realty vs. Jane Cohen
+acts:
+  - Sergey Vershinin sued Jane Cohen for breach of contract, intentional misrepresentation, negligent misrepresentation, and violation of Civil and Public Resources Codes.
+  - Jane Cohen cross-complained against Coldwell Banker Residential Brokerage Company and William Anthony Gilmore for negligence and breach of fiduciary duty.
+  - Coldwell Banker Residential Brokerage Company and William Anthony Gilmore ensured that Chicago Title provided the Natural Hazards Report to Sergey Vershinin.
+  - Sergey Vershinin did not read or understand the report.
+agreements:
+  - Purchase agreement
+  - Escrow agreement
+  - Listing agreement
+laws:
+  - California Civil Code
+  - California Rules of Court
+  - Code of Civil Procedure
+  - Evidence Code
+  - Civil and Public Resources Codes
+statutes:
+  - CCP § 2023.030
+  - CCP § 2023.010
+  - CCP § 437c
+  - CCP § 437c(p)(2)
+  - CCP § 437c(c)
+  - CCP § 437c(a)(2)
+roles:
+  - Plaintiff: Sergey Vershinin
+  - Defendant: Jane Cohen
+  - Cross-defendant: Coldwell Banker Residential Brokerage Company and William Anthony Gilmore
+  - Agent: William Anthony Gilmore
+  - Attorney: Daniel Ballesteros
+  - Escrow company: Chicago Title
+  - Broker: Coldwell Banker Residential Brokerage Company and Coldwell Banker Commercial Realty
+significant statements:
+  - Coldwell Banker Residential Brokerage Company and William Anthony Gilmore ensured that Chicago Title provided the Natural Hazards Report to Sergey Vershinin.
+  - Sergey Vershinin did not read or understand the report.
+  - Coldwell Banker Residential Brokerage Company and William Anthony Gilmore did not ensure that Sergey Vershinin read or understood the report.
+  - Sergey Vershinin sued Jane Cohen for breach of contract, intentional misrepresentation, negligent misrepresentation, and violation of Civil and Public Resources Codes.
+  - Jane Cohen cross-complained against Coldwell Banker Residential Brokerage Company and William Anthony Gilmore for negligence and breach of fiduciary duty.

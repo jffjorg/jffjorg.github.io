@@ -1,0 +1,66 @@
+Here is the summary in YAML format:
+
+```
+case:
+  number: 22STCV33820
+  hearing date: 2024-05-31
+  department: 32
+
+parties:
+  - plaintiff: Viridiana Hernandez
+    defendant: Unopposed
+  - people:
+      - Camila Baltazar
+  - companies:
+      - Progressive Insurance
+
+places:
+  - Department of Health Care Services
+
+dates:
+  - 2023-05-22
+  - 2024-01-18
+  - 2024-05-08
+
+events:
+  - Payment made by Progressive Insurance to Department of Health Care Services
+  - Petition for Expedited Minors Compromise filed by Viridiana Hernandez
+  - Revised petition filed by Viridiana Hernandez
+
+money:
+  - $160.48
+
+intentions:
+  - To approve compromise of pending action of a minor
+
+facts:
+  - Petitioner's previous petition had defects which have been cured
+  - Payment made by Progressive Insurance to Department of Health Care Services
+
+disputes:
+  - Unclear whether payment to Department of Health Services was duplicative
+
+acts:
+  - Petitioner's revised petition was filed
+  - Petitioner's revised proposed order (MC-351) must be filed
+
+agreements:
+  - Petitioner must file revised proposed order (MC-351) correcting amount in item 8a(3)(a)(ii) and including hearing information in item 1b
+
+laws:
+  - Not specified
+
+citations:
+  - MC-351
+
+statutes:
+  - Not specified
+
+roles:
+  - Judge
+  - Petitioner (Viridiana Hernandez)
+  - Defendant (Unopposed)
+
+significant statements:
+  - Petitioner's revised petition has cured all defects
+  - Petitioner must file revised proposed order (MC-351) pending conditionally granted petition

@@ -1,0 +1,84 @@
+Here is the YAML summary:
+
+```
+---
+case_number: 24TRCV00255
+hearing_date: 2024-06-03
+dept: P
+
+plaintiff:
+- name: Lana Brown
+- as: personal representative of Estate of Grace Elaine Taylor Barnwell
+
+defendant:
+- name: PLD Family Home Care, Inc.
+- name: Precious Lamoura Dennis
+- name: Louretta Sandra Dennis
+
+people:
+- Shavonne Hunter
+- Decedent: Grace Elaine Taylor Barnwell
+
+company:
+- PLD Family Home Care, Inc.
+
+place:
+- 139 West Ellis Ave, Inglewood, CA 90302
+
+date:
+- January 24, 2024
+- May 1, 2024
+- May 16, 2024
+- May 23, 2024
+- August 1, 2022
+
+event:
+- Demurrer
+- Complaint
+- Opposition
+- Reply
+
+money:
+- $100.00 (late fees)
+
+intention:
+- To sustain demurrer
+- To grant leave to amend
+
+facts:
+- Plaintiff alleged causes of action for Neglect Elder Abuse, Financial Elder Abuse, False Imprisonment, Conspiracy to Commit Elder Abuse, and Intentional Infliction of Emotional Distress
+- Plaintiff alleged that Decedent was forced into a Residential Care Facility without her consent
+- Plaintiff alleged that Decedent suffered physical and emotional abuse while in the facility
+
+disputes:
+- Plaintiff alleged that Decedent suffered elderly abuse at the hands of the defendants
+- Defendants argued that the complaint failed to state a cause of action
+
+acts:
+- Plaintiff alleged that defendants committed acts of elder abuse
+
+agreements:
+- None
+
+laws:
+- California Civil Code
+- Welfare and Institutions Code
+
+case_citations:
+- Code Civ. Proc., § 430.10
+- Code Civ. Proc., § 430.41
+- Code Civ. Proc., § 340
+
+statutes:
+- Wel. & Inst. Code § 15610.30
+- Wel. & Inst. Code § 15610.70
+
+roles:
+- Judge
+- Plaintiff
+- Defendant
+
+significant_statements:
+- The Court sustains the demurrer to the second, third, and fifth causes of action with 20 days leave to amend.
+- The Court sustains the demurrer to the fourth cause of action without leave to amend.
+```

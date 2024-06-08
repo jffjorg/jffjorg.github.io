@@ -1,0 +1,68 @@
+Here is the summary in YAML format:
+
+```
+case_number: 23STLC04837
+plaintiff: Ticor Title Company of California
+defendant: Willowbrook Restaurant, LLC, et al.
+people_names:
+  - Ticor Title Company of California
+  - Willowbrook Restaurant, LLC
+  - Xen Restaurant, LLC
+company_names:
+  - Ticor Title Company of California
+  - Willowbrook Restaurant, LLC
+  - Xen Restaurant, LLC
+places:
+  - California
+  - Spring Street Courthouse
+dates:
+  - August 1, 2023
+  - February 26, 2024
+  - March 22, 2024
+  - January 28, 2025
+events:
+  - Interpleader action
+  - Default judgment
+  - Motion for Discharge
+  - Award of Attorney's Fees and Costs
+money:
+  - $15,982.86 (disputed funds)
+  - $6,119.00 (attorney's fees)
+  - $769.33 (costs)
+intentions:
+  - To grant Plaintiff's Motion for Discharge and Award of Attorney's Fees and Costs
+facts:
+  - Plaintiff initiated interpleader action on August 1, 2023
+  - Default was entered against both Defendants on February 26, 2024
+  - Plaintiff filed Motion for Discharge and Award of Attorney's Fees and Costs on March 22, 2024
+disputes:
+  - Conflicting demands regarding the disputed funds
+  - Dispute over who shall receive the funds
+acts:
+  - Interpleader action
+  - Deposit of funds in court
+  - Service of Summons and Complaint
+  - Default judgment
+  - Motion for Discharge and Award of Attorney's Fees and Costs
+agreements:
+  - Code of Civil Procedure, Sections 386 and 386.5
+  - Code of Civil Procedure, Section 386.6
+laws:
+  - Code of Civil Procedure, Sections 386 and 386.5
+  - Code of Civil Procedure, Section 386.6
+case_citations:
+  - Hancock Oil Co. v. Hopkins (1944) 24 Cal.2d 497, 508
+  - City of Morgan Hill v. Brown (1999) 71 Cal.App.4th 1114, 1122
+  - Cantu v. Resolution Trust Corp. (1992) 4 Cal.App.4th 857, 874
+  - State Farm Fire & Cas. Co. v. Pietak (2001) 90 Cal.App.4th 600, 612
+  - UAP-Columbus JV 326132 v. Nesbitt (1991) 234 Cal.App.3d 1028, 1036
+roles:
+  - Plaintiff: Ticor Title Company of California
+  - Defendant: Willowbrook Restaurant, LLC, et al.
+significant_statements:
+  - "An interpleader action is traditionally viewed as two suits: one between the stakeholder and the claimants to determine the stakeholder's right to interplead, and the other among the claimants to determine who shall receive the funds interpleaded ... As against the stakeholder, claimants may raise only matters which go to whether the suit is properly one for interpleader; i.e., whether the elements of an interpleader action are present." (State Farm Fire & Cas. Co. v. Pietak (2001) 90 Cal.App.4th 600, 612)
+```
+
+And here is a summary in English text:
+
+The tentative ruling grants Plaintiff Ticor Title Company of California's Motion for Discharge and Award of Attorney's Fees and Costs. The Plaintiff initiated an interpleader action on August 1, 2023, and deposited the disputed funds of $15,982.86 in court. All claimants have been served with the Summons and Complaint, and default has been entered against both Defendants. The Plaintiff's counsel filed the instant action, deposited the funds, served and defaulted the Defendants, prepared the instant Motion, and will appear at the instant hearing. As a result, the Plaintiff is awarded attorney's fees in the amount of $6,119.00 and costs in the amount of $769.33. A trial/hearing on the disbursement of funds or for an order escheating the funds according to law is set for January 28, 2025, at 8:30 am in Department 26 of the Spring Street Courthouse.

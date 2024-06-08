@@ -1,0 +1,82 @@
+Here is the YAML summary of the tentative ruling:
+
+```
+case_number: LAMK15K11661
+hearing_date: 2024-06-03
+department: 14
+plaintiff_name: Luis Marquez
+defendant_name: Meliton Villa and Leticia Villa
+people_names:
+  - Luis Marquez
+  - Meliton Villa
+  - Leticia Villa
+company_names: []
+places:
+  - 4504 Avalon Blvd.
+  - Los Angeles
+  - California
+  - 90011
+dates:
+  - 2015-09-22 (case initiation)
+  - 2016-02-08 (defaults entered)
+  - 2016-04-28 (default judgment entered)
+  - 2016-06-07 (abstract of judgment issued)
+  - 2023-04-06 (writ of execution issued)
+  - 2024-02-13 (acknowledgment of satisfaction of judgment)
+  - 2024-04-06 (motion to set aside default judgment filed)
+  - 2024-04-10 (motion to set aside default judgment filed)
+  - 2024-04-15 (motion to set aside default judgment filed)
+events:
+  - Violation of Civil Code § 51
+  - Default judgment entered
+  - Writ of execution issued
+  - Acknowledgment of satisfaction of judgment filed
+  - Motion to set aside default judgment filed
+money:
+  - Judgment amount (amount not specified)
+intentions:
+  - Set aside default judgment
+facts:
+  - Default judgment was entered on April 18, 2016
+  - Judgment was satisfied on February 13, 2024
+  - Motion to set aside default judgment was filed on April 10, 2024
+  - Motion to set aside default judgment was filed on April 15, 2024
+disputes:
+  - Whether default judgment was properly entered
+  - Whether judgment was properly satisfied
+  - Whether motion to set aside default judgment is timely
+acts:
+  - Plaintiff initiated action on September 22, 2015
+  - Defaults were entered against both defendants on February 8, 2016
+  - Default judgment was entered against defendants on April 28, 2016
+  - Writ of execution was issued on April 6, 2023
+  - Acknowledgment of satisfaction of judgment was filed on February 13, 2024
+  - Motion to set aside default judgment was filed on April 10, 2024
+  - Motion to set aside default judgment was filed on April 15, 2024
+agreements:
+  - Civil Code § 51
+  - Code of Civil Procedure § 473.5
+  - Code of Civil Procedure § 473.5(a)
+laws:
+  - Civil Code § 51
+  - Code of Civil Procedure § 473.5
+  - Code of Civil Procedure § 473.5(a)
+case_citations:
+  - Civil Code § 51
+  - Code of Civil Procedure § 473.5
+  - Code of Civil Procedure § 473.5(a)
+statutes:
+  - Civil Code § 51
+  - Code of Civil Procedure § 473.5
+  - Code of Civil Procedure § 473.5(a)
+roles:
+  - Plaintiff (Luis Marquez)
+  - Defendant (Meliton Villa and Leticia Villa)
+significant_statements:
+  - The motion to set aside default judgment is untimely as it was filed nearly eight years after the entry of default judgment.
+  - The acknowledgment of satisfaction of judgment filed on February 13, 2024, does not suggest that a judgment can be re-entered.
+```
+
+And here is the English-text summary of the tentative ruling:
+
+The Judge has denied the motion to set aside the default judgment entered against Leticia Villa. The motion was filed nearly eight years after the entry of default judgment, which is untimely. The acknowledgment of satisfaction of judgment filed on February 13, 2024, does not suggest that a judgment can be re-entered. The Judge is unaware of any authority that suggests a judgment can be re-entered following the filing of an acknowledgment of satisfaction of judgment.

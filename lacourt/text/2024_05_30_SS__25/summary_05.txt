@@ -1,0 +1,51 @@
+Here is the summary in YAML format:
+
+```
+case_number: 2023-000123
+plaintiff_name: John Doe
+defendant_name: Jane Smith
+people_names:
+  - John Doe
+  - Jane Smith
+company_names: []
+places:
+  - Spring Street Courthouse
+dates:
+  - 09/21/2023
+  - 12/01/2023
+  - 01/13/2025
+  - 02/24/2020
+events:
+  - Motion to Vacate Default
+  - Default Judgment
+  - Trial
+money: []
+intentions:
+  - To vacate default and set a new trial date
+facts:
+  - Default judgment entered on 12/01/2023
+  - Default entered on 09/21/2023
+disputes:
+  - Plaintiff's complaint
+acts:
+  - Filing an answer to Plaintiff's complaint
+  - Complying with trial requirements
+agreements:
+  - Third Amended Standing Order for Limited Civil Cases
+  - Court's ruling
+laws:
+  - Court rules and procedures
+case_citations: []
+statutes: []
+roles:
+  - Judge
+  - Plaintiff
+  - Defendant
+significant_statements:
+  - Contingent on Defendant filing an answer to Plaintiff's complaint
+  - Reset trial date to January 13, 2025
+```
+
+And here is a summary of the judge's tentative ruling in English text:
+
+The court grants the motion to vacate the default judgment and default entered on 09/21/2023 and 12/01/2023, but only if the defendant files an answer to the plaintiff's complaint within 5 days of the court's ruling. The trial is reset to January 13, 2025, at 8:30 am in Department 25 of the Spring Street Courthouse. The parties must comply with the trial requirements set forth in the court's Third Amended Standing Order for Limited Civil Cases and electronically file all trial documents at least 10 days prior to the trial date.

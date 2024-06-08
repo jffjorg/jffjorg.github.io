@@ -1,0 +1,76 @@
+Here is the summary in YAML format:
+
+```
+case_number: 21STLC02170
+hearing_date: June 3, 2024
+dept: 26
+case_name: Davidson v. Rite Aid Corp., et al.
+motion: MOTION TO AMEND JUDGMENT
+section: CCP § 187
+tentative_ruling: CONTINUED TO AUGUST 5, 2024 AT 10:00 AM IN DEPARTMENT 26 IN THE SPRING STREET COURTHOUSE
+
+people:
+  - Lisa Davidson (Plaintiff/Judgment Creditor)
+  - Rite Aid Corporation (Defendant/Judgment Debtor)
+  - Perrin Davidson (Judgment Creditor's attorney)
+
+companies:
+  - Thrifty Payless, Inc.
+  - Rite Aid Corporation
+  - Perrin Davidson (law firm)
+
+places:
+  - Spring Street Courthouse
+  - Department 26
+
+dates:
+  - March 15, 2021 (filing of the instant action)
+  - March 7, 2022 (default judgment entered against Judgment Debtor)
+  - April 8, 2024 (filing of the Motion to Amend Judgment)
+  - July 8, 2024 (deadline for filing proof of service)
+  - August 5, 2024 (re-scheduled hearing date)
+
+events:
+  - Default judgment entered against Judgment Debtor
+  - Filing of the Motion to Amend Judgment
+  - Failure to serve the moving papers and notice of hearing on Judgment Debtor
+
+money:
+  - Amount of judgment debt
+
+intentions:
+  - To add Thrifty Payless, Inc. as an additional judgment debtor
+  - To amend the judgment to add a new judgment debtor
+
+facts:
+  - Judgment Creditor moves to amend the judgment to add Thrifty Payless, Inc. as an additional judgment debtor
+  - Judgment Debtor failed to serve the moving papers and notice of hearing on Judgment Debtor
+
+disputes:
+  - Whether Thrifty Payless, Inc. is an alter ego of Judgment Debtor
+
+acts:
+  - Filing of the Motion to Amend Judgment
+  - Failure to serve the moving papers and notice of hearing on Judgment Debtor
+
+agreements:
+  - Code of Civil Procedure section 187
+  - Jones v. Otero (1984) 156 Cal.App.3d 754, 757
+
+laws:
+  - Code of Civil Procedure section 187
+  - Jones v. Otero (1984) 156 Cal.App.3d 754, 757
+  - Mesler v. Bragg Management Co. (1985) 39 Cal.3d 290, 300
+  - Greenspan v. LADT, LLC (2010) 191 Cal.App.4th 486, 508
+
+roles:
+  - Judgment Creditor (Lisa Davidson)
+  - Judgment Debtor (Rite Aid Corporation)
+  - Perrin Davidson (Judgment Creditor's attorney)
+
+significant statements:
+  - "As an initial matter, the Motion to Amend Judgment is not accompanied by a proof of service demonstrating service of the Motion papers or notice of the hearing date on Judgment Debtor."
+  - "Failure to give notice of a motion is not only a violation of the statutory requirements but of due process."
+  - "Under section 187, the trial court is authorized to amend a judgment to add additional judgment debtors."
+  - "Judgments may be amended to add additional judgment debtors on the ground that a person or entity is the alter ego of the original judgment debtor."
+  - "Amendment of a judgment to add an alter ego is an equitable procedure based on the theory that the court is not amending the judgment to add a new defendant but is merely inserting the correct name of the real defendant."

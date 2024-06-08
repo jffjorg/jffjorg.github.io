@@ -1,0 +1,53 @@
+Here is the summary in YAML format:
+
+```
+case_number: 22STCV34964
+plaintiff: ODG Builders, Inc.
+defendant: SBBB LLC et al.
+hearing_date: June 4, 2024
+department: 54
+judge: Maurice A. Leiter
+motion: Motion to Deem Requests for Admission, Motion to Compel Responses to Discovery
+moving_party: Plaintiff
+responding_party: None
+t_r: Plaintiff's motions are granted
+rfas: Conclusively established against defendant
+response_order: Defendant to provide responses to form interrogatories within 15 days
+sanctions: $2,535.00 total
+facts:
+  - Plaintiff served discovery on February 23, 2024
+  - Responses were due on March 26, 2024
+  - No responses received as of filing of motions
+  - Defendant does not oppose motions
+disputes:
+  - Request for admission
+  - Failure to respond to discovery
+  - Request for sanctions
+acts:
+  - Plaintiff served discovery
+  - Defendant failed to respond
+  - Plaintiff moved to deem RFAs admitted and compel responses
+  - Court grants motions
+agreements:
+  - None
+laws:
+  - CCP § 2033.280
+  - CCP § 2030.290
+  - CCP § 2033.280(b)
+  - CCP § 2030.290(b)
+citations:
+  - CCP: California Code of Civil Procedure
+  - C.C.P.: California Code of Civil Procedure
+roles:
+  - Judge: Maurice A. Leiter
+  - Plaintiff: ODG Builders, Inc.
+  - Defendant: SBBB LLC et al.
+significant_statements:
+  - Plaintiff's motions are granted
+  - Defendant is ordered to provide responses to form interrogatories
+  - Plaintiff's request for sanctions is granted
+```
+
+And here is the English-text summary:
+
+The tentative ruling grants the plaintiff's motions to deem requests for admission (RFAs) admitted and to compel responses to discovery. The court finds that the defendant failed to respond to the plaintiff's discovery requests, despite having served the discovery on February 23, 2024, with responses due on March 26, 2024. As a result, the court orders the defendant to provide responses to form interrogatories within 15 days. The court also grants the plaintiff's request for sanctions in the amount of $2,535.00 total. The court cites California Code of Civil Procedure sections 2033.280 and 2030.290.

@@ -1,0 +1,38 @@
+Here is the summary in YAML format:
+
+```
+case_number: "Unknown"
+plaintiff_name: "Unknown"
+defendant_name: "Unknown"
+people_names:
+  - "Defendant"
+company_names: []
+places: []
+dates:
+  - "Today"
+events: []
+money: []
+intentions:
+  - "To clarify the Defendant's admissions and denials"
+facts:
+  - "Defendant admitted or denied all other allegations of the Third Amended Complaint"
+  - "Failure to admit or deny allegation in paragraph 132"
+disputes:
+  - "Typographical errors in references to 'Defendants'"
+acts:
+  - "Answer to the Complaint"
+agreements: []
+laws: []
+case_citations: []
+statutes: []
+roles:
+  - "Judge"
+  - "Defendant"
+significant_statements:
+  - "Typographical errors in light of other language referring to Defendant as a singular entity"
+  - "Failure to admit or deny allegation in paragraph 132 appears to have been an oversight"
+```
+
+And here is the English-text summary of the Judge's tentative ruling:
+
+"The Defendant has admitted or denied all allegations in the Third Amended Complaint, except for paragraph 132, where it appears to have been an oversight. The Judge interprets references to 'Defendants' as typographical errors, given the language referring to Defendant as a singular entity. The Judge will consider this in the upcoming Court Hearing."

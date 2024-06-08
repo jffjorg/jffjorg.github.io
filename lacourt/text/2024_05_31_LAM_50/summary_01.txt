@@ -1,0 +1,67 @@
+Here is the summary in YAML format:
+
+```
+case_number: 19STCV46503
+plaintiff: curtis r. olson
+defendant: vidala aaronoff et al.
+people_names:
+  - curtis r. olson
+  - vidala aaronoff
+company_names:
+  - none
+places:
+  - superior court of california
+  - county of los angeles
+  - department 50
+dates:
+  - may 31, 2024
+  - may 31, 2024 (hearing date)
+events:
+  - amended motion for protective order
+  - deposition of defendant aaronoff
+  - monetary sanctions
+  - meet and confer informal discovery conference (idc)
+  - idc session
+  - post-idc discovery hearing
+money:
+  - $4,050 (monetary sanctions)
+intentions:
+  - to prohibit plaintiff from taking defendant's deposition
+  - to resolve discovery disputes
+  - to facilitate productive idc session
+facts:
+  - defendant aaronoff moves for protective order
+  - plaintiff's motion for protective order denied
+disputes:
+  - discovery disputes
+  - deposition of defendant aaronoff
+  - monetary sanctions
+acts:
+  - defendant aaronoff's motion for protective order continued to a new date
+  - plaintiff's motion for protective order denied
+  - parties ordered to participate in idc session
+  - idc form to be filed before session
+agreements:
+  - parties to participate in idc session
+  - idc form to be filed before session
+laws:
+  - code civ. proc., § 128, subd. (a)(8)
+  - crc rule 3.670, subd. (f)(2)
+case_citations:
+  - code civ. proc., § 128, subd. (a)(8)
+  - crc rule 3.670, subd. (f)(2)
+statutes:
+  - code civ. proc., § 128, subd. (a)(8)
+  - crc rule 3.670, subd. (f)(2)
+roles:
+  - judge: hon. teresa a. beaudet
+  - parties: curtis r. olson and vidala aaronoff
+  - counsel: lead or other designated counsel for the parties
+significant_statements:
+  - "the court orders the parties in this case to participate in an informal discovery conference (idc) session"
+  - "the parties are ordered to have with them whatever materials are needed to make the idc session productive and successful"
+```
+
+Here is the English-text summary:
+
+Judge Teresa A. Beaudet's tentative ruling in the case of Curtis R. Olson vs. Vidala Aaronoff et al. grants defendant Aaronoff's motion to continue the hearing on the amended motion for protective order regarding the deposition of defendant Aaronoff and for monetary sanctions in the amount of $4,050. The court orders the parties to participate in an informal discovery conference (IDC) session to resolve their discovery disputes. The IDC session will be scheduled at a later date, and the parties are required to file an IDC form before the session. The court also orders the parties to meet and confer in person or via telephone to resolve their issues before the IDC date. If the parties resolve their discovery disputes before the IDC date, Aaronoff is ordered to take both the IDC and the motion off calendar as soon as possible.

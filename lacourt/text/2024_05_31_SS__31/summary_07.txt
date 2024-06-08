@@ -1,0 +1,64 @@
+Here is the summary in YAML format:
+
+```
+case_number: 22STCV01158
+plaintiff: David Haven
+defendant: City of Los Angeles, ET AL.
+people_names:
+  - Armin Abazari
+  - Sharona Eslamboly Hakim
+  - Michelle C. Kim
+company_names: []
+places:
+  - Los Angeles
+  - California
+dates:
+  - May 31, 2024
+  - October 9, 2024
+  - May 30, 2024
+events:
+  - Motion to be relieved as counsel
+  - Trial
+  - Proof of service
+  - Order to Show Cause
+  - Hearing
+money: []
+intentions:
+  - To grant the motion to be relieved as counsel
+  - To set a trial date
+  - To ensure proof of service is filed
+facts:
+  - Complete breakdown in the attorney-client relationship
+  - Failure to confirm Plaintiff's current address
+  - Skip search via PeopleHunter
+disputes:
+  - Breakdown in the attorney-client relationship
+  - Failure to confirm Plaintiff's current address
+acts:
+  - Serving the motion papers by mail
+  - Conducting a skip search via PeopleHunter
+  - Filing proof of service
+  - Granting the motion to be relieved as counsel
+  - Setting a trial date
+  - Ordering proof of service
+  - Setting an Order to Show Cause
+agreements: []
+laws:
+  - California Rules Court, rule 3.1362(d)
+  - Court rules and procedures
+statutes: []
+roles:
+  - Judge: Hon. Michelle C. Kim
+  - Plaintiff: David Haven
+  - Counsel: Armin Abazari
+  - Defendant: City of Los Angeles, ET AL.
+  - Other counsel: unknown
+significant_statements:
+  - The motion is unopposed and GRANTED.
+  - The ruling is effective upon filing proof of service of the final order.
+  - The Court sets an Order to Show Cause re: Proof of Service of the Final Order.
+```
+
+And here is the English-text summary:
+
+The tentative ruling grants the motion to be relieved as counsel for the plaintiff, David Haven, by his attorney, Armin Abazari. The motion is unopposed and is granted due to a complete breakdown in the attorney-client relationship. The court finds that Abazari has made reasonable efforts to confirm the plaintiff's current address, including serving the motion papers by mail and conducting a skip search via PeopleHunter. The court orders Abazari to file proof of service of the final order within 10 days. The court also sets an Order to Show Cause re: Proof of Service of the Final Order. The trial is currently set for October 9, 2024.

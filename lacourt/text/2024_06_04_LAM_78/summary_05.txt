@@ -1,0 +1,70 @@
+Here is the summary in YAML format:
+
+```
+case_number: BC714498
+plaintiff: FRANCISCO RODRIGUEZ
+defendant: LOS ANGELES DODGERS HOLDING COMPANY
+people_names:
+  - FRANCISCO RODRIGUEZ
+  - MARK JACKSON
+  - HON. JILL FEELEY
+company_names:
+  - LOS ANGELES DODGERS HOLDING COMPANY
+places:
+  - LOS ANGELES
+  - CALIFORNIA
+dates:
+  - June 4, 2024
+events:
+  - MOTION TO TAX COSTS
+  - TRIAL
+money:
+  - $1,162.55
+  - $12,291.81
+  - $13,454.36
+  - $29,007.50
+intention:
+  - Plaintiff FRANCISCO RODRIGUEZ seeks to tax costs incurred by Defendant MARK JACKSON
+facts:
+  - Plaintiff disputes costs for court reporter fees, models, enlargements, and photocopies
+  - Defendant incurred costs for court reporter fees, deposition cancellation fee, and trial technician services
+  - Plaintiff argues he should not be liable for costs due to indigency
+disputes:
+  - Plaintiff disputes costs for court reporter fees and services rendered by trial technician
+  - Defendant disputes Plaintiff's claim that costs are unreasonable
+acts:
+  - Plaintiff moves to tax costs
+  - Defendant incurs costs for court reporter fees, deposition cancellation fee, and trial technician services
+  - Court appoints certified shorthand reporter for trial
+  - Court allows costs for producing and photocopying materials
+  - Plaintiff argues he is indigent and should not be liable for costs
+  - Court finds costs reasonable and necessary for litigation
+agreements:
+  - Code of Civil Procedure, section 1032
+  - Code of Civil Procedure, section 1033.5
+  - Government Code, section 68086
+laws:
+  - Code of Civil Procedure, section 1032
+  - Code of Civil Procedure, section 1033.5
+  - Government Code, section 68086
+citations:
+  - Bach v. County of Butte (1989) 215 Cal.App.3d 294
+  - Murphy v. F.D. Cornell Co. (1930) 110 Cal. App. 452
+  - Ladas v. California State Auto. Assn. (1993) 19 Cal.App.4th 761
+  - Santantonio v. Westinghouse Broadcasting Co. (1994) 25 Cal.App.4th 102
+  - Segal v. ASICS America Corp. (2022) 12 Cal.5th 651
+  - LAOSD Asbestos Cases (2018) 25 Cal.App.5th 1116
+  - Sutter County v. Superior Court for Sutter County (1966) 244 Cal.App.2d 770
+roles:
+  - Plaintiff: FRANCISCO RODRIGUEZ
+  - Defendant: LOS ANGELES DODGERS HOLDING COMPANY
+  - Judge: HON. JILL FEELEY
+significant_statements:
+  - "A prevailing party is entitled as a matter of right to recover costs in any action or proceeding."
+  - "Costs shall be reasonably necessary to the conduct of the litigation rather than merely convenient or beneficial to its preparation."
+  - "Allowable costs shall be reasonable in amount."
+```
+
+And here is the English text summary:
+
+The Judge, Hon. Jill Feeney, issued a tentative ruling on June 4, 2024, regarding the Plaintiff, Francisco Rodriguez's, motion to tax costs. The Plaintiff disputes costs incurred by the Defendant, Mark Jackson, for court reporter fees, models, and photocopies. The Judge finds that some costs are reasonable and necessary for litigation, but others are not. The Plaintiff argues that he should not be liable for costs due to his indigency, but the Judge rules that a prevailing party is entitled to recover costs, regardless of the unsuccessful party's indigency.

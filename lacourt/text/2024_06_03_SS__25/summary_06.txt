@@ -1,0 +1,73 @@
+Here is the YAML summary of the tentative ruling:
+
+```yaml
+case_number: unknown
+plaintiff_names:
+  - Joanna Martinez
+  - Delana Jacobs
+defendant_names:
+  - Hiram D. Webb
+people_names:
+  - Joanna Martinez
+  - Delana Jacobs
+  - Hiram D. Webb
+  - Daniel A. Soto
+company_names: []
+places: []
+dates:
+  - March 18, 2021
+  - March 14, 2024
+  - April 15, 2022
+  - April 30, 2024
+  - May 30, 2024
+events:
+  - Complaint filed
+  - Requests for Admission (RFA) served
+  - Responses due
+  - Opposition filed
+  - Reply filed
+  - Tentative Ruling issued
+money:
+  - $1,410.00
+  - $1,350.00
+intentions:
+  - Deem RFAs admitted
+  - Impose monetary sanctions
+facts:
+  - Plaintiffs filed a complaint
+  - Defendant failed to serve responses to RFAs
+  - Plaintiffs moved to deem RFAs admitted
+  - Defendant filed an untimely opposition
+disputes:
+  - Failure to serve responses to RFAs
+  - Misuse of the discovery process
+acts:
+  - Serving RFAs
+  - Failing to serve responses to RFAs
+  - Filing opposition
+  - Filing reply
+agreements: []
+laws:
+  - Code Civ. Proc. § 2033.010
+  - Code Civ. Proc. § 2033.250(a)
+  - Code Civ. Proc. § 2033.280(a)
+  - Code Civ. Proc. § 2033.280(b)
+  - Code Civ. Proc. § 2033.280(c)
+  - Code Civ. Proc. § 2023.010(d)
+  - Code Civ. Proc. § 2023.010(h)
+  - Code Civ. Proc. § 2023.030(a)
+  - Cornerstone Realty Advisors, LLC v. Summit Healthcare Reit, Inc. (2020) 56 Cal.App.5th 771, 791
+roles:
+  - Judge
+  - Plaintiff
+  - Defendant
+  - Counsel
+significant_statements:
+  - Failure to serve responses to RFAs waives any objection to the requests
+  - The court may impose a monetary sanction against a party engaging in the misuse of the discovery process
+  - The court has discretion to fix the amount of reasonable monetary sanctions
+```
+
+And here is the English summary of the tentative ruling:
+
+The judge has denied without prejudice the motion to deem requests for admission (RFA) admitted set one. The defendant failed to serve responses to the RFAs, which waived any objection to the requests. The plaintiff requested monetary sanctions against the defendant in the amount of $1,410.00, but the court denied this request as well. The court noted that there was an inconsistency in the sanction amount requested, but ultimately found that the defendant's failure to serve responses to the RFAs did not warrant sanctions.

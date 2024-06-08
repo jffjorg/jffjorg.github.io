@@ -1,0 +1,65 @@
+Here is the summary in YAML format:
+
+```
+case_number: 20STCV08189
+plaintiff: Jessica Darlene Navarro
+defendants:
+  - Honorio Orozco Trucking Inc.
+  - Percy Maximo Rojas Huaraca
+  - Does 1-50
+dates:
+  - February 26, 2020: Plaintiff files action
+  - August 20, 2020: Plaintiff files first amended complaint
+  - June 16, 2022: Plaintiff files second amended complaint
+  - July 18, 2022: Percy Maximo Rojas Huaraca files answer
+  - August 5, 2022: Honorio Orozco Trucking Inc. files answer
+  - December 22, 2023: Honorio Orozco Trucking Inc. files motion for summary judgment
+  - March 1, 2024: Plaintiff files opposition to motion
+  - March 8, 2024: Honorio Orozco Trucking Inc. files reply
+  - June 3, 2024: Hearing date
+events:
+  - Plaintiff files action
+  - Plaintiff files first amended complaint
+  - Plaintiff files second amended complaint
+  - Defendants file answers
+  - Plaintiff files opposition to motion
+  - Defendants file replies
+  - Hearing date set
+money: $ (no specific amount mentioned)
+intentions:
+  - Plaintiff seeks to hold defendants liable for negligence
+  - Defendants seek to have the court grant summary judgment in their favor
+facts:
+  - Accident occurred on March 14, 2018, on Interstate 5 freeway
+  - Plaintiff's vehicle collided with defendants' vehicle and trailer
+  - Rojas was driving defendants' vehicle and trailer at the time of the accident
+  - Plaintiff suffered injuries and damages as a result of the accident
+disputes:
+  - Whether defendants are liable for plaintiff's injuries and damages
+  - Whether defendants are entitled to summary judgment
+acts:
+  - Accident occurred on March 14, 2018
+  - Plaintiff filed action on February 26, 2020
+  - Defendants filed answers on July 18, 2022, and August 5, 2022
+  - Plaintiff filed opposition to motion on March 1, 2024
+  - Defendants filed reply on March 8, 2024
+agreements:
+  - Plaintiff and defendants have agreed to the court's jurisdiction
+  - Plaintiff and defendants have agreed to the court's procedure
+laws:
+  - California Code of Civil Procedure, section 437c
+  - California Civil Code, section 1714
+roles:
+  - Plaintiff: Jessica Darlene Navarro
+  - Defendant: Honorio Orozco Trucking Inc.
+  - Defendant: Percy Maximo Rojas Huaraca
+  - Defendant: Does 1-50
+significant statements:
+  - "The Court GRANTS Defendant Honorio Orozco Trucking Inc.'s motion for summary judgment."
+  - "Plaintiff has not raised a triable issue of fact concerning her vicarious liability claim."
+  - "Trucking has carried its initial burden of showing that Plaintiff cannot prove that Trucking knew or should have known that hiring or retaining Rojas or entrusting a vehicle to him created a particular risk of harm to others."
+```
+
+English text summary:
+
+The case involves a negligence claim by Plaintiff Jessica Darlene Navarro against Defendant Honorio Orozco Trucking Inc. and others. The Plaintiff alleges that the Defendants were negligent in hiring and retaining Defendant Percy Maximo Rojas Huaraca, who was driving the Defendant's vehicle and trailer at the time of an accident on March 14, 2018, which resulted in injuries to the Plaintiff. The Defendants have filed a motion for summary judgment, arguing that they are entitled to judgment as a matter of law because the Plaintiff has not presented sufficient evidence to establish their liability. The Court has granted the motion for summary judgment, holding that the Plaintiff has not raised a triable issue of fact concerning her vicarious liability claim.

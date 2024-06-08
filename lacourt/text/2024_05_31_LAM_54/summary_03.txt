@@ -1,0 +1,54 @@
+Here is the summary in YAML format:
+
+```
+case_number: 24STCV06324
+hearing_date: May 31, 2024
+department: 54
+judge: Maurice A. Leiter
+plaintiff: Leslee Deanes
+defendant: Brent L. Davis
+people:
+  - Leslee Deanes
+  - Brent L. Davis
+companies: []
+places:
+  - Superior Court of California
+  - Los Angeles County
+dates:
+  - March 15, 2024
+  - May 31, 2024
+events:
+  - Personal service of summons
+  - Motion to quash service of summons
+  - Service of summons left on doorstep
+money: []
+intentions:
+  - To determine whether service of summons was proper
+facts:
+  - Defendant Brent L. Davis was served on March 15, 2024
+  - Defendant claims he was not personally served
+  - Summons and complaint were left on doorstep
+disputes:
+  - Whether service of summons was proper
+  - Defendant's claim of improper service
+  - Plaintiff's assertion of proper service
+acts:
+  - Defendant's motion to quash service of summons
+  - Plaintiff's opposition to the motion
+agreements: []
+laws:
+  - CCP § 418.10(a)(1)
+  - Aquila, Inc. v. Sup. Ct. (2007)
+statutes: []
+roles:
+  - Judge Maurice A. Leiter
+  - Plaintiff Leslee Deanes
+  - Defendant Brent L. Davis
+significant_statements:
+  - A defendant may serve and file a notice of motion to quash service of summons on the ground of lack of jurisdiction of the court over him or her.
+  - The burden of proof is placed upon the plaintiff to establish the facts of jurisdiction by a preponderance of the evidence.
+```
+
+And here is the English-text summary:
+
+The Tentative Ruling is a summary of the Judge's decision regarding the defendant Brent L. Davis' motion to quash service of summons. The motion was granted, as the defendant claimed he was not personally served with the summons, and the summons and complaint were left on the doorstep. The plaintiff, Leslee Deanes, contended that the proof of service creates a presumption of proper service. However, the defendant rebutted this presumption by claiming he was not personally served. The court found that the defendant's claim was credible, and the motion to quash was granted.

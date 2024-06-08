@@ -1,0 +1,39 @@
+Here is the YAML summary of the tentative ruling:
+
+```yaml
+case_number: 23STCV05431
+hearing_date: 2024-06-03
+dept: 73
+judge: Hon. Rolf Treu
+plaintiff: Janet Angle
+defendant: SDLA Courier Service, Inc.
+counsel_for_plaintiff: Samvel Setyan (Setyan Law, APC)
+counsel_for_defendant: None
+request: Request for Entry of Default Judgment
+tentative_ruling: Denied without prejudice
+
+sections:
+  i: BACKGROUND
+    - employment action against Defendant SDLA Courier Service, Inc.
+      - causes of action: discrimination, retaliation, failure to prevent discrimination, failure to provide reasonable accommodations, failure to engage in good faith interactive process, declaratory judgment, wrongful termination, failure to permit inspection of personnel and payroll records
+
+  ii: DISCUSSION
+    - legal standard: CCP § 585
+    - application: incomplete JC Form CIV-100, missing damages summary, no interest computation
+
+  iii: DAMAGES SUMMARY
+    - compensatory damages: $96,760.00
+    - punitive damages: $1,000,000.00
+    - interest: N/A
+    - attorney's fees: $4,675.00
+    - costs: $641.95
+    - total: $102,076.95
+
+  iv: CONCLUSION
+    - Plaintiff's request for default judgment is DENIED without prejudice
+    - reasons: failure to complete CIV-100 and failure to show entitlement to punitive damages
+```
+
+And here is the English text summarizing the Judge's tentative ruling:
+
+The Judge has denied the Plaintiff's request for default judgment without prejudice. The Plaintiff's request was incomplete because it did not fill out item number two of the JC Form CIV-100, which requires identifying damages and the total amount sought. Additionally, the Plaintiff failed to provide evidence of the Defendant's financial condition to support the requested punitive damages. The Judge has ordered the Plaintiff to complete the JC Form CIV-100 and provide additional evidence to support the requested damages.

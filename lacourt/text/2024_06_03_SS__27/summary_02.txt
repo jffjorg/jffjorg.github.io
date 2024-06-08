@@ -1,0 +1,65 @@
+Here is the summary in YAML format:
+
+```
+case_number: 20STCV38710
+plaintiff: Concepción Valadez
+defendant: NewHope Pines Apartments
+people_names:
+  - Concepción Valadez
+  - NewHope Pines Apartments
+company_names:
+  - NewHope Pines Apartments
+places:
+  - Los Angeles
+dates:
+  - April 30, 2024
+  - May 9, 2024
+  - June 3, 2024
+  - July 2, 2024
+  - July 25, 2024
+  - July 30, 2024
+  - August 2024 (tentative)
+events:
+  - Motion to continue trial
+  - Ex parte motion to continue trial
+  - Trial date set
+  - Request for continuance
+money: none
+intentions:
+  - Plaintiff seeks to continue trial date
+disputes:
+  - Plaintiff's counsel has prepaid vacation
+  - Plaintiff's counsel has another trial set
+  - Court's prior grant of ex parte motion to continue trial
+facts:
+  - Plaintiff's counsel has prepaid vacation from July 2 to July 25, 2024
+  - Plaintiff's counsel has another trial set for July 30, 2024
+  - Court granted Defendants' ex parte motion to continue trial on April 30, 2024
+  - Court did not hear from opposing party when granting ex parte motion
+acts:
+  - Court granted ex parte motion to continue trial
+  - Plaintiff moved for continuance
+  - Court granted Plaintiff's motion for continuance
+agreements:
+  - None mentioned
+laws:
+  - None mentioned
+case_citations:
+  - None mentioned
+statutes:
+  - None mentioned
+roles:
+  - Judge: Hon. Lee S. Arian
+  - Plaintiff: Concepción Valadez
+  - Defendant: NewHope Pines Apartments
+  - Plaintiff's counsel: unknown
+  - Defendant's counsel: unknown
+significant_statements:
+  - Court is not persuaded by Plaintiff's assertion that he was not given an opportunity to be heard
+  - Court grants Plaintiff's motion for continuance due to counsel's prepaid vacation
+  - No further continuances will be granted
+```
+
+And here is the English-text summary:
+
+The Court has granted the Plaintiff's motion to continue the trial date. The Plaintiff's counsel has a prepaid vacation from July 2 to July 25, 2024, and also has another trial set for July 30, 2024. The Court previously granted the Defendants' ex parte motion to continue the trial on April 30, 2024. The Court notes that it did not hear from the opposing party when granting the ex parte motion. Despite this, the Court has granted the Plaintiff's motion for continuance due to the counsel's prepaid vacation. The new trial date is set for August 2024, and the Final Status Conference is continued to a date to be determined.

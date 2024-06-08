@@ -1,0 +1,46 @@
+Here is the summary in YAML format:
+
+```
+Case Number: 22STCV16192
+Case Type: Tentative Ruling on Motion for Summary Judgment
+Plaintiff: Ramez Wissa
+Defendant: Deloitte Consulting LLP
+Defendants: Brett McCoy, Does 1-20
+Court: Superior Court of the State of California
+County: Los Angeles
+Department: 56
+Hearing Date: May 31, 2024
+
+Intentions:
+  - To determine whether Deloitte Consulting LLP is entitled to summary judgment on the first, second, third, fifth, sixth, and seventh causes of action in the Third Amended Complaint.
+
+Facts:
+  - Ramez Wissa filed a wrongful termination action against Deloitte Consulting LLP and others.
+  - Deloitte Consulting LLP moved for summary judgment on the first, second, third, fifth, sixth, and seventh causes of action.
+  - The court reviewed the evidence submitted by both parties.
+
+Disputes:
+  - Whether Deloitte Consulting LLP wrongfully terminated Ramez Wissa.
+  - Whether Deloitte Consulting LLP failed to accommodate Ramez Wissa's disability.
+  - Whether Deloitte Consulting LLP retaliated against Ramez Wissa for requesting accommodations.
+
+Laws:
+  - FEHA (Government Code § 12940)
+  - Code of Civil Procedure § 437c
+
+Statutes:
+  - Government Code § 12940
+  - Code of Civil Procedure § 437c
+
+Roles:
+  - Ramez Wissa: Plaintiff
+  - Deloitte Consulting LLP: Defendant
+  - Brett McCoy: Defendant
+  - Does 1-20: Defendants
+
+Significant Statements:
+  - The court granted Deloitte Consulting LLP's motion for summary judgment on all remaining causes of action.
+  - The court found that Deloitte Consulting LLP's evidence demonstrated that it had no knowledge of Ramez Wissa's disability and did not retaliate against him for requesting accommodations.
+```
+
+Please note that the YAML format is not ideal for legal documents, and it's recommended to use a more structured format such as JSON or XML for storing and processing legal documents.

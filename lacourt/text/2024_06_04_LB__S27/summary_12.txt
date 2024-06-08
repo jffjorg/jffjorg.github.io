@@ -1,0 +1,55 @@
+Here is a summary of the judge's tentative ruling in YAML format:
+
+```
+case_number: 23STCV08230
+hearing_date: June 4, 2024
+dept: S27
+
+parties:
+  - Plaintiffs:
+    - Robert Lord
+    - Broadband Service Group, Inc.
+  - Defendants:
+    - Christopher M. Sandu
+    - Dennis Phan
+    - Legacy Communications
+
+facts:
+  - The complaint alleges that the defendants conspired to hide assets to prevent the plaintiff from collecting on a judgment against Sandu and/or any potential future judgment against Phan.
+  - The complaint includes causes of action for civil conspiracy to defraud, aiding and abetting the unlawful concealment of assets, conversion, recovery and possession of personal property, fraud, and declaratory relief.
+
+disputes:
+  - The defendants demur to the complaint, contending that the causes of action are not adequately pled and that the complaint is redundant with a prior action.
+  - The plaintiff argues that the causes of action are adequately pled and that the complaints do not overlap.
+
+laws:
+  - CCP § 430.10 (demurrer)
+  - CCP § 430.20 (demurrer when there is another action pending between the same parties on the same cause of action)
+  - CCP § 92 (limited jurisdiction courts)
+
+intentions:
+  - The court's intention is to determine whether the complaint is subject to demurrer and to address the defendants' demurrer.
+
+acts:
+  - The court has abated the action pending the outcome of the prior action.
+  - The court has scheduled a hearing on the demurrer for June 4, 2024.
+
+money:
+  - The damages sought by the plaintiff are $1,100,988.40.
+
+statements:
+  - The court is concerned about the potential res judicata or collateral estoppel effect of the prior action.
+  - The court notes that the parties are scheduled to try the prior action to a jury on April 22, 2024.
+
+roles:
+  - Judge: [Name]
+  - Plaintiff: Robert Lord
+  - Defendant: Christopher M. Sandu
+  - Defendant: Dennis Phan
+  - Defendant: Legacy Communications
+
+significant_statements:
+  - The court has sustained the demurrer and abated the action pending the outcome of the prior action.
+  - The court has scheduled a hearing on the demurrer for June 4, 2024.
+  - The court has noted that the parties are scheduled to try the prior action to a jury on April 22, 2024.
+```

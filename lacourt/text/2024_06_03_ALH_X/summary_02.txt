@@ -1,0 +1,60 @@
+Here is the summary in YAML format:
+
+```
+case_number: 23AHCV00414
+plaintiff: Heber Nahum Jordan Mejia
+defendant: Mario and Floridalma Garrido
+people_names:
+  - Heber Nahum Jordan Mejia
+  - Mario Garrido
+  - Floridalma Garrido
+  - Robert F. Smith
+company_names: []
+places:
+  - California
+dates:
+  - February 28, 2023
+  - January 16, 2024
+  - June 3, 2024
+  - November 12, 2024
+  - October 31, 2024
+events:
+  - Landlord/tenant action
+  - Cross-complaint
+  - Motion to be relieved as counsel
+  - Final status conference
+  - Jury trial
+money: $0
+intentions:
+  - Counsel Robert F. Smith wants to be relieved as counsel
+facts:
+  - Counsel has represented Defendants/Cross-Complainants since January 16, 2024
+  - Counsel has filed separate motions for each client
+  - Counsel has filed the requisite court forms (MC-051, -052, and -053)
+  - Counsel attests to service by mail at an address verified by conversation
+  - Counsel attests to a breakdown in relations with his clients
+  - Counsel has not filed a proof of service attesting to service on all interested parties
+disputes:
+  - Counsel's motion to be relieved
+  - Counsel's failure to file a proof of service
+acts:
+  - Counsel has filed the requisite court forms
+  - Counsel has attested to service by mail
+  - Counsel has attested to a breakdown in relations with his clients
+  - Counsel has not filed a proof of service
+agreements:
+  - The court has discretion to allow an attorney to withdraw
+  - Counsel must file a proof of service on all interested parties
+  - The court will delay the effective date of the order relieving counsel until proof of service is filed
+laws:
+  - California Rules of Court 3.1362
+  - Ramirez v. Sturdevant (1994) 21 Cal. App. 4th 904, 915
+  - People v. Prince (1968) 268 Cal. App. 2d 398
+statutes:
+  - California Rule of Court 3.1362
+  - Code of Civil Procedure
+roles:
+  - Counsel: Robert F. Smith
+  - Judge: Joel L. Lofton
+significant statements:
+  - Counsel's motion to be relieved is granted contingent on filing a proof of service on all interested parties.
