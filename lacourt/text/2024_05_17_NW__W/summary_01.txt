@@ -1,0 +1,61 @@
+Here is the summary in YAML format:
+
+```
+case_number: "23VECV04581"
+judge: "Tentative Ruling"
+plaintiff: "Ivana Medina"
+defendant: "Francis Mendoza Pacia"
+people_names:
+  - Ivana Medina
+  - Francis Mendoza Pacia
+  - Melizza Mendoza Pacia
+  - Emanual Pacia
+company_names: []
+places: []
+dates:
+  - October 13, 2023
+  - May 17, 2024
+events:
+  - Motor vehicle collision
+  - Request for Production of Documents
+  - Form Interrogatories
+money:
+  - $5,260.00
+  - $650.00
+  - $60
+  - $2,010.00
+intentions:
+  - To compel responses to requests for production of documents
+  - To provide relevant and discoverable information
+  - To meet and confer regarding discovery issues
+facts:
+  - Plaintiff seeks an order compelling defendant to respond to requests for production of documents and form interrogatories
+  - Defendant objects to requests on various grounds, including vagueness and privilege
+  - Plaintiff argues defendant's objections are meritless and seeks sanctions for defendant's refusal to provide requested information
+disputes:
+  - Defendant's refusal to provide requested information
+  - Plaintiff's attempts to meet and confer regarding discovery issues
+acts:
+  - Plaintiff filed a complaint against defendants for motor vehicle and general negligence
+  - Defendant replied to requests for production and form interrogatories with boilerplate objections
+  - Plaintiff sought sanctions against defendant for refusal to provide requested information
+agreements:
+  - None
+laws:
+  - CCP § 2031.310
+  - CCP § 2030.300
+  - CRC 3.1345(a)(3)
+  - Volkswagenwerk Aktiengesellschaft v. Superior Court (1981) 122 Cal.App.3d 326, 332
+roles:
+  - Judge
+  - Plaintiff
+  - Defendant
+significant_statements:
+  - The court grants plaintiff's motion to compel further responses to request for production of documents in part.
+  - The court grants plaintiff's motion to compel further responses to form interrogatories.
+  - The court denies plaintiff's request for sanctions against defendant.
+```
+
+And here is a summary in English text:
+
+This tentative ruling addresses two motions filed by the plaintiff, Ivana Medina, in a case involving a motor vehicle collision. The plaintiff seeks to compel the defendant, Francis Mendoza Pacia, to respond to requests for production of documents and form interrogatories. The defendant has objected to these requests, claiming they are vague or seek privileged information. The court finds that the defendant's objections are meritless and grants the plaintiff's motion to compel further responses to both the request for production of documents and the form interrogatories. The court also denies the plaintiff's request for sanctions against the defendant.

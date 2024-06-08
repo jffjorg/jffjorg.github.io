@@ -1,0 +1,90 @@
+Here is the YAML summary of the tentative ruling:
+
+```
+case_number: BC659059
+hearing_date: 2024-05-17
+dept: T DOE V DOE
+judge: [Tentative Ruling]
+
+people:
+  - Jane Doe (Plaintiff)
+  - Los Angeles Unified School District (Defendant)
+  - Daniel Garcia (Co-Defendant)
+  - Edward Moreno (Detective)
+
+companies:
+  - Los Angeles Unified School District
+
+places:
+  - Los Angeles
+
+dates:
+  - 2024-02-08
+  - 2024-02-22
+  - 2024-05-17
+
+events:
+  - Deposition
+  - Trial
+  - Service of Process
+
+money:
+  - $39,550.80 (total cost)
+  - $10,903.60 (Item 4)
+  - $7,624.90 (Item 5)
+  - $3,072.48 (Item 11)
+  - $7,342.50 (Item 12)
+  - $3,076.30 (Item 16)
+
+intentions:
+  - Defendant sought to strike the Cost Memo
+  - Defendant sought to tax specific cost items
+
+facts:
+  - Defendant failed to present legal authority to support the contention that the entire Cost Memo is improper
+  - Defendant failed to show that the witnesses were not necessary and/or not reasonably necessary to the conduct of litigation
+  - Plaintiff's Cost Memo failed to substantiate the service fees for Co-Defendant Daniel Garcia and Detective Edward Moreno
+  - The service of Detective Moreno four separate times was unreasonable
+
+disputes:
+  - Defendant's contention that the entire Cost Memo is improper
+  - Defendant's argument that the costs for service of process are not necessary and/or reasonably necessary to the conduct of litigation
+
+acts:
+  - Defendant moved to strike and/or tax the Cost Memo
+  - Defendant moved to tax specific cost items
+
+agreements:
+  - Plaintiff voluntarily withdrew $1,514.73 from Item 11
+  - Defendant failed to produce evidence as to when the agreements were entered and/or when the notices to appear were served
+
+laws:
+  - California Code of Civil Procedure, section 1033.5(c)(2)
+  - California Government Code, section 68086
+
+case_citations:
+  - [Tentative Ruling]
+
+statutes:
+  - California Code of Civil Procedure, section 1033.5(c)(2)
+  - California Government Code, section 68086
+
+roles:
+  - Plaintiff: Jane Doe
+  - Defendant: Los Angeles Unified School District
+  - Co-Defendant: Daniel Garcia
+  - Detective: Edward Moreno
+
+significant_statements:
+  - The court finds that the appeal does not prevent the court from ruling on this motion.
+  - The motion to strike the Cost Memo is DENIED.
+  - The motion to tax Item 4 is DENIED.
+  - The motion to tax Item 5 is DENIED in part and GRANTED in part.
+  - The motion to tax Item 11 is GRANTED in part and DENIED in part.
+  - The motion to tax Item 12 is DENIED.
+  - The motion to tax Item 16 is DENIED.
+```
+
+English-text summary:
+
+This is a tentative ruling on a motion to strike and/or tax the cost memo submitted by the plaintiff. The defendant, Los Angeles Unified School District, sought to strike the entire cost memo and/or tax specific items. The court finds that the defendant failed to present legal authority to support the contention that the entire cost memo is improper. The court denied the defendant's motion to strike the cost memo and granted the motion to tax specific items. The court also found that certain costs were reasonable and necessary to the conduct of litigation.

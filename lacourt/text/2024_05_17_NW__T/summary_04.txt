@@ -1,0 +1,60 @@
+Here is the summary in YAML format:
+
+```
+case_number: 24VECV01021
+plaintiff: Diaz
+defendant: Cable
+people:
+  - Diaz
+  - Cable
+company-names:
+  - Cable
+places:
+  - T
+  - 24VECV01021
+dates:
+  - May 17, 2024
+events:
+  - Motion to quash
+  - Hearing
+  - Service of process
+  - Complaint
+money: None mentioned
+intentions:
+  - To quash service of process
+facts:
+  - Registered process server
+  - Declaration
+  - Personal service
+  - Service of process
+  - Complaint
+disputes:
+  - Insufficiency of defendants' declarations
+acts:
+  - Service of process
+  - Filing of complaint
+  - Response to complaint
+agreements: None mentioned
+laws:
+  - Code of Civil Procedure
+  - Rules of Court
+  - Statutes
+case-citations:
+  - None mentioned
+statutes:
+  - None mentioned
+roles:
+  - Judge
+  - Plaintiff
+  - Defendant
+  - Counsel
+  - Clerk
+significant-statements:
+  - "The declarations of defendants are insufficient to overcome the presumption in favor of the declaration by the registered process server."
+  - "Individuals can be served anywhere they can be personally found."
+  - "Personal service is not restricted to home or work."
+```
+
+And here is the English text summarizing the judge's tentative ruling:
+
+The judge has denied the defendant's motion to quash the service of process. The judge finds that the defendant's declarations are insufficient to overcome the presumption in favor of the declaration by the registered process server. The judge notes that the defendant did not provide sufficient information about their relationship to the addresses where they were allegedly served, and did not explain how they became aware of the lawsuit if they were not served. The judge also explains that individuals can be served anywhere they can be personally found, and personal service is not limited to home or work. The defendant is required to respond to the complaint within 30 days.

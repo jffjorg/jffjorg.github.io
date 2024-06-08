@@ -1,0 +1,67 @@
+Here is the summary in YAML format:
+
+```
+case_number: 23SMCV00851
+hearing_date: 2024-05-17
+dept: I
+
+people:
+  - plaintiff: unknown
+  - defendant: unknown
+
+companies:
+  - none
+
+places:
+  - none
+
+dates:
+  - 2024-05-17
+
+events:
+  - motion to continue MSJ hearing
+  - deposition of defendant
+  - opposition to MSJ hearing
+
+money:
+  - none
+
+intentions:
+  - grant motion to continue MSJ hearing
+
+facts:
+  - defendant's deposition needs to be analyzed
+  - plaintiff has not shown diligence in getting deposition earlier
+
+disputes:
+  - excessive continuance period of 90 days
+  - sufficiency of evidence to oppose MSJ hearing
+
+acts:
+  - judge inclined to grant motion to continue MSJ hearing
+  - judge notes need for diligence in getting deposition earlier
+
+agreements:
+  - none
+
+laws:
+  - none
+
+case_citations:
+  - none
+
+statutes:
+  - none
+
+roles:
+  - judge: inclined to grant motion to continue MSJ hearing
+  - plaintiff: needs time to marshal evidence to oppose MSJ hearing
+  - defendant: happy with continuance if evidence is not sufficient
+
+significant_statements:
+  - court will discuss this with the parties briefly
+```
+
+And here is the English-text summary:
+
+The judge is inclined to grant the motion to continue the MSJ hearing, but not for 90 days as initially requested. The court recognizes the need to analyze the defendant's deposition before filing an opposition to the MSJ hearing. However, 90 days is considered excessive. The court also notes that the plaintiff has not shown diligence in obtaining the deposition earlier. The judge is willing to give the plaintiff a reasonable opportunity to gather evidence to oppose the MSJ hearing. If the evidence is sufficient, justice will be done by granting the continuance. If the evidence is not sufficient, the defendant will be happy that the procedural ground for appeal will be rendered moot. The judge will discuss this further with the parties.

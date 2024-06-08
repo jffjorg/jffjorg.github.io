@@ -1,0 +1,62 @@
+Here is the summary in YAML format:
+
+```
+case_number: 18STCV07964
+plaintiff: Alexander Mota
+defendant: Athena Parking, Inc. and Los Angeles Unified School District
+people_names:
+  - Alexander Mota
+  - Teresa Munguia
+  - Mitchell Castillo
+  - Raul Infante
+companies:
+  - Athena Parking, Inc.
+  - Los Angeles Unified School District
+places:
+  - Los Angeles
+dates:
+  - December 11, 2018
+  - October 18, 2023
+  - November 3, 2023
+  - December 11, 2023
+events:
+  - Filing of complaint
+  - Granting of terminating sanctions
+  - Filing of motion to set aside dismissal
+money: N/A
+intention: To set aside dismissal of complaint
+facts:
+  - Plaintiff's counsel failed to serve verified responses to discovery
+  - Plaintiff's counsel claims mistake was due to spam folder and trial preparation
+  - Court finds counsel's mistake was not excusable
+disputes:
+  - Dispute over whether counsel's mistake was excusable
+  - Dispute over whether counsel was diligent in conducting discovery
+  - Dispute over whether counsel's failure to serve discovery responses was due to trial preparation
+acts:
+  - Filing of terminating sanctions motion
+  - Granting of terminating sanctions
+  - Filing of motion to set aside dismissal
+agreements: N/A
+laws:
+  - Code of Civil Procedure section 473
+  - Code of Civil Procedure section 473(b)
+  - Leader v. Health Industries of America, Inc.
+  - Martin Potts & Associates, Inc. v. Corsair, LLC
+  - Rodriguez v. Brill
+statutes:
+  - Code of Civil Procedure section 473
+  - Code of Civil Procedure section 473(b)
+  - Code of Civil Procedure section 600
+roles:
+  - Plaintiff: Alexander Mota
+  - Defendant: Athena Parking, Inc. and Los Angeles Unified School District
+  - Judge: [Name]
+significant_statements:
+  - "The Court may relieve a party from a dismissal taken against him through his mistake, inadvertence, surprise, or excusable neglect."
+  - "Relief under this section is mandatory when based on an attorney affidavit of fault; otherwise, it is discretionary."
+```
+
+And here is the English-text summary:
+
+The tentative ruling denies the motion to set aside the dismissal of the complaint. The plaintiff's counsel claims that he failed to serve verified responses to discovery due to a mistake caused by an email being directed to his "spam" folder and trial preparation. However, the court finds that the counsel's mistake was not excusable and that he failed to show diligent efforts in conducting discovery. The court also notes that the counsel failed to provide verified responses to the discovery underlying the terminating sanctions motion.

@@ -1,0 +1,72 @@
+Here is the summary of the tentative ruling in YAML format:
+
+```
+case_number: 22STCV15888
+hearing_date: May 17, 2024
+dept: 28
+
+parties:
+  - plaintiff: Jorge Luis Mata Hernandez
+  - defendants:
+    - H&D Gateway LLC
+    - Tomomi Sushi
+    - Roberto Cortez
+    - W.Y. International, Inc.
+    - Golden Lyon Investment Co.
+
+events:
+  - May 12, 2022: Plaintiff files the action
+  - September 29, 2023: Plaintiff amends the complaint to include W.Y. International, Inc.
+  - October 25, 2023: Plaintiff amends the complaint to include Golden Lyon Investment Co.
+  - October 4, 2022: H&D files an answer
+  - December 2, 2022: H&D files a cross-complaint
+  - January 17, 2023: Tomomi Sushi files an answer
+  - March 29, 2024: The Court dismisses Tomomi Sushi without prejudice
+  - March 16, 2023: The clerk enters the defaults of Cross-Defendants Cortez and Rivera Garcia
+  - January 11, 2024: The Court sustains H&D's demurrer to the second cause of action
+  - April 11, 2024: Plaintiff files an opposition to the demurrer
+  - April 18, 2024: H&D files a reply
+
+legal_standards:
+  - A demurrer is a challenge to the pleading on the grounds that it does not state facts sufficient to constitute a cause of action.
+  - The Court must admit the truth of all material facts alleged in the pleading.
+
+facts:
+  - Cortes Leon was the owner, foreman, supervisor, and employee of H&D, W.Y., and Golden Lyon.
+  - Cortes Leon harbored Rivera Garcia, who had been arrested and/or had a criminal record for assault.
+  - Rivera Garcia possessed a firearm and fired it, shooting Plaintiff.
+  - H&D, W.Y., and Golden Lyon failed to properly supervise their employees and failed to properly hire, monitor, and/or train their employees.
+  - The Court concludes that Plaintiff has failed to allege facts showing that H&D ratified Rivera Garcia's conduct.
+
+disputes:
+  - Whether H&D ratified Rivera Garcia's conduct.
+  - Whether H&D is liable for Rivera Garcia's conduct as a joint participant.
+
+acts:
+  - H&D failed to properly supervise their employees.
+  - H&D failed to properly hire, monitor, and/or train their employees.
+  - Cortes Leon harbored Rivera Garcia.
+
+intentions:
+  - To dismiss Plaintiff's claims against H&D.
+
+laws:
+  - Labor Code section 3602, subdivision (b)(1)
+  - Labor Code section 3706 et seq.
+
+citations:
+  - Herrick v. Quality Hotels, Inns & Resorts, Inc. (1993) 19 Cal.App.4th 1608
+  - Fretland v. County of Humboldt (1999) 69 Cal.App.4th 1478
+  - Iverson v. Atlas Pacific Engineering (1983) 143 Cal.App.3d 219
+  - Rakestraw v. Rodrigues (1972) 8 Cal.3d 67
+
+roles:
+  - Plaintiff: Jorge Luis Mata Hernandez
+  - Defendant: H&D Gateway LLC
+
+significant_statements:
+  - The Court concludes that Plaintiff has failed to allege facts showing that H&D ratified Rivera Garcia's conduct.
+  - The Court sustains H&D's demurrer to the second cause of action.
+```
+
+The summary provides an overview of the case, including the parties involved, the events that led to the dispute, the legal standards and facts of the case, the disputes and acts involved, the intentions and laws relevant to the case, and the citations and roles played by the parties.

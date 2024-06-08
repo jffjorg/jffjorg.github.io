@@ -1,0 +1,55 @@
+Here is the summary in YAML format:
+
+```
+case_number: 22NWCV00535
+plaintiff_name: C Makary
+defendant_name: Vazquez
+people_names:
+  - C Makary
+  - Vazquez
+company_names: []
+places:
+  - California
+dates:
+  - 2022-06-28 (filing date)
+  - 2024-05-17 (hearing date)
+  - 2024-10-15 (trial date)
+  - 2024-06-10 (week of, for motion hearing)
+  - 2025-01-14 (original motion date)
+  - 2024-08-20 (new motion date)
+events:
+  - Trial scheduled
+  - Ex parte application filed
+  - Motion for terminating sanctions
+  - Opposition and reply to be filed
+  - Motion advanced to new date
+money: []
+intentions:
+  - To determine the fate of the motion for terminating sanctions
+facts:
+  - Plaintiff filed a motion for terminating sanctions
+  - Defendant opposes the motion
+  - Plaintiff seeks to advance the motion to a new date
+disputes:
+  - Whether the motion for terminating sanctions should be granted
+acts:
+  - Plaintiff filed the motion
+  - Defendant opposed the motion
+  - Judge denied the original motion and granted the alternative request
+agreements: []
+laws:
+  - California Code
+  - Court rules
+case_citations: []
+statutes: []
+roles:
+  - Judge
+  - Plaintiff
+  - Defendant
+significant_statements:
+  - "The Motion for Terminating Sanctions, Evidence/Issue Sanctions, and Monetary Sanctions is ADVANCED from Tuesday, January 14, 2025 to today's date and CONTINUED to Tuesday, August 20, 2024 at 9:30 a.m."
+```
+
+And here is the English-text summary:
+
+The plaintiff, C Makary, filed a motion for terminating sanctions, evidence/issue sanctions, and monetary sanctions against the defendant, Vazquez. The plaintiff's ex parte application to specially set the motion for a hearing was denied. However, the alternative request to advance the motion to a new date was granted. As a result, the motion was advanced from its original date of January 14, 2025 to August 20, 2024, at 9:30 a.m. in Dept. SE-C. The plaintiff and defendant are required to file and serve opposition and reply briefs in accordance with the new hearing date.

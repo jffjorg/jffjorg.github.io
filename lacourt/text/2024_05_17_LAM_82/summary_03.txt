@@ -1,0 +1,60 @@
+Here is the summary in YAML format:
+
+```
+case_number: unknown
+plaintiff_name: Petitioner
+defendant_name: Respondents
+people_names:
+  - Barton
+companies_names:
+  - County of Los Angeles
+  - City of Los Angeles
+places:
+  - Los Angeles
+dates:
+  - September 2022
+  - 2013
+events:
+  - Plea negotiation
+  - Dismissal of counts
+  - Public agency's action
+money: None
+intentions:
+  - Determine the validity of the September 2022 Decision
+facts:
+  - All counts related to the Property were dismissed
+  - Barton was not prosecuted or convicted of those counts
+  - Public agency's action was arbitrary, capricious, or entirely lacking in evidentiary support
+  - Failure to follow procedure and give required notices
+disputes:
+  - Validity of the September 2022 Decision
+  - Reasonableness of the public agency's action
+acts:
+  - Dismissal of counts
+  - Plea negotiation
+  - Public agency's action
+agreements:
+  - Code of Civil Procedure section 1085
+  - County of Los Angeles v. City of Los Angeles (2013) 214 Cal.App.4th 643, 654
+laws:
+  - Code of Civil Procedure section 1085
+  - County of Los Angeles v. City of Los Angeles (2013) 214 Cal.App.4th 643, 654
+citations:
+  - County of Los Angeles v. City of Los Angeles (2013) 214 Cal.App.4th 643, 654
+  - Code of Civil Procedure section 1085
+statutes:
+  - Code of Civil Procedure section 1085
+roles:
+  - Judge
+  - Petitioner
+  - Respondents
+  - Public agency
+significant_statements:
+  - The court has not located a dismissal at pages of 359-360 of the administrative record, cited by Petitioner.
+  - For this same reason, the court reaches the same result on the petition even if it is governed by Code of Civil Procedure section 1085.
+  - In the alternative, to the extent this action is governed by Code of Civil Procedure section 1085, the September 2022 Decision “was arbitrary, capricious, [and] entirely lacking in evidentiary support.”
+```
+
+And here is the English-text summary:
+
+The judge's tentative ruling states that the court has not located a dismissal at pages 359-360 of the administrative record, as cited by the Petitioner. Despite this, the Respondents have not disputed that all counts related to the Property were dismissed and that Barton was not prosecuted or convicted of those counts. The court finds that the public agency's action was arbitrary, capricious, or entirely lacking in evidentiary support, and therefore invalid. If governed by Code of Civil Procedure section 1085, the September 2022 Decision was also arbitrary, capricious, and entirely lacking in evidentiary support.
