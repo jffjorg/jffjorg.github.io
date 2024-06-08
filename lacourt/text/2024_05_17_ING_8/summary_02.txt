@@ -1,0 +1,69 @@
+Here is the YAML summary of the tentative ruling:
+
+```
+case_number: 23TRCV01881
+hearing_date: 2024-05-17
+dept: 8
+parties:
+  - plaintiff: Deandre Davon Fluckers, Renzo Ross
+  - defendant: Extended Stay America, Inc., Seth Neblett
+events:
+  - June 12, 2023: Plaintiffs file a Complaint
+  - August 9, 2023: Plaintiffs file a First Amended Complaint
+  - March 13, 2024: Plaintiffs file a Second Amended Complaint
+  - February 23, 2024: Court sustains demurrer to First Amended Complaint
+  - April 15, 2024: Defendants file demurrer and motion to strike
+  - May 1, 2024: Plaintiffs file opposition to motions
+  - May 10, 2024: Defendants file reply brief
+  - May 17, 2024: Court issues tentative ruling
+disputes:
+  - Negligence
+  - Intentional Infliction of Emotional Distress
+  - Negligent Infliction of Emotional Distress
+  - Willful Interruption of Services
+acts:
+  - Demurrer
+  - Motion to Strike
+  - Meet and Confer
+  - Leave to Amend
+interventions:
+  - Judge's tentative ruling
+ Intentions:
+  - To determine the sufficiency of the causes of action
+  - To consider the motions to strike and demurrer
+  - To address the parties' arguments
+Facts:
+  - Plaintiffs allege negligence, breach of implied warranty, and other causes of action
+  - Defendants demurred to the causes of action alleging they are insufficient
+  - Plaintiffs argue that the demurrer should be overruled
+  - The court reviews the pleadings and arguments
+Laws:
+  - Civil Code sections 1940, 1940.2, 1941.1, and 1942.2
+  - Code of Civil Procedure sections 436 and 437
+  - California Code of Civil Procedure section 789.3
+Citations:
+  - Aubry v. Tri-City Hospital Dist. (1992) 2 Cal.4th 962, 966-967
+  - Blank v. Kirwan (1985) 39 Cal.3d 311, 318
+  - C.A. v. William S. Hart Union High School Dist. (2012) 53 Cal.4th 861, 872
+  - Clauson v. Superior Court (1998) 67 Cal.App.4th 1253, 1255
+  - College Hospital, Inc. v. Superior Court (1994) 8 Cal.4th 704, 725
+  - Daar v. Yellow Cab Co. (1967) 67 Cal.2d 695, 713
+  - Hom v. Petrou (2021) 67 Cal.App.5th 459, 464
+  - Khoury v. Maly's of California, Inc. (1993) 14 Cal.App.4th 612, 616
+  - Lackner v. North (2006) 135 Cal.App.4th 1188, 1211
+  - Nativi v. Deutsche Bank Nat'l Tr. Co. (2014) 223 Cal.App.4th 261, 292
+  - Taylor v. Superior Court (1979) 24 Cal.3d 890, 894
+  - Tomaselli v. Transamerica Ins. Co. (1994) 25 Cal.App.4th 1269, 1287
+  - Vaccaro v. Kaiman (1998) 63 Cal.App.4th 761, 768
+Roles:
+  - Judge: determines the sufficiency of the causes of action
+  - Plaintiffs: argue that the demurrer should be overruled
+  - Defendants: argue that the demurrer should be sustained
+  - Parties: present their arguments and evidence
+Significant statements:
+  - The court overrules the demurrer in part and sustains it in part.
+  - The court denies the motion to strike punitive damages as it relates to the causes of action that were overruled.
+  - The court denies the motion to strike attorneys' fees as they pertain to the causes of action sustained on demurrer.
+```
+
+Note that the YAML format is used to represent the summary in a concise and structured way. The fields in the YAML document represent the different aspects of the tentative ruling, such as the case number, parties, events, disputes, acts, intentions, facts, laws, citations, roles, and significant statements.

@@ -1,0 +1,65 @@
+Here is the tentative ruling in YAML format:
+
+```
+case_number: 23STCV30876
+hearing_date: 2024-05-17
+dept: 52
+defendant: Propark America West, LLC
+
+people:
+  - plaintiff: Nancy Benavides
+  - defendant: Propark America West, LLC
+
+places:
+  - None
+
+dates:
+  - filing date: ???
+  - hearing date: 2024-05-17
+
+events:
+  - defendant's motion to compel arbitration of individual PAGA claim and stay representative PAGA claims
+
+money:
+  - None
+
+intentions:
+  - defendant intends to compel arbitration of individual PAGA claim and stay representative PAGA claims
+
+facts:
+  - plaintiff's individual PAGA claim is arbitrable under Viking River Cruises, Inc. v. Moriana (2022) 596 U.S. 639
+  - representative PAGA claims are not arbitrable
+  - parties' agreement delegates to arbitrator the power to rule on gateway issues
+
+disputes:
+  - arbitrability of individual PAGA claim
+  - stay of representative PAGA claims
+
+acts:
+  - defendant's motion to compel arbitration and stay representative PAGA claims
+  - plaintiff's opposition to defendant's motion
+
+agreements:
+  - parties' arbitration agreement delegates to arbitrator the power to rule on gateway issues
+
+laws:
+  - Viking River Cruises, Inc. v. Moriana (2022) 596 U.S. 639
+  - Adolph v. Uber Technologies, Inc. (2023) 14 Cal.5th 1104
+  - Kader v. Southern California Medical Center, Inc. (2024) 99 Cal.App.5th 214
+
+statutes:
+  - Private Attorneys General Act (PAGA)
+
+roles:
+  - Judge
+  - Plaintiff (Nancy Benavides)
+  - Defendant (Propark America West, LLC)
+
+significant statements:
+  - "Parties to an arbitration agreement may agree to delegate to the arbitrator, instead of a court, questions regarding the enforceability of the agreement."
+  - "There are two prerequisites for a delegation clause to be effective. First, the language of the clause must be clear and unmistakable. Second, the delegation must not be revocable under state contract defenses such as fraud, duress, or unconscionability."
+```
+
+And here is the English text to summarize the judge's tentative ruling:
+
+"In this case, defendant Propark America West, LLC moves to compel arbitration of plaintiff Nancy Benavides's individual PAGA claim and stay representative PAGA claims. Plaintiff opposes the motion, arguing that the parties' agreement contains an unenforceable waiver of the right to bring a representative PAGA action. However, the court finds that the parties' agreement delegates to the arbitrator the power to rule on gateway issues, including arbitrability. Therefore, the court grants defendant's motion to compel arbitration of the individual PAGA claim and stays the representative PAGA claims. The court orders plaintiff to arbitrate her disputes with defendant, including gateway issues of arbitrability and the scope of the arbitration agreement, but not including plaintiff's representative PAGA claims. The court hereby stays the entire action pending resolution of the arbitration proceeding."

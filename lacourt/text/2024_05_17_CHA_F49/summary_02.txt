@@ -1,0 +1,28 @@
+Here is a YAML representation of the tentative ruling:
+
+```yaml
+Case Number: 23CHCV03144
+Case Name: BMO Bank N.A. v. Medina Truck & Transportation, Inc., Salvador Medina, and Does 1-20
+Judge's Ruling:
+  - Tentative Ruling: DENIED (Motion to Quash Service of Summons and Complaint)
+  - Application for Writ of Possession: GRANTED
+  - Turnover Order: GRANTED
+
+Parties:
+  - Plaintiff: BMO Bank N.A.
+  - Defendant: Medina Truck & Transportation, Inc., Salvador Medina, and Does 1-20
+
+Issues:
+  - Service of Process: Valid and effective
+  - Basis of Plaintiff's Claim: Sufficiently demonstrated
+  - Wrongful Detention: MT&T wrongfully detained the equipment
+  - Description and Value of Property: Provided explicit description and value of the equipment
+  - Statutory Statements: Satisfied the requirements
+  - Undertaking: Waived due to Defendants having no interest in the property
+
+Next Steps:
+  - The Court will issue a writ of possession and a turnover order
+  - The parties are ordered to comply with the Court's ruling
+```
+
+Note that the YAML representation is a summary of the judge's tentative ruling and does not include the entire case file.

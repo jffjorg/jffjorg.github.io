@@ -1,0 +1,70 @@
+Here is the YAML summary of the tentative ruling:
+
+```yaml
+case_number: 19BBCV01099
+hearing_date: 2024-05-17
+dept: NCB
+county: Los Angeles
+district: North Central
+judge: John Kralik
+
+parties:
+  plaintiff: 4000 Burbank, LLC
+  defendants:
+    - Elani Kinoshita
+    - Chad Tadashi Kinoshita
+
+locations:
+  - 4002-4004 West Burbank Blvd, Burbank, CA 91505
+
+dates:
+  - 2019-12-10 (complaint filed)
+  - 2020-01-07 (default of Chad Tadashi Kinoshita)
+  - 2020-01-08 (default of All Unknown Occupants)
+  - 2020-01-27 (OSC re: Dismissal)
+  - 2020-01-28 (Notice of Lodgment of Stipulation)
+  - 2021-09-23 (Stipulation to Modify Stipulated Judgment filed)
+  - 2021-10-19 (complaint dismissed without prejudice)
+  - 2023-09-29 (Stipulation to Enter Judgment)
+  - 2024-03-04 (motion to unseal filed)
+  - 2024-05-17 (tentative ruling)
+
+amounts:
+  - $13,700 (monthly rent)
+  - $30,055 (past-due rent)
+  - $456.67 (daily damages)
+
+facts:
+  - Unlawful detainer action filed by 4000 Burbank, LLC against Elani Kinoshita and Chad Tadashi Kinoshita
+  - Stipulated Judgment entered on 2023-09-29
+  - Defendants defaulted on payment terms
+
+disputes:
+  - Motion to unseal the record
+  - Parties' stipulation to seal the record
+
+acts:
+  - Default of Chad Tadashi Kinoshita
+  - Default of All Unknown Occupants
+  - Lodgment of stipulation
+  - Entry of stipulated judgment
+
+agreements:
+  - Stipulated Judgment (2023-09-29)
+  - Stipulation to Modify Stipulated Judgment (2021-09-23)
+
+laws:
+  - CCP § 1161.2 (limited access to limited jurisdiction unlawful detainer case files)
+  - CCP § 128 (a)(8) (interests of justice)
+  - CCP § 664.6 (retention of jurisdiction to enforce settlement agreement)
+  - CRC Rule 2.550-2.551 (sealing and unsealing of court records)
+
+significant statements:
+  - "The court must not permit a record to be filed under seal based solely on the agreement or stipulation of the parties." (CRC Rule 2.550)
+  - "The court must consider the matters addressed in rule 2.550(c)-(e) in determining whether to unseal a record." (CRC Rule 2.551)
+  - "The motion to unseal the records pursuant to the stipulation is denied." (Tentative Ruling)
+```
+
+And here is the English text summarizing the judge's tentative ruling:
+
+The plaintiff, 4000 Burbank, LLC, has filed a motion to unseal the record in this case. The defendant, Elani Kinoshita, and her husband, Chad Tadashi Kinoshita, have defaulted on the payment terms of a stipulated judgment. The plaintiff argues that the court must unseal the record based on the parties' stipulation and the interests of justice. However, the court has denied the motion to unseal the record without prejudice. The court notes that the case was not sealed in the first place, and the plaintiff has not specified which particular records it seeks to unseal. The court has ordered the plaintiff to file a new motion that specifically names the documents it seeks to unseal and addresses the factors in CRC Rule 2.550 and 2.551.

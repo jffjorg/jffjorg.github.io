@@ -1,0 +1,57 @@
+Here is a summary of the tentative ruling in YAML format:
+
+```
+case_number: 23STCV18559
+case_name: David Feeley, et al. v. Jeffrey R. Vargo, et al.
+moving_party: Plaintiffs David Feeley and Porter Ranch Physical Therapy, Inc.
+opposing_party: Defendants Jeffrey R. Vargo and Vargo Physical Therapy
+trial_date: Not Set
+proof_of_service: OK
+
+proceeding: Motion for a Preliminary Injunction
+opposition: 23 April 2024
+reply: 29 April 2024
+
+tentative_ruling:
+  - Granting Plaintiffs' request for a preliminary injunction
+  - Blocking Plaintiffs' access to all financial accounts associated with the joint venture clinics
+  - Preventing Plaintiffs from withdrawing their ordinary and usual distributions from the financial accounts for the joint venture clinics
+  - Refusing to pay any profit distributions to Plaintiffs to the extent Defendants otherwise would have distributed profits to the owners of the clinics but for the terms of this order
+  - Diverting business from the joint venture clinics to the extent they otherwise would not have done so but for the terms of this order
+  - Defenders are immediately enjoined from incurring or attributing business expenses to the joint venture clinics to the extent they otherwise would not have done so but for the terms of this order
+
+facts:
+  - Plaintiffs and Defendants entered into a joint venture agreement in 2004
+  - Plaintiffs contributed to the opening of four joint venture clinics
+  - Plaintiffs received a monthly draw of $22,000 and a proportionate share of the profits from the joint venture clinics
+  - In 2023, Defendants cut off Plaintiffs' access to the financial accounts and stopped paying the monthly draw and profit distributions
+  - Plaintiffs seek a preliminary injunction to restore their access to the financial accounts and receive their proportionate share of the profits from the joint venture clinics
+
+intentions:
+  - To restore Plaintiffs' access to the financial accounts and receive their proportionate share of the profits from the joint venture clinics
+
+laws:
+  - CCP § 527(a) (preliminary injunction)
+  - CCP § 526(a) (preliminary injunction)
+  - Civ. Code § 496(c) (civil theft)
+
+citations:
+  - Costa Mesa City Employees' Assn. v. City of Costa Mesa (2012) 209 Cal.App.4th 298, 308 (irreparable harm)
+  - White v. Davis (2003) 30 Cal.4th 528, 554 (irreparable harm)
+  - In re Butler (2018) 4 Cal.5th 728, 738, 741 (flexibility in modifying an injunctive order)
+
+roles:
+  - Judge: [Judge's Name]
+  - Plaintiffs: David Feeley and Porter Ranch Physical Therapy, Inc.
+  - Defendants: Jeffrey R. Vargo and Vargo Physical Therapy
+```
+
+Summary:
+
+Plaintiffs, David Feeley and Porter Ranch Physical Therapy, Inc., seek a preliminary injunction to restore their access to the financial accounts and receive their proportionate share of the profits from the joint venture clinics. The court grants the preliminary injunction, ordering Defendants to:
+
+* Block Plaintiffs' access to all financial accounts associated with the joint venture clinics
+* Prevent Plaintiffs from withdrawing their ordinary and usual distributions from the financial accounts for the joint venture clinics
+* Refuse to pay any profit distributions to Plaintiffs to the extent Defendants otherwise would have distributed profits to the owners of the clinics
+* Divert business from the joint venture clinics to the extent they otherwise would not have done so but for the terms of this order
+* Defenders are immediately enjoined from incurring or attributing business expenses to the joint venture clinics to the extent they otherwise would not have done so but for the terms of this order.

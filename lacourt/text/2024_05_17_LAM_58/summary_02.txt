@@ -1,0 +1,72 @@
+Here is the summary in YAML format:
+
+```
+---
+case_number: 23STCV30009
+plaintiff_name: Can Capital, Inc.
+defendant_name: Richard Raya, et al.
+people_names:
+  - Richard Raya
+  - Sam's Tacos
+company_names:
+  - Can Capital, Inc.
+  - WebBank
+places:
+  - California
+dates:
+  - May 4, 2023
+  - July 18, 2023
+  - July 23, 2023
+  - February 21, 2024
+  - March 11, 2024
+  - March 18, 2024
+  - May 17, 2024
+events:
+  - Breach of contract
+  - Default judgment
+  - Loan agreement
+  - Personal guaranty
+  - Dispute resolution
+money:
+  - $115,900 (compensatory damages)
+  - $7,366 (prejudgment interest)
+  - $511 (costs)
+  - $3,049 (attorney's fees)
+  - $126,826 (total judgment)
+intentions:
+  - Plaintiff seeks damages and interest for breach of contract
+  - Defendant failed to pay amounts due under loan agreement
+facts:
+  - Loan agreement between WebBank and Defendant on May 4, 2023
+  - Defendant failed to make payments as agreed
+  - Plaintiff seeks default judgment
+  - Defendant did not respond to lawsuit
+disputes:
+  - Breach of contract
+  - Dispute over loan agreement
+acts:
+  - Plaintiff requests default judgment
+  - Defendant did not respond to lawsuit
+agreements:
+  - Loan agreement between WebBank and Defendant
+  - Personal guaranty by Defendant
+  - Code of Civil Procedure sections 1033.5
+laws:
+  - Code of Civil Procedure sections 1033.5
+  - Local Rule 3.214
+case_citations:
+  - (O'Connell Decl., ¶¶ 9 & 11, Exhs. A & B.)
+  - (O'Connell Decl., ¶ 13.)
+  - (O'Connell Decl., ¶ 10; Exh. A.)
+roles:
+  - Plaintiff: Can Capital, Inc.
+  - Defendant: Richard Raya
+  - Judge: [Judge's Name]
+significant_statements:
+  - The Court grants the request for default judgment
+  - Plaintiff is awarded default judgment in the total amount of $126,826.00 against Defendant Richard Raya
+```
+
+And here is the English-text summary of the judge's tentative ruling:
+
+The court has granted the request for default judgment in the amount of $126,826.00 against Richard Raya, individually and dba Sam's Tacos. This amount includes $115,900 in compensatory damages, $7,366 in prejudgment interest, $511 in costs, and $3,049 in attorney's fees. The court has awarded these amounts based on the loan agreement between WebBank and the defendant, which was breached by the defendant's failure to make payments. The court has also taken into account the statutory rate of 10% per annum on the outstanding balance of $115,900.00 for a period of 232 days. The court has awarded the requested amounts in accordance with the court's default fee schedule and the Code of Civil Procedure sections 1033.5.

@@ -1,0 +1,49 @@
+Here is the summary of the judge's tentative ruling in YAML format:
+
+```
+case_number: 22STCV34754
+hearing_date: 2024-05-17
+hearing_time: 2:00 pm
+department: 50
+judge: Hon. Teresa A. Beaudet
+county: Los Angeles
+state: California
+
+parties:
+  - The Testing Company, LLC (plaintiff)
+  - Enigma Management Corp. dba Alliance Laboratories (defendant)
+
+facts:
+  - The Testing Company, LLC and Enigma Management Corp. dba Alliance Laboratories entered into an oral agreement in 2021 for Covid-19 testing services.
+  - The plaintiff performed services and invoiced the defendant for $1,703,950.94.
+  - The defendant failed to pay the invoices.
+
+causes_of_action:
+  - First cause of action: breach of contract
+  - Fourth cause of action: breach of covenant of good faith and fair dealing
+  - Sixth cause of action: concealment
+
+ruling:
+  - The court overrules the demurrer to the first cause of action (breach of contract).
+  - The court sustains the demurrer to the sixth cause of action (concealment).
+  - The court grants the motion to strike the prayer for punitive damages.
+  - The plaintiff is ordered to file an amended complaint, if any, within 20 days.
+  - If no amended complaint is filed, the defendant is ordered to file an answer within 30 days.
+
+orders:
+  - The defendant is ordered to give notice of this order.
+```
+
+Here is a summary of the judge's tentative ruling in English:
+
+The judge has made a tentative ruling on a case involving The Testing Company, LLC and Enigma Management Corp. dba Alliance Laboratories. The plaintiff, The Testing Company, LLC, alleges that it entered into an oral agreement with the defendant, Enigma Management Corp. dba Alliance Laboratories, for Covid-19 testing services. The plaintiff performed services and invoiced the defendant for $1,703,950.94, but the defendant failed to pay the invoices.
+
+The judge's ruling is as follows:
+
+* The court overrules the demurrer to the first cause of action, which is the breach of contract claim.
+* The court sustains the demurrer to the sixth cause of action, which is the concealment claim.
+* The court grants the motion to strike the prayer for punitive damages.
+* The plaintiff is ordered to file an amended complaint, if any, within 20 days.
+* If no amended complaint is filed, the defendant is ordered to file an answer within 30 days.
+
+The defendant is ordered to give notice of this order.

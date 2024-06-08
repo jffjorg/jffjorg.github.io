@@ -1,0 +1,59 @@
+Here is the YAML representation of the tentative ruling:
+
+```
+Case Number: 23STCV28427
+Plaintiff's Name: MUSE Looks, Inc.
+Defendant's Name: EMMA Apparel, Inc. et al.
+People-Names:
+  - Plaintiff: MUSE Looks, Inc.
+  - Defendant: EMMA Apparel, Inc. et al.
+Company-Names:
+  - MUSE Looks, Inc.
+  - EMMA Apparel, Inc.
+Places:
+  - Los Angeles
+  - Stanley Mosk Courthouse
+Dates:
+  - Hearing Date: May 17, 2024
+  - July 2, 2024
+Events:
+  - Hearing on an order to show cause
+  - Sanction of $250 for failing to enter default judgment
+Intention:
+  - To determine if the complaint should not be dismissed and/or Plaintiff's counsel sanitized
+Facts:
+  - Plaintiff did not properly lay the foundation for exhibits to support damages
+  - Plaintiff did not demonstrate evidence in support of claim for damages for fraud in the amount of $50,000.00
+  - No summary of the case
+  - Plaintiff has not shown liability as to each defendant and the recovery is not duplicative
+  - Plaintiff's interest calculation is at 10% but no contract to support the request for breach of contract
+Disputes:
+  - Whether the complaint should not be dismissed and/or Plaintiff's counsel sanctioned
+Acts:
+  - Failing to enter default judgment
+  - Failing to provide evidence in support of claim for damages
+  - Failing to provide a summary of the case
+  - Failing to show liability as to each defendant
+  - Failing to provide a contract to support the request for breach of contract
+  - Failing to use correct interest rate for damages
+Agreements:
+  - California Rule of Court, rule 3.110(h)
+Laws:
+  - Civ. Code §§3287 et seq.
+  - Cal. Const. art. 15, §1
+  - California Rule of Court, rule 3.110(h)
+Case Citations:
+  - Civ. Code §§3287 et seq.
+  - Cal. Const. art. 15, §1
+Roles:
+  - Plaintiff: MUSE Looks, Inc.
+  - Defendant: EMMA Apparel, Inc. et al.
+  - Judge: [Unknown]
+Significant Statements:
+  - "The Court denies Plaintiff's default judgment packet."
+  - "The Court sets a hearing on an order to show cause why the complaint should not be dismissed and/or Plaintiff's counsel sanctioned $250 for failing to enter default judgment."
+```
+
+And here is the English text to summarize the judge's tentative ruling:
+
+The judge denies the plaintiff's default judgment packet and sets a hearing on an order to show cause why the complaint should not be dismissed and/or the plaintiff's counsel should be sanctioned $250 for failing to enter default judgment. The reasons for this decision include: the plaintiff did not properly lay the foundation for the exhibits to support damages, the plaintiff did not demonstrate evidence in support of the claim for damages for fraud in the amount of $50,000.00, there was no summary of the case, the plaintiff did not show liability as to each defendant and the recovery is not duplicative, and the plaintiff's interest calculation is at 10% but no contract to support the request for breach of contract. The hearing is scheduled for July 2, 2024, at 8:30 AM in Department 71 at Stanley Mosk Courthouse.

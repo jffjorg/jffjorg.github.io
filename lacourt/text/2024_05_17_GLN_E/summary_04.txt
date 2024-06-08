@@ -1,0 +1,55 @@
+Here is the YAML representation of the tentative ruling:
+
+```
+Case Number: "23GDCV01701"
+Plaintiff's Name: "Artyom Gabrielyan"
+Defendant's Name: "Wing Street Residence, LLC" and "Clide Abraamyan"
+People-Names:
+  - Artyom Gabrielyan
+  - Clide Abraamyan
+Company-Names:
+  - Wing Street Residence, LLC
+Places:
+  - None specified
+Dates:
+  - "4/9/2024"
+  - "4/18/2024"
+  - "5/3/2024"
+  - "08/11/2023"
+  - "10/18/2023"
+  - "10/24/2023"
+Events:
+  - Default judgment entered
+  - Motion to set aside default and vacate default judgment filed
+  - Stipulation and proposed order to set aside entry of default and vacate default judgment filed
+Money: None specified
+Intentions:
+  - To set aside defaults and vacate default judgments
+  - To permit defendants to file an answer to plaintiff's complaint
+Facts:
+  - Defaults entered on 10/18/2023 and 10/24/2023
+  - Default judgments entered on 4/9/2024
+  - Stipulation signed by both plaintiff and defendants' counsel
+Disputes:
+  - None specified
+Acts:
+  - Defaults entered
+  - Default judgments entered
+  - Motion to set aside defaults and vacate default judgments filed
+  - Stipulation and proposed order to set aside entry of default and vacate default judgment filed
+Agreements:
+  - Stipulation signed by both parties
+Laws: None specified
+Case Citations: None specified
+Statutes: None specified
+Roles:
+  - Plaintiff: Artyom Gabrielyan
+  - Defendant: Clide Abraamyan and Wing Street Residence, LLC
+  - Defendants' counsel: [Unknown]
+Significant Statements:
+  - "Since both Plaintiff and Defendants' counsel signed the stipulation, Defendants' motion to set aside default and vacate default judgment is GRANTED."
+```
+
+And here is the English-language summary:
+
+This tentative ruling grants the defendants' motion to set aside the defaults and vacate the default judgments. The default judgments entered on April 9, 2024, and the defaults entered on October 18, 2023, and October 24, 2023, are vacated. As a result, the defendants, Clide Abraamyan and Wing Street Residence, LLC, are permitted to file an answer to the plaintiff's complaint within 10 days of receiving the signed order setting aside the default. The stipulation and proposed order to set aside the entry of default and vacate the default judgment, signed by both plaintiff and defendants' counsel, is accepted.

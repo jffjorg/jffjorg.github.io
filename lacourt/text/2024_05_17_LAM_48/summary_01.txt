@@ -1,0 +1,69 @@
+Here is the YAML representation of the tentative ruling:
+```
+---
+Case Number: 21STCV36267
+Plaintiff's Name: Eboni Gardner
+Defendant's Name: Valley Creek Hospice Inc.
+People-Names:
+  - Eboni Gardner
+  - Thomas D. Long
+Company-Names:
+  - Valley Creek Hospice Inc.
+Places:
+  - Los Angeles
+  - California
+Dates:
+  - May 24, 2022
+  - February 9, 2023
+  - June 22, 2023
+  - August 25, 2023
+  - November 29, 2023
+  - February 16, 2024
+  - August 16, 2024
+  - May 17, 2024
+Events:
+  - Filing of complaint
+  - Entry of default
+  - Request for default judgment
+  - Denial of request for default judgment
+Money:
+  - $992,103.90
+  - $978,866.71
+  - $12,486.32
+  - $750.87
+Intentions:
+  - Plaintiff seeks judgment for damages
+  - Plaintiff seeks attorney fees
+Facts:
+  - Plaintiff filed a complaint
+  - Defendant was served with the complaint
+  - Plaintiff filed a request for default judgment
+Disputes:
+  - Plaintiff's damages are unclear
+  - Plaintiff's damages calculation is unclear
+  - Plaintiff did not serve a Statement of Damages before entry of default
+Acts:
+  - Plaintiff attended therapy
+  - Plaintiff took certain medications
+  - Plaintiff began earning a certain income
+  - Plaintiff sued to earn a certain hourly wage
+Agreements:
+  - None
+Laws:
+  - Code Civ. Proc., § 425.11, subd. (b)
+  - Code Civ. Proc., § 425.11, subd. (c)
+  - Code Civ. Proc., § 425.10, subd. (b)
+Statutes:
+  - Government Code section 12965, subdivision (b)
+Roles:
+  - Plaintiff: Eboni Gardner
+  - Defendant: Valley Creek Hospice Inc.
+  - Judge: Thomas D. Long
+  - Attorney: Plaintiff's counsel
+Significant Statements:
+  - "Plaintiffs in a default judgment proceeding must prove they are entitled to the damages claimed."
+  - "The plaintiff must affirmatively establish his entitlement to the specific judgment requested."
+```
+And here is a summary of the tentative ruling in English text:
+
+The court has denied the plaintiff's request for entry of default judgment. The plaintiff, Eboni Gardner, is seeking a judgment of $992,103.90 against Valley Creek Hospice Inc. and others. The court found that the plaintiff did not provide sufficient evidence to support her damages, including her emotional distress and lost earnings. The court also noted that the plaintiff did not serve a Statement of Damages on the defendant before entering default, as required by law. As a result, the court has denied the plaintiff's request for default judgment and scheduled an order to show cause for August 16, 2024.

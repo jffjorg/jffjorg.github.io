@@ -1,0 +1,63 @@
+Here is the summary in YAML format:
+
+```
+Case Number: 23STCV00076
+Plaintiff's Name: Salvador Lopez, Jr.
+Defendant's Name:
+  - Advance Pipe Bending
+  - Mitchell McCray
+People-Names:
+  - Salvador Lopez, Jr.
+  - Mitchell McCray
+Company-Names:
+  - Advance Pipe Bending
+Places:
+  - California
+Dates:
+  - March 19, 2024 (defaults entered)
+  - May 17, 2024 (hearing date)
+  - July 1, 2024 (filing deadline)
+  - July 11, 2024 (continued hearing date)
+Events:
+  - Defaults entered by clerk
+  - Failure to obtain default judgment
+  - Request for sanctions
+Money:
+  - $100 in sanctions
+Intentions:
+  - Plaintiff to obtain default judgment
+  - Court to exercise discretion
+Facts:
+  - Defaults entered by clerk
+  - Timely request for entry of default judgment not made
+Disputes:
+  - Failure to obtain default judgment
+  - Request for sanctions
+Acts:
+  - Clerk enters defaults
+  - Plaintiff fails to obtain default judgment
+  - Court exercises discretion
+  - Order to show cause re: entry of default judgment
+Agreements:
+  - California Rules of Court, rule 3.110(h)
+  - California Rules of Court, rule 3.1800(a)
+Laws:
+  - California Rules of Court, rule 3.110(h)
+  - California Rules of Court, rule 3.110(g)
+  - California Rules of Court, rule 3.1800(a)
+Case Citations:
+  - California Rules of Court
+Statutes:
+  - California Rules of Court
+Roles:
+  - Judge
+  - Plaintiff
+  - Defendant
+Significant Statements:
+  - Court exercises discretion not to issue order to show cause why sanctions should not be imposed
+  - Court continues order to show cause re: entry of default judgment
+```
+
+And here is the English-text summary:
+
+The judge's tentative ruling is a response to the plaintiff's failure to obtain a default judgment against the defendants, Advance Pipe Bending and Mitchell McCray, within the required 45-day period. Despite the plaintiff's failure, the court is not imposing sanctions and instead is giving the plaintiff a second chance to obtain the default judgment. The court has continued the order to show cause re: entry of default judgment to July 11, 2024, and has given the plaintiff until July 1, 2024, to file a complete default judgment application.
