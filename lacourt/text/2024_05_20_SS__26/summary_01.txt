@@ -1,0 +1,75 @@
+Here is the summary in YAML format:
+
+```
+case_number: 21STLC00959
+hearing_date: 2024-05-20
+dept: 26
+plaintiff: State Farm Mutual Automobile Insurance Company
+defendant: Luis Alberto Perez Hernandez
+people:
+  - Luis Alberto Perez Hernandez
+  - Benson (attorney)
+company-names:
+  - State Farm Mutual Automobile Insurance Company
+places:
+  - California
+dates:
+  - 2021-02-04 (filing of lawsuit)
+  - 2022-12-13 (dismissal of lawsuit)
+  - 2024-03-08 (motion to vacate dismissal)
+  - 2024-05-20 (tentative ruling)
+events:
+  - Subrogation action
+  - Settlement agreement
+  - Dismissal of lawsuit
+  - Motion to enforce settlement agreement
+  - Entry of judgment
+money:
+  - $2,818.36 (principal)
+  - $370.00 (costs)
+  - $5,100.00 (total settlement amount)
+  - $7,568.36 (total amount claimed)
+  - $4,100.00 (initial payment from Defendant's insurer)
+  - $4,750.00 (payments made towards settlement)
+intention:
+  - Enforce settlement agreement
+  - Enter judgment in favor of Plaintiff
+facts:
+  - Plaintiff filed lawsuit in 2021
+  - Plaintiff and Defendant entered into settlement agreement in 2022
+  - Plaintiff made request for retention of jurisdiction
+  - Defendant defaulted on payments
+disputes:
+  - Plaintiff's request to enforce settlement agreement
+  - Defendant's default on payments
+acts:
+  - Defendant's payment of $4,750.00 towards settlement
+  - Plaintiff's filing of motion to vacate dismissal
+  - Plaintiff's request for retention of jurisdiction
+agreements:
+  - Settlement agreement between Plaintiff and Defendant
+laws:
+  - California Code of Civil Procedure, section 664.6
+  - Levy v. Superior Court (1995)
+  - J.B.B. Investment Partners, Ltd. v. Fair (2014)
+  - Wackeen v. Malis (2002)
+case_citations:
+  - Levy v. Superior Court (1995)
+  - J.B.B. Investment Partners, Ltd. v. Fair (2014)
+  - Wackeen v. Malis (2002)
+statutes:
+  - California Code of Civil Procedure, section 664.6
+roles:
+  - Plaintiff: State Farm Mutual Automobile Insurance Company
+  - Defendant: Luis Alberto Perez Hernandez
+  - Benson: attorney for Plaintiff
+  - Parties: Plaintiff and Defendant
+  - Insurer: Defendant's insurer
+significant_statements:
+  - Plaintiff's motion to enforce settlement agreement granted
+  - Judgment to be entered in favor of Plaintiff in the amount of $2,818.36 principal and $370.00 in costs.
+```
+
+And here is a summary of the judge's tentative ruling in English text:
+
+The Plaintiff, State Farm Mutual Automobile Insurance Company, has moved to enforce a settlement agreement with the Defendant, Luis Alberto Perez Hernandez. The settlement agreement was entered into in 2022 and provides for the Defendant to pay the Plaintiff $5,100.00. The Defendant has defaulted on the payments, and the Plaintiff is seeking to enter judgment against the Defendant. The Plaintiff has demonstrated that the settlement agreement complies with the statutory requirements set forth in California Code of Civil Procedure, section 664.6. The court concludes that the Plaintiff's motion to enforce the settlement agreement is granted, and judgment will be entered in favor of the Plaintiff in the amount of $2,818.36 principal and $370.00 in costs.

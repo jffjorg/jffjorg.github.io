@@ -1,0 +1,24 @@
+Here is a summary of the tentative ruling in YAML format:
+
+```
+Case Number: 21AVCV00302
+Case Type: Personal Injury Action
+Plaintiff: Larry Lee Limones
+Defendants: Antelope Valley Transit Authority, Transdev Services, Mario Luna
+Facts:
+  - Plaintiff was a passenger on a bus operated by AVTA and Transdev.
+  - On October 22, 2020, an elderly female passenger boarded the bus.
+  - Plaintiff asked the elderly passenger to move, which led to a verbal altercation.
+  - A car was parked in front of the bus, blocking it from leaving the stop.
+  - Raymond Jr. (Raymond Jr.) boarded the bus and physically assaulted Plaintiff.
+Issues:
+  - Negligence (First Cause of Action)
+  - Assault and Battery (Second Cause of Action)
+  - Elder Abuse (Third Cause of Action)
+  - Negligent Hiring, Retention, and Supervision (Sixth Cause of Action)
+Conclusion:
+  - The motion for summary judgment is DENIED.
+  - The motion for summary adjudication on the Sixth Cause of Action is DENIED.
+```
+
+Note that the YAML format is used to represent the case information in a structured and easily readable format. The `Facts` section provides a summary of the events leading up to the assault, while the `Issues` section lists the various claims and causes of action being pursued by the Plaintiff. The `Conclusion` section summarizes the outcome of the ruling.

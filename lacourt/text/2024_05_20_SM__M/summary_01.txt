@@ -1,0 +1,63 @@
+Here is the summary in YAML format:
+
+```
+case_number: 21SMCV00101
+plaintiff: Springlife LLC, et al.
+defendant: Mobbil Inc., et al.
+people:
+  - Behrouz Bozorgnia
+company_names:
+  - Springlife LLC
+  - Mobbil Inc.
+places:
+  - California
+dates:
+  - 5/20/2024
+events:
+  - Motion to Bifurcate Trial
+  - Motion to Enforce Settlement
+money:
+  - punitive damages
+  - compensatory damages
+  - amounts of punitive damages
+intentions:
+  - to enforce settlement
+  - to bifurcate trial
+facts:
+  - parties stipulated for settlement
+  - settlement agreement not signed by parties
+  - judicial estoppel not applied
+disputes:
+  - enforcement of settlement
+  - bifurcation of trial
+acts:
+  - motion to enforce settlement
+  - motion to bifurcate trial
+agreements:
+  - settlement agreement
+  - Code of Civil Procedure section 664.6
+  - Code of Civil Procedure section 598
+  - Code of Civil Procedure section 1048(b)
+  - Civil Code section 3294
+laws:
+  - California Code of Civil Procedure
+  - California Civil Code
+statutes:
+  - California Code of Civil Procedure section 664.6
+  - California Code of Civil Procedure section 598
+  - California Code of Civil Procedure section 1048(b)
+  - California Civil Code section 3294
+roles:
+  - Judge
+  - Plaintiff
+  - Defendant
+  - Attorney
+significant statements:
+  - "Strict compliance with the requirements of section 664.6 is prerequisite to invoking the power of the court to impose a settlement agreement."
+  - "The court may, when the convenience of witnesses, the ends of justice, or the economy and efficiency of handling the litigation would be promoted thereby, make an order that the trial of any issue or any part thereof shall precede the trial of any other issue or any part thereof in the case."
+  - "The court, in furtherance of convenience or to avoid prejudice, or when separate trials will be conducive to expedition and economy, may order a separate trial of any cause of action, including a cause of action asserted in a cross-complaint, or of any separate issue or of any number of causes of action or issues, preserving the right of trial by jury required by the Constitution or a statute of this state or of the United States."
+```
+
+And here is the English-text summary:
+
+This tentative ruling addresses two motions: a motion to enforce a purported settlement agreement and a motion to bifurcate the trial. The court finds that the defendants failed to show that the court has the equitable power to enforce the settlement agreement, citing the doctrine of judicial estoppel. The court also finds that the settlement agreement is not enforceable on noticed motion because it was not signed by the parties outside of the presence of the court. The court grants the motion to bifurcate the trial into a liability phase and a punitive damages phase, citing the need for judicial efficiency and economy.

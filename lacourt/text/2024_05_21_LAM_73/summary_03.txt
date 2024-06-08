@@ -1,0 +1,59 @@
+Here is a summary of the tentative ruling in YAML format:
+
+```
+case_number: "23STCV29280"
+case_name: "RUBIO, et al. v. B.V. GENERAL, INC., et al."
+judge: "Hon. Rolf Treu"
+filing_date: "May 13, 2024"
+hearing_date: "May 21, 2024"
+department: "Department 73"
+
+parties:
+  - plaintiff: "Anna E. Rubio, et al."
+  - defendant: "B.V. General, Inc., et al."
+counsel:
+  - plaintiff: "Tom Allen"
+  - defendant: "Thomas McAndrews"
+
+issues:
+  - demurrer: true
+  - motion_to_strike: true
+
+ruling:
+  - demurrer: sustained
+    leave_to_amend: 20 days
+  - motion_to_strike: denied
+
+facts:
+  - Anna Rubio was a resident at Costa Del Sol Healthcare, a nursing facility
+    where she was allegedly harmed by defendants
+  - Plaintiffs allege defendants failed to provide proper care and treatment
+    leading to Anna's wrongful death
+
+issues_disputed:
+  - defendants demurred to plaintiffs' second, third, and fifth causes of action
+    alleging failure to state facts sufficient to constitute said cause of action
+  - defendants moved to strike any claim for punitive damages and all language
+    supporting the same
+
+laws_cited:
+  - Welfare and Institutions Code (Welf. & Inst. Code)
+  - California Rules of Court (Cal. R. Civ. Proc.)
+  - California Civil Procedure Code (Code Civ. Proc.)
+  - Carter v. Prime Healthcare Paradise Valley LLC (2011) 198 Cal.App.4th 396
+  - Covenant Care, Inc. v. Superior Court (2004) 32 Cal.4th 771
+  - Winn v. Pioneer Healthcare (2016) 63 Cal.4th 148
+
+statutes:
+  - Welfare and Institutions Code (Welf. & Inst. Code) Section 15610.57
+  - Welfare and Institutions Code (Welf. & Inst. Code) Section 15610.63
+  - California Rules of Court (Cal. R. Civ. Proc.) Rule 3.1322
+```
+
+And here is a summary of the tentative ruling in English text:
+
+The court has issued a tentative ruling in a case involving a wrongful death claim against a nursing facility and its staff. The defendants filed a demurrer to the plaintiffs' second, third, and fifth causes of action, alleging that the complaints fail to state facts sufficient to constitute said cause of action. The court has sustained the demurrer to the second and third causes of action, giving the plaintiffs 20 days to amend their complaints. The court has also denied the defendants' motion to strike the plaintiffs' fifth cause of action.
+
+The court's ruling is based on the allegations in the complaints, which suggest that the defendants failed to provide proper care and treatment to the plaintiff, Anna Rubio, who was a resident at the nursing facility. The court has found that the plaintiffs' allegations of recklessness, oppression, fraud, or malice are insufficient to state a cause of action, and that the complaints fail to allege specific facts supporting the claims.
+
+The court's ruling is consistent with the California law and case law, and is based on the allegations in the complaints.

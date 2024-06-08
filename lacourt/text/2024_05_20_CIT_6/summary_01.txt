@@ -1,0 +1,81 @@
+Here is the YAML summary:
+
+```
+case_number: 23PSCV00781
+plaintiff_name: Zanay Herrera
+defendant_name: Starbucks Corporation, et al.
+people_names:
+  - Zanay Herrera
+  - La Verne Commons LLC
+  - Vons
+  - Albertsons Companies, Inc.
+  - Cerberus Capital Management
+  - Combined Properties, Inc.
+  - Moes
+companies:
+  - Starbucks Corporation
+  - Vons
+  - Albertsons Companies, Inc.
+  - Cerberus Capital Management
+  - La Verne Commons LLC
+  - Combined Properties, Inc.
+places:
+  - La Verne
+dates:
+  - March 15, 2023
+  - November 20, 2023
+  - March 5, 2024
+  - April 23, 2024
+  - May 7, 2024
+  - May 13, 2024
+  - October 25, 2023
+  - January 17, 2024
+  - February 12, 2024
+  - February 14, 2024
+events:
+  - Plaintiff filed an action against defendants
+  - Plaintiff filed a Doe amendment
+  - Combined Properties filed a cross-complaint
+  - La Verne Commons moved to set aside the default
+  - Plaintiff opposed the motion
+  - La Verne Commons replied to the opposition
+  - The court granted La Verne Commons' motion to set aside the default
+money:
+  - Not mentioned
+intention:
+  - To set aside the default
+facts:
+  - Plaintiff served the summons and complaint on La Verne Commons' agent for service of process
+  - La Verne Commons terminated as a business entity on January 23, 2023
+  - La Verne Commons did not notify its carrier of the action immediately upon receipt
+  - Plaintiff deposed Defendant Vons on January 17, 2024, but neither Combined Properties nor La Verne Commons attended the deposition
+disputes:
+  - Whether the service of process was defective
+  - Whether La Verne Commons' failure to notify its carrier was excusable neglect
+  - Whether Plaintiff suffered prejudice if the default is set aside
+acts:
+  - Plaintiff served the summons and complaint on La Verne Commons' agent for service of process
+  - La Verne Commons moved to set aside the default
+  - Plaintiff opposed the motion
+  - La Verne Commons replied to the opposition
+agreements:
+  - None mentioned
+laws:
+  - Code of Civil Procedure section 473
+  - Corporations Code section 2011
+statutes:
+  - Code of Civil Procedure section 473
+  - Corporations Code section 2011
+roles:
+  - Judge
+  - Plaintiff
+  - Defendant
+significant_statements:
+  - The court grants La Verne Commons' motion to set aside the default.
+  - The default entered against La Verne Commons on October 25, 2023, is hereby VACATED.
+  - Defendant La Verne Commons LLC must file and serve its proposed answer to the complaint within five days of the Court's order.
+```
+
+And here is the English summary:
+
+This is a tentative ruling by a judge regarding a motion by La Verne Commons LLC to set aside a default entered against it on October 25, 2023. The judge grants the motion, finding that La Verne Commons' failure to notify its carrier of the action immediately upon receipt and its termination as a business entity on January 23, 2023, constitute excusable neglect. The judge also finds that La Verne Commons' counsel acted promptly to seek relief from the default and that Plaintiff did not suffer prejudice if the default is set aside. The judge declines to impose monetary sanctions against La Verne Commons. The judge's ruling allows La Verne Commons to file and serve its proposed answer to the complaint within five days of the order.

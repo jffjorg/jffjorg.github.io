@@ -1,0 +1,81 @@
+Here is the summary in YAML format:
+
+```yaml
+Case Number: 20STCV31278
+Plaintiff's Name: Brian Gray, Jr.
+Defendant's Name: Aaron Peck, et al.
+People-Names:
+  - Brian Gray, Jr.
+  - Aaron Peck
+  - John Peck
+  - Kim Peck
+Company-Names:
+  - None
+Places:
+  - Los Angeles, CA
+  - 939 S. Figueroa Street
+Dates:
+  - August 18, 2020
+  - April 12, 2024
+  - May 8, 2024
+  - May 16, 2024
+  - September 8, 2018
+  - November 15, 2023
+  - November 17, 2023
+  - March 1, 2023
+  - March 13, 2023
+  - June 1, 2023
+  - July 18, 2023
+  - August 9, 2023
+  - September 1, 2023
+  - September 25, 2023
+  - November 17, 2023
+  - November 28, 2023
+  - June 11, 2024
+Events:
+  - Motor vehicle accident
+  - Discovery cutoff
+  - Motion to reopen expert discovery
+  - Depositions
+  - Trial continuance
+  - Trial
+Money:
+  - Amount: $0
+  - Currency: USD
+Intentions:
+  - Plaintiff: To reopen expert discovery for the limited purpose of deposing experts
+  - Defendant: To prevent discovery from being reopened
+Facts:
+  - Plaintiff was injured in a motor vehicle accident
+  - Plaintiff alleges negligence by the defendants
+  - Discovery was previously closed
+  - Plaintiff requests to reopen expert discovery for the limited purpose of deposing experts
+  - Defendant argues that plaintiff has demonstrated a lack of diligence
+  - Plaintiff argues that there was good cause to reopen discovery
+Disputes:
+  - Plaintiff vs. Defendant: Over the reopening of expert discovery
+Acts:
+  - Plaintiff filed a motion to reopen expert discovery
+  - Defendant opposed the motion
+  - Plaintiff replied to the opposition
+  - The court granted the motion
+Agreements:
+  - None
+Laws:
+  - California Code of Civil Procedure (CCP) section 2024.020(a)
+  - CCP section 2024.020(b)
+  - CCP section 2024.050(a)
+  - CCP section 2024.050(b)
+Statutes:
+  - California Code of Civil Procedure (CCP)
+Roles:
+  - Plaintiff: Brian Gray, Jr.
+  - Defendant: Aaron Peck, et al.
+Significant Statements:
+  - "The purpose of imposing a time limit on discovery is to expedite and facilitate trial preparation and to prevent delay."
+  - "The reopening of discovery is a matter that is committed to the trial court's sound discretion."
+```
+
+And here is the English-text summary:
+
+The tentative ruling grants the plaintiff's motion to reopen expert discovery for the limited purpose of deposing experts. The plaintiff was injured in a motor vehicle accident and alleges negligence by the defendants. The defendant opposes the motion, arguing that the plaintiff has demonstrated a lack of diligence. The plaintiff argues that there was good cause to reopen discovery due to administrative errors and emergencies. The court finds that there was an adequate showing of excusable delay and allows the expert depositions to take place. The motion is granted, and the expert depositions are to be completed by the cut-off date based on the new trial date.

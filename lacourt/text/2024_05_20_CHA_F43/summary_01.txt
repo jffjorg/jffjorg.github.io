@@ -1,0 +1,80 @@
+Here is the summary in YAML format:
+
+```
+case_number: 22CHCV00676
+plaintiff_name: Sergey Vershinin
+defendant_name: Janie Cohen
+people_names:
+  - Sergey Vershinin
+  - Janie Cohen
+company_names:
+  - Coldwell Banker Residential Brokerage Company
+places:
+  - California
+dates:
+  - 2023-11-03
+  - 2023-12-04
+  - 2024-04-18
+  - 2024-05-06
+  - 2024-05-20
+events:
+  - Special interrogatories served
+  - Request for extension denied
+  - Unverified responses served
+  - Motion to compel responses filed
+  - Opposition filed
+  - Reply filed
+money:
+  - $3,250 (requested sanctions)
+  - $1,950 (granted sanctions)
+intentions:
+  - Compel verified responses to special interrogatories
+  - Obtain sanctions
+facts:
+  - Plaintiff failed to serve verified responses to special interrogatories
+  - Plaintiff's counsel requested a three-week extension, which was denied
+  - Plaintiff served unverified responses
+  - Plaintiff failed to provide verified responses despite agreement to do so
+disputes:
+  - Timeliness of motion to compel
+  - Request for sanctions
+acts:
+  - Service of special interrogatories
+  - Request for extension
+  - Denial of request for extension
+  - Service of unverified responses
+  - Failure to provide verified responses
+  - Request for sanctions
+agreements:
+  - None
+laws:
+  - CCP § 2030.260(a)
+  - CCP § 2030.300
+  - CCP § 2030.290
+  - CCP § 2030.220
+  - CCP § 2030.240
+  - CCP § 2033.220
+  - CCP § 2023.030
+statutes:
+  - CCP § 2030.260(a)
+  - CCP § 2030.300
+  - CCP § 2030.290
+  - CCP § 2030.220
+  - CCP § 2030.240
+  - CCP § 2033.220
+  - CCP § 2023.030
+roles:
+  - Plaintiff: Sergey Vershinin
+  - Defendant: Janie Cohen
+  - Counsel: Coldwell Banker Residential Brokerage Company
+  - Counsel: Sergey Vershinin's counsel
+significant_statements:
+  - Coldwell's motion to compel responses to special interrogatories is granted.
+  - Plaintiff must provide verified, code-compliant responses within 30 days.
+  - Plaintiff has waived objections by failing to provide timely, verified responses.
+  - Coldwell's request for sanctions is granted in the amount of $1,950.
+```
+
+And here is the English-language summary:
+
+A tentative ruling was issued by the judge regarding a motion to compel responses to special interrogatories filed by Cross-Defendant Coldwell Banker Residential Brokerage Company. The motion was filed in response to Plaintiff Sergey Vershinin's failure to provide verified responses to special interrogatories served on November 3, 2023. Despite a request for a three-week extension, which was denied, Plaintiff's counsel failed to provide verified responses. The judge granted Coldwell's motion to compel responses, ordering Plaintiff to provide verified, code-compliant responses within 30 days. Additionally, the judge granted Coldwell's request for sanctions in the amount of $1,950 against Plaintiff and Plaintiff's counsel.

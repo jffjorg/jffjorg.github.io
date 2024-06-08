@@ -1,0 +1,37 @@
+Here is a summary of the Judge's tentative ruling in YAML format:
+
+```
+case_number: 23STCV24500
+hearing_date: 2024-05-20
+dept: 68
+parties:
+  - plaintiff: Noushin Misaghi
+  - defendant: Mercedes-Benz USA, LLC
+people_names: []
+company_names: [Mercedes-Benz USA, LLC, Keyes European]
+places: []
+dates: []
+events: []
+money: []
+intentions: []
+facts: []
+disputes:
+  - arbitration clause
+  - unconscionability
+  - third party beneficiary
+  - equitable estoppel
+  - privity of contract
+acts: []
+agreements: [lease agreement]
+laws: [Song-Beverly Act, California Civil Code]
+citations: []
+statutes: [California Civil Code, California Rules of Court]
+roles: []
+significant_statements: []
+```
+
+And here is a summary of the Judge's tentative ruling in English text:
+
+The Judge has denied the defendant's motion to compel arbitration. The defendant, Mercedes-Benz USA, LLC, sought to compel arbitration of the plaintiff's claims based on defects in a leased vehicle. The plaintiff, Noushin Misaghi, had filed a complaint alleging violations of the Song-Beverly Act and breach of express and implied warranties. The defendant argued that the arbitration clause in the lease agreement was enforceable and that the claims arose from the alleged defects in the vehicle.
+
+The Judge found that the arbitration clause was valid and enforceable, but that the plaintiff's unconscionability argument was without merit. The Judge also found that the defendant, Mercedes-Benz USA, LLC, was not a signatory to the lease agreement and therefore could not enforce the arbitration clause as a third party beneficiary. The Judge distinguished recent cases in the Second and Third Appellate Districts that had found that manufacturers could compel arbitration on grounds of equitable estoppel or third party beneficiary status. The Judge concluded that the warranties owed by the manufacturer were separate and independent from the sales contract and therefore could not be governed by the arbitration clause. The motion to compel arbitration was therefore denied.

@@ -1,0 +1,83 @@
+Here is the summary of the Tentative Ruling in YAML format:
+
+```
+case_number: 21STCV03437
+hearing_date: May 20, 2024
+dept: 32
+
+people_names:
+  - Jacob Barsisa
+  - Kenneth Alvin Solomon
+  - Daniel Vatcher
+  - Kevin T. Dunbar
+  - Sam B. Attal-Watts
+  - Mac E. Nehoray
+
+company_names:
+  - 18705 Ventura Boulevard, LLC
+  - JPMorgan Chase Bank, NA
+
+places:
+  - Ventura Boulevard
+  - Los Angeles
+
+dates:
+  - October 9, 2020
+  - February 10, 2022
+  - May 20, 2024
+
+events:
+  - Plaintiff tripped and fell in a parking lot
+  - Defendants moved for summary judgment
+  - Plaintiff opposed the motion
+  - The Court denied the motion
+
+money: $0
+
+intention:
+  - The Court's intention is to deny the defendants' motion for summary judgment
+
+facts:
+  - The plaintiff tripped and fell in a parking lot on October 9, 2020
+  - The defendants claimed that the area where the plaintiff fell was an open and obvious condition
+  - The plaintiff argued that the defendants had a duty to maintain the parking lot
+  - The Court determined that the defendants failed to meet their burden to show that the condition was open and obvious
+
+disputes:
+  - The defendants claimed that the plaintiff was contributorily negligent
+  - The plaintiff argued that the defendants had a duty to maintain the parking lot
+
+acts:
+  - The plaintiff tripped and fell in the parking lot
+  - The defendants moved for summary judgment
+  - The plaintiff opposed the motion
+
+agreements:
+  - None
+
+laws:
+  - Civil Code § 1714
+  - Code Civ. Proc. § 437c(b)
+
+case_citations:
+  - Aguilar v. Atlantic Richfield Co. (2001) 25 Cal.4th 826
+  - Smith v. Wells Fargo Bank, N.A. (2005) 135 Cal.App.4th 1463
+  - Fisherman's Wharf Bay Cruise Corp. v. Superior Court (2003) 114 Cal.App.4th 309
+
+statutes:
+  - Code Civ. Proc. § 437c(b)
+
+roles:
+  - Judge
+  - Plaintiff
+  - Defendant
+
+significant_statements:
+  - The defendants failed to meet their burden to show that the condition was open and obvious
+  - The Court denied the defendants' motion for summary judgment
+  - The plaintiff's tripping and falling in the parking lot was a question of fact
+```
+
+And here is a summary of the Tentative Ruling in English:
+
+The Court denied the defendants' motion for summary judgment, which was filed in response to the plaintiff's claim that the defendants were negligent in maintaining the parking lot where the plaintiff tripped and fell. The defendants argued that the area where the plaintiff fell was an open and obvious condition, and that the plaintiff was contributorily negligent. However, the Court found that the defendants failed to meet their burden to show that the condition was open and obvious. The Court also found that it was a question of fact whether the plaintiff was contributorily negligent. Therefore, the Court denied the defendants' motion for summary judgment.

@@ -1,0 +1,82 @@
+Here is the summary in YAML format:
+
+```
+case_number: 23CHCV01325
+plaintiff_names:
+  - Cesar Valenzuela
+  - Petra Pelayo
+defendant_name: Giovanni Licea
+people_names:
+  - Alexander J. Zeesman
+  - Mark R. Weiner
+company_names:
+  - Mark R. Weiner & Associates
+places:
+  - Glendale, California
+  - 655 N. Central Avenue, Suite 1125
+dates:
+  - 7/23/21
+  - 4/5/24
+  - 6/4/24
+  - 6/10/24
+  - 4/14/25
+events:
+  - Automobile accident
+  - Depositions
+  - Motion to compel
+  - Sanctions
+money:
+  - $2,509.02
+  - $2,497.02
+  - $2,028.52
+  - $2,016.52
+intentions:
+  - Compel depositions
+  - Obtain sanctions
+facts:
+  - Plaintiffs claim Defendant caused the accident
+  - Plaintiffs claim to have suffered injuries as a result of the accident
+disputes:
+  - Where and how to conduct depositions
+  - Whether to impose sanctions
+acts:
+  - Defendant filed motions to compel depositions
+  - Plaintiffs opposed the motions
+  - Defendant filed a joint reply to the oppositions
+  - The Court granted the motions to compel
+agreements:
+  - CCP 2025.220(a)(1)
+  - CCP 2025.250(a)
+  - CCP 2025.310(a)
+  - CCP 2025.310(d)
+  - CCP 2025.420(a)
+  - CCP 2025.450(a)
+  - CCP 2025.450(g)(1)
+  - CCP 2023.010(e)
+  - CCP 2023.030(a)
+  - CRC 3.1110(f)(4)
+laws:
+  - CCP 2025.220(a)(1)
+  - CCP 2025.250(a)
+  - CCP 2025.310(a)
+  - CCP 2025.310(d)
+  - CCP 2025.420(a)
+  - CCP 2025.450(a)
+  - CCP 2025.450(g)(1)
+  - CCP 2023.010(e)
+  - CCP 2023.030(a)
+roles:
+  - Judge
+  - Defendant
+  - Plaintiff
+  - Attorney
+  - Counsel
+significant_statements:
+  - The Court granted the motions to compel depositions
+  - The Court imposed sanctions on Plaintiffs and their attorney
+  - The Court warned counsel to comply with the rule regarding electronically bookmarking exhibits
+```
+
+Here is a summary of the judge's tentative ruling:
+
+The judge granted the defendant's motions to compel the depositions of the two plaintiffs, Cesar Valenzuela and Petra Pelayo. The plaintiffs had objected to the depositions being conducted in person at the defendant's counsel's office, claiming that they were entitled to appear remotely. However, the judge found that the defendant was entitled to choose the location of the depositions, and that the plaintiffs failed to establish any good cause for a protective order or a remote deposition. The judge also imposed sanctions on the plaintiffs and their attorney for their failure to comply with their discovery obligations.

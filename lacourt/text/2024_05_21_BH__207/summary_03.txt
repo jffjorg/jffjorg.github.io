@@ -1,0 +1,61 @@
+Here is the YAML summary of the tentative ruling:
+
+```
+case_number: [omitted]
+plaintiff_name: [omitted]
+defendant_name: [omitted]
+people_names:
+  - Kathryn Arendt, M.D.
+  - Yuk K. Law
+  - Paul S. Cook
+company_names:
+  - Providence Saint John's Health Center
+  - Kaiser Permanente
+places:
+  - Los Angeles
+  - California
+dates:
+  - October 25, 2023
+events:
+  - Medical malpractice case
+  - Expert witness testimony
+  - Hearsay evidence
+money: [omitted]
+intentions:
+  - To determine the standard of care in medical malpractice cases
+  - To determine the qualifications of expert witnesses
+facts:
+  - Expert witnesses can rely on hearsay in forming opinions
+  - Expert witnesses must be familiar with circumstances similar to those of the respondents
+  - Plaintiff's medical records are not expert reports
+disputes:
+  - Objections to expert witness testimony
+  - Issues with hearsay evidence
+acts:
+  - Plaintiff's medical treatment at Providence Saint John's Health Center
+  - Expert witness testimony
+agreements:
+  - California Evidence Code
+  - California law
+  - Medical professional standards
+laws:
+  - Evidence Code section 802
+  - People v. Sanchez (2016) 63 Cal.4th 665
+  - People v. Campos (1995) 32 Cal.App.4th 304
+  - Avivi v. Centro Medico Urgente Med. Ctr. (2008) 159 Cal.App.4th 463
+  - Borrayo v. Avery (2016) 2 Cal.App.5th 304
+statutes:
+  - California Evidence Code
+  - California Civil Code
+roles:
+  - Expert witness (Kathryn Arendt, M.D.)
+  - Plaintiff (Cadish)
+  - Judge
+significant statements:
+  - The standard of care in medical malpractice cases is whether the expert is familiar with circumstances similar to those of the respondents.
+  - Expert witnesses can rely on hearsay in forming opinions.
+```
+
+And here is the English-text summary:
+
+The judge's tentative ruling addresses several issues in a medical malpractice case. The court determines that the expert witness, Kathryn Arendt, M.D., is qualified to testify, as she is familiar with circumstances similar to those of the respondents. The court also finds that the expert witness can rely on hearsay evidence in forming opinions. The court rejects objections to expert witness testimony and finds that the expert witness's reference to the plaintiff's medical records is proper. The court also determines that a typographical error in the expert witness's declaration is harmless.

@@ -1,0 +1,83 @@
+Here is the summary in YAML format:
+
+```
+case_number: 23STCV21532
+plaintiff_names:
+  - Min Woo Joo
+  - Prime Educational Academy Inc.
+defendant_names:
+  - Neighborhood Housing Services of Los Angeles County
+  - Marvin Johnson
+  - Lori Gay
+  - Jesse Ibarra
+  - Angela Heyward
+people_names:
+  - Min Woo Joo
+  - Marvin Johnson
+  - Lori Gay
+  - Jesse Ibarra
+  - Angela Heyward
+  - Thomas D. Long
+company_names:
+  - Prime Educational Academy Inc.
+  - Neighborhood Housing Services of Los Angeles County
+places:
+  - Los Angeles
+  - California
+dates:
+  - September 7, 2023
+  - November 13, 2023
+  - April 12, 2024
+  - April 3, 2024
+  - May 21, 2024
+events:
+  - Filing of lawsuit
+  - Service of summons and complaint
+  - Entry of default
+  - Filing of motions to set aside default
+  - Hearing on motions to set aside default
+money:
+  - None mentioned
+intentions:
+  - To set aside defaults
+  - To allow Defendants to file answers to complaint
+facts:
+  - Plaintiffs filed lawsuit against Defendants
+  - Defendants were served with summons and complaint
+  - Defaults were entered against Defendants
+  - Defendants moved to set aside defaults
+disputes:
+  - Whether defaults were properly entered against Defendants
+  - Whether Defendants were properly served with summons and complaint
+acts:
+  - Service of summons and complaint
+  - Entry of default
+  - Filing of motions to set aside default
+agreements:
+  - Code of Civil Procedure sections 473 and 473.5
+  - Code of Civil Procedure section 415.20
+laws:
+  - California Code of Civil Procedure
+  - California Code of Civil Procedure section 473
+  - California Code of Civil Procedure section 473.5
+  - California Code of Civil Procedure section 415.20
+case_citations:
+  - Lee v. An (2008)
+  - Code Civ. Proc., § 473, subd. (b)
+  - Code Civ. Proc., § 473.5
+  - Code Civ. Proc., § 415.20, subd. (b)
+  - Code Civ. Proc., § 473
+  - Code Civ. Proc., § 473.5
+roles:
+  - Judge: Hon. Thomas D. Long
+  - Plaintiffs: Min Woo Joo and Prime Educational Academy Inc.
+  - Defendants: Neighborhood Housing Services of Los Angeles County, Marvin Johnson, Lori Gay, Jesse Ibarra, and Angela Heyward
+significant_statements:
+  - The Court grants the unopposed motions to set aside the defaults.
+  - The defaults entered on November 13, 2023 are vacated.
+  - Defendants are ordered to file and serve their answers within 10 days.
+```
+
+And here is the summary in English text:
+
+The tentative ruling grants the unopposed motions to set aside the defaults entered against the individual Defendants, Marvin Johnson, Lori Gay, Jesse Ibarra, and Angela Heyward. The defaults were entered on November 13, 2023, and the Defendants moved to set them aside. The Court finds that the defaults were the result of mistake, inadvertence, or excusable neglect, and therefore grants the motions. The Court vacates the defaults and orders the Defendants to file and serve their answers within 10 days.

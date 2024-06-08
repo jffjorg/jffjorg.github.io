@@ -1,0 +1,61 @@
+Here is the summary in YAML format:
+
+```
+case_number: 24STCP00954
+hearing_date: 2024-05-20
+dept: 9
+petitioner: Petitioner
+petitioner_role: Petitioner
+
+defendant: None (no defendant listed)
+defendant_company: None
+defendant_place: None
+
+people_names:
+  - Petitioner
+
+company_names: []
+places:
+  - Room 112
+  - Clerk's Office
+
+dates:
+  - 2024-05-20
+  - 7 days after hearing date
+
+events:
+  - Petitioner must check spelling and legibility of new name on proposed decree
+  - Petitioner must appear at hearing to submit corrected proposed decree if needed
+  - Petitioner must sign decree before amendments can be made
+
+money: None
+intention: Grant petition
+facts: Proposed decree to be reviewed
+disputes: None
+acts:
+  - Petitioner must double-check spelling and legibility of new name on proposed decree
+  - Petitioner must submit corrected proposed decree if needed
+  - Copy of signed decree available in Clerk's Office
+  - Decree cannot be amended without new petition
+
+agreements:
+  - Decree to be signed by Petitioner
+  - Decree cannot be amended without new petition
+
+laws: None
+citations: None
+statutes: None
+roles:
+  - Judge
+  - Petitioner
+  - Clerk
+  - Others: None
+
+significant_statements:
+  - Petitioner must double-check spelling and legibility of new name on proposed decree
+  - Decree cannot be amended without new petition
+```
+
+Here is the English-text summary of the judge's tentative ruling:
+
+"The petition has been granted. The petitioner must review the spelling and legibility of the new name on the proposed decree. If the name is acceptable, no appearance is necessary. However, if the name is not clearly written or correctly spelled, the petitioner must appear at the hearing to submit a corrected proposed decree. Once the decree is signed, it cannot be amended without a new petition. A copy of the signed decree will be available in Room 112 of the Clerk's Office seven days after the date of the hearing."

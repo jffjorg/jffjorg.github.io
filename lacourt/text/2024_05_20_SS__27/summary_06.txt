@@ -1,0 +1,61 @@
+Here is the summary in YAML format:
+
+```
+case_number: 23STCV14759
+plaintiff: Savannah Kylee Ibbara, et al.
+defendant: Lazarous Williams, et al.
+people:
+  - Lazarous Williams
+  - Savannah Kylee Ibbara
+companies:
+  - None
+places:
+  - California
+dates:
+  - October 31, 2023
+  - January 11, 2024
+  - May 20, 2024
+events:
+  - Motion to deem contents of requests for admission admitted
+  - Request for sanctions
+  - Failure to provide timely response
+money:
+  - $1,010.00 (attorney's fees)
+intensions:
+  - To deem contents of requests for admission admitted
+  - To impose sanctions
+facts:
+  - Defendant served Requests for Admission on Plaintiff
+  - Plaintiff served unverified responses
+  - Defendant made attempts to meet and confer but received no response
+disputes:
+  - Failure to provide timely response
+  - Unverified responses
+acts:
+  - Service of Requests for Admission
+  - Service of unverified responses
+agreements:
+  - CCP § 2033.010 (requests for admission)
+  - CCP § 2033.250(a) (response to requests for admission)
+  - CCP § 2033.280(a) (failure to provide timely response)
+  - CCP § 2033.280(b) (motion to deem RFA admitted)
+  - CCP § 2033.280(c) (court's discretion in issuing order)
+laws:
+  - CCP § 2033.010
+  - CCP § 2033.250(a)
+  - CCP § 2033.280(a)
+  - CCP § 2033.280(b)
+  - CCP § 2033.280(c)
+case_citations:
+  - Appleton v. Superior Court (1988) 206 Cal. App. 3d 632
+roles:
+  - Judge: Hon. Lee S. Arian
+significant_statements:
+  - "Any party may obtain discovery by a written request..."
+  - "Unverified responses are 'tantamount to no responses at all'."
+  - "The court shall issue this order unless the party to whom the request was made serves a response in substantial compliance prior to the hearing on the motion."
+```
+
+And here is the English-text summary:
+
+The tentative ruling grants the motion to deem the contents of the Requests for Admission admitted and grants the request for sanctions. The plaintiff failed to provide timely responses to the defendant's Requests for Admission, Set One, and the responses served were unverified. The defendant made attempts to meet and confer with the plaintiff but received no response. The court finds that the plaintiff's responses were "tantamount to no responses at all" and grants the defendant's motion. The defendant is awarded attorney's fees in the amount of $1,010.00, and the plaintiff and her counsel are ordered to pay sanctions in the same amount.

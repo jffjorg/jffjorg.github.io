@@ -1,0 +1,55 @@
+Here is a YAML summary of the tentative ruling:
+
+```
+case_number: 22STCV01714
+plaintiff: Chaehoon Song, Booyeon Song
+defendant: Leslie Wall, Lonnie Wall, W2K Properties, LLC
+hearing_date: May 21, 2024
+motion: Motion for Terminating Sanctions or, Alternatively, Motion to Compel Discovery; Request for Sanctions
+moving_party: Plaintiffs
+responding_party: Unopposed
+tentative_ruling: The Motion for Terminating Sanctions or, Alternatively, Motion to Compel Discovery and Request for Sanctions is granted in part.
+background:
+  - on January 14, 2022, Plaintiffs filed a Complaint against Defendants alleging causes of action for: (1) Breach of Contract; and (2) Fraud/Intentional Torts.
+  - on February 28, 2022, Defendant W2K filed an Answer to the Complaint.
+  - on February 28, 2022, Defendant Lonnie Wall filed an Answer to the Complaint.
+  - on April 7, 2022, Defendant Lonnie Wall filed an Answer to the Complaint.
+  - on May 24, 2022, Plaintiffs filed a motion to compel responses to discovery from Defendants W2K and Lonnie Wall.
+  - on June 24, 2022, Defendant Leslie Wall filed an Answer to the Complaint.
+  - on July 29, 2022, the Court granted Plaintiffs' motion to compel discovery responses and ordered Defendants W2K and Lonnie Wall to serve code-compliant responses without objections by August 12, 2022, and to pay monetary sanctions to Plaintiffs in the amount of $4,000.00 by August 31, 2022.
+  - on September 8, 2022, Plaintiff Chaehoon Song filed a motion to compel Defendant Leslie Wall's responses to written interrogatories.
+  - on November 3, 2022, the Court granted Plaintiff Chaehoon Song's motion to compel responses to written interrogatories and Defendant Leslie Wall was ordered to provide code-compliant responses to Plaintiff Chaehoon Song, without objections, by November 28, 2022. The Court also ordered Defendant Leslie Wall to pay monetary sanctions to Plaintiff Chaehoon Song in the amount of $700.00 by November 28, 2022.
+  - on January 5, 2023, the Court granted Plaintiff Chaehoon Song's motion for terminating sanctions, striking Defendants' answers and entering default against Defendants.
+  - on July 14, 2023, default judgment was entered against Defendants and in favor of Plaintiffs.
+  - on January 10, 2024, Defendants moved to set aside/vacate default judgment. Plaintiffs opposed such motion.
+  - on February 21, 2024, the Court granted Defendants' motion to set aside default judgment. The Court ordered Defendants' counsel to pay attorneys' fees and costs in the sum of $6,500.00 to Plaintiffs on or before March 1, 2024. The Court vacated the default and default judgment entered against Defendants.
+  - on April 5, 2024, Plaintiffs filed and served the instant Motion for Terminating Sanctions, or in the Alternative, Motion to Compel Discovery and Request for Sanctions.
+intents:
+  - to strike Defendants' answers and enter default against Defendants
+  - to impose terminating sanctions on Defendants
+  - to request monetary sanctions in the amount of $13,000.00
+facts:
+  - Defendants failed to comply with the Court's previous orders
+  - Defendants failed to pay sanctions as ordered by the Court
+  - Plaintiffs did not receive any responses to discovery propounded upon them
+disputes:
+  - whether Defendants should be held in contempt for failing to comply with the Court's orders
+  - whether the Court should impose terminating sanctions against Defendants
+acts:
+  - Plaintiffs moved for terminating sanctions, or in the alternative, motion to compel discovery and request for sanctions
+  - Defendants failed to respond to discovery propounded upon them
+  - Plaintiffs filed a motion for terminating sanctions, which was granted by the Court
+agreements:
+  - none mentioned
+laws:
+  - California Code of Civil Procedure, Section 2023.030
+  - California Code of Civil Procedure, Section 2023.010
+  - California Code of Civil Procedure, Section 1005(b)
+statutes:
+  - California Code of Civil Procedure, Section 2023.030
+  - California Code of Civil Procedure, Section 2023.010
+  - California Code of Civil Procedure, Section 1005(b)
+roles:
+  - Plaintiffs: Chaehoon Song and Booyeon Song
+  - Defendants: Leslie Wall, Lonnie Wall, and W2K Properties, LLC
+  - Judge: [Judge's name]

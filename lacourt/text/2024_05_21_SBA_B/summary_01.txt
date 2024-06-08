@@ -1,0 +1,65 @@
+Here is the summary in YAML format:
+
+```
+case_number: 23TRCV03527
+plaintiff: Julian Huerta
+defendant: Brett Lashure, Alexa Lashure
+people:
+  - Julian Huerta
+  - Brett Lashure
+  - Alexa Lashure
+companies: []
+places:
+  - Los Angeles
+  - Torrance
+dates:
+  - October 23, 2024
+  - May 21, 2024
+events:
+  - Dog-bite incident
+  - Lawsuit filed
+  - Motion to strike filed
+money: punitive damages
+intentions:
+  - To strike portions of plaintiff's complaint
+  - To seek punitive damages
+facts:
+  - Plaintiff was bitten by defendant's dog
+  - Plaintiff alleges defendant was aware of dog's aggressive behavior
+  - Plaintiff seeks punitive damages for defendant's alleged conscious disregard for safety
+disputes:
+  - Plaintiff's complaint fails to sufficiently plead facts warranting punitive damages
+  - Defendant argues plaintiff's allegations are conclusory and lack factual support
+acts:
+  - Plaintiff filed complaint
+  - Defendant filed motion to strike
+  - Plaintiff filed opposition to motion
+  - Defendant filed reply to opposition
+agreements:
+  - None mentioned
+laws:
+  - CCP (California Code of Civil Procedure)
+  - Civil Code Section 3342
+  - Taylor v. Superior Court (1979)
+  - CCP, §§ 435- 437
+  - CCP § 436
+case_citations:
+  - Taylor v. Superior Court (1979)
+  - CCP, §§ 435- 437
+  - CCP § 436
+statutes:
+  - CCP, §§ 435- 437
+  - Civil Code Section 3342
+roles:
+  - Plaintiff: Julian Huerta
+  - Defendant: Brett Lashure, Alexa Lashure
+  - Judge: [Judge's name]
+significant_statements:
+  - Plaintiff's complaint fails to sufficiently plead facts warranting punitive damages
+  - Defendant seeks to strike portions of plaintiff's complaint
+  - Plaintiff seeks leave to amend complaint
+```
+
+And here is the English text summary:
+
+This tentative ruling by the judge decides on a motion to strike portions of plaintiff Julian Huerta's complaint filed against defendants Brett Lashure and Alexa Lashure. The defendants seek to strike paragraphs 18 of the complaint and paragraph 5 of the prayer for relief, arguing that the complaint fails to plead facts warranting punitive damages. The defendants argue that the plaintiff's allegations are conclusory and lack factual support. The plaintiff argues that the defendants were aware of the dog's aggressive behavior and failed to adequately control or secure the dog. The court finds the allegations to be conclusory and grants the motion to strike with leave to amend the complaint.

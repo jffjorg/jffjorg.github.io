@@ -1,0 +1,64 @@
+Here is the summary in YAML format:
+
+```
+case_number: 22STCV05815
+hearing_date: 2024-05-20
+dept: 52
+plaintiff: Dana M. Dorsett aka Dana Moon
+defendant: Chong Park
+co_defendant: Howard Park
+people_names:
+  - Dana M. Dorsett
+  - Chong Park
+  - Howard Park
+company_names: []
+places: []
+dates:
+  - 2021 (In re Koeberer)
+  - 2024-05-20 (Hearing Date)
+events:
+  - Motion for Summary Judgment
+  - Bankruptcy petition
+  - Automatic stay
+  - Fraudulent transfer
+  - Conspiracy
+  - Judgment enforcement
+money: []
+intentions:
+  - Vacate the hearing on the motion for summary judgment
+  - Determine the merits of the plaintiff's claims
+  - Enforce the debt against Chong Park's property
+facts:
+  - The court cannot rule on the motion for summary judgment
+  - The case is stayed due to co-defendant Howard Park's bankruptcy petition
+  - The automatic stay prevents post-petition actions against the debtor
+disputes:
+  - The application of In re Koeberer to the case
+  - The effect of the automatic stay on the plaintiff's claims
+  - The validity of the transfers of property from Howard Park to Chong Park
+acts:
+  - Filing of a chapter 7 petition
+  - Automatic stay
+  - Voidable transfers of property
+  - Enforcement of a preexisting judgment
+agreements: []
+laws:
+  - Civ. Code, § 3439.04(a)
+  - In re Koeberer (B.A.P. 9th Cir. 2021) 632 B.R. 680, 686–687
+  - (Id. at p. 688)
+roles:
+  - Plaintiff: Dana M. Dorsett aka Dana Moon
+  - Defendant: Chong Park
+  - Co-defendant: Howard Park
+  - Trustee: Representative of the estate
+  - Debtor: Howard Park
+  - Non-debtor: Chong Park
+significant_statements:
+  - The court cannot determine whether plaintiff's claims fail on the merits while the case is stayed.
+  - The automatic stay prevents post-petition actions against the debtor.
+  - Succeeding in this action against Chong Park would constitute recovering a claim against the debtor, Howard Park.
+```
+
+And here is the English-text summary:
+
+The judge's tentative ruling is that the court cannot rule on defendant Chong Park's motion for summary judgment due to the automatic stay caused by co-defendant Howard Park's bankruptcy petition. The automatic stay prevents post-petition actions against the debtor, including the plaintiff's claims against Chong Park. The plaintiff's claims arise from an effort to collect a judgment against Howard Park, and the court cannot determine whether the plaintiff's claims fail on the merits while the case is stayed. The court vacates the hearing on the motion for summary judgment and will revisit the issue once the case is no longer stayed.

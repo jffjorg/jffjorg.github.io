@@ -1,0 +1,80 @@
+Here is the YAML summary of the tentative ruling:
+
+```
+case_number: 22PSCV01892
+hearing_date: 2024-05-20
+dept: G
+plaintiff: Rebecca Castillo
+defendant: PD&D Group LLC (PD&D)
+people:
+  - Rebecca Castillo
+  - PD&D Group LLC
+company-names:
+  - PD&D Group LLC
+places:
+  - California
+  - Fountain Valley
+dates:
+  - 2022-09-02
+  - 2022-09-03
+  - 2022-09-07
+  - 2022-11-18
+  - 2022-12-15
+  - 2023-02-14
+  - 2023-06-09
+  - 2023-07-11
+  - 2023-09-21
+  - 2023-10-01
+  - 2024-02-07
+  - 2024-03-29
+events:
+  - Default judgment
+  - Failure to file timely answer
+  - Service of process
+  - Filing of complaint
+  - Filing of amended complaint
+  - Filing of application for default judgment
+money:
+  - $8,000 (damages)
+  - $570 (attorney fees)
+  - $504 (costs)
+  - $4,000 (deterrence damages)
+  - $4,834.00 (total judgment)
+intention:
+  - To grant default judgment
+  - To reduce the amount of damages
+facts:
+  - Barriers to access on PD&D's website
+  - Inaccessible checkout system
+  - Insufficient navigational headings
+  - Lack of alternative text for screen-reading software
+disputes:
+  - Alleged violations of the Unruh Civil Rights Act (UCRA)
+  - Failure to provide accessible website
+acts:
+  - Filing of complaint
+  - Filing of amended complaint
+  - Filing of application for default judgment
+  - Service of process
+agreements:
+  - Code of Civil Procedure section 585
+  - California Rules of Court 3.1800
+laws:
+  - Unruh Civil Rights Act (UCRA)
+  - Code of Civil Procedure section 585
+  - California Civil Code section 55.56
+statutes:
+  - Code of Civil Procedure section 585
+  - California Civil Code section 55.56
+roles:
+  - Judge
+  - Plaintiff (Rebecca Castillo)
+  - Defendant (PD&D Group LLC)
+significant_statements:
+  - "The Court finds Castillo has submitted sufficient evidence."
+  - "The Court grants Castillo's application for default judgment in the reduced amount of $4,834.00."
+```
+
+And here is the English-text summary:
+
+The judge has issued a tentative ruling granting the plaintiff, Rebecca Castillo, default judgment against the defendant, PD&D Group LLC, in the amount of $4,834.00. The case involves allegations of disability rights violations, including inaccessible website design and lack of alternative text for screen-reading software. The plaintiff alleges that she faced barriers to access on the defendant's website and was deterred from accessing the website and physical storefront. However, the court finds that the plaintiff failed to establish a specific instance of deterrence and therefore declines to award $4,000 in deterrence damages. The court reduces the requested attorney fees to $330. The judge grants the plaintiff's application for default judgment in the reduced amount of $4,834.00.

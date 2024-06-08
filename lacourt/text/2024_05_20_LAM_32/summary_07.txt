@@ -1,0 +1,30 @@
+Here is the summary in YAML format:
+
+```
+case_number: 24STCV07943
+hearing_date: May 20, 2024
+department: 32
+plaintiff: Michael E. Kassan
+defendants: Bryan Joel Freedman, Freedman Taitelman & Cooley, LLP
+background: lawsuit filed by Kassan against Freedman and his law firm for slander and libel
+special_motion_to_strike: defendants' motion to strike Kassan's defamation claims
+legal_standard: California Code of Civil Procedure section 425.16, anti-SLAPP statute
+evaluation: two-prong process: (1) threshold showing of protected activity, (2) probability of success
+protected_activity: Freedman's statement about Kassan's character
+probability_of_success: Kassan failed to demonstrate a probability of prevailing on the claim
+objections: defendants' objections overruled
+discussion:
+  - protected_activity: Freedman's statement about Kassan's character
+  - probability_of_success: Kassan failed to demonstrate a probability of prevailing on the claim
+  - fair_reporting_privilege: does not apply
+  - litigation_privilege: does not apply
+conclusion: defendants' special motion to strike is GRANTED
+```
+
+And here is a summary in English text:
+
+The defendants, Bryan Joel Freedman and Freedman Taitelman & Cooley, LLP, have filed a special motion to strike the defamation claims made by the plaintiff, Michael E. Kassan. The defendants argue that the statements made by Freedman about Kassan's character are protected under the anti-SLAPP statute (California Code of Civil Procedure section 425.16) and that Kassan has failed to demonstrate a probability of success in his claims.
+
+The court has reviewed the evidence and finds that Freedman's statement was a non-actionable statement of opinion, and not a factual assertion. The court also finds that the statements made by Freedman are protected under the anti-SLAPP statute, and that Kassan has failed to demonstrate a probability of success in his claims.
+
+As a result, the court grants the defendants' special motion to strike the defamation claims made by Kassan.

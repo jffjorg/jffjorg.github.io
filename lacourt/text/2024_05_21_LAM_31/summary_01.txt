@@ -1,0 +1,88 @@
+Here is the YAML summary of the tentative ruling:
+
+```
+case_number: 19STCV23201
+plaintiff: Tyler Evans
+defendant: AIDS Healthcare Foundation
+people_names:
+  - Tyler Evans
+  - Kerry Bensinger
+company_names:
+  - AIDS Healthcare Foundation
+places:
+  - Los Angeles
+dates:
+  - July 2, 2019
+  - October 9, 2019
+  - September 21, 2023
+  - September 19, 2023
+  - October 11, 2023
+  - October 30, 2023
+  - March 1, 2024
+  - March 4, 2024
+  - April 19, 2024
+  - May 8, 2024
+  - May 15, 2024
+  - May 21, 2024
+events:
+  - Motion to Strike and/or Tax Costs
+  - Motion for Summary Adjudication
+  - FEHA action
+  - Whistleblower action
+  - Sexual orientation discrimination
+money:
+  - $26,042.85 (amount of costs claimed by AHF)
+  - $96.84 (amount of costs taxed by the court)
+  - $25,946.01 (amount of costs awarded to AHF)
+intention:
+  - To determine whether AHF's costs should be taxed
+  - To determine whether Plaintiff's FEHA claim was frivolous
+facts:
+  - Plaintiff was terminated from his job at AIDS Healthcare Foundation
+  - Plaintiff alleged that his termination was due to his sexual orientation
+  - Defendant alleged that the termination was based on non-discriminatory reasons
+disputes:
+  - Whether Plaintiff's FEHA claim was frivolous
+  - Whether AHF's costs were reasonably necessary to the litigation
+acts:
+  - Plaintiff filed a motion to strike and/or tax costs
+  - Defendant filed a motion for summary adjudication
+  - Plaintiff filed a response to the motion for summary adjudication
+  - Defendant filed a reply to the motion to strike and/or tax costs
+  - The court granted the motion for summary adjudication
+  - The court taxed $96.84 from AHF's Memorandum of Costs
+  - The court awarded AHF costs in the reduced sum of $25,946.01
+agreements:
+  - The parties agreed to the court's tentative ruling
+laws:
+  - California Rules of Court
+  - California Code of Civil Procedure
+  - Government Code
+  - Labor Code
+  - Health and Safety Code
+  - Business and Professions Code
+  - Fair Employment and Housing Act
+case_citations:
+  - Cal. Rules of Court, rule 3.1700(b)(1)
+  - Cal. Rules of Court, rule 3.1700(b)(2)
+  - Cal. Rules of Court, rule 3.1700(a)(1)
+  - Code of Civ. Proc., § 1033.5, subd. (c)(4)
+  - Code of Civ. Proc., § 1032(b)
+  - Gov. Code, § 12965, subd. (c)(6)
+  - Christiansburg Garment Co. v. Equal Employment Opportunity Commission (1978) 434 U.S. 412
+  - Oak Grove School Dist. v. City Title Ins. Co. (1963) 217 Cal.App.2d 678
+  - Neeble-Diamond v. Trendwest Resorts, Inc. (2008) 165 Cal.App.4th 686
+  - Mamou v. Trendwest Resorts, Inc. (2008) 165 Cal.App.4th 686
+  - Guz v. Bechtel National, Inc. (2000) 24 Cal.4th 317
+  - Bond v. PulsarVideo Productions (1996) 50 Cal.Capp.4th 918
+  - Villanueva v. City of Colton (2008) 160 Cal.App.4th 1188
+roles:
+  - Judge: Kerry Bensinger
+  - Plaintiff: Tyler Evans
+  - Defendant: AIDS Healthcare Foundation
+  - Attorney for Plaintiff: [redacted]
+  - Attorney for Defendant: [redacted]
+significant_statements:
+  - The court granted the motion for summary adjudication
+  - The court taxed $96.84 from AHF's Memorandum of Costs
+  - The court awarded AHF costs in the reduced sum of $25,946.01

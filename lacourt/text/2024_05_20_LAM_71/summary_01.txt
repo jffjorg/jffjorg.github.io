@@ -1,0 +1,57 @@
+Here is the YAML summary:
+
+```
+---
+Case Number: 21STCV24843
+Plaintiff's Name: Bear Valley 2005, LLC
+Defendant's Name: Mechanics Bank
+People-Names:
+  - Lourdes Raval
+Company-Names:
+  - Bear Valley 2005, LLC
+  - Mechanics Bank
+Places:
+  - Los Angeles
+Dates:
+  - July 6, 2021
+  - February 23, 2023
+  - March 1, 2024
+  - May 2, 2024
+  - May 10, 2024
+  - May 16, 2024
+Events:
+  - Plaintiff filed initial Complaint
+  - Plaintiff filed first amended complaint
+  - Defendant filed motion for summary judgment
+  - Defendant filed motion in alternative for summary adjudication
+Money: $ (no specific amount mentioned)
+Intentions:
+  - Defendant seeks to determine whether Plaintiff can establish the occurrence of a clear condition precedent to its right to enforce the five-year option
+  - Defendant argues Plaintiff did not meet the condition precedent for renewing the loan of obtaining an Interest Hedging Agreement by the end of the initial 5-year term
+Facts:
+  - The Credit Agreement states that the Borrower may elect to extend the Maturity Date for a period of five (5) years subject to the satisfaction of each of the following terms and conditions
+  - The Credit Agreement requires the Borrower to enter into an Interest Hedging Agreement(s) with respect to the Loan with a notional amount equal to the outstanding principal amount of the Loan as of the initial Maturity Date
+Disputes:
+  - Whether the condition precedent to Plaintiff's right to enforce the five-year option occurred
+  - Whether Plaintiff justifiably relied on Defendant's agent's representation
+  - Whether the cause of action is barred by the statute of frauds
+Acts:
+  - Plaintiff failed to meet the condition precedent for renewing the loan
+  - Defendant failed to submit evidence demonstrating Plaintiff's reliance on the representation was unreasonable
+Agreements:
+  - Credit Agreement
+Laws:
+  - California Code of Civil Procedure §437c(c)
+  - California Code of Civil Procedure §437c(f)(1)
+  - California Code of Civil Procedure §437c(f)(2)
+  - Civil Code §1436
+  - Civil Code §3294
+Statutes:
+  - California Code of Civil Procedure
+  - Civil Code
+Roles:
+  - Judge
+Significant Statements:
+  - Defendant's motion for summary judgment is denied
+  - Defendant's motion in the alternative for summary adjudication is granted as to the 1st cause of action and denied as to the 2nd and 3rd causes of action
+```

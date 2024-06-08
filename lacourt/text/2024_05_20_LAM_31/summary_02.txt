@@ -1,0 +1,66 @@
+Here is the summary in YAML format:
+
+```
+case_number: "Undisclosed"
+plaintiff_name: "Wineman"
+defendant_name: "Bryan Fuller and Steakhaus Productions, Inc."
+people_names:
+  - Bryan Fuller
+  - Nick Lazo
+  - Ms. House (referred to in the Complaint)
+  - Maheran
+company_names:
+  - Steakhaus Productions, Inc.
+  - AMC Defendants
+places:
+  - California
+  - New York
+dates:
+  - April 24, 2023
+  - February 2022
+events:
+  - Filing of complaint with California Civil Rights Department
+  - Issuance of right to sue letter by California Civil Rights Department
+  - Filing of supplemental brief by Plaintiff
+  - Filing of additional declaration by Defendants
+money: None mentioned
+intentions:
+  - Applicability of Federal Arbitration Act (FAA)
+  - Applicability of equitable estoppel
+  - Handling of disputes through arbitration
+facts:
+  - Agreement contains arbitration provision
+  - Agreement does not state FAA applies
+  - Agreement is an employment contract for creative work
+disputes:
+  - Applicability of FAA
+  - Applicability of equitable estoppel
+  - Handling of disputes through arbitration
+acts:
+  - Filing of complaint with California Civil Rights Department
+  - Issuance of right to sue letter by California Civil Rights Department
+  - Filing of supplemental brief by Plaintiff
+  - Filing of additional declaration by Defendants
+agreements:
+  - Arbitration provision in Agreement
+  - Delegation clause in Agreement
+laws:
+  - Federal Arbitration Act (FAA)
+  - California law
+  - New York law
+statutes:
+  - FAA
+  - California statutes (not specified)
+roles:
+  - Judge
+  - Plaintiff (Wineman)
+  - Defendant (Bryan Fuller and Steakhaus Productions, Inc.)
+significant_statements:
+  - FAA applies to employment contracts for creative work
+  - New York law and California law set forth the same grounds for invoking the doctrine of equitable estoppel
+  - Court will not consider new evidence submitted in a reply brief
+```
+
+And here is the English text to summarize the judge's tentative ruling:
+
+The court has reviewed the supplemental briefs filed by both parties and has issued a tentative ruling. The court finds that the Federal Arbitration Act (FAA) applies to this employment contract for creative work. The court also finds that the doctrine of equitable estoppel applies, citing California and New York law. The court will not consider new evidence submitted by the Defendants in their reply brief, as this would be unfair to the opposing party. The court will also not address the Defendants' new fact-based argument raised for the first time in their supplemental brief. The court will continue to consider the parties' arguments in determining the appropriate course of action.

@@ -1,0 +1,52 @@
+Here is the summary in YAML format:
+
+```
+case_number: "Unknown"
+plaintiff_name: "Petitioner"
+defendant_name: "Bureau"
+people_names:
+  - Petitioner
+  - Bureau
+company_names: []
+places:
+  - Refuse yard
+  - City
+dates:
+  - 2004
+  - 2008
+  - 2018
+events:
+  - Suspension
+  - Accident
+money: []
+intentions:
+  - Disciplinary action
+facts:
+  - Prior disciplinary history
+  - Unsafely operating City equipment
+  - Accident
+disputes:
+  - Recommended suspension length
+  - Prior disciplinary history
+acts:
+  - Served suspensions
+  - Operated City equipment unsafely
+  - Caused accidents
+agreements: []
+laws:
+  - Skelly v. State Personnel Bd. (1975)
+  - California Supreme Court
+statutes: []
+roles:
+  - Petitioner
+  - Bureau
+significant_statements:
+  - Petitioner's fourth offense
+  - Prior disciplinary history
+  - Unsafely operating City equipment
+  - Recommended suspension length
+```
+
+And here is the English-text summary:
+
+The Judge's tentative ruling indicates that the Bureau is seeking a 30-working-day suspension for the Petitioner, citing their prior disciplinary history. The Petitioner has previously been suspended for unsafely operating City equipment and causing accidents. The Judge notes that the Petitioner's fourth offense is being considered in determining the appropriate punishment. The ruling cites the California Supreme Court's decision in Skelly v. State Personnel Bd. (1975) as relevant precedent in establishing procedural rights for public employees facing disciplinary action.

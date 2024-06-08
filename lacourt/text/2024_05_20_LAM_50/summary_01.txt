@@ -1,0 +1,78 @@
+Here is the summary in YAML format:
+
+```
+case_number: "20STCV21561"
+plaintiff: "ELBA ROMO"
+defendant: "JONI E. SALOMON"
+people_names:
+  - ELBA ROMO
+  - JONI E. SALOMON
+  - MARIANO AGUIRRE
+  - CASEY OLSSEN
+  - GERARD A. FIERRO
+company_names: []
+places:
+  - Los Angeles
+  - California
+  - Cherry Valley
+dates:
+  - January 6, 2006
+  - August 19, 2006
+  - December 9, 2015
+  - January 11, 2016
+  - January 20, 2017
+  - October 15, 2017
+  - December 2, 2017
+  - April 17, 2019
+  - August 22, 2019
+  - February 15, 2023
+  - March 15, 2023
+  - May 3, 2023
+  - July 18, 2023
+  - May 20, 2024
+events:
+  - Trial
+  - Settlement
+  - Mediation
+  - Dissolution Action
+  - Property Division
+  - Reimbursement Claim
+money:
+  - $208,000
+  - $769,000
+  - $480,000
+  - $285,000
+intentions:
+  - To determine the jurisdictional issues regarding the $208,000 transaction
+facts:
+  - Elba Romo contributed $208,000 to the purchase of real property
+  - Mariano Aguirre closed escrow for the property
+  - Romo and Aguirre were married and resided on the property
+  - Romo hired Casey Olsen as her attorney
+  - Olsen filed a dissolution action
+  - The parties mediated and settled the property issues
+  - Romo hired Joni Salomon as her new attorney
+  - Salomon was a member of the California Bar and a Certified Family Law Specialist
+  - The parties converted the settlement into a consent judgment
+disputes:
+  - Jurisdictional dispute regarding the $208,000 transaction
+acts:
+  - Parties submitted the issue to the family court
+  - Parties negotiated a settlement
+  - Parties converted the settlement into a consent judgment
+laws:
+  - California Code of Civil Procedure section 664.6
+  - California Rules of Court
+  - Family Code 2640
+roles:
+  - Judge: Teresa A. Beaudet
+  - Attorney: Casey Olsen
+  - Attorney: Joni Salomon
+  - Attorney: Gerard A. Fierro
+significant_statements:
+  - The family court has jurisdiction over issues voluntarily submitted by the parties.
+  - The parties consented to the family court's jurisdiction over the $208,000 transaction.
+  - The consent judgment is dispositive of the issue of consent.
+```
+
+Note that not all fields are filled in, as some information is not provided in the text.

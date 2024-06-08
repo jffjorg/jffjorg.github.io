@@ -1,0 +1,63 @@
+Here is the YAML file representing the Judge's tentative ruling:
+
+```
+Case Number: 22SMCV01556
+Plaintiffs: Julio, et al.
+Defendant: Tana
+People-Names:
+  - Nicole De Julio
+  - Nathan Lavid, M.D.
+Company-Names:
+  - None
+Places:
+  - None
+Dates:
+  - October 24, 2023
+  - October 21, 2023
+  - December (IME completion)
+Events:
+  - Independent Medical Examination (IME)
+  - Cancellation of IME
+  - Payment of cancellation fee
+  - Request for monetary sanctions
+Money:
+  - $3,000 (cancellation fee)
+  - $840 (sanctions)
+Intentions:
+  - Defendant seeks to compel payment of cancellation fee
+  - Defendant seeks monetary sanctions
+Facts:
+  - IME was rescheduled multiple times at plaintiff's request
+  - IME was cancelled at last minute due to plaintiff's new job
+  - Defendant paid cancellation fee
+Disputes:
+  - Responsibility for cancellation fee
+  - Defendant's request for monetary sanctions
+Acts:
+  - Plaintiff cancelled IME without notice
+  - Defendant paid cancellation fee
+  - Plaintiff's counsel failed to object or respond to IME notice
+Agreements:
+  - IME notice stated plaintiff would be responsible for cancellation fee
+  - Parties met and conferred on responsibility for cancellation fee
+Laws:
+  - Code Civ. Proc. §2032.220(a)
+  - Code Civ. Proc. §2032.220(b), (d)
+Case Citations:
+  - Schroeder Decl.
+  - Kalter Decl.
+Statutes:
+  - Code Civ. Proc. §2032.220
+Roles:
+  - Plaintiff
+  - Defendant
+  - Defense counsel
+  - Plaintiff's counsel
+Significant Statements:
+  - "It is patently inequitable for defendant to pay the cancellation charge..."
+  - "Plaintiffs to reimburse defense counsel $3,000 for the cancellation fee within 30 days."
+```
+
+And here is the English-text summary:
+
+The Judge's tentative ruling grants defendant's motion to compel payment of the $3,000 cancellation fee for the independent medical examination (IME) that was cancelled at the last minute by plaintiff Nicole De Julio. The Judge finds that it is inequitable for the defendant to pay the cancellation fee, as it was plaintiff's choice to take a job on the day of the IME instead of attending. The plaintiff is ordered to reimburse defense counsel for the cancellation fee within 30 days. Additionally, the Judge grants defendant's request for monetary sanctions of $840, representing the time spent preparing the motion and attending the hearing.

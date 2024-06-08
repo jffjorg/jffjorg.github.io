@@ -1,0 +1,91 @@
+Here is the summary in YAML format:
+
+```
+case_number: 21STCV34650
+hearing_date: 2024-05-20
+dept: 29
+plaintiff: Edith Reynolds
+defendant: SF Markets, LLC, Sprouts Farmers Market, Sprouts Farmers Market dba Sprouts, Prudent Security Solutions, Inc.
+people:
+  - Edith Reynolds
+  - SF Markets, LLC
+  - Sprouts Farmers Market
+  - Prudent Security Solutions, Inc.
+company_names:
+  - SF Markets, LLC
+  - Prudent Security Solutions, Inc.
+  - Single Source Security, Inc. dba Protos Security
+  - Single Source Security, LLC
+  - First Washington Realty, Inc.
+  - GRI Park Plaza, LLC
+places:
+  - San Pedro
+  - North Western Avenue
+dates:
+  - 2019-10-11
+  - 2021-09-20
+  - 2021-09-30
+  - 2021-11-05
+  - 2022-05-23
+  - 2021-12-03
+  - 2022-10-12
+  - 2022-10-14
+  - 2023-02-28
+  - 2023-03-01
+  - 2023-05-10
+  - 2023-07-20
+  - 2023-07-21
+  - 2023-08-01
+events:
+  - Slip and fall incident
+  - Deposition notice
+  - Deposition of Prudent Security Solutions, Inc.
+  - Motion to compel
+  - Request for sanctions
+money:
+  - None
+intentions:
+  - To compel deposition of Prudent Security Solutions, Inc.
+  - To request sanctions
+facts:
+  - Prudent Security Solutions, Inc. failed to appear at deposition
+  - SF Markets, LLC served a deposition notice on September 13, 2023
+  - Prudent Security Solutions, Inc. did not serve objections or appear
+  - Prudent Security Solutions, Inc. did not offer alternative deposition dates
+disputes:
+  - Failure to appear for deposition
+  - Failure to produce documents
+acts:
+  - SF Markets, LLC served a deposition notice
+  - Prudent Security Solutions, Inc. failed to appear at deposition
+agreements:
+  - None
+laws:
+  - California Code of Civil Procedure
+  - California Civil Discovery Act
+  - California Code of Civil Procedure sections 2025.010, 2025.210, 2025.280, 2025.450, 2025.230, 2025.410, 2025.450, 2023.010, 2023.030
+  - California Civil Code sections 2025.010, 2025.210, 2025.280, 2025.450, 2025.230, 2025.410, 2025.450, 2023.010, 2023.030
+  - California Evidence Code sections 2025.010, 2025.210, 2025.280, 2025.450, 2025.230, 2025.410, 2025.450, 2023.010, 2023.030
+  - California Rules of Court sections 2025.010, 2025.210, 2025.280, 2025.450, 2025.230, 2025.410, 2025.450, 2023.010, 2023.030
+statutes:
+  - California Code of Civil Procedure sections 2025.010, 2025.210, 2025.280, 2025.450, 2025.230, 2025.410, 2025.450, 2023.010, 2023.030
+  - California Civil Code sections 2025.010, 2025.210, 2025.280, 2025.450, 2025.230, 2025.410, 2025.450, 2023.010, 2023.030
+  - California Evidence Code sections 2025.010, 2025.210, 2025.280, 2025.450, 2025.230, 2025.410, 2025.450, 2023.010, 2023.030
+  - California Rules of Court sections 2025.010, 2025.210, 2025.280, 2025.450, 2025.230, 2025.410, 2025.450, 2023.010, 2023.030
+roles:
+  - Judge
+  - Plaintiff
+  - Defendant
+  - Attorney
+  - Party
+significant_statements:
+  - Prudent Security Solutions, Inc. failed to appear at deposition
+  - SF Markets, LLC served a deposition notice
+  - Prudent Security Solutions, Inc. did not serve objections or appear
+  - Prudent Security Solutions, Inc. did not offer alternative deposition dates
+  - The Court will hear from counsel
+  - The Court will consider whether to deny the motion as moot
+  - The Court will also consider the request for sanctions
+
+English-text summary:
+This is a tentative ruling on a motion to compel the deposition of Prudent Security Solutions, Inc. The court notes that Prudent Security Solutions, Inc. failed to appear at the deposition despite being properly served with a deposition notice. The court will hear from counsel and consider whether to deny the motion as moot since Prudent Security Solutions, Inc. has agreed to proceed with the deposition on May 17, 2024. The court will also consider the request for sanctions.
