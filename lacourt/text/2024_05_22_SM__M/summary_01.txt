@@ -1,0 +1,56 @@
+Here is the summary in YAML format:
+
+```
+case_number: 22SMCV00063
+plaintiff_name: Cienega Ventures LLC
+defendant_name: 730 N. La Cienega, et al.
+people:
+  - Cienega Ventures LLC
+  - 730 N. La Cienega LLC
+  - Mt. Diablo Unified Sch. Dist.
+  - National Elec. Supply Co.
+companies:
+  - Cienega Ventures LLC
+  - 730 N. La Cienega LLC
+places:
+  - California
+dates:
+  - December 2023
+  - September 2024
+  - May 22, 2024
+events:
+  - Motion to consolidate cases
+  - Trial in breach of lease action
+  - Trial in fraudulent transfer action
+money: N/A
+intentions:
+  - Plaintiff: to consolidate cases to avoid unnecessary costs or delay
+  - Defendant: to avoid prejudice and delay in the fraudulent transfer action
+facts:
+  - Cases involve common factual issues
+  - Cases involve substantially the same evidence and witnesses
+  - Fraudulent transfer action is dependent on breach of lease action
+disputes:
+  - Plaintiff vs. Defendant on consolidation
+acts:
+  - Plaintiff moves to consolidate cases
+  - Defendant objects to consolidation
+agreements: N/A
+laws:
+  - CCP § 1048(a)
+  - LASC Local Rule 3.3(g)(1)
+  - Cal. Rules of Court, rule 3.350(a)(1) and (b)
+statutes:
+  - CCP § 1048(a)
+  - LASC Local Rule 3.3(g)(1)
+roles:
+  - Judge: presiding over the case
+  - Plaintiff: moving to consolidate cases
+  - Defendant: objecting to consolidation
+significant_statements:
+  - "Consolidation would therefore increase the costs on the parties and burden on the court through delaying the resolution of the breach of lease action."
+```
+
+And here is the summary in English text:
+
+The court is considering a motion to consolidate two cases: 22SMCV00063 (breach of lease action) and 23SMCV05806 (fraudulent transfer action). The plaintiff, Cienega Ventures LLC, argues that the cases involve common factual issues and substantially the same evidence and witnesses. However, the court finds that the cases are at different stages, with the breach of lease action approaching trial in September 2024 and the fraudulent transfer action recently filed in December 2023 with no trial date set. The court denies the motion to consolidate, finding that it would unduly delay the resolution of the breach of lease action and increase costs on the parties and burden on the court.

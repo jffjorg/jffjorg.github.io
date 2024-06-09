@@ -1,0 +1,38 @@
+Here is the summary in YAML format:
+
+```
+case_number: 24STCV02758
+hearing_date: May 22, 2024
+department: 49
+parties:
+  - Omar Gamez Alvarez (Plaintiff)
+  - Priorityworkforce, Inc. (Defendant)
+  - Hultafors Group North America, Inc.
+  - Hultafors Group US Holdco LLC
+facts:
+  - Plaintiff worked for Defendants as a warehouse worker
+  - Plaintiff suffered a foot contusion at work
+  - Defendants allegedly fired Plaintiff when he returned to work under medical restrictions
+disputes:
+  - Disability discrimination
+  - Failure to provide reasonable accommodations
+  - Failure to engage in good faith interactive process
+  - Retaliation
+  - Wrongful termination
+intentions:
+  - Defendant Priorityworkforce, Inc. moves to compel arbitration
+  - Plaintiff opposes
+acts:
+  - Plaintiff signs arbitration agreement
+  - Defendant presents prima facie evidence of written agreement to arbitrate
+laws:
+  - Federal Arbitration Act (FAA)
+  - California Code of Civil Procedure (CCP) § 1281.4
+statutes:
+  - Labor Code § 2698 (PAGA)
+roles:
+  - Judge Randolph M. Hammock
+  - Jennifer Pena (Defendant's Human Resources Generalist/Safety Compliance Manager)
+significant_statements:
+  - "The party asserting the FAA bears the burden to show it applies by presenting evidence establishing [that] the contract with the arbitration provision has a substantial relationship to interstate commerce..." (Carbajal v. CWPSC, Inc. (2016) 245 Cal.App.4th 227, 238.)
+  - "The court does not agree that the agreement lacks mutuality in that sense. The excluded claims are not of the type that would generally be brought only by the employer."

@@ -1,0 +1,80 @@
+Here is the YAML summary:
+
+```
+case_number: 23STCV25168
+plaintiff: Jason Zumberge
+defendant: Barbara L. Anderson
+people:
+  - Jason Zumberge
+  - Barbara L. Anderson
+company_names: []
+places:
+  - 800 N. La Jolla Ave., Los Angeles, CA 90046
+  - 808 N. La Jolla Ave., Los Angeles, CA 90046
+dates:
+  - October 16, 2023
+  - June 14, 2018
+  - July 14, 2018
+  - May 25, 2023
+  - June 12, 2023
+  - July 12, 2023
+  - August 7, 2023
+  - October 11, 2023
+events:
+  - Nuisance activities on the Subject Property
+  - Fire on the Subject Property
+  - Code enforcement notices issued by the City of Los Angeles
+  - Lien recorded against the Subject Property
+  - Board of Building and Safety Commissioners' public hearing
+  - Public nuisance designation of the Subject Property
+money:
+  - $33,000.00 (monthly rent)
+  - $3,450,000.00 (market value of Plaintiff's Property)
+  - $1,673.00 (cost of installing barricades)
+  - $18,834.82 (cost of installing fence)
+  - $1,680.00 (cost of cleaning the Subject Property)
+  - $300.00 (cost of installing a barricade)
+  - $482.94 (cost of installing a fence)
+  - $501.90 (cost of installing a barricade)
+  - $25,060.30 (total amount of lien recorded against the Subject Property)
+intention:
+  - To enjoin Defendant from allowing the continuance of trespassers on the Subject Property
+  - To enjoin Defendant from failing to secure the Subject Property
+  - To enjoin Defendant from allowing further nuisance activities on the Subject Property
+  - To prevent the sale, gift, or transfer of ownership of the Subject Property
+facts:
+  - Defendant has failed to correct the nuisance on the Subject Property
+  - Plaintiff has suffered damage to his Property due to the nuisance on the Subject Property
+  - Plaintiff has lost rental income due to the nuisance on the Subject Property
+  - Plaintiff has attempted to rent his Property, but potential renters have been deterred by the nuisance on the Subject Property
+disputes:
+  - Dispute over the nuisance on the Subject Property
+  - Dispute over the sale, gift, or transfer of ownership of the Subject Property
+acts:
+  - Defendant's failure to correct the nuisance on the Subject Property
+  - Plaintiff's attempts to rent his Property
+  - Code enforcement notices issued by the City of Los Angeles
+  - Public nuisance designation of the Subject Property
+  - Lien recorded against the Subject Property
+  - Board of Building and Safety Commissioners' public hearing
+  - Public nuisance designation of the Subject Property
+laws:
+  - California Civil Code
+  - Los Angeles Municipal Code
+  - California Code of Civil Procedure
+statutes:
+  - LAMC §§91.8903 and 91.8904
+  - CACI No. 2021
+  - Jessen v. Keystone Savings & Loan Association
+  - Friedman v. Friedman
+roles:
+  - Plaintiff: Jason Zumberge
+  - Defendant: Barbara L. Anderson
+  - Code enforcement departments of the City of Los Angeles
+  - Board of Building and Safety Commissioners
+significant statements:
+  - "A preliminary injunction may not issue unless the plaintiff demonstrates a reasonable likelihood of success on the merits."
+  - "A plaintiff is not required to wait until suffering actual harm; threatened harm is enough."
+```
+
+Note: The YAML summary is based on the provided text and may not be exhaustive.

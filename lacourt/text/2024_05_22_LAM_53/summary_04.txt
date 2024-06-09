@@ -1,0 +1,53 @@
+Here is the summary in YAML format:
+
+```
+case_number: "MC-051"
+plaintiff_name: "Unknown"
+defendant_name: "Unknown"
+people_names:
+  - "Defendants' Counsel"
+  - "Counsel for plaintiff"
+company_names:
+  - "Unknown"
+places:
+  - "35 N. Lake Avenue"
+  - "Pasadena, California"
+  - "91101"
+  - "200 E. Carrillo Street"
+  - "Santa Barbara, California"
+  - "93101"
+dates:
+  - "January 23, 2024"
+events:
+  - "Service of process"
+  - "Notice of Change of Address"
+money: "0"
+intentions: "To determine proper service of process"
+facts:
+  - "Defendants' Counsel served counsel for plaintiff at incorrect address"
+  - "Counsel for plaintiff updated address"
+disputes:
+  - "Incorrect service of process"
+acts:
+  - "Service of process"
+  - "Notice of Change of Address"
+agreements: "Rule 3.1362, subdivision (d)"
+laws: "California Rules of Court"
+case_citations:
+  - "MC-051 forms, Proof of Service"
+  - "MC-052 forms, Proof of Service"
+  - "Jan. 23, 2024 Not. of Change of Address"
+statutes:
+  - "California Rules of Court"
+roles:
+  - "Judge"
+  - "Defendants' Counsel"
+  - "Counsel for plaintiff"
+significant_statements:
+  - "Defendants' Counsel served counsel for plaintiff at incorrect mailing address"
+  - "Counsel for plaintiff updated address"
+```
+
+And here is the English-text summary:
+
+This tentative ruling discusses the issue of proper service of process. The court notes that Defendants' Counsel served counsel for plaintiff at the incorrect mailing address, but also served them at their correct email address, satisfying rule 3.1362, subdivision (d).

@@ -1,0 +1,71 @@
+Here is the summary in YAML format:
+
+```
+case_number: 21STCV13991
+plaintiff_name: Sabag Holdings, LLC
+defendant_name: SoCal Building Ventures, LLC
+people_names:
+  - Jason Caramanis
+company_names:
+  - Saticoy Property Managers, LLC
+  - 1880 Tunnel Road, LLC
+  - Magnolia Management, LLC
+  - Sabag Holdings, LLC
+  - SoCal Building Ventures, LLC
+places:
+  - Santa Clara County
+dates:
+  - April 13, 2021
+  - November 17, 2022
+  - March 26, 2024
+  - May 10, 2024
+  - May 16, 2024
+  - May 23, 2024
+events:
+  - Breach of Contract on Promissory Note
+  - Common Count
+  - Stipulation of Judgment and Order
+money:
+  - $9,000,000.00
+intentions:
+  - Charging order against the transferable interest of Defendant/Judgment Debtor
+facts:
+  - Judgment Creditor filed a Complaint against Defendant/Judgment Debtor
+  - Judgment Debtor failed to make payments
+  - Claimant holds a perfected security interest
+disputes:
+  - Priority of liens
+  - Charging order vs. security interest
+acts:
+  - Issuance of a charging order
+  - Lien on a judgment debtor's interest
+agreements:
+  - Code Civil Procedure section 708.310
+  - Corporations Code section 15907.03
+  - Evidence Code section 452(d)
+  - Evidence Code section 453
+laws:
+  - Code Civil Procedure section 708.310
+  - Code Civil Procedure section 708.320
+  - Corporations Code section 15907.03
+  - Corporations Code section 17705.03
+  - Evidence Code sections 452(d) and 453
+case_citations:
+  - Rice v. Downs (2021) 73 Cal.App.5th 213
+statutes:
+  - Code Civil Procedure section 708.310
+  - Code Civil Procedure section 708.320
+  - Corporations Code section 15907.03
+  - Corporations Code section 17705.03
+roles:
+  - Judgment Creditor
+  - Judgment Debtor
+  - Claimant
+significant_statements:
+  - Charging order may be issued but would not take precedence over a security interest perfected before any judgment lien or charging order lien was in place
+  - A charging order would not take precedence over a security interest perfected before any judgment lien or charging order lien was in place
+```
+
+Here is a summary of the judge's tentative ruling:
+
+The judge grants the plaintiff's motion for a charging order against the transferable interest of the defendant in three limited liability companies. The charging order is necessary to permit the plaintiff to enforce the judgment. The defendant has failed to make any payments towards the judgment, and the plaintiff seeks a lien against the defendant's membership interests in the limited liability companies. The defendant has a perfected security interest in the same interests, but the court finds that the charging order would not take precedence over the security interest. The court concludes that the charging order is warranted and grants the motion.

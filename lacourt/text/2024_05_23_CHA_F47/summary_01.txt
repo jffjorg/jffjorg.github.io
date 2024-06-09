@@ -1,0 +1,62 @@
+Here is the YAML summary of the tentative ruling:
+
+```
+case_number: 22CHCV01021
+plaintiff: Los Angeles Federal Credit Union
+defendant: Jessica J. Martin aka Jessica Jna Baker
+people:
+  - Los Angeles Federal Credit Union
+  - Jessica J. Martin
+  - Jessica Jna Baker
+company-names:
+  - Los Angeles Federal Credit Union
+places:
+  - California
+dates:
+  - 11/29/23 (motion filed)
+  - 1/5/23 (defendant's answer filed)
+  - 10/31/22 (action filed)
+  - 11/13/23 (judgment entered)
+  - 11/28/23 (judgment filed)
+  - 6/27/23 (minute order denying MSJ)
+  - 9/21/23 (minute order denying motion to compel)
+money:
+  - $16,975.00 (requested attorney's fees)
+  - $63,731.20 (judgment amount for vehicle loan)
+  - $4,094.39 (judgment amount for personal line of credit loan)
+intention:
+  - Award attorney's fees to prevailing party
+facts:
+  - Defendant defaulted on two loans
+  - Plaintiff filed action against defendant
+  - Judgment entered in favor of plaintiff
+  - Defendant did not appear for trial
+disputes:
+  - Breach of contract
+  - Money lent
+  - Claim and delivery
+  - Breach of contract and money lent
+acts:
+  - Plaintiff filed motion for attorney's fees
+  - Defendant did not oppose or respond to motion
+agreements:
+  - Civil Code 1717 (attorney's fees and costs)
+  - Contracts with attorney fee provisions
+laws:
+  - Civil Code 1717
+  - Scott Co. of California (1999) 20 C4th 1103
+  - Hsu (1995) 9 C4th 863
+statutes:
+  - Civil Code 1717
+  - California Code of Civil Procedure
+roles:
+  - Plaintiff: Los Angeles Federal Credit Union
+  - Defendant: Jessica J. Martin aka Jessica Jna Baker
+  - Judge: [Unknown]
+significant-statements:
+  - "The party who is determined to be the party prevailing on the contract, whether he or she is the party specified in the contract or not, shall be entitled to reasonable attorney's fees in addition to other costs."
+```
+
+And here is the English summary of the judge's tentative ruling:
+
+The judge grants the plaintiff's motion for attorney's fees in the amount of $12,285.00. The plaintiff, Los Angeles Federal Credit Union, is the prevailing party in the contract claims, as it prevailed on all contract claims and the contracts contained attorney fee provisions. The judge finds that the plaintiff's counsel's hourly rate of $350 is reasonable and awards the plaintiff $12,285.00 in reasonable attorney's fees.

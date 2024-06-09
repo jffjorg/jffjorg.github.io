@@ -1,0 +1,60 @@
+Here is the YAML summary in English text and the YAML format:
+
+**Summary in English:**
+
+This tentative ruling is regarding a motion for summary judgment and/or summary adjudication in the case of Gabriel Ceja v. California Institute of Technology. The defendant, California Institute of Technology, is seeking summary judgment or adjudication, while the plaintiff, Gabriel Ceja, is opposing. The court is continuing the motion to June 27, 2024, and is allowing the plaintiff to file an amended separate statement by June 14, 2024.
+
+**YAML Format:**
+
+```
+Case Number: 21STCV20009
+Case Name: Gabriel Ceja v. California Institute of Technology
+Parties:
+  - Plaintiff: Gabriel Ceja
+  - Defendant: California Institute of Technology
+People:
+  - Gabriel Ceja
+Companies:
+  - California Institute of Technology
+Places:
+  - California
+Dates:
+  - February 23, 2021 (alleged constructive termination)
+  - May 23, 2024 (tentative ruling)
+  - June 14, 2024 (amended separate statement due date)
+  - June 27, 2024 (continued motion date)
+Events:
+  - Motion for summary judgment and/or summary adjudication
+  - Opposition to motion
+Money:
+  - None mentioned
+Intentions:
+  - Defendant seeks summary judgment or adjudication
+  - Plaintiff opposes
+Facts:
+  - Plaintiff worked for defendant since 2002
+  - Plaintiff alleges workplace injuries and lack of accommodations
+  - Plaintiff alleges retaliation for raising concerns about eyewash stations
+Disputes:
+  - Defendant seeks to negate plaintiff's claims
+  - Plaintiff disputes certain facts
+Acts:
+  - Plaintiff's alleged constructive termination
+  - Defendant's alleged failure to provide accommodations
+  - Plaintiff's alleged retaliation
+Agreements:
+  - None mentioned
+Laws:
+  - California Code of Civil Procedure Section 437c
+  - California Rules of Court Rule 3.1350
+Statutes:
+  - California Code of Civil Procedure Section 437c
+Roles:
+  - Judge: Randolph M. Hammock
+Significant Statements:
+  - Plaintiff's opposition to motion is unclear and lacks focus
+  - Defendant's motion is granted in part
+  - Plaintiff will file an amended separate statement
+```
+
+Please note that the YAML format is not a formal legal document and is intended only to provide a summary of the tentative ruling in a machine-readable format.

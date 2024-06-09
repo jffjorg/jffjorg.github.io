@@ -1,0 +1,61 @@
+Here is a summary of the tentative ruling in YAML format:
+
+```
+Case Number: 23STCV28278
+Plaintiff: American Business Bank
+Defendant: D T S Enterprise, Inc., Leslie Dain Sorg, and D T S Builders Inc.
+People-Names:
+  - Pyle
+  - Sorg
+  - Isbell
+Company-Names:
+  - American Business Bank
+  - D T S Enterprise, Inc.
+  - D T S Builders Inc.
+Places:
+  - California
+Dates:
+  - December 28, 2020
+  - December 23, 2022
+  - March 13, 2024
+  - May 1, 2023
+  - November 15, 2023
+Events:
+  - Loan Agreement
+  - Note
+  - Commercial Security Agreement
+Money:
+  - $789,535.74
+  - $483,089.35
+Intentions:
+  - To secure payment of amounts due under the Loan Agreement and Note
+Facts:
+  - Plaintiff entered into a Loan Agreement with DTSE
+  - DTSE failed to pay amounts due under the Loan Agreement and Note
+  - Sorg guaranteed DTSE's performance under the Loan Agreement
+Disputes:
+  - Plaintiff's claims against the defendants
+  - Defendants' ability to pay amounts due under the Loan Agreement and Note
+Acts:
+  - Plaintiff's application for a right to attach order and temporary protective order
+Laws:
+  - California Code of Civil Procedure (CCP)
+  - United States Bankruptcy Code (Title 11)
+Statutes:
+  - CCP § 484.010
+  - CCP § 484.020
+  - CCP § 484.030
+  - CCP § 484.090
+  - CCP § 487.010
+  - CCP § 489.210
+  - CCP § 489.220
+Roles:
+  - Plaintiff: American Business Bank
+  - Defendant: D T S Enterprise, Inc., Leslie Dain Sorg, and D T S Builders Inc.
+Significant Statements:
+  - The Court grants the plaintiff's application for a right to attach order against DTSE and Sorg in the amount of $789,535.74.
+  - The Court grants the plaintiff's application for a right to attach order against DTSB in the amount of $483,089.35.
+  - The Court orders an undertaking in the amount of $10,000 as to each defendant.
+```
+
+The tentative ruling grants the plaintiff's application for a right to attach order against DTSE and Sorg in the amount of $789,535.74 and against DTSB in the amount of $483,089.35. The Court also orders an undertaking in the amount of $10,000 as to each defendant. The ruling does not issue a temporary protective order as requested by the plaintiff.

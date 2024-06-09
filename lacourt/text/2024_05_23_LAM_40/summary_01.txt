@@ -1,0 +1,28 @@
+Here is a summary of the tentative ruling in YAML format:
+
+```
+case_number: 23STCV17826
+hearing_date: 2024-05-23
+judge: [Judge's name]
+parties:
+  - plaintiff: Ashley Stottlemyer, Katrenia Stottlemyer
+  - defendant: Blue Cross of California dba Anthem Blue Cross, Anthem Life and Health Insurance Company
+    and Does 1 through 20
+issues:
+  - arbitration: yes
+  - unconscionability: no
+  - procedural unconscionability: low level
+  - substantive unconscionability: no
+  - equitable estoppel: yes
+disposition:
+  - motion to compel arbitration: GRANTED
+  - stay trial court proceedings: GRANTED
+notes:
+  - the court finds that the parties agreed to arbitrate their disputes
+  - the court finds that the arbitration agreement is valid and enforceable
+  - the court grants the petition to compel arbitration and stay trial court proceedings
+```
+
+And here is a summary of the tentative ruling in English text:
+
+The court has granted the petition to compel arbitration and stay trial court proceedings. The court finds that the parties agreed to arbitrate their disputes and that the arbitration agreement is valid and enforceable. The court also finds that the doctrine of equitable estoppel applies, allowing the non-signatory defendant to compel the signatory plaintiff to arbitrate its claims. The court does not find any unconscionability in the arbitration agreement. The court sets an order to show cause regarding the status of the arbitration in approximately one year.

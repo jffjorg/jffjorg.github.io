@@ -1,0 +1,65 @@
+Here is the YAML summary:
+
+```
+case_number: 23STCV12115
+plaintiff: Shannon Jaworski
+defendant: Royce Hugh Worden
+people_names:
+  - Shannon Jaworski
+  - Royce Hugh Worden
+  - Sara E. Abston
+  - Michelle C. Kim
+company_names: []
+places:
+  - California
+  - Los Angeles
+  - Central District
+dates:
+  - April 23, 2024
+  - April 29, 2024
+  - May 22, 2024
+events:
+  - Application to appear pro hac vice
+  - Motion to deny application
+  - Hearing date
+  - Proof of service
+  - Statutory notice
+money: []
+intentions:
+  - To deny application to appear pro hac vice
+facts:
+  - Applicant failed to comply with Cal. Rules of Court, rule 9.40(c)(1)
+  - Applicant cured defect by providing proof of service on the State Bar
+  - Insufficient notice given
+  - Proof of service states the State Bar was served on April 29, 2024
+  - Required statutory notice was not provided
+disputes:
+  - Insufficient notice given
+  - Failure to comply with court rules
+  - Inadequate proof of service
+acts:
+  - Application to appear pro hac vice
+  - Proof of service on the State Bar
+  - Failure to provide required statutory notice
+agreements: []
+laws:
+  - Cal. Rules of Court, rule 9.40(c)(1)
+  - CCP §1005
+  - CCP §1005(b)
+statutes:
+  - CCP §1005
+  - CCP §1005(b)
+roles:
+  - Judge: Michelle C. Kim
+  - Applicant: Sara E. Abston
+  - Plaintiff: Shannon Jaworski
+  - Defendant: Royce Hugh Worden
+significant_statements:
+  - The application is denied without prejudice on procedural grounds due to insufficient notice.
+  - The court may take the motion off calendar or adopt the tentative ruling as the order of the Court.
+  - The parties should meet and confer to reach an agreement.
+```
+
+And here is the English-text summary:
+
+The tentative ruling denies without prejudice an application by Sara E. Abston to appear as counsel pro hac vice to represent plaintiff Shannon Jaworski in the case against Royce Hugh Worden. The application was previously denied due to failure to comply with court rules, but the applicant cured the defect by providing proof of service on the State Bar. However, the motion is denied due to insufficient notice, as the required 16-day statutory notice was not provided. The court finds that the proof of service states the State Bar was served on April 29, 2024, but the required notice was not given. The ruling encourages the parties to meet and confer to reach an agreement and provides guidance on the procedures for submitting comments on the tentative ruling.

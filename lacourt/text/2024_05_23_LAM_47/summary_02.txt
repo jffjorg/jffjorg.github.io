@@ -1,0 +1,67 @@
+Here is the YAML summary of the Tentative Ruling:
+
+```
+case_number: 22STCV16887
+hearing_date: 2024-05-23
+department: 47
+judge: Judge Theresa M. Traber
+plaintiff: Creditors Adjustment Bureau Inc.
+defendant: Senior Hospice Care, Inc.
+people:
+  - Michael D. Frischer
+companies:
+  - Creditors Adjustment Bureau Inc.
+  - Senior Hospice Care, Inc.
+  - Centers for Medicare and Medicaid Services
+  - Noridian Healthcare Solutions LLC
+places:
+  - California
+dates:
+  - 2022-05-23 (Complaint filed)
+  - 2022-08-16 (Default entered)
+  - 2022-09-30 (Default judgment entered)
+  - 2024-05-23 (Tentative Ruling)
+events:
+  - Collection action for workers' compensation insurance premiums
+  - Default judgment entered
+  - Motion for assignment of Medicare benefits
+money:
+  - $55,381.95 (balance on the judgment)
+  - $13.02 (daily interest)
+intentions:
+  - Assign Medicare reimbursements and payments to the Judgment Creditor
+facts:
+  - Judgment Debtor has rights to payment from Centers for Medicare and Medicaid Services and Noridian Healthcare Solutions LLC
+  - Judgment Debtor's payment rights are related to its unique National Provider Identifier
+  - Judgment Creditor requires a court order for assignment of these funds
+disputes:
+  - None (no opposition to the motion)
+acts:
+  - Plaintiff moves for an order assigning Medicare reimbursements and payments
+  - Court grants the motion
+agreements:
+  - Assignment of Medicare payments governed by federal regulations (42 C.F.R. § 424.73)
+  - Court may take into consideration all relevant factors in determining whether to order an assignment
+laws:
+  - California Code of Civil Procedure section 708.510
+  - California Code of Civil Procedure section 708.530
+  - Civil Code section 955.1
+citations:
+  - 42 C.F.R. § 424.73
+  - 42 C.F.R. § 424.90
+  - Code Civ. Proc. § 708.510
+  - Code Civ. Proc. § 708.530
+  - Code Civ. Proc. § 708.510(c)
+  - Code Civ. Proc. § 708.510(d)
+roles:
+  - Judgment Creditor: Creditors Adjustment Bureau Inc.
+  - Judgment Debtor: Senior Hospice Care, Inc.
+  - Court: Judge Theresa M. Traber
+significant statements:
+  - Judgment Creditor moves for an order assigning Medicare reimbursements and payments
+  - Court grants the motion and orders Centers for Medicare and Medicaid Services and Noridian Healthcare Solutions LLC to pay Medicare reimbursements and payments to the Judgment Creditor
+```
+
+And here is the English summary of the Tentative Ruling:
+
+The Judge grants the motion for an order assigning Medicare reimbursements and payments to the Judgment Creditor, Creditors Adjustment Bureau Inc. The Judgment Creditor seeks to collect workers' compensation insurance premiums owed by the Judgment Debtor, Senior Hospice Care, Inc. The Court finds that the Judgment Creditor has properly demonstrated a basis for an assignment order and orders Centers for Medicare and Medicaid Services and Noridian Healthcare Solutions LLC to pay Medicare reimbursements and payments to the Judgment Creditor. The order shall remain in effect until the full balance of the judgment, including post-judgment costs and interest, has been paid in full.

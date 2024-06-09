@@ -1,0 +1,77 @@
+Here is the summary in YAML format:
+```
+case_number: "Tentative Ruling"
+plaintiff_name: "Landlord"
+defendant_name: "City"
+people_names:
+  - "Hearing Examiner"
+  - "Petitioner"
+  - "City"
+company_names: []
+places:
+  - "RSO"
+  - "WHMC"
+  - "AR"
+  - "Pet"
+  - "Reply"
+  - "Civil Code"
+  - "Assembly Bill 1164"
+  - "Senate Bill 1257"
+  - "Senate Bill 985"
+  - "ABCO, LLC v. Eversley"
+dates:
+  - "Act"
+  - "Assembly Bill 1164"
+  - "Senate Bill 1257"
+  - "Senate Bill 985"
+events:
+  - "Hearing"
+  - "Remand"
+  - "Petition"
+  - "Reply"
+money:
+  - "Rent"
+  - "Overpayment"
+intentions:
+  - "Exempt" from rent control
+facts:
+  - "Unit is subject to RSO"
+  - "Hearing Examiner erred in calculating rent"
+  - "Petitioner challenges ruling on subject to RSO"
+disputes:
+  - "Landlord v. City"
+acts:
+  - "Petition"
+  - "Reply"
+  - "Remand"
+agreements:
+  - "Act"
+  - "Local Rent Control Ordinance"
+  - "Assembly Bill 1164"
+  - "Senate Bill 1257"
+  - "Senate Bill 985"
+laws:
+  - "Act"
+  - "Local Rent Control Ordinance"
+  - "Civil Code"
+  - "Assembly Bill 1164"
+  - "Senate Bill 1257"
+  - "Senate Bill 985"
+case_citations:
+  - "ABCO, LLC v. Eversley"
+  - "WHMC § 17.08.010"
+  - "AR 21-22"
+  - "AR 77-78"
+  - "Pet. ¶¶ 25, 26"
+roles:
+  - "Hearing Examiner"
+  - "Petitioner"
+  - "City"
+  - "Landlord"
+significant_statements:
+  - "Unit is subject to RSO"
+  - "Legislative history is unhelpful"
+```
+And here is the summary in English text:
+
+This tentative ruling addresses a dispute between Landlord and City regarding whether a specific unit is subject to the Rent Stabilization Ordinance (RSO). The Hearing Examiner erred in calculating the maximum allowable rent and by not calculating the amount of the overpayment. The City cites legislative history, including Assembly Bill 1164 and Senate Bill 1257, to argue that the unit is exempt from rent control. However, the Court finds that the legislative history is inconclusive and not inconsistent with the plain meaning of the statute. The Court does not consider certain documents and analysis submitted by the parties.

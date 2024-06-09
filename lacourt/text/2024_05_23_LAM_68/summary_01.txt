@@ -1,0 +1,99 @@
+Here is a summary of the Judge's Tentative Ruling in YAML format:
+
+```
+case_number: 22STCV23696
+plaintiff_name: Law Offices of L.A. Law Inc.
+defendant_name: Shahrzad Shahili
+people_names:
+  - William Silverstein
+  - F. Bari Nejadpour
+  - Susan Winchester
+company_names:
+  - Law Offices of L.A. Law Inc.
+  - West Coast Ultrasound Institute
+  - Hoag Hospital
+places:
+  - Beverly Hills
+  - California
+dates:
+  - 2022-07-21 (filing of complaint)
+  - 2022-10-17 (answer to complaint)
+  - 2022-10-18 (cross-complaint)
+  - 2022-12-15 (denial of motion to strike cross-complaint)
+  - 2023-01-30 (sustaining of demurrer to cross-complaint)
+  - 2023-02-27 (filing of first amended cross-complaint)
+  - 2023-04-20 (striking of demurrer to cross-complaint)
+  - 2023-05-30 (sustaining of demurrer to cross-complaint)
+  - 2023-06-20 (filing of second amended cross-complaint)
+  - 2023-09-21 (overruling of demurrer to cross-complaint)
+  - 2023-11-20 (filing of third amended cross-complaint)
+  - 2024-01-16 (sustaining of demurrer to cross-complaint)
+  - 2024-02-15 (answer to third amended cross-complaint)
+  - 2024-05-23 (hearing date)
+  - 2024-09-23 (trial date)
+events:
+  - Filing of complaint
+  - Answer to complaint
+  - Filing of cross-complaint
+  - Denial of motion to strike cross-complaint
+  - Sustaining of demurrer to cross-complaint
+  - Filing of first amended cross-complaint
+  - Striking of demurrer to cross-complaint
+  - Filing of second amended cross-complaint
+  - Overruling of demurrer to cross-complaint
+  - Filing of third amended cross-complaint
+  - Sustaining of demurrer to cross-complaint
+  - Answer to third amended cross-complaint
+  - Hearing on motion for issue and monetary sanctions
+money:
+  - $32,555.57 (outstanding balance)
+  - $1,000 (requested monetary sanctions)
+intentions:
+  - To impose issue sanctions on Defendant for failure to comply with discovery orders
+facts:
+  - Defendant failed to produce requested documents
+  - Defendant allegedly withheld documents showing difficulties with English
+disputes:
+  - Dispute over compliance with discovery orders
+  - Dispute over sanctions for non-compliance
+acts:
+  - Filing of complaint
+  - Answer to complaint
+  - Filing of cross-complaint
+  - Filing of amended cross-complaints
+  - Filing of motion for issue and monetary sanctions
+  - Filing of opposition to motion
+  - Hearing on motion
+agreements:
+  - None
+laws:
+  - California Rules of Court, rule 3.1345(a)(7)
+  - Code of Civil Procedure, § 2023.030, subd. (b)
+  - Code of Civil Procedure, § 2023.040
+  - Trope v. Katz (1995) 11 Cal.4th 274, 292
+  - Kravitz v. Superior Court (2001) 91 Cal.App.4th 1015, 1020
+  - Argaman v. Ratan (1999) 73 Cal.App.4th 1173, 1180
+case_citations:
+  - Young v. Rosenthal (1989) 212 Cal.App.3d 96
+  - Deyo v. Kilbourne (1978) 84 Cal.App.3d 771
+  - Newland v. Superior Court (1995) 40 Cal.App.4th 608
+  - Mileikowsky v. Tenet Healthsystem (2005) 128 Cal.App.4th 262
+  - Laguna Auto Body v. Farmers Ins. Exchange (1991) 231 Cal.App.3d 481
+  - Garcia v. McCutchen (1997) 16 Cal.4th 469
+  - New Albertsons, Inc. v. Sup. Ct. (2008) 168 Cal.App.4th 1403
+  - Lopez v. Watchtower Bible & Tract Society of New York, Inc. (2016) 246 Cal.App.4th 566
+statutes:
+  - Code of Civil Procedure, § 2023.030, subd. (b)
+  - Code of Civil Procedure, § 2023.040
+roles:
+  - Judge
+  - Plaintiff/Cross-Defendant (Law Offices of L.A. Law Inc.)
+  - Defendant/Cross-Complainant (Shahrzad Shahili)
+significant_statements:
+  - "The court finds the missing statement in no way precludes or inhibits consideration of the subject matter."
+  - "The court may impose an issue sanction ordering that designated facts shall be taken as established in the action in accordance with the claim of the party adversely affected by the misuse of the discovery process."
+```
+
+And here is a summary of the Judge's tentative ruling in English text:
+
+The court has granted the motion for issue sanctions, but denied the request for $1,000 in monetary sanctions. The court finds that the defendant failed to comply with discovery orders and withheld documents showing difficulties with English. The court notes that the plaintiff's motion lacks a separate statement, but finds that the missing statement does not preclude consideration of the subject matter. The court grants the motion for issue sanctions, but the scope of the sanction remains to be determined. The court also denies the request for monetary sanctions, as the plaintiff failed to provide proof of actual payment or identification of other outside counsel referred. The court notes that the defendant's counsel failed to provide a separate breakout of costs, and the court declines to consider the corrected declaration, as it was filed untimely.

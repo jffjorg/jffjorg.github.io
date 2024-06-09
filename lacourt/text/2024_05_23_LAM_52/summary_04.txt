@@ -1,0 +1,65 @@
+Here is the YAML summary of the "Tentative Ruling" document:
+
+```
+case_number: 23STCV23071
+plaintiff: The People of the State of California
+defendant: Metro Investments Group, Inc. and Anthony Nowaid
+people_names:
+  - The People of the State of California
+  - Anthony Nowaid
+  - Mainak D'Attaray
+company_names:
+  - Metro Investments Group, Inc.
+places:
+  - California
+  - Department of Transportation
+dates:
+  - February 23, 2024
+  - April 24, 2024
+  - May 23, 2024
+events:
+  - Requests for admissions
+  - Failure to respond to requests
+  - Motion to deem matters and genuineness of documents admitted
+  - Sanctions
+money:
+  - $750
+  - $625
+intentions:
+  - Deem matters and genuineness of documents admitted
+  - Impose sanctions
+facts:
+  - Plaintiff served requests for admission to Metro and Anthony Nowaid
+  - Metro and Anthony Nowaid failed to respond to requests
+  - Plaintiff incurred expenses for motions
+disputes:
+  - Failure to respond to requests for admissions
+  - Waiver of objections
+acts:
+  - Plaintiff served requests for admission
+  - Metro and Anthony Nowaid failed to respond
+  - Plaintiff moved for an order deeming matters and genuineness of documents admitted
+  - Plaintiff incurred expenses for motions
+agreements:
+  - CCP § 2033.280(a) and (b)
+  - CCP § 2033.280(c)
+laws:
+  - CCP § 2033.280(a)
+  - CCP § 2033.280(b)
+  - CCP § 2033.280(c)
+citations:
+  - Choi Decl.
+  - CCP
+roles:
+  - Judge
+  - Plaintiff
+  - Defendant
+  - Counsel
+significant_statements:
+  - Failure to respond to requests for admissions necessitates a motion to deem matters and genuineness of documents admitted.
+  - Sanctions are mandatory when a party fails to serve a timely response to requests for admission.
+```
+
+And here is the English text to summarize the judge's tentative ruling:
+
+The court has granted the plaintiff's motion to deem the truth of specified matters and the genuineness of documents admitted as to defendant Metro Investments Group, Inc. and defendant Anthony Nowaid. The court has also ordered the defendants to pay sanctions of $750 to Metro and $625 to Anthony Nowaid within 30 days. The court's ruling is based on the plaintiff's failure to respond to requests for admission, which waived any objections and necessitated the motion to deem the matters and documents admitted.

@@ -1,0 +1,39 @@
+Here is the summary in YAML format:
+
+```
+Case:
+  Number: 23TRCV03492
+  Type: Tentative Ruling
+  Court: Superior Court of California
+  County: Los Angeles
+  District: Southwest
+  Department: B
+
+Parties:
+  Plaintiff: Mohammad Zarenezhad
+  Defendant: Hyundai Motor America
+
+Agreements:
+  Warranty Booklet: contains arbitration agreement
+  Sale Contract: contains arbitration agreement
+
+Arbitration:
+ Requested by: Defendant
+  Requested to: Compel arbitration under Warranty Booklet and Sale Contract
+  Grounds: Defendant argues that Plaintiff consented to arbitration agreement
+  Plaintiff argues that arbitration agreement is unconscionable and unenforceable
+
+Unconscionability:
+  Procedural: Moderate
+  Substantive: None
+
+Order:
+  Defendant's Motion to Compel Arbitration is GRANTED
+  Plaintiff's claims are subject to arbitration under Warranty Booklet and Sale Contract
+  Defendant is responsible for payment of all JAMS fees except initial filing fee
+  Arbitration to be held in Plaintiff's city or county of residence
+```
+
+And here is a summary in English text:
+
+The judge's tentative ruling grants the defendant's motion to compel arbitration under the warranty booklet and sale contract. The plaintiff had argued that the arbitration agreement was unconscionable and unenforceable, but the judge found that the agreement was not excessively one-sided or oppressive. The judge also found that the plaintiff had consented to the arbitration agreement by presenting the vehicle to the defendant for repair. The arbitration agreement is enforceable and the plaintiff's claims are subject to arbitration under the warranty booklet and sale contract.

@@ -1,0 +1,81 @@
+Here is the YAML summary of the tentative ruling:
+
+```
+Case:
+  number: 19STCV42761
+  hearing date: 2024-05-23
+  department: 48
+
+Plaintiff:
+  name: Hyung Koo
+
+Defendant:
+  name: Central Fitness Partners, Inc.
+  company: true
+
+People:
+  - Hyung Koo
+  - Thomas D. Long
+
+Companies:
+  - Central Fitness Partners, Inc.
+  - Central Plaza LLC
+  - Jamison Realty Advisors LLC
+  - Jamison Services Inc.
+
+Places:
+  - Los Angeles
+  - California
+
+Dates:
+  - 2024-04-24 (motion filed)
+  - 2024-05-17 (summary judgment granted)
+  - 2024-05-23 (hearing date)
+
+Events:
+  - Motion to trifurcate trial
+  - Summary judgment granted
+
+Money: None mentioned
+
+Intentions:
+  - Plaintiff's intention to bifurcate trial
+
+Facts:
+  - Plaintiff filed motion to trifurcate trial
+  - Court granted summary judgment in favor of some defendants
+
+Disputes:
+  - Single enterprise theory
+  - Joint venture theory
+  - Liability
+
+Acts:
+  - Plaintiff filed motion
+  - Court granted summary judgment
+
+Agreements:
+  - None mentioned
+
+Laws:
+  - California state law
+
+Case Citations:
+  - None mentioned
+
+Statutes:
+  - California Civil Code
+
+Roles:
+  - Judge: Hon. Thomas D. Long
+  - Plaintiff: Hyung Koo
+  - Defendant: Central Fitness Partners, Inc.
+
+Significant Statements:
+  - Motion to trifurcate is denied as moot
+  - Summary judgment granted in favor of some defendants
+```
+
+And here is the English-text summary of the tentative ruling:
+
+The court has denied the plaintiff's motion to bifurcate the trial, citing that the summary judgment granted in favor of some defendants renders the motion moot. The court notes that the plaintiff's intention was to bifurcate the trial into bench trials on single enterprise and joint venture theories, and a jury trial on negligence and other issues. However, since the court has already granted summary judgment in favor of some defendants, there is no longer a need for a bench trial on these theories. As a result, the motion to trifurcate is denied as moot.

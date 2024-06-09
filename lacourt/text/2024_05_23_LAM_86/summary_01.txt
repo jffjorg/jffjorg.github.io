@@ -1,0 +1,65 @@
+Here is the summary in YAML format:
+
+```
+case_number: 23LBCP00344
+plaintiff_name: Supporters Alliance for Environmental Responsibility
+defendant_name: Long Beach, et al.
+people_names:
+  - Drury
+  - Coastal Commission
+  - Marina Shores Owner, LP
+company_names:
+  - One Legal
+places:
+  - California
+dates:
+  - 12/11/2023
+  - 12/14/2023
+  - 5/23/2024
+events:
+  - Demurrer to First Amended Verified Petition
+  - Motion for Leave to File Second Amended Petition
+  - Motion for Judgment on the Pleadings
+  - Leave to Amend
+money: $0
+intentions:
+  - Petitioner seeks to file Second Amended Petition
+  - Real party in interest opposes motion for leave to amend
+facts:
+  - Petitioner did not timely name the Coastal Commission as a respondent
+  - Petitioner's paralegal submitted the First Amended Petition to One Legal on December 11, 2023
+  - Real party faults petitioner for not presenting a "confirmation of receipt" or "notice of rejection"
+disputes:
+  - Petitioner vs. Real party in interest
+  - Coastal Commission
+acts:
+  - Petitioner seeks leave to file Second Amended Petition
+  - Real party opposes motion for leave to amend
+  - Court grants motion for leave to amend
+agreements:
+  - Petitioner and Real party in interest agree to stipulate to allow petitioner to amend
+  - Real party does not oppose motion for leave to amend
+laws:
+  - Public Resources Code § 30801(a)
+  - Code of Civil Procedure § 1010.6
+  - Code of Civil Procedure § 1010.6(e)(4)(E)
+  - Evidence Code § 452(d)
+  - Code of Civil Procedure § 1010.6(a)(4)(A)
+statutes:
+  - Public Resources Code § 30801(a)
+  - Code of Civil Procedure § 1010.6
+  - Code of Civil Procedure § 1010.6(e)(4)(E)
+roles:
+  - Petitioner: Supporters Alliance for Environmental Responsibility
+  - Respondent: California Coastal Commission
+  - Real party in interest: Marina Shores Owner, LP
+  - Judge: [redacted]
+significant statements:
+  - Petitioner seeks leave to file Second Amended Petition to address arguments in concurrently heard Demurrer and Motion for Judgment on the Pleadings
+  - Real party opposes motion for leave to amend, citing insufficient pleading
+  - Court grants motion for leave to amend and orders petitioner to file Second Amended Petition within two court days
+```
+
+And here is the English-text summary:
+
+The tentative ruling grants the Petitioner's motion for leave to file a Second Amended Petition. The Petitioner seeks to address arguments in the concurrently heard Demurrer and Motion for Judgment on the Pleadings. The Real party in interest opposes the motion, citing insufficient pleading. The Court grants the motion for leave to amend and orders the Petitioner to file the Second Amended Petition within two court days.

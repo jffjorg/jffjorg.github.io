@@ -1,0 +1,65 @@
+Here is the summary in YAML format:
+
+```
+case_number: 23STCP00015
+plaintiff: Ginadan Venture 2, LLC
+defendant: 702 Saint Andrews, LLC, et al.
+people_names:
+  - Albert Bernal
+  - Manuel Bernal
+  - David Taran
+  - Daniel Rudyak
+  - Gordon Eng
+company_names:
+  - Ginadan Venture 2, LLC
+  - Bernal Capital Group (BCG)
+  - 702 Saint Andrews, LLC (Seller)
+places:
+  - Los Angeles
+dates:
+  - December 6, 2023
+  - February 1, 2024
+  - April 19, 2024
+  - May 2, 2024
+  - May 8, 2024
+  - May 23, 2024
+events:
+  - Arbitration
+  - Litigation
+  - Judgment
+  - Motion to amend judgment
+money:
+  - N/A
+intentions:
+  - To amend the judgment to include Albert Bernal as a judgment debtor
+facts:
+  - Albert Bernal is a general partner of BCG
+  - Albert Bernal is an alter ego of BCG
+  - Albert Bernal actively participated in the defense of Respondents and judgment debtors BCG and Seller in the underlying arbitration
+  - Albert Bernal was declared by the Arbitrator in the arbitration award to be the general partner and alter ego of Respondent and judgment debtor BCG
+disputes:
+  - Whether Albert Bernal is an alter ego of BCG
+  - Whether Albert Bernal is liable as a judgment debtor
+acts:
+  - Petitioner filed a motion to amend the judgment to include Albert Bernal
+  - Respondents filed an opposition to the motion
+  - Petitioner filed a reply to the opposition
+agreements:
+  - None
+laws:
+  - California Code of Civil Procedure §187
+statutes:
+  - California Code of Civil Procedure §187
+roles:
+  - Petitioner: Ginadan Venture 2, LLC
+  - Respondents: 702 Saint Andrews, LLC, et al.
+  - Arbitrator: Gordon Eng
+  - Judge: Hon. Daniel M. Crowley
+significant statements:
+  - "The court is not required to hold an evidentiary hearing on a motion to amend a judgment, but may rule on the motion based solely on declarations and other written evidence."
+  - "To prevail on the motion, the judgment creditor must show, by a preponderance of the evidence, that: 'the parties to be added as judgment debtors had control of the underlying litigation and were virtually represented in that proceeding; (2) there is such a unity of interest and ownership that the separate personalities of the entity and the owners no longer exist; and (3) an inequitable result will follow if the acts are treated as those of the entity alone.'"
+```
+
+Summary:
+
+The judge granted Petitioner's motion to amend the judgment to include Albert Bernal as a judgment debtor. The court found that Albert Bernal is an alter ego of BCG and that BCG is an alter ego of Seller. The Arbitrator's findings in the arbitration award are final and binding, and collateral estoppel precludes relitigating the issue of whether Albert Bernal is an alter ego of BCG. The court granted the motion based on the Arbitrator's findings and the parties' pleadings.

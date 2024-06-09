@@ -1,0 +1,47 @@
+Here is the YAML summary of the Tentative Ruling:
+
+```
+case_number: 24STCV02129
+plaintiff: EDWARD ESTRADA, et al.
+defendant: LIBERTY INSURANCE CORPORATION, et al.
+people_names: Edward Estrada, Yun Cui, Daniel Kiddoo, Jon R. Takasugi
+company_names: Liberty Insurance Corporation, Liberty Mutual Insurance Company, Liberty Mutual Holding Company, Inc., Liberty Mutual Group, Inc.
+places: Los Angeles, California
+dates: January 26, 2024, May 22, 2024
+events:
+  - Breach of contract
+  - Breach of implied covenant of good faith and fair dealing
+  - Intentional infliction of emotional distress (IIED)
+  - Fraud
+  - Negligent misrepresentation
+  - Concealment
+  - Violation of Business and Professions Code section 17200
+  - Violation of Consumer Legal Remedies Act (CLRA)
+money: Not specified
+intention: To determine the validity of the complaints filed by the plaintiffs
+facts:
+  - The plaintiffs alleged breach of contract, breach of implied covenant of good faith and fair dealing, and other causes of action against the defendants.
+  - The defendants demurred to the complaints.
+disputes:
+  - The plaintiffs' complaints were insufficiently pled.
+  - The plaintiffs failed to allege facts to support their causes of action.
+acts:
+  - The defendants demurred to the complaints.
+  - The plaintiffs failed to plead their causes of action with sufficient specificity.
+agreements:
+  - The parties agreed that the plaintiffs had failed to plead their causes of action with sufficient specificity.
+laws:
+  - McKell v. Washington Mut., Inc. (2006) 142 Cal.App.4th 1457
+  - Henry v. Associated Indem. Corp. (1990) 217 Cal.App.3d 1405
+  - Waller, 11 Cal. 4th at 36; Rainbow Sandals, Inc., 2014 WL 12577084 at *3
+  - Knox v. Phoenix Leasing Inc. (1994) 29 Cal.App.4th 1357
+  - West v. JPMorgan Chase Bank, N.A. (2013) 214 Cal. App. 4th 780, 793
+statutes:
+  - Business and Professions Code section 17200
+  - Consumer Legal Remedies Act (CLRA)
+roles:
+  - Judge: Jon R. Takasugi
+  - Parties: Edward Estrada, Yun Cui, Daniel Kiddoo, Liberty Insurance Corporation, Liberty Mutual Insurance Company, Liberty Mutual Holding Company, Inc., Liberty Mutual Group, Inc.
+significant_statements:
+  - The Court sustains the demurrer without leave to amend as to Plaintiffs' First and Second causes of action as to Liberty Mutual Insurance Company, Liberty Mutual Holding Company, Inc., and Liberty Mutual Group, Inc.
+  - The Court sustains the demurrer with 15 days leave to amend as to Plaintiffs' Fifth, Sixth, Seventh, Eighth, and Ninth causes of action as to all Liberty Defendants.

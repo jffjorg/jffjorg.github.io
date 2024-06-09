@@ -1,0 +1,62 @@
+Here is a simple summary of the tentative ruling in YAML format:
+
+```
+case_number: 23STCV29660
+hearing_date: May 23, 2024
+dept: 55
+
+parties:
+  - plaintiff: Shawky Saad
+  - defendant: Serena Mo
+
+cause_of_action:
+  - breach_of_contract
+  - breach_of_joint_venture
+  - breach_of_implied_contract
+  - promissory_estoppel
+  - quantum_meruit
+  - conversion
+  - financial_elder_abuse
+
+factual_allegations:
+  - plaintiff and defendant had a romantic relationship
+  - defendant provided income and plaintiff provided household services
+  - parties agreed to jointly own a home
+  - plaintiff provided extensive home improvements
+  - defendant disclaimed plaintiff's interest in the property and ousted him from the home
+
+laws_and_citations:
+  - Marvin v. Marvin (1976) 18 Cal.3d 660
+  - Byrne v. Laura (1997) 52 Cal.App.4th 1054
+  - Alderson v. Alderson (1986) 180 Cal.App.3d 450
+  - Poseidon Development, Inc. v. Woodland Lane Estates, LLC (2007) 152 Cal.App.4th 1106
+
+intentions:
+  - plaintiff seeks to enforce agreements made during the romantic relationship
+  - defendant disputes the existence and enforceability of these agreements
+
+disputes:
+  - defendant argues that the agreements are not enforceable because they are not in writing
+  - plaintiff argues that the agreements are implied by the parties' conduct
+
+acts:
+  - plaintiff provided household services and home improvements
+  - defendant provided income and supported the household
+
+agreements:
+  - parties agreed to jointly own a home
+  - parties agreed to share the income and expenses of the household
+
+roles:
+  - plaintiff: Shawky Saad
+  - defendant: Serena Mo
+
+significant_statements:
+  - the court overrules the demurrer as to each cause of action
+  - the court finds that the agreements are implied by the parties' conduct
+  - the court finds that the defendant's actions breached the agreements
+```
+
+Here is a summary of the tentative ruling in English text:
+
+The court has issued a tentative ruling on the demurrer brought by the defendant, Serena Mo, to the plaintiff, Shawky Saad's, First Amended Complaint. The plaintiff alleges that the defendant breached their agreements made during their romantic relationship, including a joint ownership of a home. The court finds that the agreements are implied by the parties' conduct and that the defendant's actions breached these agreements. The court overrules the demurrer as to each cause of action, including breach of contract, breach of joint venture, breach of implied contract, promissory estoppel, quantum meruit, conversion, and financial elder abuse.

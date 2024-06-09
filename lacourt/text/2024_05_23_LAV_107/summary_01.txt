@@ -1,0 +1,77 @@
+Here is the summary in YAML format:
+
+```
+case-number: 22VECV00179
+plaintiff: Shahnaz Ostad Kalimi
+defendant: Tarzana Five Properties, LLC
+people-names:
+  - Shahnaz Ostad Kalimi
+  - Sergio Romero
+  - Peyman Jacob Yadegar
+company-names:
+  - Tarzana Five Properties, LLC
+places:
+  - California
+  - Los Angeles
+  - Northwest District
+dates:
+  - March 1, 2020
+  - August 31, 2021
+  - February 7, 2022
+  - February 6, 2024
+  - February 27, 2024
+  - April 29, 2024
+  - May 10, 2024
+  - May 16, 2024
+  - May 23, 2024
+events:
+  - Breach of implied warranty of habitability
+  - Breach of contract
+  - Negligence
+  - Constructive eviction
+  - Violation of California Civil Code section 1942.4
+  - Violation of Los Angeles Municipal Code section 92.010
+money:
+  - N/A
+intentions:
+  - To compel Opposing Party to produce its person or persons most qualified to testify at a deposition
+facts:
+  - Plaintiff lived in a third-floor apartment at a certain real property
+    leased from defendants
+  - The apartment building's elevator did not work
+  - Plaintiff notified defendants of the inoperable elevator, but it was not repaired
+  - Plaintiff was forced to use the apartment building stairs, causing injury
+  - Plaintiff filed a complaint alleging six causes of action
+  - Plaintiff served a notice of deposition seeking to depose the person most qualified to testify
+  - Opposing Party produced and deposed Sergio Romero, but he was unable or unqualified to testify
+  - Plaintiff moved to compel Opposing Party to produce its person or persons most qualified to testify
+disputes:
+  - Whether Opposing Party has produced sufficient information to support its claims
+  - Whether Opposing Party has complied with discovery requests
+acts:
+  - Plaintiff filed a complaint alleging six causes of action
+  - Plaintiff served a notice of deposition
+  - Opposing Party produced and deposed Sergio Romero
+  - Plaintiff moved to compel Opposing Party to produce its person or persons most qualified to testify
+agreements:
+  - None
+laws:
+  - California Code of Civil Procedure section 2025.230
+  - California Civil Code section 1942.4
+  - Los Angeles Municipal Code section 92.010
+statutes:
+  - California Code of Civil Procedure
+  - California Civil Code
+  - Los Angeles Municipal Code
+roles:
+  - Plaintiff: Shahnaz Ostad Kalimi
+  - Defendant: Tarzana Five Properties, LLC
+  - Judge: Hon. Eric Harmon
+significant-statements:
+  - The court grants the motion to compel Opposing Party to produce its person or persons most qualified to testify
+  - The court finds that Opposing Party's initial deponent, Sergio Romero, lacked the requisite knowledge to testify
+```
+
+And here is the English-text summary of the judge's tentative ruling:
+
+The judge's tentative ruling grants the plaintiff's motion to compel the opposing party to produce its person or persons most qualified to testify at a deposition. The court finds that the opposing party's initial deponent, Sergio Romero, lacked the requisite knowledge to testify. The plaintiff had served a notice of deposition seeking to depose the person most qualified to testify, and the opposing party produced and deposed Romero, but he was unable or unqualified to testify. The court grants the motion to compel the opposing party to produce its person or persons most qualified to testify at a deposition.

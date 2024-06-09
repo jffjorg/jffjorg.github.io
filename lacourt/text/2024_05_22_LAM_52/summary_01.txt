@@ -1,0 +1,78 @@
+Here is the summary in YAML format:
+
+```
+case:
+  number: BC513624
+  hearing-date: 2024-05-22
+  department: 52
+
+plaintiffs:
+  - name: Jose Rios
+  - name: Blanca Rios
+
+defendants:
+  none
+
+people-names:
+  - Jose Rios
+  - Blanca Rios
+
+company-names:
+  none
+
+places:
+  none
+
+dates:
+  - 2024-04-11
+  - 2024-05-02
+
+events:
+  - Motion for an Order to the Clerk to Either Amend by Interlineation or Replace with Correct Application for and Renewal of Judgment
+  - Filing of application for renewal of judgment
+  - Filing of motion to amend application
+
+money:
+  - $176,700.93
+
+intentions:
+  - To correct clerical error in judgment
+  - To amend application for renewal of judgment
+
+facts:
+  - Plaintiffs filed an application for renewal of judgment on April 11, 2024
+  - The application included an error in the amount of "Credits to principal"
+  - Plaintiffs meant to include the amount as "Accrued interest remaining due"
+
+disputes:
+  none
+
+acts:
+  - The court has inherent power to correct clerical errors in judgments
+  - The court has power to amend and control its process and orders
+  - Plaintiffs show good cause to correct their application for renewal of judgment
+
+agreements:
+  - The court will strike the original application for renewal of judgment
+  - Plaintiffs will submit a corrected application for renewal of judgment
+  - The corrected application will be deemed filed on May 2, 2024
+
+laws:
+  - Code of Civil Procedure, Section 128(a)(8)
+  - Ames v. Paley (2001) 89 Cal.App.4th 668, 672
+
+statutes:
+  - Code of Civil Procedure, Section 128(a)(8)
+
+roles:
+  - Judge: [judge's name]
+  - Plaintiffs: Jose Rios and Blanca Rios
+
+significant-statements:
+  - The court will grant the motion to amend the application for renewal of judgment
+  - The corrected application will be deemed filed on May 2, 2024
+```
+
+And here is a summary of the judge's tentative ruling in English text:
+
+The court will strike the original application for renewal of judgment filed by Jose Rios and Blanca Rios on April 11, 2024, due to a clerical error. The error was in the amount listed as "Credits to principal" which was actually intended to be included as "Accrued interest remaining due". The court grants the motion to amend the application and orders the plaintiffs to submit a corrected application for renewal of judgment. The corrected application will be deemed filed on May 2, 2024, the date on which the motion was filed.

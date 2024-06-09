@@ -1,0 +1,53 @@
+Here is the YAML summary:
+
+```
+Case Number: 23STCV28294
+Plaintiff's Name: Deliana Glover, et al.
+Defendant's Name: Onni Management California, Inc., and Onni Real Estate IX, LLC
+People Names: Ava Claypool
+Company Names: Onni Management California, Inc., Onni Real Estate IX, LLC
+Places: California
+Dates:
+  - November 17, 2023 (Complaint filed)
+  - December 19, 2023 (Meet and Confer)
+  - December 29, 2023 (Meet and Confer)
+  - May 22, 2024 (Hearing Date)
+Events:
+  - Demurrer to the Complaint
+  - Motion to Strike Portions of Complaint
+Money:
+  - Actual damages
+  - Punitive damages
+  - Attorney's fees
+Intentions:
+  - Violation of the Investigative Consumer Reporting Agencies Act (ICRAA)
+  - Invasion of privacy
+  - Declaratory relief
+Facts:
+  - Plaintiffs did not receive investigative consumer reports
+  - Defendants did not provide a means to request a copy of the reports
+Disputes:
+  - Whether the Complaint states a cause of action
+  - Whether the allegations are sufficient to state a claim for invasion of privacy
+  - Whether the allegations are sufficient to state a claim for declaratory relief
+  - Whether punitive damages are properly alleged
+Acts:
+  - Demurrer to the Complaint
+  - Motion to Strike Portions of Complaint
+  - Meet and Confer
+Laws:
+  - Civil Code section 1786.50
+  - Civil Code section 1786.52
+  - Civil Code section 3294
+  - Code of Civil Procedure section 430.41
+  - Code of Civil Procedure section 435.5
+Roles:
+  - Judge: Theresa M. Traber
+  - Plaintiffs: Deliana Glover, et al.
+  - Defendants: Onni Management California, Inc., and Onni Real Estate IX, LLC
+Significant Statements:
+  - The Court concurs with Defendants that paragraph 53 is improper and should be stricken.
+  - The Court disagrees with Defendants' interpretation of the Complaint.
+```
+
+Note that some fields, such as "Dates" and "Events", may contain multiple values. In such cases, the values are listed in a YAML list.
