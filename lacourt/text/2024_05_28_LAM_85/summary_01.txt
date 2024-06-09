@@ -1,0 +1,29 @@
+Here is a summary of the tentative ruling in YAML format:
+
+```
+Case Number: 23STCP04410
+Plaintiff's Name: Fix the City, Inc.
+Defendant's Name: City of Los Angeles
+People-Names: Karen Bass, Mayor of Los Angeles
+Company-Names: Los Angeles Housing Services Authority (LAHSA)
+Places: Los Angeles, California
+Dates:
+  - December 12, 2022: Mayor Karen Bass declares a Local Homeless Emergency
+  - December 16, 2022: Mayor issues ED1
+  - June 12, 2023: Mayor reissues ED1
+  - July 7, 2023: Mayor declares a new emergency under LAAC section 8.33
+  - January 2, 2024: FTC files lawsuit
+Events:
+  - Demurrer filed by City
+  - Meet and confer process between parties
+  - Demurrer hearing held
+Money: None mentioned
+Intentions:
+  - City seeks to demur to FTC's complaint
+  - FTC seeks to have City's demurrer sustained
+Facts:
+  - Project site is City-owned parking lot 707
+  - Project is a low-barrier navigation center with 33 sleeping units
+  - Project would result in intensive use of single-family-zoned site
+  - Project would be operated under LAHSA's program requirements
+Laws

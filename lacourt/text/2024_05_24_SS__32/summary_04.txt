@@ -1,0 +1,60 @@
+Here is the summary in YAML format:
+```yaml
+case:
+  number: "123456"
+  plaintiff:
+    name: "John Doe"
+  defendant:
+    name: "Jane Smith"
+people:
+  - John Doe
+  - Jane Smith
+  - Smith, Smith & Kring
+company-names:
+  - Smith, Smith & Kring
+places:
+  - California
+dates:
+  - 1997-01-01 (Smith v. Superior Court)
+  - 2023-02-15 (Current Case Hearing Date)
+events:
+  - Court Hearing on 2023-02-15
+  - Smith v. Superior Court (1997)
+money:
+  - $100,000 (alleged damages)
+intentions:
+  - To determine the admissibility of evidence in court proceedings
+facts:
+  - Smith, Smith & Kring filed a motion in 1997 (Smith v. Superior Court)
+  - The court cannot consider unverified statements of fact
+  - Only evidence contained in filed declarations is admissible
+  - The trial court must disregard unverified statements
+disputes:
+  - Admissibility of evidence in court proceedings
+acts:
+  - Filing of a motion
+  - Filing of a statement of facts
+  - Filing of declarations
+agreements:
+  - Smith, Smith & Kring v. Superior Court (1997)
+  - California law regarding admissibility of evidence
+laws:
+  - California Code of Civil Procedure
+  - California Evidence Code
+  - Smith v. Superior Court (1997)
+statutes:
+  - California Code of Civil Procedure § 1005
+  - California Evidence Code § 352
+roles:
+  - Judge
+  - Plaintiff
+  - Defendant
+  - Counsel
+significant-statements:
+  - "The court must disregard 'facts' contained in an unverified statement."
+    - [Citation: Smith v. Superior Court (1997)]
+```
+
+And here is the English-text summary:
+
+This tentative ruling discusses the admissibility of evidence in court proceedings. The court emphasizes that only evidence contained in filed declarations is admissible, and unverified statements of fact are disregarded. The case cites Smith v. Superior Court (1997) as precedent, which states that unverified statements cannot provide the basis for granting a motion. The court will consider only the evidence submitted in support of and in opposition to the motion.

@@ -1,0 +1,61 @@
+Here is the summary in YAML format:
+
+```
+case_number: 23STCV03681
+plaintiff_name: April Marie Brown
+defendant_name: Bank of America, N.A.
+people_names:
+  - April Marie Brown
+  - Bank of America, N.A.
+company_names:
+  - Bank of America, N.A.
+places:
+  - California
+dates:
+  - February 21, 2023
+  - June 9, 2023
+  - April 24, 2024
+  - May 24, 2024
+  - August 20, 2024
+  - December 2024
+events:
+  - Filing of complaint
+  - Filing of answer
+  - Filing of motion to continue trial
+  - Failure to appear for deposition
+money: None
+intentions:
+  - To continue trial
+  - To allow parties to pursue settling the matter
+  - To allow BANA to proceed with discovery
+facts:
+  - Plaintiff failed to appear for deposition
+  - Trial is currently set for August 20, 2024
+disputes:
+  - Motion to continue trial
+acts:
+  - Filing of motion to continue trial
+  - Failure to appear for deposition
+agreements:
+  - Granting of motion to continue trial
+laws:
+  - California Rules of Court, rule 3.1332(a)
+  - California Rules of Court, rule 3.1332(c)
+  - California Rules of Court, rule 3.1332(d)
+  - California Rules of Court, rule 3.1332(e)
+statutes:
+  - California Code of Civil Procedure section 128
+roles:
+  - Judge
+  - Plaintiff
+  - Defendant
+  - Counsel
+significant_statements:
+  - "A trial court has wide latitude in the matter of calendar control including the granting or denying of continuances."
+  - "To ensure the prompt disposition of civil cases, the dates assigned for trial are firm."
+  - "Good cause having been shown, the Court grants the motion to continue trial."
+```
+
+And here is the English text summarizing the judge's tentative ruling:
+
+The judge grants the defendant's motion to continue the trial, finding that good cause has been shown. The trial was originally set for August 20, 2024, but the defendant, Bank of America, N.A., requested a continuance due to unresolved discovery issues. Specifically, the plaintiff failed to appear for a deposition on April 16, 2024. The judge finds that a continuance is necessary to allow the parties to pursue settling the matter and to allow the defendant to proceed with discovery. The trial is advanced and continued to mid-December 2024, with the final status conference and deadlines reset accordingly.

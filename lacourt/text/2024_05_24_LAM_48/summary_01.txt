@@ -1,0 +1,68 @@
+Here is the summary in YAML format:
+
+```
+case_number: 22LBCV01037
+plaintiff_name: Casamigos Capital LLC
+defendant_name: Brian K. Wildasinn et al
+people_names:
+  - Brian K. Wildasinn
+  - Constance Wildasinn
+company_names:
+  - Casamigos Capital LLC
+places:
+  - Los Angeles
+  - California
+dates:
+  - January 26, 2024
+  - March 25, 2024
+  - April 3, 2024
+  - May 24, 2024
+events:
+  - Requests for Production of Documents
+  - Special Interrogatories
+  - Form Interrogatories
+  - Requests for Admissions
+  - Failure to serve timely responses
+  - Motions to compel
+  - Motion to deem requests for admissions admitted
+money:
+  - $937.50
+  - $3,750.00
+intentions:
+  - To compel plaintiff's responses to discovery requests
+  - To deem requests for admissions admitted
+facts:
+  - Plaintiff did not serve timely responses to discovery requests
+  - Defendant filed motions to compel and to deem requests for admissions admitted
+  - Plaintiff did not serve oppositions to the motions
+disputes:
+  - Failure to serve timely responses to discovery requests
+  - Failure to admit or deny requests for admissions
+acts:
+  - Plaintiff failed to serve timely responses to discovery requests
+  - Defendant filed motions to compel and to deem requests for admissions admitted
+  - Judge granted the motions
+  - Plaintiff is ordered to serve verified responses to discovery requests within 30 days
+  - Plaintiff's counsel is ordered to pay sanctions of $3,750.00
+laws:
+  - California Code of Civil Procedure, Sections 2030.290, 2031.300, 2033.280
+  - Healthcare Consulting, Inc. v. Pacific Healthcare Consultants (2007)
+  - Code Civ. Proc., §§ 2030.290, 2031.300, 2033.280
+  - Code Civ. Proc., § 2033.280, subd. (c)
+statutes:
+  - California Code of Civil Procedure
+roles:
+  - Judge: Hon. Thomas D. Long
+  - Plaintiff: Casamigos Capital LLC
+  - Defendant: Brian K. Wildasinn et al
+  - Plaintiff's counsel: unknown
+  - Defendant's counsel: unknown
+significant statements:
+  - "The court may make an order compelling responses where a party fails to serve timely responses to discovery requests."
+  - "A party that fails to serve timely responses waives any objections to the request, including ones based on privilege or the protection of attorney work product."
+  - "The propounding party may move for an order that the genuineness of any documents and the truth of any matters specified in the requests be deemed admitted."
+```
+
+And here is a summary in English text:
+
+The tentative ruling grants defendant's motions to compel plaintiff's responses to discovery requests and to deem requests for admissions admitted. The plaintiff failed to serve timely responses to defendant's requests for production of documents, special interrogatories, and form interrogatories. The defendant filed motions to compel and to deem requests for admissions admitted, and the plaintiff did not serve oppositions to the motions. The court finds that the plaintiff's failure to serve timely responses warrants an order compelling responses and deeming requests for admissions admitted. The court orders the plaintiff to serve verified responses to discovery requests within 30 days and orders the plaintiff's counsel to pay sanctions of $3,750.00.

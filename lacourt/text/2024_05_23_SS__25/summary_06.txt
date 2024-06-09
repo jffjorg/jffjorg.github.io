@@ -1,0 +1,65 @@
+Here is the summary in YAML format:
+
+```
+case_number: 2023-001
+plaintiff: Prime/Park LaBrea Titleholder, LLC
+defendant: Roanna Levy
+people:
+  - Roanna Levy
+  - Prime/Park LaBrea Titleholder, LLC
+companies:
+  - Prime/Park LaBrea Titleholder, LLC
+places:
+  - California
+dates:
+  - June 26, 2023
+  - April 17, 2024
+  - May 10, 2024
+  - May 21, 2024
+events:
+  - Unlawful Detainer
+  - Motion to Reclassify
+money:
+  - $79,037.40
+  - $35,000.00
+intentions:
+  - Reclassify the case from limited jurisdiction to unlimited jurisdiction
+facts:
+  - Plaintiff filed a Complaint against Defendant on June 26, 2023
+  - Plaintiff filed a Motion to Reclassify Limited Action to Unlimited Action on April 17, 2024
+  - Defendant did not file an opposition
+  - Plaintiff argues that the parties have stipulated to reclassification in their Unlawful Detainer Stipulation and Judgment
+disputes:
+  - Reclassification of the case
+acts:
+  - Plaintiff filed a Complaint
+  - Plaintiff filed a Motion to Reclassify
+  - Defendant did not file an opposition
+agreements:
+  - Unlawful Detainer Stipulation and Judgment
+  - Code of Civil Procedure section 403.040
+  - Code of Civil Procedure section 403.050
+laws:
+  - Code of Civil Procedure section 403.040
+  - Code of Civil Procedure section 403.050
+  - Civil Code section 1952.3
+case_citations:
+  - Code Civ. Proc., § 403.040, subd. (a)
+  - Code Civ. Proc., § 403.040, subd. (b)(1)-(2)
+  - Code Civ. Proc., § 403.050, subdivision (a)
+statutes:
+  - Civil Code section 1952.3
+  - Code of Civil Procedure section 403.040
+  - Code of Civil Procedure section 403.050
+roles:
+  - Judge
+  - Plaintiff
+  - Defendant
+significant_statements:
+  - The Court finds that reclassification of the instant action is proper
+  - The Court grants the Motion to Reclassify
+```
+
+And here is a summary of the judge's tentative ruling in English text:
+
+The plaintiff, Prime/Park LaBrea Titleholder, LLC, has filed a complaint against defendant Roanna Levy for unlawful detainer. The plaintiff has also filed a motion to reclassify the case from limited jurisdiction to unlimited jurisdiction. The defendant did not file an opposition to the motion. The court finds that the plaintiff's damages have exceeded the $35,000 threshold for a limited jurisdiction case and that the parties have stipulated to the reclassification of the case. Therefore, the court grants the motion to reclassify the case and orders the plaintiff to pay the appropriate reclassification fees within 10 days of the order.

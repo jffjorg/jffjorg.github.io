@@ -1,0 +1,94 @@
+Here is a YAML summary of the tentative ruling:
+
+```
+case_number: 22STCV09671
+plaintiff: Farm Credit Leasing Services Corporation
+defendant: Goodland Global Farm, Inc., et al.
+people:
+  - Farm Credit Leasing Services Corporation
+  - Goodland Global Farm, Inc.
+  - Utomo Tani
+  - Yongsook Kim
+  - Paul A. Hoffman
+company:
+  - Farm Credit Leasing Services Corporation
+  - Stinson LLP
+  - Frandzel Robins Bloom & Csato, LLC
+places:
+  - Los Angeles
+  - California
+dates:
+  - March 18, 2022
+  - May 23, 2022
+  - June 13, 2022
+  - July 18, 2022
+  - August 9, 2022
+  - August 19, 2022
+  - February 17, 2023
+  - March 6, 2023
+  - January 23, 2024
+  - February 27, 2024
+  - April 25, 2024
+  - April 29, 2024
+  - May 22, 2024
+  - May 24, 2024
+events:
+  - Breach of lease
+  - Breach of guaranties
+  - Judgment in favor of Plaintiff
+  - Motion for attorneys' fees
+money:
+  - $4,785,847.07 (money judgment)
+  - $59,354.50 (attorneys' fees)
+  - $141,667.07 (attorneys' fees)
+  - $201,021.57 (total attorneys' fees requested)
+intentions:
+  - Plaintiff seeks to recover attorneys' fees
+  - Defendant Goodland did not receive notice of the continued hearing date
+facts:
+  - Plaintiff filed a complaint against Defendants
+  - Defendants filed an answer and a demurrer
+  - Plaintiff filed a motion to strike the answer
+  - Plaintiff filed a motion to compel
+  - Non-jury trial was held
+  - Judgment was entered in favor of Plaintiff
+disputes:
+  - Dispute over attorneys' fees
+acts:
+  - Breach of lease
+  - Breach of guaranties
+  - Judgment in favor of Plaintiff
+  - Motion for attorneys' fees
+agreements:
+  - Contractual provision for attorney's fees
+laws:
+  - California Code of Civil Procedure Section 1005(b)
+  - California Civil Code Section 1717
+  - Kirby v. Immoos Fire Protection, Inc. (2012) 53 Cal.4th 1244
+  - Melnyk v. Robledo (1976) 64 Cal.App.3d 618
+  - Graciano v. Robinson Ford Sales, Inc. (2006) 144 Cal.App.4th 140
+  - Serrano v. Priest (1977) 20 Cal.3d 25
+  - Mountjoy v. Bank of Am. (2016) 245 Cal.App.4th 266
+  - Reynolds Metals Co. v. Alperson (1979) 25 Cal.3d 124
+  - Moulton Niguel Water Dist. v. Colombo (2003) 111 Cal.App.4th 1210
+case_citations:
+  - Kirby v. Immoos Fire Protection, Inc. (2012) 53 Cal.4th 1244
+  - Melnyk v. Robledo (1976) 64 Cal.App.3d 618
+  - Graciano v. Robinson Ford Sales, Inc. (2006) 144 Cal.App.4th 140
+  - Serrano v. Priest (1977) 20 Cal.3d 25
+  - Mountjoy v. Bank of Am. (2016) 245 Cal.App.4th 266
+  - Reynolds Metals Co. v. Alperson (1979) 25 Cal.3d 124
+  - Moulton Niguel Water Dist. v. Colombo (2003) 111 Cal.App.4th 1210
+statutes:
+  - California Code of Civil Procedure Section 1005(b)
+  - California Civil Code Section 1717
+roles:
+  - Judge: Hon. Holly J. Fujie
+  - Plaintiff: Farm Credit Leasing Services Corporation
+  - Defendant: Goodland Global Farm, Inc., et al.
+  - Attorney: Andrew K. Alper
+  - Attorney: Benjamin J. Court
+significant_statements:
+  - Plaintiff is the prevailing party and is entitled to its contractual attorneys' fees.
+  - The Court finds that Plaintiff has substantiated the reasonableness of its requested attorneys' fees.
+  - The award of attorneys' fees is conditioned on Plaintiff providing proof of service showing that Defendant Goodland was given timely notice of the continued hearing date.

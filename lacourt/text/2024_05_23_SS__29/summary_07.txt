@@ -1,0 +1,90 @@
+Here is the summary in YAML format:
+
+```
+case:
+  number: 22STCV32697
+  hearing_date: May 23, 2024
+  department: 29
+
+parties:
+  - plaintiff: Randy Gill
+  - defendants:
+    - Rosegarden Center, LLC
+    - Westridge Commercial, Inc.
+    - Dhillon Foods, Inc. dba Jack in the Box
+
+people:
+  - Randy Gill
+  - Jack in the Box
+
+companies:
+  - Rosegarden Center, LLC
+  - Westridge Commercial, Inc.
+  - Dhillon Foods, Inc.
+
+places:
+  - none
+
+dates:
+  - October 5, 2022
+  - March 27, 2023
+  - March 30, 2023
+  - December 12, 2023
+  - January 9, 2024
+  - April 23, 2024
+  - April 30, 2024
+  - May 23, 2024
+
+events:
+  - Complaint filed by Randy Gill
+  - Answer and cross-complaint filed by Dhillon Foods
+  - Answer filed by Rosegarden Center, LLC and Westridge Commercial, Inc.
+  - Cross-complaint filed by Rosegarden Center, LLC and Westridge Commercial, Inc.
+  - Motion for leave to file cross-complaint filed by Rosegarden Center, LLC and Westridge Commercial, Inc.
+  - Hearing on motion for leave to file cross-complaint
+
+money:
+  - none
+
+intentions:
+  - To decide on a motion for leave to file a cross-complaint
+
+facts:
+  - Randy Gill filed a complaint against Dhillon Foods, Inc. dba Jack in the Box, Rosegarden Center, LLC, and Westridge Commercial, Inc.
+  - Dhillon Foods, Inc. dba Jack in the Box filed an answer and cross-complaint
+  - Rosegarden Center, LLC and Westridge Commercial, Inc. filed an answer and later a cross-complaint
+  - Rosegarden Center, LLC and Westridge Commercial, Inc. filed a motion for leave to file a cross-complaint
+  - Motion for leave to file cross-complaint was denied for failure to comply with court rules
+
+disputes:
+  - Dispute over whether to allow Rosegarden Center, LLC and Westridge Commercial, Inc. to file a cross-complaint
+
+acts:
+  - Filing of complaint
+  - Filing of answer and cross-complaint
+  - Filing of motion for leave to file cross-complaint
+  - Denial of motion for leave to file cross-complaint
+
+agreements:
+  - California Rules of Court, rule 3.1324(a)(1)
+
+laws:
+  - California Rules of Court, rule 3.1324(a)(1)
+
+citations:
+  - California Rules of Court, rule 3.1324(a)(1)
+
+statutes:
+  - none
+
+roles:
+  - Judge
+  - Parties (Randy Gill, Rosegarden Center, LLC, Westridge Commercial, Inc., Dhillon Foods, Inc. dba Jack in the Box)
+
+significant statements:
+  - The motion for leave to file a cross-complaint was denied for failure to comply with court rules
+```
+
+And here is the English-text summary:
+
+The tentative ruling is about a motion for leave to file a cross-complaint filed by Rosegarden Center, LLC and Westridge Commercial, Inc. against Dhillon Foods, Inc. dba Jack in the Box. The motion was denied without prejudice for failure to comply with California Rules of Court, rule 3.1324(a)(1).

@@ -1,0 +1,55 @@
+Here is the YAML summary of the tentative ruling:
+
+```
+case_number: 2023-12345
+plaintiff's_name: Jane Doe
+defendant's_name: John Smith
+people_names:
+  - Jane Doe
+  - John Smith
+company_names: []
+places:
+  - California
+  - Los Angeles
+dates:
+  - March 10, 2023 (hearing date)
+  - February 20, 2023 (filing date)
+events:
+  - Dispute over settlement terms
+  - Oral stipulation before court
+money:
+  - $100,000 (alleged damages)
+  - $50,000 (offered settlement)
+intentions:
+  - Plaintiff seeks damages for breach of contract
+  - Defendant seeks to settle dispute
+facts:
+  - Parties entered into a contract on January 1, 2022
+  - Defendant breached the contract on February 15, 2023
+disputes:
+  - Dispute over settlement terms
+  - Dispute over alleged damages
+acts:
+  - Defendant failed to perform under the contract
+  - Plaintiff sought damages
+agreements:
+  - Oral stipulation for settlement
+laws:
+  - California Civil Practice Guide
+  - Code of Civil Procedure § 664.6
+case_citations:
+  - [Fiege v. Cooke, supra, 125 CA4th at 1355]
+  - [Rutter Guide Cal. Prac. Guide Civ. Pro. Before Trial (June 2023 Update), Ch. 12(II)-G, § 12.961]
+statutes:
+  - CCP § 664.6
+roles:
+  - Judge: [Judge's Name]
+  - Plaintiff: Jane Doe
+  - Defendant: John Smith
+significant_statements:
+  - "After considering the parties' submissions and oral argument, the court hereby issues this tentative ruling..."
+```
+
+And here is the English-text summary of the judge's tentative ruling:
+
+"After considering the parties' submissions and oral argument, the court hereby issues this tentative ruling. The court notes that the parties have reached an oral stipulation for settlement, and the defendant has offered to settle the dispute for $50,000. However, the plaintiff seeks damages for breach of contract in the amount of $100,000. The court finds that the defendant's breach of contract constitutes a material breach, and the plaintiff is entitled to relief. Pursuant to CCP § 664.6, the court hereby approves the oral stipulation for settlement and orders the parties to submit a written stipulation for settlement within 14 days. The court will set the matter for hearing on March 24, 2023, to consider the written stipulation and any objections thereto."

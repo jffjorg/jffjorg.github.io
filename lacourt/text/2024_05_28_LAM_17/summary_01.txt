@@ -1,0 +1,78 @@
+Here is a summary of the tentative ruling in YAML format:
+
+```
+case_number: 20STCV39600
+plaintiff_name: Whitney Rolland Reed II
+defendant_names:
+  - County of Los Angeles
+  - Los Angeles County Sheriff's Department
+  - Sheriff Alex Villanueva
+  - Sergeant Rodriguez
+  - Sergeant L. Raymond
+  - Deputy D. Auner
+  - Deputy Hussainian
+  - Deputy M. Salomon
+  - Deputy J. Stern
+people_names:
+  - Joanna Jones Reed (guardian ad litem)
+places:
+  - Los Angeles
+  - Los Angeles County
+  - Men's Central Jail
+dates:
+  - September 20, 2019
+  - September 27, 2019
+  - October 7, 2019
+  - October 15, 2020
+  - May 26, 2023
+  - April 23, 2024
+  - May 28, 2024
+events:
+  - Breach of mandatory duties
+  - Failure to summon medical care
+  - Negligence
+  - Violation of the Bane Act
+  - Assaults
+  - Title 15 safety checks
+  - Surveillance video
+money:
+  - $7,200 (amount sought in monetary sanctions)
+intentions:
+  - Plaintiff seeks to compel further responses to RFPs
+  - Plaintiff seeks monetary sanctions
+facts:
+  - Plaintiff filed a second amended complaint on May 26, 2023
+  - Defendant County of Los Angeles claims it cannot produce CCTV footage because it has been replaced and overwritten
+  - Plaintiff argues that this representation must be false because of COLA documents which clearly demonstrate the requested materials were independently set aside and saved for purposes of a criminal investigation
+  - LASD incident reports acknowledge that surveillance video was reviewed and booked into evidence
+disputes:
+  - Plaintiff disputes Defendant's claim that they cannot produce CCTV footage
+acts:
+  - Plaintiff filed a motion to compel further responses to RFPs
+  - Defendant County of Los Angeles responded that it cannot produce CCTV footage because it has been replaced and overwritten
+  - Plaintiff argues that Defendant's representation must be false
+agreements:
+  - None
+laws:
+  - California Penal Code (242 P.C.)
+  - California Penal Code (245(a)(1) P.C.)
+  - Code of Civil Procedure (CCP)
+  - Evidence Code (EC)
+case_citations:
+  - None
+statutes:
+  - California Penal Code (242 P.C.)
+  - California Penal Code (245(a)(1) P.C.)
+  - Code of Civil Procedure (CCP)
+  - Evidence Code (EC)
+roles:
+  - Plaintiff: Whitney Rolland Reed II
+  - Defendant: County of Los Angeles, et al.
+significant_statements:
+  - Plaintiff's motion to compel further responses to RFPs is DENIED.
+  - The Court declines to award sanctions at this time.
+```
+
+Here is a summary of the tentative ruling in English text:
+
+The Court has issued a tentative ruling in the case of Whitney Rolland Reed II vs. County of Los Angeles, et al. The Court has denied Plaintiff's motion to compel further responses to his Requests for Production (RFPs). The Court has also declined to award sanctions at this time. The dispute centers on Plaintiff's request for surveillance video footage of Title 15 safety checks conducted at the cell holding Plaintiff on September 20, 2019, September 27, 2019, and October 7, 2019. Defendant County of Los Angeles claims it cannot produce the video footage because it has been replaced and overwritten. Plaintiff argues that this representation must be false because of COLA documents which demonstrate the requested materials were independently set aside and saved for purposes of a criminal investigation. The Court has found that Defendant's statement of an inability to comply is Code-Compliant, and Plaintiff's motion to compel further responses is denied.

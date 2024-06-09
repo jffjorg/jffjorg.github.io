@@ -1,0 +1,62 @@
+Here is the summary in YAML format:
+
+```
+---
+Case Number: 22SMCV02025
+Plaintiff's Name: (not specified)
+Defendant's Name: Benson, Hicks
+People-Names:
+  - Benson
+  - Hicks
+Company-Names:
+  - We Works
+Places:
+  - Millennium Drive
+  - Jefferson address
+Dates:
+  - 8/28/23 (default entered)
+  - January 2020 (end of Benson's We Works membership)
+Events:
+  - Breach of contract action
+  - Default judgment
+  - Motion to vacate default
+  - Substitute service
+  - Private investigator investigation
+Money: (not specified)
+Intentions:
+  - To vacate default judgment
+Facts:
+  - Default was entered due to failure to serve summons
+  - Defendants were served at Millennium Drive, but deny receiving notice
+  - Plaintiff re-served defendants and restarted clock
+  - Plaintiff argues lack of draft answer and proper service
+  - Judge believes defendants were not served and had no notice
+Disputes:
+  - Whether defendants received notice of the action
+Acts:
+  - Substitute service at Millennium Drive
+  - Private investigator investigation
+  - Re-service of defendants
+  - Filing of motion to vacate default
+  - Granting of motion to vacate default
+Agreements:
+  - Plaintiff's agreement to re-serve defendants
+Laws:
+  - California Code of Civil Procedure (not specified)
+Case Citations:
+  - (not specified)
+Statutes:
+  - California Code of Civil Procedure (not specified)
+Roles:
+  - Plaintiff: files breach of contract action
+  - Defendants: Benson, Hicks, file motion to vacate default
+  - Judge: grants motion to vacate default
+Significant Statements:
+  - "To the extent that the motion to vacate remains live, though, the court would GRANT the motion."
+  - "The court believes that by re-serving these defendants, plaintiff has also re-started the clock and given them the right to answer, rendering the motion to vacate MOOT as well."
+  - "The court will address the merits... Assuming the court is wrong on mootness..."
+```
+
+And here is a summary of the judge's tentative ruling in English text:
+
+The court has reviewed the motion to vacate default judgment against defendants Benson and Hicks. The motion is granted, but only to the extent that it is not moot. The default judgment was entered due to failure to serve the summons. However, the plaintiff re-served the defendants, restarting the clock and giving them the right to answer. The court believes that the defendants were not served and had no notice of the action. The defendants argue that they were not served due to the improper service at a We Works co-working space. The court grants the motion, but allows the defendants to file an answer within 2 court days.

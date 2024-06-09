@@ -1,0 +1,68 @@
+Here is the summary in YAML format:
+
+```
+case_number: "Twain GL XXV, LLC v. B.R. Resources"
+plaintiff: "Twain GL XXV, LLC"
+defendant: "B.R. Resources"
+people_names:
+  - Ahlholm
+  - Banos
+company_names:
+  - Twain GL XXV, LLC
+  - B.R. Resources
+  - Federal Dep. Ins. Corp
+  - British-American Ins. Co. Ltd
+  - Alaska Mech., Inc.
+places:
+  - California
+  - Texas
+dates:
+  - March 20, 2024
+  - April 30, 2024
+  - May 2, 2024
+  - May 24, 2024
+events:
+  - Motion to Quash Service of Summons and Complaint
+  - Financial deposit with B.R. Resources
+  - Sending money to B.R. Resources
+money:
+  - Financial deposit
+  - Payment for services rendered
+  - Payment checks
+intentions:
+  - Deliberate invocation of California's laws
+  - Purposeful availment of the privilege of conducting business
+facts:
+  - Twain instructed to send money to B.R. Resources
+  - Ahlholm instructed Twain to send the money
+disputes:
+  - Personal jurisdiction
+  - Invocation of California's laws
+  - Purposeful availment of the privilege of conducting business
+acts:
+  - Sending money to B.R. Resources
+  - Receiving payment for services rendered
+agreements:
+  - Financial deposit agreement
+  - Arrangement with B.R. Resources
+laws:
+  - California laws
+  - Texas laws
+  - Federal Dep. Ins. Corp. v. British-American Ins. Co. Ltd. (9th Cir. 1987) 828 F.2d 1026
+  - Hydrokinetics, Inc. v. Alaska Mech., Inc. (5th Cir. 1983) 700 F.2d 1026
+  - Fed. Dep. Ins. Corp. v. British-American Ins. Co. Ltd. (9th Cir. 1987) 828 F.2d 1026
+  - Hydrokinetics, Inc. v. Alaska Mech., Inc. (5th Cir. 1983) 700 F.2d 1026
+roles:
+  - Judge
+  - Plaintiff
+  - Defendant
+  - Attorney
+  - Party
+significant_statements:
+  - "This circuit has recognized that the receipt of payment alone for services rendered outside the forum state is not sufficient to support personal jurisdiction"
+  - "We agree with the district court's conclusion that Alaska Mechanical did not purposefully avail itself of the privilege of conducting business within Texas or invoke the benefits and protections of Texas law"
+```
+
+And here is the English text to summarize the judge's tentative ruling:
+
+"The court has granted the defendant's motion to continue the hearing on the plaintiff's motion to quash service of summons and complaint. The court has also taken into consideration the financial deposit arrangement between the parties, which suggests that the defendant intentionally invoked the benefits and protections of California's laws. The court has cited relevant case law, including Federal Dep. Ins. Corp. v. British-American Ins. Co. Ltd. and Hydrokinetics, Inc. v. Alaska Mech., Inc., to support its conclusion. The court has determined that the defendant did not purposefully avail itself of the privilege of conducting business within California or invoke the benefits and protections of California law. The hearing is now scheduled for May 24, 2024."

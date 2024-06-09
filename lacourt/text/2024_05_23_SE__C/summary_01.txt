@@ -1,0 +1,68 @@
+Here is the summary in YAML format:
+
+```
+case_number: 22NWCV00913
+plaintiff: Karina Lopez
+defendant: EAT FRESH, LLC and SUBWAY RESTAURANTS, LLC
+people:
+  - Karina Lopez
+  - unknown defendants (officers, directors, or managing agents of the corporation)
+company-names:
+  - EAT FRESH, LLC
+  - SUBWAY RESTAURANTS, LLC
+  - FOLDCRAFT CO.
+  - Foldcraft Co.
+places:
+  - Subway restaurant
+  - Place of business (unspecified)
+dates:
+  - September 8, 2022 (filing of original complaint)
+  - October 31, 2023 (filing of First Amended Complaint)
+  - May 31, 2021 (incident)
+events:
+  - Plaintiff was injured while sitting on a defective chair at a Subway restaurant
+  - Plaintiff filed a product liability action
+  - Defendants moved to strike portions of Plaintiff's First Amended Complaint
+  - Judge issues tentative ruling
+money:
+  - No specific amount mentioned
+  - Punitive damages are at issue
+intentions:
+  - Plaintiff seeks to recover for injuries sustained due to defective product
+  - Defendants seek to strike punitive damages and related claims
+facts:
+  - Defendant chair collapsed, causing Plaintiff to fall and become injured
+  - Defendant was aware of chair's defects and potential consequences
+  - Defendant failed to replace or inspect chairs, constituting conscious disregard for safety
+disputes:
+  - Plaintiff's claims for punitive damages and related damages
+acts:
+  - Plaintiff sat on defective chair
+  - Chair collapsed
+  - Plaintiff became injured
+  - Defendant was aware of chair's defects and potential consequences
+  - Defendant failed to replace or inspect chairs
+agreements:
+  - None mentioned
+laws:
+  - California Code of Civil Procedure (CCP) §436
+  - California Civil Code §3294(b)
+  - Smith v. Sup. Ct. (1992) 10 Cal.App.4th 1033
+  - G.D. Searle & Co. v. Sup. Ct. (1975) 49 Cal.App.3d 22
+case-citations:
+  - Smith v. Sup. Ct. (1992) 10 Cal.App.4th 1033
+  - G.D. Searle & Co. v. Sup. Ct. (1975) 49 Cal.App.3d 22
+  - Cal. Civ. Code §3294(b)
+roles:
+  - Judge: issues tentative ruling
+  - Plaintiff: seeks to recover for injuries sustained due to defective product
+  - Defendants: seek to strike punitive damages and related claims
+significant-statements:
+  - Plaintiff adequately alleges facts to support recovery of punitive damages
+  - Punitive damages are warranted due to conscious disregard for safety
+  - Motion to strike punitive damages is denied
+```
+
+The judge's tentative ruling is:
+
+The motion to strike punitive damages is DENIED. The First Amended Complaint (FAC) pleads sufficient facts to support a recovery of punitive damages at this stage in the litigation. Plaintiff has adequately alleged specific facts showing that the defendant's conduct was oppressive, fraudulent, or malicious.

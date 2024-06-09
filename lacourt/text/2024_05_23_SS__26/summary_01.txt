@@ -1,0 +1,71 @@
+Here is the YAML summary of the tentative ruling:
+
+```
+case_number: 20STLC07740
+plaintiff: Leonard R. Tyler
+defendant: Noa Estrada, Jose Vargas Guzman
+people_names:
+  - Noa Estrada
+  - Jose Vargas Guzman
+  - Leonard R. Tyler
+company_names: []
+places: []
+dates:
+  - September 11, 2020
+  - December 4, 2023
+  - March 14, 2024
+  - May 23, 2024
+events:
+  - Filing of complaint
+  - Granting of discovery motions
+  - Failure to comply with discovery order
+  - Filing of motion for terminating and monetary sanctions
+  - Granting of motion
+  - Dismissal of complaint
+  - Award of monetary sanctions
+money:
+  - $360.00
+intentions:
+  - To enforce compliance with discovery order
+  - To impose penalties for non-compliance
+facts:
+  - Plaintiff failed to serve responses to interrogatories and requests for production
+  - Plaintiff failed to pay sanctions
+  - Court granted discovery motions
+  - Court granted motion for terminating and monetary sanctions
+disputes:
+  - Dispute over compliance with discovery order
+  - Dispute over imposition of sanctions
+acts:
+  - Filing of complaint
+  - Filing of discovery motions
+  - Failure to comply with discovery order
+  - Filing of motion for terminating and monetary sanctions
+  - Granting of motion
+  - Dismissal of complaint
+agreements:
+  - Code of Civil Procedure, Section 2023.010
+  - Code of Civil Procedure, Section 2023.030
+laws:
+  - California Code of Civil Procedure
+  - California Civil Procedure Code
+case_citations:
+  - 75 Cal.App.4th 486
+  - 77 Cal.App.4th 1225
+  - 180 Cal.App.3d 701
+  - 196 Cal.App.4th 1495
+statutes:
+  - California Code of Civil Procedure, Section 2023.010
+  - California Code of Civil Procedure, Section 2023.030
+roles:
+  - Plaintiff
+  - Defendant
+  - Judge
+significant_statements:
+  - "The Court finds that terminating sanctions are warranted for Plaintiff's non-compliance with the discovery order."
+  - "Monetary sanctions are also warranted for Plaintiff's non-compliance with the Court's order to respond to discovery."
+```
+
+And here is a summary of the judge's tentative ruling in English text:
+
+The tentative ruling granted the defendants' motion for terminating and monetary sanctions. The plaintiff, Leonard R. Tyler, failed to comply with a court order to serve responses to interrogatories and requests for production, and to pay sanctions. As a result, the court dismissed the plaintiff's complaint with prejudice and awarded the defendants monetary sanctions in the amount of $360.00. The court found that terminating sanctions were warranted due to the plaintiff's willful failure to comply with the court's orders. The court also granted the defendants' request for monetary sanctions, which was based on two hours of attorney time billed at $150.00 and $60.00 in filing fees.

@@ -1,0 +1,69 @@
+Here is the YAML summary of the tentative ruling:
+
+```
+caseNumber: 19STCV28264
+plaintiffName: Rody Castroll
+defendantName: California Police Athletic Federation, et al.
+peopleNames:
+  - Rody Castroll
+  - Los Angeles Sheriff's Athletic Association
+companyNames:
+  - Los Angeles Sheriff's Athletic Association
+places:
+  - Los Angeles
+dates:
+  - October 20, 2023
+  - November 22, 2023
+  - December 28, 2023
+  - May 24, 2024
+  - November 4, 2024
+events:
+  - Service of Requests for Admissions
+  - Service of Form Interrogatories
+  - Failure to respond to Requests for Admissions
+  - Failure to respond to Form Interrogatories
+money:
+  - None mentioned
+intentions:
+  - To deem requests for admissions admitted
+  - To compel responses to form interrogatories
+facts:
+  - Plaintiff did not serve responses to Defendant's requests for admissions
+  - Plaintiff did not serve responses to Defendant's form interrogatories
+  - Defendant seeks an order deeming requests for admissions admitted
+  - Defendant seeks an order compelling responses to form interrogatories
+disputes:
+  - Failure to respond to discovery requests
+  - Failure to comply with discovery deadlines
+acts:
+  - Service of discovery requests
+  - Failure to respond to discovery requests
+  - Filing of motions to deem requests for admissions admitted and to compel responses to form interrogatories
+agreements:
+  - None mentioned
+laws:
+  - California Code of Civil Procedure (CCP) sections 2033.010, 2033.250(a), 2033.280(a), 2033.280(b), 2033.280(c), 2030.290, 2030.300, 2030.260(a)
+  - California Evidence Code section 2016.050
+statutes:
+  - CCP section 2033.010
+  - CCP section 2033.250(a)
+  - CCP section 2033.280(a)
+  - CCP section 2033.280(b)
+  - CCP section 2033.280(c)
+  - CCP section 2030.290
+  - CCP section 2030.300
+  - CCP section 2030.260(a)
+  - California Evidence Code section 2016.050
+roles:
+  - Judge
+  - Plaintiff
+  - Defendant
+significant statements:
+  - "Any party may obtain discovery ... by a written request that any other party to the action admit the genuineness of specified documents, or the truth of specified matters of fact, or opinion relating to fact, or application of law to fact." (CCP § 2033.010)
+  - "The propounding party may move for an order compelling responses if a party to whom the interrogatories are directed fails to respond." (CCP §§ 2030.290, 2030.300)
+  - "The responding party waives any objections to the interrogatories by failing to serve responses in a timely manner." (CCP § 2030.290(a))
+```
+
+And here is the English-text summary of the judge's tentative ruling:
+
+The court has granted the defendant's motion to deem the requests for admissions admitted, as the plaintiff failed to serve responses to the requests by the deadline. The court also granted the defendant's motion to compel responses to the form interrogatories, as the plaintiff failed to serve responses to the interrogatories by the deadline.

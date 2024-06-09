@@ -1,0 +1,53 @@
+Here is the YAML summary of the document:
+
+```yaml
+Case Number: 23SMCV03629
+Case Type: Personal Injury
+Plaintiff's Name: [Not specified]
+Defendant's Name: [Not specified]
+People-Names:
+  - Judge's Name: [Not specified]
+Company-Names: [Not specified]
+Places: [Not specified]
+Dates:
+  - Hearing Date: May 24, 2024
+  - October 9, 2023: Date of written discovery served
+Events:
+  - Motions to compel initial responses: GRANTED
+  - Motion to deem admitted: GRANTED unless responses have been served prior to the hearing
+  - Request for sanctions: GRANTED in the total amount of $5490
+Money: $5490
+Intentions:
+  - To compel plaintiff to provide initial responses to written discovery
+  - To deem admitted certain requests for admission
+Facts:
+  - Plaintiff failed to provide responses to discovery requests
+  - New counsel for plaintiff failed to provide responses
+Disputes:
+  - Plaintiff's failure to respond to discovery requests
+  - Defendant's request for sanctions
+Acts:
+  - Plaintiff served written discovery on October 9, 2023
+  - No responses were provided as of May 17, 2024
+  - Plaintiff's new counsel failed to provide responses
+  - Defendant moved to compel initial responses and deem admitted certain requests
+  - Defendant requested sanctions in the amount of $5490
+  - Plaintiff failed to provide responses despite promises to do so
+Agreements:
+  - Plaintiff must provide verified, code-compliant responses without objection
+  - Plaintiff must provide documents and privilege log within 10 court days
+Laws:
+  - Code of Civil Procedure
+  - Litigation Guidelines
+  - Los Angeles County Superior Court Local Rules
+Citations:
+  - West Pico Furniture Co. v. Superior Court (1961) 56 Cal.2d 407
+  - Clement v. Alegre (2009) 177 Cal.App.4th 1277
+Roles:
+  - Judge: [Not specified]
+  - Plaintiff: [Not specified]
+  - Defendant: [Not specified]
+Significant Statements:
+  - "The court believes that the amount of $5490 is appropriate for all of the motions combined and such sanctions are therefore imposed on plaintiff, but not counsel."
+  - "The court notes that plaintiff will need to respond to form interrogatory 17.1 in the time frame set forth above to the extent that any requests for admission are not unqualifiedly admitted."
+```

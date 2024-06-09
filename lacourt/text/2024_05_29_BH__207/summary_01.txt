@@ -1,0 +1,71 @@
+Here is the summary in YAML format:
+
+```
+case_number: 23SMCV02556
+plaintiff: Sonya Daniels
+defendant: Body By Batal Cosmetic Surgery Center and Obaida Batal MD
+people:
+  - Sonya Daniels
+  - Obaida Batal MD
+  - Michael E. Whitaker
+companies:
+  - Body By Batal Cosmetic Surgery Center
+places:
+  - Tarzana, CA
+  - Ventura Blvd
+dates:
+  - April 2, 2024
+  - April 5, 2024
+  - May 5, 2024
+  - May 6, 2024
+  - May 7, 2024
+  - May 29, 2024
+events:
+  - Service of Request for Admissions
+  - Failure to respond to discovery
+  - Motion to deem admitted
+  - Request for sanctions
+money: $0
+intentions:
+  - Deem admitted
+  - Request for sanctions
+facts:
+  - Plaintiff served Defendants with Request for Admissions on April 2, 2024
+  - Defendants failed to respond to discovery
+  - Plaintiff lacked evidence of proper service
+  - Plaintiff's declaration was incomplete and unauthenticated
+  - Service address listed in proof of service was different from Defendants' address
+disputes:
+  - Plaintiff vs. Defendants
+  - Proper service of Request for Admissions
+  - Timely response to discovery
+  - Deeming admitted
+acts:
+  - Plaintiff served Request for Admissions on Defendants
+  - Plaintiff filed motion to deem admitted
+  - Plaintiff requested sanctions
+  - Judge denied motion
+agreements:
+  - Code of Civil Procedure section 2033.280
+  - Code of Civil Procedure section 1013
+  - Code of Civil Procedure section 1010.6
+laws:
+  - California Code of Civil Procedure
+statutes:
+  - California Code of Civil Procedure section 2033.280
+  - California Code of Civil Procedure section 1013
+  - California Code of Civil Procedure section 1010.6
+roles:
+  - Judge: Michael E. Whitaker
+  - Plaintiff: Sonya Daniels
+  - Defendant: Body By Batal Cosmetic Surgery Center and Obaida Batal MD
+significant statements:
+  - Plaintiff's evidence was insufficient to demonstrate proper service
+  - Plaintiff's declaration was incomplete and unauthenticated
+  - Judge denied motion to deem admitted
+  - Judge denied request for sanctions
+```
+
+And here is the English-text summary:
+
+The judge, Michael E. Whitaker, issued a tentative ruling in a case between Sonya Daniels (Plaintiff) and Body By Batal Cosmetic Surgery Center and Obaida Batal MD (Defendants). The Plaintiff moved to deem admitted the matters specified in Requests for Admission, Set one (RFA) and for sanctions. The Motion was unopposed. The judge found that the Plaintiff failed to provide sufficient evidence of proper service and that the supporting documents were incomplete and unauthenticated. The judge denied the motion to deem admitted and the request for sanctions.

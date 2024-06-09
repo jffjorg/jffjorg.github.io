@@ -1,0 +1,57 @@
+Here is the summary of the Judge's tentative ruling in YAML format:
+
+```
+case_number: 21STCV10542
+hearing_date: 2024-05-29
+dept: T
+motion: Defendant's Motion for Summary Judgment
+party: Defendant Postmates, LLC (f/k/a Postmates, Inc.)
+responding_party: Plaintiff Rafael Quijano
+ruling: GRANTED
+
+background:
+  - Plaintiff filed a complaint against Defendant and Mario Hernandez in March 2021
+  - Plaintiff's operative First Amended Complaint alleges negligence arising from a vehicle collision in March 2019
+
+dispute:
+  - Defendant moves for summary judgment, arguing there is no triable issue of material fact
+
+acts:
+  - Plaintiff was struck by a negligent third-party driver
+  - Defendant argues it had no duty to protect Plaintiff
+
+intentions:
+  - Defendant seeks to establish that it had no duty to protect Plaintiff
+
+facts:
+  - Plaintiff was not an authorized user of Defendant's platform
+  - Defendant had no knowledge of Plaintiff's unauthorized use of the platform
+  - Plaintiff failed to provide evidence of a special relationship or duty
+
+laws:
+  - California Civil Code section 1714
+  - Privette v. Superior Court (1993) 5 Cal.4th 689
+  - Sandoval v. Qualcomm Incorporated (2021) 12 Cal.5th 256
+
+citations:
+  - California Rules of Court, rule 2.550(d)
+  - Code of Civil Procedure section 437c(c)
+  - Code of Civil Procedure section 437c(p)
+  - Code of Civil Procedure section 452(d)
+  - Evid. Code, section 1714
+  - Romero v. Superior Court (2001) 89 Cal.App.4th 1068, 1080
+
+roles:
+  - Plaintiff: Rafael Quijano
+  - Defendant: Postmates, LLC (f/k/a Postmates, Inc.)
+  - Mario Hernandez: allegedly used his credentials to create an account on Defendant's platform
+
+significant_statements:
+  - "The moving party must make an affirmative showing that they are entitled to judgment as a matter of law."
+  - "The initial burden is always on the moving party to make a prima facie showing that there are no triable issues of material fact."
+  - "A party who moves for summary judgment because it did not owe a duty of care must affirmatively negate the existence of duty."
+```
+
+And here is a brief summary of the Judge's tentative ruling in English:
+
+The Judge has granted Defendant Postmates, LLC's motion for summary judgment, finding that there is no triable issue of material fact and that Defendant owed no duty to Plaintiff Rafael Quijano. The Judge found that Plaintiff failed to provide evidence of a special relationship or duty between the parties, and that Defendant had no knowledge of Plaintiff's unauthorized use of the platform. The Judge also found that Defendant had no duty to protect Plaintiff under the Privette doctrine, as Defendant did not retain control over how deliveries were made and Plaintiff was an independent contractor.

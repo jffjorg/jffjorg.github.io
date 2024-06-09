@@ -1,0 +1,79 @@
+Here is the summary in YAML format:
+
+```
+case_number: 20STCV39408
+plaintiff_name: Edward Lopez
+defendant_name: The California Department of Transportation
+people_names: 
+  - Maria Raptis
+  - Steve Scott
+  - Christian Engelmann
+  - Michelle L. Han
+  - Luis Monterrubio
+  - Kay Greeley
+  - Kevin M. Davis
+company_names: 
+  - The California Department of Transportation
+places: 
+  - Los Angeles
+  - Interstate 5
+  - Glendale Boulevard
+  - Hyperion Avenue
+dates: 
+  - October 13, 2020
+  - March 26, 2020
+  - September 23, 2019
+  - September 10, 2019
+  - September 11, 2019
+events: 
+  - Vehicle crash
+  - Tree falling
+  - Inspection
+  - Maintenance
+  - Tree inspection
+  - Defective tree removal
+  - IMMS Work Order Report
+  - TRAQ inspection
+money: 
+  - None mentioned
+intention: 
+  - To determine if the defendant is liable for the plaintiff's injuries
+facts: 
+  - The plaintiff was injured in a vehicle crash caused by a tree falling on the highway
+  - The defendant claims it had no actual or constructive notice of the dangerous condition
+  - The plaintiff argues the defendant should have inspected the trees more frequently
+  - The defendant claims it has a database of maintenance records and inspections
+  - The plaintiff claims the defendant's tree inspectors are not properly trained
+  - The defendant claims it has a system for addressing defective trees
+disputes: 
+  - Whether the defendant had actual or constructive notice of the dangerous condition
+  - Whether the defendant's employee created the dangerous condition
+  - Whether the design of the freeway was in a dangerous condition
+acts: 
+  - The plaintiff filed a complaint alleging negligence and dangerous condition of public property
+  - The defendant moved for summary judgment
+  - The plaintiff opposed the motion
+  - The defendant replied to the opposition
+  - The court granted the defendant's motion for summary judgment
+agreements: 
+  - None mentioned
+laws: 
+  - Government Code section 835
+  - Government Code section 830.2
+  - Government Code section 830.6
+statutes: 
+  - Government Code section 835
+  - Government Code section 830.2
+  - Government Code section 830.6
+roles: 
+  - Judge
+  - Plaintiff
+  - Defendant
+  - Attorney
+significant_statements: 
+  - "The defendant claims it had no actual or constructive notice of the dangerous condition."
+  - "The plaintiff argues the defendant should have inspected the trees more frequently."
+  - "The defendant claims it has a database of maintenance records and inspections."
+```
+
+Let me know if you'd like me to clarify or expand on this summary!

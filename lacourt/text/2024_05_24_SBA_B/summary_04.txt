@@ -1,0 +1,42 @@
+Here is the summary in YAML format:
+
+```
+---
+Case Number: "Not specified"
+Plaintiff's Name: "Not specified"
+Defendant's Name: "Jay F. Mannino", "JFM Family Holdings LP"
+People-Names: "Jay F. Mannino"
+Company-Names: "JFM Family Holdings LP"
+Places: "Delaware"
+Dates:
+  - January 26, 2009
+Events:
+  - Filing of Complaint
+  - Filing of Answer
+Money: None mentioned
+Intentions: To clarify issues related to defendants' representation and capacity
+Facts:
+  - Jay F. Mannino is trustee of the Jay F. Mannino Trust
+  - JFM Family Holdings LP is a Delaware limited partnership
+Disputes:
+  - Unclear representation of defendants
+  - Unclear capacity of Jay F. Mannino in the suit
+Acts:
+  - Filing of Complaint
+  - Filing of Answer
+Agreements: None mentioned
+Laws: None mentioned
+Statutes: None mentioned
+Case Citations: None mentioned
+Roles:
+  - Judge: [The Court]
+  - Attorneys: representing defendants
+  - Parties: Plaintiff(s), Defendant(s)
+Significant Statements:
+  - The Court did not see JFM Family Holdings LP as a party to the suit
+  - The Court did not see Jay F. Mannino sued in individual capacity
+```
+
+And here is the English-text summary:
+
+The judge is requesting clarification on several issues related to the defendants' representation and capacity. The answer to the complaint lists JFM Family Holdings LP as a defendant, but the court did not see this party as a party to the suit. Additionally, the answer identifies the attorneys for the defendants, but it is unclear if Jay F. Mannino is being sued in his individual capacity or as a trustee. The court is asking these issues to be clarified.

@@ -1,0 +1,69 @@
+Here is the summary in YAML format:
+
+```
+---
+case_number: 21STCV27987
+plaintiff: Cynthia Hopes
+defendant: Costco Wholesale Corporation
+people:
+  - Cynthia Hopes
+  - Judge Lisa Jaskol
+  - Breuer
+company-names:
+  - Costco Wholesale Corporation
+places:
+  - Court
+  - Residence of examinee
+  - Location within 75 miles
+dates:
+  - January 30, 2024
+  - February 23, 2024
+  - March 21, 2024
+  - May 6, 2024
+  - May 15, 2024
+  - May 22, 2024
+  - May 29, 2024
+events:
+  - Granting of motion to reopen discovery
+  - Filing of motion to compel
+  - Filing of opposition
+  - Filing of reply
+  - Ruling on motion to compel
+money: $0
+intentions:
+  - To compel plaintiff's second independent medical examination
+facts:
+  - Plaintiff seeks recovery for personal injuries
+  - Defendant may demand one physical examination of the plaintiff
+  - Examination must be conducted at a location within 75 miles of the residence of the examinee
+disputes:
+  - Whether Costco has met and conferred with plaintiff's counsel in good faith
+acts:
+  - Costco filed a motion to compel
+  - Plaintiff filed an opposition
+  - Costco filed a reply
+  - Court granted motion to reopen discovery
+  - Court denied motion to compel without prejudice
+agreements:
+  - Code of Civil Procedure § 2032.220
+  - Code of Civil Procedure § 2032.310
+laws:
+  - Code of Civil Procedure
+  - California Civil Code
+citations:
+  - Code Civ. Proc. § 2032.220
+  - Code Civ. Proc. § 2032.310
+  - Code Civ. Proc. § 20160.040
+roles:
+  - Judge
+  - Plaintiff
+  - Defendant
+  - Counsel
+significant-statements:
+  - Costco failed to meet and confer with plaintiff's counsel in good faith
+  - Court denied motion to compel without prejudice
+```
+
+And here is the English-text summary:
+
+The judge has denied Costco's motion to compel plaintiff Cynthia Hopes' second independent medical examination. Costco filed the motion on February 23, 2024, but it was taken off-calendar on March 21, 2024. On May 6, 2024, Costco re-noticed the motion, and on May 15, 2024, the plaintiff filed an opposition. On May 22, 2024, Costco filed a reply. The court found that Costco failed to meet and confer with the plaintiff's counsel in good faith, as required by California law. As a result, the court denied the motion without prejudice.

@@ -1,0 +1,57 @@
+Here is the YAML representation of the tentative ruling:
+
+```
+Case Number: 22STCV39533
+Plaintiff's Name: Justin Biggers
+Defendant's Name: Ralphs Grocery Company, ET AL
+People-Names:
+  - Justin Biggers
+  - Michelle C. Kim
+Company-Names:
+  - Ralphs Grocery Company
+  - The Kroger Co
+  - American Guard Services
+Places:
+  - Los Angeles
+  - California
+Dates:
+  - March 15, 2024
+  - May 23, 2024
+  - May 24, 2024
+Events:
+  - Filing of complaint
+  - Filing of cross-complaint
+  - Motion for terminating sanctions
+  - Dismissal of complaint
+Money:
+  - Not applicable
+Intentions:
+  - Dispute resolution
+Facts:
+  - Plaintiff failed to comply with discovery orders
+  - Plaintiff was absent from the case
+Disputes:
+  - Dispute over compliance with discovery orders
+Acts:
+  - Filing of motion for terminating sanctions
+  - Dismissal of complaint
+Agreements:
+  - None
+Laws:
+  - CCP section 2023.030
+Case Citations:
+  - None
+Statutes:
+  - CCP section 2023.030
+Roles:
+  - Judge: Michelle C. Kim
+  - Plaintiff: Justin Biggers
+  - Defendant: Ralphs Grocery Company
+Significant Statements:
+  - "As Plaintiff has been absent, he has not complied with any prior discovery orders imposed by the Court."
+  - "Based on the foregoing, AGS' motion for terminating sanctions against Plaintiff's complaint is therefore GRANTED."
+```
+
+And here is the English-text summary of the judge's tentative ruling:
+
+The judge, Hon. Michelle C. Kim, has granted American Guard Services' (AGS) motion for terminating sanctions against Justin Biggers' complaint. The judge has dismissed the complaint due to Biggers' failure to comply with discovery orders and his absence from the case. According to CCP section 2023.030, the court may impose terminating sanctions against anyone engaging in conduct that is a misuse of the discovery process. Since Biggers has not complied with any prior discovery orders, the court has granted AGS' motion and dismissed the complaint.

@@ -1,0 +1,81 @@
+Here is the summary in YAML format:
+
+```
+---
+case_number: "Tentative Ruling"
+plaintiff_name: "Mercedes-Benz Financial Services USA LLC (as servicer for Daimler Trust)"
+defendant_name: "Jeffrey David Benton, Pendulum Studios LA LLC, California Auto Crafters"
+people_names:
+  - Rebecca A. Caley
+  - Christopher M. Domin
+  - Kristina Kelley
+company_names:
+  - Mercedes-Benz Financial Services USA LLC
+  - Pendulum Studios LA LLC
+  - California Auto Crafters
+places:
+  - Los Angeles
+  - Orange
+  - Riverside
+dates:
+  - April 5, 2021
+  - February 15, 2024
+  - October 5, 2023
+  - February 15, 2024
+  - April 12, 2024
+  - May 10, 2024
+  - May 21, 2024
+events:
+  - Breach of Contract
+  - Common Count
+  - Claim & Delivery
+  - Conversion
+  - Summary Judgment
+  - Motion for Attorneys' Fees
+money:
+  - $14,388.42
+  - $47,119.00
+  - $1,196.15
+  - $48,315.15
+intentions:
+  - To determine the prevailing party's entitlement to attorneys' fees and costs
+facts:
+  - Plaintiff filed a Complaint against the Defendants
+  - Plaintiff incurred attorneys' fees and costs over a four-year period
+  - Plaintiff is seeking attorneys' fees and costs against Defendant Pendulum
+disputes:
+  - Breach of Contract
+  - Common Count
+  - Claim & Delivery
+  - Conversion
+  - Attorneys' Fees
+  - Costs
+acts:
+  - Filing a Complaint
+  - Filing a Summary Judgment
+  - Incuring attorneys' fees and costs
+  - Filing a Motion for Attorneys' Fees
+agreements:
+  - Lease Agreement providing for attorneys' fees and costs
+laws:
+  - California Code of Civil Procedure section 1032
+  - California Code of Civil Procedure section 1033.5
+  - California Civil Code section 1717
+  - California Code of Civil Procedure section 1033.5
+statutes:
+  - California Code of Civil Procedure section 1032
+  - California Code of Civil Procedure section 1033.5
+  - California Civil Code section 1717
+roles:
+  - Plaintiff: Mercedes-Benz Financial Services USA LLC
+  - Defendant: Pendulum Studios LA LLC
+  - Judge: [Judge's Name]
+significant_statements:
+  - The Plaintiff is the prevailing party in this matter
+  - The Plaintiff is entitled to attorneys' fees and costs against Defendant Pendulum
+  - The attorneys' fees and costs incurred by the Plaintiff over the past four years are reasonable
+```
+
+And here is the English-text summary:
+
+The judge's tentative ruling grants the Plaintiff's Motion for Attorneys' Fees against Defendant Pendulum Studios LA LLC in the amount of $48,315.15, including costs. The Plaintiff, Mercedes-Benz Financial Services USA LLC, is the prevailing party in this matter and is entitled to attorneys' fees and costs. The attorneys' fees and costs incurred by the Plaintiff over the past four years are reasonable. The Plaintiff incurred attorneys' fees for drafting demand letters, attempting communications, drafting the complaint, and preparing for hearings. The hourly rates of the Plaintiff's counsel are reasonable based on comparable rates charged by attorneys of like experience and skill in Los Angeles, Orange, and Riverside counties. The Lease Agreement provides for attorneys' fees and costs to be paid to the Plaintiff for taking action on Defendant's default under the contract.

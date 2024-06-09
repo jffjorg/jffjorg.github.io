@@ -1,0 +1,53 @@
+Here is a summary of the tentative ruling in YAML format:
+
+```
+Case:
+  Number: 23STCV15649
+  Hearing Date: May 24, 2024
+  Department: 50
+  Court: Superior Court of California
+  County: Los Angeles
+
+Parties:
+  Plaintiffs:
+    - Lucie Noon
+    - Hugo Batres
+    - Haroldo Batres
+    - Rigoberto Mena
+    - Tolentino Sales
+  Defendants:
+    - Fermin M. Fuentes
+    - Jeanette De Angel
+
+Claims:
+  - Wrongful eviction (1st cause of action)
+  - Breach of covenant of quiet enjoyment (tort) (2nd cause of action)
+  - Breach of covenant of quiet enjoyment (statute) (3rd cause of action)
+  - Intentional infliction of emotional distress (4th cause of action)
+  - Violation of Welfare and Institutions Code section 15610.30 (5th cause of action)
+  - Forcible entry (6th cause of action)
+  - Forcible detainer (7th cause of action)
+  - Violation of Civil Code section 1950.5 (8th cause of action)
+  - Fraud (9th cause of action)
+  - Violation of Unfair Competition Law (11th cause of action)
+
+Ruling:
+  - Granting of motion to strike:
+    + 1st cause of action: Yes
+    + 2nd cause of action: Yes
+    + 3rd cause of action: Yes
+    + 4th cause of action: Yes
+    + 5th cause of action: Yes
+    + 6th cause of action: Yes
+    + 7th cause of action: Yes
+    + 9th cause of action: Yes
+    + 10th cause of action: Yes
+    + 11th cause of action: Yes
+  - Denial of motion to strike:
+    + 8th cause of action: No
+
+Notes:
+  - The court finds that the motion to strike is granted as to all causes of action except the 8th cause of action.
+  - The court orders Fuentes to provide notice of this Order.
+  - The court denies Plaintiffs' request for attorney's fees under Code of Civil Procedure section 425.16, subdivision (c)(1) as the motion to strike is not found to be frivolous.
+```

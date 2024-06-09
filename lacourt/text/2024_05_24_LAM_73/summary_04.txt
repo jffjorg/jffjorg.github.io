@@ -1,0 +1,58 @@
+Here is a summary of the Judge's tentative ruling in YAML format:
+
+```
+case_number: 22STCV16106
+hearing_date: 2024-05-24
+dept: 73
+judge: Hon. Rolf Treu
+
+parties:
+  - Plaintiff/Cross-Defendant: Homeland Insurance Company of New York
+  - Defendant/Cross-Complainant: Wesco Insurance Company
+  - Former Defendant: Westchester Surplus Lines Insurance Company (dismissed)
+
+events:
+  - Motion to Amend Complaint (filed 2024-04-25)
+  - Motion to Stay (filed 2024-05-01)
+
+ruling:
+  - Homeland's motion to amend the first amended complaint is GRANTED.
+  - Homeland is ordered to file the proposed First Amended Complaint in ten (10) days.
+  - Wesco's motion to stay is GRANTED.
+
+facts:
+  - This is an insurance coverage dispute between insurance carriers.
+  - The dispute involves commercial general liability policies issued to the same insured, Permacity Construction Corp.
+  - A lawsuit was filed against Permacity Construction Corp. in 2018.
+  - Homeland Insurance Company of New York filed this action against Wesco and Westchester seeking declaratory relief.
+  - Wesco filed a cross-complaint against Homeland.
+
+intentions:
+  - Homeland seeks to amend its complaint to include a contribution cause of action and an equitable indemnity claim.
+  - Wesco seeks to stay the action until the underlying case is fully resolved.
+
+disputes:
+  - The main dispute is over the amount of defense costs that Wesco is obligated to pay to Homeland.
+  - Wesco argues that Homeland unduly delayed in seeking to amend its complaint and that Wesco will be prejudiced by the amendment.
+  - Homeland argues that the amendment is necessary and proper and that judicial economy favors resolution of all disputed matters in the same lawsuit.
+
+laws:
+  - Evid. Code § 452
+  - Code Civ. Proc., § 473
+  - Code Civ. Proc., § 576
+  - Cal. Rules of Court, rule 3.1324
+
+case_citations:
+  - Aerojet-General Corp. v. Transport Indem. Co. (1997) 17 Ca1.4th 38
+  - Hirsa v. Super. Ct. (1981) 118 Cal.App.3d 486
+  - Lincoln Property Co., 137 Cal.App.4th 916
+  - Kittredge Sports Co., 213 Cal.App.3d 1047
+  - Stepan v. Garcia (1974) 43 Cal.App.3d 497
+
+statutes:
+  - Cal. Rules of Court, rule 3.1324
+
+roles:
+  - Judge: Hon. Rolf Treu
+  - Counsel for Plaintiff/Cross-Defendant: Christian Jones, Sara Menton, David Boren
+  - Counsel for Defendant/Cross-Complainant: Christopher Hicks

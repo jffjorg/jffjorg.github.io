@@ -1,0 +1,81 @@
+Here is the YAML summary:
+
+```yaml
+case_number: 24GDCV00017
+plaintiff: Audi Financial Services
+defendant: Hovhannes A. Baghdasaryan
+people:
+  - Hovhannes A. Baghdasaryan
+  - Lucy Perez
+company-names:
+  - Audi Financial Services
+  - Audi Calabasas
+places:
+  - Glendale, CA
+  - Los Angeles, CA
+dates:
+  - January 4, 2024 (Complaint filed)
+  - February 29, 2024 (Proof of Service filed)
+  - May 6, 2023 (Defendant defaulted on payments)
+  - January 6, 2023 (Payments commenced)
+  - December 6, 2028 (Final payment due)
+events:
+  - Breach of Contract
+  - Claim and Delivery
+  - Application for Writ of Possession
+  - Hearing
+  - Service of Summons and Complaint
+  - Proof of Service of Summons and Complaint
+  - Application for Writ of Possession and Hearing
+  - Tentative Ruling
+money:
+  - $1,361.18 (monthly installment payment)
+  - $77,206.08 (amount due and owing)
+  - $61,841.00 (wholesale value of Vehicle)
+  - $71,647.00 (retail value of Vehicle)
+  - $71,647.00 (undertaking required)
+intentions:
+  - Plaintiff seeks a Writ of Possession to recover possession of the Vehicle
+  - Defendant seeks to avoid returning the Vehicle
+facts:
+  - Defendant defaulted on payments
+  - Plaintiff accelerated the amount due and owing
+  - Plaintiff seeks to repossess the Vehicle
+  - Defendant has no interest in the Vehicle
+disputes:
+  - Whether Plaintiff properly served the application for Writ of Possession
+  - Whether Defendant has an interest in the Vehicle
+acts:
+  - Plaintiff filed a Complaint and Summons
+  - Plaintiff filed an Application for Writ of Possession and Hearing
+  - Defendant failed to respond to the Complaint
+  - Plaintiff served the Proof of Service of Summons and Complaint
+  - Plaintiff failed to serve the application for Writ of Possession
+agreements:
+  - Retail Installment Sale Contract Simple Interest Finance Charge Agreement
+  - Conditional Sales Contract
+laws:
+  - California Code of Civil Procedure (CCP)
+  - Code of Civil Procedure, Section 512.010
+  - Code of Civil Procedure, Section 512.030
+  - Code of Civil Procedure, Section 512.060
+  - Code of Civil Procedure, Section 515.010
+  - Code of Civil Procedure, Section 515.020
+case-citations:
+  - Code Civ. Proc., § 511.090
+  - CCP § 512.010
+  - CCP § 512.030
+  - CCP § 512.060
+  - CCP § 515.010
+  - CCP § 515.020
+roles:
+  - Plaintiff: Audi Financial Services
+  - Defendant: Hovhannes A. Baghdasaryan
+  - Agent: Lucy Perez
+significant-statements:
+  - The Court tentatively plans to deny this application for Writ of Possession based on Plaintiff failing to serve a copy of the application under CCP § 512.030(a)(3).
+```
+
+And here is the English text summary:
+
+The case is about Audi Financial Services (Plaintiff) seeking a Writ of Possession to recover possession of a Vehicle from Hovhannes A. Baghdasaryan (Defendant) who defaulted on payments. The Plaintiff filed a Complaint and Summons, and Plaintiff's Agent, Lucy Perez, prepared a declaration supporting the application for Writ of Possession. The Court tentatively plans to deny the application because the Plaintiff failed to serve a copy of the application as required by CCP § 512.030(a)(3). The Court requests the Plaintiff to come forward with a proof of service of the application.

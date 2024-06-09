@@ -1,0 +1,63 @@
+Here is a summary of the Tentative Ruling in YAML format:
+
+```
+case_number: 23STCV14998
+hearing_date: May 24, 2024
+dept: 71
+plaintiff: Larisha Perkins et al.
+defendant: 600 Tower, LLC et al.
+fpi_management: FPI Management, Inc.
+
+intents:
+  - compel further responses to special interrogatories
+  - award sanctions
+
+facts:
+  - FPI Management, Inc. propounded special interrogatories on February 6, 2024
+  - Plaintiff served responses on March 1, 2024
+  - Defendant filed motion to compel on April 14, 2024
+  - Plaintiff filed opposition on May 3, 2024
+
+disputes:
+  - boilerplate objections
+  - incomplete or evasive responses
+  - failure to provide code-compliant responses
+
+acts:
+  - Defendant filed motion to compel
+  - Plaintiff filed opposition
+  - Defendant filed reply
+
+agreements:
+  - Plaintiff is ordered to provide responsive answers to special interrogatories
+  - Defendant's request for sanctions is granted in the amount of $3,031.75
+
+laws:
+  - C.C.P. §2017.010
+  - C.C.P. §2030.220(a)
+  - C.C.P. §2030.300(d)
+  - C.C.P. §2023.030
+
+citations:
+  - Williams v. Superior Court (2017)
+  - Moore v. Mercer (2016)
+  - Bridgestone/Firestone, Inc. v. Superior Court (1992)
+  - Stewart v. Colonial Western Agency, Inc. (2001)
+  - Korea Data Systems Co. v. Superior Court (1997)
+  - In re Jeanette H. (1990)
+  - Deyo v. Kilbourne (1978)
+
+roles:
+  - Judge
+  - Plaintiff's counsel
+  - Defendant's counsel
+
+significant statements:
+  - Boilerplate objections are inappropriate and grounds for sanctions
+  - Failure to provide code-compliant responses is improper
+  - Sanctions are payable by Plaintiff within 20 days
+```
+
+And here is a summary of the Tentative Ruling in English text:
+
+The Tentative Ruling granted Defendant FPI Management, Inc.'s motion to compel further responses to special interrogatories (Set One) from Plaintiff Larisha Perkins. The Plaintiff is ordered to provide code-compliant responses without boilerplate objections within 20 days. Additionally, Defendant's request for sanctions against Plaintiff is granted in the amount of $3,031.75, payable by Plaintiff within 20 days. Plaintiff's request for sanctions against Defendant is denied.

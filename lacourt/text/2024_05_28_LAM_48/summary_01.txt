@@ -1,0 +1,60 @@
+Here is a summary of the tentative ruling in YAML format:
+
+```
+---
+case_number: 19STLC08619
+plaintiff: Consumer Advocacy Group, Inc.
+defendant: Williams-Sonoma, Inc., et al.
+people:
+  - Reuben Yeroushalmi
+companies:
+  - Santa Williams-Sonoma Inc.
+  - Trader Joe's Company
+  - Trader Joe's East Inc.
+places:
+  - Los Angeles County
+dates:
+  - September 18, 2019
+  - January 21, 2020
+  - May 1, 2024
+  - May 28, 2024
+events:
+  - Pre-suit notice
+  - Prop 65 action
+  - Motion for judgment on the pleadings
+money:
+  - None mentioned
+intentions:
+  - Compliance with Prop 65 notice requirements
+  - Curing of alleged violations
+facts:
+  - Failure to identify a responsible individual within the noticing entity
+  - Non-compliance with Prop 65 notice requirements
+disputes:
+  - Strict compliance vs. substantial compliance with notice requirements
+  - Identification of responsible individual within the noticing entity
+acts:
+  - Pre-suit notice
+  - Prop 65 action
+  - Motion for judgment on the pleadings
+agreements:
+  - Prop 65 notice requirements
+  - Statute of limitations
+laws:
+  - California Code of Regulations, Title 27, Section 25903
+  - Health and Safety Code, Section 25249.7
+statutes:
+  - California Code of Regulations, Title 27, Section 25903
+  - Health and Safety Code, Section 25249.7
+roles:
+  - Reuben Yeroushalmi (agent of Plaintiff)
+  - Consumer Advocacy Group, Inc. (Plaintiff)
+  - Santa Williams-Sonoma Inc., Trader Joe's Company, and Trader Joe's East Inc. (Defendants)
+significant statements:
+  - "Strict compliance is required for the contents of the pre-suit notice"
+  - "The Court finds that the pre-suit notice requirements that are the subject of this motion are identified in a detailed and specific mandate"
+```
+
+And here is a summary of the judge's tentative ruling in English text:
+
+The court has granted the defendants' motion for judgment on the pleadings, finding that the plaintiff's pre-suit notice failed to comply with the requirements of California Code of Regulations, Title 27, Section 25903. The court held that the notice must identify a responsible individual within the noticing entity, and that the plaintiff's notice did not meet this requirement. The court also noted that the plaintiff's notice did not substantially comply with the requirements of the statute, and that the court must strictly construe the statute's requirements. The court granted the motion for judgment on the pleadings, dismissing the action.

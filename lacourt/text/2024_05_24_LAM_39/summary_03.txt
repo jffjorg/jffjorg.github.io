@@ -1,0 +1,61 @@
+Here is the summary in YAML format:
+
+```
+case_number: BC396756
+plaintiff_name: Pricaspian Development Corporation
+defendant_name: Florian Hamm
+people_names:
+  - Florian Hamm
+  - R. Jeffrey Neer
+company_names:
+  - Pricaspian Development Corporation
+places:
+  - California
+dates:
+  - January 6, 2012
+  - May 24, 2024
+events:
+  - Default judgment
+  - Motion to set aside default judgment
+  - Service by publication
+  - Declaration in support of service
+money:
+  - Not mentioned
+intentions:
+  - Set aside default judgment
+  - Determine validity of service by publication
+facts:
+  - Service by publication was improper
+  - Plaintiff failed to prove damages exceed the record before the court
+  - Defendant failed to raise objection to service within two years
+  - Declaration in support of service was defective
+disputes:
+  - Validity of service by publication
+  - Validity of default judgment
+acts:
+  - Plaintiff served defendant by publication
+  - Defendant contended service was improper
+  - Plaintiff failed to prove damages
+  - Defendant failed to raise objection to service within two years
+agreements:
+  - Code of Civil Procedure, Section 415.50
+  - Code of Civil Procedure, Section 473.5
+  - Harris v. Cavasso
+  - Kremerman v. White
+  - Lovato v. Santa Fe Internat. Corp.
+  - Olvera v. Olvera
+  - Rogers v. Silverman
+  - Stiles v. Wallis
+roles:
+  - Judge
+  - Plaintiff
+  - Defendant
+  - Counsel
+significant_statements:
+  - The default judgment is void if plaintiff did not properly serve defendant
+  - The court grants the motion to set aside the default and default judgment as void
+```
+
+And here is the English-text summary:
+
+The judge's tentative ruling grants the defendant's motion to set aside the default judgment. The defendant, Florian Hamm, was served by publication, but contends that the service was improper. The plaintiff, Pricaspian Development Corporation, failed to prove damages exceed the record before the court and did not select the most likely newspaper to provide actual notice to the defendant. The declaration in support of service was also defective, as it lacked personal knowledge of the underlying facts. The court finds that the default judgment is void and grants the motion to set aside the judgment.

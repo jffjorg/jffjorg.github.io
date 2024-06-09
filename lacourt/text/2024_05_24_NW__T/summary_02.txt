@@ -1,0 +1,75 @@
+Here is the summary in YAML format:
+
+```
+case_number: 23VECV01030
+hearing_date: May 24, 2024
+dept: T
+plaintiff: Plaintiff
+defendants:
+  - Justin Bubion
+  - Legacy Partners, Inc.
+  - Deanna Obrien
+  - Steven Lenard Sapp
+people:
+  - Justin Bubion
+  - Deanna Obrien
+  - Steven Lenard Sapp
+  - Jonathan Kyle Dupree
+  - Ashan K. Peiris
+companies:
+  - Legacy Partners, Inc.
+places:
+  - California
+dates:
+  - March 18, 2024
+  - March 25, 2024
+  - April 22, 2024
+events:
+  - Motion to Compel Further Discovery Responses
+  - Motion to Compel Further Verified Responses
+  - Motion to Enforce Court's Order
+money:
+  - $591.75
+  - $341.75
+  - $91.50
+intentions:
+  - To compel further discovery responses
+  - To enforce court's order
+facts:
+  - Plaintiff filed multiple motions to compel further discovery responses
+  - Defendant failed to provide adequate responses to discovery requests
+  - Court granted some requests for production and denied others
+  - Court sustained some objections to requests for admissions
+  - Plaintiff and defendants prevailed in part on their motions/oppositions
+disputes:
+  - Plaintiff and defendants disputed the scope of discovery requests
+  - Plaintiff and defendants disputed the adequacy of responses to discovery requests
+acts:
+  - Plaintiff filed multiple motions to compel further discovery responses
+  - Defendant failed to provide adequate responses to discovery requests
+  - Court granted some requests for production and denied others
+agreements:
+  - Court ordered parties to provide further responses to discovery requests
+  - Court ordered parties to admit or deny certain facts
+laws:
+  - California Code of Civil Procedure section 2031.020 et seq.
+  - California Evidence Code section 140
+  - California Rule of Court section 3.1345
+citations:
+  - CCP section 2031.020
+  - CCP section 2031.030
+  - CRC section 3.1345
+roles:
+  - Judge: [Name]
+  - Plaintiff: [Name]
+  - Defendant: [Name]
+significant_statements:
+  - Court granted some requests for production and denied others
+  - Court sustained some objections to requests for admissions
+  - Court ordered parties to provide further responses to discovery requests
+  - Court ordered parties to admit or deny certain facts
+```
+
+And here is a summary of the judge's tentative ruling in English text:
+
+The court has issued a tentative ruling on multiple motions to compel further discovery responses. The court has granted some requests for production and denied others, finding that some requests are overbroad, burdensome, or harassing. The court has also sustained some objections to requests for admissions, finding that some requests are vague, irrelevant, or invasive of privacy. The court has ordered parties to provide further responses to discovery requests and to admit or deny certain facts. The court has denied one motion to enforce a court order, finding that the motion was not accompanied by a required separate statement. The court has ordered monetary sanctions in the amount of $591.75 against one defendant and has denied other requests for monetary sanctions.

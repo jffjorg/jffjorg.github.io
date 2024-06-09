@@ -1,0 +1,56 @@
+Here is a summary of the tentative ruling in YAML format:
+
+```
+case_number: 23CMCV00292
+plaintiff: Leticia Guadalupe Lezama
+defendant: Carl Jr. Gutierrez, et al.
+people:
+  - Elizabeth Lezama
+  - Leticia Guadalupe Lezama
+  - Carl Jr. Gutierrez
+company: Carl Jr.
+places:
+  - California
+dates:
+  - March 5, 2024
+  - June 10, 2024
+  - June 24, 2024
+  - May 28, 2024
+events:
+  - Automobile accident
+  - Deposition subpoena
+  - Deposition
+  - Request for sanctions
+money:
+  - $1,060.00
+intentions:
+  - To compel compliance with deposition subpoena
+  - To deny request for sanctions
+facts:
+  - Elizabeth Lezama, a non-party witness, refused to appear for deposition
+  - Witness claims to be 19-year-old full-time student helping mother
+disputes:
+  - Witness refusal to appear for deposition
+  - Request for sanctions
+acts:
+  - Deposition subpoena served on non-party witness
+  - Witness refusal to appear for deposition
+  - Request for sanctions by defendants
+agreements:
+  - Code Civ. Proc., §2020.010(a)(1)
+  - Code Civ. Proc., §2020.220(c)(1)
+  - Code Civ. Proc., §1987.1
+laws:
+  - California Code of Civil Procedure
+roles:
+  - Plaintiff (Leticia Guadalupe Lezama)
+  - Defendant (Carl Jr. Gutierrez, et al.)
+  - Witness (Elizabeth Lezama)
+significant statements:
+  - Witness may be punished for contempt of court if fails to comply with deposition subpoena
+  - Failure to comply with deposition subpoena may result in imposition of monetary sanctions
+```
+
+And here is a summary of the tentative ruling in English text:
+
+The tentative ruling grants the defendants' motion to compel compliance with the deposition subpoena and denies their request for monetary sanctions. The defendants served a deposition subpoena on Elizabeth Lezama, a non-party witness, to appear for testimony and produce records. The witness refused to appear for deposition, citing her age (19) and her role as a full-time student helping her mother who sustained an injury. The court finds that there is no evidence that the witness willfully refused to appear for deposition and therefore denies the defendants' request for sanctions. However, the court admonishes the witness that failure to comply with a deposition subpoena may be punished as contempt of court and imposition of monetary sanctions if the witness fails to appear.
