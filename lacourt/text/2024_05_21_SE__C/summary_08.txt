@@ -1,0 +1,71 @@
+Here is the summary in YAML format:
+
+```
+case_number: 23NWCV02287
+plaintiff: J.V.C. Truck Lines, Inc.
+defendant: E. Mishan & Sons., Inc.
+people:
+  - J.V.C. Truck Lines, Inc.
+  - E. Mishan & Sons., Inc.
+  - J.C.
+company_names:
+  - J.V.C. Truck Lines, Inc.
+  - E. Mishan & Sons., Inc.
+places:
+  - California
+dates:
+  - May 4, 2020
+  - May 31, 2022
+  - October 18, 2023
+  - December 15, 2023
+  - April 17, 2023
+  - January 18, 2024
+  - May 21, 2024
+events:
+  - Breach of contract
+  - Delivery of goods
+  - Payment
+  - Request for production of documents
+  - Request for special interrogatories
+  - Motion to compel
+  - Sanctions
+money:
+  - $1,122,378.88
+  - $1,170.00
+intentions:
+  - To compel production of documents
+  - To obtain sanctions
+facts:
+  - Defendant failed to pay amounts associated with delivery of goods
+  - Plaintiff served request for production of documents and special interrogatories
+  - No responses were received from defendant
+disputes:
+  - Failure to respond to discovery requests
+  - Failure to pay amounts owed
+acts:
+  - Plaintiff served discovery requests
+  - Defendant failed to respond to discovery requests
+  - Plaintiff brought motion to compel
+  - Court imposed sanctions on defendant
+agreements:
+  - Code of Civil Procedure sections 2031.020, 2030.020, 2031.030
+  - Civil Code section 1010.6
+laws:
+  - Code of Civil Procedure sections 2031.020, 2030.020, 2031.030, 2030.230, 2030.290
+  - Civil Code section 1010.6
+statutes:
+  - Code of Civil Procedure sections 2031.020, 2030.020, 2031.030, 2030.230, 2030.290
+  - Civil Code section 1010.6
+roles:
+  - Plaintiff: J.V.C. Truck Lines, Inc.
+  - Defendant: E. Mishan & Sons., Inc.
+  - Counsel: (defendant's counsel)
+significant_statements:
+  - Defendant failed to respond to discovery requests
+  - Court imposed sanctions on defendant
+  - Plaintiff's motion to compel was granted
+```
+
+And here is the English text summarizing the judge's tentative ruling:
+
+"This is a breach of contract action between J.V.C. Truck Lines, Inc. (Plaintiff) and E. Mishan & Sons., Inc. (Defendant) regarding the payment for delivery of goods from May 4, 2020 to May 31, 2022. The Plaintiff served a request for production of documents and special interrogatories on the Defendant, but no responses were received. The Court finds that the Plaintiff's motion to compel is MOOT, as the Defendant has provided responses to the special interrogatories and request for production of documents. Sanctions are imposed on the Defendant and their counsel in the reasonable sum of $1,170.00, payable within 60 days."

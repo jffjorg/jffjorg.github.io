@@ -1,0 +1,65 @@
+Here is the summary in YAML format:
+
+```
+Case Number: 23STCV06881
+Plaintiff's Name: Ilya Zhekharev
+Defendant's Name: Sunworld Dynasty US Holdings, LLC, dba SLS Hotel
+People-Names:
+  - Ilya Zhekharev
+  - Sunworld Dynasty US Holdings, LLC, dba SLS Hotel
+Company-Names:
+  - Sunworld Dynasty US Holdings, LLC
+  - Marriott International Inc.
+  - SBE Entertainment Group LLC
+Places:
+  - SLS Hotel
+Dates:
+  - March 29, 2023
+  - August 18, 2023
+  - April 4, 2024
+  - February 21, 2024
+  - March 20, 2024
+  - September 25, 2024
+  - May 21, 2024
+Events:
+  - Filing of the action
+  - Answer by Sunworld
+  - Motion for terminating sanctions
+  - Failure to comply with discovery orders
+  - Denial of terminating sanctions
+Intention:
+  - To impose terminating sanctions on the plaintiff
+  - To dismiss the case
+  - To deny the motion for terminating sanctions
+Facts:
+  - Plaintiff failed to comply with the February 21, 2024 order
+  - Plaintiff failed to provide verified code-compliant responses and produce documents
+  - Plaintiff failed to produce electronically stored information and/or other things requested
+Disputes:
+  - Failure to comply with discovery orders
+  - Failure to comply with the February 21, 2024 order
+  - Request for terminating sanctions
+Acts:
+  - Filing of the motion for terminating sanctions
+  - Filing of the motion to compel
+  - Failure to comply with discovery orders
+  - Failure to comply with the February 21, 2024 order
+  - Denial of the motion for terminating sanctions
+Agreements:
+  - Failure to comply with discovery orders
+  - Failure to comply with the February 21, 2024 order
+Laws:
+  - California Code of Civil Procedure section 2023.030
+  - California Code of Civil Procedure section 2031.300
+Roles:
+  - Judge: Makes the tentative ruling
+  - Plaintiff: Fails to comply with discovery orders
+  - Defendant: Sunworld Dynasty US Holdings, LLC, dba SLS Hotel
+  - Court: Denies the motion for terminating sanctions
+Significant Statements:
+  - "The Court DENIES Defendant Sunworld Dynasty US Holdings, LLC, dba SLS Hotel’s motion for terminating sanctions."
+  - "The Court finds that Sunworld has not shown that less severe sanctions would be ineffective in producing compliance with the discovery rules."
+  - "The Court concludes that the plaintiff has not complied with the February 21, 2024 order."
+```
+
+Note that some of the YAML fields, such as "People-Names" and "Company-Names", have been used to capture the relevant information from the document.

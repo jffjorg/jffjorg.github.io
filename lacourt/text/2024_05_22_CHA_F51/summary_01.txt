@@ -1,0 +1,47 @@
+Here is the summary in YAML format:
+
+```
+case_number: 23CHCV02332
+plaintiff: Samvel Aram Palchyants, Samvel Palchyants
+defendant: Adam Schwartz
+people:
+  - Samvel Aram Palchyants
+  - Samvel Palchyants
+  - Adam Schwartz
+company-names: []
+places:
+  - Los Angeles Superior Court
+dates:
+  - February 8, 2024 (motion filed)
+  - May 21, 2024 (tentative ruling)
+events:
+  - Motion to compel further discovery responses
+  - Request for sanctions
+money:
+  - $1322.50 (amount of sanctions)
+intentions:
+  - Compel plaintiff's further responses to defendant's interrogatories and requests for production
+  - Seek sanctions against plaintiff and/or his counsel
+facts:
+  - Plaintiff failed to respond fully to defendant's discovery requests
+disputes:
+  - Defendant seeks to compel further discovery responses from plaintiff
+  - Plaintiff has not responded fully to defendant's discovery requests
+acts:
+  - Defendant filed a motion to compel further discovery responses
+  - Plaintiff failed to respond fully to defendant's discovery requests
+agreements: []
+laws: []
+case-citations: []
+statutes: []
+roles:
+  - Moving party: Defendant Adam Schwartz
+  - Responding party: Plaintiffs Samvel Aram Palchyants and Samvel Palchyants
+significant-statements:
+  - The unopposed motion is granted, compelling plaintiff's further responses to defendant's discovery requests.
+  - A sanction of $1322.50 is granted, to be paid by plaintiff and/or his counsel within 20 days.
+```
+
+And here is the English-text summary:
+
+This tentative ruling grants the unopposed motion filed by Defendant Adam Schwartz to compel further discovery responses from Plaintiffs Samvel Aram Palchyants and Samvel Palchyants. The motion seeks to compel responses to defendant's Form Interrogatories and Request for Production of Documents. The court grants the motion, as the plaintiff has failed to respond fully to defendant's discovery requests. Additionally, the court grants a sanction of $1322.50 to be paid by plaintiff and/or his counsel within 20 days.

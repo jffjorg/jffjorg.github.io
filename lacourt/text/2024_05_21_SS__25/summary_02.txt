@@ -1,0 +1,59 @@
+Here is the summary in YAML format:
+
+```
+case_number: "Tentative Ruling for [Case Number]"
+plaintiff_name: "[Plaintiff's Name]"
+defendant_name: "[Defendant's Name]"
+people_names:
+  - Plaintiff
+  - Defendant
+company_names: []
+places:
+  - Spring Street Courthouse
+dates:
+  - 11/29/2023 (default entered)
+  - 04/07/2025 (non-jury trial)
+  - February 24, 2020 (Third Amended Standing Order)
+events:
+  - Default entered against defendants
+  - Non-jury trial scheduled
+  - Parties to comply with trial requirements
+money: []
+intentions:
+  - To grant defendants' motion to set aside/vacate default
+  - To schedule non-jury trial
+  - To comply with trial requirements
+facts:
+  - Default entered against defendants
+  - Parties to file answer to complaint
+  - Non-jury trial scheduled
+disputes:
+  - Dispute over default
+  - Dispute over trial requirements
+acts:
+  - Default entered
+  - Answer to complaint to be filed
+  - Trial to be held
+agreements:
+  - Parties to comply with trial requirements
+  - Parties to file trial documents electronically
+  - Parties to prepare for trial
+laws:
+  - Third Amended Standing Order for Limited Civil Cases (effective February 24, 2020)
+  - Court's trial requirements
+case_citations:
+  - [Citations to relevant case law]
+statutes:
+  - [Statutes relevant to the case]
+roles:
+  - Plaintiff
+  - Defendant
+  - Judge
+significant_statements:
+  - "Recommended Ruling: Defendants' Motion to Set Aside/Vacate Default Entered Against the Defendants on 11/29/2023 is GRANTED."
+  - "Parties must comply with the trial requirements as set forth in the court's Third Amended Standing Order for Limited Civil Cases (effective February 24, 2020)."
+```
+
+And here is the summary in English text:
+
+The tentative ruling grants the defendants' motion to set aside/vacate the default entered against them on November 29, 2023. The defendants are ordered to serve and file their answer to the complaint within 10 days. The non-jury trial scheduled for April 7, 2025, at the Spring Street Courthouse remains on calendar as currently scheduled. Parties must comply with the trial requirements outlined in the court's Third Amended Standing Order for Limited Civil Cases, which is effective as of February 24, 2020. All trial documents must be electronically filed at least 10 days prior to the trial date, and parties are required to submit a joint trial readiness binder/exhibit binder and personally appear on the trial date.

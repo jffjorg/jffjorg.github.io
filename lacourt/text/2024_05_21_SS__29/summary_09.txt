@@ -1,0 +1,62 @@
+Here is the summary in YAML format:
+
+```
+case:
+  number: 22STCV23336
+  plaintiff:
+    name: Isabel Gonzalez
+  defendant:
+    name: Letica Ramona Armenta
+  people:
+    - Plaintiff: Isabel Gonzalez
+    - Defendant: Letica Ramona Armenta
+    - Counsel: Jaime G. Farias
+  company-names: []
+  places: []
+  dates:
+    - July 19, 2022
+    - July 20, 2020
+    - March 15, 2024
+    - March 18, 2024
+    - April 9, 2024
+  events:
+    - Bicycle versus automobile accident
+    - Filing of complaint
+    - Request for dismissal
+    - Dismissal of case
+    - Motion to set aside dismissal
+  money: []
+  intentions:
+    - To grant or deny the motion to set aside the dismissal
+  facts:
+    - Plaintiff filed a complaint on July 19, 2022
+    - Defendant did not file an answer
+    - A request for dismissal was filed on March 15, 2024
+    - The case was dismissed on March 18, 2024
+    - Plaintiff filed a motion to set aside the dismissal on April 9, 2024
+  disputes:
+    - Whether the dismissal should be set aside
+  acts:
+    - Filing of complaint
+    - Filing of request for dismissal
+    - Filing of motion to set aside dismissal
+  agreements: []
+  laws:
+    - California Code of Civil Procedure, Section 473
+  case-citations:
+    - Elston v. City of Turlock (1985) 38 Cal.3d 227, 234
+    - Kendall v. Barker (1988) 197 Cal.App.3d 619, 624
+  statutes:
+    - California Code of Civil Procedure, Section 473
+  roles:
+    - Judge: granting or denying the motion to set aside the dismissal
+    - Counsel: Jaime G. Farias
+  significant-statements:
+    - The court may relieve a party from a judgment, dismissal, order, or other proceeding taken against him or her through his or her mistake, inadvertence, surprise, or excusable neglect.
+    - The moving party must act diligently in seeking relief and must submit affidavits or testimony demonstrating a reasonable cause for the default.
+    - The court finds that the dismissal occurred due to counsel's mistake, inadvertence, surprise, or neglect.
+```
+
+And here is the English-text summary:
+
+The tentative ruling by the judge grants the motion to set aside the dismissal of the case filed by Plaintiff Isabel Gonzalez. The judge finds that the dismissal occurred due to counsel's mistake, inadvertence, surprise, or neglect, as the counsel filed a request for dismissal for the wrong client due to multiple clients with similar names. The judge grants the motion and sets a hearing for the case to be re-entered or for a trial setting conference in approximately 30-45 days.

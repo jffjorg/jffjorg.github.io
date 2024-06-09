@@ -1,0 +1,56 @@
+Here is the summary in YAML format:
+
+```
+case_number: 22SMCV02697
+plaintiff_name: Shore
+defendant_name: Shores Barington LLC
+people_names:
+  - Shore
+  - Shores Barington
+company_names:
+  - Shores Barington LLC
+places:
+  - California
+dates:
+  - 2024-05-21 (Hearing Date)
+  - 2024-06-10 (Trial Date)
+  - 2024-02-09 (Original Deposition Date)
+  - 2024-02-23 (Rescheduled Deposition Date)
+  - 2024-02-22 (Notification Date)
+money: None
+intentions:
+  - Defendant seeks to continue trial to allow for conclusion of discovery
+  - Defendant requests five-month continuance
+  - Defendant submits stipulation consenting to trial continuance
+facts:
+  - Plaintiff's deposition was originally noticed for February 9, 2024
+  - Deposition was rescheduled for February 23, 2024
+  - Plaintiff's counsel was unavailable on February 22, 2024
+  - Defendant failed to show good cause for trial continuance
+disputes:
+  - Defendant did not demonstrate diligent efforts to secure outstanding essential discovery
+  - Defendant failed to show reasonable discovery efforts during the year and a half pendency of the action
+acts:
+  - Defendant moves to continue trial
+  - Defendant seeks additional time to complete Plaintiff's deposition and expert discovery
+agreements:
+  - Defendant and Plaintiff stipulate to trial continuance
+laws:
+  - California Rules of Court (CRC) Rule 3.1332(a)-(d)
+citations:
+  - CRC Rule 3.1332(a)-(d)
+statutes:
+  - California Rules of Court (CRC)
+roles:
+  - Judge
+  - Defendant (Shores Barington LLC)
+  - Plaintiff (Shore)
+significant_statements:
+  - Defendant does not show good cause for trial continuance
+  - Defendant fails to demonstrate diligent efforts to secure outstanding essential discovery
+  - Defendant's motion is DENIED
+```
+
+And here is the English-text summary:
+
+This tentative ruling denies the Defendant's motion to continue the trial, which was scheduled for June 10, 2024. The Defendant sought a five-month continuance to allow for the conclusion of discovery, citing the need to complete Plaintiff's deposition and expert discovery. However, the Judge found that the Defendant did not demonstrate good cause for the continuance, failing to show diligent efforts to secure outstanding essential discovery and failing to explain the need for expert discovery. The Judge also noted that the Defendant did not demonstrate reasonable efforts to depose Plaintiff in a timely manner. As a result, the motion is DENIED.

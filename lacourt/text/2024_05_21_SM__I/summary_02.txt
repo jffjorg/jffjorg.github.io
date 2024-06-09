@@ -1,0 +1,82 @@
+Here is the summary in YAML format:
+
+```
+case_number: 21SMCV01421
+hearing_date: 2024-05-21
+dept: I
+
+plaintiff_name: [Unknown]
+defendant_names:
+  - [Unknown]
+  - Multani
+
+people_names:
+  - Multani
+
+company_names: []
+
+places: []
+dates:
+  - 2021-10-19
+  - 2021-12-17
+  - 2022-07-00
+  - 2024-04-04
+  - 2024-05-21
+
+events:
+  - Breach of contract
+  - Default judgment
+  - Motion to set aside default
+  - Evidentiary objections
+
+money: $1 million
+
+intentions:
+  - Set aside default judgment
+  - Void judgment due to improper service
+
+facts:
+  - Service was made by substituted service followed by mail
+  - Proof of service shows substituted service followed by mail
+  - Defendants did not recognize person served
+  - Defendants were aware of the problem in July 2022
+
+disputes:
+  - Improper service
+  - Judgment is voidable
+
+acts:
+  - Plaintiff filed breach of contract action
+  - Default was entered on 2021-10-19
+  - Judgment was entered on 2021-12-17
+  - Motion to set aside default was made on 2024-04-04
+  - Evidentiary objections are overruled
+
+agreements: []
+
+laws:
+  - California Code of Civil Procedure section 473.5
+  - Code of Civil Procedure section [Unknown]
+  - Dill v. Berquist Construction Co. (1994) 24 Cal.App.4th 1426
+  - Kremerman v. White (2021) 71 Cal.App.5th 358
+  - Trackman v. Kenney (2010) 187 Cal.App.4th 175
+
+statutes:
+  - Code of Civil Procedure section 473.5
+
+roles:
+  - Plaintiff
+  - Defendant
+  - Counsel
+  - Judge
+
+significant_statements:
+  - Judgment is not void
+  - Judgment is voidable
+  - Motion is untimely
+  - Defendants had actual knowledge of the problem but did nothing for 21 months
+```
+
+And here is the English text summarizing the judge's tentative ruling:
+
+The judge has denied the defendants' motion to set aside the default judgment. The defendants argue that the service of the summons was improper because it was made on a person they do not recognize. The judge ruled that the judgment is not void, but rather voidable. The judge also found that the defendants were aware of the problem in July 2022, but did not take action to file a motion to set aside the default judgment until 21 months later. The judge concluded that the motion is untimely and denied it.

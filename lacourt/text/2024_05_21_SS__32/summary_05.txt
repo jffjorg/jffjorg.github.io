@@ -1,0 +1,82 @@
+Here is the summary in YAML format:
+
+```
+case_number: 22STCV21815
+plaintiff_names:
+  - Alejandra Guzman
+  - Joanna Guzman
+  - Miguel Angel Moto, Jr.
+defendant_name: Nestor Cabrera
+people_names:
+  - Nestor Cabrera
+  - Alejandra Guzman
+  - Joanna Guzman
+  - Miguel Angel Moto, Jr.
+company_names:
+  - None
+places: None
+dates:
+  - February 4, 2022
+  - August 24, 2023
+  - October 5, 2023
+  - October 12, 2023
+  - December 12, 2022
+  - December 5, 2023
+  - April 8, 2024
+  - March 15, 2024
+events:
+  - Motor vehicle accident
+  - Failure to comply with discovery orders
+  - Motion for terminating sanctions
+  - Monetary sanctions
+  - Order striking out pleadings
+  - Stay of further proceedings
+  - Dismissal of action
+  - Rendering of judgment by default
+money:
+  - Monetary sanctions
+  - Terminating sanctions
+intentions:
+  - To obtain discovery
+  - To comply with discovery orders
+  - To avoid terminating sanctions
+facts:
+  - Defendant's motion for terminating sanctions
+  - Defendant's failure to comply with discovery orders
+  - Plaintiffs' failure to respond to discovery requests
+  - Defendant's attempt to informally obtain discovery
+disputes:
+  - Defendant's motion for terminating sanctions
+  - Plaintiffs' failure to comply with discovery orders
+acts:
+  - Failure to comply with discovery orders
+  - Failure to respond to discovery requests
+  - Failure to serve responses to discovery requests
+agreements:
+  - Code of Civil Procedure, section 2023.030
+  - Code of Civil Procedure, section 2030.290
+  - Code of Civil Procedure, section 2031.300
+laws:
+  - Code of Civil Procedure
+  - Code of Civil Procedure, section 2023.030
+  - Code of Civil Procedure, section 2030.290
+  - Code of Civil Procedure, section 2031.300
+citations:
+  - Los Defensores, Inc. v. Gomez (2014)
+  - Lang v. Hochman (2000)
+  - Collisson & Kaplan v. Hartunian (1994)
+  - Laguna Auto Body v. Farmers Ins. Exchange (1991)
+  - Garcia v. McCutchen (1997)
+roles:
+  - Judge
+  - Plaintiff
+  - Defendant
+  - Counsel
+significant_statements:
+  - "To the extent authorized by the chapter governing any particular discovery method or any other provision of this title, the court, after notice to any affected party, person, or attorney, and after opportunity for hearing, may impose...sanctions against anyone engaging in conduct that is a misuse of the discovery process."
+  - "The trial court may order a terminating sanction for discovery abuse 'after considering the totality of the circumstances: [the] conduct of the party to determine if the actions were willful; the detriment to the propounding party; and the number of formal and informal attempts to obtain the discovery.'"
+```
+
+And here is the English-text summary of the judge's tentative ruling:
+
+The judge's tentative ruling grants the defendant's motion for terminating sanctions against the plaintiffs. The defendant had filed the motion for terminating sanctions after the plaintiffs failed to comply with the court's discovery orders. The court had previously granted the defendant's motions to compel interrogatories and demands for production, but the plaintiffs had failed to respond to the discovery requests. The court finds that the plaintiffs' actions were willful and that the defendant had attempted to informally obtain the discovery. The court also finds that the plaintiffs' failure to comply with the discovery orders had prevented the defendant from mounting a defense against the case. The court grants the motion for terminating sanctions and orders the complaint dismissed in its entirety.
