@@ -1,0 +1,62 @@
+Here is the YAML summary of the tentative ruling:
+
+```
+case_number: 22STCV20395
+plaintiff: Interinsurance Exchange of the Automobile Club
+defendant: Jose Amilcar Cumi Punche
+people_names:
+  - Jose Amilcar Cumi Punche
+  - William Soto
+company_names:
+  - Interinsurance Exchange of the Automobile Club
+places:
+  - California
+dates:
+  - November 16, 2021
+  - March 20, 2024
+  - May 16, 2024
+events:
+  - Automobile collision
+  - Payment of damages
+  - Default judgment
+money:
+  - $28,500 (principal damages)
+  - $4,667.75 (prejudgment interest)
+  - $588.84 (costs)
+intentions:
+  - To recover damages from the defendant
+facts:
+  - Defendant was involved in an automobile collision with the plaintiff's insured
+  - Plaintiff paid damages to its insured
+disputes:
+  - None mentioned
+acts:
+  - Defendant failed to respond to the complaint
+  - Plaintiff filed a motion for default judgment
+agreements:
+  - None mentioned
+laws:
+  - California Rules of Court 3.1800(a)(3)
+  - California Constitution Article XV, Section 1
+  - California Code Section 3287(c)
+case_citations:
+  - Cal Rules of Ct 3.1800(a)(3)
+  - Cal. Const. art XV, 1
+  - CC §3287(c)
+statutes:
+  - California Rules of Court 3.1800(a)(3)
+  - California Constitution Article XV, Section 1
+  - California Code Section 3287(c)
+roles:
+  - Plaintiff: Interinsurance Exchange of the Automobile Club
+  - Defendant: Jose Amilcar Cumi Punche
+  - Insured: William Soto
+  - Counsel: (unnamed)
+  - Custodian of records: Kent Neading
+significant_statements:
+  - The application for default judgment is GRANTED
+```
+
+And here is the English-text summary of the judge's tentative ruling:
+
+"The plaintiff, Interinsurance Exchange of the Automobile Club, has filed a motion for default judgment against the defendant, Jose Amilcar Cumi Punche, for damages arising from an automobile collision. The plaintiff paid $28,500 in damages to its insured, William Soto, who was involved in the collision with the defendant. The plaintiff is seeking an additional $4,667.75 in prejudgment interest and $588.84 in costs. The court finds that the plaintiff has properly provided supporting evidence and calculations for the interest accrual. Therefore, the court grants the plaintiff's motion for default judgment in the amount of $28,500 in principal damages, $4,667.75 in prejudgment interest, and $588.84 in costs against the defendant. The plaintiff is ordered to give notice."

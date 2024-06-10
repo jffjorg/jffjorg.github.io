@@ -1,0 +1,51 @@
+Here is the summary in YAML format:
+
+```
+Case Number: Case No. [Insert Case Number]
+Plaintiff's Name: Annette Turner
+Defendant's Name: [Insert Defendant's Name]
+People-Names:
+  - Annette Turner
+  - [Insert Defendant's Name]
+Company-Names: []
+Places: []
+Dates:
+  - [Insert Date of Hearing]
+Events:
+  - Motion for Summary Adjudication
+  - Notice of Motion
+  - Separate Statement
+Facts:
+  - Alleged inappropriate comments by security guards
+  - Plaintiff's negligence causes of action
+  - Defendant's motion for summary adjudication
+Money: []
+Intentions:
+  - Defendant's intention to dispose of an issue of duty
+Facts:
+  - Defendant did not argue that its motion completely disposes of an issue of duty
+  - Defendant did not state its intention to dispose of an issue of duty
+Disputes:
+  - Defendant's motion for summary adjudication
+Acts:
+  - Defendant's notice of motion
+  - Defendant's separate statement
+  - Plaintiff's negligence causes of action
+Agreements: []
+Laws:
+  - Code of Civil Procedure, section 437c
+  - California Rules of Court, rule 3.1350
+Statutes:
+  - Code of Civil Procedure
+Roles:
+  - Judge
+  - Plaintiff
+  - Defendant
+Significant Statements:
+  - "completely disposes of . . . an issue of duty"
+  - "moving for summary adjudication on an issue of duty"
+```
+
+And here is the English-text summary:
+
+The court notes that Defendant's notice of motion does not assert its intention to dispose of an issue of duty, despite moving for summary adjudication. The court construes Defendant's motion as not being made on an issue of duty within the meaning of section 437c, subdivision (f)(1) of the Code of Civil Procedure.

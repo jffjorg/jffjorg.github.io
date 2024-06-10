@@ -1,0 +1,52 @@
+Here is a YAML summary of the tentative ruling:
+
+```
+case_number: 19STCV02320
+hearing_date: 2024-05-16
+department: 73
+
+parties:
+  - plaintiff: Rene Martinez
+  - defendants:
+    - Farmers Financial Solutions, LLC
+    - Steve Klein
+    - Jimmy Coicoechea
+
+counsel:
+  - plaintiff:
+    - Patrick Garofalo (Law Offices of Patrick Garofalo)
+    - Rachel Nelson (Nelson Law Office APC)
+  - defendants:
+    - Stephen Ronk (Gordon Rees Scully Mansukhani, LLP)
+
+issues:
+  - motion_for_attorneys_fees
+
+dates:
+  - 2015-02: employment began
+  - 2018-03: employment ended
+  - 2019-01: lawsuit filed
+  - 2021-01: Labor Code § 1102.5(j) became effective
+  - 2022-03: causes of action 6 and 7 were dismissed
+  - 2022-04: summary adjudication granted
+  - 2024-01: settlement reached
+  - 2024-04: motion for attorneys' fees filed
+  - 2024-04: joint stipulation to continue hearing
+  - 2024-05: opposition filed
+  - 2024-05: reply filed
+
+amount: $379,649.25
+
+citations:
+  - California Code of Civil Procedure § 1032(a)(4)
+  - Labor Code § 1102.5(j)
+  - California Code of Civil Procedure § 1033.5
+  - Ketchum v. Moses (2001) 24 Cal.4th 1122
+  - Glendora Community Redevelopment Agency v. Demeter (1984) 155 Cal.App.3d 465
+  - Horsford v. Board Of Trustees Of California State University (2005) 132 Cal. App. 4th 359
+  - Premier Med. Mgmt. Sys. v. California Ins. Guarantee Ass'n (2008) 163 Cal. App. 4th 550
+```
+
+English-text summary:
+
+The tentative ruling grants the plaintiff's motion for attorneys' fees in the amount of $379,649.25. The court finds that the plaintiff is entitled to seek attorneys' fees under Labor Code § 1102.5(j), which became effective on January 1, 2021. The court reduces the requested amount from $776,548.50 to $379,649.25 after reviewing the billing invoices and finding most of the objections to the hours billed to be unavailing. The court also rejects the defendant's request for a 90% reduction in the fees. The court awards the fees reasonably incurred by the plaintiff's counsel, Patrick Garofalo and Rachel Nelson.

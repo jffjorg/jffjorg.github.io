@@ -1,0 +1,41 @@
+Here is a summary of the tentative ruling in YAML format:
+
+```
+case_number: 21STCV10276
+hearing_date: May 17, 2024
+dept: T
+moving_parties:
+  - Defendant Longs Drug Stores California, LLC
+  - Defendant Daria Park
+  - Defendant Gilbert Guerrero
+responding_party: Plaintiff Rubabeh Baktiar
+
+tentative_ruling:
+  - Defendant Guerrero's Motion for Summary Judgment: GRANTED
+  - Defendant Daria Park's Motion for Summary Judgment: GRANTED
+  - Defendant Longs Drug Stores California, LLC's Motion for Summary Judgment: DENIED
+  - Defendant Longs Drug Stores California, LLC's Motion for Summary Adjudication: DENIED (First Cause of Action for Premises Liability/Negligence), GRANTED (remaining causes of action)
+  - Claim for Punitive Damages: GRANTED
+
+facts:
+  - Plaintiff was a patron at Defendant Longs Drug Stores California, LLC's store
+  - Plaintiff encountered Defendant Guerrero, who allegedly made insulting comments
+  - Defendant Allen, a customer, became involved in the altercation and physically assaulted Plaintiff
+  - Plaintiff alleges that Defendant Longs Drug Stores California, LLC was negligent in its control of the premises
+
+issues:
+  - Premises Liability/Negligence
+  - Negligent Hiring, Supervision, and Retention
+  - Assault
+  - Intentional Infliction of Emotional Distress
+  - Punitive Damages
+
+laws and authorities:
+  - Castellon v. U.S. Bancorp (2013) 220 Cal.App.4th 994
+  - Brooks v. Eugene Burger Management Corp. (1989) 215 Cal.App.3d 1611
+  - Annocki v. Peterson Enterprises, LLC (2014) 232 Cal.App.4th 32
+  - Gray v. America West Airlines, Inc. (1989) 209 Cal. App. 3d 76
+  - CACI 1002
+```
+
+Let me know if you'd like me to summarize the tentative ruling in a different way!

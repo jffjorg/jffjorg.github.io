@@ -1,0 +1,70 @@
+Here is the summary in YAML format:
+
+```yaml
+case_number: 22NWCV01123
+plaintiff: Raul Heredia
+defendant: 
+  - Access Services
+  - California Transit, Inc.
+  - Mynor Ruben Hernandez
+  - Melissa Elaine Doolittle
+people_names: 
+  - Raul Heredia
+  - Mynor Ruben Hernandez
+  - Melissa Elaine Doolittle
+company_names: 
+  - Access Services
+  - California Transit, Inc.
+  - Honda
+places: 
+  - Los Angeles County
+dates: 
+  - October 27, 2022
+  - December 15, 2021
+  - May 3, 2024
+  - May 9, 2024
+  - January 5, 2024
+  - November 29, 2023
+  - December 28, 2023
+events: 
+  - Vehicle accident
+  - Failure to stop
+  - Collision
+  - Negligence
+  - Negligent Entrustment
+money: 
+  - $1,050.00
+intentions: 
+  - To compel plaintiff's further responses to discovery
+  - To impose sanctions
+facts: 
+  - Plaintiff was a passenger in a vehicle
+  - Driver failed to stop in time
+  - Accident occurred
+disputes: 
+  - Plaintiff's failure to provide complete responses to discovery
+  - Defendant's failure to adequately meet and confer
+acts: 
+  - Plaintiff filed a complaint
+  - Defendants moved to compel further responses
+  - Plaintiff failed to file a timely opposition
+agreements: 
+  - None
+laws: 
+  - California Code of Civil Procedure (CCP) §1005(b)
+  - CCP §2016.040
+  - CCP §2030.300(a)
+  - CCP §2030.310
+roles: 
+  - Judge
+  - Plaintiff
+  - Defendant
+  - Counsel
+significant_statements: 
+  - The Court grants the motion to compel further responses to discovery
+  - The Court imposes sanctions in the amount of $1,050.00
+```
+
+Here is the English-text summary:
+
+The judge has issued a tentative ruling in the case of Raul Heredia v. Access Services, granting the defendants' motion to compel further responses to discovery. The plaintiff failed to provide complete and responsive answers to the defendants' discovery requests, and the court finds that the plaintiff's objections are invalid. The court orders the plaintiff to provide further responses to the discovery requests within 30 days. Additionally, the court imposes sanctions on the plaintiff and their counsel in the amount of $1,050.00. The court's ruling is based on California Code of Civil Procedure (CCP) §1005(b), CCP §2016.040, and CCP §2030.300(a).

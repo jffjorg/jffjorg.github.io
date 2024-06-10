@@ -1,0 +1,66 @@
+Here is the summary in YAML format:
+
+```
+case_number: 23GDCV01231
+case_name: MARIELY GARCIA-ROMERO v. FCA US LLC
+parties:
+  - Plaintiff: MARIELY GARCIA-ROMERO
+  - Defendant: FCA US LLC
+people:
+  - Mariely Garcia-Romero
+  - Gregory Sogoyan
+companies:
+  - FCA US LLC
+places:
+  - California
+dates:
+  - June 15, 2023
+  - August 14, 2023
+  - April 8, 2024
+  - May 11, 2024
+  - May 13, 2024
+events:
+  - Service of discovery requests
+  - Failure to respond to discovery requests
+  - Filing of motions to compel
+  - Hearing on motions to compel
+money:
+  - Filing fees
+  - Sanctions
+intentions:
+  - Compel responses to discovery requests
+  - Obtain sanctions for failure to respond
+facts:
+  - Plaintiff served discovery requests on Defendant
+  - Defendant failed to respond to discovery requests
+  - Plaintiff filed motions to compel responses
+  - Defendant filed oppositions to motions to compel
+  - Defendant provided responses after filing of motions
+disputes:
+  - Failure to respond to discovery requests
+  - Effectiveness of motions to compel
+acts:
+  - Service of discovery requests
+  - Failure to respond to discovery requests
+  - Filing of motions to compel
+agreements:
+  - None
+laws:
+  - California Code of Civil Procedure, sections 2031.280, 2031.300, 2031.260
+  - California Rules of Court, Rule 3.1345(b)
+  - California Rules of Court, Rule 3.1348(a)
+  - California Rules of Court, Rule 3.1300
+roles:
+  - Plaintiff: Mariely Garcia-Romero
+  - Defendant: FCA US LLC
+  - Gregory Sogoyan: Declaration
+  - Judge: Ruling
+significant_statements:
+  - "Payment of filing fees is both mandatory and jurisdictional." (Hu vs. Silgan Containers Corp. (1999) 70 Cal. App. 4th 1261, 1269.)
+  - "The court shall impose a monetary sanction under Chapter 7 (commencing with Section 2023.010) against any party, person, or attorney who unsuccessfully makes or opposes a motion to compel a response to a demand for inspection, copying, testing, or sampling, unless it finds that the one subject to the sanction acted with substantial justification or that other circumstances make the imposition of the sanction unjust." (CCP § 2031.300(c).)
+  - "It is mandatory that the court impose a monetary sanction under Chapter 7 (commencing with Section 2023.010) on the party or attorney, or both, whose failure to serve a timely response to requests for admission necessitated this motion." (CCP § 2033.280(c).)
+```
+
+English-text summary:
+
+The case is about the Plaintiff, Mariely Garcia-Romero, who filed a complaint alleging three causes of action against the Defendant, FCA US LLC, under the Song-Beverly Consumer Warranty Act. The Plaintiff served various discovery requests on the Defendant, including form and special interrogatories, requests for production of documents, and requests for admissions. The Defendant failed to respond to these requests, and the Plaintiff filed motions to compel responses. The Defendant filed oppositions to these motions, claiming that they had provided responses. However, the Court found that the Defendant did not provide verifications of their responses. The Court ruled that the motions to compel were denied as moot, as the Defendant had provided responses after the filing of the motions. The Court also warned the Plaintiff that all motions must provide sufficient notice to the Defendant and that the Plaintiff needs to clarify which discovery method each motion pertains to.

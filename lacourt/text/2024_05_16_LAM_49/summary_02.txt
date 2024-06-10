@@ -1,0 +1,49 @@
+Here is the YAML summary:
+
+```
+case_number: 22STCV33895
+hearing_date: 2024-05-16
+department: 49
+complainant: Denise R. Birtch
+respondents:
+  - Specialized Loan Servicing, LLC
+  - Gulf Harbour Investments Corp
+facts:
+  - Plaintiff owns property at 7101-7103 Flight Ave, Los Angeles, CA, 90045
+  - Plaintiff granted Deed of Trust to Downey Savings and Loan Association
+  - Plaintiff granted second Deed of Trust to National City Bank
+  - Plaintiff alleges modification agreement with Downey Savings and Loan Association
+  - Plaintiff alleges fraud and unfair business practices
+  - Plaintiff brings causes of action for breach of contract, fraud, unfair business practices, quiet title, and declaratory relief
+intents:
+  - Plaintiff seeks to recover damages and punitive damages
+  - Defendant seeks to strike punitive damages and quiet title
+disputes:
+  - Plaintiff alleges fraud and unfair business practices
+  - Defendant argues Plaintiff failed to plead specific facts to support punitive damages
+acts:
+  - Plaintiff granted Deed of Trust to Downey Savings and Loan Association
+  - Plaintiff granted second Deed of Trust to National City Bank
+  - Plaintiff alleges modification agreement with Downey Savings and Loan Association
+agreements:
+  - Plaintiff alleges modification agreement with Downey Savings and Loan Association
+laws:
+  - California Civil Code § 3294
+  - California Code of Civil Procedure § 436
+  - California Code of Civil Procedure § 430.41
+statutes:
+  - California Civil Code § 3294
+  - California Code of Civil Procedure § 436
+  - California Code of Civil Procedure § 430.41
+roles:
+  - Plaintiff: Denise R. Birtch
+  - Respondents: Specialized Loan Servicing, LLC and Gulf Harbour Investments Corp
+significant_statements:
+  - Plaintiff failed to plead specific facts to support punitive damages
+  - Defendant's Motion to Strike Punitive Damages is GRANTED
+  - Defendant's Motion to Strike Fourth Cause of Action is GRANTED
+```
+
+And here is the English summary:
+
+The court has issued a tentative ruling on the motion to strike portions of the Second Amended Complaint. The plaintiff, Denise R. Birtch, alleges that she owns a property and has brought causes of action for breach of contract, fraud, unfair business practices, quiet title, and declaratory relief. The defendants, Specialized Loan Servicing, LLC and Gulf Harbour Investments Corp, have moved to strike the portions of the complaint that seek punitive damages. The court has granted the motion to strike punitive damages because the plaintiff has failed to plead specific facts to support an award of punitive damages. The court has also granted the motion to strike the fourth cause of action for quiet title, which was included in violation of a previous court order. The parties are ordered to give notice of the tentative ruling, unless waived.

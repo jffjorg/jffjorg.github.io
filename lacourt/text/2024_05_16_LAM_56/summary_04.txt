@@ -1,0 +1,63 @@
+Here is the summary in YAML format:
+
+```
+case_number: 21STCV33381
+plaintiff: Robert Leatherman
+defendant: Nemesio Azul, Caring Heart In-Home Care Services, Inc.
+people_names:
+  - Robert Leatherman
+  - Nemesio Azul
+company_names:
+  - Caring Heart In-Home Care Services, Inc.
+  - Certain Underwriters at Lloyd's of London
+places:
+  - Los Angeles, California
+dates:
+  - January 5, 2024
+  - March 27, 2024
+  - May 8, 2024
+  - May 16, 2024
+events:
+  - Demurrer to First Amended Cross-Complaint
+  - Filing of Second Amended Cross-Complaint
+  - Filing of Demurrer and Motion to Strike
+  - Stay of action pending outcome of underlying action
+  - Tentative ruling on motion to strike
+money:
+  - None mentioned
+intentions:
+  - To strike portions of Second Amended Cross-Complaint
+facts:
+  - Allegations of misconduct by home-care providers
+  - Breach of contract, negligence, elder abuse, and breach of covenant of good faith and fair dealing
+disputes:
+  - Dispute over scope of Court's order
+acts:
+  - Filing of demurrer and motion to strike
+  - Filing of second amended cross-complaint
+  - Granting of stay pending outcome of underlying action
+agreements:
+  - Court's order on demurrer and motion to strike
+  - Stay of action pending outcome of underlying action
+laws:
+  - California Code of Civil Procedure
+  - California Rules of Court
+case_citations:
+  - None mentioned
+statutes:
+  - California Civil Code
+roles:
+  - Judge: Hon. Holly J. Fujie
+  - Plaintiff: Robert Leatherman
+  - Defendant: Nemesio Azul, Caring Heart In-Home Care Services, Inc.
+  - Moving Party: Certain Underwriters at Lloyd's of London
+  - Responding Party: Caring Heart In-Home Care Services, Inc.
+significant_statements:
+  - The Court has stayed the action pending the outcome of the underlying action.
+  - The motion to strike is taken off-calendar pending the outcome of the stay.
+  - Notice of this ruling must be given to the parties.
+```
+
+And here is the English-text summary:
+
+The Court has considered the motion to strike portions of the Second Amended Cross-Complaint filed by Certain Underwriters at Lloyd's of London. The motion was filed in response to the Second Amended Cross-Complaint filed by Caring Heart In-Home Care Services, Inc. (Caring Heart) alleging breach of contract, breach of implied covenant of good faith and fair dealing, declaratory relief, and fraud. The Court has stayed the action pending the outcome of the underlying action, and has taken the motion to strike off-calendar pending the outcome of the stay.

@@ -1,0 +1,49 @@
+Here is the summary in YAML format:
+
+```
+case_number: 19NWCV00820
+plaintiff: Blaine Holding & Development, LLC
+defendant: Vivera Pharmaceuticals, Inc.
+people_names:
+  - Yost
+company_names:
+  - Blaine Holding & Development, LLC
+  - Vivera Pharmaceuticals, Inc.
+places: none
+dates:
+  - May 15, 2024
+  - May 16, 2024
+events:
+  - Ex Parte Application for an Order Advancing the Hearing Date
+  - Motion for Attorney's Fees
+dates:
+  - CCP 128.5
+  - CRC Rule 3.1203(a)
+facts:
+  - Failure to comply with CRC Rule 3.1203(a)
+  - Notice not given before ex parte hearing
+disputes:
+  - Failure to give notice
+acts:
+  - Sending notice of ex parte hearing
+  - Failing to give notice before ex parte hearing
+agreements: none
+laws:
+  - CCP 128.5
+  - CRC Rule 3.1203(a)
+citations:
+  - CCP 128.5
+  - CRC Rule 3.1203(a)
+statutes:
+  - CCP 128.5
+  - CRC Rule 3.1203(a)
+roles:
+  - Moving Party: Blaine Holding & Development, LLC
+  - Judge: unknown
+significant_statements:
+  - "Moving Party to give notice."
+```
+
+And here is the English-text summary:
+
+The Judge has issued a tentative ruling on the Ex Parte Application for an Order Advancing the Hearing Date for the Motion for Attorney's Fees. The Plaintiff, Blaine Holding & Development, LLC, had sought to advance the hearing date, but the Judge denied the application without prejudice due to the Plaintiff's failure to comply with CRC Rule 3.1203(a). The rule requires that parties seeking an ex parte order notify all parties no later than 10:00 a.m. the court day before the ex parte appearance, absent exceptional circumstances. However, the Plaintiff sent notice of the ex parte hearing at 12:01 p.m. on the day before the hearing, after the 10:00 a.m. deadline. The Judge ordered the Plaintiff to give notice.

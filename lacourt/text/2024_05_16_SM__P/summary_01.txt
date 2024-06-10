@@ -1,0 +1,60 @@
+Here is the YAML summary of the tentative ruling:
+
+```
+case-number: 23SMCV05447
+plaintiff: Epstein
+defendant: Munoz, et al.
+people-names:
+  - Epstein
+  - Munoz
+company-names: []
+places:
+  - London, United Kingdom
+  - California
+dates:
+  - May 16, 2024
+  - 12 years ago (when plaintiff was 12 years old)
+events:
+  - Go-karting accident
+  - Defendants' motion for undertaking
+money:
+  - $56,000 (amount of undertaking)
+  - attorney's fees (amount not specified)
+  - costs (amount not specified)
+intentions:
+  - Defendants seek to require plaintiff to post an undertaking
+  - Plaintiff does not want to post an undertaking
+facts:
+  - Plaintiff sustained serious injuries in go-karting accident
+  - Plaintiff resides outside of California
+  - Defendants argue they were not negligent
+  - Plaintiff argues defendants are liable for negligence
+disputes:
+  - Whether defendants will prevail in the case
+acts:
+  - Plaintiff was 12 years old when accident occurred
+  - Plaintiff resides outside of California
+  - Defendants seek to require plaintiff to post an undertaking
+agreements: []
+laws:
+  - CCP §1030 (California Code of Civil Procedure)
+  - Code Civ. Proc. §1030(a) (resides out of the state)
+  - Code Civ. Proc. §1030(b) (reasonable possibility of prevailing)
+  - Code Civ. Proc. §1030(d) (dismissal of action if undertaking not filed)
+  - Code Civ. Proc. §1030(f) (determination of court has no effect on merits of action)
+  - Code Civ. Proc. §128.45(f)(1)(B) (safe harbor period for withdrawing motion)
+statutes:
+  - CCP §1030 (California Code of Civil Procedure)
+  - Code Civ. Proc. §1030 (California Code of Civil Procedure)
+  - Code Civ. Proc. §128.45 (California Code of Civil Procedure)
+roles:
+  - Judge: decides on tentative ruling
+  - Plaintiff: seeks to avoid posting an undertaking
+  - Defendant: seeks to require plaintiff to post an undertaking
+significant-statements:
+  - "The determinations of the court under this section have no effect on the determination of any issues on the merits of the action or special proceeding and may not be given in evidence nor referred to in the trial of the action or proceeding." (Code Civ. Proc. §1030(f))
+```
+
+And here is the English-text summary of the judge's tentative ruling:
+
+The judge has issued a tentative ruling denying defendants' motion for an undertaking of $56,000 from the plaintiff. The plaintiff was injured in a go-karting accident at the defendants' property when she was 12 years old. The defendants argue that they present a reasonable possibility of prevailing, but the court finds that they have not provided sufficient evidence to support this claim. The court grants the plaintiff's request for sanctions is denied as the plaintiff did not provide the opportunity to withdraw the motion under the 21-day safe harbor period.

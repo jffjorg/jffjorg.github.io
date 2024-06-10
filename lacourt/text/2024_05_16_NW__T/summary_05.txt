@@ -1,0 +1,60 @@
+Here is the summary in YAML format:
+
+```
+case_number: 23VECV04618
+hearing_date: 2024-05-16
+dept: T
+plaintiff:
+  name: Virtue at the Pointe, LLC
+  type: Corporation
+defendant:
+  name: David McGarry
+  type: Individual
+people:
+  - Virtue at the Pointe, LLC
+  - David McGarry
+companies:
+  - Virtue at the Pointe, LLC
+places:
+  - California
+dates:
+  - 1992 (Mesecher v. County of San Diego)
+  - 2003 (Moulton Niguel Water Dist. v. Colombo)
+  - 1993 (Khoury v. Maly's of Cal., Inc.)
+events:
+  - Demurrer
+  - Motion to Strike
+  - Hearing
+money: None mentioned
+intentions:
+  - Plaintiff seeks to strike Defendant's Answer
+  - Defendant seeks to avoid demurrer
+facts:
+  - 28 Affirmative Defenses (AD)
+  - Plaintiff's Demurrer and Motion to Strike
+disputes:
+  - Uncertainty of ADs
+  - Irrelevance of ADs
+  - Improperness of ADs
+acts:
+  - Plaintiff's Demurrer and Motion to Strike
+  - Defendant's Answer
+agreements: None mentioned
+laws:
+  - Mesecher v. County of San Diego (1992)
+  - Moulton Niguel Water Dist. v. Colombo (2003)
+  - Khoury v. Maly's of Cal., Inc. (1993)
+  - California Civil Procedure
+statutes: None mentioned
+roles:
+  - Plaintiff: Virtue at the Pointe, LLC
+  - Defendant: David McGarry
+  - Judge: [Judge's name]
+significant statements:
+  - "Contentions are waived when a party fails to support them with reasoned argument and citations to authority."
+  - "A judge in a civil case is not 'obligated to seek out theories [a party] might have advanced, or to articulate for him that which … [a party] has left unspoken.'"
+```
+
+And here is the English-text summary:
+
+The Judge has issued a tentative ruling on the case between Virtue at the Pointe, LLC (Plaintiff) and David McGarry (Defendant). The Plaintiff demurred to the Defendant's Answer and moved to strike the Answer, alleging that the 28 Affirmative Defenses (AD) were uncertain, irrelevant, or improper. The Judge found that the Plaintiff's Points and Authorities (P&A) failed to meet the initial burden of showing insufficient fact pleading, uncertainty, or irrelevance, and that the Plaintiff's assertions were conclusory and lacked application of law to the ADs. The Judge also noted that the Plaintiff's contention that all the ADs were uncertain was improper because it failed to specify what aspect of each AD made it uncertain. The Judge overruled the Plaintiff's demurrer and denied the motion to strike.

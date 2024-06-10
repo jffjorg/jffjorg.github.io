@@ -1,0 +1,72 @@
+Here is the YAML summary of the tentative ruling:
+
+```
+---
+case_number: 23NWCV02359
+hearing_date: 2024-05-16
+dept: C
+plaintiff: Cynthia Ledezma
+defendant: Sandra Carrillo
+people:
+  - Cynthia Ledezma
+  - Sandra Carrillo
+company_names: []
+places: []
+dates:
+  - 2023-07-28 (filing of complaint)
+  - 2023-04-03 (unlawful detainer judgment)
+  - 2022-08 (slip and fall incident)
+  - 2022-11 (notification of incident)
+  - 2022-12 (COVID-19 contraction)
+  - 2023-01 (late payment request)
+events:
+  - Demurrer to third cause of action
+  - Motion to strike portions of plaintiff's complaint
+money: []
+intentions:
+  - Plaintiff seeks damages for wrongful eviction, general negligence, and premises liability
+facts:
+  - Plaintiff slipped and fell on guavas on Defendant's property
+  - Plaintiff notified Defendant of the incident
+  - Plaintiff and her children contracted COVID-19
+  - Defendant refused to accept a late payment
+disputes:
+  - Plaintiff's claim for wrongful eviction is barred by res judicata
+  - Plaintiff's claim for punitive damages is permitted
+acts:
+  - Demurrer to third cause of action
+  - Motion to strike portions of plaintiff's complaint
+agreements: []
+laws:
+  - CCP §430.10(a) and (e)
+  - CCP §436
+  - Res judicata
+  - Collateral estoppel
+  - Issue preclusion
+  - Punitive damages
+  - Wrongful eviction
+case_citations:
+  - Citizens for Open Access to Sand and Tide, Inc. v. Seadrift Ass'n (1998) 60 Cal.App.4th 1053
+  - Mycogen Corp. v. Monsanto Co. (2002) 28 Cal.4th 888
+  - Castillo v. City of Los Angeles (2001) 92 Cal.App.4th 477
+  - Landeros v. Pankey (1995) 39 Cal.App.4th 1167
+  - Malkoskie v. Option One Mortgage Corp. (2010) 188 Cal.App.4th 968
+  - Pelletier v. Alameda Yacht Harbor (1986) 188 Cal.App.3d 1551
+  - Nativi v. Deutsche Bank National Trust Co. (2014) 223 Cal.App.4th 261
+roles:
+  - Judge
+  - Plaintiff
+  - Defendant
+significant_statements:
+  - The doctrine of res judicata applies when the issues decided in the prior adjudication are identical with those presented in the later action
+  - The doctrine of collateral estoppel applies when the issue is identical to that decided in the former proceeding
+  - The motion to strike the third cause of action is rendered moot by the court's ruling
+```
+
+And here is the English text summarizing the judge's tentative ruling:
+
+The court has reviewed the judicially noticeable documents filed in conjunction with the instant Demurrer. The court finds that the doctrine of res judicata applies in this case, as the issues decided in the prior adjudication are identical with those presented in the later action. The court also finds that the doctrine of collateral estoppel applies, as the issue of possession has been adjudicated in the unlawful detainer action.
+
+The court has overruled the demurrer to the third cause of action, as the issue of wrongful or retaliatory eviction was not actually or necessarily decided by the UD court. The court has also denied the motion to strike the third cause of action, as it is rendered moot by the court's ruling.
+
+The court has also denied the motion to strike punitive damages, as the allegations are sufficient to warrant a claim for punitive damages at this stage in the litigation.

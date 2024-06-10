@@ -1,0 +1,54 @@
+Here is the YAML summary of the legal document:
+
+```
+case_number: 23STCV17983
+plaintiff: Andre Nesbit
+defendant: Walgreens
+people_names:
+  - Andre Nesbit
+  - Jon R. Takasugi
+company_names:
+  - Walgreens
+places:
+  - Los Angeles
+  - California
+dates:
+  - August 1, 2023
+  - February 5, 2024
+  - February 26, 2024
+  - May 16, 2024
+events:
+  - Plaintiff filed suit against Walgreens
+  - Defendant filed motions to compel further responses
+  - Plaintiff provided further responses to discovery requests
+money:
+  - Monetary sanctions
+intentions:
+  - Defendant seeks monetary sanctions
+facts:
+  - Plaintiff alleged violation of the Unruh Act
+disputes:
+  - Defendant seeks further discovery responses
+acts:
+  - Plaintiff provided further responses to discovery requests
+agreements:
+  - Parties submitted on the tentative
+laws:
+  - Unruh Act
+  - California Superior Court rules
+case_citations:
+  - None mentioned
+statutes:
+  - Unruh Act
+roles:
+  - Judge: Hon. Jon R. Takasugi
+  - Plaintiff: Andre Nesbit
+  - Defendant: Walgreens
+significant_statements:
+  - Defendant's motion to compel further responses is MOOT
+  - The Court declines to award sanctions at this time
+```
+
+And here is the English-text summary of the judge's tentative ruling:
+
+The defendant, Walgreens, filed a motion to compel further responses to its Form Interrogatories, seeking monetary sanctions. However, the plaintiff, Andre Nesbit, had already provided further responses to the discovery requests. As a result, the defendant's motion is moot, and the court declines to award sanctions at this time.

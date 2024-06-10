@@ -1,0 +1,66 @@
+Here is a summary of the tentative ruling in YAML format:
+
+```
+case_number: 23SMCV00538
+plaintiff: Jose DeCastro
+defendant: Michael Pierattini
+people_names:
+  - Jose DeCastro
+  - Michael Pierattini
+company_names: []
+places: []
+dates:
+  - March 14, 2023 (Complaint Filed)
+  - January 24, 2024 (Discovery C/O)
+  - February 10, 2025 (Discover Motion C/O)
+  - May 16, 2024 (Hearing Date)
+  - January 25, 2023 (Deposition of Jose DeCastro)
+  - February 24, 2025 (Trial Date)
+events:
+  - Demurrer to Amended Answer
+  - Motion to Compel Responses to RFPs (Set Two)
+  - Motion for Sanctions pursuant to CCP §128.7
+money:
+  - $4500 (amount requested for sanctions)
+intentions:
+  - Plaintiff seeks to compel defendant to respond to RFPS (Set Two)
+  - Defendant seeks sanctions against plaintiff for filing untimely demurrer
+  - Plaintiff seeks to overrule demurrer to defendant's Amended Answer
+  - Defendant seeks to deny plaintiff's motion to compel responses to RFPS (Set Two)
+facts:
+  - Plaintiff filed demurrer to defendant's Amended Answer
+  - Plaintiff failed to submit a mandatory CRC Rule 3.1345 Separate Statement
+  - Defendant submitted a copy of his responses to the RFPS (Set Two)
+  - Plaintiff failed to establish good cause for further responses
+  - Defendant seeks sanctions in the amount of $4500
+disputes:
+  - Plaintiff's demurrer to defendant's Amended Answer
+  - Defendant's motion to compel responses to RFPS (Set Two)
+  - Defendant's motion for sanctions pursuant to CCP §128.7
+acts:
+  - Plaintiff filed demurrer to defendant's Amended Answer
+  - Defendant filed response to plaintiff's demurrer
+  - Plaintiff failed to meet and confer with defendant before filing demurrer
+  - Defendant seeks sanctions against plaintiff for filing untimely demurrer
+agreements:
+  - None
+laws:
+  - CCP §2031.310
+  - CCP §430.40
+  - CCP §430.41
+  - CCP §128.7
+statutes:
+  - CCP §430.30
+  - CCP §431.70
+roles:
+  - Plaintiff: Jose DeCastro
+  - Defendant: Michael Pierattini
+  - Judge: [Insert Judge's Name]
+significant statements:
+  - Plaintiff's demurrer to defendant's Amended Answer is overruled
+  - Defendant's motion to compel responses to RFPS (Set Two) is denied
+  - Defendant's motion for sanctions pursuant to CCP §128.7 is denied
+```
+
+Summary:
+The tentative ruling denies Plaintiff Jose DeCastro's motion to compel responses to RFPS (Set Two) and denies Defendant Michael Pierattini's motion for sanctions pursuant to CCP §128.7. The court finds that Plaintiff failed to establish good cause for further responses and failed to meet and confer with Defendant before filing the demurrer. The court also finds that Defendant's motion for sanctions is not supported by the evidence and is denied.

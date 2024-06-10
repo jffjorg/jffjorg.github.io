@@ -1,0 +1,62 @@
+Here is the summary in YAML format:
+
+```
+case_number: 24TRCV00170
+plaintiff: Karin Friedman
+defendant: Anthony Cavuoti, LMFT, Carellon Behavioral Health of CA, Inc., et al.
+people_names:
+  - Karin Friedman
+  - Anthony Cavuoti
+company_names:
+  - Carellon Behavioral Health of CA, Inc.
+places: []
+dates:
+  - January 23, 2024
+  - March 5, 2024
+  - April 2, 2024
+  - April 10, 2024
+  - April 17, 2024
+  - May 14, 2024
+  - May 16, 2024
+events:
+  - Filing of Complaint
+  - Filing of First Amended Complaint
+  - Filing of Motion for Leave to File Second Amended Complaint
+  - Filing of opposition (none)
+money: []
+intentions:
+  - To amend the complaint
+facts:
+  - Plaintiff alleges causes of action for Professional Negligence, Intentional Infliction of Emotional Distress, and Negligent Hiring
+  - Plaintiff filed a First Amended Complaint
+  - Defendant filed a demurrer to the First Amended Complaint
+disputes:
+  - Dispute over the merits of the case
+  - Dispute over the sufficiency of the complaint
+acts:
+  - Filing of pleadings
+  - Conduct of discovery
+agreements:
+  - Parties' stipulation for the filing of responsive pleadings
+laws:
+  - California Code of Civil Procedure section 473
+  - California Rules of Court, Rule 3.1324
+  - Magpali v. Farmers Group (1996)
+  - California Rules of Court, rule 3.1324
+  - Cal. Rules of Court, rule 3.1324
+statutes:
+  - California Code of Civil Procedure section 473
+  - California Rules of Court, Rule 3.1324
+roles:
+  - Plaintiff (Karin Friedman)
+  - Defendant (Anthony Cavuoti, LMFT, Carellon Behavioral Health of CA, Inc., et al.)
+  - Judge (ordering the parties to follow certain procedures)
+significant_statements:
+  - The Court grants the Plaintiff's motion for leave to file a second amended complaint.
+  - The Court notes that the Plaintiff has moved expeditiously in amending her pleading.
+  - The Court ordered the Defendant to file a responsive pleading within 30 days of service of the ruling.
+```
+
+And here is the summarized text in English:
+
+This is a tentative ruling by the judge in the case of Karin Friedman vs. Anthony Cavuoti, LMFT, Carellon Behavioral Health of CA, Inc., et al. The plaintiff, Karin Friedman, has filed a motion for leave to file a second amended complaint. The judge has granted this motion, allowing the plaintiff to file a second amended complaint. The judge notes that the plaintiff has moved expeditiously in amending her pleading and has complied with the procedural requirements. The defendant has not filed an opposition to the motion. The judge orders the defendant to file a responsive pleading within 30 days of service of the ruling.

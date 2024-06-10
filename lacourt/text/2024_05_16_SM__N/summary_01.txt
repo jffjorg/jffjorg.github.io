@@ -1,0 +1,68 @@
+Here is the YAML representation of the tentative ruling:
+
+```
+Case Number: 22SMCV01999
+Plaintiff's Name: Howard Feldman
+Defendant's Name: Wayne Gretzky, Janet Gretzky
+People-Names:
+  - Howard Feldman
+  - Wayne Gretzky
+  - Janet Gretzky
+Company-Names:
+  - BuChew
+  - OMG gum
+Places:
+  - Los Angeles
+Dates:
+  - June 22, 2023
+  - August 1, 2023
+  - July 21, 2023
+  - August 21, 2023
+  - January 2019
+  - June 2018
+Events:
+  - Filing of First Amended Complaint
+  - Filing of Errata Plaintiff's First Amended Complaint
+  - Demurrer to First Amended Complaint
+Money:
+  - $1,000,000
+  - $10,000
+Intentions:
+  - To induce reliance on purported fraudulent statements
+Facts:
+  - Defendants allegedly made false representations about OMG gum's effectiveness
+  - Plaintiff invested in BuChew due to these representations
+  - Plaintiff suffered $1,000,000 in damages
+Disputes:
+  - Fraudulent misrepresentations by Defendants
+  - Negligent misrepresentation by Defendants
+Acts:
+  - Filing of complaint
+  - Filing of demurrer
+  - Request for judicial notice
+Agreements:
+  - Court's order allowing amendment of complaint
+Laws:
+  - Evidence Code section 452
+  - Code of Civil Procedure section 437c
+Case Citations:
+  - Harris v. Wachovia Mortgage, FSB (2010) 185 Cal.App.4th 1018
+  - Donabedian v. Mercury Ins. Co. (2004) 116 Cal.App.4th 968
+  - Aubry v. Tri-City Hosp. Dist. (1992) 2 Cal.4th 962
+  - Goodman v. Kennedy (1976) 18 Cal.3d 335
+  - Kong v. City of Hawaiian Gardens Redevelopment Agency (2002) 108 Cal.App.4th 1028
+  - Vaccaro v. Kaiman (1998) 63 Cal.App.4th 761
+  - Hinesley v. Oakshade Town Ctr. (2005) 135 Cal.App.4th 289
+  - Lazar v. Superior Court (1996) 12 Cal.4th 631
+  - Hydro-Mill Co., Inc. v. Hayward, Tilton & Rolapp Ins. Associates, Inc. (2004) 115 Cal.App.4th 1145
+Roles:
+  - Plaintiff: Howard Feldman
+  - Defendant: Wayne Gretzky, Janet Gretzky
+Significant Statements:
+  - "A demurrer tests the legal sufficiency of the allegations in a complaint."
+  - "A court may not consider declarations, matters not subject to judicial notice, or documents not accepted for the truth of their contents."
+```
+
+And here is the English-text summary of the judge's tentative ruling:
+
+The judge has tentatively ruled that the demurrer filed by Defendants Wayne Gretzky and Janet Gretzky to the First Amended Complaint is SUSTAINED, with 30 days' leave to amend. The judge has found that the Plaintiff's claims for fraud and negligent misrepresentation are insufficiently pleaded due to a lack of specific facts regarding the Defendants' alleged misrepresentations. The judge has granted the Defendants' request for judicial notice of certain court orders and has considered the Plaintiff's "Errata Plaintiff's First Amended Complaint" as if it were a Second Amended Complaint. The judge has given the Plaintiff an opportunity to amend the complaint to cure the defects identified in the ruling.
