@@ -1,0 +1,85 @@
+Here is the summary in YAML format:
+
+```
+case_number: 123456
+plaintiff_names:
+  - Brian Yang
+  - Jerry Xu
+defendant_names:
+  - Michel Amar
+  - Alec Amar
+  - Bit.Management, LLC
+  - NYAM, LLC
+  - Multiple Application Technology, LLC
+people_names:
+  - Brian Yang
+  - Jerry Xu
+  - Michel Amar
+  - Alec Amar
+company_names:
+  - Bit.Management, LLC
+  - NYAM, LLC
+  - Multiple Application Technology, LLC
+  - Bit Mining International, LLC (BMI)
+places:
+  - California
+dates:
+  - January 16, 2019
+  - October 26, 2023
+  - December 1, 2017
+  - May 1, 2020
+events:
+  - Breach of fiduciary duty
+  - Breach of contract
+  - Breach of the implied covenant of good faith and fair dealing
+  - Fraudulent transfer
+  - Conversion
+  - Accounting
+  - Violation of the UCL
+  - Dissolution of limited liability company
+  - Business record subpoena
+  - Motion to compel
+money: $ unknown
+intentions:
+  - To compel non-party BMI to comply with the business record subpoena
+  - To obtain financial documents related to asset transfers
+facts:
+  - Michel Amar unilaterally changed Bit.Management's business model
+  - Amar transferred ownership of miners and contracts to BMI
+  - Yang's profits were negatively impacted
+disputes:
+  - Relevance
+  - Privacy
+  - Scope
+acts:
+  - Transfer of ownership to BMI
+  - Exclusion from participation in ownership
+  - Negative impact on Yang's profits
+agreements:
+  - Business record subpoena
+  - Protective order
+laws:
+  - California Code of Civil Procedure
+  - Federal Rules of Civil Procedure
+case_citations:
+  - [Citation: [Court: [Court Name], [Case Number: [Case Number]]
+statutes:
+  - California Uniform Trade Secrets Act
+  - California Business and Professions Code
+roles:
+  - Plaintiff: Brian Yang
+  - Defendant: Michel Amar
+  - Defendant: Alec Amar
+  - Defendant: Bit.Management, LLC
+  - Defendant: NYAM, LLC
+  - Defendant: Multiple Application Technology, LLC
+  - Defendant: Bit Mining International, LLC (BMI)
+significant_statements:
+  - The Court grants the Motion to Compel in part.
+  - The Court will require a production of documents from December 1, 2017, until May 1, 2020.
+  - The Court declines to award sanctions.
+```
+
+And here is the English-text summary:
+
+The Judge's tentative ruling grants the Motion to Compel in part, requiring Bit Mining International, LLC (BMI) to comply with a business record subpoena. The subpoena seeks financial documents related to asset transfers among BMI and the Defendants. The Court finds that the testimony of Michel Amar, a Defendant, is unclear and that there is an interrelationship between BMI and the Defendants. The Court also notes that corporations have a lesser privacy interest in financial documents. The Court will require a production of documents from December 1, 2017, until May 1, 2020. The Court declines to award sanctions.

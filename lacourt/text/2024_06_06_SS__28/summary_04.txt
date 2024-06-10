@@ -1,0 +1,70 @@
+Here is the summary of the Judge's tentative ruling in YAML format:
+
+**Case Information**
+```
+case_number: 22STCV05186
+hearing_date: June 6, 2024
+dept: 28
+```
+
+**Parties**
+```
+plaintiff: Martin Castro Vela
+defendants:
+  - State of California
+  - County of Los Angeles
+  - City of Los Angeles
+  - Vesta Housing Solutions, LLC
+  - Bernards Bros. Inc. (dba Bernards)
+  - TMP Services, Inc.
+  - Preferred Modular Structures, Inc.
+  - Zurich Insurance (insurer of A&D)
+```
+
+**Background**
+```
+prior_proceedings:
+  - February 10, 2022: Plaintiff files lawsuit
+  - June 27, 2022: Vesta files answer
+  - June 30, 2022: Vesta files cross-complaint
+  - August 1, 2022: Court dismisses City
+  - August 18, 2022: Court dismisses County and State
+  - September 6, 2022: Plaintiff amends complaint to add Bernards
+  - October 12, 2022: Bernards files answer
+  - September 11, 2023: Plaintiff amends complaint to add TMP
+  - November 7, 2023: TMP files answer and cross-complaint
+  - November 28, 2023: Bernards and Vesta file answer to TMP's cross-complaint
+  - December 18, 2023: TMP amends cross-complaint to add Preferred
+  - January 25, 2024: Court dismisses Bernards and Vesta from TMP's cross-complaint
+  - February 16, 2024: Plaintiff amends complaint to add Preferred
+  - April 22, 2024: Preferred files answer to Plaintiff's complaint
+```
+
+**Settlement**
+```
+settlement_terms:
+  - Amount: $943,159
+  - Settling parties: Bernards and Vesta
+  - Settlement terms: Plaintiff agrees to file request for dismissal with prejudice
+  - Allocation: Plaintiff will receive entire settlement subject to applicable liens
+  - Financial considerations: Moving Defendants have insurance coverage beyond Zurich policy limits
+```
+
+**Tech-Bilt factors**
+```
+moving_defendants_proportionate_liability: Bernards not liable as general contractor
+plaintiff's DAMAGES: $267,998.22 in past medical expenses
+  - Future lost earnings: $130,000
+  - Future medical expenses: unknown
+  - Allocation: Plaintiff will receive entire settlement subject to applicable liens
+  - Financial considerations: Moving Defendants have insurance coverage beyond Zurich policy limits
+  - Collusion or fraud: None found
+```
+
+**Court's Ruling**
+```
+ruling: The Court takes the motion for good faith settlement determination off calendar
+  - The Court will not consider the motion at this time
+  - Moving parties are ordered to give notice of this ruling
+  - Moving parties are ordered to file proof of service of this ruling with the Court within five days
+```

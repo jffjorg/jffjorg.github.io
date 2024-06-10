@@ -1,0 +1,65 @@
+Here is the YAML summary of the judicial document:
+
+```
+case_number: 23NWCV01345
+plaintiff: C CARROLL
+defendant: SANDY CERVANTES
+people_names:
+  - C CARROLL
+  - SANDY CERVANTES
+company_names: []
+places:
+  - California (CCP §2031.300)
+  - July 18, 2023 (service date)
+  - October 31, 2023 (motion filing date)
+  - June 2, 2024 (no opposition filed)
+  - June 6, 2024 (hearing date)
+dates:
+  - June 6, 2024 (hearing date)
+  - July 18, 2023 (service date)
+  - October 31, 2023 (motion filing date)
+  - June 2, 2024 (no opposition filed)
+events:
+  - Plaintiff's unopposed Motion to Compel Defendant's Responses to Request for Production of Documents (set one)
+  - Service of Request for Production of Documents (set one) on Defendant Cervantes on July 18, 2023
+  - Filing of Plaintiff's Motion to Compel on October 31, 2023
+  - No opposition filed to the motion as of June 2, 2024
+money: []
+intentions:
+  - Compel Defendant to provide verified responses and documents
+facts:
+  - Defendant failed to respond to the Request for Production of Documents (set one) despite proper service
+  - Plaintiff properly served the Request for Production of Documents (set one) on Defendant on July 18, 2023
+  - Deadline to respond has expired, and no responses of any kind have been provided
+  - Plaintiff filed the Motion to Compel on October 31, 2023
+disputes:
+  - Failure to respond to discovery
+  - Failure to comply with court orders
+acts:
+  - Service of Request for Production of Documents (set one) on Defendant
+  - Filing of Plaintiff's Motion to Compel
+  - No opposition filed to the motion
+  - Court's order to compel responses and documents
+agreements:
+  - Plaintiff's agreement to give notice of the order
+  - Defendant's obligation to provide verified responses and documents
+  - Parties' agreement to extend the deadline for responses and documents (optional)
+laws:
+  - California Code of Civil Procedure (CCP) §2031.300
+  - California Code of Civil Procedure (CCP) §2031.300, subd. (c)
+  - Sinaiko Healthcare Consulting, Inc. v. Pac. Healthcare Consultants (2007) 148 Cal.App.4th 390, 404
+statutes:
+  - California Code of Civil Procedure (CCP) §2031.300
+  - California Code of Civil Procedure (CCP) §2031.300, subd. (c)
+roles:
+  - Plaintiff (C CARROLL)
+  - Defendant (SANDY CERVANTES)
+  - Court
+significant statements:
+  - Failure to respond to discovery waives all objections
+  - Failure to comply with court orders is deemed a violation of the court's order
+```
+
+And here is the English summary of the judge's tentative ruling:
+
+The plaintiff's unopposed motion to compel the defendant's responses to the request for production of documents (set one) is granted. The defendant, Sandy Cervantes, failed to respond to the request despite proper service on July 18, 2023. The deadline to respond has expired, and no responses of any kind have been provided. The plaintiff filed the motion to compel on October 31, 2023, and no opposition was filed as of June 2, 2024. The court orders the defendant to provide verified responses and documents without objection by June 21, 2024.

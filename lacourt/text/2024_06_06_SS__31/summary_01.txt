@@ -1,0 +1,64 @@
+Here is the summary in YAML format:
+
+```
+caseNumber: 20STCV44672
+hearingDate: 2024-06-06
+department: 31
+plaintiffName: Aram Karyan
+defendantNames:
+  - Jaysn Keith Dobard
+  - Skyline Exchange LLC
+peopleNames:
+  - Jaysn Keith Dobard
+  - Aram Karyan
+companyNames:
+  - Skyline Exchange LLC
+places:
+  - California
+dates:
+  - 2019-09-12
+  - 2024-01-17
+  - 2024-04-19
+events:
+  - Motor vehicle incident
+  - Court hearing
+  - Default judgment
+money:
+  - $71,445.00 (principal damages)
+  - $17.66 (clerk's filing fees)
+  - $71,462.66 (total)
+intentions:
+  - Plaintiff seeks to recover damages from the motor vehicle incident
+facts:
+  - Jaysn Keith Dobard was operating the motor vehicle at the time of the incident
+  - Aram Karyan was injured in the incident
+  - Plaintiff seeks $51,445 in special damages and $250,000 in general damages
+  - Plaintiff has not substantiated general damages in the amount of $250,000
+disputes:
+  - Dispute over the amount of general damages
+acts:
+  - Jaysn Keith Dobard operated the motor vehicle
+  - Aram Karyan was injured in the incident
+  - Plaintiff seeks recovery for damages
+agreements:
+  - Default judgment is granted in the amount of $71,445 and $17.66 in costs
+laws:
+  - California Code of Civil Procedure
+  - California Civil Code
+caseCitations:
+  - CIV-100
+  - JUD-100
+statutes:
+  - California Code of Civil Procedure § 580
+roles:
+  - Judge
+  - Plaintiff (Aram Karyan)
+  - Defendant (Jaysn Keith Dobard and Skyline Exchange LLC)
+significantStatements:
+  - Plaintiff is awarded $71,445 in principal damages and $17.66 in costs
+  - General damages are reduced to $20,000
+```
+
+And here is the summary in English:
+
+Based on the information provided, the court has issued a tentative ruling in the case of Aram Karyan vs. Jaysn Keith Dobard and Skyline Exchange LLC. The plaintiff, Aram Karyan, is seeking damages for injuries sustained in a motor vehicle incident on September 12, 2019. The defendant, Jaysn Keith Dobard, was operating the vehicle in the course of his employment with Skyline Exchange LLC at the time of the incident. The court has granted the plaintiff's request for default judgment in the amount of $71,445 and $17.66 in costs. However, the court has reduced the amount of general damages from $250,000 to $20,000. The court has also denied the plaintiff's request for additional costs.

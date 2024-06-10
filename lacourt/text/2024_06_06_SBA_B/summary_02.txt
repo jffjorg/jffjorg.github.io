@@ -1,0 +1,112 @@
+Here is the summary in YAML format:
+```yaml
+Case Number: 23TRCV04277
+Case Type: Civil
+
+Plaintiff:
+  Name: Geniezip USA LLC
+  Company: Geniezip USA LLC
+
+Defendant:
+  Name: Roadlight Inc.
+  Company: Roadlight Inc.
+  Person: Greta Grigoryan
+
+People:
+  - Greta Grigoryan
+
+Companies:
+  - Geniezip USA LLC
+  - Roadlight Inc.
+  - FNS, Inc.
+  - Jayhawk Motor Freight Inc.
+  - LG Electronics U.S.A. Inc.
+
+Places:
+  - Los Angeles County
+  - Torrance, California
+  - Fort Worth, Texas
+  - Port of Long Beach
+
+Dates:
+  - December 26, 2023
+  - December 19, 2023
+  - December 20, 2023
+  - January 4, 2024
+  - January 23, 2024
+  - April 4, 2024
+  - April 8, 2024
+  - April 19, 2024
+  - June 6, 2024
+
+Events:
+  - Filing of complaint
+  - Filing of FAC (First Amended Complaint)
+  - Taking of possession of shipments
+  - Refusal to deliver shipments
+  - Demand for payment
+  - Failure to respond to discovery requests
+  - Filing of motion to compel responses
+  - Hearing on motion to compel responses
+
+Money:
+  - $120 (additional filing fees)
+  - $1,660 (monetary sanction against defendant)
+  - $495 (hourly rate for plaintiffs' counsel)
+  - $4.1 (hours of work for plaintiffs' counsel)
+  - $2029.50 (total billable hours for plaintiffs' counsel)
+  - $2970 (anticipated cost of reply and appearance at hearing for plaintiffs' counsel)
+  - $400 (hourly rate for plaintiffs' counsel)
+  - $4 (hours of work for plaintiffs' counsel)
+  - $60 (filing fee)
+
+Intentions:
+  - To compel defendant to respond to discovery requests
+  - To deem admitted certain requests for admission
+  - To impose sanctions against defendant
+
+Facts:
+  - Defendant took possession of shipments without permission
+  - Defendant refused to deliver shipments
+  - Defendant demanded payment for unrelated shipments
+  - Plaintiff became liable to customer for value of shipments plus additional costs
+
+Disputes:
+  - Dispute over control of shipments
+  - Dispute over payment for shipments
+
+Acts:
+  - Filing of complaint
+  - Filing of FAC
+  - Taking of possession of shipments
+  - Refusal to deliver shipments
+  - Demand for payment
+  - Failure to respond to discovery requests
+
+Agreements:
+  - CCP §2030.290(b)
+  - CCP §2031.300
+  - CCP §2033.280(b)
+  - CCP §2023.010
+  - CCP §2023.030(a)
+
+Laws:
+  - California Civil Procedure Code (CCP)
+  - California Rules of Court
+
+Citations:
+  - Leach v. Superior Court (1980) 111 Cal. App. 3d 902, 905-906
+  - Weil & Brown, Civil Procedure Before Trial
+
+Roles:
+  - Judge: [Name]
+  - Plaintiff: Geniezip USA LLC
+  - Defendant: Roadlight Inc.
+  - Defendant: Greta Grigoryan
+  - Plaintiff's Counsel: [Name]
+  - Defendant's Counsel: [Name]
+
+Significant Statements:
+  - "The Court finds that plaintiffs properly served discovery requests and defendant failed to respond." (p. 10)
+  - "The Court orders defendant Grigoryan to pay to plaintiffs a monetary sanction in the amount of $1,660, within thirty days." (p. 13)
+  - "The Court finds that $1,660 ($400/hr. x 4 hrs., $60 filing fee) is a reasonable amount to be imposed against defendant." (p. 13)

@@ -1,0 +1,60 @@
+Here is the summary in YAML format:
+
+```
+case_number: 23AHCV00640
+plaintiff_names:
+  - Gerardo Martinez Jr.
+  - Leila Martinez
+defendant_name: City of Pasadena
+people_names:
+  - Gerardo Martinez Jr.
+  - Leila Martinez
+  - William A. Crowfoot
+company_names: []
+places:
+  - Pasadena
+  - Los Angeles
+dates:
+  - March 22, 2023
+  - July 31, 2023
+  - June 6, 2024
+events:
+  - Injury in a fight at a soccer match
+  - Failure to serve timely responses to discovery requests
+  - Motion to compel discovery responses
+  - Request for sanctions
+money:
+  - $570 (imposed as a sanction against Gerardo Martinez Jr.)
+  - $855 (imposed as a sanction against Leila Martinez)
+intention: To compel discovery responses and impose sanctions
+facts:
+  - Plaintiffs failed to serve timely responses to discovery requests
+  - Defendant City of Pasadena seeks to compel discovery responses
+  - Defendant requests sanctions against Plaintiffs
+disputes:
+  - Failure to serve timely responses to discovery requests
+  - Failure to serve verified responses without objections
+acts:
+  - Defendant's motion to compel discovery responses
+  - Plaintiffs' failure to serve timely responses to discovery requests
+  - Defendant's request for sanctions
+agreements:
+  - Code of Civil Procedure, Section 2030.290
+  - Code of Civil Procedure, Section 2030.290, subdivision (a)
+  - Code of Civil Procedure, Section 2031.300, subdivision (c)
+laws:
+  - Code of Civil Procedure
+  - Code of Civil Procedure, Section 2030.290
+  - Code of Civil Procedure, Section 2031.300
+roles:
+  - Judge: William A. Crowfoot
+  - Plaintiff: Gerardo Martinez Jr. and Leila Martinez
+  - Defendant: City of Pasadena
+significant_statements:
+  - Failure to serve timely responses to discovery requests may result in sanctions
+  - The court may impose a monetary sanction against the party who unsuccessfully makes or opposes a motion to compel
+```
+
+And here is the English-text summary:
+
+The tentative ruling is a decision by Judge William A. Crowfoot in a lawsuit filed by Gerardo Martinez Jr. and Leila Martinez against the City of Pasadena. The case arises from an injury sustained in a fight at a soccer match. The City of Pasadena seeks to compel the Plaintiffs to serve responses to discovery requests and requests sanctions against them. The Plaintiffs failed to serve timely responses to the discovery requests, and the Court grants the City's motion to compel. The Court also imposes sanctions against both Plaintiffs, ordering them to pay a total of $1,425 in attorney's fees and filing fees. The ruling requires the Plaintiffs to serve verified responses without objections to the discovery requests within 20 days of the date of the order.

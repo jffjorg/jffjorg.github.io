@@ -1,0 +1,80 @@
+Here is the summary in YAML format:
+
+```
+case_number: 22STCV15025
+hearing_date: 2024-06-07
+department: 32
+
+parties:
+  - plaintiff: Jose Angel Manaiza, Jr.
+  - defendant: PPF AMLI 4242 Via Marina, LLC
+
+people:
+  - Jose Angel Manaiza, Jr.
+  - AMLI 4242 Via Marina, LLC
+
+companies:
+  - AMLI 4242 Via Marina, LLC
+
+places:
+  - Charleville Blvd.
+  - 94611
+  - 9461
+  - Via Marina
+
+dates:
+  - 2022-05-05
+  - 2022-05-20
+  - 2023-05-02
+  - 2024-06-07
+
+events:
+  - Complaint filed
+  - Amended complaint filed
+  - Motion to quash service filed
+  - Proof of service filed
+
+money: None mentioned
+
+intentions:
+  - Defendant to provide notice and file a proof of service
+
+facts:
+  - Defendant moves to quash service of summons and complaint
+  - Plaintiff files complaint against Defendant
+  - Defendant argues service was defective and Court lacks personal jurisdiction
+  - Plaintiff's address changed
+
+disputes:
+  - Defendant's motion to quash service
+
+acts:
+  - Defendant's failure to serve notice of motion and moving papers
+  - Plaintiff's failure to provide correct address in proof of service
+
+agreements:
+  - Due process requirements (notice and opportunity to be heard)
+
+laws:
+  - Logan v. Zimmerman Brush Co. (1982) 455 U.S. 422
+  - Horn v. County of Ventura (1979) 24 Cal.3d 605
+
+citations:
+  - Logan v. Zimmerman Brush Co. (1982) 455 U.S. 422
+  - Horn v. County of Ventura (1979) 24 Cal.3d 605
+
+statutes: None mentioned
+
+roles:
+  - Judge: [Name]
+  - Plaintiff: Jose Angel Manaiza, Jr.
+  - Defendant: PPF AMLI 4242 Via Marina, LLC
+
+significant statements:
+  - Defendant's motion to quash service is denied
+  - Defendant must provide notice and file a proof of service
+```
+
+English-text summary:
+
+The Judge's tentative ruling denies the defendant's motion to quash service of the summons and complaint. The defendant, PPF AMLI 4242 Via Marina, LLC, argued that the service was defective and the court lacks personal jurisdiction over the defendant. However, the Judge found that the defendant failed to provide the plaintiff's correct address in the proof of service, violating the principles of procedural due process. The Judge also noted that an amended complaint was filed on May 20, 2024. As a result, the Judge denies the motion and orders the defendant to provide notice and file a proof of service.

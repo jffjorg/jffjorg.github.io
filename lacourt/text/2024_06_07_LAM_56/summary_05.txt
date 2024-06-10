@@ -1,0 +1,70 @@
+Here is the YAML representation of the tentative ruling:
+
+```
+case_number: "22STCV19158"
+hearing_date: "June 7, 2024"
+dept: "56"
+judge: "Hon. Holly J. Fujie"
+plaintiff: "Valerie Adams"
+defendant: "Los Angeles Department of Water and Power (LADWP)"
+people:
+  - Valerie Adams
+  - A. Voltaire Lazaro
+  - Anna Granado
+companies:
+  - Los Angeles Department of Water and Power (LADWP)
+places:
+  - Los Angeles
+  - Woodland Hills, CA
+dates:
+  - August 11, 2023
+  - March 5, 2024
+  - May 17, 2024
+  - May 23, 2024
+  - June 7, 2024
+events:
+  - Motion to Compel Initial Responses to Special Interrogatories
+  - Request for Sanctions
+  - Breach of Contract
+  - Common Counts for Money had and received
+  - Fraud
+  - Identity Theft
+  - Fraud and Negligence
+money:
+  - Unspecified amount
+intents:
+  - Plaintiff's intention to compel initial responses to special interrogatories
+  - Defendant's intention to respond to discovery requests
+facts:
+  - Plaintiff propounded Special Interrogatories, Set No. 1, to LADWP
+  - LADWP received the SIs on December 29, 2023, by mail
+  - LADWP emailed and mailed LADWP's Response to the SIs on February 5, 2024
+  - Plaintiff did not receive a response to the SIs
+disputes:
+  - Whether Plaintiff received LADWP's response to the Special Interrogatories, Set One
+acts:
+  - LADWP sent the response to Special Interrogatories, Set One
+  - Plaintiff filed a motion to compel initial responses to special interrogatories
+  - Defendant filed an opposition to the motion
+agreements:
+  - None mentioned
+laws:
+  - CCP § 2030.290(b)
+  - Leach v. Superior Court (1980) 111 Cal.App.3d 902, 905-906
+  - Granado Decl. ¶ 3
+  - Lazaro Decl. ¶ 11
+  - Exhibit 2- Email to Plaintiff with Responses
+statutes:
+  - CCP § 2030.290(b)
+roles:
+  - Plaintiff: Valerie Adams
+  - Defendant: Los Angeles Department of Water and Power (LADWP)
+  - Judge: Hon. Holly J. Fujie
+significant statements:
+  - The Court denies Plaintiff's request to Compel Initial Responses to the SIs as MOOT because LADWP has responded before the filing of the Motion.
+  - The Court therefore DENIES Plaintiff's Motion to Compel Initial Responses to Special Interrogatories and Request for Sanctions.
+```
+
+And here is the English-text summary of the Judge's tentative ruling:
+
+The Court has reviewed the parties' submissions and renders its tentative ruling. The plaintiff, Valerie Adams, moved to compel initial responses to special interrogatories and requested sanctions against the Los Angeles Department of Water and Power (LADWP). The Court denies the motion as moot because LADWP responded to the special interrogatories before the filing of the motion. The Court finds that LADWP provided sufficient evidence to show that it sent the response to the special interrogatories. Therefore, the Court denies the plaintiff's motion to compel initial responses to special interrogatories and request for sanctions. The parties are ordered to give notice of this ruling.

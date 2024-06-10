@@ -1,0 +1,68 @@
+Here is the summary in YAML format:
+
+```yaml
+Case Number: YC069624
+Plaintiff's Name: PRIMARY FINANCIAL SERVICE, LLC
+Defendant's Name: SUK KANG, et al.
+People-Names:
+  - SUK KANG
+  - STEVE KANG
+  - SUK HYUN KANG
+Company-Names:
+  - PRIMARY FINANCIAL SERVICES, LLC
+  - WELLS FARGO BANK, NATIONAL ASSOCIATION
+  - CBV COLLECTION SERVICES LTD.
+Places:
+  - Los Angeles
+  - Torrance
+Dates:
+  - February 6, 2014
+  - June 18, 2014
+  - August 1, 2014
+  - December 2014
+  - June 10, 2024
+Events:
+  - Complaint filed
+  - Default judgment entered
+  - Default entered against SUK KANG
+  - Assignment of rights
+  - Purchase of rights back by WELLS FARGO
+Money:
+  - $89,305.20
+Intentions:
+  - To substitute WELLS FARGO as plaintiff
+  - To correct judgment to reflect WELLS FARGO as plaintiff
+Facts:
+  - SUK KANG was defaulted against
+  - Default judgment was entered
+  - WELLS FARGO purchased rights back from CBV and PFS
+Disputes:
+  - Whether WELLS FARGO is entitled to substitute as plaintiff
+Acts:
+  - Assignment of rights
+  - Purchase of rights back
+  - Filing of complaint
+  - Entry of default judgment
+  - Purchase of rights back
+  - Filing of motion to substitute as plaintiff
+Agreements:
+  - CCP §368.5
+Laws:
+  - CCP §368.5
+Case Citations:
+  - CCP §368.5
+Statutes:
+  - CCP §368.5
+Roles:
+  - Plaintiff: PRIMARY FINANCIAL SERVICES, LLC
+  - Defendant: SUK KANG, et al.
+  - Non-party: WELLS FARGO BANK, NATIONAL ASSOCIATION
+Significant Statements:
+  - Motion to substitute WELLS FARGO as plaintiff is DENIED
+  - WELLS FARGO is the assignee of PRIMARY FINANCIAL SERVICES, LLC
+  - WELLS FARGO purchased rights back from CBV and PFS
+```
+
+And here is the English-text summary:
+
+The tentative ruling by Judge [Judge's Name] on June 10, 2024, denied the motion to substitute Wells Fargo Bank, National Association as the plaintiff in the case. The motion was filed by Wells Fargo, which claims to be the assignee of plaintiff Primary Financial Services, LLC. Wells Fargo purchased the rights to the case from CBV Collection Services Ltd. and Primary Financial Services, LLC. The judge ruled that CCP §368.5, which allows for the substitution of a party in an action or proceeding, is inapplicable in this case. The judge denied the motion, stating that Wells Fargo is not entitled to substitute as the plaintiff.

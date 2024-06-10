@@ -1,0 +1,71 @@
+Here is the YAML summary of the tentative ruling:
+
+```
+---
+case_number: 22STCV00786
+hearing_date: 2024-06-06
+dept: 61
+plaintiff: Abigail Gomez
+defendant: Millennium Multispecialty Medical Group, Inc., et al.
+people_names:
+  - Abigail Gomez
+  - Ronit Shamoilzadeh
+company_names:
+  - Millennium Multispecialty Medical Group, Inc.
+places:
+  - California
+dates:
+  - 2021-11-01 (hospitalization)
+  - 2024-01-16 (deposition)
+  - 2024-03-22 (declaration)
+  - 2024-06-06 (hearing)
+events:
+  - Deposition
+  - Hospitalization
+  - Text message exchange
+  - Divorce proceedings
+  - Sanctions
+money:
+  - $2,510.00 (sanctions requested)
+intentions:
+  - Compel deposition answers
+  - Protect medical privacy
+  - Seek sanctions
+facts:
+  - Shamoilzadeh was hospitalized in November 2021
+  - Shamoilzadeh sent disturbing text messages to Gomez
+  - Defendants' defense relies on Shamoilzadeh's hospitalization
+  - Gomez seeks to compel further deposition answers
+  - Shamoilzadeh's counsel instructed her not to answer certain questions
+disputes:
+  - Medical privacy vs. discovery
+  - Relevant information vs. protected zones
+  - Scope of deposition
+acts:
+  - Plaintiff moves to compel deposition answers
+  - Defendant opposes motion
+  - Court grants motion as to certain questions
+  - Court denies motion as to other questions
+agreements:
+  - None
+laws:
+  - Code of Civil Procedure § 2025.480
+  - Code of Civil Procedure § 2025.610
+  - Code of Civil Procedure § 2023.010
+  - Medical Board of California v. Chiarottino (2014)
+  - Hooser v. Superior Court (2000)
+  - Calcor Space Facility, Inc. v. Superior Court (1997)
+  - California Constitution
+roles:
+  - Plaintiff: Abigail Gomez
+  - Defendant: Millennium Multispecialty Medical Group, Inc., et al.
+  - Judge: (not specified)
+significant_statements:
+  - The court grants the motion to compel deposition answers as to two specific questions.
+  - The court denies the motion as to other questions.
+  - The court does not award sanctions.
+```
+
+And here is the English text summarizing the judge's tentative ruling:
+
+The court has issued a tentative ruling in the case of Abigail Gomez vs. Millennium Multispecialty Medical Group, Inc., et al. The plaintiff, Abigail Gomez, moved to compel further deposition answers from the defendant, Ronit Shamoilzadeh, regarding two specific questions. The court has granted the motion as to those two questions, finding that the plaintiff has shown good cause for seeking further responses. The court has denied the motion as to other questions, finding that they are not relevant to the case. The court has also denied the plaintiff's request for sanctions.

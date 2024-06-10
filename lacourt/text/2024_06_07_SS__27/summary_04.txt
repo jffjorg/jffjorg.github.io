@@ -1,0 +1,57 @@
+Here is the summary in YAML format:
+
+```
+case_number: 22STCV27851
+plaintiff: Edwin Castanon, an individual
+defendant: Jose Francisco Cisneros
+people_names:
+  - Edwin Castanon
+  - Jose Francisco Cisneros
+company_names: []
+places:
+  - Los Angeles County
+dates:
+  - August 26, 2022
+  - February 9, 2024
+  - June 7, 2024
+  - June 21, 2024
+  - February ___, 2025
+events:
+  - Motion to continue trial
+  - Trial
+  - Final Status Conference
+money: []
+intentions:
+  - Continuance of trial
+facts:
+  - Plaintiff filed a motor accident case
+  - Defendant filed an answer
+  - Current trial is set for June 21, 2024
+  - Defendant seeks to continue trial by 7 months
+  - No opposition arguing for prejudice
+disputes:
+  - Continuance of trial
+  - Discovery
+acts:
+  - Filing of motion
+  - Answer to complaint
+  - Filing of continuance motion
+agreements: []
+laws:
+  - California Rules of Court, Rule 3.1332(c) and (d)
+  - California Rules of Court, Rule 3.1332(e)
+statutes: []
+roles:
+  - Judge: Hon. Lee S. Arian
+  - Plaintiff: Edwin Castanon
+  - Defendant: Jose Francisco Cisneros
+  - Counsel: [Unknown]
+significant_statements:
+  - Continuances of trials are disfavored
+  - The Court may grant a continuance only on an affirmative showing of good cause
+  - The Court will consider factors such as proximity of the trial date, previous continuances, and prejudice to parties or witnesses
+```
+
+And here is the summary in English text:
+
+The judge, Hon. Lee S. Arian, has issued a tentative ruling on the motion to continue the trial. The defendant, Jose Francisco Cisneros, has moved to continue the trial by 7 months to allow for more time for discovery. The judge grants the motion and sets a new trial date for February ___, 2025. The judge considered the factors listed in California Rules of Court, Rule 3.1332(c) and (d), including proximity of the trial date, previous continuances, and prejudice to parties or witnesses. The judge notes that continuances of trials are disfavored, but the defendant has shown good cause for the continuance. The new trial date is set, and the Final Status Conference is continued to the same date.

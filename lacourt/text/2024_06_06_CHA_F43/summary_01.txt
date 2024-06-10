@@ -1,0 +1,66 @@
+Here is the YAML summary of the judge's tentative ruling:
+
+```
+---
+case_number: 22CHCV01389
+parties:
+  - plaintiff: Araceli Miceli and Anthony Miceli
+  - defendant: General Motors, LLC
+people:
+  - Araceli Miceli
+  - Anthony Miceli
+  - Judge: [unknown]
+companies:
+  - General Motors, LLC
+places: []
+dates:
+  - 2022-12-14 (complaint filed)
+  - 2023-08-25 (requests for production propounded)
+  - 2023-09-26 (defendant's responses served)
+  - 2023-10-25 (verification received)
+  - 2023-11-03 (defendant's response to meet and confer letter)
+  - 2023-12-05 (second meet and confer letter sent)
+  - 2023-12-13 (motion to compel filed)
+  - 2024-06-06 (tentative ruling issued)
+events:
+  - complaint filed
+  - requests for production propounded
+  - defendant's responses served
+  - verification received
+  - defendant's response to meet and confer letter
+  - second meet and confer letter sent
+  - motion to compel filed
+  - tentative ruling issued
+money: []
+intentions:
+  - compel further discovery responses
+  - deny plaintiff's motion to compel
+facts:
+  - plaintiff purchased a 2021 Chevrolet Silverado with a defective engine
+  - plaintiff filed a complaint against defendant for violations of the Song-Beverly Act
+  - defendant objected to plaintiff's requests for production on grounds of vagueness, ambiguity, and overbreadth
+  - plaintiff argued that defendant's responses were incomplete and evasive
+  - defendant argued that plaintiff failed to meet and confer in good faith
+disputes:
+  - plaintiff's requests for production were overbroad and sought irrelevant information
+  - defendant's responses were incomplete and evasive
+  - plaintiff's motion to compel was denied
+acts:
+  - plaintiff propounded requests for production
+  - defendant served responses to requests for production
+  - plaintiff sent meet and confer letters
+  - defendant responded to meet and confer letters
+  - plaintiff filed a motion to compel further discovery responses
+agreements:
+  - defendant agreed to produce a list of bulletins for every field action, technical service bulletins, and information service bulletins for vehicles of the same year, make, and model
+laws:
+  - California Code of Civil Procedure (CCP)
+  - California Civil Code (CC)
+citations:
+  - Calcor Space Facility, Inc. v. Superior Court (1997) 53 Cal.App.4th 216, 61 Cal.Rptr.2d 567
+roles:
+  - Judge
+significant statements:
+  - The Court will not compel a further response to Request Nos. 38 through 43.
+  - The Court will not compel a further response to Request No. 40 unless Defendant fails to produce the list of bulletins.
+```

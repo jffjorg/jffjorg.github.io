@@ -1,0 +1,68 @@
+Here is the summary in YAML format:
+
+```
+case_number: 23VECV03792
+plaintiffs_name: Keon Hollifield
+defendants_name: Rafael Delgado
+people_names:
+  - Keon Hollifield
+  - Rafael Delgado
+  - Chad G. Chapman
+company_names: []
+places:
+  - California
+dates:
+  - August 30, 2023
+  - January 9, 2024
+  - March 12, 2024
+  - March 15, 2024
+  - June 11, 2024
+events:
+  - Motor vehicle collision
+  - Filing of complaint
+  - Propounding of written discovery
+  - Service of objection only responses
+  - Meet and confer letter
+  - Motion to compel further responses
+  - Hearing on motion
+money:
+  - $2,560.00 (requested sanctions)
+  - $1,560.00 (awarded sanctions)
+  - $60 (filing fee)
+intentions:
+  - Compel Defendant to provide further responses to Request for Admissions, Set One
+  - Obtain sanctions for failure to provide responses
+facts:
+  - Plaintiff filed a complaint against Defendant for motor vehicle negligence and general negligence
+  - Plaintiff propounded written discovery, including Request for Admissions, Set One
+  - Defendant served objection only responses
+  - Plaintiff moved to compel further responses
+disputes:
+  - Plaintiff's motion to compel further responses
+  - Defendant's failure to provide responses
+acts:
+  - Plaintiff propounded written discovery
+  - Defendant served objection only responses
+  - Plaintiff moved to compel further responses
+  - Defendant failed to respond to Plaintiff's motion
+agreements:
+  - Plaintiff's motion to compel further responses
+  - Defendant's failure to provide responses
+laws:
+  - California Code of Civil Procedure section 2033.290(a)
+  - California Code of Civil Procedure section 2033.290(d)
+statutes:
+  - California Code of Civil Procedure section 2033.290
+roles:
+  - Judge
+  - Plaintiff (Keon Hollifield)
+  - Defendant (Rafael Delgado)
+  - Counsel (Chad G. Chapman)
+significant_statements:
+  - The court GRANTS Plaintiff's Motion to Compel Defendant Rafael Delgado to Provide Further Responses to Request for Admissions, Set One.
+  - The court awards Defendant Rafael Delgado and his counsel for record Chad G. Chapman sanctions in the reduced amount of $1,560.00.
+```
+
+And here is a summary of the judge's tentative ruling in English text:
+
+The court has issued a tentative ruling on a motion to compel further responses to a request for admissions. The plaintiff, Keon Hollifield, filed a complaint against the defendant, Rafael Delgado, for motor vehicle negligence and general negligence. The plaintiff propounded written discovery, including a request for admissions, and the defendant served objection-only responses. The plaintiff moved to compel further responses, which the court grants. The court also awards the defendant and his counsel sanctions in the reduced amount of $1,560.00 for failing to provide responses.

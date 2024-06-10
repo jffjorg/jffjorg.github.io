@@ -1,0 +1,62 @@
+Here is the YAML representation of the legal document:
+
+```
+case_number: 21SMCV01662
+plaintiff_name: Clayton
+defendant_name: Malibu West Swimming Club, et al.
+people_names:
+  - Riddick
+  - Samantha Clayton
+  - Royce Clayton
+company_names:
+  - Malibu West Swimming Club
+places:
+  - Malibu
+dates:
+  - October 15, 2021
+  - December 1, 2023
+  - March 14, 2024
+  - June 7, 2024
+events:
+  - Filing of motion to lift discovery stay
+  - Filing of complaint on October 15, 2021
+  - Filing of third amended complaint on December 1, 2023
+  - Addition of Riddick as Doe 1 on March 14, 2024
+  - Hearing on June 7, 2024
+money:
+  - Not applicable
+intentions:
+  - To lift discovery stay
+  - To obtain evidence of defendants' motives
+facts:
+  - Plaintiff's allegations of racial discrimination and breach of CC&Rs
+  - Defendant's alleged bad faith and unreasonable decision-making
+disputes:
+  - Discovery stay dispute
+  - Anti-SLAPP motion dispute
+  - Breach of CC&Rs dispute
+  - Racial discrimination dispute
+  - Intentional infliction of emotional distress dispute
+acts:
+  - Filing of motion to lift discovery stay
+  - Filing of complaints
+  - Conducting discovery
+  - Adding Riddick as Doe 1
+agreements:
+  - None
+laws:
+  - CCP 425.16(g)
+  - FEHA (Government Code section 12955, et seq.)
+  - Unruh (Civ. Code section 51 et seq.)
+statutes:
+  - CCP (California Code of Civil Procedure)
+  - FEHA (Fair Employment and Housing Act)
+  - Civ. Code (California Civil Code)
+roles:
+  - Judge
+  - Plaintiff
+  - Defendant
+significant_statements:
+  - "The court, on noticed motion and for good cause shown, may order that specified discovery be conducted notwithstanding this subdivision." (CCP, § 425.16(g))
+  - "The trial court should consider whether the information the plaintiff seeks to obtain through formal discovery proceedings is readily available from other sources or can be obtained through informal discovery." (Garment Workers, supra, 117 Cal.App.4th at 1162)
+  - "Plaintiffs may only be afforded a 'reasonable opportunity' to obtain evidence through discovery before the special motion to strike is adjudicated."

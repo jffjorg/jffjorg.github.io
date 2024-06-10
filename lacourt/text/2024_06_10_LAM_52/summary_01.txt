@@ -1,0 +1,70 @@
+Here is the summary in YAML format:
+
+```
+case_number: 21STCV23690
+hearing_date: 2024-06-10
+dept: 52
+plaintiff: Marina Perez
+defendant: Nates Market, Inc.
+people:
+  - Marina Perez
+  - Nates Market, Inc.
+companies:
+  - Nates Market, Inc.
+places: null
+dates:
+  - 2023-02-13
+  - 2023-02-28
+  - 2023-03-14
+  - 2024-06-10
+events:
+  - Settlement agreement
+  - Motion to enforce settlement agreement
+  - Entry of judgment
+money:
+  - $30,000
+  - $3,838.74 (prejudgment interest)
+  - $8.22 (daily interest rate)
+  - $36,793.53 (total judgment)
+  - $3,000 (attorney fees)
+  - $61.50 (expenses)
+intentions:
+  - Enforce settlement agreement
+  - Obtain judgment against defendant
+facts:
+  - Parties agreed in writing to settle the case
+  - Defendant did not pay the $30,000 as agreed
+  - Plaintiff seeks prejudgment interest
+  - Plaintiff seeks attorney fees and expenses
+disputes:
+  - Defendant's failure to pay the settlement amount
+  - Plaintiff's calculation of interest
+acts:
+  - Execution of the settlement agreement
+  - Filing of the motion to enforce settlement agreement
+  - Request for prejudgment interest and attorney fees
+agreements:
+  - Settlement agreement between the parties
+laws:
+  - Code of Civil Procedure section 664.6
+  - California Civil Code section 3287(a)
+  - Settlement agreement
+  - Civil Code section 3287(a)
+case_citations: null
+statutes:
+  - Code of Civil Procedure section 664.6
+  - California Civil Code section 3287(a)
+roles:
+  - Marina Perez (plaintiff)
+  - Nates Market, Inc. (defendant)
+  - Plaintiff's counsel
+  - Defendant's counsel
+significant_statements:
+  - The court has the power to enter judgment pursuant to Code of Civil Procedure section 664.6.
+  - Plaintiff is entitled to recover prejudgment interest at a rate of 10 percent on the principal of $30,000.
+  - Plaintiff is entitled to recover attorney fees and expenses incurred making this motion.
+```
+
+And here is the English-text summary:
+
+The Judge's tentative ruling grants Marina Perez's motion to enforce the settlement agreement and enter judgment against Nates Market, Inc. The parties agreed in writing to settle the case, with the defendant agreeing to pay the plaintiff $30,000. However, the defendant did not pay the settlement amount as agreed, and the plaintiff calculates interest from March 14, 2023, when the settlement agreement was executed. The court finds the plaintiff is entitled to recover prejudgment interest at a rate of 10% on the principal of $30,000. The court also awards the plaintiff attorney fees and expenses incurred making this motion, totaling $3,061.50. The court will modify the plaintiff's proposed judgment and enter judgment against the defendant in the amount of $36,793.53.

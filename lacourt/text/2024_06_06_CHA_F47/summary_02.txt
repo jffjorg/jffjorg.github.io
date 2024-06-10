@@ -1,0 +1,83 @@
+Here is the summary of the tentative ruling in YAML format:
+
+```
+case_number: 23CHCV01552
+hearing_date: June 6, 2024
+dept: F47
+
+people_names:
+  - Zuolin Cao
+  - Topa Insurance Company
+
+company_names:
+  - Topa Insurance Company
+
+places:
+  - Chatsworth, California
+  - Alabama Ave.
+
+dates:
+  - 4/16/24
+  - 5/30/23
+  - 1/16/24
+  - 2/15/24
+  - 3/14/24
+  - 4/16/24
+  - 6/3/24
+  - 6/26/18
+
+events:
+  - Demurrer filed
+  - Demurrer sustained
+  - Amended Complaint filed
+  - Original Complaint filed
+  - Underlying Action
+
+money:
+  - Premium
+  - Civil penalty
+
+intentions:
+  - To determine whether the demurrer is sustained or not
+
+facts:
+  - Plaintiff had an insurance policy with Defendant
+  - Defendant did not provide personal liability coverage
+  - Plaintiff did not have a lawyer in the Underlying Action
+  - Defendant did not provide adequate disclosure to Plaintiff
+
+disputes:
+  - Plaintiff's claims against Defendant
+  - Defendant's demurrer to the Amended Complaint
+  - Plaintiff's allegations against Defendant
+
+acts:
+  - Defendant's handling of Plaintiff's insurance policy
+  - Defendant's denial of Plaintiff's claim in the Underlying Action
+  - Plaintiff's failure to plead sufficient facts to state a cause of action
+
+agreements:
+  - Insurance policy between Plaintiff and Defendant
+
+laws:
+  - California Insurance Code
+  - California Code of Civil Procedure
+
+case_citations:
+  - Ray (1999) 77 CA4th 1039
+  - Love (1990) 221 CA3d 1136
+  - Waller (1995) 11 C4th 1
+
+statutes:
+  - Insurance Code 2070
+  - Insurance Code 10101
+
+roles:
+  - Plaintiff: Zuolin Cao
+  - Defendant: Topa Insurance Company
+
+significant_statements:
+  - The demurrer is sustained without leave to amend
+  - Plaintiff's claims against Defendant are without merit
+  - Defendant did not provide personal liability coverage
+  - Plaintiff failed to plead sufficient facts to state a cause of action

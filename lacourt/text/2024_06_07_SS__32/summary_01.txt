@@ -1,0 +1,48 @@
+Here is a YAML summary of the tentative ruling:
+
+```
+case_number: 21STCV08174
+hearing_date: June 7, 2024
+dept: 32
+parties:
+  plaintiff: Matthew Jacobs
+  defendant: Grandview Inn LLC
+  opposing_party: Matthew Jacobs
+
+motions:
+  demurrer: (1) Demurrer to Plaintiff's First Amended Complaint, (2) Motion to Strike Plaintiff's First Amended Complaint
+  opposing_party: Matthew Jacobs
+
+facts:
+  - Plaintiff was injured on premises owned by Defendants
+  - Plaintiff alleges negligence and premises liability
+  - Defendant Grandview Inn LLC now demurs to the first cause of action for Intentional Tort, arguing it is vague and ambiguous
+  - Defendant separately moves to strike the prayer for punitive damages
+
+intentions:
+  - Defendant argues that the alleged intentional tort is insufficient to allege liability towards Defendant
+
+laws:
+  - Code of Civil Procedure section 430.41 (meet and confer requirement)
+  - California Civil Code section 3294 (punitive damages)
+  - California Civil Code section 3294(b) (employer liability for punitive damages)
+
+citations:
+  - Donabedian v. Mercury Ins. Co. (2004) 116 Cal.App.4th 968
+  - Doe v. City of Los Angeles (2007) 42 Cal.4th 531
+  - Rannard v. Lockheed Aircraft Corp. (1945) 26 Cal.2d 149
+  - Fenton v. Groveland Comm. Services Dist. (1982) 135 Cal.App.3d 797
+  - Youngman v. Nevada Irrigation Dist. (1969) 70 Cal.2d 240
+  - Montague v. AMN Healthcare, Inc. (2014) 223 Cal.App.4th 1515
+  - Crouch v. Trinity Christian Center of Santa Ana, Inc. (2019) 39 Cal.App.5th 995
+  - Lisa M. v. Henry Mayo Newhall Memorial Hospital (1995) 12 Cal.4th 291
+
+summary:
+  - The Court finds that the demurrer is overruled and the motion to strike is denied.
+  - The Court concludes that the alleged intentional tort is sufficient to allege liability towards Defendant.
+  - The Court finds that the prayer for punitive damages is not sufficiently supported by facts.
+```
+
+And here is a summary of the tentative ruling in English text:
+
+The Court has reviewed the demurrer to the Plaintiff's First Amended Complaint and the motion to strike the prayer for punitive damages. The Court finds that the demurrer is overruled and the motion to strike is denied. The Court concludes that the alleged intentional tort is sufficient to allege liability towards the Defendant. The Court finds that the prayer for punitive damages is not sufficiently supported by facts.

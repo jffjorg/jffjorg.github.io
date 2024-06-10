@@ -1,0 +1,61 @@
+Here is the summary of the tentative ruling in YAML format:
+
+```
+case_number: 23STCV07980
+plaintiff_name: Mary Erickson
+defendant_name: Intercity Fellowship Hall
+people_names:
+  - Zachary McCready
+  - Zachary C. Skidelsky
+  - Aasim Ghaznavi
+  - Ashley T. Hylton
+company_names:
+  - McCready Law Group
+places:
+  - Los Angeles
+  - California
+dates:
+  - March 6, 2024
+  - March 22, 2024
+  - June 10, 2024
+  - June 12, 2024
+  - July 15, 2024
+events:
+  - Motion to be relieved as counsel
+  - Substitution of Attorney – Civil
+  - Order to Show Cause
+  - Hearing on Order to Show Cause
+money: None
+intentions:
+  - Defendant to represent itself
+  - Plaintiff to give notice of ruling
+facts:
+  - Defendant filed a Substitution of Attorney form
+  - Plaintiff did not serve a notice of ruling on Defendant
+  - Defendant is not represented by counsel
+disputes:
+  - Whether Defendant's answer should be stricken
+acts:
+  - Plaintiff filed a Notice of Ruling
+  - Defendant filed a Substitution of Attorney
+  - Court issued an order
+  - Court continued the hearing on Order to Show Cause
+agreements:
+  - None
+laws:
+  - California Superior Court rules
+  - California Code of Civil Procedure
+case_citations:
+  - Mar. 22, 2024 Order
+  - Pl. Mar. 22, 2024 Notice
+  - Mar. 6, 2024 MC-050
+roles:
+  - Judge: Robert B. Broadbelt III
+significant_statements:
+  - Defendant is now representing itself
+  - Defendant has not been given notice of the hearing on the Order to Show Cause
+```
+
+And here is the English-text summary of the tentative ruling:
+
+The court has issued a tentative ruling in this case, continuing the hearing on the Order to Show Cause re why defendant Intercity Fellowship Hall's answer should not be stricken because it is a corporation not represented by counsel. The court has ordered that the hearing be continued to July 15, 2024, at 10:00 a.m., in Department 53. The court has also ordered that any response to the Order to Show Cause shall be filed no later than nine court days before the hearing. Additionally, the court has ordered plaintiff Mary Erickson to give notice of this ruling and to file a proof of service of the notice of this ruling with the court no later than June 12, 2024.

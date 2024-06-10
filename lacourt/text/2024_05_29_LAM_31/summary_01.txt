@@ -1,0 +1,68 @@
+Here is the summary in YAML format:
+
+```
+case_number: 21STCV44911
+plaintiff: Julian Stuart
+defendant: LA Dorm, LLC
+people_names:
+  - Julian Stuart
+  - Vladislav Shuliko
+company_names:
+  - LA Dorm, LLC
+places:
+  - California
+dates:
+  - December 9, 2021
+  - December 30, 2021
+  - August 28, 2023
+  - September 5, 2023
+  - November 3, 2023
+  - February 14, 2024
+  - May 10, 2024
+  - May 29, 2024
+events:
+  - Filing of complaint
+  - Answer to complaint
+  - Substitution of counsel
+  - Request for additional time
+  - Failure to appear at hearing
+  - Motion to set aside default
+  - Opposition to motion
+  - Granting of motion
+money: $0
+intentions:
+  - To set aside default
+facts:
+  - Plaintiff filed complaint
+  - Defendant answered complaint
+  - Defendant failed to appear at hearing
+  - Defendant did not retain counsel
+disputes:
+  - Breach of warranty of habitability
+  - Failure to timely respond to complaint
+acts:
+  - Filing of motion to set aside default
+  - Opposition to motion
+  - Granting of motion
+agreements:
+  - Code of Civil Procedure section 473, subdivision (b)
+laws:
+  - Code of Civil Procedure section 473, subdivision (b)
+  - Rappleyea v. Campbell (1994)
+  - People v. The North River Ins. Co. (2011)
+  - Hopkins & Carley v. Gens (2011)
+roles:
+  - Judge: Kerry Bensinger
+  - Plaintiff: Julian Stuart
+  - Defendant: LA Dorm, LLC
+  - Counsel: Vladislav Shuliko
+significant_statements:
+  - Defendant's failure to appear at hearing was due to lack of counsel
+  - Motion to set aside default granted due to excusable neglect
+  - Defendant to file answer within 30 days
+  - Case management conference scheduled for August 6, 2024
+```
+
+And here is the English text summarizing the judge's tentative ruling:
+
+This tentative ruling grants a motion to set aside a default entered against LA Dorm, LLC. The default was entered because the defendant failed to appear at a hearing on November 3, 2023. The defendant argues that it was due to a mistake, inadvertence, surprise, or excusable neglect. The court grants the motion because the defendant states it was unable to retain counsel and the reasonable inference is that the defendant did not appear at the hearing because it was without counsel. The court also finds that the motion was filed within six months of the entry of default, there is no showing of prejudice to the plaintiff, and the policy is that cases be resolved on their merits. The defendant is now represented and is ordered to file its answer within 30 days. A case management conference is scheduled for August 6, 2024.

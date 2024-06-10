@@ -1,0 +1,38 @@
+Here is the summary of the Judge's tentative ruling in YAML format:
+
+```
+--- 
+case_number: 21STCV44247
+hearing_date: June 7, 2024
+dept: 29
+
+plaintiff:
+  name: Lynda Patrick
+  claims: negligence, premises liability
+
+defendant:
+  name: 29350 LLC
+  defense: no duty to inspect and/or repair the staircase
+
+facts:
+  - Plaintiff slipped and fell on the stairs on December 10, 2020
+  - Defendant is the commercial landlord
+  - Plaintiff alleges that the staircase was "dangerously steep and slippery"
+
+legal_standing:
+  - Defendant argues that it has no duty to Plaintiff or any other invitee of the tenant
+  - Defendant argues that it is entitled to summary judgment as a matter of law
+
+disputed_issues_of_fact:
+  - Whether the staircase was designed, built, and installed by the dental office tenant or Defendant
+  - Whether Defendant had a duty to inspect the premises to determine whether they were reasonably safe at the start of the tenancy and each time the lease was renewed
+  - Whether the term "improvements" in the Lease Agreements includes the internal staircase at issue
+
+ruling:
+  - Defendant's motion for summary judgment is DENIED
+  - There are disputed issues of material fact
+```
+
+And here is a summary of the Judge's tentative ruling in English:
+
+The Judge has denied Defendant's motion for summary judgment. The Defendant argued that it had no duty to Plaintiff or any other invitee of the tenant, but the Judge found that there are disputed issues of fact. Specifically, the Judge found that the Defendant had a duty to inspect the premises to determine whether they were reasonably safe at the start of the tenancy and each time the lease was renewed. The Judge also found that the term "improvements" in the Lease Agreements includes the internal staircase at issue, which is a disputed issue that may require the introduction of parol evidence at trial.

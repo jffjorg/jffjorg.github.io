@@ -1,0 +1,50 @@
+Here is the summary in YAML format:
+
+```
+case_number: 21STCV25360
+plaintiff_name: Marquise Gaines
+defendant_name: Alice Chan
+people_names:
+  - Marquise Gaines
+  - Alice Chan
+company_names: []
+places: []
+dates:
+  - December 27, 2023
+  - January 30, 2024
+  - June 6, 2024
+events:
+  - Motion to Deem Admitted Requests for Admission
+  - Motion to Compel Responses to Special Interrogatories
+intention: The Judge intends to grant the motions
+facts:
+  - Plaintiff did not respond to Requests for Admission, Set Two
+  - Plaintiff did not respond to Special Interrogatories, Set Two
+disputes:
+  - Plaintiff's failure to respond to discovery requests
+acts:
+  - Plaintiff failed to serve a timely response to requests for admission
+  - Plaintiff failed to serve a timely response to special interrogatories
+agreements: []
+laws:
+  - California Code of Civil Procedure section 2033.280
+  - California Code of Civil Procedure section 2030.290
+  - California Rules of Court, rule 3.1348(a)
+  - Leach v. Superior Court (1980) 111 Cal.App.3d 902
+statutes:
+  - California Code of Civil Procedure section 2033.280
+  - California Code of Civil Procedure section 2030.290
+roles:
+  - Judge
+  - Plaintiff (Marquise Gaines)
+  - Defendant (Alice Chan)
+significant_statements:
+  - The Court grants Defendant's Motion to Deem Admitted Requests for Admission, Set Two
+  - The Court grants Defendant's Motion to Compel Special Interrogatories, Set Two
+  - The Court awards $60 in monetary sanctions against Plaintiff
+  - The Court orders Plaintiff to serve verified responses without objections within 10 days
+```
+
+And here is the English-text summary:
+
+This tentative ruling is about a motion filed by Defendant Alice Chan to deem admitted Requests for Admission, Set Two and to compel verified responses to Special Interrogatories, Set Two. The plaintiff, Marquise Gaines, did not respond to these requests, and the court is considering granting the motions. The court finds that the plaintiff failed to serve a timely response to the requests for admission and failed to serve a timely response to the special interrogatories. As a result, the court grants the motions and awards $60 in monetary sanctions against the plaintiff. The court also orders the plaintiff to serve verified responses without objections within 10 days.

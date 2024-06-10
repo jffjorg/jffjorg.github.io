@@ -1,0 +1,67 @@
+Here is the summary in YAML format:
+
+```
+case_number: 21CMCV00214
+plaintiff_name: Tabitha Patton
+defendant_name: Ramona King
+people_names:
+  - Tabitha Patton
+  - Ramona King
+  - Mark Bruce
+  - Arlene Aguilera
+  - Brianna Pena
+company_names: none
+places:
+  - Compton Courthouse
+dates:
+  - June 5, 2024
+  - April 17, 2024
+  - July 9, 2024
+events:
+  - Court hearing on Plaintiff's Motion for Attorney's Fees
+money:
+  - $12,084 (requested attorney's fees)
+  - $400 (hourly rate)
+  - $185 (hourly rate)
+intentions:
+  - Plaintiff seeks attorney's fees for successful litigation
+  - Plaintiff argues entitlement to attorney's fees under Penal Code § 496
+facts:
+  - Plaintiff alleges forgery and theft by Defendant
+  - Plaintiff requests attorney's fees for services rendered
+  - Defendant did not file opposition to Plaintiff's motion
+disputes:
+  - Reasonableness of attorney's fees
+acts:
+  - Plaintiff's alleged forgery and theft
+  - Defendant's alleged failure to file opposition to Plaintiff's motion
+agreements:
+  - None
+laws:
+  - Penal Code § 496
+  - Code of Civil Procedure § 1032
+  - Code of Civil Procedure § 1033.5
+  - Code of Civil Procedure § 1033.5, subd. (c)
+  - Code of Civil Procedure § 1033.5, subd. (b)(5)(A)
+  - Code of Civil Procedure § 1033.5, subd. (c)
+  - Code of Civil Procedure § 1032, subd. (a) (4)
+  - Code of Civil Procedure § 1032, subd. (a) (4)
+statutes:
+  - Penal Code § 496
+  - Penal Code § 484
+  - Code of Civil Procedure § 1032
+  - Code of Civil Procedure § 1033.5
+roles:
+  - Plaintiff: Tabitha Patton
+  - Defendant: Ramona King
+  - Counsel: Mark Bruce
+  - Counsel: Arlene Aguilera
+  - Counsel: Brianna Pena
+significant statements:
+  - Plaintiff has established entitlement to an award of attorney's fees as the Court found in Plaintiff's favor on the sixth cause of action for theft pursuant to Penal Code, section 496.
+  - The Court continues the hearing date to July 9, 2024.
+```
+
+English-text summary:
+
+The tentative ruling is a summary of the court's decision regarding Plaintiff's Motion for Attorney's Fees. The court found in Plaintiff's favor on the sixth cause of action for theft pursuant to Penal Code, section 496. The court determined that Plaintiff is entitled to an award of attorney's fees, but the motion is incomplete as it is not supported by facts necessary for the court to consider whether fees were reasonably incurred. The court continues the hearing date to July 9, 2024.

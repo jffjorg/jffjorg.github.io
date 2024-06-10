@@ -1,0 +1,62 @@
+Here is the summary in YAML format:
+
+```
+case_number: 23GDCV00360
+plaintiff: Ghukas Terteryan
+defendant: State Farm Mutual Automobile Insurance Company
+people:
+  - Ghukas Terteryan
+  - judges
+company-names:
+  - State Farm Mutual Automobile Insurance Company
+places:
+  - California
+dates:
+  - October 26, 2023
+  - February 2, 2024
+  - February 14, 2024
+  - June 7, 2024
+  - April 1, 2025
+events:
+  - Motion to Compel Responses to Interrogatories
+  - Discovery
+  - Sanctions
+money:
+  - $1,300.00
+  - $2,010.00
+intentions:
+  - Compel responses to interrogatories
+  - Sanctions for non-compliance
+facts:
+  - Plaintiff failed to serve timely responses to interrogatories
+  - Defendant moved for an order compelling responses
+  - No opposition to the motion
+disputes:
+  - Failure to comply with discovery requests
+acts:
+  - Plaintiff failed to serve timely responses
+  - Defendant moved for an order compelling responses
+agreements:
+  - Plaintiff to serve verified responses
+laws:
+  - CCP § 2030.290
+  - CCP § 2023.010
+  - CCP § 2023.030
+  - CRC Rule 3.1348(a)
+case_citations:
+  - Mattco Forge, Inc. v. Arthur Young & Co. (1990, 2nd Dist.)
+roles:
+  - Judge
+  - Plaintiff
+  - Defendant
+  - Attorney
+  - Party
+significant_statements:
+  - Failure to comply with discovery requests may result in sanctions
+  - The court may impose monetary sanctions for misuse of the discovery process
+  - The burden is on the party subject to sanctions to show substantial justification or injustice
+```
+
+And here is a summary of the judge's tentative ruling in English text:
+
+The court has granted the defendant's motion to compel responses to interrogatories. The plaintiff failed to serve timely responses to the interrogatories, which waived their right to produce and object to the interrogatories. The court orders the plaintiff to serve verified responses to the special interrogatories set two within 10 days without objection. Additionally, the court has awarded monetary sanctions of $1,300.00 to the defendant for the defendant's attorney fees and costs incurred in connection with the pending motion.

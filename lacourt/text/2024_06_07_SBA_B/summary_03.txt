@@ -1,0 +1,66 @@
+Here is the YAML summary of the tentative ruling:
+
+```
+case_number: 24TRCP00083
+plaintiff: Bill Me Later, Inc.
+defendant: Connexe Inc.
+people:
+  - Bill Me Later, Inc.
+  - Connexe Inc.
+  - Paul Roshka Jr.
+companies:
+  - WebBank
+  - Bill Me Later, Inc.
+  - Connexe Inc.
+places:
+  - Los Angeles
+  - California
+  - Torrance
+  - Southwest District
+dates:
+  - February 14, 2024
+  - December 11, 2023
+  - June 7, 2024
+events:
+  - Arbitration award
+  - Petition to confirm arbitration award
+  - Motion for order confirming arbitration and for the entry of judgment
+  - Confirmation of arbitration award
+money:
+  - $98,060.04
+intentions:
+  - Confirm the arbitrator's award
+  - Enter judgment in accordance with the award
+facts:
+  - Petitioner Bill Me Later, Inc. filed a petition to confirm arbitration award against Connexe Inc.
+  - No opposition or response was filed by the respondent.
+disputes:
+  - Confirmation of arbitration award
+  - Vacating or correcting the award
+acts:
+  - Petitioner filed a petition to confirm arbitration award
+  - Arbitrator awarded petitioner the sum of $98,060.04
+  - Petitioner attached the arbitration agreement and award
+agreements:
+  - PayPal Business Loan Agreement
+laws:
+  - CCP §1285
+  - CCP §1285.4
+  - CCP §1286
+  - CCP §1286.2
+  - CCP §1286.6
+citations:
+  - PayPal Business Loan Agreement
+statutes:
+  - California Code of Civil Procedure (CCP)
+roles:
+  - Petitioner: Bill Me Later, Inc.
+  - Respondent: Connexe Inc.
+  - Arbitrator: Paul Roshka Jr.
+significant statements:
+  - The petition is GRANTED. The award is confirmed, and judgment is entered in conformity therewith.
+```
+
+And here is the English text summary of the judge's tentative ruling:
+
+The court has granted the petition to confirm the arbitration award in favor of Bill Me Later, Inc. against Connexe Inc. The arbitrator, Paul Roshka Jr., awarded Bill Me Later, Inc. the sum of $98,060.04. The court found that Bill Me Later, Inc. met the procedural requirements under CCP §1285.4 and that Connexe Inc. did not provide any grounds for vacating or correcting the award. As a result, the court confirmed the award and ordered the entry of judgment in accordance with the award.

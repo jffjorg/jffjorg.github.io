@@ -1,0 +1,69 @@
+Here is the summary in YAML format:
+
+```
+case:
+  number: 22STCV10025
+  plaintiff: Dr. Emil Kohan
+  defendant: Jannete Pacheco Ramirez, etc.
+
+people:
+  - Dr. Emil Kohan
+  - Jannete Pacheco Ramirez
+
+places:
+  - Los Angeles
+  - California
+
+dates:
+  - April 15, 2024
+  - May 29, 2024
+
+events:
+  - Motion to Set Aside Dismissal
+  - Court hearing on April 15, 2024
+
+money: $0
+
+intentions:
+  - Plaintiff seeks to set aside dismissal of case
+  - Defendant did not respond to motion
+
+facts:
+  - Plaintiff's counsel was unable to appear at April 15, 2024 hearing
+  - Court mistakenly believed all parties had settled
+
+disputes:
+  - Plaintiff disputes dismissal of case
+  - Defendant did not respond to motion
+
+acts:
+  - Plaintiff moved to set aside dismissal
+  - Court granted motion
+
+agreements:
+  - None mentioned
+
+laws:
+  - CCP § 473(b)
+
+citations:
+  - CCP: California Code of Civil Procedure
+
+statutes:
+  - CCP § 473(b)
+
+roles:
+  - Judge Maurice Leiter
+  - Dr. Emil Kohan (Plaintiff)
+  - Jannete Pacheco Ramirez, etc. (Defendant)
+
+significant statements:
+  - "The Court considers the moving papers."
+  - "Plaintiff’s motion is GRANTED."
+```
+
+And here is the summary in English text:
+
+Tentative Ruling:
+
+The Court has granted the plaintiff's motion to set aside the dismissal of the case. The plaintiff, Dr. Emil Kohan, filed the motion to set aside the dismissal entered by the Court on April 15, 2024. The Court mistakenly believed that all parties had settled and ordered the action dismissed. However, due to technical difficulties, the plaintiff's counsel was unable to appear at the April 15, 2024 hearing to clarify that only some parties had settled. The Court finds that this is good cause to vacate the dismissal. The plaintiff's motion is granted.

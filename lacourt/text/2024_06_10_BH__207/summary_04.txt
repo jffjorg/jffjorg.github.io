@@ -1,0 +1,82 @@
+Here is the summary of the judge's tentative ruling in YAML format:
+
+```
+case_number: 23SMCV04868
+plaintiff: Stephen R. Hofer, Stephen R. Hofer Law Corporation d/b/a Aerlex Law Group, Aerlex Tax Services, LLC, and Aerlex Tax Services, LLP
+defendant: Vicky Boladian and Boladian Aviation Law Group, APC
+
+people:
+  - Stephen R. Hofer
+  - Vicky Boladian
+
+companies:
+  - Aerlex Law Group
+  - Aerlex Tax Services, LLC
+  - Aerlex Tax Services, LLP
+  - Boladian Aviation Law Group, APC
+
+places:
+  - California
+
+dates:
+  - October 15, 2023
+  - November 1, 2023
+  - November 2, 2023
+  - December 12, 2023
+  - April 23, 2024
+  - June 10, 2024
+
+events:
+  - Dispute between Hofer and Boladian over business partnership
+  - Lawsuit filed by Hofer et al. against Boladian and BALG
+  - Motion to compel arbitration filed by Hofer et al.
+  - Opposition to motion to compel arbitration filed by Boladian and BALG
+  - Hearing on motion to compel arbitration
+
+money:
+  - 210 hours of work by Boladian and BALG employees on the lawsuit
+  - Approximately $X in legal fees and costs incurred by Boladian and BALG
+
+intentions:
+  - Hofer et al. seek to compel arbitration of disputes with Boladian and BALG
+  - Boladian and BALG oppose motion to compel arbitration
+
+facts:
+  - Hofer and Boladian were business partners in ATS LLC
+  - Dispute arose over ownership and management of ATS LLC
+  - Hofer and Boladian entered into three agreements in September 2020 to settle disputes
+  - Arbitration provisions in agreements are challenged by Boladian and BALG
+
+disputes:
+  - Whether Hofer et al. have waived their right to compel arbitration
+  - Whether Boladian and BALG are bound by the arbitration provisions in the agreements
+
+acts:
+  - Filing of lawsuit by Hofer et al.
+  - Litigation for over seven months
+  - Discovery requests and responses
+
+laws:
+  - California Code of Civil Procedure section 1281.2
+  - California Civil Code section 1717
+
+case_citations:
+  - Hoover v. American Income Life Ins. Co. (2012) 206 Cal.App.4th 1193
+  - St. Agnes Medical Center v. PacifiCare of Cal. (2003) 31 Cal.4th 1187
+  - Christensen v. Dewor Developments (1983) 33 Cal.3d 778
+
+statutes:
+  - California Code of Civil Procedure section 1281.2
+  - California Civil Code section 1717
+
+roles:
+  - Judge: Michael E. Whitaker
+
+significant_statements:
+  - The Court finds that Hofer has waived the right to compel arbitration by filing suit in this court and substantially and vigorously litigating for over seven months.
+  - The Court denies Plaintiffs' motion to compel arbitration.
+```
+
+English-text summary:
+
+The judge's tentative ruling denies the motion to compel arbitration brought by Hofer et al. against Boladian and BALG. The judge finds that Hofer has waived his right to compel arbitration by filing suit in court and actively litigating for over seven months. The court concludes that the parties have engaged in tactics that are fundamentally incompatible with the expediency, efficiency, and cost-effectiveness associated with utilizing arbitration.

@@ -1,0 +1,54 @@
+Here is the summary in YAML format:
+
+```
+Case Number: 23STCP00613
+Plaintiff's Name: David Kartch
+Defendant's Name: DAGUT Group Inc., David Gutierrez
+People-Names:
+  - David Kartch
+  - David Gutierrez
+Company-Names:
+  - DAGUT Group Inc.
+Places:
+  - California
+Dates:
+  - February 28, 2023
+  - October 20, 2023
+  - April 4, 2024
+  - April 23, 2024
+  - May 28, 2024
+  - May 30, 2024
+  - July 3, 2024
+  - July 11, 2024
+Events:
+  - Petition for removal of personal information from public indexes and databases
+  - Motion for issuance of order directing the redaction of personal information
+  - Service by publication
+  - Request for continuance
+Money: N/A
+Intentions:
+  - To redact personal information from public indexes and databases
+  - To prevent potential identity theft
+Facts:
+  - DAGUT Group Inc. allegedly used David Kartch's personal address in its corporate registration documents with the California Secretary of State
+  - Kartch suspects potential identity theft
+Disputes:
+  - Whether DAGUT Group Inc. used Kartch's personal information lawfully
+Acts:
+  - Kartch filed a petition for removal of personal information
+  - Court denied the initial motion due to lack of service on DAGUT Group Inc.
+  - Kartch served DAGUT Group Inc. by publication
+  - Court granted continuance to allow 30 days to pass following the last publication date
+Agreements: N/A
+Laws:
+  - California Civil Code section 1798.201
+  - California Government Code section 6064
+Statutes:
+  - California Civil Code section 1798.201
+  - California Government Code section 6064
+Roles:
+  - Petitioner (David Kartch)
+  - Respondents (DAGUT Group Inc., David Gutierrez)
+Significant Statements:
+  - "A person who has learned or reasonably suspects that his or her personal identifying information has been used unlawfully...may petition the superior court for an order directing the alleged perpetrator of the act to appear at a hearing and show cause..." (California Civil Code section 1798.201)
+  - "The Court recognizes that part of the problem is that Petitioner does not presently know how to serve the person, David Gutierrez, who appears to have filed the Article of Incorporation that included his address."
