@@ -1,0 +1,86 @@
+Here is the summary in YAML format:
+
+```
+case_number: 23STCV21950
+hearing_date: 2024-05-09
+dept: 26 Procedural
+
+parties:
+  - name: Dioncio Cruz
+    role: Plaintiff
+  - name: AMPAM Parks Mechanical Inc.
+    role: Defendant
+
+people:
+  - name: Uzma Khan
+  - name: Oscar Alvarado
+
+companies:
+  - name: AMPAM Parks Mechanical Inc.
+
+places:
+  - Carson
+
+dates:
+  - 2023-09-12
+  - 2023-12-26
+  - 2024-04-26
+  - 2024-05-02
+
+events:
+  - Initiation of action
+  - Filing of motion to compel arbitration
+  - Filing of opposition
+  - Filing of reply
+
+money: None
+
+intentions:
+  - To compel arbitration
+  - To deny arbitration
+
+facts:
+  - Existence of arbitration agreement
+  - Authenticity of signature
+  - Potential fraud
+
+disputes:
+  - Existence of arbitration agreement
+  - Authenticity of signature
+  - Potential fraud
+
+acts:
+  - Filing of motion to compel arbitration
+  - Filing of opposition
+  - Filing of reply
+
+agreements:
+  - Arbitration agreement
+
+laws:
+  - California Code of Civil Procedure
+  - California Fair Employment and Housing Act
+  - Americans With Disabilities Act
+  - Title VII of the Civil Rights Act of 1964
+
+citations:
+  - Rosenthal v. Great Western Fin. Securities Corp. (1996) 14 Cal.4th 394
+  - Hotels Nevada v. L.A. Pacific Center, Inc. (2006) 144 Cal.App.4th 754
+  - Condee v. Longwood Management Corp. (2001) 88 Cal.App.4th 215
+  - Coast Plaza Doctors Hospital v. Blue Cross of California (2000) 83 Cal.App.4th 677
+
+statutes:
+  - California Code of Civil Procedure § 1281.2
+  - California Code of Civil Procedure § 1633.9
+
+roles:
+  - Judge
+
+significant statements:
+  - "California has a strong public policy in favor of arbitration and any doubts regarding the arbitrability of a dispute are resolved in favor of arbitration."
+  - "This strong policy has resulted in the general rule that arbitration should be upheld unless it can be said with assurance that an arbitration clause is not susceptible to an interpretation covering the asserted dispute."
+```
+
+And here is a brief summary in English:
+
+The Judge issued a tentative ruling on the motion to compel arbitration filed by AMPAM Parks Mechanical Inc. against Dioncio Cruz. The Judge denied the motion because the arbitration agreement was not properly authenticated and there is an inference that the signature was procured through fraudulent means. The Judge found that the arbitration agreement was not properly authenticated and that the signature was potentially procured through fraudulent means. The Judge also found that the Defendant failed to meet its burden of proving the authenticity of the document and that the Plaintiff presented evidence of potential fraud.

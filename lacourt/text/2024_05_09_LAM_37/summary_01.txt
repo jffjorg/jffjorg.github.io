@@ -1,0 +1,54 @@
+Here is a YAML summary of the tentative ruling:
+
+```
+case_number: 19STCV41315
+hearing_date: 2024-05-09
+department: 37
+moving_party: Stevens, Christopher M.
+opposing_party: Michaels, Sean, and PB Consulting, LLC
+trial_date: 2024-09-17
+proof_of_service: OK
+
+proceeding: Demurrer with Motion to Strike FAC
+opposition: 2024-04-26
+reply: 2024-05-02
+
+tentative_ruling:
+  - Stevens Defendants' demurrer is sustained with leave to amend
+  - Motion to strike is denied as moot
+  - Plaintiffs are granted 30 days leave to amend
+
+background:
+  - Plaintiffs filed a Complaint against Stevens, LKP, and others
+  - The Complaint alleges a single cause of action for Professional Negligence
+  - The issue is whether Stevens and LKP failed to enforce a Settlement Agreement
+
+demurrer:
+  - The court grants the Stevens Defendants' request for judicial notice
+  - The court sustains the Stevens Defendants' demurrer with leave to amend
+
+motion_to_strike:
+  - The court denies the motion to strike as moot
+
+discussion:
+  - The court finds that the Complaint fails to state a cause of action for professional negligence
+  - The court finds that the Plaintiffs failed to prove proximate causation
+  - The court sustains the Stevens Defendants' demurrer with leave to amend
+
+facts:
+  - The Plaintiffs allege that Stevens and LKP failed to enforce a Settlement Agreement
+  - The Plaintiffs claim that this failure proximately caused their damages
+
+issues:
+  - Whether the Stevens Defendants' failure to enforce the Settlement Agreement proximately caused the Plaintiffs' damages
+  - Whether the Plaintiffs failed to state a cause of action for professional negligence
+
+rulings:
+  - The Stevens Defendants' demurrer is sustained with leave to amend
+  - The motion to strike is denied as moot
+  - Plaintiffs are granted 30 days leave to amend
+```
+
+And here is a brief summary of the tentative ruling in English:
+
+The court sustains the Stevens Defendants' demurrer with leave to amend, which means that the Plaintiffs must refile their complaint to address the deficiencies identified by the court. The court also denies the motion to strike, which was brought by the Stevens Defendants. The court finds that the Plaintiffs failed to state a cause of action for professional negligence and that they failed to prove proximate causation. The court grants the Plaintiffs 30 days leave to amend to fix the deficiencies in their complaint.

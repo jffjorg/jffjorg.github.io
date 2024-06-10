@@ -1,0 +1,65 @@
+Here is the YAML summary of the tentative ruling:
+
+```
+case_number: "Unknown"
+plaintiff: "Vladimir Ouzdin"
+defendant: "BMW of North America, LLC"
+people:
+  - Vladimir Ouzdin
+  - Unknown (judge's name not specified)
+company-names:
+  - BMW of North America, LLC
+places: []
+dates:
+  - November 24, 2020
+  - November 30, 2021
+  - June 26, 2023
+events:
+  - Court compelled arbitration
+  - Plaintiff did not initiate arbitration
+  - Plaintiff seeks reconsideration of arbitration order
+  - Court grants motion for reconsideration
+money: []
+intentions:
+  - Plaintiff seeks to reconsider arbitration order
+  - Defendant seeks to compel arbitration
+facts:
+  - Plaintiff did not initiate arbitration
+  - Court issued unsigned minute order for dismissal without prejudice
+  - No signed order of dismissal was entered
+disputes:
+  - Whether non-signatory manufacturer can compel arbitration
+  - Whether court has jurisdiction to reconsider arbitration order
+  - Whether plaintiff's claims are dependent on sales contract
+acts:
+  - Court compelled arbitration
+  - Plaintiff did not initiate arbitration
+  - Plaintiff seeks reconsideration of arbitration order
+  - Court grants motion for reconsideration
+agreements:
+  - None mentioned
+laws:
+  - Code Civ. Proc. § 1008(c)
+  - Code Civ. Proc. § 581d
+  - Pinela v. Neiman Marcus Group, Inc. (2015) 238 Cal.App.4th 227
+  - Betz v. Pankow (1993) 16 Cal.App.4th 931
+  - Hyundai Motor Am. v. Superior Ct. (2015) 235 Cal.App.4th 418
+  - Powell v. Cnty. of Orange (2011) 197 Cal.App.4th 1573
+  - Ford Motor Warranty Cases (2023) 89 Cal.App.5th 1324
+  - Montemayor v. Ford Motor Co. (Cal. Ct. App. June 26, 2023) No. B320477
+statutes:
+  - Code Civ. Proc. § 1008(c)
+  - Code Civ. Proc. § 581d
+roles:
+  - Plaintiff: Vladimir Ouzdin
+  - Defendant: BMW of North America, LLC
+  - Judge: Unknown
+significant_statements:
+  - Court can reconsider its own orders
+  - Court has jurisdiction to reconsider arbitration order
+  - Unsigned minute order is not a judgment
+```
+
+And here is the English text summary:
+
+This tentative ruling pertains to a lemon law matter, where the plaintiff, Vladimir Ouzdin, seeks reconsideration of an arbitration order issued on November 24, 2020. The court compelled arbitration, but the plaintiff did not initiate arbitration. The plaintiff now argues that new law indicates that a non-signatory manufacturer like BMW of North America, LLC cannot compel arbitration under the circumstances. The court finds that it has inherent authority to reconsider its own orders and that it has jurisdiction to reconsider the arbitration order. Since no signed order of dismissal was entered, the court can still hear the motion for reconsideration. The court grants the motion and finds that the plaintiff's claims are not dependent on the sales contract.
