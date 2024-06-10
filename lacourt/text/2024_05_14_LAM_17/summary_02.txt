@@ -1,0 +1,55 @@
+Here is the summary in YAML format:
+
+```
+case_number: "23STCV17983"
+plaintiff: "Andre Nesbit"
+defendant: "Walgreens"
+people_names:
+  - Andre Nesbit
+  - Jon R. Takasugi
+company_names:
+  - Walgreens
+places:
+  - Los Angeles
+  - California
+dates:
+  - 8/1/2023
+  - 3/7/2024
+  - 2/28/2024
+  - May 14, 2024
+  - May, 2024
+events:
+  - Plaintiff filed suit against Walgreens (8/1/2023)
+  - Plaintiff moved for summary judgment (3/7/2024)
+  - Plaintiff failed to comply with procedural and evidentiary requirements
+  - Plaintiff filed four different versions of Separate Statements
+money: $0
+intentions:
+  - Plaintiff intends to prove negligence per se
+facts:
+  - Plaintiff alleges negligence per se
+  - Plaintiff failed to provide a Separate Statement setting forth plainly and concisely all material facts
+  - Plaintiff failed to cite to any supporting evidence
+disputes:
+  - Dispute over Plaintiff's failure to comply with procedural and evidentiary requirements
+acts:
+  - Plaintiff filed suit against Walgreens
+  - Plaintiff moved for summary judgment
+  - Plaintiff failed to comply with procedural and evidentiary requirements
+agreements: None
+laws:
+  - Code Civ. Proc., § 437c
+  - CCP § 437c(b)(1)
+  - CRC 3.1350
+roles:
+  - Judge: Jon R. Takasugi
+  - Plaintiff: Andre Nesbit
+  - Defendant: Walgreens
+significant_statements:
+  - Plaintiff's moving papers fail to comply with procedural and evidentiary requirements
+  - Court urges Plaintiff to obtain counsel to assist in the litigation of this action
+```
+
+And here is a summary of the judge's tentative ruling in English:
+
+The judge has denied the plaintiff's motion for summary judgment. The plaintiff, Andre Nesbit, filed a lawsuit against Walgreens alleging negligence per se. The plaintiff's motion for summary judgment was filed on March 7, 2024, but failed to comply with the procedural and evidentiary requirements of California Code of Civil Procedure section 437c. Specifically, the plaintiff's moving papers did not include a separate statement setting forth plainly and concisely all material facts, and failed to cite to any supporting evidence. The court has denied the motion and urges the plaintiff to obtain counsel to assist in the litigation of the action.

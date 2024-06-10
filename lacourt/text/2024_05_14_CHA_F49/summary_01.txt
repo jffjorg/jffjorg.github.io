@@ -1,0 +1,89 @@
+Here is a YAML summary of the tentative ruling:
+
+```
+case_number: 21CHCV00269
+hearing_date: May 14, 2024
+dept: F49
+date: 5/14/24
+case_name: Kelly Condon, Caroline Condon v. Ryan Culver Ealing, Adriana Velasquesz Vacca, and Does 1-10
+judge: [Judge's Name]
+
+parties:
+  - Kelly Condon
+  - Caroline Condon (Plaintiffs/Cross-Defendants)
+  - Ryan Culver Ealing
+  - Adriana Velasquez Vacca (Defendants/Cross-Complainants)
+
+places:
+  - 35646 Dormer Road, Agua Dulce 91390 (Condon Property)
+  - 9505 Hierba Road, Agua Dulce 91390 (Ealing/Vacca Property)
+
+dates:
+  - April 6, 2021 (initial complaint filed)
+  - July 1, 2021 (first amended complaint filed)
+  - March 20, 2022 (demurrer overruled)
+  - May 20, 2022 (answer and cross-complaint filed)
+  - July 12, 2022 (second amended complaint filed)
+  - August 17, 2022 (answer to second amended complaint filed)
+  - September 11, 2023 (preliminary injunction granted)
+  - September 12, 2023 (preliminary injunction order entered)
+  - March 13, 2024 (motion for leave to amend filed)
+  - May 1, 2024 (opposition filed)
+  - May 7, 2024 (reply filed)
+
+events:
+  - Initial complaint filed
+  - Demurrer overruled
+  - Answer and cross-complaint filed
+  - Second amended complaint filed
+  - Preliminary injunction granted
+  - Preliminary injunction order entered
+  - Motion for leave to amend filed
+  - Opposition filed
+  - Reply filed
+
+money: $0 (no monetary relief requested)
+
+intentions:
+  - Plaintiffs/Cross-Defendants seek leave to amend to add new cause of action
+  - Defendants/Cross-Complainants oppose the motion, citing prejudice
+
+facts:
+  - Dispute over easement on Hierba Road
+  - Ealing/Vacca allegedly encroached on Hierba Road Easement
+  - Condons delayed seeking relief for over three years
+
+disputes:
+  - Dispute over use and maintenance of Hierba Road Easement
+  - Dispute over rights to the Hierba Road Easement
+
+acts:
+  - Ealing/Vacca allegedly encroached on Hierba Road Easement
+  - Condons delayed seeking relief
+
+agreements:
+  - Preliminary injunction order entered
+  - Motion for leave to amend filed
+
+laws:
+  - California Code of Civil Procedure section 473
+  - California Rules of Court, rules 3.1113(1) and 3.1306(c)
+  - Evidence Code sections 452 and 453
+
+citations:
+  - Kittredge Sports Co. v. Superior Court (1989) 213 Cal.App.3d 1045
+  - Melican v. Regents of University of California (2007) 151 Cal.App.4th 168
+  - Honig v. Financial Corp. of America (1992) 6 Cal.App.4th 960
+  - Magpali v. Farmers Group, Inc. (1996) 48 Cal.App.4th 471
+
+roles:
+  - Judge: [Judge's Name]
+  - Plaintiffs/Cross-Defendants: Kelly Condon and Caroline Condon
+  - Defendants/Cross-Complainants: Ryan Culver Ealing and Adriana Velasquez Vacca
+
+significant statements:
+  - The Court finds that the Condons' delay in seeking relief is unwarranted and prejudicial to Ealing/Vacca.
+  - The Court denies the motion for leave to amend due to the unwarranted delay and prejudice.
+```
+
+Note that some information, such as the judge's name, is not included in the original text and is therefore not present in the YAML summary.

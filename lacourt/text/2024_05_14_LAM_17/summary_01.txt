@@ -1,0 +1,72 @@
+Here is the YAML summary of the tentative ruling:
+
+```
+case_number: 19STCV20062
+hearing_date: 2024-05-14
+dept: 17
+judge: Hon. Jon R. Takasugi
+parties:
+  - plaintiff: Jacob Reich
+  - defendant: Mansour Hashem
+people:
+  - Jacob Reich
+  - Mansour Hashem
+company-names: []
+places:
+  - Los Angeles
+  - Superior Court of California
+dates:
+  - 2019-06-07 (Complaint filed)
+  - 2019-09-01 (Second Amended Complaint filed)
+  - 2019-09-09 (XC filed)
+  - 2023-09-08 (Motion to Determine Claim of Exemption filed)
+  - 2024-05-14 (Hearing date)
+events:
+  - Breach of written contract
+  - Money had and received
+  - Common counts
+  - Open book account
+  - Account stated
+  - Fraud
+  - Negligence
+  - Unjust enrichment
+  - Judiciary foreclosure
+  - Reformation of contract
+  - Fraud (XC filed)
+  - Breach of fiduciary duty
+  - Declaratory relief
+money:
+  - $5,172.44 (total costs incurred)
+  - $189.43 (denied costs)
+  - $2,000.00 (paid to Sheriff)
+  - $500.00 (paid for expert opinion)
+  - $808.55 (incurred in levy on bank account)
+  - $61.65 (reserved motion)
+  - $810.00 (appraisal fee)
+  - $650.00 (rent assignment)
+  - $113.00 (ex parte request)
+  - $76.43 (ex parte filing fee)
+intentions:
+  - Plaintiff seeks to recover costs incurred in enforcing the judgment
+facts:
+  - Plaintiff filed a complaint on June 7, 2019
+  - Defendant filed an XC on September 9, 2019
+  - Plaintiff filed a second amended complaint on September 1, 2020
+disputes:
+  - Dispute over costs incurred in enforcing the judgment
+acts:
+  - Plaintiff incurred costs in filing motions and serving documents
+  - Defendant did not oppose the motion
+agreements:
+  - None
+laws:
+  - None
+case_citations:
+  - None
+statutes:
+  - None
+roles:
+  - Judge: Hon. Jon R. Takasugi
+significant_statements:
+  - Plaintiff's motion for an award of after-judgment costs is granted in part, denied in part
+  - Costs are awarded in the amount of $5,172.44, minus $189.43 denied costs

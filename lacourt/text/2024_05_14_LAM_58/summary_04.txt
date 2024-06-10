@@ -1,0 +1,63 @@
+Here is the summary in YAML format:
+
+```
+case_number: unknown
+plaintiff: unknown
+defendant: Shaghal LTD
+people_names:
+  - Frank D. Rubin
+  - Unknown (client of Frank D. Rubin)
+company_names:
+  - Law Office of Frank D. Rubin
+places:
+  - California
+dates:
+  - January 2024
+  - May 27, 2025
+  - August 5, 2024
+events:
+  - Motion to be relieved as counsel
+  - Breakdown in communication between attorney and client
+  - Unsuccessful attempts to confirm client's last known address
+  - Filing of necessary court forms
+  - Failure to retain new counsel
+money: unknown
+intentions:
+  - To be relieved as counsel of record
+  - To withdraw from the case
+facts:
+  - Attorney Frank D. Rubin seeks to be relieved as counsel
+  - Client's whereabouts unknown
+  - No prejudice will result from granting the motion
+disputes:
+  - Breakdown in communication between attorney and client
+acts:
+  - Filing of court forms
+  - Providing adequate explanation for seeking to be relieved as counsel
+  - Failure to confirm client's last known address
+  - Unsuccessful attempts to contact client
+agreements:
+  - Code of Civil Procedure section 284
+  - California Rules of Court, rule 3.1362
+laws:
+  - Code of Civil Procedure section 284
+  - California Rules of Court, rule 3.1362
+case_citations:
+  - Ramirez v. Sturdevant (1994) 21 Cal.App.4th 904, 915
+  - Code Civ. Proc., § 284
+statutes:
+  - Code of Civil Procedure section 1013
+roles:
+  - Judge
+  - Attorney (Frank D. Rubin)
+  - Client (of Frank D. Rubin)
+  - Client (of Shaghal LTD)
+significant_statements:
+  - The court grants the motion to be relieved as counsel.
+  - The attorney has complied with the Rules of Court.
+  - No prejudice will result from granting the motion.
+```
+
+And here is the English-text summary:
+
+The judge's tentative ruling is that the motion to be relieved as counsel, filed by Frank D. Rubin, the attorney for Shaghal LTD, is granted. The motion is granted because the attorney has complied with the Rules of Court by filing the necessary forms and providing an adequate explanation for seeking to be relieved as counsel. The breakdown in communication between the attorney and the client, coupled with the inability to confirm the client's last known address, has made it necessary for the attorney to seek relief from the court. The court finds that no prejudice will result from granting the motion, as the next hearing is set for August 5, 2024, and the trial is not set until May 27, 2025.

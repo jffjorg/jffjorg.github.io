@@ -1,0 +1,79 @@
+Here is the summary in YAML format:
+
+```
+case_number: 23STCV00760
+plaintiffs:
+  - Richard Hernandez
+  - Greg Hernadez
+  - Daniel Hernandez
+  - Eric Hernandez
+defendants:
+  - Wai Chi Fang
+  - Tusey Yuh Huang
+people:
+  - Richard Hernandez
+  - Greg Hernadez
+  - Daniel Hernandez
+  - Eric Hernandez
+  - Wai Chi Fang
+  - Tusey Yuh Huang
+company-names: []
+places:
+  - 122 N. Lincoln Avenue
+  - Monterey Park
+  - California
+dates:
+  - January 13, 2023
+  - February 19, 2024
+  - March 26, 2024
+  - June 25, 2024
+  - April 9, 2024
+  - September 16, 2024
+  - July 7, 2025
+  - June 23, 2025
+events:
+  - Demurrer and Motion to Strike
+  - Motion to Continue Trial
+  - Jury Trial
+  - Final Status Conference
+money: []
+intentions:
+  - Continue trial date
+facts:
+  - Plaintiffs filed a Complaint against Defendants
+  - Defendants filed a Demurrer and Motion to Strike
+  - Plaintiffs served Defendants with the Summons and Complaint
+  - Case is not yet at issue
+disputes:
+  - Plaintiffs oppose a continuance
+  - Defendants seek a continuance
+acts:
+  - Defendants filed a Demurrer and Motion to Strike
+  - Plaintiffs served Defendants with the Summons and Complaint
+  - Defendants filed a Motion to Continue Trial
+agreements:
+  - None mentioned
+laws:
+  - California Rules of Court, rule 3.1332(b)
+  - California Rules of Court, rule 3.1332(c)
+  - California Rules of Court, rule 3.1332(d)
+case-citations:
+  - California Rules of Court, rule 3.1332(b)
+  - California Rules of Court, rule 3.1332(c)
+  - California Rules of Court, rule 3.1332(d)
+statutes:
+  - California Rules of Court, rule 3.1332(b)
+  - California Rules of Court, rule 3.1332(c)
+  - California Rules of Court, rule 3.1332(d)
+roles:
+  - Judge: Kerry Bensinger
+  - Plaintiffs: Richard Hernandez, Greg Hernadez, Daniel Hernandez, and Eric Hernandez
+  - Defendants: Wai Chi Fang and Tusey Yuh Huang
+significant-statements:
+  - The court finds good cause exists to continue the trial date.
+  - The motion is GRANTED.
+```
+
+And here is the English text to summarize the judge's tentative ruling:
+
+"In this case, the court has granted the defendants' motion to continue the trial date. The defendants had filed a demurrer and motion to strike the complaint, which is set to be heard on June 25, 2024. The court finds that the case is not yet at issue and that the defendants need time to conduct discovery and file any dispositive motions. The court has continued the trial date to July 7, 2025, and has also continued all deadlines and discovery cut-offs to that date. The moving party is required to give notice of the new trial date."

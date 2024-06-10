@@ -1,0 +1,65 @@
+Here is the summary in YAML format:
+
+```
+Case Number: BC652028
+Plaintiff's Name: Justin Cato
+Defendant's Name: County of Los Angeles and Law Offices of Los Angeles County Alternate Public Defender
+People-Names:
+  - Justin Cato
+  - Michael Waldinger
+Company-Names:
+  - Law Offices of Los Angeles County Alternate Public Defender
+Places:
+  - Los Angeles
+Dates:
+  - January 16, 2024 (First Amended Complaint filed)
+  - March 19, 2024 (Request for Judicial Notice filed)
+  - October 2015 (Underlying criminal matter)
+  - October 10, 2023 (Plea bargain)
+  - October 24, 2023 (Sentence imposed)
+  - May 14, 2024 (Tentative Ruling)
+Events:
+  - Underlying criminal matter
+  - Malpractice allegations
+  - Demurrer to First Amended Complaint
+  - Request for Judicial Notice
+Money:
+  - Restitution
+  - Monetary damages
+  - Attorney's fees and costs
+Intentions:
+  - Plaintiff seeks to hold defendants liable for alleged malpractice and negligence
+Facts:
+  - Plaintiff convicted of second-degree homicide
+  - Defendant's alleged malpractice led to Plaintiff's conviction
+  - Plaintiff alleges defendants failed to prevent malpractice
+Disputes:
+  - Actual innocence
+  - Liability for alleged malpractice
+  - Restitution
+Acts:
+  - Malpractice
+  - Negligence
+  - Failure to prevent malpractice
+Agreements:
+  - None
+Laws:
+  - Government Code section 815
+  - Government Code section 814
+  - Code of Civil Procedure section 430.10
+  - Code of Civil Procedure section 581
+Statutes:
+  - Government Code section 815
+  - Government Code section 814
+  - Code of Civil Procedure section 430.10
+  - Code of Civil Procedure section 581
+Roles:
+  - Plaintiff: Justin Cato
+  - Defendant: County of Los Angeles and Law Offices of Los Angeles County Alternate Public Defender
+  - Judge: Robert B. Broadbelt III
+Significant Statements:
+  - "In a legal malpractice case arising out of a criminal proceeding, California, like most jurisdictions, also requires proof of actual innocence." (Coscia v. McKenna & Cuneo)
+  - "A plaintiff must obtain postconviction relief in the form of a final disposition of the underlying criminal case—for example, by acquittal after retrial, reversal on appeal with directions to dismiss the charges, reversal followed by the People's refusal to continue the prosecution, or a grant of habeas corpus relief—as a prerequisite to proving actual innocence in a malpractice action against former criminal defense counsel." (Coscia v. McKenna & Cuneo)
+```
+
+Note: This summary is in YAML format, which is a human-readable serialization format that is easy to read and write. It is commonly used for configuration files and data exchange.

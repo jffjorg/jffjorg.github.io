@@ -1,0 +1,68 @@
+Here is the summary in YAML format:
+
+```
+case_number: 2022-00001
+plaintiff_name: Key
+defendant_name: Association
+people_names:
+  - Key
+  - Arbitrator
+company_names:
+  - OMA
+places:
+  - unknown
+dates:
+  - 2022-04-05
+  - 2022-04-05
+events:
+  - Preliminary injunction motion
+  - Arbitration
+  - Cost award
+  - Application of CCP section 437c
+  - Ruling on discovery
+money:
+  - $48,464.28
+intention:
+  - To consider only the first 15 pages of Key's brief
+facts:
+  - Key's 24-page moving papers exceed the 15-page limit
+  - Arbitrator's refusal to permit amendment of claims
+  - Arbitrator's ruling on application of CCP section 437c
+  - Arbitrator's ruling on discovery
+  - Award of costs
+disputes:
+  - Key v. Association
+acts:
+  - Key filed a preliminary injunction motion
+  - Arbitrator awarded costs
+  - Arbitrator refused to permit amendment of claims
+  - Arbitrator ruled on application of CCP section 437c
+  - Arbitrator ruled on discovery
+agreements:
+  - None mentioned
+laws:
+  - California Civil Code (CCP)
+  - California Code of Civil Procedure (CCP) section 437c
+  - California Code of Civil Procedure (CCP) section 5975(c)
+case_citations:
+  - CRC 3.1113(d)
+  - CCP section 437c
+  - CCP section 5975(c)
+statutes:
+  - California Civil Code (CCP)
+  - California Code of Civil Procedure (CCP)
+  - California Code of Civil Procedure (CCP) section 437c
+  - California Code of Civil Procedure (CCP) section 5975(c)
+roles:
+  - Judge
+  - Key
+  - Association
+  - Arbitrator
+significant_statements:
+  - "The court previously exercised its discretion for the April 5, 2022 preliminary injunction motion to consider only the first 15 pages of Key's brief and does so again."
+  - "As a result, Key's arguments concerning the $48,464.28 award of costs, the Arbitrator's refusal to permit amendment of claims, his ruling on the application of CCP section 437c, and his ruling on discovery have not been considered."
+```
+
+And here is the English text to summarize the judge's tentative ruling:
+
+"This tentative ruling addresses the case between Key and the Association. Key filed a 24-page brief, exceeding the 15-page limit, so the court will only consider the first 15 pages. As a result, Key's arguments about the $48,464.28 cost award, the Arbitrator's refusal to allow amendment of claims, and the Arbitrator's rulings on CCP section 437c and discovery will not be considered."

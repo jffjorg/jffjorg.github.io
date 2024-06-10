@@ -1,0 +1,60 @@
+Here is the summary in YAML format:
+
+```
+case_number: 21STCV15720
+plaintiff: Harutyun Shatarevyan
+defendant: FCA US, LLC (FCA) and Does 1 through 30
+people: Harutyun Shatarevyan, Armen Margarian, Hovanes Margarian, Elmira Oganyan
+companies: FCA US, LLC, Huntington Beach Chrysler
+places: Los Angeles, California
+dates:
+  - April 26, 2021 (complaint filed)
+  - November 6, 2023 (status conference)
+  - March 6, 2024 (OSC Dismissal hearing)
+  - March 18, 2024 (motion for attorney's fees filed)
+  - May 2, 2024 (notice of non-opposition filed)
+  - May 14, 2024 (tentative ruling)
+events:
+  - Breach of Written Warranty Pursuant to the Magnuson-Moss Act
+  - Breach of Implied Warranty Pursuant to the Magnuson-Moss Act
+  - Breach of Written Warranty Pursuant to the California Song-Beverly Consumer Warranty Act (SBA)
+  - Breach of Implied Warranty Pursuant to the SBA
+  - Lemon law action
+money:
+  - $105,885 (attorney's fees)
+  - $5,449.10 (costs)
+  - $4,550 (deduction from attorney's fees)
+  - $1,365 (assistant fees)
+intentions:
+  - Plaintiff seeks recovery for attorney's fees and costs incurred in a lemon law action
+facts:
+  - Plaintiff leased a 2020 Jeep Wrangler from FCA and sold by Huntington Beach Chrysler
+  - Various defects arose in the vehicle during the warranty period
+  - Plaintiff revoked acceptance of the vehicle on January 5, 2021
+  - Defendant FCA failed to accept the revocation
+  - Plaintiff filed a motion for attorney's fees and costs
+disputes:
+  - None
+acts:
+  - Plaintiff's counsel filed a motion for attorney's fees and costs
+  - Defendant FCA failed to file an opposition to the motion
+  - Plaintiff filed a notice of non-opposition
+agreements:
+  - None
+laws:
+  - Magnuson-Moss Act
+  - California Song-Beverly Consumer Warranty Act (SBA)
+  - Code of Civil Procedure, Section 1032, subdivision (b)
+  - Code of Civil Procedure, Section 1794, subdivision (d)
+roles:
+  - Plaintiff: Harutyun Shatarevyan
+  - Defendant: FCA US, LLC (FCA)
+  - Counsel: Armen Margarian, Hovanes Margarian, Elmira Oganyan
+significant statements:
+  - The Court grants the motion for attorney's fees in the amount of $79,521
+  - The Court grants the motion for costs in the amount of $5,449.10
+```
+
+And here is a summary in English text:
+
+This tentative ruling grants a motion for attorney's fees and costs filed by Plaintiff Harutyun Shatarevyan in a lemon law action against FCA US, LLC (FCA) and Does 1 through 30. The Plaintiff leased a 2020 Jeep Wrangler and sued FCA for breach of warranties and lemon law violations. The Court granted the motion for attorney's fees in the amount of $79,521 and costs in the amount of $5,449.10. The fees were calculated using the lodestar method and a 1.2 multiplier enhancement due to the contingency nature of the representation. The Court also found the costs to be reasonable and granted the motion for costs.

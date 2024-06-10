@@ -1,0 +1,53 @@
+Here is the summary in YAML format:
+
+```
+case_number: "TBD"
+plaintiff_name: "TBD"
+defendant_name: "Formula Automotive Group"
+people_names:
+  - Arthur Bakharyan
+company_names:
+  - Formula Automotive Group
+places:
+  - California
+dates:
+  - August 22, 2023
+events:
+  - Answer to the SAC filed
+  - Motion for summary judgment filed
+money:
+  - None mentioned
+intentions:
+  - Grant summary judgment in favor of all moving parties
+facts:
+  - Arthur Bakharyan deposed as person most knowledgeable
+  - Answer to the SAC filed
+  - Motion for summary judgment filed
+  - Code Civ. Proc. § 437c, subd. (f)(1) applies
+disputes:
+  - Summary judgment
+  - Disposition of cause of action, affirmative defense, claim for damages, or issue of duty
+acts:
+  - Deposition of Arthur Bakharyan
+  - Filing of answer to SAC
+  - Filing of motion for summary judgment
+agreements:
+  - None mentioned
+laws:
+  - Code Civ. Proc. § 437c, subd. (f)(1)
+  - Code Civ. Proc. (California Code of Civil Procedure)
+statutes:
+  - California Code of Civil Procedure
+roles:
+  - Plaintiff
+  - Defendant
+  - Judge
+significant_statements:
+  - Arthur Bakharyan deposed as person most knowledgeable
+  - Motion for summary judgment filed
+  - Code Civ. Proc. § 437c, subd. (f)(1) applies
+```
+
+Here is the English-text summary of the judge's tentative ruling:
+
+The court notes that the defendants have filed an answer to the second amended complaint and a motion for summary judgment. The defendants do not explicitly move for summary adjudication, but even if they did, such a motion would only be granted if it completely disposes of a cause of action, an affirmative defense, a claim for damages, or an issue of duty. The court highlights that Arthur Bakharyan was deposed as the person most knowledgeable by Formula Automotive Group. The court intends to grant summary judgment in favor of the defendants if the motion is granted.

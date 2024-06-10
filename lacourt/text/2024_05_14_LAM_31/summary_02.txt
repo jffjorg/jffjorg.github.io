@@ -1,0 +1,51 @@
+Here is the summary in YAML format:
+```
+case_number: "unknown"
+plaintiff_name: "unknown"
+defendant_name: "unknown"
+people_names:
+  - Arbitrator Claiborne
+company_names: []
+places: []
+dates:
+  - "unknown"
+events:
+  - Petition to Vacate
+  - Petition to Confirm
+  - Arbitration
+money: []
+intentions:
+  - To vacate an arbitration award
+  - To confirm an arbitration award
+facts:
+  - Petition to Vacate was served in a certain manner
+  - Response was due within 10 days
+  - Extension of time for response was requested
+disputes:
+  - Timeliness of Petition to Vacate
+  - Authority of Arbitrator Claiborne
+  - Interpretation of CCP § 1290.6
+acts:
+  - Filing of Petition to Vacate
+  - Service of response to Petition to Vacate
+  - Request for extension of time for response
+agreements: []
+laws:
+  - CCP § 1290.6
+  - CCP § 1290.4
+  - [CCP § 1290.6 is inapposite]
+statutes:
+  - CCP § 1290.6
+  - CCP § 1290.4
+roles:
+  - Plaintiff
+  - Defendant
+  - Arbitrator Claiborne
+  - Judge
+significant_statements:
+  - Section 1290.6 concerns the timeliness of responses to a Petition to Confirm, not the timeliness of a Petition to Vacate.
+  - The court does not express an opinion on Arbitrator Claiborne's reasoning or whether there was a legal error.
+```
+And here is the English-text summary of the judge's tentative ruling:
+
+The court's tentative ruling is that CCP § 1290.6 is inapposite to the case at hand, as it concerns the timeliness of responses to a Petition to Confirm, not the timeliness of a Petition to Vacate. The court also declines to opine on the reasoning or legal error of Arbitrator Claiborne's decision. The case is scheduled for further hearing, with the court's final ruling to be issued at that time.

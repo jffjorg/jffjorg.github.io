@@ -1,0 +1,82 @@
+Here is the YAML summary of the tentative ruling:
+
+```
+case_number: 22STCV24086
+plaintiff: Pourandokht Pourat
+defendant: Shahram Moussazadeh
+cross_defendants:
+  - Hormoz Pourat
+people_names:
+  - Pourandokht Pourat
+  - Shahram Moussazadeh
+  - Hormoz Pourat
+  - Soleila Pourat
+  - Robert Gentino
+companies: []
+places:
+  - Los Angeles
+  - California
+dates:
+  - 2022-07-26
+  - 2023-01-03
+  - 2023-03-08
+  - 2023-04-11
+  - 2023-07-05
+  - 2023-10-17
+  - 2023-10-24
+  - 2023-11-24
+  - 2024-04-11
+  - 2024-04-24
+  - 2024-04-26
+  - 2024-05-14
+events:
+  - Complaint filed
+  - Cross-complaint filed
+  - Defaults entered
+  - Motion to set aside default filed
+  - Anti-SLAPP motion filed
+  - Motion to strike filed
+  - Motion to continue filed
+money: []
+intentions:
+  - To set aside default
+  - To continue motion to set aside default
+facts:
+  - Plaintiff filed complaint
+  - Defendant filed cross-complaint
+  - Defaults entered against cross-defendants
+  - Anti-SLAPP motion granted
+  - Motion to strike granted
+disputes:
+  - Whether to set aside default
+  - Whether to continue motion to set aside default
+acts:
+  - Filing of motions and complaints
+  - Entry of defaults
+  - Granting of anti-SLAPP motion
+  - Granting of motion to strike
+agreements:
+  - None
+laws:
+  - California Code of Civil Procedure
+  - California Constitution
+  - Devlin v. Kearny Mesa AMC/Jeep/Renault, Inc. (1984)
+case_citations:
+  - Devlin v. Kearny Mesa AMC/Jeep/Renault, Inc. (1984)
+statutes:
+  - California Code of Civil Procedure
+roles:
+  - Judge
+  - Plaintiff
+  - Defendant
+  - Attorney
+  - Cross-defendant
+significant_statements:
+  - Default enters when a defendant fails to respond to a complaint
+  - Default can be set aside under certain circumstances
+  - A defendant who is in default has no right to participate in the proceedings
+```
+
+And here is the English text summarizing the judge's tentative ruling:
+
+"The court denies Hormoz Pourat's motion to continue his motion to set aside default. Hormoz's motion is considered moot because the previous motions to set aside default have been denied and he remains in default. The court also notes that Hormoz's reply does not substantively respond to Moussazadeh's opposition. The court concludes that Hormoz's motion to continue a motion to set aside default is denied as moot."
