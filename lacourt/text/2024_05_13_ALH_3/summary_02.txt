@@ -1,0 +1,72 @@
+Here is the YAML representation of the legal document:
+
+```
+Case Number: 23AHCV02819
+Plaintiff's Name: Gabriela Quintero Lopez, Jorge Arnulfo Hernandez Lopez, Claudia Lorena Martinez
+Defendant's Name: Beador Construction Company, State of California
+People-Names:
+  - Gabriela Quintero Lopez
+  - Jorge Arnulfo Hernandez Lopez
+  - Claudia Lorena Martinez
+  - Alma Rosa Lopez
+Company-Names:
+  - Beador Construction Company
+  - State of California
+Places:
+  - Los Angeles
+  - Pasadena
+  - California
+Dates:
+  - December 6, 2023
+  - August 25, 2023
+  - September 16, 2023
+  - May 13, 2024
+Events:
+  - Construction accident
+  - Demurrer filed
+  - Court hearing
+Money:
+  - Amount not specified
+Intentions:
+  - To determine the sufficiency of the pleading
+Facts:
+  - Construction accident occurred on August 25, 2023
+  - Decedent died from injuries on September 16, 2023
+  - Defendant failed to maintain, inspect, control, and supervise the construction site
+  - Defendant failed to maintain, inspect, control, and supervise the equipment
+Disputes:
+  - Defendant demurred to the complaint
+  - Plaintiffs allege negligence and premises liability
+  - Defendant argues that Plaintiffs failed to allege a statutory basis for liability
+  - Plaintiffs argue that Defendant knew or should have known that the equipment was defective
+  - Defendant argues that Plaintiffs failed to identify a physical condition on the property which is dangerous or defective
+Acts:
+  - Demurrer filed by Defendant
+  - Complaint filed by Plaintiffs
+  - Court hearing scheduled for May 13, 2024
+Agreements:
+  - None specified
+Laws:
+  - California Tort Claims Act
+  - Government Code section 815
+  - Government Code section 815.4
+  - Government Code section 840
+  - Government Code section 840.2
+  - Government Code section 835
+Statutes:
+  - Government Code section 815
+  - Government Code section 815.4
+  - Government Code section 840
+  - Government Code section 840.2
+  - Government Code section 835
+Roles:
+  - Judge: William A. Crowfoot
+Significant Statements:
+  - "A public entity is not liable for an injury, except as otherwise provided by statute."
+  - "A public entity cannot be liable for common law theories of general negligence and premises liability."
+  - "Liability against a public entity must be authorized by statute."
+```
+
+And here is a summary of the judge's tentative ruling in English:
+
+The Court has considered the demurrer filed by the Defendant, State of California, and has sustained the demurrer as to the First Cause of Action (negligence) with 20 days' leave to amend. The Court has also sustained the demurrer as to the Third Cause of Action (dangerous condition of public property) with 20 days' leave to amend. The Court has sustained the demurrer as to the Second Cause of Action (premises liability) without leave to amend. The Court has rejected the Defendant's argument that Plaintiffs are obligated to identify a particular employee who committed a tortious act in order to state a valid claim. The Court has also rejected the Defendant's blanket assertion that a public entity cannot be held liable for the acts and omissions of its independent contractors.

@@ -1,0 +1,63 @@
+Here is the YAML summary:
+
+```yaml
+case_number: 23STCV09555
+plaintiff_name: RAMON ALTAMIRANO-CONTRERAS
+defendant_name: SEO YOON LEE
+people_names:
+  - Seo Yoon Lee
+  - Ramon Altamirano-Contreras
+company_names: []
+places: []
+dates:
+  - April 15, 2024
+  - November 7, 2023
+  - January 16, 2024
+  - January 23, 2024
+  - February 20, 2024
+  - May 13, 2024
+events:
+  - Motion to Compel Further
+  - Motion to Compel Deposition
+  - Requests for Sanctions
+money:
+  - $1000 (sanctions)
+  - $1950 (original request for sanctions)
+intentions:
+  - To compel further responses to discovery
+  - To compel deposition
+  - To request sanctions
+facts:
+  - Defendant did not schedule or participate in an Informal Discovery Conference
+  - Defendant did not appear for deposition
+  - Defendant did not file an opposition to the deposition notice
+disputes:
+  - Discovery disputes
+  - Failure to appear for deposition
+  - Failure to produce documents
+acts:
+  - Plaintiff moved to compel further responses to discovery
+  - Plaintiff moved to compel deposition
+  - Defendant failed to appear for deposition
+  - Defendant failed to produce documents
+agreements:
+  - Parties are required to participate in an Informal Discovery Conference to resolve outstanding discovery disputes
+  - Parties are required to file written objections to deposition notices
+laws:
+  - CCP §2025.450(a)
+  - CCP §2025.450(b)(1)
+  - CCP §2025.450(b)(2)
+case_citations: []
+statutes: []
+roles:
+  - Judge: Hon. Lee S. Arian
+  - Plaintiff: Ramon Altamirano-Contreras
+  - Defendant: Seo Yoon Lee
+significant_statements:
+  - The Court may deny or continue a Motion to Compel Further Responses to Discovery if the parties do not schedule and complete an Informal Discovery Conference prior to the hearing date.
+  - The Court may prohibit the withdrawal of the subject motion after it has issued a tentative ruling.
+```
+
+And here is the English-text summary of the judge's tentative ruling:
+
+The judge's tentative ruling addresses two motions: a motion to compel further responses to discovery and a motion to compel deposition. The court denies the motion to compel further responses because the parties have not participated in an Informal Discovery Conference to resolve outstanding discovery disputes. The court grants the motion to compel deposition because the defendant failed to appear for the deposition and did not file an opposition to the deposition notice. The court also orders the defendant to pay sanctions of $1000 to the plaintiff.

@@ -1,0 +1,68 @@
+Here is the YAML summary of the tentative ruling:
+
+```
+case_number: "19STCV05281"
+plaintiff_name: Solutech Pharmaceuticals, LLC
+defendant_names:
+  - Dr. Robert C. Blaine
+  - Blaine Laboratories, Inc.
+  - Blaine Holding & Development, LLC
+people_names:
+  - Robert C. Blaine
+  - Paul Edalat
+company_names:
+  - Blaine Laboratories, Inc.
+  - Blaine Holding & Development, LLC
+  - Solutech Pharmaceuticals, LLC
+places:
+  - California
+dates:
+  - 02/19/19
+  - 03/04/19
+  - 03/15/19
+  - 04/25/19
+  - 05/10/19
+  - 06/05/19
+  - 09/24/19
+  - 01/14/20
+  - 04/12/21
+  - 05/09/24
+events:
+  - Breach of contract
+  - Misappropriation of trade secrets
+  - Motion for summary judgment
+  - Motion for summary adjudication
+money: $0
+intentions:
+  - Plaintiff seeks to litigate claims against defendants
+  - Defendants seek to dismiss plaintiff's claims
+facts:
+  - Multiple consolidated and related actions and cross-actions
+  - Undisputed material facts
+disputes:
+  - Plaintiff's claims against defendants
+acts:
+  - Breach of contract
+  - Misappropriation of trade secrets
+agreements: None
+laws:
+  - California Rules of Court Rule 3.1350
+  - California Civil Code
+  - Statutory law (unspecified)
+case_citations:
+  - Truong v. Glasser (2009)
+  - Beltran v. Hard Rock Hotel Licensing, Inc. (2023)
+  - North Coast Business Park v. Nielsen Construction Co. (1993)
+roles:
+  - Judge: Theresa M. Traber
+  - Plaintiff: Solutech Pharmaceuticals, LLC
+  - Defendant: Dr. Robert C. Blaine, Blaine Laboratories, Inc., Blaine Holding & Development, LLC
+significant_statements:
+  - Defendant's Separate Statement is not compliant with the Rules of Court
+  - Failure to comply with the Rules of Court is grounds for denial of the motion
+  - The court may deny the motion due to the non-compliant Separate Statement
+```
+
+Here is the English-text summary of the judge's tentative ruling:
+
+The judge has denied the defendants' motion for summary judgment and motion for summary adjudication. The defendants, Dr. Robert C. Blaine, Blaine Laboratories, Inc., and Blaine Holding & Development, LLC, had moved to dismiss the plaintiff Solutech Pharmaceuticals, LLC's claims. The defendants' Separate Statement of Undisputed Material Facts was found to be non-compliant with the California Rules of Court, which led to the denial of the motion. The court found that the Separate Statement did not provide sufficient notice of the facts and did not distinguish between the claims being challenged by the motion.

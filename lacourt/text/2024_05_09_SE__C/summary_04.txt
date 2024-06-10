@@ -1,0 +1,58 @@
+Here is the YAML summary of the "Tentative Ruling" document:
+
+```
+case_number: 23NWCV00087
+plaintiff: Cuellar
+defendant: York Enterprises South, Inc. and Ford Motor Company
+people_names:
+  - Cuellar
+  - York
+  - Ford
+company_names:
+  - York Enterprises South, Inc.
+  - Ford Motor Company
+places:
+  - California
+dates:
+  - May 9, 2024
+  - October 4, 2024
+  - December 19, 2024
+  - June 11, 2024
+  - June 20, 2024
+events:
+  - Ex Parte Application to Advance Defendant's Motion for Protective Order
+  - Motion for Protective Order
+  - Motion to Compel Further Responses to Request for Production of Documents
+money: None mentioned
+intentions:
+  - Advance Defendant's Motion for Protective Order
+  - Hear Defendant's Motion for Protective Order before trial
+  - Compel further responses to request for production of documents
+facts:
+  - Defendant Ford Motor Company's Ex Parte Application to Advance Defendant's Motion for Protective Order
+  - Defendant's Motion for Protective Order
+  - Plaintiff's Motion to Compel Further Responses to Request for Production of Documents
+disputes:
+  - Dispute over the production of documents
+  - Dispute over the timing of the hearing for the motion for protective order
+acts:
+  - Defendant's Ex Parte Application to Advance Defendant's Motion for Protective Order
+  - Defendant's Motion for Protective Order
+  - Plaintiff's Motion to Compel Further Responses to Request for Production of Documents
+agreements: None mentioned
+laws:
+  - California Code (statute)
+statutes:
+  - California Code
+roles:
+  - Judge
+  - Plaintiff (Cuellar)
+  - Defendant (York Enterprises South, Inc. and Ford Motor Company)
+significant_statements:
+  - The Court is unable to accommodate Defendant's request to hear the motion for protective order before the plaintiff's motion to compel further responses.
+  - The motion for protective order will be heard on June 20, 2024.
+```
+
+And here is the English-text summary of the Judge's tentative ruling:
+
+In this ruling, the Judge grants in part the defendant's ex parte application to advance the defendant's motion for protective order. The trial is set for October 4, 2024. The motion for protective order will be heard on June 20, 2024, and the plaintiff's motion to compel further responses to the request for production of documents, currently scheduled for June 11, 2024, will not be delayed. The Court is unable to accommodate the defendant's request to hear the motion for protective order before the plaintiff's motion to compel further responses.

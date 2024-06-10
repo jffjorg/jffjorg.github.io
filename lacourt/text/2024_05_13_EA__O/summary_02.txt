@@ -1,0 +1,61 @@
+Here is the summary in YAML format:
+
+```
+case_number: 23PSCV01804
+plaintiff_names:
+  - Jing Chen
+  - Chunmei Liu
+defendant_name: Ching Chai Chung
+people_names:
+  - Jing Chen
+  - Chunmei Liu
+  - Ching Chai Chung
+company_names: []
+places: []
+dates:
+  - June 16, 2023
+  - December 22, 2023
+  - March 6, 2024
+  - May 13, 2024
+events:
+  - Unpaid loan
+  - Filing of lawsuit
+  - Entry of default
+  - Filing of default judgment application
+money:
+  - $30,000
+  - $33,000
+intentions:
+  - Compensate
+  - Pay
+facts:
+  - Loan of $30,000
+  - Unpaid loan
+  - Default judgment
+disputes:
+  - Amount of damages
+acts:
+  - Payment of loan
+  - Promised payment of $33,000
+agreements:
+  - Complaint
+  - Proposed judgment
+laws:
+  - Greenup v. Rodman (1986)
+  - California Supreme Court
+  - "in all default judgments the demand sets a ceiling on recovery"
+statutes: []
+citations:
+  - Greenup v. Rodman (1986) 42 Cal.3d 822, 824
+roles:
+  - Judge
+  - Plaintiffs
+  - Defendant
+significant_statements:
+  - "in all default judgments the demand sets a ceiling on recovery"
+  - "the mere fact that Defendant promised to pay Plaintiffs $33,000 is not the basis of the damages as alleged in the complaint"
+```
+
+And here is the English text to summarize the judge's tentative ruling:
+
+The judge grants the plaintiffs' application for default judgment, but with a condition. The judge rules that the recovery is limited to $30,000, as stated in the complaint. The judge references the California Supreme Court's decision in Greenup v. Rodman (1986) to support this ruling. The judge orders the plaintiffs to submit a new proposed order seeking $30,000, not $33,000 as initially requested. This decision is based on the evidence presented, including a check made out to the defendant in the amount of $30,000. The judge's ruling is effective upon the submission of the new proposed order.

@@ -1,0 +1,68 @@
+Here is the summary in YAML format:
+
+```
+Case Number: 22CHCV00676
+Plaintiff's Name: Sergey Vershinin
+Defendant's Name: Janie Cohen
+People-Names:
+  - Sergey Vershinin
+  - Jane Cohen
+  - William Anthony
+Company-Names:
+  - Chicago Title Company
+  - Coldwell Banker Residential Brokerage Company
+Places:
+  - Los Angeles
+Dates:
+  - May 13, 2024
+  - February 10, 2025
+  - December 2023
+Events:
+  - Real estate transaction cancellation
+  - Escrow account holding
+Money:
+  - $60,000 (initial deposit)
+    - $35,000 (requested by seller)
+    - Unspecified amount (held in escrow account)
+Intentions:
+  - Chicago Title Company: to intervene in the action and file a cross-complaint
+    to interplead the escrow funds
+    - Plaintiff: to seek monetary damages, including a portion of the escrow funds
+Facts:
+  - Real estate transaction was cancelled due to issues with the property
+  - Escrow account holds funds deposited by the buyer
+  - Seller cancelled the transaction
+Disputes:
+  - Amount of escrow funds deposited by the buyer
+  - Failure to name Chicago Title Company in the complaint
+Acts:
+  - Chicago Title Company sending cancellation instructions
+  - Seller executing the instructions
+  - Escrow account holding funds
+Agreements:
+  - None mentioned
+Laws:
+  - California Code of Civil Procedure (CCP) § 387(b)
+    - CCP § 387(d)(1)(B)
+    - CCP § 387(d)(2)
+Case Citations:
+  - Truck Ins. Exch. V. Superior Ct. (Transco Syndicate #1) (1997) 60 Cal.App.4th 342, 346
+    - Reliance Ins. Co. v. Superior Ct. (Wells) (2000) 84 Cal.App.4th 383, 386
+Statutes:
+  - CCP § 387(b)
+    - CCP § 387(d)(1)(B)
+    - CCP § 387(d)(2)
+Roles:
+  - Plaintiff: Sergey Vershinin
+    - Defendant: Janie Cohen
+    - Cross-Defendant: Coldwell Banker Residential Brokerage Company
+    - Cross-Defendant: William Anthony
+Significant Statements:
+  - Chicago Title Company's motion to intervene is granted
+    - Plaintiff's complaint misstates the amount of escrow funds deposited
+    - No opposition has been filed to Chicago Title Company's motion
+```
+
+And here is a summary of the judge's tentative ruling in English text:
+
+The judge has granted Chicago Title Company's motion to intervene in the action between Sergey Vershinin and Janie Cohen. The company seeks to interplead the escrow funds held in its account, which include $60,000 deposited by the buyer and $35,000 requested by the seller. The judge finds that Chicago Title Company has a direct and immediate interest in the litigation and that its intervention will not enlarge the issues in the case. The company's motion is granted, and its proposed cross-complaint is deemed filed.

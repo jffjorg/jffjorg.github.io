@@ -1,0 +1,44 @@
+Here is a YAML summary of the tentative ruling:
+
+```
+---
+case:
+  name: Herrera v. We Pack it All, LLC
+  number: 24STCV03213
+  date: May 9, 2024
+
+parties:
+  - plaintiff: Elia Herrera
+  - defendants:
+    - Partners Personnel-Management Services, LLC
+    - WePackitAll, LLC
+
+issues:
+  - arbitration agreement
+  - unconscionability
+
+facts:
+  - Plaintiff filed a complaint alleging disability discrimination, failure to provide reasonable accommodations, and retaliation.
+  - Defendants moved to compel arbitration based on an arbitration agreement signed by Plaintiff.
+  - Plaintiff argued that the arbitration agreement was unconscionable.
+
+procedural unconscionability:
+  - Plaintiff argued that the arbitration agreement was a condition of employment and was presented on a take-it-or-leave-it basis.
+  - The court found a small degree of procedural unconscionability due to the adhesive nature of the contract.
+
+substantive unconscionability:
+  - Plaintiff argued that the arbitration agreement was substantively unconscionable due to the requirement to pay attorney fees and limitations on discovery.
+  - The court found that the arbitration agreement was reasonable and did not limit discovery excessively.
+
+third-party beneficiary:
+  - Defendant WePackitAll, LLC joined the motion to compel arbitration as a third-party beneficiary.
+  - The court found that WePackitAll, LLC was a third-party beneficiary and could enforce the arbitration agreement.
+
+disposition:
+  - The court grants Defendants' motion to compel arbitration as to Defendant Partners Personnel-Management Services, LLC and Defendant WePackitAll, LLC.
+  - The matter is stayed pending the outcome of arbitration.
+```
+
+English-text summary:
+
+The court has issued a tentative ruling on a motion to compel arbitration in the case of Herrera v. WePackitAll, LLC. The defendants, Partners Personnel-Management Services, LLC and WePackitAll, LLC, moved to compel arbitration based on an arbitration agreement signed by the plaintiff, Elia Herrera. The plaintiff argued that the arbitration agreement was unconscionable due to its adhesive nature and the requirement to pay attorney fees. The court found a small degree of procedural unconscionability but concluded that the arbitration agreement was reasonable and did not limit discovery excessively. The court also found that WePackitAll, LLC was a third-party beneficiary and could enforce the arbitration agreement. As a result, the court grants the defendants' motion to compel arbitration and stays the matter pending the outcome of arbitration.

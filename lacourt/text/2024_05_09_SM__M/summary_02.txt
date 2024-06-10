@@ -1,0 +1,76 @@
+Here is the summary in YAML format:
+
+```
+case_number: 20STCV15852
+plaintiff_name: Jane Doe No. 1
+defendant_name: Don Rufus Hankey Jr.
+people_names:
+  - Jane Doe No. 1
+  - Don Rufus Hankey Jr.
+company_names: []
+places: []
+dates:
+  - March 8, 2024
+  - March 26, 2024
+  - April 9, 2024
+  - April 12, 2024
+  - May 9, 2024
+events:
+  - Defendant serves supplemental SROG and RPD on Plaintiff
+  - Defendant inquires about responses to outstanding discovery requests
+  - Plaintiff fails to respond
+  - Defendant moves for order compelling responses and sanctions
+  - Court grants motion to compel
+  - Court imposes sanctions on Plaintiff
+money:
+  - $3,444.75 (sanctions)
+  - $2,000.00 (imposed sanctions)
+  - $1,880.00 (reasonable fee)
+  - $465/hr. (attorney-time rate)
+  - $485/hr. (attorney-time rate)
+  - $120.00 (costs)
+intentions:
+  - Defendant seeks order compelling responses and sanctions
+  - Plaintiff fails to respond to discovery requests
+facts:
+  - Defendant served supplemental SROG and RPD on Plaintiff
+  - Plaintiff fails to respond
+  - Defendant moves for order compelling responses and sanctions
+  - Court grants motion to compel
+  - Court imposes sanctions on Plaintiff
+disputes:
+  - Failure to respond to discovery requests
+  - Timeliness of responses
+  - Amount of sanctions
+acts:
+  - Serving of supplemental SROG and RPD
+  - Inquiring about responses to outstanding discovery requests
+  - Failure to respond
+  - Moving for order compelling responses and sanctions
+  - Granting of motion to compel
+  - Imposition of sanctions
+agreements:
+  - None
+laws:
+  - Code of Civil Procedure section 2031.010
+  - Code of Civil Procedure section 2031.300
+  - Code of Civil Procedure section 2030.290
+  - Code of Civil Procedure section 2030.290(c)
+  - Leach v. Superior Court (1980) 111 Cal. App. 3d 902, 905-906
+  - California Code of Civil Procedure (CCP)
+statutes:
+  - California Code of Civil Procedure (CCP)
+  - Leach v. Superior Court (1980) 111 Cal. App. 3d 902, 905-906
+roles:
+  - Plaintiff
+  - Defendant
+  - Judge
+significant_statements:
+  - "There is no deadline for a motion to compel responses."
+  - "Failure to timely respond waives all objections, including privilege and work product."
+  - "Sanctions are mandatory, unless the Court finds that the one subject to the sanction acted with substantial justification or that other circumstances make the imposition of the sanction unjust."
+```
+
+And here is the summary in English text:
+
+This tentative ruling is regarding a motion to compel initial responses and sanctions. The defendant, Don Rufus Hankey Jr., moves for an order compelling the plaintiff, Jane Doe No. 1, to provide responses to supplemental interrogatories and requests for documents. The defendant also requests sanctions against the plaintiff in the amount of $3,444.75. The court grants the motion to compel and imposes sanctions on the plaintiff. The plaintiff failed to respond to discovery requests, and the defendant's requests were served on March 8, 2024. The court finds that the plaintiff failed to justify her non-response and imposes sanctions in the amount of $2,000.00.

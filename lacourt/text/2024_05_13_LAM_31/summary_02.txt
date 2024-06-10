@@ -1,0 +1,64 @@
+Here is the YAML summary of the tentative ruling:
+
+```
+case_number: Unknown
+plaintiff_name: Unknown
+defendant_name: Unknown
+people_names:
+  - Marchino
+  - Fatoorechi
+  - Ponce
+  - Silver
+company_names:
+  - CIGA
+places:
+  - California
+dates:
+  - Unknown
+events:
+  - Insurance claim
+  - False statement
+  - Illegal turn
+  - Driver's license
+money:
+  - None mentioned
+intentions:
+  - Prove false insurance claim
+  - Show knowledge of statement's falsity
+facts:
+  - Marchino made an illegal left turn
+  - Fatoorechi had a valid driver's license
+  - Statement was false
+  - Claim was viewed as fraudulent
+disputes:
+  - False insurance claim
+  - Illegal turn
+  - Driver's license
+acts:
+  - Filing notice of related case
+  - Presenting evidence
+  - Objecting to statements
+agreements:
+  - None mentioned
+laws:
+  - California Insurance Code
+  - Vehicle Code
+  - CRC 3.1354(b)(4)
+  - Veh. Code, § 22102
+case_citations:
+  - Unknown
+statutes:
+  - Insurance Code section 1871
+  - Vehicle Code section 22102
+roles:
+  - Plaintiff
+  - Defendant
+  - Judge
+significant_statements:
+  - "Plaintiff fails to explain how these peripheral issues tie into or advance its argument that Defendants presented a false insurance claim."
+  - "The court finds Plaintiff presented sufficient evidence to demonstrate the statement is false."
+```
+
+And here is the English text summarizing the judge's tentative ruling:
+
+The judge's tentative ruling outlines the court's preliminary thoughts on the case. The judge notes that the parties failed to file a notice of related case, and orders them to do so if the matter proceeds. The judge also addresses several objections and finds that the plaintiff presented sufficient evidence to demonstrate that a statement was false. The judge criticizes the plaintiff's scattershot approach to raising issues and failing to explain how peripheral issues tie into their argument. The judge also addresses the plaintiff's claims that defendants falsely stated that Mr. Marchino made a lawful turn and submitted a fraudulent invoice, finding that the plaintiff presented sufficient evidence to demonstrate the statement is false.

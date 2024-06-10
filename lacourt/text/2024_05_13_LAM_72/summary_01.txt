@@ -1,0 +1,74 @@
+Here is the YAML summary of the legal document:
+
+```
+case_number: 23STCV02917
+plaintiff_name: Charles Sweeten
+defendant_name: Dantrell Grace
+people_names:
+  - Tanya Renee Grace (also known as Tanya Honeycutt)
+  - Jonathan Valdez
+company_names:
+  - Golden Dragon Group LLC
+  - Defendant's business
+places:
+  - 18704 Palo Verde Avenue, Suite D, Cerritos, California 90703
+dates:
+  - January 11, 2024 (default judgment)
+  - January 15, 2022 (first repayment agreement)
+  - July 12, 2022 (second repayment agreement)
+  - December 21, 2022 (demand notice)
+  - February 9, 2023 (filing of complaint)
+  - March 14, 2023 (agreement to promissory note)
+  - March 17, 2023 (filing of promissory note)
+  - January 31, 2024 (request for default judgment)
+events:
+  - Breach of contract
+  - Loan agreements
+  - Repayment agreements
+  - Demand notice
+  - Filing of complaint
+  - Filing of promissory note
+  - Request for default judgment
+money:
+  - $67,949.42 (total amount sought)
+  - $83,741.00 (damages)
+  - $1,111.65 (costs)
+  - $82,629.35 (damages, excluding costs)
+intentions:
+  - Plaintiff seeks to recover damages and costs from Defendant
+  - Defendant failed to make loan and credit card payments
+facts:
+  - Plaintiff loaned Defendant money under loan agreements
+  - Defendant failed to make payments on loan and credit card debt
+  - Plaintiff and Defendant agreed to repayment agreements
+  - Defendant failed to make payments on repayment agreements
+disputes:
+  - Breach of contract
+  - Unpaid debts
+  - Dispute settlement via promissory note
+acts:
+  - Plaintiff filed complaint
+  - Defendant failed to respond
+  - Plaintiff requested default judgment
+  - Plaintiff filed promissory note with court
+  - Plaintiff requested default judgment
+laws:
+  - California Rules of Court, Rule 3.1800
+  - California Code of Civil Procedure, Section 1033.5(a)(1)
+  - California Code of Civil Procedure, Section 580
+  - Johnson v. Stanhiser (1999)
+  - Kahn v. Lasorda's Dugout, Inc. (2003)
+  - Molen v. Friedman (1998)
+  - Kim v. Westmoore Partners, Inc. (2011)
+statutes:
+  - California Code of Civil Procedure, Section 1033.5(a)(1)
+  - California Code of Civil Procedure, Section 580
+roles:
+  - Plaintiff (Charles Sweeten)
+  - Defendant (Dantrell Grace)
+  - Judge
+significant_statements:
+  - The Court DENIES Plaintiff's request for default judgment.
+  - Plaintiff must amend his Complaint to allege the formation and breach of the Promissory Note.
+  - The amount of damages and costs sought by Plaintiff exceeds the amount pleaded in the Complaint.
+  - Plaintiff must clarify whether the $1,111.65 in costs represents costs of litigation or money owed under the Promissory Note.

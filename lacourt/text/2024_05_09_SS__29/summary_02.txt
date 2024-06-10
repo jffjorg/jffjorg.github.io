@@ -1,0 +1,65 @@
+Here is the YAML summary of the "Tentative Ruling" in YAML format:
+
+```
+case_number: 21STCV24597
+hearing_date: 2024-05-09
+dept: 29
+plaintiff: Bradley Dodds
+defendant: County of Los Angeles
+people:
+  - Bradley Dodds
+  - Santiago Javier Vazquez
+company_names:
+  - County of Los Angeles
+places:
+  - Los Angeles
+dates:
+  - 2021-07-02 (filing of suit)
+  - 2024-02-06 (scheduled trial date)
+  - 2024-03-26 (filing of motion to reopen discovery)
+  - 2024-07-29 (new trial date)
+dates:
+  - 2021-07-02 (filing of suit)
+  - 2024-02-06 (scheduled trial date)
+  - 2024-03-26 (filing of motion to reopen discovery)
+  - 2024-07-29 (new trial date)
+events:
+  - filing of suit
+  - scheduling of trial
+  - filing of motion to reopen discovery
+  - granting of motion to reopen discovery
+money: $0
+intentions:
+  - to reopen discovery for limited purposes
+facts:
+  - Plaintiff filed suit against County of Los Angeles
+  - Defendant seeks to reopen discovery for limited purposes
+  - Defendant contends that it propounded discovery timely
+  - Trial is set for July 29, 2024
+disputes:
+  - Plaintiff's discovery motion to be heard and possible deposition to proceed
+  - Defendant's motion to reopen discovery
+acts:
+  - meet and confer requirement satisfied
+  - court considers four factors to determine if discovery should be reopened
+  - court grants motion to reopen discovery
+  - court orders notice to moving party
+agreements:
+  - none
+laws:
+  - California Code of Civil Procedure section 2024.050
+statutes:
+  - California Code of Civil Procedure section 2024.050
+roles:
+  - Judge
+  - Plaintiff
+  - Defendant
+  - Attorney
+significant_statements:
+  - The court grants the motion to reopen discovery for limited purposes
+    to obtain responses to already propounded discovery.
+```
+
+And here is the English text summarizing the judge's tentative ruling:
+
+"On May 9, 2024, the court granted the defendant's motion to reopen discovery for limited purposes. The motion was filed on March 26, 2024, and the court considered the four factors outlined in California Code of Civil Procedure section 2024.050. The court found that the defendant had shown good cause for reopening discovery to obtain responses to already propounded discovery. As a result, the court granted the motion and ordered the moving party to provide notice."

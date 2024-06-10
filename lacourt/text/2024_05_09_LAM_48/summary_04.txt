@@ -1,0 +1,58 @@
+Here is the summary in YAML format:
+
+```
+Case Number: 23STCV09475
+Plaintiff's Name: G.B.
+Defendant's Name: Los Angeles Unified School District
+People-Named:
+  - G.B.
+  - Thomas D. Long (Judge)
+Company-Named:
+  - Los Angeles Unified School District
+Places:
+  - Los Angeles
+  - California
+Dates:
+  - April 27, 2023
+  - June 30, 2023
+  - March 18, 2024
+  - November 2, 2023
+  - May 9, 2024
+Events:
+  - Filing of complaint
+  - Filing of answer
+  - Filing of motion for leave to file amended answer
+  - Deposition of G.B.
+Money: $0
+Intentions:
+  - Defendant seeks to add affirmative defense under Education Code section 44808
+Facts:
+  - G.B. filed a complaint against Los Angeles Unified School District
+  - Defendant filed an answer on June 30, 2023
+  - Defendant filed a motion for leave to file an amended answer on March 18, 2024
+Disputes:
+  - Dispute over whether to allow amendment of answer
+Acts:
+  - Plaintiff did not oppose the motion
+  - Defendant provided a redlined copy of the proposed amended answer
+  - Defendant seeks to add an affirmative defense under Education Code section 44808
+Agreements:
+  - Plaintiff did not oppose the motion
+  - Defendant provided a declaration attesting to the effect of the amendment
+Laws:
+  - California Code of Civil Procedure, section 473
+  - California Rules of Court, rule 3.1324
+Statutes:
+  - Education Code section 44808
+Roles:
+  - Judge: Thomas D. Long
+  - Plaintiff: G.B.
+  - Defendant: Los Angeles Unified School District
+Significant Statements:
+  - "The Court may, in its discretion and after notice to the adverse party, allow an amendment to any pleading."
+  - "The motion shall also be accompanied by a declaration attesting to the effect of the amendment, why the amendment is necessary and proper..."
+```
+
+And here is the English-text to summarize the judge's tentative ruling:
+
+"Based on the information presented, the court grants the defendant's motion for leave to file an amended answer. The defendant seeks to add an affirmative defense under Education Code section 44808, which provides immunity for off-campus conduct. The defendant first learned of this defense on November 2, 2023, when conducting the plaintiff's deposition. The court finds that the amendment is necessary and proper to ensure the defendant's due process right to allege and try an affirmative defense. The defendant is ordered to file and serve the amended answer within 5 days."

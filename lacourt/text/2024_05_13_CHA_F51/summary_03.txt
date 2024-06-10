@@ -1,0 +1,78 @@
+Here is the summary in YAML format:
+
+```
+case_number: 23CHCV03513
+plaintiff_names:
+  - Omar Haro Avila
+  - Monica Yescas
+defendant_name: Nissan North America, Inc.
+people_names:
+  - Scott A. Sanchez
+  - Judge (unspecified)
+company_names:
+  - Nissan North America, Inc.
+places:
+  - Los Angeles
+  - California
+dates:
+  - August 28, 2022 (vehicle purchase date)
+  - November 16, 2023 (complaint filed)
+  - December 29, 2023 (Defendant's answer filed)
+  - January 9, 2024 (meet and confer)
+  - January 25, 2024 (meet and confer)
+  - March 22, 2024 (motion to compel filed)
+  - April 30, 2024 (opposition filed)
+  - May 6, 2024 (reply filed)
+  - May 12, 2024 (deposition deadline)
+events:
+  - Vehicle purchase
+  - Complaint filed
+  - Answer filed
+  - Meet and confer
+  - Motion to compel filed
+  - Opposition filed
+  - Reply filed
+money:
+  - $2,625.00 (sanctions requested)
+  - $375.00 (hourly billing rate for counsel's time)
+  - $750.00 (monetary sanctions imposed)
+intentions:
+  - To compel Defendant's PMQ to be deposed
+  - To discover information relevant to Plaintiffs' claims
+facts:
+  - Defendant issued a manufacturer's express warranty
+  - Vehicle suffered from nonconformity
+  - Plaintiffs presented vehicle for repair
+  - Defendant failed to provide a deposition date
+disputes:
+  - Defendant's delay in providing a deposition date
+  - Defendant's refusal to produce a witness for certain categories of testimony
+acts:
+  - Defendant's failure to provide a deposition date
+  - Defendant's refusal to produce a witness for certain categories of testimony
+agreements:
+  - Meet and confer declaration
+  - Code of Civil Procedure section 2025.450
+laws:
+  - Song-Beverly Consumer Warranty Act
+  - Code of Civil Procedure section 2025.010
+  - Code of Civil Procedure section 2025.220
+  - Code of Civil Procedure section 2025.280
+  - Code of Civil Procedure section 2025.450
+  - Code of Civil Procedure section 2016.040
+statutes:
+  - California Civil Code section 1790 et seq.
+  - California Civil Code section 1794
+roles:
+  - Plaintiff
+  - Defendant
+  - Judge
+significant_statements:
+  - Defendant's failure to provide a deposition date was unreasonable and unjustifiable
+  - Plaintiffs' counsel's attempts to confirm a deposition date were ignored
+  - Defendant's refusal to produce a witness for certain categories of testimony was unjustified
+```
+
+And here is the English-text summary:
+
+This is a tentative ruling in a case between Plaintiffs Omar Haro Avila and Monica Yescas, and Defendant Nissan North America, Inc. The case concerns a vehicle purchase and alleged nonconformity to warranty. The Plaintiffs seek to compel the deposition of Defendant's Person Most Qualified (PMQ) to gather information relevant to their claims. The Court grants the motion, ordering Defendant to produce its PMQ for deposition regarding all noticed categories, and to produce specified documents by May 12, 2024. The Court also imposes $750.00 in monetary sanctions against Defendant for its unreasonable delay in providing a deposition date.

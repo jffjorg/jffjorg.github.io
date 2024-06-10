@@ -1,0 +1,83 @@
+Here is the summary in YAML format:
+
+```
+case_number: 23STCV12356
+hearing_date: May 13, 2024
+department: 49
+plt_name: Melani Cargle
+dft_name: The Regents of the University of California
+people_names:
+  - Dr. Louis Kwong
+  - Adrienne T. Subido
+company_names:
+  - University of California, Los Angeles (UCLA)
+  - University of Southern California (USC)
+  - Los Angeles County (LAC)
+  - Los Angeles County Department of Health Services (LACDHS)
+places:
+  - Los Angeles
+  - University of California, Los Angeles
+  - University of Southern California
+  - Los Angeles County
+dates:
+  - November 2019
+  - December 2019
+  - March 2020
+  - May 19, 2022
+  - June 2022
+  - May 13, 2024
+events:
+  - Plaintiff's medical degree from UCLA
+  - Complaint against Dr. Kwong
+  - Investigation of Dr. Kwong
+  - Residency at USC/Keck
+  - Employment with the County
+  - Notice of Intent to Discharge
+  - Twitter posts
+  - GoFundMe
+  - County-wide email
+  - Personal attacks on Twitter
+intention:
+  - To determine the merits of the demurrer to the Ninth Cause of Action
+  - To determine the merits of the demurrer to punitive damages
+facts:
+  - Plaintiff alleges discrimination on the basis of race, sex, and sexual orientation
+  - Plaintiff alleges harassment on the basis of race, sex, and sexual orientation
+  - Plaintiff alleges discrimination on the basis of disability
+  - Plaintiff alleges retaliation
+  - Plaintiff alleges violation of Health and Safety Code section 1278.5
+  - Plaintiff alleges wrongful termination
+  - Plaintiff alleges failure to reasonably accommodate
+  - Plaintiff alleges failure to engage in the interactive process
+  - Plaintiff alleges aiding and abetting
+  - Plaintiff alleges defamation
+disputes:
+  - Demurrer to the Ninth Cause of Action
+  - Demurrer to punitive damages
+acts:
+  - Plaintiff's allegations of discrimination, harassment, and retaliation
+  - Defendant's demurrer to the Ninth Cause of Action
+  - Defendant's demurrer to punitive damages
+agreements:
+  - None
+laws:
+  - Government Code section 815(a)
+  - California Code of Civil Procedure section 430.30(a)
+  - California Code of Civil Procedure section 437c (f)(1)
+  - Health and Safety Code section 1278.5
+  - Fair Employment and Housing Act
+  - California Constitution
+  - California Code of Civil Procedure section 1010
+statutes:
+  - None
+roles:
+  - Judge: Randolph M. Hammock
+  - Plaintiff's counsel: Adrienne T. Subido
+  - Defendant's counsel: Unknown
+significant_statements:
+  - Defendant's Demurrer to the Ninth Cause of Action is SUSTAINED
+  - Defendant's Demurrer to punitive damages is OVERRULED
+  - The court exercises discretion to consider the motion absent a sufficient meet and confer.
+  - Plaintiff has provided no authority clearly recognizing liability against the government for aiding and abetting.
+  - The court suspects that a claim for aiding and abetting must also be provided by statute.
+```

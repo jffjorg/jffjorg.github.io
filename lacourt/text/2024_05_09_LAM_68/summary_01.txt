@@ -1,0 +1,84 @@
+Here is the summary in YAML format:
+
+```
+case_number: 21STCV40851
+hearing_date: 2024-05-09
+dept: 68
+
+parties:
+  - plaintiff: Arthur Israyelyan
+  - defendant: BMW North America, LLC
+
+people:
+  - Arthur Israyelyan
+  - Susan Hartounian
+
+companies:
+  - BMW North America, LLC
+
+places:
+  - California
+
+dates:
+  - 2021-11-05 (filing of lemon law complaint)
+  - 2022-01-28 (answer to complaint)
+  - 2022-04-30 (stipulation to submit claims to arbitration)
+  - 2023-12-28 (arbitrator's decision)
+  - 2024-03-05 (service of petition to confirm award)
+  - 2024-05-09 (tentative ruling)
+
+events:
+  - Lemon law complaint filed
+  - Answer to complaint filed
+  - Stipulation to submit claims to arbitration
+  - Arbitrator's decision
+  - Service of petition to confirm award
+  - Tentative ruling
+
+money:
+  - $2,880.00 (administrative fees of the American Arbitration Association)
+  - $5,000.00 (compensation of the arbitrator)
+
+intentions:
+  - Confirm arbitration award
+
+facts:
+  - Claims submitted to arbitration
+  - Arbitrator's decision in favor of BMW North America, LLC
+  - Petition to confirm award unopposed
+
+disputes:
+  - Confirmation of arbitration award
+
+acts:
+  - Service of petition to confirm award
+  - No objection to service
+  - Petition contains all required items
+
+agreements:
+  - Stipulation to submit claims to arbitration
+
+laws:
+  - California Code of Civil Procedure (CCP) sections 1285.4, 1286, 1290.4
+  - Eternity Investments, Inc. v. Brown (2007) 151 Cal.App.4th 739
+  - Pacific Law Group: USA v. Gibson (1992) 6 Cal.App.4th 577
+  - Valsan Partners Limited Partnership v. Calcor Space Facility, Inc. (1994) 25 Cal.App.4th 809
+
+case_citations:
+  - Valsan Partners Limited Partnership v. Calcor Space Facility, Inc.
+  - Eternity Investments, Inc. v. Brown
+  - Pacific Law Group: USA v. Gibson
+
+roles:
+  - Judge: [Judge's Name]
+  - Parties: BMW North America, LLC and Arthur Israyelyan
+
+significant_statements:
+  - The court must confirm the award as made, unless it corrects or vacates the award, or dismisses the proceeding.
+  - The petition to confirm the award was unopposed and contained all required items.
+  - The arbitrator's decision was in favor of BMW North America, LLC.
+```
+
+And here is the English text to summarize the judge's tentative ruling:
+
+The court has granted the motion to confirm the arbitration award in favor of BMW North America, LLC. The arbitrator's decision, issued on December 28, 2023, found in favor of BMW North America, LLC and awarded damages and attorney's fees to the company. The petition to confirm the award was unopposed and contained all required items. The court has confirmed the award as made, unless it corrects or vacates the award, or dismisses the proceeding.

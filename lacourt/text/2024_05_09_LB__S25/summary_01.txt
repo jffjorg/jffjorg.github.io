@@ -1,0 +1,90 @@
+Here is the summary in YAML format:
+
+```
+case_number: 23LBCV00315
+hearing_date: 2024-05-09
+dept: S25
+
+people:
+  - Victor M. Morales (Plaintiff)
+  - Michelle Lee (Defendant's counsel)
+  - Ford Motor Company (Defendant)
+
+companies:
+  - Ford Motor Company
+
+places:
+  - California
+
+dates:
+  - 2023-02-21 (Plaintiff filed the lawsuit)
+  - 2023-03-11 (Defendant filed the motion to compel)
+  - 2023-11-13 (Defendant served the notice of deposition)
+  - 2023-12-13 (Plaintiff served an objection to the notice of deposition)
+  - 2023-12-15 (Defendant contacted Plaintiff's counsel)
+  - 2023-12-21 (defense counsel contacted opposing counsel again)
+  - 2023-12-29 (another email was sent to Plaintiff's counsel)
+  - 2024-01-04 (Plaintiff provided discovery responses)
+  - 2024-01-09 (defense counsel requested alternative dates)
+  - 2024-01-16 (defense counsel requested alternative dates)
+  - 2024-04-25 (Plaintiff agreed to deposition)
+  - 2024-05-20 (ordered deposition date)
+
+events:
+  - Plaintiff filed the lawsuit
+  - Defendant filed the motion to compel
+  - Defendant served the notice of deposition
+  - Plaintiff served an objection to the notice of deposition
+  - Defendant contacted Plaintiff's counsel
+  - Plaintiff provided discovery responses
+  - Defendant requested alternative dates
+  - Plaintiff agreed to deposition
+  - Plaintiff failed to attend deposition
+
+money: $0
+
+intentions:
+  - Defendant seeks to compel Plaintiff's deposition
+
+facts:
+  - Plaintiff failed to justify his initial objection to the first deposition notice
+  - Plaintiff failed to explain his subsequent failure to attend the deposition
+  - Defendant made numerous attempts to reset the deposition
+  - Plaintiff agreed to deposition on April 25, but failed to attend
+
+disputes:
+  - Defendant's motion to compel Plaintiff's deposition
+
+acts:
+  - Plaintiff filed the lawsuit
+  - Defendant filed the motion to compel
+  - Plaintiff served an objection to the notice of deposition
+  - Defendant contacted Plaintiff's counsel
+  - Defendant requested alternative dates
+
+agreements:
+  - Plaintiff agreed to deposition on April 25
+
+laws:
+  - California Code of Civil Procedure (CCP) § 2025.450(a)
+
+case_citations:
+  - CCP § 2025.450(a)
+
+statutes:
+  - CCP § 2025.450(a)
+
+roles:
+  - Plaintiff: Victor M. Morales
+  - Defendant: Ford Motor Company
+  - Counsel: Michelle Lee
+
+significant_statements:
+  - Defendant has shown good cause to compel Plaintiff's deposition
+  - Plaintiff failed to justify his initial objection to the first deposition notice
+  - Plaintiff failed to explain his subsequent failure to attend the deposition
+```
+
+And here is the summary in English:
+
+The Judge's tentative ruling is that the defendant's motion to compel the plaintiff's deposition is granted. The plaintiff failed to justify his initial objection to the first deposition notice and failed to explain his subsequent failure to attend the deposition. The defendant made numerous attempts to reset the deposition, but the plaintiff did not respond. The plaintiff agreed to deposition on April 25, but failed to attend. The court finds that the defendant has shown good cause to compel the plaintiff's deposition and orders the plaintiff to appear at deposition by May 20, 2024.

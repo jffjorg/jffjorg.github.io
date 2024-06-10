@@ -1,0 +1,53 @@
+Here is the summary in YAML format:
+
+```
+---
+Case Number: 20STCV39460
+Plaintiff's Name: (not specified)
+Defendant's Name: (not specified)
+People-Names:
+  - Rita
+  - Pepe Sigal
+  - Ray
+Company-Names: (none)
+Places: (none)
+Dates:
+  - February 23, 2024
+  - March 11, 2024
+  - March 14, 2024
+  - 2021
+Events:
+  - Deposition
+  - Subpoena
+  - Discovery
+  - Trial
+Money: (none)
+Intentions:
+  - To quash a deposition subpoena
+Facts:
+  - Discovery cut-off has come and gone
+  - Plaintiff identified the two witnesses at his deposition
+  - Defendant claims they only recently discovered the witnesses
+  - Plaintiff claims they knew of the witnesses since 2021
+Disputes:
+  - Whether the witnesses should be deposed
+  - Whether the discovery cut-off was properly waived
+Acts:
+  - Plaintiff's counsel agreed to accept the subpoena
+  - Defendant's counsel requested to take the depositions
+  - Plaintiff's counsel suggested an IDC (independent discovery conference)
+Laws: (none)
+Case Citations: (none)
+Statutes: (none)
+Roles:
+  - Judge: reviewing the motion to quash a deposition subpoena
+  - Plaintiff's counsel: asserting the subpoena is premature
+  - Defendant's counsel: asserting the subpoena is necessary
+Significant Statements:
+  - "The discovery cut-off has come and gone."
+  - "It could be that the discovery responses did not disclose fully the witnesses' import."
+```
+
+And here is the English-text summary:
+
+The judge is considering a motion to quash a deposition subpoena. The judge rules that the motion is premature because the subpoena has not been issued. However, if the subpoena had been issued, the judge would have denied it because the discovery cut-off has come and gone. The judge notes that the plaintiff's counsel agreed to accept the subpoena, but the defendant's counsel requested to take the depositions. The judge is disappointed that the matter needs to be litigated and wants to hear more about the witnesses' potential testimony and the reasons why they were not deposed earlier.

@@ -1,0 +1,64 @@
+Here is the summary in YAML format:
+
+```
+Case Number: 23VECV04833
+Plaintiff's Name: J.A.
+Defendant's Name: Blue Cross of California dba Anthem Blue Cross
+People-Names:
+  - Dr. Amirnovin
+  - Dr. Meisel
+  - Stevanovic
+Company-Names:
+  - Anthem Blue Cross
+  - Blue Cross of California
+Places:
+  - California
+Dates:
+  - October 30, 2023
+  - June 20, 2023
+  - January 1, 2020
+Events:
+  - Inpatient hospital admission
+  - Surgery (brachial plexus repair)
+  - Utilization management review
+  - Peer-to-peer reviews
+  - Medical necessity review
+Money:
+  - $1000 (sanctions)
+Intentions:
+  - To compel further responses to demands for discovery
+  - To limit the scope of discovery
+  - To deny production of certain documents
+Facts:
+  - Anthem Blue Cross denied plaintiff's request for inpatient hospital admission
+  - Plaintiff alleges bad faith and violation of the UCL
+  - Defendant seeks to limit the scope of discovery
+Disputes:
+  - Overbreadth of discovery requests
+  - Privacy rights of employees
+  - Burdensomeness of discovery
+Acts:
+  - Utilization management review
+  - Peer-to-peer reviews
+  - Medical necessity review
+  - Denial of inpatient hospital admission
+  - Production of documents
+  - Meet and confer
+  - Motion to compel further responses
+  - Motion for protective order
+Laws:
+  - California Code of Civil Procedure
+  - Business & Professions Code Section 17200
+  - Health Insurance Portability and Accountability Act (HIPAA)
+Roles:
+  - Judge
+  - Plaintiff (J.A.)
+  - Defendant (Blue Cross of California dba Anthem Blue Cross)
+  - Attorneys
+Significant Statements:
+  - The court grants Defendant's motion for protective order regarding certain discovery requests.
+  - The court denies Plaintiff's motion to compel further responses to discovery requests.
+  - The court grants Plaintiff's motion to compel further responses to certain discovery requests.
+```
+
+Note: Some details may have been omitted or simplified to fit the YAML format.

@@ -1,0 +1,68 @@
+Here is the YAML representation of the tentative ruling:
+
+```
+case_number: 23VECV03102
+plaintiff: State Farm Mutual Automobile Insurance Company
+defendant: Aurelio Aguayo
+people_names:
+  - Kristina Grigorian
+company_names:
+  - State Farm Mutual Automobile Insurance Company
+places:
+  - California
+dates:
+  - July 18, 2023
+  - August 29, 2023
+  - September 7, 2023
+  - December 15, 2023
+  - January 10, 2024
+  - January 24, 2024
+  - May 13, 2024
+events:
+  - Motor vehicle collision
+  - Filing of complaint
+  - Filing of cross-complaint
+  - Service of request for admissions
+  - Failure to respond to request for admissions
+  - Motion for order deeming requests for admissions served admitted
+money:
+  - $660.00 (sanctions)
+  - $300 (counsel's hourly rate)
+  - $60 (filing fee)
+intentions:
+  - To deem requests for admissions served admitted
+  - To impose sanctions on defendant
+facts:
+  - Plaintiff State Farm Mutual Automobile Insurance Company filed a complaint against defendant Aurelio Aguayo for negligence
+  - Defendant filed a cross-complaint against Plaintiff's insured, Kristina Grigorian
+  - Plaintiff served defendant with request for admissions
+  - Defendant failed to respond to request for admissions in a timely manner
+disputes:
+  - Dispute over whether defendant's responses to requests for admissions were timely
+  - Dispute over whether plaintiff's motion for order deeming requests for admissions served admitted should be granted
+acts:
+  - Service of request for admissions
+  - Failure to respond to request for admissions
+  - Filing of motion for order deeming requests for admissions served admitted
+  - Granting of motion for order deeming requests for admissions served admitted
+agreements:
+  - Code of Civil Procedure section 2033.010
+  - Code of Civil Procedure section 2033.280
+  - Code of Civil Procedure section 2023.010
+laws:
+  - California Code of Civil Procedure
+  - California Statutes
+roles:
+  - Judge
+  - Plaintiff (State Farm Mutual Automobile Insurance Company)
+  - Defendant (Aurelio Aguayo)
+  - Defendant's counsel
+  - Plaintiff's counsel
+significant_statements:
+  - The court grants the motion for order deeming requests for admissions served admitted
+  - The court imposes sanctions of $660.00 against defendant for failing to respond to requests for admissions in a timely manner
+```
+
+Here is the English text summarizing the judge's tentative ruling:
+
+This tentative ruling grants the plaintiff's motion for an order deeming its requests for admissions served upon Aurelio Aguayo admitted. The plaintiff, State Farm Mutual Automobile Insurance Company, served defendant Aurelio Aguayo with a request for admissions on September 7, 2023. Despite multiple extensions, defendant failed to respond to the request for admissions in a timely manner. The court finds that defendant's unverified substantive responses make them untimely and therefore grants the motion. Additionally, the court imposes sanctions of $660.00 against defendant for failing to respond to requests for admissions in a timely manner.

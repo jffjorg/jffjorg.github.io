@@ -1,0 +1,54 @@
+Here is the summary in YAML format:
+
+```
+case_number: 23SMCV00036
+plaintiff: SM 10000 Property LLC
+defendant: Tyrina Lee
+people_names:
+  - Jacob O. Partiyeli, Esq. (counsel for Defendant)
+  - Michael E. Whitaker (Judge)
+company_names:
+  - SM 10000 Property LLC
+places:
+  - 1000 Santa Monica Blvd., Unit 2507
+  - 207 Department
+dates:
+  - May 13, 2024 (Hearing Date)
+  - May 15, 2023 (settlement agreement date)
+  - December 28, 2023 (settlement agreement date)
+events:
+  - Motion to be Relieved as Counsel
+  - Settlement agreement
+  - Hearing
+intents:
+  - To relieve counsel for Defendant
+  - To withdraw from representation
+facts:
+  - Breakdown of the attorney-client relationship
+  - Service of documents at an address vacated nearly a year ago
+disputes:
+  - Whether Counsel should be relieved as counsel
+agreements:
+  - Settlement agreement dated December 28, 2023
+laws:
+  - Code of Civil Procedure section 284
+  - Rules of Professional Conduct, rule 1.16
+  - California Rules of Court, rule 3.1362
+  - Rules of Professional Conduct, rule 1.16(b)
+  - State Bar Act
+roles:
+  - Judge (Michael E. Whitaker)
+  - Counsel (Jacob O. Partiyeli, Esq.)
+  - Client (Defendant Tyrina Lee)
+  - Plaintiff (SM 10000 Property LLC)
+  - Attorney (Counsel)
+  - Client (Defendant)
+  - Defendant (Tyrina Lee)
+significant_statements:
+  - "The Court finds that the motion complies with the Rules of Professional Conduct, rules 1.16(b)(4)."
+    - "The Court denies without prejudice the Motion to be Relieved as Counsel for improper service on the client."
+```
+
+And here is the English text summarizing the judge's tentative ruling:
+
+The court has issued a tentative ruling on the motion to be relieved as counsel for Defendant Tyrina Lee. The court finds that the motion complies with the Rules of Professional Conduct, rules 1.16(b)(4), indicating a breakdown in the attorney-client relationship. However, the court denies the motion without prejudice due to improper service on the client. The court orders counsel to provide notice of the ruling and file the notice with a proof of service within 5 days.

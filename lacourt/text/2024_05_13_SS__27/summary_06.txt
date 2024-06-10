@@ -1,0 +1,52 @@
+Here is the summary in YAML format:
+
+```
+case_number: "23STCV02001"
+plaintiff_name: "Bryson Phinali Arrington"
+defendant_name: "Southern California Gas Company"
+people_names:
+  - Jonathan Chun
+company_names:
+  - Southern California Gas Company
+places:
+  - California
+dates:
+  - "May 13, 2024"
+  - "October 21, 2024"
+events:
+  - Motion to be relieved as counsel
+  - Hearing on May 13, 2024 at 1:30 PM
+money: None
+intentions:
+  - To be relieved as counsel
+facts:
+  - Irremediable breakdown in the attorney-client relationship
+  - No opposition filed
+disputes:
+  - None
+acts:
+  - Chun moves to be relieved as counsel
+  - Court grants motion
+agreements:
+  - Plaintiff has 10/21/24 to retain new counsel
+laws:
+  - Ramirez v. Sturdevant (1994)
+  - People v. Prince (1968)
+  - California Rules of Court, Rule 3.1362
+  - Estate of Falco (1987)
+  - California Rules of Court, Rule 3.1362
+statutes:
+  - None
+roles:
+  - Judge: Hon. Lee S. Arian
+  - Counsel: Jonathan Chun
+  - Plaintiff: Bryson Phinali Arrington
+  - Defendant: Southern California Gas Company
+significant_statements:
+  - The Court has discretion to allow an attorney to withdraw
+  - The motion should be granted if there is no prejudice to the client and it does not disrupt the orderly process of justice
+```
+
+And here is the summary in English text:
+
+This tentative ruling is for the case number 23STCV02001, where Bryson Phinali Arrington is the plaintiff and Southern California Gas Company is the defendant. Jonathan Chun is the counsel for the plaintiff. The court has received a motion from Chun to be relieved as counsel, citing an irremediable breakdown in the attorney-client relationship. There is no opposition to the motion. The court grants the motion and allows Chun to withdraw as counsel. The next hearing is scheduled for October 21, 2024, which should give the plaintiff sufficient time to retain new counsel.

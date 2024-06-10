@@ -1,0 +1,61 @@
+Here is the summary in YAML format:
+
+```
+case_number: 19STCV40759
+plaintiff: Matthew Davenport
+defendant: Arash Farin
+people:
+  - Matthew Davenport
+  - Arash Farin
+companies:
+  - None
+places:
+  - Los Angeles
+dates:
+  - April 5, 2023
+  - May 9, 2023
+  - April 26, 2024
+  - May 9, 2024
+events:
+  - Supplemental request for production of documents
+  - Failure to respond to discovery
+  - Motion to compel responses
+  - Award of sanctions
+intention:
+  - To compel plaintiff to provide responses to supplemental discovery
+facts:
+  - Plaintiff failed to respond to supplemental request for production of documents
+  - Defendant moved to compel responses
+  - No opposition was filed
+disputes:
+  - Failure to respond to discovery
+  - Award of sanctions
+acts:
+  - Defendant propounded supplemental request for production of documents
+  - Plaintiff failed to respond
+  - Defendant moved to compel responses
+  - Court granted motion to compel
+agreements:
+  - None
+laws:
+  - Code of Civil Procedure
+  - California Code of Civil Procedure
+  - California Rules of Court
+  - Vallbona v. Springer (1996)
+  - Healthcare Consulting, Inc. v. Pacific Healthcare Consultants (2007)
+  - Sinaiko Healthcare Consulting, Inc. v. Pacific Healthcare Consultants (2007)
+roles:
+  - Judge: Michelle C. Kim
+  - Plaintiff: Matthew Davenport
+  - Defendant: Arash Farin
+  - Counsel for Plaintiff and Defendant
+significant statements:
+  - Court granted defendant's motion to compel responses
+  - Plaintiff is ordered to serve verified responses to defendant's supplemental request for production of documents
+  - Defendant is awarded $370 in attorney fees and $60 in filing fees
+  - Plaintiff is ordered to pay sanctions of $430 within 15 days
+```
+
+And here is a summary of the tentative ruling in English text:
+
+The court has granted the defendant's motion to compel responses to the plaintiff's supplemental request for production of documents. The plaintiff failed to respond to the discovery request, and the defendant moved to compel responses. No opposition was filed by the plaintiff. The court has ordered the plaintiff to serve verified responses to the defendant's supplemental request for production of documents within 15 days. The court has also awarded the defendant $370 in attorney fees and $60 in filing fees. Additionally, the plaintiff is ordered to pay sanctions of $430 within 15 days.

@@ -1,0 +1,34 @@
+Here is a summary of the judge's tentative ruling in YAML format:
+
+```
+---
+case_number: "21STCV36715"
+hearing_date: "May 13, 2024"
+department: "31"
+judge: "Kerry Bensinger"
+case_title: "People of the State of California ex Rel. Heath & Yuen, APC v. Silver Bird Auto Leasing LLC, et al."
+movant: "Defendants"
+respondent: "Plaintiff People of the State of California ex Rel. Heath & Yuen, APC"
+facts:
+  - The case arises from an insurance fraud scheme involving Silver Bird Auto Leasing LLC, the X-Law Group, and Filippo Marchino.
+  - Silver Bird owned a 2015 McLaren 650S Spider, which was involved in a motor vehicle accident with a tourism van.
+  - The Prior Litigation Defendants, Los Angeles USA Tours LLC, Sadegh Fatoorechi, and Ali Dayekh, were insured by Gateway Insurance Company, which became insolvent.
+  - CIGA substituted into the action and agreed to settle the case for $25,000.
+issues:
+  - Whether the defendant's alleged false statement about the accident was material.
+  - Whether the defendant's submission of a fraudulent invoice was material.
+statutes:
+  - Insurance Code section 1871.7
+  - Penal Code section 550
+  - Code of Civil Procedure section 437c
+roles:
+  - Plaintiff: People of the State of California ex Rel. Heath & Yuen, APC
+  - Defendant: Silver Bird Auto Leasing LLC, the X-Law Group, and Filippo Marchino
+significance:
+  - The case involves allegations of insurance fraud and the materiality of the defendant's alleged false statements and submission of a fraudulent invoice.
+  - The court granted the defendant's motion for summary judgment, finding that the plaintiff failed to present sufficient evidence to show the alleged false statements and invoice were material.
+```
+
+And here is a summary of the judge's tentative ruling in English:
+
+The court granted the defendant's motion for summary judgment, finding that the plaintiff failed to present sufficient evidence to show that the defendant's alleged false statements and submission of a fraudulent invoice were material. The court found that the defendant's alleged false statement about the accident was not material because CIGA already assumed the defendant was at fault. The court also found that the defendant's submission of a fraudulent invoice was not material because the plaintiff withdrew the request for property damages. The court denied the plaintiff's request for continuance, finding that the plaintiff failed to provide sufficient evidence to support its request.

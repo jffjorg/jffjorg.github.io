@@ -1,0 +1,71 @@
+Here is the YAML representation of the legal document:
+
+```
+Case Number: 23PSCV03267
+Plaintiff's Name: Bankers Healthcare Group, LLC
+Defendant's Name: Jessi P Changala
+People-Names:
+  - Daniel Johnston
+  - Salim
+  - Pinnacle Bank
+  - Stanhiser
+  - Fasuyi
+Company-Names:
+  - Bankers Healthcare Group, LLC
+  - Pinnacle Bank
+Places:
+  - California
+Dates:
+  - October 23, 2023
+  - April 15, 2024
+  - March 14, 2024
+  - June 7, 2023
+Events:
+  - lawsuit
+  - request for entry of default judgment
+  - default judgment
+  - breach of contract
+Money:
+  - $37,404.36
+  - $35,750.63
+  - $1,072.51
+  - $581.22
+Intentions:
+  - collection case
+  - breach of contract
+Facts:
+  - Plaintiff filed an action against the Defendant
+  - Defendant failed to timely respond or appear
+  - Plaintiff seeks default judgment
+Disputes:
+  - conflicting evidence regarding demand for payment
+  - discrepancy in loan agreement
+  - lack of evidence showing Plaintiff is successor in interest
+Acts:
+  - Plaintiff filed a request for entry of default judgment
+  - Plaintiff filed a default judgment package
+  - Plaintiff seeks default judgment
+Agreements:
+  - loan agreement
+  - promissory note
+Laws:
+  - Code of Civil Procedure section 585
+  - Code of Civil Procedure section 579
+  - Cal. Rules of Court, rule 3.1800
+  - Cal. Rules of Court, rule 3.1800, subd. (a)
+Case Citations:
+  - Johnson v. Stanhiser (1999) 72 Cal.App.4th 357
+  - Fasuyi v. Permatex, Inc. (2008) 167 Cal.App.4th 681
+Statutes:
+  - Fair Debt Buying Practices Act
+Roles:
+  - Plaintiff: Bankers Healthcare Group, LLC
+  - Defendant: Jessi P Changala
+  - Judge: [Not specified]
+Significant Statements:
+  - Plaintiff's request for entry of default judgment is DENIED without prejudice.
+```
+
+And here is the English text to summarize the judge's tentative ruling:
+
+Based on the evidence presented, the court denies the plaintiff's request for entry of default judgment without prejudice. The court notes that the plaintiff's declaration contains conflicting evidence regarding the demand for payment and the discrepancy in the loan agreement. Additionally, the court finds that the plaintiff has not provided sufficient evidence to establish that it is the successor in interest to Pinnacle Bank or its authorized representative. The court requires the plaintiff to provide new evidence to resolve these issues.

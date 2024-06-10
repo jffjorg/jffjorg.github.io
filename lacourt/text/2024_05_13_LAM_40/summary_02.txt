@@ -1,0 +1,91 @@
+Here is a summary of the tentative ruling in YAML format:
+
+```
+case_number: 23STCV00006
+hearing_date: 2024-05-13
+judge: [Name of Judge]
+defendants:
+  - Brink's Incorporated
+  - Regal Assets, LLC
+  - Tyler Gary Gallagher
+  - Leah Ann Donoso
+  - Christian Howard
+  - DOES 1-10
+plaintiff: Stephen Newland
+```
+
+```
+people:
+  - Stephen Newland
+  - Tyler Gary Gallagher
+  - Leah Ann Donoso
+  - Christian Howard
+  - John Doe (DOES 1-10)
+companies:
+  - Regal Assets, LLC
+  - Brink's Incorporated
+places:
+  - Los Angeles
+  - California
+dates:
+  - 2018-08-24
+  - 2018-08-25
+  - 2022-10
+  - 2023-08-24
+  - 2023-09-26
+  - 2023-11-14
+  - 2024-01-31
+  - 2024-02-09
+  - 2024-05-01
+  - 2024-05-06
+events:
+  - Purchase of silver and gold coins
+  - Demurrer to second amended complaint
+  - Motion to compel further production
+  - Hearing date: 2024-05-13
+money:
+  - $15,007.67
+intentions:
+  - To compel further production of documents
+  - To sustain demurrer to second amended complaint
+facts:
+  - Plaintiff purchased silver and gold coins from Regal Assets, LLC
+  - Coins were stored with Brink's Incorporated
+  - Plaintiff requested account verification reports, which were denied
+  - Plaintiff requested transfer of coins to his possession, which was denied
+  - Brink's Incorporated released coins to Regal Assets, LLC
+disputes:
+  - Breach of contract
+  - Breach of bailment
+  - Fraud
+acts:
+  - Purchase of silver and gold coins
+  - Storage of coins with Brink's Incorporated
+  - Request for account verification reports
+  - Request for transfer of coins to possession
+agreements:
+  - Precious Metal Storage Agreement (PMSA)
+laws:
+  - Civil Code of California
+  - Code of Civil Procedure of California
+citations:
+  - Lockley v. Law Office of Cantrell, Green, Pekich, Cruz & McCort (2001)
+  - Sinaiko Healthcare Consulting, Inc. v. Pacific Healthcare Consultants (2007)
+  - Catalina Island Yacht Club v. Superior Court (2015)
+  - Hahn v. Mirda (2007)
+  - Committee on Children's Television, Inc. v. General Foods Corp. (1983)
+  - Branick v. Downey Savings & Loan Assn. (2006)
+roles:
+  - Plaintiff: Stephen Newland
+  - Defendant: Brink's Incorporated
+  - Defendant: Regal Assets, LLC
+  - Defendant: Tyler Gary Gallagher
+  - Defendant: Leah Ann Donoso
+  - Defendant: Christian Howard
+  - Defendant: DOES 1-10
+significant statements:
+  - "A contract is a voluntary and lawful agreement, by competent parties, for a good consideration, to do or not to do a specified thing." (Robinson v. Magee (1858) 9 Cal. 81, 83.)
+  - "To prevail on a cause of action for breach of contract, the plaintiff must prove (1) the contract, (2) the plaintiff's performance of the contract or excuse for nonperformance, (3) the defendant's breach, and (4) the resulting damage to the plaintiff." (Richman v. Hartley (2014) 224 Cal.App.4th 1182, 1186.)
+```
+
+Please note that this summary is based on the provided text and may not be exhaustive or completely accurate.

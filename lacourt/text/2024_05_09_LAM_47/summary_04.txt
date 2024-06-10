@@ -1,0 +1,84 @@
+Here is the summary of the Tentative Ruling in YAML format:
+
+```
+case_number: BC616434
+plaintiff_name: US Construction Law
+defendant_name: Jean Pierre Christopher Murray
+people_names:
+  - Jean Pierre Christopher Murray
+  - Kathy Murray
+  - Sean P. Reynolds
+  - Justin Escano
+company_names:
+  - US Construction Law
+places:
+  - Beverly Hills
+  - Los Angeles
+  - San Diego
+dates:
+  - 07/17/15
+  - 09/11/15
+  - 04/11/16
+  - 06/13/16
+  - 02/29/19
+  - 05/24/19
+  - 08/10/20
+events:
+  - Filing of complaint
+  - Filing of cross-complaint
+  - Transfer of cases
+  - Filing of demurrer
+  - Ruling on demurrer
+  - Motion to strike
+  - Request for judicial notice
+  - Evidentiary objections
+  - Analysis
+  - Conclusion
+money:
+  - Fees owed
+  - Legal malpractice
+intentions:
+  - To strike the cross-complaint
+  - To deny the motion to strike
+facts:
+  - Cross-Defendants move to strike the cross-complaint as redundant
+  - The cross-complaint is duplicative of the claims in the Murrays' complaint
+  - The Court rejected a similar argument in a previous demurrer
+  - Cross-Defendants failed to demonstrate what new or different facts, circumstances, or law warrant a different ruling
+disputes:
+  - Whether the cross-complaint is redundant
+  - Whether the Court should strike the cross-complaint
+acts:
+  - Filing of the cross-complaint
+  - Filing of the demurrer
+  - Ruling on the demurrer
+  - Filing of the motion to strike
+agreements:
+  - Code of Civil Procedure section 436
+  - Code of Civil Procedure section 437
+  - Code of Civil Procedure section 1008
+laws:
+  - Code of Civil Procedure section 436
+  - Code of Civil Procedure section 437
+  - Code of Civil Procedure section 1008
+citations:
+  - Vaccaro v. Kaiman (1998)
+  - Ferraro v. Camarlinghi (2008)
+statutes:
+  - Code of Civil Procedure section 436
+  - Code of Civil Procedure section 437
+  - Code of Civil Procedure section 1008
+roles:
+  - Cross-Defendants
+  - Cross-Complainants
+  - Plaintiff
+  - Defendant
+significant statements:
+  - The Court may strike a pleading for irrelevance, falsehood, or impropriety
+  - The Court may not consider extrinsic evidence in ruling on a motion to strike
+  - The Court is without authority to grant the relief sought at this juncture
+```
+
+And here is the English text to summarize the judge's tentative ruling:
+
+The Court has denied the Cross-Defendants' motion to strike the cross-complaint filed in the fee action (BC616434) as redundant as to the complaint in the legal malpractice action (BC594432). The Court found that the cross-complaint is not duplicative of the claims in the Murrays' complaint and that the Cross-Defendants failed to demonstrate what new or different facts, circumstances, or law warrant a different ruling. The Court also noted that the Cross-Defendants failed to address the prior ruling on the demurrer to the cross-complaint and failed to demonstrate what new or different facts, circumstances, or law warrant a different ruling.

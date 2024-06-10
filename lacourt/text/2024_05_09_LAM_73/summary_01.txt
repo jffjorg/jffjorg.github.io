@@ -1,0 +1,71 @@
+Here is the summary in YAML format:
+
+```
+case_number: 19STCV02320
+plaintiff_name: RENE MARTINEZ
+defendant_name: FARMERS FINANCIAL SOLUTIONS, LLC et al.
+people_names:
+  - Rene Martinez
+  - Steve Klein
+  - Jimmy Coicoechea
+company_names:
+  - Farmers Financial Solutions, LLC
+  - Gordon Rees Scully Mansukhani, LLP
+  - Law Offices of Patrick Garofalo
+  - Nelson Law Office APC
+places:
+  - California
+dates:
+  - January 23, 2019 (Complaint filed)
+  - February 28, 2024 (Motion for Attorneys' Fees filed)
+  - April 29, 2024 (Joint Stipulation filed)
+  - May 9, 2024 (Hearing Date)
+  - June 10, 2024 (Latest possible hearing date)
+events:
+  - Wrongful termination action
+  - Discrimination in Violation of Cal. Gov. Code §§ 12940 et seq.
+  - Failure to Prevent Discrimination
+  - Retaliation
+  - Wrongful Termination in Violation of Public Policy
+  - Intentional Interference with Prospective Economic Advantage
+  - Negligent Interference with Prospective Economic Advantage
+  - Failure to Provide Accurate Wage Statements
+  - Failure to Pay Wages Upon Termination
+  - Failure to Pay Overtime
+  - Failure to Provide Rest Periods
+  - Failure to Provide Meal Periods
+money:
+  - Attorneys' fees
+  - Unspecified costs
+intentions:
+  - To grant the joint stipulation to continue the hearing on Plaintiff's motion for attorneys' fees
+facts:
+  - Plaintiff Rene Martinez filed a wrongful termination action against Farmers Financial Solutions, LLC and others
+  - The parties reached a settlement in the case, except for attorneys' fees
+  - Plaintiff filed a Motion for Attorneys' Fees, which was not opposed by the defendants
+disputes:
+  - Dispute over attorneys' fees
+acts:
+  - Plaintiff filed a Motion for Attorneys' Fees
+  - Parties filed a Joint Stipulation to continue the hearing on Plaintiff's Motion for Attorneys' Fees
+agreements:
+  - Joint Stipulation to continue the hearing on Plaintiff's Motion for Attorneys' Fees
+laws:
+  - Cal. Gov. Code §§ 12940 et seq.
+  - Cal. Labor Code §§ 201, 203, 210, 226, 510, 1194, 226.7
+  - Industrial Welfare Commission Wage Orders
+case_citations:
+  - 19STCV02320
+  - Cal. Gov. Code §§ 12940 et seq.
+  - Cal. Labor Code §§ 201, 203, 210, 226, 510, 1194, 226.7
+roles:
+  - Judge: Hon. Rolf Treu
+  - Plaintiff's counsel: Patrick Garofalo, Rachel Nelson
+  - Defendant's counsel: Stephen Ronk
+significant_statements:
+  - The Court GRANTS the joint stipulation to continue the hearing on Plaintiff's motion for attorneys' fees.
+```
+
+And here is the English text summarizing the judge's tentative ruling:
+
+The court grants the joint stipulation to continue the hearing on the plaintiff's motion for attorneys' fees. The plaintiff, Rene Martinez, filed a wrongful termination action against Farmers Financial Solutions, LLC and others. The parties reached a settlement in the case, except for attorneys' fees. The plaintiff filed a motion for attorneys' fees, which was not opposed by the defendants. The parties then filed a joint stipulation to continue the hearing on the motion for attorneys' fees due to an oversight in serving the motion to the defendants' counsel. The court grants the stipulation to allow the defendants to file an opposition and to schedule a new hearing date.

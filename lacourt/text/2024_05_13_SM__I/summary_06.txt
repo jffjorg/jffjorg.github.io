@@ -1,0 +1,60 @@
+Here is the summary in YAML format:
+
+```
+case:
+  number: 22SMCV01594
+  plaintiff: 
+  defendant: 
+people:
+  - Plaintiff
+  - Defendant
+  - Lead Counsel
+companies: 
+  - Plaintiff's Office
+  - Defendant's Office
+places: 
+  - Court
+  - Plaintiff's Office
+  - Defendant's Office
+dates: 
+  - May 13, 2024
+  - [TBD] (trial date)
+events: 
+  - Court Hearing
+  - Trial Preparation
+  - Sanctions
+money: 
+  - $999 (sanctions)
+intentions: 
+  - To continue the TSC
+  - To hold parties accountable for failure to be ready for trial
+facts: 
+  - Parties failed to comply with court orders
+  - Parties did not provide sufficient declarations
+disputes: 
+  - Failure to comply with court orders
+  - Failure to provide sufficient trial materials
+acts: 
+  - Continued TSC
+  - Sanctions imposed
+agreements: 
+  - Parties to meet and confer every Wednesday
+  - Parties to file trial materials when ready
+laws: 
+  - [N/A]
+case_citations: 
+  - [N/A]
+statutes: 
+  - [N/A]
+roles: 
+  - Judge
+  - Plaintiff
+  - Defendant
+  - Lead Counsel
+significant_statements: 
+  - "The court puts a bit more of the blame on defendant"
+```
+
+And here is the English-text summary:
+
+The Judge has reviewed the declarations and has decided to continue the Tentative Statement of Case (TSC) for one month. During this time, the lead counsel for both parties must meet and confer every Wednesday in person, alternating between the plaintiff's and defendant's offices. The goal of these meetings is to prepare the trial materials, which will be filed when they are ready. The Judge has imposed sanctions of $999 on both parties for their failure to comply with court orders and prepare the trial materials. The Judge has also scheduled a trial date, which will be set once the trial materials are ready.

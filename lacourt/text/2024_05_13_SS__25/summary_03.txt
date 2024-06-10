@@ -1,0 +1,86 @@
+Here is the summary in YAML format:
+
+```
+case_number: Judgment Creditor King Oswald Calilung vs. Carlos Smith, et al., Case No. A-20-808865-C
+plaintiff: King Oswald Calilung
+defendant: Carlos Smith
+people:
+  - King Oswald Calilung
+  - Carlos Smith
+  - Bryan Albiston
+companies:
+  - Judgment Creditor King Oswald Calilung
+  - Judgment Debtor Carlos Smith
+places:
+  - Nevada
+  - California
+  - Long Beach
+  - Cedar Address (2324 Cedar Ave.)
+  - Spring Street Courthouse
+dates:
+  - November 12, 2020 (judgment entered in Nevada Action)
+  - November 30, 2022 (Application for Entry of Judgment)
+  - January 17, 2023 (judgment entered by California Court)
+  - July 17, 2023 (Notice of Entry of Judgment)
+  - March 1, 2024 (reassignment of case)
+  - March 20, 2024 (Smith's motion to vacate judgment)
+  - April 25, 2024 (opposition to motion)
+  - May 1, 2024 (continuation of hearing)
+  - May 2, 2024 (filing of Substitution of Attorney)
+  - May 6, 2024 (reply brief)
+events:
+  - Judgment entered in Nevada Action
+  - Judgment entered in California Court
+  - Application for Entry of Judgment
+  - Notice of Entry of Judgment
+  - Motion to vacate judgment
+  - Opposition to motion
+  - Continuation of hearing
+  - Filing of Substitution of Attorney
+  - Filing of reply brief
+money:
+  - $12,449.23 (amount remaining on unpaid sister-state judgment)
+  - $370.00 (filing fee)
+  - $2,523.95 (accrued interest)
+  - $15,343.18 (total judgment)
+intentions:
+  - To vacate the judgment entered by the California Court
+facts:
+  - Smith was never properly served with the summons and complaint in the Nevada Action
+  - Service of process in the Nevada Action was improper
+  - The judgment in the Nevada Action is void for lack of personal jurisdiction
+disputes:
+  - Whether the judgment in the Nevada Action is valid
+  - Whether Smith was properly served with the summons and complaint in the Nevada Action
+  - Whether the California Court has jurisdiction over the case
+acts:
+  - The California Court entered judgment in favor of Calilung
+  - Smith filed a motion to vacate judgment
+  - Calilung opposed the motion
+  - The Court continued the hearing
+  - A Substitution of Attorney was filed
+  - A reply brief was filed
+agreements:
+  - CCP § 1710.25 (entitling the judgment creditor to entry of judgment)
+  - CCP § 1710.40 (providing for challenges to sister-state judgments)
+  - CCP § 2015.5 (requiring declarations or verifications to state the date and place of execution)
+laws:
+  - California Civil Procedure Code (CCP)
+  - Nevada Rules of Civil Procedure
+statutes:
+  - CCP § 1710.25
+  - CCP § 1710.40
+  - CCP § 2015.5
+  - Nevada Rules of Civil Procedure, Rule 4.3(a)(1)
+  - Nevada Rules of Civil Procedure, Rule 4.2(a)(1)-(3)
+roles:
+  - Judge
+  - Judgment Creditor
+  - Judgment Debtor
+significant statements:
+  - "The judgment of a sister state must be given full faith and credit if that sister state had jurisdiction over the parties and the subject matter, and all interested parties were given reasonable notice and opportunity to be heard." (Conseco Marketing, LLC v. IFA & Ins. Services, Inc.)
+  - "Courts refer to jurisdiction over the parties and subject matter as 'fundamental jurisdiction,' and where this is lacking there is an entire absence of power to hear or determine the case." (Airlines Reporting Corp. v. Renda)
+```
+
+Summary:
+The Judge has made a tentative ruling to grant Smith's motion to vacate the judgment entered by the California Court. The Judge finds that the judgment in the Nevada Action was void for lack of personal jurisdiction because Smith was never properly served with the summons and complaint. The Judge also finds that the California Court has no jurisdiction over the case. The Judge orders the moving party to give notice.
