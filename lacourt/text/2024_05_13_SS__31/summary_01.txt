@@ -1,0 +1,69 @@
+Here is the tentative ruling in YAML format:
+
+```
+Case Number: 18STCV08840
+Plaintiff's Name: Farhad Nazarian
+Defendant's Name: Johari Mohsen
+People-Names:
+  - Farhad Nazarian
+  - Johari Mohsen
+  - Fernando Lucas Garcia
+Company-Names:
+  - American Pacific Forwarders, Inc.
+Places:
+  - California
+Dates:
+  - April 18, 2022
+  - June 27, 2023
+  - January 23, 2024
+  - April 3, 2024
+  - April 16, 2024
+  - December 19, 2016
+  - March 31, 2024
+Events:
+  - Multi-vehicle collision
+  - Dismissal of Defendants
+  - Filing of request for court judgment
+  - Entry of default against defendant
+  - Review of request for court judgment
+Money:
+  - $114,682.75 (special damages)
+  - $700,000 (general damages)
+  - $1,931.65 (costs)
+  - $20,382.75 (granted special damages)
+  - $25,000 (reduced general damages)
+Intentions:
+  - Plaintiff seeks damages for medical expenses, property damage, and future costs
+  - Plaintiff seeks general damages for pain, inconvenience, suffering, and disruption of life
+Facts:
+  - Plaintiff was involved in a multi-vehicle collision
+  - Plaintiff seeks damages for medical expenses, property damage, and future costs
+  - Plaintiff seeks general damages for pain, inconvenience, suffering, and disruption of life
+Disputes:
+  - Plaintiff disputes the amount of general damages
+  - Plaintiff disputes the extent of his injuries and related pain and suffering
+Acts:
+  - Plaintiff filed an action against defendants
+  - Plaintiff sought a default judgment against defendant
+  - Plaintiff provided medical bills and property damage repair costs
+  - Plaintiff provided a declaration and proposed judgment
+  - Plaintiff did not provide evidence in support of general damages
+Agreements:
+  - Plaintiff and defendant agreed to the entry of default
+Laws:
+  - CCP § 1033.5(a)(1) and (4)
+  - Plotitsa v. Superior Ct. (1983) 140 Cal. App. 3d 755
+  - Section 425.11
+Roles:
+  - Judge: reviewing the request for court judgment
+  - Plaintiff: seeking damages for medical expenses, property damage, and future costs
+  - Defendant: defending against the plaintiff's claims
+Significant Statements:
+  - "The Court reviews the request for court judgment filed on April 3, 2024, and the declarations and proposed judgment filed on April 16, 2024."
+  - "Plaintiff’s special damages is granted only in the amount of $20,382.75."
+  - "The Court reduces the amount in general damages to $25,000."
+```
+
+And here is the English text to summarize the judge's tentative ruling:
+
+After reviewing the request for court judgment and the supporting declarations and proposed judgment, the court grants the plaintiff's request for a default judgment against the defendant, Johari Mohsen. The court grants the plaintiff $45,382.75 in special damages, which includes $20,382.75 in medical expenses and property damage repair costs. The court reduces the amount of general damages from $700,000 to $25,000, as there is no evidence to support the plaintiff's claims of pain and suffering. The court also grants the plaintiff $1,931.65 in costs. The court orders the plaintiff to give notice.

@@ -1,0 +1,63 @@
+Here is the YAML summary of the judge's tentative ruling:
+
+```
+case_number: 21STCV24666
+plaintiff_name: Christina Shores
+defendant_name: Diego Ruiz
+people_names:
+  - Christina Shores
+  - Diego Ruiz
+  - Gabriella Guthner
+  - Paul Kaloostian
+company_names: []
+places:
+  - 960 E. Green Street, Suite 320, Pasadena, CA 91106
+dates:
+  - February 15, 2024
+  - March 29, 2024
+  - April 4, 2024
+  - June 4, 2024
+events:
+  - Motor vehicle accident
+  - Demand for defense medical examination
+  - Failure to respond to demand
+  - Motion to compel
+  - Granting of motion to compel
+  - Award of monetary sanctions
+  - Notice of Court's order
+money:
+  - $1,060 (amount of monetary sanctions requested)
+  - $460.00 (amount of monetary sanctions awarded)
+intentions:
+  - To compel Plaintiff's defense medical examination
+  - To impose monetary sanctions
+facts:
+  - Plaintiff suffered physical injuries due to a motor vehicle accident
+  - Defendant served a demand for defense medical examination
+  - Plaintiff failed to respond to the demand
+  - Defendant moved to compel Plaintiff's compliance with the demand
+disputes:
+  - Plaintiff's failure to respond to the demand
+  - Defendant's request for monetary sanctions
+acts:
+  - Serving of demand for defense medical examination
+  - Failure to respond to the demand
+  - Motion to compel
+  - Award of monetary sanctions
+agreements:
+  - Code of Civil Procedure section 2032.220
+  - Code of Civil Procedure section 2032.250
+laws:
+  - Code of Civil Procedure section 2032.220
+  - Code of Civil Procedure section 2032.250
+roles:
+  - Plaintiff
+  - Defendant
+  - Counsel
+significant_statements:
+  - Defendant's counsel asserted that Plaintiff's counsel refuses to meet and confer.
+  - The court awarded $460.00 in monetary sanctions to Defendant.
+```
+And here is the English-text summary of the judge's tentative ruling:
+
+The judge grants the defendant's motion to compel the plaintiff's defense medical examination. The plaintiff failed to respond to the demand for the examination, which was served on February 15, 2024. The defendant seeks monetary sanctions for the plaintiff's failure to comply with the demand. The court awards $460.00 in monetary sanctions to the defendant. The plaintiff is ordered to appear for the examination with Dr. Kaloostian on June 4, 2024 at 4 p.m. at his office located at 960 E. Green Street, Suite 320, Pasadena, CA 91106.

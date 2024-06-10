@@ -1,0 +1,60 @@
+Here is the summary in YAML format:
+
+```
+case_number: 22STCV29984
+plaintiff: Rosalinda Padua
+defendant: Philip Barnes
+people_names:
+  - Rosalinda Padua
+  - Philip Barnes
+  - John Doe
+company_names: []
+places:
+  - 5840 Benner St Apt 208, Los Angeles, CA 90042
+  - North Avenue 47, Los Angeles, CA 90042
+dates:
+  - August 30, 2023
+  - June 26, 2023
+  - February 13, 2024
+  - April 30, 2024
+  - May 13, 2024
+events:
+  - Motor vehicle collision
+  - Service of summons and complaint
+  - Motion to quash service of summons
+  - Proof of service
+money: []
+intentions:
+  - To determine the validity of service of summons and complaint
+facts:
+  - Defendant was served by substituted service on June 26, 2023
+  - Defendant declares he was never served a copy of the summons and complaint
+  - Defendant has rebutted the presumption that service was proper
+disputes:
+  - Whether service of summons and complaint was proper
+acts:
+  - Filing of motion to quash service of summons
+  - Failure to file opposition to motion
+agreements: []
+laws:
+  - California Code of Civil Procedure
+  - California Civil Procedure Code
+  - Summers v. McClanahan (2006) 140 Cal.App.4th 403
+  - Dill v. Berquist Construction Co. (1994) 24 Cal.App.4th 1426
+  - Floveyor Internat., Ltd. v. Superior Court (1997) 59 Cal.App.4th 789
+  - Brown v. Garcia (2017) 17 Cal.App.5th 1198
+statutes:
+  - California Code of Civil Procedure
+roles:
+  - Plaintiff: Rosalinda Padua
+  - Defendant: Philip Barnes
+  - Judge: Michelle C. Kim
+significant_statements:
+  - "Compliance with the statutory procedures for service of process is essential to establish personal jurisdiction."
+  - "The filing of a proof of service creates a rebuttable presumption that the service was proper."
+  - "The burden is on the plaintiff to prove the existence of jurisdiction by proving the facts requisite to an effective service."
+```
+
+And here is the English text summary:
+
+The tentative ruling is about a motion to quash service of summons and complaint in a case between Rosalinda Padua (plaintiff) and Philip Barnes (defendant) regarding a motor vehicle collision. The defendant challenges the service of the summons and complaint, alleging that he was never served a copy of the documents. The defendant has rebutted the presumption that service was proper, so the burden is on the plaintiff to establish that service was proper. Since no opposition was filed, the plaintiff has not met its burden, and the defendant's motion is granted.
