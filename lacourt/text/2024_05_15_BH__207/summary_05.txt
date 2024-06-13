@@ -1,0 +1,60 @@
+Here is the YAML summary of the tentative ruling:
+
+```
+case_number: "Unknown"
+plaintiff: ""
+defendant: ""
+people_names:
+  - Judge's Name
+company_names:
+  - Defendant Company
+places:
+  - None
+dates:
+  - 2020-08-01
+  - 2014-09-01
+  - 2014-12-01
+  - 2015-09-15
+  - 2016-01-21
+  - 2016-01-25
+  - 2016-01-28
+  - 2016-11-08
+  - 2022-01-26
+events:
+  - Transmission Defect
+  - Technical Service Bulletins (TSBs)
+  - Replacement of transmission components
+money: 0
+intentions:
+  - To address harsh first shifts of the day
+  - To replace transmission components
+facts:
+  - Defendant issued internal TSBs to dealers
+  - TSBs did not mention replacing transmission components
+disputes:
+  - Transmission Defect
+  - Effectiveness of TSBs
+acts:
+  - Issuance of TSBs
+  - Replacement of transmission components
+agreements:
+  - None
+laws:
+  - None
+case_citations:
+  - [1]
+  - [2]
+statutes:
+  - None
+roles:
+  - Judge
+  - Defendant Company
+  - Plaintiff (not mentioned)
+  - Dealers
+significant_statements:
+  - "Replacing transmission components or complete assemblies will not improve the condition."
+```
+
+And here is a summary of the tentative ruling in English:
+
+The judge's tentative ruling is based on the information presented before today. The defendant company issued various technical bulletins to its dealers concerning the transmission defect. For example, an August 2020 technical service bulletin notes that replacing transmission components or complete assemblies will not improve the condition. The defendant company also issued other technical service bulletins between 2014 and 2022. The judge's ruling is pending further evidence and will be finalized at a future court hearing.

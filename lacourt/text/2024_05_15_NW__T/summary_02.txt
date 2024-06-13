@@ -1,0 +1,61 @@
+Here is the YAML representation of the tentative ruling:
+
+```
+Case Number: 22VECV02535
+Plaintiff's Name: Matan Laytin
+Defendant's Name: Serazi
+People-Names:
+  - Laytin, Matan
+  - Serazi
+Company-Names:
+  - Law Offices of Harvey Stern and Associates
+Places:
+  - Beverly Hills, CA
+Dates:
+  - May 15, 2024
+  - June 15, 2024
+Events:
+  - Motion to Produce Documents
+  - Production of Responsive Documents
+  - Discovery Abuse
+  - Monetary Sanctions
+  - Client Trust Account
+Money:
+  - $1,500
+Intentions:
+  - To grant the defendant's motion to produce documents
+  - To impose monetary sanctions on the plaintiff
+Facts:
+  - Plaintiff failed to produce all responsive documents
+  - Defendant requested production of documents in his control
+  - Plaintiff produced some documents, but not all
+  - Plaintiff failed to state whether he has check books or duplicates of checks
+Disputes:
+  - Discovery abuse
+  - Failure to produce responsive documents
+Acts:
+  - Defendant's motion to produce documents
+  - Plaintiff's failure to produce responsive documents
+  - Imposition of monetary sanctions
+  - Request for production of documents in control
+Agreements:
+  - Defendant's agreement to produce all responsive documents
+Laws:
+  - CCP section 2023.010
+  - Code of Civil Procedure
+Statutes:
+  - CCP section 2023.010
+Roles:
+  - Plaintiff: Matan Laytin
+  - Defendant: Serazi
+  - Judge: Determining the tentative ruling
+Significant Statements:
+  - The court finds that the sanctions requested were excessive and not reasonably necessary
+  - The plaintiff failed to produce all responsive documents
+  - The defendant is ordered to produce all responsive documents in his control
+  - The plaintiff is awarded monetary sanctions in the sum of $1,500
+```
+
+And here is the English-text summary of the judge's tentative ruling:
+
+The judge grants the defendant's motion to produce documents and orders the plaintiff to produce all responsive documents in their control, including documents from banks, accountants, or bookkeepers. The plaintiff failed to produce all responsive documents and failed to state whether they have check books or duplicates of checks. The judge awards monetary sanctions in the sum of $1,500 to the defendant against the plaintiff for discovery abuse, payable by June 15, 2024. The judge finds that the sanctions requested were excessive and not reasonably necessary.

@@ -1,0 +1,72 @@
+Here is the summary in YAML format:
+
+```
+case_number: 23NWCV02864
+hearing_date: May 14, 2024
+dept: C ODK Capital, LLC vs Sergio Salup
+
+people:
+  - ODK Capital, LLC (Plaintiff)
+  - Sergio Salup (Defendant)
+
+companies:
+  - ODK Capital, LLC
+
+places:
+  - California
+
+dates:
+  - January 8, 2024
+  - May 10, 2024
+  - May 14, 2024
+
+events:
+  - Breach of contract action
+  - Business Line of Credit Agreement
+  - Request for Admissions
+
+money:
+  - $44,839.88
+
+intentions:
+  - To deem Request for Admissions admitted
+  - To grant Plaintiff's motion
+
+facts:
+  - Plaintiff served Defendant with Request for Admissions on January 8, 2024
+  - Defendant did not respond to the Request for Admissions
+  - Plaintiff alleges Defendant owes $44,839.88 under the agreement
+
+disputes:
+  - Dispute over the amount owed under the Business Line of Credit Agreement
+
+acts:
+  - Plaintiff served Defendant with Request for Admissions
+  - Defendant failed to respond to the Request for Admissions
+
+agreements:
+  - Business Line of Credit Agreement
+
+laws:
+  - California Code of Civil Procedure (Code Civ. Proc.)
+  - Section 2033.220
+  - Section 2033.280
+
+case_citations:
+  - Code Civ. Proc., § 2033.220
+  - Code Civ. Proc., § 2033.280
+
+statutes:
+  - California Code of Civil Procedure
+
+roles:
+  - Plaintiff: ODK Capital, LLC
+  - Defendant: Sergio Salup
+
+significant_statements:
+  - "The court shall grant the motion to deem requests for admission admitted unless it finds that the party to whom the requests for admission have been directed has served, before the hearing on the motion, a proposed response to the requests for admission that is in substantial compliance with Section 2033.220."
+```
+
+And here is the summary in English text:
+
+The tentative ruling grants Plaintiff ODK Capital, LLC's motion to deem its Request for Admissions admitted. The Plaintiff brought this breach of contract action against Defendant Sergio Salup relating to a Business Line of Credit Agreement, alleging that the Defendant owes $44,839.88 under the agreement. The Plaintiff served the Defendant with the Request for Admissions on January 8, 2024, but the Defendant failed to respond. The court grants the Plaintiff's motion as the Defendant did not provide a timely response to the Request for Admissions. The court declines to award sanctions as the Plaintiff did not request them.

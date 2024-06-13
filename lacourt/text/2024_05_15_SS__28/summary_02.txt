@@ -1,0 +1,59 @@
+Here is a summary of the tentative ruling in YAML format:
+
+```
+case_number: 20STCV26421
+hearing_date: 2024-05-15
+dept: 28
+
+parties:
+  - plaintiff: Nicole Triplett
+  - plaintiff: Latasha Nash
+  - defendant: City of Los Angeles
+  - defendant: SMG Management, LLC
+  - defendant: SMG Management I, LLC
+  - defendant: SMG Management II, LLC
+  - defendant: Steve Lozano
+  - defendant: Dolores Martinez-Reifer
+  - defendant: Michelle Cassida
+  - defendant: Staff Pro, Inc. (erroneously sued and served as Staff Pro, Inc.)
+  - defendant: Universal Protection Service, LP
+
+dates:
+  - July 14, 2020: Plaintiffs file the action
+  - August 20, 2020: Plaintiffs file a notice of errata
+  - September 21, 2020: Defendant Service Management Group, LLC is dismissed
+  - October 5, 2020: The City files an answer
+  - January 7, 2021: Defendant Contemporary Services Corporation is dismissed
+  - April 7, 2021: Plaintiffs file an amended complaint
+  - June 24, 2021: Plaintiffs file another amended complaint
+  - July 21, 2021: The Court sustains the demurrer and grants the motion to strike
+  - August 10, 2021: Plaintiffs file a first amended complaint
+  - October 14, 2021: The Court sustains the demurrer
+  - November 3, 2021: Plaintiffs file a second amended complaint
+  - February 3, 2023: Cross-Defendants file an answer to the cross-complaint
+  - July 20, 2023: Various defendants file answers to the third amended complaint
+
+motions:
+  - Moving Defendants' motions for leave to conduct Plaintiffs' mental examinations
+  - Plaintiffs' oppositions to the motions
+  - Moving Defendants' replies
+
+standard:
+  - Code of Civil Procedure section 2032.220
+  - Code of Civil Procedure section 2032.310
+  - Code of Civil Procedure section 2032.320
+
+discussion:
+  - The Court finds good cause for the mental examinations
+  - The Court grants Plaintiffs' request to make audio recordings of the entire examination
+  - The Court orders the release of the raw test data and test materials to Plaintiffs' counsel
+  - The Court orders the disclosure of the list of potential tests
+
+orders:
+  - The examinations will take place on mutually agreeable dates within 40 days of the hearing on the motions
+  - The Court will consider any requests for continuances of the deadline for conducting the examinations
+```
+
+And here is a summary of the tentative ruling in English text:
+
+The Court has issued a tentative ruling on the motions for leave to conduct Plaintiffs' mental examinations. The Court has found good cause for the examinations and has granted Plaintiffs' request to make audio recordings of the entire examination. The Court has also ordered the release of the raw test data and test materials to Plaintiffs' counsel. Additionally, the Court has ordered the disclosure of the list of potential tests. The examinations will take place on mutually agreeable dates within 40 days of the hearing on the motions, and the Court will consider any requests for continuances of the deadline for conducting the examinations.

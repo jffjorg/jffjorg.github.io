@@ -1,0 +1,81 @@
+Here is the YAML summary of the Judge's tentative ruling:
+
+```
+case_number: 2024-001
+plaintiff: Covina Hills MHC
+defendant: Francis Vinula, et al.
+people:
+  - Eugenia Souza
+  - Jermaine D. Souza
+  - Julio Javier Romo
+  - Francis Vinula
+  - Does 1 through 100
+company:
+  - Covina Hills MHC
+  - REMAX Olympic
+place:
+  - La Puente
+  - West Covina
+  - California
+date:
+  - January 30, 2024
+  - February 6, 2024
+  - February 8, 2024
+  - February 13, 2024
+  - April 18, 2024
+  - May 13, 2024
+event:
+  - Filing of complaint
+  - Service of summons
+  - Motion to quash summons and complaint
+  - Opposition to motion
+  - Reply to opposition
+  - Filing of proof of service
+  - Filing of declaration
+money:
+  - Storage fees
+  - Monthly storage charges
+  - Compensation for abandoned mobile home
+intention:
+  - To recover storage fees and compensation
+  - To declare mobile home abandoned
+  - To recover possession of mobile home
+fact:
+  - Plaintiff operates a mobile home park
+  - Defendant was served with summons
+  - Defendant alleges lack of proper service
+  - Plaintiff filed proof of service
+  - Defendant filed motion to quash summons and complaint
+dispute:
+  - Dispute over whether defendant was properly served with summons
+  - Dispute over whether defendant has standing to bring claim
+  - Dispute over whether plaintiff has standing to bring claim
+act:
+  - Plaintiff filed complaint
+  - Defendant filed motion to quash summons and complaint
+  - Plaintiff filed opposition to motion
+  - Defendant filed reply to opposition
+  - Plaintiff filed proof of service
+agreement:
+  - None
+  - Plaintiff seeks to recover storage fees
+  - Defendant seeks to quash summons and complaint
+law:
+  - California Code of Civil Procedure
+  - Evidence Code
+statute:
+  - Code Civ. Proc. § 415.10
+  - Code Civ. Proc. § 415.20
+  - Code Civ. Proc. § 412.20
+  - Code Civ. Proc. § 418.10
+  - Evid. Code § 647
+role:
+  - Judge
+  - Plaintiff
+  - Defendant
+  - Process server
+  - parties
+significant_statement:
+  - The court finds that the defendant was properly served with summons
+  - The court denies the defendant's motion to quash summons and complaint
+  - The court finds that the plaintiff has standing to bring the claim

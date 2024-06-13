@@ -1,0 +1,36 @@
+Here is a summary of the tentative ruling in YAML format:
+
+```yaml
+case_number: 21STCV45071
+hearing_date: 2024-05-15
+department: T
+moving_party: Anthony Pesce
+responding_party: None
+
+tentative_ruling: Granted
+
+background:
+  - Plaintiff Eddie Hernandez, a minor, initiated this action on December 10, 2021
+  - Against Defendants Anthony Pesce, Livia Tuberosi, Victor Tuberosi, and TFCC
+  - Alleging general negligence, premise liability, and battery
+
+legal_standard:
+  - A motion for summary judgment provides courts with a mechanism to determine whether trial is necessary
+  - The moving party bears the initial burden of showing that a cause of action has no merit
+  - The opposing party must produce substantial responsive evidence to establish a triable issue of material fact
+
+discussion:
+  - Pesce moves for summary judgment against Plaintiff's claims for negligence and premises liability
+  - Pesce argues that there is no special relationship between him and the Plaintiff
+  - The court finds that there are no triable issues of material fact to suggest a special relationship between Pesce and Plaintiff
+  - Pesce also argues that he lacked actual knowledge of Frankie's alleged dangerous or violent propensities
+  - The court finds that Pesce has met his burden on this basis as well
+
+conclusion:
+  - The court GRANTS Defendant Anthony Pesce's motion for summary judgment
+  - Defendant Anthony Pesce is ordered to give notice of this ruling
+```
+
+And here is a summary of the tentative ruling in English text:
+
+The court grants Defendant Anthony Pesce's motion for summary judgment. The Plaintiff, Eddie Hernandez, a minor, initiated this action against Defendants Anthony Pesce, Livia Tuberosi, Victor Tuberosi, and TFCC, alleging general negligence, premise liability, and battery. Pesce argues that there is no special relationship between him and the Plaintiff, and the court finds that there are no triable issues of material fact to suggest a special relationship between Pesce and Plaintiff. Additionally, Pesce argues that he lacked actual knowledge of Frankie's alleged dangerous or violent propensities, and the court finds that Pesce has met his burden on this basis as well. Therefore, the court grants Pesce's motion for summary judgment.

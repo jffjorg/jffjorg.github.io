@@ -1,0 +1,79 @@
+Here is the summary in YAML format:
+
+```
+case_number: 23STCV04747
+hearing_date: May 15, 2024
+dept: 56
+
+people:
+  - Monique Mudarris (Plaintiff)
+  - Jaguar Land Rover North America, LLC (Defendant)
+  - Priscilla Le (Plaintiff's counsel)
+
+companies:
+  - Jaguar Land Rover North America, LLC
+  - Donlen v. Ford Motor Co.
+  - Doppes v. Bentley Motors, Inc.
+
+places:
+  - Los Angeles, California
+  - California
+
+dates:
+  - September 21, 2018 (purchase date of the Vehicle)
+  - June 2, 2023 (Defendant's response to Plaintiff's RFPs)
+  - July 26, 2023 (initiation of meet and confer process)
+  - August 26, 2024 (jury trial date)
+  - December 23, 2022 (last visit to Defendant's dealership)
+
+events:
+  - Purchase of the Vehicle
+  - Filing of the operative Complaint
+  - Service of Defendant with Plaintiff's RFPs and SIs
+  - Meet and confer process
+  - Filing of motions to compel
+
+money:
+  - None mentioned
+
+intentions:
+  - To compel Defendant to produce documents and information relevant to the case
+
+facts:
+  - Alleged defects in the Vehicle
+  - Plaintiff's claims of breach of warranty and violation of Song-Beverly Act
+  - Defendant's responses to Plaintiff's RFPs and SIs
+
+disputes:
+  - Overbreadth and relevance of Plaintiff's RFPs and SIs
+  - Defendant's objections to Plaintiff's motions to compel
+
+acts:
+  - Service of process
+  - Filing of motions to compel
+
+agreements:
+  - None mentioned
+
+laws:
+  - California Code of Civil Procedure
+  - Song-Beverly Act
+  - California Civil Code
+
+case citations:
+  - Lipton v. Superior Court (1996) 48 Cal.App.4th 1599
+  - Obregon v. Superior Court (1998) 67 Cal.App.4th 424
+  - Fairmont Ins. Co. v. Superior Court (2000) 22 Cal.4th 245
+  - Calcor Space Facility, Inc. v. Superior Court (1997) 53 Cal.App.4th 216
+
+roles:
+  - Judge: Holly J. Fujie
+  - Plaintiff: Monique Mudarris
+  - Defendant: Jaguar Land Rover North America, LLC
+
+significant statements:
+  - "The Court shall limit the scope of discovery if it determines that the burden, expense, or intrusiveness of that discovery clearly outweighs the likelihood that the information sought will lead to the discovery of admissible evidence." (Code Civ. Proc. § 2017.010)
+  - "The Court agrees with Plaintiff. [Plaintiff's] requests are, however, overbroad and redundant."
+```
+
+Note that the YAML format is a straightforward representation of the document's structure, with each key-value pair representing a category of information (e.g. "people", "companies", "dates", etc.).

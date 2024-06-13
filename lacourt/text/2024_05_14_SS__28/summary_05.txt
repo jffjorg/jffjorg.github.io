@@ -1,0 +1,77 @@
+Here is a summary of the tentative ruling in YAML format:
+
+```
+case_number: 22STCV02508
+hearing_date: May 14, 2024
+dept: 28
+
+parties:
+  - plaintiff: Jose Rodriguez
+  - defendant: Byambadorj Tsendayush
+  - defendant: Uber Technologies, Inc.
+  - defendant: Raiser, LLC
+  - defendant: Raiser-CA, LLC
+
+events:
+  - January 21, 2022: Plaintiff files lawsuit
+  - October 2, 2023: Defendants file answer
+  - October 4, 2023: Defendant Byambadorj Tsendayush files answer
+  - April 8, 2024: Defendant files motion to compel responses to requests
+  - May 13, 2024: Plaintiff files late opposition to motion to deem admitted matters
+  - May 14, 2024: Hearing on motion to compel responses to requests
+
+money:
+  - sanctions: $480.00
+
+acts:
+  - Plaintiff fails to provide timely responses to requests
+  - Defendant files motion to compel responses to requests
+  - Defendant requests sanctions on motion to compel
+
+intentions:
+  - Defendant seeks to compel Plaintiff to provide responses to requests
+  - Defendant seeks sanctions for Plaintiff's failure to provide timely responses
+
+facts:
+  - Plaintiff fails to provide timely responses to requests
+  - Defendant seeks to compel Plaintiff to provide responses
+  - Defendant seeks sanctions for Plaintiff's failure to provide timely responses
+
+disputes:
+  - Plaintiff fails to provide timely responses to requests
+  - Defendant seeks to compel Plaintiff to provide responses
+
+agreements:
+  - Code of Civil Procedure sections 2030.290 and 2031.300
+
+laws:
+  - Code of Civil Procedure
+
+citations:
+  - Code Civ. Proc., § 2030.290
+  - Code Civ. Proc., § 2031.300
+  - Code Civ. Proc., § 2033.280
+
+roles:
+  - Judge: [Name of Judge]
+  - Plaintiff: Jose Rodriguez
+  - Defendant: Byambadorj Tsendayush
+  - Defendant: Uber Technologies, Inc.
+  - Defendant: Raiser, LLC
+  - Defendant: Raiser-CA, LLC
+
+significant_statements:
+  - The Court grants Defendant's motion to compel responses to requests
+  - The Court denies Defendant's motion to deem admitted matters
+  - The Court awards $480.00 in sanctions against Plaintiff
+```
+
+And here is a summary of the tentative ruling in English text:
+
+The Court rules that the Plaintiff, Jose Rodriguez, failed to provide timely responses to the Defendant, Byambadorj Tsendayush's, requests for production of documents, special interrogatories, and form interrogatories. The Court grants the Defendant's motion to compel responses to these requests and orders the Plaintiff to provide verified code-compliant responses without objections by June 13, 2024.
+
+The Court also grants the Defendant's motion to compel responses to the requests for admission and orders the Plaintiff to provide verified code-compliant responses without objections by June 13, 2024.
+
+The Court denies the Defendant's motion to deem admitted matters specified in the requests for admission.
+
+The Court awards $480.00 in sanctions against the Plaintiff and his counsel to be paid to the Defendant by June 13, 2024.

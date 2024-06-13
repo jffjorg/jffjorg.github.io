@@ -1,0 +1,98 @@
+Here is the YAML summary:
+
+```
+case_number: 21STCV39278
+hearing_date: 2024-05-15
+judge: Judge Theresa M. Traber
+department: 47
+case_title: Loretta L. Tobin v. Ernst & Haas Management Co., Inc., et al.
+plaintiff: Loretta L. Tobin
+defendants:
+  - Ernst & Haas Management Co., Inc.
+  - Solimar Homeowner's Association
+  - Linda J. Vitz
+  - Thomas A. Brown
+people:
+  - Loretta L. Tobin
+  - Linda J. Vitz
+  - Thomas A. Brown
+  - Andrew D. Scoble
+companies:
+  - Ernst & Haas Management Co., Inc.
+  - Solimar Homeowner's Association
+places:
+  - Huntington Beach
+  - Orange County
+dates:
+  - 2000-05-08 (Grant Deed)
+  - 1990-08-08 (Grant Deed)
+  - 1989-06-28 (Tract Map)
+  - 2021-11-15 (Grant Deed)
+  - 2022-05-11 (Previous ruling)
+  - 2024-05-15 (Current hearing)
+events:
+  - Demurrer to Complaint
+  - Motion to Strike
+  - Meeting and Conferencing
+amounts:
+  - None
+intentions:
+  - To determine the sufficiency of the complaint
+  - To sustain or overrule the demurrer
+facts:
+  - Toxic mold in apartment
+  - Defendant's ownership and control of the property
+  - Lease agreement and implied covenants
+  - Breach of contract and tort claims
+disputes:
+  - Sufficiency of the complaint
+  - Defendant's ownership and control of the property
+acts:
+  - Demurrer to Complaint
+  - Motion to Strike
+  - Meeting and Conferencing
+agreements:
+  - None
+laws:
+  - California Code of Civil Procedure (CCP) § 430.41(a)
+  - California Civil Code (Civ. Code) § 1927
+  - California Code of Civil Procedure (CCP) § 430.41(a)(4)
+  - Evidence Code (Evid. Code) § 452
+  - California Civil Code (Civ. Code) § 15
+  - California Civil Code (Civ. Code) § 1692
+citations:
+  - Hahn v. Mirda (2007)
+  - Taylor v. City of Los Angeles Dept. of Water and Power (2006)
+  - Donabedian v. Mercury Ins. Co. (2004)
+  - SKF Farms v. Superior Court (1984)
+  - Marshall v. Gibson, Dunn & Crutcher (1995)
+  - Shields v. County of San Diego (1984)
+  - Perez v. Golden Empire Transit Dist. (2012)
+  - Erlach v. Sierra Asset Servicing, LLC (2014)
+  - Andrews v. Mobile Aire Estates (2005)
+  - Marchese v. Standard Realty & Dev. (1977)
+  - Kesner v. Superior Court (2016)
+  - Catsouras v. Department of California Highway Patrol (2010)
+  - Christensen v. Superior Court (1991)
+  - Stansfield v. Starkey (1990)
+  - Lazar v. Superior Court (1996)
+  - Engalla v. Permanente Medical Group, Inc. (1997)
+  - Chen v. Berenjian (2019)
+  - Khoury v. Maly's of Cal., Inc. (1993)
+  - Mahan v. Charles W. Chan Ins. Agency, Inc. (2017)
+  - Blank v. Kirwan (1985)
+  - Reed v. Norman (1957)
+  - Goodman v. Kennedy (1976)
+  - Angie M. v. Superior Court (1995)
+roles:
+  - Judge: Theresa M. Traber
+  - Plaintiff: Loretta L. Tobin
+  - Defendant: Solimar Homeowner's Association
+  - Attorney: Andrew D. Scoble
+significant_statements:
+  - The Court sustains the demurrer to the complaint in its entirety without leave to amend.
+  - The Court finds that the plaintiff has failed to state facts sufficient to constitute a cause of action.
+  - The Court grants the defendant's request for judicial notice of certain documents.
+```
+
+Please note that the YAML file is not a standard format for legal documents, and it may require some adjustments to fit the specific requirements of your case.

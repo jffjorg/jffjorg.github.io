@@ -1,0 +1,68 @@
+Here is the summary in YAML format:
+
+```
+case_number: 23CHCV00429
+plaintiff_name: David Avdalian
+defendant_name: Jennifer Rachael Bauer
+people_names:
+  - David Avdalian
+  - Jennifer Rachael Bauer
+company_names: []
+places:
+  - 2246 N Alvarado St, Los Angeles
+  - Law Offices of Borton Petrini
+dates:
+  - February 15, 2023
+  - October 17, 2023
+  - October 26, 2023
+  - January 26, 2024
+  - February 8, 2024
+  - February 29, 2024
+events:
+  - Personal injury case
+  - Motor vehicle accident
+  - Service of summons
+  - Case Management Conference
+  - Motion to quash service of summons
+money:
+  - [No relevant monetary information mentioned]
+intentions:
+  - Defendant seeks to quash service of summons
+  - Plaintiff seeks to maintain service of summons
+facts:
+  - Defendant was served at 2246 N Alvarado St, Los Angeles
+  - Process server made several attempts to serve Defendant
+  - Defendant claims she has never been served with the summons and complaint
+  - Defendant argues she does not know the person who accepted service of process
+disputes:
+  - Defendant disputes the validity of the service of summons
+  - Plaintiff disputes Defendant's claims
+acts:
+  - Service of summons
+  - Substituted service
+  - Service by mail
+  - Case Management Conference
+  - Motion to quash service of summons
+agreements:
+  - [No relevant agreements mentioned]
+laws:
+  - California Evidence Code § 647
+  - California Evidence Code § 604
+  - Los Angeles v. Morgan (1951)
+  - Palm Property Investments, LLC v. Yadegar (194 Cal.App.4th 1419)
+roles:
+  - Judge
+  - Plaintiff's counsel
+  - Defendant's counsel
+  - Process server
+significant_statements:
+  - Defendant's motion to quash service of summons is granted.
+  - The return of process is prima facie evidence of proper service.
+  - Where proof of service exists, the burden is then on the other party to produce evidence that they were not, in fact, served.
+  - Simply denying receipt of service is not sufficient to overcome the presumption of service.
+  - Defendant's sworn declaration states that she has never been served with the summons and complaint, that she has not lived at 2246 N. Alvarado Street since the late 1990s, and that she does not know the person who accepted service of process nor has she authorized any persons at that address to accept service on her behalf.
+```
+
+And here is the summary in English text:
+
+The Judge has issued a tentative ruling in the case of David Avdalian vs. Jennifer Rachael Bauer, granting Defendant's motion to quash service of summons. The case involves a personal injury claim stemming from a motor vehicle accident. Defendant was served at 2246 N Alvarado St, Los Angeles, but claims she has never been served with the summons and complaint and does not know the person who accepted service of process. The process server made several attempts to serve Defendant, including substituted service and service by mail. The Judge found that there is evidence to overcome the presumption of service, and Defendant's sworn declaration supports her claims.

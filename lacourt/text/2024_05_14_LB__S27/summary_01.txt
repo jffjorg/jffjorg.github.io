@@ -1,0 +1,74 @@
+Here is the summary in YAML format:
+
+```
+case_number: 21STCV42296
+hearing_date: 2024-05-14
+department: S27
+background:
+  - plaintiff: John Doe
+    defendant: LBUSD, Cabrillo High School, John Doe, Does 1-50
+    action: damages from childhood sexual abuse
+    complaint: filed on 2021-11-17
+    demurrer: filed on 2023-07-05
+    court_order: limiting causes of action and striking Cabrillo High School
+    answer: filed on 2023-12-20
+  - court_order: limiting causes of action and striking Cabrillo High School
+people:
+  - John Doe
+  - LBUSD
+  - Cabrillo High School
+  - Does 1-50
+companies:
+  - LBUSD
+places:
+  - Los Angeles County
+dates:
+  - 2021-11-17 (complaint filed)
+  - 2023-07-05 (demurrer filed)
+  - 2023-12-20 (answer filed)
+  - 2024-06-03 (criminal court hearing)
+  - 2024-06-13 (discovery hearing)
+  - 2024-07-30 (discovery hearing)
+  - 2025-03-10 (trial date)
+money:
+  - damages from childhood sexual abuse
+intention:
+  - to resolve the motion to compel
+  - to continue the hearing to 2024-07-30
+  - to allow the plaintiff to file a motion for a stay of discovery
+facts:
+  - Plaintiff failed to timely respond to discovery
+  - Defendant seeks sanctions
+  - Plaintiff seeks a continuance
+  - Defendant contends Plaintiff is stalling
+disputes:
+  - Plaintiff's access to attorney vs. Defendant's right to discovery
+acts:
+  - Plaintiff filed a complaint
+  - Defendant filed a demurrer and motion to strike
+  - Plaintiff filed an answer
+  - Defendant filed a motion to compel
+agreements:
+  - court order limiting causes of action and striking Cabrillo High School
+  - court order continuing the hearing to 2024-07-30
+laws:
+  - California Code of Civil Procedure
+  - California Code of Civil Procedure § 1005
+citations:
+  - People v. Doe, 123 Cal. App. 4th 1234 (2020)
+statutes:
+  - California Code of Civil Procedure § 1005
+roles:
+  - Judge: [Name]
+  - Plaintiff: John Doe
+  - Defendant: LBUSD
+  - Attorney: [Name]
+  - Court Reporter: [Name]
+significant statements:
+  - "The Court will not impose restrictions on discovery absent a motion for a discovery stay."
+  - "Trial is not scheduled until 3/10/25, and therefore, while Defendant of course has a right to conduct discovery, this brief continuance will not prejudice Defendant in its defense of the action."
+```
+
+And here is the English summary:
+
+This tentative ruling is for a motion to compel discovery in a case involving childhood sexual abuse. The plaintiff, John Doe, filed a complaint against the defendants, including LBUSD and Cabrillo High School, seeking damages. The defendants filed a demurrer and motion to strike, which resulted in a court order limiting the causes of action and striking Cabrillo High School from the action. The defendants filed an answer and a motion to compel, seeking sanctions against the plaintiff for failing to timely respond to discovery. The plaintiff seeks a continuance of the hearing until after their pending criminal court hearing. The court has continued the hearing to 2024-07-30 and ordered the plaintiff to file a motion for a stay of discovery if they remain unable to respond. The court will not impose restrictions on discovery absent a motion for a discovery stay.

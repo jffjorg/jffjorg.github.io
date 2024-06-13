@@ -1,0 +1,71 @@
+Here is the YAML file:
+
+```
+Case Number: 23LBCV01987
+Plaintiff's Name: Christopher Graham
+Defendant's Name: City of Long Beach, Long Beach Yellow Cab, Ride Yellow
+
+PeopleNames:
+  - Christopher Graham
+
+CompanyNames:
+  - City of Long Beach
+  - Long Beach Yellow Cab
+  - Ride Yellow
+
+Places:
+  - Long Beach
+
+Dates:
+  - May 14, 2024
+
+Events:
+  - Automobile accident
+  - Workers' compensation payment
+  - Motion for leave to intervene
+
+Money:
+  - Worker's compensation benefits
+
+Intentions:
+  - The City seeks leave to intervene
+  - Plaintiff seeks damages arising out of the automobile accident
+
+Facts:
+  - Plaintiff, Christopher Graham, filed this action against Defendants
+  - Plaintiff received workers' compensation benefits from the City
+  - City seeks to intervene in the lawsuit
+
+Disputes:
+  - Dispute over liability for the automobile accident
+
+Acts:
+  - Automobile accident
+  - Workers' compensation payment
+  - Motion for leave to intervene
+
+Agreements:
+  - Labor Code §§3852 and 3853
+
+Laws:
+  - Labor Code §§3850(b)
+  - Labor Code §3852
+  - Labor Code §3853
+
+Case Citations:
+  - Labor Code
+
+Statutes:
+  - Labor Code
+
+Roles:
+  - Plaintiff: Christopher Graham
+  - Defendant: City of Long Beach, Long Beach Yellow Cab, Ride Yellow
+  - Intervener: City of Long Beach
+
+Significant Statements:
+  - The City paid Plaintiff workers' compensation benefits as a result of the injuries that give rise to this litigation.
+  - The City seeks leave to intervene in the lawsuit.
+
+English-text summary:
+The judge's tentative ruling grants the City's motion to intervene in the lawsuit, allowing the City to join the action against the third party responsible for the automobile accident. The City had paid the plaintiff workers' compensation benefits and is seeking to further recover damages. The motion was unopposed and the City is ordered to file a separate complaint-in-intervention within five days.

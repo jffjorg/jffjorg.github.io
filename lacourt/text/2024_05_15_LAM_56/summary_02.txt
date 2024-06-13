@@ -1,0 +1,62 @@
+Here is the YAML summary:
+
+```
+case_number: 22STCV10943
+plaintiff: E. J.
+defendant: DOE 1
+people_names:
+  - E. J.
+  - DOE 1
+company_names: []
+places:
+  - Los Angeles
+  - California
+dates:
+  - March 30, 2022
+  - May 4, 2022
+  - June 16, 2022
+  - August 8, 2023
+  - May 15, 2024
+events:
+  - Filing of complaint
+  - Filing of first amended complaint
+  - Filing of answer
+  - Deposition of plaintiff
+  - Motion for leave to amend answer
+money: []
+intentions:
+  - To amend answer to add affirmative defense
+facts:
+  - Plaintiff alleges abuse occurred both on and off campus
+  - Defendant seeks to add Education Code section 44808 affirmative defense
+disputes:
+  - Plaintiff vs. Defendant
+acts:
+  - Filing of pleadings
+  - Deposition of plaintiff
+  - Motion for leave to amend answer
+agreements:
+  - None
+laws:
+  - California Code of Civil Procedure section 340.1
+  - California Code of Civil Procedure section 473
+  - Education Code section 44808
+case_citations:
+  - Kittredge Sports Co. v. Superior Court
+  - California Casualty General Ins. Co. v. Superior Court
+  - Atkinson v. Elk Corp.
+  - Magpali v. Farmers Group, Inc.
+  - Kransco v. American Empire Surplus Lines Ins. Co.
+roles:
+  - Judge: Hon. Holly J. Fujie
+  - Plaintiff: E. J.
+  - Defendant: DOE 1
+significant_statements:
+  - The court has considered the moving papers and no opposition has been filed.
+  - The court grants the unopposed motion for leave to file an amended answer.
+  - Defendant is ordered to file its amended answer within 10 days of this order.
+```
+
+And here is the English-text summary:
+
+This tentative ruling is about a motion for leave to amend the answer to add an affirmative defense in a childhood sexual abuse case. The defendant, Los Angeles Unified School District, seeks to add an affirmative defense under Education Code section 44808, which precludes liability for conduct that occurred off the school site. The court grants the unopposed motion, ordering the defendant to file its amended answer within 10 days.

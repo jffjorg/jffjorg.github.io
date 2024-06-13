@@ -1,0 +1,61 @@
+Here is the summary in YAML format:
+
+```
+case_number: 23STCV00266
+plaintiff: PABLO SANTIAGO TOMAS, et al.
+defendant: PREMKUMAR NATARAJAN, et al.
+people_names:
+  - PABLO SANTIAGO TOMAS
+  - PREMKUMAR NATARAJAN
+company_names: []
+places: []
+dates:
+  - May 14, 2024
+  - January 24, 2024
+  - May 7, 2024
+events:
+  - Petition to approve compromise of pending action of a minor
+money:
+  - $500,000
+  - $5,000
+  - $1,000
+  - $1,250
+  - $118.59
+  - $2,631.41
+intentions:
+  - Deny
+facts:
+  - Settlement agreement between plaintiffs and defendants
+  - Total settlement amount of $500,000
+  - $5,000 to be apportioned to Pablo Santiago Tomas
+disputes:
+  - Expedited petition filed on May 7, 2024
+  - Failure to include Attachment 14a
+  - Failure to complete Item 3
+  - Failure to demonstrate that all defendants are judgment-proof outside of insurance coverage
+acts:
+  - Filing of expedited petition
+  - Failure to cure defects in petition
+agreements:
+  - Settlement agreement between plaintiffs and defendants
+laws:
+  - California Rules of Court, rule 7.950.5
+  - California Rules of Court, rule 7.950.5(a)(8)
+  - California Rules of Court, rule 7.950.5(a)(8)(A)
+  - California Rules of Court, rule 7.950.5(a)(8)(B)
+roles:
+  - Judge
+  - Petitioner
+  - Claimant
+  - Guardian ad litem
+  - Counsel
+significant_statements:
+  - Denial of expedited petition
+  - Failure to complete Item 3
+  - Failure to demonstrate judgment-proof status of defendants
+  - Requirement to file new petition curing defects
+```
+
+And here is the English-text summary:
+
+The judge has issued a tentative ruling denying the expedited petition filed by the petitioner to approve the compromise of a pending action of a minor. The petition was filed on May 7, 2024, and the petitioner has failed to cure several defects, including the lack of an Attachment 14a and the failure to complete Item 3. The petitioner's use of the expedited petition form MC-350EX is also improper, as the total settlement amount payable to the minor and other parties exceeds $50,000. The judge orders the petitioner to file a new petition curing the defects at least 9 court days before the continued hearing date.

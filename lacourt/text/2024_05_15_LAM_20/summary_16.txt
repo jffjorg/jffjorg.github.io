@@ -1,0 +1,60 @@
+Here is the summary in YAML format:
+
+```
+case_number: 2023-001234
+plaintiff_names:
+  - Martin L. Waterman
+  - Law Offices of Waterman & Harris
+defendant_names:
+  - Leslie Harris
+  - Michelle Silver
+  - The Estate of Howard Harris
+people_names:
+  - Martin L. Waterman
+  - Leslie Harris
+  - Michelle Silver
+  - Howard Harris
+company_names:
+  - Law Offices of Waterman & Harris
+places:
+  - California
+dates:
+  - December 13, 2023
+  - 2005
+events:
+  - Filing of Complaint
+  - Demurrer
+  - Request for Judicial Notice
+money:
+  - Equitable indemnity
+  - Contribution
+intentions:
+  - Assert claim for equitable indemnity and contribution
+facts:
+  - Failure to state sufficient facts
+  - Causes of action deemed abandoned
+disputes:
+  - Failure to state sufficient facts
+acts:
+  - Filing of Complaint
+  - Demurrer
+  - Request for Judicial Notice
+agreements:
+  - Sustaining of Demurrer
+  - Granting of Request for Judicial Notice
+laws:
+  - Herzberg v. County of Plumas (2005) 133 Cal.App.4th 1, 20
+  - Statutes (not specified)
+roles:
+  - Judge
+  - Plaintiff
+  - Defendant
+  - Personal Representative
+significant_statements:
+  - Demurrer is sustained, without leave to amend
+  - Request for Judicial Notice is granted
+```
+
+And here is the English-text summary of the judge's tentative ruling:
+
+On December 13, 2023, Plaintiffs Martin L. Waterman and the Law Offices of Waterman & Harris filed a complaint asserting a claim for equitable indemnity and contribution. However, Defendants Leslie Harris and Michelle Silver, as personal representatives of The Estate of Howard Harris, have demurred to the complaint, arguing that it fails to state sufficient facts. Since there is no opposition, the subject causes of action are deemed abandoned. The judge has sustained the demurrer, without allowing an amendment. Additionally, the judge has granted the request for judicial notice. The moving party is requested to provide notice. Due to the COVID-19 pandemic, counsel are encouraged to appear remotely using LACourtConnect rather than in person.

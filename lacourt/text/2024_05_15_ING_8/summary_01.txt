@@ -1,0 +1,47 @@
+Here is the YAML file representing the tentative ruling:
+
+```
+Case Number: 23TRCV01689
+Plaintiff's Name: Fadriko Dillon
+Defendant's Name: Prime Healthcare Centinela, LLC, Veritas Healthcare Services, Inc., Prime Healthcare Services, LLC
+People-Names: Fadriko Dillon, Debbie L. Sklar
+Company-Names: Prime Healthcare Centinela, LLC, Veritas Healthcare Services, Inc., Prime Healthcare Services, LLC
+Places:
+  - Centinela Hospital Medical Center
+  - Inglewood
+  - California
+Dates:
+  - May 26, 2023
+  - June 23, 2023
+  - December 21, 2023
+  - March 8, 2024
+  - April 9, 2024
+  - May 2, 2024
+  - May 8, 2024
+  - May 15, 2024
+Events:
+  - Demurrer filed by defendants
+  - Opposition brief filed by plaintiff
+  - Reply brief filed by defendants
+  - Judicial notice granted
+Money: $0
+Intentions:
+  - Plaintiff intends to prove negligence and liability
+Disputes:
+  - Plaintiff alleges defendants failed to provide adequate security
+  - Defendants argue plaintiff did not plead sufficient facts to state a cause of action
+Acts:
+  - Plaintiff was allegedly assaulted on defendants' premises
+  - Defendants employed security guards
+  - Plaintiff contends defendants knew or should have known of the dangerous condition
+Laws:
+  - Civil Code section 1714
+  - Code of Civil Procedure section 430.10
+Roles:
+  - Judge: reviewing the demurrer
+Significant Statements:
+  - "The Court is not persuaded by this argument."
+  - "The Court has taken notice of prior incidents, and for the reasons explained in defendants' moving papers, the Court cannot determine that they are both 'similar' to the subject incident."
+```
+
+Please note that the YAML file is not a comprehensive summary of the entire document, but rather a concise representation of the key points and facts mentioned in the text.

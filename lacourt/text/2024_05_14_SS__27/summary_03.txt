@@ -1,0 +1,72 @@
+Here is the YAML summary of the tentative ruling:
+
+```
+case_number: 22STCV20709
+plaintiff: Arturo Leal
+defendant: Total Terminals International, LLC
+people:
+  - Arturo Leal
+  - Judge Lee S. Arian
+companies:
+  - Total Terminals International, LLC
+places:
+  - Los Angeles County
+dates:
+  - January 8, 2024
+  - February 12, 2024
+  - April 3, 2024
+  - May 14, 2024
+events:
+  - Motion to deem contents of Requests for Admissions admitted
+  - Failure to serve responses to Requests for Admissions
+  - Granting of motion to deem contents admitted
+money: $0
+intentions:
+  - To determine the admissibility of Requests for Admissions
+facts:
+  - Plaintiff failed to serve responses to Requests for Admissions
+  - Defendant moved to deem contents of Requests for Admissions admitted
+disputes:
+  - Plaintiff's failure to respond to Requests for Admissions
+  - Defendant's request to deem contents admitted
+acts:
+  - Service of Requests for Admissions
+  - Failure to serve responses to Requests for Admissions
+  - Granting of motion to deem contents admitted
+agreements:
+  - CCP § 2033.010
+  - CCP § 2033.250(a)
+  - CCP § 2033.280(a)
+  - CCP § 2033.280(b)
+  - CCP § 2033.280(c)
+laws:
+  - CCP § 2033.010
+  - CCP § 2033.250(a)
+  - CCP § 2033.280(a)
+  - CCP § 2033.280(b)
+  - CCP § 2033.280(c)
+case Citations:
+  - CCP § 2033.010
+  - CCP § 2033.250(a)
+  - CCP § 2033.280(a)
+  - CCP § 2033.280(b)
+  - CCP § 2033.280(c)
+statutes:
+  - CCP § 2033.010
+  - CCP § 2033.250(a)
+  - CCP § 2033.280(a)
+  - CCP § 2033.280(b)
+  - CCP § 2033.280(c)
+roles:
+  - Judge Lee S. Arian
+  - Plaintiff Arturo Leal
+  - Defendant Total Terminals International, LLC
+significant statements:
+  - "Any party may obtain discovery..."
+  - "Within 30 days after service of requests for admission..."
+  - "The requesting party can move for an order that the genuineness of any documents..."
+```
+
+And here is the English summary of the judge's tentative ruling:
+
+The judge has granted the defendant's motion to deem the contents of its requests for admission admitted. The defendant served its requests for admission on January 8, 2024, and the plaintiff failed to serve responses by the statutory deadline. The plaintiff did not file an opposition or any other documents indicating that responses to the requests for admission have been served prior to the hearing. Therefore, the motion is granted.

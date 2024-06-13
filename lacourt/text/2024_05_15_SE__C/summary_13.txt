@@ -1,0 +1,52 @@
+Here is the summary in YAML format:
+
+```
+case_number: VC067069
+plaintiff: Huang v. Jan
+defendant: Chyan-Wen Jan, Ching Wen Chen, Jan Fruits, Inc.
+people_names:
+  - Sophie Chang
+  - Eric Huang
+  - Ingram Liu
+  - Ching Wen Chen
+company_names:
+  - Jan Fruits, Inc.
+places:
+  - Dept. SE-C
+dates:
+  - May 15, 2024
+  - January 7, 2025
+  - August 20, 2024
+events:
+  - Ex Parte Application to Advance Hearing Dates
+  - Motion to Compel Depositions
+  - Hearing Dates
+money: None
+intentions:
+  - Advance hearing dates
+  - Compel depositions
+facts:
+  - Parties have filed motions to compel depositions
+  - Depositions to be taken of Sophie Chang, Eric Huang, and Ingram Liu
+disputes:
+  - Dispute over depositions
+acts:
+  - Filing of motions to compel
+  - Filing of opposition and reply papers
+agreements:
+  - None
+laws:
+  - California Code (Code)
+roles:
+  - Moving Party (Jan Fruits, Inc.)
+  - Opposing Party (Huang)
+significant_statements:
+  - Tentative Ruling
+  - Hearing Dates Advanced
+  - Depositions Continued
+  - Parties to file opposition and reply papers
+```
+
+And here is the summary in English text:
+
+This is a tentative ruling by the Court in the case of Huang v. Jan. The Court has granted the Ex Parte Application to Advance the Hearing Dates on the Motions to Compel Depositions of Sophie Chang, Eric Huang, and Ingram Liu. The Motions to Compel Depositions are advanced from January 7, 2025 to August 20, 2024 at 9:30 a.m. in Dept. SE-C. The parties are required to file and serve opposition and reply papers in accordance with the new hearing date.

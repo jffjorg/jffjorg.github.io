@@ -1,0 +1,61 @@
+Here is the YAML summary of the tentative ruling:
+
+```
+case_number: 21STCV10080
+plaintiff_name: Brianna Bertoia
+defendant_name: Mujeeb Rehman
+people_names:
+  - Brianna Bertoia
+  - Mujeeb Rehman
+company_names: []
+places:
+  - Los Angeles
+dates:
+  - October 17, 2023
+  - November 20, 2023
+  - May 14, 2024
+events:
+  - Serving of Requests for Production
+  - Failure to serve responses
+  - Motion to compel responses
+money:
+  - Monetary sanctions
+intentions:
+  - Compel responses to requests for production
+  - Award monetary sanctions
+facts:
+  - Defendant served requests for production on October 17, 2023
+  - Responses were due November 20, 2023
+  - No responses have been served
+  - Defendant did not request sanctions
+disputes:
+  - Failure to serve responses to requests for production
+acts:
+  - Serving of requests for production
+  - Failure to serve responses
+agreements:
+  - Code of Civil Procedure Section 2031.300
+  - California Rules of Court, rule 3.1348(a)
+laws:
+  - Code of Civil Procedure Section 2031.300
+  - California Rules of Court, rule 3.1348(a)
+citations:
+  - Code Civ. Pro § 2031.300
+  - Code Civ. Proc. § 2031.300 (a)(1)-(2)
+  - Code Civ. Proc. § 2031.300 (c)
+  - Cal. Rules of Court, rule 3.1348(a)
+statutes:
+  - Code of Civil Procedure Section 2031.300
+  - California Rules of Court, rule 3.1348(a)
+roles:
+  - Plaintiff: Brianna Bertoia
+  - Defendant: Mujeeb Rehman
+  - Court: Judge
+significant_statements:
+  - Defendant's motion to compel responses is granted
+  - Plaintiff shall provide verified responses within 30 days
+```
+
+And here is a summary of the tentative ruling in English text:
+
+The Court has granted the defendant's motion to compel responses to requests for production. The defendant served the requests on October 17, 2023, and responses were due November 20, 2023. However, no responses have been served. The Court declines to award monetary sanctions since the defendant did not request them. The plaintiff, Brianna Bertoia, shall provide verified responses, without objections, within 30 days. The defendant shall provide notice of the Court's order and file a proof of service of such.

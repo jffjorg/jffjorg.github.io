@@ -1,0 +1,59 @@
+Here is the YAML summary:
+
+```
+case-number: 23AHCV00494
+plaintiff: Masako Inoue
+defendant: Green Works Construction & Design, Inc.
+people:
+  - Masako Inoue
+  - William A. Crowfoot
+company-names:
+  - Green Works Construction & Design, Inc.
+  - ACR Heating & Cooling, Inc.
+  - Reform Construction & Design, Inc.
+places:
+  - Los Angeles
+  - California
+dates:
+  - March 7, 2023
+  - April 28, 2023
+  - October 24, 2023
+  - January 3, 2024
+  - February 20, 2024
+  - May 8, 2024
+  - May 15, 2024
+events:
+  - Filing of complaint
+  - Answer to complaint
+  - Cross-complaint
+  - Motion for arbitration
+  - Mediation
+money:
+  - Amount: Not specified
+intentions:
+  - To compel arbitration
+facts:
+  - Parties entered into agreements with arbitration provisions
+  - Agreements include arbitration clauses
+  - Parties have reached a stipulation to complete mediation
+disputes:
+  - Dispute over whether claims should be arbitrated
+acts:
+  - Filing of motions and answers
+  - Negotiation of stipulation
+agreements:
+  - Agreements with arbitration provisions
+  - Stipulation and proposed order
+laws:
+  - Arbitration provisions in agreements
+  - Court's discretion to adopt tentative as final order
+case-citations:
+  - None specified
+statutes:
+  - None specified
+roles:
+  - Judge: William A. Crowfoot
+  - Parties: Green Works Construction & Design, Inc., ACR Heating & Cooling, Inc., Reform Construction & Design, Inc.
+significant-statements:
+  - Parties agree to complete mediation within 90 days
+   
