@@ -1,0 +1,74 @@
+Here is the YAML representation of the judge's tentative ruling:
+
+```
+---
+Case Number: 19STCV38785
+Plaintiff's Name: Stephanie De La Rosa
+Defendant's Name: Hamza Krofess, ET AL.
+People-Names:
+  - Stephanie De La Rosa
+  - Hamza Krofess
+Company-Names:
+  - Raiser LLC
+  - Raiser-CA LLC
+  - Raiser – DC LLC
+Places:
+  - Los Angeles
+  - California
+Dates:
+  - February 21, 2024
+  - April 11, 2024
+  - April 29, 2024
+  - May 3, 2024
+  - May 8, 2024
+  - May 15, 2024
+Events:
+  - Motion for Terminating Sanctions
+  - Motion to Deem Request for Admissions Admitted
+  - Deposition of Plaintiff
+  - Service of Discovery Responses
+  - Failure to Pay Monetary Sanctions
+Money:
+  - $480 (monetary sanctions)
+  - $1,560 (monetary sanctions requested)
+  - $500 (attorney's fees)
+  - $60 (motion filing fee)
+Intentions:
+  - Deny motion for terminating sanctions
+  - Grant motion to deem request for admissions admitted
+  - Impose monetary sanctions
+Facts:
+  - Plaintiff failed to serve verified discovery responses in compliance with court orders
+  - Raiser LLC filed motion for terminating sanctions
+  - Plaintiff failed to respond to Raiser LLC's request for admissions
+Disputes:
+  - Dispute over failure to comply with discovery orders
+  - Dispute over payment of monetary sanctions
+  - Dispute over admission of request for admissions
+Acts:
+  - Plaintiff failed to serve discovery responses
+  - Raiser LLC filed motion for terminating sanctions
+  - Plaintiff failed to respond to Raiser LLC's request for admissions
+Agreements:
+  - Court granted Raiser LLC's motion to compel discovery responses
+  - Court awarded Raiser LLC $480 in monetary sanctions
+Laws:
+  - Code of Civil Procedure § 2023.030
+  - Code of Civil Procedure § 2033.010
+  - Code of Civil Procedure § 2033.280
+  - Code of Civil Procedure § 2023.030(d)
+Statutes:
+  - Code of Civil Procedure
+Roles:
+  - Judge: Michelle C. Kim
+  - Plaintiff: Stephanie De La Rosa
+  - Defendant: Hamza Krofess
+  - Counsel for Raiser LLC
+  - Plaintiff's counsel
+Significant Statements:
+  - "A court may impose terminating sanctions by striking pleadings of the party engaged in misuse of discovery or entering default judgment."
+  - "Terminating sanctions are appropriate when a party persists in disobeying the court's orders."
+  - "A terminating sanction issued solely because of a failure to pay a monetary discovery sanction is never justified."
+```
+
+Note that some information, such as the judge's name, is not explicitly stated in the original text, so it is not included in the YAML representation.
