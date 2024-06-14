@@ -1,0 +1,65 @@
+Here is the summary in YAML format:
+
+```
+case_number: "Case Number: [insert case number]"
+plaintiff:
+  name: Ronald Courey
+  name: Beverley Courey
+defendant:
+  - name: Spinning Gold, LLC
+  - name: Timothy Bogart
+  - name: Jessica Martins
+people:
+  - Ronald Courey
+  - Beverley Courey
+  - Timothy Bogart
+  - Jessica Martins
+company:
+  - Spinning Gold, LLC
+places:
+  - [insert location]
+dates:
+  - [insert date]
+events:
+  - Initial responses to requests for production, set one
+  - Form interrogatories, set one
+  - Special interrogatories, set one
+  - Requests for admission, set one
+  - Motions to compel
+money:
+  - $1,500
+  - $500
+intentions:
+  - To compel defendants to provide initial responses
+  - To seek sanctions
+facts:
+  - Responses were not provided
+  - Motions are granted
+disputes:
+  - Failure to provide initial responses
+  - Failure to seek sanctions
+acts:
+  - Filing Motions to compel
+  - Seeking sanctions
+agreements:
+  - Responses are to be served within 30 days
+  - Reduced sanctions of $500 per Motion
+laws:
+  - [insert relevant laws or statutes]
+case_citations:
+  - [insert relevant case citations]
+statutes:
+  - [insert relevant statutes]
+roles:
+  - Moving parties
+  - Counsel
+  - Court
+significant_statements:
+  - "The Court awards reduced sanctions in the amount of $500 per Motion."
+  - "Moving parties to give notice."
+  - "If counsel do not submit on the tentative, they are strongly encouraged to appear by LACourtConnect rather than in person due to the COVID-19 pandemic."
+```
+
+And here is the English-text summary:
+
+The judge has issued a tentative ruling in this case. The plaintiffs, Ronald Courey and Beverley Courey, are seeking to compel the defendants, Spinning Gold, LLC, Timothy Bogart, and Jessica Martins, to provide initial responses to their requests for production, interrogatories, and requests for admission. The court has granted the motions and ordered the defendants to provide responses without objections within 30 days. The court has also awarded reduced sanctions of $500 per motion. The court is requiring the moving parties to give notice of their intention to submit on the tentative. Finally, the court is strongly encouraging counsel to appear remotely via LACourtConnect rather than in person due to the COVID-19 pandemic.

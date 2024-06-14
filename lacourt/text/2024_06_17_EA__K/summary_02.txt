@@ -1,0 +1,49 @@
+Here is the summary in YAML format:
+
+```
+case_number: [TBD]
+plaintiff_name: [TBD]
+defendant_name: [TBD]
+people_names:
+  - moving_counsel: [TBD]
+  - defendants_counsel: [TBD]
+  - client: [TBD]
+company_names: []
+places: []
+dates:
+  - April 19, 2024
+  - May 13, 2024
+  - May 20, 2024
+  - June 13, 2024
+events:
+  - Motion filed
+  - Proof of service filed
+  - Hearing continued
+  - Notice of continuance filed
+money: []
+intentions: []
+facts:
+  - Proof of service not filed
+  - Hearing continued
+disputes: []
+acts:
+  - Plaintiff filed motion
+  - Defendant failed to provide proof of service
+  - Plaintiff filed notice of continuance
+agreements: []
+laws:
+  - California Rules of Court rule 3.1300
+  - [Other relevant laws]
+case_citations: []
+statutes: []
+roles:
+  - Judge
+  - Counsel (moving and defendants)
+  - Client
+significant_statements:
+  - 'The court on May 20, 2024 continued the hearing date to June 13, 2024 and provided notice to counsel of such.'
+```
+
+And here is the English text summarizing the Judge's tentative ruling:
+
+The Judge's tentative ruling is that the motion filed on April 19, 2024, without a proof of service, does not comply with California Rules of Court rule 3.1300. As a result, the hearing date was continued to June 13, 2024, and notice was provided to counsel. The Judge notes that a proof of service was filed on May 20, 2024, but the motion was still not accompanied by a proof of service at the time the Judge made this ruling.

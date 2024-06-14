@@ -1,0 +1,40 @@
+Here is the YAML summary of the tentative ruling:
+
+```
+case_number: 22STCV20750
+hearing_date: 2024-06-14
+dept: 73
+
+parties:
+  - name: Fuller, et al.
+  - name: Sketchbox LLC, et al.
+
+counsel:
+  - name: Virginia Ksadzhikyan
+  - name: Alton Burkhalter
+
+motions:
+  - motion: Motion to compel further responses to request for production of documents
+    nos. 14, 15, 21, 34, 36, 37, 39, 43, 44, 45, 46, 50, 51, 54, and 57
+    propounded on both Defendants
+  - motion: Motion to compel further responses to request for production of documents
+    no. 38 propounded on both Defendants
+
+ruling:
+  - motion_to_compel_granted: true
+    document_numbers: [14, 15, 21, 34, 36, 37, 39, 43, 44, 45, 46, 50, 51, 54, 57]
+  - motion_to_compel_denied: true
+    document_numbers: [38]
+  - sanctions_denied: true
+
+dates:
+  - 2022-06-24: Filing of the action
+  - 2023-07-13: Filing of the Second Amended Complaint
+  - 2024-05-06: Filing of the initial motion to compel
+  - 2024-05-07: Filing of the amended motion to compel
+  - 2024-03-08: Production of supplemental responses
+```
+
+And here is the English summary:
+
+This tentative ruling addresses two motions to compel further responses to requests for production of documents. The court grants the motion to compel further responses to request for production of documents nos. 14, 15, 21, 34, 36, 37, 39, 43, 44, 45, 46, 50, 51, 54, and 57 propounded on both Defendants. The court denies the motion to compel further responses to request for production of document no. 38 propounded on both Defendants. The court also denies both parties' requests for sanctions. The court orders the Defendants to serve supplemental responses within 30 days of the court's order.

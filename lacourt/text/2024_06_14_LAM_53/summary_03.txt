@@ -1,0 +1,55 @@
+Here is the summary in YAML format:
+
+```
+case_number: Not specified
+plaintiff: Not specified
+defendant: Not specified
+people_names:
+  - Howard Blum
+companies:
+  - Rothstein
+places:
+  - None specified
+dates:
+  - June 5, 2023
+  - March 4, 2024
+  - April 17, 2023
+  - May 8, 2023
+events:
+  - Defendant filed a motion to compel Plaintiff's responses
+  - Defendant served interrogatories on Plaintiff's counsel
+  - Plaintiff confirmed receipt of discovery
+money: Not specified
+intentions:
+  - Defendant intended to compel Plaintiff's responses
+  - Plaintiff intended to provide responses
+facts:
+  - Defendant served interrogatories on Plaintiff's counsel at incorrect email address
+  - Plaintiff confirmed receipt of discovery
+disputes:
+  - Dispute over serving interrogatories
+  - Dispute over providing responses
+acts:
+  - Defendant filed a motion to compel
+  - Plaintiff provided discovery
+agreements:
+  - None specified
+laws:
+  - Not specified
+citations:
+  - June 5, 2023 Def. Mot. to Compel
+  - Rothstein Decl., Ex. 1
+  - June 5, 2023 Def. Mot. to Compel, Rothstein Decl., Ex. 4
+  - June 5, 2023 Def. Mot. to Compel, Rothstein Decl., Ex. 5
+roles:
+  - Judge
+  - Plaintiff
+  - Defendant
+significant_statements:
+  - Defendant served interrogatories at incorrect email address
+  - Plaintiff confirmed receipt of discovery
+```
+
+And here is the English-text summary:
+
+The tentative ruling notes that the defendant filed a motion to compel the plaintiff's responses to form interrogatories on June 5, 2023. The court granted the motion on March 4, 2024. However, the papers attached to the motion indicate that the defendant served the interrogatories on the plaintiff's counsel at an incorrect email address. The court notes that the plaintiff's counsel confirmed receipt of the discovery, despite the incorrect email address. The court will likely consider these facts when making a final ruling.

@@ -1,0 +1,64 @@
+Here is the summary in YAML format:
+
+```
+case_number: "TBD"
+plaintiff_name: "Rana Rabadi"
+defendant_name: "SLSLT Underlying Trust 2020-1"
+people_names:
+  - Rana Rabadi
+  - SLSLT Underlying Trust 2020-1
+company_names: []
+places: []
+dates:
+  - July 2023
+  - January 24, 2024
+  - February 14, 2024
+  - February 15, 2024
+  - April 18, 2024
+events:
+  - Service of summons and complaint
+  - Filing of answer
+  - Request for default
+  - Entry of default
+  - Motion to set aside default
+money: []
+intentions:
+  - Set aside default
+  - Avoid judgment
+facts:
+  - Defendant was served in July 2023, but service package was misrouted
+  - Defendant was served again in January 2024, but only learned of default on February 14, 2024
+  - Defendant filed answer on February 15, 2024
+  - Defendant did not seek relief until April 18, 2024
+disputes:
+  - Excusable neglect
+  - Professional competence
+  - Surprise
+  - Inadvertence
+acts:
+  - Service of summons and complaint
+  - Filing of answer
+  - Request for default
+  - Entry of default
+agreements: []
+laws:
+  - California Code of Civil Procedure § 473(b)
+  - Hopkins & Carley v. Gens (2011)
+  - Hearn v. Howard (2009)
+  - Younessi v. Woolf (2016)
+  - California Civil Code
+roles:
+  - Plaintiff (Rana Rabadi)
+  - Defendant (SLSLT Underlying Trust 2020-1)
+  - Counsel
+  - Judge
+significant_statements:
+  - Defendant's default was excusable due to surprise and inadvertence
+  - Defendant's lack of diligence in seeking relief
+  - Defendant's unexplained delay in seeking relief
+  - Defendant's failure to demonstrate a satisfactory excuse for default
+```
+
+And here is the English text summarizing the judge's tentative ruling:
+
+The court has reviewed the defendant's motion to set aside a default judgment entered against it. The defendant claims it was served with the summons and complaint in July 2023, but the service package was misrouted and never delivered. The defendant argues that it had no knowledge of the lawsuit until February 14, 2024, when it was served a second time. The court finds that the defendant's excuse for its default is not sufficient and that it failed to demonstrate diligence in seeking relief. The court denies the defendant's motion to set aside the default.

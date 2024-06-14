@@ -1,0 +1,65 @@
+Here is the YAML summary of the tentative ruling:
+
+```
+case_number: 24STCP0009476
+plaintiff_name: Itria Ventures, LLC
+defendant_name: Forty General Building Inc.
+people_names:
+  - Jose Cuarenta Jimenez
+  - Jesus Edgar Cuarenta
+company_names:
+  - Itria Ventures, LLC
+  - Forty General Building Inc.
+places:
+  - Los Angeles
+  - California
+dates:
+  - November 22, 2023
+  - December 20, 2023
+  - February 15, 2024
+  - June 14, 2024
+events:
+  - Appointment of receiver
+  - Preliminary injunction
+  - Breach of written contract
+  - Breach of written guarantees
+  - Motion to strike answer
+  - Entry of default
+money:
+  - None mentioned
+intentions:
+  - Plaintiff seeks to strike pro per defendant's answer
+  - Plaintiff seeks entry of default against defendant
+facts:
+  - Plaintiff filed complaint on November 22, 2023
+  - Defendant filed answer in pro per on December 20, 2023
+  - Plaintiff moved to strike answer on February 15, 2024
+  - No opposition filed by defendant
+disputes:
+  - Whether a corporation can represent itself in a California court
+acts:
+  - Plaintiff moves to strike pro per defendant's answer
+  - Defendant fails to answer complaint
+  - Plaintiff seeks entry of default against defendant
+agreements:
+  - None mentioned
+laws:
+  - California Code of Civil Procedure (C.C.P.) §436
+  - California Code of Civil Procedure (C.C.P.) §435
+  - California Business and Professions Code (Bus. & Prof. Code) §§6125 et seq.
+case_citations:
+  - Merco Construction Engineers, Inc. v. Municipal Court (1978) 21 Cal.3d 724
+  - Van Gundy v. Camelot Resorts, Inc. (1983) 152 Cal.App.3d Supp 29
+statutes:
+  - California Code of Civil Procedure (C.C.P.) §436
+  - California Code of Civil Procedure (C.C.P.) §435
+  - California Business and Professions Code (Bus. & Prof. Code) §§6125 et seq.
+roles:
+  - Plaintiff: Itria Ventures, LLC
+  - Defendant: Forty General Building Inc.
+significant_statements:
+  - A corporation cannot represent itself in a California court
+  - A corporation cannot appear in pro per
+  - Plaintiff's motion to strike is denied
+  - This Court strikes Forty General's answer as not drawn or filed in conformity with the laws of this state
+  - This Court enters default against Forty General

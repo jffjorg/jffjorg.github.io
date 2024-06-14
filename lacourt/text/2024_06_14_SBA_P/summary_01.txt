@@ -1,0 +1,58 @@
+Here is the summary in YAML format:
+
+```
+Case Number: 23TRCV01305
+Plaintiff's Name: Gecer
+Defendant's Name: Defendant
+People-Names:
+  - Gecer
+Company-Names:
+  - None
+Places:
+  - None
+Dates:
+  - June 14, 2024
+Events:
+  - Request for default judgment
+  - Attachment of evidence
+  - Failure to authenticate evidence
+  - Failure to translate invoices
+  - Request for prejudgment interest
+Money:
+  - 10% per year (claimed)
+  - 7% per year (allowed)
+Intentions:
+  - Grant default judgment
+  - Deny default judgment due to defects in evidence
+Facts:
+  - Gecer attached evidence without authentication
+  - Invoices not translated
+  - Cal Rules of Court, Rule 3.1110(g) requires translation
+Disputes:
+  - Entitlement to prejudgment interest
+  - Rate of prejudgment interest
+Acts:
+  - Filing of request for default judgment
+  - Attachment of evidence
+  - Failure to comply with court rules
+Agreements:
+  - None
+Laws:
+  - Cal. Const. Art. 15 § 1
+  - Cal Rules of Court, Rule 3.1110(g)
+Case Citations:
+  - None
+Statutes:
+  - Cal. Const. Art. 15 § 1
+Roles:
+  - Judge
+  - Plaintiff
+  - Defendant
+Significant Statements:
+  - Judge's tentative ruling
+  - Denial of default judgment due to defects in evidence
+```
+
+And here is a summary in English text:
+
+The judge has issued a tentative ruling on a request for default judgment. The court has reviewed the evidence attached to the plaintiff's declaration and has denied the request without prejudice due to defects in the evidence. Specifically, the court found that not all of the evidence was authenticated, including invoices from the defendant to the plaintiff, which were not translated from Turkish. The court also noted that the plaintiff had not shown entitlement to prejudgment interest at 10% per year, as this is not an action based on contract, and the allowed rate of 7% per year applies instead.

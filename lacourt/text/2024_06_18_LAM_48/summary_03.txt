@@ -1,0 +1,70 @@
+Here is the summary in YAML format:
+
+```
+case_number: 22STCV13222
+plaintiff: EDUARDO JARQUIN VASQUEZ, et al.
+defendant: MARIPOSA 20, LLC, et al.
+people_names:
+  - EMILY GISELLE CHAZARI-AGUSTIN
+  - ERLICK G. CHAZARI
+  - NATHAN KADISHA
+  - MICHAEL KADISHA
+  - LUZELBA LOZANO MANOUR
+  - ZAKI S. MANOUR
+company_names:
+  - MARIPOSA 20, LLC
+  - K3 MANAGER LLC
+  - K3 HOLDINGS LLC
+places:
+  - LOS ANGELES
+  - CALIFORNIA
+dates:
+  - JUNE 18, 2024
+  - SEPTEMBER 17, 2024
+events:
+  - SETTLEMENT
+  - APPROVAL OF MINOR'S COMPROMISE
+  - ORDER TO SHOW CAUSE
+money:
+  - $61,764.80
+  - $15,441.20
+  - $1,106.13
+  - $45,217.47
+intentions:
+  - TO APPROVE MINOR'S COMPROMISE
+  - TO APPROVE ATTORNEY FEES
+  - TO APPROVE EXPENSES
+facts:
+  - CLAIMANT AGREED TO SETTLE CLAIMS
+  - SETTLEMENT APPROVED BY COURT
+disputes:
+  - DISPUTE OVER FAIRNESS AND REASONABLENESS OF SETTLEMENT
+acts:
+  - PETITION TO APPROVE MINOR'S COMPROMISE FILED
+  - COURT APPROVED SETTLEMENT
+agreements:
+  - AGREEMENT TO SETTLE CLAIMS
+  - AGREEMENT TO INVEST FUNDS IN ANNUITY
+laws:
+  - CALIFORNIA PROBATE CODE § 3500
+  - CALIFORNIA PROBATE CODE § 3600
+  - CALIFORNIA CODE CIVIL PROCEDURE § 372
+case_citations:
+  - 22STCV13222
+  - 3500
+  - 3600
+  - 372
+roles:
+  - JUDGE: Hon. Thomas D. Long
+  - CLAIMANT: EMILY GISELLE CHAZARI-AGUSTIN
+  - GUARDIAN AD LITEM: ERLICK G. CHAZARI
+  - ATTORNEYS: N/A
+signifcant_statements:
+  - COURT APPROVED SETTLEMENT
+  - SETTLEMENT AMOUNT: $61,764.80
+  - ATTORNEY FEES: 25% OF FUNDS
+```
+
+And here is the English-text summary:
+
+The tentative ruling grants the petition to approve the minor's compromise in the case of EDUARDO JARQUIN VASQUEZ, et al. (plaintiffs) vs. MARIPOSA 20, LLC, et al. (defendants). The claimant, EMILY GISELLE CHAZARI-AGUSTIN, has agreed to settle her claims against the defendants in exchange for $61,764.80, with $15,441.20 allocated for attorney fees and $1,106.13 for expenses. The court has reviewed the proposed settlement and finds it fair and reasonable. The court also finds that the 25% attorney fees are fair and reasonable. The petition to approve the minor's compromise is granted, and an order to show cause regarding the submission of proof of annuity purchase is scheduled for September 17, 2024.

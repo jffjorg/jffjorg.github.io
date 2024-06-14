@@ -1,0 +1,84 @@
+Here is the summary in YAML format:
+
+```
+case_number: 24TRCV00739
+hearing_date: June 14, 2024
+dept: B
+court: Superior Court of California
+county: Los Angeles
+district: Southwest
+location: Torrance
+judge: [Tentative Ruling]
+
+parties:
+  plaintiffs:
+    - name: Mike Con
+    - name: Miriam Con
+  defendants:
+    - name: Hanh P. Le
+    - name: 157th St. Gardena, LLC
+
+events:
+  - March 1, 2024: Complaint filed
+  - March 23, 2023: Other complaint filed
+  - December 2021: Rent increase notice sent
+  - December 2023: Water intrusion issues reported
+  - January 2024: Notice of violation issued
+  - January 17, 2024: Text message sent by Le
+  - February 22, 2024: Notice of unlawful detainer issued
+
+facts:
+  - Plaintiffs have resided at the property since 1999
+  - Defendants purchased the property in July 2021
+  - Rent increased to $1,800 in 2021
+  - Water intrusion issues reported in December 2021 and 2022
+  - Plaintiffs notified defendants of issues, but they failed to address them
+  - Plaintiffs suffered emotional distress and actual damages
+
+disputes:
+  - Breach of implied warranty of habitability (counts 1-2)
+  - Negligence (count 3)
+  - Intentional infliction of emotional distress (count 4)
+  - Private nuisance (count 5)
+  - Violation of civil code sections (counts 6-8)
+
+intentions:
+  - Plaintiffs intend to recover damages for breach of warranty of habitability and other claims
+  - Defendants intend to defend against these claims
+
+acts:
+  - Breach of implied warranty of habitability
+  - Negligence
+  - Intentional infliction of emotional distress
+  - Private nuisance
+  - Violation of civil code sections
+
+laws:
+  - Civil Code
+  - Code of Civil Procedure
+  - Business and Professions Code
+  - Los Angeles County Code of Ordinances
+
+citations:
+  - Taylor v. City of Los Angeles (2006) 144 Cal. App. 4th 1216
+  - SKF Farms v. Superior Court (1984) 153 Cal. App. 3d 902
+  - Hahn v. Mirda (2007) 147 Cal. App. 4th 740
+  - Gressley v. Williams (1961) 193 Cal. App. 2d 636
+  - Newby v. Alto Riviera Apartments (1976) 60 Cal. App. 3d 288
+  - Stoiber v. Honeychuck (1980) 101 Cal. App. 3d 903
+  - Dawes v. Superior Court (1980) 111 Cal. App. 3d 82
+
+roles:
+  - Judge: [Tentative Ruling]
+  - Plaintiffs: Mike Con and Miriam Con
+  - Defendants: Hanh P. Le and 157th St. Gardena, LLC
+
+significant statements:
+  - Demurrer sustained with 20 days leave to amend as to the fourth cause of action for IIED
+  - Demurrer sustained without leave to amend as to the fifth cause of action for private nuisance
+  - Motion to strike denied as to paras. 26, 37, 40, 41, 65, 70, and prayer at paras. 85 and 95
+  - Motion granted with leave to amend as to paras. 49, 51, and 89
+  - Motion granted without leave to amend as to paras. 47 and 87 and 58 and 91
+```
+
+Note that this summary is a condensed version of the document, focusing on the main points and omitting some of the details.

@@ -1,0 +1,94 @@
+Here is the summary in YAML format:
+
+```
+Case:
+  number: 23STCV28606
+  department: 71
+  court: Superior Court of California
+  county: Los Angeles
+
+Parties:
+  plaintiff: Itria Ventures, LLC
+  defendants:
+    - Forty General Building Inc.
+    - Jose Cuarenta Jimenez
+    - Jesus Edgar Cuarenta
+
+People:
+  - Jose Cuarenta Jimenez
+  - Jesus Edgar Cuarenta
+
+Companies:
+  - Itria Ventures, LLC
+  - Forty General Building Inc.
+
+Places:
+  - Los Angeles
+
+Dates:
+  - November 22, 2023 (Complaint filed)
+  - December 20, 2023 (Defendants' answer filed)
+  - February 15, 2024 (Plaintiff's motion filed)
+  - June 14, 2024 (Hearing date)
+  - June ___, 2024 (Tentative Ruling date)
+
+Events:
+  - Appointment of receiver
+  - Preliminary injunction
+  - Breach of written contract
+  - Breach of written guarantees
+
+Money:
+  - None mentioned
+
+Intentions:
+  - Plaintiff seeks to strike Defendant's answer
+  - Plaintiff seeks to enter default against Defendant
+
+Facts:
+  - Plaintiff filed a complaint against Defendants
+  - Defendants filed an answer in pro per
+  - Plaintiff seeks to strike the answer due to a corporation not being able to represent itself
+  - The Court grants the motion to strike
+
+Disputes:
+  - Plaintiff's motion to strike the answer
+  - Plaintiff's motion for default judgment against Defendant
+
+Acts:
+  - Plaintiff filed a complaint
+  - Defendants filed an answer in pro per
+  - Plaintiff filed a motion to strike the answer
+  - Court grants the motion to strike
+  - Court enters default against Defendant
+
+Agreements:
+  - None mentioned
+
+Laws:
+  - C.C.P. §436(b)
+  - C.C.P. §435
+  - C.C.P. §430.40(b)
+  - C.C.P. §585(a)
+  - C.C.P. §586(a)(7)
+  - Bus. & Prof. Code §§6125 et seq.
+
+Case Citations:
+  - Merco Construction Engineers, Inc. v. Municipal Court (1978) 21 Cal.3d 724
+  - Van Gundy v. Camelot Resorts, Inc. (1983) 152 Cal.App.3d Supp 29
+
+Statutes:
+  - C.C.P. §436(b)
+  - C.C.P. §435
+  - C.C.P. §430.40(b)
+  - C.C.P. §585(a)
+  - C.C.P. §586(a)(7)
+  - Bus. & Prof. Code §§6125 et seq.
+
+Roles:
+  - Plaintiff (Itria Ventures, LLC)
+  - Defendant (Forty General Building Inc.)
+  - Judge (ruling on the motion to strike and default judgment)
+
+Significant Statements:
+  - "A corporation cannot represent itself in a California court, either in pro per or through an agent who is not an attorney."

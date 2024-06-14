@@ -1,0 +1,57 @@
+Here is the YAML summary of the tentative ruling:
+
+```
+case_number: 23STCV18084
+plaintiff: Matthew V. Gomez
+defendant: Mercedes-Benz USA, LLC
+people_names:
+  - Matthew V. Gomez
+  - Maurice A. Leiter
+company_names:
+  - Mercedes-Benz USA, LLC
+places:
+  - Los Angeles
+dates:
+  - June 14, 2024
+  - January 10, 2024
+  - February 8, 2024
+  - February 29, 2024
+events:
+  - Motion to compel further responses to discovery
+  - Informal discovery conference
+  - Rulings on motion to compel further responses
+money:
+  - Civil penalties (up to 2 times actual damages)
+  - Attorney's fees
+  - Other damages (if applicable)
+intentions:
+  - To compel further responses to discovery requests
+  - To resolve disputes related to lemon law action
+  - To determine which party will bear the costs of litigation
+facts:
+  - Plaintiff purchased a 2022 Mercedes-Benz GLE53C4
+  - Defendant made meritless, boilerplate responses to discovery requests
+  - Plaintiff seeks internal analysis and investigation documents
+  - Defendant objected on grounds of overbreadth, undue burden, proprietary information, and attorney-client privilege
+disputes:
+  - Whether defendant's responses to discovery requests were sufficient
+  - Whether plaintiff's motion to compel further responses was timely
+acts:
+  - Plaintiff served motion to compel further responses
+  - Defendant objected to motion
+  - Court conducted informal discovery conference
+  - Court granted motion to compel further responses
+agreements:
+  - Plaintiff and defendant agreed to extend deadline for filing motion
+laws:
+  - California Civil Code § 1794(c)
+  - California Code of Civil Procedure § 2031.310(b)(1)
+  - Kirkland v. Sup.Ct (2002) 95 Cal. App. 4th 92
+  - Donlen v. Ford Motor Company (2013) 217 Cal.App.4th 138
+roles:
+  - Judge Maurice A. Leiter
+  - Matthew V. Gomez (Plaintiff)
+  - Mercedes-Benz USA, LLC (Defendant)
+  - Oregel v. Am. Isuzu Motors, Inc. (2001) 90 Cal. App. 4th 1094
+significant statements:
+  - "A plaintiff pursuing an action under the [Song-Beverly] Act has the burden to prove that (1) the vehicle had a nonconformity covered by the express warranty that substantially impaired the use, value or safety of the vehicle (the nonconformity element); (2) the vehicle was presented to an authorized representative of the manufacturer of the vehicle for repair (the presentation element); and (3) the manufacturer or his representative did not repair the nonconformity after a reasonable number of repair attempts (the failure to repair element)."

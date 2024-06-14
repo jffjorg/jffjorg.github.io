@@ -1,0 +1,67 @@
+Here is the YAML summary of the tentative ruling:
+
+```
+case_number: 24NNCV00030
+hearing_date: June 14, 2024
+dept: P
+judge: JARED D. MOSES JUDGE OF THE SUPERIOR COURT
+date: June 11, 2024
+
+parties:
+  - plaintiff: Lucinda Sky
+  - plaintiff: Leonardo Nishanov
+  - defendant: Foothill L.A.P.D.
+  - defendant: Officer Juan Rico
+  - defendant: Capitan Marco Lozano
+  - defendant: Symphony Asset Pool XIII LLC
+  - defendant: Otilia Rosenburg
+
+cases:
+  - case_number: 24NNCV00030
+  - case_number: 23PDUD04606
+  - case_number: 24BBCV00353
+
+events:
+  - unlawful detainer complaint
+  - judgment entered against Lucinda Sky
+  - complaint filed against Foothill L.A.P.D.
+  - complaint filed against Capitan Marco Lozano
+  - complaint filed against Officer Juan Rico
+  - complaint filed against Symphony Asset Pool XIII LLC
+  - complaint filed against Otilia Rosenburg
+  - motion to dismiss filed
+  - judgment entered in 23PDUD04606
+  - defendants dismissed in 24BBCV00353
+
+money:
+  - damages sought: unspecified
+
+intentions:
+  - consolidate cases 24NNCV00030, 23PDUD04606, and 24BBCV00353
+  - deny motion to consolidate
+
+factors:
+  - lack of relation between cases
+  - cases pending in different departments
+  - judgment entered in 23PDUD04606
+  - defendants dismissed in 24BBCV00353
+
+laws:
+  - Code Civ. Proc. §1048
+
+statutes:
+  - Business and Professions Code §§ 6125 & 6126
+
+roles:
+  - plaintiff
+  - defendant
+  - judge
+
+significant statements:
+  - "The motion is denied."
+  - "The court, in furtherance of convenience or to avoid prejudice, or when separate trials will be conducive to expedition and economy, may order a separate trial of any cause of action..."
+```
+
+And here is a summary of the judge's tentative ruling in English:
+
+The judge has denied the motion to consolidate cases 24NNCV00030, 23PDUD04606, and 24BBCV00353. The cases are not related and are pending in different departments. Judgment has been entered in 23PDUD04606 and defendants have been dismissed in 24BBCV00353. The judge also denied a request by Plaintiff Leonardo Nishanov to be represented by his mother, Lucinda Sky, as it would constitute the unauthorized practice of law.

@@ -1,0 +1,63 @@
+Here is the YAML summary:
+
+```
+case_number: "21STCV32886"
+plaintiff_names:
+  - OLLYE G. INGRAM
+  - et al.
+defendant_names:
+  - ANTHONY THOMPSON
+  - et al.
+people_names:
+  - OLLYE G. INGRAM
+  - ANTHONY THOMPSON
+  - JOACHIM REICH
+company_names:
+  - CENTAURUS FINANCIAL, INC.
+places:
+  - LOS ANGELES
+  - CALIFORNIA
+dates:
+  - June 20, 2024
+  - March 14, 1998
+events:
+  - Private placement investment failure
+  - Breach of fiduciary duty
+  - Statutory, tort, and contract claims
+  - Cross-complaint filing
+money:
+  - Not specified
+intentions:
+  - Defendant seeks to file cross-complaint against Plaintiff Reich
+facts:
+  - Plaintiff Reich was an investor in the Spring Gate DST
+  - Defendant CFI served as the broker-dealer for the investment
+  - Plaintiffs' operative complaint asserts breach of fiduciary duty and other claims
+  - Defendant CFI seeks to file cross-complaint against Plaintiff Reich
+disputes:
+  - Whether Defendant CFI's proposed cross-complaint is compulsory
+  - Whether Defendant CFI acted in good faith in filing the cross-complaint
+acts:
+  - Plaintiffs brought operative complaint
+  - Defendant CFI seeks to file cross-complaint
+agreements:
+  - Code of Civil Procedure section 428.10
+  - Code of Civil Procedure section 428.50
+laws:
+  - California Code of Civil Procedure
+case_citations:
+  - Silver Organizations, Ltd. v. Frank (1990) 217 Cal.App.3d 94
+  - Time for Living, Inc. v. Guy Hatfield Homes (1991) 230 Cal.App.3d 30
+statutes:
+  - California Code of Civil Procedure section 428.10
+  - California Code of Civil Procedure section 428.50
+roles:
+  - Judge: Hon. Holly J. Fujie
+significant_statements:
+  - The Court grants the motion for leave to file cross-complaint
+  - The Court finds that CFI's proposed cross-complaint arises out of the same transaction and occurrence as the claims brought by Reich and the other Plaintiffs
+```
+
+And here is the English text to summarize the judge's tentative ruling:
+
+"This tentative ruling grants Defendant Centaurus Financial, Inc.'s (CFI) motion for leave to file a cross-complaint against Plaintiff Joachim Reich. The court finds that CFI's proposed cross-complaint arises out of the same transaction and occurrence as the claims brought by Reich and the other Plaintiffs. The court also finds that CFI has not acted in bad faith in not bringing the cross-complaint against Reich sooner. The court orders CFI to file the cross-complaint within ten days."

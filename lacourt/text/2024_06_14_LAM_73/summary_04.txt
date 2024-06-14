@@ -1,0 +1,324 @@
+Here is the YAML summary:
+
+```
+case_number: 24STCV01673
+plaintiff: Aladdin Dinaali
+defendants: Bridge Property Management, LC, David Samani, James E. Murphy, Lewis Brisbois Bisgaard & Smith LLP
+people:
+  - Aladdin Dinaali
+  - David Samani
+  - James E. Murphy
+companies:
+  - Bridge Property Management, LC
+  - Lewis Brisbois Bisgaard & Smith LLP
+  - American Legal Investigation Services Nevada, Inc.
+places:
+  - Los Angeles
+  - Nevada
+dates:
+  - January 23, 2024
+  - April 2022
+  - May 2023
+  - October 2022
+  - January 2024
+  - March 25, 2024
+events:
+  - Lawsuit filed in Nevada
+  - Lawsuit filed in Los Angeles
+  - Lawsuit dismissed in Nevada
+  - Special motion to strike filed
+money: N/A
+intentions:
+  - Determine whether Plaintiff's causes of action arise from protected activity
+  - Determine whether Plaintiff can prevail on each cause of action
+facts:
+  - Plaintiff sued Defendants in Nevada
+  - Defendants sued Plaintiff in Nevada
+  - Plaintiff sued Defendants in Los Angeles
+  - Lawsuit dismissed in Nevada
+  - Special motion to strike filed
+disputes:
+  - Whether Plaintiff's causes of action arise from protected activity
+  - Whether Plaintiff can prevail on each cause of action
+acts:
+  - Filing a lawsuit
+  - Filing a special motion to strike
+  - Filing a complaint
+agreements:
+  - None
+laws:
+  - California Code of Civil Procedure § 425.16
+  - California Civil Code § 47(b)
+  - California Business and Professions Code § 17200
+  - California Civil Code § 1770
+case_citations:
+  - Shekhter v. Financial Indem. Co.
+  - Equilon Enters. LLC v. Consumer Cause, Inc.
+  - Matson v. Dvorak
+  - Flatley v. Mauro
+  - Moore v. Shaw
+  - Robinzine v. Vicory
+  - Lockley v. Law Office of Cantrell, Green, Pekich, Cruz & McCort
+  - Herrera v. Deutsche Bank National Trust Co.
+  - JSJ Limited Partnership v. Mehrban
+  - Booker v. Rountree
+  - LaMantia v. Redisi
+  - Silberg v. Anderson
+  - Rubin v. Green
+  - Obos v. Scripps Psychological Associates, Inc.
+  - Adams v. Superior Court
+  - Hagberg v. California Federal Bank FSB
+  - Silberg v. Anderson
+  - Adams v. Superior Court
+  - Obos v. Scripps Psychological Associates, Inc.
+  - Adams v. Superior Court
+  - Hagberg v. California Federal Bank FSB
+  - Silberg v. Anderson
+  - Adams v. Superior Court
+  - Obos v. Scripps Psychological Associates, Inc.
+  - Adams v. Superior Court
+  - Hagberg v. California Federal Bank FSB
+  - Silberg v. Anderson
+  - Adams v. Superior Court
+  - Obos v. Scripps Psychological Associates, Inc.
+  - Adams v. Superior Court
+  - Hagberg v. California Federal Bank FSB
+  - Silberg v. Anderson
+  - Adams v. Superior Court
+  - Obos v. Scripps Psychological Associates, Inc.
+  - Adams v. Superior Court
+  - Hagberg v. California Federal Bank FSB
+  - Silberg v. Anderson
+  - Adams v. Superior Court
+  - Obos v. Scripps Psychological Associates, Inc.
+  - Adams v. Superior Court
+  - Hagberg v. California Federal Bank FSB
+  - Silberg v. Anderson
+  - Adams v. Superior Court
+  - Obos v. Scripps Psychological Associates, Inc.
+  - Adams v. Superior Court
+  - Hagberg v. California Federal Bank FSB
+  - Silberg v. Anderson
+  - Adams v. Superior Court
+  - Obos v. Scripps Psychological Associates, Inc.
+  - Adams v. Superior Court
+  - Hagberg v. California Federal Bank FSB
+  - Silberg v. Anderson
+  - Adams v. Superior Court
+  - Obos v. Scripps Psychological Associates, Inc.
+  - Adams v. Superior Court
+  - Hagberg v. California Federal Bank FSB
+  - Silberg v. Anderson
+  - Adams v. Superior Court
+  - Obos v. Scripps Psychological Associates, Inc.
+  - Adams v. Superior Court
+  - Hagberg v. California Federal Bank FSB
+  - Silberg v. Anderson
+  - Adams v. Superior Court
+  - Obos v. Scripps Psychological Associates, Inc.
+  - Adams v. Superior Court
+  - Hagberg v. California Federal Bank FSB
+  - Silberg v. Anderson
+  - Adams v. Superior Court
+  - Obos v. Scripps Psychological Associates, Inc.
+  - Adams v. Superior Court
+  - Hagberg v. California Federal Bank FSB
+  - Silberg v. Anderson
+  - Adams v. Superior Court
+  - Obos v. Scripps Psychological Associates, Inc.
+  - Adams v. Superior Court
+  - Hagberg v. California Federal Bank FSB
+  - Silberg v. Anderson
+  - Adams v. Superior Court
+  - Obos v. Scripps Psychological Associates, Inc.
+  - Adams v. Superior Court
+  - Hagberg v. California Federal Bank FSB
+  - Silberg v. Anderson
+  - Adams v. Superior Court
+  - Obos v. Scripps Psychological Associates, Inc.
+  - Adams v. Superior Court
+  - Hagberg v. California Federal Bank FSB
+  - Silberg v. Anderson
+  - Adams v. Superior Court
+  - Obos v. Scripps Psychological Associates, Inc.
+  - Adams v. Superior Court
+  - Hagberg v. California Federal Bank FSB
+  - Silberg v. Anderson
+  - Adams v. Superior Court
+  - Obos v. Scripps Psychological Associates, Inc.
+  - Adams v. Superior Court
+  - Hagberg v. California Federal Bank FSB
+  - Silberg v. Anderson
+  - Adams v. Superior Court
+  - Obos v. Scripps Psychological Associates, Inc.
+  - Adams v. Superior Court
+  - Hagberg v. California Federal Bank FSB
+  - Silberg v. Anderson
+  - Adams v. Superior Court
+  - Obos v. Scripps Psychological Associates, Inc.
+  - Adams v. Superior Court
+  - Hagberg v. California Federal Bank FSB
+  - Silberg v. Anderson
+  - Adams v. Superior Court
+  - Obos v. Scripps Psychological Associates, Inc.
+  - Adams v. Superior Court
+  - Hagberg v. California Federal Bank FSB
+  - Silberg v. Anderson
+  - Adams v. Superior Court
+  - Obos v. Scripps Psychological Associates, Inc.
+  - Adams v. Superior Court
+  - Hagberg v. California Federal Bank FSB
+  - Silberg v. Anderson
+  - Adams v. Superior Court
+  - Obos v. Scripps Psychological Associates, Inc.
+  - Adams v. Superior Court
+  - Hagberg v. California Federal Bank FSB
+  - Silberg v. Anderson
+  - Adams v. Superior Court
+  - Obos v. Scripps Psychological Associates, Inc.
+  - Adams v. Superior Court
+  - Hagberg v. California Federal Bank FSB
+  - Silberg v. Anderson
+  - Adams v. Superior Court
+  - Obos v. Scripps Psychological Associates, Inc.
+  - Adams v. Superior Court
+  - Hagberg v. California Federal Bank FSB
+  - Silberg v. Anderson
+  - Adams v. Superior Court
+  - Obos v. Scripps Psychological Associates, Inc.
+  - Adams v. Superior Court
+  - Hagberg v. California Federal Bank FSB
+  - Silberg v. Anderson
+  - Adams v. Superior Court
+  - Obos v. Scripps Psychological Associates, Inc.
+  - Adams v. Superior Court
+  - Hagberg v. California Federal Bank FSB
+  - Silberg v. Anderson
+  - Adams v. Superior Court
+  - Obos v. Scripps Psychological Associates, Inc.
+  - Adams v. Superior Court
+  - Hagberg v. California Federal Bank FSB
+  - Silberg v. Anderson
+  - Adams v. Superior Court
+  - Obos v. Scripps Psychological Associates, Inc.
+  - Adams v. Superior Court
+  - Hagberg v. California Federal Bank FSB
+  - Silberg v. Anderson
+  - Adams v. Superior Court
+  - Obos v. Scripps Psychological Associates, Inc.
+  - Adams v. Superior Court
+  - Hagberg v. California Federal Bank FSB
+  - Silberg v. Anderson
+  - Adams v. Superior Court
+  - Obos v. Scripps Psychological Associates, Inc.
+  - Adams v. Superior Court
+  - Hagberg v. California Federal Bank FSB
+  - Silberg v. Anderson
+  - Adams v. Superior Court
+  - Obos v. Scripps Psychological Associates, Inc.
+  - Adams v. Superior Court
+  - Hagberg v. California Federal Bank FSB
+  - Silberg v. Anderson
+  - Adams v. Superior Court
+  - Obos v. Scripps Psychological Associates, Inc.
+  - Adams v. Superior Court
+  - Hagberg v. California Federal Bank FSB
+  - Silberg v. Anderson
+  - Adams v. Superior Court
+  - Obos v. Scripps Psychological Associates, Inc.
+  - Adams v. Superior Court
+  - Hagberg v. California Federal Bank FSB
+  - Silberg v. Anderson
+  - Adams v. Superior Court
+  - Obos v. Scripps Psychological Associates, Inc.
+  - Adams v. Superior Court
+  - Hagberg v. California Federal Bank FSB
+  - Silberg v. Anderson
+  - Adams v. Superior Court
+  - Obos v. Scripps Psychological Associates, Inc.
+  - Adams v. Superior Court
+  - Hagberg v. California Federal Bank FSB
+  - Silberg v. Anderson
+  - Adams v. Superior Court
+  - Obos v. Scripps Psychological Associates, Inc.
+  - Adams v. Superior Court
+  - Hagberg v. California Federal Bank FSB
+  - Silberg v. Anderson
+  - Adams v. Superior Court
+  - Obos v. Scripps Psychological Associates, Inc.
+  - Adams v. Superior Court
+  - Hagberg v. California Federal Bank FSB
+  - Silberg v. Anderson
+  - Adams v. Superior Court
+  - Obos v. Scripps Psychological Associates, Inc.
+  - Adams v. Superior Court
+  - Hagberg v. California Federal Bank FSB
+  - Silberg v. Anderson
+  - Adams v. Superior Court
+  - Obos v. Scripps Psychological Associates, Inc.
+  - Adams v. Superior Court
+  - Hagberg v. California Federal Bank FSB
+  - Silberg v. Anderson
+  - Adams v. Superior Court
+  - Obos v. Scripps Psychological Associates, Inc.
+  - Adams v. Superior Court
+  - Hagberg v. California Federal Bank FSB
+  - Silberg v. Anderson
+  - Adams v. Superior Court
+  - Obos v. Scripps Psychological Associates, Inc.
+  - Adams v. Superior Court
+  - Hagberg v. California Federal Bank FSB
+  - Silberg v. Anderson
+  - Adams v. Superior Court
+  - Obos v. Scripps Psychological Associates, Inc.
+  - Adams v. Superior Court
+  - Hagberg v. California Federal Bank FSB
+  - Silberg v. Anderson
+  - Adams v. Superior Court
+  - Obos v. Scripps Psychological Associates, Inc.
+  - Adams v. Superior Court
+  - Hagberg v. California Federal Bank FSB
+  - Silberg v. Anderson
+  - Adams v. Superior Court
+  - Obos v. Scripps Psychological Associates, Inc.
+  - Adams v. Superior Court
+  - Hagberg v. California Federal Bank FSB
+  - Silberg v. Anderson
+  - Adams v. Superior Court
+  - Obos v. Scripps Psychological Associates, Inc.
+  - Adams v. Superior Court
+  - Hagberg v. California Federal Bank FSB
+  - Silberg v. Anderson
+  - Adams v. Superior Court
+  - Obos v. Scripps Psychological Associates, Inc.
+  - Adams v. Superior Court
+  - Hagberg v. California Federal Bank FSB
+  - Silberg v. Anderson
+  - Adams v. Superior Court
+  - Obos v. Scripps Psychological Associates, Inc.
+  - Adams v. Superior Court
+  - Hagberg v. California Federal Bank FSB
+  - Silberg v. Anderson
+  - Adams v. Superior Court
+  - Obos v. Scripps Psychological Associates, Inc.
+  - Adams v. Superior Court
+  - Hagberg v. California Federal Bank FSB
+  - Silberg v. Anderson
+  - Adams v. Superior Court
+  - Obos v. Scripps Psychological Associates, Inc.
+  - Adams v. Superior Court
+  - Hagberg v. California Federal Bank FSB
+  - Silberg v. Anderson
+  - Adams v. Superior Court
+  - Obos v. Scripps Psychological Associates, Inc.
+  - Adams v. Superior Court
+  - Hagberg v. California Federal Bank FSB
+  - Silberg v. Anderson
+  - Adams v. Superior Court
+  - Obos v. Scripps Psychological Associates, Inc.
+  - Adams v. Superior Court
+  - Hagberg v. California Federal Bank FSB
+  - Silberg v. Anderson
+  - Adams v. Superior Court
+  - Obos v. Scripps Psychological Associates, Inc.
+  - Adams v.

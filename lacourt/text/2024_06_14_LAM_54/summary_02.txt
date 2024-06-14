@@ -1,0 +1,65 @@
+Here is the summary in YAML format:
+
+```
+case_number: 22STCV35224
+plaintiff_names:
+  - Delsy Marisela Renoj Barrios
+  - et al.
+defendant_names:
+  - 1864 Cordova Street LLC
+  - et al.
+people_names:
+  - Maurice A. Leiter (Judge)
+  - Nitinkumar Patel (Defendant)
+company_names:
+  - 1864 Cordova Street LLC
+places:
+  - Los Angeles
+  - California
+dates:
+  - 2024-06-14 (Hearing Date)
+  - 2012 (year of the Pearson v. Superior Court case)
+events:
+  - Petitions for Minor’s Compromise
+  - Settlement of a landlord-tenant action
+  - Approval of a minor's compromise
+money:
+  - $1,500,000.00 (total settlement amount)
+  - $5,000.00 (settlement amount per minor plaintiff)
+  - $1,250.00 (attorneys' fees)
+  - $132.85 (costs)
+  - $3,617.15 (net proceeds per minor claimant)
+intentions:
+  - To approve the minor's compromise
+  - To determine the reasonableness of the compromise
+facts:
+  - Uninhabitable conditions alleged in the landlord-tenant action
+  - Six minor plaintiffs are involved
+  - Settlement funds will be paid to the minor's parents
+disputes:
+  - None mentioned in the document
+acts:
+  - Petitions for Minor’s Compromise filed
+  - Settlement agreement reached
+  - Court approval sought
+agreements:
+  - Settlement agreement between the parties
+laws:
+  - CCP § 372
+  - CRC Rule 7.950
+  - CRC Rule 7.952
+statutes:
+  - Pearson v. Superior Court (2012)
+roles:
+  - Judge: Maurice A. Leiter
+  - Petitioner: Minor Plaintiffs
+  - Responding Party: None
+  - Defendant: 1864 Cordova Street LLC and Nitinkumar Patel
+significant_statements:
+  - The Court finds that the individual settlements are fair
+  - The Court finds that the attorney's fees and costs are reasonable
+```
+
+And here is a summary of the judge's tentative ruling in English text:
+
+"The Court has reviewed the petitions for minor's compromise and finds that the individual settlements of $5,000 each to the six minor plaintiffs are fair considering the alleged injuries sustained by the claimants. The Court also finds that the attorney's fees of $1,250 and costs of $132.85 are reasonable. The settlement funds will be paid to the minor's parents. The Court grants the petitions and approves the minor's compromise."

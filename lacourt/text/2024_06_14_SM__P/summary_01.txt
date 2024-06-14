@@ -1,0 +1,55 @@
+Here is the summary in YAML format:
+
+```
+case_number: 23SMCV02548
+plaintiff: Tebbens
+defendant:
+  - name: McKinnon
+    alias: et al.
+people:
+  - name: Schofield
+company-names: []
+places:
+  - Chicago
+dates:
+  - 3/15/24
+  - 6/14/24
+  - 6/6/24
+  - 4/18/24
+events:
+  - Defendant's Motion to Quash Service of Summons
+  - Hearing on 3/15/24
+  - Hearing on 6/14/24
+money: []
+intentions:
+  - To quash service of summons and complaint
+facts:
+  - Plaintiff in pro per was ordered to serve defendant via regular and certified mail
+  - Plaintiff has not filed proofs of service with the court
+disputes:
+  - Defendant claims to have received summons and complaint at both addresses
+  - No proof of service has been provided
+acts:
+  - Plaintiff was ordered to serve defendant
+  - Defendant filed a supplemental declaration
+agreements:
+  - Plaintiff must produce proof of service
+  - If no proof is provided, the motion will be granted
+laws:
+  - None specified
+case-citations: []
+statutes: []
+roles:
+  - Judge
+  - Plaintiff in pro per
+  - Defense counsel
+  - Defendant
+  - Schofield
+significant-statements:
+  - Plaintiff must provide proof of service
+  - If no proof is provided, the motion will be granted
+```
+
+And here is the English-text summary:
+
+The Judge's tentative ruling states that the defendant's motion to quash service of summons and complaint will be granted if the plaintiff does not provide proof of service showing that the documents were served both by certified mail and U.S. mail. The plaintiff was previously ordered to serve the defendant via regular and certified mail at two Chicago addresses, but has failed to file proofs of service with the court. Despite defendant's supplemental declaration stating that he received the summons and complaint at both addresses, no proof of service has been provided.

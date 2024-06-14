@@ -1,0 +1,54 @@
+Here is the summary in YAML format:
+
+```
+case_number: 23SMCP00075
+plaintiff: Corson, et al.
+defendant: Widjaja, et al.
+people_names:
+  - Wesley Widjaja
+  - Ananthan Thangavel
+company_names: []
+places: []
+dates:
+  - April 23, 2024
+  - June 14, 2024
+  - June 18, 2024
+events:
+  - Motion for Leave to File a Cross-Complaint
+  - Filing of Cross-Complaint
+money: []
+intentions:
+  - To seek leave to file a cross-complaint
+  - To seek indemnity, contribution, and declaratory relief
+facts:
+  - Defendant Widjaja seeks to file a cross-complaint against Cross-Defendant Thangavel
+  - Plaintiff's counsel informed that leave is required to file a compulsory cross-complaint
+disputes:
+  - Dispute over whether leave is required to file a cross-complaint
+acts:
+  - Defendant Widjaja moved for leave to file a cross-complaint
+  - Cross-Defendant Thangavel did not oppose the motion
+agreements: []
+laws:
+  - Code of Civil Procedure (CCP) § 428.50(a)-(c)
+  - CCP § 426.50
+  - Silver Organizations Ltd. v. Frank (1990) 217 Cal.App.3d 94
+  - Foot's Transfer & Storage Co. v. Superior Court (1980) 114 Cal.App.3d 897
+  - Sidney v. Superior Court (1988) 198 Cal.App.3d 710
+statutes:
+  - CCP § 428.50(a)-(c)
+  - CCP § 426.50
+roles:
+  - Judge
+  - Plaintiff's counsel
+  - Defendant's counsel
+  - Cross-Defendant's counsel
+significant_statements:
+  - The court grants leave to file the proposed cross-complaint.
+  - The motion is GRANTED.
+  - Widjaja shall file the cross-complaint by June 18, 2024.
+```
+
+Here is a summary of the judge's tentative ruling in English text:
+
+The judge grants defendant Wesley Widjaja's motion for leave to file a cross-complaint against cross-defendant Ananthan Thangavel. Widjaja seeks indemnity, contribution, and declaratory relief against Thangavel. The court holds that leave is required to file a compulsory cross-complaint, and that the defendant has shown good faith in seeking leave. The judge grants the motion and orders Widjaja to file the cross-complaint by June 18, 2024.
