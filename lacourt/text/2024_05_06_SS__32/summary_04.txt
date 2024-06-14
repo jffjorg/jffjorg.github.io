@@ -1,0 +1,42 @@
+Here is the YAML summary of the tentative ruling:
+
+```
+case_number: "Unknown"
+plaintiff_name: "Unknown"
+defendant_name: "Unknown"
+people_names:
+  - "Plaintiffs"
+  - "Defendants"
+company_names: []
+places: []
+dates: []
+events: []
+money: []
+intentions:
+  - "To determine the relevance of the FAC in supporting the fact that defendants owned or controlled the premises"
+facts:
+  - "Plaintiffs claim that defendants may not rely on the FAC to support the fact that they owned or controlled the premises"
+  - "Defendants do not contest the element of ownership"
+disputes:
+  - "Premises liability"
+  - "Legal conclusion within the FAC"
+acts:
+  - "Driving a vehicle in the commission of an unlawful act"
+  - "Driving a vehicle in the commission of a lawful act which might produce death"
+agreements: []
+laws:
+  - "Penal Code section 192(c)(1)"
+statutes:
+  - "Penal Code section 191.5"
+roles:
+  - "Judge"
+  - "Plaintiffs"
+  - "Defendants"
+significant_statements:
+  - "Plaintiffs' argument appears irrelevant since ownership is a required element for premises liability"
+  - "The Court will not address Plaintiffs' assertion that it is a legal conclusion within the FAC and may not be used as supporting evidence in a summary judgment motion"
+```
+
+And here is the English-text summary:
+
+This tentative ruling addresses the relevance of the FAC (Facility) in supporting the fact that the defendants owned or controlled the premises. The plaintiffs argue that the defendants may not rely on the FAC, but the court finds this argument irrelevant since ownership is a required element for premises liability. The court will not address the plaintiffs' assertion that the FAC is a legal conclusion and may not be used as supporting evidence in a summary judgment motion. The ruling also references Penal Code section 192(c)(1), which defines manslaughter, and Penal Code section 191.5, which is relevant to the case.

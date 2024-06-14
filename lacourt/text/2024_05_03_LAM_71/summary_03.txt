@@ -1,0 +1,55 @@
+Here is the summary in YAML format:
+
+```
+case_number: 23STCV04373
+plaintiff_names:
+  - Areeb Pirani
+defendant_name: Faisal Iqbal
+people_names:
+  - Areeb Pirani
+  - Faisal Iqbal
+company_names: []
+places:
+  - Superior Court of California
+  - Los Angeles
+  - Department 71
+dates:
+  - Hearing Date: May 3, 2024
+  - Dated: May _____, 2024
+events:
+  - Plaintiff's motion to compel further responses
+  - Request for monetary sanctions
+  - Information Regarding Procedures in Department 71
+money:
+  - $2,897.00
+intentions:
+  - To compel further responses to discovery
+  - To request monetary sanctions
+facts:
+  - Plaintiff failed to follow Information Regarding Procedures in Department 71
+  - Parties must schedule an Informal Discovery Conference (IDC) before the Court will hear their motions
+disputes:
+  - Failure to follow procedures in discovery
+  - Request for monetary sanctions
+acts:
+  - Plaintiff's motion to compel further responses
+  - Request for monetary sanctions
+agreements: []
+laws:
+  - C.C.P. §§2031.310, et seq.
+  - Information Regarding Procedures, pg. 4
+case_citations: []
+statutes:
+  - C.C.P. §§2031.310, et seq.
+roles:
+  - Plaintiff: Areeb Pirani
+  - Defendant: Faisal Iqbal
+significant_statements:
+  - Plaintiff failed to follow procedures in discovery
+  - Motion to compel further responses denied
+  - Request for monetary sanctions denied
+```
+
+And here is the English text summarizing the judge's tentative ruling:
+
+The judge has denied Plaintiff Areeb Pirani's unopposed motion to compel further responses from Defendant Faisal Iqbal to his Request for Production of Documents (Set One). The judge has also denied Plaintiff's request for monetary sanctions in the amount of $2,897.00. The judge's decision is based on the fact that Plaintiff failed to follow the procedures in Department 71, which requires that parties schedule an Informal Discovery Conference (IDC) before the Court will hear their motions.

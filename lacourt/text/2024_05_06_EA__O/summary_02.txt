@@ -1,0 +1,59 @@
+Here is the YAML summary of the "tentative ruling" in YAML format:
+
+```
+case_number: [insert case number]
+plaintiff_name: [insert plaintiff name]
+defendant_name: [insert defendant name]
+people_names:
+  - Besack
+  - Plaintiff
+company_names:
+  - None
+places:
+  - None
+dates:
+  - None
+events:
+  - Corrective Action Form
+  - Deposition transcript
+  - Demotion
+  - Investigation
+money: None
+intentions:
+  - To determine the admissibility of the Employee Corrective Action Form
+  - To determine the validity of the demotion
+facts:
+  - The Employee Corrective Action Form was created by Besack
+  - The document was not provided to the Plaintiff until after the demotion
+  - The Plaintiff was an at-will employee
+disputes:
+  - Admissibility of the Corrective Action Form
+  - Validity of the demotion
+  - Definition of "sensitive information"
+acts:
+  - Creation of the Corrective Action Form
+  - Demotion of the Plaintiff
+  - Investigation into the allegations
+agreements:
+  - None
+laws:
+  - Business record exception
+  - At-will employment
+case_citations:
+  - None
+statutes:
+  - None
+roles:
+  - Judge
+  - Plaintiff
+  - Defendant
+  - Besack
+significant_statements:
+  - The Plaintiff's objection to the Corrective Action Form is denied
+  - The Plaintiff was an at-will employee
+  - The document is admissible under the business record exception
+```
+
+And here is the English-text summary of the judge's tentative ruling:
+
+The judge has denied the Plaintiff's objection to the Employee Corrective Action Form, citing that the Plaintiff did not explain how the document is hearsay. The judge also notes that the document could be admissible under the business record exception. The judge has also determined that the Plaintiff was an at-will employee and that people were interviewed as part of the investigation. The judge has also noted that the Plaintiff was not provided with any documents reflecting the complaints made about the inappropriate relationship until after the demotion.

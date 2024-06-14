@@ -1,0 +1,56 @@
+Here is the summary in YAML format:
+
+```
+case_number: 22STCV18905
+plaintiff: Ashley Funches
+defendant: Ashley N. Frangipane, et al.
+people_names:
+  - Ashley Funches
+  - Ashley N. Frangipane
+  - Halsey
+company_names:
+  - Leaving Things Behind Touring Inc.
+  - Halsey Music LLC
+places:
+  - Los Angeles
+  - California
+dates:
+  - February 6, 2024
+  - April 30, 2024
+  - May 7, 2024
+  - May 8, 2024
+events:
+  - Motion to compel deposition
+  - Deposition of Plaintiff Ashley Funches
+money: $0
+intentions:
+  - To compel the deposition of Plaintiff Ashley Funches
+facts:
+  - Plaintiff did not file an opposition to the motion
+  - Defendants served a Second Amended Notice of taking the Deposition
+disputes:
+  - None specified
+acts:
+  - Motion to compel deposition
+  - Deposition of Plaintiff Ashley Funches
+agreements:
+  - None specified
+laws:
+  - California state laws
+case_citations:
+  - None specified
+statutes:
+  - None specified
+roles:
+  - Judge: Hon. Thomas D. Long
+  - Plaintiff: Ashley Funches
+  - Defendant: Ashley N. Frangipane, et al.
+  - Counsel: Defendants' counsel
+significant_statements:
+  - The motion to compel the deposition is GRANTED.
+  - Plaintiff is ordered to appear for deposition on May 8, 2024.
+```
+
+And here is the English-text summary:
+
+This is a tentative ruling by Judge Thomas D. Long in the case of Ashley Funches vs. Ashley N. Frangipane, et al. The defendants have filed a motion to compel the deposition of the plaintiff, and since the plaintiff did not file an opposition, the motion is granted. The plaintiff is ordered to appear for deposition on May 8, 2024, in accordance with the Second Amended Notice.

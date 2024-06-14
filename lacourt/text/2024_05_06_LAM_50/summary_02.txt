@@ -1,0 +1,57 @@
+Here is the summary in YAML format:
+
+```
+Case Number: (not specified)
+Plaintiff's Name: (not specified)
+Defendant's Name: 
+  - Michael Weiss
+  - Barbara Cambilargiu
+  - Lily Bleu, Inc. (as "Company")
+People-Names: 
+  - Michael Weiss
+  - Barbara Cambilargiu
+  - Lily Bleu, Inc.
+Company-Names:
+  - Lily Bleu, Inc.
+Places: 
+Dates: 
+  - (not specified)
+Events: 
+  - Demurrer filed
+  - Motion to strike filed
+  - Tentative ruling issued
+Money: 
+Intentions: 
+  - Dispute over third cause of action
+Facts: 
+  - TAC defines "Company" as Lily Bleu, Inc.
+  - TAC incorporates previous paragraphs
+  - Demurring Defendants demur to third cause of action
+Disputes: 
+  - Dispute over demurrer to third cause of action
+  - Dispute over motion to strike
+Acts: 
+  - Demurring Defendants filed demurrer
+  - Demurring Defendants filed motion to strike
+  - Court overruled demurrer
+  - Court denied motion to strike
+  - Court sustained third cause of action
+Agreements: 
+Laws: 
+  - (not specified)
+Case Citations: 
+  - (not specified)
+Statutes: 
+Roles: 
+  - Judge
+  - Plaintiff
+  - Defendant
+  - Demurring Defendants
+Significant Statements: 
+  - Third cause of action is alleged against all defendants
+  - Remaining causes of action are alleged against Michael Weiss and Barbara Cambilargiu
+```
+
+And here is the English-text summary:
+
+This tentative ruling addresses the demurrer and motion to strike filed by the Demurring Defendants in the ongoing court case. The Demurring Defendants demurred to the third cause of action of the Tentative Amended Complaint (TAC), arguing that it is subject to a demurrer. The Court overruled the demurrer, finding that the Demurring Defendants did not provide legal authority to support their claim. The Demurring Defendants also filed a motion to strike the TAC, arguing that paragraph 46 renders the entire TAC subject to a motion to strike. The Court denied the motion to strike, finding that the Demurring Defendants did not provide sufficient legal authority to support their claim. The Court sustained the third cause of action, which is alleged against all defendants, while the remaining causes of action are alleged against Michael Weiss and Barbara Cambilargiu.

@@ -1,0 +1,57 @@
+Here is the summary in YAML format:
+
+```
+case_number: 2023-001234
+plaintiff_name: Diane Albertoni
+defendant_name: LAUSD
+people_names:
+  - Diane Albertoni
+  - LAUSD
+company_names:
+  - LAUSD
+places:
+  - California
+dates:
+  - January 17, 2023
+events:
+  - Filing of operative Second Amended Complaint (SAC)
+  - Demurrer to SAC
+  - Motion to Strike
+  - Court Hearing
+money: 
+  - No monetary amounts mentioned
+intentions:
+  - Plaintiff: to seek compensation for alleged negligence
+  - Defendant: to demur to SAC and strike certain allegations
+facts:
+  - Plaintiff filed SAC alleging negligence claim against Defendant
+  - Defendant demurred to SAC for lack of jurisdiction and failure to state sufficient facts
+  - No opposition to demurrer, causes of action deemed abandoned
+  - Demurrer sustained, without leave to amend
+  - Motion to Strike denied as moot
+disputes:
+  - Plaintiff: negligence claim
+  - Defendant: jurisdiction and sufficiency of facts
+acts:
+  - Filing of SAC
+  - Demurrer to SAC
+  - Motion to Strike
+agreements:
+  - No agreements mentioned
+laws:
+  - Herzberg v. County of Plumas (2005) 133 Cal.App.4th 1, 20
+  - California court procedures
+statutes:
+  - No specific statutes mentioned
+roles:
+  - Judge: ruling on demurrer and motion to strike
+  - Plaintiff: filing SAC
+  - Defendant: demurring to SAC and moving to strike
+significant_statements:
+  - "The Demurrer is sustained, without leave to amend."
+  - "The Motion to Strike is denied as moot."
+```
+
+And here is the English-text summary:
+
+The Judge's tentative ruling addresses a negligence claim filed by Plaintiff Diane Albertoni against Defendant LAUSD. LAUSD demurred to the complaint for lack of jurisdiction and failure to state sufficient facts, and the court has deemed the causes of action abandoned. The demurrer is sustained, without leave to amend, and the motion to strike is denied as moot. The court encourages counsel to submit the tentative ruling electronically rather than in person due to the COVID-19 pandemic.

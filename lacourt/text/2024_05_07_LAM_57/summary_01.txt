@@ -1,0 +1,86 @@
+Here is the YAML summary of the tentative ruling:
+
+```
+case_number: 22STCV19730
+hearing_date: 2024-05-07
+department: 57
+parties:
+  - plaintiff: Rescore Hollywood LLC
+  - defendant: Texim
+
+people:
+  - Rescore
+  - Texim
+  - Bernards Builders
+  - Sahota
+  - Whitson
+  - DeLaurentis
+  - Maglica
+
+companies:
+  - Rescore Hollywood LLC
+  - Texim
+  - Bernards Builders
+  - DeLaurentis Entertainment Group
+
+places:
+  - Hollywood
+
+dates:
+  - 2014-01-01 (E.J. Franks Construction, Inc. v. Sahota)
+  - 1984-01-01 (Truestone, Inc. v. Simi West Industrial Park)
+  - 1964-01-01 (Rogers v. Whitson)
+  - 1992-01-01 (In re DeLaurentis Entertainment Group, Inc.)
+  - 1998-01-01 (Maglica v. Maglica)
+
+events:
+  - construction project
+  - subcontracting
+  - payment disputes
+
+money:
+  - quantum meruit
+
+intentions:
+  - prevent unjust enrichment
+
+facts:
+  - Texim is a subcontractor on a construction project
+  - Rescore is the property owner
+  - Bernards Builders is the prime contractor
+  - there are disputed issues of material fact regarding payment disputes
+
+disputes:
+  - payment disputes between Texim and Bernards Builders
+  - payment disputes between Bernards Builders and Rescore
+
+acts:
+  - Texim's claim for quantum meruit against Rescore
+  - Rescore's motion for summary adjudication
+
+agreements:
+  - contract between prime contractor and subcontractor
+  - contract between prime contractor and property owner
+
+laws:
+  - quantum meruit
+  - contractual privity
+
+case_citations:
+  - E.J. Franks Construction, Inc. v. Sahota (2014) 226 Cal.App.4th 1123
+  - Truestone, Inc. v. Simi West Industrial Park (1984) 163 Cal.App.3d 715
+  - Rogers v. Whitson (1964) 228 Cal.App.2d 662
+  - In re DeLaurentis Entertainment Group, Inc. (9th Cir. 1992) 963 F.2d 1269
+  - Maglica v. Maglica (1998) 66 Cal.App.4th 442
+
+statutes:
+
+roles:
+  - Texim: subcontractor
+  - Rescore: property owner
+  - Bernards Builders: prime contractor
+
+significant_statements:
+  - Quantum meruit claims do not require contractual privity
+  - The cases on which Rescore relies do not establish a blanket rule against prime contractors' claims for quantum meruit against a property owner
+  - There are disputed issues of material fact regarding whether Rescore paid the prime contractor and whether the prime contractor failed to pay Texim.

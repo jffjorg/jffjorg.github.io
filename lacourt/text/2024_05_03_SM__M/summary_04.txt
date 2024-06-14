@@ -1,0 +1,71 @@
+Here is the summary in YAML format:
+
+```
+case_number: SC129711
+plaintiff: Amag Inc.
+defendant: Large, Corey, 308 Enterprises LLC
+people:
+  - Corey Large
+  - Frecek (likely a representative of Amag Inc.)
+companies:
+  - Amag Inc.
+  - 308 Enterprises LLC
+places:
+  - California
+dates:
+  - April 29, 2023
+  - May 1, 2023
+  - May 3, 2024
+events:
+  - Settlement agreement
+  - Failure to pay installments
+  - Default judgment
+money:
+  - $784,121.66
+  - $944,121.66
+  - $10,000
+  - $150,000
+  - $6,164.38
+  - $50,000
+intentions:
+  - To enter a stipulated judgment
+facts:
+  - Settlement agreement was entered into on April 29, 2023
+  - Defendants failed to pay installments
+  - Plaintiff is seeking a default judgment
+disputes:
+  - Breach of settlement agreement
+  - Failure to pay installments
+acts:
+  - Stipulation for judgment in the case of default
+  - Failure to pay installments
+  - Request for prejudgment interest
+agreements:
+  - Settlement agreement
+  - [Proposed] Judgment and Order Pursuant to Stipulation
+laws:
+  - Code of Civil Procedure § 664.6
+  - California Code of Civil Procedure
+  - Sully-Miller Contracting Co. v. Gledson/Cashman Construction, Inc.
+  - Critzer v. Enos
+  - Richardson v. Richardson
+  - Corkland v. Boscoe
+case_citations:
+  - Corkland v. Boscoe (1984) 156 Cal.App.3d 989, 994
+  - Richardson v. Richardson (1986) 180 Cal.App.3d 91, 97
+  - Sully-Miller Contracting Co. v. Gledson/Cashman Construction, Inc. (2002) 103
+    Cal.App.4th 30, 37
+  - Critzer v. Enos (2010) 187 Cal.App.4th 1242, 1262
+statutes:
+  - Code of Civil Procedure § 664.6
+roles:
+  - Judge
+  - Plaintiff (Amag Inc.)
+  - Defendant (Corey Large and 308 Enterprises LLC)
+significant_statements:
+  - "Because of its summary nature, strict compliance with the requirements of section 664.6 is prerequisite to invoking the power of the court to impose a settlement agreement."
+```
+
+And here is a summary of the judge's tentative ruling in English text:
+
+The court grants the plaintiff's motion to enter a stipulated judgment against the defendants, Corey Large and 308 Enterprises LLC, in the amount of $784,121.66. The defendants have breached the settlement agreement by failing to pay installments as agreed. The court finds that the requirements of Code of Civil Procedure § 664.6 have been met, and the plaintiff has shown that the defendants have defaulted on the agreement. Therefore, the court grants the plaintiff's motion and enters a stipulated judgment against the defendants.

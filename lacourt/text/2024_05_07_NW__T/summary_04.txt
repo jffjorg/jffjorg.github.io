@@ -1,0 +1,52 @@
+Here is the summary in YAML format:
+
+```
+case_number: 23VECV02235
+plaintiffs_name: Calderon
+defendants_name: Hyundai
+people_names:
+  - Calderon
+  - Hyundai
+company_names:
+  - Hyundai
+places:
+  - None
+dates:
+  - 2024-05-07
+  - 2024-06-05
+events:
+  - Plaintiff's motion to compel further responses to RFP
+acts:
+  - Request for production of documents
+  - Request for identification of documents
+intensions:
+  - To determine the scope of discovery
+  - To protect privacy rights of non-parties
+facts:
+  - Plaintiff requested production of documents
+  - Defendant objected to the request
+disputes:
+  - Scope of discovery
+  - Privacy rights of non-parties
+agreements:
+  - None
+laws:
+  - Relevant statutes (not specified)
+  - Case law (not specified)
+case_citations:
+  - None
+statutes:
+  - None
+roles:
+  - Plaintiff: Calderon
+  - Defendant: Hyundai
+  - Judge: (anonymous)
+significant_statements:
+  - Plaintiff's motion to compel further responses to RFP denied
+  - Defendant's objections to production of documents denied
+  - Verified complaint responses and production due by 6/5/2024
+```
+
+And here is a summary of the judge's tentative ruling in English text:
+
+The court has issued a tentative ruling in response to the plaintiff's motion to compel further responses to a request for production (RFP) from the defendant, Hyundai. The court denied the motion as it relates to certain requests that are deemed overbroad, vague, not relevant, or violate the privacy rights of non-parties. However, the court granted the motion as to the remainder, except for the request to identify and produce "all documents." The court specifically excluded attorney-client communications and attorney work product from the production requirements. The defendant is required to verify the complaint responses and produce the requested documents by June 5, 2024.

@@ -1,0 +1,55 @@
+Here is the YAML summary of the tentative ruling:
+
+```
+case_number: "Unknown"
+plaintiff_name: "Gena Persons"
+defendant_name: "City of Pasadena"
+people_names:
+  - "Gena Persons"
+  - "Commander Kelly Evans"
+company_names: []
+places:
+  - "City of Pasadena"
+  - "Pasadena"
+dates:
+  - "Unknown"
+events:
+  - "Employment action"
+  - "PTSD"
+  - "Workers compensation"
+  - "Pitchess motion"
+money: []
+intentions:
+  - "Compel further responses from Defendant City of Pasadena"
+facts:
+  - "Plaintiff Gena Persons seeks to compel further responses from Defendant City of Pasadena"
+  - "Plaintiff alleges PTSD and supervisor Commander Kelly Evans did not care"
+  - "Plaintiff filled out workers compensation forms, but Evans refused to submit"
+  - "Claim was denied"
+disputes:
+  - "Plaintiff seeks to compel further responses from Defendant City of Pasadena"
+acts:
+  - "Plaintiff filed a motion to compel further responses"
+  - "Plaintiff alleges Commander Kelly Evans did not care"
+agreements: []
+laws:
+  - "Penal Code Section 832.5"
+  - "Evidence Code § 1043(a)"
+  - "Evidence Code § 1043(b)"
+  - "City of Santa Cruz v. Municipal Court (1989)"
+  - "Warrick v. Superior Court (2005)"
+  - "Cruz v. Municipal Court (1989)"
+  - "Pitchess v. Superior Court (1974)"
+  - "Evidence Code § 1043(a)"
+roles:
+  - "Plaintiff: Gena Persons"
+  - "Defendant: City of Pasadena"
+  - "Commander Kelly Evans: Supervisor"
+significant_statements:
+  - "Good cause has not been shown for the subject discovery."
+  - "The Motion is denied."
+```
+
+And here is the English-text summary of the judge's tentative ruling:
+
+The judge has denied the motion to compel further responses from the defendant City of Pasadena. The plaintiff, Gena Persons, seeks to compel further responses to her requests for production, specifically seeking documents from the employment personnel file of Commander Kelly Evans. The plaintiff alleges that she had PTSD and that Evans, her supervisor, did not care about her well-being. The plaintiff filled out workers compensation forms, but Evans refused to submit them, resulting in the claim being denied. The judge found that good cause has not been shown for the discovery sought, and therefore, the motion is denied.

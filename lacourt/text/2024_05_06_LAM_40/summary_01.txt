@@ -1,0 +1,72 @@
+Here is the summary in YAML format:
+
+```
+case_number: 23STCV01110
+plaintiff: KAREN FLORES
+defendants:
+  - EVERBRANDS, INC. (CA corporation)
+  - EVERBRANDS, INC. (DE corporation)
+  - MICHEAL FLORMAN (individual)
+  - YON LAI (individual)
+  - DOES 1-25
+hearing_date: 5/6/2024
+trial_date: 9/3/2024
+judge: [TENTATIVE] RULING BY A JUDGE
+people:
+  - Allyson K. Thompson
+  - Laura P. Birnbaum
+  - Michael Florman
+  - Yon Lai
+companies:
+  - EVERBRANDS, INC.
+places:
+  - Los Angeles
+  - California
+  - Delaware
+dates:
+  - March 28, 2024
+  - July 9, 2024
+events:
+  - Motion to be Relieved as Counsel
+  - Hearing
+  - Trial
+money: None mentioned
+intentions:
+  - To grant or deny the motion to be relieved as counsel
+facts:
+  - Allyson K. Thompson & Laura P. Birnbaum filed a motion to be relieved as counsel
+  - No proof of service was attached to the motion
+  - The motion is unopposed
+disputes:
+  - Whether the attorney's withdrawal will cause undue prejudice to the client's interests
+  - Whether the motion will cause delay in the proceeding or cause injustice
+acts:
+  - File and show proof of service of notice and motion to be relieved as counsel
+  - File a declaration in support of the motion to be relieved as counsel
+  - File a proposed order in support of the motion to be relieved as counsel
+agreements:
+  - California Rules of Court, rule 3.1362
+  - Code of Civil Procedure, section 284
+  - Code of Civil Procedure, section 1005
+laws:
+  - California Rules of Court, rule 3.1362
+  - Code of Civil Procedure, section 284
+  - Code of Civil Procedure, section 1005
+citations:
+  - People v. Prince (1968)
+  - Ramirez v. Sturdevant (1994)
+  - Mandell v. Superior Court (1977)
+roles:
+  - Judge
+  - Attorney
+  - Plaintiff
+  - Defendant
+  - Counsel
+significant_statements:
+  - The court should consider whether the attorney's withdrawal can be accomplished without undue prejudice to the client's interests.
+  - The motion should be denied if it will cause undue delay in the proceeding or cause injustice.
+```
+
+And here is the English text to summarize the judge's tentative ruling:
+
+The judge has tentatively ruled that the motion to be relieved as counsel for Allyson K. Thompson & Laura P. Birnbaum is continued to July 9, 2024. The court needs greater clarity as to proof of service of the notice and motion on all parties in the action, as well as the reasons for the withdrawal. The court also notes that the record is unclear as to whether the motion is opposed, and if so, on what grounds. The court suggests that defense counsel file amended papers rather than errata notices in relation to the motion to be relieved as counsel for Defendant Michael Florman.

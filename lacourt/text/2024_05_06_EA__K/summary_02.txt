@@ -1,0 +1,82 @@
+Here is the summary in YAML format:
+
+```
+case_number: 23PSCV01611
+hearing_date: May 6, 2024
+dept: K
+plaintiff: Granvista Construction Corporation
+defendant: JM Creative Investments LLC, Alan Robertson, Peninsula Retail Partners V LLC, Brett Del Valle, NES Investment LLC, Ploutos Inc.
+people:
+  - Alan Robertson
+  - Brett Del Valle
+  - Alvaro Garcia
+companies:
+  - Granvista Construction Corporation
+  - JM Creative Investments LLC
+  - Peninsula Retail Partners V LLC
+  - NES Investment LLC
+  - Ploutos Inc.
+places:
+  - West Covina
+  - 2200 S. Azusa Avenue
+dates:
+  - May 16, 2022
+  - June 28, 2023
+  - August 22, 2023
+  - October 31, 2023
+  - May 6, 2024
+events:
+  - Written agreement between Plaintiff and Defendants
+  - Performance of tenant improvement work
+  - Issuance of change orders
+  - Filing of First Amended Complaint
+  - Entry of default against NES
+  - Dismissal of all Defendants except NES
+  - Setting of Order to Show Cause Re: Default Judgment
+money:
+  - $346,399.00
+  - $25,919.18
+  - $83,101.00
+  - $139,998.00
+  - $123,340.00
+  - $346,439.00
+  - $1,200.00
+intentions:
+  - Plaintiff seeks to recover outstanding balance
+  - Defendant seeks to defend against Plaintiff's claims
+facts:
+  - Plaintiff performed tenant improvement work
+  - Plaintiff is owed outstanding balance of $25,919.18
+  - Plaintiff seeks to recover additional amounts due to change orders
+  - Plaintiff seeks attorney's fees
+disputes:
+  - Breach of contract
+  - Unjust enrichment
+  - Quantum meruit
+  - Common counts
+acts:
+  - Performance of tenant improvement work
+  - Issuance of change orders
+  - Filing of First Amended Complaint
+agreements:
+  - Written agreement between Plaintiff and Defendants
+  - Change orders issued by Plaintiff
+laws:
+  - California Rules of Court, rule 3.1800, subd. (a)(3)
+  - Civil Procedure Code, etc.
+case_citations:
+  - [Insert citations to relevant court decisions or statutes]
+statutes:
+  - [Insert relevant statutes]
+roles:
+  - Judge
+  - Plaintiff (Granvista Construction Corporation)
+  - Defendant (JM Creative Investments LLC, etc.)
+significant_statements:
+  - Plaintiff's Application for Default Judgment is denied without prejudice
+  - Note defects in Plaintiff's application
+```
+
+And here is the English-text summary:
+
+The Judge has denied Plaintiff Granvista Construction Corporation's Application for Default Judgment without prejudice. The Judge noted several defects in the Plaintiff's application, including the lack of interest computations, failure to identify language in the contract providing for attorney's fees, and inconsistencies in the amounts claimed. The Plaintiff had sought a default judgment against several defendants, including NES Investment LLC, after they failed to respond to the lawsuit. The Plaintiff had also sought attorney's fees and recovery of outstanding amounts owed. The Judge ordered the Plaintiff to provide additional information and requested that Alvaro Garcia, a representative of the Plaintiff, attach a statement of account and billing statement(s) to any amended declaration.

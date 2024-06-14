@@ -1,0 +1,28 @@
+Here is the summary of the tentative ruling in YAML format:
+
+```
+case_number: 21STCV23920
+hearing_date: 2024-05-06
+dept: 52
+tentative_ruling:
+  plaintiff_cross_defendant: Mikel Rastegar
+  demurrer: to first amended cross-complaint
+  causes_of_action:
+    - fraud: insufficiently alleged
+    - breach_of_contract: insufficiently alleged
+    - breach_of_implied_covenant_of_good_faith_and_fair_dealing: insufficiently alleged
+    - conversion_and_theft: sufficiently alleged
+    - abuse_of_process: insufficiently alleged
+    - violation_of_covid_19_tenant_protection_act: insufficiently alleged
+    - intentional_and_negligent_infliction_of_emotional_distress: sufficiently alleged
+    - rescission_based_upon_fraud: insufficiently alleged
+    - imposition_of_constructional_trust_against_property_acquired_by_fraud: sufficiently alleged
+    - abuse_of_process_against_senior_citizen: insufficiently alleged
+  disposition:
+    - demurrer: sustained with 20 days' leave to amend for first, second, third, fifth, sixth, eighth, and tenth causes of action
+    - demurrer: overruled for fourth, seventh, and ninth causes of action
+```
+
+And here is the English text summarizing the judge's tentative ruling:
+
+The judge has issued a tentative ruling in response to Mikel Rastegar's demurrer to the first amended cross-complaint. The judge has sustained the demurrer with 20 days' leave to amend for the first, second, third, fifth, sixth, eighth, and tenth causes of action. This means that the allegations in these causes of action are insufficient and must be re-alleged in a revised complaint. The demurrer was overruled for the fourth, seventh, and ninth causes of action, meaning that these allegations are sufficient and will be allowed to proceed.

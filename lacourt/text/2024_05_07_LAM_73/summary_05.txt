@@ -1,0 +1,35 @@
+Here is a simple summary of the tentative ruling in YAML format:
+
+```
+case_number: BC10791
+hearing_date: 2024-05-07
+dept: 73
+judge: Hon. Rolf Treu
+parties:
+  - Shonna Marie Counter et al. (Plaintiffs)
+  - Kaf Industries, Inc. et al. (Defendants)
+  - Kevin Farhang (Cross-Defendant)
+motions:
+  - Motion for Award of Attorneys' Fees and Costs (filed 2024-02-20)
+ruling:
+  - Plaintiffs' motion is DENIED
+facts:
+  - Plaintiffs filed a complaint against Defendants on 2018-06-20
+  - Plaintiffs alleged that Defendants failed to maintain the building in a habitable condition
+  - Plaintiffs suffered physical, emotional, and economic injuries as a result
+  - Plaintiffs seek attorneys' fees and costs
+issues:
+  - Timeliness of motion
+  - Merits of attorneys' fees and costs
+  - Effect of refiling the Notice of Entry of Judgment on January 8, 2024
+citations:
+  - California Rules of Court Rules 3.1700, 3.1702, 8.104, 8.108
+  - California Code of Civil Procedure § 1032, 1033.5
+  - Torres v. City of San Diego (2007) 154 Cal. App. 4th 214
+  - Ketchum v. Moses (2001) 24 Cal. 4th 1122
+  - Glendora Community Redevelopment Agency v. Demeter (1984) 155 Cal. App. 3d 465
+```
+
+And here is a brief summary of the tentative ruling in English text:
+
+The court has denied the plaintiffs' motion for attorneys' fees and costs. The motion was filed late, as the court's clerk did not serve the notice of entry of judgment until December 13, 2023, and the plaintiffs' motion was filed on February 20, 2024. The court also found that the refiling of the notice of entry of judgment on January 8, 2024, did not restart the time for the plaintiffs to file their motion. Therefore, the motion was untimely and must be denied.

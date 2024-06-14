@@ -1,0 +1,38 @@
+Here is the YAML summary of the tentative ruling:
+
+```
+case_number: "MC-051"
+plaintiff_name: "Unknown"
+defendant_name: "Unknown"
+people_names: ["Counsel for Plaintiff", "Defendants' Counsel"]
+company_names: []
+places:
+  - 35 N. Lake Avenue, Suite 700, Pasadena, California, 91101
+  - 200 E. Carrillo Street, Suite 100, Santa Barbara, California, 93101
+dates:
+  - January 23, 2024
+events: ["Proof of Service", "Notice of Change of Address or Other Contact Information"]
+money: []
+intentions: ["to update address"]
+facts:
+  - Counsel for plaintiff filed a "Notice of Change of Address or Other Contact Information"
+  - Defendants' Counsel served counsel for plaintiff at incorrect mailing address
+disputes: []
+acts:
+  - Serving of documents
+  - Filing of "Notice of Change of Address or Other Contact Information"
+agreements: []
+laws: ["Rule 3.1362, subdivision (d)"]
+case_citations: []
+statutes: []
+roles:
+  - Counsel for Plaintiff
+  - Defendants' Counsel
+significant_statements:
+  - "Defendants’ Counsel appears to have served counsel for plaintiff at the incorrect mailing address."
+  - "Defendants’ Counsel also served counsel for plaintiff at the correct email address and therefore has satisfied rule 3.1362, subdivision (d)."
+```
+
+And here is the English-text summary of the tentative ruling:
+
+The court notes that the defendants' counsel served the plaintiff's counsel at an incorrect mailing address. Specifically, the defendants' counsel served the plaintiff's counsel at 35 N. Lake Avenue, Pasadena, CA 91101. However, on January 23, 2024, the plaintiff's counsel filed a notice of change of address, updating their address to 200 E. Carrillo Street, Santa Barbara, CA 93101. Despite the incorrect mailing address, the defendants' counsel also served the plaintiff's counsel at the correct email address, thereby satisfying Rule 3.1362, subdivision (d).

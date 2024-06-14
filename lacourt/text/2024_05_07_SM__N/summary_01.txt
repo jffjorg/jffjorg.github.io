@@ -1,0 +1,77 @@
+Here is the YAML summary of the judge's tentative ruling:
+
+```
+---
+case_number: 23SMCV04364
+hearing_date: May 7, 2024
+dept: N
+plaintiff: Cynthia Galas
+defendant:
+  - Green Check Verified
+  - GCV Ventures, LLC
+people_names:
+  - Cynthia Galas
+  - Green Check Verified
+  - GCV Ventures, LLC
+company_names:
+  - Green Check Verified
+  - GCV Ventures, LLC
+places: N
+dates: May 7, 2024
+events:
+  - Demurrer to affirmative defenses
+  - Motion for protective order
+money: N
+intentions:
+  - To rule on demurrer to affirmative defenses
+  - To deny motion for protective order
+facts:
+  - Plaintiff demurred to affirmative defenses
+  - Plaintiff moved for protective order regarding timing of deposition
+disputes:
+  - Dispute over demurrer to affirmative defenses
+  - Dispute over motion for protective order
+acts:
+  - Plaintiff demurred to affirmative defenses in Green Check Verified's answer
+  - Plaintiff demurred to affirmative defenses in GCV Ventures, LLC's answer
+  - Plaintiff moved for protective order regarding timing of deposition
+agreements: N
+laws:
+  - California Code of Civil Procedure
+  - California Civil Code
+  - California Rules of Court
+  - Code of Civil Procedure section 2025.420
+  - Code of Civil Procedure section 2019.020
+  - Code Civ. Proc., § 430.20
+  - Code Civ. Proc., § 430.40
+  - Code Civ. Proc., § 2025.420
+  - Code Civ. Proc., § 2019.020
+  - Code Civ. Proc., § 2025.420, subdivision (a)
+  - Code Civ. Proc., § 2025.420, subdivision (b)
+  - Code Civ. Proc., § 2019.020, subdivision (a)
+  - Code Civ. Proc., § 2019.020, subdivision (b)
+  - Code Civ. Proc., § 2025.420, subdivision (b)
+statutes:
+  - California Code of Civil Procedure
+  - California Civil Code
+  - California Rules of Court
+roles:
+  - Judge
+  - Plaintiff
+  - Defendant
+  - Party
+  - Counsel
+  - Witness
+significant_statements:
+  - Plaintiff's demurrer to affirmative defenses is overruled
+  - Plaintiff's motion for protective order is denied
+  - The court finds that each affirmative defense is sufficiently pled
+  - The burden is on the complainant to show the court that a pleading can be amended successfully
+  - Leave to amend must be allowed where there is a reasonable possibility of successful amendment
+  - The court does not require a party to assert the entirety of their defense in an answer
+  - The court does not assume the truth of conclusions of law when ruling on a demurrer
+```
+
+And here is the English-text summary of the judge's tentative ruling:
+
+The court has ruled on the demurrer to affirmative defenses set forth in the answer of Green Check Verified and GCV Ventures, LLC. The court has overruled Plaintiff Cynthia Galas's demurrer to affirmative defenses, finding that each affirmative defense is sufficiently pled. The court has also denied Plaintiff's motion for protective order regarding the timing of her deposition, finding that there is no good cause to regulate the timing and sequence of discovery.

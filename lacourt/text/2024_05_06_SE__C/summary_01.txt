@@ -1,0 +1,60 @@
+Here is the summary in YAML format:
+
+```
+case_number: 21NWCV00400
+plaintiff: Windmill Co.
+defendant: Sedrak
+people:
+  - Sedrak
+  - Judge (unspecified)
+companies:
+  - C The Windmill Co. Inc.
+places:
+  - Court
+  - Department F
+dates:
+  - January 3, 2024
+  - January 29, 2024
+  - May 20, 2024
+  - May 6, 2024 (hearing date)
+  - September 24, 2024 (hearing date)
+  - October 29, 2024 (hearing date)
+events:
+  - Motions for Reconsideration
+  - Motion for Advance Hearing Dates
+  - Trial
+  - Stipulation
+  - Motion to Continue Trial
+money:
+  - None mentioned
+intentions:
+  - Plaintiff seeks to advance hearing dates for motions
+facts:
+  - Plaintiff moved to continue trial in Dept. F
+  - Plaintiff attempted to obtain a stipulation from defendants
+  - Plaintiff's motions were filed months ago
+disputes:
+  - Plaintiff vs. Defendant
+acts:
+  - Plaintiff filed motions
+  - Defendant opposed plaintiff's motions
+agreements:
+  - None mentioned
+laws:
+  - Not specified
+case_citations:
+  - None mentioned
+statutes:
+  - Not specified
+roles:
+  - Judge
+  - Plaintiff
+  - Defendant
+significant_statements:
+  - Plaintiff's delay in seeking relief is the cause of the "exigent circumstances"
+  - Ex parte relief is not warranted under these circumstances
+```
+
+And here is a summary of the judge's tentative ruling in English text:
+
+The plaintiff, Windmill Co., has filed an application to advance the hearing dates for two motions: one for reconsideration of a January 3, 2024 order and another for reconsideration of a January 29, 2024 order. The plaintiff wants to have these motions heard before the trial date on May 20, 2024. The judge has denied the application, citing that the motions were filed months ago and the plaintiff's delay in seeking relief is the cause of the "exigent circumstances". The judge has also stated that ex parte relief is not warranted under these circumstances. The opposing party will be given notice.

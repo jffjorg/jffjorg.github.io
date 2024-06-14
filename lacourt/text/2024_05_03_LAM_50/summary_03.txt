@@ -1,0 +1,48 @@
+Here is a summary of the tentative ruling in YAML format:
+
+```yaml
+case_number: 22STCV36183
+hearing_date: May 3, 2024
+dept: 50
+judge: Hon. Teresa A. Beaudet
+plaintiff: Tamar Kaloustian
+defendants: Baker's Breakfast Cookies, Inc.
+et al.
+background:
+  - Tamar Kaloustian filed a Proposition 65 action against Baker's Breakfast Cookies, Inc. and Sprouts Farmers Market, Inc. on November 16, 2022.
+  - The complaint alleges that Baker's failed to adequately warn consumers in California about lead exposure in their products.
+disputes:
+  - Plaintiff's motion for an order to enter judgment pursuant to the terms of the stipulated settlement of this case executed by all parties on or about January 24, 2024.
+  - The court finds that the warning required by the settlement does not comply with Health and Safety Code section 25249.6.
+  - The court denies the motion without prejudice.
+acts:
+  - Baker's agrees to discontinue distributing products in California that do not comply with the settlement.
+  - Baker's must provide a warning on the product label that complies with California Code of Regulations title 27, section 25603.
+  - Baker's must pay a civil penalty of $7,000.00.
+intentions:
+  - The court intends to ensure that Baker's complies with Health and Safety Code section 25249.6.
+  - The court intends to ensure that Baker's provides adequate warnings to consumers in California.
+laws:
+  - Health and Safety Code section 25249.6
+  - Health and Safety Code section 25249.7
+  - California Code of Regulations title 27, section 25603
+  - California Code of Regulations title 27, section 25602
+citations:
+  - Health & Saf. Code, § 25249.6
+  - Health & Saf. Code, § 25249.7
+  - Cal. Code Regs. tit. 27, § 25603
+  - Cal. Code Regs. tit. 27, § 25602
+roles:
+  - Tamar Kaloustian: plaintiff
+  - Baker's Breakfast Cookies, Inc.: defendant
+  - Sprouts Farmers Market, Inc.: defendant
+  - Office of Environmental Health Hazard Assessment: recipient of 75% of civil penalty
+  - California: state with regulatory authority
+significant statements:
+  - The court finds that the warning required by the settlement does not comply with Health and Safety Code section 25249.6.
+  - The court denies the motion without prejudice.
+```
+
+Here is a summary of the tentative ruling in English text:
+
+The court has denied the plaintiff's motion for an order to enter judgment pursuant to the terms of the stipulated settlement of this case executed by all parties on or about January 24, 2024. The court finds that the warning required by the settlement does not comply with Health and Safety Code section 25249.6. The court also finds that the warning does not meet the requirements of California Code of Regulations title 27, section 25603. The court denies the motion without prejudice. The court orders that the defendant, Baker's Breakfast Cookies, Inc., must discontinue distributing products in California that do not comply with the settlement. The court also orders that Baker's must provide a warning on the product label that complies with California Code of Regulations title 27, section 25603. Further, the court orders that Baker's must pay a civil penalty of $7,000.00.

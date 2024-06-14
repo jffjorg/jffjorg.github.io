@@ -1,0 +1,58 @@
+Here is a summary of the tentative ruling in YAML format:
+
+```
+---
+case_number: 23STCV03563
+hearing_date: 2024-05-06
+department: 53
+county: Los Angeles
+state: California
+country: United States
+
+parties:
+  - plaintiff: Angie Gonzalez
+  - defendant: Worldwide Flight Services, Inc.
+
+issues:
+  - motion_to_compel_arbitration
+  - stay_proceedings
+
+facts:
+  - Defendant Worldwide Flight Services, Inc. moves to compel arbitration and stay proceedings.
+  - Plaintiff Angie Gonzalez opposes the motion.
+  - The court considers the moving, opposition, and reply papers.
+
+ruling:
+  - The court grants Defendant's request for judicial notice.
+  - The court finds that Defendant has met its burden to show the existence of an arbitration agreement.
+  - The court finds that the arbitration agreement is substantively unconscionable due to:
+    - Limiting the statute of limitations on claims brought against Defendant to seven days.
+    - Allowing Defendant to recover attorney's fees from Plaintiff that would not otherwise be recoverable in court.
+  - The court refuses to sever the unconscionable provisions and denies Defendant's motion.
+  - The court orders Plaintiff to give notice of this ruling.
+
+citations:
+  - 9 U.S.C. § 2
+  - 9 U.S.C. § 1
+  - 9 U.S.C. § 4
+  - Chiron Corp. v. Ortho Diagnostic Sys. (9th Cir. 2000) 207 F.3d 1126
+  - AT&T Mobility LLC v. Concepcion (2011) 563 U.S. 333
+  - Beco v. Fast Auto Loans (2022) 86 Cal.App.5th 292
+  - Iyere v. Wise Auto Group (2023) 87 Cal.App.5th 747
+  - Gamboa v. Northeast Community Clinic (2021) 72 Cal.App.5th 158
+  - Evenskaas v. California Transit, Inc. (2022) 81 Cal.App.5th 285
+  - Torrecillas v. Fitness International, LLC (2020) 52 Cal.App.5th 485
+  - Carmona v. Lincoln Millennium Car Wash, Inc. (2014) 226 Cal.App.4th 74
+  - Ellis v. US Security Associates (2014) 224 Cal.App.4th 1213
+  - Davis v. Kozak (2020) 53 Cal.App.5th 897
+  - Mills v. Facility Solutions Group, Inc. (2022) 84 Cal.App.5th 1035
+  - Gostev v. Skillz Platform, Inc. (2023) 88 Cal.App.5th 1035
+  - Civ. Code, § 1670.5
+  - Civ. Code, § 1670.50
+  - Beco v. Fast Auto Loans (2022) 86 Cal.App.5th 292
+  - Navas v. Fresh Venture Foods, LLC (2022) 85 Cal.App.5th 626
+```
+
+And here is a summary of the tentative ruling in English text:
+
+The court denies Defendant's motion to compel arbitration and stay proceedings. The court finds that the arbitration agreement is substantively unconscionable due to its limiting of the statute of limitations on claims brought against Defendant to seven days and its allowing Defendant to recover attorney's fees from Plaintiff that would not otherwise be recoverable in court. The court refuses to sever the unconscionable provisions and denies Defendant's motion.

@@ -1,0 +1,62 @@
+Here is the YAML representation of the tentative ruling:
+
+```
+case_number: "unknown"
+plaintiff_name: "Megeen"
+defendant_name: "Caltrans"
+people_names:
+  - Megeen
+  - Ryan
+company_names:
+  - Caltrans
+places:
+  - Property
+  - Bank Property
+dates:
+  - December 14, 2014
+events:
+  - Demurrer
+  - Judicial notice
+  - Meet-and-confer obligation
+  - Authentication of exhibits
+  - Motion to amend
+  - Mandamus
+money:
+  - "none"
+intentions:
+  - Test the sufficiency of a pleading
+  - Authenticate exhibits
+facts:
+  - Exhibits A and B are judicially noticed
+  - Megeen's evidence cannot be considered on demurrer
+  - Only evidence concerning meet-and-confer obligation and authentication of exhibits is admissible
+disputes:
+  - Caltrans' demurrer against Megeen's pleading
+acts:
+  - Filing of demurrer
+  - Request for judicial notice
+  - Opposition to demurrer
+  - Motion to amend
+agreements:
+  - None
+laws:
+  - CCP §430.30(a)
+  - CCP §452(c)
+  - Govt. Code
+  - CRAA
+case_citations:
+  - Blank v. Kirwan, (1985) 39 Cal.3d 311, 318
+  - SAP
+  - Evid. Code
+roles:
+  - Judge
+  - Megeen (plaintiff)
+  - Caltrans (defendant)
+significant_statements:
+  - The court has not considered Megeen's evidence.
+  - The only admissible evidence on demurrer is evidence concerning the meet-and-confer obligation and authentication of exhibits.
+```
+
+And here is the English-text summary of the judge's tentative ruling:
+
+The court will consider Caltrans' demurrer against Megeen's pleading. Caltrans has requested judicial notice of two exhibits, which have been granted. Megeen has submitted evidence, but this evidence cannot be considered on demurrer. The court will only consider evidence concerning the meet-and-confer obligation and authentication of exhibits. Caltrans' demurrer is granted, and Megeen's motion to amend is denied.

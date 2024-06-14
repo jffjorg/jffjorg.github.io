@@ -1,0 +1,68 @@
+Here is the summary in YAML format:
+
+```
+Case Number: 22STCV17013
+Plaintiff's Name: Carlos Quezada
+Defendant's Name: Jamie Lopez, Zeno King Jr.
+People-Names:
+  - Carlos Quezada
+  - Jamie Lopez
+  - Zeno King Jr.
+Company-Names:
+Places:
+  - California
+Dates:
+  - May 24, 2022
+  - October 28, 2022
+  - June 12, 2023
+  - November 3, 2023
+  - November 2, 2023
+  - June 25, 2021
+Events:
+  - Automobile accident
+  - Filing of complaint
+  - Service of Doe amendment
+  - Filing of Doe amendment
+  - Demurrer
+Money:
+  - Statute of limitations
+Intentions:
+  - To determine whether Plaintiff has met the requirements for amending the complaint
+  - To determine whether Defendant's demurrer is valid
+Facts:
+  - Plaintiff Carlos Quezada filed the present case regarding an automobile accident that occurred on June 25, 2021
+  - Defendant Zeno King Jr. was served with the Doe amendment in the related case on June 12, 2023
+  - Plaintiff filed a Doe amendment naming Zeno King Jr. as a defendant in the present case on November 2, 2023
+Disputes:
+  - Whether Plaintiff had knowledge of sufficient facts to cause a reasonable person to believe liability is probable
+  - Whether Plaintiff's filing of the Doe amendment was in good faith
+Acts:
+  - Filing of complaint
+  - Service of Doe amendment
+  - Filing of Doe amendment
+  - Demurrer
+Agreements:
+  - Section 474 of the Code of Civil Procedure allows a plaintiff to delay suing particular persons as named defendants until the plaintiff has knowledge of sufficient facts to cause a reasonable person to believe liability is probable
+  - A plaintiff may use section 474 whenever he has no actual knowledge of the defendant
+Laws:
+  - Code of Civil Procedure, Section 474
+  - McOwen v. Grossman (2007) 153 Cal.App.4th 937, 943
+  - General Motors Corp. v. Superior Court (1996) 48 Cal.App.4th 580, 594
+  - Sobeck & Associates, Inc. v. B&R Investments No. 24 (1989) 215 Cal.App.3d 861, 867
+  - Balon v. Drost (1993) 20 Cal.App.4th 483, 488
+  - Hirsa v. Superior Court (1981) 118 Cal.App.3d 486
+Statutes:
+  - California Code of Civil Procedure, Section 474
+Roles:
+  - Plaintiff: Carlos Quezada
+  - Defendant: Zeno King Jr.
+  - Judge: Hon. L. Arian
+Significant Statements:
+  - The Court finds that Defendant's demurrer is OVERRULED.
+  - Plaintiff's filing of the Doe amendment was made in good faith.
+  - Defendant failed to demonstrate that Plaintiff had knowledge of sufficient facts to cause a reasonable person to believe King Jr.'s liability is probable.
+```
+
+And here is the English-text summary:
+
+This tentative ruling is about a case between Plaintiff Carlos Quezada and Defendant Zeno King Jr. regarding an automobile accident that occurred on June 25, 2021. The Plaintiff filed the present case and subsequently filed a Doe amendment naming Zeno King Jr. as a defendant. The Defendant demurred, arguing that the Plaintiff had knowledge of sufficient facts to cause a reasonable person to believe King Jr.'s liability is probable, and that the Plaintiff's filing of the Doe amendment was not made in good faith. The Court finds that the Plaintiff's filing of the Doe amendment was made in good faith and that the Defendant failed to demonstrate that the Plaintiff had knowledge of sufficient facts to cause a reasonable person to believe King Jr.'s liability is probable. Therefore, the Court OVERRULES the Defendant's demurrer.

@@ -1,0 +1,68 @@
+Here is the summary in YAML format:
+
+```
+case_number: 24STCV02254
+hearing_date: 2024-05-03
+dept: 52
+parties:
+  plaintiff: Zareh Narghizian
+  defendants:
+    - Lithia Motors, Inc.
+    - Van Nuys-T, Inc.
+people:
+  - Zareh Narghizian
+  - David Stork (Chief Legal Officer)
+companies:
+  - Lithia Motors, Inc.
+  - Van Nuys-T, Inc.
+places: none
+dates: none
+events:
+  - Arbitration agreement signed
+  - Lawsuit filed
+  - Motion to compel arbitration filed
+money: none
+intentions:
+  - Plaintiff seeks to avoid arbitration
+  - Defendant seeks to compel arbitration
+facts:
+  - Plaintiff alleges retaliation, age discrimination, and wrongful termination
+  - Defendant argues that the arbitration agreement is binding
+disputes:
+  - Whether the arbitration agreement is binding
+  - Whether the plaintiff's claims are arbitrable
+  - Whether the defendant's class-action waiver is enforceable
+acts:
+  - Plaintiff files lawsuit
+  - Defendant files motion to compel arbitration
+  - Court rules on motion to compel arbitration
+laws:
+  - Federal Arbitration Act (FAA)
+  - California Arbitration Act (CAA)
+  - Labor Code section 432.6
+  - California Code of Civil Procedure section 1281.4
+citations:
+  - Mastick v. TD Ameritrade, Inc.
+  - Citizens Bank v. Alafabco, Inc.
+  - Dotson v. Amgen, Inc.
+  - Sanchez v. Western Pizza Enterprises, Inc.
+  - Armendariz v. Foundation Health Psychcare Services, Inc.
+  - Serafin v. Balco Properties Ltd., LLC
+  - Davis v. Kozak
+  - Little v. Auto Stiegler, Inc.
+  - Carbajal v. CWPSC, Inc.
+  - Alberto v. Cambrian Homecare
+  - California Private Attorney General Act
+roles:
+  - Plaintiff: Zareh Narghizian
+  - Defendant: Lithia Motors, Inc. and Van Nuys-T, Inc.
+  - Judge: unnamed
+significant_statements:
+  - The court finds that the arbitration agreement is binding and enforceable
+  - The court compels arbitration of certain claims
+  - The court stays the action pending resolution of the arbitration proceeding
+```
+
+English-text summary:
+
+This tentative ruling concerns a lawsuit filed by plaintiff Zareh Narghizian against defendants Lithia Motors, Inc. and Van Nuys-T, Inc. The defendants move to compel arbitration and stay the action. The court finds that the arbitration agreement is binding and enforceable, and compels arbitration of certain claims. The court stays the action pending resolution of the arbitration proceeding. The court also severs a provision of the arbitration agreement that prohibits consolidation of claims and waives the right to bring class or collective actions.

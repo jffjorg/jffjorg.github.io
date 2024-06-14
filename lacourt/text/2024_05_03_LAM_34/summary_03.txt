@@ -1,0 +1,45 @@
+Here is the summary in YAML format:
+
+```
+---
+case_number: 24STCV01464
+hearing_date: 2024-05-03
+department: 34
+subject: Demurrer to Plaintiffs' Complaint
+moving_party: Vanessa Smith and Margaret Davis
+responding_party: Cybill Lui and Derrick Eppich
+---
+
+introduction:
+  - The tentative ruling is regarding a demurrer and motion to strike
+  - The case involves allegations of unlawful housing practices, intentional infliction of emotional distress, and harassment and retaliation
+  - The court will address the demurrer and motion to strike separately
+
+demurrer:
+  - The demurrer is sustained in part and overruled in part
+  - The ninth cause of action for harassment and retaliation is sustained
+  - The other causes of action are overruled
+  - The court finds that the pleading adequately alleges the elements of the causes of action
+
+motion to strike:
+  - The motion to strike is denied
+  - The court finds that the pleading is proper and that the allegations are sufficient to support the claims
+
+facts:
+  - The plaintiffs alleged that the defendants engaged in unlawful housing practices, intentional infliction of emotional distress, and harassment and retaliation
+  - The defendants demurred to the pleading on various grounds, including that the pleading did not adequately allege the elements of the causes of action
+
+issues:
+  - Whether the pleading adequately alleged the elements of the causes of action
+  - Whether the pleading was sufficient to support the claims
+
+procedural history:
+  - The case was filed on January 18, 2024
+  - The defendants filed a demurrer and motion to strike on March 18, 2024
+  - The plaintiffs filed an opposition to the demurrer and motion to strike on April 18, 2024
+  - The defendants filed a reply to the opposition on April 26, 2024
+
+conclusion:
+  - The demurrer is sustained in part and overruled in part
+  - The motion to strike is denied
+  - The court finds that the pleading is sufficient to support the claims and that the defendants' demurrer is overruled

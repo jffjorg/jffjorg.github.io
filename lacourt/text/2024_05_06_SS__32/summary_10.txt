@@ -1,0 +1,55 @@
+Here is the YAML summary:
+
+```yaml
+case_number: "23STCV19129"
+plaintiff: "Enedino Espinoza"
+defendant: "BOP FigAt7th LLC"
+people:
+  - Enedino Espinoza
+  - BOP FigAt7th LLC
+company-names:
+  - Universal Protection Service, LP
+  - Target Corporation
+places:
+  - California
+dates:
+  - August 10, 2023
+  - February 6, 2025
+  - April 22, 2025
+  - January 26, 2024
+events:
+  - Trial continuation
+  - Summary judgment motion hearing
+  - Prehearing separate statement of undisputed material facts
+money: "$"
+intentions:
+  - To continue trial and all related deadlines
+facts:
+  - No trial continuance has been requested
+  - Defendant has reserved a summary judgment motion hearing
+disputes:
+  - Plaintiff opposes Defendant's motion to continue trial
+  - Defendant argues good cause for continuance
+acts:
+  - Defendant moves to continue trial and all related deadlines
+  - Plaintiff opposes and Defendant replies
+agreements:
+  - Co-defendants Universal Protection Service, LP and Target Corporation have filed joinders to the motion
+laws:
+  - California Rules of Court, rule 3.1332
+  - Code of Civil Procedure section 437c
+statutes:
+  - California Rules of Court
+roles:
+  - Judge
+  - Plaintiff
+  - Defendant
+  - Co-defendants
+significant-statements:
+  - The Court denies Defendant's motion to continue trial
+  - Defendant shall give notice of the Court's ruling
+```
+
+And here is the English text to summarize the judge's tentative ruling:
+
+This tentative ruling denies Defendant's motion to continue trial and all related deadlines. Defendant requested the continuance due to the proximity of the trial date and the need for additional time to prepare for trial. However, the Court finds no good cause for the continuance at this time. The Court notes that Defendant has not yet filed its summary judgment motion and has reserved a hearing date for February 20, 2025. The Court also denies Plaintiff's request that Defendant submit a prehearing separate statement of undisputed material facts before filing its summary judgment motion.

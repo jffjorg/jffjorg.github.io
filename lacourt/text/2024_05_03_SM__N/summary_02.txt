@@ -1,0 +1,56 @@
+Here is the summary in YAML format:
+
+```
+case_number: 23SMCV00054
+plaintiff: Law Offices of Levin & Margolin
+defendant: Samuel Foy
+people_names:
+  - Steven F. Holland
+company_names:
+  - Law Offices of Levin & Margolin
+places:
+  - California
+dates:
+  - March 11, 2024
+  - March 5, 2024
+  - May 3, 2024
+events:
+  - Petition to Compel Binding Arbitration and for Court Appointment of an Arbitrator
+  - Service of petition and notice
+  - Continuation of hearing
+money:
+  - Fees due between parties
+intentions:
+  - To compel binding arbitration
+  - To appoint an arbitrator
+facts:
+  - Written agreement between parties
+  - Dispute over fees
+  - Failure to respond to notice
+disputes:
+  - Dispute over fees
+acts:
+  - Service of petition and notice
+  - Failure to respond to notice
+  - Continuation of hearing
+agreements:
+  - Written agreement between parties
+laws:
+  - California Code of Civil Procedure section 1290.4
+  - California Code of Civil Procedure section 415.20
+  - California Code of Civil Procedure section _____________ (missing section)
+case_citations:
+  - California Code of Civil Procedure section 1290.4
+  - California Code of Civil Procedure section 415.20
+roles:
+  - Judge
+  - Petitioner (Law Offices of Levin & Margolin)
+  - Respondent (Samuel Foy)
+significant_statements:
+  - Petition is unopposed
+  - Petitioner has not served the petition and notice as required
+```
+
+And here is a summary of the judge's tentative ruling in English text:
+
+The judge has continued the petition to compel binding arbitration and for court appointment of an arbitrator to a date TBD. The petitioner, Law Offices of Levin & Margolin, must file proof of service of the petition upon the respondent, Samuel Foy, in compliance with Code of Civil Procedure section 1290.4, subdivision (a). The petition was unopposed, but the petitioner failed to serve the petition and notice as required by law. The judge has ordered the petitioner to provide proof of service before proceeding with the hearing.

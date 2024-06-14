@@ -1,0 +1,68 @@
+Here is the summary in YAML format:
+
+```
+case_number: 23STCV11392
+plaintiff: Dylan Scott Perry
+defendant: The Walt Disney Co. dba Twentieth Century Studios
+people_names:
+  - Dylan Scott Perry
+  - Walt Disney
+company_names:
+  - The Walt Disney Co.
+  - Twentieth Century Studios
+places:
+  - Los Angeles
+  - California
+dates:
+  - May 22, 2023
+  - June 1, 2023
+  - June 16, 2023
+  - June 23, 2023
+  - June 26, 2023
+  - July 21, 2023
+  - April 30, 2024
+  - May 2, 2024
+  - May 3, 2024
+  - May 7, 2024
+events:
+  - Plaintiff filed a Complaint
+  - Plaintiff filed a First Amended Complaint
+  - Defendant filed a Demurrer
+  - Plaintiff filed a Motion to Strike
+  - Court sustained the demurrer without leave to amend
+  - Court granted the Motion to Strike
+intention: The Court's intention is to sustain the demurrer without leave to amend and grant the Motion to Strike.
+facts:
+  - Plaintiff alleges that Defendant used an animated TV series to send coded death threats
+  - Plaintiff alleges that Defendant stalked and broke into his apartment
+  - Plaintiff demands $26.1 billion in restitution and $840.00 in monetary damages
+  - Defendant argues that Plaintiff's allegations are uncertain and do not state a cause of action
+disputes:
+  - Plaintiff's allegations are uncertain
+  - Plaintiff does not state a cause of action
+acts:
+  - Court sustained the demurrer without leave to amend
+  - Court granted the Motion to Strike
+agreements: None
+laws:
+  - California Code of Civil Procedure section 430.10
+  - California Code of Civil Procedure section 435
+  - California Code of Civil Procedure section 436
+  - California Code of Civil Procedure section 391 et seq.
+citations:
+  - Hahn v. Mirda (2007) 147 Cal.App.4th 740, 747
+  - Nolte v. Cedars-Sinai Medical Center (2015) 236 Cal.App.4th 1401, 1406
+  - Khoury v. Maly's of Calif., Inc. (1993) 14 Cal.App.4th 612, 616
+  - Zelig v. Cnty. of Los Angeles (2002) 27 Cal. 4th 1112, 1126
+roles:
+  - Judge Long
+  - Plaintiff Dylan Scott Perry
+  - Defendant The Walt Disney Co. dba Twentieth Century Studios
+significant_statements:
+  - The Court sustains the demurrer without leave to amend
+  - The Court grants the Motion to Strike
+```
+
+And here is the English-text summary:
+
+The Court's tentative ruling is that the demurrer to the entire First Amended Complaint is sustained without leave to amend. The Court finds that the Plaintiff's allegations are uncertain and do not state a cause of action. The Plaintiff's allegations are unclear and do not provide a legal basis to support his claims of civil rights violations. The Court also grants the Motion to Strike the incorrectly filed Amended Civil Case Cover Sheet Addendum for the related Case 23STCP01900.

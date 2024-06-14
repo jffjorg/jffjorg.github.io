@@ -1,0 +1,58 @@
+Here is the YAML representation of the tentative ruling:
+
+```
+case_number: "Unknown"
+plaintiff_name: "Plaintiff"
+defendant_name: "Defendant"
+people_names:
+  - Gonzalez
+  - Wignal
+company_names:
+  - Defendant's Company
+places:
+  - None
+dates:
+  - None
+events:
+  - Arbitration Agreement submission
+  - Onboarding platform login
+money:
+  - Attorney's fees
+intentions:
+  - Establish Arbitration Agreement's existence
+  - Recover attorney's fees
+facts:
+  - Plaintiff does not recall signing Arbitration Agreement
+  - Manager's declaration
+  - Onboarding platform login required
+  - Review and sign document
+disputes:
+  - Existence of Arbitration Agreement
+  - Frivolous claim
+acts:
+  - Submit arbitration agreement
+  - Log onto onboarding platform
+  - Review and sign document
+  - Request attorney's fees
+agreements:
+  - Arbitration Agreement
+  - Government Code section 12965
+laws:
+  - Government Code section 12965
+  - Unconscionable contract terms
+case_citations:
+  - None
+statutes:
+  - Government Code section 12965
+roles:
+  - Plaintiff
+  - Defendant
+  - Manager
+significant_statements:
+  - Defendant's evidence establishes Arbitration Agreement's existence
+  - Recovery of attorney's fees is substantively unconscionable
+```
+
+And here is the English-text summary of the tentative ruling:
+
+The court has reviewed the evidence presented by both parties and has made a tentative ruling on the case. The court finds that the defendant has met its burden of proving the existence of the arbitration agreement by submitting the declaration of a manager who worked in the defendant's talent management department. The declaration states that the plaintiff was required to log onto the defendant's onboarding platform to review and sign the agreement. The court concludes that the defendant has established the existence of the arbitration agreement by a preponderance of the evidence. The court also notes that the arbitration agreement allows the prevailing defendant to recover attorney's fees, but only if the claim was "patently frivolous". However, the court finds that the recovery of attorney's fees for bringing a claim in bad faith is substantively unconscionable and not allowed.

@@ -1,0 +1,57 @@
+Here is the summary of the Judge's tentative ruling in YAML format:
+
+```
+Case Number: 22STCV32196
+Plaintiff's Name: AC Floor Covering Company, Inc.
+Defendant's Name: JP Morgan Chase Bank, N.A.
+People-Names: Stephanie Jones Nojima, Esq.
+Company-Names: AC Floor Covering Company, Inc., JP Morgan Chase Bank, N.A.
+Places: San Fernando Valley, Los Angeles County
+Dates:
+  - September 30, 2022 (Action Filed)
+  - October 13, 2023 (1st Amended Complaint Filed)
+  - December 23, 2023 (Demurrer Filed)
+  - April 26, 2024 (Opposition to Demurrer Filed)
+  - May 3, 2024 (Reply Brief Due)
+  - May 7, 2024 (Hearing Date)
+Events:
+  - Demurrer to Plaintiff's First Amended Complaint
+  - Opposition to Demurrer
+  - Hearing on Demurrer
+Money: $44,404.99, $91,291.28, $42,744.33
+Intentions: Defendant's intent to demur to Plaintiff's First Amended Complaint
+Facts:
+  - Plaintiff opened a business checking account with Defendant
+  - Defendant paid out funds from Plaintiff's account without authorization
+  - Plaintiff discovered unauthorized withdrawals and notified Defendant
+  - Defendant blocked Plaintiff's account
+  - Plaintiff seeks damages and relief for Defendant's alleged wrongdoing
+Disputes:
+  - Defendant demurred to Plaintiff's First Amended Complaint
+  - Plaintiff opposes Defendant's demurrer
+Acts:
+  - Defendant's alleged breach of contract and fiduciary duties
+  - Defendant's alleged negligence
+  - Defendant's alleged unfair and unlawful business practices
+Agreements:
+  - Contract between Plaintiff and Defendant
+Laws:
+  - California Code of Civil Procedure
+  - Business and Professions Code
+  - Uniform Commercial Code
+Case Citations:
+  - Durell v. Sharp Healthcare (2010) 183 Cal.App.4th 1350
+  - Blank v. Kirwan (1985) 39 Cal.3d 311
+  - Picton v. Anderson Union High School Dist. (1996) 50 Cal.App.4th 726
+Statutes:
+  - Cal. Civ. Proc. Code § 430.41
+  - Cal. Civ. Proc. Code § 1005(b)
+  - Bus. & Prof. Code § 17200
+Roles:
+  - Judge (MEL RED RECANA)
+Significant Statements:
+  - Defendant's demurrer to Plaintiff's First Amended Complaint is SUSTAINED with 20 days leave to amend
+  - Plaintiff's causes of action for breach of contract, negligence, and unfair and unlawful business practices are SUSTAINED
+```
+
+Please note that the YAML format is a human-readable data serialization format that is easy to read and write. It is often used for configuration files and other data interchange formats.

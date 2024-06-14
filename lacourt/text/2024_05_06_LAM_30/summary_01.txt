@@ -1,0 +1,60 @@
+Here is the summary in YAML format:
+
+```
+Case Number: 21AHCV00134
+Plaintiff's Name: Georgian
+Defendant's Name: Fu
+People-Names: Fu
+Company-Names: US GC Investment
+Places: California
+Dates:
+  - December 3, 2021
+  - December 13, 2021
+  - March 28, 2022
+  - September 12, 2023
+  - September 20, 2023
+  - March 20, 2024
+Events:
+  - Filing of Complaint
+  - Service of Complaint
+  - Entry of Default
+  - Filing of Motion to Set Aside Defaults
+  - Hearing on Motion to Set Aside Defaults
+Money: None
+Intentions:
+  - Defendant Fu seeks to set aside defaults and to set aside order deeming requests for admission admitted
+Facts:
+  - Defendant Fu was served with Complaint in both cases
+  - Defendant Fu did nothing to respond to Complaints
+  - Motion to Set Aside Defaults was filed 182 days (in one case) and 190 days (in another case) after entry of default
+Disputes:
+  - Whether Defendant Fu's failure to respond to Complaints constitutes excusable neglect
+Acts:
+  - Defendant Fu filed Motion to Set Aside Defaults
+  - Defendant Fu filed Motion to Set Aside Order Deeming Requests for Admission Admitted
+Agreements: None
+Laws:
+  - California Code of Civil Procedure, section 473
+  - California Code of Civil Procedure, section 473, subdivision (b)
+  - California Code of Civil Procedure, section 473, subdivision (b) (statute requiring motion to be brought within a "reasonable time")
+  - Hopkins & Carley v. Gens (2011) 200 Cal.App.4th 1401, 1410
+  - Fasuyi v. Permatex, Inc. (2008) 167 Cal.App.4th 681, 695
+Case Citations:
+  - Hopkins & Carley v. Gens (2011) 200 Cal.App.4th 1401, 1410
+  - Fasuyi v. Permatex, Inc. (2008) 167 Cal.App.4th 681, 695
+Statutes:
+  - California Code of Civil Procedure, section 473
+  - California Code of Civil Procedure, section 473, subdivision (b)
+Roles:
+  - Plaintiff: Georgian
+  - Defendant: Fu
+  - Judge: (author of the tentative ruling)
+Significant Statements:
+  - Defendant Fu's motion is denied
+  - Defendant Fu's failure to respond to Complaints is not excusable neglect
+  - Defendant Fu's motion to set aside order deeming requests for admission admitted must be brought as a separate motion
+```
+
+Here is the English-text summary:
+
+This tentative ruling denies Defendant Fu's motion to set aside defaults in two separate cases. Defendant Fu filed the motion 182 and 190 days after the entry of default, which exceeds the statute's requirement for a "reasonable time" of six months. The court finds that Defendant Fu's failure to respond to the Complaints is not excusable neglect, as he offers no testimony regarding when he learned of the defaults and why he waited so long to seek relief. Additionally, the court rules that Defendant Fu's motion to set aside an order deeming requests for admission admitted must be brought as a separate motion.

@@ -1,0 +1,66 @@
+Here is the summary in YAML format:
+
+```
+case_number: 23STCV30211
+plaintiff_name: Sophia Henry
+defendant_names:
+  - Rob Bonta
+  - Ana M. Lasso
+  - State of California
+  - Employment Development Department (EDD)
+  - Paid Family Leave Office – Fresno
+people_names:
+  - Sophia Henry
+  - Rob Bonta
+  - Ana M. Lasso
+company_names:
+  - State of California
+  - Employment Development Department (EDD)
+  - Paid Family Leave Office – Fresno
+places:
+  - California
+dates:
+  - December 16, 2023
+  - February 21, 2024
+  - March 8, 2024
+  - March 26, 2024
+  - May 3, 2024
+events:
+  - Denial of Paid Family Leave claim
+  - Filing of motions
+  - Entry of default
+money: Not relevant
+intentions:
+  - To resolve dispute between parties
+facts:
+  - Plaintiff Sophia Henry filed an action against defendants
+  - Default was entered against all defendants
+  - Plaintiff's motions are denied as moot
+disputes:
+  - Dispute between parties over Paid Family Leave claim
+  - Dispute over proof of service
+acts:
+  - Filing of motions
+  - Entry of default
+  - Scheduling of OSC re: Proof of Service and Case Management Conference
+agreements:
+  - None
+laws:
+  - Not specified
+citations:
+  - Not specified
+statutes:
+  - Not specified
+roles:
+  - Judge: Kerry Bensinger
+  - Plaintiff: Sophia Henry
+  - Defendant: Rob Bonta, Ana M. Lasso, State of California, EDD, Paid Family Leave Office – Fresno
+significant_statements:
+  - Plaintiff's motions are denied as moot
+  - Default has been entered against all defendants
+  - OSC re: Proof of Service and Case Management Conference scheduled
+```
+
+And here is a summary of the judge's tentative ruling in English text:
+
+The court has issued a tentative ruling on a motion for an order establishing admissions and for sanctions, as well as a motion for an order compelling answers to interrogatories and for sanctions. Since default has been entered against all defendants, the motions are denied as moot. The court notes that the State of California filed a declaration challenging proof of service as to all defendants. An OSC re: Proof of Service and a Case Management Conference are scheduled for May 3, 2024. The court will hear from the parties. The clerk of the court is ordered to give notice.

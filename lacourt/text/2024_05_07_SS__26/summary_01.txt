@@ -1,0 +1,73 @@
+Here is the summary in YAML format:
+
+```
+case_number: 21STLC05896
+plaintiff: State Farm Mutual Automobile Insurance Company
+defendant: DeLeon, et al.
+people:
+  - Dennis DeLeon
+  - Dennis Martinez
+  - Unknown (Hertz Vehicles, LLC)
+companies:
+  - State Farm Mutual Automobile Insurance Company
+  - Hertz Vehicles, LLC
+places:
+  - Spring Street Courthouse
+  - Department 26
+dates:
+  - August 11, 2021
+  - December 1, 2021
+  - October 23, 2023
+  - December 11, 2023
+  - January 5, 2024
+  - January 4, 2024
+  - March 11, 2024
+  - April 22, 2024
+  - June 11, 2024
+events:
+  - Filing of complaint
+  - Filing of answer
+  - Stipulation to continue hearing date
+  - Entry of judgment
+  - Dismissal of action
+  - Filing of motion to vacate dismissal
+  - Trial setting conference
+money: $0 (no monetary amounts mentioned)
+intentions:
+  - Plaintiff seeks to vacate dismissal and reinstate action
+  - Defendant seeks to set trial date 90-120 days out
+facts:
+  - Plaintiff filed action on August 11, 2021
+  - Defendant Hertz filed answer on December 1, 2021
+  - Defendant DeLeon filed answer on October 23, 2023
+  - Court entered judgment in favor of Defendant Hertz on January 5, 2024
+  - Plaintiff's complaint was dismissed on March 11, 2024
+disputes:
+  - Plaintiff's motion to vacate dismissal
+acts:
+  - Entry of judgment
+  - Dismissal of action
+  - Filing of motion to vacate dismissal
+  - Trial setting conference
+agreements:
+  - Stipulation to continue hearing date
+laws:
+  - Code of Civil Procedure, section 473, subdivision (b)
+  - English v. IKON Business Solutions (2001)
+  - Code Civ. Proc., § 473, subd. (b)
+  - Code Civ. Proc., § 473, subd. (b)
+  - Code Civ. Proc., § 473, subd. (b)
+  - Code Civ. Proc., § 473, subd. (b)
+roles:
+  - Plaintiff: State Farm Mutual Automobile Insurance Company
+  - Defendant: DeLeon, et al.
+  - Judge: (not specified)
+significant statements:
+  - Plaintiff's motion to vacate dismissal is GRANTED.
+  - THE DISMISSAL ENTERED ON MARCH 11, 2024 IS HEREBY VACATED.
+  - TRIAL SETTING CONFERENCE IS SET FOR JUNE 11, 2024 AT 9:30 AM IN DEPARTMENT 26 IN THE SPRING STREET COURTHOUSE.
+```
+
+And here is a summary in English text:
+
+The Judge's Tentative Ruling is that Plaintiff State Farm Mutual Automobile Insurance Company's Motion to Vacate Dismissal is GRANTED. The dismissal entered on March 11, 2024 is hereby vacated. A trial setting conference is set for June 11, 2024 at 9:30 am in Department 26 of the Spring Street Courthouse.

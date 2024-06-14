@@ -1,0 +1,42 @@
+Here is the summary in YAML format:
+
+```
+---
+case_number: 23STCV30926
+case_name: Phillips v. Innes Heights LP
+moving_party: Defendant Innes Heights LP
+opposing_party: Plaintiffs
+parties:
+  - Latisha Phillips
+  - Lonella Ballard
+  - Ishmael Ballard
+  - Isaish Ballard
+  - Isaac Ballard
+hearing_date: May 3, 2024
+tentative_ruling: The demurrer to the Complaint is overruled to the first, second, third, fourth, seventh, and eighth causes of action. It is sustained as to the fifth and sixth causes of action.
+causes_of_action:
+  - Breach of implied warranty of habitability (first cause of action)
+  - Breach of statutory warranty of habitability (second cause of action)
+  - Breach of covenant of quiet enjoyment (third cause of action)
+  - Negligence (fourth cause of action)
+  - Violation of Civil Code section 1942.4 (fifth cause of action)
+  - Private nuisance (sixth cause of action)
+  - Violation of tenant anti-harassment ordinance (seventh cause of action)
+  - Violation of unfair competition law (eighth cause of action)
+laws:
+  - California Civil Code
+  - California Business and Professions Code
+  - Los Angeles Municipal Code
+dates:
+  - December 12, 2020
+  - August 30, 2021
+events:
+  - Courtesy Notice to Abate
+  - Notice and Order to Comply
+  - County of Los Angeles Department of Public Health citation
+  - Los Angeles Housing and Community Investment Department citation
+```
+
+Summary in English text:
+
+This is a tentative ruling by a judge on a demurrer filed by the defendant, Innes Heights LP, to the complaint filed by the plaintiffs, Latisha Phillips, Lonella Ballard, Ishmael Ballard, Isaish Ballard, and Isaac Ballard. The demurrer is sustained as to the fifth and sixth causes of action, but overruled as to the first, second, third, fourth, seventh, and eighth causes of action. The court finds that the allegations in the complaint are sufficient to state a claim for breach of implied warranty of habitability, breach of statutory warranty of habitability, breach of covenant of quiet enjoyment, and negligence, but that the allegations are insufficient to state a claim for violation of Civil Code section 1942.4 and private nuisance. The court also finds that the complaint fails to state a claim for violation of the tenant anti-harassment ordinance and unfair competition law. The court grants leave to amend the complaint and sets a deadline for filing the amended complaint.

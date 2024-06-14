@@ -1,0 +1,63 @@
+Here is a summary of the judge's tentative ruling in YAML format:
+
+```
+---
+case_number: "20STCV03857"
+plaintiff: "KAREN WEBB"
+defendant: "CITY OF PASADENA"
+people:
+  - Lydia Diaz
+  - Brent Mau
+  - Mark Burns
+company-names: []
+places:
+  - Pasadena
+  - S. Raymond Avenue
+dates:
+  - January 30, 2020
+  - 2014
+  - 2015
+  - 2016
+  - July 27, 2019
+events:
+  - Tripping and falling
+  - Conducting a citywide sidewalk survey
+  - Conducting a citywide survey
+  - Report of injury and incident
+money: []
+intentions:
+  - To determine whether the defendant had notice of the alleged dangerous conditions
+  - To determine whether the plaintiff had a triable issue of fact as to the element of notice
+facts:
+  - The plaintiff tripped and fell on a sidewalk uplift
+  - The defendant conducted a citywide sidewalk survey in 2014/2015
+  - The defendant did not identify any dangerous conditions in the survey
+  - The plaintiff's expert testimony is based on conjectures and speculations
+disputes:
+  - The plaintiff disputes the defendant's claim that the sidewalk uplift was trivial
+  - The plaintiff disputes the defendant's claim that the defendant did not have notice of the uplift
+acts:
+  - The plaintiff tripped and fell
+  - The defendant conducted a citywide sidewalk survey
+  - The plaintiff's expert testified about the existence of the uplift
+agreements: []
+laws:
+  - Government Code Section 835
+  - Code of Civil Procedure Section 437c
+  - Code of Civil Procedure Section 437c(p)(2)
+  - Code of Civil Procedure Section 437c(q)
+statutes:
+  - Government Code Section 835
+  - Government Code Section 835.2
+  - Code of Civil Procedure Section 437c
+roles:
+  - Judge
+  - Plaintiff
+  - Defendant
+significant-statements:
+  - The defendant had no notice of the alleged dangerous conditions
+  - The plaintiff failed to raise a triable issue of fact as to the element of notice
+  - The defendant's motion for summary judgment is granted
+```
+
+The judge's tentative ruling is that the defendant's motion for summary judgment is granted, meaning that the plaintiff has failed to raise a triable issue of fact as to the element of notice. The judge found that the plaintiff's expert testimony was based on conjectures and speculations, and that the Google Map images lacked foundation. The judge also found that the plaintiff failed to demonstrate the long-continued existence of the dangerous condition.

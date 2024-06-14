@@ -1,0 +1,61 @@
+Here is the summary in YAML format:
+
+```
+case_number: 24STCP00860
+hearing_date: 2024-05-06
+dept: 9
+petitioner:
+  name: Petitioner
+roles:
+  - Petitioner
+defendant:
+  - name: Defendant
+people_names:
+  - Petitioner
+  - Defendant
+company_names: []
+places:
+  - Room 112
+  - Clerk's Office
+dates:
+  - 2024-05-06
+  - 7 days after the hearing date
+events:
+  - Petitioner must submit a corrected proposed decree
+  - The petition is granted
+  - A copy of the signed decree will be available
+  - The proposed decree cannot be amended without a new petition
+money: []
+intentions:
+  - To grant the petition
+  - To ensure the proposed decree is correct
+  - To make the signed decree available
+  - To prevent amendments without a new petition
+facts:
+  - Petitioner's proposed decree must be reviewed
+  - The new name must be clearly written and correctly spelled
+disputes:
+  - None mentioned
+acts:
+  - Petitioner must submit a corrected proposed decree
+  - The petition is granted
+  - The signed decree will be made available
+agreements:
+  - The proposed decree must be reviewed and corrected
+  - The signed decree will be made available
+laws:
+  - None mentioned
+citations:
+  - None mentioned
+statutes:
+  - None mentioned
+roles:
+  - Petitioner
+  - Defendant
+significant_statements:
+  - "If the new name is not clearly written and correctly spelled on the proposed decree, Petitioner must appear at the hearing to submit a corrected proposed decree."
+```
+
+And here is the English-text summary:
+
+This tentative ruling sets forth the Judge's thoughts on the case prior to the hearing. The Judge requires that the Petitioner double-check the spelling and legibility of the new name on the proposed decree. If the Petitioner is satisfied with the result, no appearance is necessary. However, if the name is not clearly written and correctly spelled, the Petitioner must appear at the hearing to submit a corrected proposed decree. The Judge grants the petition and notes that once the proposed decree is signed, it cannot be amended without a new petition to change name. The signed decree will be available in the Clerk's Office seven days after the hearing date.
