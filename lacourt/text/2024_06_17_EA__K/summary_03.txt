@@ -1,0 +1,51 @@
+Here is the summary in YAML format:
+
+```
+Case Number: [Insert case number]
+Plaintiff's Name: [Insert plaintiff's name]
+Defendant's Name: [Insert defendant's name]
+People-Names:
+  - Counsel
+Company-Names: []
+Places: []
+Dates:
+  - April 19, 2024
+  - May 13, 2024
+  - May 20, 2024
+  - June 13, 2024
+Events:
+  - Filing of motion
+  - Failure to provide proof of service
+  - Continuation of hearing date
+  - Filing of proof of service
+  - Filing of notice of continuance
+Money: []
+Intentions:
+  - To determine the validity of the motion
+Facts:
+  - Motion was filed without proof of service
+  - Proof of service was filed after the deadline
+  - Hearing date was continued
+Disputes:
+  - Validity of the motion
+Acts:
+  - Filing of motion
+  - Failure to provide proof of service
+  - Continuation of hearing date
+Agreements: []
+Laws:
+  - California Rules of Court rule 3.1300, subdivision (c)
+Case Citations: []
+Statutes: []
+Roles:
+  - Counsel
+  - Plaintiff
+  - Defendant
+Significant Statements:
+  - "Immediately preceding the hearing on May 20, 2024, moving counsel filed a “Proof of Service of Motion,” reflecting email service on Defendants’ counsel and email and mail service to Client on April 19, 2024."
+  - "On May 20, 2024, Plaintiff filed (and electronically served on Defendants and on the Client) a “Notice of Continuance of Motion to be Relieved as Counsel,” advising therein of the scheduled June 13, 2024 hearing date."
+```
+
+English text to summarize the judge's tentative ruling:
+
+The court has considered the motion filed on April 19, 2024, which was not accompanied by a proof of service. Despite the lack of proof of service, the plaintiff's counsel filed a "Proof of Service of Motion" on May 20, 2024, reflecting email service on defendants' counsel and email and mail service to the client. The court has continued the hearing date to June 13, 2024, and provided notice to counsel of the change. The plaintiff has also filed a "Notice of Continuance of Motion to be Relieved as Counsel," advising of the scheduled hearing date.

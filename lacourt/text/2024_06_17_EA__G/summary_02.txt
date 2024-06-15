@@ -1,0 +1,71 @@
+Here is the YAML summary:
+
+```
+case_number: 23PSCV02943
+plaintiff_name: Piper Wong
+defendant_name: Shuai Gao
+people_names:
+  - Piper Wong
+  - Shuai Gao
+  - Jiamei Wang
+  - Liu Yang
+  - Taylor Scarcella
+  - Yi Zhao
+company_names: []
+places:
+  - Diamond Bar
+  - Walnut
+  - California
+  - Washington
+  - Canada
+dates:
+  - June 2022
+  - September 25, 2023
+  - November 13, 2023
+  - December 6, 2023
+  - February 12, 2024
+  - February 14, 2024
+  - March 19, 2024
+  - June 17, 2024
+events:
+  - Accident
+  - Service of summons
+  - Filing of complaint
+  - Motion to quash service
+  - Hearing
+money:
+  - Negligence
+  - Premises liability
+intention:
+  - To quash the service of summons
+facts:
+  - Shuai Gao was served with substitute service at a Diamond Bar address
+  - The address was not Gao's residence, place of business, or usual mailing address
+  - Gao is a resident of Canada
+disputes:
+  - Whether the service of summons was proper
+  - Whether the service was made in accordance with the Code of Civil Procedure
+acts:
+  - Service of summons
+  - Filing of complaint
+  - Motion to quash service
+agreements:
+  - Code of Civil Procedure section 418.10
+  - Code of Civil Procedure section 415.20
+laws:
+  - California Code of Civil Procedure
+  - American Express Centurion Bank v. Zara (2011)
+  - Lebel v. Mai (2012)
+roles:
+  - Plaintiff: Piper Wong
+  - Defendant: Shuai Gao
+  - Judge: [Name]
+significant_statements:
+  - The court grants Shuai Gao's motion to quash the service of summons.
+  - The service of summons was improper because the address used for substitute service was not Gao's residence, place of business, or usual mailing address.
+  - The court finds that Wong's process server failed to attempt personal service on Gao with reasonable diligence.
+```
+
+And here is the English summary:
+
+The court has issued a tentative ruling in the case of Shuai Gao vs. Piper Wong. Gao has moved to quash the service of summons, arguing that the service was improper because the address used for substitute service was not his residence, place of business, or usual mailing address. The court has granted Gao's motion, finding that the service of summons was defective. The court held that the process server failed to attempt personal service on Gao with reasonable diligence, and that the substitute service at the Diamond Bar address was improper. The court has directed that the service of summons be re-served on Gao in Canada, where he claims to reside.

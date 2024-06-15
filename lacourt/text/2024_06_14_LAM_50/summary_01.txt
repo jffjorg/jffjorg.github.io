@@ -1,0 +1,71 @@
+Here is the summary in YAML format:
+
+```
+case_number: 19STCV46503
+plaintiff: curtis r. olson
+defendant: vidala aaronoff
+people_names:
+  - curtis r. olson
+  - vidala aaronoff
+  - gloria p. martinez-senftner
+company_names:
+  - martinez law group, pc
+places:
+  - los angeles
+  - california
+dates:
+  - june 14, 2024
+  - june 17, 2024
+  - july 16, 2024
+  - october 9, 2024
+events:
+  - motion to be relieved as counsel
+  - cross-action
+money:
+  - none
+intentions:
+  - to relieve counsel
+facts:
+  - counsel has provided sufficient reason for withdrawal
+  - defects in the motion
+  - lack of declaration in support of attorney's motion
+  - lack of service of notice of motion and motion to client and other parties
+  - blank items 3 and 5 of proposed order
+  - lack of reference to upcoming hearings
+disputes:
+  - dispute over relief of counsel
+acts:
+  - filing of motion to be relieved as counsel
+  - failure to file declaration in support of attorney's motion
+  - failure to serve notice of motion and motion to client and other parties
+  - failure to complete proposed order
+  - failure to reference upcoming hearings
+agreements:
+  - california rules of court
+  - code of civil procedure
+  - rules of court
+laws:
+  - california rules of court, rule 3.1362
+  - code of civil procedure section 284
+  - rules of court, rule 3.1362
+  - california rules of court, rule 3.1362
+  - california rules of court, rule 3.1362
+  - code of civil procedure section 284
+statutes:
+  - california rules of court, rule 3.1362
+  - code of civil procedure section 284
+  - rules of court, rule 3.1362
+  - california rules of court, rule 3.1362
+roles:
+  - judge
+  - counsel
+  - client
+  - parties
+significant_statements:
+  - The court denies the motion without prejudice.
+  - Counsel is ordered to give notice of this order.
+```
+
+And here is the English-text summary:
+
+This is a tentative ruling by Judge Teresa A. Beaudet of the Los Angeles Superior Court, denying a motion by Gloria P. Martinez-Senftner, counsel for defendant Vidala Aaronoff, to be relieved as counsel. The court notes several defects with the motion, including the lack of a required declaration in support of the attorney's motion, failure to serve the notice of motion and motion on the client and other parties, and incomplete proposed order. As a result, the court denies the motion without prejudice and orders counsel to give notice of this order.
