@@ -1,0 +1,68 @@
+Here is the summary in YAML format:
+
+```
+case_number: 23SMCV02011
+plaintiff_name: Marcelino Arcos
+defendant_name: Anuluoha et al.
+people_names:
+  - Daniel C. Sharpe, Esq.
+  - Marcelino Arcos
+company_names:
+  - Windsor Troy
+places:
+  - California
+dates:
+  - June 12, 2024
+  - July 29, 2024
+  - October 2023
+events:
+  - Motion to be Relieved
+  - Hearing
+  - Withdrawal of Counsel
+money: None
+intentions:
+  - Relief from representation
+  - Protection from prejudice
+facts:
+  - Counsel failed to submit mandatory forms
+  - Client failed to communicate with counsel
+  - Trial is set for July 29, 2024
+disputes:
+  - Prejudice to the rights of the client
+  - Breakdown of attorney-client relationship
+  - Consent to substitution of counsel
+acts:
+  - Filing of mandatory forms
+  - Service of notice on the client
+  - Efforts to contact the client
+agreements:
+  - Mandatory forms (MC-051, MC-052, MC-053)
+  - Service of notice on the client
+  - Communication with the client
+laws:
+  - California Rules of Professional Conduct (CRPC)
+  - California Rules of Court (CRC)
+  - California Civil Procedure Code (CCP)
+  - California Rules of Evidence (CRE)
+case_citations:
+  - Vann v. Shilleh (1975)
+  - Manfredi & Levine v. Superior Court (1998)
+  - Ramirez v. Sturdevant (1994)
+  - Filbin v. Fitzgerald (2012)
+statutes:
+  - CCP § 284(2)
+  - CRPC 1.16(d)
+  - CRC 3.1362(a), (c), (d), (e)
+roles:
+  - Judge
+  - Counsel (Daniel C. Sharpe, Esq.)
+  - Plaintiff (Marcelino Arcos)
+  - Defendant (Anuluoha et al.)
+significant_statements:
+  - "The determination whether to grant or deny a motion to withdraw as counsel lies within the sound discretion of the trial court."
+  - "The attorney seeking to withdraw must take 'reasonable steps to avoid reasonably foreseeable prejudice to the rights of the client.'"
+```
+
+And here is the English text to summarize the judge's tentative ruling:
+
+The court denies, without prejudice, the motion to withdraw as counsel of record for Plaintiff Marcelino Arcos. The motion is denied because the required mandatory forms were not submitted, specifically the MC-052 declaration. However, if the required forms are filed before the June 12, 2024 hearing, the court would rule that the motion to withdraw would be granted. The court is concerned that withdrawal at this late stage could impermissibly prejudice the Plaintiff. However, the counsel has provided a clear explanation of their reasonable and longstanding efforts to re-contact their client, and it is clear that counsel's withdrawal will not result in prejudice.

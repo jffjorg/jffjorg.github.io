@@ -1,0 +1,65 @@
+Here is the YAML summary of the tentative ruling:
+
+```
+case_number: 20STCV08423
+plaintiff_names:
+  - Maria Luz Nieves
+  - et al.
+defendant_names:
+  - Kevin George Aziz Riad
+  - et al.
+people_names:
+  - Robert Sumwalt
+  - Ian G. Schuler
+  - Gary Y. Tanaka
+company_names:
+  - Tesla, Inc.
+  - National Transportation Safety Board (NTSB)
+places:
+  - Los Angeles
+  - Southwest District
+dates:
+  - February 28, 2020
+  - June 11, 2020
+  - June 12, 2024
+events:
+  - Deposition of Robert Sumwalt
+  - Motion for Protective Order
+  - Granting of Protective Order
+money:
+  - None mentioned
+intentions:
+  - Prevent Plaintiff's Deposition of Robert Sumwalt
+facts:
+  - Plaintiffs' decedent was killed in an automobile accident involving a defective Tesla Model S
+  - Plaintiffs allege various causes of action, including wrongful death and products liability
+disputes:
+  - Defendant seeks to prevent deposition of Robert Sumwalt due to lack of NTSB investigation
+acts:
+  - Defendant moves for protective order
+  - Plaintiffs fail to oppose the motion
+  - Judge grants the motion
+agreements:
+  - None mentioned
+laws:
+  - California Code of Civil Procedure (CCP) §§ 2017.020(a), 2019.020(b), 2019.030(a)
+  - 49 CFR Part 835
+  - CCP § 2025.420(a) and (b)
+statutes:
+  - CCP § 2016.040
+  - CCP § 2025.420
+  - 49 CFR Part 835
+roles:
+  - Judge: Gary Y. Tanaka
+  - Plaintiff: Maria Luz Nieves
+  - Defendant: Kevin George Aziz Riad
+  - Witness: Robert Sumwalt
+  - Counsel: Ian G. Schuler
+significant statements:
+  - Granting of Protective Order to prevent deposition of Robert Sumwalt
+  - Defendant establishes good cause for the granting of the protective order due to lack of NTSB investigation
+```
+
+And here is a brief English summary of the judge's tentative ruling:
+
+The court grants Tesla, Inc.'s motion for a protective order to prevent the deposition of Robert Sumwalt, a former chair of the National Transportation Safety Board (NTSB). The defendant argues that Sumwalt cannot testify in his official capacity due to the lack of NTSB investigation into the subject incident. The plaintiffs failed to oppose the motion, and the court finds good cause to grant the protective order. As a result, the deposition of Robert Sumwalt is prevented in this action.

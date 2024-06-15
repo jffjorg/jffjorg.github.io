@@ -1,0 +1,82 @@
+Here is the summary in YAML format:
+
+```
+case_number: 21STCV34296
+plaintiff: Todd Beeson
+defendant: Ivan Kutsevol, Alina Kutsevol, Elena Talan
+people:
+  - Brent Wing
+  - Dale Aaron Jones
+  - Todd Beeson
+  - Ivan Kutsevol
+  - Alina Kutsevol
+  - Elena Talan
+companies:
+  - Ivan Kutsevol
+  - Alina Kutsevol
+  - Elena Talan
+places:
+  - Los Angeles
+  - California
+dates:
+  - March 18, 2022
+  - April 16, 2022
+  - April 22, 2024
+  - May 15, 2024
+  - May 29, 2024
+  - June 3, 2024
+  - June 10, 2024
+events:
+  - Deposition
+  - Non-appearance
+  - Notice of Non-Appearance
+  - Rescheduling
+  - Taking Deposition
+  - Filing Motion
+  - Opposing Motion
+  - Filing Reply
+money:
+  - $450
+intentions:
+  - Compel deposition
+  - Sanctions
+facts:
+  - Plaintiff did not appear for deposition
+  - Notice of Non-Appearance was taken
+  - Plaintiff was served with two deposition notices
+  - Plaintiff failed to produce documents
+disputes:
+  - Motion to Compel Deposition
+  - Request for Sanctions
+acts:
+  - Rescheduling deposition
+  - Taking deposition
+  - Filing motion
+  - Opposing motion
+  - Filing reply
+agreements:
+  - Meet and Confer
+laws:
+  - C.C.P. §2023.010
+  - C.C.P. §2025.010
+  - C.C.P. §2025.280(a)
+  - C.C.P. §2025.450
+statutes:
+  - C.C.P. §2016.040
+  - C.C.P. §2025.280(a)
+  - C.C.P. §2025.450
+roles:
+  - Judge
+  - Plaintiff
+  - Defendant
+  - Counsel
+significant statements:
+  - Plaintiff did not appear for deposition
+  - Notice of Non-Appearance was taken
+  - Plaintiff was properly served with two deposition notices
+  - Plaintiff failed to produce documents
+```
+
+And here is the summary in English text:
+
+The tentative ruling states that the defendants' motion to compel the deposition of the plaintiff is granted. The plaintiff, Todd Beeson, is ordered to appear for deposition and produce documents within 10 days of the ruling. The defendants, Ivan Kutsevol, Alina Kutsevol, and Elena Talan, also requested sanctions against the plaintiff in the amount of $450, but this request was denied. The court found that the defendants did not meet and confer with the plaintiff's counsel before filing the motion. The plaintiff did not appear for two scheduled depositions and failed to produce documents, which is a violation of the court's rules. As a result, the court granted the defendants' motion to compel the deposition.

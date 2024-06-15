@@ -1,0 +1,62 @@
+Here is the summary in YAML format:
+
+```
+Case Number: 21SMCV01850
+Plaintiff's Name: Innerspin Marketing, LLC
+Defendant's Name: Consequent Capital Management, LLC
+People-Names:
+  - John C. Robinson (CEO of Defendant)
+  - Elcid Choi (President of Plaintiff and influential member of Defendant's board of managers)
+Company-Names:
+  - Innerspin Marketing, LLC
+  - Consequent Capital Management, LLC
+Places:
+  - None mentioned
+Dates:
+  - January 30, 2024 (judgment entered)
+  - March 10, 2021 (email from John Robinson)
+  - April 30, 2024 (hearing)
+  - June 13, 2024 (tentative ruling)
+Events:
+  - Jury trial
+  - Post-trial proceedings
+  - Motion for attorneys' fees
+Money:
+  - $448,000 (judgment amount)
+  - $89,800 (amount of attorneys' fees sought)
+Intentions:
+  - Plaintiff seeks to recover attorneys' fees for expenses incurred in proving the genuineness of documents and the truth of matters
+  - Defendant opposes the motion, arguing that it had reasonable grounds for denying admissions
+Facts:
+  - Defendant denied requests for admission regarding outstanding invoices and the amount owed to Plaintiff
+  - Plaintiff prevailed at trial, but Defendant presented evidence of its limited agreement to the contract and disputed the quality of IT services provided
+Disputes:
+  - Whether Defendant owed Plaintiff the outstanding balance on the invoices
+  - Whether Plaintiff fulfilled its obligations under the agreement
+  - Whether Defendant's CEO confirmed the amount owed to Plaintiff
+Acts:
+  - Defendant denied requests for admission
+  - Plaintiff prevailed at trial
+  - Defendant presented evidence at trial
+Agreements:
+  - Limited agreement to the contract for one month only
+  - Alleged misrepresentation by Plaintiff regarding its ability to provide IT services
+Laws:
+  - Code of Civil Procedure section 2033.420
+  - Code of Civil Procedure section 2033.290
+  - Orange County Water Dist. v. The Arnold Engineering Co. (2018)
+  - Stull v. Sparrow (2001)
+  - Wimberly v. Derby Cycle Corp. (1997)
+Statutes:
+  - Code of Civil Procedure section 2033.420
+  - Code of Civil Procedure section 2033.290
+Roles:
+  - Judge: Michael E. Whitaker
+  - Plaintiff: Innerspin Marketing, LLC
+  - Defendant: Consequent Capital Management, LLC
+Significant Statements:
+  - "The court shall make this order unless it finds any of the following: ... an objection to the request was sustained or a response to it was waived under Section 2033.290." (Code of Civil Procedure section 2033.420)
+  - "If a party fails to admit the genuineness of any document or the truth of any matter when requested to do so under this chapter, and if the party requesting that admission thereafter proves the genuineness of that document or the truth of that matter, the party requesting the admission may move the court for an order requiring the party to whom the request was directed to pay the reasonable expenses incurred in making that proof, including reasonable attorney's fees." (Code of Civil Procedure section 2033.420)
+```
+
+Note that some of the fields may not be directly applicable to this case, but I included them to maintain consistency with the YAML format.

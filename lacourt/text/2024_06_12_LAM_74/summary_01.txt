@@ -1,0 +1,99 @@
+Here is the summary of the tentative ruling in YAML format:
+
+```
+case_number: 23STCV24668
+hearing_date: June 12, 2024
+dept: 74 SAMAN
+plaintiffs:
+  - Saman Seneviratne (individually and as trustee)
+  - Wilma Seneviratne (individually and as trustee)
+  - Seneviratne Family Residence Trust of 2018 (trustee)
+defendants:
+  - Melvin Avanzado
+  - The Avanzado Law Firm
+  - Kirsch & Jansen, LLP
+  - Does 1 to 20
+people:
+  - Saman Seneviratne
+  - Wilma Seneviratne
+  - Melvin Avanzado
+Companies:
+  - The Avanzado Law Firm
+  - Kirsch & Jansen, LLP
+places:
+  - Los Angeles, CA
+  - 2601 Basil Lane, Los Angeles, CA 90077
+dates:
+  - October 10, 2023 (filing of complaint)
+  - February 7, 2024 (filing of First Amended Cross-Complaint)
+  - January 2023 (agreed-upon date for completion of purchase transaction)
+events:
+  - Breach of written contract
+  - Fraud and deceit
+  - Promissory estoppel
+  - Rescission
+  - Quiet title
+money:
+  - $996,000 (amount of debt secured by Deed of Trust)
+  - $1,150,000 (amount of debt secured by Deed of Trust)
+  - $26,000 (amount owed for equipment)
+intentions:
+  - Cross-Complainant's intention to deceive Cross-Defendants
+facts:
+  - Cross-Defendants failed to complete purchase transaction
+  - Cross-Complainant alleges fraudulent representations and promises
+  - Cross-Defendants took possession of equipment
+  - Cross-Complainant seeks rescission and damages
+disputes:
+  - Breach of contract
+  - Fraud
+  - Promissory estoppel
+  - Rescission
+acts:
+  - Demurrer
+  - Cross-Complainant's verified First Amended Cross-Complaint
+  - Demurrer to the first cause of action
+  - Demurrer to the second cause of action
+  - Demurrer to the third cause of action
+  - Demurrer to the fourth cause of action
+  - Demurrer to the fifth cause of action
+  - Demurrer to the sixth cause of action
+agreements:
+  - January 16, 2018 Residential Purchase Agreement and Joint Escrow Instructions
+  - "Rent to Own Agreement"
+laws:
+  - California Civil Code (CCP) 1624(a)(1)
+  - California Civil Code (CCP) 1624.5
+  - California Civil Code (CCP) 760.020
+citations:
+  - Aubry v. Tri-City Hospital Dist.
+  - Daar v. Yellow Cab Co.
+  - Hills Transp. Co. v. Sw. Forest Indus., Inc
+  - Lazar v. Superior Ct.
+  - Odorizzi v. Bloomfield School Dist.
+  - Small v. Fritz Companies, Inc.
+  - Wilhelm v. Pray, Price, Williams & Russell
+  - Wong v. Stoler
+  - Western Aggregates, Inc. v. County of Yuba
+  - Cansino v. Bank of America
+  - Lazar v. Superior Ct.
+  - Hills Transp. Co. v. Sw. Forest Indus., Inc
+  - Advanced Choices, Inc. v. State Dept. of Health Servs.
+  - Bird, Marella, Boxer & Wolpert v. Superior Court
+  - Nakash v. Superior Court
+roles:
+  - Judge
+  - Plaintiff
+  - Defendant
+  - Trustee
+  - Cross-Complainant
+  - Cross-Defendants
+significant statements:
+  - The Court rules that the demurrer to the first and second causes of action are sustained in part as it relates to Saman only.
+  - The Court rules that the demurrer to the third cause of action is overruled.
+  - The Court rules that the demurrer to the fourth cause of action is sustained with leave to amend.
+  - The Court rules that the demurrer to the fifth cause of action is overruled.
+  - The Court rules that the demurrer to the sixth cause of action is sustained with leave to amend.
+```
+
+Note that the YAML format is used to organize the information in a structured and machine-readable way. The fields are self-explanatory, and the values are drawn from the text of the tentative ruling.

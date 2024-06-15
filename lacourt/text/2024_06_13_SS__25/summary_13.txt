@@ -1,0 +1,63 @@
+Here is the summary in YAML format:
+
+```
+case_number: 2024-00001
+plaintiff: Los Angeles Federal Credit Union
+defendant: Prennella Johnson
+people:
+  - Mary Frances Adams
+  - Claudia Johnson
+  - Prennella Johnson
+company-names:
+  - Los Angeles Federal Credit Union
+places:
+  - Los Angeles
+dates:
+  - March 20, 2024
+  - April 9, 2024
+  - May 16, 2024
+  - May 20, 2024
+  - June 11, 2024
+  - September 20, 2023
+events:
+  - Complaint filed
+  - Demurrer filed
+  - Meet and confer ordered
+  - Hearing held
+  - Opposition filed
+  - Reply filed
+money:
+  - $8,713.22
+intention:
+  - To determine whether the Complaint states a cause of action
+facts:
+  - Prennella Johnson is the beneficiary of Mary Frances Adams's estate
+  - Mary Frances Adams died on September 20, 2023
+  - Prennella Johnson is liable for Mary Frances Adams's debts
+disputes:
+  - Whether the Complaint states a cause of action
+acts:
+  - The parties did not meet and confer as ordered
+agreements:
+  - None
+laws:
+  - Probate Code § 5672
+  - Probate Code § 5674
+  - Code Civ. Proc., § 430.10, subd. (e)
+  - Code Civ. Proc., § 430.41, subd. (a)
+case citations:
+  - E-Fab, Inc. v. Accountants, Inc. Servs. (2007) 153 Cal.App.4th 1308
+  - Blank v. Kirwan (1985) 39 Cal.3d 311
+  - People v. Terry (1974) 38 Cal.App.3d 432
+roles:
+  - Judge
+  - Plaintiff
+  - Defendant
+significant statements:
+  - The demurrer is overruled based on Defendant's failure to meet and confer with Plaintiff.
+  - The Complaint states facts sufficient to constitute a cause of action.
+```
+
+And here is the English text summarizing the judge's tentative ruling:
+
+The judge's tentative ruling states that the demurrer filed by Defendant Prennella Johnson is overruled. The judge finds that Defendant failed to meet and confer with Plaintiff Los Angeles Federal Credit Union as required by California Code of Civil Procedure Section 430.41. Even if the judge considered the demurrer on its merits, it would still overrule it because the Complaint has alleged facts sufficient to constitute a cause of action. The judge orders Defendant to file an answer or responsive pleading to the Complaint within 30 days.

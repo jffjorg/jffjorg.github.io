@@ -1,0 +1,56 @@
+Here is the summary in YAML format:
+
+```
+case_number: 19STCV15911
+plaintiff: Jane Doe
+defendant: College Hospital, Inc., ET AL
+people:
+  - Jane Doe
+  - McGrath
+companies:
+  - College Hospital, Inc.
+places:
+  - Cerritos
+dates:
+  - March 30, 2022
+  - March 7, 2023
+  - December 21, 2023
+  - February 19, 2024
+  - February 26, 2024
+  - May 21, 2024
+events:
+  - Deposition
+  - Motion to Compel Deposition Testimony
+money: $0
+intentions:
+  - Plaintiff seeks damages for premature discharge and related harm
+facts:
+  - Defendant continued Plaintiff's deposition on December 21, 2023
+  - Defendant moves to compel Plaintiff to produce documents
+  - Plaintiff filed a second amended complaint on March 7, 2023
+disputes:
+  - Defendant claims Plaintiff did not produce responsive documents
+  - Plaintiff argues document requests are duplicative
+acts:
+  - Defendant filed a motion to compel deposition testimony
+agreements:
+  - None
+laws:
+  - Code of Civil Procedure section 2025.480
+  - Code of Civil Procedure section 2025.450
+  - Code of Civil Procedure section 2016.040
+  - California Rule of Court, rule 3.1345
+  - Associated Brewers Dist. Co., Inc. v. Super. Ct. (Jos. Schlitz Brewing Co.)
+roles:
+  - Judge
+  - Plaintiff
+  - Defendant
+  - Deposition officer
+significant statements:
+  - The Court finds that Defendant has not shown good cause for a further order for production of the requested documents or a third deposition of Plaintiff.
+  - The motion to compel must be made no later than 60 days after the completion of the record of the deposition.
+```
+
+And here is the English-text summary:
+
+This tentative ruling denies the defendant's motion to compel further deposition testimony by plaintiff Jane Doe. The defendant's motion was filed on February 26, 2024, which is 7 days late, but the court will consider the merits of the motion. The defendant continues to argue that plaintiff failed to produce responsive documents during her deposition on December 21, 2023. However, the court finds that the defendant has not shown good cause for a further order for production of the requested documents or a third deposition of plaintiff. The court also notes that the document requests at issue are duplicative and were already litigated in a previous motion.

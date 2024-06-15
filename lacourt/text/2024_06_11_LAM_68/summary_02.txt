@@ -1,0 +1,86 @@
+Here is the YAML summary of the "tentative ruling" in English text and YAML format:
+
+**English Text Summary**
+
+The judge grants Woojoo Kim's motion to vacate the default and default judgment. The court finds that Woojoo Kim did not receive actual notice of the complaint and that the default judgment was obtained through mistake, inadvertence, and/or excusable neglect. The court also finds that Woojoo Kim diligently sought relief upon execution of the writ to the bank account and that the underlying collection unfairly imposes a hardship on Woojoo Kim, thereby warranting adjudication on the merits.
+
+**YAML Summary**
+
+```
+case_number: 22STCV15295
+plaintiff: Valley View-Santa Fe Springs LLC
+defendant: Woojoo Kim and Endotec, Inc.
+people:
+  - Woojoo Kim
+  - Young Dock Shim
+company_names:
+  - Valley View-Santa Fe Springs LLC
+  - Endotec, Inc.
+  - Korea Bone Bank Co., Ltd.
+places:
+  - Santa Fe Springs
+  - Fullerton
+dates:
+  - March 1, 2016
+  - February 28, 2021
+  - June 2020
+  - December 1, 2022
+  - December 19, 2022
+  - January 30, 2023
+  - February 16, 2023
+  - February 28, 2023
+  - July 20, 2023
+  - September 19, 2023
+  - October 11, 2023
+  - March 13, 2024
+  - March 19, 2024
+events:
+  - Breach of Contract
+  - Breach of Guaranty
+  - Default and Default Judgment
+  - Writ of Execution
+money:
+  - $16,451.10
+  - $32,227.66
+  - $3,655.80
+  - $15,135.46
+intentions:
+  - Vacate default and default judgment
+  - Set aside judgment
+facts:
+  - Woojoo Kim did not receive actual notice of the complaint
+  - Default judgment was obtained through mistake, inadvertence, and/or excusable neglect
+  - Woojoo Kim diligently sought relief upon execution of the writ to the bank account
+disputes:
+  - Validity of service
+  - Validity of notice
+  - Excusable neglect
+acts:
+  - Execution of guaranty
+  - Failure to respond to complaint
+  - Obtaining writ of execution
+  - Filing of motion to vacate default
+agreements:
+  - Lease agreement
+  - Guaranty
+  - Proof of service
+laws:
+  - California Code of Civil Procedure
+  - Evidence Code
+  - Business and Professions Code
+case_citations:
+  - Dill v. Berquist Const. Co., Inc. (1994)
+  - Floveyor Internat. v. Sup. Ct. (1997)
+  - Manson, Iver & York v. Black (2009)
+  - Rappleyea v. Campbell (1994)
+  - Kulchar v. Kulchar (1969)
+  - McCreadie v. Arques (1967)
+roles:
+  - Judge
+  - Plaintiff
+  - Defendant
+significant_statements:
+  - Woojoo Kim did not receive actual notice of the complaint
+  - Default judgment was obtained through mistake, inadvertence, and/or excusable neglect
+  - Woojoo Kim diligently sought relief upon execution of the writ to the bank account
+```

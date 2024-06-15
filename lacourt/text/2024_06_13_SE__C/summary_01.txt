@@ -1,0 +1,66 @@
+Here is the summary in YAML format:
+
+```
+---
+case_number: 20STCV22420
+plaintiff: BERNARDO SHAFFER
+defendant: K&M MEAT COMPANY, INC.
+people_names:
+  - BERNARDO SHAFFER
+  - FELIX GOLDBERG
+  - K&M MEAT COMPANY, INC.
+company_names:
+  - K&M MEAT COMPANY, INC.
+places:
+  - Norwalk Court
+  - Dept. SE-C
+  - Dept. SE-F
+dates:
+  - June 12, 2020
+  - February 29, 2024
+  - April 25, 2024
+  - May 28, 2024
+events:
+  - Plaintiff's Acceptance of Defendant's CCP §998 Offer
+  - Plaintiff's Motion for Reconsideration
+  - Plaintiff's Renewed Motion to Enforce Settlement
+  - Defendant's Motion for Reconsideration
+  - Defendant's Motion for Summary Judgment
+  - OSC re Dismissal
+money:
+  - $60,000.00
+intentions:
+  - Plaintiff seeks to enforce settlement agreement
+  - Defendant seeks reconsideration of settlement agreement
+facts:
+  - Plaintiff was injured on Defendant's property
+  - Defendant negligently installed and/or maintained floor of second story
+  - Plaintiff sustained injury due to Defendant's negligence
+disputes:
+  - Plaintiff's Motion for Reconsideration vs. Defendant's opposition
+  - Plaintiff's Renewed Motion to Enforce Settlement vs. Defendant's opposition
+acts:
+  - Plaintiff accepted Defendant's CCP §998 Offer
+  - Defendant delivered CCP §998 Offer
+  - Plaintiff filed written acceptance of Defendant's CCP §998 Offer
+  - Defendant filed objection to Plaintiff's proposed judgment
+  - Plaintiff filed motion to enforce settlement agreement
+laws:
+  - CCP § 998
+  - CCP § 664.6
+  - CCP § 1008
+  - California Code of Civil Procedure
+statutes:
+  - CCP § 998
+  - CCP § 664.6
+  - CCP § 1008
+roles:
+  - Judge Olivia Rosales
+  - Plaintiff BERNARDO SHAFFER
+  - Defendant K&M MEAT COMPANY, INC.
+significant_statements:
+  - "The Court has reviewed the terms of the Offer and finds that any such conditions stated therein are not expressly termed as conditions for acceptance."
+  - "The parties govern the nature of the 'judgment' to be entered."
+```
+
+This summary captures the key points of the tentative ruling, including the parties involved, the facts of the case, the disputes, and the relevant laws and statutes.

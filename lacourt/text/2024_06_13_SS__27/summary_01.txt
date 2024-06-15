@@ -1,0 +1,62 @@
+Here is the summary in YAML format:
+
+```
+case_number: 20STCV21873
+plaintiff: Neome Velasquez
+defendant: Whole Foods Market Group
+parties:
+  - La Caze Development Company
+  - Rolling Hills Plaza LLC
+places:
+  - California
+dates:
+  - June 10, 2020
+  - March 9, 2024
+  - March 22, 2024
+  - April 24, 2024
+  - March 28, 2025
+  - March 13, 2025
+  - January 21, 2025
+  - May 5, 2025
+  - April __, 2025
+events:
+  - Trial
+  - Motion to Continue Trial
+  - Motion for Summary Judgment
+  - Doe Amendment
+money: $0
+intentions:
+  - Continue trial
+  - Hear summary judgments
+facts:
+  - Plaintiff filed a trip and fall case
+  - Defendant La Caze filed a Motion for Summary Judgment
+  - Defendant Rolling Hills filed a Motion for Summary Judgment
+disputes:
+  - Trial date
+  - Hearing dates
+acts:
+  - Plaintiff filed a Doe Amendment
+  - Defendant La Caze filed a Motion for Summary Judgment
+  - Defendant Rolling Hills filed a Motion for Summary Judgment
+agreements:
+  - None
+laws:
+  - Code of Civil Procedure section 437c
+  - Sentry Ins. Co. v. Superior Court (1989)
+  - First State Inc. Co. v. Superior Court (2000)
+statutes:
+  - Code of Civil Procedure
+roles:
+  - Judge: Hon. Lee S. Arian
+  - Plaintiff: Neome Velasquez
+  - Defendant: Whole Foods Market Group
+  - Defendant: La Caze Development Company
+  - Defendant: Rolling Hills Plaza LLC
+significant statements:
+  - "A trial court may not refuse to hear a summary judgment filed within the time limits of [Code of Civil Procedure] section 437c."
+```
+
+And here is the English text to summarize the judge's tentative ruling:
+
+The Court has granted the Motion to Continue Trial, setting the new trial date for May 5, 2025. The Motion for Summary Judgment (MSJ) hearings will be held at least 30 days prior to the new trial date. The current trial date was set for January 21, 2025. The Court finds that continuing the trial to accommodate the MSJ hearings constitutes good cause. The Final Status Conference is continued to April __, 2025. Parties are encouraged to submit their responses to this tentative ruling by email or appear remotely or in person for oral argument.

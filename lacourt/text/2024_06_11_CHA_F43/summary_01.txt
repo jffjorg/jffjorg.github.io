@@ -1,0 +1,58 @@
+Here is the summary in YAML format:
+
+```yaml
+Case Number: 23CHCV02432
+Plaintiff's Name: Juan Parra Ospina
+Defendant's Name: Dana Smaldino-Holroyd
+People-Names:
+  - Juan Parra Ospina
+  - Dana Smaldino-Holroyd
+Company-Names: None
+Places:
+  - California
+Dates:
+  - 9/11/2022 (incident date)
+  - 12/18/2023 (request for production date)
+  - 2/15/2024 (Plaintiff's response date)
+  - 3/12/2024 (meet and confer letter date)
+  - 3/28/2024 (further response date)
+  - 4/17/2024 (motion to compel date)
+  - 6/11/2024 (hearing date)
+  - 3/17/2025 (trial date)
+Events:
+  - Motor vehicle collision
+  - Request for production
+  - Motion to compel
+  - Meet and confer
+  - Request for sanctions
+Money: $615
+Intentions:
+  - To compel further response to request for production
+  - To request sanctions
+Facts:
+  - Plaintiff and defendant were involved in a motor vehicle collision
+  - Defendant requested production of certain documents
+  - Plaintiff objected to the request
+  - Defendant filed a motion to compel further response
+Disputes:
+  - Overbreadth of request
+  - Invasion of privacy
+  - Relevance of information
+Acts:
+  - Request for production
+  - Objection to request
+  - Motion to compel
+  - Meet and confer
+Agreements:
+  - None
+Laws:
+  - Code of Civil Procedure (CCP) sections 2031.010, 2031.030, 2031.210, 2031.240
+Statutes:
+  - CCP sections 2031.010, 2031.030, 2031.210, 2031.240
+Roles:
+  - Judge
+Significant Statements:
+  - The discovery request is overbroad and invades plaintiff's privacy
+  - The request is relevant and likely to lead to the discovery of admissible evidence
+  - The court grants defendant's motion to compel further response, but only for call records 15 minutes before and after the incident
+  - No sanctions will be imposed on either party

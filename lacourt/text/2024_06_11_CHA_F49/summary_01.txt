@@ -1,0 +1,85 @@
+Here is a YAML summary of the "Tentative Ruling":
+
+```
+case_number: 22CHCV01109
+plaintiff: Michael M. Abassia
+defendant: Uber Technologies, Inc., Andre Anderson, Samantha Rutledge
+people:
+  - Michael M. Abassia
+  - Andre Anderson
+  - Samantha Rutledge
+company-names:
+  - Uber Technologies, Inc.
+  - GEICO
+places:
+  - Los Angeles
+  - Granada Hills
+  - Balboa Avenue
+  - Jolette Avenue
+dates:
+  - 2022-09-20 (accident date)
+  - 2022-11-09 (complaint filed)
+  - 2022-12-27 (answers filed)
+  - 2023-01-04 (answers filed)
+  - 2023-02-03 (answer filed)
+  - 2024-03-20 (application filed)
+  - 2024-04-15 (motion filed)
+  - 2024-05-28 (opposition filed)
+  - 2024-06-11 (tentative ruling)
+events:
+  - Motor Vehicle accident
+  - Complaint filed
+  - Answers filed
+  - Cross-complaint filed
+  - Application for determination of good faith settlement
+  - Motion to contest good faith settlement
+money:
+  - $15,000 (settlement amount)
+  - $8,958.20 (medical damages)
+  - $1,519 (treatment costs)
+  - $8,277.12 (loss of earnings)
+  - $18,754.32 (total damages)
+  - $265,000 (estimated total damages)
+intentions:
+  - Determine good faith of settlement
+  - Contest good faith of settlement
+facts:
+  - Accident occurred on September 20, 2022
+  - Plaintiff sustained injuries and damages
+  - Defendant/Cross-Defendant Rutledge entered into settlement with Plaintiff
+  - Defendant/Cross-Complainant Anderson contests good faith of settlement
+disputes:
+  - Good faith of settlement
+  - Liability of Defendant/Cross-Defendant Rutledge
+  - Liability of Defendant/Cross-Complainant Anderson
+acts:
+  - Application for determination of good faith settlement filed
+  - Motion to contest good faith settlement filed
+agreements:
+  - Settlement and Release
+laws:
+  - Code of Civil Procedure section 877.6
+  - Vehicle Code section 21453
+  - Vehicle Code section 21801
+case_citations:
+  - Mattco Forge, Inc. v. Arthur Young & Co. (1995) 38 Cal.App.4th 1337
+  - Tech-Bilt (1988) 46 Cal.3d 796
+  - Far West Financial Corp. v. D&S Co. (1988) 46 Cal.3d 796
+  - City of Grand Terrace v. Superior Court (1987) 192 Cal.App.3d 1251
+  - Cahill v. San Diego Gas & Electric Co. (App. 4 Dist. 2011) 194 Cal.App.4th 939
+  - North County Contractor’s Assn. v. Touchstone Ins. Services (1994) 27 Cal.App.4th 1085
+  - Dole Food Co., Inc. v. Superior Court (2015) 242 Cal.App.4th 894
+  - Vehicle Code section 21453
+  - Vehicle Code section 21801
+roles:
+  - Judge
+  - Plaintiff
+  - Defendant
+  - Defendant/Cross-Defendant
+  - Defendant/Cross-Complainant
+significant_statements:
+  - "The determination as to whether a settlement is in good faith is a matter left to the discretion of the trial court."
+  - "Judges should . . . not yearn for the unreal goal of mathematical certainty."
+```
+
+Note that this summary is a simplified version of the original document, and some details may have been omitted or condensed for brevity.

@@ -1,0 +1,63 @@
+Here is the YAML representation of the judicial document:
+
+```
+case_number: 21STCV04930
+plaintiff: Toyota Motor Sales U.S.A., Inc.
+defendant: Paragon Relocation Resources, Inc. and Paragon Global Resources, Inc.
+people:
+  - Morabito
+  - Braun
+  - Lewis
+companies:
+  - Toyota Motor Sales U.S.A., Inc.
+  - Paragon Relocation Resources, Inc.
+  - Paragon Global Resources, Inc.
+  - Paragon Relocation
+places:
+  - California
+  - United States
+dates:
+  - February 13, 2024
+  - June 13, 2024
+events:
+  - Breach of contract
+  - Conversion
+  - Unjust enrichment
+  - Bankruptcy
+money:
+  - Relocation Services Agreement
+intentions:
+  - Request for judicial notice
+  - Request for summary judgment
+facts:
+  - Toyota sued Paragon Relocation and Paragon Global for breach of contract, conversion, and unjust enrichment
+  - Paragon Relocation filed for bankruptcy, so the motion for summary judgment proceeds against Paragon Global only
+disputes:
+  - Whether Paragon Global is a party to the Relocation Services Agreement
+  - Whether Paragon Global is entitled to an offset defense
+acts:
+  - Toyota filed a motion for summary judgment
+  - Paragon Global filed a notice of bankruptcy
+  - The court granted Paragon Global's request for judicial notice
+agreements:
+  - Relocation Services Agreement
+laws:
+  - Evidence Code, § 452
+  - Code of Civil Procedure, § 431.70
+  - Evidence Code, § 452(h)
+statutes:
+  - California Evidence Code
+  - California Code of Civil Procedure
+roles:
+  - Judge
+  - Plaintiff (Toyota)
+  - Defendant (Paragon Relocation and Paragon Global)
+significant_statements:
+  - The court denies Toyota's motion for summary judgment
+  - The court denies Toyota's motion for summary adjudication
+  - The court grants Paragon Global's request for judicial notice
+```
+
+And here is a summary of the judge's tentative ruling in English text:
+
+The court has denied Toyota's motion for summary judgment and summary adjudication. The motion was filed against Paragon Relocation and Paragon Global for breach of contract, conversion, and unjust enrichment. However, Paragon Relocation filed for bankruptcy, so the motion proceeds only against Paragon Global. The court granted Paragon Global's request for judicial notice of the company's Articles of Incorporation. The court found that a triable issue exists regarding whether Paragon Global is a party to the Relocation Services Agreement and whether it is entitled to an offset defense. The court denied Toyota's motion for summary adjudication of breach of contract, conversion, and unjust enrichment claims, as the claims rely on the premise that Paragon Global is the same entity as Paragon Relocation, which is a triable issue.

@@ -1,0 +1,70 @@
+Here is the summary in YAML format:
+
+```
+case_number: 23STLC00357
+plaintiff: State Farm Mutual Automobile Insurance Company
+defendant: Antonio Hernandez Perez
+people:
+  - Antonio Hernandez Perez
+  - Yulsa Gonzales
+  - Yulis Asucely Escobar Gonzalez
+company:
+  - State Farm Mutual Automobile Insurance Company
+places:
+  - California
+dates:
+  - January 18, 2023
+  - December 11, 2023
+  - April 23, 2024
+  - June 11, 2024
+  - June 13, 2024
+events:
+  - Filing of lawsuit
+  - Filing of answer
+  - Motion to deem requests for admission admitted
+  - Request for sanctions
+money:
+  - $8,655.16
+  - $360.00
+intentions:
+  - To deem requests for admission admitted
+  - To impose sanctions
+facts:
+  - Plaintiff filed lawsuit against defendant
+  - Defendant failed to respond to requests for admission
+  - Plaintiff seeks sanctions for defendant's failure
+disputes:
+  - Lack of response to requests for admission
+  - Misuse of discovery process
+acts:
+  - Filing of lawsuit
+  - Filing of answer
+  - Filing of motion to deem requests for admission admitted
+  - Request for sanctions
+agreements:
+  - Code of Civil Procedure section 2033.280
+  - Code of Civil Procedure section 2033.280, subdivision (c)
+  - Code of Civil Procedure section 2023.030, subdivision (a)
+  - Code of Civil Procedure section 2033.280, subdivision (b)
+laws:
+  - Code of Civil Procedure
+  - California Code of Civil Procedure
+case_citations:
+  - Code Civ. Proc., § 2033.250, subd. (a)
+  - Code Civ. Proc., § 2033.280, subd. (a)
+  - Code Civ. Proc., § 2033.280, subd. (c)
+  - Code Civ. Proc., § 2023.010, subd. (d)
+  - Code Civ. Proc., § 2033.280, subd. (b)
+roles:
+  - Plaintiff
+  - Defendant
+  - Judge
+significant_statements:
+  - Plaintiff's motion to deem requests for admission admitted is granted
+  - Plaintiff's request for sanctions is granted in the amount of $360.00
+  - Defendant's failure to respond to requests for admission is deemed a misuse of the discovery process
+```
+
+And here is a summary of the judge's tentative ruling in English text:
+
+The plaintiff, State Farm Mutual Automobile Insurance Company, has filed a motion to deem requests for admission admitted against the defendant, Antonio Hernandez Perez. The defendant failed to respond to the requests for admission, which were served on January 5, 2024. The plaintiff is entitled to an order deeming the requests for admission admitted against the defendant. Additionally, the court finds that the defendant's failure to respond to the requests for admission is a misuse of the discovery process and imposes a monetary sanction of $360.00 on the defendant. The court grants the plaintiff's motion and imposes the sanction.

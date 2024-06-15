@@ -1,0 +1,54 @@
+Here is the summary in YAML format:
+
+```
+case:
+  number: 23STCV13803B
+  plaintiff: Virginia Hoge
+  defendant: Google LLC
+  opposing_party: None
+  moving_party: Defendant Google LLC
+  motions:
+    - Demurrer to Complaint
+  events:
+    - Removed to federal court
+    - Dismissed claims based on federal law
+    - Remanded claims to California court
+  dates:
+    - February 26, 2024: Notice of Remand
+    - June 10, 2024: Hearing Date
+  people:
+    - Virginia Hoge
+    - Chris Tolles
+    - Eric Schmidt
+  places: None
+  intentions:
+    - To sustain or reject the demurrer to the complaint
+  facts:
+    - Plaintiff alleges cyber spying and cyber harassment
+    - Defendant demurs to the complaint
+  disputes:
+    - Uncertainty of the complaint
+  acts:
+    - Filing of the complaint
+    - Removal to federal court
+    - Dismissal of claims based on federal law
+  agreements: None
+  laws:
+    - California Rules of Court, rule 2.112
+    - Code Civ. Proc., § 452
+    - Lewis v. Safeway, Inc. (2015)
+    - Perez v. Golden Empire Transit Dist. (2012)
+  statutes: None
+  significant_statements:
+    - "It is black letter law that a demurrer tests the legal sufficiency of the allegations in a complaint."
+    - "This rule of liberal construction means that the reviewing court draws inferences favorable to the plaintiff, not the defendant."
+  roles:
+    - Judge: Ruling on the demurrer to the complaint
+  citations:
+    - Lewis v. Safeway, Inc. (2015)
+    - Perez v. Golden Empire Transit Dist. (2012)
+```
+
+And here is the summary in English text:
+
+The Judge's tentative ruling is that the defendant's demurrer to the complaint is sustained with leave to amend. The Plaintiff, Virginia Hoge, alleges cyber spying and cyber harassment by the defendant, Google LLC. The defendant removed the case to federal court, where the claims based on federal law were dismissed and the remaining claims were remanded to the California court. The Plaintiff fails to specify which causes of action they assert against the defendant and which allegations about the defendant support those causes of action, making the complaint uncertain. The Judge orders the Plaintiff to file an amended complaint within 10 days and for the defendant to provide notice and proof of service.

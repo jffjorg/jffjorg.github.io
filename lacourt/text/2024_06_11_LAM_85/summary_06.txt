@@ -1,0 +1,72 @@
+Here is the YAML summary:
+
+```
+case_number: "Unknown"
+plaintiff: "Garner"
+defendant: "Bank"
+people_names:
+  - Garner
+  - Bank's counsel
+company_names:
+  - Bank
+places:
+  - California
+dates:
+  - Unknown
+  - 1983
+  - 1999
+  - 2015
+events:
+  - Failure to provide courtesy copy of opposition
+  - Request for judicial notice
+  - Request for preliminary injunction
+  - Loan modification application
+  - Foreclosure
+money:
+  - Unknown
+intentions:
+  - To determine the substance of an injunction
+  - To grant a mandatory injunction
+  - To maintain the status quo
+facts:
+  - Bank failed to provide courtesy copy of opposition
+  - Bank's request for judicial notice granted
+  - HOBR violation is material
+disputes:
+  - Standing argument
+  - Materiality of HOBR violation
+acts:
+  - Failure to provide courtesy copy of opposition
+  - Request for judicial notice
+  - Request for preliminary injunction
+agreements:
+  - Presiding Judge's First Amended General Order on Electronic Filing
+  - CCP §526(a)(3)
+  - Evid. Code §452(d)
+  - CRC 3.1113(i)
+laws:
+  - Agricultural Labor Relations Bd. v. Superior Court (1983)
+  - Teachers Ins. & Annuity Assoc. v. Furlotti (1999)
+  - Cornejo v. Ocwen Loan Servicing, LLC (E.D. Cal. 2015)
+  - Civil Code §2924.12(a)(1)
+  - CCP §526(a)(3)
+  - Evid. Code §452(d)
+  - CRC 3.1113(i)
+roles:
+  - Presiding Judge
+  - Bank's counsel
+  - Garner
+significant_statements:
+  - A mandatory injunction carries a heavy burden
+  - A court may issue an injunction to maintain the status quo without a cause of action in the complaint
+```
+
+And here is the English-text summary:
+
+The judge's tentative ruling addresses several issues in this case. First, the Bank is admonished for failing to provide a courtesy copy of its opposition, including its 82-page Request for Judicial Notice, in violation of the Presiding Judge's First Amended General Order on Electronic Filing. The judge notes that the Bank's counsel should provide courtesy copies in all future matters in this case.
+
+The judge also addresses the substance of an injunction, citing to Agricultural Labor Relations Bd. v. Superior Court (1983) and Teachers Ins. & Annuity Assoc. v. Furlotti (1999). The judge notes that a mandatory injunction carries a heavy burden and that a court may issue an injunction to maintain the status quo without a cause of action in the complaint.
+
+The judge grants the Bank's request for judicial notice of Garner's bankruptcy filings (Exs. 1-3) and finds that a material HOBR violation, such as the Bank's failure to act on Garner's loan modification application before foreclosure, can support a preliminary injunction.
+
+The judge also addresses the standing argument, noting that while CCP §526(a)(3) does not mandate hard copies of non-California authority without a court order, it is a good practice to provide them to the court.

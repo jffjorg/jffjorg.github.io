@@ -1,0 +1,53 @@
+Here is the summary in YAML format:
+
+```
+case_number: 22STCV28222
+plaintiff: Norma Gallardo Garcia
+defendant: City of Inglewood
+people_names:
+  - Norma Gallardo Garcia
+  - Lee S. Arian
+company_names: []
+places:
+  - City of Inglewood
+dates:
+  - August 30, 2022
+  - May 8, 2024
+  - August 27, 2024
+  - February 21, 2025
+  - June 13, 2024
+events:
+  - Trial
+  - Motion to continue trial
+  - Motion for summary judgment
+money: []
+intentions:
+  - Continue trial to hear motion for summary judgment
+facts:
+  - Plaintiff filed a trip and fall case on August 30, 2022
+  - Defendant filed a motion for summary judgment on May 8, 2024
+  - Current trial date is August 27, 2024
+  - Defendant wants to continue trial to hear motion for summary judgment
+disputes:
+  - Timeliness of motion for summary judgment
+  - Need to hear motion for summary judgment before trial
+acts:
+  - Filing of motion for summary judgment
+  - Filing of motion to continue trial
+agreements: []
+laws:
+  - Code of Civil Procedure section 437c
+  - Sentry Ins. Co. v. Superior Court (1989)
+  - First State Inc. Co. v. Superior Court (2000)
+statutes: []
+roles:
+  - Judge: Hon. Lee S. Arian
+significant_statements:
+  - "A trial court may not refuse to hear a summary judgment filed within the time limits of [Code of Civil Procedure] section 437c."
+  - "Continuing the trial so the MSJ can be heard constitutes good cause."
+  - "The MSJ is timely when it is filed 105 days before trial (75 days before the hearing and 30 days before trial (CCP § 437c(a))."
+```
+
+And here is a summary of the judge's tentative ruling in English:
+
+Judge Hon. Lee S. Arian has issued a tentative ruling granting the defendant's motion to continue the trial date to allow for a hearing on the motion for summary judgment. The defendant filed the motion for summary judgment on May 8, 2024, and the trial date is currently set for August 27, 2024. The judge finds that the motion for summary judgment is timely and that continuing the trial to hear it is good cause. The new trial date is set for May __, 2025, at 8:30 a.m. The judge also sets the final status conference for May __, 2025, at 10:00 a.m. Note that fact discovery will not follow the new trial date, but parties may file a motion or stipulation to reopen discovery if necessary.

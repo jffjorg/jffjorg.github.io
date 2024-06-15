@@ -1,0 +1,49 @@
+Here is the YAML summary of the tentative ruling:
+
+```
+case_number: 24TRCP00103
+hearing_date: 2024-06-12
+department: B
+court: Superior Court of California
+county: Los Angeles
+district: Southwest
+location: Torrance
+
+parties:
+- name: Interinsurance Exchange of the Automobile Club (Petitioner)
+  role: Petitioner
+- name: Nadia Weiss (Respondent)
+
+motion:
+  type: Motion to Compel Responses to Form Interrogatories, Set One
+  type: Motion to Compel Further Responses to Special Interrogatories, Set One
+  type: Motion to Compel Further Responses to Requests for Production of Documents, Set One
+
+ruling:
+  motion_to_compel_responses_to_form_interrogatories: GRANTED
+  motion_to_compel_further_responses_to_special_interrogatories: GRANTED
+  motion_to_compel_further_responses_to_requests_for_production_of_documents: GRANTED in part
+  sanctions: $2280 against Nadia Weiss and her attorney of record
+
+facts:
+  - Petitioner served written discovery on December 14, 2023
+  - Respondent failed to serve responses to Form Interrogatories, Set One
+  - Respondent failed to serve verifications as to her responses to Special Interrogatories, Set One and Requests for Production of Documents, Set One
+  - Respondent failed to produce responsive documents as to Nos. 21, 30, 31, 33, 36, 38, 40, 41, 42, and 44
+
+legislation:
+  - CCP § 2030.290(b)
+  - CCP § 2030.220
+  - CCP § 2031.310(b)(2)
+  - CCP § 2031.220
+  - CCP § 2031.310(a)
+  - CCP § 2031.310(b)(1)
+
+notes:
+  - The court awards sanctions against respondent Nadia Weiss and her attorney of record in the amount of $2280
+  - The moving party is ordered to give notice of the ruling
+```
+
+Here is a brief English summary of the tentative ruling:
+
+The court rules in favor of the petitioner, ordering respondent Nadia Weiss to respond to form interrogatories, set one, and to respond further to special interrogatories, nos. 14, 39, 40, 41, and 42. The court also orders Weiss to produce responsive documents as to request for production of documents, set one, no. 12. The court awards sanctions against Weiss and her attorney of record in the amount of $2280.

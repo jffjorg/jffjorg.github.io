@@ -1,0 +1,68 @@
+Here is a summary of the Tentative Ruling in YAML format:
+
+```
+case_number: 23CHCV02813
+case_name: Elliott Wolfe vs. Judith Wolfe, et al.
+judge: [Judge's Name]
+hearing_date: June 14, 2024
+department: F43
+```
+
+```
+parties:
+  plaintiff: Elliott Wolfe
+  defendant: Judith Wolfe
+  defendant: Henry Mayo Newhall Memorial Hospital
+```
+
+```
+facts:
+  - date: September 19, 2023
+    event: Plaintiff filed a complaint with six causes of action
+  - date: October 23, 2023
+    event: Defendant filed a demurrer
+  - date: February 29, 2024
+    event: Demurrer sustained with leave to amend
+  - date: March 5, 2024
+    event: Plaintiff filed a First Amended Complaint
+  - date: April 24, 2024
+    event: Defendant filed a second demurrer
+  - date: May 1, 2024
+    event: Defendant filed a motion to strike
+  - date: May 3, 2024
+    event: Defendant filed a notice of motion to strike
+```
+
+```
+issues:
+  - cause of action: Assault
+    demurrer: Sustained with leave to amend
+  - cause of action: Battery
+    demurrer: Sustained with leave to amend
+  - cause of action: Intentional Infliction of Emotional Distress
+    demurrer: Sustained with leave to amend
+  - cause of action: Elder Abuse
+    demurrer: Sustained with leave to amend
+  - motion to strike: Granted
+  - punitive damages: Stricken
+  - attorney fees: Stricken
+```
+
+```
+laws:
+  - CCP § 430.30(a)
+  - CCP § 452
+  - CCP § 436(a)
+  - Civ. Code § 3294
+  - CCP § 1021
+  - Welfare & Institutions Code § 15657(a)
+```
+
+```
+conclusion:
+  - Defendant's demurrer is sustained with leave to amend for Plaintiff's First, Second, Fifth, and Sixth Causes of Action.
+  - Defendant's motion to strike is granted.
+  - Plaintiff has 30 days to file an Amended Complaint.
+```
+
+Please note that the above summary is a concise representation of the tentative ruling, and the actual ruling may vary.

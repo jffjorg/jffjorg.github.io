@@ -1,0 +1,69 @@
+Here is a summary of the tentative ruling in YAML format:
+
+```
+---
+case_number: 23PSCV03769
+plaintiff: Kelly Chang
+defendant: Sistine Manor, Inc. dba Springville Residential Care for the Elderly
+people:
+  - Kung Alan Chang (decedent)
+  - Kelly Chang (plaintiff)
+  - Sherry Lin
+  - Thomas Chang
+  - Shu Ping Chang
+  - Lu Shang Chang
+company:
+  - Sistine Manor, Inc.
+  - Springville Residential Care for the Elderly
+places:
+  - Springville
+dates:
+  - November 2, 2022 (filing of complaint)
+  - December 5, 2023 (filing of first amended complaint)
+  - May 2, 2024 (filing of motion to strike)
+  - May 7, 2024 (filing of demurrer)
+  - June 5, 2024 (filing of opposition to demurrer)
+events:
+  - Demurrer to the first amended complaint
+  - Motion to strike punitive damages and attorney's fees
+money:
+  - attorney's fees
+  - punitive damages
+intentions:
+  - To sustain the demurrer to the first cause of action
+  - To strike the requests for punitive damages and attorney's fees
+facts:
+  - Decedent Kung Alan Chang was a resident at Springville Residential Care for the Elderly
+    and died as a result of alleged elder abuse and neglect
+  - Defendant allegedly failed to provide proper care and attention to the decedent
+  - Plaintiff alleges that the defendant's actions caused the decedent's death
+disputes:
+  - Whether the defendant is liable for the decedent's death
+  - Whether the plaintiff has standing to bring the claim
+acts:
+  - Filing of the first amended complaint
+  - Filing of the demurrer
+  - Filing of the motion to strike
+  - Filing of the opposition to the demurrer
+agreements:
+  - Code of Civil Procedure section 430.41
+  - Code of Civil Procedure section 435.5
+  - Welfare and Institutions Code section 15657
+  - Civil Code section 3294
+  - Code of Civil Procedure section 425.13
+laws:
+  - Code of Civil Procedure section 430.41
+  - Code of Civil Procedure section 435.5
+  - Welfare and Institutions Code section 15657
+  - Civil Code section 3294
+  - Code of Civil Procedure section 425.13
+roles:
+  - Plaintiff (Kelly Chang)
+  - Defendant (Sistine Manor, Inc. dba Springville Residential Care for the Elderly)
+  - Judge (issuing the tentative ruling)
+significant statements:
+  - The tentative ruling sustains the demurrer to the first cause of action without leave to amend
+  - The tentative ruling grants the motion to strike the requests for punitive damages and attorney's fees
+```
+
+Note that this summary is based on the provided text and may not be a comprehensive or exhaustive summary of the case.

@@ -1,0 +1,70 @@
+Here is the summary in YAML format:
+
+```
+case_number: 22STCV15119
+plaintiff: Gideon Adame
+defendant: JPMorgan Chase Bank, National Association
+people:
+  - Adam (Mohammed Adam)
+companies:
+  - JPMorgan Chase Bank, National Association
+  - JPMorgan Chase Bank, N.A.
+places:
+  - Northridge
+dates:
+  - May 6, 2022
+  - June 16, 2022
+  - June 23, 2022
+  - July 5, 2023
+  - May 22, 2024
+  - June 4, 2024
+  - June 10, 2024
+  - July 29, 2024
+events:
+  - Plaintiff files complaint
+  - Defendant files answer
+  - Defendant files cross-complaint
+  - Defendant files motion for summary judgment
+  - Plaintiff files opposition
+  - Defendant files reply
+money: $0 (no monetary damages mentioned)
+intentions:
+  - Defendant to grant summary judgment
+  - Plaintiff to deny motion
+facts:
+  - Plaintiff visited Defendant's banking premises on June 18, 2021
+  - Adam threw an object at Plaintiff, injuring him
+  - Defendant did not take measures to prevent the incident
+  - Adam's conduct was unforeseeable
+disputes:
+  - Whether Defendant had a duty to protect Plaintiff from Adam's conduct
+  - Whether Defendant's employment of a security guard imposed a duty to protect customers
+acts:
+  - Plaintiff visited Defendant's premises
+  - Adam threw an object at Plaintiff
+  - Defendant did not take measures to prevent the incident
+agreements:
+  - None mentioned
+laws:
+  - California Civil Code section 1714
+  - California Civil Code section 437c
+  - Rowland v. Christian (1968) 69 Cal.2d 108
+  - Ann M. v. Pacific Plaza Shopping Center (1993) 6 Cal.4th 666
+  - Vasilenko v. Grace Family Church (2017) 3 Cal.5th 1077
+  - Delgado v. Trax Bar & Grill (2005) 36 Cal.4th 224
+  - Castaneda v. Olsher (2007) 41 Cal.4th 1205
+  - Hanouchian v. Steele (2020) 51 Cal.App.5th 99
+roles:
+  - Judge
+  - Plaintiff
+  - Defendant
+significant statements:
+  - Defendant had no duty to protect Plaintiff from Adam's conduct
+  - Plaintiff did not raise a triable issue of fact
+  - Defendant carried its initial burden on summary judgment
+  - Plaintiff had no evidence to support its claims
+```
+
+And here is a summary of the judge's tentative ruling in English text:
+
+The judge grants the defendant's motion for summary judgment. The defendant argues that it had no duty to protect the plaintiff from the defendant's conduct. The judge finds that the defendant did not have a duty to protect the plaintiff because the defendant did not increase the risk of harm to the plaintiff by hiring a security guard or taking other measures to prevent harm. The judge also finds that the plaintiff did not raise a triable issue of fact regarding whether the defendant could have foreseen the defendant's conduct. Therefore, the judge concludes that the defendant had no duty to protect the plaintiff from the defendant's conduct.

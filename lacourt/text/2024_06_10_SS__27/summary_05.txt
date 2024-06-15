@@ -1,0 +1,58 @@
+Here is the YAML summary of the legal document:
+
+```
+case-number: 21STCV36962
+plaintiff-name: Jennifer Chen
+defendant-name: Jason Raich
+people-names:
+  - David Berke
+  - Jennifer Chen
+  - Jason Raich
+company-names: []
+places:
+  - Los Angeles
+dates:
+  - June 10, 2024
+  - September 30, 2024
+events:
+  - Motion to be relieved as counsel
+  - Hearing on June 10, 2024
+money: []
+intentions:
+  - To withdraw as counsel
+facts:
+  - Breakdown in attorney-client communication
+  - Material breach of retainer agreement
+disputes:
+  - None (unopposed)
+acts:
+  - Berke moves to be relieved as counsel
+agreements:
+  - Retainer agreement
+laws:
+  - California Rules of Court, Rule 3.1362
+  - California Rules of Professional Conduct, Rule 1.16(b) (5)
+  - Ramirez v. Sturdevant (1994)
+  - People v. Prince (1968)
+  - Estate of Falco (1987)
+case-citations:
+  - Ramirez v. Sturdevant (1994)
+  - People v. Prince (1968)
+  - Estate of Falco (1987)
+statutes:
+  - California Rules of Court, Rule 3.1362
+  - California Rules of Professional Conduct, Rule 1.16(b) (5)
+roles:
+  - Judge: Hon. Lee S. Arian
+  - Counsel: David Berke
+  - Plaintiff: Jennifer Chen
+  - Defendant: Jason Raich
+significant-statements:
+  - Berke seeks to be relieved as counsel due to breakdown in attorney-client communication and material breach of retainer agreement
+  - The Court will hear from the parties on June 10, 2024
+  - The motion lacks a declaration stating whether the electronic service address used is current
+```
+
+And here is a summary of the judge's tentative ruling in English text:
+
+The judge has tentatively ruled that David Berke, counsel for the plaintiff, may withdraw as counsel due to an irremediable breakdown in attorney-client communication and material breach of retainer agreement. The motion is unopposed, and the Court finds this to be proper grounds for withdrawal. The Court notes that the next hearing is set for September 30, 2024, which should provide sufficient time for the plaintiff to retain new counsel. The Court will hear from the parties on June 10, 2024, to discuss whether the plaintiff's email address used for service is current.

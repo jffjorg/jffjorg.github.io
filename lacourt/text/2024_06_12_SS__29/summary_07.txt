@@ -1,0 +1,67 @@
+Here is the YAML summary of the tentative ruling:
+
+```
+---
+case_number: 23STCV17944
+hearing_date: 2024-06-12
+dept: 29
+plaintiff: Sijia Chen
+defendant: Nailington Corp.
+people:
+  - Sijia Chen
+  - Kevin a. Gordon
+company-names:
+  - Nailington Corp.
+places:
+  - California
+dates:
+  - 2022-11-02 (pedicure incident)
+  - 2023-07-31 (complaint filed)
+  - 2023-11-20 (answer filed)
+  - 2023-12-12 (discovery served)
+  - 2024-04-12 (motions filed)
+events:
+  - Pedicure incident
+  - Complaint filed
+  - Answer filed
+  - Discovery served
+  - Motions filed
+money:
+  - $750 (sanctions award)
+intentions:
+  - To compel defendant to respond to discovery requests
+  - To deem admitted the truth of matters specified in requests for admission
+facts:
+  - Defendant failed to respond to discovery requests
+  - Defendant did not oppose motions to compel
+disputes:
+  - Discovery requests are not being responded to
+  - Sanctions are being sought
+acts:
+  - Plaintiff served defendant with discovery requests
+  - Defendant failed to respond to discovery requests
+  - Motions to compel were filed
+  - Sanctions were sought
+agreements:
+  - Plaintiff and defendant are bound by the discovery process
+  - The court must impose sanctions for misuse of the discovery process
+laws:
+  - Code of Civil Procedure (CCP) sections 2023.010, 2023.030, 2030.290, 2031.300, 2033.220, 2033.280
+  - California Rules of Court, rule 3.1345(b)(1)
+  - Sinaiko Healthcare Consulting, Inc. v. Pacific Healthcare Consultants (2007) 148 Cal.App.4th 390, 411
+  - City of Los Angeles v. PricewaterhouseCoopers, LLC (2022) 84 Cal.App.5th 466, 504
+roles:
+  - Plaintiff: Sijia Chen
+  - Defendant: Nailington Corp.
+  - Counsel: Kevin a. Gordon
+significant statements:
+  - The court grants the plaintiff's motions to compel
+  - The court orders the defendant to respond to discovery requests
+  - The court grants the plaintiff's motion for a deemed-admitted order
+  - The court denies the plaintiff's requests for sanctions on the three motions to compel
+  - The court grants the plaintiff's request for sanctions on the motion for a deemed-admitted order
+```
+
+And here is a summary of the tentative ruling in English text:
+
+The court grants the plaintiff's motions to compel the defendant to respond to form interrogatories, special interrogatories, and requests for production. The court orders the defendant to serve code-compliant, verified, written responses to the discovery requests within 15 days of notice. The court also grants the plaintiff's motion for a deemed-admitted order, ordering the defendant to be deemed to have admitted the matters specified in the requests for admission. The court denies the plaintiff's requests for sanctions on the three motions to compel but grants the request for sanctions on the motion for a deemed-admitted order, ordering the defendant and its counsel to pay a monetary sanction of $750 to the plaintiff within 30 days of notice.

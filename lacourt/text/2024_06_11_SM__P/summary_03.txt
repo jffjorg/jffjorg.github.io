@@ -1,0 +1,50 @@
+Here is the YAML summary:
+
+```
+case_number: 24SMCV00791
+plaintiff: Nichols et al.
+defendant: Balmoral Farm, Inc. et al.
+people:
+  - Bradley J. Barmen
+companies:
+  - Balmoral Farm, Inc.
+places:
+  - California
+dates:
+  - June 11, 2024
+  - preceding two years
+events:
+  - Application to Appear Pro Hac Vice
+  - Filing supplemental documentation
+money: None
+intentions:
+  - To grant application
+  - To deny application due to incomplete documentation
+facts:
+  - Bradley J. Barmen is a member of the Ohio bar
+  - Barmen submitted a declaration but is missing required affirmations
+  - Barmen's application is unopposed
+disputes:
+  - None
+acts:
+  - Barmen submitted an application
+  - The court is considering the application
+agreements: None
+laws:
+  - Cal. Rules of Court, rule 9.40(d)
+  - Cal. Rules of Court, rule 9.40(d)(5)
+case_citations: None
+statutes: None
+roles:
+  - Judge
+  - Bradley J. Barmen (counsel)
+  - Plaintiff (Nichols et al.)
+  - Defendant (Balmoral Farm, Inc. et al.)
+significant_statements:
+  - The application cannot be granted until mandatory statements are included.
+  - The matter will be continued to allow for supplemental documentation to be filed.
+```
+
+And here is the English text summarizing the judge's tentative ruling:
+
+The court is considering an application by Bradley J. Barmen, a member of the Ohio bar, to appear pro hac vice for defendants Balmoral Farm, Inc. et al. The application is unopposed, but is incomplete as it lacks mandatory statements about the dates of previous applications and whether they were granted. The court will not grant the application until the necessary information is provided. The matter will be continued to allow for supplemental documentation to be filed.

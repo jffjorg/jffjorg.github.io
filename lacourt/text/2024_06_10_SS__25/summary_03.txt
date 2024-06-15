@@ -1,0 +1,63 @@
+Here is a summary of the tentative ruling in YAML format:
+
+```
+case_number: Case Number: [not specified]
+plaintiff: Safeway Insurance Company
+defendant: Jasiel Trujillo Roman
+people_names: Jasiel Trujillo Roman, Joseph M. Pleasant
+company_names: Safeway Insurance Company
+places: [none]
+dates:
+  - September 28, 2022
+  - March 3, 2023
+  - January 10, 2024
+  - February 29, 2024
+  - April 10, 2024
+  - May 23, 2024
+  - June 6, 2024
+events:
+  - Plaintiff filed a complaint
+  - Defendant filed an answer
+  - Plaintiff moved to deem requests for admissions as admitted
+  - Court granted the motion
+  - Plaintiff moved for judgment on the pleadings
+  - Defendant did not file an opposition
+money: $19,402.32
+intentions: Plaintiff seeks judgment on the pleadings
+facts:
+  - Defendant collided with Plaintiff's insured
+  - Plaintiff's insured suffered damages
+  - Defendant failed to drive with reasonable care
+  - Defendant was at fault in causing the collision
+disputes:
+  - Whether the Defendant was negligent in causing the collision
+  - Whether the Plaintiff is entitled to judgment on the pleadings
+acts:
+  - Plaintiff's insured suffered damages
+  - Defendant's negligence caused the collision
+  - Plaintiff moved to deem requests for admissions as admitted
+  - Court granted the motion
+agreements: [none]
+laws:
+  - California Civil Procedure Code (CCP)
+  - Evidence Code
+  - California Rules of Court
+statutes:
+  - CCP § 438
+  - CCP § 439
+  - CCP § 575
+  - CCP § 1005
+  - Evid. Code § 452
+  - Evid. Code § 453
+roles: Judge, Plaintiff, Defendant
+significant_statements:
+  - Plaintiff seeks judgment on the pleadings
+  - Defendant did not file an opposition
+  - Court granted Plaintiff's motion to deem requests for admissions as admitted
+  - Plaintiff is seeking judgment based on deemed admissions
+  - Defendant is not contesting the amended pleadings
+```
+
+And here is a summary of the judge's tentative ruling in English:
+
+The court has issued a tentative ruling denying Plaintiff's Motion for Judgment on the Pleadings. The court finds that the Notice of Motion is defective and does not comply with the rules of court. The court also finds that Plaintiff is improperly relying on deemed admissions to seek judgment on the pleadings. The court notes that a motion for judgment on the pleadings is not the appropriate vehicle for Plaintiff to seek judgment based on deemed admissions. Instead, Plaintiff should file a motion for summary judgment. The court will not grant Plaintiff's motion for judgment on the pleadings and will instead allow Plaintiff to file a motion for summary judgment.

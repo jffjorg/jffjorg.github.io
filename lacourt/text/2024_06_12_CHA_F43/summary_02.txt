@@ -1,0 +1,88 @@
+Here is the summary in YAML format:
+
+```
+case_number: 23CHCV02095
+plaintiff: Juan Gonzalez Perez
+defendant: FCA US LLC
+parties:
+  - Juan Gonzalez Perez
+  - FCA US LLC
+people:
+  - Juan Gonzalez Perez
+  - Defendant's counsel
+  - Plaintiff's counsel
+companies:
+  - FCA US LLC
+places:
+  - California
+dates:
+  - July 18, 2023
+  - December 19, 2023
+  - January 23, 2024
+  - February 20, 2024
+  - April 8, 2024
+  - April 19, 2024
+  - May 3, 2024
+  - May 27, 2025
+events:
+  - Motion to compel further discovery responses
+  - Meet and confer
+  - Filing of requests for production
+  - Service of responses
+  - Failure to verify responses
+  - Verification of responses
+  - Meet and confer letter
+  - Extension of motion deadline
+  - Filing of motion to compel
+  - Request for sanctions
+money: $0
+intentions:
+  - To compel further responses to requests for production
+  - To obtain sanctions
+facts:
+  - Plaintiff filed a lemon law case against Defendant
+  - Plaintiff propounded requests for production on Defendant
+  - Defendant served responses to requests for production without verification
+  - Defendant later verified responses
+  - Plaintiff's counsel sent a meet and confer letter
+  - Defendant did not respond to letter
+  - Plaintiff filed a motion to compel
+disputes:
+  - Inadequacy of Defendant's responses to requests for production
+  - Failure to verify responses
+  - Insufficiency of meet and confer process
+  - Failure to provide a response to Plaintiff's letter
+acts:
+  - Filing of requests for production
+  - Service of responses
+  - Verification of responses
+  - Meet and confer letter
+  - Extension of motion deadline
+  - Filing of motion to compel
+agreements:
+  - Meet and confer process
+  - Extension of motion deadline
+  - Filing of joint statement of remaining issues
+  - Review of documents related to the motion
+laws:
+  - Lemon Law
+  - Discovery orders
+  - California Code of Civil Procedure
+citations:
+  - Lopez Decl.
+  - Rafter Decl.
+  - California Code of Civil Procedure
+roles:
+  - Judge
+  - Plaintiff
+  - Defendant
+  - Counsel
+significant statements:
+  - The meet and confer process was insufficient
+  - The parties are ordered to conduct a meaningful meet and confer
+  - The parties are ordered to file a joint statement of remaining issues
+```
+
+Here is the English text to summarize this judge's tentative ruling:
+
+The Court has reviewed the documents related to this motion and will not decide the motion on the merits at this time. The Court orders the parties to meet and confer directly, not by email or letter. Additionally, the parties are ordered to file a joint statement of remaining issues by a date to be set by the Court. The joint statement should briefly describe the matters in dispute, followed by the Plaintiff's arguments, then the Defendant's arguments. Prior to meeting and conferring and preparing their joint statement, the parties should refer to the Court's Lemon Law discovery order posted online.

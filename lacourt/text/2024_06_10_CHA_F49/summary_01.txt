@@ -1,0 +1,40 @@
+Here is the YAML summary of the tentative ruling:
+
+```
+case_number: 22STCV09082
+hearing_date: June 10, 2024
+department: F49
+judge: [Unknown]
+plaintiff: Edwin Martinez
+defendant: City of Santa Clarita
+defendant_type: Government Agency
+defendant_role: Owner of the construction site
+defendant_capacity: Non-employee
+facts:
+  - Construction site owned by City of Santa Clarita
+  - Plaintiff was an employee of a subcontractor (D&M Painting, Inc.)
+  - Plaintiff was injured at the construction site
+causes_of_action:
+  - Negligence
+  - Premises Liability
+issues:
+  - Privette Doctrine
+  - Negligence
+  - Premises Liability
+  - Cross-Complaint against D&M Painting, Inc.
+  - Express Indemnity
+  - Equitable/Implied Indemnity
+  - Apportionment of Fault
+  - Declaratory Relief
+  - Contribution
+  - Negligence
+ruling:
+  - Grantee: City of Santa Clarita's Motion for Summary Judgment as to Plaintiff's Complaint
+  - Denied: City of Santa Clarita's Motion for Summary Adjudication related to its Cross-Complaint against D&M Painting, Inc.
+```
+
+And here is the English-text summary:
+
+The case is a tentative ruling on a motion for summary judgment and summary adjudication. The plaintiff, Edwin Martinez, was injured while working at a construction site owned by the City of Santa Clarita. The City moved for summary judgment on the plaintiff's claims of negligence and premises liability. The court ruled that the City is entitled to summary judgment on both claims because the Privette doctrine applies, which means the City does not owe a duty of care to the plaintiff.
+
+The City also moved for summary adjudication on its cross-complaint against D&M Painting, Inc., alleging that D&M failed to defend and indemnify the City. The court denied the motion for summary adjudication because it is a question of fact whether D&M breached its contractual duty.

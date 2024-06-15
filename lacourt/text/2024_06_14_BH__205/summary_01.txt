@@ -1,0 +1,64 @@
+Here is the summary in YAML format:
+
+```
+case_number: 21SMCV01344
+plaintiff: SHLOMO MEIRI, et al.
+defendant: NIDE, LP, et al.
+people_names:
+  - SHLOMO MEIRI
+  - MINO MEIRI
+  - EDWARD B. MORETON, JR.
+company_names:
+  - NIDE, LP
+places:
+  - Los Angeles County
+  - Beverly Hills Courthouse
+  - Department 205
+  - West District
+dates:
+  - November 30, 2023
+  - February 27, 2024
+  - March 12, 2024
+  - March 19, 2024
+  - June 14, 2024
+events:
+  - Judgment against Debtors on November 30, 2023
+  - Filing of abstract of judgment on February 27, 2024
+  - Recording of abstract in Los Angeles County on March 12, 2024
+  - Filing of notice of lien on March 19, 2024
+  - Service of notice of lien on Debtors via USPS mail on March 19, 2024
+  - Settlement of $40,000 in this matter
+  - Hearing on Nide's motion to enforce judgment lien on June 14, 2024
+money:
+  - $166,715.30 (amount of judgment)
+  - $40,000 (settlement received by Debtors)
+intentions:
+  - Nide's intention to enforce judgment lien
+facts:
+  - Nide obtained a judgment against Debtors
+  - Nide filed an abstract of the judgment
+  - Nide filed a notice of lien in this matter
+  - Nide served notice of lien on Debtors via USPS mail
+disputes:
+  - None (no opposition filed)
+acts:
+  - Nide obtained a judgment against Debtors
+  - Nide filed an abstract of the judgment
+  - Nide filed a notice of lien in this matter
+  - Nide served notice of lien on Debtors via USPS mail
+agreements:
+  - Code of Civil Procedure, § 706.410
+  - Code of Civil Procedure, § 708.470
+laws:
+  - Code of Civil Procedure
+roles:
+  - Judge: EDWARD B. MORETON, JR.
+significant_statements:
+  - Nide satisfied all requirements for enforcement of a judgment lien
+  - Nide is entitled to a lien on the $40,000 settlement received by Debtors
+  - The Court GRANTS Nide LP's motion to enforce judgment lien
+```
+
+And here is the English-text summary:
+
+The tentative ruling grants Nide LP's motion to enforce its judgment lien against Shlomo Meiri and Mino Meiri. The judgment was obtained on November 30, 2023, in the amount of $166,715.30. Nide filed an abstract of the judgment on February 27, 2024, which was recorded in Los Angeles County on March 12, 2024. Nide also filed a notice of lien in this matter on March 19, 2024, and served the notice on Debtors via USPS mail the same day. Despite receiving a $40,000 settlement in this matter, the judgment remains unpaid, and Nide is entitled to a lien on the settlement.

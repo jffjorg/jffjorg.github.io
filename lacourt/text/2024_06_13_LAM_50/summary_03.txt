@@ -1,0 +1,52 @@
+Here is the summary in YAML format:
+```
+case_number: "Unknown"
+plaintiff: "Runway"
+defendant: "Unknown"
+people_names:
+  - "Unknown"
+company_names:
+  - "Runway"
+places:
+  - "Unknown"
+dates:
+  - "December 13, 2023"
+events:
+  - "Minute order"
+  - "Demurrer"
+  - "Motion to strike"
+amount_of_money: "Unknown"
+intentions:
+  - "Sustain demurrer"
+  - "Deny motion to strike"
+facts:
+  - "Plaintiff's request for punitive damages"
+  - "Sixth and eighth causes of action"
+disputes:
+  - "Liability for damages"
+  - "Unfitness of employee"
+acts:
+  - "Employment of unfit employee"
+  - "Authorization of wrongful conduct"
+agreements: []
+laws:
+  - "Civil Code section 3294, subdivision (b)"
+  - "Malice"
+  - "Fraud"
+  - "Oppression"
+case_citations:
+  - "[1]"
+  - "[2]"
+statutes:
+  - "Civil Code section 3294, subdivision (b)"
+roles:
+  - "Officer"
+  - "Director"
+  - "Managing agent"
+significant_statements:
+  - "The Court sustains Runway's demurrer to the sixth and eighth causes of action."
+  - "The Court denies as moot the motion to strike Plaintiffs' request for punitive damages in connection with the sixth and eighth causes of action."
+```
+And here is the English-text summary of the judge's tentative ruling:
+
+The Court has issued a tentative ruling sustaining Runway's demurrer to the sixth and eighth causes of action in the plaintiff's complaint. As a result, the Court denies as moot the motion to strike the plaintiff's request for punitive damages in connection with these causes of action. The ruling is based on California Civil Code section 3294, subdivision (b), which sets forth the liability of an employer for the acts of an employee. The Court has found that Runway, as the employer, did not have advance knowledge of the unfitness of the employee and did not authorize or ratify the wrongful conduct. Therefore, the Court has sustained Runway's demurrer and denied the motion to strike the plaintiff's request for punitive damages.

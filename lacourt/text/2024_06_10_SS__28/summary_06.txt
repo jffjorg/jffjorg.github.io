@@ -1,0 +1,84 @@
+Here is the YAML summary:
+
+```
+case_number: 22STCV34841
+hearing_date: 2024-06-10
+dept: 28
+
+parties:
+  - plaintiff: Jerry Guerra Jr. and Theresa Galvan
+  - defendant: Shirley Woo and Jonathan Woo
+
+people:
+  - Jerry Guerra Jr.
+  - Theresa Galvan
+  - Shirley Woo
+  - Jonathan Woo
+
+companies: []
+
+places:
+  - Spring Street Courthouse
+
+dates:
+  - 2021-11-06 (accident)
+  - 2022-11-01 (complaint filed)
+  - 2023-09-07 (Guerra dismissed)
+  - 2023-11-07 (Shirley Woo filed answer)
+  - 2024-04-02 (amended complaint)
+  - 2024-05-02 (Jonathan Woo's motion)
+  - 2024-05-20 (opposition filed)
+  - 2024-05-29 (reply filed)
+  - 2024-08-09 (OSC re: dismissal)
+
+events:
+  - accident
+  - complaint filed
+  - Guerra dismissed
+  - amended complaint
+  - motion to quash
+  - opposition
+  - reply
+
+money: []
+
+intentions:
+  - Plaintiff: to add Jonathan Woo as defendant
+  - Jonathan Woo: to quash service of summons and complaint
+
+facts:
+  - Plaintiff and Jonathan Woo interacted after accident
+  - Plaintiff did not know Jonathan Woo's identity when filed complaint
+  - Plaintiff amended complaint to add Jonathan Woo as defendant
+
+disputes:
+  - Plaintiff's knowledge of Jonathan Woo's identity
+  - Plaintiff's promptness in amending complaint
+
+acts:
+  - Plaintiff filed complaint
+  - Defendant filed answer
+  - Plaintiff amended complaint
+  - Jonathan Woo's motion to quash
+
+agreements:
+  - Plaintiff and Jonathan Woo's agreement on identity
+
+laws:
+  - California Code of Civil Procedure sections 474 and 418.10
+
+case_citations:
+  - Balon v. Drost (1993) 20 Cal.App.4th 483
+  - Snoke v. Bolen (1991) 235 Cal.App.3d 1427
+  - Munoz v. Purdy (1979) 91 Cal.App.3d 942
+  - Streicher v. Tommy's Electric Co. (1985) 164 Cal.App.3d 876
+  - Woo v. Superior Court (1999) 75 Cal.App.4th 169
+
+roles:
+  - Plaintiff: Jerry Guerra Jr. and Theresa Galvan
+  - Defendant: Shirley Woo and Jonathan Woo
+
+significant_statements:
+  - Plaintiff did not know Jonathan Woo's identity when filed complaint
+  - Plaintiff did not promptly amend complaint to add Jonathan Woo as defendant
+  - Plaintiff did not avail herself of readily available information to learn Jonathan Woo's identity

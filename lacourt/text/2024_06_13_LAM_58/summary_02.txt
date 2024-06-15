@@ -1,0 +1,81 @@
+Here is the summary in YAML format:
+
+```
+case_number: 23STCV03454
+plaintiff: Ed Michaels
+defendant: Cedars-Sinai Medical Center
+people_names:
+  - Terrence Kim, M.D.
+  - Sydney Weaver, R.N.
+  - Jamie Fedele, R.N.
+  - Kristen Montgomery, R.N.
+  - Avital Shainberg, PT
+  - Bita Joobbani, PA-C
+  - Art Borja, R.N.
+  - Astrid Reynosa, R.N.
+  - Katherine Kelly, R.N., DNP, APRN
+company_names:
+  - Cedars-Sinai Medical Center
+  - California Rehabilitation Institute
+places:
+  - Cedars-Sinai Medical Center
+  - California
+dates:
+  - March 25, 2022
+  - March 26, 2022
+  - March 27, 2022
+  - March 28, 2022
+  - March 29, 2022
+  - March 31, 2022
+  - April 1, 2022
+  - April 5, 2022
+events:
+  - Initial consult with Terrence Kim, M.D.
+  - Admitted to Cedars-Sinai Medical Center
+  - Evaluated by Sydney Weaver, R.N.
+  - Refused medications and admission questions
+  - Elected to move forward with procedure with Dr. Kim
+  - Refused labs and physical therapy
+  - Underwent physical therapy evaluation
+  - Documented fall and refused head CT
+  - Refused discharge and appealed
+  - Cleared for discharge but refused
+  - Underwent head CT and cleared for discharge
+money: None
+intentions:
+  - Defendant moves for summary judgment on grounds of no negligent act or omission by Defendant
+  - Plaintiff failed to prove essential elements of breach of duty of care or causation
+  - Defendant shifted initial burden on medical negligence claim
+facts:
+  - Plaintiff underwent initial consult with Dr. Kim
+  - Plaintiff diagnosed with cervical spondylitic myelopathy and lumbar stenosis
+  - Plaintiff expressed interest in lumbar surgery but not cervical surgery
+  - Dr. Kim advised Plaintiff to see another surgeon if he would not proceed with Dr. Kim's recommendation
+  - Plaintiff refused medications and admission questions
+  - Plaintiff refused labs and physical therapy
+  - Plaintiff underwent physical therapy evaluation
+  - Plaintiff documented fall and refused head CT
+  - Plaintiff cleared for discharge but refused
+disputes:
+  - No opposition was filed to the motion for summary judgment
+acts:
+  - Defendant moves for summary judgment
+  - Plaintiff fails to prove essential elements of breach of duty of care or causation
+  - Defendant shifts initial burden on medical negligence claim
+agreements:
+  - None
+laws:
+  - Code of Civil Procedure, Section 437c
+  - Adler v. Manor Healthcare Corp.
+  - Aguilar v. Atlantic Richfield Co.
+statutes:
+  - Code of Civil Procedure, Section 437c
+roles:
+  - Defendant: Cedars-Sinai Medical Center
+  - Plaintiff: Ed Michaels
+  - Expert: Katherine Kelly, R.N., DNP, APRN
+significant statements:
+  - Defendant moves for summary judgment on grounds of no negligent act or omission by Defendant
+  - Plaintiff failed to prove essential elements of breach of duty of care or causation
+  - Defendant shifted initial burden on medical negligence claim
+  - No opposition was filed to the motion for summary judgment

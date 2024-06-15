@@ -1,0 +1,77 @@
+Here is a summary of the judge's tentative ruling in YAML format:
+
+```
+---
+case_number: 21STCV35189
+plaintiff: Elia Rosa Mercado Leiva
+defendant: Mickey Vasquez, Red Bull North America, Inc., Red Bull Distribution Company, Inc.
+people:
+  - Elia Rosa Mercado Leiva
+  - Mickey Vasquez
+  - Red Bull North America, Inc.
+  - Red Bull Distribution Company, Inc.
+company_names:
+  - Red Bull North America, Inc.
+  - Red Bull Distribution Company, Inc.
+places:
+  - California
+dates:
+  - September 24, 2021
+  - April 30, 2021
+  - August 16, 2022
+  - May 6, 2024
+events:
+  - Motor vehicle accident
+  - Lawsuit
+  - Discovery dispute
+  - Subpoena
+money:
+  - None mentioned
+intentions:
+  - To quash subpoena
+  - To obtain discovery
+  - To protect privacy
+facts:
+  - Plaintiff was involved in a motor vehicle accident
+  - Defendant Mickey Vasquez was allegedly operating a vehicle at the time of the accident
+  - Plaintiff alleges negligence on the part of the defendants
+  - Defendant seeks discovery of Plaintiff's medical records and driving history
+disputes:
+  - Plaintiff's motion to quash subpoena
+  - Defendant's opposition to quash
+acts:
+  - Plaintiff's lawsuit
+  - Defendant's discovery requests
+  - Court's ruling
+agreements:
+  - None mentioned
+laws:
+  - California Constitution, Article I, Section 1
+  - California Code of Civil Procedure, Section 1987.1
+  - California Code of Civil Procedure, Section 1987.2
+  - California Vehicle Code, Section 1808.22
+  - Driver's Privacy Protection Act
+  - Information Practices Act
+case_citations:
+  - Davies v. Superior Court (1984)
+  - Hill v. National Collegiate Athletic Assn. (1994)
+  - Williams v. Superior Court (2017)
+  - Irvington-Moore, Inc. v. Superior Court (1993)
+  - TBG Ins. Services Corp. v. Superior Court (2002)
+  - Los Angeles Unified School Dist. v. Trustees of Southern California IBEW-NECA Pension Plan (2010)
+  - Hale v. Superior Court (1994)
+  - Britt v. Superior Court (1978)
+  - Heller v. Norcal Mutual Insurance Co. (1994)
+roles:
+  - Judge
+  - Plaintiff
+  - Defendant
+significant_statements:
+  - The court grants in part Plaintiff's motion to quash the subpoena.
+  - The court denies the request for a blanket protective order.
+  - The court orders the parties to meet and confer.
+```
+
+Here is a summary of the judge's tentative ruling in English text:
+
+The court grants in part Plaintiff's motion to quash the subpoena. The court denies the request for a blanket protective order. The court orders the parties to meet and confer. The court modifies the subpoena by striking "7. Any other documents pertaining in any way to the individual identified above." The court finds that the subpoena does not violate Plaintiff's privacy and that the information sought is reasonably calculated to lead to the discovery of admissible evidence. The court also finds that the defendant has not shown a compelling interest or need to justify the subpoena.

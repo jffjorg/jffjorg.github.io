@@ -1,0 +1,83 @@
+Here is the summary in YAML format:
+
+```
+Case:
+  number: 23STCV31202
+  hearing date: 2024-06-12
+  department: 54
+
+Parties:
+  plaintiff: Scott Carino
+  defendant: General Motors, LLC
+
+People:
+  - Scott Carino (Plaintiff)
+  - Maurice A. Leiter (Judge)
+
+Companies:
+  - General Motors, LLC
+
+Places:
+  - Los Angeles
+  - California
+
+Dates:
+  - 2022-01-01 (purchase of Chevrolet Bolt)
+  - 2024-06-12 (hearing date)
+
+Events:
+  - Purchase of defective vehicle
+  - Lemon law action
+  - Motion to compel deposition
+  - Deposition notice
+  - Meet and confer
+
+Money:
+  - None mentioned
+
+Intentions:
+  - Plaintiff seeks to compel Defendant's PMK deposition and produce documents
+  - Defendant opposes the motion
+
+Facts:
+  - Plaintiff purchased a 2022 Chevrolet Bolt from Defendant
+  - Vehicle was defective
+  - Plaintiff seeks to discover Defendant's knowledge and efforts to remedy the defect
+
+Disputes:
+  - Defendant opposes the motion to compel deposition
+
+Acts:
+  - Plaintiff moves to compel Defendant's PMK deposition
+  - Defendant responds to the motion
+  - Judge grants the motion to compel deposition
+
+Agreements:
+  - Parties are ordered to meet and confer regarding a mutually agreeable date for deposition
+
+Laws:
+  - California Code of Civil Procedure (CCP) § 2025.450
+  - CCP § 2025.410
+  - CCP § 2016.040
+
+Case Citations:
+  - CCP § 2025.450
+  - CCP § 2025.410
+  - CCP § 2016.040
+
+Statutes:
+  - None mentioned
+
+Roles:
+  - Judge: Maurice A. Leiter
+  - Plaintiff: Scott Carino
+  - Defendant: General Motors, LLC
+
+Significant Statements:
+  - "The motion to compel deposition is GRANTED."
+  - "These are standard lemon law discovery issues that can be resolved with proper meet and confer; they should not require Court intervention."
+```
+
+And here is the English-text summary of the judge's tentative ruling:
+
+The judge grants the plaintiff's motion to compel the defendant's PMK deposition and production of documents. The parties are ordered to meet and confer regarding a mutually agreeable date for the deposition. The judge declines to award sanctions to either party. The dispute is a standard lemon law discovery issue that can be resolved through meet and confer, and does not require court intervention.
