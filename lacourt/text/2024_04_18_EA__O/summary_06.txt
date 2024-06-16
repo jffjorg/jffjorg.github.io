@@ -1,0 +1,54 @@
+Here is the summary in YAML format:
+
+```
+case_number: "Unknown"
+plaintiff_name: "Unknown"
+defendant_name: "Unknown"
+people_names:
+  - Frank
+companies:
+  - Silver Organizations Ltd.
+places:
+  - California
+dates:
+  - 1984
+  - 1990
+  - 1/26/24
+  - 3/22/24
+events:
+  - Court hearing
+  - Filing of motion
+money:
+  - Unspecified
+intentions:
+  - To support or undermine a position
+facts:
+  - "Modicum of discretion" rule
+  - Unreasonable delay in filing a motion
+disputes:
+  - Delayed filing of motion
+acts:
+  - Filing of motion
+agreements:
+  - Unspecified
+laws:
+  - California Appellate Court
+  - Gherman and Foot's Transfer
+  - Silver Organizations Ltd.
+case_citations:
+  - Bowers v. Bernards (1984) 150 Cal.App.3d 870, 873
+  - Silver Organizations Ltd. v. Frank (1990) 217 Cal. App. 3d 94, 99
+  - Gherman and Foot's Transfer
+statutes:
+  - Unspecified
+roles:
+  - Judge
+  - Plaintiff
+  - Defendant
+significant_statements:
+  - "Of ponderable legal significance, reasonable in nature, credible, and of solid value."
+```
+
+And here is the English-text summary:
+
+This tentative ruling is a summary of the judge's thinking based on the information presented before the court. The judge notes that substantial evidence is defined as evidence that is "of ponderable legal significance, reasonable in nature, credible, and of solid value." The plaintiff has cited to several cases, including Silver Organizations Ltd. v. Frank, to argue that the court's "modicum of discretion" rule was criticized in those cases. However, the plaintiff's argument that the motion was filed at a late stage of the case is unfounded, as it may take an attorney a couple of months to file a motion. Therefore, the judge does not find that there was an unreasonable delay in filing the motion.
