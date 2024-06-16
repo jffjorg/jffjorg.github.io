@@ -1,0 +1,83 @@
+Here is the YAML summary of the tentative ruling:
+
+```
+case:
+  number: 20STCV40739
+  plaintiff: Rodolfo Zarate Blanco
+  defendant: Kirstie Lee Walker, et al
+  hearing_date: April 17, 2024
+  department: 30
+
+people:
+  - Rodolfo Zarate Blanco
+  - Kirstie Lee Walker
+
+companies:
+  - None
+
+places:
+  - None
+
+dates:
+  - March 4, 2024
+  - April 17, 2024
+
+events:
+  - Failure to pay jury fees
+  - Waiver of jury trial
+  - Motion for relief from waiver
+
+money:
+  - $150 (jury fee)
+  - None
+
+intentions:
+  - Plaintiff seeks relief from waiver of jury trial
+  - Court grants motion for relief from waiver
+
+facts:
+  - Plaintiff failed to timely pay jury fees
+  - Jury fees not paid until March 4, 2024
+  - Court finds good cause to permit relief from waiver
+
+disputes:
+  - Waiver of jury trial
+  - Failure to pay jury fees
+
+acts:
+  - Failure to pay jury fees
+  - Waiver of jury trial
+  - Motion for relief from waiver
+
+agreements:
+  - CCP section 631
+
+laws:
+  - CCP section 631
+  - Tesoro del Valle Master Homeowners Assn. v. Griffin
+  - Bishop v. Anderson
+  - Wharton v. Superior Court
+  - Johnson-Stovall v. Superior Court
+  - Winston v. Superior Court
+
+case_citations:
+  - CCP section 631
+  - Tesoro del Valle Master Homeowners Assn. v. Griffin
+  - Bishop v. Anderson
+  - Wharton v. Superior Court
+  - Johnson-Stovall v. Superior Court
+  - Winston v. Superior Court
+
+roles:
+  - Plaintiff: Rodolfo Zarate Blanco
+  - Defendant: Kirstie Lee Walker, et al
+  - Court: Judge
+
+significant_statements:
+  - "The court may, in its discretion upon just terms, allow a trial by jury although there may have been a waiver of a trial by jury." (CCP section 631(g))
+  - "A trial court abuses its discretion as a matter of law when ... relief has been denied where there has been no prejudice to the other party or to the court from an inadvertent waiver." (Tesoro del Valle Master Homeowners Assn. v. Griffin)
+```
+
+And here is the English text summary of the tentative ruling:
+
+The court has granted Plaintiff Rodolfo Zarate Blanco's motion for an order granting relief from waiver of jury trial. The Plaintiff failed to timely pay the jury fees, which resulted in the waiver of jury trial. The court finds that there is good cause to permit relief from waiver in this case, as the Defendants do not oppose the motion. The court cites CCP section 631, which allows for relief from waiver of jury trial in certain circumstances. The court also cites various case law to support its decision.

@@ -1,0 +1,45 @@
+Here is the summary in YAML format:
+
+```
+case_number: Case No. [Insert Case Number]
+plaintiff: [Insert Plaintiff's Name]
+defendant: [Insert Defendant's Name]
+people_names:
+  - Krill
+company_names: []
+places: []
+dates:
+  - [Insert Date of Hearing]
+events:
+  - COVID-19 pandemic
+  - Alleged comments about Chinese people
+  - Store incident
+money: []
+intentions: []
+facts:
+  - Defendant made allegedly racist comments
+  - Plaintiff felt offended and harassed
+  - No suggestion of racial motivation
+disputes:
+  - Plaintiff claims Defendant made racist comments
+  - Defendant denies making such comments
+acts:
+  - Defendant allegedly made comments calling COVID-19 the "Chinese Virus"
+  - Defendant allegedly made comments about Chinese people bringing COVID-19 to the store
+agreements: []
+laws:
+  - [Insert relevant laws or regulations]
+case_citations: []
+statutes: []
+roles:
+  - Judge
+  - Plaintiff
+  - Defendant
+significant_statements:
+  - "Is more like the straw that broke the camel's back"
+    - "I don't think the uniform have anything to do with me being Chinese"
+```
+
+And here is a summary of the judge's tentative ruling in English text:
+
+The judge's tentative ruling is based on the evidence presented before the hearing. The judge finds that the defendant allegedly made racist comments, calling COVID-19 the "Chinese Virus" and making references to Chinese people bringing the virus to the store. The plaintiff felt offended and harassed by the comments. The judge notes that there is no suggestion that the defendant's comments were motivated by race or national origin. The judge is considering the cumulative effect of these events, stating that this incident is like the "straw that broke the camel's back". The judge will consider the evidence further and make a final ruling after the hearing.

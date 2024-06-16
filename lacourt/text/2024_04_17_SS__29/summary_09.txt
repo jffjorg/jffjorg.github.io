@@ -1,0 +1,77 @@
+Here is the summary of the judge's tentative ruling in YAML format:
+
+```
+case_number: 22STCV03876
+hearing_date: April 17, 2024
+dept: 29
+people_names:
+  - Devon Baylor
+  - Marlon R. Mejia Paz
+  - Bauerlein (attorney)
+companies:
+  - ALTA Los Angeles Hospitals, Inc.
+  - Los Angeles Community Hospital
+places:
+  - I-10 Freeway
+  - Alameda Street
+  - Los Angeles
+dates:
+  - September 19, 2021
+  - February 1, 2022
+  - April 11, 2022
+  - April 13, 2022
+  - October 12, 2022
+  - March 20, 2024
+  - January 12, 2024
+  - January 31, 2024
+  - May __, 2024 (TBD)
+events:
+  - Vehicle accident on I-10 Freeway
+  - Plaintiff's complaint filed
+  - Defendant's answer filed
+  - Plaintiff's amended complaint filed
+  - Plaintiff's attorney relieved as counsel
+  - Defendant's motion to compel filed
+  - Deposition notice served on Plaintiff
+  - Plaintiff failed to appear at deposition
+  - Request for sanctions filed
+money:
+  - $615 (monetary sanctions)
+  - $185 (counsel's billing rate)
+  - $60 (filing fee)
+intentions:
+  - To compel Plaintiff's deposition
+  - To impose monetary sanctions on Plaintiff
+facts:
+  - Plaintiff failed to appear at deposition
+  - Defendant served notice of taking deposition
+  - Plaintiff has an obligation to appear for and testify at deposition
+disputes:
+  - Plaintiff's failure to appear at deposition
+  - Request for terminating sanctions denied
+acts:
+  - Defendant's motion to compel filed
+  - Deposition notice served on Plaintiff
+  - Plaintiff failed to appear at deposition
+  - Request for sanctions filed
+agreements:
+  - Civil Discovery Act
+  - Code of Civil Procedure
+  - California Rules of Court
+laws:
+  - Code of Civil Procedure, § 2025.010
+  - Code of Civil Procedure, § 2025.280
+  - Code of Civil Procedure, § 2025.450
+  - Code of Civil Procedure, § 2025.450, subd. (a)
+  - Code of Civil Procedure, § 2023.010
+  - Code of Civil Procedure, § 2023.030
+statutes:
+  - California Code of Civil Procedure
+roles:
+  - Plaintiff (Devon Baylor)
+  - Defendant (ALTA Los Angeles Hospitals, Inc.)
+  - Counsel (attorney)
+significant_statements:
+  - Plaintiff has an obligation to appear for and testify at deposition
+  - Defendant's motion to compel is granted
+  - Plaintiff is ordered to pay monetary sanctions in the amount of $615

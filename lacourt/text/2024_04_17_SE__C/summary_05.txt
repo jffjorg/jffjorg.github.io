@@ -1,0 +1,42 @@
+Here is the summary in YAML format:
+
+```
+case_number: 23NWCV02896
+hearing_date: April 17, 2024
+dept: C
+judge: Kenny Nguyen
+defendant: SR Mutual Investment Corp. DBA California Country Club
+plaintiff: Kenny Nguyen
+complaint:
+  - negligence
+  - trespass
+  - nuisance
+  - declaratory relief
+  - injunctive relief
+  - violation of Business and Professions Code section 17200, et seq.
+demurrer:
+  - sustained in part with 30 days leave to amend (trespass cause of action)
+  - denied in part (other cause of actions)
+motion_to_strike: moot
+significant_statements:
+  - The court finds that the plaintiff sufficiently stated the legal duties breached in the negligence cause of action.
+  - The court finds that the plaintiff may allege causation in a conclusory fashion.
+  - The court finds that the pleading is not so incomprehensible that a defendant cannot reasonably respond.
+roles:
+  - Judge: Kenny Nguyen
+  - Defendant: SR Mutual Investment Corp. DBA California Country Club
+  - Plaintiff: Kenny Nguyen
+  - Defendant's attorney: unknown
+  - Plaintiff's attorney: unknown
+  - Court: unknown
+```
+
+English-text summary:
+
+This is a tentative ruling on a motion to demurrer filed by the defendant, SR Mutual Investment Corp. DBA California Country Club, in a lawsuit filed by Kenny Nguyen. The lawsuit alleges five causes of action: negligence, trespass, nuisance, declaratory relief, and injunctive relief, as well as a violation of Business and Professions Code section 17200, et seq.
+
+The court rules that the plaintiff's trespass cause of action is uncertain and sustains the demurrer with 30 days leave to amend. The court also rules that the plaintiff's nuisance cause of action is sufficient and overrules the demurrer.
+
+The court rules that the plaintiff's declaratory relief and injunctive relief causes of action are sufficient and overrules the demurrer. Finally, the court rules that the plaintiff's violation of Business and Professions Code section 17200, et seq. cause of action is sufficient and overrules the demurrer.
+
+The court denies the defendant's motion to strike a specific paragraph from the plaintiff's complaint, as the cause of action underlying that paragraph has been dismissed.

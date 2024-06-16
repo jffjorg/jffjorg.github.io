@@ -1,0 +1,55 @@
+Here is the summary in YAML format:
+
+```
+Case Number: "Unknown"
+Plaintiff's Name: "Unknown"
+Defendant's Name: "Unknown"
+People-Names:
+  - Judge: "Unknown"
+Company-Names: []
+Places: []
+Dates:
+  - Hearing Date: "Unknown"
+Events:
+  - Arbitration agreement
+  - Appointment of arbitrator
+Money: []
+Intentions:
+  - To appoint an arbitrator
+Facts:
+  - Arbitration agreement provides a method of appointing an arbitrator
+  - Method not provided in agreement
+  - Parties agree on a method
+  - Court appoints arbitrator in absence of agreement
+Disputes:
+  - Who appoints arbitrator
+Acts:
+  - Follow method in agreement
+  - Agree on method
+  - Petition to court
+  - Court nominates arbitrators
+  - Parties select arbitrator
+  - Court appoints arbitrator if parties fail
+Agreements:
+  - Arbitration agreement
+  - Code of Civil Procedure (Code Civ. Proc.)
+Laws:
+  - Code of Civil Procedure (Code Civ. Proc.), § 1281.6
+Statutes:
+  - Code of Civil Procedure (Code Civ. Proc.), § 1281.6
+Roles:
+  - Judge: appoints arbitrator
+  - Parties: agree on arbitrator
+  - Court: nominates arbitrators
+Significant Statements:
+  - Arbitration agreement provides method
+  - Method not provided in agreement
+  - Parties agree on method
+  - Court appoints arbitrator in absence of agreement
+```
+
+And here is the English-text summary:
+
+"In this tentative ruling, the court outlines the process for appointing an arbitrator in the absence of a method provided in the arbitration agreement. If the agreement provides a method, it shall be followed. If not, the parties may agree on a method, and if they fail to do so, the court shall appoint the arbitrator. The court shall nominate five persons from lists supplied by the parties or obtained from a governmental agency or private association concerned with arbitration. The parties may select the arbitrator within five days, and if they fail to do so, the court shall appoint the arbitrator from the nominees."
+
+Please note that the Case Number, Plaintiff's Name, and Defendant's Name are unknown as they are not specified in the provided text.

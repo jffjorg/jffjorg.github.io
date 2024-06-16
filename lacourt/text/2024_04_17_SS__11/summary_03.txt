@@ -1,0 +1,45 @@
+Here is the summary of the tentative ruling in YAML format:
+
+```
+case_number: unknown
+plaintiff_name: unknown
+defendant_name: unknown
+people_names:
+  - Hale
+company_names: []
+places: []
+dates:
+  - unknown
+events: []
+money: []
+intentions:
+  - avoid overlap in arbitration
+facts:
+  - Plaintiff signed agreement as minor and disaffirmed as adult
+  - Hale representatives signed unconscionable agreements as adults
+  - Overlap is inevitable between Plaintiff's and Hale's putative classes
+agreements: []
+disputes:
+  - whether Plaintiff can be compelled to arbitrate
+  - whether Hale representatives can be compelled to arbitrate
+acts:
+  - Plaintiff signed agreement as minor and disaffirmed as adult
+  - Hale representatives signed unconscionable agreements as adults
+  - Court invites attorneys to discuss potential stipulation to avoid overlap
+laws:
+  - unknown
+case_citations: []
+statutes: []
+roles:
+  - Judge
+  - Plaintiff
+  - Defendant
+  - Hale representatives
+significant_statements:
+  - Overlap is inevitable unless Plaintiff stipulates to shrink her class definition
+  - Court invites attorneys to discuss potential stipulation
+```
+
+And here is the summary in English text:
+
+The Judge's tentative ruling states that the reason why the Plaintiff cannot be compelled to arbitrate is different from the reason why the Hale putative class cannot be compelled to arbitrate, but the result is the same. The Court's understanding is that the Plaintiff and the Hale representatives seek to represent all employees who cannot be compelled to arbitration, which would lead to overlap. The Judge suggests that the only way to avoid this overlap would be for the Plaintiff to stipulate to shrink her class definition to workers who signed agreements as minors and disaffirmed as adults. Even then, the Hale class definition might still encompass the Plaintiff's putative class. The Court invites the attorneys to discuss the impact of such a stipulation during oral arguments.

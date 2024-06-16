@@ -1,0 +1,71 @@
+Here is the summary in YAML format:
+
+```
+case_number: 21STCV32736
+plaintiff_names:
+  - Wilma Rivera
+  - Tawia Brown
+defendant_names:
+  - Ki Seo Kim
+people_names:
+  - Tawia Brown
+  - Ki Seo Kim
+  - Michelle C. Kim
+company_names: []
+places:
+  - Los Angeles
+  - California
+dates:
+  - 2023-11-08
+  - 2024-01-15
+  - 2024-04-04
+  - 2024-04-17
+events:
+  - Propounded special interrogatories
+  - Failure to serve responses
+  - Motion to compel
+  - Sanctions
+money:
+  - $526
+  - $225
+  - $60
+  - $285
+intentions:
+  - To compel responses
+  - To impose sanctions
+facts:
+  - Plaintiff Brown failed to serve responses
+  - Defendant Kim sought an order compelling responses
+  - Plaintiff Brown did not file an opposition
+  - Defendant Kim sought $526 in sanctions
+disputes:
+  - Dispute over discovery responses
+  - Dispute over sanctions
+acts:
+  - Propounding special interrogatories
+  - Failure to serve responses
+  - Seeking an order compelling responses
+  - Filing an opposition
+agreements: []
+laws:
+  - California Code of Civil Procedure (CCP) sections
+  - California Rules of Court (CRC) sections
+  - Leach v. Superior Court (1980)
+  - Sinaiko Healthcare Consulting, Inc. v. Pacific Healthcare Consultants (2007)
+  - Code of Civil Procedure, sections 2030.290 and 2031.300
+roles:
+  - Judge: Michelle C. Kim
+  - Plaintiff: Tawia Brown
+  - Defendant: Ki Seo Kim
+  - Attorney: (for Plaintiff Brown)
+  - Attorney: (for Defendant Kim)
+significant_statements:
+  - The court granted the unopposed motion to compel responses
+  - Sanctions are mandatory against any party who unsuccessfully makes or opposes a motion to compel a response
+  - The court awarded $285 in sanctions to Defendant Kim
+  - The court ordered Plaintiff Brown to pay sanctions within 20 days
+```
+
+And here is the English-text summary of the judge's tentative ruling:
+
+The court has granted the unopposed motion to compel responses from Plaintiff Brown to Defendant Kim. Plaintiff Brown failed to serve responses to Defendant Kim's special interrogatories despite multiple extensions and follow-up correspondences. The court has ordered Plaintiff Brown to serve verified responses to Defendant Kim's special interrogatories, set one, without objections, within 15 days. The court has also imposed sanctions of $285 on Plaintiff Brown and her counsel for failing to oppose the motion. The court has awarded $225 in attorney's fees and $60 in filing fees to Defendant Kim. The court has ordered Plaintiff Brown and her counsel to pay sanctions to Defendant Kim within 20 days.

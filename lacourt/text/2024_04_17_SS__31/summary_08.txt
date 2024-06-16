@@ -1,0 +1,53 @@
+Here is the summary in YAML format:
+
+```
+case_number: 22STCV34460
+plaintiff: William Jones
+defendant: GHP Management Corp, Palmer Temple Street Properties LLC
+people: William Jones, Michelle C. Kim
+companies: GHP Management Corp, Palmer Temple Street Properties LLC
+places: Los Angeles County, California
+dates:
+  - April 4, 2024
+  - April 17, 2024
+events:
+  - Motion to compel deposition
+  - Deposition notices
+  - Meet and confer declaration
+  - Procedural deficiency
+  - Denial of motion
+money: None
+intentions:
+  - Compel deposition
+  - Pay monetary sanctions
+facts:
+  - Plaintiff was served in pro per
+  - No opposition was filed
+  - Deposition has not been rescheduled
+disputes:
+  - Failure to contact plaintiff directly
+  - Failure to submit meet and confer declaration
+acts:
+  - Motion to compel deposition
+  - Failure to reschedule deposition
+  - Failure to submit meet and confer declaration
+agreements: None
+laws:
+  - CCP § 2025.450(b)(2)
+  - CCP § 2016.040
+  - CCP § 2025.450(b)(2)
+  - CCP § 2025.450(b)(2)
+roles:
+  - Judge: Michelle C. Kim
+  - Plaintiff: William Jones
+  - Defendant: GHP Management Corp, Palmer Temple Street Properties LLC
+  - Defense counsel: Defense counsel (unspecified)
+  - Plaintiff's counsel: Plaintiff's counsel (unspecified)
+significant_statements:
+  - "Unable to proceed on the merits of the motion at this time due to a procedural deficiency."
+  - "Denial is without prejudice as to Defendants re-filing the motion with the required meet and confer declaration."
+```
+
+And here is the English text summarizing the judge's tentative ruling:
+
+The judge has denied the defendant's motion to compel the plaintiff's deposition and to pay monetary sanctions. The defendant failed to submit a meet and confer declaration stating that they contacted the plaintiff to inquire about the nonappearance at the deposition. The judge also noted that the defendant did not provide any good faith attempts at rescheduling the deposition. The denial is without prejudice, allowing the defendant to re-file the motion with the required meet and confer declaration.

@@ -1,0 +1,55 @@
+Here is the YAML summary:
+
+```
+case_number: Case No. [insert case number]
+plaintiff: Massamilano Valladares
+defendant:
+  - Black Executive Security Inc.
+  - George Flaviu Pop
+people_names:
+  - Massamilano Valladares
+  - George Flaviu Pop
+company_names:
+  - Black Executive Security Inc.
+places:
+  - California
+dates:
+  - October 2, 2023
+events:
+  - Motion to strike the Answer of Defendants
+  - Grant of leave to amend
+money: None
+intentions:
+  - To strike the unrepresented litigants' Answer
+facts:
+  - Black Executive Security Inc. is an unrepresented corporation
+  - Corporations cannot represent themselves in court
+  - Defendant Pop is a natural person who can proceed in propria persona
+disputes:
+  - Defendant Black Executive Security Inc. cannot represent itself
+  - Defendant Pop can represent himself
+acts:
+  - Striking the Answer of Black Executive Security Inc.
+  - Granting 30 days leave to amend
+  - Denying the Motion to Strike the Answer of George Flaviu Pop
+agreements: None
+laws:
+  - California Code of Civil Procedure (CCP) § 435(b)(1)
+  - CCP § 437(a)
+  - CCP § 436
+  - CCP § 431.10(b)(3), (c)
+statutes:
+  - CCP
+roles:
+  - Plaintiff: Massamilano Valladares
+  - Defendant: Black Executive Security Inc. and George Flaviu Pop
+  - Judge: [insert judge's name]
+significant_statements:
+  - "Corporations cannot represent themselves before courts of record."
+  - "A corporation, unlike a natural person, cannot represent itself before courts of record in propria persona, nor can it represent itself through a corporate officer, director or other employee who is not an attorney."
+  - "The Court grants thirty days leave to amend such that Defendant can obtain counsel."
+```
+
+And here is the summary in English text:
+
+The judge's tentative ruling is in response to a motion by Plaintiff Massamilano Valladares to strike the Answer of Defendants Black Executive Security Inc. and George Flaviu Pop. The judge rules that Black Executive Security Inc. cannot represent itself in court as it is an unrepresented corporation, and therefore strikes its Answer. The judge grants 30 days leave to amend for Black Executive Security Inc. to obtain counsel. On the other hand, George Flaviu Pop, a natural person, can proceed in propria persona and the judge denies the motion to strike his Answer. The judge encourages counsel to submit their responses remotely due to the COVID-19 pandemic.

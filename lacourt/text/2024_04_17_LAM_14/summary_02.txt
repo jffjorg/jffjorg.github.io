@@ -1,0 +1,70 @@
+Here is the YAML summary of the tentative ruling:
+
+```
+case_number: 21STCV15231
+hearing_date: 2024-04-17
+dept: 14
+plaintiff: Shaposhnik
+defendant: Select Portfolio Servicing, Inc., US Bank, N.A. as Trustee for WaMu Mortgage Pass-Through Certificates Series 2006-AR11
+people:
+  - Shaposhnik
+  - Select Portfolio Servicing, Inc.
+  - US Bank, N.A.
+company:
+  - Select Portfolio Servicing, Inc.
+  - US Bank, N.A.
+places:
+  - California
+dates:
+  - 2023-10-18
+  - 2023-11-07
+  - 2023-09-25
+  - 2024-04-22
+  - 2024-06-14
+events:
+  - Filing of complaint
+  - Motion for sanctions
+  - Demurrer
+  - Abatement
+  - Stay
+money:
+  - $6,454.00
+intentions:
+  - To seek sanctions against the plaintiff
+facts:
+  - Plaintiff alleges improper foreclosure
+  - Defendant seeks to strike the complaint and award sanctions
+  - Plaintiff filed first amended complaint
+disputes:
+  - Improper foreclosure
+  - Lack of jurisdiction
+acts:
+  - Filing of complaint
+  - Filing of first amended complaint
+  - Filing of motion for sanctions
+  - Filing of demurrer
+agreements:
+  - Code of Civil Procedure § 128.5
+  - Code of Civil Procedure § 128.7
+  - Code of Civil Procedure § 430.10(c)
+  - Code of Civil Procedure § 597
+laws:
+  - Code of Civil Procedure
+statutes:
+  - Code of Civil Procedure § 128.5
+  - Code of Civil Procedure § 128.7
+  - Code of Civil Procedure § 430.10(c)
+  - Code of Civil Procedure § 597
+roles:
+  - Plaintiff
+  - Defendant
+  - Judge
+significant_statements:
+  - Plaintiff withdrew the original complaint
+  - Filing an amended complaint is a withdrawal of the original complaint
+  - Abatement may still be appropriate even if the strict requirements of Section 430.10(c) are not fulfilled
+```
+
+Here is the English text summary of the tentative ruling:
+
+This tentative ruling addresses two motions: a motion for sanctions and a demurrer. The motion for sanctions was filed by the defendants, seeking to strike the plaintiff's complaint and award sanctions against the plaintiff and her counsel. The judge rules that the motion for sanctions is denied because the plaintiff withdrew the original complaint before the end of the safe harbor period. The judge also rules that the demurrer is taken off-calendar and the case is stayed pending the outcome of a related case. The judge sets a status conference for June 14, 2024.

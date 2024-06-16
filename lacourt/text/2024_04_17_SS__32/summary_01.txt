@@ -1,0 +1,55 @@
+Here is the YAML summary of the tentative ruling:
+
+```
+case_number: "21STCV03346"
+plaintiff_name: "Daniel Cedillos"
+defendant_name: "Levons Edgars Isajans"
+people_names:
+  - Daniel Cedillos
+  - Levons Edgars Isajans
+company_names: []
+places:
+  - California
+dates:
+  - July 24, 2023
+  - January 18, 2024
+  - February 22, 2024
+  - April 17, 2024
+events:
+  - Motion to Deem the Truth of Matters
+  - Requests for Admissions, Set One
+money:
+  - Monetary sanctions
+intentions:
+  - To deem the truth of matters in the Requests for Admissions
+  - To impose monetary sanctions
+facts:
+  - Defendant served Requests for Admissions on Plaintiff on January 18, 2024
+  - Plaintiff failed to respond
+  - Defendant seeks to deem the truth of matters as admitted
+disputes:
+  - Procedural defect in the motion
+  - Failure to provide notice of the motion
+acts:
+  - Defendant served Requests for Admissions
+  - Plaintiff failed to respond
+agreements:
+  - None
+laws:
+  - Code of Civil Procedure section 2033.010
+  - Code of Civil Procedure section 2033.280
+  - Code of Civil Procedure section 1010.6(c)
+  - Code of Civil Procedure section 2023.010
+  - California Rules of Court 2.251
+roles:
+  - Judge
+  - Plaintiff (Daniel Cedillos)
+  - Defendant (Levons Edgars Isajans)
+significant_statements:
+  - The motion to deem the truth of matters is denied on procedural grounds.
+  - The Court denied the request for monetary sanctions.
+```
+
+And here is a summary of the tentative ruling in English text:
+
+This tentative ruling is regarding the motion to deem the truth of matters in the Requests for Admissions, Set One, filed by the defendant, Levons Edgars Isajans. The plaintiff, Daniel Cedillos, is self-represented and has failed to respond to the requests for admissions. The defendant seeks to deem the truth of matters in the requests as admitted and to impose monetary sanctions. The court finds that the motion is procedurally defective due to the failure to provide notice of the motion to the plaintiff. Therefore, the motion is denied, and the request for monetary sanctions is also denied.

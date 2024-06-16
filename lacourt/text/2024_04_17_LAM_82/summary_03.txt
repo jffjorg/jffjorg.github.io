@@ -1,0 +1,60 @@
+Here is the summary in YAML format:
+
+```yaml
+case_number: unknown
+plaintiff: Petitioner
+defendant: EDD (Employment Development Department)
+people_names:
+  - Petitioner
+  - EDD Representative
+company_names:
+  - EDD (Employment Development Department)
+places:
+  - California
+dates:
+  - January 2021
+  - 2020
+  - 2021
+events:
+  - Overpayment notice issued
+  - Petitioner received benefits
+  - Petitioner received second notice of overpayment
+  - Petitioner's petition for review
+money:
+  - $13,939.90 (alleged overpayment)
+  - 30 percent statutory penalty
+intentions:
+  - Determine if there was an overpayment
+  - Review Petitioner's payments for IHSS
+facts:
+  - Petitioner received IHSS payments
+  - EDD issued notice of overpayment
+  - Petitioner received second notice of overpayment
+  - Petitioner is liable for overpaid amounts
+disputes:
+  - Whether there was an overpayment
+  - Whether IHSS payments are excludable from taxable income
+acts:
+  - Petitioner received IHSS payments
+  - EDD issued notices of overpayment
+agreements:
+  - 26 United States Code at section 131 (providing exclusion from taxable income for certain payments)
+laws:
+  - 26 United States Code at section 131
+  - California statutes (not specified)
+case_citations:
+  - 26 United States Code at section 131
+  - (no other citations mentioned)
+statutes:
+  - 26 United States Code at section 131
+roles:
+  - Petitioner (claimant)
+  - EDD Representative (respondent)
+significant_statements:
+  - The issue is not about the alleged amount of overpayment, but whether there was, in fact, an overpayment.
+  - IHSS payments received by Petitioner do not relate to foster care.
+```
+
+And here is a summary of the judge's tentative ruling in English text:
+
+The judge is considering a petition from Petitioner, who allegedly received overpaid benefits from the EDD. The EDD issued two notices of overpayment, one for benefits paid in the first four months of 2021 and another for benefits paid in 2020 and January 2021. The second notice indicated an overpayment of $13,939.90, plus a 30 percent statutory penalty. However, the judge is not considering the amount of the overpayment, but rather whether there was actually an overpayment. The issue turns on whether Petitioner was required to report certain payments received for providing In-Home Support Services (IHSS). The EDD claims that some payments, including "difficulty of care payments," are excludable from taxable income under section 131 of the Internal Revenue Code. However, the judge notes that IHSS payments received by Petitioner do not relate to foster care, which would be covered under section 131. The judge is considering the facts and the law to determine whether there was an overpayment and whether Petitioner is liable for the overpaid amounts.

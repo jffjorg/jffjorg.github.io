@@ -1,0 +1,99 @@
+Here is the summary in YAML format:
+
+```
+case_number: [insert case number]
+
+people:
+  - Plaintiff: Arden Silverman
+  - Defendant: International Cosmetics & Regulatory Specialist LLC
+
+company_names:
+  - International Cosmetics & Regulatory Specialist LLC
+
+places:
+  - Spring Street Courthouse
+
+dates:
+  - May 03, 2023
+  - July 03, 2023
+  - July 26, 2023
+  - September 14, 2023
+  - November 02, 2023
+  - December 12, 2023
+  - January 23, 2024
+  - February 27, 2023
+  - February 28, 2023
+
+events:
+  - Plaintiff filed a complaint for common counts
+  - Defendant moved for default to be entered against the Plaintiff
+  - The Clerk entered default against the Defendant
+  - The Court entered default judgment against the Defendant
+  - The Defendant filed a Motion to Vacate Default Judgment
+  - The Court granted the Defendant's motion and vacated the Default and Default Judgment
+  - The Court reassigned the matter to Commissioner Latrice A.G. Byrdsong
+  - Plaintiff filed a Motion to Strike Answer of Defendant
+  - Defendant responded in opposition
+  - Plaintiff filed a reply
+
+money:
+  - $15,444.37 (Default Judgment)
+
+intentions:
+  - Plaintiff seeks to strike Defendant's Answer
+  - Defendant seeks to have the Court deny Plaintiff's motion
+
+facts:
+  - Plaintiff filed a complaint for common counts
+  - Defendant moved for default to be entered against the Plaintiff
+  - The Clerk entered default against the Defendant
+  - The Court entered default judgment against the Defendant
+  - The Defendant filed a Motion to Vacate Default Judgment
+  - The Court granted the Defendant's motion and vacated the Default and Default Judgment
+  - The Court reassigned the matter to Commissioner Latrice A.G. Byrdsong
+
+disputes:
+  - Plaintiff seeks to strike Defendant's Answer
+  - Defendant opposes the motion
+
+acts:
+  - Plaintiff filed a complaint for common counts
+  - Defendant moved for default to be entered against the Plaintiff
+  - The Clerk entered default against the Defendant
+  - The Court entered default judgment against the Defendant
+  - The Defendant filed a Motion to Vacate Default Judgment
+  - The Court granted the Defendant's motion and vacated the Default and Default Judgment
+
+agreements:
+  - The Court's December 12, 2023, Order vacated both the default entered on July 03, 2023, and the default judgment on July 26, 2023
+
+laws:
+  - CCP § 1013
+  - CCP § 1013a
+  - CCP § 12c
+  - CCP § 1005(b)
+  - CCP § 435
+  - CCP § 1250.330
+  - Code of Civ. Proc. § 1250.330
+
+case_citations:
+  - Pulte Homes Corp. v. Williams Mechanical, Inc. (2016) 2 CA5th 267, 273
+
+statutes:
+  - CCP § 1250.330
+  - Code of Civ. Proc. § 1250.330
+
+roles:
+  - Judge
+  - Plaintiff
+  - Defendant
+
+significant_statements:
+  - The Court finds Plaintiff's motion improper
+  - The Court's order vacated both the default entered on July 03, 2023, and the default judgment on July 26, 2023
+  - The Court denied Plaintiff's Motion to Strike
+```
+
+And here is a summary of the judge's tentative ruling in English text:
+
+The judge has denied the plaintiff's motion to strike the defendant's answer. The plaintiff had argued that the defendant's answer was improperly filed because it was not signed by the defendant's attorney of record and because the defendant did not take any action to vacate the default entered on July 03, 2023. The defendant had argued that the court's order vacating the default and default judgment on December 12, 2023, meant that the defendant's answer was properly filed. The court agrees with the defendant and finds that the plaintiff's motion is improper. The court also corrects its prior order to specify that the default entered on July 03, 2023, is set aside in addition to the default judgment being vacated.

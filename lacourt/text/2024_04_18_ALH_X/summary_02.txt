@@ -1,0 +1,56 @@
+Here is the summary in YAML format:
+
+```
+case_number: 22AHCV01050
+plaintiff_name: Headway Capital, LLC
+defendant_name: Luke Bosenndorfer, dba Electric 70
+people_names:
+  - Joel L. Lofton
+companies:
+  - Headway Capital, LLC
+  - Electric 70
+places:
+  - California
+dates:
+  - November 10, 2022
+  - November 16, 2022
+  - December 23, 2022
+  - April 18, 2024
+events:
+  - Breach of written guarantee for a loan
+  - Failure to make payments
+  - Damage in the sum of $31,853.43
+money: $31,853.43
+intentions:
+  - Plaintiff seeks judgment on the pleadings
+facts:
+  - Parties entered into a written guarantee for a loan
+  - Defendant breached the agreement
+  - Plaintiff performed all obligations
+  - Plaintiff was damaged
+disputes:
+  - Defendant failed to allege any defense
+acts:
+  - Plaintiff filed a complaint
+  - Defendant filed an answer
+  - Plaintiff moved for judgment on the pleadings
+agreements:
+  - Written guarantee for a loan
+laws:
+  - Code Civ. Proc. section 438
+  - Code Civ. Proc. section 438(d)
+statutes:
+  - Bezirdjian v. O'Reilly (2010) 183 Cal.App.4th 316
+  - Schabarum v. California Legislature (1998) 60 Cal.App.4th 1205
+roles:
+  - Judge: Joel L. Lofton
+  - Plaintiff: Headway Capital, LLC
+  - Defendant: Luke Bosenndorfer, dba Electric 70
+significant_statements:
+  - Defendant admitted to each allegation in Plaintiff's complaint
+  - Plaintiff's motion for judgment on the pleadings is GRANTED
+```
+
+And here is a summary in English text:
+
+The Judge, Joel L. Lofton, has issued a tentative ruling in the case between Plaintiff Headway Capital, LLC and Defendant Luke Bosenndorfer, dba Electric 70. The Plaintiff is seeking judgment on the pleadings, arguing that the Defendant breached a written guarantee for a loan and owes an outstanding balance of $31,853.43. The Judge has granted the Plaintiff's motion, finding that the Defendant has failed to allege any defense to the Plaintiff's complaint. The Defendant's answer did not state any allegations that are false, and the Plaintiff's complaint states facts sufficient to constitute a cause of action against the Defendant. The Judge has ruled that the Plaintiff is entitled to judgment as a matter of law.

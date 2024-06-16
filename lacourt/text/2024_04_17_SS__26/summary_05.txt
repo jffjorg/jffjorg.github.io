@@ -1,0 +1,57 @@
+Here is the summary in YAML format:
+
+```
+case_number: 24STLC00232
+plaintiff_name: DD Partners, LLC
+defendant_name: Arthur Davis
+people_names:
+  - Arthur Davis
+company_names:
+  - DD Partners, LLC
+places:
+  - California
+dates:
+  - February 14, 2024
+  - March 15, 2024
+  - April 17, 2024
+events:
+  - Requests for Admission
+  - Motion to Deem Requests for Admission Admitted
+  - Request for Sanctions
+  - Failure to serve verified responses
+money:
+  - $436.26
+  - $425.00
+  - $11.26
+intentions:
+  - To deem requests for admission admitted
+  - To award sanctions
+facts:
+  - Defendant Arthur Davis failed to serve verified responses to requests for admission
+  - Plaintiff DD Partners, LLC filed a motion to deem requests for admission admitted
+  - No opposition was filed to the motion
+disputes:
+  - Failure to respond to requests for admission
+  - Request for sanctions
+acts:
+  - Serving requests for admission
+  - Filing a motion to deem requests for admission admitted
+  - Awarding sanctions
+agreements:
+  - None
+laws:
+  - California Code of Civil Procedure Section 2033.280
+statutes:
+  - California Code of Civil Procedure Section 2033.280
+roles:
+  - Plaintiff: DD Partners, LLC
+  - Defendant: Arthur Davis
+  - Judge: [Judge's name]
+significant_statements:
+  - "Plaintiff DD PARTNERS, LLC'S Motion to Deem Requests for Admission Admitted and Request for Sanctions is GRANTED."
+  - "DEFENDANT ARTHUR DAVIS IS ORDERED TO PAY SANCTIONS OF $436.26 TO PLAINTIFF'S COUNSEL WITHIN 20 DAYS' SERVICE OF THIS ORDER."
+```
+
+And here is the English-text summary:
+
+The tentative ruling is in favor of the plaintiff DD Partners, LLC, ordering defendant Arthur Davis to pay sanctions of $436.26 to the plaintiff's counsel within 20 days of service of this order. The ruling is based on the plaintiff's failure to serve verified responses to the requests for admission, and the defendant's failure to oppose the motion. The court found that the plaintiff is entitled to an order deeming the requests for admission admitted, and awarded sanctions under California Code of Civil Procedure Section 2033.280.
