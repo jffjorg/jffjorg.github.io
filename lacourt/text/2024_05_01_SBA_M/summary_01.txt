@@ -1,0 +1,59 @@
+Here is a summary of the judge's tentative ruling in YAML format:
+
+```
+Case Number: 19TRCV00810
+Plaintiff's Name: Bo-D-Bro, Inc.
+Defendant's Name: Atkinson and Associates, et al.
+People-Names:
+  - Atkinson, George
+Company-Names:
+  - Bo-D-Bro, Inc.
+  - Atkinson and Associates
+Places:
+  - Los Angeles
+Dates:
+  - September 3, 2019 (Complaint filed)
+  - October 13, 2016 (Subcontract Agreement)
+  - August 3, 2017 (Subcontract Agreement)
+  - January 23, 2020 (Tender of defense)
+  - May 1, 2024 (Hearing Date)
+Events:
+  - Contractual and construction defect related claims
+  - Motion for Summary Adjudication
+  - Tender of defense
+  - Cross-Complaint filed
+Money: None mentioned
+Intentions:
+  - To determine whether the opposing cross-defendants owed a duty to defend
+Facts:
+  - The parties entered into subcontract agreements
+  - The subcontractors failed to defend the plaintiff
+  - The plaintiff tendered its defense to the subcontractors
+  - The subcontractors refused to defend the plaintiff
+Disputes:
+  - Whether the subcontractors owed a duty to defend
+Acts:
+  - The plaintiff filed a complaint
+  - The subcontractors refused to defend the plaintiff
+  - The plaintiff tendered its defense to the subcontractors
+Agreements:
+  - Subcontract Agreement
+Laws:
+  - California Code of Civil Procedure, Section 437c
+  - California Civil Code, Section 2778
+Case Citations:
+  - Aguilar v. Atlantic Richfield Co. (2001) 25 Cal.4th 826
+  - Adler v. Manor Healthcare Corp. (1992) 7 Cal. App. 4th 1110
+  - Scalf v. D. B. Log Homes, Inc. (2005) 128 Cal. App. 4th 1510
+  - Avivi v. Centro Medico Urgente Medical Center (2008) 159 Cal. App. 4th 463
+  - Crawford v. Weather Shield Mfg. Inc. (2008) 44 Cal.4th 541
+  - UDC-Universal Development v. CH2M Hill, Inc. (2010) 181 Cal. App. 4th 10
+Roles:
+  - Plaintiff: Bo-D-Bro, Inc.
+  - Defendant: Atkinson and Associates, et al.
+Significant Statements:
+  - The duty to defend arises immediately upon tender by the indemnitee.
+  - The duty to defend cannot depend on the outcome of the litigation.
+```
+
+Summary: The judge denied the plaintiff's motions for summary adjudication, finding that the plaintiff failed to meet its initial burden of showing that the opposing cross-defendants owed a duty to defend. The judge held that the subcontractors' indemnification provision, Section 27.1, requires that the claim must result from the subcontractors' performance and, in addition, arise from, in part, on the subcontractors' negligence. The plaintiff failed to provide competent evidence to support this contention.

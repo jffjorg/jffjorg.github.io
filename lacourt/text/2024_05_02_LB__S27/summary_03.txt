@@ -1,0 +1,56 @@
+Here is the summary in YAML format:
+
+```
+case_number: 23LBCV00552
+hearing_date: 2024-05-02
+dept: S27
+background:
+  - Plaintiffs: Marcus Miller and Angie Muhamad
+  - Defendants: Brand Scaffold Services, Inc. and The AES Corporation
+  - Injuries sustained in a workplace accident at AES's power plant in Puerto Rico
+  - Miller, a California resident and employee of a California corporation, was injured
+
+procedural_history:
+  - Defendant AES Corporation filed a motion to quash service of the summons and complaint on 07/28/23
+  - Defendant Brand Energy Infrastructure Services of Puerto Rico filed a joinder to the motion on 10/17/23
+  - Defendant AES Puerto Rico, Inc. and AES Puerto Rico, L.P. filed a similar motion on 10/19/23
+  - Court denied plaintiff's ex parte application to continue the hearing on 10/27/24
+  - Plaintiff dismissed AES Corporation on 11/01/23
+
+parties_positions:
+  - Defendant: Contend they are Puerto Rico entities with insufficient contacts with California
+  - Plaintiff: Contend Defendants have sufficient contacts with California through an ongoing relationship with his employer
+  - Defendant: Contend California is not a convenient forum and the case should be dismissed
+  - Plaintiff: Contend Puerto Rico is not a convenient forum and the case should be heard in California
+
+law_governing_specific_jurisdiction:
+  - The Court summarized the law regarding specific jurisdiction in connection with its ruling on the motion for a protective order
+  - The Court will again summarize the law in this regard
+
+facts:
+  - Defendants produce energy in Puerto Rico and hire contractors, including JT Thorpe, which is based in California
+  - JT Thorpe has consistently provided refractory work to Defendants from 2009 to the present
+  - Plaintiff was injured while working for JT Thorpe on a project for Defendants
+
+waiver:
+  - Plaintiff argues Defendants waived their right to challenge jurisdiction by filing a case management statement and a motion for a protective order
+  - The Court finds that Defendants did not waive their right to challenge jurisdiction
+
+analysis:
+  - The Court finds that Defendants purposefully established minimum contacts with California through their long-standing relationship with JT Thorpe and their direct invitation to bid
+  - The Court grants Defendant's motion to quash and denies Plaintiff's motion to continue the hearing
+
+forum_non_conveniens:
+  - The Court finds that Puerto Rico is a suitable alternative forum
+  - The Court weighs the private interest factors and finds that the parties are closely balanced
+  - The Court finds that the public interest factors favor Plaintiff's choice of venue
+  - The Court denies Defendant's alternative motion to dismiss
+
+intention:
+  - The Court intends to deny Defendant's motion to quash and deny Plaintiff's motion to continue the hearing
+  - The Court intends to deny Defendant's alternative motion to dismiss
+```
+
+And here is the summary in English text:
+
+The Court's tentative ruling grants Defendant's motion to quash service of the summons and complaint, denying Plaintiff's motion to continue the hearing. The Court finds that Defendant's purposeful establishment of minimum contacts with California through their long-standing relationship with JT Thorpe and their direct invitation to bid establishes sufficient jurisdiction. The Court also denies Defendant's alternative motion to dismiss, finding that Puerto Rico is not a suitable alternative forum and that Plaintiff's choice of venue in California is entitled to deference.

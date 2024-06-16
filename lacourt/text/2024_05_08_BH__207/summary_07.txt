@@ -1,0 +1,58 @@
+Here is the summary in YAML format:
+
+```
+case_number: "Unknown"
+plaintiff_name: "Unknown"
+defendant_name: "Unknown"
+people_names:
+  - Plaintiff
+  - Defendant
+company_names:
+  - Landmark Screens, LLC
+  - Morgan, Lewis & Bockius, LLP
+company_roles:
+  - Plaintiff
+  - Defendant
+places:
+  - San Martin
+  - Calabasas
+dates:
+  - December 1999
+  - December 2021
+events:
+  - Purchase of San Martin property
+  - Purchase of Calabasas property
+  - Residence at San Martin property
+money:
+  - Unknown
+intentions:
+  - Unknown
+facts:
+  - Plaintiff purchased San Martin property in December 1999
+  - Plaintiff lived at San Martin property for years
+  - Plaintiff purchased Calabasas property in December 2021
+disputes:
+  - Unknown
+acts:
+  - Unknown
+agreements:
+  - Unknown
+laws:
+  - California Rules of Court
+  - Cal. Rules of Court, rule 8.1115
+case_citations:
+  - Landmark Screens, LLC v. Morgan, Lewis & Bockius, LLP (2010) 183 Cal.App.4th 238, 251, fn. 6
+statutes:
+  - Cal. Rules of Court, rule 8.1115
+roles:
+  - Judge
+  - Plaintiff
+  - Defendant
+significant_statements:
+  - "But Plaintiff’s principal residence during the “years” from December 1999 to December 2021 when Plaintiff purchased the Calabasas property has no bearing on this action."
+  - "Although [a court] may not rely on unpublished California cases, the California Rules of Court do not prohibit citation to unpublished federal cases, which may properly be cited as persuasive, although not binding, authority."
+```
+
+And here is the English-text summary:
+
+The judge's tentative ruling addresses the relevance of the plaintiff's principal residence during the time period from 1999 to 2021, which has no bearing on the current action. The judge also clarifies that although unpublished California cases are not binding, unpublished federal cases can be cited as persuasive authority, citing Landmark Screens, LLC v. Morgan, Lewis & Bockius, LLP (2010) 183 Cal.App.4th 238, 251, fn. 6.

@@ -1,0 +1,69 @@
+Here is the summary in YAML format:
+
+```
+case_number: 23PSCV02476
+plaintiff_name: Weijun Zhang
+defendant_name: Bolun Zhang
+people_names:
+  - Weijun Zhang
+  - Bolun Zhang
+  - Jinghan Zhang
+company_names:
+  - All Good Escrow, Inc.
+  - Taikoo Supply Chain, Inc.
+places: 
+  - California
+dates:
+  - August 14, 2023
+  - October 25, 2023
+  - January 16, 2024
+  - February 22, 2024
+  - April 8, 2024
+  - May 9, 2024
+events:
+  - Filing of complaint
+  - Filing of motions to compel
+  - Hearing on motions
+money:
+  - $585.00 (per motion)
+  - $1,170.00 (total)
+  - $350.00 (hourly rate)
+  - $60.00 (filing fee)
+intentions:
+  - To compel responses to Form Interrogatories and Request for Production of Documents
+  - To obtain monetary sanctions
+facts:
+  - Plaintiff failed to respond to Form Interrogatories and Request for Production of Documents
+disputes:
+  - Failure to respond to discovery requests
+acts:
+  - Filing of motions to compel
+  - Failure to respond to discovery requests
+agreements:
+  - None specified
+laws:
+  - California Code of Civil Procedure
+  - California Civil Code
+  - Penal Code
+  - California Rules of Court
+case_citations:
+  - Code Civ. Proc., § 2030.290
+  - Code Civ. Proc., § 2031.300
+statutes:
+  - California Code of Civil Procedure
+  - California Civil Code
+  - Penal Code
+roles:
+  - Judge
+  - Plaintiff
+  - Defendant
+  - Attorney
+significant_statements:
+  - The Court GRANTS Defendant Bolun Zhang's motions to compel responses to Form Interrogatories and Request for Production of Documents.
+  - Plaintiff Weijun Zhang must provide verified, code-compliant responses, without objection, and produce all responsive documents.
+  - The Court GRANTS Defendant Bolun Zhang's requests for monetary sanctions in the reduced amount of $585.00 per motion, for a total of $1,170.00.
+```
+
+And here is a summary of the judge's tentative ruling in English text:
+
+The court has granted Defendant Bolun Zhang's motions to compel responses to Form Interrogatories and Request for Production of Documents. Plaintiff Weijun Zhang must provide verified, code-compliant responses, without objection, and produce all responsive documents within 20 days of the court's order. Additionally, the court has granted Defendant Bolun Zhang's requests for monetary sanctions in the reduced amount of $585.00 per motion, for a total of $1,170.00.

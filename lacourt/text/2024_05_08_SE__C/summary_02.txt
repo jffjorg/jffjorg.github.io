@@ -1,0 +1,61 @@
+Here is the summary in YAML format:
+```yaml
+case_number: 22NWCV00271
+plaintiff: C Senior Operations LLC
+defendant: Certified Records Management, LLC
+people_names:
+  - Certified Records Management, LLC
+  - C Senior Operations LLC
+companies:
+  - Certified Records Management, LLC
+  - C Senior Operations LLC
+places:
+  - Department SE-C
+dates:
+  - May 8, 2024
+  - December 20, 2024
+  - January 30, 2025
+  - August 1, 2024
+events:
+  - Ex Parte Application
+  - Motion for Sanctions
+  - Hearing
+  - Trial
+  - Violation of Court Order
+money:
+  - $7,500.00
+intentions:
+  - To advance the hearing
+  - To issue sanctions
+  - To seek monetary sanctions
+facts:
+  - Defendant's Motion for Sanctions
+  - Violation of Court Order
+  - Requests for Production (set one)
+  - Failure to respond
+disputes:
+  - Certified Records Management, LLC vs. C Senior Operations LLC
+acts:
+  - Defendant's Ex Parte Application
+  - Motion for Sanctions
+  - Violation of Court Order
+  - Failure to respond
+agreements:
+  - Code of Civil Procedure
+laws:
+  - Code of Civil Procedure
+case_citations: []
+statutes: []
+roles:
+  - Plaintiff: C Senior Operations LLC
+  - Defendant: Certified Records Management, LLC
+  - Moving Party: Certified Records Management, LLC
+  - Counsel: Counsel of Record for Senior Operations LLC
+significant_statements:
+  - Defendant's Motion for Sanctions granted
+  - Trial scheduled for December 20, 2024
+  - Hearing continued to August 1, 2024
+```
+And here is the English-text summary:
+
+This tentative ruling by the Judge grants the defendant's ex parte application to advance the hearing on their motion for sanctions. The motion seeks issue sanctions, evidentiary sanctions, and monetary sanctions in the amount of $7,500.00 against the plaintiff, Senior Operations LLC, and/or its counsel of record for violating a court order compelling further responses to requests for production. The trial is scheduled for December 20, 2024, and the hearing is continued to August 1, 2024, at 9:30 a.m. in Department SE-C. The moving party must give notice, and opposing and reply papers must be filed and served in accordance with the new hearing date.

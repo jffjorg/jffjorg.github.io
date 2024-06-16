@@ -1,0 +1,55 @@
+Here is the YAML representation of the legal document:
+
+```
+Case Number: 23CMCV00831
+Plaintiff's Name: Norma Wilson
+Defendant's Name: Nails on Fleek, et al.
+People-Names:
+  - Jane Doe
+Company-Names:
+  - Nails on Fleek
+Places:
+  - subject premises
+Dates:
+  - June 6, 2023
+  - May 7, 2024
+  - May 9, 2024
+Events:
+  - Complaint filed
+  - Manicure and pedicure
+  - Aggressive touching and tugging
+  - Physical attack and assault
+  - Filing of opposition and reply
+Money:
+  - $25,000.00
+Intentions:
+  - Reclassification of case
+Facts:
+  - Plaintiff received a manicure and pedicure
+  - Defendant Jane Doe aggressively touched and tugged on Plaintiff's arm
+  - Plaintiff suffered injuries and damages
+Disputes:
+  - Classification of case
+Acts:
+  - Filing of complaint
+  - Filing of motion to reclassify
+  - Filing of opposition
+Agreements:
+  - None
+Laws:
+  - Walker v. Superior Court (1991)
+  - Code of Civ. Proc., § 403.040
+  - Maldonado v. Superior Court (1996)
+Statutes:
+  - Code of Civ. Proc., § 403.040
+Roles:
+  - Judge
+  - Plaintiff
+  - Defendant
+Significant Statements:
+  - "The Court may not properly 'trespass into the province of the trier of fact'"
+```
+
+And here is the English-text summary of the judge's tentative ruling:
+
+The court has denied the defendant's motion to reclassify the case as a limited jurisdiction matter. The defendant has not provided any evidence in support of the motion, and the court cannot find that the case is incorrectly classified. The defendant's arguments are based on the substantive allegations rather than the ascertainable damages. The court also notes that it cannot "trespass into the province of the trier of fact" and translate non-pecuniary damages into monetary amounts. Therefore, the court denies the motion to reclassify the case.

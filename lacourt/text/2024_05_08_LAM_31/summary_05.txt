@@ -1,0 +1,54 @@
+Here is the summary in YAML format:
+
+```
+case_number: [insert case number]
+plaintiff_name: [insert plaintiff name]
+defendant_name: [insert defendant name]
+people_names:
+  - Sam Azimtash
+  - Chan
+company_names:
+  - Allen-Pacific, Ltd.
+places:
+  - Costa Mesa Mobile Home Estates
+dates:
+  - April 30, 2024
+events:
+  - Belated service of unverified responses
+  - Failure to serve timely responses
+  - Request for relief from waiver of objections
+money:
+  - None mentioned
+intentions:
+  - Defendant seeks relief from waiver of objections
+  - Plaintiff objects to representation
+facts:
+  - Defendant served unverified responses at 11:09 p.m. on April 30, 2024
+  - Plaintiff could not have taken issue with discovery responses served after oppositions were filed
+disputes:
+  - Defendant's failure to serve timely responses
+  - Plaintiff's objection to representation
+acts:
+  - Defendant served unverified responses
+  - Plaintiff filed oppositions
+  - Defendant seeks relief from waiver of objections
+agreements:
+  - None mentioned
+laws:
+  - Code of Civil Procedure, §§ 2030.290, 2031.300, 2033.280
+  - California Civil Procedure, § 2033.210, 2033.220, 2033.230
+case_citations:
+  - Demyer v. Costa Mesa Mobile Home Estates (1995) 36 Cal.App.4th 393, 394-395
+  - Wilcox v. Birtwhistle (1999) 21 Cal.4th 973, 983, fn. 12
+  - Allen-Pacific, Ltd. v. Sup.Ct. (Chan) (1997) 57 Cal.App.4th 1546, 1551
+roles:
+  - Judge
+significant_statements:
+  - Defendant's failure to serve timely responses may be excusable
+  - Relief from waiver of objections should be brought by motion
+  - Unverified responses are not substantially compliant
+```
+
+And here is a summary of the judge's tentative ruling in English text:
+
+The judge is considering Defendant's requests for relief from waiver of objections regarding Plaintiff's requests for admission, interrogatories, and production demands. The court has reviewed Defendant's responses and is inclined to find them substantially compliant, except for the lack of verification. The court will not adopt the portion of this ruling deeming the admissions admitted if Defendant provides proof that verifications have been served at the hearing. Additionally, the court notes that Defendant should have brought a motion for relief from waiver, but will exercise its discretion to consider the request. The court will also consider Defendant's representation that Plaintiff did not take issue with the belated service of unverified responses, but Plaintiff objects to this representation. The court will review the emails showing that Defendant served the unverified responses at 11:09 p.m. on April 30, 2024, after Defendant filed its oppositions.

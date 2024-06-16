@@ -1,0 +1,59 @@
+Here is the YAML summary of the tentative ruling:
+
+```
+case_number: 21STCV04939
+plaintiff: Francis Yee-Hong Wong
+defendant: Claire Yee-Ying Wong, et al.
+people_names:
+  - Francis Yee-Hong Wong
+  - Claire Yee-Ying Wong
+  - Helen Wong
+  - Theresa Wong Lee
+company_names: []
+places:
+  - Los Angeles
+  - California
+dates:
+  - April 30, 2024
+  - November 16, 2021
+events:
+  - Motion to Dismiss
+  - Arbitration
+  - Court Hearing
+money:
+  - Arbitration costs
+  - Plaintiff's share
+intentions:
+  - Plaintiff: intends to arrange a hearing before the arbitrator
+  - Defendants: seek to dismiss the action for lack of prosecution
+facts:
+  - Plaintiff refused to pay arbitration costs
+  - Plaintiff was ordered to arbitration on November 16, 2021
+  - Plaintiff is ill and unable to participate in arbitration
+disputes:
+  - Dispute over arbitration costs
+  - Dispute over lack of prosecution
+acts:
+  - Plaintiff's refusal to pay arbitration costs
+  - Defendant's motion to dismiss
+agreements:
+  - Court order to arbitration on November 16, 2021
+  - Plaintiff's intention to arrange a hearing before the arbitrator
+laws:
+  - CCP § 583.410 (lack of prosecution)
+  - Court order to arbitration
+case_citations: []
+statutes:
+  - CCP § 583.410
+roles:
+  - Moving Party: Defendants
+  - Responding Party: Plaintiff
+  - Judge: Maurice Leiter
+significant_statements:
+  - The Court declines to dismiss the action on the grounds of lack of prosecution.
+  - The Defendants' motion is DENIED.
+```
+
+And here is the English text to summarize the judge's tentative ruling:
+
+"Defendants' Motion to Dismiss is denied. The court declines to dismiss the action for lack of prosecution, despite Defendants' assertion that Plaintiff has refused to pay arbitration costs. Plaintiff represents that they have been ill and unable to participate in arbitration, and intend to arrange a hearing before the arbitrator prior to the hearing on this motion. The court finds that Plaintiff's illness and intention to participate in arbitration outweigh the Defendants' concerns about lack of prosecution. The motion is denied."

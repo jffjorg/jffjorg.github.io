@@ -1,0 +1,88 @@
+Here is a summary of the tentative ruling in YAML format:
+
+```
+case_number: 22STCV11876
+hearing_date: 2024-05-03
+dept: 30
+plaintiff: Jamar Bryant
+defendant: General Motors, LLC
+people:
+  - Jamar Bryant
+  - David N. Barry, Esq.
+  - Otis R. Hayes III, Esq.
+  - Andrew P. Matera, Esq.
+  - Brian J. Kim, Esq.
+companies:
+  - General Motors, LLC
+places:
+  - California
+dates:
+  - 2022-03-16
+  - 2022-04-04
+  - 2022-06-03
+  - 2022-08-02
+  - 2022-09-23
+  - 2022-10-10
+  - 2022-11-14
+  - 2023-01-04
+  - 2023-02-06
+  - 2023-03-13
+  - 2023-06-02
+  - 2023-09-16
+  - 2023-11-14
+  - 2024-02-01
+  - 2024-05-03
+events:
+  - Motion for attorney's fees
+  - Settlement agreement
+  - Offer of compromise
+  - Discovery requests
+  - Meet-and-confer correspondence
+  - Order to show cause hearings
+  - Fee motion
+money:
+  - Attorney's fees: $22,131
+  - Costs: $1,600.93
+  - Litigation expenses: $1,830.14
+  - Parking and mileage fees: $184.26
+  - Courier fees: $44.95
+intentions:
+  - Award attorney's fees and costs to Plaintiff
+  - Determine reasonableness of hours and rates
+  - Address disputes over fees
+facts:
+  - Plaintiff moved for attorney's fees
+  - Defendant GM objected to the motion
+  - Plaintiff's counsel billed for various activities
+  - Defendant GM disputed the reasonableness of the hours and rates
+disputes:
+  - Timeliness of the motion for attorney's fees
+  - Reasonableness of hours and rates
+  - Excessive time spent on certain activities
+  - Need for travel time to hearings
+acts:
+  - Plaintiff filed a motion for attorney's fees
+  - Defendant GM objected to the motion
+  - Plaintiff's counsel billed for various activities
+  - Defendant GM disputed the reasonableness of the hours and rates
+agreements:
+  - Settlement agreement
+  - Offer of compromise
+laws:
+  - California Code of Civil Procedure
+  - California Rules of Court
+  - Song-Beverly Act
+  - Code of Civil Procedure
+roles:
+  - Judge
+  - Plaintiff's counsel
+  - Defendant's counsel
+significant statements:
+  - "As a general rule, attorney fees are not recoverable as costs unless they are authorized by statute or agreement."
+  - "The Court finds that the motion is timely."
+  - "The Court agrees with the Plaintiff and finds the fees reasonable."
+```
+
+And here is a summary of the tentative ruling in English text:
+
+The Court awards attorney's fees to Plaintiff Jamar Bryant in the amount of $22,131, which includes 71.3 hours of work by Plaintiff's counsel at an average hourly rate of $312.50. The Court also awards costs to Plaintiff in the amount of $1,600.93, including $1,830.14 in litigation expenses. The Court rejects some of the hours billed by Plaintiff's counsel and reduces the attorney's fees accordingly. The Court also disallows certain costs, including $4,315 for time spent attending order to show cause hearings. The Court finds that some of the time spent by Plaintiff's counsel was excessive or unnecessary, and therefore reduces the attorney's fees.

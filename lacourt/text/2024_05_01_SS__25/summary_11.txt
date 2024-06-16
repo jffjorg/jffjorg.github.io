@@ -1,0 +1,49 @@
+Here is the summary in YAML format:
+
+```
+case_number: 24STLC00793
+plaintiff: Rosa Torres
+defendant:
+  - Samo Enterprises, Inc. dba Western Motor Sport
+  - Westlake Services, LLC dba Westlake Financial Services
+  - Hudson Insurance Company
+  - Does 1 through 40, inclusive
+people: [Rosa Torres]
+companies: [Samo Enterprises, Inc., Westlake Services, LLC, Hudson Insurance Company]
+places:
+  - California
+  - Western Motor Sport
+  - Westlake Financial Services
+dates:
+  - May 1, 2024
+events:
+  - Motion to Compel Arbitration
+  - Request for Stay of Proceedings
+money: [$X] (amount not specified)
+intentions:
+  - Plaintiff seeks to compel arbitration
+  - Defendant seeks to avoid arbitration
+facts:
+  - Plaintiff filed a motion to compel arbitration
+  - Defendant did not oppose the motion
+disputes:
+  - Whether the court should compel arbitration
+acts:
+  - Plaintiff filed a motion to compel arbitration
+  - Defendant did not respond to the motion
+agreements: [none]
+laws:
+  - [relevant laws or regulations]
+case_citations: []
+statutes: []
+roles:
+  - Plaintiff: Rosa Torres
+  - Defendant: Samo Enterprises, Inc. and Westlake Services, LLC
+  - Judge: [judge's name]
+significant_statements:
+  - The notice of motion sets forth the incorrect address for the hearing on the motion.
+```
+
+And here is the summary in English text:
+
+This is a tentative ruling regarding a motion to compel arbitration between Rosa Torres, the plaintiff, and Samo Enterprises, Inc. and Westlake Services, LLC, the defendants. The plaintiff seeks to compel arbitration, while the defendants have not opposed the motion. The notice of motion sets forth the incorrect address for the hearing on the motion, which is improper. The court will consider the motion and make a ruling at a later date.

@@ -1,0 +1,80 @@
+Here is the summary in YAML format:
+
+```
+case_number: 23STCV17130
+plaintiff_name: Chill Space LLC
+defendant_name: Adam Thomas Martinelli
+people_names:
+  - Adam Thomas Martinelli
+  - Robert Wallan
+  - John Potter
+  - Trisha
+  - Does 1-20
+company_names:
+  - Refurbished Lifts Inc.
+  - Chill Space LLC
+  - Trisha's Forklift Sales LLC
+places:
+  - California
+dates:
+  - July 21, 2023
+  - August 2023
+  - August 31, 2023
+  - April 29, 2024
+events:
+  - Motion for leave to file second amended complaint
+  - Service of process by publication
+  - Request for court judgment by default
+money:
+  - None mentioned
+intentions:
+  - Plaintiff seeks to file a second amended complaint and serve defendant via publication
+  - Plaintiff seeks to obtain a judgment by default against defendant Refurbished Lifts Inc.
+facts:
+  - Plaintiff filed initial complaint on July 21, 2023
+  - Plaintiff filed amended complaint to correct defendant's name in August 2023
+  - Plaintiff obtained amended summons on August 31, 2023
+disputes:
+  - Dispute over whether plaintiff may file a second amended complaint
+  - Dispute over whether plaintiff may serve defendant via publication
+  - Dispute over whether plaintiff is entitled to judgment by default
+acts:
+  - Plaintiff filed initial complaint
+  - Plaintiff filed amended complaint
+  - Plaintiff obtained amended summons
+  - Plaintiff seeks to file second amended complaint
+agreements:
+  - None mentioned
+laws:
+  - California Code of Civil Procedure
+  - California Rules of Court
+  - Kittredge Sports Co. v. Superior Court (1989)
+  - Cohen v. Superior Court (1966)
+  - Davis v. Allstate Ins. Co. (1989)
+  - Mirabile v. Smith (1953)
+  - Adams Mfg. & Engineering Co. v. Coast Centerless Grinding Co. (1960)
+case_citations:
+  - Kittredge Sports Co. v. Superior Court (1989)
+  - Cohen v. Superior Court (1966)
+  - Davis v. Allstate Ins. Co. (1989)
+  - Mirabile v. Smith (1953)
+  - Adams Mfg. & Engineering Co. v. Coast Centerless Grinding Co. (1960)
+statutes:
+  - California Code of Civil Procedure, § 473
+  - California Rules of Court, rule 3.1324(a)(1)
+  - California Rules of Court, rule 3.1800(a)(7)
+roles:
+  - Plaintiff: Chill Space LLC
+  - Defendant: Adam Thomas Martinelli
+  - Defendant: Refurbished Lifts Inc.
+  - Defendant: John Potter
+  - Defendant: Trisha's Forklift Sales LLC
+  - Defendant: Does 1-20
+significant_statements:
+  - Plaintiff seeks to file a second amended complaint and serve defendant via publication
+  - Plaintiff seeks to obtain a judgment by default against defendant Refurbished Lifts Inc.
+```
+
+And here is a summary of the judge's tentative ruling in English text:
+
+The judge's tentative ruling grants plaintiff Chill Space LLC's motion for leave to file an amended complaint and for an order permitting service of process on defendant Adam Thomas Martinelli via publication. The judge orders plaintiff to rename the proposed second amended complaint as the first amended complaint and file it forthwith. The judge also orders plaintiff to submit a proposed order for publication on form LASC LACIV 145 forthwith. The judge denies plaintiff's request for court judgment by default without prejudice, vacating the order to show cause re: default judgment.

@@ -1,0 +1,71 @@
+Here is a summary of the tentative ruling in YAML format:
+
+```
+case_number: 23STCV11866
+plaintiff: J.A.
+defendant: Los Angeles Unified School District
+people:
+  - J.A.
+  - Judge Thomas D. Long
+companies:
+  - Los Angeles Unified School District
+places:
+  - Los Angeles
+dates:
+  - June 20, 2023
+  - August 17, 2023
+  - October 2019
+  - January 1, 2009
+events:
+  - Filing of demurrer
+  - Filing of motion to strike
+  - Passage of AB 218
+  - Retroactive application of AB 218
+money:
+  - Claims presentation requirement
+  - Statute of limitations
+  - Tort damages
+  - Statutory treble damages
+intentions:
+  - To determine the constitutionality of AB 218
+  - To revive lapsed claims
+  - To exempt childhood sexual abuse claims from the claims presentation requirement
+facts:
+  - J.A. filed a first amended complaint against the Los Angeles Unified School District alleging childhood sexual abuse
+  - The defendant filed a demurrer and a motion to strike
+  - AB 218 retroactively applies to revive lapsed claims
+  - The Gift Clause prohibits gifts of public funds
+disputes:
+  - Constitutionality of AB 218
+  - Revival of lapsed claims
+  - Exemption from claims presentation requirement
+acts:
+  - Filing of demurrer
+  - Filing of motion to strike
+  - Passage of AB 218
+agreements:
+  - Government Code section 905, subdivision (m)
+  - California Constitution, Article XVI, Section 6
+  - Government Code section 815
+  - Code of Civil Procedure section 340.1
+laws:
+  - Government Code section 905, subdivision (m)
+  - California Constitution, Article XVI, Section 6
+  - Government Code section 815
+  - Code of Civil Procedure section 340.1
+statutes:
+  - Government Code section 905, subdivision (m)
+  - California Constitution, Article XVI, Section 6
+  - Government Code section 815
+  - Code of Civil Procedure section 340.1
+roles:
+  - Judge
+  - Plaintiff
+  - Defendant
+significant statements:
+  - "The court is unpersuaded that the Legislature lacks the power to revive lapsed claims and exempt said claims from the claim presentation requirement of the Government Tort Claims Act."
+  - "AB 218 does neither of these things, but rather revives previously time-barred claims that still must be proven in a court of competent jurisdiction in the manner provided by law, consistent with due process requirements."
+```
+
+Summary:
+The tentative ruling denies the defendant's demurrer and grants the defendant's motion to strike. The court holds that the Legislature has the power to revive lapsed claims and exempt childhood sexual abuse claims from the claims presentation requirement. The court also finds that the retroactive application of AB 218 does not violate the Gift Clause. The court grants the defendant's motion to strike Paragraphs 53-55 and the Prayer for statutory treble damages.

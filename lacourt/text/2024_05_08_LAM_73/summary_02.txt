@@ -1,0 +1,79 @@
+Here is the summary in YAML format:
+
+```
+case_number: BC710719
+plaintiff_names:
+  - Shonna Marie Counter
+  - Garry Michael Kann
+  - Mark Frankel
+  - Douglas Fauth
+  - Herminio Escobar
+  - Shaina Negron
+  - Tyler Hilliman
+  - Samuel Saez III
+  - Gary Brian Bloom
+  - Keith Milo
+  - Ryan Cahouet
+  - Malik Jeter
+defendant_names:
+  - Kaf Industries, Inc.
+  - Kevin Farhang
+company_names:
+  - Homeaway.com
+  - Airbnb.com
+  - Los Angeles Department of Building and Safety (LADBS)
+places:
+  - 1643-16545 S. La Cienega Blvd, Los Angeles, California
+  - Building (referring to the property at 1643-16545 S. La Cienega Blvd)
+dates:
+  - June 20, 2018
+  - February 10, 2020
+  - December 13, 2023
+  - December 14, 2023
+  - February 8, 2024
+events:
+  - Filing of complaint
+  - Filing of cross-complaint
+  - Judgment entered for Plaintiffs against Defendants
+  - Ex Parte Emergency Meeting Application
+  - Motion for reconsideration
+money:
+  - $2,000 per month (rent)
+  - $40,000 (damages)
+intentions:
+  - To vindicate rights and redress physical, emotional, and economic injuries
+facts:
+  - Plaintiffs entered into landlord-tenant relationships with Farhang
+  - Farhang failed to maintain the Building in a habitable condition
+  - Building had no running water, defective plumbing system, inadequate security, and pest infestations
+  - Shadchina turned off electricity and attempted to flee the building, running over one of the Plaintiffs
+disputes:
+  - Plaintiffs' allegations of negligence, premises liability, nuisance, and breach of implied warranty of habitability
+  - Farhang's cross-complaint for indemnity, apportionment of fault, waste, negligence, and declaratory relief
+acts:
+  - Farhang's failure to maintain the Building in a habitable condition
+  - Shadchina's attempt to flee the building and turn off the electricity
+  - Failure to obtain permits to convert the Building to residential units
+agreements:
+  - Oral lease agreements between Plaintiffs and Farhang
+laws:
+  - Los Angeles Municipal Code (LAMC) § 151.041 et seq.
+  - California Civil Code § 1942.4
+  - California Code of Civil Procedure (CCP) § 1008(a)
+  - Marriage of Oliverez (2015) 238 Cal.App.4th 1242
+case_citations:
+  - Ziller Electronics Lab GmbH v. Superior Court (1988) 206 Cal.App.3d 1222
+  - Glade v. Glade (1995) 38 Cal.App.4th 1441
+  - Gilberd v. AC Transit (1995) 32 Cal.App.4th 1494
+statutes:
+  - California Code of Civil Procedure (CCP) § 1008(a)
+  - California Civil Code § 1942.4
+roles:
+  - Judge Rolf Treu
+  - Judge Timothy Dillon
+  - Larissa Shadchina (Cross-Defendant)
+  - Brian D. McMahon (Counsel for Defendants)
+  - Binh Bui (Counsel for Plaintiffs)
+  - Michael Stoller (Counsel for Plaintiffs)
+significant_statements:
+  - The Court finds that Shadchina has failed to present new facts or evidence to support her motion for reconsideration.

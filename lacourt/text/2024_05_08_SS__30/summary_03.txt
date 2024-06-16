@@ -1,0 +1,63 @@
+Here is the summary in YAML format:
+
+```
+case_number: 20STCV31220
+plaintiff: Frank E. Grodske
+defendant: Sokaina Quabaditent
+people_names:
+  - Frank E. Grodske
+  - Sokaina Quabaditent
+company_names: []
+places: []
+dates:
+  - February 8, 2024
+  - May 8, 2024
+events:
+  - Defendant's unopposed motion for terminating sanctions
+  - Plaintiff's failure to comply with discovery order
+  - Court's grant of defendant's motion to compel
+  - Plaintiff's failure to provide responses to discovery
+  - Defendant's request for monetary sanctions
+  - Court's grant of terminating sanctions
+money:
+  - $ (denied)
+intentions:
+  - To impose terminating sanctions
+  - To dismiss plaintiff's complaint
+facts:
+  - Plaintiff failed to comply with discovery order
+  - Defendant propounded on plaintiff's discovery requests
+  - Plaintiff failed to provide responses to discovery
+  - Court ordered plaintiff to provide responses
+  - Defendant requested monetary sanctions
+disputes:
+  - Plaintiff's failure to comply with discovery order
+  - Defendant's request for terminating sanctions
+  - Plaintiff's failure to provide responses to discovery
+acts:
+  - Plaintiff's failure to comply with discovery order
+  - Defendant's request for terminating sanctions
+  - Court's grant of terminating sanctions
+agreements: []
+laws:
+  - California Code of Civil Procedure
+  - California Rules of Court
+  - Los Defensores, Inc. v. Gomez (2014)
+  - Lang v. Hachman (2000)
+  - Collisson X Kaplan v. Hartunian (1994)
+  - Laguna Auto Body v. Farmers Ins. Exchange (1991)
+  - Garcia v. McCucchen (1997)
+  - Deyo v. Kilbourne (1978)
+roles:
+  - Judge: Frank E. Grodske
+  - Plaintiff: Sokaina Quabaditent
+  - Defendant: Sokaina Quabaditent
+  - Clerk: unknown
+significant_statements:
+  - "Generally, '[a] decision to order terminating sanctions should not be made lightly. But where a violation is willful, preceded by a history of abuse, and the evidence shows that less severe sanctions would not produce compliance with the discovery rules, the trial court is justified in imposing the ultimate sanction.'" (Los Defensores, Inc. v. Gomez (2014))
+  - "Lack of diligence may be deemed willful in the sense that the party understood his obligation, had the ability to comply, and failed to comply." (Deyo v. Kilbourne (1978))
+```
+
+And here is the summary in English text:
+
+The tentative ruling grants the defendant's unopposed motion for terminating sanctions, dismissing the plaintiff's complaint against the defendant with prejudice. The court finds that the plaintiff has been engaging in discovery abuse and has failed to comply with the court's order to respond to discovery. The court concludes that terminating sanctions are warranted in this instance, as the plaintiff has willfully misused the discovery process. The court also denies the defendant's request for monetary sanctions, finding that it would be duplicative.

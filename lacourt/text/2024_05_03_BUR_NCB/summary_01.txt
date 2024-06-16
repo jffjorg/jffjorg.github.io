@@ -1,0 +1,62 @@
+Here is the summary in YAML format:
+
+```
+case_number: 22BBCV00794
+plaintiff: Akaby Abajian
+defendants:
+  - N&N Auto Collection Inc.
+  - Armen Crstijian
+people:
+  - Akaby Abajian
+  - Armen Crstijian
+  - Derek Hurd
+companies:
+  - N&N Auto Collection Inc.
+places:
+  - Los Angeles
+  - Burbank
+  - Shadow Hills
+dates:
+  - February 28, 2022 (motor vehicle accident)
+  - October 19, 2022 (complaint filed)
+  - April 9, 2024 (motion to transfer and consolidate)
+  - May 3, 2024 (hearing date)
+events:
+  - Motor vehicle accident
+  - Lawsuit filed
+  - Motion to transfer and consolidate
+money:
+  - Damages for bodily injury and personal property damage
+intentions:
+  - To transfer the case to the Burbank Courthouse
+  - To consolidate the cases
+facts:
+  - The plaintiff suffered bodily injury in a motor vehicle accident
+  - The defendant is alleged to have failed to exercise reasonable care
+disputes:
+  - Whether the case should be transferred to the Burbank Courthouse
+    - Whether the cases should be consolidated
+acts:
+  - Filing a complaint
+  - Filing a motion to transfer and consolidate
+agreements:
+  - Local Rule 3.3(g) (consolidation of cases)
+  - California Rules of Court, rule 3.300 (related cases)
+  - CCP § 1048(a) (joint trial on matters involving common questions of law or fact)
+laws:
+  - California Rules of Court
+  - Code of Civil Procedure (CCP)
+case_citations:
+  - Local Rule 3.3(g)
+  - California Rules of Court, rule 3.300
+  - CCP § 1048(a)
+statutes:
+  - CCP § 1048(a)
+roles:
+  - Judge
+  - Plaintiff
+  - Defendant
+significant_statements:
+  - The Court denies the motion to consolidate without prejudice
+  - The Court would consider consolidating the cases once the procedural requirements are met
+  - The parties are ordered to attend the hearing to discuss the status of the case

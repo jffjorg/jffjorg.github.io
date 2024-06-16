@@ -1,0 +1,78 @@
+Here is the summary in YAML format:
+
+```
+case_number: 22STLC05572
+hearing_date: 2024-05-08
+department: 26
+plaintiff: Pafundi Law Firm
+defendant: Vera Roca, LLC, et al
+people:
+  - Pafundi
+  - Vera Roca
+  - Pablo Vera
+  - Robert Pafundi
+  - Laura Anglada Gómez
+  - Mary Simmons
+  - Grace Wong
+companies:
+  - Pafundi Law Firm
+  - Vera Roca, LLC
+places:
+  - California
+dates:
+  - 2022-03-02 (agreement)
+  - 2022-03-23 (agreement)
+  - 2022-03-29 (agreement)
+  - 2022-07-13 (demurrer)
+  - 2022-08-22 (cross-complaint)
+  - 2023-01-20 (cross-complaint)
+  - 2023-02-03 (amended cross-complaint)
+  - 2023-07-13 (demurrer)
+  - 2023-10-19 (demurrer)
+  - 2024-02-02 (motion for summary judgment)
+  - 2024-04-04 (opposition)
+  - 2024-04-12 (reply)
+events:
+  - Breach of contract
+  - Fraud
+  - Promissory estoppel
+  - Conversion
+money:
+  - $5,000.00
+  - $1,250.00
+intentions:
+  - To rebuild and redesign the website
+  - To create a landing page
+facts:
+  - The parties entered into an enforceable contractual agreement
+  - Cross-Complainants failed to complete the website
+  - Cross-Defendant failed to provide the necessary content
+disputes:
+  - Existence of a second agreement for the coming soon/landing page
+  - Cross-Complainants' non-performance under the agreement
+  - Cross-Defendant's performance under the agreement
+acts:
+  - The parties entered into an agreement
+  - Cross-Complainants failed to complete the website
+  - Cross-Defendant failed to provide the necessary content
+agreements:
+  - The parties entered into an enforceable contractual agreement
+laws:
+  - CCP § 437c
+  - Evidence Code § 452
+citations:
+  - D'Arrigo Bros. of California v. United Farmworkers of America (2014) 224 Cal.App.4th 790
+statutes:
+  - CCP § 437c
+  - Evidence Code § 452
+roles:
+  - Plaintiff (Pafundi Law Firm)
+  - Defendant (Vera Roca, LLC, et al)
+significant statements:
+  - The court finds that no triable issues of material fact have been shown with respect to Issues 2 and 3.
+  - The dispute regarding the existence of a separate agreement for payment for the coming soon/landing page precludes a grant of summary judgment.
+```
+
+And here is the summary in English:
+
+The tentative ruling is that the motion for summary judgment by the Pafundi Law Firm is denied. The court finds that the dispute regarding the existence of a separate agreement for payment for the coming soon/landing page precludes a grant of summary judgment. The court also finds that no triable issues of material fact have been shown with respect to Issues 2 and 3. The case involves a breach of contract, fraud, promissory estoppel, and conversion, and the parties include Pafundi Law Firm, Vera Roca, LLC, and Pablo Vera.

@@ -1,0 +1,65 @@
+Here is the summary in YAML format:
+
+```
+case_number: 21STCV04299
+plaintiff_name: [Unknown]
+defendant_name: BMW of North America, LLC and Sterling BMW
+people_names: 
+  - Hon. Randa Trapp (Ret.)
+company_names:
+  - BMW of North America, LLC
+  - Sterling BMW
+places:
+  - California
+dates:
+  - January 9, 2024
+  - January 26, 2024
+  - April 18, 2024
+  - April 26, 2024
+  - April 29, 2024
+events:
+  - Arbitration award
+  - Petition to confirm arbitration award
+  - Request to vacate arbitration award
+  - Confirmation of arbitration award
+money: 
+  - [Amount not specified]
+intention: 
+  - Confirm partial final arbitration award
+facts:
+  - Arbitration award was issued on January 9, 2024
+  - Petition to confirm arbitration award was served by email on January 26, 2024
+  - Plaintiff/Respondent did not file any opposition
+disputes:
+  - Confirmation of arbitration award
+acts:
+  - Petition to confirm arbitration award was filed
+  - Arbitration award was served on all parties
+  - Notice of intent to appear was required
+agreements:
+  - Arbitration agreement
+  - [Unknown]
+laws:
+  - California Code of Civil Procedure (CCP)
+  - California Civil Procedure Code (CCPC)
+case_citations:
+  - Law Fin. Grp., LLC v. Key (2023) 14 Cal.5th 932
+  - Dyna-Med, Inc. v. Fair Employment & Housing Com. (1987) 43 Cal.3d 1379
+  - Code Civ. Proc., § 1285
+  - Code Civ. Proc., § 1286
+  - Code Civ. Proc., § 1288
+  - Code Civ. Proc., § 1288.2
+  - Code Civ. Proc., § 1288.4
+  - Code Civ. Proc., § 1290.4
+  - Code Civ. Proc., § 1290.6
+roles:
+  - Judge
+  - Plaintiff/Respondent
+  - Defendant
+  - Arbitrator
+significant_statements:
+  - The petition to confirm arbitration award is GRANTED.
+  - The arbitrator's award is confirmed.
+```
+
+English-text summary: The tentative ruling grants the petition to confirm the partial final arbitration award. The arbitrator's award was issued on January 9, 2024, and the petition to confirm was served by email on January 26, 2024. The plaintiff/respondent did not file an opposition. The court finds that all requirements for confirmation of the arbitration award have been satisfied.

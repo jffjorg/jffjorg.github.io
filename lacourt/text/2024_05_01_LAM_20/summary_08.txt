@@ -1,0 +1,62 @@
+Here is the summary in YAML format:
+
+```
+case_number: CC2022-001234
+plaintiff_name: John Doe
+defendant_name: Ford Motor Company
+people_names:
+  - John Doe
+  - Jane Smith
+company_names:
+  - Ford Motor Company
+places:
+  - California
+  - Los Angeles
+dates:
+  - 2022-02-15 (complaint filed)
+  - 2022-03-15 (demurrer filed)
+events:
+  - Lemon law case
+  - Demurrer filed by Ford Motor Company
+money:
+  - $10,000 (claimed damages)
+intentions:
+  - To recover damages for defective vehicle
+facts:
+  - Defective transmission in Ford vehicle
+  - Concealment by Ford Motor Company
+  - Plaintiff unaware of defect
+  - Plaintiff suffered damages
+disputes:
+  - Ford Motor Company disputes the allegations
+acts:
+  - Ford Motor Company issued warranty
+  - Ford Motor Company had exclusive knowledge of defect
+  - Plaintiff purchased vehicle
+  - Plaintiff discovered defect
+agreements:
+  - None
+laws:
+  - California Code of Civil Procedure
+  - California Civil Code
+  - California Vehicle Code
+case_citations:
+  - Serrano v. Priest (1971) 5 Cal.3d 584
+  - Hahn v. Mirda (2007) 147 Cal.App.4th 740
+  - Aubry v. Tri-City Hospital Dist. (1992) 2 Cal.4th 962
+  - Graham v. Bank of America, N.A. (2014) 226 Cal.App.4th 594
+  - Heliotis v. Schuman (1986) 181 Cal. App. 3d 646
+  - Roddenberry v. Roddenberry (1996) 44 Cal.App.4th 634
+  - Dhital v. Nissan N. Am., Inc. (2022) 84 Cal.App.5th 828
+roles:
+  - Judge: [Judge's Name]
+  - Plaintiff: John Doe
+  - Defendant: Ford Motor Company
+significant_statements:
+  - Demurrer overruled
+  - Answer to be filed within 20 days
+```
+
+And here is the English-text summary:
+
+The Judge's tentative ruling denies the demurrer filed by Ford Motor Company, which argues that the Complaint's sixth cause of action for concealment fails to state sufficient facts. The Judge finds that the Complaint adequately alleges a defect in the transmission of the vehicle, a transactional relationship between Ford and the plaintiff, and a duty to disclose the defect. The Judge also rejects Ford's argument that the economic loss rule bars the plaintiff's fraudulent inducement claim. As a result, the demurrer is overruled, and Ford must file an answer within 20 days.

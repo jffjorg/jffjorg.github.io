@@ -1,0 +1,61 @@
+Here is the summary in YAML format:
+
+```yaml
+Case Number: 24SMCV01938
+Plaintiff's Name: Plaintiff
+Defendant's Name: Defendant
+People-Names:
+  - Plaintiff
+  - Defendant
+Company-Names:
+  - None
+Places:
+  - Los Angeles
+Dates:
+  - May 2, 2024
+  - November (last)
+  - April
+Events:
+  - Lease expiration
+  - Options exercise
+  - Valet removal
+  - Parking dispute
+  - TRO request
+Money:
+  - Rent
+  - Valet costs
+Intentions:
+  - Plaintiff: restore parking status quo
+  - Defendant: maintain control over parking
+Facts:
+  - Lease provides for 5 parking spots
+  - Defendant removed valet service
+  - Plaintiff hired own valet
+  - Defendant prohibited plaintiff from using tandem spots
+Disputes:
+  - Parking access
+  - Valet service
+Acts:
+  - Plaintiff exercised lease option
+  - Defendant removed valet service
+  - Plaintiff hired own valet
+  - Defendant prohibited plaintiff from using tandem spots
+Agreements:
+  - Lease agreement
+Laws:
+  - Contract law
+  - Property law
+Case Citations:
+  - None
+Statutes:
+  - None
+Roles:
+  - Plaintiff: tenant
+  - Defendant: landlord
+Significant Statements:
+  - "The court believes that plaintiff has made out a strong showing of a likelihood of success on the merits."
+  - "The court does not know plaintiff's financials, but it could well be that absent immediate relief the impact on the business will not be temporary."
+  - "The court is open to other suggestions."
+
+English-text summary:
+The judge's tentative ruling grants a temporary restraining order (TRO) and sets a hearing for a preliminary injunction. The dispute is about a lease and parking access. The plaintiff, the tenant, seeks to restore the status quo ante by allowing them to use the five parking spots provided for in the lease. The defendant, the landlord, removed the valet service and prohibited the plaintiff from using the tandem spots. The judge finds that the plaintiff has made a strong showing of a likelihood of success on the merits and grants the TRO, allowing the plaintiff to restore the parking status quo. The TRO will last until the preliminary injunction hearing.

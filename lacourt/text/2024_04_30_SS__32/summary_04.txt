@@ -1,0 +1,50 @@
+Here is the YAML summary of the tentative ruling:
+
+```
+case_number: 22STCV27898
+plaintiff_name: Nitta Balles Dee
+defendant_name: Artemisa Coronado
+people_names:
+  - Nitta Balles Dee
+  - Artemisa Coronado
+company_names: []
+places: []
+dates:
+  - June 21, 2023
+  - January 18, 2024
+  - February 1, 2024
+  - April 30, 2024
+events:
+  - Motion to compel responses to request for production
+  - Motion to compel responses to special interrogatories
+  - Motion to compel responses to form interrogatories
+  - Request for monetary sanctions
+money:
+  - $945 (initial request)
+  - $1,507.50 (final award)
+intentions:
+  - Compel Defendant to serve verified responses to discovery requests
+facts:
+  - Defendant failed to respond to discovery requests
+  - Plaintiff re-served discovery requests
+  - No responses have been served
+disputes:
+  - Failure to respond to discovery requests
+acts:
+  - Motion to compel responses to discovery requests
+  - Request for monetary sanctions
+  - Award of monetary sanctions
+agreements: []
+laws:
+  - Code of Civil Procedure Section 2030.290
+  - Code of Civil Procedure Section 2031.300
+  - California Rules of Court, rule 3.1348(a)
+roles: []
+significant_statements:
+  - The Court finds that Defendant has failed to respond to discovery requests
+  - The Court awards monetary sanctions in the reduced amount of $1,507.50
+  - The Court grants Plaintiff's motions to compel responses to discovery requests
+case_citations: []
+statutes:
+  - California Code of Civil Procedure
+  - California Rules of Court

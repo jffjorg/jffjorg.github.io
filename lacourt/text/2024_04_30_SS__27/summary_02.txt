@@ -1,0 +1,60 @@
+Here is the summary in YAML format:
+
+```
+case_number: 21STCV45770
+plaintiff_name: ARA MAHMOUDI
+defendant_name: ROBERTO CARLOS MEJIA
+people_names:
+  - ARA MAHMOUDI
+  - ROBERTO CARLOS MEJIA
+company_names: []
+places: []
+dates:
+  - December 16, 2021
+  - April 10, 2024
+  - May 7, 2024
+  - May 6, 2024
+  - April 30, 2024
+events:
+  - Auto accident
+  - Trial
+  - Motion to continue trial
+  - Opposition to motion
+  - Hearing
+money: []
+intentions:
+  - Plaintiff's intention to continue trial
+  - Defendant's intention to oppose motion
+facts:
+  - Plaintiff filed motion to continue trial on April 10, 2024
+  - Defendant filed opposition on [unknown date]
+  - Plaintiff did not meet 18 court days' notice period
+  - Defendant argued insufficient notice
+disputes:
+  - Plaintiff's motion to continue trial
+  - Defendant's opposition to motion
+  - Lack of notice
+acts:
+  - Plaintiff filed motion to continue trial
+  - Defendant filed opposition
+  - Court denied motion
+agreements:
+  - CCP § 1005(b)
+  - CCP § 1010.6(a)(3)(B)
+laws:
+  - California Code of Civil Procedure (CCP)
+statutes:
+  - CCP § 1005(b)
+  - CCP § 1010.6(a)(3)(B)
+roles:
+  - Plaintiff
+  - Defendant
+  - Judge
+significant_statements:
+  - "The Court agrees with Defendant’s argument."
+  - "The present motion is untimely and therefore denied."
+```
+
+And here is the English summary:
+
+The Judge has issued a tentative ruling denying the Plaintiff's motion to continue the trial scheduled for May 7, 2024. The Plaintiff filed the motion on April 10, 2024, but failed to provide sufficient notice to the Defendant, as required by law. The Defendant filed an opposition arguing that the motion did not meet the 18 court days' notice period. The Judge agrees with the Defendant's argument and denies the motion. The Judge notes that the earliest date to hear a motion filed on April 10, 2024, would be May 6, 2024, and that the Plaintiff did not provide an explanation for failing to meet the required notice period.

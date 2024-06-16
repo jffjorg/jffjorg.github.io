@@ -1,0 +1,92 @@
+Here is the summary in YAML format:
+
+```
+case_number: 23SMCV03113
+hearing_date: May 9, 2024
+dept: 207
+people:
+  - Katherine Taylor Kahn
+  - Heather Lynn Ferguson
+  - Michael Chang
+  - Juliana Medina
+  - Emanuel Gomez
+  - Alejandro Castillo
+  - Kevin Tolano
+company_names:
+  - Ceres, LLC
+  - Nussbaum APC
+places:
+  - Beverly Hills, California
+  - Tiburon, California
+  - Los Angeles, California
+dates:
+  - July 11, 2023
+  - July 27, 2023
+  - August 7, 2023
+  - October 26, 2023
+  - January 29, 2024
+  - January 30, 2024
+  - February 2, 2024
+  - February 22, 2024
+  - February 26, 2024
+  - March 8, 2024
+  - March 6, 2024
+  - April 11, 2024
+  - May 3, 2024
+  - May 9, 2024
+  - May 23, 2024
+  - May 31, 2024
+events:
+  - Filing of unlawful detainer complaint
+  - Service of summons and complaint
+  - Filing of motion to quash service
+  - Filing of answer
+  - Court trial
+  - Entry of judgment
+  - Motion to set aside judgment
+money:
+  - $10,400 (security deposit)
+  - $0 (rent owed)
+intentions:
+  - Kahn wants to set aside the judgment entered against her
+  - Plaintiff wants to maintain the judgment
+facts:
+  - Kahn vacated the subject property in April 2023
+  - Kahn did not receive notice of the lawsuit or the judgment
+  - Judgment was entered against Kahn in January 2024
+  - Kahn did not sign the motion to quash or answer filed in her name
+  - Chang and Ferguson concealed the lawsuit from Kahn
+disputes:
+  - Kahn vs. Plaintiff (motion to set aside judgment)
+  - Chang vs. Kahn (lease agreement)
+  - Ferguson vs. Kahn (rent owed)
+acts:
+  - Kahn vacated the subject property in April 2023
+  - Kahn did not receive notice of the lawsuit or the judgment
+  - Judgment was entered against Kahn in January 2024
+  - Kahn did not sign the motion to quash or answer filed in her name
+agreements:
+  - Lease agreement between Kahn and Chang
+laws:
+  - Code of Civil Procedure section 473
+  - California Rule of Court 3.1300(d)
+case_citations:
+  - Minick v. City of Petaluma (2016) 3 Cal.App.5th 15
+  - Rappleyea v. Campbell (1994) 8 Cal.4th 975
+  - People v. The North River Ins. Co. (2011) 200 Ca.App.4th 712
+roles:
+  - Judge: Michael E. Whitaker
+  - Plaintiff: Ceres, LLC
+  - Defendant: Katherine Taylor Kahn
+  - Movant: Katherine Taylor Kahn
+  - Counsel: Robert Kane
+  - Attorney: Michael Chang
+significant_statements:
+  - Kahn did not receive notice of the lawsuit or the judgment
+  - Judgment was entered against Kahn in January 2024
+  - Kahn did not sign the motion to quash or answer filed in her name
+```
+
+And here is the English-text summary:
+
+The Judge grants Katherine Taylor Kahn's motion to set aside the judgment entered against her on January 30, 2024. Kahn claims that she vacated the subject property in April 2023 and did not receive notice of the lawsuit or the judgment. She also alleges that the judgment was entered against her without her knowledge or consent, and that she did not sign the motion to quash or answer filed in her name. The Judge finds that Kahn's allegations are credible and grants her motion to set aside the judgment. The Judge also strikes all pleadings filed by Kahn before the entry of judgment and orders her to answer the complaint on or before May 23, 2024.

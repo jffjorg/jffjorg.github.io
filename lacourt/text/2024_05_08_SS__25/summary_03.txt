@@ -1,0 +1,63 @@
+Here is the summary of the tentative ruling in YAML format:
+
+```
+case_number: "Unknown"
+plaintiff: "Aspire General Insurance Company"
+defendant: "Bernabe Cuevas Perez and Rene H. Perez"
+people_names:
+  - Bernabe Cuevas Perez
+  - Rene H. Perez
+company_names:
+  - Aspire General Insurance Company
+places: []
+dates:
+  - March 18, 2020
+  - January 25, 2021
+  - April 11, 2023
+  - August 3, 2023
+  - March 19, 2024
+  - October 1, 2026
+events:
+  - Commencement of subrogation action
+  - Entry of default judgment
+  - Order for post-judgment installment payments and stay of execution
+  - Filing of acknowledgement of satisfaction of judgment
+  - Filing of motion to vacate full satisfaction of judgment
+money: []
+intentions:
+  - Vacate full satisfaction of judgment
+  - Correct mistake in court records
+facts:
+  - Plaintiff's counsel filed satisfaction of judgment prematurely
+  - Judgment has not been fully satisfied
+  - Payment plan in place for judgment
+disputes: []
+acts:
+  - Filing of satisfaction of judgment
+  - Filing of motion to vacate full satisfaction of judgment
+  - Entry of judgment
+  - Execution of judgment
+agreements: []
+laws:
+  - California Code of Civil Procedure
+  - Clark v. Johnston (1920)
+  - Argue v. Wilson (1935)
+  - Chester v. Chester (1946)
+  - Statute of limitations
+roles:
+  - Plaintiff (Aspire General Insurance Company)
+  - Defendant (Bernabe Cuevas Perez and Rene H. Perez)
+  - Judge (issuing the tentative ruling)
+significant_statements:
+  - Plaintiff made an honest mistake in filing satisfaction of judgment
+  - Court has power to correct records and vacate judgment
+  - Judgment not fully satisfied
+  - Payment plan in place
+  - Motion to vacate granted
+  - Acknowledgement and Satisfaction of Judgment stricken
+  - Notice to be given to the moving party
+```
+
+And here is the English text summary of the tentative ruling:
+
+The Court grants the motion to vacate the full satisfaction of judgment filed by Plaintiff Aspire General Insurance Company. The judgment was entered on August 3, 2023, but the judgment has not been fully satisfied. Plaintiff's counsel made an honest mistake by filing the satisfaction of judgment prematurely. The Court has the power to correct its records and vacate the judgment. The Plaintiff's motion is unopposed, and the Court grants the motion. The "Acknowledgement and Satisfaction of Judgment" filed on August 3, 2023, is stricken.

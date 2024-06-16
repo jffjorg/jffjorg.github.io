@@ -1,0 +1,70 @@
+Here is the summary in YAML format:
+
+```
+case_number: 22STCV21326
+plaintiff_name: Faramarz Nazmifar
+defendant_name: Behzad Ben Toubian; Brentanita Inc.
+people_names:
+  - Behzad Ben Toubian
+  - Faramarz Nazmifar
+company_names:
+  - Brentanita Inc.
+places:
+  - Los Angeles
+dates:
+  - July 19, 2023
+  - April 11, 2024
+  - April 24, 2024
+  - May 1, 2024
+  - May 8, 2024
+events:
+  - Arbitration proceedings
+  - Motion to lift arbitration stay
+  - Motion to specially set trial date
+  - Opposition to motion
+  - Reply to opposition
+money:
+  - Arbitration fees
+  - Outstanding defense arbitration fees
+intention:
+  - To lift arbitration stay and proceed with case in state court
+facts:
+  - Defendant Toubian failed to pay arbitration fees for more than eight months
+  - Plaintiff Nazmifar requested payment from arbitrator and arbitrator suspended arbitration proceedings
+  - Defendant Toubian argued that Brentanita was solely responsible for arbitration fees
+  - Brentanita failed to file opposition to motion
+disputes:
+  - Dispute over who is responsible for arbitration fees
+  - Dispute over whether to lift arbitration stay
+acts:
+  - Plaintiff filed motion to lift arbitration stay and set trial date
+  - Defendant Toubian filed opposition to motion
+  - Plaintiff filed reply to opposition
+agreements:
+  - Partnership agreement between Brentanita and Defendant Toubian
+laws:
+  - California Code of Civil Procedure section 1281.4
+  - California Rules of Court, rule 3.1335
+  - Partnership agreement between Brentanita and Defendant Toubian
+case_citations:
+  - Heritage Provider Network, Inc. v. Superior Court (2008) 158 Cal.App.4th 1146
+  - Titan/Value Equities Group, Inc. v. Superior Court (1994) 29 Cal.App.4th 482
+  - Finley v. Saturn of Roseville (2004) 117 Cal.App.4th 1253
+  - Brock v. Kaiser Foundation Hospitals (1992) 10 Cal.App.4th 1790
+  - Cinel v. Christopher (2012) 203 Cal.App.4th 759
+roles:
+  - Plaintiff: Faramarz Nazmifar
+  - Defendant: Behzad Ben Toubian
+  - Defendant: Brentanita Inc.
+  - Arbitrator: Alternative Resolution Centers (ARC)
+  - Counsel: Rudman Decl.
+  - Counsel: Comer Decl.
+significant_statements:
+  - The Court finds in favor of Plaintiff Nazmifar.
+  - The Court grants Plaintiff's motion to lift arbitration stay.
+  - The Court sets a trial date for the case.
+```
+
+And here is a summary of the judge's tentative ruling in English text:
+
+The judge grants the plaintiff's motion to lift the arbitration stay and proceed with the case in state court. The court finds that the defendant's failure to pay arbitration fees for more than eight months warrants lifting the arbitration stay. The court also sets a trial date for the case. The court rejects the defendant's argument that Brentanita was solely responsible for arbitration fees and finds that the defendant failed to provide any evidence to support this claim. The court also rejects the defendant's request for a 90-day continuance, finding that there is no basis to believe that Brentanita will pay the outstanding arbitration fees in the next 90 days.

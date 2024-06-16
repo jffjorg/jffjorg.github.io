@@ -1,0 +1,59 @@
+Here is the YAML representation of the legal document:
+
+```
+Case Number: 21STCV39596
+Plaintiff's Name: ANDRES CAMACHO, et al.
+Defendant's Name: JOSE DANIEL BANDERAS-NAVA
+People-Names:
+  - Lisa Ann Willey
+Company-Names: None
+Places:
+  - Los Angeles County
+Dates:
+  - October 27, 2021
+  - April 2, 2024
+  - April 4, 2024
+  - May 2, 2024
+  - May 29, 2024
+  - July 5, 2024
+Events:
+  - Auto accident
+  - Filing of the present auto accident case
+  - Motion to continue trial date
+  - Stipulation to continue trial date
+  - Hearing on motion for summary judgment
+Money: None
+Intentions:
+  - To continue trial date
+Disputes:
+  - Dispute over trial date
+Facts:
+  - Plaintiff filed the present auto accident case
+  - Defendant moved the court for a short continuance
+  - Parties entered into a stipulation to continue the trial date
+  - Court granted the stipulation
+  - Present motion is moot
+Acts:
+  - Filing of the present auto accident case
+  - Motion to continue trial date
+  - Stipulation to continue trial date
+  - Granting of the stipulation
+  - Denial of the present motion
+Agreements:
+  - Stipulation to continue trial date
+Laws:
+  - California state laws and court procedures
+Case Citations: None
+Statutes: None
+Roles:
+  - Judge: HON. LEE
+  - Plaintiff: ANDRES CAMACHO, et al.
+  - Defendant: JOSE DANIEL BANDERAS-NAVA
+  - Counsel: Lisa Ann Willey
+Significant Statements:
+  - "The present motion is moot and is therefore denied."
+```
+
+And here is a summary of the judge's tentative ruling in English text:
+
+The judge has denied the defendant's motion to continue the trial date. The defendant, Lisa Ann Willey, had moved the court for a short continuance of the trial date so that her motion for summary judgment could be heard before trial. However, the parties had previously entered into a stipulation to continue the trial date to July 5, 2024, which the court had granted. As a result, the present motion is moot and has been denied. The parties are advised to submit to the tentative ruling by email or appear remotely or in person for oral argument.

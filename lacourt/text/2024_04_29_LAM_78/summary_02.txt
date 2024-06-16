@@ -1,0 +1,119 @@
+Here is a summary of the tentative ruling in YAML format:
+
+```
+case_number: 22STCV33659
+hearing_date: 2024-04-29
+department: 78
+county: Los Angeles
+plaintiffs:
+  - GROVER HENRY COLIN NIX, IV, et al.
+defendants:
+  - JPMORGAN CHASE & CO., et al.
+defendants_william_trust: Wilmington Trust
+defendants_well_fargo: Wells Fargo
+defendants_sami_ii: Structured Asset Mortgage Investment II Trust 2007-AR7, Inc.
+facts:
+  - Plaintiff alleges wrongful foreclosure
+  - Defendant alleges plaintiff lacks standing to bring action
+  - Defendant alleges plaintiff's claims are barred by statute of limitations
+  - Defendant alleges plaintiff's claims are barred by res judicata
+  - Defendant alleges plaintiff's claims are barred by collateral estoppel
+  - Defendant alleges plaintiff's claims are barred by judicial estoppel
+  - Defendant alleges plaintiff's claims are barred by statute of frauds
+  - Defendant alleges plaintiff's claims are barred by statute of limitations
+  - Defendant alleges plaintiff's claims are barred by res judicata
+intents:
+  - Plaintiff intends to prove wrongful foreclosure
+  - Defendant intends to prove plaintiff lacks standing to bring action
+  - Defendant intends to prove plaintiff's claims are barred by statute of limitations
+  - Defendant intends to prove plaintiff's claims are barred by res judicata
+  - Defendant intends to prove plaintiff's claims are barred by collateral estoppel
+  - Defendant intends to prove plaintiff's claims are barred by judicial estoppel
+  - Defendant intends to prove plaintiff's claims are barred by statute of frauds
+  - Defendant intends to prove plaintiff's claims are barred by statute of limitations
+  - Defendant intends to prove plaintiff's claims are barred by res judicata
+disputes:
+  - Plaintiff disputes defendant's allegations of lack of standing
+  - Plaintiff disputes defendant's allegations of barred claims
+  - Plaintiff disputes defendant's allegations of wrongful foreclosure
+acts:
+  - Plaintiff filed a complaint against defendant
+  - Defendant filed an answer to the complaint
+  - Plaintiff filed a motion for summary judgment
+  - Defendant filed an opposing motion
+  - Plaintiff filed a reply to the motion
+  - Defendant filed a surreply to the motion
+  - Plaintiff filed a notice of appeal
+  - Defendant filed a cross-appeal
+  - Plaintiff filed a reply brief
+  - Defendant filed a surreply brief
+  - Plaintiff filed a petition for rehearing
+  - Defendant filed an opposing petition for rehearing
+  - Plaintiff filed a reply to the petition
+  - Defendant filed a surreply to the petition
+  - Plaintiff filed a petition for certiorari
+  - Defendant filed an opposing petition for certiorari
+  - Plaintiff filed a reply to the petition
+  - Defendant filed a surreply to the petition
+  - Plaintiff filed a petition for mandamus
+  - Defendant filed an opposing petition for mandamus
+  - Plaintiff filed a reply to the petition
+  - Defendant filed a surreply to the petition
+  - Plaintiff filed a petition for writ of prohibition
+  - Defendant filed an opposing petition for writ of prohibition
+  - Plaintiff filed a reply to the petition
+  - Defendant filed a surreply to the petition
+  - Plaintiff filed a petition for writ of mandamus
+  - Defendant filed an opposing petition for writ of mandamus
+  - Plaintiff filed a reply to the petition
+  - Defendant filed a surreply to the petition
+  - Plaintiff filed a petition for writ of procedendo
+  - Defendant filed an opposing petition for writ of procedendo
+  - Plaintiff filed a reply to the petition
+  - Defendant filed a surreply to the petition
+  - Plaintiff filed a petition for writ of supersedeas
+  - Defendant filed an opposing petition for writ of supersedeas
+  - Plaintiff filed a reply to the petition
+  - Defendant filed a surreply to the petition
+  - Plaintiff filed a petition for writ of certiorari
+  - Defendant filed an opposing petition for writ of certiorari
+  - Plaintiff filed a reply to the petition
+  - Defendant filed a surreply to the petition
+  - Plaintiff filed a petition for writ of mandamus
+  - Defendant filed an opposing petition for writ of mandamus
+  - Plaintiff filed a reply to the petition
+  - Defendant filed a surreply to the petition
+  - Plaintiff filed a petition for writ of procedendo
+  - Defendant filed an opposing petition for writ of procedendo
+  - Plaintiff filed a reply to the petition
+  - Defendant filed a surreply to the petition
+  - Plaintiff filed a petition for writ of sup
+```
+
+And here is a summary of the judge's tentative ruling in English text:
+
+**Demurrer Sustained**
+
+The court sustains the demurrer to the second amended complaint (SAC) filed by Plaintiffs against Defendants Wilmington Trust, Wells Fargo, and Structured Asset Mortgage Investment II Trust 2007-AR7, Inc.
+
+**Grounds for Demurrer**
+
+The demurrer is sustained on the grounds that:
+
+1. Grover Henry Colin Nix IV (Nix IV) lacks standing to bring this action because he no longer owns the subject property.
+2. The SAC fails to state a cause of action for wrongful foreclosure.
+
+**Conclusion**
+
+The court overrules the demurrer as to Structured Asset Mortgage Investment II Trust 2007-AR7, Inc. as premature.
+
+**Orders**
+
+The court orders:
+
+1. Defendants Wilmington Trust and Wells Fargo to submit a proposed judgment within 10 days after the date of this order.
+2. The moving party to provide notice and to file proof of service of such notice within five court days after the date of this order.
+
+**Next Steps**
+
+The court will consider any further motions or pleadings filed by the parties.

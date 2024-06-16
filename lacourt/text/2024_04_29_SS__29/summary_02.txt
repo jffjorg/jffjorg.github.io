@@ -1,0 +1,86 @@
+Here is the summary in YAML format:
+
+```
+case_number: 20STCV19067
+hearing_date: 2024-04-29
+department: 29
+
+plaintiff_names:
+  - Alvin Mount
+  - Nella Mount
+
+defendant_names:
+  - State of California
+  - Alfredo Gutierrez
+  - California Highway Patrol
+
+people_names:
+  - Alvin Mount
+  - Nella Mount
+  - Alfredo Gutierrez
+
+company_names:
+  - California Highway Patrol
+  - State of California
+
+places:
+  - California
+
+dates:
+  - 2019-10-27 (motorcycle versus pedestrian accident)
+  - 2020-05-19 (complaint filed)
+  - 2024-01-11 (motion to bifurcate filed)
+  - 2024-04-29 (hearing date)
+
+events:
+  - Motorcycle versus pedestrian accident
+  - Complaint filed
+  - Motion to bifurcate filed
+  - Hearing on bifurcation motion
+
+money:
+  - None mentioned
+
+intentions:
+  - To bifurcate the trial into liability and damages
+
+facts:
+  - Wrongful death and negligence alleged
+  - Motorcycle versus pedestrian accident occurred
+
+disputes:
+  - Whether to bifurcate the trial
+
+acts:
+  - Motion to bifurcate filed by defendants
+
+agreements:
+  - None mentioned
+
+laws:
+  - California Code of Civil Procedure, section 1048(b)
+  - California Code of Civil Procedure, section 598
+  - California Rules of Court, rule 3.57(c)
+
+case_citations:
+  - California Code of Civil Procedure section 1048(b)
+  - California Code of Civil Procedure section 598
+  - California Rules of Court, rule 3.57(c)
+
+statutes:
+  - California Code of Civil Procedure
+  - California Rules of Court
+
+roles:
+  - Judge: makes discretionary determination on bifurcation
+  - Plaintiffs: filed complaint
+  - Defendants: filed motion to bifurcate
+
+significant_statements:
+  - The court rules that bifurcation is not warranted
+  - The motion to bifurcate is denied without prejudice
+```
+
+And here is a summary of the judge's tentative ruling in English text:
+
+The judge denies the defendants' motion to bifurcate the trial without prejudice. The defendants, acting by and through the California Highway Patrol and Alfredo Gutierrez, had filed a motion to bifurcate the trial into two parts: liability and damages. The judge finds that the trial judge should make the discretionary determination on bifurcation, as it is related to the management of the trial proceedings. The judge orders that the defendants may submit a motion for bifurcation at the time that motions in limine are filed, and any opposition may be submitted when oppositions to motions in limine are filed.

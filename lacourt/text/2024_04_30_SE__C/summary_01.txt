@@ -1,0 +1,52 @@
+Here is the summary in YAML format:
+
+```
+case_number: 21STCV21402
+plaintiff_name: Jane Doe
+defendant_name: Roe #1, et al.
+people_names:
+  - Jane Doe
+  - Roe #1
+company_names:
+  - ABC Unified School District
+places:
+  - California
+dates:
+  - April 30, 2024
+  - May 30, 2024
+  - June 25, 2024
+events:
+  - Sexual misconduct lawsuit
+  - Ex parte application to advance hearing date
+  - Motion for stay
+  - Trial
+  - Appeal
+money: null
+intentions:
+  - To determine if plaintiff's claims violate the Gift Clause of the California Constitution
+facts:
+  - Pending appellate matters
+  - Gift Clause of the California Constitution
+disputes:
+  - Violation of the Gift Clause
+acts:
+  - Defendant's ex parte application to advance hearing date
+  - Plaintiff's claims
+agreements: null
+laws:
+  - Gift Clause of the California Constitution
+  - California Constitution
+case_citations: null
+statutes: null
+roles:
+  - Judge
+  - Plaintiff (Jane Doe)
+  - Defendant (Roe #1, et al.)
+  - ABC Unified School District
+significant_statements:
+  - "On this record, the Court cannot determine that the appellate ruling Defendant anticipates will in fact occur any time soon."
+```
+
+And here is the English-text summary:
+
+The Judge has issued a tentative ruling in the sexual misconduct lawsuit, Case No. 21STCV21402, between Jane Doe and Roe #1, et al. The defendant, ABC Unified School District, applied to advance the hearing date for its motion for stay, citing pending appellate matters that may determine whether Jane Doe's claims violate the Gift Clause of the California Constitution. However, the Judge has denied the application, stating that there is no evidence that the appellate ruling will occur soon. The Judge notes that the defendant is not foreclosed from seeking a trial continuance in Dept. SE-F.

@@ -1,0 +1,84 @@
+Here is the YAML summary:
+
+```
+case_number: 23PSCV00378
+hearing_date: April 30, 2024
+dept: K
+plaintiffs:
+  - name: Benjamin Kirk
+  - name: Butterfield Properties LLC
+defendants:
+  - name: Lucy Seh
+  - name: Jonathan Seh
+  - name: Trust (Peter Seh Living Trust 2001)
+  - name: 168 Investment LLC
+  - name: SVPP Properties LLC
+people:
+  - name: Benjamin Kirk
+  - name: Lucy Seh
+  - name: Jonathan Seh
+  - name: Peter Seh
+companies:
+  - name: Butterfield Properties LLC
+  - name: SVPP Properties LLC
+  - name: 168 Investment LLC
+places:
+  - name: Pomona, California
+dates:
+  - date: January 19, 2021
+  - date: June 2021
+  - date: February 24, 2022
+  - date: May 18, 2022
+  - date: October 7, 2022
+  - date: December 13, 2022
+  - date: January 19, 2024
+  - date: April 30, 2024
+events:
+  - event: Lease to purchase agreement for property located at 761 Corporate Center Drive in Pomona, California
+  - event: Lucy Seh joins Kingston Financial as loan officer
+  - event: Edington Assets LLC is formed to hold title to property
+  - event: Escrow closes on February 24, 2022
+  - event: Lucy Seh records deed of trust in favor of 168 Investment LLC
+  - event: Lucy Seh assigns deed of trust to Trust
+  - event: Lucy Seh records grant deed granting subject property to Trust
+intention:
+  - intention: to resolve disputes between Plaintiffs and Defendants
+facts:
+  - fact: Plaintiffs allege Lucy Seh and Jonathan Seh fraudulently transferred property from Edington Assets LLC to Trust
+  - fact: Lucy Seh and Jonathan Seh failed to disclose transfers to Plaintiffs
+  - fact: Plaintiffs claim damages in the minimum amount of $3.3 million
+disputes:
+  - dispute: Plaintiffs claim Lucy Seh and Jonathan Seh fraudulently transferred property from Edington Assets LLC to Trust
+  - dispute: Plaintiffs claim Lucy Seh and Jonathan Seh failed to disclose transfers to Plaintiffs
+acts:
+  - act: Lucy Seh and Jonathan Seh transferred property from Edington Assets LLC to Trust
+  - act: Lucy Seh and Jonathan Seh failed to disclose transfers to Plaintiffs
+agreements:
+  - agreement: Lease to purchase agreement for property located at 761 Corporate Center Drive in Pomona, California
+  - agreement: Agreement to split equity in property 50-50
+laws:
+  - law: Uniform Voidable Transactions Act
+  - law: California Civil Code Section 3294
+  - law: California Code of Civil Procedure Section 437c
+case_citations:
+  - case: Lucy Seh v. Plaintiffs (January 19, 2024)
+  - case: Edington Assets LLC v. Trust (December 13, 2022)
+  - case: Plaintiffs v. Lucy Seh and Jonathan Seh (January 19, 2024)
+statutes:
+  - statute: Uniform Voidable Transactions Act
+  - statute: California Civil Code Section 3294
+  - statute: California Code of Civil Procedure Section 437c
+roles:
+  - role: Judge
+  - role: Plaintiff
+  - role: Defendant
+  - role: Trustee
+  - role: Beneficiary
+significant_statements:
+  - statement: The court sustains Lucy Seh, Jonathan Seh, and Trust's demurrer to the third and seventh causes of action in Plaintiffs' FAC.
+  - statement: The court denies Plaintiffs' motion for summary adjudication.
+```
+
+And here is a summary of the judge's tentative ruling in English text:
+
+The judge has denied the Plaintiffs' motion for summary adjudication on all issues. The judge finds that the motion is inappropriate for resolution via summary adjudication as it does not completely dispose of a cause of action, affirmative defense, claim for damages, or issue of duty. Specifically, the judge finds that the issues presented in the motion are not suitable for summary adjudication as they require further factual development and legal analysis. The judge notes that the Plaintiffs' motion fails to comply with California Rules of Court Rule 3.1350 and that the court declines to rule on the Plaintiffs' request for judicial notice and evidentiary objections as unnecessary to the disposition of the motion.

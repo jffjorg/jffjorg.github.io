@@ -1,0 +1,64 @@
+Here is the summary in YAML format:
+
+```
+case_number: 22STCV23872
+plaintiff: Breana Jenkins
+defendant: Posh Management, Inc. dba Paradise LA Uncut
+people_names:
+  - Breana Jenkins
+  - Posh Management, Inc. dba Paradise LA Uncut
+company_names:
+  - Posh Management, Inc.
+  - Paradise LA Uncut
+places:
+  - Court
+  - Plaintiff's premises
+dates:
+  - April 30, 2024
+  - May 15, 2023
+  - February 13, 2024
+events:
+  - Slip and fall on liquid
+  - Filing of default judgment request
+  - Denial of previous default judgment request
+  - Filing of updated declaration and JUD-100
+money:
+  - Damages
+  - Monetary sanctions
+intentions:
+  - To seek damages
+  - To avoid default judgment
+facts:
+  - Defendant knew of dangerous condition
+  - Defendant failed to correct or warn of condition
+disputes:
+  - Plaintiff's allegations of defendant's negligence
+  - Defendant's failure to correct or warn
+acts:
+  - Slip and fall
+  - Filing of papers
+  - Failure to file complete package
+agreements:
+  - Plaintiff's failure to file complete package
+laws:
+  - California Rules of Court (CRC)
+  - California Civil Procedure Code
+case_citations:
+  - CIV-100
+  - JUD-100
+  - CRC 3.1800(a)
+statutes:
+  - California Civil Code
+roles:
+  - Plaintiff
+  - Defendant
+  - Judge
+significant_statements:
+  - Plaintiff must file a complete default package
+  - Failure to do so may result in sanctions
+  - Court will not consider piecemeal documents
+```
+
+And here is the English-text summary:
+
+This tentative ruling is issued by the court in the case of Breana Jenkins vs. Posh Management, Inc. dba Paradise LA Uncut. The plaintiff, Breana Jenkins, filed a request for default judgment against the defendant, Posh Management, Inc. dba Paradise LA Uncut, alleging that the defendant knew of a dangerous condition on their premises and failed to correct it or warn customers of its existence. The plaintiff has previously filed a similar request, which was denied by the court due to incomplete documentation. In this latest filing, the plaintiff has submitted an updated declaration and JUD-100, but failed to file a new CIV-100. The court has ordered the plaintiff to file a complete default package, including the individual filings of CIV-100, JUD-100, and her declaration at the same time. Failure to comply may result in sanctions, including monetary sanctions and/or dismissal.

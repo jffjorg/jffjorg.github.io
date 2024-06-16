@@ -1,0 +1,65 @@
+Here is the summary in YAML format:
+
+```
+case_number: 21STCV32038
+plaintiff: Daniel Jahren
+defendant: Hawthorne Regency, et al.
+people_names:
+  - Daniel Jahren
+  - Michelle C. Kim
+company_names:
+  - Hawthorne Regency Apartments, LLC
+  - Hawthorne Regency
+places:
+  - Los Angeles
+  - California
+dates:
+  - March 18, 2024
+  - April 18, 2024
+  - April 24, 2024
+  - May 7, 2024
+events:
+  - Plaintiff's complaint against Defendant
+  - Defendant's motion for terminating sanctions
+  - Court's order compelling discovery responses
+  - Plaintiff's failure to serve verified responses
+  - Court's denial of Plaintiff's counsel's motion to be relieved as counsel
+money:
+  - $1,185 (monetary sanctions)
+  - $1,080 (sanctions)
+intentions:
+  - To impose terminating sanctions on Plaintiff
+  - To dismiss Plaintiff's action against Defendant
+facts:
+  - Plaintiff failed to serve verified responses to Defendant's discovery requests
+  - Plaintiff's counsel sought to be relieved as counsel
+  - Court granted Defendant's motion to compel discovery responses
+disputes:
+  - Plaintiff's non-compliance with discovery obligations
+  - Defendant's request for terminating sanctions
+acts:
+  - Plaintiff's failure to serve verified responses
+  - Defendant's filing of motion for terminating sanctions
+agreements:
+  - Court's order compelling discovery responses
+  - Defendant's request for terminating sanctions
+laws:
+  - Code of Civil Procedure § 2023.030
+  - Code of Civil Procedure § 2023.030(d)
+  - Civil Code, rule 8.54(c)
+  - Deyo v. Kilbourne (1978) 84 Cal.App.3d 771
+  - Mileikowsky v. Tenet Healthsystem (2005) 128 Cal.App.4th 262
+  - Midwife v. Bernal (1988) 203 Cal.App.3d 57
+roles:
+  - Judge: Michelle C. Kim
+  - Plaintiff: Daniel Jahren
+  - Defendant: Hawthorne Regency, et al.
+  - Counsel: Plaintiff's counsel
+significant statements:
+  - The Court concludes that Plaintiff's failure to comply with discovery obligations was willful and without just cause
+  - The Court grants Defendant's motion for terminating sanctions and dismisses Plaintiff's action against Defendant
+```
+
+And here is the English-text summary:
+
+The tentative ruling grants Defendant's unopposed motion for terminating sanctions, which dismisses Plaintiff's action against Defendant. The Court finds that Plaintiff's failure to comply with discovery obligations was willful and without just cause, and that lesser sanctions would not curb the abuse. The Court concludes that the Plaintiff's counsel's absence from the case and the Plaintiff's apparent disinterest in prosecuting the action justify the imposition of terminating sanctions. The Court denies Defendant's request for additional monetary sanctions, as the dismissal of Plaintiff's action against Defendant is sufficient to meet the ends of justice.

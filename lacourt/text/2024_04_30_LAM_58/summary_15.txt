@@ -1,0 +1,52 @@
+Here is the summary in YAML format:
+
+```
+case_number: unknown
+plaintiff_name: unknown
+defendant_name: unknown
+people_names:
+  - Plaintiff
+  - Defendant
+company_names: []
+places: []
+dates:
+  - 2023
+  - 2021
+events:
+  - Demurrer
+  - CIPA violation
+money: []
+intentions:
+  - To state a claim
+facts:
+  - In transit interception
+  - Use of a telephone line
+  - Internet technology
+disputes:
+  - Technical requirements for CIPA violation
+  - Adequacy of allegations
+acts:
+  - Filing a demurrer
+  - Alleging an in transit interception
+  - Relying on non-binding trial court cases
+agreements: []
+laws:
+  - CIPA (Communications Act of 1934)
+  - Federal Rules of Civil Procedure
+  - California Code of Civil Procedure
+  - California Civil Code
+case_citations:
+  - Valenzuela v. Keurig Green Mountain, Inc. (N.D. Cal. 2023) 674 F.Supp.3d 751, 756.
+  - Yoon v. Lululemon USA, Inc. (C.D. Cal. 2021) 549 F.Supp.3d 1073, 1081.
+roles:
+  - Judge
+  - Plaintiff
+  - Defendant
+significant_statements:
+  - Liberally construing the allegations, the FAC adequately alleges an "in transit" interception over the internet.
+  - Plaintiff's reliance on non-binding trial court cases is improper.
+```
+
+And here is a summary of the judge's tentative ruling in English text:
+
+The judge has issued a tentative ruling on a demurrer filed by the defendant. The demurrer argues that the plaintiff's allegations of a CIPA violation are insufficient because they do not allege technical requirements for such a violation, including the use of a telephone line or an "in transit" interception. The judge agrees that the first clause does not apply to internet technology, but the second clause does. The judge liberally construes the allegations and finds that the plaintiff's allegations of an "in transit" interception over the internet are adequate. However, the judge notes that this determination is generally a question of fact and that the plaintiff must still allege adequate facts to state a claim. The judge also rejects the plaintiff's reliance on non-binding trial court cases to bolster their argument that their allegations are adequate.

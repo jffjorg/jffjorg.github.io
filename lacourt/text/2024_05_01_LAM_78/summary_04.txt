@@ -1,0 +1,61 @@
+Here is the judge's tentative ruling in YAML format:
+
+```
+---
+case_number: 23STCV26389
+hearing_date: 2024-05-01
+dept: 78
+county: Los Angeles
+people:
+  - Akhenaton Rey Taylor (Plaintiff)
+  - Officer Crosby (Defendant)
+companies:
+  - Crosby 1224 (Defendant)
+places:
+  - Los Angeles
+dates:
+  - 2024-03-06 (Demurrer filed)
+  - 2024-03-13 (Opposition filed)
+  - 2024-04-24 (Reply filed)
+  - 2024-05-01 (Hearing date)
+events:
+  - Arrest of Plaintiff by Officer Crosby
+  - Demurrer filed by Defendant Crosby
+  - Opposition filed by Plaintiff
+  - Reply filed by Defendant Crosby
+money: $0
+intentions:
+  - Plaintiff seeks damages for alleged police misconduct
+facts:
+  - Plaintiff alleges that Officer Crosby arrested him without probable cause
+  - Plaintiff alleges that Officer Crosby used excessive force during the arrest
+disputes:
+  - Defendant Crosby claims that Plaintiff's Complaint is uncertain and fails to state a cause of action
+  - Plaintiff claims that Defendant Crosby's demurrer is without merit
+acts:
+  - Officer Crosby arrested Plaintiff
+  - Plaintiff filed a Complaint against Officer Crosby
+agreements:
+  - None
+laws:
+  - 18 USC § 242
+  - 42 USC § 1983
+citations:
+  - Hahn v. Mirda (2007) 147 Cal.App.4th 740, 747
+  - Donabedian v. Mercury Ins. Co. (2004) 116 Cal.App.4th 968, 994
+  - Code Civ. Proc. § 430.30
+  - Code Civ. Proc. § 430.41
+  - Khoury v. Maly's of California, Inc. (1993) 14 Cal.App.4th 612, 616
+  - People v. Lim (1941) 18 Cal.2d 872, 882
+roles:
+  - Judge: Hon. Jill Feeney
+  - Plaintiff: Akhenaton Rey Taylor
+  - Defendant: Officer Crosby
+significant_statements:
+  - The demurrer is sustained without leave to amend as to the cause of action under 18 USC § 242.
+  - The demurrer is sustained with leave to amend as to the cause of action under 42 USC § 1983.
+```
+
+And here is a summary of the judge's tentative ruling in English:
+
+The judge has issued a tentative ruling on the demurrer filed by Officer Crosby, the defendant. The demurrer was filed on March 6, 2024, and the opposition was filed by the plaintiff on March 13, 2024. The judge has sustained the demurrer without leave to amend as to the cause of action under 18 USC § 242, which is a criminal statute that does not give rise to a civil action for damages. The judge has sustained the demurrer with leave to amend as to the cause of action under 42 USC § 1983, which requires the plaintiff to allege facts sufficient to state a cause of action under this statute. The judge has ordered the plaintiff to file a first amended complaint within 20 days of the date of this order. The judge has also ordered the plaintiff to address the issue of the capacity in which the defendant, Officer Crosby, is being sued.

@@ -1,0 +1,54 @@
+Here is the summary in YAML format:
+
+```
+case_number: "TBD"
+plaintiff: "Plaintiff's Name"
+defendant: "Defendant's Name"
+people_names:
+  - L.R.
+company_names: []
+places:
+  - California
+dates:
+  - 2/14/22
+events:
+  - Assaults
+  - Allegations
+  - Pleading
+  - Amendment
+  - Motion to Strike
+money: []
+intentions:
+  - To strike paragraph 59
+facts:
+  - Lack of ultimate, specific facts
+  - Lack of underlying statute
+  - Lack of mandatory duty statute
+disputes:
+  - Plaintiff's allegations
+  - District's knowledge
+acts:
+  - Alleged assaults
+  - Filing of complaint
+  - Amendment of complaint
+  - Incorporation by reference
+agreements: []
+laws:
+  - Cal-West Nat. Bank v. Superior Court (1986) 185 Cal. App. 3d 96, 101
+  - Mandatory duty statute (non-existent)
+  - Underlying statute (non-existent)
+roles:
+  - Judge
+  - Plaintiff
+  - Defendant
+  - District
+significant_statements:
+  - Lack of ultimate, specific facts
+  - Lack of underlying statute
+  - Lack of mandatory duty statute
+  - Unclear how District knew of L.R.'s dangerous propensities
+```
+
+And here is the English text summary:
+
+This tentative ruling addresses a motion to strike paragraph 59 of the complaint, which lacks an underlying statute and a reference to a mandatory duty statute regarding training. The judge finds that the complaint is to be amended again, making the motion to strike moot. The judge notes that the complaint lacks ultimate, specific facts and that the plaintiff's allegations are unclear. Additionally, the judge questions how the District would have known of L.R.'s dangerous propensities prior to February 14, 2022, when the alleged assaults started. The judge also notes that the plaintiff may continue to incorporate by reference previous portions of the pleading for informational purposes only, but it is not the court's responsibility to determine what allegations form what elements of the cause of action.

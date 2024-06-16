@@ -1,0 +1,51 @@
+Here is the YAML summary of the tentative ruling:
+
+```
+Case Number: 123456
+Plaintiff's Name: Leland
+Defendant's Name: CDF
+People-Names:
+  - Aaron Iskowtiz
+Company-Names:
+  - Marcus & Millichap
+Places:
+  - California (Pacific Time Zone)
+Dates:
+  - March 8, 2023 (Effective Date)
+  - [Date of email exchange] (unspecified)
+Events:
+  - Negotiation of Purchase Agreement
+  - Counter Offer
+  - Email exchange between counsel
+  - Automatic removal of contingencies (disputed)
+Money: $ (amount unspecified)
+Intentions:
+  - Leland's intention to remove contingencies
+  - CDF's intention to maintain contingencies
+Facts:
+  - Purchase Agreement signed on March 8, 2023
+  - Email exchange between counsel on [Date of email exchange]
+Disputes:
+  - Interpretation of Section 4 of Purchase Agreement
+  - Automatic removal of contingencies
+Acts:
+  - Negotiation of Purchase Agreement
+  - Counter Offer
+  - Email exchange between counsel
+Agreements:
+  - Purchase Agreement
+  - Counter Offer
+Laws:
+  - [Citations to relevant laws or statutes]
+Statutes:
+  - [Relevant statutes]
+Roles:
+  - Aaron Iskowtiz (counsel)
+  - Counsel at Marcus & Millichap (negotiators)
+Significant Statements:
+  - "Let's add to the counter that they must accept by 5pm pacific today and open escrow tomorrow as a condition with no contingencies."
+```
+
+And here is the English-text summary of the judge's tentative ruling:
+
+The judge's tentative ruling addresses the dispute between Leland and CDF regarding the interpretation of Section 4 of the Purchase Agreement. Leland argues that the contingencies are automatically removed if CDF does not affirmatively do so. However, the judge finds that an email exchange between counsel does not support Leland's position. The email exchange, which was introduced as extrinsic evidence, does not contain language stating that the contingencies are automatically removed if CDF does not affirmatively act. The judge concludes that the email exchange does not help Leland's cause and that the court should not consider extrinsic evidence in this case.

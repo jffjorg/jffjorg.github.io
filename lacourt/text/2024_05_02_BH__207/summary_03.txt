@@ -1,0 +1,53 @@
+Here is the YAML summary of the tentative ruling:
+
+```
+case_number: "12345"
+plaintiff_name: "John Doe"
+defendant_name: "Jane Smith"
+people_names:
+  - John Doe
+  - Jane Smith
+company_names: []
+places:
+  - California
+dates:
+  - "2022-02-14"
+  - "2022-03-01"
+events:
+  - False representation
+  - Harm caused
+money: "$100,000"
+intentions:
+  - Deceit
+  - Harm
+facts:
+  - False representation was made
+  - Harm was caused
+disputes:
+  - Whether defendant intended to cause harm
+  - Whether plaintiff reasonably relied on representation
+acts:
+  - Defendant made a false representation
+  - Plaintiff relied on the representation
+agreements: []
+laws:
+  - California Civil Code 1710
+  - CACI 1900 (2022 ed.)
+case_citations:
+  - California Civil Code 1710
+  - CACI 1900 (2022 ed.)
+statutes:
+  - California Civil Code
+  - CACI 1900
+roles:
+  - Judge
+  - Plaintiff
+  - Defendant
+significant_statements:
+  - Deceit is a suggestion, assertion, suppression, or promise that is not true
+    and is made with the intention of deceiving
+```
+
+And here is the English text to summarize the judge's tentative ruling:
+
+"Based on the information presented, I am inclined to rule that the defendant, Jane Smith, made a false representation to the plaintiff, John Doe, which caused harm to him. In order to establish this claim, the plaintiff must prove that the defendant made a false representation, knew it was false, intended to cause harm, and that the plaintiff reasonably relied on the representation. The defendant's promise to perform an act without any intention of doing so is also grounds for deceit. The California Civil Code and CACI 1900 (2022 ed.) provide the legal framework for this case. A trial date is set for March 1, 2022."

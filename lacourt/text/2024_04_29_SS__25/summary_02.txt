@@ -1,0 +1,49 @@
+Here is the summary in YAML format:
+
+```
+Case Number: 22STLC02449
+Plaintiff's Name: Patty Smith
+Defendant's Name: Terry Bowen
+People-Names:
+  - Patty Smith
+  - Terry Bowen
+Company-Names: []
+Places: []
+Dates:
+  - April 29, 2024 (Hearing Date)
+  - April 29, 2024 (Dept)
+Events:
+  - Defendant's Motion to Compel
+  - Request for Monetary Sanctions
+  - Request for Production, Set 1
+Money: Monetary Sanctions
+Intentions:
+  - Defendant seeks to compel plaintiff's responses to form interrogatories and request production
+  - Plaintiff seeks monetary sanctions against defendant
+Facts:
+  - Defendant has not received responses to interrogatories and request for production
+  - Plaintiff has not provided sufficient information to defendant
+Disputes:
+  - Dispute over defendant's requests for information
+  - Dispute over plaintiff's refusal to provide information
+Acts:
+  - Defendant's Motion to Compel
+  - Plaintiff's refusal to provide information
+Agreements: []
+Laws:
+  - Relevant case law and statutes
+Case Citations: []
+Statutes: []
+Roles:
+  - Judge
+  - Plaintiff (Patty Smith)
+  - Defendant (Terry Bowen)
+Significant Statements:
+  - Defendant's motion is granted
+  - Plaintiff is ordered to provide responses to interrogatories and request for production
+  - Defendant is awarded monetary sanctions
+```
+
+And here is a summary of the judge's tentative ruling in English text:
+
+"In this case, plaintiff Patty Smith versus Terry Bowen and others, the defendant has moved to compel plaintiff's responses to form interrogatories and request for production, set 1, and has requested monetary sanctions. After reviewing the information presented, I, the judge, have decided to grant the defendant's motion. The plaintiff is hereby ordered to provide responses to the interrogatories and request for production within a reasonable timeframe. Additionally, the plaintiff is ordered to pay monetary sanctions to the defendant. This ruling is tentative and subject to change at the hearing on April 29, 2024."

@@ -1,0 +1,63 @@
+Here is the summary in YAML format:
+
+```
+case_number: 22STCV38447
+plaintiff_name: John E. Bouzane
+defendant_name: Mike Nijjar, et al.
+people_names:
+  - John E. Bouzane
+  - Mike Nijjar
+  - Kerry Bensinger
+company_names:
+  - Fast Eviction Service
+  - PAMA Management Inc.
+  - Golden Management Services, Inc.
+places:
+  - California
+dates:
+  - December 8, 2023
+  - January 4, 2024
+  - January 24, 2024
+  - February 5, 2024
+  - April 17, 2024
+  - April 30, 2024
+events:
+  - Request for Production of Documents
+  - Informal Discovery Conference (IDC)
+  - Meet and confer
+  - Document production
+  - Filing of oppositions
+money: None
+intentions:
+  - To compel further responses to discovery
+facts:
+  - Defendant produced thousands of responsive documents
+  - Plaintiff failed to advise the court of the status of the discovery dispute
+disputes:
+  - Dispute over document production
+acts:
+  - Plaintiff filed motions to compel further responses
+  - Defendant produced responsive documents
+  - Plaintiff failed to respond to Defendants' inquiry
+agreements:
+  - None
+laws:
+  - California Rules of Court
+  - California Code of Civil Procedure
+  - Federal Rules of Civil Procedure
+case_citations: None
+statutes:
+  - California Code of Civil Procedure
+roles:
+  - Judge: Kerry Bensinger
+  - Plaintiff: John E. Bouzane
+  - Defendant: Mike Nijjar
+  - Defendant's counsel
+  - Plaintiff's counsel
+significant_statements:
+  - "Given Defendants' uncontested representation that responsive documents were produced to Plaintiff, and Plaintiff's failure to advise the court of the status of this discovery dispute, the court finds these motions are MOOT."
+```
+
+And here is the English-text summary of the judge's tentative ruling:
+
+The court has issued a tentative ruling dismissing Plaintiff John E. Bouzane's motion to compel further responses to discovery after Defendants PAMA Management Inc. produced thousands of responsive documents. The court notes that Plaintiff's counsel failed to advise the court of the status of the discovery dispute, despite Defendants' inquiry. Given the uncontested production of documents by Defendants, the court finds the motion to compel is moot.

@@ -1,0 +1,58 @@
+Here is the YAML summary of the legal document:
+
+```
+case_number: [omitted]
+plaintiff: Bishoy Hanna
+defendant: Crystal Boultinghouse and Josh Freeman Stinn
+people:
+  - Bishoy Hanna
+  - Crystal Boultinghouse
+  - Josh Freeman Stinn
+company_names: []
+places: []
+dates:
+  - March 7, 2024
+  - March 19, 2024
+events:
+  - Plaintiff filed a First Amended Complaint
+  - Defendant filed a special motion to strike
+  - Court granted the special motion to strike
+  - Plaintiff moves to set aside the order
+money: []
+intentions:
+  - To set aside the Court Order
+facts:
+  - Plaintiff failed to oppose the special motion to strike
+  - Plaintiff filed a First Amended Complaint
+  - Defendant filed an opposition
+disputes:
+  - Whether the Court Order should be set aside
+acts:
+  - Plaintiff filed motions
+  - Defendant filed oppositions
+agreements: []
+laws:
+  - Code of Civil Procedure section 425.16
+  - Code of Civil Procedure section 473
+  - Code of Civil Procedure section 473, subdivision (b)
+  - 42 USC section 1983
+case_citations:
+  - Luri v. Greenwald (2003) 107 Cal.App.4th 1119
+  - Shamblin v. Brattain (1988) 44 Cal. 3th 474
+  - Henderson v. Pacific Gas & Electric Co. (2010) 187 Cal.App.4th 215
+  - JKC3H8 v. Colton (2013) 221 Cal.App.4th 468
+  - Nwosu v. Uba (2004) 122 Cal.App.4th 1229
+  - Rappleyea v. Campbell (1994) 8 Cal.4th 975
+roles:
+  - Judge
+  - Plaintiff
+  - Defendant
+significant_statements:
+  - Plaintiff failed to oppose the special motion to strike
+  - Plaintiff's failure to comply with procedural requirements
+  - Court's ruling was not a close call
+```
+
+Here is the English summary of the judge's tentative ruling:
+
+The judge is denying the plaintiff's motion to set aside the court order granting the defendant's special motion to strike. The plaintiff failed to oppose the special motion to strike, and his failure to do so was not due to mistake, surprise, or excusable neglect. The plaintiff also failed to comply with procedural requirements, such as providing a copy of the proposed opposition to the defendant's anti-SLAPP motion. The judge notes that the court's ruling was not a close call, and no opposition would have saved the plaintiff's claims.

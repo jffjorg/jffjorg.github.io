@@ -1,0 +1,55 @@
+Here is a summary of the tentative ruling in YAML format:
+
+```
+case_number: 24TRCV00173
+hearing_date: 2024-05-02
+dept: B
+court: Superior Court of California
+county: Los Angeles
+district: Southwest
+location: Torrance
+judge: [Name]
+parties:
+  - plaintiff: Katie Ann Marie Abbett
+  - defendants:
+      - SP Plus Corporation
+      - SP Plus Property Management Inc.
+      - Le'Shey Damari Fuqua
+      - 405 Parking
+roles:
+  - plaintiff: Katie Ann Marie Abbett (complainant)
+  - defendants: SP Plus Corporation, SP Plus Property Management Inc., Le'Shey Damari Fuqua, 405 Parking (defendants)
+acts:
+  - assault (first cause of action)
+  - battery (second cause of action)
+  - intentional infliction of emotional distress (third cause of action)
+  - gross negligence (fourth cause of action)
+  - vicarious liability (sixth cause of action)
+money: punitive damages (prayer for)
+laws:
+  - Civil Code §3294
+  - California Civil Procedure Code §436(b)
+  - California Civil Procedure Code §431.10
+statutes:
+  - California Civil Procedure Code
+  - California Civil Code
+  - California Code of Civil Procedure
+citations:
+  - Taylor v. City of Los Angeles (2006) 144 Cal. App. 4th 1216, 1228
+  - SKF Farms v. Superior Court (1984) 153 Cal. App. 3d 902, 905
+  - Hahn v. Mirda (2007) 147 Cal. App. 4th 740, 747
+  - CCP §436(b)
+  - CCP §431.10
+  - Civil Code §3294
+  - Dawes v. Superior Court (1980) 111 Cal. App. 3d 82, 87
+  - Lackner v. North (2006) 135 Cal. App. 4th 1188, 1212
+  - Jimenez v. 24 Hour Fitness USA, Inc. (2015) 237 Cal. App. 4th 546, 552, n.3
+```
+
+Here is a summary of the judge's tentative ruling in English:
+
+The judge has issued a tentative ruling on the case, which outlines the court's decisions on the demurrer and motion to strike. The demurrer was OVERRULED as to the third cause of action (intentional infliction of emotional distress) and SUSTAINED WITH TWENTY DAYS LEAVE TO AMEND as to the fourth and sixth causes of action (gross negligence and vicarious liability).
+
+The motion to strike was DENIED as to paras. 35, 37 (under first cause of action for assault), 41, 43 (under second cause of action for battery), and 48, 50 (under third cause of action for IIED) and prayer for punitive damages, and GRANTED WITHOUT LEAVE TO AMEND as to 56, 58 (under fourth cause of action for gross negligence).
+
+The judge also noted that the allegations were insufficient as to paras. 48 and 50 under the fourth cause of action for gross negligence, and that punitive damages require proof of oppression, fraud, or malice.

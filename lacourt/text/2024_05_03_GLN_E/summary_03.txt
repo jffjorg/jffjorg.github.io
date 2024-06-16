@@ -1,0 +1,27 @@
+Here is a summary of the tentative ruling in YAML format:
+
+```
+case_number: 23GDCV01994
+hearing_date: May 3, 2024
+dept: E
+case_name: ROBERT TOROSIAN, an individual; MARINA FERMANYAN, an individual; and ALOUST GREGORY TOROSIAN v. EDGAR MADATYAN, an individual; ELVIS MADATYAN, an individual; GLENDALE FRENCH BAKERY, INC., dba PAPILLON INTERNATIONAL BAKERY, a California corporation; LIANA YOZALYAN, an individual; and DOES 1-100
+demurrers:
+  - demurrer_1:
+      - demurrer_to_third_cause_of_action: SUSTAINED with leave to amend
+      - demurrer_to_fourth_cause_of_action: SUSTAINED with leave to amend
+      - demurrer_to_fifth_cause_of_action: OVERRULED
+  - demurrer_2:
+      - demurrer_to_third_cause_of_action: SUSTAINED with leave to amend
+      - demurrer_to_fourth_cause_of_action: SUSTAINED with leave to amend
+      - demurrer_to_fifth_cause_of_action: SUSTAINED with leave to amend
+  - motion_to_strike:
+    - punitive_damages_request: DENIED
+    - attorney_fees_request: DENIED
+    - cause_of_action_1: GRANTED with leave to amend
+    - cause_of_action_2: DENIED
+    - cause_of_action_3: GRANTED with leave to amend
+    - cause_of_action_4: SUSTAINED with leave to amend
+    - cause_of_action_5: SUSTAINED with leave to amend
+    - cause_of_action_6: OVERRULED
+    - cause_of_action_7: SUSTAINED with leave to amend
+    - cause_of_action_8: GRANTED with

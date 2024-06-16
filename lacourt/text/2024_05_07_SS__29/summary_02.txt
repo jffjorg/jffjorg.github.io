@@ -1,0 +1,78 @@
+Here is the YAML representation of the legal document:
+
+```
+case_number: 20STCV25074
+hearing_date: 2024-05-07
+dept: 29
+plaintiff_names:
+  - Sion Goel
+  - Shokouh Adamous
+defendant_names:
+  - Camille D. Muepo
+  - Zacharie Muepo
+  - Christina Muepo
+people_names:
+  - Sion Goel
+  - Shokouh Adamous
+  - Camille D. Muepo
+  - Zacharie Muepo
+  - Christina Muepo
+company_names:
+  - The Goel Firm, P.C.
+places:
+  - La Cienega Boulevard
+  - Wilshire Boulevard
+  - Beverly Hills
+  - California
+dates:
+  - 2018-07-08
+  - 2020-07-02
+  - 2022-04-13
+  - 2022-09-13
+  - 2023-11-01
+  - 2023-11-29
+  - 2024-01-23
+  - 2024-05-07
+events:
+  - Vehicle accident
+  - Depositions
+  - Discovery
+  - Motions to compel
+money:
+  - Sanctions: $530
+intention:
+  - To compel the depositions of the plaintiffs
+facts:
+  - Plaintiffs did not serve a timely objection
+  - Plaintiffs did not appear for depositions
+  - Plaintiffs' counsel asked for continuances
+disputes:
+  - Failure to comply with discovery requests
+acts:
+  - Filing of motions to compel
+  - Service of deposition notices
+  - Failure to appear for depositions
+agreements:
+  - Civil Discovery Act
+laws:
+  - California Code of Civil Procedure
+  - California Civil Discovery Act
+citations:
+  - Code Civ. Proc., § 2025.010
+  - Code Civ. Proc., § 2025.280
+  - Code Civ. Proc., § 2025.410
+  - Code Civ. Proc., § 2025.450
+  - Code Civ. Proc., § 2023.010
+  - Code Civ. Proc., § 2023.030
+roles:
+  - Parties to the action
+  - Counsel for the parties
+  - Court
+significant_statements:
+  - Plaintiffs' failure to comply with discovery requests
+  - Failure to appear for depositions
+```
+
+And here is the English text summarizing the judge's tentative ruling:
+
+The judge grants the defendants' motions to compel the depositions of the plaintiffs. The defendants have noticed the depositions of the plaintiffs three times, but the plaintiffs did not serve a timely objection and did not appear for the depositions. The judge finds that the defendants have satisfied all substantive and procedural requirements for their motions, and the plaintiffs have not filed any opposition. The judge grants the motions to compel and orders the plaintiffs to appear for deposition and give testimony under oath. The judge also grants the defendants' requests for sanctions in the amount of $530.

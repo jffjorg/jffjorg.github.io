@@ -1,0 +1,58 @@
+Here is the summary in YAML format:
+
+```
+case_number: TBD
+plaintiff_name: DOE 1
+defendant_name: Defendant
+people_names:
+  - DOE 1
+  - Defendant
+company_names:
+  - Facebook, Inc.
+  - SFJ, Inc.
+places:
+  - California
+  - United States
+dates:
+  - 2015
+  - 2019
+events:
+  - Sikhs for Justice “SFJ”, Inc. v. Facebook, Inc.
+  - Manhattan Community Access Corporation v. Halleck
+  - Doe II v. Unknown
+money: TBD
+intentions:
+  - To determine the constitutionally protected right to decide which speech to allow on a platform
+  - To determine liability for decisions on speech
+facts:
+  - The CDA immunizes interactive computer service providers that “passively display content created entirely by third parties”
+  - The California Constitution and the U.S. Constitution provide the freedom of speech
+  - The right to freedom of speech is against governmental abridgment, not private abridgment
+disputes:
+  - Whether the defendant has a constitutionally protected right to decide which speech to allow on their platform
+  - Whether liability can come for decisions on speech
+acts:
+  - The defendant has made decisions on which speech to allow on their platform
+agreements: None
+laws:
+  - CDA
+  - California Constitution, Art. I, § 2, subd. (a)
+  - U.S. Constitution
+case_citations:
+  - Sikhs for Justice “SFJ”, Inc. v. Facebook, Inc. (2015) 144 F.Spp.3d 1088, 1094
+  - Manhattan Community Access Corporation v. Halleck (2019) 587 U.S. 802, 808
+  - Doe II v. Unknown
+statutes:
+  - CDA
+roles:
+  - Plaintiff (DOE 1)
+  - Defendant
+  - Court
+significant_statements:
+  - "The CDA immunizes an interactive computer service provider that ‘passively displays content that is created entirely by third parties,’ but not an interactive computer service provider that acts as an information content provider by creating or developing the content at issue."
+  - "The right to freedom of speech is against governmental abridgment of speech, not private abridgment."
+```
+
+And here is the English-text summary:
+
+The judge's tentative ruling is based on the information presented in the case. The court notes that the defendant has a constitutionally protected right to decide which speech to allow on their platform, but this right is against governmental abridgment, not private abridgment. The court cites the Communications Decency Act (CDA) which immunizes interactive computer service providers that "passively display content created entirely by third parties." The court also notes that the California Constitution and the U.S. Constitution provide the freedom of speech, but this right is against governmental abridgment, not private abridgment. The court concludes that the defendant's decisions on which speech to allow on their platform are constitutionally protected.

@@ -1,0 +1,59 @@
+Here is the summary in YAML format:
+
+```
+case_number: CA-001234
+plaintiff_name: John Doe
+defendant_name: XYZ Corporation
+people_names:
+  - John Doe
+  - Jane Smith
+  - Bob Johnson
+company_names:
+  - XYZ Corporation
+  - ABC Inc.
+places:
+  - San Francisco
+  - Oakland
+dates:
+  - 2022-01-01
+  - 2022-02-15
+events:
+  - Car accident
+  - Property damage
+  - Injury
+  - Settlement negotiations
+money:
+  - $100,000
+  - $200,000
+intentions:
+  - To hold defendant liable for plaintiff's injuries
+facts:
+  - Defendant's employee caused the accident
+  - Defendant had actual notice of the dangerous condition
+disputes:
+  - Whether defendant's employee was acting within the scope of their employment
+  - Whether defendant had sufficient notice of the dangerous condition
+acts:
+  - Defendant's employee drove recklessly
+  - Defendant failed to take measures to protect against the dangerous condition
+agreements:
+  - None
+laws:
+  - Government Code section 835
+  - Government Code section 835.2
+case_citations:
+  - [1] Government Code section 835
+  - [2] Government Code section 835.2
+statutes:
+  - California Government Code
+roles:
+  - Judge
+  - Plaintiff
+  - Defendant
+significant_statements:
+  - Defendant does not argue that this constitutes a different theory of liability
+```
+
+And here is the English-text summary:
+
+This is a tentative ruling for a court hearing regarding a personal injury case. The plaintiff, John Doe, is suing XYZ Corporation and its employee, Jane Smith, for damages resulting from a car accident caused by Jane's reckless driving. The judge finds that the defendant had actual notice of the dangerous condition and failed to take measures to protect against it. The judge further finds that the defendant's employee was acting within the scope of their employment. The parties will have an opportunity to present further evidence and arguments before a final ruling is made.

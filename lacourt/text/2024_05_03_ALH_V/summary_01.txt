@@ -1,0 +1,68 @@
+Here is the YAML summary of the Tentative Ruling:
+
+```yaml
+case_number: 23BBCV02683
+plaintiff: LEXHAM OLIVE, LLC
+defendant: THE CARVING BOARD, LLC, WESCO INSURANCE COMPANY, RDCS SERVICE INC. DBA LJ CONSTRUCTION
+people_names:
+  - WESCO INSURANCE COMPANY
+  - RDCS SERVICE INC. DBA LJ CONSTRUCTION
+  - DOE CONTRACTOR INSURANCE COMPANY
+company_names:
+  - LEXHAM OLIVE, LLC
+  - THE CARVING BOARD, LLC
+  - WESCO INSURANCE COMPANY
+  - RDCS SERVICE INC.
+  - DOE CONTRACTOR INSURANCE COMPANY
+places: 
+  - LOS ANGELES
+  - CALIFORNIA
+  - NORTHEAST DISTRICT
+dates:
+  - February 7, 2024
+  - January 8, 2024
+  - December 8, 2023
+  - May 3, 2024
+events:
+  - DEMURRER
+  - BREACH OF INSURANCE CONTRACT
+  - BREACH OF CONTRACT
+  - BREACH OF WRITTEN CONTRACT
+  - FRAUD
+  - NEGLIGENCE
+money: $ (no specific amount mentioned)
+intention:
+  - Plaintiffs are seeking damages from the defendants for the damages resulting from faulty work performed by RDCS Services Inc. DBA LJ Construction
+facts:
+  - Defendant WESCO INSURANCE COMPANY filed a demurrer to the third cause of action for breach of insurance contract
+  - The court considered the moving papers, opposition and reply
+disputes:
+  - The defendant argues that the plaintiff failed to state facts sufficient to constitute a cause of action against the defendant
+  - The plaintiff argues that it has sufficiently alleged that it is an insured under the policy
+acts:
+  - Defendant WESCO INSURANCE COMPANY filed a demurrer to the third cause of action for breach of insurance contract
+  - Plaintiff LEXHAM OLIVE, LLC opposed the demurrer
+agreements:
+  - Defendant WESCO INSURANCE COMPANY claims that the plaintiff is not an insured and therefore cannot directly sue the defendant
+  - The court will address the merits of the demurrer despite its untimeliness
+laws:
+  - CODE OF CIVIL PROCEDURE, § 430.30
+  - CODE OF CIVIL PROCEDURE, § 430.40
+  - CODE OF CIVIL PROCEDURE, § 430.41
+  - CODE OF CIVIL PROCEDURE, § 430.40(a)
+statutes:
+  - CODE OF CIVIL PROCEDURE, § 430.30
+  - CODE OF CIVIL PROCEDURE, § 430.40
+  - CODE OF CIVIL PROCEDURE, § 430.41
+  - CODE OF CIVIL PROCEDURE, § 430.40(a)
+roles:
+  - Judge
+  - Plaintiff (LEXHAM OLIVE, LLC)
+  - Defendant (THE CARVING BOARD, LLC, WESCO INSURANCE COMPANY, RDCS SERVICE INC. DBA LJ CONSTRUCTION)
+significant statements:
+  - The court will sustain the demurrer with 20 days leave to amend
+```
+
+Here is a summary of the Tentative Ruling in English text:
+
+This Tentative Ruling addresses a demurrer filed by Defendant WESCO INSURANCE COMPANY to the third cause of action for breach of insurance contract in a lawsuit brought by Plaintiff LEXHAM OLIVE, LLC against THE CARVING BOARD, LLC, WESCO INSURANCE COMPANY, RDCS SERVICE INC. DBA LJ CONSTRUCTION, and DOES 1 through 20. The court finds that the demurrer is untimely but will address the merits of the demurrer despite its untimeliness. The court finds that the plaintiff has sufficiently alleged that it is an insured under the policy and has pleaded sufficient facts to constitute a cause of action against the defendant. However, the court sustains the demurrer due to the plaintiff's failure to plead the material terms of the insurance policy and to properly allege a bad faith breach of contract claim. The court grants the defendant 20 days to amend its demurrer.

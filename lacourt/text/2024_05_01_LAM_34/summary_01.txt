@@ -1,0 +1,73 @@
+Here is the summary in YAML format:
+
+```
+case_number: 23STCV20997
+plaintiff: Geraldine Angel
+defendant: Genevieve Angel Dial
+people:
+  - Geraldine Angel
+  - Genevieve Angel Dial
+companies: []
+places: []
+dates:
+  - August 31, 2023
+  - October 16, 2023
+  - November 27, 2023
+  - December 5, 2023
+  - December 21, 2023
+  - December 22, 2023
+  - January 29, 2024
+events:
+  - Plaintiff filed Complaint
+  - Plaintiff filed proofs of service
+  - Clerk's Office entered default
+  - Plaintiff filed Statement of Damages
+  - Defendant filed Answer
+  - Court found related cases
+  - Plaintiff filed Request for Dismissal
+  - Plaintiff filed Proposed Judgment
+  - Plaintiff filed Memorandum of Costs
+  - Plaintiff filed Declaration
+  - Clerk's Office dismissed doe defendants
+money: $258,170.26
+intentions:
+  - Plaintiff seeks default judgment
+disputes:
+  - Improper entry of default
+  - Failure to serve statement of damages
+  - Nullity of Defendant's Answer
+  - Ineligibility for default judgment
+facts:
+  - Plaintiff filed Complaint with no statement of damages
+  - Default was improperly entered
+  - Plaintiff served statement of damages after default
+disputes:
+  - Plaintiff's Complaint did not contain specific statement of damages
+  - Default was entered before statement of damages was served
+acts:
+  - Plaintiff filed Request for Default Judgment
+  - Defendant did not move to set aside default
+agreements:
+  - Code of Civil Procedure section 425.11
+  - Code of Civil Procedure section 580
+  - Code of Civil Procedure section 425.115
+  - Devlin v. Kearny Mesa AMC/Jeep/Renault, Inc.
+laws:
+  - Code of Civil Procedure
+  - Code of Civil Procedure section 425.11
+  - Code of Civil Procedure section 580
+  - Code of Civil Procedure section 425.115
+  - Devlin v. Kearny Mesa AMC/Jeep/Renault, Inc.
+roles:
+  - Judge
+  - Plaintiff
+  - Defendant
+significant statements:
+  - Plaintiff's Request for Default Judgment is DENIED without prejudice.
+  - Default was improperly entered.
+  - Defendant's Answer is a nullity.
+```
+
+And here is the English-text summary:
+
+The judge's tentative ruling denies the plaintiff's request for default judgment without prejudice. The plaintiff, Geraldine Angel, filed a complaint against the defendant, Genevieve Angel Dial, alleging a prolonged pattern of repeated and malicious conduct. However, the plaintiff's complaint did not contain a specific statement of damages, which is a requirement under California Code of Civil Procedure section 425.11. Additionally, the default was improperly entered before the plaintiff served the statement of damages, which is also a violation of the code. Furthermore, the defendant's answer is a nullity because she did not move to set aside the default before filing her answer. Therefore, the court cannot grant the plaintiff's request for default judgment in the amount of $258,170.26.

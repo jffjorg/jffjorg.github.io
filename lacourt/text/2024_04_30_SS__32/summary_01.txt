@@ -1,0 +1,53 @@
+Here is a summary of the tentative ruling in YAML format:
+
+```
+case_number: 22STCV04906
+hearing_date: 2024-04-30
+dept: 32
+moving_party: Jorge R. Zamarita et al.
+opposing_party: County of Los Angeles
+background: Plaintiffs brought an action against the County alleging causes of action for negligence, wrongful death, and premises liability.
+motions: Motion for Leave to File an Amended Complaint
+facts: The Court granted the County's motion for judgment on the pleadings, and Plaintiffs filed a first amended complaint alleging additional causes of action.
+issues:
+  - Whether the proposed amended complaint meets the procedural requirements
+  - Whether the new causes of action are based on the same facts as the original complaint
+  - Whether the County's alleged failure to render medical aid constitutes a violation of the Eighth Amendment
+  - Whether the proposed amended complaint alleges the necessary facts to support a claim under 42 U.S.C. § 1983
+intention: The Court intends to deny the motion for leave to amend the complaint
+disputes:
+  - Whether the proposed amended complaint meets the procedural requirements
+  - Whether the new causes of action are based on the same facts as the original complaint
+  - Whether the County's alleged failure to render medical aid constitutes a violation of the Eighth Amendment
+acts:
+  - The Court granted the County's motion for judgment on the pleadings
+  - Plaintiffs filed a first amended complaint alleging additional causes of action
+  - The proposed amended complaint alleges a violation of the Eighth Amendment
+  - The proposed amended complaint alleges a failure to render medical aid
+laws:
+  - California Code of Civil Procedure section 576
+  - California Code of Civil Procedure section 473
+  - Government Code section 845.6
+  - 42 U.S.C. § 1983
+  - California Rules of Court, rule 3.1324
+citations:
+  - Kittredge Sports Co. v. Superior Court (1989) 213 Cal.App.3d 1045
+  - Morgan v. Superior Court (1959) 172 Cal.App.2d 527
+  - Weil & Brown, Cal. Practice Guide: Civil Procedure Before Trial (The Rutter Group 2022)
+  - Castaneda v. Department of Corrections & Rehabilitation (2013) 212 Cal.App.4th 1051
+  - Watson v. State of California (1993) 21 Cal.App.4th 836
+  - Blair v. Superior Court (1990) 218 Cal.App.3d 221
+  - White v. Superior Court (1990) 225 Cal.App.3d 1505
+  - City of Canton, Ohio v. Harris (1989) 489 U.S. 378
+  - Monell v. Department of Social Services of City of New York (1978) 436 U.S. 658
+  - Polk County v. Dodson (1981) 454 U.S. 312
+  - Albright v. Oliver (1994) 510 U.S. 266
+roles:
+  - Judge: The presiding judge in the case
+  - Plaintiffs: The parties bringing the lawsuit
+  - County of Los Angeles: The opposing party in the lawsuit
+```
+
+Here is a summary of the tentative ruling:
+
+The Court denied Plaintiffs' motion for leave to amend their complaint. The proposed amended complaint did not meet the procedural requirements, and the new causes of action were not based on the same facts as the original complaint. The Court also concluded that the proposed amended complaint did not allege the necessary facts to support a claim under 42 U.S.C. § 1983.

@@ -1,0 +1,60 @@
+Here is the YAML summary of the Tentative Ruling:
+
+```
+case_number: 2023-001
+plaintiff_name: Anne Heiting
+defendant_name: Design Holdings, Inc.
+people_names:
+  - Anne Heiting
+  - Design Holdings, Inc.
+companies:
+  - Design Holdings, Inc.
+  - Salesforce
+places:
+  - California
+dates:
+  - October 24, 2023
+  - February 5, 2024
+  - March 7, 2024
+events:
+  - Demurrer
+  - Opposition to demurrer
+  - Filing of First Amended Complaint
+money:
+  - None mentioned
+intentions:
+  - To determine whether the plaintiff has stated a claim for violations of the California Invasion of Privacy Act
+facts:
+  - Plaintiff accessed Design Holdings' website
+  - Defendant recorded plaintiff's conversation and paid Salesforce to eavesdrop in real-time
+  - Plaintiff alleges violation of the California Invasion of Privacy Act
+disputes:
+  - Whether the plaintiff has stated a claim for violations of the California Invasion of Privacy Act
+acts:
+  - Defendant demurred to the complaint
+  - Plaintiff filed an opposition to the demurrer
+agreements:
+  - Data sharing agreement between Design Holdings and Salesforce
+laws:
+  - California Invasion of Privacy Act (Penal Code section 631)
+  - California Unauthorized Access to Computer Data Act
+case_citations:
+  - Blank v. Kirwan (1985) 39 Cal.3d 311
+  - Postley v. Harvey (1984) 153 Cal.App.3d 280
+  - Berkley v. Dowds (2007) 152 Cal.App.4th 518
+  - Picton v. Anderson Union High School Dist. (1996) 50 Cal.App.4th 726
+  - Cody v. Boscov's, Inc. (C.D. Cal. 2023) 658 F.Supp.3d 779
+  - Nora Gutierrez v. Converse Inc. (C.D. Cal., Oct. 27, 2023, No. 223CV06547RGKMAR) 2023 WL 8939221
+  - Byars v. Hot Topic, Inc. (C.D. Cal. 2023) 656 F.Supp.3d 1051
+  - Rakestraw v. California Physicians' Service (2000) 81 Cal.App.4th 39
+roles:
+  - Plaintiff: Anne Heiting
+  - Defendant: Design Holdings, Inc.
+significant_statements:
+  - The demurrer is sustained without leave to amend.
+  - The plaintiff fails to allege facts sufficient to state a claim for violations of the California Invasion of Privacy Act.
+```
+
+And here is a summary of the Tentative Ruling in English:
+
+The Court has issued a tentative ruling sustaining the demurrer of the defendant, Design Holdings, Inc. to the plaintiff's complaint alleging violations of the California Invasion of Privacy Act. The Court finds that the plaintiff's allegations fail to state a claim for violations of the Act because they do not show that Salesforce, a third-party vendor, was recording the information for its own benefit. Instead, the allegations show that Design Holdings was using Salesforce to extract greater information for its own business purposes. The Court denies the plaintiff's request to amend the complaint and orders that the demurrer be sustained without leave to amend.

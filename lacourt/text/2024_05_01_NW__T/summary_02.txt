@@ -1,0 +1,59 @@
+Here is the summary in YAML format:
+
+```
+case_number: 24VECV00204
+plaintiff_name: Yevgeniy Zharinov
+defendant_name: Starbucks Corporation
+people_names:
+  - Yevgeniy Zharinov
+  - Unnamed employees of Starbucks
+company_names:
+  - Starbucks Corporation
+places:
+  - Starbucks store
+dates:
+  - April 18, 2024
+  - May 1, 2024
+events:
+  - Demurrer filed by Defendant
+  - Opposition to demurrer filed by Plaintiff (none filed)
+  - Hearing on demurrer
+money:
+  - None mentioned
+intention:
+  - To determine the sufficiency of the Plaintiff's Complaint
+facts:
+  - Plaintiff alleged Defendant made false statements in a "customer restriction notice"
+  - Plaintiff disputed being "disruptive" or "threatening"
+  - Plaintiff alleged breach of duty by Defendant
+  - Plaintiff alleged damages in the form of emotional distress
+disputes:
+  - Dispute over alleged facts of the case
+acts:
+  - Plaintiff's Complaint filed
+  - Defendant's Demurrer filed
+  - Plaintiff's opposition to Demurrer (none filed)
+agreements:
+  - None mentioned
+laws:
+  - Cal. Civ. Proc. Code § 430.30 (Code of Civil Procedure)
+  - Gravillis v. Coldwell Banker Residential Brokerage Co. (2006) 143 Cal.App.4th 761, 777
+  - Unmentioned laws regarding libel and negligence
+case_citations:
+  - Gravillis v. Coldwell Banker Residential Brokerage Co. (2006) 143 Cal.App.4th 761, 777
+  - Unmentioned case citations regarding libel and negligence
+statutes:
+  - Cal. Civ. Proc. Code § 430.30 (Code of Civil Procedure)
+  - Unmentioned statutes regarding libel and negligence
+roles:
+  - Plaintiff: Yevgeniy Zharinov
+  - Defendant: Starbucks Corporation
+significant_statements:
+  - Defendant's demurrer is sustained with 20 days leave to amend
+  - Plaintiff's opposition to demurrer is not sufficient
+  - Plaintiff's Complaint is insufficiently pled on the element of damages
+```
+
+And here is the English-text summary:
+
+The tentative ruling is a preliminary decision by the judge on a demurrer filed by Defendant Starbucks Corporation to the Complaint filed by Plaintiff Yevgeniy Zharinov. The demurrer was filed on April 18, 2024, and no opposition was filed by Plaintiff. The judge reviewed the Complaint and found that it only alleged a single cause of action for general negligence, which is insufficient to plead libel or gross negligence. The judge also found that the Complaint does not sufficiently plead damages. Therefore, the judge sustained the demurrer with 20 days leave to amend, giving Plaintiff the opportunity to cure the pleading defects.

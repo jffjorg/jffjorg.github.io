@@ -1,0 +1,63 @@
+Here is the summary in YAML format:
+```
+case_number: 23STCV20476
+hearing_date: 2024-04-30
+dept: 55
+plaintiff_name: JOHN OURSLAND
+defendant_name: JOE SHERMAN
+people_names:
+  - JOHN OURSLAND
+  - JOE SHERMAN
+company_names: []
+places:
+  - Death Landlord
+dates:
+  - 1/29/24
+  - 1/19/24
+  - 10/13/23
+  - 2007
+  - 2008
+events:
+  - Motion of Defendant to Strike-Rent Not Payable with No Notice (Death Landlord) and No Proof of Ownership
+  - Filing of Complaint
+  - Filing of Answer
+  - Objection to defects in motion service
+  - Denial of motion
+money:
+  - $94,065.00
+intentions:
+  - To strike the Complaint's references to rent owed
+  - To consider the untimely motion to strike
+facts:
+  - Defendant is at least $94,065.00 behind in past due rent
+  - Defendant has been making false statements to cause other tenants not to pay rent
+  - Defendant has been making false statements to cause prospective tenants to decline rentals
+disputes:
+  - Defamation
+  - Intentional Interference with Prospective Economic Advantage
+  - Civil Harassment
+acts:
+  - Filing of motion to strike
+  - Filing of opposition to motion to strike
+agreements: []
+laws:
+  - Code Civ. Proc., §437
+  - McAllister v. County of Monterey (2007) 147 Cal.App.4th 253, 281
+  - In re Marriage of Falcone and Fyke (2008) 164 Cal.App.4th 814, 826
+case_citations:
+  - Code Civ. Proc., §437
+  - McAllister v. County of Monterey (2007) 147 Cal.App.4th 253, 281
+  - In re Marriage of Falcone and Fyke (2008) 164 Cal.App.4th 814, 826
+statutes:
+  - Code Civ. Proc., §437
+roles:
+  - Plaintiff: JOHN OURSLAND
+  - Defendant: JOE SHERMAN
+  - Judge: [Name of Judge]
+significant_statements:
+  - The Court exercises its discretion to not consider the untimely motion filed after the Answer filed 10/13/23.
+  - Objections to defects in motion service are waived if an opposition was filed or argued, addressing the merits.
+```
+And here is the English-text summary:
+
+This tentative ruling is about a motion filed by the defendant, Joe Sherman, to strike the complaint filed by the plaintiff, John Oursland, alleging that the defendant is behind in rent payments. The defendant claims that the plaintiff failed to provide statutory notice to the tenants and that the plaintiff has no proof of ownership. The plaintiff opposes the motion. The court rules that the motion is untimely and that the defendant failed to prove that the plaintiff did not provide statutory notice. The court also finds that the plaintiff preserved notice objections by stating them and not addressing the merits. Therefore, the court denies the motion.

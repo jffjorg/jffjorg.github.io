@@ -1,0 +1,38 @@
+Here is the YAML summary of the judge's tentative ruling:
+
+```yaml
+case_number: 24STCV02433
+hearing_date: 2024-05-02
+dept: 31
+judge: Kerry Bensinger
+
+parties:
+  - plaintiff: Kenneth W. Wright, M.D. (Dr. Wright)
+  - defendant: City of Los Angeles
+
+facts:
+  - Dr. Wright operated a medical practice on San Vicente Boulevard
+  - A homeless encampment was erected near the practice
+  - The encampment posed health and safety risks
+  - A fire broke out at the encampment in 2023
+  - Dr. Wright and staff called LAPD multiple times to report the issue
+  - LAPD acknowledged the encampment was illegal but did nothing
+
+issues:
+  - Separation of Powers
+  - Governmental Immunities
+  - Failure to State a Claim
+
+arguments:
+  - Separation of Powers: The City argues that the relief sought by Dr. Wright intrudes upon the City's discretionary powers.
+  - Governmental Immunities: The City argues that it is immune from liability under Government Code sections 815.2, 818.2, 820.2, and 845.
+  - Failure to State a Claim: The City argues that Dr. Wright's claims do not state valid claims for public nuisance or dangerous condition of public property.
+
+ruling:
+  - The Court grants the City's demurrer to the FAC and sustains the demurrer.
+  - The Court grants leave to amend the FAC and gives the plaintiff 20 days to file a first amended complaint.
+```
+
+English-text summary:
+
+The judge has issued a tentative ruling on the City's demurrer to the plaintiff's complaint. The plaintiff, Dr. Wright, is suing the City for public nuisance and dangerous condition of public property due to the homeless encampment near his medical practice. The City argues that the relief sought by Dr. Wright intrudes upon the City's discretionary powers, that the City is immune from liability under various government code sections, and that Dr. Wright's claims do not state valid claims for public nuisance or dangerous condition of public property. The judge has sustained the City's demurrer and granted leave to amend the complaint.

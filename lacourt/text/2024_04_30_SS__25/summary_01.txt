@@ -1,0 +1,84 @@
+Here is the YAML summary of the tentative ruling:
+
+```
+case_number: 23STLC04731
+plaintiff:
+  name: Angel Ortega
+  type: individual
+
+defendant:
+  - name: Austra Motors Inc.
+    type: corporation
+  - name: Lentegrity, LLC
+    type: corporation
+  - name: Hudson Insurance Company
+    type: corporation
+  - name: Does 1-40
+    type: unknown
+
+people:
+  - Angel Ortega
+  - unknown (Does 1-40)
+
+companies:
+  - Austra Motors Inc.
+  - Lentegrity, LLC
+  - Hudson Insurance Company
+
+places:
+  - unknown
+
+dates:
+  - April 30, 2024
+
+events:
+  - Motion to Compel Arbitration of Complaint
+  - Court to Pick Arbitration Forum
+  - Stay of Proceedings
+
+money:
+  - unknown
+
+intentions:
+  - Plaintiff seeks to compel arbitration
+  - Defendant opposes arbitration
+
+facts:
+  - Plaintiff filed a complaint
+  - Defendant seeks to stay proceedings
+
+disputes:
+  - Plaintiff vs. Defendant (arbitration)
+
+acts:
+  - Motion to Compel Arbitration
+  - Opposition to Motion
+
+agreements:
+  - unknown
+
+laws:
+  - unknown
+
+case_citations:
+  - unknown
+
+statutes:
+  - unknown
+
+roles:
+  - Judge: [Judge's name]
+  - Plaintiff: Angel Ortega
+  - Defendant: Austra Motors Inc., Lentegrity, LLC, Hudson Insurance Company
+
+significant_statements:
+  - The Court must decide whether to compel arbitration
+  - The Court must choose an arbitration forum
+  - The case will be stayed pending arbitration
+```
+
+And here is the summary in English:
+
+**Tentative Ruling**
+
+This tentative ruling addresses the motion to compel arbitration filed by Plaintiff Angel Ortega against Defendant Austra Motors Inc., Lentegrity, LLC, Hudson Insurance Company, and Does 1-40. The Court must decide whether to compel arbitration and, if so, choose an arbitration forum. The case will be stayed pending arbitration. The Court must weigh the Plaintiff's request to compel arbitration against the Defendant's opposition to arbitration. The ruling is pending finalization.

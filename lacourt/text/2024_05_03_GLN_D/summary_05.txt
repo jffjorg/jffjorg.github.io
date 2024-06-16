@@ -1,0 +1,114 @@
+Here is the summary in YAML format:
+
+```yaml
+case_number: BC691050
+hearing_date: 2024-05-03
+department: D
+calendar: 8
+case_name: Steger v. CSJ Providence St. Joseph Medical Center, at al.
+moving_party: Plaintiff Jason Steger
+responding_party: Defendant Olympus America, Inc.
+defendants:
+  - John Kasher, M.D.
+  - James Kao, M.D.
+relief_requested:
+  - Motion to Clarify: Clarify a stay pending appeal
+    - Clarify that not paying discovery sanctions will not constitute willful acts of disobedience and will proceed by normal post-judgment activities.
+  - Motion to Tax/Strike Costs: Strike, tax, or disallow costs sought by defendant Olympus America, Inc. and defendants James Kao and John Kasher.
+facts:
+  - On January 22, 2018, plaintiff Jason Steger filed this action, alleging that in October 2016, plaintiff was admitted to defendant CSJ Providence St. Joseph Medical Center with abdominal pain, and that defendants, various medical providers, negligently performed a colonoscopy procedure on plaintiff which perforated his colon in multiple areas.
+  - Plaintiff alleges that after the procedure, his pain worsened, and he went into septic shock.
+  - Plaintiff alleges that he ultimately underwent a total colectomy with ileostomy and other procedures, and his entire colon was removed.
+  - On September 6, 2019, the court heard a motion for summary judgment brought by defendant Providence St. Joseph Medical Center, which was granted on the ground that in opposition to the motion, plaintiff had failed to submit expert medical testimony to raise a triable issue of material fact.
+  - On January 17, 2020, the court denied a motion for new trial.
+  - On February 4, 2020, plaintiff filed a Notice of Appeal.
+  - The file shows that on July 6, 2020, plaintiff filed an Amendment to Complaint, substituting defendant Olympus America, Inc. as the true name of the defendant designated in the complaint as Doe 1.
+  - On October 4, 2022, the court entered an Order Clarifying Five-Year Deadline.
+  - On July 13, 2023, the matter was called for hearing for a Second Final Status Conference.
+  - Plaintiff filed a motion to augment or substitute expert witness list.
+  - On December 1, 2023, plaintiff's motion to augment or substitute expert witness list was continued to December 1, 2023.
+  - On December 22, 2023, the court denied a motion to reconsider its September 15, 2023 orders in connection with the Dr. Gazi expert deposition and monetary sanctions.
+  - On January 12, 2024, the court signed and filed a Judgment of Dismissal as to defendant Olympus America, Inc.
+people_names:
+  - Jason Steger
+  - John Kasher
+  - James Kao
+  - Tahwid Gazi
+companies:
+  - Olympus America Inc.
+  - CSJ Providence St. Joseph Medical Center
+places:
+  - California
+dates:
+  - January 22, 2018
+  - September 6, 2019
+  - January 17, 2020
+  - February 4, 2020
+  - July 6, 2020
+  - October 4, 2022
+  - July 13, 2023
+  - December 1, 2023
+  - December 22, 2023
+  - January 12, 2024
+  - January 18, 2024
+events:
+  - Motion to Clarify
+  - Motion to Tax/Strike Costs
+  - Judgment of Dismissal
+  - Order Clarifying Five-Year Deadline
+  - Second Final Status Conference
+  - Motion to Augment or Substitute Expert Witness List
+  - Motion to Reconsider
+  - Judgment of Dismissal as to defendant Olympus America, Inc.
+money:
+  - $6,672.90 (monetary sanctions)
+  - $3,351.93 (monetary sanctions)
+  - $2,825.00 (monetary sanctions)
+intention:
+  - To clarify a stay pending appeal
+  - To strike, tax, or disallow costs sought by defendant Olympus America, Inc. and defendants James Kao and John Kasher.
+facts:
+  - The court granted a motion to dismiss the action for failure to bring the matter to trial within five years.
+  - The court also awarded monetary sanctions in the amount of $6,672.90 in favor of defendant Olympus America, Inc. and against plaintiff Jason Steger.
+  - The court awarded monetary sanctions in the amount of $3,351.93 in favor of defendants James Kao and John Kasher and against plaintiff Jason Steger.
+  - The court entered an order dismissing the action.
+disputes:
+  - Dispute over the propriety of the stay of enforcement of the monetary sanctions
+  - Dispute over the proper allocation of costs
+acts:
+  - Plaintiff filed a motion to clarify a stay pending appeal
+  - Defendant Olympus America, Inc. filed a motion to strike or disallow costs
+  - The court granted a motion to dismiss the action for failure to bring the matter to trial within five years
+  - The court awarded monetary sanctions in favor of defendant Olympus America, Inc. and against plaintiff Jason Steger.
+  - The court awarded monetary sanctions in favor of defendants James Kao and John Kasher and against plaintiff Jason Steger.
+agreements:
+  - The parties agreed to the terms of the dismissal
+  - The parties agreed to the terms of the monetary sanctions
+laws:
+  - CCP section 583.340
+  - CCP section 583.360
+  - CCP section 917.1
+  - CCP section 918
+  - CCP section 916
+  - CRC Rule 3.1700
+  - CRC Rule 8.104
+cases:
+  - Oswald v. Landmark Builders, Inc.
+  - Sharifpour v. Le
+  - Vineyard Springs Estates v. Superior Court
+  - Major v. Miraverde Homeowners Assn.
+  - Varian Medical Systems, Inc. v. Delfino
+  - MaJor v. Miraverde Homeowners Assn.
+  - Ramon v. Aerospace Corp.
+roles:
+  - Judge: [judge's name]
+  - Plaintiff: Jason Steger
+  - Defendant: Olympus America, Inc.
+  - Defendant: James Kao
+  - Defendant: John Kasher
+significant_statements:
+  - "The court shall not have power without the consent of the adverse party." (CCP section 918)
+  - "The court may stay the enforcement of any judgment or order." (CCP section 918)
+```
+
+Please note that this summary is not a

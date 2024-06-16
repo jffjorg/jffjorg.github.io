@@ -1,0 +1,78 @@
+Here is the summary in YAML format:
+
+```
+case_number: 20STCV25717
+case_name: Williams v. State Bar of California, et al.
+parties:
+  - Williams, Briand (plaintiff)
+  - State Bar of California (defendant)
+  - Superior Court of California, County of Los Angeles (defendant)
+  - Holden, Craig Eugene (defendant)
+  - Hawley, Robert A. (defendant)
+dates:
+  - Filing Date: July 7, 2020
+  - First Amended Complaint: August 2, 2021
+  - Demurrer: December 16, 2022 (Superior Court of California, County of Los Angeles)
+    December 21, 2022 (State Bar of California, Craig Eugene Holden, and Robert A. Hawley)
+  - Hearing Date: May 2, 2024
+events:
+  - Demurrer to First Amended Complaint
+    - Sustained with 20 days leave to amend
+  - Request for Judicial Notice
+  - Request for Leave to File a Sur-Reply
+  - Government Claims Presentation Requirement
+  - Subject Matter Jurisdiction Over Attorney Discipline Matters
+  - Immunity
+money:
+  - Government Claims Act
+  - Immunity under Gov. Code § 815(a)
+intention:
+  - To determine the sufficiency of the pleadings and the jurisdiction of the court
+facts:
+  - Plaintiff filed a claim with the State Bar of California
+  - Plaintiff was imprisoned at the time of the alleged wrongdoing
+  - Plaintiff failed to comply with the Government Claims Act
+  - The court lacks jurisdiction over attorney discipline matters
+disputes:
+  - Plaintiff's causes of action fail to state facts sufficient to constitute a cause of action
+  - The court has no jurisdiction of the subject of the cause of action alleged in the pleading
+  - Plaintiff failed to comply with the Government Claims Act
+acts:
+  - Filing of the First Amended Complaint
+  - Filing of the demurrer
+  - Request for judicial notice
+  - Request for leave to file a sur-reply
+  - Request for leave to amend
+agreements:
+  - Government Claims Act
+  - Immunity under Gov. Code § 815(a)
+laws:
+  - California Code of Civil Procedure (CCP)
+  - Government Code
+  - California Rules of Court
+case_citations:
+  - Taylor v. City of Los Angeles Dept. of Water and Power (2006)
+  - SKF Farms v. Superior Court (1984)
+  - Hahn v. Mirda (2007)
+  - County of Los Angeles v. Superior Court (2005)
+  - Zipperer v. County of Santa Clara (2005)
+  - State of California v. Superior Court (2004)
+  - Sheller v. Superior Court (2008)
+  - Green v. Grimes-Stassforth Stationery Co. (1940)
+  - Lickiss v. Financial Industry Regulatory Authority (2012)
+roles:
+  - Judge: Mel Red Recana
+  - Plaintiff: Williams Briand
+  - Defendant: State Bar of California
+    - Craig Eugene Holden
+    - Robert A. Hawley
+    - Superior Court of California, County of Los Angeles
+significant_statements:
+  - The court sustains the demurrer to the First Amended Complaint with 20 days leave to amend.
+  - The court grants Plaintiff's request for leave to file a sur-reply.
+  - The court finds that the Plaintiff's causes of action are subject to demurrer due to insufficient allegations or judicially noticeable facts demonstrating compliance with the Government Claims Act.
+  - The court lacks jurisdiction over attorney discipline matters.
+  - The court sustains the demurrer to the First Amended Complaint based on the Government Claims Presentation Requirement.
+```
+
+Please note that the summary is not exhaustive and is intended to provide a general overview of the case.

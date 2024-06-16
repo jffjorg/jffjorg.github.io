@@ -1,0 +1,96 @@
+Here is a summary of the tentative ruling in YAML format:
+
+```
+---
+case_number: 24SMCV00523
+hearing_date: 2024-05-08
+dept: 205
+court: Superior Court of California, County of Los Angeles - West District
+judge: Edward B. Moreton, Jr.
+
+plaintiff: Eric Johner
+defendants:
+  - The Schiff 605, LLC
+  - Nikki Simon
+  - Pamela Beauregard
+
+people:
+  - Eric Johner
+  - Nikki Simon
+  - Pamela Beauregard
+  - Sean (downstairs tenant)
+
+companies:
+  - The Schiff 605, LLC
+
+places:
+  - 605 S. Barrington Ave., Los Angeles, CA 90049
+
+dates:
+  - June 1, 2009 (lease agreement)
+  - March 5, 2023 (notice to pay rent or quit)
+  - March 17, 2023 (notice posted at property)
+  - June 23, 2023 (default judgment for possession)
+  - August 3, 2023 (eviction)
+
+events:
+  - Lease agreement
+  - Eviction of Sean
+  - Failure to repair noisy pipes
+  - Change in gate code
+
+money:
+  - None
+
+intentions:
+  - Landlord's intention to evict Sean
+  - Landlord's intention to ignore Plaintiff's complaints
+
+facts:
+  - Plaintiff's complaints about Sean's noise and behavior
+  - Landlord's failure to respond to Plaintiff's complaints
+  - Landlord's failure to evict Sean
+  - Landlord's failure to repair noisy pipes
+  - Change in gate code
+
+disputes:
+  - Dispute over breach of lease
+  - Dispute over breach of quiet enjoyment
+  - Dispute over constructive eviction
+  - Dispute over violation of Tenant Anti-Harassment Ordinance
+  - Dispute over negligence
+  - Dispute over intentional infliction of emotional distress
+
+acts:
+  - Landlord's failure to mediate disputes between tenants
+  - Landlord's failure to provide security
+  - Landlord's failure to evict Sean
+  - Landlord's failure to repair noisy pipes
+  - Change in gate code
+
+agreements:
+  - Lease agreement between Plaintiff and Landlord
+  - Tenant Anti-Harassment Ordinance
+
+laws:
+  - California Civil Code
+  - Los Angeles Municipal Code
+
+citations:
+  - Code Civ. Proc. § 430.41
+  - Evid. Code §§ 452(c), 452(d), 452(h), and 453
+
+roles:
+  - Plaintiff (Eric Johner)
+  - Defendant (The Schiff 605, LLC)
+  - Defendant (Nikki Simon)
+  - Defendant (Pamela Beauregard)
+  - Sean (downstairs tenant)
+
+significant statements:
+  - Landlord is not responsible to mediate disputes between tenants
+  - Tenant assumes the risk of residing on the premises
+  - Landlord does not guarantee to provide security personnel
+```
+
+The Court's tentative ruling sustains in part and overrules in part the demurrers to the Complaint. The Court sustains the demurrers to the breach of lease, breach of quiet enjoyment, and intentional infliction of emotional distress claims without leave to amend. The Court overrules the demurrer to the negligence claim. The Court sustains the demurrer to the violation of Tenant Anti-Harassment Ordinance claim with 20 days' leave to amend. The Court dismisses the claims against individual defendants Nikki Simon and Pamela Beauregard without leave to amend.

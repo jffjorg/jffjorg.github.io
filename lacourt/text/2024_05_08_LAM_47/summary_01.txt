@@ -1,0 +1,63 @@
+Here is the YAML summary of the tentative ruling:
+
+```
+case_number: 19STCV05281
+plaintiff_name: Solutech Pharmaceuticals, LLC
+defendant_name: Dr. Robert C. Blaine, Blaine Laboratories, Inc., and Blaine Holding & Development, LLC
+people_names:
+  - Dr. Robert C. Blaine
+  - Paul Edalat
+companies:
+  - Vivera Pharmaceuticals, Inc.
+  - Blaine Laboratories, Inc.
+  - Blaine Holding & Development, LLC
+  - Solutech Pharmaceuticals, LLC
+places:
+  - California
+dates:
+  - 02/19/19
+  - 03/04/19
+  - 03/15/19
+  - 04/25/19
+  - 05/10/19
+  - 06/05/19
+  - 09/24/19
+  - 01/14/20
+  - 04/12/21
+  - May 8, 2024
+  - May 9, 2024
+events:
+  - Breach of contract
+  - Misappropriation of trade secrets
+  - Motion for summary judgment
+  - Motion for summary adjudication
+money: None
+intentions:
+  - To determine whether the defendant's motion for summary judgment or summary adjudication should be granted
+facts:
+  - The defendant's motion for summary judgment or summary adjudication is based on undisputed material facts
+  - The defendant's separate statement does not comply with the rules of court
+  - The defendant's separate statement does not distinguish between claims
+disputes:
+  - The defendant's motion for summary judgment or summary adjudication
+acts:
+  - The defendant's motion for summary judgment or summary adjudication
+agreements: None
+laws:
+  - California Rules of Court
+  - California Code of Civil Procedure
+statutes:
+  - California Code of Civil Procedure
+roles:
+  - Judge: Theresa M. Traber
+  - Plaintiff: Solutech Pharmaceuticals, LLC
+  - Defendant: Dr. Robert C. Blaine, Blaine Laboratories, Inc., and Blaine Holding & Development, LLC
+significant_statements:
+  - The defendant's separate statement does not comply with the rules of court
+  - The defendant's motion for summary judgment or summary adjudication is denied
+  - The court will still conduct a hearing if any party appears
+```
+
+And here is the English-text summary of the judge's tentative ruling:
+
+The court has denied the defendant's motion for summary judgment or summary adjudication. The defendant's separate statement does not comply with the rules of court, specifically California Rule of Court 3.1350(d)(1), which requires that the statement separately identify each cause of action and the material facts supporting each cause of action. The court finds that the defendant's separate statement does not provide sufficient notice of the facts and does not distinguish between claims, making it impossible to conclusively determine which facts are germane to each claim. As a result, the court has denied the defendant's motion.

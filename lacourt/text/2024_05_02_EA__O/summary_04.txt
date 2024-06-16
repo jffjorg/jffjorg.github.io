@@ -1,0 +1,50 @@
+Here is the summary in YAML format:
+
+```
+Case Number: [unknown]
+Plaintiff's Name: [unknown]
+Defendant's Name: [unknown]
+People-Names:
+  - Weil & Brown
+Company-Names: []
+Places: []
+Dates:
+  - 2011
+  - 2003
+Events:
+  - Demurrer
+  - Motion to strike
+  - Reclassification of case
+Money:
+  - $35,000.01
+Intentions:
+  - Reclassify case
+  - Allow parties to contest
+Facts:
+  - Special damages less than $35,000.01
+  - Mental damages subject to motion to strike
+Disputes:
+  - Meritorious motion to strike
+Acts:
+  - Filing of demurrer and motion to strike
+  - Filing of complaint
+Agreements:
+  - CCP section 403.040
+Laws:
+  - CCP section 403.040
+  - Weil & Brown, Civil Procedure Before Trial, [8:1140.1]
+Case Citations:
+  - Stern v. Superior Court (2003) 105 Cal.App.4th 223, 229-231
+Statutes:
+  - CCP section 403.040
+Roles:
+  - Judge
+  - Parties
+Significant Statements:
+  - Multiple motions should not be combined into a single filing.
+  - Case may be subject to reclassification.
+```
+
+And here is the English text summary:
+
+The Judge's tentative ruling is that multiple motions should not be combined into a single filing, citing Weil & Brown, Civil Procedure Before Trial, [8:1140.1]. As the complaint indicates that special damages are less than $35,000.01 and mental damages are subject to a meritorious motion to strike, the case may be subject to reclassification. The Judge intends to give notice and allow the parties to contest the reclassification, citing CCP section 403.040 and Stern v. Superior Court (2003) 105 Cal.App.4th 223, 229-231.

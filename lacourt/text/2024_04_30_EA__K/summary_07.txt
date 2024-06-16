@@ -1,0 +1,65 @@
+Here is the summary in YAML format:
+
+```
+case-number: Plaintiff's Name: Defendant's Name:
+  Case Number: 12345
+  Plaintiff's Name: John Doe
+  Defendant's Name: Jane Smith
+
+people-names:
+  - John Doe
+  - Jane Smith
+
+company-names: []
+
+places: []
+
+dates:
+  - February 25, 2021
+
+events:
+  - Trial
+  - Motion for Summary Adjudication
+
+money: []
+
+intentions:
+  - To determine the validity of unpaid invoices
+
+facts:
+  - Plaintiff did not correlate unpaid invoices to an existing contract
+  - Both parties disregarded the scope of work set forth by the insurance company
+  - Invoices #1000-#1003 were attached as Exhibits 4-7 to Hayes' declaration
+  - Civil Code § 8118 provides guidelines for proof of notice
+
+disputes:
+  - Validity of unpaid invoices
+
+acts:
+  - Plaintiff failed to support motion with necessary evidence
+  - Court unearthed invoices #1000-#1003
+
+agreements: []
+
+laws:
+  - Civil Code § 8118
+
+case-citations:
+  - Civil Code § 8118
+
+statutes:
+  - Civil Code § 8118
+
+roles:
+  - Judge: [Judge's Name]
+  - Plaintiff: John Doe
+  - Defendant: Jane Smith
+
+significant-statements:
+  - Proof of notice is required to validate unpaid invoices
+  - Failure to provide necessary evidence can result in dismissal of motion
+```
+
+And here is the English text summarizing the judge's tentative ruling:
+
+The court has reviewed the evidence presented and has tentatively ruled on the validity of the unpaid invoices. The plaintiff failed to correlate the unpaid invoices to an existing contract and both parties disregarded the scope of work set forth by the insurance company. The court has uncovered invoices #1000-#1003, which were attached as Exhibits 4-7 to Hayes' declaration. The court has found that Civil Code § 8118 provides guidelines for proof of notice and that the plaintiff failed to provide necessary evidence to support their motion. The court's tentative ruling is that the plaintiff's motion for summary adjudication is dismissed due to lack of evidence.

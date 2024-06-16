@@ -1,0 +1,90 @@
+Here is the summary in YAML format:
+
+```
+case:
+  number: 23TRCV01628
+  hearing_date: 2024-05-08
+  dept: B
+  court: Superior Court of California
+  county: Los Angeles
+  district: Southwest
+  location: Torrance
+  department: B
+
+parties:
+  plaintiff: Silvestre Burgues
+  defendant: IN-N-OUT BURGER
+
+people:
+  - Silvestre Burgues
+  - Rachel King (attorney for plaintiff)
+
+companies:
+  - IN-N-OUT BURGER
+
+places:
+  - 9149 S. Sepulveda Blvd, Los Angeles
+  - Torrance
+
+dates:
+  - 2023-05-23 (complaint filed)
+  - 2021-06-28 (incident)
+  - 2024-05-08 (hearing date)
+
+events:
+  - Plaintiff filed a complaint against IN-N-OUT BURGER
+  - Plaintiff was injured in an incident at an IN-N-OUT BURGER restaurant
+  - Attorney Rachel King seeks to be relieved as counsel
+
+money:
+  - damages (negligence, gross negligence, negligence per se, and punitive damages)
+
+intentions:
+  - Plaintiff seeks damages for injuries sustained at IN-N-OUT BURGER
+  - Attorney Rachel King seeks to be relieved as counsel
+
+facts:
+  - Plaintiff was injured in an incident at an IN-N-OUT BURGER restaurant
+  - Plaintiff alleges negligence, gross negligence, negligence per se, and punitive damages
+
+disputes:
+  - Attorney Rachel King seeks to be relieved as counsel
+  - Plaintiff Silvestre Burgues seeks damages for injuries sustained
+
+acts:
+  - Plaintiff filed a complaint against IN-N-OUT BURGER
+  - Attorney Rachel King seeks to be relieved as counsel
+
+agreements:
+  - Code of Civil Procedure section 284
+  - California Rules of Court, Rule 3.1362
+
+laws:
+  - Ramirez v. Sturdevant (1994)
+  - People v. Prince (1968)
+  - Code of Civil Procedure section 284
+  - California Rules of Court, Rule 3.1362
+
+case_citations:
+  - Ramirez v. Sturdevant (1994)
+  - People v. Prince (1968)
+  - Code of Civil Procedure section 284
+  - California Rules of Court, Rule 3.1362
+
+statutes:
+  - Code of Civil Procedure section 284
+  - California Rules of Court, Rule 3.1362
+
+roles:
+  - Plaintiff: Silvestre Burgues
+  - Defendant: IN-N-OUT BURGER
+  - Attorney: Rachel King
+
+significant_statements:
+  - The court grants the motion to be relieved as counsel
+  - The attorney has shown sufficient reason why the motion to be relieved as counsel should be granted
+```
+
+And here is a summary of the judge's tentative ruling in English text:
+
+This tentative ruling grants the motion of Attorney Rachel King to be relieved as counsel of record for plaintiff Silvestre Burgues. The court finds that the attorney has shown sufficient reason why the motion to be relieved as counsel should be granted. The motion is granted, and the attorney is relieved as counsel of record for plaintiff Silvestre Burgues, effective upon the filing of the proof of service of the signed "Order Granting Attorney's Motion to Be Relieved as Counsel – Civil" (Judicial Council form MC-053) upon the client.

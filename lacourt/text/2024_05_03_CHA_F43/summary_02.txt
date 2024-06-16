@@ -1,0 +1,79 @@
+Here is the summary in YAML format:
+
+```
+case_number: 23CHCV02348
+plaintiff: William Holmquist
+defendant: Ford Motor Company
+people_names:
+  - William Holmquist
+  - Ford Motor Company
+company_names:
+  - Ford Motor Company
+places:
+  - California
+dates:
+  - 2019-07-15 (purchase date)
+  - 2023-08-04 (filing of complaint)
+  - 2024-02-01 (demurrer to initial complaint)
+  - 2024-03-01 (filing of first amended complaint)
+  - 2024-03-28 (filing of demurrer and motion to strike)
+events:
+  - Purchase of 2019 Ford F-150
+  - Filing of complaint
+  - Demurrer to initial complaint
+  - Filing of first amended complaint
+  - Demurrer and motion to strike
+  - Granting of demurrer and motion to strike
+money:
+  - Refund of purchase price (under Song-Beverly Act)
+  - Civil penalty (under Song-Beverly Act)
+  - Punitive damages (not applicable)
+intentions:
+  - To obtain relief for alleged defects in vehicle
+  - To recover costs and damages for alleged wrongdoing
+facts:
+  - Vehicle was purchased in 2019
+  - Vehicle had transmission defects
+  - Defendant allegedly knew of defects prior to sale
+  - Defendant allegedly failed to provide sufficient service literature and replacement parts
+  - Plaintiff alleges fraud and concealment by defendant
+disputes:
+  - Defendant's demurrer to third and fifth causes of action
+  - Plaintiff's opposition to demurrer and motion to strike
+acts:
+  - Purchase of vehicle
+  - Filing of complaint
+  - Demurrer to complaint
+  - Filing of amended complaint
+  - Demurrer and motion to strike
+agreements:
+  - None
+laws:
+  - California Civil Code Section 1793.2
+  - California Civil Code Section 3294
+  - California Civil Code Section 1794
+  - California Code of Civil Procedure Section 430.30
+  - California Code of Civil Procedure Section 436
+case_citations:
+  - Carter v. Prime Healthcare Paradise Valley LLC (2011)
+  - Lazar v. Superior Court (1996)
+  - Stansfield v. Starkey (1990)
+  - Tarmann v. State Farm Mut. Auto Ins. Co. (1991)
+  - Berkley v. Dowds (2007)
+  - Picton v. Anderson Union High School Dist. (1996)
+  - Postley v. Harvey (1984)
+roles:
+  - Plaintiff: William Holmquist
+  - Defendant: Ford Motor Company
+significant_statements:
+  - Defendant's demurrer to Plaintiff's third and fifth causes of action is sustained with leave to amend.
+  - Defendant's motion to strike is granted.
+```
+
+Here is a summary of the judge's tentative ruling in English text:
+
+In this ruling, the court has sustained Defendant Ford Motor Company's demurrer to Plaintiff William Holmquist's third and fifth causes of action. The third cause of action alleges that Defendant failed to provide sufficient service literature and replacement parts, in violation of Civil Code Section 1793.2(a)(3). The court finds that Plaintiff's complaint does not adequately plead facts supporting this claim, and therefore sustains the demurrer with leave to amend.
+
+The fifth cause of action alleges fraud and concealment by Defendant. The court finds that Plaintiff's complaint does not plead sufficient facts to support this claim, specifically lacking details regarding the alleged misrepresentations and/or nondisclosures, and the intent to defraud. The court sustains the demurrer to this cause of action with leave to amend.
+
+Additionally, the court grants Defendant's motion to strike Plaintiff's request for punitive damages, finding that punitive damages are not available under the Song-Beverly Act. The court also grants Defendant's motion to strike Plaintiff's request for punitive damages, as punitive damages are not available for Plaintiff's other causes of action.

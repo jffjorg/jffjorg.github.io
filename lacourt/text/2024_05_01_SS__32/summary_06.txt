@@ -1,0 +1,62 @@
+Here is the summary in YAML format:
+
+```
+case_number: 22STCV39846
+plaintiff: Progressive Insurance Company
+defendant: Antasha Carter
+people:
+  - Antasha Carter
+  - Progressive Insurance Company
+companies:
+  - Progressive Insurance Company
+places:
+  - California
+dates:
+  - May 1, 2024
+  - February 21, 2024
+  - March 26, 2024
+events:
+  - Petition for a case number in connection with an Uninsured Motorist proceeding
+  - Service of Request for Admissions, Set One
+  - Failure to respond to Request for Admissions
+money:
+  - $60 in sanctions
+  - $60.00 in monetary sanctions
+intentions:
+  - To deem admitted the matters in Request for Admissions, Set One
+  - To impose monetary sanctions
+facts:
+  - Petitioner served Request for Admissions, Set One on Respondent
+  - No responses have been received
+  - Mandatory sanctions are imposed
+disputes:
+  - Failure to respond to Request for Admissions
+acts:
+  - Service of Request for Admissions, Set One
+  - Failure to respond to Request for Admissions
+agreements:
+  - None
+laws:
+  - Insurance Code section 11580.2
+  - Code of Civil Procedure section 1290.4
+  - Code of Civil Procedure section 2033.010
+  - Code of Civil Procedure section 2033.220
+  - Code of Civil Procedure section 2033.280
+  - Code of Civil Procedure section 2023.010
+case_citations:
+  - Miranda v. 21st Century Ins. Co. (2004) 117 Cal.App.4th 913
+  - Appleton v. Superior Court (1988) 206 Cal.App.3d 632
+  - Food 4 Less Supermarkets, Inc. v. Superior Court (1995) 40 Cal.App.4th 651
+  - St. Mary v. Superior Court (2014) 223 Cal.App.4th 762
+roles:
+  - Petitioner: Progressive Insurance Company
+  - Respondent: Antasha Carter
+significant_statements:
+  - Mandatory sanctions are imposed
+  - The court awards $60 in sanctions against Respondent Antasha Carter
+  - The court conditionally grants $60.00 in monetary sanctions against Respondent Antasha Carter
+```
+
+And here is the English-text summary:
+
+The tentative ruling grants Petitioner Progressive Insurance Company's motion to deem admitted the matters in Request for Admissions, Set One, served on Respondent Antasha Carter. The court finds that no responses have been received, and therefore, the motion is granted. Additionally, the court imposes mandatory sanctions of $60 against Respondent Antasha Carter for the motion filing fee. Furthermore, the court conditionally grants $60.00 in monetary sanctions against Respondent Antasha Carter.

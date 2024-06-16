@@ -1,0 +1,64 @@
+Here is the summary in YAML format:
+
+```
+case_number: 23SMCV03736
+hearing_date: April 30, 2024
+judge: N
+plaintiff: Karla Meeks
+defendant: RP Realty Partners, LLC
+people:
+  - Karla Meeks
+  - RP Realty Partners, LLC
+company_names:
+  - RP Realty Partners, LLC
+places:
+  - California
+dates:
+  - April 30, 2024
+  - May 7, 2024
+events:
+  - Deposition notice
+  - Failure to appear for deposition
+  - Motion to compel deposition
+  - Request for monetary sanctions
+money:
+  - Monetary sanctions
+intentions:
+  - Compel Defendant's deposition
+  - Award monetary sanctions
+facts:
+  - Defendant failed to appear for deposition
+  - Plaintiff's counsel refused to cooperate with defense counsel's unavailability
+  - Defendant agreed to appear on May 7, 2024
+disputes:
+  - Failure to appear for deposition
+  - Failure to cooperate in rescheduling deposition
+  - Request for monetary sanctions
+acts:
+  - Notice of deposition
+  - Refusal to cooperate in rescheduling deposition
+agreements:
+  - Defendant agreed to appear on May 7, 2024
+laws:
+  - California Code of Civil Procedure section 2025.450
+  - California Code of Civil Procedure section 2025.410
+  - California Code of Civil Procedure section 2016.040
+  - California Code of Civil Procedure section 2025.450, subdivision (g)(1)
+  - California Code of Civil Procedure section 2025.450, subdivision (b)(2)
+case_citations:
+  - Code Civ. Proc., § 2025.450
+  - Code Civ. Proc., § 2025.410
+  - Code Civ. Proc., § 2016.040
+statutes:
+  - California Code of Civil Procedure
+roles:
+  - Judge
+  - Plaintiff
+  - Defendant
+significant_statements:
+  - "If, after service of a deposition notice, a party to the action . . . , without having served a valid objection under Section 2025.410, fails to appear for examination, or to proceed with it, or to produce for inspection any document, electronically stored information, or tangible thing described in the deposition notice, the party giving the notice may move for an order compelling the deponent's attendance and testimony, and the production for inspection of any document, electronically stored information, or tangible thing described in the deposition notice."
+```
+
+And here is a summary of the judge's tentative ruling in English text:
+
+The judge has denied Plaintiff Karla Meeks' motion to compel Defendant RP Realty Partners, LLC's deposition as moot. The defendant had failed to appear for its noticed deposition, but the parties had agreed to reschedule the deposition for May 7, 2024. The court found that the plaintiff's counsel had refused to cooperate with the defense counsel's unavailability for the noticed date. The court also denied the plaintiff's request for monetary sanctions, finding that the plaintiff had not engaged in meaningful meet-and-confer communication before filing the motion. The court encouraged the parties to resolve discovery disputes without court intervention in the future.

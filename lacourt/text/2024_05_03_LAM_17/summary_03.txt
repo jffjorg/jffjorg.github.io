@@ -1,0 +1,61 @@
+Here is the summary in YAML format:
+
+```
+---
+case_number: BC510798
+plaintiff: The Best Service Co., Inc.
+defendant: Cuauhtemoc Trujillo
+people:
+  - Cuauhtemoc Trujillo
+  - Rosa Mendoza (mother of defendant)
+  - Defendant's wife (first name not specified)
+  - Defendant's children (first names not specified)
+companies:
+  - The Best Service Co., Inc.
+places:
+  - Los Angeles, CA
+  - 1226 S. Record Avenue, Los Angeles, CA
+  - 4835 Genevieve Avenue, Los Angeles, CA (Eagle Rock community)
+dates:
+  - June 3, 2013
+  - November 17, 2023
+  - May 3, 2024
+events:
+  - Breach of contract
+  - Common counts
+  - Service of summons and complaint
+money: None mentioned
+intentions:
+  - To quash service of summons and complaint
+facts:
+  - Defendant was served at 1226 S. Record Avenue
+  - Defendant has not resided at 1226 S. Record Avenue since 2000
+  - Defendant resides with his wife and children at 4835 Genevieve Avenue
+disputes:
+  - Lack of personal jurisdiction over defendant
+  - Defective service of summons and complaint
+acts:
+  - Plaintiff filed suit against defendant
+  - Defendant moved to quash service of summons and complaint
+  - Plaintiff filed notice of non-opposition
+agreements: None mentioned
+laws:
+  - California Code of Civil Procedure (CCP) section 415.20
+  - CCP section 418.10(a)
+  - Ruttenberg v. Ruttenberg (1997) 53 Cal.App.4th 801, 808
+  - Dill v. Berquist Construction Co. (1994) 24 Cal.App.4th 1426, 1444
+  - Coulston v. Cooper (1966) 245 Cal.App.2d 866, 868
+statutes: CCP section 415.20, CCP section 418.10(a)
+roles:
+  - Plaintiff: The Best Service Co., Inc.
+  - Defendant: Cuauhtemoc Trujillo
+  - Judge: Hon. Jon R. Takasugi
+significant statements:
+  - "A court lacks jurisdiction over a party if there has not been proper service of process." (Ruttenberg v. Ruttenberg (1997) 53 Cal.App.4th 801, 808)
+  - "Compliance with the statutory procedures for service of process is essential to establish personal jurisdiction." (Dill v. Berquist Construction Co. (1994) 24 Cal.App.4th 1426, 1444)
+  - "A defendant . . . may serve and file a notice of motion for one or more of the following purposes: (1) To quash service of summons on the ground of lack of jurisdiction of the court over him or her." (CCP section 418.10(a))
+```
+
+And here is a summary of the judge's tentative ruling in English text:
+
+The judge has granted the defendant's motion to quash service of summons and complaint. The plaintiff failed to provide any evidence that the defendant was served at his dwelling house, usual place of abode, usual place of business, or usual mailing address. The preponderance of evidence indicates that service was defective. The judge urges the parties to attempt informal resolution of issues moving forward.

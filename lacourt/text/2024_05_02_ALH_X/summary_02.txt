@@ -1,0 +1,90 @@
+Here is the YAML summary of the judicial document:
+
+```
+case_number: 23AHCV01222
+plaintiff: Night Light, Inc.
+defendant: Background Images, LLC
+people:
+  - Joel L. Lofton (Judge)
+places:
+  - Los Angeles County
+dates:
+  - August 18, 2022
+  - November 18, 2022
+  - May 31, 2024
+  - July 24, 2023
+  - September 7, 2023
+  - September 8, 2023
+  - September 25, 2023
+  - January 31, 2024
+  - February 6, 2024
+  - February 29, 2024
+  - March 29, 2024
+  - April 16, 2024
+  - April 24, 2024
+  - May 2, 2024
+events:
+  - Lease agreement
+  - Breach of contract
+  - Default judgment
+  - Stipulation to set aside default
+  - Answer to complaint
+  - Settlement agreement
+  - Motion to enforce settlement agreement
+money:
+  - $62,000.00
+  - $20,667.00
+  - $226,148.40
+  - $219,255.40
+  - $203,619.40
+intention:
+  - Enforce settlement agreement
+  - Enter judgment
+facts:
+  - Defendant failed to make payments under the lease agreement
+  - Plaintiff filed a complaint for breach of contract
+  - Defendant filed an answer to the complaint
+  - Parties stipulated to set aside default
+  - Defendant made partial payments under the settlement agreement
+disputes:
+  - Validity of settlement agreement
+  - Enforceability of penalty clause
+  - Prejudgment interest
+acts:
+  - Lease agreement
+  - Breach of contract
+  - Default judgment
+  - Stipulation to set aside default
+  - Answer to complaint
+  - Settlement agreement
+  - Motion to enforce settlement agreement
+agreements:
+  - Lease agreement
+  - Settlement agreement
+laws:
+  - Code of Civil Procedure section 664.6
+  - Code of Civil Procedure section 664.6, subdivision (a)
+  - Code of Civil Procedure section 664.6, subdivision (b)
+  - Purcell v. Schweitzer (2014)
+  - In re Marriage of Assemi (1994)
+  - Estate of Jones (2022)
+  - Weddington Productions, Inc. v. Flick (1998)
+  - Fiore v. Alvord (1985)
+  - John D. Monte Decl.
+  - Monte Decl.
+  - Exhs. A, B, C, D, E
+roles:
+  - Judge (Joel L. Lofton)
+  - Plaintiff (Night Light, Inc.)
+  - Defendant (Background Images, LLC)
+  - Attorney (John D. Monte)
+significant_statements:
+  - The court retains jurisdiction to enforce the settlement agreement.
+  - The court grants the motion to enforce the settlement agreement in part.
+  - Judgment is entered in the amount of $203,619.40.
+  - The defendant has already made partial payments under the settlement agreement.
+```
+
+And here is the English summary of the judicial document:
+
+The tentative ruling is a summary of the court's decision regarding the plaintiff's motion to enforce the settlement agreement and enter judgment. The court granted the motion in part, ordering judgment in the amount of $203,619.40. The judgment is the result of the court's consideration of the parties' settlement agreement, which was stipulated by the parties and filed with the court. The court also considered the defendant's partial payments under the settlement agreement and the plaintiff's request for prejudgment interest. The court's decision is based on the California Code of Civil Procedure section 664.6, which allows the court to enter judgment in accordance with the terms of the settlement agreement.

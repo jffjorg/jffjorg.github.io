@@ -1,0 +1,80 @@
+Here is the summary in YAML format:
+
+```
+case_number: 23SMCP00011
+plaintiff: LMS
+defendant: WLS et al.
+people_names:
+  - Lauren Sanchez
+  - Judy Smith
+  - Julie Schwartz
+  - Jeff Bezos
+  - Whitesell
+company_names:
+  - Dream
+  - Smith & Company
+  - Amazon (mentioned as owned by Jeff Bezos)
+places:
+  - California
+dates:
+  - January 16, 2019
+  - January 25, 2019
+  - February 2019
+events:
+  - Breach of contract
+  - Anti-SLAPP motion
+  - Demurrer to the Third Amended Complaint
+money:
+  - $25,001.00 (monthly fee)
+  - $115,000.00 (alleged damages)
+  - $1,000,000.00 (alleged attorneys' fees)
+intention:
+  - To determine the validity of the contract and the alleged breaches
+facts:
+  - The parties entered into a Communications Consulting Agreement
+  - Defendant allegedly breached the agreement by refusing to pay for services and costs
+  - Plaintiff alleges damages and attorneys' fees
+disputes:
+  - The interpretation of the contract terms
+acts:
+  - Breach of contract
+  - Failure to perform contractual obligations
+  - Failure to notify the other party of termination
+agreements:
+  - Communications Consulting Agreement
+laws:
+  - California Code of Civil Procedure
+  - California Rules of Court
+  - California Civil Code
+case_citations:
+  - Hahn v. Mirda (2007)
+  - Donabedian v. Mercury Ins. Co. (2004)
+  - Semole v. Sansoucie (1972)
+  - S. Shore Land Co. v. Petersen (1964)
+  - Khoury v. Maly's of Calif., Inc. (1993)
+  - Stafford v. Shultz (1954)
+  - Angie M. v. Superior Court (1995)
+  - Goodman v. Kennedy (1976)
+  - Baral v. Schnitt (2016)
+  - Wall Street Network, Ltd. v. New York Times Co. (2008)
+  - Fremont Indemnity Co. v. Fremont General Corp. (2007)
+  - Moore v. Wells Fargo Bank, N.A. (2019)
+statutes:
+  - California Code of Civil Procedure
+  - California Civil Code
+roles:
+  - Lauren Sanchez (defendant)
+  - Judy Smith (PR Consultant)
+  - Julie Schwartz (business manager)
+  - Jeff Bezos (owner of Amazon)
+  - Whitesell (mentioned as possibly involved in the case)
+significant_statements:
+  - The contract does not demonstrate the alleged eighteen-week term
+  - The parties did not agree to an eighteen-week term without conditions
+  - The express language is reasonably susceptible to only one interpretation
+  - The plaintiff does not allege any facts that show the agreement was extended beyond the initial term
+```
+
+And here is the English-text summary:
+
+This is the tentative ruling on a demurrer to the Third Amended Complaint in the case of LMS v. WLS et al. The defendant, Lauren Sanchez, demurred to the first and second causes of action, arguing that the plaintiff's breach of contract claim fails because the contract does not demonstrate an eighteen-week term. The court finds that the contract does not demonstrate an ambiguity and that the parties did not agree to an eighteen-week term without conditions. The court also finds that the plaintiff does not allege any facts that show the agreement was extended beyond the initial term. As such, the demurrer is sustained without leave to amend. The court also sustains the demurrer to the second cause of action, which alleges an oral contract. The anti-SLAPP motion is deemed moot.

@@ -1,0 +1,55 @@
+Here is the summary in YAML format:
+
+```
+case_number: 22NWCV00688
+plaintiff_name: Optima Energy, Inc.
+defendant_name: Choi
+people_names:
+  - Lee W. Tsao
+companies:
+  - Optima Energy, Inc.
+places:
+  - Los Angeles
+dates:
+  - May 8, 2024
+  - July 10, 2024
+events:
+  - Ex parte application
+  - Trial continuance
+  - Motion for summary judgment
+money: $0
+intentions:
+  - Continue trial
+  - Grant continuance
+facts:
+  - Plaintiff's inability to obtain essential testimony
+  - Discovery of evidence
+disputes:
+  - Dispute over trial date
+  - Dispute over pretrial deadlines
+acts:
+  - Plaintiff's ex parte application
+  - Defendant's response to application
+agreements:
+  - Continuance of trial date
+  - Discovery and motion cut-offs
+laws:
+  - California Rules of Court (CRC) Rule 3.1332(c)(6)
+  - California Code of Civil Procedure (CCP) 437c(a)(2)-(3)
+case_citations:
+  - CRC Rule 3.1332(c)(6)
+  - CCP 437c(a)(2)-(3)
+statutes:
+  - CCP 437c(a)(2)-(3)
+roles:
+  - Judge: Lee W. Tsao
+  - Plaintiff: Optima Energy, Inc.
+  - Defendant: Choi
+significant_statements:
+  - Trial continuance for approximately six months
+  - Motion for summary judgment will be allowed
+```
+
+And here is a summary in English text:
+
+Judge Lee W. Tsao has issued a tentative ruling on an ex parte application by Optima Energy, Inc. to continue the trial date and pretrial deadlines. The application is granted in part, with the trial date continued for approximately six months. The judge finds that the plaintiff's inability to obtain essential testimony and documents justifies the continuance. However, the judge is not inclined to exclude the deadline to bring a motion for summary judgment, and therefore discovery and motion cut-offs will track the new trial date. The plaintiff is required to give notice of the motion for summary judgment.

@@ -1,0 +1,60 @@
+Here is the summary in YAML format:
+
+```
+case-number: 23STLC05822
+plaintiff-names:
+  - Charles Jones
+  - Burcin Cartilli
+defendant-names:
+  - Daniel West
+  - Ezzeddine Kebair
+people-names:
+  - Charles Jones
+  - Burcin Cartilli
+  - Daniel West
+  - Ezzeddine Kebair
+company-names: []
+places: []
+dates:
+  - September 11, 2023
+  - December 14, 2023
+  - February 26, 2024
+  - March 27, 2024
+  - March 29, 2024
+  - April 30, 2024
+events:
+  - Filing of complaint
+  - Amendment to complaint
+  - Failure to file responsive pleading
+  - Entry of default
+  - Filing of motion to vacate default
+money: []
+intentions:
+  - To vacate entry of default
+facts:
+  - Defendant Kebair failed to file a responsive pleading
+  - Defendant Kebair's insurance company obtained extensions of time to respond
+  - Plaintiffs requested entry of default
+disputes:
+  - Defendant Kebair's motion to vacate entry of default
+acts:
+  - Filing of motion to vacate default
+  - Filing of proposed responsive pleading
+agreements: []
+laws:
+  - California Code of Civil Procedure section 473, subdivision (b)
+statutes:
+  - California Code of Civil Procedure section 473, subdivision (b)
+roles:
+  - Judge
+  - Plaintiff
+  - Defendant
+  - Insurance company
+significant-statements:
+  - Defendant Kebair's motion to vacate entry of default is granted
+  - Defendant Kebair is to file and serve their proposed answer to the complaint within 20 days of this order
+```
+
+And here is the English text to summarize the judge's tentative ruling:
+
+"Defendant Ezzeddine Kebair's Motion to Vacate Entry of Default is granted. Defendant Kebair is to file and serve their proposed answer to the complaint within 20 days of this order. The court finds that Defendant Kebair's default was taken by surprise due to extensions of time to respond granted by their insurance company. The motion meets the requirements of Code of Civil Procedure section 473, subdivision (b), and is therefore granted."

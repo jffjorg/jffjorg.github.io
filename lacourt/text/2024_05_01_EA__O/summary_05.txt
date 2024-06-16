@@ -1,0 +1,64 @@
+Here is the summary in YAML format:
+
+```
+case_number: unknown
+plaintiffs:
+  - name: Lezihaya
+  - counsel: Plaintiffs' Counsel
+defendants:
+  - name: Hernandez
+  - counsel: Defense Counsel
+people:
+  - name: Lezihaya
+  - name: Gonzalez
+  - name: Aguayo
+  - name: Hernandez
+companies: []
+places: []
+dates:
+  - 2/27/24
+  - 10/19/2023
+  - 10/14/23
+events:
+  - inability to contact Plaintiff Lezihaya
+  - untimely production of discovery requests
+  - deposition scheduled but cancelled due to illness
+  - communication with Deponent's daughter
+  - notification that Deponent does not want deposition taken
+money: []
+intentions: []
+facts:
+  - Plaintiffs' Counsel unable to contact Plaintiff Lezihaya
+  - Plaintiff Lezihaya's whereabouts unknown
+  - Defense Counsel took deposition off calendar due to illness
+  - Defendant has been communicating with Deponent's daughter
+  - Deponent's daughter notified Defense Counsel's secretary that Deponent does not want deposition taken
+disputes:
+  - lack of cooperation from Plaintiff Lezihaya
+  - Defendant's attempts to accommodate Deponent
+acts:
+  - hiring an investigator to locate Plaintiff Lezihaya
+  - Defense Counsel taking deposition off calendar due to illness
+  - Defendant communicating with Deponent's daughter
+  - Deponent's daughter notifying Defense Counsel's secretary
+agreements: []
+laws: []
+citations: []
+statutes: []
+roles:
+  - Judge
+  - Plaintiffs' Counsel
+  - Defense Counsel
+  - Deponent
+  - Deponent's daughter
+  - Defendant
+  - Investigator
+significant_statements:
+  - "Plaintiffs' Counsel were unable to contact their clients such that responses to Defendant Hernandez's discovery requests were untimely produced."
+  - "Defense Counsel took that off calendar as he was ill."
+  - "Defendant has been communicating with Deponent's daughter, Ms. Gonzalez, and has spoken with Ms. Gonzalez numerous times to try to accommodate Deponent."
+```
+
+And here is the English text to summarize the judge's tentative ruling:
+
+The judge is issuing a tentative ruling in this case. The plaintiff's counsel were unable to contact their client, Lezihaya, and were unable to produce discovery requests on time. The first deposition was scheduled for October 19, 2023, but was cancelled due to Defense Counsel's illness. The defendant has been communicating with Deponent's daughter, Ms. Gonzalez, and has attempted to accommodate Deponent. Ms. Gonzalez notified Defense Counsel's secretary that Deponent did not want the deposition taken.

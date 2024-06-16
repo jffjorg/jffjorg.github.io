@@ -1,0 +1,40 @@
+Here is a summary of the tentative ruling in YAML format:
+
+```
+case_number: 23STCV10802
+hearing_date: April 29, 2024
+dept: 31
+judge: Kerry Bensinger
+judge_title: Judge of the Superior Court
+
+parties:
+  - plaintiff: Leland Regent Properties
+  - defendant: CDF (La Brea AP, LLC)
+  - third_party: Wilshire Escrow Company
+
+facts:
+  - property: 6731 Leland Way, Los Angeles, CA 90028
+  - purchase agreement: between Leland Regent Properties and CDF
+  - deposit: $330,000
+
+issues:
+  - breach of contract
+  - summary judgment
+
+legal_statutes:
+  - California Civil Code section 3380
+  - California Code of Civil Procedure section 437c
+
+rulings:
+  - CDF's motion for summary judgment granted
+  - Leland's motions for summary judgment denied
+  - CDF's second cause of action (damages to recover monies held in escrow) is moot
+
+dates:
+  - October 3, 2023: stipulation entered regarding Wilshire Escrow Company's involvement in the litigation
+  - April 29, 2024: tentative ruling issued
+```
+
+And here is a summary of the tentative ruling in English:
+
+The tentative ruling grants CDF's motion for summary judgment on its breach of contract claim against Leland Regent Properties. The court finds that CDF's decision not to remove the contingencies in the purchase agreement rendered the agreement null and void, and therefore, Leland Regent Properties is entitled to return CDF's deposit of $330,000. The court also denies Leland Regent Properties' motions for summary judgment. The court notes that CDF's second cause of action (damages to recover monies held in escrow) may be moot due to the parties' stipulation regarding Wilshire Escrow Company's involvement in the litigation.

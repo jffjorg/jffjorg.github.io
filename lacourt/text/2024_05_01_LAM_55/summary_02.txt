@@ -1,0 +1,56 @@
+Here is the summary in YAML format:
+
+```
+case_number: 23STCV11351
+plaintiff_name: Omninet Kipling, L.P.
+defendant_name: Maryline Benavidiez and Glenn Valerio
+people_names:
+  - Maryline Benavidiez
+  - Glenn Valerio
+  - Kipling
+company_names:
+  - Omninet Kipling, L.P.
+places:
+  - 4077 W. 3rd Street
+  - Los Angeles
+dates:
+  - May 1, 2024
+  - 2007
+  - 2001
+  - 2008
+events:
+  - Motion for Summary Judgment
+  - Breach of Written Lease
+money:
+  - $24,667.11
+intentions:
+  - Plaintiff seeks summary judgment
+facts:
+  - Plaintiff claims Defendants failed to pay rent due
+  - Plaintiff requests summary judgment in the sum of $24,667.11
+disputes:
+  - Breach of Written Lease
+acts:
+  - Plaintiff submitted evidence as to every element of the cause of action
+  - Defendants did not oppose the motion or produce evidence
+agreements:
+  - Written lease of 4077 W. 3rd Street, #524
+laws:
+  - WRI Opportunity Loans II, LLC v. Cooper (2007)
+  - Consumer Cause v. Smilecare (2001)
+  - Wall Street Network, Ltd. v. N. Y. Times Co. (2008)
+case_citations:
+  - WRI Opportunity Loans II, LLC v. Cooper (2007)
+  - Consumer Cause v. Smilecare (2001)
+  - Wall Street Network, Ltd. v. N. Y. Times Co. (2008)
+statutes:
+  - None mentioned
+roles:
+  - Judge
+significant_statements:
+  - "It is not plaintiff's initial burden to disprove affirmative defenses . . . asserted by defendant."
+```
+
+And here is the English-text summary:
+
+The tentative ruling is a summary judgment in favor of Omninet Kipling, L.P. (Plaintiff) against Maryline Benavidiez and Glenn Valerio (Defendants) for breach of a written lease. The Plaintiff claims that the Defendants failed to pay rent due on the lease of 4077 W. 3rd Street, #524, Los Angeles. The Court finds that the Plaintiff has established all the elements of the cause of action, including the existence of the contract, performance by the Plaintiff, breach by the Defendants, and resulting damage. Since the Defendants did not oppose the motion or produce evidence, the burden has shifted to them to raise any triable issues of material fact. The Court grants the unopposed motion and will sign the proposed order.

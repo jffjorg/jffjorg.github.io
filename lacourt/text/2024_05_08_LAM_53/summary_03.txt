@@ -1,0 +1,64 @@
+Here is the summary in YAML format:
+```
+case_number: 22STCV19986
+plaintiff: Chris Loomis
+defendant: Cristina Amado Loomis
+people_names:
+  - Chris Loomis
+  - Cristina Amado Loomis
+company_names: []
+places:
+  - Los Angeles
+  - California
+dates:
+  - February 16, 2023
+  - February 24, 2023
+  - March 20, 2024
+  - May 8, 2024
+events:
+  - Default judgment
+  - Motion to set aside default
+  - Default judgment entered
+  - Notice of motion to set aside default
+  - Request for entry of default
+  - Service of summons
+  - Service of written notice
+money: []
+intentions:
+  - To set aside default judgment
+  - To continue litigation
+facts:
+  - Defendant Cristina Amado Loomis moves to set aside default
+  - Plaintiff Chris Loomis seeks default judgment
+  - Defendant's motion is untimely under Code of Civil Procedure section 473 and 473.5
+  - Defendant's motion is denied under Civil Code section 1788.61
+disputes:
+  - Whether defendant's motion is timely
+  - Whether defendant's motion is entitled to relief under Code of Civil Procedure sections 473 and 473.5
+acts:
+  - Defendant's motion to set aside default
+  - Plaintiff's request for default judgment
+  - Service of summons
+  - Entry of default judgment
+agreements: []
+laws:
+  - Code of Civil Procedure section 473
+  - Code of Civil Procedure section 473.5
+  - Civil Code section 1788.61
+  - Code of Civil Procedure section 1788.61
+  - Austin v. Los Angeles Unified School District
+  - Seañez Decl.
+  - Code Civ. Proc., § 473, subd. (b)
+  - Code Civ. Proc., § 473.5, subd. (a)
+  - Civ. Code, § 1788.61, subd. (a)(1)
+roles:
+  - Judge: Robert B. Broadbelt III
+  - Plaintiff: Chris Loomis
+  - Defendant: Cristina Amado Loomis
+significant_statements:
+  - The court denies defendant's motion to set aside default and default judgment.
+  - The court finds that defendant's motion is untimely under Code of Civil Procedure sections 473 and 473.5.
+```
+And here is the English text summarizing the judge's tentative ruling:
+
+The judge has denied the defendant's motion to set aside the default judgment, which was entered on February 16, 2023. The court finds that the defendant's motion is untimely under Code of Civil Procedure sections 473 and 473.5, as it was filed more than six months after the default judgment was entered. The court also finds that the defendant's motion is untimely under Civil Code section 1788.61, as the action filed by the plaintiff is not an action brought by a debt buyer. The court therefore denies the defendant's motion and orders the plaintiff to give notice of this ruling.

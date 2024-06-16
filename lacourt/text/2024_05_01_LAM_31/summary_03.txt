@@ -1,0 +1,49 @@
+Here is the summary in YAML format:
+
+```
+Case Number: [Insert case number]
+Plaintiff's Name: [Insert plaintiff's name]
+Defendant's Name: Fenton
+People-Names: Fenton
+Company-Names: []
+Places: New York City
+Dates:
+  - [Date of filing]
+  - [Date of hearing]
+Events:
+  - Filing of Motion to Set Aside Default
+  - Filing of Motion to Quash
+  - Hearing on motions
+Money: None mentioned
+Intentions:
+  - Fenton: To quash the default
+  - Plaintiff: To oppose the Motion to Quash
+Facts:
+  - Fenton filed a Motion to Set Aside Default prior to filing the Motion to Quash
+  - Fenton joined the motions to be heard on the same day
+Disputes:
+  - Fenton's residency in New York City
+Acts:
+  - Fenton filing motions
+  - Plaintiff opposing the Motion to Quash
+Agreements: Code of Civil Procedure
+Laws:
+  - Code of Civil Procedure § 418.10
+  - Code of Civil Procedure § 473
+  - Code of Civil Procedure § 473.5
+Case Citations:
+  - [Insert citations to relevant case law]
+Statutes:
+  - Code of Civil Procedure § 418.10
+Roles:
+  - Judge: To make a tentative ruling
+  - Plaintiff: To oppose the Motion to Quash
+  - Fenton: To quash the default
+Significant Statements:
+  - Fenton did not make a general appearance in this matter
+  - Fenton's challenge has merit
+```
+
+And here is the English-text summary:
+
+The judge's tentative ruling addresses Fenton's Motion to Quash the default. The plaintiff argues that the motion is moot because Fenton made a general appearance in the action by filing a Motion to Set Aside Default. However, the judge finds that Fenton complied with Code of Civil Procedure section 418.10 by filing the motions to set aside the default and quash separately, and therefore did not make a general appearance. The judge also notes that Fenton's challenge to the default has merit.

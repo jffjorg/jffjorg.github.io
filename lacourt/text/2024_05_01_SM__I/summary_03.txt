@@ -1,0 +1,52 @@
+Here is the summary in YAML format:
+
+```
+case_number: 22SMCV02822
+plaintiff_name: 
+defendant_name: 
+people_names: 
+  - plaintiff
+  - defendant
+company_names: []
+places: []
+dates:
+  - January 18, 2024
+  - May 1, 2024
+  - July 15, 2024
+events:
+  - Deposition of plaintiff
+  - Trial
+money: []
+intentions:
+  - To continue the trial
+facts:
+  - Plaintiff disputed accuracy of medical records
+  - Plaintiff identified additional key witness
+  - Plaintiff's discovery responses were inaccurate
+disputes:
+  - Accuracy of medical records
+  - Inaccuracy of discovery responses
+  - Need for medical examination
+acts:
+  - Plaintiff's deposition was taken
+  - Plaintiff disputed accuracy of medical records
+  - Defendant seeks continuance of trial
+agreements: []
+laws:
+  - Reales Investment, LLC v. Johnson (2020) 55 Cal.App.5th 463
+  - Disfavored continuances, granted only on showing of good cause
+case_citations: []
+statutes: []
+roles:
+  - Judge
+  - Plaintiff
+  - Defendant
+significant_statements:
+  - Continuances are disfavored
+  - Good cause must be shown for continuance
+  - Defendant's showing of good cause is sufficient
+```
+
+And here is the English-text summary:
+
+The judge's tentative ruling grants the defendant's motion to continue the trial from July 15, 2024 to a later date. The defendant requested the continuance after taking the plaintiff's deposition on January 18, 2024, where the plaintiff surprisingly disputed the accuracy of many of her medical records and identified an additional key witness. The defendant also stated that a medical examination is needed to prepare for trial. The court believes that this is a sufficient showing of good cause for the continuance, citing the disfavored nature of continuances and the need to show good cause. The court will discuss the new trial date with the parties.

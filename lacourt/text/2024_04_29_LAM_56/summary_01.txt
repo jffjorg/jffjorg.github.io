@@ -1,0 +1,68 @@
+Here is the YAML summary:
+
+```
+case_number: 23STCV08989
+plaintiff: Clara Abedian
+defendant: FCA US LLC, DOES 1-10
+people_names:
+  - Clara Abedian
+  - FCA US LLC
+  - Holly Fujie
+company_names:
+  - FCA US LLC
+places:
+  - Los Angeles
+  - California
+dates:
+  - April 24, 2023
+  - April 29, 2023
+  - April 29, 2024
+events:
+  - Motion to Compel Responses to Set One of Plaintiff's Discovery
+  - Breach of Warranty
+  - Discovery Dispute
+money:
+  - Filing fees
+  - Monetary sanctions
+intentions:
+  - Compel defendant to respond to discovery requests
+  - Waive objections to discovery requests
+facts:
+  - Defendant failed to respond to discovery requests within 30 days
+  - Plaintiff extended deadline for defendant to respond
+  - Defendant failed to respond despite extension
+  - Plaintiff is entitled to pursue motion
+disputes:
+  - Failure to respond to discovery requests
+  - Breach of warranty
+  - Discovery dispute
+acts:
+  - Defendant failed to respond to discovery requests
+  - Plaintiff extended deadline for defendant to respond
+  - Defendant failed to respond despite extension
+  - Plaintiff is entitled to pursue motion
+agreements:
+  - None
+laws:
+  - California Code of Civil Procedure
+  - California Civil Code
+  - Song-Beverly Consumer Warranty Act
+case_citations:
+  - Code Civ. Proc., § 2030.260
+  - Code Civ. Proc., § 2031.260
+  - Code Civ. Proc., § 2030.290
+  - Code Civ. Proc., § 2031.300
+  - Code Civ. Proc., § 2024.020
+roles:
+  - Judge: Holly Fujie
+  - Plaintiff: Clara Abedian
+  - Defendant: FCA US LLC
+significant_statements:
+  - Defendant failed to respond to discovery requests within 30 days
+  - Plaintiff is entitled to pursue motion to compel responses
+  - Defendant must respond to discovery requests within 20 days of order
+```
+
+And here is the English text summarizing the judge's tentative ruling:
+
+The judge rules that the defendant, FCA US LLC, failed to respond to the plaintiff's discovery requests within the required 30-day period. Despite being given an extension, the defendant still did not respond. The judge grants the plaintiff's motion to compel the defendant's responses to the plaintiff's form interrogatories, special interrogatories, and requests for production of documents. However, the judge denies the plaintiff's motion to compel responses to the request for admissions. The defendant is ordered to respond to the plaintiff's discovery requests within 20 days of the date of this order.
