@@ -1,0 +1,87 @@
+Here is the summary of the judge's tentative ruling in YAML format:
+
+```
+case_number: "23AHCV01836"
+hearing_date: "April 19, 2024"
+dept: "P"
+people:
+  - Bryce Harris
+  - Ralph's Grocery Company
+  - Kaiser Permanente
+  - Ralph's Grocery Company
+company_names:
+  - Ralph's Grocery Company
+  - Kaiser Permanente
+places:
+  - Pasadena
+dates:
+  - "April 23, 2023"
+  - "February 28, 2024"
+  - "April 8, 2024"
+  - "April 12, 2024"
+  - "January 30, 2024"
+  - "November 3, 2023"
+  - "September 2023"
+events:
+  - Slip and fall at Ralph's Grocery Company
+  - Motion to quash subpoenas
+  - Motion for reconsideration
+  - Trial preference
+money:
+  - Medical expenses
+  - Attorney's fees
+intentions:
+  - To obtain relevant medical records
+  - To prevent unnecessary disclosure of personal information
+facts:
+  - Plaintiff slipped and fell at Ralph's Grocery Company
+  - Plaintiff seeks damages for injuries sustained
+  - Defendant seeks to reconsider trial preference
+disputes:
+  - Relevance of medical records
+  - Overbreadth of subpoena
+  - Privacy concerns
+  - Compelling need for disclosure
+acts:
+  - Plaintiff's motion to quash subpoenas
+  - Defendant's motion for reconsideration
+  - Order granting trial preference
+  - Order denying motion to quash
+  - Order denying motion for reconsideration
+agreements:
+  - Code of Civil Procedure Section 1987.1
+  - Code of Civil Procedure Section 1987.2
+  - Code of Civil Procedure Section 1985.3
+  - Code of Civil Procedure Section 1008
+laws:
+  - Code of Civil Procedure Section 1987.1
+  - Code of Civil Procedure Section 1987.2
+  - Code of Civil Procedure Section 1985.3
+  - Code of Civil Procedure Section 1008
+case_citations:
+  - Rancho Publications v. Superior Court (1999) 68 Cal.App.4th 1538
+  - Heda v. Superior Court (1990) 225 Cal.App.3d 525
+  - Tylo v. Superior Court (1997) 55 Cal.App.4th 1379
+  - Wood v. Superior Court (1985) 166 Cal.App.3d 1138
+  - Davis v. Superior Court (1992) 7 Cal.App.4th 1008
+  - Lantz v. Superior Court (1994) 28 Cal.App.4th 1839
+  - Vinson v. Superior Court (1987) 43 Cal.3d 833
+  - New York Times Co. v. Superior Court (2005) 135 Cal.App.4th 206
+  - Gilberd v. AC Transit (1995) 32 Cal.App.4th 1494
+  - Fox v. Superior Court (2018) 21 Cal.App.5th 529
+  - Even Zohar Construction & Remodeling, Inc. v. Bellaire Townhouses, LLC (2015) 61 Cal.4th 830
+roles:
+  - Judge: Jared D. Moses
+  - Plaintiff: Bryce Harris
+  - Defendant: Ralph's Grocery Company
+  - Deposition officer: [unknown]
+  - Witness: [unknown]
+significant_statements:
+  - "The Court declines to quash the deposition subpoena for irrelevancy."
+  - "The Court declines to quash the deposition subpoena on privacy grounds."
+  - "The Court modifies the request, limiting it to documents from 1980 to the present."
+  - "The Court DENIES the motion for reconsideration."
+```
+
+Summary:
+The judge's tentative ruling denies plaintiff Bryce Harris's motion to quash subpoenas served on Kaiser Permanente, citing that the medical records sought are relevant to the case. The judge also denies defendant Ralph's Grocery Company's motion for reconsideration of the trial preference order, finding that the defendant failed to demonstrate new or different facts not considered by the court previously. The judge orders the plaintiff to give notice of the ruling.

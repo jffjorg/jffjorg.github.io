@@ -1,0 +1,75 @@
+Here is the summary in YAML format:
+
+```
+case_number: 20STCP03844
+plaintiff: United Neighborhoods for Los Angeles
+defendant: City of Los Angeles
+people_names:
+  - Sabrina Teller
+  - Judge Mitchell Beckloff
+  - Judge Mitchell Beckloff (again)
+company_names:
+  - Los Angeles Internat. Charter High School
+  - Los Angeles Unified School Dist.
+places:
+  - Los Angeles
+  - Whitley Avenue
+  - North Whitley Avenue
+  - City of Los Angeles
+dates:
+  - December 1, 2021
+  - May 27, 2022
+  - June 22, 2022
+  - October 3, 2023
+  - January 31, 2024
+  - April 9, 2024
+  - December 8, 2023
+  - August 1, 2019
+events:
+  - CEQA review
+  - Writ of mandate
+  - Return to writ
+  - Discharge of writ
+money: $0
+intentions:
+  - To determine compliance with writ
+  - To grant motion to discharge writ
+facts:
+  - City approved hotel project without CEQA review
+  - City rescinded approvals
+  - Petitioner brought suit to challenge approvals
+  - Court issued writ to set aside approvals
+  - Respondent filed return showing compliance with writ
+disputes:
+  - Whether City complied with writ
+  - Whether City's new project approvals are valid
+acts:
+  - City approved hotel project
+  - City rescinded approvals
+  - Petitioner brought suit
+  - Court issued writ
+  - Respondent filed return
+  - Writ was discharged
+agreements:
+  - CEQA review
+  - Writ of mandate
+  - Discharge of writ
+laws:
+  - CEQA
+  - Pub. Res. Code § 21168.9(b)
+  - Pub. Res. Code § 21168.9(c)
+case_citations:
+  - Neighborhoods v. City of Los Angeles (2023) 93 Cal.App.5th 1075
+  - Los Angeles Internat. Charter High School v. Los Angeles Unified School Dist. (2012) 209 Cal.App.4th 1348
+  - McCann v. City of San Diego (2023) 94 Cal.App.5th 284
+roles:
+  - Judge
+  - Attorney
+  - City official
+significant_statements:
+  - "The undisputed evidence shows that Respondent has complied with the writ.  According to the return and Teller declaration, on December 8, 2023, Respondent issued a 'Letter to Rescind Determination' in Case Nos. DIR2016-4920-SPR and ENV-2016-4921-CE to comply with the writ."
+```
+
+And here is the English-text summary:
+
+The tentative ruling is a court decision that grants the motion to discharge the writ of mandate issued by the court in a case involving the City of Los Angeles and the United Neighborhoods for Los Angeles. The writ was issued to compel the City to set aside its determination that a hotel project was categorically exempt from the California Environmental Quality Act (CEQA). The City complied with the writ by rescinding its approvals and determinations. The court found that the City's return showed that it had satisfied the writ's terms and that the writ should be discharged. The court rejected the plaintiff's objections to the return, including claims that the City had continued to work on the project and that new project approvals were invalid. The court held that the writ's discharge was proper and that the City had complied with the writ.

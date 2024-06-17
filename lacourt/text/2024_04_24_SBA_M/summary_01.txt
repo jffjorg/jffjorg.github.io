@@ -1,0 +1,63 @@
+Here is the summary in YAML format:
+
+```
+case_number: 23TRCV00121
+plaintiff_names:
+  - Briana Flowers
+  - Brianna Hollens
+defendant_name: Lashawna Nadreau
+people_names:
+  - Adam A. Chavez
+company_names: []
+places:
+  - Los Angeles
+  - Southwest District
+  - Department M
+dates:
+  - January 13, 2023
+  - September 21, 2023
+  - April 24, 2024
+events:
+  - Motor vehicle accident
+  - Filing of complaint
+  - Service of interrogatories and demand for inspection
+  - Filing of motions to compel
+  - Hearing on motions
+money:
+  - Monetary sanctions
+  - Unspecified type of sanctions
+intentions:
+  - To compel responses to interrogatories and demand for inspection
+  - To seek monetary sanctions
+facts:
+  - Plaintiffs were involved in a motor vehicle accident with defendant
+  - Defendant served interrogatories and demand for inspection
+  - Plaintiffs failed to file written oppositions
+  - Defendant failed to identify all persons and attorneys against whom sanctions are sought
+acts:
+  - Service of interrogatories and demand for inspection
+  - Filing of motions to compel
+  - Failure to file written oppositions
+  - Failure to identify persons and attorneys against whom sanctions are sought
+agreements: []
+laws:
+  - CCP § 2030.290
+  - CCP § 2031.300
+  - CCP § 2023.040
+case_citations: []
+statutes:
+  - California Code of Civil Procedure (CCP)
+roles:
+  - Judge: Honorable Gary Y. Tanaka
+  - Plaintiff: Briana Flowers, Brianna Hollens
+  - Defendant: Lashawna Nadreau
+  - Attorney: Adam A. Chavez
+significant_statements:
+  - Tentative ruling grants motions to compel in part and denies in part
+  - Ruling is conditioned on waiver of defect in notice
+  - Denial of monetary sanctions due to failure to identify persons and attorneys against whom sanctions are sought
+```
+
+And here is the English text summarizing the judge's tentative ruling:
+
+The court has granted in part and denied in part Lashawna Nadreau's motions to compel Briana Flowers' and Brianna Hollens' responses to form interrogatories, special interrogatories, and demand for inspection and production of documents, Set One, and for monetary sanctions. The ruling is conditioned upon all parties waiving the defect in notice. The court notes that no notice was provided of the hearing date of April 24, 2024. The motions are granted due to Plaintiffs' failure to serve timely responses and failure to file written oppositions. The court orders Plaintiffs to serve responses without objection within 10 days of this date. The defendant's request for monetary sanctions is denied due to the failure to identify every person, party, and attorney against whom the sanctions are sought and failed to specify the type of sanctions sought.

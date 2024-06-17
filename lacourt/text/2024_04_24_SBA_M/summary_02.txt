@@ -1,0 +1,56 @@
+Here is the YAML summary:
+```
+Case Number: 23TRCV00310
+Plaintiff's Name: Calsafe Research Center, Inc.
+Defendant's Name: The Napoleon Co., et al.
+People-Names:
+  - Gary Y. Tanaka (Judge)
+Company-Names:
+  - Calsafe Research Center, Inc.
+  - The Napoleon Co.
+Places:
+  - Los Angeles
+  - California
+Dates:
+  - February 3, 2023 (Complaint filed)
+  - September 21, 2023 (Settlement terms finalized)
+  - April 24, 2024 (Hearing Date)
+Events:
+  - Plaintiff filed complaint
+  - Parties finalized settlement terms
+  - Court reviewed settlement
+  - Court granted motion to approve settlement
+Money:
+  - $18,000 (Attorney's fees)
+  - $2,000.00 (Penalty amount)
+Intentions:
+  - Plaintiff seeks to cause defendant to warn consumers in California
+    about exposure to lead
+  - Plaintiff requests injunction and civil penalties
+Facts:
+  - Defendant manufactures and sells products containing lead
+  - Plaintiff alleges defendant failed to warn consumers about exposure to lead
+  - Parties finalized settlement with terms of consent judgment
+Disputes:
+  - None (Settlement approved)
+Acts:
+  - Plaintiff filed complaint
+  - Parties finalized settlement
+  - Court reviewed settlement
+  - Court granted motion to approve settlement
+Agreements:
+  - Settlement terms agreed upon by parties
+  - Consent judgment entered
+Laws:
+  - Proposition 65 (Health and Safety Code § 25249.5)
+  - California Health and Safety Code (§ 25249.7)
+Case Citations:
+  - California Health and Safety Code (§ 25249.5, § 25249.7)
+  - CCP § 664.6
+Roles:
+  - Judge: Gary Y. Tanaka
+Significant Statements:
+  - Court finds that injunctive relief complies with Proposition 65
+  - Court finds that attorney's fees and penalty amount are reasonable
+```
+Note: YAML is a markup language that is often used for data serialization and configuration files. It has a simple syntax and is easy to read and write.

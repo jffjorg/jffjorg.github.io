@@ -1,0 +1,53 @@
+Here is the summary in YAML format:
+
+```
+case-number: 20STCV44172
+plaintiff: Carmen Castaneda
+defendant: Joshua Oshiro
+people-names:
+  - Carmen Castaneda
+  - Joshua Oshiro
+company-names: []
+places: []
+dates:
+  - March 29, 2024
+  - November 27, 2020
+  - December 11, 2020
+  - April 22, 2024
+events:
+  - Motor vehicle collision
+  - Request for court default judgment
+money:
+  - Damages
+  - Sanctions
+intentions:
+  - To obtain default judgment
+facts:
+  - Plaintiff filed an action against defendants
+  - Plaintiff failed to complete declaration of nonmilitary status
+  - Plaintiff failed to submit Statement of Damages
+disputes:
+  - Plaintiff's request for default judgment
+acts:
+  - Filing of action
+  - Proof of service
+  - Failure to submit required documents
+agreements: []
+laws:
+  - CRC 3.1800(a)(5)
+  - CRC 3.250(a)(20)
+case-citations: []
+statutes: []
+roles:
+  - Judge
+  - Plaintiff
+  - Defendant
+significant-statements:
+  - "This is Plaintiff's first request for court default judgment."
+  - "Plaintiff did not complete the declaration of nonmilitary status."
+  - "The Court is unable to locate a copy of the Statement of Damages."
+```
+
+And here is the English text to summarize the judge's tentative ruling:
+
+The judge has issued a tentative ruling denying the plaintiff's request for court default judgment. The plaintiff, Carmen Castaneda, filed the action against Joshua Oshiro and others for damages arising from a motor vehicle collision. However, the plaintiff failed to complete the declaration of nonmilitary status and did not submit a copy of the Statement of Damages, as required by court rules. The judge has ordered the plaintiff to submit a new default judgment package correcting these defects by a certain date. Failure to do so may result in the imposition of sanctions, including monetary sanctions and/or dismissal.

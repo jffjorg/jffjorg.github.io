@@ -1,0 +1,59 @@
+Here is the summary in YAML format:
+
+```
+case_number: 21STCV42487
+plaintiff_name: Kaiser
+defendant_name: Equity Residential Management, L.L.C.
+people_names:
+  - Kaiser
+  - Equity Residential Management, L.L.C.
+company_names:
+  - Equity Residential Management, L.L.C.
+places:
+  - Los Angeles
+dates:
+  - April 22, 2024
+events:
+  - Preliminary approval of class action settlement
+money:
+  - $90,000 (Gross Settlement Amount)
+  - $45,000 (Class Counsel Fee)
+  - $3,000 (Class Counsel Expenses)
+  - $10,000 (Class Representative Service Payment)
+  - $62,750 (Administrator's Expenses)
+  - $120,750.00 (Total Estimated Costs)
+intentions:
+  - To approve a class action settlement
+facts:
+  - The settlement amount is $90,000
+  - The settlement includes a release of claims
+  - The administrator will retain the remainder in the Net Settlement Amount
+disputes:
+  - The math does not completely add up
+  - The Settlement Agreement has an inconsistency regarding the Gross Settlement Amount
+  - The notice administration procedures need to be clarified
+  - The cy pres distribution needs to be detailed
+laws:
+  - California Rules of Court, rule 3.766(d)
+  - California Rules of Court, rule 3.769(h)
+  - California Code of Civil Procedure, section 384
+  - Labor Code, section 2699, subdivision (l)(2)
+citations:
+  - Laffitte v. Robert Half Internat., Inc. (2016) 1 Cal.5th 480
+  - Cundiff v. Verizon California, Inc. (2008) 167 Cal.App.4th 718
+  - State of California v. Levi Strauss & Co. (1986) 41 Cal.3d 460
+  - In re Microsoft I-V Cases (2006) 135 Cal.App.4th 706
+  - Dennis v. Kellogg Co. (9th Cir. 2012) 697 F.3d 858
+roles:
+  - Judge
+  - Plaintiff
+  - Defendant
+  - Class Counsel
+  - Administrator
+significant_statements:
+  - The settlement amount is $90,000
+  - The settlement includes a release of claims
+  - The administrator will retain the remainder in the Net Settlement Amount
+```
+
+Please note that this summary is based on the text provided, and it may not be exhaustive or entirely accurate. It is recommended to review the original document for any discrepancies or additional information.

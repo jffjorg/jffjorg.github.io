@@ -1,0 +1,80 @@
+Here is the YAML summary:
+
+```
+case_number: "20STCV04529"
+hearing_date: "April 22, 2024"
+department: "32"
+plaintiffs:
+  - name: "CRAIG SALLIN"
+  - name: "CROEUS INVESTMENTS, LLC"
+  - name: "LINDA SNYDER-KELBAUGH"
+  - name: "SUN COAST DISTRIBUTING, INC."
+  - name: "SUN PACIFIC GROUP, INC."
+  - name: "JERRY JAMES"
+defendants:
+  - name: "JOE SAMUEL BAILEY"
+  - name: "RENEW SPINAL CARE, INC."
+people:
+  - name: "Linda Snyder-Kelbaugh"
+  - name: "Jerry James"
+  - name: "Joe Samuel Bailey"
+companies:
+  - name: "CROEUS INVESTMENTS, LLC"
+  - name: "SUN COAST DISTRIBUTING, INC."
+  - name: "SUN PACIFIC GROUP, INC."
+  - name: "RENEW SPINAL CARE, INC."
+places:
+  - none
+dates:
+  - "March 27, 2020"
+  - "July 31, 2023"
+  - "April 8, 2024"
+  - "April 12, 2024"
+  - "August 20, 2024"
+events:
+  - "breach of contract"
+  - "settlement agreement"
+money:
+  - "amounts required by the settlement agreement"
+intention:
+  - "plaintiffs seek to file a second amended complaint"
+facts:
+  - "plaintiffs provided money to defendants"
+  - "parties reached a settlement"
+  - "defendants' alleged failure to pay the amounts required"
+disputes:
+  - "breach of written settlement agreement"
+  - "alleged misconduct in the underlying transactions"
+  - "statute of limitations issues"
+acts:
+  - "file a second amended complaint"
+  - "oppose the motion"
+  - "file a cross-complaint"
+agreements:
+  - "settlement agreement"
+  - "contract"
+laws:
+  - "Code of Civil Procedure"
+  - "Code Civ. Proc., § 472"
+  - "Code Civ. Proc., § 473"
+  - "Code Civ. Proc., § 576"
+case_citations:
+  - "Duchrow v. Forrest (2013)"
+  - "Demetriades v. Yelp, Inc. (2014)"
+  - "Rainer v. Community Memorial Hosp. (1971)"
+  - "Royal Thrift & Loan Co. v. County Escrow, Inc. (2004)"
+  - "Norgart v. Upjohn Co. (1999)"
+  - "Pointe San Diego Residential Community, L.P. v. Procopio, Cory, Hargreaves & Savitch, LLP (2011)"
+roles:
+  - "judge"
+  - "plaintiffs"
+  - "defendants"
+significant_statements:
+  - "The court may, in furtherance of justice, and on such terms as may be proper, allow a party to amend any pleading."
+  - "A plaintiff has the burden to establish how the complaint can be amended to state a valid cause of action."
+  - "The proposed claims do not relate back because they are based on a different set of facts, i.e., Defendants' alleged misconduct in the underlying transactions dating back to 2014."
+```
+
+And here is a summary in English text:
+
+The Judge has issued a tentative ruling on a motion for leave to file a second amended complaint. The plaintiffs, including Craig Sallin, Croesus Investments, LLC, Linda Snyder-Kelbaugh, Sun Coast Distributing, Inc., Sun Pacific Group, Inc., and Jerry James, seek to amend their complaint to add 11 new causes of action. The defendants, Joe Samuel Bailey and Renew Spinal Care, Inc., oppose the motion. The Judge has denied the motion, citing unjustified delay, futility, and retaliatory intent. The Judge finds that the proposed amendments are not justified because of the long delay in filing the motion, the proposed amendments would require significant discovery and could cause prejudice to the defendants, and the plaintiffs' motion is conditional on the defendants filing a cross-complaint.

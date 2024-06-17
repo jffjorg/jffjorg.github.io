@@ -1,0 +1,61 @@
+Here is the summary in YAML format:
+
+```
+case_number: 21STCV06712
+plaintiff: Kim Hoang et al.
+defendant: DM Holdings Group LLC et al.
+people_names:
+  - Michael J. Kapin
+company_names:
+  - DM Holdings Group LLC
+  - Dope Media Inc.
+  - Dope Media LLC
+  - Hightimes Holding Corp.
+places:
+  - Los Angeles
+  - California
+dates:
+  - April 23, 2024
+  - July 23, 2024
+  - August 26, 2024
+events:
+  - Motion to be relieved as counsel
+  - Order to Show Cause Re: Failure to Retain New Counsel
+  - Case Management Conference
+money: None mentioned
+intentions:
+  - Counsel seeks to be relieved as counsel due to irreconcilable differences
+  - Counsel's motions comply with California Rules of Court
+facts:
+  - Counsel and clients have irreconcilable differences
+  - Counsel's motions are unopposed
+  - Trial is not until August 26, 2024
+disputes:
+  - Counsel's request for withdrawal should be granted
+  - A corporation cannot represent itself in court
+acts:
+  - Counsel seeks to be relieved as counsel
+  - Judge grants counsel's motions
+  - Order to Show Cause scheduled for July 23, 2024
+agreements:
+  - Counsel's motions comply with California Rules of Court
+  - Parties must retain new counsel by July 23, 2024
+laws:
+  - California Rules of Court, rule 3.1362
+  - Caressa Camille, Inc. v. Alcoholic Beverage Control Appeals Bd. (2002)
+  - People v. Prince (1968)
+statutes:
+  - California Rules of Court
+roles:
+  - Judge: Hon. Thomas D. Long
+  - Counsel: Michael J. Kapin
+  - Parties: DM Holdings Group LLC et al.
+significant_statements:
+  - Counsel's request for withdrawal should be granted
+  - A corporation cannot represent itself in court
+  - A new counsel must be retained by July 23, 2024
+```
+
+And here is the English-text summary:
+
+The judge's tentative ruling grants the motions of Michael J. Kapin, counsel for the defendants DM Holdings Group LLC, Dope Media Inc., Dope Media LLC, and Hightimes Holding Corp., to be relieved as counsel due to irreconcilable differences between counsel and clients. The judge notes that absent a showing of resulting prejudice, an attorney's request for withdrawal should be granted. The judge also notes that a corporation cannot represent itself in court, and therefore schedules an Order to Show Cause Re: Failure to Retain New Counsel for July 23, 2024, at which point the entity defendants must retain new counsel or risk having their answers struck and being placed in default.

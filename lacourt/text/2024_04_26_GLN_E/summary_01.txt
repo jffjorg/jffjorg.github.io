@@ -1,0 +1,61 @@
+Here is the summary in YAML format:
+
+```
+case_number: 22STCV28598
+plaintiff: Adelina Arutunian and Hratch Manoukian
+defendant: Resource Management Company, an entity; Terrace View Homeowners Association, an entity; Marb Construction Management, an entity; M.L. Plumbing, an entity; Michael Levendosky, an individual; and Does 1-50 inclusive
+people:
+  - Adelina Arutunian
+  - Hratch Manoukian
+  - Michael Levendosky
+companies:
+  - Resource Management Company
+  - Marb Construction Management
+  - M.L. Plumbing
+  - Terrace View Homeowners Association
+places:
+  - California
+dates:
+  - 9/1/2022 (Complaint filed)
+  - 11/17/2022 (Cross-Complaint filed)
+  - 12/29/2023 (Motion to compel responses filed)
+  - 3/22/2024 (Amended motion to compel responses filed)
+  - 4/25/2024 (Hearing date)
+  - 7/30/2024 (Trial date)
+events:
+  - Plaintiffs filed a Complaint against Defendants
+  - Cross-Complaint was filed by Terrace View Homeowners Association and Resource Management Company
+  - Defendant Resource Management Company filed a motion to compel responses from Plaintiff Adelina Arutunian to Special Interrogatories, Set One
+  - Defendant Terrace View Homeowners Association filed a motion to compel responses from Plaintiff Adelina Arutunian to Special Interrogatories, Set One
+money:
+  - $999.15 (amount of sanctions requested)
+intention:
+  - To compel responses to special interrogatories
+facts:
+  - Plaintiff Adelina Arutunian failed to respond to special interrogatories
+  - Defendant Resource Management Company and Defendant Terrace View Homeowners Association filed motions to compel responses
+  - Court will hear argument as to sanctions
+disputes:
+  - Plaintiffs' and Defendants' allegations of negligence and breach of contract
+  - Dispute over who should bear responsibility for damages
+acts:
+  - Filing of Complaint and Cross-Complaint
+  - Filing of motions to compel responses
+  - Filing of oppositions to motions to compel responses
+  - Court's tentative ruling on motions to compel responses
+laws:
+  - California Code of Civil Procedure (CCP) Sections 2030.260, 2030.290, 2030.330
+  - California Rules of Court (CRC) Rule 3.1300
+  - California Rules of Court (CRC) Rule 3.1348
+  - California Civil Code Sections 2023.010, 2023.030
+roles:
+  - Judge: ruling on motions to compel responses
+  - Plaintiffs: alleging negligence and breach of contract
+  - Defendants: denying allegations and seeking sanctions
+  - Court: hearing argument as to sanctions
+significant statements:
+  - "The party to whom the interrogatories are directed waives any right to exercise the option to produce writings under Section 2030.230, as well as any objection to the interrogatories, including one based on privilege or on the protection for work product under Chapter 4 (commencing with Section 2018.010)."
+  - "The court, on motion, may relieve that party from this waiver on its determination that both of the following conditions are satisfied: (1) The party has subsequently served a response that is in substantial compliance with Sections 2030.210, 2030.220, 2030.230, and 2030.240. (2) The party’s failure to serve a timely response was the result of mistake, inadvertence, or excusable neglect."
+```
+
+Note: This summary is a simplified version of the tentative ruling and may not capture all the nuances and details of the document.

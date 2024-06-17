@@ -1,0 +1,63 @@
+Here is the YAML summary:
+
+```
+case_number: 24CHCV00365
+plaintiff: John Labidi
+defendant: Don Bratton
+people:
+  - John Labidi
+  - Don Bratton
+company_names: []
+places:
+  - California
+  - Los Angeles
+dates:
+  - February 5, 2024
+  - February 28, 2024
+  - March 7, 2024
+  - March 15, 2024
+  - April 25, 2024
+events:
+  - Unlawful detainer case
+  - Motion to quash service of summons
+  - Service of summons by posting
+money:
+  - $50,000 (rent owed)
+intentions:
+  - Defendant seeks to quash service of summons
+facts:
+  - Process server made five attempts to serve Defendant personally
+  - Defendant refused to open door to process server
+  - Registered process server posted summons and complaint on Defendant's door
+  - Defendant's attorney offered to accept service on behalf of Defendant
+disputes:
+  - Whether Defendant was properly served
+acts:
+  - Plaintiff filed application to serve process by posting
+  - Defendant filed motion to quash service of summons
+agreements:
+  - None
+laws:
+  - Evidence Code § 647
+  - Evidence Code § 604
+  - CCP § 415.45(a)
+  - Los Angeles v. Morgan (1951) 105 Cal.2d 726, 731
+  - Palm Property Investments, LLC v. Yadegar 194 Cal.App.4th 1419
+  - Palm Property, 194 Cal.App.4th at 1428
+case_citations:
+  - Los Angeles v. Morgan (1951) 105 Cal.2d 726, 731
+  - Palm Property Investments, LLC v. Yadegar 194 Cal.App.4th 1419
+roles:
+  - Judge
+  - Plaintiff
+  - Defendant
+  - Attorney
+  - Process Server
+significant_statements:
+  - The return of process is prima facie evidence of proper service.
+  - Simply denying receipt of service is not sufficient to overcome the presumption of service.
+```
+
+And here is a summary of the judge's tentative ruling:
+
+The judge has denied the defendant's motion to quash the service of summons in an unlawful detainer case filed by the plaintiff on February 5, 2024. The defendant, Don Bratton, allegedly failed to pay rent in excess of $50,000 and the process server made five attempts to personally serve him with the summons. When the defendant refused to open the door, the process server posted the summons and complaint on his door and sent a copy via certified mail. The defendant's attorney later offered to accept service on his behalf. The judge ruled that the return of process is prima facie evidence of proper service, and the defendant's denial of receipt of service is not sufficient to overcome the presumption of service. The defendant's motion was denied, and he was ordered to give notice.

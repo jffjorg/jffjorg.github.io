@@ -1,0 +1,64 @@
+Here is the summary in YAML format:
+
+```
+case_number: 21STCV24399
+hearing_date: 2024-04-24
+dept: 31
+party_names:
+  - Nima Sajjadi
+  - Sima Nobahar
+  - The Estate of Mahmood Sajjadi
+  - Dr. Robert Khorramian
+  - Dr. Ellie Goldstein
+  - The Rehabilitation Centre of Beverly Hills
+people_names:
+  - Nima Sajjadi
+  - Sima Nobahar
+  - Mahmood Sajjadi
+  - Dr. Robert Khorramian
+  - Dr. Ellie Goldstein
+company_names:
+  - The Rehabilitation Centre of Beverly Hills
+places:
+  - Los Angeles
+dates:
+  - 2024-02-26
+  - 2024-04-11
+  - 2024-04-24
+events:
+  - Wrongful death arising from medical malpractice
+  - Settlement agreement between Plaintiffs and The Centre
+  - Unopposed motion for determination of good faith settlement
+money:
+  - $250,000 (limit on general damages)
+  - $1,124 (cremation expenses)
+intention:
+  - To determine the good faith of the settlement agreement
+facts:
+  - Plaintiffs filed a wrongful death action against defendants
+  - Defendants provided medical care to Decedent Mahmood Sajjadi
+  - Decedent died due to cardiopulmonary arrest
+disputes:
+  - Plaintiffs' claims against defendants
+  - Good faith of the settlement agreement
+acts:
+  - Settlement agreement between Plaintiffs and The Centre
+agreements:
+  - Tech-Bilt, Inc. v. Woodward-Clyde & Associates (1985)
+  - Medical Injury Compensation Reform Act (MICRA)
+laws:
+  - CCP §877.6(d)
+  - MICRA
+roles:
+  - Judge: Hon. Michelle C. Kim
+  - Plaintiffs: Nima Sajjadi, Sima Nobahar, and The Estate of Mahmood Sajjadi
+  - Defendants: Dr. Robert Khorramian, Dr. Ellie Goldstein, and The Rehabilitation Centre of Beverly Hills
+significant_statements:
+  - The Centre's business is no longer operating and it does not have substantial assets.
+  - The settlement is generous considering Plaintiffs' weak case against it.
+  - The settlement is not aimed to injure the interests of non-settling co-defendants.
+```
+
+English-text summary:
+
+The judge, Hon. Michelle C. Kim, has issued a tentative ruling on a motion for determination of good faith settlement in the case of Nima Sajjadi, Sima Nobahar, and The Estate of Mahmood Sajjadi (Plaintiffs) vs. Dr. Robert Khorramian, Dr. Ellie Goldstein, and The Rehabilitation Centre of Beverly Hills (Defendants). The Plaintiffs filed a wrongful death action against the defendants for medical malpractice. The defendants, who are also the defendants' insurers, have settled the case for an undisclosed amount. The Centre has moved for a determination of good faith settlement, which has been unopposed. The judge finds that the Centre has sufficiently addressed the Tech-Bilt factors to show that the settlement was made in good faith. The motion is therefore granted.

@@ -1,0 +1,65 @@
+Here is the summary in YAML format:
+
+```
+Case Number: 20STCV17143
+Plaintiff's Name: Ian Patterson
+Defendant's Name: AVX Design and Integration, Inc.
+People-Names:
+  - Ian Patterson
+  - AVX Design and Integration, Inc.
+Company-Names:
+  - AVX Design and Integration, Inc.
+Places:
+  - Los Angeles
+  - California
+  - Central District
+Dates:
+  - April 24, 2024
+  - May 20, 2020
+  - June 22, 2020
+  - June 24, 2020
+  - May 14, 2021
+  - January 19, 2023
+  - May 4, 2023
+Events:
+  - Motion to Compel Further Responses to Requests for Production of Documents
+  - Request for Judicial Notice
+  - Objections to Requests for Production of Documents
+  - Service of Responses
+  - Filing of Motion to Compel
+  - Filing of Opposition and Reply
+Money:
+  - $3,260 (amount of sanctions requested)
+  - $ (amount of sanctions awarded)
+Intentions:
+  - Plaintiff seeks to compel Defendant to provide further responses to Requests for Production of Documents
+  - Defendant seeks to deny Plaintiff's motion and avoid providing further responses
+Facts:
+  - Plaintiff served Defendant with Requests for Production of Documents on May 20, 2020
+  - Defendant filed a motion to compel arbitration on June 22, 2020
+  - Defendant served objection-only responses to Requests for Production of Documents on June 24, 2020
+  - Court granted Plaintiff's motion to compel arbitration on May 14, 2021
+Disputes:
+  - Timeliness of Plaintiff's motion to compel
+  - Merits of Defendant's objections to Requests for Production of Documents
+Acts:
+  - Service of Requests for Production of Documents
+  - Filing of Responses to Requests for Production of Documents
+  - Filing of Motion to Compel
+  - Filing of Opposition and Reply
+Agreements:
+  - None mentioned
+Laws:
+  - Code of Civil Procedure, section 2031.310
+  - Code of Civil Procedure, section 2031.250
+  - Code of Civil Procedure, section 2031.030
+  - California Rules of Court, rule 8.1115
+Statutes:
+  - California Code of Civil Procedure
+Roles:
+  - Plaintiff: Ian Patterson
+  - Defendant: AVX Design and Integration, Inc.
+Significant Statements:
+  - "The clock on a motion to compel begins to run once 'verified responses' or 'supplemental verified responses' are served." (Golf & Tennis Pro Shop, Inc. v. Superior Court (2022) 84 Cal.App.5th 127, 135)
+  - "The insertion of the word 'verified' before the word 'responses' necessarily requires [courts] to exclude from the provision what it does not mention – unverified responses." (Ibid.)
+  - "The court finds that the 45-day deadline begins only on the date of service of verified responses, such that Defendant's responses to the Requests for Production of Documents, which consisted of only objections and were not verified (and did not need to be verified (Code Civ. Proc., § 2031.250)), did not begin the 45-day time limit by which Plaintiff was required to file the pending motion."

@@ -1,0 +1,53 @@
+Here is the summary in YAML format:
+```
+case_number: unknown
+plaintiff_name: Petitioner
+defendant_name: Respondent
+people_names:
+  - DMV Hearing Officer
+companies:
+  - DMV (Department of Motor Vehicles)
+places: unknown
+dates:
+  - unknown
+events:
+  - Hearing Officer acted as advocate for DMV
+  - Petitioner refused PAS tests
+  - Chemical test refusal
+  - Sealing order
+  - Admissibility of Form DS367
+money: unknown
+intentions:
+  - Petitioner wants to dispute the Hearing Officer's decision
+  - Respondent wants to argue that Petitioner had notice of the chemical test refusal issue
+facts:
+  - Hearing Officer changed the hearing issues from a .08% hearing to a refusal hearing
+  - Petitioner refused the PAS tests
+  - Form DS367 stated that the PAS tests were "optional"
+disputes:
+  - Dispute over whether the Hearing Officer acted impartially
+  - Dispute over whether Petitioner had notice of the chemical test refusal issue
+acts:
+  - Hearing Officer's decision
+  - Petitioner's refusal of PAS tests
+  - Sealing order
+  - Admissibility of Form DS367
+agreements: unknown
+laws:
+  - California Vehicle Code
+  - Penal Code sections 851.91 and 851.92
+  - Balboa Ins. Co. v. Aguirre (1983)
+  - Unknown case citation (see text)
+roles:
+  - Judge
+  - Hearing Officer
+  - Petitioner
+  - Respondent
+  - DMV
+significant_statements:
+  - The court does not consider Petitioner's argument that the Hearing Officer acted as an advocate for DMV.
+  - The PAS tests were "optional" and Petitioner's refusal does not prove a chemical test refusal occurred.
+```
+And here is the English text to summarize the Judge's tentative ruling:
+
+The Judge is considering a dispute over a Hearing Officer's decision regarding a chemical test refusal. The Petitioner argues that the Hearing Officer acted as an advocate for the DMV, changed the hearing issues from a .08% hearing to a refusal hearing. The Respondent argues that the Petitioner had notice of the chemical test refusal issue because Form DS367 stated that the PAS tests were "optional" and the Petitioner refused them. The Judge does not consider the Petitioner's argument that the Hearing Officer acted as an advocate for the DMV. The Judge also finds that the Petitioner's refusal of the PAS tests does not prove a chemical test refusal occurred. The Judge is leaving certain issues, such as the scope of the sealing order and the admissibility of Form DS367, for an impartial DMV hearing officer to decide.

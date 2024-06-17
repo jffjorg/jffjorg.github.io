@@ -1,0 +1,75 @@
+Here is the summary in YAML format:
+
+```
+case_number: "Unknown"
+plaintiff's_name: "Unknown"
+defendant's_name: "Unknown"
+people_names:
+  - Controller
+  - State Auditor
+  - Los Angeles County Recorder
+  - Munger
+  - Moore
+  - Salma
+  - Capon
+company_names: []
+places:
+  - Los Angeles
+  - California
+dates:
+  - 1970
+  - 2008
+  - "Unknown"
+events:
+  - Audit
+  - Refund
+  - Conversion
+  - Tort
+  - Restitution
+  - Reimbursement
+  - Damages
+money: "Unknown"
+intentions:
+  - Obtain relief
+  - Seek restitution
+  - Request reimbursement
+facts:
+  - Controller may not be proper entity for audits and refunds
+  - Los Angeles County Recorder not necessary to join for relief
+  - Conversion is a tort
+  - Claim for reimbursement distinct from seeking damages
+disputes:
+  - Proper entity for audits and refunds
+  - Need to join Los Angeles County Recorder
+acts:
+  - Performing audits and refunds
+  - Requesting restitution
+  - Seeking reimbursement
+agreements:
+  - "Unknown"
+laws:
+  - California Code of Civil Procedure
+  - California Civil Code
+  - California Code of Regulations
+case_citations:
+  - Munger v. Moore (1970) 11 Cal.App.3d 1
+  - Salma v. Capon (2008) 161 Cal.App.4th 1275
+  - Santa Clara (2008) 14 Cal.5th 1047
+statutes:
+  - California Code of Civil Procedure § 10.000
+  - California Civil Code § 1710
+  - California Code of Regulations § 1.1
+roles:
+  - Controller
+  - State Auditor
+  - Los Angeles County Recorder
+  - Plaintiff
+  - Defendant
+significant_statements:
+  - "Conversion is a tort"
+  - "Claim for reimbursement is distinct from seeking damages"
+```
+
+And here is the English-text summary:
+
+The Judge's tentative ruling states that regardless of whether the Controller is the proper entity for audits and refunds, the Los Angeles County Recorder does not need to be joined to obtain relief. The Judge also rules that the second cause of action, conversion, stands at this stage. The Judge notes that conversion is a tort, but the plaintiff's request for restitution is distinct from seeking damages.

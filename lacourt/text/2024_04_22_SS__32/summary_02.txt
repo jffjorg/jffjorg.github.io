@@ -1,0 +1,60 @@
+Here is the summary in YAML format:
+
+```
+case_number: 21STCV08823
+plaintiff_name: Cleotilde Armando Velasquez
+defendant_name: Samsa Management
+people_names: Christina S. Karayan, Jennifer Bagosy, Albert H. Gatchalian
+company_names: Samsa Management, Baten Windows
+places: 3316 Council Street, Los Angeles, CA 90003
+dates: 
+  - March 5, 2021
+  - September 8, 2018
+  - February 16, 2024
+  - March 19, 2024
+  - March 27, 2024
+  - April 22, 2024
+events: 
+  - Plaintiff files complaint
+  - Defendant moves for summary judgment
+  - Plaintiff opposes motion
+  - Court grants motion to relieve counsel
+  - Court sets new hearing date
+money: $465 (amount paid for window screen replacement)
+intentions: 
+  - Defendant to establish it is not liable for Plaintiff's injuries
+facts: 
+  - Plaintiff was installing window screens at the time of the incident
+  - Defendant hired Baten Windows to perform work at the property
+  - Plaintiff was employed by Baten Windows at the time of the incident
+  - Defendant paid Baten Windows $465 for window screen replacement
+disputes: 
+  - Whether Plaintiff was an employee or independent contractor
+  - Whether Defendant is liable for Plaintiff's injuries
+acts: 
+  - Defendant hired Baten Windows to perform work at the property
+  - Plaintiff was injured while installing window screens
+  - Defendant paid Baten Windows for window screen replacement
+agreements: 
+  - Business and Professions Code section 7048
+  - Labor Code section 2750.5
+laws: 
+  - Privette v. Superior Court (1993) 5 Cal.4th 689
+  - Gonzalez v. Mathis (2021) 12 Cal.5th 29
+  - Aguilar v. Atlantic Richfield Co. (2001) 25 Cal.4th 826
+  - Labor Code section 3602
+  - Business and Professions Code section 7048
+  - Labor Code section 2750.5
+roles: 
+  - Plaintiff (injured party)
+  - Defendant (Samsa Management)
+  - Baten Windows (contractor)
+  - Court (judge)
+significant_statements: 
+  - The Privette doctrine establishes a presumption that an independent contractor's hirer delegates to the contractor all responsibility for workplace safety.
+  - Business and Professions Code section 7048 applies to small construction projects with an aggregate contract price of less than $500.
+```
+
+And here is the summary in English text:
+
+The court's tentative ruling grants Defendant Samsa Management's motion for summary judgment/adjudication. The court finds that there are no triable issues of material fact that Plaintiff Cleotilde Armando Velasquez was an employee. The court relies on Business and Professions Code section 7048, which applies to small construction projects with an aggregate contract price of less than $500. The court also finds that the Privette doctrine applies, which establishes a presumption that an independent contractor's hirer delegates to the contractor all responsibility for workplace safety. The court concludes that Defendant Samsa Management is not liable for Plaintiff's injuries.

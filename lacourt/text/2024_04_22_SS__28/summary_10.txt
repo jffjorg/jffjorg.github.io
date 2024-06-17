@@ -1,0 +1,79 @@
+Here is the YAML summary of the tentative ruling:
+
+```
+case_number: 23STCV21989
+plaintiff_names:
+  - Nancy Rodriguez
+  - Oscar Anthony Garcia
+  - Christopher Eli Lepe
+defendant_name: Eddie James Washington, Jr.
+people_names:
+  - Nancy Rodriguez
+  - Oscar Anthony Garcia
+  - Christopher Eli Lepe
+  - Maria Rodriguez
+  - Eddie James Washington, Jr.
+company_names:
+  - GEICO General Insurance Company
+places:
+  - St. Andrews Place
+  - 49th Street
+  - Atlantic Avenue
+  - Long Beach, CA
+dates:
+  - September 12, 2023
+  - March 29, 2024
+  - March 11, 2025
+  - June 21, 2024
+events:
+  - Motor vehicle collision
+  - Settlement agreement
+  - Petition for expedited approval of compromise
+  - Order to Show Cause Re: Distribution of Net Settlements
+  - Order to Show Cause Re: Dismissal of Case (Settlement)
+money:
+  - $7,500.00
+  - $1,875.00
+  - $230.00
+  - $4,614.16
+  - $4,085.62
+  - $720.84
+  - $60.00
+intentions:
+  - To approve the compromise of the claims of minors Oscar Anthony Garcia and Christopher Eli Lepe
+facts:
+  - Oscar Anthony Garcia suffered back strain and arm contusion due to the collision
+  - Christopher Eli Lepe suffered sprain/strain of the thoracic spine due to the collision
+disputes:
+  - None
+acts:
+  - Settlement agreement between GEICO General Insurance Company and the claimants
+  - Petition for expedited approval of compromise filed by Petitioner Nancy Rodriguez and Maria Rodriguez
+  - Order to Show Cause Re: Distribution of Net Settlements and Re: Dismissal of Case (Settlement)
+agreements:
+  - Settlement agreement between GEICO General Insurance Company and the claimants
+laws:
+  - California Rules of Court, rule 7.950
+  - California Code of Civil Procedure, § 372
+  - California Probate Code, §§ 3500, 3600, et seq.
+  - Pearson v. Superior Court (2012) 202 Cal.App.4th 1333, 1338
+  - Barnes v. Western Heritage Ins. Co. (2013) 217 Cal.App.4th 249, 256
+  - Section 13a(1)
+  - Section 13a(3)
+  - Section 13a(4)
+case_citations:
+  - Pearson v. Superior Court (2012) 202 Cal.App.4th 1333, 1338
+  - Barnes v. Western Heritage Ins. Co. (2013) 217 Cal.App.4th 249, 256
+  - Cal. Rules of Court, rule 7.950
+  - Cal. Code Civ. Proc., § 372
+  - Cal. Prob. Code, §§ 3500, 3600, et seq.
+roles:
+  - Judge
+  - Plaintiff
+  - Defendant
+  - Attorney
+  - Party
+significant_statements:
+  - To obtain court approval of the settlement of a minor's claims, the petitioner must file a complete and "verified petition for approval of the settlement and must disclose 'all information that has any bearing upon the reasonableness of the compromise.'"
+  - The Court grants the petition for expedited approval of the compromise of minor Plaintiff Oscar Anthony Garcia's claims filed by Petitioner Nancy Rodriguez on March 29, 2024.
+  - The Court grants the petition for expedited approval of the compromise of minor Plaintiff Christopher Eli Lepe's claims filed by Petitioner Maria Rodriguez on March 29, 2024.

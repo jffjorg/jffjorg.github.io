@@ -1,0 +1,71 @@
+Here is the summary in YAML format:
+
+```
+case_number: 21STLC05153
+plaintiff: Stephanie Storey
+defendant: Christopher R. Mandry
+people:
+  - Stephanie Storey
+  - Christopher R. Mandry
+company-names: []
+places:
+  - Spring Street Courthouse
+dates:
+  - July 13, 2021
+  - March 9, 2022
+  - November 22, 2023
+  - March 29, 2023
+  - April 9, 2024
+  - April 16, 2024
+  - April 23, 2024
+  - May 6, 2024
+events:
+  - Filing of complaint
+  - Answer to complaint
+  - Motion to Compel Responses to Request for Production of Documents, Set One
+  - Grant of motion to compel
+  - Request for Sanctions
+  - Opposition to request for sanctions
+  - Reply to opposition
+money:
+  - $760.00
+intentions:
+  - To impose terminating sanctions
+facts:
+  - Plaintiff failed to produce documents
+  - Defendant filed motion for sanctions
+  - Plaintiff's counsel admits to non-compliance
+  - Plaintiff's counsel blames medical difficulties for non-compliance
+disputes:
+  - Plaintiff's failure to produce documents
+  - Defendant's request for terminating sanctions
+acts:
+  - Defendant filed motion for sanctions
+  - Plaintiff's counsel admitted to non-compliance
+  - Plaintiff's counsel blamed medical difficulties for non-compliance
+agreements:
+  - Code of Civil Procedure section 2023.030
+  - Code of Civil Procedure section 2023.010
+laws:
+  - Code of Civil Procedure
+  - California Civil Procedure Code
+case-citations:
+  - R.S. Creative, Inc. v. Creative Cotton, Ltd. (1999) 75 Cal.App.4th 486, 495
+  - Lang v. Hochman (2000) 77 Cal.App.4th 1225, 1246
+  - Van Sickle v. Gilbert (2011) 196 Cal.App.4th 1495, 1516
+  - Brown v. Sup. Ct. (1986) 180 Cal.App.3d 701, 707
+roles:
+  - Judge
+  - Plaintiff
+  - Defendant
+  - Plaintiff's counsel
+  - Defendant's counsel
+significant-statements:
+  - Plaintiff's failure to produce documents
+  - Defendant's request for terminating sanctions
+  - Judge's inclination to grant terminating sanctions if documents not produced by new hearing date
+```
+
+And here is the English-text summary:
+
+The Judge's tentative ruling is that Defendant Christopher R. Mandry's Motion for Sanctions is continued to May 6, 2024, at 10:00 AM in Department 26 of the Spring Street Courthouse. Both parties' counsel are required to appear at the hearing. If Plaintiff fails to demonstrate that the documents sought in the Request for Production, Set One, have been produced by the new hearing date, the Court will grant Defendant's request for terminating sanctions. The Judge is inclined to grant terminating sanctions if the documents are not produced by the new hearing date.

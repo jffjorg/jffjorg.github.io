@@ -1,0 +1,71 @@
+Here is the summary in YAML format:
+
+```
+case_number: 23GDCV01036
+plaintiff: Onik Khodaverdian
+defendant: Jirair Krikor Kiladjian and Montbleu Apartments, LLC
+people_names:
+  - Jirair Krikor Kiladjian
+  - Cecilia D. Torello
+  - Vance (Plaintiff's counsel)
+company_names:
+  - Montbleu Apartments, LLC
+  - Montrose Gardens Apartments
+places:
+  - California
+dates:
+  - 1/26/2024 (Demurrer hearing)
+  - 1/26/2024 (Minute Order)
+  - 3/13/2024 (Filing of Second Amended Complaint)
+  - 4/11/2024 (Filing of Opposition)
+  - 4/18/2024 (Hearing Date)
+  - 4/25/2024 (Continued Case Management Conference)
+  - 5/18/2024 (incorrectly scheduled hearing date)
+events:
+  - Demurrer hearing
+  - Filing of opposition
+  - Filing of Second Amended Complaint
+  - Motion to strike
+  - Case Management Conference
+money: None
+intentions:
+  - To strike Jirair Krikor Kiladjian from the Second Amended Complaint
+  - To add a new party to the complaint without permission
+facts:
+  - The Court granted leave to amend the complaint
+  - The plaintiff intended to add a new party
+  - The plaintiff did not provide case law or statutes to support its argument
+disputes:
+  - Whether the Court granted leave to amend the complaint
+  - Whether the plaintiff can add a new party to the complaint
+acts:
+  - Filing of motion to strike
+  - Filing of opposition
+  - Filing of Second Amended Complaint
+agreements: None
+laws:
+  - Code of Civil Procedure (CCP) § 436
+  - CCP § 437
+  - CCP § 431.10
+  - CCP § 473
+  - CCP § 435.5
+signifcant_statements:
+  - "A new party may not be added to an action by an amended complaint without permission of the court." (Phoenix of Hartford Ins. Companies v. Colony Kitchens)
+  - "Leave of court is required under section 473 of the Code of Civil Procedure to add new parties defendant." (Taliaferro v. Davis)
+  - "The court may, in furtherance of justice, and on any terms as may be proper, allow a party to amend any pleading or proceeding..." (CCP § 473(a))
+case_citations:
+  - Phoenix of Hartford Ins. Companies v. Colony Kitchens
+  - Taliafero v. Davis
+  - Nissan v. Barton
+  - Karp v. Dunn
+  - Schaefer v. Berinstein
+  - Ferraro v. Camarlinghi
+roles:
+  - Judge
+  - Plaintiff
+  - Defendant
+```
+
+And here is a summary of the judge's tentative ruling in English text:
+
+The tentative ruling grants the defendants' motion to strike Jirair Krikor Kiladjian from the Second Amended Complaint. The court finds that the defendants' argument that the plaintiff cannot add a new party to the complaint without permission is more persuasive. The court notes that the plaintiff's opposition is untimely and lacks evidence to support its argument. The court also finds that the plaintiff's counsel did not provide a transcript of the demurrer hearing, and the minute order is silent on the issue of adding new parties. The court grants the motion to strike, finding that the defendants' arguments are more persuasive than the plaintiff's.

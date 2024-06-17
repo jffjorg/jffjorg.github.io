@@ -1,0 +1,64 @@
+Here is the summary in YAML format:
+
+```
+case_number: 21STCV31813
+plaintiff_name: Andrew Vargas
+defendant_name: Dennis Keith Mitchell
+people:
+  - Andrew Vargas
+  - Dennis Keith Mitchell
+  - Neil Stein
+  - Babak Doustkam
+company_names: []
+places:
+  - California
+  - Turlock
+dates:
+  - August 27, 2021
+  - February 24, 2023
+  - June 8, 2023
+  - August 30, 2019
+events:
+  - Automobile accident
+  - Negligence lawsuit
+  - Failure to appear for trial
+  - Dismissal of lawsuit
+  - Motion to set aside dismissal
+money:
+  - $500 (monetary sanctions)
+intentions:
+  - Set aside dismissal of lawsuit
+  - Continue lawsuit
+facts:
+  - Plaintiff did not appear for trial
+  - Case was dismissed
+  - Plaintiff's counsel made a mistake in filing the case
+  - Plaintiff's counsel is seeking to set aside the dismissal
+disputes:
+  - Negligence and negligence per se
+acts:
+  - Automobile accident
+  - Failure to appear for trial
+  - Dismissal of lawsuit
+  - Motion to set aside dismissal
+agreements: []
+laws:
+  - California Civil Procedure Code section 473
+  - Elston v. City of Turlock (1985)
+  - Kendall v. Barker (1988)
+statutes:
+  - California Civil Procedure Code section 473
+roles:
+  - Judge
+  - Plaintiff's counsel (Babak Doustkam)
+  - Defendant
+  - Plaintiff (Andrew Vargas)
+  - Neil Stein (former counsel)
+significant_statements:
+  - "To qualify for relief under section 473, the moving party must act diligently in seeking relief and must submit affidavits or testimony demonstrating a reasonable cause for the default."
+  - "The moving party has a double burden: He must show a satisfactory excuse for his default, and he must show diligence in making the motion after discovery of the default."
+```
+
+And here is a summary of the judge's tentative ruling in English:
+
+The judge has granted the plaintiff's motion to set aside the dismissal of the lawsuit. The plaintiff's counsel made a mistake in filing the case and missing the trial date, leading to the case being dismissed. The judge finds that the plaintiff has established that the dismissal occurred due to counsel's mistake, inadvertence, surprise, or neglect. The judge orders that the plaintiff's motion to set aside the dismissal is granted, and sets a trial setting conference at the same time. The judge also orders that the plaintiff and/or their counsel shall not be imposed with monetary sanctions in an amount of up to $500 for failure to file a proof of service in approximately 75 days.

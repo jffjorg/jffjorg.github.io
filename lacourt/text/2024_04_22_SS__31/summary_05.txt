@@ -1,0 +1,62 @@
+Here is the summary in YAML format:
+
+```
+case:
+  number: 22STCV30741
+  title: California Automobile Insurance Company vs Godwin Orkeh
+
+parties:
+  - plaintiff: California Automobile Insurance Company
+  - defendant: Godwin Orkeh
+
+people:
+  - William Martinez
+  - Ingrid Perez
+  - Godwin Orkeh
+
+companies:
+  - California Automobile Insurance Company
+
+places:
+  - California
+
+dates:
+  - April 22, 2024
+  - April 28, 2024
+
+events:
+  - Motor vehicle collision
+  - Payment of damages and uninsured motorist coverage
+  - Filing of default judgment application
+
+money:
+  - $59,798.89 (principal damages)
+  - $523.10 (costs)
+  - $4,798.89 (property damages)
+  - $55,000 (uninsured motorist coverage)
+
+intentions:
+  - Plaintiff seeks damages for property damage and uninsured motorist coverage payments
+
+facts:
+  - Plaintiff paid $4,798.89 in property damages and $55,000 in uninsured motorist coverage payments
+  - Plaintiff seeks $59,798.89 in principal damages and $523.10 in costs
+
+disputes:
+  - Amount of damages sought exceeds the amount pled in the operative complaint/cross-complaint
+
+acts:
+  - Plaintiff paid benefits to its insured
+  - Plaintiff filed a default judgment application
+
+agreements:
+  - Plaintiff and defendant do not have an agreement
+
+laws:
+  - California Code of Civil Procedure, Section 580(a)
+  - Airs Aromatics, LLC v. CBL Data Recovery Technologies, Inc. (2018) 23 Cal.App.5th 1013, 1018
+```
+
+And here is the English-text summary of the judge's tentative ruling:
+
+The court has granted plaintiff California Automobile Insurance Company's application for default judgment against defendant Godwin Orkeh in the principal amount of $59,798.89 and $523.10 in costs. The judgment is based on the plaintiff's payment of $4,798.89 in property damages and $55,000 in uninsured motorist coverage payments to its insured, William Martinez, as a result of a motor vehicle collision. The court limited the amount of damages sought to the amount pled in the operative complaint/cross-complaint.

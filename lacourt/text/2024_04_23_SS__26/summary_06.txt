@@ -1,0 +1,77 @@
+Here is the summary in YAML format:
+
+```
+case_number: 23NWLC06802
+plaintiff: Creditors Adjustment Bureau, Inc.
+defendant: Daniel H. Lübel, aka Dan H. Lubel, aka Daniel Lubel, aka Daniel Lpbel, aka Dan Lubel, dba DL Builders
+people:
+  - Daniel H. Lübel
+  - Dan H. Lubel
+  - Daniel Lubel
+  - Daniel Lpbel
+  - Dan Lubel
+company_names:
+  - Creditors Adjustment Bureau, Inc.
+  - DL Builders
+places:
+  - Spring Street Courthouse
+  - Department 25
+  - Department 26
+dates:
+  - March 13, 2023
+  - May 19, 2023
+  - July 20, 2023
+  - November 8, 2023
+  - December 22, 2023
+  - March 1, 2024
+  - March 21, 2024
+  - April 23, 2024
+events:
+  - Breach of contract
+  - Open book account
+  - Account stated
+  - Reasonable value
+  - Motion to dismiss
+money: None
+intentions:
+  - To dismiss the case
+facts:
+  - Defendant filed a motion to dismiss
+  - Plaintiff filed an opposition to the motion
+  - Defendant failed to provide a sufficient legal basis for dismissal
+disputes:
+  - Whether the case should be dismissed
+acts:
+  - Filing of the complaint
+  - Filing of the answer
+  - Filing of the motion to dismiss
+  - Filing of the opposition
+agreements:
+  - None
+laws:
+  - California Code of Civil Procedure, section 1010
+  - California Rules of Court, rule 3.1110(a)
+  - California Rules of Court, rule 3.1113(b)
+  - California Rules of Court, rule 3.1113(a), (b)
+  - In re Marriage of Falcone & Fyke (2012) 203 Cal.App.4th 964, 976
+case_citations:
+  - Code Civ. Proc., § 1010
+  - Cal. Rules of Court, rule 3.1110(a)
+  - Cal. Rules of Court, rule 3.1113(b)
+  - Cal. Rules of Court, rule 3.1113(a), (b)
+  - 203 Cal.App.4th 964, 976
+statutes:
+  - California Code of Civil Procedure, section 1010
+  - California Rules of Court, rule 3.1110(a)
+  - California Rules of Court, rule 3.1113(b)
+roles:
+  - Judge
+  - Plaintiff (Creditors Adjustment Bureau, Inc.)
+  - Defendant (Daniel H. Lübel, aka Dan H. Lubel, aka Daniel Lubel, aka Daniel Lpbel, aka Dan Lubel, dba DL Builders)
+significant_statements:
+  - Defendant's motion to dismiss is denied
+```
+
+And here is the summary in English text:
+
+The tentative ruling denies the defendant's motion to dismiss the case. The plaintiff, Creditors Adjustment Bureau, Inc., filed a complaint alleging causes of action for breach of contract, open book account, account stated, and reasonable value. The defendant, Daniel H. Lübel, filed an answer to the complaint and later filed a motion to dismiss. The court found that the defendant's motion lacked sufficient legal basis and failed to provide relevant authority to support the request to dismiss the case. The court cited California Code of Civil Procedure section 1010 and California Rules of Court rules 3.1110(a) and 3.1113(b) in support of its decision.

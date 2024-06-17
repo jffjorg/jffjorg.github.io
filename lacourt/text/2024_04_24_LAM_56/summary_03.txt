@@ -1,0 +1,40 @@
+Here is a summary of the tentative ruling in YAML format:
+
+```
+---
+judge: Holly J. Fujie
+case_number: 23STCV31516
+hearing_date: April 24, 2024
+department: 56
+
+parties:
+  - Plaintiff: Kevin Hart
+  - Plaintiff: K. Hart Enterprises, Inc.
+  - Defendant: Miesha Shakes
+  - Defendant: Latasha Transrina Kebe
+  - Defendant: Yelen Entertainment LLC
+
+issues:
+  - Civil Extortion
+  - Intentional Interference with Contractual Relations
+  - Invasion of Privacy
+  - Defamation
+
+ruling:
+  - GRANTED: Hart and KHE's first cause of action for civil extortion
+  - GRANTED: KHE's fourth cause of action for invasion of privacy
+  - GRANTED: KHE's fifth cause of action for defamation
+  - DENIED: Second cause of action for intentional interference with contractual relations
+  - DENIED: Hart's fourth cause of action for invasion of privacy
+  - DENIED: Hart's fifth cause of action for defamation
+
+notes:
+  - The motion is GRANTED in part and DENIED in part.
+  - The moving parties are ordered to give notice of this ruling.
+  - Parties who intend to submit on this tentative must send an email to the court.
+  - If the department does not receive an email and there are no appearances at the hearing, the motion will be placed off calendar.
+```
+
+And here is a summary of the tentative ruling in English text:
+
+The tentative ruling grants the special motion to strike in part and denies it in part. The motion is granted as to Hart and KHE's first cause of action for civil extortion, KHE's fourth cause of action for invasion of privacy, and KHE's fifth cause of action for defamation. The motion is denied as to the second cause of action for intentional interference with contractual relations, Hart's fourth cause of action for invasion of privacy, and Hart's fifth cause of action for defamation. The moving parties are ordered to give notice of this ruling, and parties who intend to submit on this tentative must send an email to the court.

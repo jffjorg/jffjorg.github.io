@@ -1,0 +1,35 @@
+Here is the YAML summary of the tentative ruling:
+
+```
+case_number: 23STCV08440
+hearing_date: 2024-04-26
+judge: Hon. Jon R. Takasugi
+department: 17
+
+parties:
+  - plaintiff: JOSE GUADALUPE SOTO-RODRIGUEZ, et al.
+  - defendant: AKG TRADING (USA) INC., et al.
+
+summary:
+  - Plaintiff's motion to quash service of summons is denied.
+  - Defendant's motion to quash service of summons based on lack of jurisdiction is continued.
+
+facts:
+  - Plaintiff filed a first amended complaint against 39 defendants.
+  - Defendant, Cosentino Group, moved for an order quashing service of summons and dismissing the action.
+  - Plaintiff served Defendant through personal service in British Columbia, Canada.
+
+laws:
+  - California Code of Civil Procedure § 418.10(a)(1)
+  - Article 10 of the Hague Service Convention
+
+arguments:
+  - Defendant argued that service was not proper under the Hague Service Convention.
+  - Plaintiff argued that service was proper under California law and the Due Process Clause.
+
+ruling:
+  - The court denied Defendant's motion to quash service of summons.
+  - The court continued Defendant's motion to quash service of summons based on lack of jurisdiction to a future hearing date.
+```
+
+Note that this summary is a condensed version of the original document and may not capture all the details and nuances of the ruling.

@@ -1,0 +1,65 @@
+Here is the summary in YAML format:
+
+```
+case_number: 22STCV13087
+plaintiff_name: Albert Santa
+defendant_name: Sky Asset Management, Inc. and Sky Remodeling, Inc.
+people_names:
+  - Albert Santa
+  - Janneth Ortega
+  - Reza Haghshenas
+  - Tzivika Diner
+  - Kristina Unanyan
+company_names:
+  - Sky Asset Management, Inc.
+  - Sky Remodeling, Inc.
+places:
+  - Los Angeles
+dates:
+  - 04/19/22: Complaint filed
+  - 12/20/23: Cross-Complaint filed
+  - 02/22/2024: Hearing for unlawful detainer action
+  - 02/27/2024: Meeting with Reza Haghshenas
+  - 02/29/2024: Meeting with Reza Haghshenas
+  - 03/05/2024: Meeting with Reza Haghshenas
+  - 03/06/2024: Deadline to move out of property
+events:
+  - Unlawful detainer action
+  - Settlement agreement
+money:
+  - $25,000
+  - $50,000
+intentions:
+  - Plaintiff seeks to rescind the settlement agreement due to duress, menace, and undue influence.
+facts:
+  - Plaintiff and defendants entered into a settlement agreement
+  - Plaintiff alleges that the agreement was improperly procured by duress, menace, and undue influence
+  - Plaintiff's counsel states that they had no knowledge of the events leading up to the settlement agreement
+  - Reza Haghshenas threatened Plaintiff and his family if they did not reach a settlement
+disputes:
+  - Whether the settlement agreement was properly procured
+  - Whether Plaintiff's counsel had knowledge of the events leading up to the settlement agreement
+acts:
+  - Plaintiff's counsel presented every settlement offer from defendants to Plaintiff
+  - Haghshenas misrepresented that Plaintiff's counsel had not conveyed prior settlement offers to Plaintiff
+  - Haghshenas threatened Plaintiff and his family if they did not reach a settlement
+agreements:
+  - Settlement agreement between Plaintiff and defendants
+laws:
+  - California Civil Code sections 1689(b), 1569, and 1570
+case_citations:
+  - Civ. Code § 1689(b)
+  - Civ. Code § 1569
+  - Civ. Code § 1570
+statutes:
+  - California Civil Code
+roles:
+  - Judge Theresa M. Traber
+significant_statements:
+  - "The Court concludes there was actual duress, finding Haghshenas's general denials to be less credible than Plaintiff's detailed testimony of the discussions which took place."
+  - "The Court finds good cause to rescind the settlement."
+```
+
+And here is a summary of the judge's tentative ruling in English text:
+
+The judge grants Plaintiff's motion to rescind the settlement agreement. The agreement was improperly procured by duress, menace, and undue influence. The court concludes that there was actual duress, finding Haghshenas's general denials to be less credible than Plaintiff's detailed testimony of the discussions which took place. The court also finds that the agreement was secured by fraudulent inducement through Haghshenas's misrepresentation that Plaintiff's counsel had not conveyed prior settlement offers to him. The court rescinds the settlement agreement and restores the parties to their pre-settlement positions.

@@ -1,0 +1,60 @@
+Here is the summary in YAML format:
+
+```
+case_number: 23STCV17003
+hearing_date: April 26, 2024
+dept: 51
+judge: Upinder S. Kalra
+plaintiff: Shane Lichterman
+defendants: Baxter of California LLC, AMBI Enterprises LLC
+people: Shane Lichterman, Kerri Joyner
+companies: Baxter of California LLC, AMBI Enterprises LLC
+places: None
+dates:
+  - July 20, 2023
+  - September 20, 2023
+  - March 18, 2024
+  - April 15, 2024
+  - April 19, 2024
+  - April 26, 2024
+events:
+  - Filing of complaint
+  - Answer to complaint
+  - Motion to compel arbitration
+  - Opposition to motion to compel arbitration
+  - Reply to opposition
+money: None
+intentions:
+  - Compel arbitration
+  - Stay action pending arbitration
+facts:
+  - Plaintiff filed complaint against defendants
+  - Defendants filed answer to complaint
+  - Plaintiff and defendants dispute over arbitration agreement
+  - Defendants attached copy of arbitration agreement to motion
+disputes:
+  - Existence of arbitration agreement
+  - Applicability of agreement to dispute
+acts:
+  - Signing of arbitration agreement
+  - Review and signing of onboarding documents
+  - Logging into Insperity portal
+laws:
+  - California Code of Civil Procedure §1281.2
+  - California Rules of Court, rule 3.1330
+statutes:
+  - Labor Code §98.6
+  - Labor Code §1102.5
+roles:
+  - Judge: Upinder S. Kalra
+  - Plaintiff: Shane Lichterman
+  - Defendants: Baxter of California LLC, AMBI Enterprises LLC
+significant_statements:
+  - "The court ORDERS this action STAYED pending arbitration."
+  - "The AA is not substantively unconscionable."
+  - "The agreement is at most minimally procedurally unconscionable."
+```
+
+And here is a summary of the judge's tentative ruling in English:
+
+The judge has granted the motion to compel arbitration and stayed the action pending arbitration. The judge found that the arbitration agreement exists and applies to the dispute. The judge also found that the agreement is not procedurally or substantively unconscionable. The judge ordered the action stayed pending arbitration.

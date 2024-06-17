@@ -1,0 +1,71 @@
+Here is the summary in YAML format:
+
+```
+case_number: 21STLC09114
+hearing_date: 2024-04-24
+department: 25
+judge: unknown
+
+people:
+  - Elias Shokrian
+  - Benbaroukh, LLC
+
+companies:
+  - Benbaroukh, LLC
+
+places: []
+dates:
+  - 2024-04-24
+events:
+  - Plaintiff's Motion for Terminating Sanctions
+  - Plaintiff's Motion for Issue, Evidentiary, and/or Monetary Sanctions
+  - Request for terminating and monetary sanctions against Defendant Elias Shokrian
+  - Request for issue sanctions against Defendant Elias Shokrian
+  - Request for terminating sanctions against Defendant Benbaroukh, LLC
+  - Request for monetary sanctions against Defendant Benbaroukh, LLC
+  - Request for issue sanctions against Defendant Benbaroukh, LLC
+
+money: []
+intentions:
+  - Plaintiff seeks terminating, issue, evidentiary, and/or monetary sanctions against Defendant Elias Shokrian
+  - Plaintiff seeks terminating and monetary sanctions against Defendant Benbaroukh, LLC
+  - Plaintiff seeks issue sanctions against Defendant Benbaroukh, LLC
+
+facts:
+  - unknown
+  - unknown
+  - unknown
+
+disputes:
+  - unknown
+  - unknown
+
+acts:
+  - Plaintiff's Motion for Terminating Sanctions
+  - Plaintiff's Motion for Issue, Evidentiary, and/or Monetary Sanctions
+  - Request for terminating and monetary sanctions against Defendant Elias Shokrian
+  - Request for issue sanctions against Defendant Elias Shokrian
+  - Request for terminating sanctions against Defendant Benbaroukh, LLC
+  - Request for monetary sanctions against Defendant Benbaroukh, LLC
+  - Request for issue sanctions against Defendant Benbaroukh, LLC
+
+agreements: []
+laws: []
+case_citations: []
+statutes: []
+roles: []
+significant_statements:
+  - Plaintiff's Motion for Terminating Sanctions or, alternatively, Issue, Evidentiary, and/or Monetary Sanctions Against Defendant Elias Shokrian is GRANTED IN PART.
+  - Plaintiff's Motion for Terminating Sanctions or, alternatively, Issue, Evidentiary, and/or Monetary Sanctions Against Defendant Benbaroukh, LLC is GRANTED IN PART.
+  - The Court DENIES Plaintiff's request for terminating and monetary sanctions against Defendant Elias Shokrian.
+  - The Court DENIES Plaintiff's request for terminating sanctions against Defendant Benbaroukh, LLC as MOOT.
+  - The Court DENIES Plaintiff's request for monetary sanctions against Defendant Benbaroukh, LLC.
+  - The Court GRANTS Plaintiff's request for issue sanctions against Defendant Elias Shokrian.
+  - The Court GRANTS Plaintiff's request for issue sanctions against Defendant Benbaroukh, LLC.
+```
+
+Here is the English text to summarize the judge's tentative ruling:
+
+The court has granted part of the plaintiff's motion for terminating sanctions or, alternatively, issue, evidentiary, and/or monetary sanctions against defendant Elias Shokrian. Specifically, the court has granted the plaintiff's request for issue sanctions against Elias Shokrian, but has denied the request for terminating and monetary sanctions.
+
+The court has also granted the plaintiff's motion for issue sanctions against Defendant Benbaroukh, LLC, but has denied the request for terminating and monetary sanctions against Benbaroukh, LLC. The court has also denied the request for monetary sanctions against Benbaroukh, LLC, as it has become moot.

@@ -1,0 +1,66 @@
+Here is the summary in YAML format:
+
+```
+case_number: 22STCV01026
+plaintiffs_name: Jamila Thomas
+defendants_name:
+  - Rogelio Solis
+  - Maria Solis (Doe 1)
+  - Juan Solis (Doe 2)
+people_names:
+  - Jamila Thomas
+  - Rogelio Solis
+  - Maria Solis
+  - Juan Solis
+  - Lee C. Arter
+company_names: []
+places: []
+dates:
+  - January 10, 2022
+  - March 8, 2022
+  - July 27, 2022
+  - December 12, 2023
+  - March 26, 2024
+  - April 18, 2024
+  - July 10, 2024
+events:
+  - Filing of complaint
+  - Amendment of complaint
+  - Filing of answer
+  - Entry of default
+  - Filing of motion to be relieved as counsel
+  - Hearing on motion to be relieved as counsel
+money: []
+intentions:
+  - To relieve Lee C. Arter as counsel for Jamila Thomas
+facts:
+  - Lee C. Arter filed a motion to be relieved as counsel
+  - Lee C. Arter submitted completed MC-051, MC-052, and MC-053 forms
+disputes: []
+acts:
+  - Lee C. Arter filed a motion to be relieved as counsel
+  - The court granted the motion
+agreements: []
+laws:
+  - California Rules of Court, rule 3.1362
+  - Code of Civil Procedure section 284(2)
+  - Code of Civil Procedure section 1013
+  - Code of Civil Procedure section 1010.6
+  - Code of Civil Procedure section 1011(b)
+  - Code of Civil Procedure section 284(1)
+  - Code of Civil Procedure section 284(2)
+  - Rule 2.251
+stats: []
+roles:
+  - Judge
+  - Counsel (Lee C. Arter)
+  - Plaintiff (Jamila Thomas)
+  - Defendant (Rogelio Solis, Maria Solis, Juan Solis)
+significant_statements:
+  - The court granted the motion to relieve Lee C. Arter as counsel for Jamila Thomas.
+  - Counsel complied with the requirements of California Rules of Court, rule 3.1362.
+```
+
+And here is a summary of the judge's tentative ruling in English text:
+
+The judge's tentative ruling grants the motion of Lee C. Arter to be relieved as counsel for Jamila Thomas. The court finds that counsel has complied with the requirements of California Rules of Court, rule 3.1362. The court orders that counsel be relieved as counsel for Jamila Thomas upon filing proof of service on Jamila Thomas of the Order Granting Attorney's Motion to Be Relieved as Counsel--Civil (Judicial Council form MC-053).

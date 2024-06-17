@@ -1,0 +1,58 @@
+Here is the summary in YAML format:
+
+```
+case_number: 19STCV33111
+plaintiff: Princess Obienu
+defendant: County of Los Angeles
+people:
+  - Princess Obienu
+  - Jon R. Takasugi
+company_names:
+  - County of Los Angeles Department of Health Services
+places:
+  - Los Angeles
+  - California
+dates:
+  - September 17, 2019
+  - April 9, 2024
+  - April 24, 2024
+events:
+  - Plaintiff's motion to compel further responses
+  - Defendant's opposition to the motion
+  - Court's tentative ruling
+money:
+  - Sanctions
+intentions:
+  - Plaintiff seeks to compel further responses to Requests for Production
+facts:
+  - Plaintiff alleges race/national origin discrimination
+  - Plaintiff alleges disability discrimination
+  - Plaintiff alleges failure to accommodate disability
+  - Plaintiff alleges violation of the California Family Rights Act
+disputes:
+  - Plaintiff's claims against the defendant
+acts:
+  - Plaintiff's motion to compel further responses
+  - Defendant's opposition to the motion
+agreements:
+  - Parties' efforts to meet and confer
+laws:
+  - California Family Rights Act
+  - Interference with Family Leave Rights
+  - Retaliation
+case_citations:
+  - California Family Rights Act
+statutes:
+  - California Family Rights Act
+roles:
+  - Plaintiff: Princess Obienu
+  - Defendant: County of Los Angeles
+  - Judge: Hon. Jon R. Takasugi
+significant_statements:
+  - The Court declines to award sanctions at this time.
+  - The substance of the motion is moot.
+```
+
+And here is the English-text summary of the judge's tentative ruling:
+
+The court has reviewed the plaintiff's motion to compel further responses to Requests for Production (RFP) and has determined that the motion is moot. The defendant has supplemented their responses and provided all non-privileged responsive documents as of April 9, 2024. The court does not find it necessary to award sanctions at this time, given the parties' efforts to meet and confer. The plaintiff's motion to compel further responses is denied.

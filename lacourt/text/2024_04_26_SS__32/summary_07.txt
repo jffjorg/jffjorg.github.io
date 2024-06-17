@@ -1,0 +1,52 @@
+Here is the YAML representation of the tentative ruling:
+
+```
+case_number: "Unknown"
+plaintiff_name: "Unknown"
+defendant_name: "Unknown"
+people_names:
+  - Brennon B.
+company_names: []
+places: []
+dates:
+  - "initially set for trial"
+  - "30 days of the date the action is initially set for trial"
+  - "whichever is later"
+events:
+  - "motion for judgment on the pleadings"
+  - "pretrial conference order"
+money: []
+intentions:
+  - "to determine if public schools are 'business establishments'"
+facts:
+  - Public schools are governmental entities
+  - Public schools provide free and public education
+  - The Act was not enacted to reach state action
+disputes:
+  - The definition of "business establishments"
+  - The applicability of the Act to public schools
+acts:
+  - The provision of a free and public education
+  - The non-application of the Act to public schools
+agreements: []
+laws:
+  - Code of Civil Procedure
+  - Code of Civil Code, Section 51, subdivision (b)
+  - Civil Code, Section 51, subdivision (b)
+  - Brennon B., supra, 13 Cal.5th at 669
+statutes:
+  - Code Civ. Proc. § 438(e)
+  - Civ. Code, § 51, subd. (b)
+roles:
+  - Judge
+  - Plaintiff
+  - Defendant
+significant_statements:
+  - Public schools are not 'business establishments'
+  - The Act was not enacted to reach state action
+  - The provision of a free and public education is a governmental function
+```
+
+And here is the English-text summary of the judge's tentative ruling:
+
+The judge's tentative ruling discusses the applicability of the Act to public schools. The judge notes that under the Code of Civil Procedure, a motion for judgment on the pleadings cannot be made if a pretrial conference order has been entered or within 30 days of the trial date, whichever is later. The judge also cites prior case law and statutory text to conclude that public schools, as governmental entities engaged in providing a free and public education, are not "business establishments" within the meaning of the Act. The judge's ruling suggests that the Act was not enacted to reach state action, and therefore, does not apply to public schools.

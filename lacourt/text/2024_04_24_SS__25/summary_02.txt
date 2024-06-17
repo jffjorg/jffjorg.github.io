@@ -1,0 +1,71 @@
+Here is the YAML summary:
+
+```
+---
+case_number: unknown
+plaintiff_name: Labor Commissioner, State of California
+defendant_names:
+  - Benbaroukh, LLC
+  - Shokrian, Elias
+  - Villegas, Edward (aka Eduardo Villegas)
+people_names:
+  - Diaz-Weaver
+company_names:
+  - Benbaroukh, LLC
+places:
+  - 13755 Roscoe Boulevard, Panorama City, CA 91402
+dates:
+  - December 29, 2021 (Complaint filed)
+  - September 22, 2022 (Answer and Cross-Complaint filed)
+  - April 11, 2024 (Motions to Compel filed)
+  - April 22, 2024 (OSC re: Status of Defendant Benbaroukh's Legal Representation)
+  - November 15, 2023 (Order Compelling Depositions)
+  - February 7, 2024 (Motion to be Relieved as Counsel filed)
+  - March 20-21, 2024 (Motions for Terminating Sanctions filed)
+  - April 30, 2024 (Non-jury trial set)
+events:
+  - Foreclosure of mechanic's lien
+  - Unpaid regular wages
+  - Overtime wages (Labor Code § 510)
+  - Liquidated damages (Labor Code § 1194.2)
+  - Waiting time penalties (Labor Code § 203)
+  - Unreimbursed business expenses and attorney's fees (Labor Code § 2802)
+  - Itemized wage statements (Labor Code § 226)
+  - Late payment of wages (Labor Code § 210)
+money:
+  - $1,400.00 in monetary sanctions
+  - $1,800.00 in monetary sanctions (requested)
+intentions:
+  - To impose terminating sanctions on Defendants Benbaroukh and Shokrian
+  - To impose issue sanctions on Defendants Benbaroukh and Shokrian
+facts:
+  - Defendants failed to comply with court orders
+  - Plaintiffs filed motions to compel depositions and production of documents
+  - Court issued order compelling depositions and imposing monetary sanctions
+  - Defendants failed to pay monetary sanctions
+  - Plaintiffs filed motions for terminating and issue sanctions
+disputes:
+  - Defendants' failure to comply with court orders
+  - Plaintiffs' request for terminating and issue sanctions
+acts:
+  - Filing of complaint
+  - Filing of answer and cross-complaint
+  - Filing of motions to compel
+  - Filing of motions for terminating and issue sanctions
+agreements:
+  - None
+laws:
+  - California Code of Civil Procedure (Code Civ. Proc.)
+statutes:
+  - Labor Code (Labor Code)
+roles:
+  - Plaintiff: Labor Commissioner, State of California
+  - Defendant: Benbaroukh, LLC and Shokrian, Elias
+significant_statements:
+  - "The discovery statutes evince an incremental approach to discovery sanctions, starting with monetary sanctions and ending with the ultimate sanction of termination."
+  - "Discovery sanctions should be appropriate to the dereliction, and should not exceed that which is required to protect the interests of the party entitled to but denied discovery."
+```
+
+And here is the English-text summary:
+
+The court has issued a tentative ruling regarding a lawsuit filed by the Labor Commissioner, State of California, against defendants Benbaroukh, LLC, and Shokrian, Elias. The lawsuit alleges causes of action for foreclosure of a mechanic's lien, unpaid regular wages, overtime wages, liquidated damages, waiting time penalties, unreimbursed business expenses and attorney's fees, and itemized wage statements. The defendants failed to comply with court orders, and the court has imposed monetary sanctions against them. The plaintiffs have filed motions for terminating and issue sanctions against the defendants. The court has granted the motions in part, imposing issue sanctions against both defendants.

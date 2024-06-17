@@ -1,0 +1,68 @@
+Here is the summary of the tentative ruling in YAML format:
+
+```
+case_number: 21STCV28191
+hearing_date: 2024-04-25
+department: 74
+plaintiff_name: Kevin Blackman
+defendant_names:
+  - Transdev Services, Inc.
+  - Transdev North America, Inc.
+  - Timothy Grensavitch
+people_names:
+  - Kevin Blackman
+  - Timothy Grensavitch
+company_names:
+  - Transdev Services, Inc.
+  - Transdev North America, Inc.
+places: none
+dates:
+  - 2021-07-30 (complaint filed)
+  - 2023-02-23 (motion for summary judgment filed)
+  - 2023-05-12 (initial hearing date)
+events:
+  - motion for summary judgment or summary adjudication
+  - employment dispute
+  - race discrimination
+  - disability discrimination
+  - racial harassment
+  - disability harassment
+  - retaliation
+  - intentional infliction of emotional distress
+money: none
+intentions:
+  - to deny Defendants' motion for summary judgment or summary adjudication
+facts:
+  - Plaintiff Kevin Blackman filed a complaint against Defendants
+  - Defendants filed a motion for summary judgment or summary adjudication
+  - The court considered the moving papers, opposition, and reply
+disputes:
+  - race discrimination
+  - disability discrimination
+  - racial harassment
+  - disability harassment
+  - retaliation
+  - intentional infliction of emotional distress
+acts:
+  - filing of a complaint
+  - filing of a motion for summary judgment
+agreements: none
+laws:
+  - Code of Civil Procedure section 437c
+  - Code of Civil Procedure section 1010.6
+  - Code of Civil Procedure section 12
+  - Code of Civil Procedure section 12c
+  - California Rules of Court, rule 1.10
+statutes:
+  - Fair Employment and Housing Act (FEHA)
+  - Labor Code section 1102.5
+  - Civil Code section 43
+roles: none
+significant_statements:
+  - The court denies Defendants' motion for summary judgment because it is untimely.
+  - The court considered the moving papers, opposition, and reply.
+```
+
+And here is the summary in English text:
+
+The court has issued a tentative ruling denying the defendants' motion for summary judgment or summary adjudication. The defendants filed the motion on February 23, 2023, but the court determined that the motion was untimely because it was not served 75 days before the initial hearing date of May 12, 2023. The court based its decision on California Code of Civil Procedure sections 437c and 1010.6, which require that notice of a motion for summary judgment be served at least 75 days before the hearing date. The defendants' failure to serve their notice and motion on time means that their motion is untimely and will be denied.

@@ -1,0 +1,72 @@
+Here is the YAML representation of the tentative ruling:
+
+```
+Case Number: 23SMCV05319
+Plaintiff's Name: Paolinetti
+Defendant's Name: City of West Hollywood
+People Names:
+  - Halpern (counsel)
+Company Names: None
+Places:
+  - West Hollywood
+  - Los Angeles
+  - Google
+Dates:
+  - December 30, 2022 (incident date)
+  - August (counsel's investigation start date)
+  - September 15, 2023 (application for late claim filing)
+  - September 18, 2023 (rejection of application)
+  - April 22, 2024 (hearing date)
+Events:
+  - Trip and fall
+  - Government tort claim filing
+  - Application for late claim filing
+  - Rejection of application
+Money: None
+Intentions:
+  - Plaintiff seeks relief from Government Code Section 945.4 requirements
+  - Defendant argues plaintiff failed to show a statutory excuse for failing to meet the claims deadline
+Facts:
+  - Plaintiff alleges injury due to stepping into an unguarded tree well
+  - Plaintiff presented a tort claim to the City of Los Angeles, which was rejected by operation of law
+  - Plaintiff then presented an application to the City of West Hollywood for leave to present a late claim, which was rejected
+  - Counsel's investigation did not begin until after the statutory time to file a claim had run
+Disputes:
+  - Plaintiff's failure to present a timely claim
+  - Plaintiff's excuse for the delay (mistake, inadvertence, or excusable neglect)
+Acts:
+  - Plaintiff's presentation of a tort claim
+  - Plaintiff's application for leave to present a late claim
+  - Counsel's investigation and preparation for filing a suit
+  - Defendant's rejection of the application
+Agreements:
+  - Government Code Section 945.4
+  - Government Code Section 946.6
+  - Government Code Section 911.2
+  - Government Code Section 911.4(b)
+Laws:
+  - Government Code Section 945.4
+  - Government Code Section 946.6
+  - Government Code Section 911.2
+  - Government Code Section 911.4(b)
+Case Citations:
+  - City of Los Angeles v. Superior Court (1993) 14 Cal.App.4th 621, 627
+  - Bettencourt v. Los Rios Community College Dist. (1986) 42 Cal.3d 270, 276
+  - Dep't. of Water & Power v. Superior Court (2000) 82 Cal.App.4th 1288, 1293
+Statutes:
+  - Government Code Section 945.4
+  - Government Code Section 946.6
+  - Government Code Section 911.2
+  - Government Code Section 911.4(b)
+Roles:
+  - Plaintiff (Paolinetti)
+  - Defendant (City of West Hollywood)
+  - Counsel (Halpern)
+Significant Statements:
+  - "The mere recital of mistake, inadvertence, surprise or excusable neglect is not sufficient to warrant relief."
+  - "The party seeking relief must establish the failure to discover the fact in the exercise of reasonable diligence."
+```
+
+And here is the English text summarizing the judge's tentative ruling:
+
+The plaintiff, Paolinetti, is seeking relief from the Government Code Section 945.4 requirements to bring a timely government tort claim against the City of West Hollywood in a trip and fall matter. The plaintiff alleges that the late filing resulted from counsel's mistake, inadvertence, or excusable neglect. However, the court finds that the plaintiff has failed to show a statutory excuse for failing to meet the claims deadline. The plaintiff's failure to present a timely claim was not due to mistake, inadvertence, or excusable neglect, but rather due to the lack of diligence in investigating and pursuing the claim. The court therefore denies the plaintiff's petition for relief.

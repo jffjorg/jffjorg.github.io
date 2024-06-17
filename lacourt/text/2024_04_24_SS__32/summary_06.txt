@@ -1,0 +1,61 @@
+Here is the YAML summary of the tentative ruling:
+
+```
+case_number: 22STCV21891
+plaintiff: Latita Swan Washington
+defendant: Federal Express Corporation
+people: Tobias Mark Kane
+companies: Universal Protection Service, LP, Uniserve Facilities Services
+places: Los Angeles, California
+dates:
+  - July 7, 2022
+  - February 21, 2023
+  - January 4, 2024
+events:
+  - Plaintiff filed a complaint against Defendants
+  - Federal Express Corporation filed an answer and cross-complaint
+  - Universal Protection Service, LP moves to strike the cross-complaint
+  - Universal Protection Service, LP demurs to the cross-complaint
+  - Motion for leave to file a cross-complaint
+money: None mentioned
+intentions:
+  - To determine whether the cross-complaint should be stricken
+  - To determine whether the demurrer to the cross-complaint should be sustained
+facts:
+  - The cross-complaint was filed after the trial date was set
+  - The cross-complaint does not specify an express indemnity agreement
+  - The cross-complaint does not sufficiently allege the purported breach
+disputes:
+  - Whether the cross-complaint should be stricken
+  - Whether the demurrer to the cross-complaint should be sustained
+acts:
+  - Moving party: Universal Protection Service, LP
+  - Opposing party: Federal Express Corporation
+  - Court: Superior Court of the State of California
+agreements:
+  - Labor Code section 3864
+  - Code of Civil Procedure section 428.50
+  - Code of Civil Procedure section 430.41
+  - Code of Civil Procedure section 1060
+laws:
+  - California Code of Civil Procedure
+  - California Labor Code
+  - California Evidence Code
+citations:
+  - Code Civ. Proc. § 435
+  - Code Civ. Proc. § 436
+  - Code Civ. Proc. § 428.50
+  - Code Civ. Proc. § 430.41
+  - Code Civ. Proc. § 1060
+roles:
+  - Judge: [Name]
+  - Parties: Federal Express Corporation, Universal Protection Service, LP
+  - Counsel: [Name]
+significant_statements:
+  - The Court grants Universal's request for judicial notice of exhibits A–F
+  - The cross-complaint does not specify an express indemnity agreement
+  - The cross-complaint does not sufficiently allege the purported breach
+  - Labor Code section 3864 forecloses liability against Universal
+```
+
+Note that the above summary is a condensed version of the original document and may not capture all the details and nuances of the case.

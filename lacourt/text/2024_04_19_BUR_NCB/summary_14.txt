@@ -1,0 +1,54 @@
+Here is the summary in YAML format:
+
+```
+case_number: EC065694
+plaintiff's_name: Antranik Kevorkian
+defendant's_name: County of Los Angeles Sheriff's Department
+people_names:
+  - Antranik Kevorkian
+  - County of Los Angeles Sheriff's Department
+company_names: []
+places:
+  - Los Angeles
+dates:
+  - August 22, 2016
+  - February 26, 2021
+  - March 25, 2021
+events:
+  - Filing of lawsuit
+  - Hearing on motion to vacate prefiling order
+  - Denial of motion
+money: []
+intentions:
+  - To vacate prefiling order
+  - To remove from vexatious litigant list
+facts:
+  - Plaintiff filed lawsuit against Defendant
+  - Defendant issued prefiling order and placed Plaintiff on vexatious litigant list
+  - Plaintiff filed motion to vacate prefiling order and remove from vexatious litigant list
+disputes:
+  - Plaintiff's motion to vacate prefiling order and remove from vexatious litigant list
+acts:
+  - Filing of lawsuit
+  - Issuance of prefiling order and placement on vexatious litigant list
+  - Filing of motion to vacate prefiling order and remove from vexatious litigant list
+agreements: []
+laws:
+  - CCP § 391.7(a)
+  - CCP § 391.8
+case_citations:
+  - Hastings Action
+  - Sheriff Action
+statutes:
+  - CCP § 391.7(a)
+  - CCP § 391.8
+roles:
+  - Plaintiff: Antranik Kevorkian
+  - Defendant: County of Los Angeles Sheriff's Department
+significant_statements:
+  - The Court denied Plaintiff's motion to vacate the prefiling order and remove him from the vexatious litigant list.
+```
+
+And here is the English text summary:
+
+This tentative ruling concerns a case brought by Antranik Kevorkian against the County of Los Angeles Sheriff's Department. The Plaintiff filed a lawsuit in 2016 and subsequently filed a motion to vacate a prefiling order and remove himself from the vexatious litigant list. The Court denied this motion in 2021, finding that the motion was improperly filed in the wrong case and should have been filed in the Hastings Action.

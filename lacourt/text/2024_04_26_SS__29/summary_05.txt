@@ -1,0 +1,83 @@
+Here is the summary in YAML format:
+
+```
+case_number: 22STCV26716
+plaintiff: Antonio Manrriquez and Maria Manrriquez
+defendant: The Vons Companies, Inc.
+people:
+  - Antonio Manrriquez
+  - Maria Manrriquez
+  - Albertsons Companies, Inc.
+  - Pavilions Sherman Oaks
+  - Albertsons Companies, Inc. (erroneously sued as)
+  - Mitsubishi Electric US Inc.
+  - Albertson’s Companies, Inc.
+company:
+  - The Vons Companies, Inc.
+  - Albertsons Companies, Inc.
+  - Pavilions Sherman Oaks
+  - Mitsubishi Electric US Inc.
+places:
+  - California
+dates:
+  - August 17, 2022
+  - October 25, 2022
+  - January 17, 2023
+  - April 10, 2023
+  - March 29, 2024
+  - April 26, 2024
+  - June 13, 2024
+  - July 19, 2024
+  - October 15, 2024
+events:
+  - Premises liability
+  - General negligence
+  - Loss of consortium
+  - Breach of contract
+  - Express and implied indemnity
+  - Declaratory relief
+  - Contribution and apportionment
+money:
+  - None mentioned
+intentions:
+  - To continue trial due to mediation needs
+facts:
+  - Defendant filed a motion to continue trial
+  - Plaintiffs did not file an opposition
+  - Defendant showed good cause for a continuance
+disputes:
+  - None mentioned
+acts:
+  - Defendant filed a motion to continue trial
+  - Plaintiffs did not file an opposition
+  - Defendant showed good cause for a continuance
+agreements:
+  - Parties agreed to continue trial
+  - Parties agreed to mediation
+  - Signed stipulation attached
+laws:
+  - California Rules of Court, Rule 3.1332(c)
+  - California Rules of Court, Rule 3.1332(d)
+  - Code Civ. Proc. § 128(a)(8)
+  - Color-Vue, Inc. v. Abrams (1996)
+  - Park Motors, Inc. v. Cozens (1975)
+case_citations:
+  - None mentioned
+statutes:
+  - Code Civ. Proc. § 128(a)(8)
+  - California Rules of Court, Rule 3.1332(c)
+  - California Rules of Court, Rule 3.1332(d)
+roles:
+  - Judge
+  - Plaintiff
+  - Defendant
+  - Mediator
+significant_statements:
+  - Defendant showed good cause for a continuance
+  - Parties agreed to continue trial
+  - Motion to continue trial is GRANTED
+```
+
+And here is the English-text summary:
+
+The Tentative Ruling grants the Defendant's motion to continue the trial. The Defendant filed the motion on March 29, 2024, and no opposition was filed. The Court found that the Defendant showed good cause for a continuance, specifically that the parties need more time to participate in mediation. The parties have agreed to continue the trial, and a signed stipulation has been attached. The trial date is advanced and continued to October 15, 2024.

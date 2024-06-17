@@ -1,0 +1,59 @@
+Here is the summary in YAML format:
+
+```
+case_number: 24STCV05062
+plaintiff: Vig Private Lending, Inc.
+defendant: Ilan Kenig
+people_names:
+  - Vladimir Valsky
+company_names:
+  - Vig Private Lending, Inc.
+  - Yarden Consulting, LLC
+places:
+  - 1355 Berea Place, Pacific Palisades, CA 90272
+dates:
+  - February 29, 2024
+  - March 13, 2024
+  - April 24, 2024
+events:
+  - Unlawful detainer action
+  - Demurrer
+  - Verification of pleading
+  - Allegation of standing
+  - Assignment of right of possession
+money: None mentioned
+intentions:
+  - To determine the validity of the plaintiff's complaint
+facts:
+  - Plaintiff's complaint is not properly verified
+  - Plaintiff lacks standing to pursue the action
+  - Defendant's demurrer is sustained
+disputes:
+  - Whether the plaintiff's complaint is invalid
+acts:
+  - Plaintiff filed an unlawful detainer action
+  - Defendant demurred to plaintiff's complaint
+  - Defendant's demurrer was sustained
+agreements: None mentioned
+laws:
+  - CCP section 446
+  - H.G. Bittleson Law & Collection Agency v. Howard (1916)
+  - Akins v. State of California (1998)
+statutes:
+  - CCP section 446
+roles:
+  - Judge: Hon. Jon R. Takasugi
+  - Plaintiff: Vig Private Lending, Inc.
+  - Defendant: Ilan Kenig
+  - Property manager: Vladimir Valsky
+  - Officer of corporation: Vladimir Valsky
+significant_statements:
+  - Defendant's demurrer is sustained, with 5 days leave to amend
+  - Plaintiff's allegation of standing is insufficient
+  - Plaintiff's complaint is not properly verified
+  - Defendant's contention that plaintiff lacks standing is sustained
+```
+
+And here is the English text summarizing the judge's tentative ruling:
+
+The judge has issued a tentative ruling in the case of Vig Private Lending, Inc. v. Ilan Kenig. The defendant's demurrer to the plaintiff's complaint is sustained, with 5 days leave to amend. The plaintiff's complaint is not properly verified, as it was verified by a property manager rather than an officer of the corporation. Additionally, the plaintiff's allegation of standing is insufficient, as it does not demonstrate a right to possession of the property. The court grants the plaintiff 5 days to amend its complaint to cure these defects.

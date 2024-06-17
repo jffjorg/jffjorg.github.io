@@ -1,0 +1,52 @@
+Here is the YAML summary of the tentative ruling:
+
+```
+case_number: 23STCV14979
+plaintiff: Luis Robles
+defendant: FCA US LLC
+moving_party: Plaintiff
+responding_party: Defendant
+relief_requested: Motion to Compel Further Responses to Request for Production of Documents
+summary_of_action:
+  - Plaintiff filed a complaint against General Motors LLC for Violation of the Song-Beverly Act—Breach of Express Warranty, Violation of the Song-Beverly Act—Breach of Implied Warranty, Violation of the Song-Beverly Act Civil Code section 1793.2, and Violation of the Song Beverly Act Civil Code section 1793.22—Tanner Consumer Protection Act
+  - General Motors answered the complaint
+ruling: Granted
+dispute: Plaintiff moves to compel further responses to request for production of documents, numbers 13-16 and 34-35
+facts:
+  - Plaintiff seeks information relevant to make, model and year
+  - Defendant maintains Plaintiff failed to engage in a meaningful meet and confer effort
+  - Plaintiff reiterates the request for sanctions
+intentions:
+  - Plaintiff seeks to investigate and gather information
+  - Defendant seeks to limit discovery to relevant information
+acts:
+  - Plaintiff filed a complaint
+  - General Motors answered the complaint
+  - Plaintiff moves to compel further responses to request for production of documents
+agreements:
+  - None mentioned
+laws:
+  - Song-Beverly Act
+  - Civil Code of California
+  - Code of Civil Procedure
+  - Tanner Consumer Protection Act
+case_citations:
+  - Donlen v. Ford Motor Co. (2013) 217 Cal.App.4th 138, 153-154
+  - Oregel v. American Isuzu Motors, Inc. (2001) 90 Cal.App.4th 1094, 1101
+  - Ibrahim v. Ford Motor Co. (1989) 214 Cal.App.3d 878, 886-887, 263 Cal.Rptr. 64
+  - Calcor Space Facility, Inc. v. Superior Court (1997) 53 Cal.App.4th 216, 224-225
+  - Obregon v. Superior Court (1998) 67 Cal.App.4th 424, 431
+roles:
+  - Judge: 
+  - Plaintiff: Luis Robles
+  - Defendant: FCA US LLC
+significant_statements:
+  - The court will not allow open-ended and broad-based discovery
+  - The court will not impose any burden on the defendant to determine the cause of the purported defects
+  - The court will allow the plaintiff the opportunity to investigate
+  - The court will not engage in specific refinement of the inquiry into terms most likely within the domain of experts and persons most knowledgeable based on the operative complaint and phrased requested presented
+```
+
+And here is a summary of the tentatice ruling in English:
+
+The court grants the motion to compel further responses to the request for production of documents. The court finds that the requests are overbroad and lack sufficient articulation and indication limiting the inquiry into the indicated area of failure and attempted repair(s) to said parts or systems. The court declines to allow open-ended and broad-based discovery. The court orders General Motors to provide further, more factually articulated, code-conforming responses, which may also include a privilege log. The court imposes sanctions of $1,000 joint and severally imposed against both General Motors and counsel for General Motors.

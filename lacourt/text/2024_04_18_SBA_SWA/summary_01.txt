@@ -1,0 +1,50 @@
+Here is the summary in YAML format:
+```
+case_number: "TBD"
+plaintiff_name: "Plaintiffs"
+defendant_name: "Defendants"
+people_names:
+  - "Judge's Name"
+companies:
+  - "Utah LLCs"
+places:
+  - "Utah"
+dates:
+  - "December 6, 2023"
+events:
+  - "Ruling on Plaintiffs' MSJ"
+  - "Submission of Matter"
+money:
+  - "Amount: TBD"
+intentions:
+  - "Apply Utah law to dispute"
+  - "Enforce duty duplicates"
+facts:
+  - "Utah LLCs governed by identical operating agreements"
+  - "Utah law applies to dispute"
+disputes:
+  - "Scope of duty"
+  - "Breach of duty"
+acts:
+  - "Ruling on Plaintiffs' MSJ"
+  - "Submission of Matter"
+agreements:
+  - "Identical operating agreements"
+laws:
+  - "Utah law"
+  - "Applicable law"
+case_citations:
+  - "(December 6, 2023 Ruling on Submitted Matter-MSJ, pp. 5-7)"
+  - "(Id. at pp. 6-7)"
+  - "(December 6, 2023 Ruling on Submitted Matter-MSJ, “Breach of Duty,” pp. 9-10)"
+roles:
+  - "Judge"
+  - "Plaintiffs"
+  - "Defendants"
+significant_statements:
+  - "Utah LLCs governed by identical operating agreements"
+  - "Utah law applies to dispute"
+```
+And here is the English-text summary:
+
+The Court's tentative ruling finds that all four Utah LLCs are governed by identical operating agreements. The Court also finds that Utah law applies to this dispute. The ruling cites Utah law governing duty and scope of duty, and duplicates the citation of applicable law in the December 6, 2023 Submitted Ruling on Plaintiffs' MSJ.

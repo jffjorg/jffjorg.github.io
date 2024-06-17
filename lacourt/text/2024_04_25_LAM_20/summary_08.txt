@@ -1,0 +1,57 @@
+Here is the summary in YAML format:
+
+```
+case_number: "Not specified"
+plaintiff_name: "Jose Chavez"
+defendant_name: "Hof's Hut Restaurants, Inc."
+people_names:
+  - Jose Chavez
+  - Hof's Hut Restaurants, Inc.
+company_names:
+  - Hof's Hut Restaurants, Inc.
+places:
+  - None specified
+dates:
+  - Not specified
+events:
+  - Arbitration sought by defendant
+  - Plaintiff opposes stay of non-individual PAGA claims
+  - Judge grants motion to compel arbitration
+money:
+  - Not specified
+intentions:
+  - Defendant seeks to compel arbitration of plaintiff's claims
+  - Plaintiff opposes stay of non-individual PAGA claims
+facts:
+  - Arbitration agreement executed as part of employment
+  - Plaintiff's individual claims for damages and individual PAGA claim may be submitted to arbitration
+  - Representative PAGA claim may be stayed pending resolution of arbitration
+disputes:
+  - Whether non-individual PAGA claims should be stayed
+acts:
+  - Defendant seeks order compelling arbitration
+  - Plaintiff opposes stay of non-individual PAGA claims
+  - Judge grants motion to compel arbitration
+agreements:
+  - Arbitration agreement executed as part of employment
+  - PAGA claim to expand enforcement of Labor Code
+laws:
+  - Code Civ. Proc. § 1281.4
+  - Adolph v. Uber Techs., Inc. (2023) 14 Cal.5th 1104, 1125
+case_citations:
+  - Code Civ. Proc. § 1281.4
+  - Adolph v. Uber Techs., Inc. (2023) 14 Cal.5th 1104, 1125
+statutes:
+  - PAGA (Private Attorneys General Act)
+  - Labor Code
+roles:
+  - Judge: grants motion to compel arbitration
+  - Plaintiff: opposes stay of non-individual PAGA claims
+  - Defendant: seeks to compel arbitration
+significant_statements:
+  - "A stay of Plaintiff's non-individual PAGA claims is not required, and further, a stay would frustrate the PAGA's purpose, which is to expand, rather than minimize, enforcement of the Labor Code."
+```
+
+And here is the English-text summary:
+
+The tentative ruling is a judgment on a motion to compel arbitration in a wage and hour and PAGA suit. The defendant, Hof's Hut Restaurants, Inc., seeks to compel arbitration of the plaintiff's claims based on an arbitration agreement executed as part of the plaintiff's employment. The plaintiff, Jose Chavez, opposes the stay of non-individual PAGA claims, arguing that a stay would frustrate the purpose of PAGA, which is to expand enforcement of the Labor Code. The judge grants the motion to compel arbitration, but stays the representative PAGA claim pending the resolution of arbitration.

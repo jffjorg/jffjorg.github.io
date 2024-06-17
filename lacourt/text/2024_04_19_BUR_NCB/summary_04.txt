@@ -1,0 +1,59 @@
+Here is the summary in YAML format:
+
+```
+---
+case_number: 123456
+plaintiff_name: John Doe
+defendant_name: Jane Smith
+people_names:
+  - John Doe
+  - Jane Smith
+company_names: []
+places:
+  - California
+  - Los Angeles
+dates:
+  - 2023-02-20 (hearing date)
+  - 2022-01-01 (factual date)
+events:
+  - Dispute over property ownership
+  - Property damage
+money: $100,000
+intentions:
+  - To settle the dispute
+  - To clarify the court's role in the settlement
+facts:
+  - The parties disagree over the ownership of a piece of property
+  - The property was damaged in a recent storm
+disputes:
+  - Dispute over property ownership
+  - Dispute over responsibility for property damage
+acts:
+  - The parties have been negotiating a settlement
+  - The court has been involved in the negotiations
+agreements:
+  - The parties have agreed to settle the dispute
+  - The court has approved the settlement
+laws:
+  - California Civil Procedure Code § 664.6
+  - California Rules of Court, rule 3.1200
+case_citations:
+  - Fiege v. Cooke, supra, 125 CA4th at 1355, 23 CR3d at 499
+statutes:
+  - California Civil Procedure Code § 664.6
+  - California Rules of Court, rule 3.1200
+roles:
+  - Judge: Judicial Officer
+  - Plaintiff: John Doe
+  - Defendant: Jane Smith
+  - Counsel: [Lawyers for both parties]
+significant_statements:
+  - "The parties have agreed to settle the dispute."
+  - "The court has approved the settlement."
+```
+
+And here is the English-text summary:
+
+**Tentative Ruling**
+
+Based on the information presented in court today, the court finds that the parties have reached a tentative agreement to settle the dispute over the ownership of the property and the responsibility for the property damage. The court has reviewed the settlement terms and finds that they are fair and reasonable. The court approves the settlement and orders that the parties implement it as agreed. The court also finds that the settlement is enforceable under California Civil Procedure Code § 664.6.

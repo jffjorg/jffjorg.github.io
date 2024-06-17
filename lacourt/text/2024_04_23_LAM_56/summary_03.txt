@@ -1,0 +1,69 @@
+Here is the YAML representation of the tentative ruling:
+
+```
+---
+Case Number: "21STCV16066"
+Plaintiff's Name: Lauren Flores
+Defendant's Name: Amwest, Inc. et al.
+People-Names:
+  - Russell Kingsford
+  - Jeffer Agoncillo
+Company-Names:
+  - Amwest, Inc.
+Places:
+  - Los Angeles, California
+Dates:
+  - November 29, 2021
+  - March 21, 2022
+  - September 9, 2022
+  - October 4, 2022
+  - April 5, 2024
+  - April 10, 2024
+  - April 16, 2024
+  - April 23, 2024
+Events:
+  - Motion to lift stay and compel arbitration
+  - Opposition to motion to lift stay
+  - Reply to opposition
+Money:
+  - None specified
+Intentions:
+  - To grant or deny the motion to lift the stay and compel arbitration
+Facts:
+  - Plaintiff alleges employment-related claims against defendants
+  - Defendants argue that the motion is untimely and seeks reconsideration of a prior ruling
+  - Plaintiff seeks to compel arbitration of individual and representative PAGA claims
+Disputes:
+  - Whether the stay should be lifted and arbitration compelled
+  - Whether plaintiff's representative PAGA claims should be compelled into arbitration
+Acts:
+  - Plaintiff filed a motion to lift the stay and compel arbitration
+  - Defendants filed an opposition to the motion
+  - Plaintiff filed a reply to the opposition
+Agreements:
+  - Arbitration agreement between plaintiff and defendants
+Laws:
+  - California Code of Civil Procedure Section 1281.4
+  - Labor Code Section 2699(c)
+  - Private Attorney General Act (PAGA)
+Case Citations:
+  - Viking River Cruises, Inc. v. Moriana (2022) 142 S.Ct. 1906
+  - Adolph v. Uber Technologies, Inc. (2023) 14 Cal.5th 1104
+Statutes:
+  - California Code of Civil Procedure Section 1281.4
+  - Labor Code Section 2699(c)
+  - Private Attorney General Act (PAGA)
+Roles:
+  - Plaintiff: Lauren Flores
+  - Defendant: Amwest, Inc. et al.
+  - Judge: Hon. Holly J. Fujie
+Significant Statements:
+  - The court may lift the stay and compel arbitration if the circumstances are such that lifting the stay would not frustrate the arbitrator's jurisdiction.
+  - The arbitrator has the exclusive authority to resolve any dispute relating to the formation, interpretation, applicability, or enforceability of the arbitration agreement.
+  - A worker becomes an "aggrieved employee" with standing to litigate claims on behalf of fellow employees upon sustaining a Labor Code violation committed by their employer.
+  - Arbitrating a PAGA plaintiff's individual claim does not nullify the fact of the violation or extinguish the plaintiff's status as an aggrieved employee.
+```
+
+And here is a summary of the tentative ruling in English text:
+
+The court has considered the motion to lift the stay and compel arbitration of the plaintiff's individual and representative PAGA claims. The plaintiff seeks to compel arbitration of all claims, while the defendants argue that the motion is untimely and seeks reconsideration of a prior ruling. The court finds that the plaintiff's representative PAGA claims should be compelled into arbitration and grants the motion in part. The court sets a status conference for October 23, 2024, to discuss the status of the arbitration.

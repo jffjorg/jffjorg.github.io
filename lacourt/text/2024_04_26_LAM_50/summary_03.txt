@@ -1,0 +1,69 @@
+Here is the YAML summary of the tentative ruling:
+
+```yaml
+case_number: 22STCV34754
+hearing_date: 2024-04-26
+dept: 50
+plaintiff: The Testing Company, LLC (TTC)
+defendant: Enigma Management Corp. dba Alliance Laboratories (Enigma)
+people_names:
+  - Enigma's counsel
+  - Ruttenberg
+company_names:
+  - The Testing Company, LLC
+  - Enigma Management Corp.
+  - Alliance Laboratories
+places:
+  - Los Angeles
+dates:
+  - 2022-10-31 (filing date)
+  - 2024-01-19 (filing of operative Third Amended Complaint)
+  - 2024-02-06 (filing of Cross-Complaint)
+  - 2024-02-20 (filing of demurrer)
+  - 2024-02-21 (filing of motion to strike)
+  - 2024-04-05 (deposition of Plaintiff's PMQ)
+  - 2024-04-26 (Hearing Date)
+  - 2024-05-08 (trial date)
+  - 2024-05-17 (hearing on demurrer and motion to strike)
+money:
+  - Plaintiff's costs associated with testing services
+  - 50% split of monies owed to Plaintiff
+intentions:
+  - Enigma intends to move for summary adjudication
+  - TTC wants to proceed with trial as scheduled
+facts:
+  - Enigma filed a Cross-Complaint against TTC
+  - TTC filed the operative Third Amended Complaint
+  - Enigma's demurrer and motion to strike are set for hearing on May 17, 2024
+  - Plaintiff has not received reimbursement for testing services
+  - Plaintiff is owed 50% of the monies owed to it for the services performed
+disputes:
+  - Whether the trial date should be continued
+  - Whether the demurrer and motion to strike should be heard before trial
+acts:
+  - Filing of Cross-Complaint
+  - Filing of operative Third Amended Complaint
+  - Filing of demurrer and motion to strike
+  - Filing of opposition to motion to continue trial
+agreements:
+  - None mentioned
+laws:
+  - California Rules of Court, rule 3.1332
+  - California Rules of Court, rule 3.1332, subdivision (c)
+  - California Rules of Court, rule 3.1332, subdivision (d)
+case_citations:
+  - California Rules of Court, rule 3.1332
+  - California Rules of Court, rule 3.1332, subdivision (c)
+  - California Rules of Court, rule 3.1332, subdivision (d)
+statutes:
+  - California Rules of Court, rule 3.1332
+roles:
+  - Judge, Los Angeles Superior Court (Hon. Teresa A. Beaudet)
+significant_statements:
+  - "The court may grant a continuance only on an affirmative showing of good cause requiring the continuance."
+  - "The court must consider all the facts and circumstances that are relevant to the determination."
+```
+
+And here is a summary of the tentative ruling in English text:
+
+The court has granted Enigma's motion to continue the trial date in this action. The court finds that Enigma has demonstrated good cause for a trial continuance, citing the need for the pleadings to be at issue, the need for the parties to complete discovery, and Enigma's intention to move for summary adjudication on multiple issues in the operative Third Amended Complaint. The court has continued the final status conference to a later date and trial to a later date. All discovery deadlines have been continued based on the new trial date. Enigma is ordered to give notice of this ruling.

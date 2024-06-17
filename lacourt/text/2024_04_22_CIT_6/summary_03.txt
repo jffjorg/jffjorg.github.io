@@ -1,0 +1,67 @@
+Here is the summary in YAML format:
+
+```
+case_number: ???
+plaintiffs_name: Lincoln
+defendants_name: ???
+people_names:
+  - Lincoln
+  - Purdue Pharma. L.P.
+  - Johnson
+  - American Standard, Inc.
+company_names:
+  - City & Cnty. of San Francisco
+  - Purdue Pharma. L.P.
+  - American Standard, Inc.
+places:
+  - California
+  - Northern District of California
+dates:
+  - January 1, 2024
+events:
+  - Demurrer
+  - Memorandum of points and authorities
+  - California Rules of Court
+  - Federal law
+  - Statute update
+money: $???
+intentions:
+  - Comply with California Rules of Court
+  - Dismiss complaint
+facts:
+  - Lincoln demurs to each cause of action in the FAC
+  - Prior version of Business and Professions Code section 26038 in effect
+disputes:
+  - Entire complaint subject to demurrer
+  - Non-binding federal law
+acts:
+  - Demurrer
+  - Memorandum of points and authorities
+agreements:
+  - Comply with California Rules of Court
+laws:
+  - California Rules of Court
+  - Business and Professions Code section 26038
+  - Johnson v. American Standard, Inc.
+  - City & Cnty. of San Francisco v. Purdue Pharma. L.P.
+case_citations:
+  - Cal. Rules of Court, rule 3.1320, subd. (a)
+  - Johnson v. American Standard, Inc. (2008) 43 Cal.4th 56, 69
+  - City & Cnty. of San Francisco v. Purdue Pharma. L.P. (N.D. Cal. 2020) 491 F.Supp.3d 610
+statutes:
+  - Business and Professions Code section 26038
+roles:
+  - Judge
+  - Plaintiff (Lincoln)
+  - Defendant (Purdue Pharma. L.P.)
+  - Plaintiff's counsel (Lincoln)
+  - Defendant's counsel (Purdue Pharma. L.P.)
+significant_statements:
+  - The entire FAC is subject to demurrer
+  - Non-binding federal law is not binding on states
+  - Comply with California Rules of Court
+```
+
+And here is the English-text summary:
+
+The Court has issued a tentative ruling in a case involving Lincoln, who has demurred to each cause of action in the FAC, but not the entire complaint. The Court notes that Lincoln's memorandum of points and authorities first raises the argument that the entire FAC is subject to demurrer, which should have been specified in the demurrer. The Court will consider this argument but admonishes Lincoln to comply with the requirements of the California Rules of Court going forward. The Court also declines to discuss the parties' arguments regarding non-binding federal law, as it is not binding on states. Finally, the Court refers to the prior version of Business and Professions Code section 26038 in effect when the action was filed, as the statute was updated effective January 1, 2024.

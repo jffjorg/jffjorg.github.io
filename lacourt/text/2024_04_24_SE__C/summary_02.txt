@@ -1,0 +1,53 @@
+Here is the summary in YAML format:
+
+```yaml
+case_number: 22NWCV01099
+plaintiff: C RODRIGUEZ
+defendant: NISSAN NORTH AMERICA, INC., ET AL.
+people:
+  - Abramova
+companies:
+  - Nissan of Alhambra
+  - Wish Automotive III, Inc.
+places:
+  - Alhambra
+dates:
+  - April 19, 2024
+  - April 26, 2023
+  - May 3, 2024
+  - May 8, 2024
+events:
+  - Motion to set aside default
+  - Default entered
+money: None
+intentions:
+  - To set aside default
+facts:
+  - Default was entered against Nissan of Alhambra on April 26, 2023
+  - Motion to set aside default was filed on October 19, 2023
+  - Defendant's counsel was unaware that he had not filed a responsive pleading
+disputes:
+  - Whether to set aside default
+acts:
+  - Default was entered against Nissan of Alhambra
+  - Motion to set aside default was filed
+  - Counsel for moving party states that he was unaware that he had not filed a responsive pleading
+agreements:
+  - CCP § 473(b)
+laws:
+  - CCP § 473
+  - CCP § 473, subd. (b)
+  - Rodriguez v. Brill (2015)
+  - Fasuyi v. Permatex, Inc. (2008)
+roles:
+  - Judge
+  - Counsel for moving party
+  - Counsel for opposing party
+significant_statements:
+  - "Section 473 is often applied liberally where the party in default moves promptly to seek relief, and the party opposing the motion will not suffer prejudice if relief is granted."
+  - "Very slight evidence will be required to justify a court in setting aside the default."
+```
+
+And here is a summary of the judge's tentative ruling in English text:
+
+The judge has made a tentative ruling in the case of C Rodriguez v. Nissan North America, Inc. et al. regarding a motion to set aside default filed by Nissan of Alhambra. The motion is unopposed as of April 19, 2024. The judge is inclined to set aside the default, but notes that the moving party failed to attach a responsive pleading to the motion. Therefore, the motion is continued to May 8, 2024, and the defendant is ordered to file a responsive pleading on or before May 3, 2024.

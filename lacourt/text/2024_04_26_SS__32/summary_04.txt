@@ -1,0 +1,89 @@
+Here is the YAML file representing the judge's tentative ruling:
+
+```
+case_number: 21STCV36494
+judge: [Judge's name]
+hearing_date: April 26, 2024
+dept: 32
+
+parties:
+  - plaintiff: Nasrin A. Sarabi
+  - defendant: Boulevard Investment Group, Inc. and Roscoe Etiwanda Medical, LLC
+
+people:
+  - Randall Clement
+
+companies:
+  - Boulevard Investment Group, Inc.
+  - Roscoe Etiwanda Medical, LLC
+  - City of Los Angeles
+
+places:
+  - 18250 Roscoe Boulevard, Northridge, California
+  - Los Angeles
+
+dates:
+  - October 4, 2021 (complaint filed)
+  - October 18, 2021 (amendment to complaint filed)
+  - November 29, 2021 (defendants' answer filed)
+  - December 8, 2021 (City's answer and cross-complaint filed)
+  - August 16, 2022 (land survey conducted)
+
+events:
+  - Plaintiff's fall on February 16, 2020
+  - Defendants' motion for summary judgment or summary adjudication
+
+money:
+  - None mentioned
+
+intentions:
+  - Defendants' intention to show that they owed no duty to the plaintiff since they did not own, control, or possess the sidewalk where the injury occurred
+
+facts:
+  - Plaintiff fell on a lifted portion of sidewalk
+  - Defendants did not own, control, or possess the sidewalk
+  - Plaintiff did not create the alleged dangerous condition (i.e. the asphalt on the sidewalk)
+
+disputes:
+  - Negligence and premises liability
+  - Duty of care
+  - Control and maintenance of the sidewalk
+
+acts:
+  - Plaintiff's fall
+  - Defendants' motion for summary judgment or summary adjudication
+  - City's cross-complaint
+
+agreements:
+  - None mentioned
+
+laws:
+  - California Civil Code
+  - California Code of Civil Procedure
+
+case_citations:
+  - Aguilar v. Atlantic Richfield Co. (2001) 25 Cal.4th 826
+  - Smith v. Wells Fargo Bank, N.A. (2005) 135 Cal.App.4th 1463
+  - Fisherman's Wharf Bay Cruise Corp. v. Superior Court (2003) 114 Cal.App.4th 309
+  - Binder v. Aetna Life Ins. Co. (1999) 75 Cal.App.4th 832
+  - Weiss v. People ex rel. Department of Transportation (2020) 9 Cal.5th 840
+  - McIntyre v. The Colonies-Pacific, LLC (2014) 228 Cal.App.4th 664
+  - Rowland v. Christian (1968) 69 Cal.2d 108
+  - Lopez v. City of Los Angeles (2020) 55 Cal.App.5th 244
+  - Cody F. v. Falleti (2001) 92 Cal.App.4th 1232
+
+roles:
+  - Judge: [Judge's name]
+  - Plaintiff: Nasrin A. Sarabi
+  - Defendant: Boulevard Investment Group, Inc. and Roscoe Etiwanda Medical, LLC
+  - Defendant: City of Los Angeles
+
+significant_statements:
+  - Defendants have met their initial burden of establishing no triable issue of fact.
+  - The burden shifts to Plaintiff and/or City to establish a triable issue of fact.
+  - Since no oppositions have been filed, they fail to meet their burden.
+```
+
+Here is a summary of the judge's tentative ruling in English:
+
+The judge grants the defendants' motion for summary judgment or summary adjudication against the plaintiff's complaint and the city's cross-complaint. The defendants have met their initial burden of establishing no triable issue of fact. The plaintiff's fall did not occur on the defendants' property, but on abutting public property. The defendants present evidence that they did not create the alleged dangerous condition (i.e. the asphalt on the sidewalk) and did not exert control over the sidewalk. Since no oppositions have been filed, the plaintiff and/or city fail to meet their burden.

@@ -1,0 +1,71 @@
+Here is the YAML summary of the tentative ruling:
+
+```
+case_number: 23VECV03837
+plaintiff_name: Patrice Kaufman
+defendant_name: Anthony Johnson, JJC Construction, Inc.
+people_names:
+  - Patrice Kaufman
+  - Anthony Johnson
+  - JJC Construction, Inc.
+company_names:
+  - JJC Construction, Inc.
+  - California Secretary of State
+places:
+  - California
+dates:
+  - September 1, 2023
+  - January 2, 2024
+  - April 26, 2024
+events:
+  - Filing of complaint
+  - Service of summons and complaint
+  - Motion to quash service of summons and complaint
+  - Application to serve defendant through Secretary of State
+  - Order granting application
+  - Denial of motion to quash
+money: $114,000
+intentions:
+  - To quash service of summons and complaint
+  - To avoid default
+facts:
+  - Plaintiff hired contractor for home renovation
+  - Contractor performed defective work
+  - Plaintiff alleges $114,000 in damages
+  - Defendant JJC Construction, Inc. claims improper service
+  - Plaintiff made attempts to serve defendant's agent
+disputes:
+  - Improper service of summons and complaint
+  - Duty of care
+  - Breach of contract
+  - Recission of contract
+  - Statutory abandonment
+  - Negligence
+acts:
+  - Filing of complaint
+  - Service of summons and complaint
+  - Motion to quash
+  - Application to serve defendant through Secretary of State
+  - Order granting application
+  - Denial of motion to quash
+agreements:
+  - None mentioned
+laws:
+  - Corporation Code, § 2111(b)
+  - Business and Professions Code, §§ 7107 & 7113
+case_citations:
+  - Corp. Code, § 2111(b)
+  - B&P Code, §§ 7107 & 7113
+roles:
+  - Plaintiff: Patrice Kaufman
+  - Defendant: Anthony Johnson, JJC Construction, Inc.
+  - Moving Party: Specially Appearing Defendant
+  - Responding Party: Plaintiff
+significant_statements:
+  - "The court finds service proper."
+  - "As with domestic corporations, an out-of-state corporation may properly be served by service of process on the California Secretary of State pursuant to a court order."
+```
+
+And here is the English-text summary of the judge's tentative ruling:
+
+The judge has denied the motion to quash service of summons and complaint filed by JJC Construction, Inc. The court finds that service was proper and that the plaintiff, Patrice Kaufman, made reasonable efforts to serve the defendant's agent, Anthony Johnson. The defendant claims that service was made to an unknown and unauthorized California Secretary of State designee, but the court finds that the service was made in accordance with a court order and that the plaintiff demonstrated diligence in serving the defendant's agent. The court has previously granted an application to serve the defendant through the Secretary of State. The denial of the motion to quash means that the lawsuit will proceed as scheduled.

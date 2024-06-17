@@ -1,0 +1,69 @@
+Here is the summary in YAML format:
+
+```
+case_number: 22STLC06371
+hearing_date: April 25, 2024
+dept: 26
+plaintiff: JMNBM Corporation dba Blue Pacific Pools Southern California
+defendant: Con'struc'ture, Inc., et al.
+people:
+  - Manning
+companies:
+  - JMNBM Corporation
+  - Con'struc'ture, Inc.
+  - Aragon (Toluca/Colton) Properties Corporation
+  - SureTec Insurance Company
+places:
+  - Spring Street Courthouse
+dates:
+  - September 28, 2022
+  - February 21, 2023
+  - March 6, 2023
+  - May 23, 2023
+  - May 31, 2023
+  - March 27, 2024
+  - April 3, 2024
+  - April 25, 2024
+  - May 23, 2024
+events:
+  - Plaintiff filed Complaint
+  - Defendant Aragon's Demurrer to the Complaint sustained
+  - Plaintiff filed First Amended Complaint
+  - Defendant's answers to First Amended Complaint
+  - Action came for trial
+  - Plaintiff failed to appear
+  - Dismissal of First Amended Complaint
+  - Plaintiff filed Motion to Vacate Dismissal
+  - Court's tentative ruling
+money: None
+intentions:
+  - To reinstate the case and set it for trial
+facts:
+  - Plaintiff failed to appear for trial due to extrinsic circumstances
+  - Plaintiff's counsel's dog was mauled by a coyote
+  - Plaintiff's counsel was trial-ready and promptly informed defense counsel of the incident
+disputes:
+  - Whether the dismissal was fair and whether the case should be reinstated
+acts:
+  - Plaintiff filed Motion to Vacate Dismissal
+  - Court heard the motion
+  - Court granted the motion
+agreements:
+  - None
+laws:
+  - CCP § 473(b)
+  - Mechling v. Asbestos Defendants (2018) 29 Cal.App.5th 1241
+  - In re Marriage of Stevenot (1984) 154 Cal.App.3d 1051
+statutes:
+  - CCP § 473(b)
+roles:
+  - Judge: JMNBM Corporation dba Blue Pacific Pools Southern California
+significant statements:
+  - The Court finds that the case should be reinstated and re-set for trial.
+  - Plaintiff's counsel's failure to appear for trial was due to extrinsic circumstances.
+  - Plaintiff's counsel demonstrated diligence in seeking to set aside the default once the fraud had been discovered.
+```
+
+And here is a summary of the judge's tentative ruling in English text:
+
+The plaintiff, JMNBM Corporation dba Blue Pacific Pools Southern California, has filed a motion to vacate the dismissal of its case against the defendants, Con'struc'ture, Inc., et al. The plaintiff's counsel failed to appear for trial due to an unexpected event - his dog was mauled by a coyote. The court has granted the motion and reinstated the case, setting it for trial on May 23, 2024.

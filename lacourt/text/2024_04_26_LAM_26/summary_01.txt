@@ -1,0 +1,60 @@
+Here is the summary in YAML format:
+
+```
+case_number: 23STCV05758
+plaintiff: Drogon Alaska
+defendant: High Times Productions, Inc.
+people_names:
+  - Kapin PLLC
+  - Yolanda Orozco
+company_names:
+  - High Times Productions, Inc.
+  - Kapin PLLC
+places:
+  - Los Angeles
+  - California
+  - San Ramon
+dates:
+  - March 15, 2024
+  - April 26, 2024
+  - June 5, 2024
+  - May 20, 2024
+events:
+  - Motion to be relieved as counsel
+  - Trial setting conference
+  - OSC regarding status of legal representation
+money: None
+intentions:
+  - Grant the motion to be relieved as counsel
+facts:
+  - Corporation cannot represent itself before courts of record
+  - Corporation must be represented by licensed counsel
+  - Attorney may be allowed to withdraw without offending the rule against corporate self-representation
+disputes:
+  - Irreconcilable differences
+  - Failure to be represented by licensed counsel
+acts:
+  - Filed motion to be relieved as counsel
+  - Lodged proposed order with the court
+  - Served defendant via mail
+agreements:
+  - None
+laws:
+  - California Rules of Court, Rule 3.1362
+  - CLD Const., Inc. v. City of San Ramon (2004)
+  - Gutierrez v. G & M Oil Co., Inc. (2010)
+  - Thomas G. Ferruzzo, Inc. v. Superior Court (1980)
+  - California Code of Civil Procedure
+roles:
+  - Judge: Yolanda Orozco
+  - Attorney: Kapin PLLC
+  - Defendant: High Times Productions, Inc.
+  - Plaintiff: Drogon Alaska
+significant_statements:
+  - The Court is inclined to grant the request to be relieved as counsel.
+  - The Court will grant the motion and will require that High Times Productions, Inc. timely retain new counsel and file a substitution of counsel within 20 days of service of the signed order.
+```
+
+And here is the English-text summary:
+
+The tentative ruling grants the motion of High Times Productions, Inc. to be relieved as counsel, citing irreconcilable differences. The Court notes that a corporation cannot represent itself before courts of record and must be represented by licensed counsel. The Court is inclined to grant the request and requires High Times Productions, Inc. to retain new counsel and file a substitution of counsel within 20 days of service of the signed order.

@@ -1,0 +1,60 @@
+Here is the summary in YAML format:
+
+```
+Case Number: 23STCV03290
+Plaintiff's Name: (not specified)
+Defendant's Name: Reiko Durwood
+People-Names:
+  - Reiko Durwood
+Company-Names: (none)
+Places:
+  - California
+Dates:
+  - February 14, 2023 (filing of action)
+  - May 18, 2023 (defendant's answer)
+  - June 10, 2024 (conflicting trial date)
+  - June 24, 2024 (original trial date)
+  - January 6, 2025 (new trial date)
+  - January 22, 2025 (new trial date)
+  - April 23, 2024 (hearing date)
+Events:
+  - Motion to continue trial
+  - Trial originally set for June 24, 2024
+  - Continuance granted
+  - New trial dates set: January 6, 2025 (status conference) and January 22, 2025 (jury trial)
+Money: (none)
+Intentions:
+  - Defendant seeks to continue trial
+  - Court grants motion to continue trial
+Facts:
+  - Defendant's counsel has conflicting trial on June 10, 2024
+  - Defendant's counsel may have another conflicting trial on May 20, 2024
+  - Trial has not been continued previously
+  - Court must consider previous continuances when ruling on motion
+Disputes:
+  - Defendant seeks to continue trial due to counsel's conflicting schedule
+Acts:
+  - Defendant files motion to continue trial
+  - Court grants motion to continue trial
+  - New trial dates set
+  - Pretrial deadlines continued
+Agreements:
+  - Defendant's counsel has excusable circumstances (illness, etc.)
+Laws:
+  - California Rules of Court, rule 3.1332(c)
+  - California Rules of Court, rule 3.1332(c)(3)
+  - California Rules of Court, rule 3.1332(d)(2)
+Statutes:
+  - (none)
+Roles:
+  - Judge: grants defendant's motion to continue trial
+  - Counsel: defends defendant and has conflicting trial schedule
+  - Plaintiff: not specified
+Significant Statements:
+  - "The court may grant a continuance only on an affirmative showing of good cause requiring it." (Cal. Rules of Court, rule 3.1332(c))
+  - "Good cause includes [t]he unavailability of trial counsel because of death, illness, or other excusable circumstances." (Cal. Rules of Court, rule 3.1332(c)(3))
+```
+
+And here is the English-text summary:
+
+The Court has issued a tentative ruling in the case of Reiko Durwood, granting her motion to continue the trial by six months. The trial was originally set for June 24, 2024, but due to Defendant's counsel having a conflicting trial on June 10, 2024, and possibly another on May 20, 2024, the Court has continued the trial to January 22, 2025. The Court considered the Defendant's showing of good cause, including the unavailability of trial counsel due to conflicting trials, and concluded that continuing the trial serves the interests of justice. The Court also continued the final status conference to January 6, 2025, and all pretrial deadlines to follow the new trial date.

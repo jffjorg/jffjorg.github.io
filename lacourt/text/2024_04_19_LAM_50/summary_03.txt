@@ -1,0 +1,49 @@
+Here is the summary in YAML format:
+
+```
+case_number: "123456"
+plaintiff_name: "John Doe"
+defendant_name: "Jane Smith"
+people_names:
+  - John Doe
+  - Jane Smith
+company_names: []
+places:
+  - California
+  - United States
+  - Outside the United States
+dates:
+  - 75 days before the time appointed for hearing
+  - 5 days (if within California)
+  - 10 days (if within the United States but outside California)
+  - 20 days (if outside the United States)
+events: 
+  - Service of notice by mail, facsimile transmission, or express mail
+  - Court hearing
+money: []
+intentions:
+  - To inform parties of the upcoming court hearing
+facts:
+  - Code of Civil Procedure section 437c, subdivision (a)(2)
+  - Notice of motion and supporting papers
+disputes: []
+acts:
+  - Serving notice of motion and supporting papers
+agreements: []
+laws:
+  - Code of Civil Procedure section 437c, subdivision (a)(2)
+  - Notice requirements for court hearing
+case_citations:
+  - Code of Civil Procedure section 437c, subdivision (a)(2)
+statutes: []
+roles:
+  - Judge
+  - Plaintiff
+  - Defendant
+significant_statements:
+  - Notice of the motion and supporting papers shall be served on all other parties to the action at least 75 days before the time appointed for hearing.
+```
+
+And here is the English-text summary:
+
+This tentative ruling addresses the notice requirements for a court hearing, specifically the service of notice of motion and supporting papers. Pursuant to Code of Civil Procedure section 437c, subdivision (a)(2), notice must be served on all other parties to the action at least 75 days before the time appointed for hearing. The notice period is increased by 5 days if served by mail within California, 10 days if served within the United States but outside California, and 20 days if served outside the United States.

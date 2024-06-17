@@ -1,0 +1,65 @@
+Here is the YAML summary of the tentative ruling:
+
+```
+case_number: 22SMCV01225
+plaintiff: Ecure CA, LLC
+defendant: UHC of California, et al.
+people:
+  - UnitedHealthcare Insurance Company
+  - UnitedHealthcare Benefits Plan of California
+  - Patient 1
+  - Patient 2
+  - Rutschman
+  - Santos
+company_names:
+  - UnitedHealthcare
+places:
+  - California
+dates:
+  - April 25, 2024
+events:
+  - Motion to Seal Documents
+  - Opposition to defendants' motion for summary adjudication
+money:
+  - HIPAA (Health Insurance Portability and Accountability Act)
+  - PII (Personal Identifying Information)
+  - PHI (Protected Health Information)
+intentions:
+  - Protect patient privacy
+  - Prevent disclosure of sensitive health information
+facts:
+  - Medical records contain sensitive health information
+  - PHI and PII must be protected under HIPAA
+  - Sealed documents contain confidential protected health information
+disputes:
+  - Overriding interest in protecting patient privacy
+  - Need to balance public access to records with patient privacy
+acts:
+  - Motion for order sealing documents
+  - Opposition to defendants' motion for summary adjudication
+  - Request for order sealing documents
+agreements:
+  - California Rules of Court, rules 2.550 and 2.551
+  - HIPAA
+  - California Civil Code § 56.10
+  - 42 USC § 1320d et seq.
+laws:
+  - California Rules of Court
+  - HIPAA
+  - California Civil Code
+  - 42 USC
+roles:
+  - Judge
+  - Plaintiff
+  - Defendant
+  - Defendant's counsel
+  - Plaintiff's counsel
+significant statements:
+  - A person has a constitutional right of privacy to his or her medical records.
+  - Medical records contain sensitive health information that must be protected.
+  - The motion is granted.
+```
+
+Here is a summary of the tentative ruling in English text:
+
+The court has issued a tentative ruling on a motion to seal documents in a lawsuit between Ecure CA, LLC (plaintiff) and UnitedHealthcare Insurance Company, et al. (defendants). The defendants have requested that certain documents be sealed to protect the privacy of non-party patients whose medical information is contained in the documents. The court has granted the motion, finding that there is an overriding interest in protecting patient privacy and that the requested sealing is narrowly tailored and there is no less restrictive means to achieve the overriding interest.

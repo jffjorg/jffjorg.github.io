@@ -1,0 +1,51 @@
+Here is the summary in YAML format:
+
+```
+Case Number: 2023-001234
+Plaintiff's Name: Jose Chavez
+Defendant's Name: Hof's Hut Restaurants, Inc.
+People-Names:
+  - Jose Chavez
+  - Hof's Hut Restaurants, Inc.
+Company-Names:
+  - Hof's Hut Restaurants, Inc.
+Places: None
+Dates:
+  - Date of Hearing: [TBD]
+  - Date of Arbitration: TBA
+Events:
+  - Arbitration agreement executed as part of employment
+  - Plaintiff files complaint
+  - Defendant seeks to compel arbitration
+  - Plaintiff opposes stay of PAGA claims
+Money: None
+Intentions:
+  - Defendant: Compel arbitration and stay PAGA claims
+  - Plaintiff: Oppose stay of PAGA claims
+Facts:
+  - Arbitration agreement executed by Plaintiff
+  - PAGA claims filed by Plaintiff
+Disputes:
+  - Whether PAGA claims should be stayed
+Acts:
+  - Plaintiff files complaint
+  - Defendant seeks to compel arbitration
+  - Plaintiff opposes stay of PAGA claims
+Agreements:
+  - Arbitration agreement
+Laws:
+  - Code Civ. Proc. § 1281.4
+  - Adolph v. Uber Techs., Inc. (2023) 14 Cal.5th 1104, 1125
+Statutes: None
+Roles:
+  - Judge: Ruling on motion to compel arbitration
+  - Plaintiff: Filing complaint and opposing stay of PAGA claims
+  - Defendant: Seeking to compel arbitration and stay PAGA claims
+Significant Statements:
+  - "The Motion to Compel Arbitration is granted."
+  - "The representative PAGA claim will be stayed pending the resolution of arbitration."
+```
+
+And here is the English text to summarize the judge's tentative ruling:
+
+The defendant, Hof's Hut Restaurants, Inc., has sought to compel arbitration of the plaintiff's wage and hour and PAGA suit, citing an arbitration agreement executed by the plaintiff as part of his employment. The plaintiff opposes staying his non-individual PAGA claims. The court has granted the motion to compel arbitration, but will stay the representative PAGA claim pending the resolution of arbitration. The court finds that a stay of the PAGA claims is not required and would frustrate the purpose of PAGA, which is to expand enforcement of the Labor Code.

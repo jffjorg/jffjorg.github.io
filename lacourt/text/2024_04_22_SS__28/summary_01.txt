@@ -1,0 +1,72 @@
+Here is the summary of the legal document in YAML format:
+
+```
+case_number: 21STCV31743
+plaintiff_name: Malvina Mkchyan
+defendant_name: Margaret Mary Lewis
+people_names:
+  - Malvina Mkchyan
+  - Margaret Mary Lewis
+company_names: []
+places: []
+dates:
+  - August 26, 2021
+  - May 15, 2023
+  - November 3, 2023
+  - January 19, 2024
+  - January 30, 2024
+  - February 22, 2024
+  - April 22, 2024
+events:
+  - Filing of action
+  - Filing of answer
+  - Request for extension
+  - Filing of motions to compel
+  - Hearing on motions
+money:
+  - Not applicable
+intentions:
+  - To compel further responses to interrogatories
+  - To seek sanctions
+facts:
+  - Plaintiff filed an action against Defendant
+  - Defendant filed an answer
+  - Plaintiff's counsel did not respond to Defendant's request
+  - Defendant filed motions to compel further responses
+  - Plaintiff did not file oppositions
+  - Statutory deadline for motion to compel has passed
+disputes:
+  - Timeliness of motions to compel
+  - Validity of Plaintiff's responses
+  - Entitlement to sanctions
+acts:
+  - Service of interrogatories
+  - Filing of responses
+  - Request for extension
+  - Filing of motions to compel
+  - Hearing on motions
+agreements:
+  - None
+laws:
+  - California Code of Civil Procedure section 2030.300
+  - California Code of Civil Procedure section 2030.250
+  - Golf & Tennis Pro Shop, Inc. v. Superior Court (2022)
+  - Vidal Sassoon, Inc. v. Superior Court (1983)
+  - L. Edmon & C. Karnow, Cal. Practice Guide: Civil Procedure Before Trial (Rutter 2023)
+  - Code of Civil Procedure section 2030.300, subdivision (c)
+statutes:
+  - California Code of Civil Procedure section 2030.300
+  - California Code of Civil Procedure section 2030.250
+roles:
+  - Plaintiff: Malvina Mkchyan
+  - Defendant: Margaret Mary Lewis
+  - Plaintiff's counsel
+  - Defendant's counsel
+significant_statements:
+  - The statutory deadline for a motion to compel further responses to interrogatories is mandatory
+  - The court lacks jurisdiction to entertain a belated motion to compel
+```
+
+And here is the English-text summary of the judge's tentative ruling:
+
+The Court has reviewed the motions to compel further responses to special and form interrogatories filed by Defendant Margaret Mary Lewis. The motions were filed beyond the 45-day limitation period, and it is unclear whether Plaintiff's interrogatory responses were verified. The Court orders Defendant to file a supplemental declaration or brief explaining whether her motions are timely under Code of Civil Procedure section 2030.300, subdivision (c). Plaintiff may file a responsive declaration or brief. The hearing on the motions is continued to a date to be provided at the April 22, 2024 hearing.

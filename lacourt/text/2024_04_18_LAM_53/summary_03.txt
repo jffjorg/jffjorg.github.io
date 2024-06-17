@@ -1,0 +1,69 @@
+Here is the summary in YAML format:
+
+```
+case_number: BC717712
+plaintiff_name: Los Angeles Community College District ex rel. Newton W. Kellam
+defendant_name: Morillo Construction, Inc. et al.
+people_names:
+  - Newton W. Kellam
+  - Judge Patricia Nieto
+  - Judge Steve Cochran
+  - Judge Robert B. Broadbelt
+company_names:
+  - Morillo Construction, Inc.
+  - Los Angeles Community College District
+  - Superior Court of California
+places:
+  - Los Angeles
+  - California
+  - Central District
+  - Department 53
+dates:
+  - August 28, 2018
+  - August 31, 2018
+  - March 4, 2024
+  - March 5, 2024
+  - April 18, 2024
+  - April 26, 2024
+  - May 1, 2024
+events:
+  - Code of Civil Procedure section 170.6 challenge
+  - Order to Show Cause
+  - Reconsideration
+  - Vacatur
+  - Issuance of new order
+money: None
+intentions:
+  - To reconsider the March 5, 2024 order
+  - To vacate the March 5, 2024 order
+  - To issue a new order denying the March 4, 2024 Code of Civil Procedure section 170.6 challenge
+facts:
+  - Plaintiff/relator Newton W. Kellam filed a Code of Civil Procedure section 170.6 challenge against Judge Cochran
+  - The challenge was accepted and granted on March 5, 2024
+  - Section 170.6, subdivision (a)(4) prohibits more than one motion in an action or special proceeding
+disputes:
+  - Dispute over the March 5, 2024 order
+  - Dispute over the judge's authority to reconsider the order
+acts:
+  - Acceptance of the Code of Civil Procedure section 170.6 challenge
+  - Granting of the Code of Civil Procedure section 170.6 challenge
+  - Issuance of an Order to Show Cause
+agreements: None
+laws:
+  - Code of Civil Procedure section 170.6
+  - Code of Civil Procedure section 170.6, subdivision (a)(4)
+  - Geddes v. Superior Court (2005) 126 Cal.App.4th 417
+statutes: None
+roles:
+  - Judge Robert B. Broadbelt: Judge of the Superior Court
+  - Judge Steve Cochran: Judge
+  - Newton W. Kellam: Plaintiff/relator
+  - Patricia Nieto: Judge
+  - Robert B. Broadbelt: Judge
+significant_statements:
+  - "One trial judge may not review the ruling of another trial judge, that principle “does not apply where the original judge is ‘unavailable’”"
+```
+
+And here is the English-text summary:
+
+This tentative ruling is issued by Judge Robert B. Broadbelt in a case between the Los Angeles Community College District (represented by Newton W. Kellam) and Morillo Construction, Inc. The case concerns a Code of Civil Procedure section 170.6 challenge filed by plaintiff/relator Newton W. Kellam against Judge Steve Cochran. Judge Cochran is unavailable to reconsider the March 5, 2024 order accepting the challenge and reassigning the case to Judge Robert B. Broadbelt. Therefore, the court issues an Order to Show Cause why the court should not, on its own motion, reconsider and vacate the order and issue a new order denying the challenge. The court sets a hearing for May 1, 2024, and orders that any responses to the order be filed by April 26, 2024.

@@ -1,0 +1,53 @@
+Here is the summary in YAML format:
+
+```
+case_number: 23PSCV03141
+hearing_date: 2024-04-22
+department: G
+
+parties:
+  - plaintiff: Alicia Olivares
+    type: individual and successor in interest
+  - plaintiff: Stephanie Watkin
+    type: individual and successor in interest
+  - plaintiff: Amaris Violet Gutierrez
+    type: by and through Watkin as guardian ad litem
+  - plaintiff: Abel Valentino Gutierrez
+    type: by and through Watkin as guardian ad litem
+  - plaintiff: Angelina Victoria Gallegos
+    type: individual and successor in interest
+  - defendant: Kiewit Corporation
+  - defendant: Kiewit-Parsons
+  - defendant: Kiewit Infrastructure West Co.
+  - defendant: Parsons Construction Group, Inc.
+
+issues:
+  - demurrer: sustained in part with 20 days leave to amend (4th, 5th, 6th causes of action)
+  - demurrer: overruled in part (1st and 2nd causes of action)
+  - motion to strike: deemed moot
+
+factual disputes:
+  - Kiewit's involvement in the construction of the roadway
+  - Watkin's standing as domestic partner
+  - Gallegos's standing as stepchild and beneficiary of Alberto Gutierrez's estate
+
+statutes:
+  - Code of Civil Procedure, § 430.10, subdivision (e)
+  - Code of Civil Procedure, § 377.60, subdivision (a)
+  - Code of Civil Procedure, § 377.11
+  - Probate Code, § 6454
+
+laws:
+  - negligence
+  - dangerous condition of public property
+  - negligence per se
+  - loss of consortium
+  - wrongful death
+  - survival
+
+significant statements:
+  - Demurrer tests whether the complaint states a cause of action.
+  - A demurrer lies only where the defects appear on the face of the pleading or are judicially noticed.
+```
+
+Please note that the summary is a simplified representation of the judge's tentative ruling and may not fully capture the nuances and complexities of the actual ruling.

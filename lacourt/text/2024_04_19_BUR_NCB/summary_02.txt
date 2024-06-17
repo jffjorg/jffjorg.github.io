@@ -1,0 +1,47 @@
+Here is the YAML summary of the tentative ruling:
+
+```
+case_number: "Unknown"
+plaintiff_name: "Unknown"
+defendant_name: "Unknown"
+people_names:
+  - Raffi Tepanian
+company_names: []
+places: []
+dates:
+  - 2023-02-10
+  - 2023-06-30
+  - 2023-07-21
+events:
+  - Court's June 30, 2023 order
+  - Court's February 10, 2023 order
+  - Defendant's response to Plaintiff's Requests for Production
+money: monetary sanctions
+intentions:
+  - Plaintiff expects to receive monetary sanctions
+  - Defendant did not receive Court's June 30, 2023 order
+facts:
+  - Plaintiff provided notice of the Court's June 30, 2023 order to Defendant on June 30, 2023
+  - Exhibits I and J contain emails from Plaintiff's counsel
+disputes:
+  - Plaintiff alleges Defendant did not receive Court's June 30, 2023 order
+  - Defendant's response to Plaintiff's Requests for Production
+acts:
+  - Plaintiff provided notice of Court's June 30, 2023 order
+agreements: []
+laws:
+  - "Unknown"
+case_citations: []
+statutes: []
+roles:
+  - Plaintiff
+  - Defendant
+  - Plaintiff's counsel
+  - Raffi Tepanian
+significant_statements:
+  - Neither of the emails appear to provide Defendant with the Court's June 30, 2023 order
+```
+
+And here is the English-text summary of the tentative ruling:
+
+The tentative ruling discusses a dispute between the Plaintiff and Defendant regarding the Plaintiff's notice of the Court's June 30, 2023 order. The Plaintiff claims to have provided notice to the Defendant on June 30, 2023, but the Defendant did not receive the order. The Plaintiff cites to Exhibits I and J, which contain emails from Plaintiff's counsel, stating that the Plaintiff expects to receive monetary sanctions based on the Court's February 10, 2023 and June 30, 2023 orders and the Defendant's further response to Plaintiff's Requests for Production. The Judge notes that the emails do not appear to provide the Defendant with the Court's June 30, 2023 order.

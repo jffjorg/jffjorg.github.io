@@ -1,0 +1,53 @@
+Here is the summary in YAML format:
+
+```
+Case:
+  Number: 23STCV03001
+  Plaintiffs:
+    - Name: [Unknown]
+  Defendants:
+    - Name: [Unknown]
+  People:
+    - None
+  Companies:
+    - None
+  Places:
+    - None
+  Dates:
+    - Filing Date: February 10, 2023
+    - Hearing Date: April 19, 2024
+    - Default Date: January 17, 2024
+    - OSC Date: March 6, 2024
+  Events:
+    - Complaint filed
+    - Default entered
+    - OSC re Entry of Default Judgement held
+  Money:
+    - None
+  Intentions:
+    - Plaintiff's intention to obtain default judgment
+  Facts:
+    - Default judgment not entered due to lack of required documents
+  Disputes:
+    - None
+  Acts:
+    - Plaintiff failed to file required documents
+  Agreements:
+    - None
+  Laws:
+    - None
+  Case Citations:
+    - Minute Order, 3/6/2024
+  Statutes:
+    - None
+  Roles:
+    - Judge: [Unknown]
+    - Plaintiff: [Unknown]
+    - Defendant: [Unknown]
+  Significant Statements:
+    - "The Court sets an OSC re Entry of Default Judgement for April 19, 2024. If default judgment is not entered by that time, the Court will dismiss the case."
+```
+
+And here is the English-text summary of the judge's tentative ruling:
+
+The court has dismissed the case without prejudice. The plaintiff failed to file the required documents for entry of default judgment, and therefore, the court cannot enter default judgment. The court had set an order to show cause (OSC) for April 19, 2024, giving the plaintiff an opportunity to comply with the requirements. However, since the plaintiff failed to file the necessary documents, the court has dismissed the case.

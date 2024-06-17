@@ -1,0 +1,67 @@
+Here is the summary in YAML format:
+
+```
+case_number: 23STCP04602
+plaintiff: Mabel Frias
+defendant: Shaira Frias
+people_names:
+  - Mabel Frias
+  - Shaira Frias
+  - Beckloff, J.
+company_names:
+  - Luna Magic, Inc.
+  - Boyd Law APC
+  - O'Melveny & Myers, LLP
+places:
+  - California
+dates:
+  - January 25, 2024
+  - February 16, 2024
+  - February 20, 2024
+  - April 12, 2022
+  - April 26, 2024
+events:
+  - Motion for Order Finding Communications are not Privileged
+  - Hearing on February 20, 2024
+  - Notice of Lodging on February 20, 2024
+  - Ex parte application on February 16, 2024
+money:
+  - $14.95 (cost of domain name)
+  - $2,095.00 (cost of domain name)
+intention:
+  - To determine whether emails between Petitioner and her counsel are privileged
+facts:
+  - Petitioner communicated with her attorneys at Boyd Law through Luna Magic's server
+  - Luna Magic's server is owned by Luna Magic, Inc.
+  - Petitioner hired a consultant to prepare the employee handbook
+  - Petitioner sent an email to company staff informing them to review and electronically sign the handbook
+  - The employee handbook includes policies on access to technology resources
+disputes:
+  - Whether the emails between Petitioner and her counsel are privileged
+acts:
+  - Petitioner communicated with her attorneys at Boyd Law through Luna Magic's server
+  - Luna Magic's server is owned by Luna Magic, Inc.
+  - Petitioner hired a consultant to prepare the employee handbook
+  - Petitioner sent an email to company staff informing them to review and electronically sign the handbook
+agreements:
+  - Petitioner agreed to be bound by the conditions of the employee handbook
+  - Petitioner agreed to the relevant provisions of the technology policy
+laws:
+  - Holmes v. Petrovich Development Co., LLC (2011) 191 Cal.App.4th 1047
+statutes:
+  - Section 952
+roles:
+  - Judge Beckloff
+  - Shaira Frias
+  - Mabel Frias
+  - Luna Magic, Inc.
+  - Boyd Law APC
+  - O'Melveny & Myers, LLP
+significant_statements:
+  - The court finds that Petitioner agreed to be bound by the conditions of the employee handbook.
+  - The court finds that the movant has satisfied the relevant criteria under Holmes v. Petrovich Development Co., LLC.
+```
+
+And here is the English-text summary:
+
+This is a tentative ruling by Judge Beckloff on a motion for an order finding that communications between Petitioner Mabel Frias and her counsel are not privileged. The motion is granted in part and denied in part. The court finds that communications between Petitioner and her counsel transmitted through Luna Magic's server on or after April 12, 2022, are not privileged under Holmes v. Petrovich Development Co., LLC. The court also finds that Petitioner agreed to be bound by the conditions of the employee handbook and the relevant provisions of the technology policy. The court's ruling is based on the evidence presented, including the employee handbook and the testimony of the parties.

@@ -1,0 +1,57 @@
+Here is the summary in YAML format:
+
+```
+case_number: 2023-001234
+plaintiff_name: John Doe
+defendant_name: J.K. Residential Services, Inc.
+people_names:
+  - Ritesh Desai
+  - John Doe
+company_names:
+  - J.K. Residential Services, Inc.
+places:
+  - 2016 Riverside Dr.
+  - Los Angeles, CA 90039
+  - California
+dates:
+  - 2023-02-22 (tentative ruling date)
+  - 2023-03-15 (answer filing deadline)
+events:
+  - Service of summons
+  - Motion to quash service of summons
+  - Notice of action
+money: N/A
+intentions:
+  - Defendant seeks to quash service of summons
+  - Plaintiff seeks to defend service of summons
+facts:
+  - Service of summons was rendered at Defendant's business address
+  - Service was rendered upon a receptionist
+  - Defendant's agent for service of process, Ritesh Desai, is authorized to accept service of process
+disputes:
+  - Whether service of summons was proper
+acts:
+  - Service of summons was rendered at Defendant's business address
+  - Defendant moved to quash service of summons
+agreements: N/A
+laws:
+  - Code Civ. Proc. § 418.10(a)(1)
+  - Code Civ. Proc. § 415.20(a)
+  - Cal. Prac. Guide Civ. Pro. Before Trial (The Rutter Guide 2023) Ch. 4-D
+  - In re Automobile Antitrust Cases I and II (2005) 135 Cal.App.4th 100, 110
+statutes:
+  - Code Civ. Proc. § 418.10(a)(1)
+  - Code Civ. Proc. § 415.20(a)
+roles:
+  - Judge
+  - Plaintiff
+  - Defendant
+significant_statements:
+  - The Plaintiff has adequately shown that service was rendered at the Defendant's business address upon a receptionist
+  - The Defendant's Motion to Quash is denied
+  - An answer is to be filed within 20 days
+```
+
+And here is the English-text summary:
+
+The judge's tentative ruling denies the Defendant's Motion to Quash Service of Summons, as the Plaintiff has adequately shown that service was properly rendered at the Defendant's business address upon a receptionist. The Defendant, J.K. Residential Services, Inc., had argued that service was not properly rendered, but the judge finds that the service was in compliance with California Code of Civil Procedure section 415.20(a). The judge notes that substitute service on entity defendants, such as the Defendant, may be affected by leaving the summons with secretaries, receptionists, or other persons apparently in charge of the premises. As a result, the Motion to Quash is denied, and the Defendant is ordered to file an answer within 20 days.

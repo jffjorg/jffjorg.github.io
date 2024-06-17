@@ -1,0 +1,55 @@
+Here is the summary in YAML format:
+
+```
+case_number: 19STCV40504
+hearing_date: 2024-04-25
+dept: 57
+plaintiff: [Name of Plaintiff]
+defendant: [Name of Defendant]
+people_names:
+  - [Name of Plaintiff]
+  - [Name of Defendant]
+company_names:
+  - [Name of Company, if applicable]
+places:
+  - [City/Court location]
+dates:
+  - 2023-10-18 (Order compelling Defendant to produce an unredacted claim file)
+  - 2024-04-25 (Hearing date)
+events:
+  - Plaintiff's motion for terminating sanctions
+  - Defendant's non-compliance with the Court's order
+  - Striking of Defendant's answer and entering a default against Defendant
+  - Granting of Plaintiff's request for sanctions in the form of attorney's fees
+money:
+  - Attorney's fees incurred in connection with the motion for terminating sanctions
+intentions:
+  - To grant Plaintiff's motion for terminating sanctions
+facts:
+  - Defendant's failure to produce an unredacted claim file
+  - Defendant's track record of non-compliance with the Court's discovery orders
+disputes:
+  - Plaintiff's allegations against Defendant
+acts:
+  - Defendant's failure to comply with the Court's order
+  - Plaintiff's request for terminating sanctions
+agreements:
+  - Court's October 18, 2023 order compelling Defendant to produce an unredacted claim file
+laws:
+  - [Relevant laws or court rules]
+case_citations:
+  - [Relevant case citations]
+statutes:
+  - [Relevant statutes]
+roles:
+  - Judge
+  - Plaintiff
+  - Defendant
+significant_statements:
+  - The Court has determined that Defendant has willfully disregarded the Court's October 18, 2023 order compelling Defendant to produce an unredacted claim file.
+  - The Court's decision to grant Plaintiff's motion for terminating sanctions renders moot Defendants' pending discovery motions that are on calendar today.
+```
+
+And here is the English-text summary:
+
+The Judge has issued a tentative ruling in the case. The Plaintiff's motion for terminating sanctions is granted. The Judge has determined that the Defendant has willfully disregarded the Court's order to produce an unredacted claim file. The Defendant's failure to comply with the order is not considered a "technical violation", but rather a violation of the order. The Judge has taken into account the Defendant's track record of non-compliance with the Court's discovery orders and has decided to strike the Defendant's answer and enter a default against the Defendant. The Plaintiff's request for sanctions in the form of attorney's fees incurred in connection with the motion for terminating sanctions is also granted. The Judge's decision renders moot the Defendant's pending discovery motions that were scheduled for today.

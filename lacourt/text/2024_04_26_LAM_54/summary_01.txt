@@ -1,0 +1,61 @@
+Here is the YAML summary of the legal document:
+
+```
+case_number: 22STCV01203
+plaintiffs_name: 740 South Broadway Associates, LLC
+defendants_name: Chol Enterprises, Inc.
+people_names:
+  - Maurice A. Leiter (Judge)
+company_names:
+  - 740 South Broadway Associates, LLC
+  - Chol Enterprises, Inc.
+places:
+  - Los Angeles
+  - California
+dates:
+  - April 26, 2024
+  - October 2023
+  - November 2023
+events:
+  - Motion to Compel Acknowledgement of Partial Satisfaction of Judgment
+  - Hearing Date: April 26, 2024
+money:
+  - $70,000.00 (security deposit)
+  - $100,000.00 (past unpaid rent)
+  - $161,572.19 (total judgment amount)
+intentions:
+  - Defendant to apply security deposit to judgment
+  - Plaintiff to not apply security deposit to judgment
+facts:
+  - Defendant paid Plaintiff a security deposit at the start of tenancy
+  - Plaintiff has refused to refund the deposit
+  - Lease allows security deposit to be used for unpaid rent
+disputes:
+  - Amount owed for October and November 2023 disputed
+acts:
+  - Defendant moves for order requiring Plaintiff to file acknowledgement of partial satisfaction of judgment
+  - Plaintiff opposes motion
+  - Defendant replies to opposition
+agreements:
+  - Lease agreement allowing security deposit to be used for unpaid rent
+laws:
+  - California Code of Civil Procedure (CCP) §724.030
+  - CCP §724.050
+  - CCP §724.110
+case_citations: []
+statutes:
+  - CCP §724.030
+  - CCP §724.050
+  - CCP §724.110
+roles:
+  - Judge Maurice A. Leiter
+  - Plaintiff 740 South Broadway Associates, LLC
+  - Defendant Chol Enterprises, Inc.
+significant_statements:
+  - Judge declines to order partial satisfaction of judgment
+  - Defendant's motion is denied
+```
+
+And here is the English-text summary of the Judge's tentative ruling:
+
+The judge has denied the defendant's motion to compel the plaintiff to acknowledge partial satisfaction of judgment in the amount of $70,000.00. The defendant had argued that the plaintiff should apply the security deposit to the judgment, but the plaintiff maintained that the deposit has already been applied to unpaid rent from October and November 2023. The judge found no authority requiring the defendant to apply the security deposit to the judgment and therefore declined to order a partial satisfaction of judgment.

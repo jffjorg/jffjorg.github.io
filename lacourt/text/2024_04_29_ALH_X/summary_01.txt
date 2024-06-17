@@ -1,0 +1,78 @@
+Here is the summary in YAML format:
+
+```
+case_number: 23AHCV00226
+plaintiff: Jose G. Sanchez
+defendant: Albertsons, LLC
+people_names:
+  - Jose G. Sanchez
+  - Yosi Yahoudai
+company_names:
+  - Albertsons Companies, Inc.
+  - Albertsons, LLC
+places:
+  - California
+dates:
+  - April 22, 2024
+  - November 1, 2023
+  - December 28, 2023
+  - July 12, 2023
+  - November 8, 2023
+  - March 6, 2024
+events:
+  - Negligence and premises liability case
+  - Plaintiff injured at store owned by Defendants
+  - Defendant filed motions to compel responses to requests for production and form and special interrogatories
+  - Plaintiff failed to serve timely responses
+  - Defendant seeks sanctions
+money:
+  - $1,060.00
+  - $3,180.00
+  - $1,305.00
+intentions:
+  - Defendant seeks to compel responses to requests for production and form and special interrogatories
+  - Plaintiff failed to comply with discovery requests
+  - Defendant seeks sanctions for Plaintiff's failure to comply
+facts:
+  - Plaintiff was injured at a store owned by Defendants
+  - Defendant filed motions to compel responses to requests for production and form and special interrogatories
+  - Plaintiff failed to serve timely responses
+  - Defendant seeks sanctions for Plaintiff's failure to comply
+disputes:
+  - Defendant's motion to compel responses to requests for production and form and special interrogatories
+  - Defendant's request for sanctions
+acts:
+  - Plaintiff failed to serve timely responses to Defendant's requests
+  - Defendant seeks sanctions for Plaintiff's failure to comply
+  - Defendant's motions to compel responses to requests for production and form and special interrogatories
+agreements:
+  - Plaintiff's counsel was relieved from representation
+  - Parties agreed to extensions for responses
+  - Defendant seeks sanctions
+laws:
+  - California Code of Civil Procedure
+  - California Civil Code
+  - California Rules of Civil Procedure
+case_citations:
+  - California Code of Civil Procedure § 2030.010
+  - California Code of Civil Procedure § 2031.010
+  - California Code of Civil Procedure § 2030.210
+  - California Code of Civil Procedure § 2031.210
+  - California Code of Civil Procedure § 2030.290
+  - California Code of Civil Procedure § 2031.300
+statutes:
+  - California Code of Civil Procedure
+  - California Civil Code
+  - California Rules of Civil Procedure
+roles:
+  - Plaintiff: Jose G. Sanchez
+  - Defendant: Albertsons, LLC
+  - Judge: Joel L. Lofton
+significant_statements:
+  - Defendant's motion to compel responses to requests for production and form and special interrogatories is GRANTED.
+  - Sanctions are awarded against Plaintiff in the amount of $1,305.00.
+```
+
+And here is the English-text summary:
+
+This tentative ruling by Judge Joel L. Lofton addresses a motion to compel responses to requests for production and form and special interrogatories filed by Defendant Albertsons, LLC. The Plaintiff, Jose G. Sanchez, failed to serve timely responses to the Defendant's requests, and the court grants the motion. The Defendant seeks sanctions in the amount of $1,305.00 for the Plaintiff's failure to comply with discovery requests. The court notes that the Plaintiff was directed to comply with the Defendant's request for discovery on the last court date of March 6, 2024. The court awards sanctions against the Plaintiff in the amount of $1,305.00.

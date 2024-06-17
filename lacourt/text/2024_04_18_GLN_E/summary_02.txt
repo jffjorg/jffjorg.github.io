@@ -1,0 +1,78 @@
+Here is the summary in YAML format:
+
+```
+case_number: 21PSCV01086
+plaintiff_name: ERIC CHEN, et al.
+defendant_name: JAMES WU, et al.
+people_names:
+  - ERIC CHEN
+  - JAMES WU
+  - WEN HUANG
+  - LYLE MINK
+  - PFRANCEZ QUIJANO
+company_names:
+  - All Good Escrow
+places:
+  - California
+dates:
+  - 2024-01-24 (deposition)
+  - 2024-03-08 (motion filed)
+  - 2024-03-11 (notice to take motion off calendar)
+  - 2024-03-20 (email to Defendant's counsel)
+  - 2024-04-18 (hearing date)
+events:
+  - Deposition of Wen Huang
+  - Motion for protective order
+  - Notice to take motion off calendar
+  - Withdrawal of motion
+  - Email exchange between parties
+money:
+  - Sanctions
+  - Attorney's fees
+  - Expenses
+intentions:
+  - Oppose motion for protective order
+  - Seek sanctions against Defendants
+  - Object to withdrawal of motion
+facts:
+  - Email produced by Wen Huang during deposition
+  - Subpoena served on Ms. Huang
+  - Motion for protective order filed
+  - Notice to take motion off calendar filed
+disputes:
+  - Dispute over production of evidence
+  - Dispute over sanctions
+  - Dispute over withdrawal of motion
+acts:
+  - Deposition of Wen Huang
+  - Service of subpoena on Ms. Huang
+  - Filing of motion for protective order
+  - Notice to take motion off calendar
+  - Withdrawal of motion
+agreements:
+  - Parties' agreement to withdraw motion
+  - Parties' agreement to withdraw subpoena
+laws:
+  - CCP § 2025.420(h)
+  - CCP § 2023.020
+  - Evidence Code section 970 and 980
+case_citations:
+  - CCP § 2025.420(h)
+  - CCP § 2023.020
+  - Evidence Code section 970 and 980
+statutes:
+  - California Code of Civil Procedure (CCP)
+  - California Evidence Code
+roles:
+  - Plaintiff
+  - Defendant
+  - Counsel
+  - Judge
+significant_statements:
+  - "The court shall impose a monetary sanction under Chapter 7 (commencing with § 2023.010) against any party, person, or attorney who unsuccessfully makes or opposes a motion for a protective order, unless it finds that the one subject to the sanction acted with substantial justification or that other circumstances make the imposition of the sanction unjust." (CCP § 2025.420(h).)
+  - "Notwithstanding the outcome of the particular discovery motion, the court shall impose a monetary sanction ordering that any party or attorney who fails to confer as required pay the reasonable expenses, including attorney’s fees, incurred by anyone as a result of that conduct." (CCP § 2023.020)
+```
+
+And here is a summary of the judge's tentative ruling in English text:
+
+The judge will hear from the parties on the motion for protective order. The motion was filed by the defendants on March 8, 2024, and was taken off calendar on March 11, 2024. The opposition argues that sanctions should be imposed against the defendants for their alleged failure to produce evidence and for their attempt to withdraw the motion without giving the plaintiff adequate time to respond. The opposition cites California Code of Civil Procedure sections 2025.420(h) and 2023.020 in support of its argument. The judge will consider the parties' arguments and make a final ruling on the motion.

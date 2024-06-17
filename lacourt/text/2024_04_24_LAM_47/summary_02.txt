@@ -1,0 +1,86 @@
+Here is the YAML summary of the tentative ruling:
+
+```
+case_number: 22STCV34229
+plaintiff: Elysian Health, LLC, et al.
+defendant: Justin White, et al.
+people:
+  - Judge Theresa M. Traber
+  - Judge Norman Tarle (ret.)
+  - Judge Benny Osorio (ret.)
+  - Judge Jacqueline Connor (ret.)
+  - Justin White
+  - Justin Ament
+  - Deena Manion
+  - David Bifulco
+  - Priya Martindale
+  - Zachary Ament
+companies:
+  - Elysian Health, LLC
+  - Applied Approach Services, Inc.
+  - Modern Management Solutions, Inc.
+places:
+  - West Hollywood
+  - Bend, Oregon
+  - Maui
+  - Mammoth
+  - Palm Springs
+  - Florida
+  - North Carolina
+  - New York
+  - Las Vegas
+dates:
+  - October 24, 2022
+  - November 3, 2022
+  - March 20, 2023
+  - August 21, 2023
+  - November 20, 2023
+  - February 13, 2024
+  - April 24, 2024
+events:
+  - Complaint filed
+  - First Amended Complaint filed
+  - Second Amended Complaint filed
+  - Third Amended Complaint filed
+  - Fourth Amended Complaint
+  - Fifth Amended Complaint
+  - Hearing on Motion for Order Appointing Discovery Referee
+money:
+  - $961,425
+  - $128,000
+  - $880 (hourly rate of the referee)
+  - 1/3 (pro rata share of the referee's fees)
+  - 2/3 (pro rata share of the referee's fees)
+intentions:
+  - To appoint a discovery referee to mitigate the burden on the Court's time and resources
+  - To determine the apportionment of fees for the discovery referee
+facts:
+  - The parties have been intensely litigating discovery motions
+  - The Court has conducted six informal discovery conferences
+  - The parties have filed numerous discovery motions
+  - The Court is concerned about the impact of the discovery motions on its time and resources
+disputes:
+  - The dispute is over the appointment of a discovery referee and the apportionment of fees
+acts:
+  - The moving parties have filed a motion for an order appointing a discovery referee
+  - The Court has conducted informal discovery conferences
+  - The parties have filed numerous discovery motions
+agreements:
+  - The parties have agreed that a discovery referee is necessary
+  - The parties have agreed on the hourly rate of the referee
+laws:
+  - Code of Civil Procedure section 639
+  - Code Civ. Proc. § 639(a)(5)
+  - Code Civ. Proc. § 639(c)
+  - Code Civ. Proc. § 639(d)
+roles:
+  - The Court is authorized to appoint a referee
+  - The referee is responsible for hearing and determining discovery motions
+  - The parties are responsible for paying the costs of the referee
+significant statements:
+  - The Court finds that the numerous discovery motions and disputes in this case necessitate the appointment of a discovery referee.
+  - The Court appoints the Hon. Norman Tarle (ret.) as the discovery referee.
+  - The parties are responsible for paying the costs of the referee in a pro rata share.
+```
+
+Note that the YAML summary aims to summarize the main points of the tentative ruling, but it may not capture every detail.

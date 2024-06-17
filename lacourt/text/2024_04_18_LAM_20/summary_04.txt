@@ -1,0 +1,67 @@
+Here is the summary in YAML format:
+
+```
+case_number: 2021-001234
+plaintiff_name: D&M Restaurant Group, Inc.
+defendant_name: First Mercury Insurance Company
+people_names:
+  - Cliff Zeigler
+company_names:
+  - D&M Restaurant Group, Inc.
+  - First Mercury Insurance Company
+places:
+  - Los Angeles, CA
+  - 118 West 5th Street
+  - 500 S. Spring Street
+dates:
+  - March 18, 2021
+  - July 2019
+events:
+  - Vandalism during George Floyd riots
+  - Insurance policy issued to D&M Restaurant Group, Inc.
+  - Motion for summary judgment filed by First Mercury Insurance Company
+  - Tentative ruling issued by Judge
+money:
+  - Insurance premiums
+  - Damages claimed by D&M Restaurant Group, Inc.
+intention:
+  - To determine whether First Mercury Insurance Company is liable for damages to D&M Restaurant Group, Inc.
+facts:
+  - D&M Restaurant Group, Inc. owns a business with two public rooms
+  - First Mercury Insurance Company issued a commercial lines policy to D&M Restaurant Group, Inc.
+  - Policy does not specifically mention "Gamez Bar" as a covered entity
+  - D&M Restaurant Group, Inc. claims that "Gamez Bar" is a dba of the business
+disputes:
+  - Whether "Gamez Bar" is a covered entity under the insurance policy
+  - Whether First Mercury Insurance Company is liable for damages to D&M Restaurant Group, Inc.
+acts:
+  - Vandalism during George Floyd riots
+  - Insurance policy issued to D&M Restaurant Group, Inc.
+  - Motion for summary judgment filed by First Mercury Insurance Company
+agreements:
+  - Insurance policy issued to D&M Restaurant Group, Inc.
+  - Lease for the business
+  - Business licenses and liquor licenses
+laws:
+  - California Code of Civil Procedure § 437c(p)(2)
+  - Aguilar v. Atlantic Richfield Co. (2001) 25 Cal.4th 826
+  - Hinesley v. Oakshade Town Center (2005) 135 Cal.App.4th 289
+  - Dore v. Arnold Worldwide, Inc. (2006) 39 Cal.4th 384
+case_citations:
+  - Aguilar v. Atlantic Richfield Co. (2001) 25 Cal.4th 826
+  - Hinesley v. Oakshade Town Center (2005) 135 Cal.App.4th 289
+  - Dore v. Arnold Worldwide, Inc. (2006) 39 Cal.4th 384
+statutes:
+  - California Code of Civil Procedure § 437c(p)(2)
+roles:
+  - Judge
+  - Plaintiff (D&M Restaurant Group, Inc.)
+  - Defendant (First Mercury Insurance Company)
+significant_statements:
+  - The court finds that there are triable issues as to whether the bar was also insured.
+  - The court denies the motion for summary judgment.
+```
+
+Here is the English-text summary of the judge's tentative ruling:
+
+The judge's tentative ruling is that the motion for summary judgment filed by First Mercury Insurance Company is denied. The court finds that there are triable issues as to whether the bar, "Gamez Bar", was also insured under the insurance policy issued to D&M Restaurant Group, Inc. The court concludes that the evidence presented by D&M Restaurant Group, Inc. raises a triable issue as to whether the bar was a covered entity under the policy. Therefore, the court denies the motion for summary judgment and sets the case for further proceedings.

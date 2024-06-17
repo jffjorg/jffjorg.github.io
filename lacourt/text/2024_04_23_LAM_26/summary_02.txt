@@ -1,0 +1,52 @@
+Here is a summary of the tentative ruling in YAML format:
+
+```
+case_number: 22STCV19727
+hearing_date: 2024-04-23
+judge: Yolanda Orozco
+parties:
+  plaintiff: Natalie Ann Johnson
+  defendants: Michael Delahoussay, Gerardo Alfaro, Pedro Quiroz, MD Consulting
+  cross-complainants: Michael Delahoussay, Gerardo Alfaro, Pedro Quiroz
+agreements:
+  - written agreements between Johnson and each of the cross-complainants
+  - oral agreements between Johnson and each of the cross-complainants
+causes_of_action:
+  - breach of contract
+  - promissory fraud
+  - violations of Business and Professions Code sections 17200, 7031
+  - quantum meruit
+facts:
+  - Johnson and each of the cross-complainants entered into written and oral agreements
+  - Johnson made fraudulent promises to each of the cross-complainants
+  - Johnson had no intention of paying the amounts owed to each of the cross-complainants
+disputes:
+  - whether the cross-complainants' claims are barred by the statute of limitations
+  - whether the cross-complainants' claims are barred by the doctrine of res judicata
+  - whether Johnson's claims are barred by the statute of limitations
+  - whether Johnson's claims are barred by the doctrine of res judicata
+intentions:
+  - Johnson's intention to deceive and induce the cross-complainants to perform work without payment
+roles:
+  - Johnson: plaintiff, defendant, and cross-defendant
+  - cross-complainants: defendants, cross-defendants, and plaintiffs
+  - court: judge: Yolanda Orozco
+statutes:
+  - Business and Professions Code sections 17200, 7031
+  - Code of Civil Procedure section 430.41
+  - California Civil Code section 3124
+laws:
+  - California Civil Code section 3124
+  - Business and Professions Code section 7031
+citations:
+  - Kim v. TWA Construction, Inc.
+  - Ranchwood Communities Limited Partnership v. Jim Beat Construction Co.
+  - Rossberg v. Bank of America, N.A.
+  - Cansino v. Bank of America
+  - McKell v. Washington Mutual, Inc.
+  - Cansino v. Bank of America
+  - Rossberg v. Bank of America, N.A.
+```
+And here is a summary of the tentative ruling in English text:
+
+The court rules on the demurrer filed by Cross-Defendant Natalie Ann Johnson to the First Amended Cross-Complaint (FACC) filed by the Cross-Complainants. The court finds that the FACC contains sufficient allegations to state a cause of action for breach of contract, promissory fraud, and violations of Business and Professions Code sections 17200 and 7031. The court also finds that the FACC contains sufficient allegations to state a cause of action for quantum meruit. The court denies Johnson's demurrer and overrules it. The court orders that Johnson file proof of service and give notice to the parties.

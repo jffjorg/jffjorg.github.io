@@ -1,0 +1,84 @@
+Here is the summary in YAML format:
+
+```
+Case:
+  Number: 23STLC06603
+  Name: Comer v. NJS Construction, Inc., et al.
+
+Plaintiff:
+  Name: John Comer
+  Role: Plaintiff
+
+Defendant:
+  Name: Jack Saiege
+  Company: NJS Construction, Inc.
+
+People:
+  - Jack Saiege
+  - John Comer
+
+Company:
+  - NJS Construction, Inc.
+
+Places:
+  - Spring Street Courthouse
+
+Dates:
+  - October 16, 2023
+  - January 25, 2024
+  - March 25, 2024
+  - April 8, 2024
+  - April 16, 2024
+  - May 29, 2024
+
+Events:
+  - Filing of the instant action
+  - Failure to file a responsive pleading
+  - Entry of default
+  - Filing of a Motion to Vacate Entry of Default
+  - Filing of opposition
+  - Filing of reply
+
+Money: None
+
+Intentions:
+  - To vacate the entry of default
+
+Facts:
+  - Plaintiff filed the instant action
+  - Defendant Saiege failed to file a responsive pleading
+  - Defendant Saiege filed a Motion to Vacate Entry of Default
+  - Plaintiff filed an opposition
+  - Defendant Saiege replied
+
+Disputes:
+  - Dispute over the timely service of opposition papers
+
+Acts:
+  - Filing of papers
+  - Service of papers
+
+Agreements:
+  - Code of Civil Procedure
+
+Laws:
+  - CCP (Code of Civil Procedure) § 473(a)(1)
+
+Case Citations:
+  - None
+
+Statutes:
+  - CCP § 473(a)(1)
+
+Roles:
+  - Judge: [Judge's Name]
+  - Plaintiff: John Comer
+  - Defendant: Jack Saiege
+
+Significant Statements:
+  - "Defendant Saiege’s Motion to Vacate Entry of Default is CONTINUED TO MAY 29, 2024 AT 10:00 AM IN DEPARTMENT 24 IN THE SPRING STREET COURTHOUSE. REPLY PAPERS ARE TO BE FILED AND SERVED PER THE CODE OF CIVIL PROCEDURE."
+```
+
+And here is the English-text summary:
+
+The Tentative Ruling is a summary of the Judge's thinking based on the information presented before the Court. The case is Comer v. NJS Construction, Inc., et al., with the Plaintiff being John Comer and the Defendant being Jack Saiege. The Defendant filed a Motion to Vacate Entry of Default, which was opposed by the Plaintiff. The reply pointed out that the opposition papers were not timely served and requested a short continuance to allow for a response on the merits. Therefore, the hearing on the Motion is continued to May 29, 2024 at 10:00 am in Department 24 in the Spring Street Courthouse.

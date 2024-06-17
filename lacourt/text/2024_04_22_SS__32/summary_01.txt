@@ -1,0 +1,65 @@
+Here is the YAML summary of the tentative ruling:
+
+```
+case_number: 20STCV48002
+plaintiff_name: Douglas Da Silva McGlew
+defendant_name: Fatameh Shamie and Mohammed Shamie
+people_names:
+  - Douglas Da Silva McGlew
+  - Fatameh Shamie
+  - Mohammed Shamie
+  - Edna Wenning
+  - Brian Grossman
+company_names: []
+places:
+  - Los Angeles
+  - California
+dates:
+  - December 16, 2020
+  - December 12, 2023
+  - January 24, 2024
+  - January 31, 2024
+  - April 22, 2024
+events:
+  - Motor vehicle accident
+  - Demand for physical examination
+  - Motion to compel
+  - Physical examination
+money:
+  - $561.65 (monetary sanctions)
+  - $250 (hourly rate)
+  - $61.65 (filing fee)
+intention: To compel plaintiff to appear for a physical examination
+facts:
+  - Plaintiff filed a complaint against defendants
+  - Defendants moved to compel plaintiff to appear for a physical examination
+  - Plaintiff did not oppose the motion
+  - No meet and confer took place
+disputes:
+  - Whether plaintiff should appear for a physical examination
+  - Whether plaintiff should be sanctioned
+acts:
+  - Plaintiff filed a complaint
+  - Defendants moved to compel plaintiff to appear for a physical examination
+  - Plaintiff did not oppose the motion
+  - No meet and confer took place
+agreements:
+  - None
+laws:
+  - California Code of Civil Procedure § 2032.220
+  - California Code of Civil Procedure § 2032.250
+statutes:
+  - California Code of Civil Procedure
+roles:
+  - Plaintiff: Douglas Da Silva McGlew
+  - Defendant: Fatameh Shamie and Mohammed Shamie
+  - Attorney: Brian Grossman (orthopedic surgeon)
+  - Judge: (author of the tentative ruling)
+significant_statements:
+  - The court shall impose a monetary sanction against any party, person, or attorney who unsuccessfully makes or opposes a motion to compel compliance with a demand for a physical examination, unless it finds that the one subject to the sanction acted with substantial justification or that other circumstances make the imposition of the sanction unjust.
+  - The court shall grant the motion to compel plaintiff to appear for a physical examination with Dr. Grossman.
+```
+
+And here is the English text to summarize the judge's tentative ruling:
+
+"This tentative ruling grants the defendants' motion to compel the plaintiff to appear for a physical examination with Dr. Brian Grossman. The motion was unopposed and the court finds that the examination does not contain any diagnostic test or procedure that is painful, protracted, or intrusive. The court also denies the defendants' request for monetary sanctions against the plaintiff and/or his counsel of record. The plaintiff shall appear for an examination with Dr. Grossman within 30 days."
