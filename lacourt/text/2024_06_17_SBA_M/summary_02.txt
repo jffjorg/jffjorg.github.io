@@ -1,0 +1,74 @@
+Here is the summary in YAML format:
+
+```
+case_number: 23TRCV04014
+plaintiff_name: Ally Bank
+defendant_name: National Transportation, Inc. et al.
+people_names:
+  - James Singleton
+company_names:
+  - Ally Bank
+  - National Transportation, Inc.
+places:
+  - Los Angeles
+  - Southwest District
+dates:
+  - December 1, 2023
+  - June 17, 2024
+events:
+  - Application for Writ of Possession
+  - Hearing
+  - Possession of vehicle
+money:
+  - $29,960.70
+intentions:
+  - Obtain judgment against defendant
+  - Obtain possession of vehicle
+facts:
+  - Breach of motor vehicle retail installment contract
+  - Claim and delivery of personal property
+  - Money due on a contract
+disputes:
+  - Probable validity of claim
+  - Detention of property
+acts:
+  - Signing of application for writ of possession
+  - Issuance of writ
+  - Possession of vehicle
+agreements:
+  - Code of Civil Procedure (CCP) § 512.040(b)
+  - CCP § 512.010
+  - CCP § 511.090
+  - CCP § 512.050
+laws:
+  - Code of Civil Procedure (CCP)
+  - CCP § 512.040(b)
+  - CCP § 512.010
+  - CCP § 511.090
+  - CCP § 512.050
+  - CCP § 515.020(a)
+case_citations:
+  - CCP § 512.040(b)
+  - CCP § 512.010
+  - CCP § 511.090
+  - CCP § 512.050
+  - CCP § 515.020(a)
+statutes:
+  - Code of Civil Procedure (CCP)
+  - CCP § 512.040(b)
+  - CCP § 512.010
+  - CCP § 511.090
+  - CCP § 512.050
+  - CCP § 515.020(a)
+roles:
+  - Judge: Honorable Gary Y. Tanaka
+  - Plaintiff: Ally Bank
+  - Defendant: National Transportation, Inc. et al.
+significant_statements:
+  - Plaintiff has met its burden to establish the probable validity of its claim.
+  - Plaintiff is not required to post an undertaking.
+```
+
+And the English-text summary:
+
+The Judge's tentative ruling grants Ally Bank's application for a writ of possession to obtain possession of a vehicle that was the subject of a sales agreement. The Judge finds that Ally Bank has set forth all the essential elements required in CCP § 512.010(b) and has met its burden to establish the probable validity of its claim. The Judge orders Ally Bank to give notice of this ruling.

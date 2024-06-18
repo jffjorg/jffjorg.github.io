@@ -1,0 +1,70 @@
+Here is the YAML file:
+
+```
+---
+Case Number: 23TRCV03578
+Judge: 
+Plaintiff's Name: Klarissa Caitlyn Barajas
+Defendant's Name: American Honda Motor Co., Inc., et al.
+People Names:
+  - Klarissa Caitlyn Barajas
+  - Maria Elena Sanchez Davilla
+  - Jenri Pinto Burgos
+  - Ken Garff
+Company Names:
+  - American Honda Motor Co.
+  - Ken Garff Automotive Group
+  - Long Beach Honda
+Places:
+  - Apple Valley
+  - Corona
+  - Los Angeles
+Dates:
+  - October 26, 2023
+  - January 29, 2024
+  - November 26, 2021
+  - April 12, 2024
+Events:
+  - Demurrer hearing
+  - Product liability action
+  - Accident involving a 2017 Honda Civic
+Money:
+  - None mentioned
+Intentions:
+  - Plaintiff seeks damages for injuries sustained in an accident
+Facts:
+  - Plaintiff was the driver of a 2017 Honda Civic that was struck in an intersection
+  - The airbags in the vehicle did not deploy
+  - Plaintiff alleges that the vehicle was defective and failed to inflate
+Disputes:
+  - Plaintiff alleges that the vehicle was defective and caused the accident
+  - Defendant argues that the allegations are insufficient
+Acts:
+  - Plaintiff filed a complaint against the defendants
+  - Defendant demurred to the second and third causes of action
+  - Plaintiff objects to the court taking judicial notice of the Buyers Guide
+Laws:
+  - California Civil Code §2313
+  - California Civil Code §1791.1(c)
+  - California Code of Civil Procedure §430.10(g)
+  - Evidence Code §452(h)
+Case Citations:
+  - Taylor v. City of Los Angeles Dept. of Water and Power (2006) 144 Cal. App. 4th 1216
+  - SKF Farms v. Superior Court (1984) 153 Cal. App. 3d 902
+  - Hahn v. Mirda (2007) 147 Cal. App. 4th 740
+  - American Suzuki Motor Corp. v. Superior Court (1995) 37 Cal.App.4th 1291
+  - Wise v. Southern Pac. Co. (1963) 223 Cal.App.2d 50
+  - Holly Sugar Corp. v. Johnson (1941) 18 Cal.2d 218
+  - Byrne v. Harvey (1962) 211 Cal.App.2d 92
+  - Mexia v. Rinker Boat Co., Inc. (2009) 174 Cal. App. 4th 1297
+Roles:
+  - Plaintiff: Klarissa Caitlyn Barajas
+  - Defendant: American Honda Motor Co., Inc. et al.
+Significant Statements:
+  - "The demurrer to the second cause of action is SUSTAINED with leave to amend."
+  - "The demurrer to the third cause of action is OVERRULED."
+```
+
+And here is the English text summarizing the judge's tentative ruling:
+
+"Based on the information presented, the court has considered the demurrer and has made the following ruling: the demurrer to the second cause of action (breach of express warranty) is sustained with leave to amend, and the demurrer to the third cause of action (breach of implied warranty) is overruled. The court has denied defendant's request to take judicial notice of the Buyers Guide, and has found that plaintiff's allegations are sufficient to state a claim for breach of implied warranty. The court has also given defendant notice of its ruling."

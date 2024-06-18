@@ -1,0 +1,29 @@
+Here is a summary of the tentative ruling in YAML format:
+
+```
+case_number: 23BBCV02172
+plaintiff_names: Marilyn R. Cortes Zapien and Maria Zapien
+defendant_names: Los Angeles Unified School District, City of Los Angeles, Los Angeles, State of California, Toluca Lake Elementary School, David Whaley, Jeffrey Daniel
+people_names: Marilyn R. Cortes Zapien, Maria Zapien, David Whaley, Jeffrey Daniel
+company_names: Los Angeles Unified School District, City of Los Angeles, Los Angeles Unified School District
+places: Los Angeles, Burbank, Toluca Lake Elementary School
+dates: April 12, 2024
+events: Demurrer, Motion to Strike, Hearing
+money: None
+intentions: To determine whether the complaint states a cause of action
+facts: The plaintiffs bring a complaint alleging sexual abuse by a teacher, and the defendants demur to the complaint on various grounds
+disputes: The defendants argue that the complaint does not state a cause of action against them
+acts: Demurrer, Motion to Strike
+agreements: None
+laws: California Rules of Court, Code of Civil Procedure, Evidence Code, Government Code
+case_citations: None
+statutes: California Rules of Court, Code of Civil Procedure, Evidence Code, Government Code
+roles: Judge, Plaintiff, Defendant
+significant_statements:
+  - The City's demurrer to the entire complaint is sustained without leave to amend.
+  - LAUSD and Daniel's demurrer to the entire complaint as brought by Plaintiff Marilyn is sustained with 20 days' leave to amend.
+  - The motion to strike is moot.
+```
+And here is a summary of the tentative ruling in English text:
+
+The tentative ruling sustains the demurrers of the City of Los Angeles, Los Angeles Unified School District, and Jeffrey Daniel to the entire complaint brought by the plaintiffs, Marilyn R. Cortes Zapien and Maria Zapien. The City's demurrer is sustained without leave to amend, while LAUSD and Daniel's demurrer is sustained with 20 days' leave to amend. The motion to strike is moot as the demurrers have been sustained. The ruling also notes that the court will not consider the sufficiency of facts in the complaint as the demurrers have been sustained.

@@ -1,0 +1,67 @@
+Here is the YAML representation of the legal document:
+
+```yaml
+Case Number: 23SMCV01693
+Plaintiff's Name: Breanna C. Webb
+Defendant's Name: Pepperdine University
+People-Names:
+  - Nicole Koski
+  - Camila Bonavia
+  - Mr. Perrin
+  - Mr. Stiemsma
+Company-Names:
+  - Pepperdine University
+Places:
+  - California
+  - United States
+Dates:
+  - April 12, 2024
+  - March 26, 2024
+  - March 12, 2024
+  - 2024
+Events:
+  - Motion to Compel Further Responses
+  - Request for Production of Documents (RPD)
+Money:
+  - None
+Intentions:
+  - To compel further responses to requests for production
+Facts:
+  - Plaintiff moves to compel Defendant to produce further documents
+  - Defendant produced some documents, but Plaintiff believes there are more
+Disputes:
+  - Plaintiff believes Defendant is withholding documents
+  - Defendant believes they have produced all responsive documents
+Acts:
+  - Plaintiff filed motion to compel further responses
+  - Defendant produced additional documents in response
+  - Plaintiff believes there are still outstanding documents
+  - Defendant believes Plaintiff's claims are unfounded
+Agreements:
+  - None
+Laws:
+  - California Code of Civil Procedure (CCP) section 2017.010
+  - CCP section 2031.310
+  - CCP section 2030.300
+  - California Rules of Court (CRC) rule 3.1345
+  - CCP section 2031.310(c)
+Statutes:
+  - CCP section 2017.010
+  - CCP section 2031.310
+  - CCP section 2030.300
+  - CCP section 2031.310(c)
+Roles:
+  - Plaintiff: Breanna C. Webb
+  - Defendant: Pepperdine University
+Significant Statements:
+  - "In the absence of contrary court order, a civil litigant's right to discovery is broad."
+  - "For discovery purposes, information is relevant if it 'might reasonably assist a party in evaluating the case, preparing for trial, or facilitating settlement.'"
+  - "A motion to compel further responses to a demand for inspection or production of documents (RPD) may be brought based on: (1) incomplete statements of compliance; (2) inadequate, evasive or incomplete claims of inability to comply; or (3) unmerited or overly generalized objections."
+  - "To establish 'good cause,' the burden is on the moving party to show both: [¶] Relevance to the subject matter (e.g., how the information in the documents would tend to prove or disprove some issue in the case); and [¶] Specific facts justifying discovery (e.g., why such information is necessary for trial preparation or to prevent surprise at trial.)"
+  - "The fact that there is no alternative source for the information sought is an important factor in establishing 'good cause' for inspection. But it is not essential in every case."
+  - "The Court finds such circumstances here. The Court is not inclined to grant sanctions against Plaintiff for this motion."
+```
+
+And the English text to summarize this judge's tentative ruling:
+
+The court has denied the plaintiff's motion to compel further responses from the defendant. The plaintiff argued that the defendant failed to produce all responsive documents, including certain communications and the plaintiff's employee file. However, the court found that the plaintiff did not meet their burden to show that the defendant had withheld the requested employee file or its contents. The court also found that the plaintiff's claims about the defendant's job description and job duties were unfounded. As for the defendant's production of additional documents, the court found that the plaintiff's evidence suggested that certain responsive documents existed, but the court was not convinced that there were any further outstanding documents to produce. The court also found that the plaintiff's motion was not entirely frivolous or without merit, and therefore did not grant sanctions against the plaintiff.

@@ -1,0 +1,72 @@
+Here is the summary in YAML format:
+
+```
+case_number: 23STCV09605
+plaintiff: Isaiah Dryer
+defendant: The Regents of the University of California, et al.
+people_names:
+  - Isaiah Dryer
+  - Holly J. Fujie
+company_names:
+  - University of California
+places:
+  - Los Angeles
+  - California
+dates:
+  - April 15, 2024
+  - April 22, 2024
+  - May 3, 2024
+  - May 10, 2024
+  - May 17, 2024
+  - April 28, 2023
+  - December 18, 2023
+  - February 26, 2024
+  - April 2, 2024
+events:
+  - Employment discrimination
+  - Failure to prevent discrimination
+  - Failure to engage in a timely good faith interactive process
+  - Failure to provide reasonable accommodation
+  - Retaliation
+  - Harassment
+  - Failure to prevent harassment
+money:
+  - None mentioned
+intentions:
+  - To resolve disputes between parties
+facts:
+  - Plaintiff filed an employment discrimination lawsuit
+  - Defendant filed a demurrer to the plaintiff's second amended complaint
+  - The parties failed to meet and confer prior to filing the demurrer
+disputes:
+  - Dispute over whether the demurrer should be sustained or overruled
+acts:
+  - Filing of demurrer
+  - Filing of opposition
+  - Failure to meet and confer
+agreements:
+  - Parties agree to meet and confer by April 22, 2024
+  - Plaintiff's opposition is due May 3, 2024
+  - Any reply is due May 10, 2024
+  - Hearing is continued to May 17, 2024 at 8:30 a.m.
+laws:
+  - California Code of Civil Procedure (CCP) § 430.41
+  - California Statutes
+case_citations:
+  - CCP § 430.41
+  - (See Code Civ. Proc., § 430.41.)
+statutes:
+  - California Code of Civil Procedure (CCP)
+roles:
+  - Judge: Holly J. Fujie
+  - Plaintiff: Isaiah Dryer
+  - Defendant: The Regents of the University of California
+significant_statements:
+  - The Court finds that Defendant has not sufficiently met and conferred prior to filing the demurrer.
+  - The parties are ordered to meet and confer by April 22, 2024.
+  - The hearing on the demurrer is continued to May 17, 2024 at 8:30 a.m.
+```
+
+And here is the English-text summary:
+
+This is a tentative ruling in a lawsuit filed by Isaiah Dryer against The Regents of the University of California and others. The lawsuit alleges employment discrimination, failure to prevent discrimination, and other related claims. The defendant filed a demurrer to the plaintiff's second amended complaint, arguing that the claims should be dismissed. The court finds that the defendant did not meet and confer with the plaintiff prior to filing the demurrer, as required by California law. The court therefore orders the parties to meet and confer by April 22, 2024, and sets a new hearing date of May 17, 2024 at 8:30 a.m.

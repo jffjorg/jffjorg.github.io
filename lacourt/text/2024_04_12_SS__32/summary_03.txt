@@ -1,0 +1,69 @@
+Here is a summary of the judge's tentative ruling in YAML format:
+
+```
+case_number: 22STCV04537
+plaintiff: Adelmo Rivera
+defendant: Palisades Village Center Associates, LLC
+people:
+  - Adelmo Rivera
+  - Victor Martinez
+companies:
+  - F&M Building Construction, Inc.
+  - Ayala Development
+  - Palisades Village Center
+places:
+  - Pacific Palisades, CA
+  - 881 Alma Real Drive, Pacific Palisades, CA
+dates:
+  - February 4, 2022
+  - April 16, 2020
+  - January 20, 2020
+  - April 15, 2024
+events:
+  - Construction accident
+  - Injury
+  - Workers' compensation
+money:
+  - Workers' compensation insurance
+  - Policy No. 9274568
+  - April 15, 2024
+intentions:
+  - To determine whether Defendant is liable for Plaintiff's injuries
+facts:
+  - Defendant hired Ayala Development to manage renovation project
+  - Ayala Development hired F&M Building Construction, Inc. (FMBC) to perform work
+  - Plaintiff was hired by FMBC to mix concrete
+  - Plaintiff was injured by falling metal plate
+  - FMBC had workers' compensation insurance
+disputes:
+  - Whether Defendant is liable for Plaintiff's injuries
+  - Whether Privette doctrine applies
+acts:
+  - Defendant hired Ayala Development to manage renovation project
+  - Ayala Development hired FMBC to perform work
+  - Plaintiff was hired by FMBC to mix concrete
+  - Plaintiff was injured by falling metal plate
+agreements:
+  - Vendor Contract between Ayala Development and Palisades Village Center
+laws:
+  - Privette v. Superior Court (1993)
+  - Evidence Code section 669
+  - Civil Code section 1714
+citations:
+  - Privette v. Superior Court (1993) 5 Cal.4th 689
+  - Gonzalez v. Mathis (2021) 12 Cal.5th 29
+  - Hooker v. Department of Transportation (2002) 27 Cal.4th 198
+  - Kinsman v. Unocal Corp. (2005) 37 Cal.4th 659
+roles:
+  - Defendant: Palisades Village Center Associates, LLC
+  - Plaintiff: Adelmo Rivera
+significant statements:
+  - Defendant is not liable for Plaintiff's injuries under Privette doctrine
+  - Privette doctrine applies to independent contractors
+  - Defendant did not retain control over Plaintiff's work
+  - Defendant did not know of or should have known of any concealed hazards
+```
+
+And here is a summary of the judge's tentative ruling in English:
+
+The judge has granted Defendant Palisades Village Center Associates, LLC's motion for summary judgment. The Defendant has met its burden of showing that the Privette doctrine applies and that no recognized exceptions are applicable. The evidence shows that Defendant contracted with Ayala Development to manage and oversee the renovation project, and that Ayala later retained F&M Building Construction, Inc. (FMBC) for work. Plaintiff was hired by FMBC to perform work on the site. Since Plaintiff has not filed an opposition, he fails to meet his burden of showing a triable issue of fact. Therefore, the motion for summary judgment is granted.

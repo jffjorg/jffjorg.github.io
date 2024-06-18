@@ -1,0 +1,51 @@
+Here is the summary in YAML format:
+
+```
+case_number: ""
+plaintiff: "Petitioner"
+defendant: "Department of Motor Vehicles"
+people_names:
+  - Petitioner
+  - Gutierrez
+  company_names:
+    - California DUI Lawyers Association
+  places:
+    - California
+  dates:
+    - 2004
+    - 2022
+  events:
+    - Driving under the influence
+    - DUI arrest
+  money:
+    - None
+  intentions:
+    - To suspend driver's license
+  facts:
+    - Petitioner arrested for DUI
+    - Blood-alcohol concentration above 0.08%
+  disputes:
+    - None
+  acts:
+    - DUI arrest
+    - Blood test
+  agreements:
+    - Veh. Code § 13353(d)
+  laws:
+    - California Vehicle Code
+  case_citations:
+    - MacDonald v. Gutierrez (2004) 32 Cal.4th 150
+    - California DUI Lawyers Assn. v. Department of Motor Vehicles (2022) 77 Cal.App.5th 517
+  statutes:
+    - California Vehicle Code
+  roles:
+    - Judge
+  significant_statements:
+    - "Administrative per se" law
+    - DUI suspension
+    - Reasonable cause for arrest
+```
+
+And here is the English-text summary of the tentative ruling:
+
+The Judge has issued a tentative ruling in this case regarding the suspension of a driver's license due to a DUI arrest. The Court has determined that the "administrative per se" law requires the suspension of the license, as the petitioner was arrested for driving under the influence with a blood-alcohol concentration above 0.08%. This ruling is based on the California Vehicle Code and previous court decisions, including MacDonald v. Gutierrez and California DUI Lawyers Assn. v. Department of Motor Vehicles. The Judge finds that there is reasonable cause for the arrest and that the suspension is justified under the law.

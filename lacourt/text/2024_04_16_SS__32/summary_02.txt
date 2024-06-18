@@ -1,0 +1,60 @@
+Here is the YAML summary:
+
+```
+case_number: 21STCV24174
+plaintiff_name: Daniel Gomez
+defendant_name: Andrew Gutierrez
+people_names:
+  - Daniel Gomez
+  - Andrew Gutierrez
+company_names:
+  - none
+places:
+  - California
+dates:
+  - October 9, 2023
+  - April 16, 2024
+events:
+  - Motion to compel discovery
+  - Failure to respond to discovery requests
+  - Request for monetary sanctions
+money:
+  - $455.34 (requested)
+  - $900 (awarded)
+  - $160.17 (hourly rate)
+  - $60 (filing fee)
+intentions:
+  - To compel plaintiff to respond to discovery requests
+  - To seek monetary sanctions
+facts:
+  - Defendant served discovery requests on October 9, 2023
+  - No responses have been served
+  - Plaintiff failed to respond
+disputes:
+  - Failure to respond to discovery requests
+  - Request for monetary sanctions
+acts:
+  - Defendant served discovery requests
+  - Plaintiff failed to respond
+  - Defendant seeks monetary sanctions
+agreements:
+  - None
+laws:
+  - Code of Civil Procedure Section 2030.290
+  - Code of Civil Procedure Section 2031.300
+  - California Rules of Court, rule 3.1348(a)
+  - Cal. Rules of Court, rule 3.1348(a)
+roles:
+  - Defendant: Andrew Gutierrez
+  - Plaintiff: Daniel Gomez
+  - Counsel for Defendant
+  - Counsel for Plaintiff
+significant_statements:
+  - Defendant's motions to compel are granted.
+  - Plaintiff is ordered to provide verified responses to discovery requests.
+  - Defendant is awarded $900 in monetary sanctions.
+```
+
+Summary in English:
+
+This tentative ruling addresses a motion to compel discovery responses from the plaintiff, Daniel Gomez, to Defendant Andrew Gutierrez. The defendant served the discovery requests on October 9, 2023, but no responses have been received. The court grants the defendant's motions to compel and orders the plaintiff to provide verified responses without objection within 20 days. The court also awards the defendant $900 in monetary sanctions against the plaintiff and his attorney.

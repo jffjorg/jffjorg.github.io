@@ -1,0 +1,93 @@
+Here is the judge's tentative ruling in YAML format:
+
+```
+case_number: 21STCV45088
+hearing_date: 2024-04-15
+dept: 71
+judge: Hon. Daniel M. Crowley
+plainiffs:
+  - name: Allstate Insurance Company
+    counsel: [insert counsel name]
+defendants:
+  - name: Adam Avelardo Perez
+    counsel: [insert counsel name]
+  - name: Healthcare Financial Solutions, LLC
+    counsel: [insert counsel name]
+  - name: Rockpoint Funding, LLC
+    counsel: [insert counsel name]
+  - name: First Priority Management Services, LLC
+    counsel: [insert counsel name]
+people:
+  - name: Steele
+  - name: Reichmuth
+  - name: Farooq Mir
+companies:
+  - name: Allstate Insurance Company
+  - name: Healthcare Financial Solutions, LLC
+  - name: Rockpoint Funding, LLC
+  - name: First Priority Management Services, LLC
+places:
+  - Los Angeles
+dates:
+  - 2023-08-03 (subpoena served)
+  - 2023-08-24 (production date)
+  - 2023-09-18 (extension requested)
+  - 2023-12-19 (IDC Order)
+  - 2023-12-26 (objection filed)
+  - 2024-02-22 (motion filed)
+  - 2024-03-20 (opposition filed)
+  - 2024-04-08 (reply filed)
+  - 2024-04-15 (hearing date)
+events:
+  - Plaintiff served subpoena on Healthcare Financial Solutions, LLC
+  - Healthcare Financial Solutions, LLC failed to produce documents
+  - Plaintiff filed motion to compel compliance
+  - Defendant filed opposition
+  - Plaintiff filed reply
+  - Hearing scheduled
+  - Judge issues tentative ruling
+money: $7,800
+intentions:
+  - To compel Healthcare Financial Solutions, LLC to produce documents
+  - To compel Rockpoint Funding, LLC and First Priority Management Services, LLC to produce documents
+facts:
+  - Healthcare Financial Solutions, LLC failed to produce documents
+  - Rockpoint Funding, LLC and First Priority Management Services, LLC failed to produce documents
+disputes:
+  - Healthcare Financial Solutions, LLC and Rockpoint Funding, LLC and First Priority Management Services, LLC failed to comply with subpoenas
+  - Plaintiff seeks sanctions against defendants for non-compliance
+acts:
+  - Plaintiff served subpoena on Healthcare Financial Solutions, LLC
+  - Healthcare Financial Solutions, LLC failed to produce documents
+  - Plaintiff filed motion to compel compliance
+  - Defendant filed opposition
+  - Plaintiff filed reply
+  - Judge issues tentative ruling
+agreements:
+  - IDC Order (December 19, 2023)
+laws:
+  - California Code of Civil Procedure (CCP)
+  - Evidence Code
+  - California Rules of Court
+citations:
+  - CCP §2031.320
+  - CCP §2031.240
+  - CCP §2025.480
+  - CCP §1987.1
+statutes:
+  - California Code of Civil Procedure (CCP)
+  - Evidence Code
+  - California Rules of Court
+roles:
+  - Judge: Hon. Daniel M. Crowley
+  - Plaintiff: Allstate Insurance Company
+  - Defendant: Healthcare Financial Solutions, LLC
+  - Defendant: Rockpoint Funding, LLC
+  - Defendant: First Priority Management Services, LLC
+significant statements:
+  - "Plaintiff's motion to compel compliance is granted."
+  - "Plaintiff's request for monetary sanctions against Defendant Healthcare Financial Solutions, LLC and its counsel, Ervin Cohen & Jessup LLP, is denied."
+  - "Plaintiff's motion to compel non-parties Rockpoint Funding, LLC, and First Priority Management Services, LLC to comply with Plaintiff's subpoenas for business records is granted."
+```
+
+Note that this is a summary of the judge's tentative ruling, and it may not include every detail or nuance of the original document.

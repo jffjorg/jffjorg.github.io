@@ -1,0 +1,48 @@
+Here is the summary in YAML format:
+
+```
+case_number: 24STCP00091
+hearing_date: 2024-04-15
+dept: 9
+plaintiff: 
+defendant: 
+people_names:
+  - Petitioner
+  - Court Clerk
+company_names: 
+places: 
+dates:
+  - 2024-02-09
+  - 2024-04-15
+  - 2024-04-29
+events:
+  - Criminal history assessment
+  - Hearing
+money: 
+intentions:
+  - Clarify Petitioner's criminal history
+facts:
+  - No information found in criminal history assessment
+  - Unclear notation in assessment
+  - Need for re-run of assessment
+disputes:
+  - Lack of clarity in assessment
+acts:
+  - Clerk's Office to run assessment again
+  - Court Clerk to give notice
+agreements: 
+laws:
+  - Criminal history assessment procedures
+case_citations: 
+statutes: 
+roles:
+  - Judge
+  - Court Clerk
+  - Petitioner
+significant_statements:
+  - "no information found."
+```
+
+And here is the English-text summary:
+
+The Judge's tentative ruling continues the case to April 29, 2024, at 9:30 am. The Court Clerk's Office was asked to run a criminal history assessment on February 9, 2024, which resulted in the notation "no information found." The Judge finds this notation unclear and ambiguous, and it is unclear whether the Petitioner has any convictions or a criminal history. The Judge orders the Clerk's Office to re-run the assessment and provide a clear notation of any convictions, including those that require sex offender registration.

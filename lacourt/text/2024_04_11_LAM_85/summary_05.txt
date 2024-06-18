@@ -1,0 +1,71 @@
+Here is a summary of the tentative ruling in YAML format:
+
+```
+case_number: 24STCP00089
+hearing_date: 2024-04-11
+dept: 85
+plaintiff: Paul Dawson
+defendant: Housing Authority for the City of Los Angeles
+people_names:
+  - Paul Dawson
+  - Darwin Flores
+  - Samer Habbas
+company_names:
+  - Sweet James Accident Attorneys, LLP
+  - Law Offices of Samer Habbas & Associates, P.C.
+  - Koning & Associates
+places:
+  - Los Angeles
+dates:
+  - 2023-04-05 (accident date)
+  - 2023-04-12 (first communication with Housing Authority)
+  - 2023-06-14 (Koning & Associates informed Former Counsel)
+  - 2023-07-05 (Dawson retained Current Counsel)
+  - 2023-11-06 (late claim application filed)
+  - 2023-11-21 (amended late claim application filed)
+  - 2024-01-10 (petition for leave to file a late claim filed)
+events:
+  - Presentation of late claim
+  - Application for leave to file a late claim
+  - Petition for leave to file a late claim
+money:
+  - $10,000 (threshold for damages)
+intentions:
+  - Dawson seeks leave to file a late claim
+facts:
+  - Dawson was injured on April 5, 2023
+  - Dawson retained Sweet James Accident Attorneys, LLP in April 2023
+  - Dawson retained Law Offices of Samer Habbas & Associates, P.C. in July 2023
+  - Dawson filed a late claim on November 6, 2023
+disputes:
+  - Dawson's failure to file a timely claim
+  - Housing Authority's denial of the late claim application
+acts:
+  - Dawson retained counsel in April 2023
+  - Dawson's counsel failed to present a claim to Housing Authority
+agreements:
+  - Government Claims Act
+laws:
+  - Government Code sections 910-911.2 and 945.4
+  - California Code of Civil Procedure section 946.6
+case_citations:
+  - Norgart v. Upjohn (1999) 21 Cal.4th 383
+  - City of San Jose v. Superior Court (1974) 12 Cal.3d 447
+  - Pacific Telegraph & Telephone Co. v. County of Riverside (1980) 106 Cal.App.3d 83
+  - Harrison v. County of Del Norte (1985) 168 Cal.App.3d 1
+  - Ebersol v. Cowan (1983) 35 Cal.3d 427
+  - Munoz v. State of California (1995) 33 Cal.App.4th 1767
+roles:
+  - Plaintiff: Paul Dawson
+  - Defendant: Housing Authority for the City of Los Angeles
+  - Attorneys: Sweet James Accident Attorneys, LLP and Law Offices of Samer Habbas & Associates, P.C.
+  - Claims Adjusters: Koning & Associates
+significant_statements:
+  - Dawson's failure to file a timely claim was due to mistake, inadvertence, surprise, or excusable neglect
+  - Dawson's counsel failed to act diligently in presenting a claim to Housing Authority
+  - The petition for leave to file a late claim is denied
+```
+
+Here is a summary of the tentative ruling in English text:
+
+The court has denied the petition for leave to file a late claim filed by Paul Dawson against the Housing Authority for the City of Los Angeles. Dawson's counsel failed to act diligently in presenting a claim to Housing Authority, and Dawson's failure to file a timely claim was due to mistake, inadvertence, surprise, or excusable neglect. The court found that Dawson's counsel failed to present a claim to Housing Authority, and Dawson's reliance on communications with a third-party insurer and its claims adjuster did not constitute presentation of a claim to Housing Authority. The court also found that Dawson's counsel failed to act diligently in presenting a claim to Housing Authority, and Dawson's failure to file a timely claim was due to mistake, inadvertence, surprise, or excusable neglect.

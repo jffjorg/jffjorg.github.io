@@ -1,0 +1,75 @@
+Here is the summary in YAML format:
+
+```
+case_number: 23LBUD02282
+plaintiff: UNION MUTUALISTA DE SAN JOSE, a California nonprofit corporation
+defendant: RAFAEL DAVILA MADRIGAL, aka RAFAEL DAVILA, individually and doing business as 4 WHEEL AUTO DISMANTLER and dba 4 WHEEL TRUCK & VAN DISMANTLERS; ALICIA BRISILA DAVILA, individually; and DOES 1 through 30 inclusive
+people:
+  - RAFAEL DAVILA MADRIGAL
+  - ALICIA BRISILA DAVILA
+companies:
+  - UNION MUTUALISTA DE SAN JOSE
+  - 4 WHEEL AUTO DISMANTLER
+  - 4 WHEEL TRUCK & VAN DISMANTLERS
+places:
+  - 1034 Cristobal Avenue, Wilmington, CA 90744
+  - Los Angeles
+dates:
+  - September 19, 2023
+  - December 11, 2023
+  - December 20, 2023
+  - January 4, 2024
+  - February 9, 2024
+  - February 15, 2024
+  - February 20, 2024
+  - February 21, 2024
+  - February 22, 2024
+  - March 5, 2024
+  - March 22, 2024
+  - March 26, 2024
+  - April 15, 2024
+events:
+  - Unlawful detainer (UD) action
+  - Motion for summary adjudication
+  - Judgment
+  - Writ of possession
+  - Motion to set aside/vacate judgment and stay writ of execution
+money: N/A
+intentions:
+  - To determine the merits of the Davila Defendants' motion to set aside/vacate judgment and stay writ of execution
+facts:
+  - The Davila Defendants filed a motion to set aside/vacate the February 20, 2024, judgment and stay the February 22, 2024, writ of possession
+  - The Court granted Union Mutualista's December 11th motion for summary adjudication on January 4, 2024
+  - Union Mutualista dismissed Does 1 through 30 and the first cause of action on February 9, 2024
+  - Union Mutualista filed an application for writ of possession on February 21, 2024
+  - The Clerk issued a writ of possession on February 22, 2024
+disputes:
+  - Union Mutualista vs. Davila Defendants (unlawful detainer)
+  - Davila Defendants' motion to set aside/vacate judgment and stay writ of execution
+acts:
+  - Filing of the UD action
+  - Filing of the motion for summary adjudication
+  - Grant of the motion for summary adjudication
+  - Dismissal of Does 1 through 30 and the first cause of action
+  - Filing of the application for writ of possession
+  - Issuance of the writ of possession
+agreements:
+  - N/A
+laws:
+  - Code of Civil Procedure section 473
+  - Code of Civil Procedure section 1008
+statutes:
+  - Code of Civil Procedure
+roles:
+  - Judge
+  - Plaintiff (Union Mutualista)
+  - Defendant (Davila Defendants)
+significant statements:
+  - The Davila Defendants' motion lacks merit
+  - The Davila Defendants failed to sufficiently elaborate the grounds for an injunction arresting the status quo
+  - The motion was filed on March 5, 2024, and by the time it will have been heard, the Davila Defendants would have had 40 days to move
+```
+
+And here is the English-text summary:
+
+"Pursuant to the tentative ruling, the court denied the Davila Defendants' motion to set aside/vacate the February 20, 2024, judgment and stay the February 22, 2024, writ of possession. The court ruled that the motion lacked merit and that the Davila Defendants failed to sufficiently elaborate the grounds for an injunction arresting the status quo. The court also noted that the Davila Defendants had been on notice of the need to be prepared to move for quite some time and that they had failed to provide an alternative time period for the stay. The court concluded that the motion was filed in bad faith and was an attempt to delay the eviction process."

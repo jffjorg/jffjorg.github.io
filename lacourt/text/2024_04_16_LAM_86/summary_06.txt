@@ -1,0 +1,30 @@
+Here is a summary of the tentative ruling in YAML format:
+
+```yaml
+Case Number: 23STCV09558
+Plaintiff's Name: Gary R. Belz
+Defendant's Name: Cyber 1 LLC, Norman Kravetz, Douglas Jacobsen
+People-Names: Gary R. Belz, Norman Kravetz, Douglas Jacobsen
+Company-Names: Cyber 1 LLC, Equity Orchestration LLC
+Places: None
+Dates: February 15, 2022, February 1, 2023, February 25, 2024
+Events: Breach of contract, failure to make payments
+Money: $4,550,000, $489,394.33, $200,000
+Intentions: To attach assets of defendants to secure payment of debt
+Facts: Cyber 1 LLC borrowed $4,550,000 from Gary R. Belz, with interest; defendants Norman Kravetz and Douglas Jacobsen guaranteed the debt; Cyber 1 failed to make payments, and plaintiff seeks attachment to secure payment
+Disputes: None
+Acts: Breach of contract, failure to make payments
+Agreements: Promissory Note, Guaranties
+Laws: CCP § 483.010, CCP § 484.090, CCP § 488.300, CCP § 489.220
+Case Citations: Jue v. Bass (9th Cir. 1962) 299 F.2d 374, Epstein v. Abrams (1997) 57 Cal.App.4th 1159, Pech v. Morgan (2021) 61 Cal.App.5th 841
+Roles:
+  - Judge: Curtis A. Kin
+  - Plaintiff: Gary R. Belz, as representative for the benefit of himself and Gary Belz Family LP
+  - Defendants: Cyber 1 LLC, Norman Kravetz, Douglas Jacobsen
+Significant Statements:
+  - The Court will order an undertaking in the amount of $10,000 for the attachment as to each defendant.
+  - The Court finds that plaintiff has demonstrated the probable validity of its claim for breach of contract against defendants.
+  - The Court grants the applications for right to attach orders in the amount of $5,239,394.33 as to defendants.
+```
+
+Please note that the YAML format is not the most conventional way to present this information, and it's mainly used here for demonstration purposes. In a real-world scenario, you would typically present this information in a more organized and readable format, such as a table or a structured document.

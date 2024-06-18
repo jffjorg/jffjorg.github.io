@@ -1,0 +1,70 @@
+Here is the summary of the Judge's tentative ruling in YAML format:
+
+```
+case_number: 22AVCV00979
+hearing_date: April 16, 2024
+dept: A14
+background: Tortious interference action
+
+parties:
+  - name: SourceOne Payroll Services, Inc. (Plaintiff)
+  - name: Mary Jane Tan (Defendant)
+  - name: M Business Solutions LLC (Defendant)
+
+events:
+  - Plaintiff filed a Complaint on November 26, 2022
+  - Plaintiff filed an amendment to the Complaint on January 10, 2023
+  - Plaintiff filed another amendment to the Complaint on January 19, 2023
+  - Tan filed an Answer on February 22, 2023
+  - Defendants filed a collective Answer on March 06, 2023
+  - Tan filed two Answers to the Complaint
+  - Plaintiff filed a Motion to Continue Trial Date on December 04, 2023
+  - An Informal Discovery Conference was held on February 07, 2024
+  - Plaintiff filed two motions to compel further responses on March 19, 2024
+  - Defendants filed oppositions on April 02, 2024
+  - Plaintiff filed replies on April 05, 2024
+
+intents:
+  - Plaintiff seeks to compel Defendants to produce documents related to alleged trade secrets
+  - Defendants have objected to the requests, citing privacy concerns
+
+facts:
+  - Plaintiff alleges that Tan misappropriated confidential information during her employment
+  - Plaintiff seeks documents related to Tan's bank statements and payments received from Plaintiff's past customers
+
+disputes:
+  - Plaintiff claims that Tan used Plaintiff's internal trade secret information to solicit Plaintiff's customers
+  - Defendants deny any wrongdoing
+
+acts:
+  - Plaintiff's allegations of trade secret misappropriation and unfair competition
+  - Defendants' objections to the production of documents for privacy concerns
+
+agreements:
+  - None
+
+laws:
+  - California Code of Civil Procedure
+  - California Evidence Code
+
+case_citations:
+  - Digital Music News LLC v Superior Court (2014)
+  - City of Los Angeles v Superior Court (2017)
+  - Williams v Superior Court (2017)
+  - SCC Acquisitions, Inc. v Superior Court (2015)
+
+roles:
+  - Judge
+  - Plaintiff (SourceOne Payroll Services, Inc.)
+  - Defendant (Mary Jane Tan)
+  - Defendant (M Business Solutions LLC)
+
+significant_statements:
+  - The Court grants Plaintiff's motion to compel further responses to demand for production of documents
+  - The Court imposes a sanction of $1,000.00 on Defendants and their counsel of record
+  - The Court orders Defendants to provide responses to their respective Demand for Production of Documents within 30 days
+```
+
+And here is a summary of the Judge's tentative ruling in English:
+
+The Court grants Plaintiff's motion to compel further responses to demand for production of documents. The Plaintiff seeks to compel Defendants to produce documents related to alleged trade secrets, including bank statements and payments received from Plaintiff's past customers. Defendants have objected to the requests, citing privacy concerns. The Court finds that Plaintiff has shown good cause for the document demands and that Defendants have not justified their objections. The Court imposes a sanction of $1,000.00 on Defendants and their counsel of record. The Court also orders Defendants to provide responses to their respective Demand for Production of Documents within 30 days.

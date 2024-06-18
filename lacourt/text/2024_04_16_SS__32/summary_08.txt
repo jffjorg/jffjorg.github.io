@@ -1,0 +1,82 @@
+Here is the summary of the tentative ruling in YAML format:
+
+```yaml
+case_number: BC714561
+plaintiff_name: David Whiteside
+defendant_name: Gerald Michael Fitzgerald and Susan Fitzgerald
+people_names:
+  - Gerald Michael Fitzgerald
+  - Susan Fitzgerald
+  - Slavko Ivancic
+  - John Ivancic
+company_names:
+  - Estate of Slavko Ivancic
+places:
+  - Santa Monica
+dates:
+  - October 23, 1999
+  - July 17, 2018
+  - September 7, 2000
+  - 2002
+  - November 13, 2018
+  - July 22, 2022
+  - September 6, 2018
+  - July 25, 2023
+  - September 21, 2023
+  - December 14, 2023
+  - January 16, 2024
+  - April 16, 2024
+events:
+  - Premises liability action
+  - Demurrer to cross-complaint
+  - Motion for new trial
+  - Filing of responsive pleading
+  - Demurrer to complaint
+money: $0
+intentions:
+  - To resolve the dispute between the parties
+  - To determine the legal sufficiency of the cross-complaint
+facts:
+  - Plaintiff was injured in an incident on October 23, 1999
+  - Plaintiff initially filed a complaint against defendants in 2000
+  - The initial action was voluntarily dismissed in 2002
+  - Plaintiff refiled the action in 2018
+  - Slavko Ivancic filed a cross-complaint against Gerald and Susan Fitzgerald in 2018
+  - Slavko Ivancic died in 2018, and his estate was substituted as a defendant
+disputes:
+  - Whether the underlying action must have been commenced against the Estate within one year under Code of Civil Procedure section 366.2
+  - Whether the cross-complaint is barred by the statute of limitations
+acts:
+  - Filing of the cross-complaint
+  - Demurrer to the cross-complaint
+  - Filing of a responsive pleading
+  - Filing of a motion for new trial
+  - Filing of a demurrer
+  - Filing of a proof of service
+agreements:
+  - None
+laws:
+  - Code of Civil Procedure section 366.2
+  - Code of Civil Procedure section 362
+  - Code of Civil Procedure section 350
+  - Code Civ. Proc. § 430.41
+statutes:
+  - Code of Civil Procedure section 366.2
+  - Code of Civil Procedure section 362
+  - Code of Civil Procedure section 350
+  - Code Civ. Proc. § 430.41
+roles:
+  - Plaintiff: David Whiteside
+  - Defendant: Gerald Michael Fitzgerald and Susan Fitzgerald
+  - Estate of Slavko Ivancic
+  - Cross-Complainant: Estate of Slavko Ivancic
+  - Cross-Defendants: Gerald Michael Fitzgerald and Susan Fitzgerald
+significant statements:
+  - The Court overrules Cross-Defendants' demurrer to Estate of Slavko Ivancic's cross-complaint.
+  - Cross-Defendants shall file and serve an answer within 30 days.
+  - Cross-Defendants shall provide notice of the Court's ruling and file a proof of service of such.
+```
+
+Here is a summary of the tentative ruling in English text:
+
+The Court issued a tentative ruling on the demurrer to the cross-complaint filed by the Estate of Slavko Ivancic. The demurrer was filed by the Cross-Defendants, Gerald Michael Fitzgerald and Susan Fitzgerald, arguing that the underlying action must have been commenced against the Estate within one year under Code of Civil Procedure section 366.2. The Court overruled the demurrer, finding that the section 366.2 does not apply in this case. The Court also found that the Cross-Defendants failed to explain their argument that section 366.2 provides an independent basis to dismiss the cross-complaint. The Court ordered the Cross-Defendants to file and serve an answer within 30 days.

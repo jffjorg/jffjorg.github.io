@@ -1,0 +1,85 @@
+Here is the summary in YAML format:
+
+```
+case_number: 23STCV11727
+plaintiff_name: Arturo Montoya-Bautista and Magdalena Balderas-Molina
+defendant_name: Architectural Surfaces, Inc., et al.
+people_names:
+  - Arturo Montoya-Bautista
+  - Magdalena Balderas-Molina
+  - Eduardo Consentino
+  - Wendy S. Dowse
+  - Vladimir Raiman
+  - Raphael Metzger
+  - Jorge Cuervo Vela
+company_names:
+  - Architectural Surfaces, Inc.
+  - Consentino Group, S.A.
+  - Lowe's Home Centers, LLC
+  - Jacobe Enterprises, Inc.
+  - C&C North America, Inc.
+places:
+  - California
+  - British Columbia
+  - Spain
+dates:
+  - 05/24/23
+  - 12/28/23
+  - 12/29/23
+  - 09/13/23
+  - 09/25/23
+  - 04/12/24
+  - 06/21/24
+events:
+  - Service of process
+  - Motion to quash service of summons and complaint
+  - Jurisdictional discovery
+money:
+  - None mentioned
+intentions:
+  - To quash service of summons and complaint
+facts:
+  - Specially Appearing Defendant Consentino Group, S.A. moved to quash service of the summons and complaint for defective service, or alternatively, lack of personal jurisdiction.
+  - Plaintiffs retained the services of Aaron Lukken of Viking Advocates LLC to arrange for service of process on one of Specially Appearing Defendant's executives, Eduardo Consentino, in Vancouver, British Columbia.
+  - Service was made by delivering the documents to Mr. Consentino at a showroom opening event.
+disputes:
+  - Whether service of process was properly made
+  - Whether the court has personal jurisdiction over Specially Appearing Defendant
+laws:
+  - Code of Civil Procedure section 413.10(c)
+  - Code of Civil Procedure section 416.10
+  - Code of Civil Procedure section 414.10
+  - Supreme Court Civil Rules of British Columbia Reg. 168/2009
+  - Hague Service Convention
+  - Code Civ. Proc. § 17(b)(6)
+  - Code Civ. Proc. § 418.10(d)
+  - Panavision International, L.P. v. Toeppen (9th Cir. 1998) 141 F.3d 1316
+  - Hanson v. Denckla (1958) 357 U.S. 235
+  - Elkman v. National States Insurance Co. (2009) 173 Cal.App.4th 556
+  - Jewish Defense Organization, Inc. v. Sup. Ct. of Los Angeles County (Rambam) (1999) 72 Cal.App.4th 1045
+  - In re Automobile Antitrust Cases I & II (2005) 135 Cal.App.4th 100
+citations:
+  - Code Civ. Proc. § 413.10(c)
+  - Code Civ. Proc. § 416.10
+  - Code Civ. Proc. § 414.10
+  - Supreme Court Civil Rules of British Columbia Reg. 168/2009
+  - Hague Service Convention
+  - Code Civ. Proc. § 17(b)(6)
+  - Code Civ. Proc. § 418.10(d)
+  - Panavision International, L.P. v. Toeppen (9th Cir. 1998) 141 F.3d 1316
+  - Hanson v. Denckla (1958) 357 U.S. 235
+  - Elkman v. National States Insurance Co. (2009) 173 Cal.App.4th 556
+  - Jewish Defense Organization, Inc. v. Sup. Ct. of Los Angeles County (Rambam) (1999) 72 Cal.App.4th 1045
+  - In re Automobile Antitrust Cases I & II (2005) 135 Cal.App.4th 100
+roles:
+  - Judge
+  - Plaintiff
+  - Defendant
+  - Process server
+  - Attorney
+  - Executive
+  - Judge of the Superior Court
+significant_statements:
+  - "The Court finds that Plaintiffs have established that service of process was properly made on Specially Appearing Defendant."
+  - "The Court finds that, although Plaintiffs have not established specific jurisdiction over Specially Appearing Defendant, good cause exists to continue this motion to permit the parties to engage in jurisdictional discovery and supplemental briefing on the effects of that discovery."
+```

@@ -1,0 +1,97 @@
+Here is the YAML summary of the tentative ruling:
+
+```yaml
+case_number: 2022-001
+plaintiff:
+  - name: Wei Chen
+  - name: Weifeng International, Inc.
+  - name: AIIC 17 YM Culver City, LLC
+defendant:
+  - name: Yalla Acquisition, LLC
+  - name: Yalla Mediterranean Franchising Company, LLC
+  - name: FAT Brands Management, LLC
+people:
+  - name: Wei Chen
+  - name: Yalla Acquisition, LLC (Yalla Acquisition)
+  - name: Yalla Mediterranean Franchising Company, LLC (Yalla Franchising)
+  - name: FAT Brands Management, LLC (Fat Brands)
+  - name: Med Cuisine (Yalla Med)
+companies:
+  - name: Weifeng International, Inc.
+  - name: AIIC 17 YM Culver City, LLC
+  - name: Yalla Acquisition, LLC
+  - name: Yalla Mediterranean Franchising Company, LLC
+  - name: FAT Brands Management, LLC
+  - name: Med Cuisine
+places:
+  - name: Culver City, California
+dates:
+  - September 20, 2022
+  - (FAC)
+events:
+  - Acquisition by Weifeng from Yalla Acquisition of AIIC
+  - Sale by Yalla Franchising to AIIC of Yalla Mediterranean restaurant franchise
+  - Arrangements for Fat Brands to manage and operate the restaurant
+  - Wei Chen providing $770,000 to Yalla Acquisition
+  - Wei Chen qualifying to own a restaurant through AIIC and to live and work in the United States
+money:
+  - $770,000
+intentions:
+  - Rescission and restitution
+  - Violations of California Franchise Investment Law
+  - Violations of California Corporate Securities Law
+  - Breach of contract
+  - Violation of the UCL
+facts:
+  - Wei Chen induced to enter into agreements
+  - Agreements not registered in California to offer and sell franchises
+  - Ownership of the restaurant was never transferred to Plaintiffs
+  - Defendants sold unregistered security to Plaintiffs
+  - Plaintiffs seeking rescission and restitution
+disputes:
+  - Rescission and restitution
+  - Violations of California Franchise Investment Law
+  - Violations of California Corporate Securities Law
+  - Breach of contract
+  - Violation of the UCL
+acts:
+  - Wei Chen providing $770,000 to Yalla Acquisition
+  - Yalla Acquisition selling AIIC to Wei Chen
+  - Fat Brands managing and operating the restaurant
+agreements:
+  - Franchise Agreement
+  - Securities agreement
+  - Visa application
+  - Contracts signed on behalf of Weifeng
+laws:
+  - California Franchise Investment Law
+  - California Corporate Securities Law
+  - UCL
+case_citations:
+  - (FAC)
+  - (FAC ¶ 23)
+  - (FAC ¶ 25)
+  - (FAC ¶ 28)
+  - (FAC ¶ 29)
+  - (FAC ¶ 36)
+  - (FAC ¶ 46)
+  - (FAC ¶ 61)
+statutes:
+  - California Franchise Investment Law
+  - California Corporate Securities Law
+  - UCL
+roles:
+  - Wei Chen
+  - Yalla Acquisition, LLC (Yalla Acquisition)
+  - Yalla Mediterranean Franchising Company, LLC (Yalla Franchising)
+  - FAT Brands Management, LLC (Fat Brands)
+  - Med Cuisine (Yalla Med)
+significant_statements:
+  - "The Court will require further responses within 20 days."
+  - "The narrowly tailored request for admission discussed above is sufficient for Defendants' purposes."
+  - "The Court believes the subject request is overbroad and that the information sought can be better addressed through a request for admission or deposition inquiry."
+```
+
+And here is the English text summarizing the judge's tentative ruling:
+
+The court has considered the motions filed by the defendants, seeking to compel the plaintiffs to provide further responses to their requests for production and to admit or deny certain statements. The court will require the plaintiffs to respond to the defendants' requests for production within 20 days. The court will not require the production of visa application documents, which contain private information. The court has denied the defendants' motion to compel the production of contracts signed on behalf of Weifeng, as the request is overbroad and can be better addressed through a request for admission or deposition inquiry.

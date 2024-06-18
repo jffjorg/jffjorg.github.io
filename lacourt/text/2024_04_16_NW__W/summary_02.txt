@@ -1,0 +1,54 @@
+Here is the summary in YAML format:
+
+```
+case_number: 23VECP00613
+plaintiff_name: Damien Price
+defendant_name: City of Los Angeles
+people_names:
+  - Damien Price
+  - City of Los Angeles
+company_names: []
+places:
+  - Los Angeles
+dates:
+  - October 22, 2022
+    - March 2023
+    - May 5, 2023
+    - October 22, 2023
+    - April 16, 2024
+events:
+  - Motor vehicle accident
+  - Petition to present late tort claim
+  - Denial of petition
+money: []
+intentions:
+  - To seek permission to present a late tort claim
+  - To argue that the cause of action did not accrue until March 2023
+  - To argue that the error in not filing within the six-month period was due to mistake, inadvertence, surprise, or excusable neglect
+facts:
+  - Petitioner did not file a tort claim until May 5, 2023, more than 180 days after the accident
+  - Petitioner argues that the cause of action did not accrue until March 2023
+  - Petitioner argues that the error in not filing within the six-month period was due to mistake, inadvertence, surprise, or excusable neglect
+  - The City counters that the petition for relief from the claims presentation requirements must be denied because the petitioner did not first present an application for leave to present a late claim to the City
+disputes:
+  - Whether the cause of action accrued at the time of the collision or at some later point
+  - Whether the petitioner's error in not filing within the six-month period was excusable
+acts:
+  - Petitioner's failure to file a tort claim within the six-month period
+  - The City's denial of the petition for relief from the claims presentation requirements
+agreements: []
+laws:
+  - Government Code Section 911.2
+  - Government Code Section 911.4
+  - Government Code Section 946.6
+  - Williams v. Mariposa County Unified Sch. Dist. (1978)
+  - Government Code Section 945.4
+roles: []
+significant_statements:
+  - The court agrees that the petitioner must be denied unless the petitioner can establish that it first presented the application to the City prior to October 22, 2023, and that such application was denied or deemed denied.
+  - "[R]elief provided by section 946.6 is available only if an application for leave to present a late claim is filed with the public entity involved and is denied or deemed denied."
+```
+
+And here is the English-text summary:
+
+The judge has issued a tentative ruling on a petition to present a late tort claim against the City of Los Angeles. The petitioner, Damien Price, seeks permission to present a late tort claim arising out of a motor vehicle accident that occurred on October 22, 2022. The petitioner argues that the cause of action did not accrue until March 2023, and that the error in not filing within the six-month period was due to mistake, inadvertence, surprise, or excusable neglect. The City of Los Angeles counters that the petition for relief from the claims presentation requirements must be denied because the petitioner did not first present an application for leave to present a late claim to the City. The court agrees that the petitioner must be denied unless the petitioner can establish that it first presented the application to the City prior to October 22, 2023, and that such application was denied or deemed denied. The petition to file a late claim is denied.

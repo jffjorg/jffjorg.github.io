@@ -1,0 +1,62 @@
+Here is the summary in YAML format:
+
+```
+case_number: 19STLC03906
+plaintiff: Karpa Trading, Inc.
+defendant: ADIRC Capital LLC
+people:
+  - Joseph Lee (manager of ADIRC Capital LLC)
+  - Kenneth I. Gross (former counsel for ADIRC Capital LLC)
+company-names:
+  - Karpa Trading, Inc.
+  - ADIRC Capital LLC
+places:
+  - California
+dates:
+  - April 19, 2019 (Complaint filing)
+  - October 23, 2023 (answer stricken)
+  - November 9, 2023 (default entry)
+  - December 11, 2023 (hearing on default judgment)
+  - April 4, 2024 (scheduled hearing on default judgment)
+  - April 15, 2024 (tentative ruling)
+events:
+  - Complaint filing
+  - Answer stricken
+  - Default entry
+  - Hearing on default judgment
+  - Tentative ruling
+money: $ (no specific amount mentioned)
+intentions:
+  - ADIRC Capital LLC seeks to set aside default entry
+  - Karpa Trading, Inc. seeks to maintain default entry
+facts:
+  - Karpa Trading, Inc. provided restaurant products to ADIRC Capital LLC
+  - ADIRC Capital LLC failed to pay for the products
+  - ADIRC Capital LLC claims lack of notice due to limited English proficiency
+  - Karpa Trading, Inc. claims ADIRC Capital LLC received proper notice
+disputes:
+  - Whether ADIRC Capital LLC received proper notice
+acts:
+  - Karpa Trading, Inc. filed a Complaint
+  - ADIRC Capital LLC filed a Motion to Set Aside the Entry of Default
+  - Karpa Trading, Inc. filed an Opposition
+  - ADIRC Capital LLC filed a Reply
+agreements: None
+laws:
+  - CCP § 473.5 (California Code of Civil Procedure)
+  - Ellard v. Conway (2001) 94 Cal. App. 4th 540, 547
+  - Sakaguchi v. Sakaguchi (2009) 173 Cal.App.4th 852, 861
+roles:
+  - Judge: [Judge's name]
+  - Plaintiff: Karpa Trading, Inc.
+  - Defendant: ADIRC Capital LLC
+  - Manager: Joseph Lee (ADIRC Capital LLC)
+  - Counsel: Kenneth I. Gross (former counsel for ADIRC Capital LLC)
+significant statements:
+  - The Court finds that ADIRC Capital LLC did receive proper notice
+  - The Court denies the Motion to Set Aside the Entry of Default
+```
+
+English-text summary:
+
+This tentative ruling denies ADIRC Capital LLC's motion to set aside the entry of default. The plaintiff, Karpa Trading, Inc., alleges that ADIRC Capital LLC failed to pay for restaurant products provided. ADIRC Capital LLC claims that they did not receive proper notice due to limited English proficiency. The court finds that ADIRC Capital LLC did receive proper notice, including notice of the answer being struck and the default entry. The court denies the motion and denies the request to set aside the default entry.

@@ -1,0 +1,59 @@
+Here is the summary in YAML format:
+
+```
+case_number: 19STCV30463
+plaintiff: Ben Myerson Candy Co., Inc. dba Wine Warehouse
+defendant: Devoto-Wade LLC dba Golden State Cider
+people:
+  - Ben Myerson
+  - Ronald J. Fisher
+  - Chris Lacey
+companies:
+  - Ben Myerson Candy Co., Inc. dba Wine Warehouse
+  - Devoto-Wade LLC dba Golden State Cider
+places:
+  - Los Angeles
+dates:
+  - 08/27/19 (action filed)
+  - 01/13/23 (2nd Amended Complaint filed)
+  - 12/13/23 (proof of service filed)
+  - 01/02/24 (Defendant's motion filed)
+  - 05/30/23 (Order re: Motions to Seal and Motion to Disqualify Counsel)
+events:
+  - Breach of Contract
+  - Common Count in Quantum Meruit
+  - Motion to Seal
+  - Trial
+money: 
+  - 
+intentions:
+  - Protect confidential and sensitive information
+  - Protect competitive advantage
+facts:
+  - Confidential information was exchanged between Defendant and Sonoma Craft
+  - Defendant took steps to protect its confidential information
+  - Sealing the information would not affect the public's interest in access
+disputes:
+  - Confidentiality versus public access
+acts:
+  - Defendant filed a motion to seal certain documents
+  - Plaintiff did not file opposition
+agreements:
+  - Protective Order
+  - Confidentiality agreements
+laws:
+  - California Rules of Court, rule 2.551
+statutes:
+  - 
+roles:
+  - Judge Rolf M. Treu
+  - Defendant Devoto-Wade LLC dba Golden State Cider
+  - Plaintiff Ben Myerson Candy Co., Inc. dba Wine Warehouse
+significant statements:
+  - Defendant's motion is narrowly tailored and reasonable
+  - The Court finds that Defendant's motion to seal is granted
+```
+
+And here is the English text summarizing the judge's tentative ruling:
+
+The judge has granted the defendant's motion to seal certain documents containing confidential and sensitive information. The defendant, Devoto-Wade LLC dba Golden State Cider, sought to seal the documents to protect its competitive advantage and prevent the public from accessing confidential information. The judge found that the defendant's motion was narrowly tailored and reasonable, and that sealing the documents would not affect the public's interest in access. The documents in question contained confidential information exchanged between the defendant and Sonoma Craft, and the defendant had taken steps to protect its confidential information. The judge's ruling is tentative, pending any opposition or further proceedings.

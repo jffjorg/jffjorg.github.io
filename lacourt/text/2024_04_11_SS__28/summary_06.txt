@@ -1,0 +1,99 @@
+Here is the YAML summary:
+
+```
+case_number: 22STCV25289
+hearing_date: 2024-04-11
+dept: 28
+plaintiff: Matt Sivaborvorn
+defendants:
+  - Everytable, PBC
+  - Harvest Fresh Foods, PBC
+  - Harvest Fresh Foods
+  - Ryder System, Inc.
+  - Patrick August Gorse
+  - Does 1-20
+people:
+  - Matt Sivaborvorn
+  - Patrick August Gorse
+  - Maxine D. Harvey, Esq.
+  - Case Harvey Fedor, Esq.
+companies:
+  - Everytable, PBC
+  - Harvest Fresh Foods, PBC
+  - Ryder System, Inc.
+places:
+  - None mentioned
+dates:
+  - 2022-08-05 (filing of action)
+  - 2022-12-07 (answer filed)
+  - 2024-02-14 (motion to compel filed)
+  - 2024-04-11 (hearing date)
+  - 2024-06-25 (trial date)
+  - 2023-12-09 (deposition notice)
+  - 2023-12-20 (scheduled deposition)
+  - 2023-12-20 (counsel's notice)
+  - 2024-02-14 (motion to compel filed)
+events:
+  - Filing of action
+  - Answer filed
+  - Motion to compel filed
+  - Hearing on motion to compel
+  - Deposition scheduled
+  - Counsel's notice
+  - Motion to compel granted
+  - Sanctions imposed
+money:
+  - $1,310.00 (Plaintiff's request for sanctions)
+  - $560.00 (amount of sanctions awarded)
+  - $250.00 (hourly rate for attorney time)
+  - $60.00 (filing fee)
+intention:
+  - To compel the deposition of Defendant Patrick August Gorse
+  - To impose sanctions on Defendant Patrick August Gorse and his attorneys
+facts:
+  - Plaintiff Matt Sivaborvorn filed an action against Defendants
+  - Defendant Patrick August Gorse failed to attend a properly noticed deposition
+  - Plaintiff's counsel met and conferred with Gorse's counsel to reschedule the deposition
+  - The deposition notice was served on December 9, 2023
+  - Gorse's counsel did not provide new deposition dates
+disputes:
+  - Failure to attend a properly noticed deposition
+  - Failure to provide new deposition dates
+acts:
+  - Filing of action
+  - Answer filed
+  - Motion to compel filed
+  - Deposition scheduled
+  - Counsel's notice
+  - Motion to compel granted
+  - Sanctions imposed
+agreements:
+  - Code of Civil Procedure section 2025.450
+  - Code of Civil Procedure section 2023.010
+laws:
+  - Code of Civil Procedure
+  - Code of Civil Procedure section 2025.450
+  - Code of Civil Procedure section 2023.010
+case_citations:
+  - Code Civ. Proc., § 2025.450
+  - Code Civ. Proc., § 2023.010
+  - Code Civ. Proc., § 2025.410
+  - Code Civ. Proc., § 2016.040
+statutes:
+  - Code of Civil Procedure
+  - Code of Civil Procedure section 2025.450
+  - Code of Civil Procedure section 2023.010
+roles:
+  - Plaintiff: Matt Sivaborvorn
+  - Defendant: Patrick August Gorse
+  - Defendant's attorney: Maxine D. Harvey, Esq.
+  - Defendant's attorney: Case Harvey Fedor, Esq.
+significant_statements:
+  - The Court GRANTS Plaintiff's motion to compel the deposition of Defendant Patrick August Gorse.
+  - The Court orders Defendant Patrick August Gorse to appear for a deposition within 30 days of the hearing on this motion.
+  - The Court imposes $560.00 in sanctions on Defendant Patrick August Gorse and his attorneys.
+```
+
+And here is the English text to summarize the judge's tentative ruling:
+
+The judge has granted the plaintiff's motion to compel the deposition of defendant Patrick August Gorse. The court has ordered the defendant to appear for a deposition within 30 days of the hearing. The court has also imposed sanctions of $560.00 on the defendant and his attorneys, to be paid to the plaintiff within 30 days of the hearing.

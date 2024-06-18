@@ -1,0 +1,80 @@
+Here is the YAML summary of the tentative ruling:
+```
+case_number: [insert case number]
+plaintiff_name: Lazaro Ventura Gomez
+defendant_names:
+  - Duckmill LLC dba Berkshire House
+  - Berkshire Restaurant
+  - Rami Haddad
+people_names:
+  - Lazaro Ventura Gomez
+  - Rami Haddad
+company_names:
+  - Duckmill LLC
+  - Berkshire House
+  - Berkshire Restaurant
+places: [none]
+dates:
+  - August 17, 2021
+  - March 16, 2022
+  - August 2, 2023
+  - October 9, 2023
+  - March 26, 2024
+events:
+  - Filing of Complaint
+  - Filing of joint answer
+  - Striking of answer
+  - Denial of default judgment
+  - Filing of First Amended Complaint
+  - Entry of default
+  - Motion for default judgment
+money:
+  - $70,951.15 (total damages)
+  - $14,514.96 (interest)
+  - $1,328.49 (costs)
+  - $2,237.70 (attorney fees)
+intention:
+  - To deny Plaintiff's request for entry of default judgment
+facts:
+  - Plaintiff worked as an hourly, non-exempt cook, dishwasher, food prepper, and cleaner
+  - Plaintiff was not paid for work provided
+  - Plaintiff seeks damages for unpaid wages, liquidated damages, and penalties
+  - Plaintiff seeks prejudgment interest
+disputes:
+  - Dispute over damages and interest
+acts:
+  - Filing of Complaint and answer
+  - Striking of answer
+  - Entry of default
+  - Filing of First Amended Complaint
+  - Motion for default judgment
+agreements:
+  - Code of Civil Procedure section 580
+  - Labor Code section 204
+  - Labor Code section 226
+  - Los Angeles Superior Court Local Rule 3.214
+laws:
+  - California Labor Code
+  - California Business and Professions Code
+  - Code of Civil Procedure
+  - Labor Code section 201(a)
+  - Labor Code section 558
+  - Los Angeles Superior Court Local Rule 3.214
+case_citations:
+  - Labor Code section 204
+  - Labor Code section 226
+  - Code of Civil Procedure section 580
+  - Labor Code section 201(a)
+  - Labor Code section 558
+  - Los Angeles Superior Court Local Rule 3.214
+roles:
+  - Plaintiff: Lazaro Ventura Gomez
+  - Defendant: Duckmill LLC dba Berkshire House, Berkshire Restaurant, Rami Haddad
+significant_statements:
+  - The request for entry of default judgment is denied.
+  - The damages and interest claimed by Plaintiff are improper.
+```
+
+Here is the English summary of the judge's tentative ruling:
+
+The court has denied Plaintiff's request for entry of default judgment in the amount of $70,951.15. The court has found that the damages and interest claimed by Plaintiff are improper. The court has also denied Plaintiff's request for prejudgment interest, finding that the interest calculation is improper. The court has granted Plaintiff's request for costs in the amount of $1,328.49 and attorney fees in the amount of $2,237.70. The court has previously struck the answer of Defendant Duckmill LLC and Rami Haddad, and entered default as to these parties. The court has also denied Plaintiff's request for entry of default judgment in an earlier proceeding. The court has found that Plaintiff's evidence of damages is insufficient to support the requested judgment.

@@ -1,0 +1,61 @@
+Here is the YAML summary of the tentative ruling:
+
+```
+---
+case_number: 22STCV19526
+plaintiff: Marisa Lopez
+defendant: Weiliang Zhan
+people_names:
+  - Marisa Lopez
+  - Weiliang Zhan
+company_names: []
+places: []
+dates:
+  - December 12, 2023
+  - March 12, 2024
+  - April 16, 2024
+events:
+  - Dismissal of the action
+  - Plaintiff's Motion to Set Aside the Dismissal
+  - OSC re sanctions
+money: $250
+intentions:
+  - To set aside the dismissal
+  - To impose sanctions
+facts:
+  - Dismissal of the action without prejudice
+  - Failure to file proof of service of summons and complaint within two years
+  - Counsel's mistake, inadvertence, or neglect
+disputes:
+  - Mistake, inadvertence, or neglect of Plaintiff's counsel
+acts:
+  - Filing of the Motion to Set Aside the Dismissal
+  - Failure to file proof of service and complaint
+agreements:
+  - Code of Civil Procedure §473(b)
+  - CRC Rules 3.110(b) and (f)
+  - CCP 583.410 and 583.420(a)(1)
+laws:
+  - Code of Civil Procedure §473(b)
+  - CRC Rules 3.110(i)
+  - CCP 583.410 and 583.420(a)(1)
+case_citations:
+  - State Farm Fire & Casualty Co. v. Pietak (2001) 90 Cal.App.4th 600
+  - Mercantile Collection Bureau v. Pinheiro (1948) 84 Cal.App.2d 606
+  - Benjamin v. Dalmo Mfg. Co. (1947) 31 Cal.2d 523
+  - Elmassian Decl.
+  - Hu v. Fang (2002) 104 Cal.App.4th 61
+roles:
+  - Judge
+  - Plaintiff
+  - Defendant
+  - Counsel
+significant_statements:
+  - "The court may, upon any terms as may be just, relieve a party or his or her legal representative from a judgment, dismissal, order, or other proceeding taken against him through his or her mistake, inadvertence, surprise, or excusable neglect."
+  - "The court must grant relief from dismissal where the application is accompanied by an attorney affidavit attesting to his or her mistake, inadvertence, surprise, or neglect."
+  - "The trial court's granting or denial of relief under this provision is reviewed for abuse of discretion."
+```
+
+And here is the English-text summary of the judge's tentative ruling:
+
+The court grants the plaintiff's motion to set aside the dismissal of the action. The action was dismissed on December 12, 2023, due to the plaintiff's counsel's mistake, inadvertence, or neglect in failing to file proof of service of summons and complaint within two years. The court finds that the plaintiff's counsel has sufficiently established mistake, inadvertence, or neglect in supervising the work of his staff, and the dismissal must be set aside. The court schedules an OSC re sanctions in the amount of $250 for the plaintiff's failure to file proof of service and complaint within two years. The court also orders all responsive paperwork to be filed at least five days prior to the next court date.

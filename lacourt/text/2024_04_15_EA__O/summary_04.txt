@@ -1,0 +1,48 @@
+Here is the summary in YAML format:
+
+```
+case_number: "???"
+plaintiff_name: "?"
+defendant_name: "?"
+people_names:
+  - "Plaintiffs"
+  - "Defendant"
+company_names: []
+places:
+  - "Court"
+dates:
+  - "6/22/23"
+  - "2/22/24"
+events:
+  - "Plaintiffs' previous motion for reconsideration"
+  - "hearing"
+money: 0
+intentions:
+  - "reconsideration"
+  - "scope of examination"
+facts:
+  - "opposition unclear about issue with scope of examination"
+  - "opposition focused on raw data"
+disputes:
+  - "scope of examination"
+  - "independent medical evaluation"
+acts:
+  - "Plaintiffs' previous motion for reconsideration"
+  - "hearing"
+agreements: []
+laws:
+  - "Court's tentative ruling"
+  - "previous motion for reconsideration"
+case_citations: []
+statutes: []
+roles:
+  - "Plaintiffs"
+  - "Defendant"
+  - "Court"
+significant_statements:
+  - "The opposition was unclear as to what issue Plaintiffs had with the scope of the examination because the opposition was largely dedicated to the issue of the raw data..."
+```
+
+And here is the English-text summary:
+
+The Court's tentative ruling addresses the procedural history of the case, directing Plaintiffs to its previous ruling on their motion for reconsideration. The Court notes that the opposition's response was unclear about the issue with the scope of the examination, as it was primarily focused on the raw data. The Court also references footnote 7 of its previous tentative ruling, which highlighted the unclear opposition. The Court's ruling is intended to clarify the scope of the examination and the requirements for an "independent medical evaluation".

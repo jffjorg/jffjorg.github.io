@@ -1,0 +1,62 @@
+Here is the summary in YAML format:
+
+```
+case_number: 18STCV01944
+plaintiff_name: Mary Lim
+defendant_name: CITY OF LOS ANGELES, ET AL.
+people_names:
+  - Mary Lim
+  - Michelle C. Kim
+company_names: []
+places:
+  - Serrano
+  - 6th Street
+  - Los Angeles
+dates:
+  - October 23, 2018
+  - April 30, 2018
+  - April 15, 2024
+  - December 12, 2024
+events:
+  - Injury
+  - Trial
+  - Continuance
+  - Hearing
+  - Default Judgment
+  - Motion to Set Aside/Vacate Default
+money: []
+intentions:
+  - Seek trial continuance due to medical reasons
+  - Prepare for trial
+facts:
+  - Plaintiff sustained injury on April 30, 2018
+  - Plaintiff reserved a hearing for April 15, 2024
+  - Plaintiff has been granted multiple continuances in the past year
+  - Current trial date was specifically requested by the Plaintiff
+disputes:
+  - Motion to continue trial
+  - Request for continuance due to medical reasons
+acts:
+  - Plaintiff filed the action on October 23, 2018
+  - Plaintiff sustained injury on April 30, 2018
+  - Court has provided multiple continuances in the past year
+agreements: []
+laws:
+  - CCP 473.5
+case_citations: []
+statutes:
+  - CCP 473.5
+roles:
+  - Judge: Hon. Michelle C. Kim
+  - Plaintiff: Mary Lim
+  - Defendant: CITY OF LOS ANGELES, ET AL.
+significant_statements:
+  - Court finds no good cause to continue delaying trial
+  - Plaintiff's request to continue the trial date is DENIED
+  - Plaintiff must prepare for trial accordingly
+  - Parties are encouraged to meet and confer to reach an agreement
+```
+
+And here is the English-text summary of the judge's tentative ruling:
+
+The court has denied the plaintiff's motion to continue the trial date due to medical reasons. The plaintiff has requested a continuance, citing medical reasons, but the court has provided multiple continuances in the past year. The court finds no good cause to continue delaying the trial, which is scheduled to commence on April 15, 2024. The plaintiff is ordered to prepare for trial accordingly. The parties are encouraged to meet and confer to reach an agreement.

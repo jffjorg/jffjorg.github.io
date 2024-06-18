@@ -1,0 +1,59 @@
+Here is the summary in YAML format:
+
+```
+case_number: 23STCV20355
+hearing_date: 2024-04-12
+dept: 30
+plaintiff: FRANCISCO HITABARADA, AN INDIVIDUAL
+defendant: LOS ANGELES COUNTY METROPOLITAN TRANSPORTATION AUTHORITY, A MUNICIPAL ENTITY, et al
+people_names:
+  - FRANCISCO HITABARADA
+  - LOS ANGELES COUNTY METROPOLITAN TRANSPORTATION AUTHORITY
+company_names:
+  - LOS ANGELES COUNTY METROPOLITAN TRANSPORTATION AUTHORITY
+places:
+  - Los Angeles
+dates:
+  - 2023-05-23
+  - 2023-12-07
+  - 2024-04-12
+events:
+  - Vehicle collision
+  - Motion to consolidate
+  - Notice of motion to consolidate
+money: N/A
+intentions:
+  - To avoid unnecessary costs or delay
+  - To enhance trial court efficiency
+facts:
+  - Both cases arise from the same vehicle collision
+  - Both cases involve identical issues of law and fact
+  - Defendant is the same entity in both cases
+disputes:
+  - Negligence
+  - Common questions of law or fact
+acts:
+  - Motion to consolidate
+  - Notice of motion to consolidate
+  - Filing of notice of motion to consolidate
+agreements:
+  - Consolidation of cases
+laws:
+  - California Rules of Court, rule 3.350(a)(1)
+  - California Code of Civil Procedure, section 1048, subdivision (a)
+  - Los Angeles County Superior Court Local Rules, rule 3.3(g)
+  - Super. Ct. L.A. County, Local Rules, rule 3.3(g)(1)
+case_citations:
+  - Todd-Stenberg v. Dalkon Shield Claimants Trust (1996) 48 Cal.App.4th 976
+roles:
+  - Judge
+  - Plaintiff
+  - Defendant
+  - Attorney
+significant_statements:
+  - "When actions involving a common question of law or fact are pending before the court, it may order a joint hearing or trial of any or all the matters in issue in the actions; it may order all the actions consolidated and it may make such orders concerning proceedings therein as may tend to avoid unnecessary costs or delay."
+```
+
+And here is the English summary of the judge's tentative ruling:
+
+The court has granted the defendant's motion to consolidate the current case (23STCV20355) with related case 23STCV24175. The two cases arise from the same vehicle collision and involve identical issues of law and fact. The defendant has complied with the necessary requirements, including listing all named parties, attorneys of record, and filing the notice of motion to consolidate. The purpose of consolidation is to avoid unnecessary costs or delay and to enhance trial court efficiency.

@@ -1,0 +1,51 @@
+Here is the summary in YAML format:
+
+```
+case_number: 22STCV18797
+plaintiff: David Darwash
+defendant: Approved Plans, Inc.
+people_names:
+  - David Darwash
+  - Approved Plans, Inc.
+company_names:
+  - Approved Plans, Inc.
+places: none
+dates:
+  - April 16, 2024
+events:
+  - Deposition
+  - Document production
+  - Objection to deposition
+  - Motion to compel
+  - Failure to show good cause
+money: none
+intentions:
+  - Compel appearance at deposition
+  - Obtain documents
+facts:
+  - David Darwash has not yet failed to appear at his deposition
+  - Approved Plans failed to show good cause for document production
+  - No separate statement submitted in support of motion
+disputes:
+  - Compel appearance at deposition
+  - Obtain documents
+acts:
+  - Denied motion to compel appearance at deposition
+  - Denied motion to compel document production
+agreements: none
+laws:
+  - California Rules of Court
+  - California Superior Court decisions (not precedent)
+case_citations:
+  - California Superior Court decisions (non-precedential)
+statutes: none
+roles:
+  - Judge
+  - Counsel for Approved Plans
+significant_statements:
+  - "Such decisions are not precedent and must not be cited."
+```
+
+And here is the English-text summary:
+
+The judge's tentative ruling denies the motion of Defendant/Cross-Complainant Approved Plans, Inc. to compel Plaintiff/Cross-Defendant David Darwash to appear at his deposition and produce requested documents. The court finds that Darwash has not yet failed to appear at his deposition, making the motion to compel him to appear premature. Additionally, Approved Plans failed to show good cause for the production of the requested documents and did not submit a separate statement in support of the motion as required by the California Rules of Court. The court also cautions counsel for Approved Plans about citing non-precedential California Superior Court decisions in their reply brief.

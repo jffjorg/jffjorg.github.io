@@ -1,0 +1,57 @@
+Here is the summary in YAML format:
+
+```
+case_number: 23STLC04379
+plaintiff_name: Loan Asset Issuer II LLC Serious 2020 1
+defendant_name: Christian Webb
+people_names:
+  - Christian Webb
+  - Laura M. D'Anna
+company_names:
+  - Loan Asset Issuer II LLC Serious 2020 1
+places: None
+dates:
+  - July 12, 2023
+  - December 28, 2023
+events:
+  - Complaint filed
+  - Requests for Admissions propounded
+  - Motion to Deem Requests for Admissions Admitted
+money: None
+intentions:
+  - To deem requests for admissions admitted
+facts:
+  - Christian Webb signed a Borrower Agreement
+  - Christian Webb was given a monetary loan
+  - Christian Webb defaulted on payments
+disputes:
+  - Failure to respond timely to requests for admissions
+acts:
+  - Propounding requests for admissions
+  - Failure to respond to requests for admissions
+  - Filing a motion to deem requests for admissions admitted
+agreements: None
+laws:
+  - Code of Civil Procedure § 2033.250
+  - Code of Civil Procedure § 2033.280
+  - Code of Civil Procedure § 2033.280(b)
+  - Code of Civil Procedure § 2033.280(c)
+  - Demyer v. Costa Mesa Mobile Home Estates (1995)
+  - Wilcox v. Birtwhistle (1999)
+  - Leach v. Superior Court (1980)
+statutes:
+  - Code of Civil Procedure § 2033.250
+  - Code of Civil Procedure § 2033.280
+  - Code of Civil Procedure § 2033.280(b)
+  - Code of Civil Procedure § 2033.280(c)
+roles:
+  - Plaintiff: Loan Asset Issuer II LLC Serious 2020 1
+  - Defendant: Christian Webb
+significant_statements:
+  - "Within 30 days after service of the request for admissions... the party to whom the requests are directed shall serve the original of the response to them on the requesting party."
+  - "Requests for admissions must be deemed admitted where no responses in substantial compliance was served before the hearing."
+```
+
+And here is the English text to summarize the judge's tentative ruling:
+
+"This tentative ruling grants Loan Asset Issuer II LLC Serious 2020 1's motion to deem requests for admissions admitted. The plaintiff filed the complaint on July 12, 2023, alleging that Christian Webb signed a borrower agreement, received a monetary loan, and defaulted on payments. The plaintiff propounded requests for admissions, but no responses were received by the 30-day deadline. The motion is unopposed and the court finds that the plaintiff's requests for admissions must be deemed admitted. Therefore, the motion is granted."

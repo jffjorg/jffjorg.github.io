@@ -1,0 +1,65 @@
+Here is the summary of the judge's tentative ruling in YAML format:
+
+```
+case_number: 23STCP04539
+plaintiff: J.G. Wentworth Originations, LLC
+defendant: Berkshire Hathaway Life Insurance Company of Nebraska
+people:
+  - Robert Hufstader
+  - Joseph Hekmat
+companies:
+  - J.G. Wentworth Originations, LLC
+  - Berkshire Hathaway Life Insurance Company of Nebraska
+places:
+  - Los Angeles, California
+  - Beverly Hills, California
+  - Avenue of the Stars, Los Angeles, California
+dates:
+  - March 13, 2024
+  - April 12, 2024
+  - June 3, 2024
+events:
+  - Hearing on Petition for Approval of Transfer of Payment Rights
+  - Service of notice to Hufstader's attorney
+money:
+  - $285,000
+  - $2,890 (monthly payment)
+intentions:
+  - To approve the transfer of payment rights
+  - To ensure compliance with Insurance Code section 10139.5
+facts:
+  - Hufstader settled a personal injury claim in 2021
+  - Hufstader agreed to sell payment rights to J.G. Wentworth Originations, LLC
+  - The transfer is in the best interest of Hufstader
+disputes:
+  - Berkshire Hathaway Life Insurance Company of Nebraska disputes the sufficiency of notice to Hufstader's attorney
+acts:
+  - J.G. Wentworth Originations, LLC filed a First Amended Verified Petition for Approval for Transfer of Payment Rights
+  - Berkshire Hathaway Life Insurance Company of Nebraska responded to the petition
+  - The court considered the petition and response
+agreements:
+  - California Purchase Contract
+  - California Disclosure Statement
+  - California Statement of Professional Representation
+laws:
+  - Insurance Code section 10134 et seq.
+  - Insurance Code section 10136
+  - Insurance Code section 10138
+  - Insurance Code section 10139.5
+case_citations:
+  - People v. Vigil (2008) 169 Cal.App.4th 8
+statutes:
+  - Insurance Code section 10134 et seq.
+  - Insurance Code section 10136
+  - Insurance Code section 10138
+  - Insurance Code section 10139.5
+roles:
+  - Judge: Robert B. Broadbelt III
+  - Petitioner: J.G. Wentworth Originations, LLC
+  - Respondent: Berkshire Hathaway Life Insurance Company of Nebraska
+  - Payee: Robert Hufstader
+  - Attorney: Joseph Hekmat
+significant_statements:
+  - The court finds that the transfer is in the best interest of Hufstader
+  - The court finds that Petitioner has satisfied the requirements set forth in Insurance Code section 10139.5
+  - The court continues the hearing to afford Petitioner an opportunity to serve Hufstader's prior attorney with the notice required by statute.

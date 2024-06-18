@@ -1,0 +1,61 @@
+Here is the summary in YAML format:
+
+```
+case_number: 23STCV24205
+plaintiff: 1333 Las Palmas Avenue, LLC
+defendant: Ryan Torigoe
+people: 
+  - Ryan Torigoe
+  - Godinez
+companies: 
+  - 1333 Las Palmas Avenue, LLC
+places: 
+  - Los Angeles
+  - 1333 Las Palmas Avenue
+dates: 
+  - October 2, 2023
+  - October 20, 2023
+  - October 31, 2023
+  - April 10, 2024
+  - April 12, 2024
+events: 
+  - Filing of the instant action
+  - Service of requests for production
+  - Failure to respond to requests for production
+  - Filing of motion to compel
+  - Granting of motion to compel
+  - Request for monetary sanctions
+  - Granting of request for monetary sanctions
+money: 
+  - $1,035.00
+  - $385.00
+intentions: 
+  - To compel defendant to provide responses to requests for production
+  - To impose monetary sanctions on defendant
+facts: 
+  - Defendant failed to respond to requests for production
+  - Defendant did not file an opposition to the motion to compel
+disputes: 
+  - Dispute over failure to respond to requests for production
+  - Dispute over imposition of monetary sanctions
+acts: 
+  - Service of requests for production
+  - Failure to respond to requests for production
+  - Filing of motion to compel
+  - Granting of motion to compel
+agreements: 
+  - Code of Civil Procedure section 2031.300
+  - Code of Civil Procedure section 2030.290
+laws: 
+  - Code of Civil Procedure
+roles: 
+  - Judge: Yolanda Orozco
+significant statements: 
+  - Defendant's failure to respond to requests for production is a waiver of any objection
+  - Plaintiff's motion to compel is granted
+  - Defendant is ordered to provide notice of the order and file proof of service
+```
+
+And here is the English-text summary:
+
+This is a tentative ruling by Judge Yolanda Orozco in the case of 1333 Las Palmas Avenue, LLC (Plaintiff) vs. Ryan Torigoe (Defendant). The case is an unlawful detainer action for failure to pay rent. The Plaintiff filed a motion to compel the Defendant to provide responses to requests for production and also requested monetary sanctions in the amount of $1,035.00. The Defendant failed to respond to the requests for production and did not file an opposition to the motion. The Court granted the motion to compel and imposed monetary sanctions in the amount of $385.00. The Court ordered the Defendant to provide notice of the order and file proof of service.

@@ -1,0 +1,37 @@
+Here is the summary in YAML format:
+
+```
+case_num: 23PSCV02864
+hearing_date: 2024-04-16
+dept: 6
+case_name: Silvia Aguilar v. American Honda Motor Co., Inc.
+defendant: American Honda Motor Co., Inc.
+plaintiff: Silvia Aguilar
+defendants: Does 1 through 10
+causes_of_action:
+  - Violation of Song-Beverly Act – Breach of Express Warranty
+  - Violation of Song-Beverly Act – Breach of Implied Warranty
+  - Violation of the Song-Beverly Act Section 1793.2
+arbitration_provision: contains language allowing arbitration of claims arising out of the condition of the vehicle
+equitable_estoppel: rejected due to split of authority on point of law
+third_party_beneficiary: rejected as Defendant is not intended to benefit from the contract
+laws_cited:
+  - Omar v. Ralphs Grocery Co. (2004)
+  - Banner Entertainment, Inc. v. Superior Court (1998)
+  - Espejo v. Southern California Permanente Medical Group (2016)
+  - Coast Plaza Doctors Hospital v. Blue Cross of California (2000)
+  - Victrola 89, LLC v. Jaman Properties 8 LLC (2020)
+  - Felisilda v. FCA US LLC (2020)
+  - Ochoa v. Ford Motor Co. (2023)
+  - Goonewardene v. ADP, LLC (2019)
+  - Ngo v. BMW of North America, LLC (2022)
+citations:
+  - 9 U.S.C. §§ 3, 4, 10, 11
+  - Evid. Code § 452, subd. (d)
+  - Cal. Rules of Court, rules 8.1115, subd. (e)(3)
+  - Civ. Code § 1559
+```
+
+And here is a summary of the judge's tentative ruling in English text:
+
+The court denies the defendant's motion to compel binding arbitration. The defendant relies on the arbitration provision in the sales contract, which allows for arbitration of disputes arising out of the condition of the vehicle. However, the court finds that the defendant is not entitled to enforce the arbitration provision as a third-party beneficiary. The court also rejects the defendant's equitable estoppel argument, citing a split of authority on the point of law. The court concludes that the defendant is not intended to benefit from the contract and that allowing the defendant to compel arbitration would be inconsistent with the reasonable expectations of the contracting parties.

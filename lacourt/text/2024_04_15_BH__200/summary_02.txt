@@ -1,0 +1,53 @@
+Here is the summary in YAML format:
+
+```
+Case Number: [Case Number]
+Plaintiff's Name: [Plaintiff's Name]
+Defendant's Name: [Defendant's Name]
+People-Names:
+  - CAG
+  - Petersen
+  - Kelly
+  - Korsak
+Company-Names:
+  - FNDDS
+Places:
+  - None
+Dates:
+  - [Date of Court Hearing]
+Events:
+  - Preliminary hearing on expert testimony
+Money:
+  - None
+Intentions:
+  - To determine the scope of expert testimony
+Facts:
+  - 11 spices at issue: 4 types of ground cinnamon, ground cumin, ground turmeric, garlic powder, 2 types of ground sage, ground cloves, and poultry seasoning
+Disputes:
+  - Scope of expert testimony
+Acts:
+  - CAG's motion in limine no. 8
+  - Defendants' use of the geometric mean
+  - CAG's attempt to limit the scope of Defendants' defense
+  - Petersen's consideration of nutmeg and thyme instead of sage and poultry seasoning
+  - Limited data on certain spices
+Laws:
+  - Frye v. United States
+  - Beech-Nut
+  - Pannu
+Statutes:
+  - [None]
+Roles:
+  - Judge
+  - CAG (Complainant)
+  - Petersen (Expert)
+  - Defendants (Defendants)
+Significant Statements:
+  - "the evidence that CAG seeks to exclude is based on the same spice products"
+  - "the courts have rejected expert opinions which are based on unreliable hearsay"
+  - "the use of the geometric mean is the most scientifically appropriate methodology"
+```
+
+And here is the English-text summary:
+
+This tentative ruling discusses the scope of expert testimony in a preliminary hearing. The court notes that there are 11 spices at issue, including four types of ground cinnamon, ground cumin, and ground turmeric. The defendants argue that the notice of violation refers to the lots only as exemplars. The court also discusses the use of the geometric mean versus the arithmetic mean in calculating the "maximum" question. The court will need to hear further from both parties on this issue.

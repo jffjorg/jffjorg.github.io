@@ -1,0 +1,64 @@
+Here is the YAML representation of the judicial document:
+
+```
+---
+Case Number: 22STCV31697
+Plaintiff's Name: Ana Olascoaga Aviles
+Defendant's Name: Los Angeles County Metropolitan Transportation Authority
+People-Names:
+  - Ana Olascoaga Aviles
+  - Los Angeles County Metropolitan Transportation Authority
+Company-Names:
+  - Los Angeles County Metropolitan Transportation Authority
+Places:
+  - Los Angeles County
+Dates:
+  - September 28, 2022
+  - November 16, 2023
+  - December 26, 2023
+  - February 1, 2024
+  - April 15, 2024
+Events:
+  - Motor vehicle accident
+  - Demurrer to complaint
+  - Filing of amended complaint
+  - Failure to amend complaint
+  - Motion to dismiss
+Money:
+  - None mentioned
+Intentions:
+  - Plaintiff seeks to recover damages for negligence
+  - Defendant seeks to dismiss complaint
+Facts:
+  - Plaintiff filed complaint on September 28, 2022
+  - Defendant demurred to complaint on November 16, 2023
+  - Plaintiff filed amended complaint on December 26, 2023
+  - Court sustained demurrer to amended complaint on February 1, 2024
+Disputes:
+  - Plaintiff's failure to amend complaint
+  - Defendant's motion to dismiss
+Acts:
+  - Filing of complaint
+  - Filing of demurrer
+  - Filing of amended complaint
+  - Failure to amend complaint
+  - Filing of motion to dismiss
+Agreements:
+  - None mentioned
+Laws:
+  - Code of Civil Procedure section 581(f)(2)
+  - Code of Civil Procedure section 597
+  - Code Civ. Proc. § 1010.6(a)(3)(B)
+Statutes:
+  - Code of Civil Procedure
+Roles:
+  - Plaintiff: Ana Olascoaga Aviles
+  - Defendant: Los Angeles County Metropolitan Transportation Authority
+Significant Statements:
+  - Plaintiff failed to amend complaint within time allowed by court
+  - Plaintiff's failure to amend complaint deemed an admission of inability to state a cause of action
+```
+
+And here is the English-text summary of the judge's tentative ruling:
+
+The Court has granted the defendant's motion to dismiss the plaintiff's complaint with prejudice. The plaintiff filed the original complaint on September 28, 2022, and the defendant demurred to the complaint on November 16, 2023. The plaintiff was granted leave to amend the complaint, but failed to do so within the time allowed by the court. The plaintiff was instructed to file a motion for leave to amend the complaint, but no such motion was filed. As a result, the Court has construed the plaintiff's failure to amend as an admission that the plaintiff cannot state a cause of action and has dismissed the complaint with prejudice.

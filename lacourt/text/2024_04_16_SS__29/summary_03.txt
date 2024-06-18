@@ -1,0 +1,77 @@
+Here is a summary of the tentative ruling in YAML format:
+
+```
+case_number: 21STCV43195
+hearing_date: April 16, 2024
+dept: 29
+plaintiff: Autumn Latour
+defendant: Jeffrey D. Rawnsley, M.D.
+people_names:
+  - Autumn Latour
+  - Jeffrey D. Rawnsley, M.D.
+  - Daniel Sukat, M.D.
+company_names:
+  - None
+places:
+  - California
+dates:
+  - November 24, 2021
+  - June 21, 2023
+  - October 17, 2023
+  - February 5, 2024
+  - March 14, 2024
+events:
+  - Plaintiff filed a complaint
+  - Defendant served plaintiff with written discovery
+  - Court ordered plaintiff to serve responses
+  - Plaintiff failed to serve responses
+  - Defendant moved for terminating, issue, and monetary sanctions
+  - Court denied motion for terminating and issue sanctions
+  - Court granted request for evidentiary sanctions and ordered plaintiff to pay monetary sanctions
+  - Plaintiff failed to pay monetary sanctions
+  - Defendant filed motion for terminating sanctions
+money:
+  - $900 (monetary sanctions)
+  - None
+intentions:
+  - Plaintiff: to recover damages for negligence and medical malpractice
+  - Defendant: to recover monetary sanctions and terminate the case
+facts:
+  - Plaintiff failed to serve verified responses as ordered
+  - Defendant moved for terminating and issue sanctions
+  - Court imposed evidentiary sanctions and ordered plaintiff to pay monetary sanctions
+  - Plaintiff failed to pay monetary sanctions
+disputes:
+  - Plaintiff's failure to comply with court orders
+  - Defendant's request for terminating sanctions
+acts:
+  - Plaintiff's failure to serve responses
+  - Defendant's motion for terminating and issue sanctions
+  - Court's imposition of evidentiary sanctions and order to pay monetary sanctions
+agreements:
+  - None
+laws:
+  - California Code of Civil Procedure
+  - California Civil Discovery Act
+  - Newland v. Super. Ct.
+  - Rutledge v. Hewlett-Packard Co.
+  - Lopez v. Watchtower Bible & Tract Society of New York, Inc.
+  - Doppes v. Bentley Motors, Inc.
+  - Mileikowsky v. Tenet Healthsystem
+statutes:
+  - Code Civ. Proc., § 2023.030
+  - Code Civ. Proc., § 2023.010
+roles:
+  - Plaintiff: Autumn Latour
+  - Defendant: Jeffrey D. Rawnsley, M.D.
+  - Judge: [Judge's name]
+significant_statements:
+  - Court denied defendant's request for terminating sanctions
+  - Plaintiff failed to pay monetary sanctions
+  - Defendant may enforce order to pay monetary sanctions through execution of judgment laws
+  - Court denied defendant's request for terminating sanctions
+```
+
+And here is a summary of the judge's tentative ruling in English text:
+
+The judge has denied the defendant's motion for terminating sanctions. The defendant had requested terminating sanctions because the plaintiff failed to serve verified responses as ordered and had failed to pay monetary sanctions of $900. The court had previously imposed evidentiary sanctions and ordered the plaintiff to pay monetary sanctions. However, the plaintiff's failure to pay the monetary sanctions did not warrant terminating sanctions. The court also noted that terminating sanctions should be used sparingly and only in extreme cases where less severe sanctions have not been successful. In this case, the defendant's request for terminating sanctions was denied.

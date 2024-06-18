@@ -1,0 +1,53 @@
+Here is a summary of the legal document in YAML format:
+
+```
+Case Number: BC598021
+Heating Date: April 15, 2024
+Department: 50
+Plaintiff:
+  - Thakor I. Patel and Kusum T. Patel as Trustees of the Patel Family Trust
+Defendant:
+  - 8300 South Vermont Avenue, L.P.
+  - Factory Outlet Store, Inc.
+  - Factory Outlet Store, LLC
+  - Western Holdings Limited Liability Company
+  - Eli Sasson
+  - CBRE, Inc.
+  - Dennis Zhang
+
+People:
+  - Thakor I. Patel
+  - Kusum T. Patel
+  - Eli Sasson
+  - Dennis Zhang
+
+Companies:
+  - CBRE, Inc.
+  - Factory Outlet Store, Inc.
+  - Factory Outlet Store, LLC
+  - Western Holdings Limited Liability Company
+
+Places:
+  - 6401 Haven Avenue
+  - Rancho Cucamonga
+
+Dates:
+  - July 1, 2015
+  - July 14, 2020
+  - August 22, 2017
+  - May 15, 1992
+  - February 14, 2012
+  - May 29, 2012
+  - July 3, 2012
+
+Events:
+  - Filing of the First Amended Complaint
+  - Filing of the Cross-Complaint
+  - Cross-Defendants' Motion for Summary Adjudication
+
+Money:
+  - $7,500,000.00
+  - $6,870,000.00
+
+Intentions:
+  - To determine

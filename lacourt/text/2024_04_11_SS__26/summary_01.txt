@@ -1,0 +1,66 @@
+Here is the summary in YAML format:
+
+```
+case_number: 22STLC05206
+plaintiff_name: Interinsurance Exchange of the Automobile Club
+defendant_name: Kayla Isaac
+people_names:
+  - Brian P. Tapper
+company_names:
+  - Interinsurance Exchange of the Automobile Club
+places:
+  - California
+dates:
+  - August 8, 2022
+  - June 20, 2022
+  - October 21, 2019
+  - February 13, 2023
+  - June 25, 2023
+  - April 11, 2024
+events:
+  - Subrogation
+  - Settlement agreement
+  - Default on payment
+  - Motion to enforce settlement
+money:
+  - $8,314.95
+  - $5,667.62
+  - $2,422.33
+  - $225.00
+  - $7,067.00
+  - $1,400.00
+intentions:
+  - Enforce settlement agreement
+  - Collect unpaid principal and interest
+facts:
+  - Defendant defaulted on payment
+  - Plaintiff moved to enforce settlement
+  - Court retained jurisdiction to enforce settlement
+disputes:
+  - Defendant's failure to make monthly payments
+  - Plaintiff's claim for unpaid principal and interest
+acts:
+  - Plaintiff filed complaint
+  - Defendant defaulted on payment
+  - Plaintiff moved to enforce settlement
+  - Court granted motion to enforce settlement
+agreements:
+  - Settlement agreement
+  - Stipulation for Entry of Judgment and Installment Payments
+laws:
+  - California Code of Civil Procedure section 664.6
+  - California Code of Civil Procedure section 187
+statutes:
+  - Code of Civil Procedure, section 664.6
+roles:
+  - Plaintiff: Interinsurance Exchange of the Automobile Club
+  - Defendant: Kayla Isaac
+  - Judge: [Name of Judge]
+significant_statements:
+  - Court granted motion to enforce settlement
+  - Judgment is entered against Defendant in the sum amount of $8,314.95
+```
+
+And here is the English-text summary:
+
+This is a tentative ruling by a judge regarding a motion to enforce a settlement agreement between Interinsurance Exchange of the Automobile Club (Plaintiff) and Kayla Isaac (Defendant). The Plaintiff moved for an order to enforce the settlement agreement against the Defendant, who had defaulted on the terms of payment. The Court granted the motion and entered judgment against the Defendant in the sum of $8,314.95, consisting of unpaid principal, interest, and costs. The settlement agreement was made in August 2022, and the Defendant had made some payments before defaulting. The Court retained jurisdiction to enforce the settlement and followed California Code of Civil Procedure section 664.6.

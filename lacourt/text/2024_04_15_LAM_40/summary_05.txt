@@ -1,0 +1,104 @@
+Here is the summary of the tentative ruling in YAML format:
+
+```yaml
+Case Number: 23STCV22458
+Case Title: Licea v. Rack Room Shoes, Inc.
+Court: Superior Court of California, County of Los Angeles, Department 40
+Judge: [Judge's Name]
+Date: April 15, 2024
+
+People-Names:
+  - Miguel A. Licea (Plaintiff)
+  - Rack Room Shoes, Inc. (Defendant)
+
+Company-Names:
+  - Rack Room Shoes, Inc.
+  - Freshworks (third-party spyware company)
+
+Places:
+  - California
+  - Los Angeles
+
+Dates:
+  - September 18, 2023 (Complaint filed)
+  - November 29, 2023 (RR Shoes filed demurrer)
+  - April 2, 2024 (Plaintiff filed opposition)
+  - April 8, 2024 (RR Shoes filed reply)
+  - April 15, 2024 (Tentative Ruling)
+
+Events:
+  - Plaintiff Licea visited RR Shoes' website and shared personal data
+  - RR Shoes allegedly allowed Freshworks to intercept and eavesdrop on chats
+  - Plaintiff filed complaint alleging violations of California Invasion of Privacy Act (Penal Code §§ 631 and 632.7)
+  - RR Shoes filed demurrer
+  - Plaintiff filed opposition
+  - RR Shoes filed reply
+  - Judge issued tentative ruling
+
+Money:
+  - $2,500 (maximum fine under Penal Code § 631)
+  - $2,500 (maximum fine under Penal Code § 632.7)
+
+Intentions:
+  - Plaintiff seeks to hold RR Shoes liable for alleged violations of California Invasion of Privacy Act
+  - RR Shoes seeks to dismiss Plaintiff's complaint
+
+Facts:
+  - Plaintiff visited RR Shoes' website
+  - Plaintiff shared personal data on RR Shoes' website
+  - RR Shoes allegedly allowed Freshworks to intercept and eavesdrop on chats
+  - Plaintiff alleged violations of California Invasion of Privacy Act (Penal Code §§ 631 and 632.7)
+
+Disputes:
+  - Whether RR Shoes' chat function on their website constitutes a telephony communication
+  - Whether Plaintiff has a diminished expectation of privacy in the communications at issue
+
+Acts:
+  - Plaintiff visited RR Shoes' website
+  - Plaintiff shared personal data on RR Shoes' website
+  - RR Shoes allegedly allowed Freshworks to intercept and eavesdrop on chats
+  - Plaintiff filed complaint alleging violations of California Invasion of Privacy Act
+  - RR Shoes filed demurrer
+  - Plaintiff filed opposition
+  - RR Shoes filed reply
+
+Agreements:
+  - None
+
+Laws:
+  - Penal Code § 631
+  - Penal Code § 632.7
+  - Code of Civil Procedure § 430.10
+
+Case Citations:
+  - People ex rel. Lockyer v. Shamrock Foods Co. (2000) 24 Cal.4th 415
+  - Blank v. Kirwan (1985) 39 Cal.3d 311
+  - Frantz v. Blackwell (1987) 189 Cal.App.3d 91
+  - Evid. Code, § 452, subd. (h)
+  - Daar v. Yellow Cab Co. (1967) 67 Cal.2d 695
+  - Holland v. Morse Diesel Intern., Inc. (2001) 86 Cal.App.4th 1443
+  - White v. Cridlebaugh (2009) 178 Cal.App.4th 506
+  - Ribas v. Clark (1985) 38 Cal.3d 355
+  - Sanders v. American Broadcasting Companies, Inc. (1999) 20 Cal.4th 907
+  - Havens Realty Corp. v. Coleman (1982) 455 U.S. 363
+  - Flanagan v. Flanagan (2002) 27 Cal.4th 766
+  - Gruber v. Yelp, Inc. (2020) 55 Cal.App.5th 591
+
+Roles:
+  - Judge: [Judge's Name]
+  - Plaintiff: Miguel A. Licea
+  - Defendant: Rack Room Shoes, Inc.
+
+Significant Statements:
+  - "A person may reasonably expect privacy against the electronic recording of a communication, even though he or she had no reasonable expectation as to the confidentiality of the communication's contents." (Sanders v. American Broadcasting Companies, Inc. (1999) 20 Cal.4th 907, 915)
+  - "That the tester may have approached the real estate agent fully expecting that he would receive false information, and without any intention of buying or renting a home, does not negate the fact of injury within the meaning of § 804(d)". (Havens Realty Corp. v. Coleman (1982) 455 U.S. 363, 364)
+  - "That use of internet can amount to use of telephonic lines." (Gruber v. Yelp, Inc. (2020) 55 Cal.App.5th 591, 613)
+```
+
+Here is a summary of the tentative ruling in English text:
+
+The judge has issued a tentative ruling on the demurrer filed by Rack Room Shoes, Inc. (RR Shoes) to the complaint filed by Miguel A. Licea (Plaintiff). The complaint alleges that RR Shoes violated the California Invasion of Privacy Act (Penal Code §§ 631 and 632.7) by allowing Freshworks, a third-party spyware company, to intercept and eavesdrop on chats on RR Shoes' website.
+
+The judge has found in favor of the Plaintiff and overruled RR Shoes' demurrer as to both causes of action. The judge concluded that the Complaint sufficiently alleges that Freshworks shared or communicated with Meta the information sourced from the Licea-RR Shoes communications, and that RR Shoes allowed and even paid Freshworks to employ electronic means to learn the contents of the Licea-RR Shoes online communications.
+
+The judge also found that the use of RR Shoes' chat function on their website constitutes a telephony communication, and that the Plaintiff has a legitimate expectation of privacy in the communications at issue. The judge rejected RR Shoes' arguments that the Plaintiff had a diminished expectation of privacy and that the communications were not the type of communications contemplated in Penal Code section 632.7.

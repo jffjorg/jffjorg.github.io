@@ -1,0 +1,70 @@
+Here is the summary in YAML format:
+
+```
+case-number: "Unknown"
+plaintiff-name: "Gibson"
+defendant-name: "Derulo and Atlantic"
+people-names:
+  - Derulo
+  - Gibson
+company-names:
+  - RCA Records
+places:
+  - unknown
+dates:
+  - October 26, 2023
+events:
+  - Demurrer to FAC
+  - Request for judicial notice
+  - Motion to dismiss
+  - General appearance
+  - Filing of motions
+money: unknown
+intentions:
+  - To decide on a tentative ruling
+  - To address disputes and agreements
+  - To apply laws and statutes
+facts:
+  - Plaintiff dismissed RCA Records from the action
+  - Derulo and Atlantic filed a request for judicial notice
+  - Plaintiff filed an opposition to the request
+  - Moving defendants made a general appearance
+  - Code of Civil Procedure section 418.10 is cited
+disputes:
+  - Dispute over the timeliness of the motion
+  - Dispute over the consideration of extrinsic material
+acts:
+  - Filing of motions
+  - Filing of opposition
+  - Making of a general appearance
+agreements: none
+laws:
+  - Code of Civil Procedure section 418.10
+  - Code of Civil Procedure section 410.30
+  - Morris v. AGFA Corp. (2006)
+  - Weil & Brown, Cal. Prac. Guide Civ. Pro. Before Trial (The Rutter Group 2023)
+  - California Rules of Court
+  - California Civil Code
+case-citations:
+  - Code of Civil Procedure section 418.10
+  - Code of Civil Procedure section 410.30
+  - Morris v. AGFA Corp. (2006)
+  - Weil & Brown, Cal. Prac. Guide Civ. Pro. Before Trial (The Rutter Group 2023)
+  - California Rules of Court
+  - California Civil Code
+statutes:
+  - California Code of Civil Procedure
+  - California Civil Code
+roles:
+  - Judge
+  - Plaintiff
+  - Defendant
+  - Moving defendants
+  - Filing parties
+significant-statements:
+  - "Filing the section 410.30 motion at the outset is permissive, not mandatory"
+```
+
+And here is a summary of the Judge's tentative ruling in English text:
+
+The Judge's tentative ruling addresses a demurrer to a complaint and a request for judicial notice filed by Derulo and Atlantic. The Judge notes that the plaintiff's opposition to the request for judicial notice is not relevant to the demurrer and that the plaintiff does not provide authority that extrinsic material may not be considered when deciding a motion to dismiss. The Judge also addresses the timeliness of the motion, citing Code of Civil Procedure section 418.10, and concludes that the motion is timely.

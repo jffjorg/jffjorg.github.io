@@ -1,0 +1,70 @@
+Here is the summary in YAML format:
+
+```
+case_number: 23PSCV00596
+plaintiff_names:
+  - Romeo B. Adavan
+  - Rita O. Ratilla
+  - Maria Lea Amata Rodrigueza
+  - Alejandro Bercian
+defendant_names:
+  - Zhicong Jin
+  - Mingxuan Yang
+people_names: []
+company_names: []
+places:
+  - Lark Ellen Avenue
+  - Merced Avenue
+  - West Covina
+dates:
+  - March 8, 2021
+  - March 1, 2023
+  - January 30, 2024
+  - April 16, 2024
+  - August 12, 2024
+events:
+  - Automobile collision
+  - Personal injury action
+  - Negligence
+  - Discovery requests
+  - Motions to compel
+  - Sanctions
+money: $119.80
+intentions: To compel responses to discovery requests and impose sanctions
+facts:
+  - Jin and Yang served discovery requests on Adavan and Bercian on June 29, 2023
+  - No verified responses were provided
+  - Jin and Yang sent a meet and confer letter to Adavan and Bercian's counsel on August 8, 2023
+  - Jin and Yang granted Adavan and Bercian's counsel's request to extend the deadline to September 1, 2023
+  - Adavan and Bercian failed to respond
+  - The court ordered Adavan and Bercian to provide verified responses by December 22, 2023
+  - Adavan and Bercian failed to provide the required responses
+  - The court GRANTED Jin and Yang's motions to compel
+disputes:
+  - Failure to provide verified responses to discovery requests
+  - Failure to comply with court orders
+  - Request for sanctions
+acts:
+  - Jin and Yang served discovery requests on Adavan and Bercian on June 29, 2023
+  - Jin and Yang sent a meet and confer letter to Adavan and Bercian's counsel on August 8, 2023
+  - Jin and Yang granted Adavan and Bercian's counsel's request to extend the deadline to September 1, 2023
+  - Jin and Yang failed to provide sanctions
+agreements: None
+laws:
+  - Code of Civil Procedure section 2031.300, subdivision (b)
+  - Code of Civil Procedure section 2030.290, subdivision (b)
+  - Code of Civil Procedure section 2030.260, subdivision (a)
+  - Code of Civil Procedure section 2031.260, subdivision (a)
+  - Cornerstone Realty Advisors LLC v. Summit Healthcare Reit, Inc. (2020)
+  - Code of Civil Procedure section 2030.290, subdivision (c)
+  - Code of Civil Procedure section 2031.300, subdivision (c)
+roles: Judge
+significant_statements:
+  - The court GRANTED Jin and Yang's motions to compel
+  - The court ordered Adavan and Bercian to provide verified responses to discovery requests
+  - The court awarded sanctions against Adavan, Bercian, and their counsel in the amount of $119.80
+```
+
+And here is the English text summary:
+
+The tentative ruling grants the defendants' motions to compel responses to discovery requests and imposes sanctions on the plaintiffs. The court finds that the plaintiffs failed to provide verified responses to the defendants' discovery requests, despite multiple extensions and warnings. The court orders the plaintiffs to provide the required responses within 10 days. The court also awards the defendants $119.80 in sanctions for the plaintiffs' failure to comply with the court's orders.

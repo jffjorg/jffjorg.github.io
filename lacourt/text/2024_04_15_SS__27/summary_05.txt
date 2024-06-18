@@ -1,0 +1,62 @@
+Here is the summary in YAML format:
+
+```
+case_number: 22STCV08846
+plaintiff: Garen Semerjian
+defendant: Ismael Vancini Ramirez
+people_names:
+  - Garen Semerjian
+  - Ismael Vancini Ramirez
+company_names: []
+places:
+  - California
+  - Los Angeles
+dates:
+  - May 12, 2023
+  - April 3, 2024
+  - April 15, 2024
+events:
+  - Service of requests for supplemental responses
+  - Failure to provide timely discovery responses
+  - Motion to compel supplemental responses
+  - Motion for sanctions
+  - Hearing
+money:
+  - $1,861.65
+  - $1,500.00
+intentions:
+  - To compel supplemental responses to requests for production and interrogatories
+  - To seek sanctions for failure to provide timely discovery responses
+facts:
+  - Plaintiff served requests for supplemental responses on May 12, 2023
+  - Defendant failed to provide supplemental responses by statutory deadline
+  - Defendant provided supplemental responses on April 3, 2024
+disputes:
+  - Failure to provide timely discovery responses
+  - Failure to serve timely supplemental responses
+acts:
+  - Service of requests for supplemental responses
+  - Failure to provide supplemental responses
+  - Motion to compel supplemental responses
+  - Hearing
+agreements:
+  - None
+laws:
+  - California Code of Civil Procedure
+  - California Rules of Court
+case_citations:
+  - None
+statutes:
+  - California Code of Civil Procedure § 2023.010
+roles:
+  - Judge: Hon. LEE S. ARIAN
+  - Plaintiff: Garen Semerjian
+  - Defendant: Ismael Vancini Ramirez
+  - Counsel: Defense counsel
+significant_statements:
+  - "Due to the inexcusable neglect and inadvertence of Defense counsel's calendaring system and personnel changes at the time, and as such, the supplemental responses originally due were never calendared and were ultimately missed."
+```
+
+And here is the summary in English text:
+
+This tentative ruling addresses the motions to compel supplemental responses to requests for production and interrogatories, as well as the motion for sanctions, in the case of Garen Semerjian vs. Ismael Vancini Ramirez. The plaintiff served his requests for supplemental responses on May 12, 2023, but the defendant failed to provide the responses by the statutory deadline. The defendant provided the responses on April 3, 2024, after the hearing. The court denies the motions to compel supplemental responses as moot, since the responses have been provided. However, the court grants the motion for sanctions, ordering the defendant and his counsel to pay $1,500 to the plaintiff for the failure to serve timely discovery responses. The court finds that the defendant's failure to provide the responses was due to inexcusable neglect and inadvertence.

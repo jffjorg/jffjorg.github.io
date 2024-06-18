@@ -1,0 +1,62 @@
+Here is the summary in YAML format:
+
+```
+Case Number: BC487908
+Plaintiff's Name: June Duley
+Defendant's Name: Depuy, Inc.
+People-Names:
+  - June Duley
+  - Depuy, Inc.
+Company-Names:
+  - Depuy Orthopaedics, Inc.
+  - Depuy, Inc.
+Places:
+  - California
+Dates:
+  - July 6, 2012
+  - October 23, 2023
+  - February 6, 2024
+  - April 15, 2024
+Events:
+  - Complain filed
+  - Special interrogatories propounded
+  - Failure to respond
+  - Motion to compel filed
+  - Sanctions requested
+  - Hearing held
+Money:
+  - $1,110 (attorney fees)
+  - $555 (award for preparation and attendance at hearing)
+Intentions:
+  - Defendant seeks to compel plaintiff's responses to special interrogatories
+  - Defendant seeks sanctions for plaintiff's lack of response
+Facts:
+  - Plaintiff failed to respond to special interrogatories
+  - Defendant propounded special interrogatories on October 23, 2023
+  - Plaintiff never provided responses
+Disputes:
+  - Plaintiff's failure to respond to special interrogatories
+Acts:
+  - Defendant filed motion to compel
+  - Defendant sought sanctions
+  - Plaintiff failed to respond
+  - Defendant's counsel prepared for and attended hearing
+Agreements:
+  - None
+Laws:
+  - Code Civ. Proc., §§ 2030.290, subd. (b), 2031.300, subd. (b)
+  - Code Civ. Proc., §§ 2030.290, subd. (a), 2031.300, subd. (a)
+  - Appleton v. Superior Court (1988) 206 Cal.App.3d 632, 636
+Roles:
+  - Judge: grants motion to compel and sanctions
+  - Plaintiff: failed to respond to special interrogatories
+  - Defendant: propounded special interrogatories and sought sanctions
+  - Defendant's counsel: prepared for and attended hearing
+Significant Statements:
+  - "The court grants this motion because Plaintiff has not responded to the special interrogatories."
+  - "Sanctions are warranted because Plaintiff's failure to timely respond lacked substantial justification."
+```
+
+And here is the English-text summary:
+
+The tentative ruling grants the defendant's motion to compel the plaintiff's responses to special interrogatories and awards the defendant's counsel attorney fees in the sum of $1,110. The court finds that the plaintiff failed to respond to the special interrogatories and that the defendant's failure to respond lacked substantial justification, warranting sanctions. The plaintiff is ordered to provide code-compliant responses without objections within 30 days of the order, and to pay the defendant's counsel attorney fees within the same timeframe.

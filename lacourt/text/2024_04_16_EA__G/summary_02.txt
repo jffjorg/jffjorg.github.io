@@ -1,0 +1,28 @@
+Here is a summary of the Judge's Tentative Ruling in YAML format:
+
+```
+case_number: 23PSCV03075
+hearing_date: 2024-04-16
+dept: G
+parties:
+  - Plaintiff: Adam Dolce
+  - Defendant: The Internet Auto Group, Inc.
+demurrer: SUSTAINED IN PART with 20 days leave to amend as to the First, Second, Third, and Fourth Causes of Action, and OVERRULED IN PART as to the Fifth and Sixth Causes of Action
+causes_of_action:
+  - First Cause of Action: Violation of the Consumers Legal Remedies Act (CLRA)
+    - Ruling: SUSTAINED with leave to amend
+  - Second Cause of Action: Intentional Misrepresentation
+    - Ruling: SUSTAINED with leave to amend
+  - Third Cause of Action: Concealment
+    - Ruling: SUSTAINED with leave to amend
+  - Fourth Cause of Action: Negligent Misrepresentation
+    - Ruling: SUSTAINED with leave to amend
+  - Fifth Cause of Action: Breach of Contract
+    - Ruling: OVERRULED
+  - Sixth Cause of Action: Violation of Unfair Competition Law
+    - Ruling: OVERRULED
+```
+
+Here is a brief summary of the Judge's Tentative Ruling in English text:
+
+The Judge has tentatively ruled that the defendant's demurrer (motion to strike) is SUSTAINED IN PART with 20 days leave to amend as to the First, Second, Third, and Fourth Causes of Action, and OVERRULED IN PART as to the Fifth and Sixth Causes of Action. The Judge has also ruled that the defendant's demurrer is SUSTAINED with leave to amend as to the First Cause of Action (violation of the Consumers Legal Remedies Act), the Second Cause of Action (intentional misrepresentation), the Third Cause of Action (concealment), and the Fourth Cause of Action (negligent misrepresentation). The Judge has also ruled that the defendant's demurrer is OVERRULED as to the Fifth Cause of Action (breach of contract) and the Sixth Cause of Action (violation of the Unfair Competition Law).

@@ -1,0 +1,85 @@
+Here is a summary of the tentative ruling in YAML format:
+
+```
+---
+Case Number: 18STCV09674
+Judge: Randolph M. Hammock
+Hearing Date: April 16, 2024
+Dept: 49 ReactX, LLC v. Google, LLC
+
+People-Names:
+  - ReactX, LLC
+  - Google, LLC
+
+Company-Names:
+  - ReactX, LLC
+  - Google, LLC
+
+Places:
+  - California
+
+Dates:
+  - December 19, 2013 (USPTO patent application)
+  - 2012 (patent application filed)
+  - 2013 (patent application published)
+  - 2016 (Google ceased using ReactX's system)
+
+Events:
+  - Patent application filed
+  - Patent application published
+  - Google ceased using ReactX's system
+
+Money:
+  - No monetary amounts mentioned
+
+Intentions:
+  - ReactX, LLC intends to protect its trade secrets
+  - Google, LLC intends to use ReactX's system without permission
+
+Facts:
+  - ReactX, LLC created a software application (the ReactX Platform)
+  - Google, LLC licensed the ReactX Platform from ReactX, LLC
+  - ReactX, LLC claims Google, LLC misused the ReactX Platform and trade secrets
+  - Google, LLC contends ReactX, LLC forfeited its trade secrets through public disclosure
+
+Disputes:
+  - Whether ReactX, LLC's trade secrets were publicly disclosed
+  - Whether Google, LLC misused ReactX, LLC's trade secrets
+
+Acts:
+  - ReactX, LLC filed a patent application
+  - Google, LLC ceased using ReactX's system
+
+Agreements:
+  - License agreement between ReactX, LLC and Google, LLC
+  - Terms and Conditions of use for ReactX's system
+
+Laws:
+  - California Uniform Trade Secrets Act (CUTSA)
+  - California Code of Civil Procedure (CCP)
+
+Case Citations:
+  - AMN Healthcare, Inc. v. Aya Healthcare Services, Inc. (2018)
+  - Glob. Protein Prod., Inc. v. Le (2019)
+  - Stutz Motor Car of America v. Reebok Internat., Ltd. (C.D.Cal. 1995)
+  - SkinMedica, Inc. v. Histogen Inc., 869 F. Supp. 2d 1176 (S.D. Cal. 2012)
+
+Statutes:
+  - California Uniform Trade Secrets Act (CUTSA)
+  - California Code of Civil Procedure (CCP) 437c
+
+Roles:
+  - Judge: Randolph M. Hammock
+  - Plaintiff: ReactX, LLC
+  - Defendant: Google, LLC
+
+Significant Statements:
+  - "The secrecy requirement is generally treated as a relative concept and requires a fact-intensive analysis." (DVD Copy Control Assn., Inc. v. Bunner, 116 Cal.App.4th 241, 251)
+  - "The ultimate determination of trade secret status is subject to proof presented at trial." (Whyte v. Schlage Lock Co., 101 Cal. App. 4th 1443, 1453)
+```
+
+Here is a summary of the tentative ruling in English text:
+
+The court has denied Google's motion for summary adjudication of the Third Cause of Action for violation of the California Uniform Trade Secrets Act. The court found that ReactX has established triable issues of fact regarding the extent to which the patent application contained trade secret information and the extent to which the user manuals contained trade secret information. The court also found that ReactX has established triable issues of fact regarding the extent to which the code was obfuscated and the extent to which Google's engineers were able to reverse engineer the code.
+
+The court also denied Google's motion for summary adjudication of the First and Second Causes of Action for breach of contract and breach of implied covenant, respectively. The court found that the same disputed material facts that preclude summary adjudication of the Third Cause of Action also preclude summary adjudication of the First and Second Causes of Action.
