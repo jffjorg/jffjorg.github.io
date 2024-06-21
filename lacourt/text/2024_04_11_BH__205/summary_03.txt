@@ -1,0 +1,47 @@
+Here is the summary in YAML format:
+
+```
+case_number: 23STCV09078
+hearing_date: 2024-04-11
+dept: 205
+court: Superior Court of California
+county: Los Angeles
+district: West District
+courthouse: Beverly Hills Courthouse / Department 205
+plaintiff: Rachel Gradstein
+defendants: Dean K. Matsuda et al.
+case_type: Medical Malpractice
+facts:
+  - Rachel Gradstein had a history of left groin and lateral hip pain.
+  - She had unresponsive symptoms for at least 3 months before seeing Dean Matsuda.
+  - Dean Matsuda recommended a bilateral hip arthroscopy after a physical examination.
+  - The surgery was performed on January 8, 2021, without intraoperative complications.
+  - Plaintiff complained of pain after the surgery and received care from Dean Matsuda.
+  - Plaintiff alleges Defendant engaged in excessive bone resection.
+  - Defendant claims he made no guarantees about the surgical outcome or avoidance of complications.
+  - Plaintiff also alleges Defendant dislocated her SI joint while on the operating table.
+  - Plaintiff complains of instability, but Defendant's expert opines that the capsule was properly closed.
+  - Plaintiff's current treating doctor, Dr. Jason Snibbe, testified that Defendant caused her injuries.
+law:
+  - The standard of care is determined by expert testimony.
+  - Defendant's expert, Dr. Safran, opines that Defendant's care and treatment complied with the standard of care.
+  - Plaintiff failed to submit an expert declaration to refute Dr. Safran's opinion.
+  - Causation is determined by expert testimony and medical probability.
+  - Defendant's expert, Dr. Safran, opines that no act or omission by Defendant proximately caused or contributed to Plaintiff's injuries.
+  - The duty to disclose is determined by expert testimony and medical probability.
+  - Defendant's expert, Dr. Safran, opines that Defendant properly disclosed the risks associated with the bilateral hip arthroscopy.
+roles:
+  - Plaintiff: Rachel Gradstein
+  - Defendant: Dean K. Matsuda
+  - Expert Witness: Dr. Safran
+  - Treating Doctor: Dr. Jason Snibbe
+significant_statements:
+  - Defendant's expert, Dr. Safran, opines that Defendant's care and treatment complied with the standard of care.
+  - Plaintiff failed to submit an expert declaration to refute Dr. Safran's opinion.
+  - Causation is determined by expert testimony and medical probability.
+  - Defendant's expert, Dr. Safran, opines that no act or omission by Defendant proximately caused or contributed to Plaintiff's injuries.
+  - The duty to disclose is determined by expert testimony and medical probability.
+  - Defendant's expert, Dr. Safran, opines that Defendant properly disclosed the risks associated with the bilateral hip arthroscopy.
+```
+
+Note that this summary is a condensed version of the original document and may not include all the details or nuances of the original case.

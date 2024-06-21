@@ -1,0 +1,66 @@
+Here is the YAML summary of the tentative ruling:
+
+```
+case_number: 12345
+plaintiff_name: John Doe
+defendant_names:
+  - Jane Smith
+  - Bob Johnson
+  - Alice Brown
+  - Michael Davis
+  - Sarah Lee
+  - David Hall
+people_names:
+  - John Doe
+  - Jane Smith
+  - Bob Johnson
+  - Alice Brown
+  - Michael Davis
+  - Sarah Lee
+  - David Hall
+company_names: []
+places: []
+dates:
+  - [date of hearing]
+events:
+  - motion to compel
+  - filing fees
+  - discovery documents
+  - interrogatories
+money:
+  - $660.00
+  - $60.00
+intentions:
+  - compel discovery documents
+  - pay filing fees
+facts:
+  - Plaintiff owes Court $660.00 in fees
+  - Each motion to compel requires separate filing and fee
+  - Plaintiff has already paid one $60.00 filing fee
+disputes:
+  - dispute over proper statute for motion to compel
+  - dispute over fees owed to Court
+acts:
+  - Plaintiff's motion to compel
+  - Court's consideration of motion
+agreements: []
+laws:
+  - California Code of Civil Procedure (C.C.P.)
+  - C.C.P. §2030.290
+  - C.C.P. §2030.300
+case_citations: []
+statutes:
+  - C.C.P. §2030.290
+  - C.C.P. §2030.300
+roles:
+  - Judge
+  - Plaintiff (John Doe)
+  - Defendant (Jane Smith, Bob Johnson, Alice Brown, Michael Davis, Sarah Lee, David Hall)
+significant_statements:
+  - Plaintiff owes $660.00 in fees
+  - Correct statute for motion to compel is C.C.P. §2030.290
+```
+
+And here is the English-text summary:
+
+The Court notes that the Plaintiff owes the Court $660.00 in fees. Each motion to compel requires a separate filing and fee, which is $60.00 per motion. The Plaintiff has already paid one $60.00 filing fee, but owes 11 additional filing fees for the instant motion. The Court's ruling on the motion to compel will not be effective until the Plaintiff pays the outstanding fees. Additionally, the Court points out that the Plaintiff cited the wrong statute in support of their motion, and notes that the proper statute for a motion to compel is C.C.P. §2030.290.

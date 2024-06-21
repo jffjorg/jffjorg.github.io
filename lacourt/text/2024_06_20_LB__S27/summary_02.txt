@@ -1,0 +1,72 @@
+Here is the summary in YAML format:
+
+```
+case_number: "23LBCV00046"
+hearing_date: "June 20, 2024"
+dept: "S27"
+background_facts:
+  - Plaintiff Julio Contreras filed an action against the City of Long Beach for damages arising from an automobile accident on July 10, 2022.
+  - The complaint was filed on January 9, 2023.
+people:
+  - Julio Contreras
+  - Luis Bonilla
+  - Marco Bonilla
+  - Wilhelm ( referenced in Life Sav. Bank v. Wilhelm)
+company-names:
+  - City of Long Beach
+places:
+  - Long Beach
+dates:
+  - July 10, 2022
+  - January 9, 2023
+  - October 12, 2023
+  - June 6, 2024
+  - January 9, 2023
+events:
+  - Automobile accident
+  - Filing of complaint
+  - Motion for leave to amend
+  - Hearing on motion for leave to amend
+  - Motion to intervene
+  - Hearing on motion to intervene
+money:
+  - Damages
+intentions:
+  - To add claims by Luis and Marco Bonilla to the complaint
+facts:
+  - The statute of limitations has run for the claims of Luis and Marco Bonilla.
+disputes:
+  - Whether the court should grant leave to amend the complaint to add claims by Luis and Marco Bonilla
+acts:
+  - Plaintiff filed a motion for leave to amend the complaint
+  - Defendant filed opposition to the motion
+  - Plaintiff filed a motion to intervene
+  - Defendant filed opposition to the motion to intervene
+agreements:
+  - CCP 473(a)
+  - CCP 473(b)
+  - CCP 946.6
+  - CCP 387
+laws:
+  - CCP 473(a)
+  - CCP 473(b)
+  - CCP 946.6
+  - CCP 387
+case_citations:
+  - Life Sav. Bank v. Wilhelm (2000) 84 Cal.App.4th 174
+  - Branick v. Downey Sav. &Loan Ass'n (2006) 39 Cal.4th 235
+  - Truck Ins. Exch. v. Superior Court (1997) 60 Cal.App.4th 342
+  - Crestwood Behavioral Health, Inc. v. Lacy (2021) 70 Cal.App.5th 560
+  - Timberidge Enterprises, Inc. v. City of Santa Rosa (1978) 86 Cal.App.3d 873
+roles:
+  - Plaintiff (Julio Contreras)
+  - Defendant (City of Long Beach)
+  - Intervenors (Luis and Marco Bonilla)
+significant_statements:
+  - The court denied the motion for leave to amend the complaint to add claims by Luis and Marco Bonilla.
+  - The court denied the motion to intervene brought by Luis and Marco Bonilla.
+```
+
+And here is the English text to summarize the judge's tentative ruling:
+
+The court denied the motion for leave to amend the complaint to add claims by Luis and Marco Bonilla. The court found that the proposed amended complaint does not relate back to the original complaint, and amendment is not proper under CCP 473(a). The court also denied the motion to intervene brought by Luis and Marco Bonilla. The court found that the Bonillas do not meet the definition of interveners as a matter of right or permissive intervention. The court noted that granting the motion would be an act in futility, as the defendant would likely demur on the ground that the complaint in intervention is not timely.

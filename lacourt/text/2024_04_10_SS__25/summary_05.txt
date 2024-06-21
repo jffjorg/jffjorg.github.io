@@ -1,0 +1,51 @@
+Here is the summary in YAML format:
+
+```
+---
+case_number: [insert case number]
+plaintiff_name: Anastacio To Vasquez
+defendant_name: [insert defendant name]
+people_names:
+  - Anastacio To Vasquez
+places:
+  - [insert places relevant to the case]
+dates:
+  - [insert dates relevant to the case]
+events:
+  - Defendant's Motion to Compel Plaintiff's Verified Responses to Defendant's Interrogatories
+  - Defendant's Motion to Plaintiff's Verified Responses to Defendant's Requests for Production
+  - Defendant's Request for Sanctions
+money:
+  - $523.30
+intentions:
+  - Compel plaintiff to respond to defendant's interrogatories
+  - Compel plaintiff to respond to defendant's requests for production
+  - Seek sanctions against plaintiff
+facts:
+  - Plaintiff failed to respond to defendant's interrogatories
+  - Plaintiff failed to respond to defendant's requests for production
+disputes:
+  - Dispute over discovery requests
+  - Dispute over failure to comply with discovery requests
+acts:
+  - Plaintiff failed to respond to defendant's discovery requests
+agreements:
+  - None mentioned
+laws:
+  - [insert relevant laws or regulations]
+citations:
+  - [insert relevant case citations]
+statutes:
+  - [insert relevant statutes]
+roles:
+  - Plaintiff: Anastacio To Vasquez
+  - Defendant: [insert defendant name]
+significant_statements:
+  - Defendant's Motion to Compel Plaintiff's Verified Responses to Defendant's Interrogatories is GRANTED
+  - Defendant's Motion to Plaintiff's Verified Responses to Defendant's Requests for Production is GRANTED
+  - Defendant's Request for Sanctions is GRANTED in part in the amount of $523.30
+```
+
+And here is the English text summary:
+
+The judge has issued a tentative ruling in response to several motions filed by the defendant. The judge has granted the defendant's motion to compel the plaintiff to respond to their interrogatories and requests for production. The plaintiff, Anastacio To Vasquez, is ordered to respond to the defendant's discovery requests with code-compliant, objection-free verified responses within 20 days. Additionally, the judge has granted the defendant's request for sanctions in the amount of $523.30 against the plaintiff. The judge has ordered the plaintiff to pay the defendant's counsel monetary sanctions in the amount of $523.30 within 30 days of service of the court's order.

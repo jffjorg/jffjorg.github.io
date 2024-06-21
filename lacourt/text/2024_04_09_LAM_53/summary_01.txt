@@ -1,0 +1,66 @@
+Here is the summary in YAML format:
+
+```
+case_number: 22STCV38586
+plaintiff: R.H.
+defendant: doe 1, et al
+people_names:
+  - Sarah Kissel Meier
+  - Slater
+  - R.H.
+  - Optimist Youth Homes & Family Services
+company_names:
+  - Slater, Schulman, LLP
+places:
+  - California
+  - Los Angeles
+  - Central District
+  - Department 53
+dates:
+  - April 9, 2024
+  - March 4, 2024
+  - 1968 (referring to People v. Prince)
+  - 1994 (referring to Ramirez v. Sturdevant)
+events:
+  - Motion to be relieved as counsel for plaintiff
+money: none
+intentions:
+  - To grant or deny an application of an attorney to withdraw as counsel
+facts:
+  - Plaintiff's Counsel moved to be relieved as counsel for plaintiff R.H.
+  - No opposition papers were filed
+  - Plaintiff's Counsel served the moving papers on plaintiff and defendant
+disputes:
+  - Whether the withdrawal of counsel would work an injustice in the handling of the case
+  - Whether the withdrawal of counsel can be accomplished without undue prejudice to the client's interests
+acts:
+  - The court considered the moving papers filed in connection with the motion
+  - The court granted the motion to be relieved as counsel
+  - The court ordered Plaintiff's Counsel to give notice of the ruling to the parties
+agreements:
+  - Code of Civil Procedure section 284, subdivision (2)
+  - California Rules of Court, rule 3.1362
+  - People v. Prince (1968)
+  - Ramirez v. Sturdevant (1994)
+laws:
+  - Code of Civil Procedure section 284
+  - California Rules of Court, rule 3.1362
+  - Code of Civil Procedure section 284, subdivision (1)
+case_citations:
+  - People v. Prince (1968)
+  - Ramirez v. Sturdevant (1994)
+statutes:
+  - California Code of Civil Procedure
+roles:
+  - Judge: Robert B. Broadbelt III
+  - Plaintiff's Counsel: Sarah Kissel Meier and Slater, Slater, Schulman, LLP
+  - Plaintiff: R.H.
+  - Defendant: doe 1, et al
+significant_statements:
+  - The court has the discretion to grant or deny an application of an attorney to withdraw as counsel
+  - The court should consider whether the withdrawal of counsel can be accomplished without undue prejudice to the client's interests
+```
+
+And here is the English text to summarize the judge's tentative ruling:
+
+"This tentative ruling grants the motion of Sarah Kissel Meier and Slater, Slater, Schulman, LLP (Plaintiff's Counsel) to be relieved as counsel for plaintiff R.H. The court finds that Plaintiff's Counsel has served the moving papers on the plaintiff and defendant and has shown sufficient reasons why the motion should be granted. The court also finds that Plaintiff's Counsel has complied with the requirements for a motion to be relieved as counsel under Code of Civil Procedure section 284, subdivision (2). Therefore, the court grants the motion and orders Plaintiff's Counsel to give notice of the ruling to the parties."

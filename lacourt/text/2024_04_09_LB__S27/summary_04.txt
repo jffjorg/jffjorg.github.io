@@ -1,0 +1,78 @@
+Here is the summary in YAML format:
+
+```
+case_number: 23LBCV01016
+plaintiff: Eman Mahmoud
+defendants: Sally Larson et al.
+people_names:
+  - Eman Mahmoud
+  - Sally Larson
+company_names: []
+places:
+  - Spring Street Courthouse
+  - Department S27
+dates:
+  - 6/04/21
+  - 6/01/23
+  - 10/26/23
+  - 3/05/24
+  - 2/15/24
+  - 4/24/24
+  - 6/03/24
+  - 12/09/24
+  - 9/03/24
+  - 5/09/24
+  - 8/23/24
+events:
+  - Trip and fall
+  - Filing of complaint
+  - Propounding of discovery
+  - Failure to respond to discovery
+  - Compelling of discovery
+  - Scheduling of deposition
+  - Continuation of deposition
+  - Filing of stipulation to continue trial date
+  - Denial of stipulation
+  - Granting of motion to continue trial date
+  - Setting of new trial date
+money: []
+intention: To continue the trial date for three months
+facts:
+  - Plaintiff filed the complaint on 6/01/23
+  - The case is scheduled for trial on 6/03/24
+  - Defendants propounded discovery on 10/26/23
+  - Plaintiff failed to respond to discovery
+  - The Court granted Defendants' motions to compel on 3/05/24
+  - The deposition is currently scheduled for 4/24/24
+disputes:
+  - Plaintiff's failure to respond to discovery
+  - Defendant's request to continue the trial date
+acts:
+  - Filing of complaint
+  - Propounding of discovery
+  - Failure to respond to discovery
+  - Compelling of discovery
+  - Scheduling of deposition
+  - Continuation of deposition
+  - Filing of stipulation to continue trial date
+agreements:
+  - The parties filed a stipulation to continue the trial date to 12/09/24
+  - The Court denied the stipulation
+  - The Court will continue the trial date for three months
+laws:
+  - None mentioned
+case_citations: []
+statutes: []
+roles:
+  - Judge
+  - Plaintiff
+  - Defendant
+significant_statements:
+  - The Court will not permit Plaintiff to stonewall discovery
+  - The Court is hopeful that Plaintiff has complied with the 3/05/24 order
+  - The Court is also hopeful that the scheduled 4/24/24 deposition will go forward
+```
+
+And here is the English-text summary:
+
+The Judge's tentative ruling is that the trial date will be continued for three months to Tuesday, September 3, 2024, at 8:30 a.m. in Department S27. The Judge notes that the parties filed a stipulation to continue the trial date to 12/09/24, but the Court denied the stipulation because the stipulation is not permitted for use outside of the personal injury hub court system at the Spring Street Courthouse. The Judge is hopeful that the Plaintiff has complied with the 3/05/24 order requiring responses within fourteen days and that the scheduled 4/24/24 deposition will go forward. The Judge emphasizes that the Court will not permit Plaintiff to stonewall discovery and is setting the new trial date to give the parties sufficient time to complete discovery.

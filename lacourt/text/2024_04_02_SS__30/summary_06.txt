@@ -1,0 +1,54 @@
+Here is the YAML representation of the tentative ruling:
+
+```
+case_number: 22STCV14037
+plaintiff: Edna Fuentes
+defendant:
+  - Melusine Enterprises LLC
+  - et al.
+people_names:
+  - Edna Fuentes
+  - Counsel for Plaintiff
+company_names:
+  - Melusine Enterprises LLC
+places:
+  - Department 30
+dates:
+  - April 2, 2024
+  - March (trial date mentioned in declaration)
+events:
+  - Motion to be relieved as counsel for Plaintiff
+  - Hearing
+  - Trial
+money: N/A
+intentions:
+  - To grant or deny motion to be relieved as counsel for Plaintiff
+facts:
+  - Mandatory judicial council forms submitted
+  - Item 3b of the declaration not filled out
+  - Outdated hearing dates listed
+  - Trial date not yet set
+disputes:
+  - Dispute over hearing dates and trial date
+acts:
+  - Submission of mandatory judicial council forms
+  - Failure to fill out item 3b of the declaration
+  - Listing of outdated hearing dates
+agreements:
+  - CRC Rule 3.1362(e)
+laws:
+  - CRC Rule 3.1362(e)
+case_citations:
+  - None mentioned
+statutes:
+  - CRC Rule 3.1362(e)
+roles:
+  - Counsel for Plaintiff
+  - Moving party
+significant_statements:
+  - Tentative ruling: motion to be relieved as counsel for Plaintiff is DENIED without prejudice
+```
+
+And here is a summary of the tentative ruling in English text:
+
+The tentative ruling on the motion to be relieved as counsel for the plaintiff, Edna Fuentes, is DENIED without prejudice. The court has reviewed the mandatory judicial council forms submitted by counsel for the plaintiff, but notes that item 3b of the declaration has not been filled out and that the proposed order does not list all hearing dates. Additionally, the declaration mentions a trial date in March, while the proposed order states that the trial date has not yet been set. The moving party is ordered to give notice.

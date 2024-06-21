@@ -1,0 +1,66 @@
+Here is the YAML summary of the tentative ruling:
+
+```
+case_number: 23TRCV03337
+plaintiff_name: Virgilio Bonilla
+defendant_name: Gaspar Romero, et al.
+people_names:
+  - Virgilio Bonilla
+  - Gaspar Romero
+company_names:
+  - None
+places:
+  - Inglewood
+dates:
+  - October 10, 2023
+  - December 7, 2023
+  - December 12, 2023
+  - January 19, 2024
+  - April 3, 2024
+  - April 30, 2024
+events:
+  - Complaint filed
+  - Request for Dismissal filed
+  - Dismissal granted
+  - Motion to Set Aside Dismissal filed
+  - Case management conference scheduled
+money: None
+intentions:
+  - Plaintiff seeks to set aside dismissal
+  - Plaintiff seeks to revive case
+facts:
+  - Plaintiff filed a complaint against defendant
+  - Defendant did not oppose the motion
+  - Plaintiff's counsel mistakenly filed a request for dismissal
+disputes:
+  - Dispute over whether dismissal was proper
+acts:
+  - Plaintiff filed a complaint
+  - Defendant did not oppose the motion
+  - Plaintiff's counsel filed a motion to set aside dismissal
+agreements:
+  - None
+laws:
+  - Code of Civil Procedure §473(b)
+  - Code of Civ. Proc., § 473(b)
+  - English v. IKON Business Solutions (2001) 94 Cal.App.4th 130
+  - Rappleyea v. Campbell (1994) 8 Cal. 4th 975
+case_citations:
+  - English v. IKON Business Solutions (2001) 94 Cal.App.4th 130
+  - Rappleyea v. Campbell (1994) 8 Cal. 4th 975
+statutes:
+  - Code of Civil Procedure §473(b)
+  - Code of Civ. Proc., § 473(b)
+roles:
+  - Judge: [Judge's name]
+  - Plaintiff: Virgilio Bonilla
+  - Defendant: Gaspar Romero
+  - Plaintiff's counsel: David Merabi
+significant_statements:
+  - The court grants plaintiff's motion to set aside dismissal.
+  - The case is placed back on active calendar.
+```
+
+And here is the English-text summary of the tentative ruling:
+
+The court grants plaintiff Virgilio Bonilla's motion to set aside the dismissal of his case against defendant Gaspar Romero. The plaintiff's counsel had mistakenly filed a request for dismissal, which was granted on December 12, 2023. The plaintiff now seeks to set aside the dismissal and revive the case. The court finds that the dismissal was due to the mistake of the plaintiff's counsel and grants the motion. The case is placed back on active calendar, and a case management conference is scheduled for April 30, 2024.

@@ -1,0 +1,46 @@
+Here is the YAML summary of the tentative ruling:
+
+```
+case_number: "Unknown"
+plaintiff_name: "Unknown"
+defendant_name: "Unknown"
+people_names:
+  - Gary Gsell
+company_names: []
+places:
+  - Unknown
+dates:
+  - Unknown
+events:
+  - Slip and fall accident
+  - Inspection of the sidewalk
+money: 0
+intentions: None
+facts:
+  - Plaintiff slipped on a wet sidewalk
+  - Plaintiff did not see anything on the floor that contributed to the slip
+  - The sidewalk had a smooth finish
+  - Plaintiff testified that the concrete was "slick"
+disputes:
+  - Dispute over whether the sidewalk was a dangerous condition
+acts:
+  - Inspection of the sidewalk by Gary Gsell
+  - Plaintiff's testimony about the slip
+  - Plaintiff's response to defendant's objections
+agreements: None
+laws: None
+case_citations: []
+statutes: []
+roles:
+  - Judge
+  - Plaintiff
+  - Defendant
+  - Gary Gsell (expert witness)
+significant_statements:
+  - "Although Defendant argues that Plaintiff’s expert ignores Plaintiff’s testimony that she slipped from rain water only..."
+  - "That Plaintiff did not see anything on the floor that contributed to the slip does not establish that nothing else about the condition of the floor..."
+```
+
+And here is the English-text summary of the judge's tentative ruling:
+
+The defendant has objected to the plaintiff's expert testimony, arguing that it ignores the plaintiff's testimony that she slipped on rainwater only. However, the judge finds that this objection has no merit, as the plaintiff did not necessarily know whether she slipped on a smooth or textured surface, or one that was greasy or oily. The judge notes that the plaintiff did not see anything on the floor that contributed to the slip, but this does not establish that nothing else about the condition of the floor, other than it being wet, constituted a dangerous condition. The judge also references testimony from Gary Gsell, who inspected the sidewalk and found it to have a smooth finish. The judge will consider this evidence at the upcoming hearing.

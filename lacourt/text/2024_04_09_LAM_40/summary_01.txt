@@ -1,0 +1,50 @@
+Here is the summary of the judge's tentative ruling in YAML format:
+
+```
+case_number: 23STCV12977
+hearing_date: April 9, 2024
+dept: 40 Superior Court of California
+county: Los Angeles
+judges_name: [insert judge's name]
+parties:
+  - plaintiff: JASMIN HERNANDEZ
+  - defendant:
+      - SRC HOLDINGS, LLC
+      - SAP SOLUTIONS, INC
+      - KANAPLYA, LLC
+      - PEARL MANAGEMENT GROUP, INC
+      - PEARL PHARMA, INC
+      - MAGIC APPLIANCE, INC
+      - CRYSTAL AIR INC
+      - COVELLO INVESTMENTS, LLC
+      - CHASE MEDICAL ASSISTING AND SUPPLIES, INC
+      - CARE EVOLUTION, INC
+      - BLUEBELL FARMS, INC
+      - JULIA PERLMAN
+      - MICHAEL PERLMAN
+      - IGOR DEKHTERMAN
+      - DOES 1-100
+motions:
+  - motion_to_strike:
+      - entity_defendants: SRC HOLDINGS, LLC, SAP SOLUTIONS, INC, KANAPLYA, LLC, PEARL MANAGEMENT GROUP, INC, PEARL PHARMA, INC, MAGIC APPLIANCE, INC, CRYSTAL AIR INC, CHASE MEDICAL ASSISTING AND SUPPLIES, INC, CARE EVOLUTION, INC, BLUEBELL FARMS, INC
+      - allegations:
+        - oppression
+        - fraud
+        - malice
+      - ruling: GRANTED
+      - reasoning: The court finds that the Complaint sufficiently alleges oppression, fraud, or malice by the Entity Defendants and the Individual Defendants, who controlled the Entity Defendants as their alter egos.
+  - motion_to_strike:
+      - entity_defendants: SRC HOLDINGS, LLC, SAP SOLUTIONS, INC, KANAPLYA, LLC, PEARL MANAGEMENT GROUP, INC, PEARL PHARMA, INC, MAGIC APPLIANCE, INC, CRYSTAL AIR INC, CHASE MEDICAL ASSISTING AND SUPPLIES, INC, CARE EVOLUTION, INC, BLUEBELL FARMS, INC
+      - allegations:
+        - Penal Code section 484
+      - ruling: DENIED
+      - reasoning: The court finds that the Complaint's reference to Penal Code section 484 is relevant to the pleadings, as it is related to the whistleblower action.
+```
+
+Here is a summary of the judge's tentative ruling in English:
+
+The court has denied the motion to strike the portions of the Complaint filed by the Entity Defendants, consisting of SRC HOLDINGS, LLC, SAP SOLUTIONS, INC, KANAPLYA, LLC, PEARL MANAGEMENT GROUP, INC, PEARL PHARMA, INC, MAGIC APPLIANCE, INC, CRYSTAL AIR INC, CHASE MEDICAL ASSISTING AND SUPPLIES, INC, CARE EVOLUTION, INC, BLUEBELL FARMS, INC, JULIA PERLMAN, MICHAEL PERLMAN, and IGOR DEKHTERMAN.
+
+The court has also denied the motion to strike the allegations related to Penal Code section 484, finding that the reference is relevant to the pleadings.
+
+The court has granted the motion to strike the allegations related to punitive damages, finding that the Complaint sufficiently alleges oppression, fraud, or malice by the Entity Defendants and the Individual Defendants, who controlled the Entity Defendants as their alter egos.

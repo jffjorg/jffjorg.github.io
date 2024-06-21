@@ -1,0 +1,99 @@
+Here is a summary of the Tentative Ruling in YAML format:
+
+```
+---
+case_number: 22TRCV00181
+hearing_date: 2024-04-03
+dept: B
+court: Superior Court of California
+county: Los Angeles
+district: Southwest
+location: Torrance
+judge: [Unknown]
+---
+
+people:
+  - 5901 Century Owner, LLC (plaintiff)
+  - Festival Management Corporation (defendant)
+
+company_names:
+  - 5901 Century Owner, LLC
+  - Festival Management Corporation
+
+places:
+  - Los Angeles
+  - Torrance
+
+dates:
+  - 2022-03-10 (complaint filed)
+  - 2022-04-21 (first amended complaint filed)
+  - 2022-05-09 (stipulation for judgment granted)
+  - 2022-10-26 (second amended complaint filed)
+  - 2022-11-22 (cross-complaint filed)
+  - 2023-07-01 (motions to compel granted)
+  - 2023-07-21 (motion to compel further responses filed)
+  - 2023-10-11 (motion for sanctions filed)
+  - 2024-01-05 (order granting terminating sanctions)
+  - 2024-01-04 (defendant's counsel claims to have first become aware of discovery dispute)
+
+events:
+  - Plaintiff files complaint against defendant
+  - Defendant files cross-complaint against plaintiff
+  - Plaintiff files motion to compel further responses
+  - Defendant fails to serve supplemental responses
+  - Plaintiff files motion for sanctions
+  - Defendant's counsel claims to have first become aware of discovery dispute
+  - Hearing on terminating sanctions is held
+  - Court grants plaintiff's motion for sanctions
+
+money:
+  - $1,381 (amount of monetary sanctions awarded to plaintiff)
+  - $4,787.50 (amount of attorney's fees incurred by plaintiff)
+
+intentions:
+  - Plaintiff seeks to enforce discovery obligations
+  - Defendant seeks relief from terminating sanctions
+
+facts:
+  - Defendant's counsel failed to communicate with client and failed to serve supplemental responses
+  - Defendant's counsel claimed to have only become aware of discovery dispute on January 4, 2024
+  - Defendant's counsel had numerous opportunities to serve supplemental responses but failed to do so
+
+disputes:
+  - Plaintiff disputes defendant's claim of excusable neglect
+  - Defendant disputes plaintiff's allegations of discovery abuse
+
+acts:
+  - Plaintiff files motion to compel further responses
+  - Defendant fails to serve supplemental responses
+  - Plaintiff files motion for sanctions
+  - Defendant's counsel claims to have first become aware of discovery dispute
+
+agreements:
+  - None
+
+laws:
+  - CCP §473
+  - CCP §2033.300
+
+citations:
+  - Walter Pena declaration
+  - Hearn v. Howard (2009)
+  - Hopkins & Carley v. Gens (2011)
+  - Rodriguez v. Brill (2015)
+
+roles:
+  - Judge: [Unknown]
+  - Plaintiff: 5901 Century Owner, LLC
+  - Defendant: Festival Management Corporation
+  - Counsel: Walter Pena
+
+significant statements:
+  - Defendant's counsel's conduct was not excusable neglect
+  - Defendant's counsel's failures were intentional
+  - The court will not relieve the party and attorney of the consequences of this long history of discovery abuse
+```
+
+And here is a brief summary in English:
+
+The court denied defendant's motion to vacate the January 5, 2024 order granting terminating sanctions. The court found that defendant's counsel's failures to communicate with the client and serve supplemental responses were intentional, and not excusable neglect. The court also denied defendant's request to relieve the party and attorney of the consequences of their discovery abuse.

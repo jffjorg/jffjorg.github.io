@@ -1,0 +1,57 @@
+Here is the YAML summary of the tentative ruling:
+
+```
+case_number: 23LBCV02241
+plaintiff: [Unknown]
+defendant: [Unknown]
+people_names:
+  - Plaintiff
+  - Defendant
+company_names: []
+places:
+  - Los Angeles
+  - California
+dates:
+  - 3/05/24 (motion filed)
+  - 4/02/24 (hearing date)
+  - [CCP §1014]
+events:
+  - Motion to dismiss
+  - Proof of service
+  - Hearing
+money: [$0]
+intentions:
+  - Plaintiff: to dismiss the motion
+  - Defendant: to respond to the motion
+facts:
+  - Plaintiff failed to file proof of service
+  - CCP §1014 requires proof of service
+disputes:
+  - Plaintiff's failure to file proof of service
+acts:
+  - Plaintiff filed the motion
+  - Plaintiff failed to file proof of service
+agreements:
+  - Parties must file proof of service
+laws:
+  - CCP §1014
+  - [Other relevant laws]
+case_citations:
+  - CCP §1014
+  - [Other relevant case citations]
+statutes:
+  - CCP
+  - [Other relevant statutes]
+roles:
+  - Judge
+  - Plaintiff
+  - Defendant
+significant_statements:
+  - The motion is summarily denied due to Plaintiff's failure to file proof of service.
+  - Parties must file proof of service of the moving papers on all parties who have appeared in the action.
+  - If a party submits on the tentative, the party's email must include the case number and must identify the party submitting on the tentative.
+```
+
+And here is the English-text summary of the judge's tentative ruling:
+
+The plaintiff filed a motion to dismiss the case, but failed to file proof of service of the moving papers as required by CCP §1014. As a result, the motion is summarily denied. The defendants are advised to submit on the tentative by sending an email to the court, providing the case number and identifying the party submitting. If a party fails to submit on the tentative, they should make arrangements to appear remotely at the hearing.

@@ -1,0 +1,83 @@
+Here is the YAML representation of the Judge's tentative ruling:
+
+```
+Case Number: 22VECV01458
+Plaintiff's Name: Kimberly Davis
+Defendant's Name: Paige Hemmis, et al.
+People-Names:
+  - Kimberly Davis
+  - Jonathan Davis
+  - Paige Hemmis
+  - Jason Short
+  - Ameka Benton
+  - Scott Fields
+  - Melissa Improta
+  - Jason Improta
+  - Google, LLC
+Company-Names:
+  - Google, LLC
+  - Hallmark Cards, Inc.
+  - Crown Media Holdings, Inc.
+  - Paige Hemmis, Inc.
+  - Aria Music Group
+  - Compass California, Inc.
+Places:
+  - California
+  - Calabasas
+Dates:
+  - September 15, 2019
+  - February 6, 2024
+  - March 24, 2023
+  - August 18, 2023
+  - April 3, 2024
+Events:
+  - Deposition of Person Most Qualified of Google, LLC
+  - Filing of third amended complaint
+  - Motion to compel deposition
+  - Cross-complaint filed
+  - Request for judicial notice
+  - Request for monetary sanctions
+Money:
+  - $11,890 (monetary sanctions)
+Intentions:
+  - Plaintiffs' intention to depose Person Most Qualified of Google, LLC
+  - Google's intention to provide authenticated records
+Facts:
+  - Plaintiffs' allegations of intentional interference with contract, negligence, trespass, and other claims
+  - Google's refusal to produce Person Most Qualified witness
+Disputes:
+  - Plaintiffs' dispute with Google over deposition
+  - Google's refusal to provide Person Most Qualified witness
+Acts:
+  - Plaintiffs' filing of motion to compel deposition
+  - Google's objections to deposition
+  - Google's production of authenticated records
+  - Plaintiffs' request for monetary sanctions
+  - Judge's tentative ruling granting motion to compel deposition
+Agreements:
+  - Settlement agreement between Plaintiffs and US Bank
+  - Lease agreement between Plaintiffs and Defendants
+Laws:
+  - California Code of Civil Procedure (CCP)
+  - Evidence Code
+Statutes:
+  - CCP § 2020.020
+  - CCP § 2025.010
+  - CCP § 2025.440
+Case Citations:
+  - CCP § 2020.240
+  - CCP § 2025.440
+  - CCP § 2025.450
+Roles:
+  - Plaintiff: Kimberly Davis and Jonathan Davis
+  - Defendant: Paige Hemmis, et al.
+  - Non-Party: Google, LLC
+  - Judge: presiding judge
+Significant Statements:
+  - "The court finds the Certificate of Authenticity does not obviate the need to depose Google, LLC's PMK."
+  - "Plaintiffs have demonstrated the answers sought are subject to discovery as many of the records are not self-explanatory and could readily be clarified in a short deposition."
+```
+
+And here is the English summary of the Judge's tentative ruling:
+
+The Judge has granted the Plaintiffs' motion to compel the deposition of the Person Most Qualified of Google, LLC. The Plaintiffs had requested the deposition to obtain basic information about the Google account that was used to electronically forge the Plaintiffs' name on a lease agreement. Google had refused to produce a witness, citing that the certificate of authenticity for the documents produced was sufficient. The Judge found that the certificate of authenticity did not obviate the need for a live witness and that the Plaintiffs had demonstrated that the answers sought were subject to discovery. The Judge also denied the Plaintiffs' request for monetary sanctions against Google, finding that Google had acted with substantial justification.

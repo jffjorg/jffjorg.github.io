@@ -1,0 +1,60 @@
+Here is the judge's tentative ruling in YAML format:
+
+```
+Case Number: 23STCP00613
+Plaintiff's Name: David Kartch
+Defendant's Name: David Gutierrez, DAGUT Group Inc.
+People-Names:
+  - David Kartch
+  - David Gutierrez
+Company-Names:
+  - DAGUT Group Inc.
+Places:
+  - California
+  - Secretary of State
+Dates:
+  - February 28, 2023
+  - October 20, 2023
+  - April 10, 2024
+  - June 6, 2024
+Events:
+  - Filing of petition for removal of personal information
+  - Service by publication
+  - Hearing on motion for issuance of order
+Money: None mentioned
+Intentions:
+  - To determine whether personal identifying information has been used unlawfully
+  - To grant an order directing the redaction of personal information
+Facts:
+  - Petitioner's personal address used in business entity filing
+  - Petitioner suspects identity theft
+Disputes:
+  - Whether DAGUT Group Inc. used Petitioner's personal information lawfully
+Acts:
+  - Petitioner's efforts to serve DAGUT Group Inc.
+  - Court's denial of previous motion due to lack of service
+  - Court's invitation to Petitioner to present additional evidence
+Agreements:
+  - None mentioned
+Laws:
+  - California Civil Code Section 1798.201
+  - California Civil Procedure Code Section 415.50
+  - California Penal Code Section 530.5
+  - California Government Code Section 6064
+Case Citations:
+  - Watts v. Crawford (1995) 10 Cal.4th 743
+Statutes:
+  - California Civil Code Section 1798.201
+  - California Civil Procedure Code Section 415.50
+  - California Government Code Section 6064
+  - California Penal Code Section 530.5
+Roles:
+  - Petitioner: David Kartch
+  - Respondent: DAGUT Group Inc.
+Significant Statements:
+  - "Every person who willfully obtains personal identifying information, as defined in subdivision (b) of Section 530.55, of another person, and uses that information for any unlawful purpose... is guilty of a public offense..."
+```
+
+And here is the English-text summary of the judge's tentative ruling:
+
+The court has set a new hearing date of June 6, 2024, to allow the petitioner, David Kartch, to seek publication of the petition and present additional evidence in support of the actual substantive request regarding the necessity for relief. The court had previously denied a similar motion due to the petitioner's failure to serve the respondent, DAGUT Group Inc. The court requires the petitioner to demonstrate due process findings and substantive compliance before allowing the submission of the order to the California Secretary of State. The petitioner is not required to provide notice to himself or the unserved respondents.

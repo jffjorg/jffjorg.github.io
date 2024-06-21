@@ -1,0 +1,71 @@
+Here is the YAML summary of the Judge's tentative ruling:
+
+```
+case_number: 23STCV23139
+hearing_date: 2024-04-09
+dept: 29
+plaintiff_names:
+  - Susan Mizrahi
+  - Amnon Mizrahi
+defendant_name: AAA
+people_names:
+  - Amnon Mizrahi
+  - Susan Mizrahi
+company_names:
+  - Carmel Towing & Transport, Inc.
+  - Bert's Garage, Inc.
+  - Automobile Club of Southern California (AAA)
+places:
+  - California
+dates:
+  - 2021-11-10 (accident)
+  - 2023-09-25 (Complaint filed)
+  - 2023-10-17 (AAA's Answer filed)
+  - 2023-11-30 (discovery requests served)
+  - 2024-03-04 (motions to compel filed)
+  - 2024-04-09 (hearing date)
+events:
+  - Accident on 2021-11-10
+  - Complaint filed on 2023-09-25
+  - AAA's Answer filed on 2023-10-17
+  - Discovery requests served on 2023-11-30
+  - Motions to compel filed on 2024-03-04
+  - Hearing on 2024-04-09
+money:
+  - Sanctions sought
+  - Monetary sanctions authorized under CCP sections 2030.290 and 2031.300
+intention:
+  - To compel Plaintiff's responses to discovery requests
+  - To impose sanctions for misuse of discovery
+facts:
+  - Plaintiffs Amnon and Susan Mizrahi were injured in an accident
+  - AAA served discovery requests on November 30, 2023
+  - Plaintiffs did not respond to discovery requests
+  - AAA filed motions to compel on March 4, 2024
+  - No opposition was filed to the motions to compel
+  - The court granted the motions to compel
+disputes:
+  - Plaintiffs' failure to respond to discovery requests
+  - AAA's request for sanctions
+acts:
+  - Plaintiffs failed to respond to discovery requests
+  - AAA filed motions to compel
+  - No opposition was filed to the motions to compel
+agreements:
+  - None mentioned
+laws:
+  - California Code of Civil Procedure (CCP) sections 2030.260, 2030.290, 2031.260, 2031.300, 2023.010, 2023.020, 2023.030
+statutes:
+  - California Code of Civil Procedure (CCP)
+  - California Rules of Court (CRC)
+roles:
+  - Plaintiff: Amnon Mizrahi and Susan Mizrahi
+  - Defendant: AAA
+significant_statements:
+  - The court granted the motions to compel
+  - The court denied AAA's requests for sanctions
+```
+
+And here is a summary of the Judge's tentative ruling in English text:
+
+The court grants AAA's motions to compel Plaintiff Susan Mizrahi and Plaintiff Amnon Mizrahi to respond to Form Interrogatories (Set One), Special Interrogatories (Set One), and Requests for Production (Set One). The court also denies AAA's requests for sanctions. The court finds that AAA's motions to compel are justified because Plaintiffs failed to respond to the discovery requests served on November 30, 2023. The court grants the motions to compel because AAA need not show anything more. The court denies AAA's requests for sanctions because no opposition was filed to the motions to compel.

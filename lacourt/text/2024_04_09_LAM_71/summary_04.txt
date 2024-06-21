@@ -1,0 +1,65 @@
+Here is a summary of the tentative ruling in YAML format:
+
+```
+case_number: 23STCV20564
+hearing_date: 2024-04-09
+department: 71
+county: Los Angeles
+judge:
+  name: [Judge's Name]
+
+people:
+  - Goodson Real Estate Co. (Plaintiff)
+  - Torres General Contractors Inc. (Defendant)
+  - Thomas Kim (Defendant)
+  - Richard Kim (Defendant)
+  - Jacob Mullem (Defendant)
+  - Jonghwa Won (Defendant)
+
+companies:
+  - Goodson Real Estate Co.
+  - Torres General Contractors Inc.
+
+places:
+  - Los Angeles
+  - 1124-1138 S. Normandie Ave.
+
+dates:
+  - August 28, 2023 (initial complaint filed)
+  - January 5, 2024 (sustained demurrer)
+  - February 5, 2024 (first amended complaint filed)
+  - March 3, 2024 (meet and confer)
+  - March 4, 2024 (meet and confer letter sent)
+  - March 8, 2024 (demurrer filed)
+  - March 25, 2024 (opposition to demurrer filed)
+  - April 2, 2024 (reply to demurrer filed)
+
+money:
+  - $1,240,000 (contract amount)
+  - $480,000 (amount paid to Torres)
+  - $1,000,000 (statutory liability under Bus. & Prof. Code §7076.2(b))
+
+intents:
+  - Plaintiff seeks to recover damages for breach of contract, negligence, and intentional interference with contractual relations.
+
+facts:
+  - Torres General Contractors Inc. was hired to perform electrical work at the Property.
+  - The contract called for payments of $1,240,000.
+  - Plaintiff alleges that Defendants breached the contract by failing to perform the work as agreed.
+  - Plaintiff alleges that Defendants made misrepresentations about the work being done.
+  - Plaintiff alleges that Defendants failed to obtain a contractor's license in good standing.
+  - Plaintiff alleges that Defendants' conduct caused harm to the Property and to Plaintiff.
+
+disputes:
+  - Breach of contract
+  - Negligence
+  - Intentional interference with contractual relations
+  - Intentional interference with prospective economic relations
+  - Negligent interference with prospective economic relations
+
+agreements:
+  - Contract between Plaintiff and HIMR Normandie JV, LLC for development of the Property.
+  - Contract between Plaintiff and Umpqua Bank for financing of the development of the Property.
+
+laws:
+  - Business and Prof

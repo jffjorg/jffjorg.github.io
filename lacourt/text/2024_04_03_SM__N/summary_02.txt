@@ -1,0 +1,72 @@
+Here is the summary in YAML format:
+
+```
+case_number: 23SMCV00505
+hearing_date: 2024-04-03
+department: N
+plaintiff:
+  name: American Commercial Equities Two, LLC
+  role: Plaintiff
+defendant:
+  name: Reed Capital Group, LLC
+  name: Gary Reed Enterprises, Inc.
+  role: Defendant
+people:
+  - Gary Reed
+  - Reed Capital Group, LLC
+  - Gary Reed Enterprises, Inc.
+company:
+  - American Commercial Equities Two, LLC
+  - Reed Capital Group, LLC
+  - Gary Reed Enterprises, Inc.
+place:
+  - California
+date:
+  - 2013-05-29 (lease date)
+  - 2024-01-19 (motion for summary adjudication)
+  - 2024-01-18 (rate change)
+event:
+  - Motion for Order for an Award of Attorneys' Fees
+  - Motion for Summary Adjudication
+  - Hearing Date: 2024-04-03
+money:
+  amount: 19650
+  reduced_amount: 18950
+  rate: 325 (initial) / 350 (later)
+intention:
+  - Plaintiff prevails in the action
+  - Award attorney fees to the prevailing party
+facts:
+  - Plaintiff prevailed in the action
+  - Defendants did not file an opposition to the motion
+  - Contract provides for attorney fees
+  - Statute allows for attorney fees
+dispute:
+  - None (no opposition to the motion)
+acts:
+  - Plaintiff prevailed in the action
+agreements:
+  - Lease dated 2013-05-29
+  - Guaranty attached to the lease
+  - Statute: Code of Civil Procedure section 1033.5
+laws:
+  - Code of Civil Procedure section 1033.5
+  - California law regarding attorney fees
+case_citations:
+  - Graciano v. Robinson Ford Sales, Inc. (2006)
+  - Margolin v. Reg'l Planning Comm'n (1982)
+  - Section 28 of the Retail Center Lease
+  - Section 11 of the Guaranty
+roles:
+  - Judge
+  - Plaintiff
+  - Defendant
+significant_statements:
+  - "A party is permitted to recover reasonable attorney fees when authorized by contract, statute, or law."
+  - "The losing party in such action or proceeding shall reimburse the prevailing party for its reasonable expenses of attorneys' fees and all costs and disbursements incurred..."
+  - "The Court does not award fees incurred for preparing a reply."
+```
+
+And here is a summary of the judge's tentative ruling in English text:
+
+The judge grants the plaintiff's motion for an award of attorneys' fees in the reduced amount of $18,950. The plaintiff, American Commercial Equities Two, LLC, prevailed in the action against the defendants, Reed Capital Group, LLC and Gary Reed Enterprises, Inc. The contract provides for attorney fees, and California law allows for such fees to be awarded to the prevailing party. The plaintiff's fees were calculated based on the number of hours spent working on the case and the reasonable hourly rate. The judge does not award fees incurred for preparing a reply.

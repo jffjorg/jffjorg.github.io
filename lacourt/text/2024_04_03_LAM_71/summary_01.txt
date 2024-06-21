@@ -1,0 +1,69 @@
+Here is the summary in YAML format:
+
+```
+case_number: 21STCV03788
+plaintiff: Wesley Robbins
+defendant: Carl Shaff, II, et al.
+people:
+  - Wesley Robbins
+  - Carl Shaff, II
+  - David Cobb
+company_names: []
+places:
+  - Los Angeles
+  - California
+dates:
+  - October 25, 2023
+  - November 27, 2023
+  - April 3, 2024
+events:
+  - Request for Admissions (Set One)
+  - Failure to respond to Requests for Admission
+  - Motion to deem admitted
+  - Award of sanctions
+  - Notice of Motion
+  - Hearing
+money:
+  - $1,975.00
+  - $1,000
+  - $150.00
+  - $20.00
+  - $1,170.00
+intentions:
+  - To deem admitted Defendant Cobb's responses to Plaintiff's Request for Admissions
+  - To award monetary sanctions against Defendant Cobb
+facts:
+  - Plaintiff served RFA on Defendant Cobb by email
+  - Responses were due on or before November 27, 2023
+  - Defendant Cobb failed to provide timely responses
+disputes:
+  - Failure to respond to Requests for Admission
+  - Amount of sanctions
+acts:
+  - Plaintiff served RFA on Defendant Cobb
+  - Defendant Cobb failed to respond in a timely manner
+agreements:
+  - Plaintiff's unopposed motion to deem admitted Defendant Cobb's responses to the RFAs
+laws:
+  - C.C.P. §§2023.010 et seq.
+  - C.C.P. §2033.280
+  - C.C.P. §2033.280(c)
+case_citations:
+  - C.C.P. §§2023.010 et seq.
+  - C.C.P. §2033.280
+  - C.C.P. §2033.280(c)
+statutes:
+  - C.C.P. §§2023.010 et seq.
+  - C.C.P. §2033.280
+  - C.C.P. §2033.280(c)
+roles:
+  - Plaintiff: Wesley Robbins
+  - Defendant: Carl Shaff, II, et al.
+significant_statements:
+  - Plaintiff's unopposed motion to deem admitted Defendant Cobb's responses to the RFAs is granted.
+  - Plaintiff's request for monetary sanctions is granted in the reduced total amount of $1,170.00 against Defendant Cobb.
+```
+
+And here is the English summary:
+
+The court has issued a tentative ruling in the case of Wesley Robbins vs. Carl Shaff, II, et al. The court grants the plaintiff's unopposed motion to deem admitted the defendant's responses to the request for admissions. Additionally, the court awards monetary sanctions in the amount of $1,170.00 against the defendant. The sanctions are payable within 20 days.

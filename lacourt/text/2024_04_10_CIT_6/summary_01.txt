@@ -1,0 +1,72 @@
+Here is the summary in YAML format:
+
+```
+case_number: 22PSCV01124
+hearing_date: 2024-04-10
+dept: 6
+case_name: Great New World Equity LLC v. Zhou's Investment & Management, Inc., dba The Noodle
+plaintiff: Great New World Equity LLC
+defendant: Zhou's Investment & Management, Inc., dba The Noodle
+people:
+  - Great New World Equity LLC
+  - Zhou's Investment & Management, Inc.
+  - The Noodle
+companies:
+  - Great New World Equity LLC
+  - Zhou's Investment & Management, Inc.
+places:
+  - 19755 E. Colima Road, Unit C, Rowland Heights, CA 91748
+dates:
+  - September 29, 2022
+  - March 11, 2024
+  - March 27, 2024
+events:
+  - Unlawful detainer action
+  - Motion for summary judgment
+  - Motion to compel responses to Form Interrogatories
+  - Motion to deem Requests for Admission
+money:
+  - $13,996.08 (monthly rent)
+  - $90,190.97 (past due rent)
+  - $90,000 (tenant improvements)
+intention:
+  - To determine whether there is a triable issue of material fact
+facts:
+  - Lease agreement between plaintiff and defendant
+  - Defendant failed to pay rent
+  - Plaintiff served a three-day notice to pay rent or quit
+  - Defendant did not pay the past due rent
+disputes:
+  - Defendant's failure to pay rent
+  - Plaintiff's motion for summary judgment
+  - Defendant's opposition to the motion
+acts:
+  - Plaintiff served a three-day notice to pay rent or quit
+  - Defendant failed to pay the past due rent
+agreements:
+  - Lease agreement between plaintiff and defendant
+laws:
+  - Code of Civil Procedure section 437c
+  - Code of Civil Procedure section 2030.290
+  - Code of Civil Procedure section 2033.280
+  - Code of Civil Procedure section 2023.040
+case_citations:
+  - Aguilar v. Atlantic Richfield Co. (2001) 25 Cal.4th 826
+  - Adler v. Manor Healthcare Corp. (1992) 7 Cal.App.4th 1110
+  - Juge v. County of Sacramento (1993) 12 Cal.App.4th 59
+  - Scalf v. D.B. Log Homes, Inc. (2005) 128 Cal.App.4th 1510
+  - KB Salt Lake III, LLC v. Fitness Int'l, LLC (2023) 95 Cal.App.5th 1032
+  - Nork v. Pacific Coast Medical Enterprises, Inc. (1977) 73 Cal.App.3d 410
+roles:
+  - Plaintiff: Great New World Equity LLC
+  - Defendant: Zhou's Investment & Management, Inc., dba The Noodle
+significant_statements:
+  - The court will grant plaintiff's motion for summary judgment, subject to defendant providing evidence of the existence of a triable issue of material fact.
+  - Plaintiff has met its burden of showing that there is no defense to the unlawful detainer claim.
+  - The law states that the tenant cannot use an unrelated debt of the landlord to the tenant to set off past due rent.
+  - The court will deem the truth of the matters specified in Requests for Admission (Set One) admitted and conclusively established as to defendant.
+```
+
+Here is a brief summary of the tentative ruling:
+
+The court has granted the plaintiff's motion for summary judgment, subject to the defendant providing evidence of the existence of a triable issue of material fact. The plaintiff has met its burden of showing that there is no defense to the unlawful detainer claim. The defendant failed to pay rent, and the plaintiff served a three-day notice to pay rent or quit. The court will deem the truth of the matters specified in Requests for Admission (Set One) admitted and conclusively established as to defendant. The court also denied the plaintiff's requests for monetary sanctions.

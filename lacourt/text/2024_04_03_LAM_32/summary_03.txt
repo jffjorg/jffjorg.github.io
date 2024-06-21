@@ -1,0 +1,70 @@
+Here is the summary in YAML format:
+
+```
+case_number: 22STCV36947
+plaintiff_name: Jo Anne Korngute
+defendant_names:
+  - City of Los Angeles
+  - Taylor Equities 15, LLC
+  - Gary David Spatz
+people_names:
+  - Jo Anne Korngute
+  - Gary David Spatz
+company_names:
+  - Taylor Equities 15, LLC
+  - City of Los Angeles
+places:
+  - Los Angeles
+dates:
+  - November 22, 2022
+  - December 28, 2021
+  - March 30, 2022
+  - February 21, 2023
+  - June 20, 2023
+  - March 7, 2024
+  - March 20, 2024
+  - March 26, 2024
+  - April 3, 2024
+events:
+  - Trip over broken sidewalk
+  - Vehicle accident
+  - Filing of cross-complaint
+  - Motion to bifurcate trial
+money:
+  - Damages
+intention:
+  - To determine the appropriateness of bifurcating the trial
+facts:
+  - Plaintiff suffered injuries in two separate incidents
+  - Defendant argues that the incidents are unrelated
+  - Plaintiff argues that the incidents are related
+disputes:
+  - Bifurcation of trial
+acts:
+  - Filing of motion to bifurcate
+agreements:
+  - None
+laws:
+  - California Code of Civil Procedure
+  - California Rules of Court
+  - Royal Surplus Lines Ins. Co. v. Ranger Ins. Co.
+  - Code Civ. Proc., § 598
+  - Code Civ. Proc., § 1048, subd. (b)
+statutes:
+  - California Code of Civil Procedure
+  - California Rules of Court
+roles:
+  - Judge
+  - Plaintiff
+  - Defendant
+  - Plaintiff's counsel
+  - Defense counsel
+significant_statements:
+  - Bifurcation of trial is not warranted
+  - Relatedness of injuries is unclear at this stage
+  - Single trial would be more efficient and avoid confusion
+```
+
+And here is the English text to summarize the judge's tentative ruling:
+
+The judge has ruled that the motion to bifurcate the trial between the two incidents is not warranted. The judge believes that the incidents are related and that a single trial would be more efficient and avoid confusion. The judge also notes that the extent of liability attributable to one incident necessarily depends on the other incident. The judge finds that bifurcation would not be conducive to the ends of justice and would instead lead to duplicate litigation and inconsistent findings.

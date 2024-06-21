@@ -1,0 +1,99 @@
+Here is the summary in YAML format:
+
+```
+case_number: 23PSCV02008
+plaintiff: Rosalia Franco and Henry Franco
+defendant: Sunlight Financial LLC
+people_names:
+  - Rosalia Franco
+  - Henry Franco
+companies:
+  - Sunlight Financial LLC
+  - Best Solar Power Inc.
+  - San Martin Escrow
+  - American Arbitration Association (AAA)
+  - JAMS (Judicial Arbitration and Mediation Services)
+places:
+  - West Covina
+  - California
+dates:
+  - February 2021
+  - June 2021
+  - December 27, 2021
+  - January 3, 2022
+  - October 8, 2023
+  - July 5, 2023
+  - February 13, 2024
+  - April 10, 2024
+  - June 27, 2024
+events:
+  - Loan agreement
+  - Arbitration agreement
+  - Credit reporting violations
+  - Breach of contract
+monies:
+  - $53,460
+  - $49,968
+  - Loan
+intentions:
+  - Compel arbitration
+  - Dismiss or stay the action
+facts:
+  - Plaintiffs entered into a construction agreement with Best Solar Power Inc.
+  - Plaintiffs financed the projects with loans from Sunlight Financial
+  - Sunlight Financial paid off the loans
+  - Plaintiffs alleged errors in credit reporting
+disputes:
+  - Breach of contract
+  - Credit reporting violations
+acts:
+  - Loan agreement
+  - Arbitration agreement
+  - Credit reporting violations
+agreements:
+  - Arbitration agreement
+  - Loan agreement
+laws:
+  - California Consumer Credit Reporting Agencies Act (CCRAA)
+  - Federal Arbitration Act (FAA)
+  - California Code of Civil Procedure (CCP)
+  - California Civil Code
+statutes:
+  - CCP § 1281
+  - CCP § 1281.2
+  - CCP § 1290.2
+  - FAA
+  - CCP § 1295
+roles:
+  - Judge
+  - Plaintiffs
+  - Defendant
+  - Arbitrator
+  - Umpire
+  - Mediator
+significant_statements:
+  - "A written agreement to submit to arbitration an existing controversy or a controversy thereafter arising is valid, enforceable and irrevocable..."
+  - "The court must grant a petition to compel arbitration unless it finds no written agreement to arbitrate exists..."
+  - "When the FAA applies, it preempts any contrary state law and is binding on state as well as federal courts."
+```
+
+Note: I've extracted the relevant information from the text and formatted it in YAML, using the following keys:
+
+* `case_number`: the case number
+* `plaintiff`: the plaintiff(s)
+* `defendant`: the defendant
+* `people_names`: a list of people mentioned in the text
+* `companies`: a list of companies mentioned in the text
+* `places`: a list of places mentioned in the text
+* `dates`: a list of dates mentioned in the text
+* `events`: a list of events mentioned in the text
+* `monies`: a list of monetary amounts mentioned in the text
+* `intentions`: a list of intentions mentioned in the text
+* `facts`: a list of facts mentioned in the text
+* `disputes`: a list of disputes mentioned in the text
+* `acts`: a list of acts mentioned in the text
+* `agreements`: a list of agreements mentioned in the text
+* `laws`: a list of laws mentioned in the text
+* `statutes`: a list of statutes mentioned in the text
+* `roles`: a list of roles mentioned in the text
+* `significant_statements`: a list of significant statements made by the judge

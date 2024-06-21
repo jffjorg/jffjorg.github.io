@@ -1,0 +1,47 @@
+Here is the summary in YAML format:
+```
+case_number: "Unknown"
+plaintiff_name: "Unknown"
+defendant_name: "Defendant's Counsel"
+people_names:
+  - Phillips
+company_names: []
+places: []
+dates:
+  - unknown
+events:
+  - Demurrer filing
+  - Meet and confer process failure
+money: []
+intentions:
+  - Meet and confer
+  - Demurrer filing
+facts:
+  - Plaintiff served with notice of demurrer
+  - No opposition filed
+  - Meet and confer process not completed
+disputes:
+  - Insufficient meet and confer process
+  - Demurrer filing
+acts:
+  - Demurrer filing
+  - Meet and confer process failure
+agreements: []
+laws:
+  - CCP § 430.41
+  - CCP § 430.41(a)(4)
+  - Civil Code (unless otherwise noted)
+case_citations: []
+statutes:
+  - CCP § 430.41
+roles:
+  - Judge
+  - Defendant's Counsel
+  - Plaintiff
+significant_statements:
+  - Defendant's Counsel asserts they tried to meet and confer
+  - No opposition filed despite service of notice
+```
+And here is the English text summarizing the judge's tentative ruling:
+
+The judge notes that the defendant's counsel has filed a demurrer and asserts that they attempted to meet and confer with the plaintiff before filing the demurrer. However, the plaintiff was served with notice of the demurrer, but no opposition has been filed. The judge cites California Code of Civil Procedure § 430.41, which requires the demurring party to meet and confer with the party who filed the pleading demurred to. The court finds that the meet and confer process was not completed, but notes that this is not grounds to overrule or sustain the demurrer.

@@ -1,0 +1,48 @@
+Here is the summary in YAML format:
+
+```
+summary:
+  Case Number: "undisclosed"
+  Plaintiff's Name: "undisclosed"
+  Defendant's Name: "Franco Vago SpA" and "Nippon Express Italia SpA"
+  People:
+    - Plaintiff
+    - Franco Vago SpA
+    - Nippon Express Italia SpA
+  Company-Names:
+    - Franco Vago SpA
+    - Nippon Express Italia SpA
+  Places: "undisclosed"
+  Dates: "undisclosed"
+  Events:
+    - Service of Plaintiff's Complaint
+    - Employment relationship between Plaintiff and Franco Vago SpA/Nippon Express Italia SpA
+  Money: "undisclosed"
+  Intentions:
+    - FEHA claims may apply
+  Facts:
+    - Plaintiff alleges employment discrimination
+    - Franco Vago SpA and Nippon Express Italia SpA not served with Plaintiff's Complaint
+  Disputes:
+    - Specific liability for allegations of harassment or discrimination
+  Acts:
+    - Bradley v. Department of Corrections & Rehabilitation (2008)
+  Agreements: "undisclosed"
+  Laws:
+    - FEHA (Fair Employment and Housing Act)
+  Case Citations:
+    - Bradley v. Department of Corrections & Rehabilitation (2008)
+  Statutes:
+    - FEHA
+  Roles:
+    - Plaintiff
+    - Franco Vago SpA
+    - Nippon Express Italia SpA
+  Significant Statements:
+  - "the evidence does not demonstrate specific liability for the underlying allegations here."
+  - "the key is that liability is predicated on the allegations of harassment or discrimination involving the terms, conditions, or privileges of employment under the control of the employer..."
+```
+
+And here is the English-text summary:
+
+The Judge's tentative ruling finds that neither Franco Vago SpA nor Nippon Express Italia SpA have been served with the Plaintiff's Complaint or appeared in the action. While the evidence suggests an employment relationship between the Plaintiff and these companies, it does not demonstrate specific liability for the underlying allegations of harassment or discrimination. The Judge cites Bradley v. Department of Corrections & Rehabilitation (2008) in support of this finding, which emphasizes that liability is predicated on the allegations of harassment or discrimination involving the terms, conditions, or privileges of employment under the control of the employer.

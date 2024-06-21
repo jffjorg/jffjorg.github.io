@@ -1,0 +1,51 @@
+Here is the summary in YAML format:
+
+```
+case_number: 23STCV26388
+plaintiff: J.P.
+defendants:
+  - Eastern Revenue, Inc.
+  - Emmanuel University, Inc.
+  - Kyle Shanahan
+  - Matt McRee
+  - Joann S. Harper
+  - Does 1-30
+hearing_date: June 18, 2024
+trial_date: N/A
+tentative_ruling:
+  - Motion to Recover Expenses: GRANTED as to Eastern Revenue, Inc. in the amount of $3,110; DENIED as to Kyle Shanahan; and CONTINUED as to Emmanuel University, Inc.
+  - Motion to Compel Deposition: DENIED
+  - Request for Sanctions: DENIED
+
+background:
+  - Plaintiff J.P. sues Defendants Eastern Revenue, Inc., Emmanuel University, Inc., Kyle Shanahan, Matt McRee, Joann S. Harper, and Does 1-30 for fraud, unfair business practices, and breach of contract.
+
+motions:
+  - Motion to Recover Expenses: filed by Plaintiff to recover expenses incurred in serving Defendants
+  - Motion to Compel Deposition: filed by Plaintiff to compel the deposition of PMK for Eastern Revenue, Inc.
+  - Request for Sanctions: filed by Plaintiff to request sanctions against Defendant Eastern and its attorney Marcus Dong
+
+facts:
+  - Plaintiff's counsel confirmed with Richard J. Perr, Eastern Revenue and Shanahan's prior defense counsel, that Perr still represented Eastern Revenue and Shanahan
+  - Eastern Revenue and Kyle Shanahan failed to point to authority supporting their arguments that Plaintiff also needed to mail the summons to Eastern Revenue directly or exhaust all methods of confirming service by mail
+  - Plaintiff's motion does not address Emmanuel University's opposition
+  - The Court finds that Plaintiff is entitled to relief pursuant to Code of Civil Procedure section 415.30, subdivision (d)
+
+laws:
+  - California Code of Civil Procedure section 415.30, subdivision (d)
+  - California Code of Civil Procedure section 2025.450, subdivision (b)
+  - California Rules of Court, rule 3.1345, subdivision (b)
+
+significance:
+  - The Court's tentative ruling grants Plaintiff's Motion to Recover Expenses in part, denies it in part, and continues it in part
+  - The Court denies Plaintiff's Motion to Compel Deposition and Request for Sanctions
+  - The Court orders Defendant Eastern Revenue, Inc. to remit payment of $3,110 to Plaintiff J.P. within 10 days of this order
+```
+
+And here is the English-text summary:
+
+The Judge's tentative ruling grants Plaintiff J.P.'s Motion to Recover Expenses in part, denying it in part and continuing it in part. Specifically, the Court grants the motion as to Defendant Eastern Revenue, Inc. in the amount of $3,110, denies it as to Defendant Kyle Shanahan, and continues it as to Defendant Emmanuel University, Inc.
+
+The Judge also denies Plaintiff's Motion to Compel Deposition and Request for Sanctions. The Court finds that Plaintiff is entitled to relief pursuant to Code of Civil Procedure section 415.30, subdivision (d), which allows for recovery of expenses incurred in serving defendants.
+
+The Court orders Defendant Eastern Revenue, Inc. to remit payment of $3,110 to Plaintiff J.P. within 10 days of this order.

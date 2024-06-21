@@ -1,0 +1,63 @@
+Here is the summary in YAML format:
+
+```
+case_number: 23STCV40958
+plaintiff: Cynthia Makin
+defendant: George Cashman
+people_names:
+  - Cynthia Makin
+  - George Cashman
+companies:
+  - GFC Administrative Trust
+places:
+  - Rolling Hills
+  - Los Angeles
+  - California
+dates:
+  - April 9, 2024
+  - March 7, 2024
+  - March 18, 2024
+  - April 28, 2023
+  - December 29, 2022
+  - January 1, 2023
+events:
+  - Motion for Order for Appraisal of Real Property
+  - Verified Complaint for Partition in Kind of Real Property
+  - Verified Cross-Complaint for Partition by Sale
+  - Cross-Complaint for Partition by Sale
+money: $0
+intentions:
+  - partition of real property
+  - appraisal of real property
+facts:
+  - Makin and Cashman own the property in equal parts as tenants-in-common
+  - Cashman filed a cross-complaint for partition by sale
+  - Makin and Cashman disagree on the application of the Partition of Real Property Act (PRPA)
+disputes:
+  - Makin vs. Cashman over the application of the PRPA
+  - Makin vs. Cashman over the valuation of the property
+acts:
+  - Makin filed a motion for order for appraisal of real property
+  - Cashman filed an opposition
+  - Makin replied
+agreements:
+  - none
+laws:
+  - Partition of Real Property Act (PRPA)
+  - Code of Civil Procedure section 874.311
+  - Code of Civil Procedure section 874.316
+  - Code of Civil Procedure section 874.317
+roles:
+  - Makin (plaintiff)
+  - Cashman (defendant)
+  - Trust (co-trustee)
+  - Court (judge)
+significant_statements:
+  - The PRPA applies to the partition of real property held in tenancy in common where there is no agreement in a record binding all the cotenants which governs the partition of the property.
+  - The relation back doctrine functions to make timely a claim that would otherwise be untimely.
+  - The PRPA requires an appraisal of the property if any cotenant requests partition by sale.
+```
+
+And here is the English text to summarize the judge's tentative ruling:
+
+The judge has granted the motion for an order for appraisal of real property filed by Cynthia Makin. The case concerns the partition of a real property held in tenancy in common by Makin and George Cashman, who each hold 3.5% interest in the property. Cashman filed a cross-complaint for partition by sale, which triggers the mandatory appraisal provision under the Partition of Real Property Act (PRPA). The judge finds that the PRPA applies to the case and requires an appraisal of the property. The parties are required to submit a list of three disinterested real estate appraisers, and the court will appoint an appraiser from the list. The next court date is set for a status conference on May 3, 2024.

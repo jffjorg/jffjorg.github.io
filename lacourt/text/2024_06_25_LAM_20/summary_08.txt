@@ -1,0 +1,65 @@
+Here is the YAML summary of the tentative ruling:
+
+```
+case_number: 2022-123456
+plaintiff_name: Diego Mejia Duarte
+defendant_name: Apple, Inc.
+people_names:
+  - Diego Mejia Duarte
+  - Apple, Inc.
+company_names:
+  - Apple, Inc.
+places:
+  - California
+dates:
+  - June 1, 2022
+events:
+  - Plaintiff filed Complaint for violations of the PAGA
+  - Defendant moves for summary judgment on the ground that Duarte does not have standing
+  - Plaintiff argues COVID-19 bonus should have been included in regular rate of pay
+  - Defendant opposes request for continuance of motion
+money:
+  - COVID-19 bonus
+  - Apply Pay
+  - Apple iCloud service
+  - Apple Music service
+  - Gym membership reimbursement
+  - Shutdown pay
+intentions:
+  - Plaintiff: seek damages for labor code violations
+  - Defendant: argue Duarte does not have standing
+facts:
+  - Duarte claims COVID-19 bonus should be included in regular rate of pay
+  - Defendant argues bonus is excludable from regular rate of pay
+disputes:
+  - Standing of Plaintiff Duarte
+  - Inclusion of COVID-19 bonus in regular rate of pay
+acts:
+  - Plaintiff filed Complaint
+  - Defendant moves for summary judgment
+  - Plaintiff requests continuance of motion for further discovery
+  - Defendant opposes request for continuance
+agreements:
+  - U.S. Department of Labor statement on non-discretionary pay
+laws:
+  - California Labor Code
+  - Code of Civil Procedure
+  - Fair Labor Standards Act
+case_citations:
+  - Aguilar v. Atlantic Richfield Co. (2001) 25 Cal.4th 826
+  - Hinesley v. Oakshade Town Center (2005) 135 Cal.App.4th 289
+  - Dore v. Arnold Worldwide, Inc. (2006) 39 Cal.4th 384
+statutes:
+  - Code of Civil Procedure § 437c(p)(2)
+  - Fair Labor Standards Act
+roles:
+  - Judge: reviewing motion for summary judgment
+  - Plaintiff: Diego Mejia Duarte
+  - Defendant: Apple, Inc.
+significant_statements:
+  - The Court finds triable issues for the matter of standing, denying the motion for summary judgment.
+```
+
+And here is a summary of the tentative ruling in English text:
+
+The judge has issued a tentative ruling on a motion for summary judgment filed by Apple, Inc. in a case brought by Diego Mejia Duarte, alleging violations of the Private Attorneys General Act (PAGA). Apple argues that Duarte does not have standing because he did not suffer any Labor Code violations. Duarte argues that his COVID-19 bonus should have been included in his regular rate of pay. The court finds that there are triable issues for the matter of standing and denies Apple's motion for summary judgment.

@@ -1,0 +1,88 @@
+Here is a summary of the tentative ruling in YAML format:
+
+```
+case_number: [insert case number]
+plaintiff_names:
+  - Brant Silvia
+  - Manley Thomas
+  - Terrell Johnson
+defendant_name: Parvis Sharaf
+people_names:
+  - Brant Silvia
+  - Manley Thomas
+  - Terrell Johnson
+  - Parvis Sharaf
+  - Latoya S. Reed
+  - Hamid Soleimanian
+company_names:
+  - PSDS Investment Corporation
+places:
+  - California
+dates:
+  - November 08, 2022
+  - January 20, 2023
+  - June 20, 2023
+  - August 11, 2023
+  - August 16, 2023
+  - August 28, 2023
+  - September 13, 2023
+  - September 26, 2023
+  - March 07, 2024
+  - March 11, 2024
+  - March 26, 2024
+  - April 03, 2024
+events:
+  - Filing of complaint
+  - Filing of answer
+  - Motion to compel further responses
+  - Filing of reply
+  - Hearing on motion to compel
+money:
+  - $1,461.65 (monetary sanctions)
+  - $474.00 (hourly rate for attorney time)
+  - $74.77 (filing fees)
+  - $1,000 (additional sanctions for attorney time)
+  - $1,074.77 (total sanctions)
+intentions:
+  - To compel defendant to respond to discovery requests
+  - To impose sanctions on defendant for failure to respond
+facts:
+  - Defendant failed to provide timely responses to discovery requests
+  - Plaintiff filed a motion to compel responses
+  - Defendant provided responses after the motion was filed
+disputes:
+  - Whether defendant provided sufficient responses to discovery requests
+  - Whether defendant's responses were timely
+acts:
+  - Defendant failed to provide timely responses to discovery requests
+  - Plaintiff filed a motion to compel responses
+  - Defendant provided responses after the motion was filed
+agreements:
+  - California Code of Civil Procedure
+  - California Rules of Court
+laws:
+  - California Code of Civil Procedure, Section 2030.290
+  - California Code of Civil Procedure, Section 2031.300
+  - California Rules of Court, Rule 3.1020
+case_citations:
+  - Sinaiko Healthcare Consulting, Inc. v. Pacific Healthcare Consultants (2007) 148 Cal.App.4th 390
+statutes:
+  - California Code of Civil Procedure, Section 2030.260
+  - California Code of Civil Procedure, Section 2031.260
+  - California Code of Civil Procedure, Section 2030.290
+  - California Code of Civil Procedure, Section 2031.300
+roles:
+  - Judge
+  - Plaintiff (Brant Silvia, Manley Thomas, Terrell Johnson)
+  - Defendant (Parvis Sharaf)
+significant_statements:
+  - The court finds that defendant failed to provide timely responses to discovery requests
+  - The court grants plaintiff's motion to compel responses
+  - The court awards sanctions to plaintiff in the amount of $1,074.77
+```
+
+And here is a summary of the tentative ruling in English text:
+
+**Tentative Ruling**
+
+The court rules that defendant Parvis Sharaf failed to provide timely responses to discovery requests. The court grants plaintiff Manley Thomas's motion to compel responses to defendant's special interrogatories and request for production. The court also awards sanctions to plaintiff in the amount of $1,074.77 for defendant's failure to respond to discovery requests. The court orders defendant to respond to plaintiff's request for production and special interrogatories within 10 days of notice of this order.

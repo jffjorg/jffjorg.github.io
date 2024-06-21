@@ -1,0 +1,56 @@
+Here is the YAML summary of the tentative ruling:
+
+```
+case_number: 23SMCV03601
+plaintiff: Ease-Build Inc.
+defendant: Bagramyan, et al.
+people_names:
+  - Gabriel Balayan, Esq.
+  - Tony Bagramian
+company_names:
+  - Mentis Legal Law Firm APC
+  - 5904 Kanan Dume LLC
+places:
+  - California
+  - Los Angeles ( implied, but not explicitly stated)
+dates:
+  - April 2, 2024 (hearing date)
+  - March 10, 2024 (incorrect trial date)
+  - March 10, 2025 (correct trial date)
+  - March 3, 2025 (final status conference hearing date)
+events:
+  - Motion to be relieved as counsel
+  - Trial set for March 10, 2025
+  - Final status conference hearing set for March 3, 2025
+money: None mentioned
+intentions:
+  - Counsel seeks to be relieved as counsel due to client's breach of retainer agreement
+  - Counsel wants to avoid prejudice to client's rights
+facts:
+  - Counsel served client by mail at last known address
+  - Client in material breach of retainer agreement
+disputes:
+  - None explicitly stated
+acts:
+  - Counsel files motion to be relieved as counsel
+  - Counsel declares client's breach of retainer agreement
+agreements:
+  - Retainer agreement between counsel and client
+laws:
+  - California Rules of Professional Conduct, 3-700(A)(2)
+  - Code of Civil Procedure, § 284(2)
+  - California Rules of Court, 3.1362
+  - Manfredi & Levine v. Superior Court (1998)
+  - Vann v. Shilleh (1975)
+roles:
+  - Judge
+  - Counsel (Gabriel Balayan, Esq.)
+  - Client (5904 Kanan Dume LLC and Tony Bagramian)
+significant statements:
+  - Counsel must take reasonable steps to avoid reasonably foreseeable prejudice to client's rights
+  - Judge has discretion to grant or deny motion to withdraw as counsel
+```
+
+And here is the English-text summary of the tentative ruling:
+
+The court has tentatively granted the motion of Gabriel Balayan, Esq. and Mentis Legal Law Firm APC to be relieved as counsel of record for defendants 5904 Kanan Dume LLC and Tony Bagramian. The motion is based on the client's breach of the retainer agreement, which has rendered it unreasonably difficult for counsel to carry out the representation effectively. The court finds that there is no prejudice to the client and grants the motion. The order is effective upon the filing of proof of service of the order on the client.

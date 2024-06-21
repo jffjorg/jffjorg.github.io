@@ -1,0 +1,68 @@
+Here is the summary of the tentative ruling in YAML format:
+
+```
+---
+case_number: 20STCV47703
+hearing_date: 2024-04-09
+judge: Yolanda Orozco
+parties:
+  - plaintiff: Andres Alvarino Yaya
+  - defendant: Quest Diagnostics Clinical Laboratories, Inc.
+people:
+  - Jennifer Beliveau
+company_names:
+  - Quest Diagnostics Clinical Laboratories, Inc.
+  - Quest Diagnostics Incorporated
+places:
+  - California
+  - Sacramento
+dates:
+  - 2010-01-11
+  - 2018-10-08
+  - 2020-08-05
+  - 2021-09-30
+  - 2024-04-09
+events:
+  - PAGA settlement in Bigornia v. Quest Diagnostics Incorporated, Sacramento County Superior Court, Case No. 34-2019-00271174
+  - Motion for judgment on the pleadings
+  - Res judicata
+money:
+  - $100.00 (civil penalty)
+  - $200.00 (civil penalty)
+intentions:
+  - To determine if the PAGA claims are barred by res judicata
+facts:
+  - Plaintiff worked for Defendant as a phlebotomist from 2010 to 2020
+  - Defendant failed to pay overtime wages and provide meal and rest breaks
+  - Plaintiff seeks PAGA penalties under Labor Code Section 2699
+disputes:
+  - Whether the PAGA claims are barred by res judicata
+acts:
+  - Defendant filed a motion for judgment on the pleadings
+  - Plaintiff filed an opposition to the motion
+  - Defendant filed a reply to the opposition
+agreements:
+  - PAGA settlement in Bigornia v. Quest Diagnostics Incorporated
+laws:
+  - Labor Code Section 2699
+  - Labor Code Section 2802
+  - Code of Civil Procedure Section 438(c)(1)(B)(i-ii)
+  - Evidence Code Section 452(d), (h), and 453
+citations:
+  - Bezirdjian v. O'Reilly (2010) 183 Cal.App.4th 316
+  - Schabarum v. California Legislature (1998) 60 Cal.App.4th 1205
+  - Barker v. Hull (1987) 191 Cal.App.3d 221
+  - Code of Civil Procedure Section 438(c)(1)(B)(i-ii)
+  - Evidence Code Section 452(d), (h), and 453
+  - Villacres v. ABM Indus. Inc. (2010) 189 Cal. App. 4th 562
+  - Fed’n of Hillside & Canyon Ass’ns v. City of Los Angeles (2004) 126 Cal.App.4th 1180
+roles:
+  - Judge: Yolanda Orozco
+significant_statements:
+  - The PAGA claims are barred by res judicata
+  - The motion for judgment on the pleadings is granted without leave to amend
+```
+
+Here is a summary of the tentative ruling:
+
+The defendant, Quest Diagnostics Clinical Laboratories, Inc., has moved for judgment on the pleadings, arguing that the plaintiff's PAGA claims are barred by res judicata due to the court-approved PAGA settlement in Bigornia v. Quest Diagnostics Incorporated. The court finds that the PAGA claims are barred by res judicata and grants the motion for judgment on the pleadings. The court concludes that the plaintiff's PAGA claims are the same cause of action alleged and settled in the Bigornia Action, and that the plaintiff was a member of the class in the Bigornia Action and was in privity with the plaintiffs in the Bigornia Action.

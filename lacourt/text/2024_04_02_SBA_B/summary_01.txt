@@ -1,0 +1,68 @@
+Here is the summary in YAML format:
+
+```yaml
+case_number: 20TRCV00279
+hearing_date: April 2, 2024
+dept: B
+plaintiff: Ruby Ocampo
+defendant: Sunshine Home Care 1 LLC
+people_names:
+  - Ruby Ocampo
+  - Dr. Benjamin Simon
+company_names:
+  - Sunshine Home Care 1 LLC
+places:
+  - California
+dates:
+  - April 2, 2024
+  - May 6, 2021
+  - May 26, 2021
+  - November 18, 2021
+  - September 26, 2023
+  - November 2, 2023
+  - December 12, 2023
+events:
+  - Settlement Agreement
+  - Dispute over payment of Qualified Medical Exam (QME) invoice
+  - Delay in dismissal of workers compensation case
+  - Payment of QME invoice
+  - Dismissal of workers compensation case
+  - Dismissal of civil action
+money:
+  - $40,000 (Settlement Amount)
+  - $30,000 (remaining unpaid balance)
+  - $2,025 (attorney's fees)
+  - $60 (costs)
+  - $6,200 (QME invoice)
+  - $32,085 (total amount owed by Sunshine)
+intentions:
+  - Enforce Settlement Agreement
+  - Obtain payment of remaining balance
+  - Dispute over who bears the cost of QME invoice
+facts:
+  - Sunshine failed to pay QME invoice
+  - QME invoice was incurred by Sunshine
+  - Settlement Agreement provides that parties shall bear their own costs and expenses
+disputes:
+  - Who bears the cost of QME invoice
+  - Whether Sunshine has fulfilled its obligations under the Settlement Agreement
+acts:
+  - Sunshine failed to pay QME invoice
+  - Plaintiff sought to enforce Settlement Agreement
+  - Defendant disputed liability for QME invoice
+laws:
+  - California Code of Civil Procedure § 664.6
+  - Labor Code § 4622
+roles:
+  - Plaintiff (Ruby Ocampo)
+  - Defendant (Sunshine Home Care 1 LLC)
+  - Dr. Benjamin Simon (QME provider)
+significant_statements:
+  - Court shall enforce Settlement Agreement
+  - Plaintiff is entitled to judgment in the amount of $30,000
+  - Defendant shall pay $32,085 to Plaintiff
+```
+
+Here is a summary of the judge's tentative ruling in English text:
+
+The court will enforce the Settlement Agreement between Plaintiff Ruby Ocampo and Defendant Sunshine Home Care 1 LLC. The Settlement Agreement provides that Defendant shall pay Plaintiff $40,000 in satisfaction of all claims. Defendant failed to pay the remaining $30,000 in a timely manner, and Plaintiff seeks to enforce the Settlement Agreement. The court finds that Defendant is liable for the remaining $30,000 and shall pay it forthwith, plus attorney's fees and costs. The court also awards Plaintiff attorney's fees and costs of $2,025 and $60, respectively. The court orders Defendant to pay $32,085 to Plaintiff within 15 days of the hearing date. If payment is not made, the court will enter judgment against Defendant.

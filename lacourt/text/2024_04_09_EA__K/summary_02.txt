@@ -1,0 +1,58 @@
+Here is the summary in YAML format:
+
+```
+Case Number: unknown
+Plaintiff's Name: Boudreau
+Defendant's Name: BPC
+People-Names:
+  - Boudreau
+  - Hsu
+Company-Names:
+  - BPC
+  - Meritage
+Places:
+  - Riverside
+Dates:
+  - April 10, 2023
+  - April 10, 2023
+  - March 27, 2023
+  - May 12, 2023
+Events:
+  - Status Conference
+  - Hearing
+  - Production of documents
+  - Refusal to produce documents
+Money:
+  - Unknown
+Intentions:
+  - To resolve dispute over discovery cut off
+Facts:
+  - A Status Conference was held on April 10, 2023
+  - A court reporter was present for the March 27, 2023 hearing
+  - Documents were produced in a separate action
+Disputes:
+  - Discovery cut off issue
+Acts:
+  - Production of documents
+  - Refusal to produce documents
+Agreements:
+  - None mentioned
+Laws:
+  - Unknown
+Case Citations:
+  - None mentioned
+Statutes:
+  - Unknown
+Roles:
+  - Judge Hsu
+  - Boudreau
+  - BPC
+  - Meritage
+Significant Statements:
+  - "Any order made by Judge Hsu would likely have been made during the April 10, 2023 hearing"
+  - "Boudreau's and BPC's production of responsive documents in a separate action does not justify Boudreau's refusal to produce documents here"
+```
+
+And here is the English-text summary:
+
+The Judge's tentative ruling indicates that a Status Conference was held on April 10, 2023, where a court reporter was not present. The Judge questions whether any orders made by Judge Hsu would have been made during this hearing. The Judge also notes that Boudreau and BPC produced documents in a separate action, but this does not justify Boudreau's refusal to produce documents in the current case. The Judge expresses uncertainty over the discovery cut off issue and intends to resolve the dispute.

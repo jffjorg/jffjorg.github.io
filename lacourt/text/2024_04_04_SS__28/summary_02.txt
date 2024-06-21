@@ -1,0 +1,64 @@
+Here is the YAML summary of the judge's tentative ruling:
+
+```
+case_number: 21STCV47436
+plaintiff: Bahram Yousefi-Dolatsara
+defendant: Zakiya Najee-Richards
+people_names:
+  - Bahram Yousefi-Dolatsara
+  - Zakiya Najee-Richards
+company_names: []
+places: []
+dates:
+  - December 29, 2021
+  - October 27, 2023
+  - October 15, 2023
+  - December 29, 2023
+  - March 6, 2024
+  - March 8, 2024
+  - April 4, 2024
+events:
+  - Filing of complaint
+  - Service of summons and complaint
+  - Filing of statement of damages
+  - Filing of proof of service
+  - Filing of request for default judgment
+  - Dismissal of Doe defendants
+  - Granting of default judgment
+money:
+  - $25,000 (general damages)
+  - $37,400 (special damages)
+  - $15,000 (general damages awarded)
+  - $7,400 (special damages awarded)
+  - $628 (costs)
+intention:
+  - Award default judgment against defendant
+facts:
+  - Defendant failed to file an answer
+  - Plaintiff filed proof of service
+  - Plaintiff filed statement of damages
+  - Plaintiff filed request for default judgment
+disputes:
+  - Lack of defendant's participation in the case
+acts:
+  - Defendant's failure to respond to the complaint
+  - Plaintiff's filing of documents in support of default judgment
+agreements:
+  - Code of Civil Procedure sections 579, 580, and 585
+laws:
+  - California Rules of Court, rule 3.1800(a)
+  - Code of Civil Procedure sections 580, 585
+  - Johnson v. Stanhiser (1999)
+  - Becker v. S.P.V. Construction Co. (1980)
+roles:
+  - Plaintiff: Bahram Yousefi-Dolatsara
+  - Defendant: Zakiya Najee-Richards
+  - Judge: [undisclosed]
+significant_statements:
+  - "The notice requirement of section 580 was designed to insure fundamental fairness."
+  - "If a judgment other than that which is demanded is taken against him, [the defendant] has been deprived of his day in court—a right to a hearing on the matter adjudicated."
+```
+
+And here is the English text summarizing the judge's tentative ruling:
+
+"The Court grants the application for default judgment against Defendant Zakiya Najee-Richards filed by Plaintiff Bahram Yousefi-Dolatsara. The Court awards $23,028.00 to the plaintiff, consisting of $15,000.00 in general damages, $7,400.00 in special damages, and $628.00 in costs. The Court finds that the plaintiff has carried the burden of establishing a prima facie case for damages and grants the default judgment."

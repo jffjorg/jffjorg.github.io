@@ -1,0 +1,77 @@
+Here is the summary in YAML format:
+
+```yaml
+case_number: 2023-123456
+plaintiffs_name: Creditors Adjustment Bureau, Inc.
+defendants_name: Llewellyn Industries, Inc.
+people_names:
+  - Joseph Jyoo
+  - Latrice A.G. Byrdsong
+companies:
+  - Creditors Adjustment Bureau, Inc.
+  - Llewellyn Industries, Inc.
+places:
+  - Spring Street Courthouse
+dates:
+  - July 07, 2023
+  - September 15, 2023
+  - December 20, 2023
+  - February 26, 2024
+  - February 27, 2024
+  - April 09, 2024
+  - January 07, 2025
+events:
+  - Filing of Complaint
+  - Answer to Complaint
+  - Motion to Compel
+  - Opposition to Motion
+  - Reply to Opposition
+  - Trial Setting Conference
+money:
+  - $1,572.75
+  - $1,645.50
+intentions:
+  - To compel responses to discovery requests
+  - To impose sanctions for untimely responses
+facts:
+  - Defendant failed to provide timely responses to discovery requests
+  - Defendant's responses were untimely and insufficient
+disputes:
+  - Defendant's failure to provide timely responses
+  - Defendant's misuse of the discovery process
+  - Plaintiff's request for sanctions
+acts:
+  - Filing of Motion to Compel
+  - Filing of Opposition
+  - Filing of Reply
+  - Granting of Motion to Compel
+  - Awarding of Sanctions
+  - Setting of Trial Date
+agreements:
+  - CCP § 2030.290(c)
+  - CCP § 2031.300(c)
+  - CCP § 2030.260
+  - CCP § 2031.260
+laws:
+  - Code of Civil Procedure
+  - California Rules of Court
+case_citations:
+  - Sinaiko Healthcare Consulting, Inc. v. Pacific Healthcare Consultants
+  - Code Civ. Proc. § 2030.290
+  - Code Civ. Proc. § 2031.300
+  - Code Civ. Proc. § 2030.260
+  - Code Civ. Proc. § 2031.260
+roles:
+  - Plaintiff
+  - Defendant
+  - Judge
+significant_statements:
+  - Defendant's responses were untimely and insufficient
+  - Defendant's misuse of the discovery process
+  - Plaintiff's request for sanctions was granted
+  - Defendant was ordered to pay sanctions in the amount of $1,645.50
+```
+
+And here is the English text to summarize the judge's tentative ruling:
+
+"The court has granted the plaintiff's motion to compel responses to its discovery requests, finding that the defendant's responses were untimely and insufficient. The court also awarded sanctions in the amount of $1,645.50 to the plaintiff, as the defendant's failure to provide timely responses constituted a misuse of the discovery process. The defendant is ordered to provide compliant, objection-free responses to the plaintiff's discovery requests within 20 days of notice of this order. The defendant is also ordered to pay the plaintiff's attorney's fees and court fees in the amount of $1,645.50 within 30 days of notice of this order. The trial date is set for January 7, 2025."

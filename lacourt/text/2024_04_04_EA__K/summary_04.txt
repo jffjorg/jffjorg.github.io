@@ -1,0 +1,35 @@
+Here is the summary in YAML format:
+```
+summary:
+  case_number: "Unknown"
+  plaintiff_name: "Unknown"
+  defendant_name: "Unknown"
+  people_names:
+    - Judge
+  company_names: []
+  places: []
+  dates: []
+  events: []
+  money: []
+  intentions: []
+  facts:
+    - Code of Civil Procedure § 415.20
+    - Personal service of summons and complaint
+    - Alternative service methods
+    - Mailing via first-class mail
+  disputes: []
+  acts:
+    - Service of summons and complaint
+  agreements: []
+  laws:
+    - Code of Civil Procedure § 415.20
+  case_citations: []
+  statutes: []
+  roles: []
+  significant_statements:
+    - "If a copy of the summons and complaint cannot with reasonable diligence be personally delivered to the person to be served..."
+    - "Service of a summons in this manner is deemed complete on the 10th day after the mailing."
+```
+And here is the English-text summary:
+
+This tentative ruling addresses the service of summons and complaint in a civil case. The Judge notes that if personal service cannot be achieved, alternative methods of service may be used, such as leaving a copy of the summons and complaint at the person's dwelling house, usual place of business, or usual mailing address, and mailing a copy by first-class mail to the same address. The Judge cites Code of Civil Procedure § 415.20, which outlines the specific procedures for alternative service. The Judge concludes that service of the summons and complaint is deemed complete on the 10th day after mailing.

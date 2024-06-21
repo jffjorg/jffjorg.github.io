@@ -1,0 +1,58 @@
+Here is a YAML summary of the tentative ruling:
+
+```
+case_number: 19STCV43588
+plaintiff: Mark Merrens
+defendant: Viking River Cruises, Inc., et al.
+people:
+  - Mark Merrens
+  - Vikram Nair
+  - Rostislav Karchemsky
+company: Viking River Cruises, Inc.
+places: Los Angeles
+dates:
+  - December 4, 2019
+  - January 26, 2024
+  - March 19, 2024
+  - February 16, 2024
+  - December 10, 2020
+events:
+  - Plaintiff filed a lawsuit against Defendants
+  - Defendant Nair filed a Motion to Quash Service of Summons
+  - Court granted Motion to Quash
+  - Defendant Nair filed a Motion to Dismiss Pursuant to CCP § 583.250
+  - Plaintiff served Defendant Nair with the summons and complaint
+money: $0 (costs)
+intentions:
+  - Plaintiff: to pursue the lawsuit
+  - Defendant Nair: to dismiss the lawsuit
+facts:
+  - Plaintiff sued Defendants on December 4, 2019
+  - Defendant Nair was not served with the summons and complaint until February 16, 2024
+  - Plaintiff stayed the lawsuit from December 10, 2020 to February 16, 2024
+  - Plaintiff was unable to serve Defendant Nair until February 16, 2024
+disputes:
+  - Whether Plaintiff served Defendant Nair with the summons and complaint within three years of filing the lawsuit
+  - Whether the service period was tolled due to the stay of the lawsuit
+acts:
+  - Plaintiff filed a lawsuit against Defendants
+  - Defendant Nair filed a Motion to Dismiss Pursuant to CCP § 583.250
+  - Court granted the motion to dismiss
+agreements: None
+laws:
+  - CCP § 583.210
+  - CCP § 583.240
+  - CCP § 583.250
+  - CCP § 1032
+  - Code Civ. Proc. § 415.40
+  - Doe v. Damron (2021) 70 Cal.App.5th 684, 689
+  - Jackson v. County of Los Angeles (1997) 60 Cal.App.4th 171, 181
+  - Pease v. City of San Diego (1949) 93 Cal.App.2d 706, 709
+case_citations:
+  - Watts v. Crawford (1995) 10 Cal.4th 743, 758, fn. 13
+roles:
+  - Judge: Maurice Leiter
+  - Plaintiff: Mark Merrens
+  - Defendant: Vikram Nair
+  - Moving Party: Specially Appearing Defendant
+  - Responding Party: Plaintiff

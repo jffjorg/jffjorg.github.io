@@ -1,0 +1,70 @@
+Here is the YAML summary of the tentative ruling:
+
+```
+case_number: 23PSCV03182
+plaintiff: Yu Li
+defendant: Ji Li
+people_names:
+  - Yu Li
+  - Ji Li
+company_names: []
+places:
+  - San Gabriel
+dates:
+  - September 2022
+  - October 13, 2023
+  - November 18, 2023
+  - January 22, 2024
+  - April 24, 2024
+  - June 18, 2024
+events:
+  - Loan agreement
+  - Breach of contract
+  - Filing of complaint
+  - Service of process
+  - Entry of default
+  - Request for default judgment
+money:
+  - $50,000 (loan amount)
+  - $44,000 (damages)
+  - $6,437.26 (interest)
+  - $677.88 (costs)
+  - $51,115.14 (total amount sought)
+intentions:
+  - Yu Li seeks default judgment against Ji Li
+facts:
+  - Yu Li and Ji Li entered into a written agreement in September 2022
+  - Ji Li failed to repay the loan
+  - Yu Li filed a complaint against Ji Li and Does 1-20
+  - Yu Li's process server served Ji Li in San Gabriel
+  - Ji Li failed to file a timely answer
+  - Yu Li submitted an application for default judgment
+disputes:
+  - Breach of contract
+  - Failure to repay loan
+acts:
+  - Entry into loan agreement
+  - Breach of contract
+  - Filing of complaint
+  - Service of process
+  - Entry of default
+  - Request for default judgment
+agreements:
+  - Loan agreement between Yu Li and Ji Li
+laws:
+  - California Code of Civil Procedure section 585
+  - California Rules of Court 3.1800
+  - CCP § 579
+statutes:
+  - California Code of Civil Procedure
+roles:
+  - Yu Li (plaintiff)
+  - Ji Li (defendant)
+  - Judge (ruling)
+significant_statements:
+  - The Court grants Yu Li's application for default judgment
+```
+
+And here is the English-text summary of the tentative ruling:
+
+"In a breach of contract case, Yu Li seeks default judgment against Ji Li, who failed to repay a $50,000 loan. The court finds that Yu Li has submitted sufficient evidence and grants the application for default judgment in the total amount of $51,115.14, including $44,000 in damages, $6,437.26 in interest, and $677.88 in costs. The court sets an OSC Re: Default Judgment for June 18, 2024."

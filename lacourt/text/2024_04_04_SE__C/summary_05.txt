@@ -1,0 +1,68 @@
+Here is the YAML representation of the legal document:
+
+```
+case_number: 23NWCV02340
+hearing_date: 2024-04-04
+dept: C
+plaintiff:
+  name: ANDRES GALLEGOS
+  role: Plaintiff
+defendant:
+  name: SULLY-MILLER CONTRACTING, CO.
+  role: Defendant
+people_names:
+  - ANDRES GALLEGOS
+  - SULLY-MILLER
+company_names:
+  - SULLY-MILLER CONTRACTING, CO.
+places:
+  - California
+dates:
+  - 2021-07-22
+  - 2021-07-27
+  - 2023-07-27
+  - 2024-04-02
+  - 2024-04-04
+events:
+  - Car accident
+  - Filing of complaint
+  - Demurrer
+  - Motion to strike
+  - Request for judicial notice
+money:
+  - None mentioned
+intentions:
+  - To determine the validity of the complaint
+  - To determine the merits of the case
+facts:
+  - ANDRES GALLEGOS was injured in a car accident on July 22, 2021
+  - The complaint was filed on July 27, 2023
+  - The statute of limitations has run out for the causes of action stated in the complaint
+  - The complaint fails to plead facts that support a recovery of punitive damages
+disputes:
+  - Statute of limitations
+  - Equitable tolling
+acts:
+  - Demurrer
+  - Motion to strike
+  - Request for judicial notice
+agreements:
+  - CCP §335.1
+  - CCP §436
+laws:
+  - California Civil Procedure Code §335.1
+  - California Civil Procedure Code §436
+case_citations:
+  - ABF Capital Corp. v. Berglass (2005) 130 Cal.App.4th 825, 833
+  - Marshall v. Gibson, Dunn & Crutcher (1995) 37 Cal.App.4th 1397, 1403
+roles:
+  - Judge
+significant_statements:
+  - The demurrer is sustained with 30 days leave to amend
+  - The motion to strike is granted without leave to amend
+  - The request for judicial notice is granted
+```
+
+And here is a summary of the judge's tentative ruling in English text:
+
+The judge has ruled on the demurrer filed by the defendant, Sully-Miller Contracting Company, which argues that the plaintiff's claims are barred by the statute of limitations. The plaintiff, Andes Gallegos, was injured in a car accident on July 22, 2021, and filed his complaint on July 27, 2023. The judge has sustained the demurrer and given the plaintiff 30 days to amend his complaint to plead additional facts related to equitable tolling. The judge has also granted the defendant's motion to strike punitive damages, as the complaint fails to plead facts that support a recovery of punitive damages. Additionally, the judge has granted the request for judicial notice.

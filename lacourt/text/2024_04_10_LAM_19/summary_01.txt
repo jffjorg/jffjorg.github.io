@@ -1,0 +1,51 @@
+Here is the summary in YAML format:
+
+```
+case_number: 23STCP02225
+plaintiff: 
+defendant: 
+people:
+  - Phillip A. Ciano
+company:
+  - Wasserman Media Group LLC
+places:
+  - Stanley Mosk Courthouse
+dates:
+  - April 10, 2024
+  - April 19, 2024
+  - May 1, 2024
+events:
+  - Hearing on Motion to be Admitted Pro Hac Vice
+  - Continuation of Hearing
+acts:
+  - Filing of Supplemental Declaration
+  - Service of Supplemental Declaration
+  - Filing of Proposed Order
+money: 
+intentions:
+  - To cure defects in application
+  - To continue hearing
+facts:
+  - Phillip A. Ciano's declaration lacks required information
+  - No proposed order has been filed
+disputes:
+  - Lack of required information in declaration
+  - Failure to file proposed order
+agreements: None
+laws:
+  - Cal. R. Ct. 9.40(d)(3)-(4)
+case_citations: 
+  - Cal. R. Ct. 9.40(d)(3)-(4)
+statutes: 
+  - Cal. R. Ct. 9.40(d)(3)-(4)
+roles:
+  - Phillip A. Ciano: applicant
+  - Counsel for Respondent Wasserman Media Group LLC: responding counsel
+significant_statements:
+  - Continuation of Hearing to May 1, 2024
+  - Opportunity for counsel to cure defects in application
+```
+
+And here is the English-text summary:
+
+The Judge's tentative ruling is that the Hearing on Motion to be Admitted Pro Hac Vice, scheduled for April 10, 2024, is continued to May 1, 2024. The Judge finds that the declaration of Phillip A. Ciano lacks required information and that no proposed order has been filed. The Judge gives counsel for Respondent Wasserman Media Group LLC an opportunity to cure these defects by filing a Supplemental Declaration and proposed order by April 19, 2024.

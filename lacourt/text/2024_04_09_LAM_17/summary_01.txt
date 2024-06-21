@@ -1,0 +1,65 @@
+Here is a summary of the document in YAML format:
+
+```
+---
+case_number: 22STCV13457
+hearing_date: April 9, 2024
+department: 17 Superior Court of California County of Los Angeles
+tentative_ruling:
+  - Case No.: 22STCV13457
+  - Hearing Date: April 9, 2024
+  - One Day Defendants' motion for terminating sanctions and monetary sanctions or, in the alternative, for an order directing Plaintiff to show cause why it should not be held in contempt is DENIED IN PART, GRANTED IN PART.
+  - Plaintiff is sanctioned, jointly and severally with counsel, $3,500.00.
+  - Plaintiff is directed to address all metadata issues associated with its two most recent productions, within 30 days of entry of this order.
+  - If Plaintiff fails to resolve this issue, One Day Defendant may renew its request for an OSC: re contempt.
+
+plaintiff: CBD Franchising, Inc.
+defendants:
+  - Central Jersey Doors & Closets, LLC
+  - Mary Conway
+  - William Conway
+  - One Day Doors and Closets, Inc.
+  - One Day Enterprises
+causes_of_action:
+  - Breach of written contract
+  - Breach of the implied duty of good faith and fair dealing
+  - Tortious interference with contractual relations
+  - Unlawful business practices
+
+facts:
+  - On July 19, 2023, the Court granted in part Defendants' motions to compel further responses.
+  - On January 2, 2024, the Court granted Defendants' motion for terminating and monetary sanctions in part.
+  - Plaintiff produced 2,742 additional pages of documents it had withheld for years—but nowhere close to compliance with the Court's orders.
+  - Defendants note that Plaintiff did, as represented, produce nearly 18,000 documents on March 8, 2024 and March 13, 2024.
+
+law_citations:
+  - Doppes v. Bentley Motors, Inc. (2009) 174 Cal.App.4th 967
+  - Biles v. Exxon Mobil Corp. (2004) 124 Cal.App.4th 1315
+  - Williams v. Russ (2008) 167 Cal.App.4th 1215
+  - Creed-21 v. City of Wildomar (2017) 18 Cal.App.5th 690
+
+intents:
+  - To address the Court's orders and resolve the disputes between the parties.
+
+disputes:
+  - The Court finds that Plaintiff has not complied with the Court's orders.
+  - The Court finds that the post-term covenant not to compete is void under California Business and Professions Code section 16600.
+
+acts:
+  - The Court has ordered Plaintiff to address all metadata issues associated with its two most recent productions within 30 days of entry of this order.
+  - The Court has sanctioned Plaintiff, jointly and severally with counsel, $3,500.00.
+
+agreements:
+  - 2013 Franchise Agreement
+  - 2016 Transfer Agreement
+
+laws:
+  - California Business and Professions Code section 16600
+  - California Code of Civil Procedure section 1670.7
+
+roles:
+  - Judge: Hon. Jon R. Takasugi
+
+significant_statements:
+  - "The discovery statutes evince an incremental approach to discovery sanctions, starting with monetary sanctions and ending with the ultimate sanction of terminating sanctions." (Doppes v. Bentley Motors, Inc. (2009) 174 Cal.App.4th 967)
+  - "A decision to order terminating

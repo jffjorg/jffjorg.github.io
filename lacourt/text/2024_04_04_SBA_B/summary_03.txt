@@ -1,0 +1,90 @@
+Here is the summary in YAML format:
+
+```
+case_number: 23TRCV02697
+plaintiff: JG Builders, Inc.
+defendant: Kimberly Cates, et al.
+people_names:
+  - Kimberly Cates
+  - Jose Guadalupe Ramirez
+  - Kamyar K. Rezani
+  - Nancy Dodd
+  - Farzad Zamani
+company_names:
+  - Ecosmart Builders LLC
+  - JG Builders, Inc.
+places:
+  - Los Angeles
+  - El Segundo
+  - El Monte
+dates:
+  - August 17, 2023
+  - November 2, 2023
+  - November 22, 2023
+  - December 4, 2021
+  - June 16, 2022
+  - July 17, 2022
+  - January 10, 2023
+  - March 1, 2023
+  - April 4, 2024
+events:
+  - Breach of contract
+  - Misrepresentation
+  - Fraud
+  - Unfair business practices
+money:
+  - $10,000
+  - $54,040
+  - $68,170
+  - $103,750
+  - $130,000
+intentions:
+  - To construct an Accessory Dwelling Unit (ADU)
+  - To obtain payment for construction services
+  - To misrepresent the defendant's qualifications and license status
+  - To engage in unfair and unlawful business practices
+facts:
+  - JG Builders, Inc. filed a complaint against Kimberly Cates and Nancy Dodd for breach of contract
+  - The defendants demurred to the complaint and it was sustained with leave to amend
+  - The defendants filed a cross-complaint against Ecosmart Builders, LLC, Kamyar K. Rezani, Farzad Zamani, JG Builders, Inc., and Jose Guadalupe Ramirez for various causes of action
+  - Ecosmart Builders, LLC allegedly performed construction services on the subject property without a valid contractor's license
+  - The defendants allegedly made misrepresentations about their qualifications and license status
+disputes:
+  - Breach of contract
+  - Misrepresentation
+  - Fraud
+  - Unfair business practices
+acts:
+  - Filing a complaint
+  - Demurring to a complaint
+  - Filing a cross-complaint
+  - Performing construction services
+  - Making misrepresentations
+agreements:
+  - Written contract for construction services
+  - Oral agreements for construction services
+laws:
+  - California Business and Professions Code
+  - California Civil Code
+  - California Code of Civil Procedure
+case_citations:
+  - Taylor v. City of Los Angeles Dept. of Water and Power (2006)
+  - SKF Farms v. Superior Court (1984)
+  - Hahn v. Mirda (2007)
+  - Lortz v. Connell (1969)
+  - Twaite v. Allstate Ins. Co. (1989)
+  - Vega v. Jones, Day, Reavis & Pogue (2004)
+  - Goldrich v. Natural Y Surgical Specialties, Inc. (1994)
+  - Lazar v. Superior Court (1996)
+  - Samura v. Kaiser Foundation Health Plan, Inc. (1993)
+  - College Hospital v. Superior Court (1994)
+roles:
+  - Plaintiff: JG Builders, Inc.
+  - Defendant: Kimberly Cates, et al.
+  - Moving parties: cross-defendants JG Builders, Inc., Ecosmart Builders, LLC, Jose Guadalupe Ramirez, and Kamyar K. Rezani
+  - Responding party: cross-complainants Kimberly Cates and Nancy Dodd
+significant_statements:
+  - The court considered the moving, opposition, and reply papers.
+  - The demurrers to the second, third, and seventh causes of action are SUSTAINED WITH 20 DAYS LEAVE TO AMEND.
+  - The demurrer to the eighth cause of action is OVERRULED.
+  - The motions to strike are GRANTED WITH 20 DAYS LEAVE TO AMEND as to claim for punitive damages.

@@ -1,0 +1,62 @@
+Here is the YAML summary of the tentative ruling:
+
+```
+case_number: 24STCV00639
+plaintiff_name: Parada
+defendant_name: Curtis
+people_names:
+  - Curtis
+  - Richardson
+company_names: []
+places:
+  - California
+dates:
+  - January 10, 2024
+  - April 10, 2024
+  - July 10, 2024
+  - May 3, 2024
+  - April 24, 2024
+events:
+  - Unlawful detainer
+  - Non-judicial foreclosure
+  - Demurrer
+  - OSC (Order to Show Cause)
+  - Status Conference
+money:
+  - $110.97
+  - $10,098.27
+  - $35,000
+intentions:
+  - Stay the case pending the outcome of another case
+  - Reclassify the case to a lower jurisdiction
+facts:
+  - Plaintiff filed a Complaint for Unlawful Detainer
+  - Defendants demurred to the Complaint
+  - There is another action pending over title to the property
+  - The plaintiff in that case may succeed and deprive the plaintiff in this case of their right to bring this action
+  - The case is stayed pending the outcome of the other case
+disputes:
+  - Dispute over title to the property
+  - Dispute over the right to bring the unlawful detainer action
+acts:
+  - Demurrer filed by Defendants
+  - OSC filed by the court
+agreements: []
+laws:
+  - Code of Civil Procedure § 1161b
+  - Code of Civil Procedure § 430.10(c)
+  - Martin-Bragg v. Moore (2013)
+  - Franklin & Franklin v. 7-Eleven Owners for Fair Franchising (2000)
+roles:
+  - Judge
+  - Plaintiff
+  - Defendant
+signifcant statements:
+  - The court is obliged to stay the case pending the outcome of the other case
+  - The court cannot rule on the demurrer
+  - The case belongs in the limited jurisdiction courts
+```
+
+And here is a summary of the judge's tentative ruling in English text:
+
+The court has taken under submission the demurrer filed by Defendants Curtis and Richardson. The demurrer is based on the grounds that the Complaint was filed prematurely and there is another action pending. The court has stayed the case pending the outcome of Case No. 22 STCV 15940. The court sets a Status Conference for July 10, 2024 at 8:30 am. The court also sets an OSC re: Reclassification for May 3, 2024, at 8:30 am. Responses to the OSC, if any, are due by April 24, 2024. The court has also taken into account the jurisdictional limitations of the court and the damages claimed by the plaintiff, which are below the court's jurisdictional limitations.

@@ -1,0 +1,75 @@
+Here is the summary in YAML format:
+
+```
+case_number: 23CHCV02091
+plaintiff: Christopher Go
+defendant: Henry Mayo Newhall Memorial Hospital
+people:
+  - Christopher Go
+  - Henry Mayo Newhall Memorial Hospital
+companies:
+  - Henry Mayo Newhall Memorial Hospital
+  - California Nurses Association
+places:
+  - Henry Mayo Newhall Memorial Hospital
+  - Los Angeles Superior Court
+dates:
+  - 7/14/23
+  - 8/30/23
+  - 9/5/23
+  - 10/19/23
+  - 11/13/23
+  - 3/21/24
+  - 4/2/24
+  - 4/9/24
+events:
+  - Termination of employment
+  - Filing of complaint
+  - Filing of motion to compel arbitration
+  - Filing of motion for sanctions
+  - Opposing the motion to compel arbitration
+  - Opposing the motion for sanctions
+money:
+  - $8,530.00
+intentions:
+  - To compel arbitration
+  - To impose sanctions
+facts:
+  - The plaintiff was a nurse practitioner at the defendant hospital
+  - The plaintiff's employment was terminated
+  - The plaintiff filed a complaint against the defendant
+  - The defendant filed a motion to compel arbitration
+  - The defendant also filed a motion for sanctions
+disputes:
+  - Whether the plaintiff's claims are subject to arbitration
+  - Whether the plaintiff's claims are frivolous
+acts:
+  - Filing of complaint
+  - Filing of motion to compel arbitration
+  - Filing of motion for sanctions
+  - Opposing the motions
+agreements:
+  - Collective Bargaining Agreement (CBA)
+  - Arbitration agreement
+laws:
+  - California Code of Civil Procedure (CCP)
+  - California Labor Code
+  - Federal Arbitration Act
+  - Supreme Court decisions (e.g. 14 Penn Plaza, LLC (2009) 556 U.S. 247)
+case_citations:
+  - 14 Penn Plaza, LLC (2009) 556 U.S. 247
+  - 24 Hour Fitness, Inc. (1998) 66 CA4th 1199
+  - Armendariz (2000) 24 C4th 83
+  - Craig (2000) 84 CA4th 416
+  - Lagatree (2000) 74 CA4th 1105
+roles:
+  - Plaintiff: Christopher Go
+  - Defendant: Henry Mayo Newhall Memorial Hospital
+  - Counsel: Plaintiff's counsel
+  - Arbitrator: ADR Services, Inc.
+significant_statements:
+  - The court granted the defendant's motion to compel arbitration
+  - The court denied the defendant's motion for sanctions
+  - The plaintiff's claims are subject to arbitration
+  - The court found that the plaintiff's claims are not frivolous
+```

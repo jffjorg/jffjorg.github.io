@@ -1,0 +1,46 @@
+Here is the summary in YAML format:
+
+```
+case_number: [omitted]
+plaintiff_name: [omitted]
+defendant_name: [omitted]
+people_names:
+  - People
+company_names:
+  - CVS Health
+  - Eli Lilly and Co.
+places:
+  - Mississippi
+dates:
+  - August 29, 2022
+events:
+  - Court hearing
+  - Allegations of fraud
+money: [omitted]
+intentions:
+  - To rely on alleged CLRA misstatements to allege a fraud-prong claim
+facts:
+  - Alleged CLRA misstatements
+  - Alleged fraud-prong claim
+  - Time-barred claims
+disputes:
+  - Dispute over alleged fraud-prong claim
+acts:
+  - Public representation of programs to lower the cost of diabetes medications
+agreements: [omitted]
+laws:
+  - CLRA (Consumer Legal Remedies Act)
+  - Mississippi law
+case_citations:
+  - Mississippi ex rel. Fitch v. Eli Lilly and Co. (S.D.Miss. Aug. 29, 2022, No. 3:21-CV-674-KHJ-MTP)
+  - Fitch
+statutes: [omitted]
+roles: [omitted]
+significant_statements:
+  - The Court disagrees to the extent the People intend to rely on the three alleged CLRA misstatements to allege a fraud-prong claim.
+  - The Fitch complaint alleged that CVS Health publicly represented that it constructs programs to lower the cost of at-issue diabetes medications.
+```
+
+And here is the English-text summary:
+
+The judge has issued a tentative ruling regarding a future court hearing. The judge disagrees with the People's intention to rely on three alleged Consumer Legal Remedies Act (CLRA) misstatements to allege a fraud-prong claim. The judge argues that the alleged misstatements are time-barred and do not specifically regard insulin prices. The judge also distinguishes the case of Mississippi ex rel. Fitch v. Eli Lilly and Co., which alleged that CVS Health publicly represented that it constructs programs to lower the cost of diabetes medications. The judge concludes that the Fitch complaint does not support the People's claim.

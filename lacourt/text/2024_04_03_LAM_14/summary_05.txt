@@ -1,0 +1,74 @@
+Here is the summary in YAML format:
+
+```
+case_number: 23STCV28359
+hearing_date: 2024-04-03
+dept: 14
+plaintiff: Levings
+defendant: Choice Hotels International, Inc. dba www.choicehotels.com
+people_names:
+  - Levings
+  - Choice Hotels
+company_names:
+  - Choice Hotels International, Inc.
+places:
+  - California
+dates:
+  - 2023-11-20 (Complaint filed)
+  - 2024-04-03 (Hearing date)
+events:
+  - Demurrer filed
+  - Motion to strike punitive damages allegations
+  - Hearing on demurrer and motion to strike
+  - Ruling on demurrer and motion to strike
+money:
+  - $2500 (fine)
+  - $5000 (treble actual damages)
+  - (punitive damages, stricken)
+intentions:
+  - Plaintiff alleges Defendant improperly used "pen register" software to track internet activity
+  - Defendant demurs to complaint, arguing it fails to state facts sufficient to support cause of action
+  - Defendant moves to strike punitive damages allegations
+facts:
+  - Plaintiff alleges Defendant used "pen register" software to track internet activity
+  - Defendant argues Plaintiff consented to use of pen register
+disputes:
+  - Whether Plaintiff has alleged facts sufficient to support cause of action
+  - Whether Defendant actually used pen register
+  - Whether Plaintiff consented to use of pen register
+  - Whether punitive damages are available under statute
+acts:
+  - Use of pen register software
+  - Filing of demurrer and motion to strike
+  - Filing of complaint
+  - Filing of opposition to demurrer and motion to strike
+agreements:
+  - None
+laws:
+  - Penal Code § 638.51
+  - Penal Code § 638.50
+  - Penal Code § 637.2
+  - Agricultural Ins. Co. v. Superior Court (1999)
+  - Clauson v. Superior Court (1998)
+  - De Anza Santa Cruz Mobile Estates Homeowners Assn. v. De Anza Santa Cruz Mobile Estates (2001)
+  - Budrow v. Dave & Buster's of California, Inc. (2009)
+  - C.W. Johnson & Sons, Inc. v. Carpenter (2020)
+statutes:
+  - Penal Code § 638.51
+  - Penal Code § 638.50
+  - Penal Code § 637.2
+roles:
+  - Judge: [Name]
+  - Plaintiff: Levings
+  - Defendant: Choice Hotels International, Inc. dba www.choicehotels.com
+  - Plaintiff's Counsel: [Name]
+  - Defendant's Counsel: [Name]
+significant_statements:
+  - "Defendant's argument appears to be that Plaintiff gave consent simply by visiting the website. Accepting this argument would allow the exception to swallow the rule whole."
+  - "It could never be violated. That is not an acceptable consequence."
+  - "Plaintiff is confined to the remedies provided by that statute. Those remedies do not include punitive damages."
+```
+
+And here is a summary of the judge's tentative ruling in English:
+
+The judge has issued a tentative ruling on the demurrer and motion to strike punitive damages allegations. The judge has overruled the demurrer, finding that the complaint states facts sufficient to support the cause of action. The judge has also granted the motion to strike punitive damages allegations, finding that the statute does not provide for punitive damages. The judge has ruled that the plaintiff is confined to the remedies provided by the statute, which do not include punitive damages.

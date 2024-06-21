@@ -1,0 +1,57 @@
+Here is the YAML summary of the tentative ruling:
+
+```
+---
+case_number: 22STCV40584
+plaintiff: Jesus Arciniega
+defendant: Keenan & Associates
+people_names:
+  - Jesus Arciniega
+  - Hiro Aragaki
+company_names:
+  - Keenan & Associates
+places:
+  - Los Angeles
+  - California
+dates:
+  - April 9, 2024
+events:
+  - Petition to Confirm Arbitration Award
+money: None
+intention: Grant the petition to confirm arbitration award
+facts:
+  - Defendant Keenan & Associates filed a petition to confirm arbitration award
+  - Plaintiff Jesus Arciniega did not file a response to the petition
+disputes:
+  - None (petition granted)
+acts:
+  - Defendant complied with CCP § 1285.4
+  - Plaintiff failed to file a timely response to the petition
+agreements:
+  - Arbitration agreement between parties
+  - Award made by arbitrator Hiro Aragaki
+laws:
+  - CCP § 1285
+  - CCP § 1285.4
+  - CCP § 1290
+  - CCP § 1290.6
+case_citations:
+  - CCP § 1285
+  - CCP § 1285.4
+  - CCP § 1290
+  - CCP § 1290.6
+statutes:
+  - CCP (California Code of Civil Procedure)
+roles:
+  - Judge Maurice A. Leiter
+  - Jesus Arciniega (Plaintiff)
+  - Keenan & Associates (Defendant)
+  - Hiro Aragaki (Arbitrator)
+significant_statements:
+  - The petition to confirm arbitration award is granted.
+  - The allegations of the petition are deemed admitted by Plaintiff.
+```
+
+And here is the English-text summary of the tentative ruling:
+
+The tentative ruling grants the petition to confirm the arbitration award. The defendant, Keenan & Associates, filed the petition to confirm the arbitration award, and the plaintiff, Jesus Arciniega, did not file a response to the petition. Since the plaintiff did not file a timely response, the allegations of the petition are deemed admitted by the plaintiff. The court finds that the defendant has complied with the requirements of CCP § 1285.4. Therefore, the petition is granted, and the arbitration award is confirmed.

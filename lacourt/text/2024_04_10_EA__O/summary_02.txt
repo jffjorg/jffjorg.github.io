@@ -1,0 +1,54 @@
+Here is the summary in YAML format:
+
+```
+case_number: " Unknown"
+plaintiff_name: "Plaintiffs"
+defendant_name: "Defendant/Cross-Defendant"
+people_names:
+  - "Defendant"
+  - "Controller"
+  - "Consultant"
+company_names:
+  - "Heritage"
+places:
+  - "Heritage"
+dates:
+  - "Unknown"
+events:
+  - "Ex Parte Application"
+  - "Cross-Complaint"
+  - "Withdrawals from corporate account"
+money:
+  - "Large amounts of money"
+  - "Company funds and resources"
+intentions:
+  - "Preserve documents and data"
+  - "Prove fraud allegations"
+facts:
+  - "Defendant/Cross-Defendant alleges fraud"
+  - "Plaintiffs spent and took company funds"
+disputes:
+  - "Fraudulent activities"
+acts:
+  - "Withdrawals from corporate account"
+  - "Misrepresentation of transactions"
+  - "Misuse of company funds"
+agreements:
+  - "CC ¶83"
+laws:
+  - "CCP section 527(a)"
+  - "Bank of America Nat'l Trust & Sav. Ass'n v. Williams (1948)"
+  - "89 Cal.App.2d 21, 29"
+roles:
+  - "Controller"
+  - "Consultant"
+  - "Plaintiff"
+  - "Defendant"
+significant_statements:
+  - "Defendant's cross-complaint does not contain sufficient evidentiary facts"
+  - "Plaintiffs spent and took large amounts of money from Heritage"
+```
+
+And here is the English-text summary:
+
+The Judge's tentative ruling is based on information presented prior to the court hearing. The case involves a dispute between the Plaintiffs and the Defendant/Cross-Defendant over allegations of fraud and mismanagement of Heritage, a company. The Defendant/Cross-Defendant alleges that the Plaintiffs spent and took large amounts of money from Heritage and misrepresented transactions in the company books and records. However, the Defendant's cross-complaint does not contain sufficient evidence to support these allegations. The Judge notes that the case requires proof of specific transactions and dates to substantiate the claims. The Judge's ruling is pending further evidence and argument from both parties.

@@ -1,0 +1,79 @@
+Here is the summary in YAML format:
+
+```
+case_number: 23SMCV04284
+hearing_date: 2024-04-03
+department: I
+
+people:
+  - Miles
+  - Mashion firm
+  - Viridity
+
+companies:
+  - Mashion
+  - Viridity
+
+places:
+  - None
+  - United States (assumed)
+
+dates:
+  - 2024-04-03 (hearing date)
+  - 2023-04-03 (retainer agreement)
+
+events:
+  - Demurrer filed
+  - Meet and confer
+  - Lawsuit filed (fraud)
+
+money:
+  - None mentioned
+
+intentions:
+  - Miles: sue Mashion firm for fraud
+  - Mashion firm: defend against fraud allegations
+
+facts:
+  - Mashion firm performed legal work for Viridity
+  - Miles signed retainer agreement
+  - Viridity allegedly promised to pay Mashion firm directly or reimburse Miles
+  - Miles alleges Mashion firm did not explain the impact of Viridity's payment
+  - Mashion firm claims there was no duty to inform
+
+disputes:
+  - Mashion firm's duty to inform Miles about Viridity's payment
+  - Whether Mashion firm's failure to inform constitutes fraud
+
+acts:
+  - Mashion firm performed legal work
+  - Miles signed retainer agreement
+  - Viridity allegedly paid Mashion firm directly or reimbursed Miles
+
+agreements:
+  - Retainer agreement between Miles and Mashion firm
+  - Alleged agreement between Mashion firm and Viridity
+
+laws:
+  - California Rules of Professional Conduct
+  - California Code of Civil Procedure (statute of limitations)
+
+case_citations:
+  - None mentioned
+  - California Rules of Professional Conduct
+
+statutes:
+  - California Code of Civil Procedure (statute of limitations)
+
+roles:
+  - Plaintiff: Miles
+  - Defendant: Mashion firm
+  - Third party: Viridity
+
+significant_statements:
+  - Demurrer sustained with leave to amend
+  - Failure to allege materiality, reliance, and damages in fraud claims
+  - Leave to amend granted, with warning that further amendments may not be granted
+```
+
+Note that some fields may be empty or not applicable, but I've included them to maintain consistency with the YAML format.

@@ -1,0 +1,62 @@
+Here is a summary of the tentative ruling in YAML format:
+
+```
+case_number: 22STCV02673
+hearing_date: 2024-06-17
+department: 32
+
+parties:
+  - Plaintiff: Miella Sneiderman
+  - Defendant: Beverly Hills Unified School District
+
+dates:
+  - 2021-05-06: Accident date
+  - 1966-11-22: Plan approval date
+
+events:
+  - Accident: Plaintiff fell over the retaining wall
+  - Plan approval: Plan for retaining wall approved by State of California
+
+money:
+  - None mentioned
+
+intentions:
+  - Plaintiff seeks to establish liability against Defendant
+  - Defendant seeks to establish design immunity under Government Code section 830.6
+
+facts:
+  - Plaintiff was injured when she fell over the retaining wall
+  - Defendant maintains that the condition of the wall was not a dangerous condition
+  - Plaintiff argues that the condition of the wall was a dangerous condition
+
+disputes:
+  - Whether the condition of the wall was a dangerous condition
+  - Whether the Defendant had actual or constructive notice of the condition
+
+acts:
+  - Plaintiff filed a complaint against Defendant
+  - Defendant moved for summary judgment
+  - Plaintiff opposed the motion
+
+laws:
+  - Government Code section 835 (liability for injuries caused by a dangerous condition of public property)
+  - Government Code section 830.6 (design immunity)
+
+citations:
+  - Aguilar v. Atlantic Richfield Co. (2001) 25 Cal.4th 826
+  - Binder v. Aetna Life Ins. Co. (1999) 75 Cal.App.4th 832
+  - Fisherman's Wharf Bay Cruise Corp. v. Superior Court (2003) 114 Cal.App.4th 309
+  - Metcalf v. County of San Joaquin (2008) 42 Cal.4th 1121
+  - Peterson v. San Francisco Comm. College Dist. (1984) 36 Cal.3d 799
+
+roles:
+  - Judge: [Name]
+  - Plaintiff's counsel: [Name]
+  - Defendant's counsel: [Name]
+```
+
+And here is a summary of the tentative ruling in English text:
+
+The tentative ruling addresses a motion for summary judgment filed by the defendant, Beverly Hills Unified School District, in a case involving a personal injury claim by the plaintiff, Miella Sneiderman. The plaintiff alleges that she was injured when she fell over a retaining wall at Hawthorne Elementary School.
+
+The defendant argues that the condition of the wall was not a dangerous condition, and that the plaintiff cannot establish liability. The plaintiff argues that the condition of the wall was a dangerous condition, and

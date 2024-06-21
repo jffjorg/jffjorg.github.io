@@ -1,0 +1,29 @@
+Here is the summary in YAML format:
+
+```
+---
+case-number: 21STCV36085
+hearing-date: 2024-04-10
+department: 29
+parties:
+  - plaintiff: Victoria De Silverio Avila
+    age: 20
+  - defendant: Elvia Irene Avila Perez
+  - claimant: (disabled adult, no name specified)
+roles:
+  - guardian-ad-litem: Elvia Irene Avila Perez
+  - conservator: (not specified)
+facts:
+  - petition-filed: February 7, 2024
+  - no-guardian-ad-litem: (Petitioner not appointed as guardian ad litem)
+  - no-conservatorship: (no conservatorship for claimant)
+laws:
+  - Code Civ. Proc., § 372(a)(3)
+intention:
+  - compromise-approval: (petition denied without prejudice)
+  - guardian-ad-litem-appointment: (Petitioner must obtain order appointing herself as guardian ad litem)
+```
+
+And here is the English-text summary:
+
+The Court has reviewed the petition filed by Petitioner Elvia Irene Avila Perez, seeking approval of a compromise on behalf of her disabled adult child. However, the Court notes that there is no order appointing Petitioner as guardian ad litem, and therefore, the petition is denied without prejudice. Before the Court can consider the petition, Petitioner must obtain an order appointing herself as guardian ad litem.

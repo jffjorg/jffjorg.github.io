@@ -1,0 +1,65 @@
+Here is the summary in YAML format:
+
+```
+case_number: 20STCV19088
+plaintiff: Ulrike Zillner
+defendant: Maple Street Burbank Homeowners Association
+people_names:
+  - Ulrike Zillner
+  - Maple Street Burbank Homeowners Association
+company_names:
+  - Maple Street Burbank Homeowners Association
+places:
+  - Burbank
+dates:
+  - March 31, 2023
+  - May 30, 2023
+  - April 2, 2024
+events:
+  - Service of form interrogatories
+  - Objections to discovery
+  - Motion to compel responses
+  - Request for monetary sanctions
+money:
+  - Monetary sanctions
+intentions:
+  - Compel responses to form interrogatories
+  - Request for monetary sanctions
+facts:
+  - Service of form interrogatories on March 31, 2023
+  - Objections to discovery on May 30, 2023
+  - Verification of responses required
+  - Unverified responses subject to motion to compel
+disputes:
+  - Dispute over responses to form interrogatories
+  - Dispute over objections to discovery
+  - Dispute over motion to compel
+acts:
+  - Service of form interrogatories
+  - Objections to discovery
+  - Request for monetary sanctions
+agreements:
+  - Code of Civil Procedure section 2030.290
+  - Code of Civil Procedure section 2030.250
+  - California Rules of Court, rule 3.1348
+laws:
+  - Code of Civil Procedure
+  - California Rules of Court
+case_citations:
+  - Leach v. Superior Court (1980) 111 Cal.App.3d 902
+  - Appleton v. Superior Court (1988) 206 Cal. App. 3d 632
+statutes:
+  - Code of Civil Procedure section 2030.290
+  - Code of Civil Procedure section 2030.250
+  - Code of Civil Procedure section 2030.300
+roles:
+  - Plaintiff: Ulrike Zillner
+  - Defendant: Maple Street Burbank Homeowners Association
+significant_statements:
+  - "Unverified discovery responses are tantamount to no response at all, and are subject to a motion to compel responses."
+  - "The party to whom the interrogatories are directed shall sign the response under oath unless the response contains only objections."
+```
+
+And here is the English-text summary:
+
+The tentative ruling is about a motion to compel responses to form interrogatories, set three, filed by Plaintiff Ulrike Zillner against Defendant Maple Street Burbank Homeowners Association. The Plaintiff seeks to compel responses to the interrogatories and requests monetary sanctions. The Defendant opposes the motion, arguing that the Plaintiff should have filed a motion to compel further responses and that the Plaintiff failed to follow the procedures in the Court's Eighth Amended Standing Order. The Court denies the motion to compel and the request for monetary sanctions, finding that the Defendant's unverified responses are not subject to a motion to compel, but rather a motion to compel further under Code of Civil Procedure section 2030.300.

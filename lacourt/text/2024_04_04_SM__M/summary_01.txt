@@ -1,0 +1,71 @@
+Here is the summary in YAML format:
+
+```
+Case Number: 19SMCV00603
+Plaintiff's Name: Nelson
+ Defendant's Name: Cassileth
+People-Names:
+  - Lebovic, Gail
+  - Min, Dr.
+Company-Names:
+  - Medical Arts Ambulatory Surgery Center
+Places:
+  - California
+  - Stanford
+Dates:
+  - April 4, 2024 (Hearing Date)
+  - February 16, 2021 (Surgery Date)
+  - March 4, 2021 (Symptom start)
+  - March 24, 2021 (Symptom worsening)
+  - April 5, 2021 (In-person visit)
+  - April 8, 2021 (Steroid prescription)
+  - April 27, 2021 (Oozing wound report)
+  - May 5, 2021 (Emergency event)
+Events:
+  - Breast augmentation surgery
+  - Infection development
+  - Hospitalization
+  - Breast removal
+  - Delayed treatment
+Money:
+  - None mentioned
+Intentions:
+  - Summary judgment
+  - Causation determination
+Facts:
+  - Plaintiff underwent breast augmentation surgery
+  - Plaintiff developed an infection
+  - Plaintiff was hospitalized and required breast removal
+  - Defendant Dr. Min allegedly delayed detection of infection
+Disputes:
+  - Causation of plaintiff's injuries
+  - Breach of standard of care
+  - Delayed treatment
+Acts:
+  - Surgery
+  - Infection development
+  - Hospitalization
+  - Breast removal
+  - Delayed treatment
+Agreements:
+  - None mentioned
+Laws:
+  - California Civil Procedure Code (CCP)
+  - California Code of Civil Procedure (CCP)
+Statutes:
+  - CCP, § 437c
+  - CCP, § 437c(a)
+  - CCP, § 437c(c)
+  - CCP, § 437c(f)
+  - CCP, § 437c(t)
+Roles:
+  - Judge
+  - Plaintiff
+  - Defendant
+  - Expert witness
+Significant Statements:
+  - "The purpose of the law of summary judgment is to provide courts with a mechanism to cut through the parties' pleadings in order to determine whether, despite their allegations, trial is in fact necessary to resolve their dispute."
+  - "A party may move for summary adjudication as to one or more causes of action within an action, one or more affirmative defenses, one or more claims for damages, or one or more issues of duty..."
+```
+
+Please note that the YAML format is a simple key-value format, where each line represents a key-value pair. The keys are the names of the fields, and the values are the corresponding values.

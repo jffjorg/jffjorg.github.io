@@ -1,0 +1,56 @@
+Here is the summary in YAML format:
+
+```
+case_number: Unknown
+plaintiff: Unknown
+defendant: Unknown
+people_names:
+  - Unknown
+company_names:
+  - Unknown
+places:
+  - California
+  - Nevada
+dates:
+  - Unknown
+events:
+  - Liability alleged
+  - Settlement
+money:
+  - Statutory limit
+  - Insurance requirement
+intents:
+  - Determine statutory limit
+  - Enforce settlement
+facts:
+  - Liability alleged pursuant to California law
+  - Statutory limit unclear
+disputes:
+  - Application of California or Nevada law
+acts:
+  - Alleged liability
+  - Insurance requirement
+agreements:
+  - Settlement
+laws:
+  - California law
+  - Nevada Revised Statutes section 485.185
+  - Graves Amendment
+case_citations:
+  - Eleventh Circuit
+  - Unknown
+  - Unknown
+statutes:
+  - Nevada Revised Statutes section 485.185
+roles:
+  - Judge
+  - Plaintiff
+  - Defendant
+significant_statements:
+  - Statutory limit not dispositive
+  - Settlement not yet enforced
+```
+
+And here is the English-text summary of the judge's tentative ruling:
+
+The judge is considering a tentative ruling regarding a liability case. The plaintiff argues that the liability is pursuant to California law, while the defendant's statutory limit is based on Nevada law. However, the court finds that the issue of which state's statutory limit applies is not dispositive. Both parties agree that the liability alleged is pursuant to California law. The court cites the Eleventh Circuit, stating that the statutory caps or limits do not bring the liability provision within the savings clause of the Graves Amendment. The court also notes that the defendant's insurance requirement, imposed by Nevada Revised Statutes section 485.185, is not relevant to the case. The judge has reserved a motion to enforce a settlement, but has not yet made a final ruling.

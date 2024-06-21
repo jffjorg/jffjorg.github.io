@@ -1,0 +1,68 @@
+Here is the summary in YAML format:
+
+```yaml
+caseNumber: 23STCV24598
+plaintiffsName: American Express National Bank
+defendantsName: Jonathan Dahan, MMC Agency Inc.
+peopleNames:
+  - Kerry Bensinger
+companyNames:
+  - American Express National Bank
+  - MMC Agency Inc.
+places:
+  - California
+dates:
+  - October 10, 2023
+  - December 12, 2023
+  - February 9, 2024
+  - April 9, 2024
+  - May 3, 2024
+events:
+  - Filing of complaint
+  - Filing of stipulation
+  - Dismissal of case
+  - Motion to vacate conditional dismissal
+  - Request for entry of judgment
+money:
+  - $391,937.67
+  - $1,433.00
+intentions:
+  - To enforce settlement agreement
+  - To enter judgment against defendants
+facts:
+  - Parties stipulated to dismiss case without prejudice
+  - Parties agreed to retain jurisdiction to enforce settlement
+  - Defendants failed to make timely payments
+disputes:
+  - Failure to make timely payments
+acts:
+  - Sending of written notice to cure default
+  - Failure to cure default
+  - Request for entry of judgment
+agreements:
+  - Stipulation for settlement
+laws:
+  - California Code of Civil Procedure Section 664.6
+  - California Civil Code
+caseCitations:
+  - (2012) 206 Cal.App.4th 724
+  - (2019) 33 Cal.App.5th 913
+  - (2002) 103 Cal.App.4th 30
+  - (2004) 117 Cal.App.4th 857
+  - (2002) 97 Cal.App.4th 429
+statutes:
+  - California Code of Civil Procedure Section 664.6
+roles:
+  - Plaintiff: American Express National Bank
+  - Defendant: Jonathan Dahan, MMC Agency Inc.
+  - Judge: Kerry Bensinger
+significantStatements:
+  - The court has jurisdiction to enforce the terms of the settlement.
+  - The parties agreed to retain jurisdiction to enforce the settlement.
+  - The defendants failed to make timely payments.
+  - The plaintiff seeks to enter judgment against the defendants.
+```
+
+And here is the English-text summary:
+
+The tentative ruling is in response to a motion by American Express National Bank (Plaintiff) to vacate the conditional dismissal and for entry of judgment against Jonathan Dahan and MMC Agency Inc. (Defendants) pursuant to California Code of Civil Procedure Section 664.6. The case was dismissed without prejudice on December 12, 2023, with the court retaining jurisdiction to enforce the terms of the settlement agreement. The settlement agreement provides for monthly payments by the Defendants to the Plaintiff in the amount of $391,937.67. The Defendants have failed to make timely payments, and the Plaintiff seeks to enter judgment against the Defendants in the amount of $393,370.67. The court has granted the Plaintiff's motion to continue the hearing to May 3, 2024, to allow the Plaintiff to file a Memorandum of Costs.

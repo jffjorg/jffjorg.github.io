@@ -1,0 +1,73 @@
+Here is the summary in YAML format:
+
+```
+case_number: 23STCV20458
+plaintiff: Kassidy Ramirez
+defendant: Infinite Looks, Inc.
+people_names:
+  - Kassidy Ramirez
+  - William B. DeClercq
+  - Hon. Jill Feeney
+company_names:
+  - Infinite Looks, Inc.
+places:
+  - Los Angeles
+  - California
+dates:
+  - August 25, 2023
+  - March 21, 2024
+  - June 20, 2024
+  - February 19, 2025
+  - March 3, 2025
+events:
+  - Motion to be relieved as counsel
+  - Labor Code violations
+  - Employment as a model
+  - Failure to pay wages
+money:
+  - Wages
+intentions:
+  - Grant the motion to be relieved as counsel
+  - Serve the signed MC-053 on all parties
+  - File proof of service within two court days
+facts:
+  - Plaintiff was employed as a model
+  - Defendant failed to pay agreed-upon wages
+  - Counsel filed a motion to be relieved as counsel
+  - Counsel has a compelling reason to withdraw due to a breakdown of the attorney-client relationship
+disputes:
+  - Labor Code violations
+  - Failure to pay wages
+acts:
+  - Filing a motion to be relieved as counsel
+  - Serving the signed MC-053 on all parties
+agreements:
+  - Grant the motion to be relieved as counsel
+  - Serve the signed MC-053 on all parties
+  - File proof of service within two court days
+laws:
+  - California Rules of Court, rule 3.1362
+  - Code of Civil Procedure, section 284
+  - California Rules of Court, rule 3.1362
+  - Code of Civil Procedure, section 284
+  - People v. Prince (1968)
+  - Ramirez v. Sturdivant (1994)
+  - California Rules of Court, rule 3.1362
+statutes:
+  - California Rules of Court, rule 3.1362
+  - Code of Civil Procedure, section 284
+  - Labor Code
+roles:
+  - Plaintiff: Kassidy Ramirez
+  - Defendant: Infinite Looks, Inc.
+  - Counsel: William B. DeClercq
+  - Judge: Hon. Jill Feeney
+significant_statements:
+  - The court grants the motion to be relieved as counsel
+  - Counsel has a compelling reason to withdraw due to a breakdown of the attorney-client relationship
+  - Defendant will not be prejudiced if counsel's motion is granted
+```
+
+And here is the English-text summary:
+
+The court has tentatively ruled that the motion to be relieved as counsel filed by William B. DeClercq, counsel for defendant Infinite Looks, Inc., is granted. The proposed MC-053 will be signed and counsel is ordered to serve the signed document on all parties, including the defendant, and file proof of service within two court days. The court has found that counsel has a compelling reason to withdraw due to a breakdown of the attorney-client relationship. The court has also determined that defendant will not be prejudiced if the motion is granted, as the next hearing is scheduled for February 19, 2025, and trial is set for March 3, 2025, providing sufficient time for defendant to secure new counsel.

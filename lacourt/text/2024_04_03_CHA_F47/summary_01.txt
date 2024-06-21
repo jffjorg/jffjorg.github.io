@@ -1,0 +1,61 @@
+Here is the summary in YAML format:
+
+```
+case_number: 21CHCV00956
+plaintiff: GGP Northridge Fashion Center, L.P.
+defendant: Alibaba Express Mediterranean Grill, Inc., Shamdan Restaurant, Inc., Ali Mirghaffari, Yana Miraghaffari
+people_names:
+  - Ali Mirghaffari
+  - Yana Miraghaffari
+company_names:
+  - Alibaba Express Mediterranean Grill, Inc.
+  - Shamdan Restaurant, Inc.
+  - GGP Northridge Fashion Center, L.P.
+places: Northridge
+dates:
+  - 2/6/24
+  - 2/20/24
+  - 2/21/24
+  - 3/19/24
+  - 3/22/24
+  - 4/3/24
+events:
+  - Court trial
+  - Judgment entered
+  - Notice of Intention to Move for New Trial filed
+  - Hearing set for 4/3/24
+  - Memorandum in support of the Motion not filed
+money:
+  - None mentioned
+intentions:
+  - Defendants intend to move for a new trial
+facts:
+  - Judgment was entered in favor of Plaintiff on 2/6/24
+  - Defendants filed a Notice of Intention to Move for New Trial on 2/20/24
+  - Hearing was set for 4/3/24
+  - Memorandum in support of the Motion was due by 3/22/24
+disputes:
+  - Dispute over the outcome of the court trial
+acts:
+  - Judgment was entered
+  - Notice of Intention to Move for New Trial was filed
+  - Hearing was set
+  - Memorandum in support of the Motion was not filed
+agreements:
+  - Stipulations and orders were filed to extend the deadline for filing the memorandum
+laws:
+  - None mentioned
+case_citations:
+  - None mentioned
+statutes:
+  - None mentioned
+roles:
+  - Plaintiff: GGP Northridge Fashion Center, L.P.
+  - Defendant: Alibaba Express Mediterranean Grill, Inc., Shamdan Restaurant, Inc., Ali Mirghaffari, Yana Miraghaffari
+significant_statements:
+  - The motion is placed off calendar due to the failure to file a memorandum in support of the motion.
+```
+
+And here is a summary of the judge's tentative ruling in English text:
+
+The judge has placed the motion for a new trial off calendar due to the defendants' failure to file a memorandum in support of their motion by the deadline. The defendants had filed a notice of intention to move for a new trial on February 20, 2024, and the hearing was set for April 3, 2024. However, the defendants failed to file the memorandum in support of their motion by the extended deadline of March 22, 2024. As a result, the judge has decided to take the motion off calendar.

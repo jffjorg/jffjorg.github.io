@@ -1,0 +1,65 @@
+Here is the summary in YAML format:
+
+```
+case_number: 23STCV08993
+hearing_date: 2024-04-09
+dept: 58
+judge: Bruce G. Iwasaki
+
+parties:
+  - plaintiff: Franciso Ferreras Rodriguez
+  - defendant: Versus Production SRL
+  - defendant: Netflix, Inc.
+
+motions:
+  - Motion to Quash Service of Summons
+
+issues:
+  - Jurisdiction: general and specific
+
+arguments:
+  - Pro se: Defendant Versus argues lack of personal jurisdiction
+  - Pro contra: Plaintiff argues presence of specific jurisdiction
+
+facts:
+  - Plaintiff sued Netflix, Inc. and David M. Rosenthal for defamation
+  - Defendant Versus is a Belgian film and television production company
+  - Defendant Versus entered into a license agreement with Netflix, Inc.
+  - Plaintiff resides in Cuba, not California
+
+intentions:
+  - Defendant Versus seeks to quash service of summons for lack of jurisdiction
+
+factual disputes:
+  - Whether Defendant Versus purposefully availed itself of the benefits of California law
+  - Whether Plaintiff's claims are related to Defendant Versus's contacts with California
+
+money: N/A
+
+laws:
+  - Due Process clause of the Fourteenth Amendment
+  - Walden v. Fiore (2014)
+  - Daimler AG v. Bauman (2014)
+  - Walden v. Fiore (2014)
+  - Calder v. Jones (1984)
+  - Pavlovich v. Superior Court (2002)
+  - IMO Industries, Inc. v. Kiekert AG (1998)
+  - Wien Air Alaska, Inc. v. Brandt (1999)
+
+citations:
+  - Walden v. Fiore (2014)
+  - Daimler AG v. Bauman (2014)
+  - Calder v. Jones (1984)
+  - Pavlovich v. Superior Court (2002)
+  - IMO Industries, Inc. v. Kiekert AG (1998)
+  - Wien Air Alaska, Inc. v. Brandt (1999)
+  - Bristol-Myers Squibb Co. v. Superior Court of California, San Francisco County (2017)
+  - SK Trading International Co. Ltd. v. Superior Court of San Francisco County (2022)
+  - Jayone Foods, Inc. v. Aekyung Industrial Co. Ltd. (2019)
+  - In re Automobile Antitrust Cases I & II (2005)
+  - Rivelli v. Hemm (2021)
+```
+
+And here is the English-text summary:
+
+The Court grants the motion to quash service of summons filed by Defendant Versus Production SRL because there is no personal jurisdiction over the defendant. The defendant is a Belgian film and television production company that entered into a license agreement with Netflix, Inc. to produce a film. However, the plaintiff's claims for defamation arise from the film, not the license agreement. The plaintiff failed to show that the defendant purposefully directed its activities towards California or that the defendant's contacts with California were related to the plaintiff's claims. Therefore, the Court finds that there is no personal jurisdiction over the defendant.

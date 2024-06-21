@@ -1,0 +1,83 @@
+Here is the YAML summary:
+
+```
+case_number: 22BBCV00741
+plaintiff: Brian Whitaker
+defendants:
+  - Jasjit K. Bisla (individual)
+  - Satinder S. Bisla (individual)
+  - Pinkberry, Inc. (corporation)
+people:
+  - Brian Whitaker
+  - Jasjit K. Bisla
+  - Satinder S. Bisla
+  - Manuel Eli Gonzalez (attorney)
+  - Joel L. Lofton (judge)
+companies:
+  - Pinkberry, Inc.
+places:
+  - California
+dates:
+  - October 6, 2004 (trust instrument date)
+  - October 11, 2022 (complaint filing date)
+  - January 2, 2024 (service date)
+  - March 27, 2024 (opposition filing date)
+  - March 28, 2024 (reply filing date)
+  - April 11, 2024 (hearing date)
+  - August 14, 2023 (dismissal request date)
+  - October 4, 2023 (motion to set aside dismissal date)
+  - November 3, 2023 (hearing date)
+  - December 12, 2023 (order to show cause date)
+events:
+  - Disability access lawsuit
+  - Failure to comply with disability access laws
+  - Dismissal request
+  - Motion to set aside dismissal
+  - Sanctions imposed
+  - Reduced sanctions
+money:
+  - $3,000 (initial sanctions amount)
+  - $2,000 (reduced sanctions amount)
+intentions:
+  - Set aside order imposing sanctions
+  - Reduce sanctions amount
+facts:
+  - Plaintiff filed complaint on October 11, 2022
+  - Defendants failed to comply with disability access laws
+  - Defendant's counsel mistakenly filed dismissal request
+  - Defendant's counsel failed to appear for hearing
+disputes:
+  - Plaintiff's claims against defendants
+  - Defendant's counsel's actions
+acts:
+  - Filing of complaint
+  - Failure to comply with disability access laws
+  - Filing of dismissal request
+  - Failure to appear for hearing
+agreements:
+  - Trust instrument dated October 6, 2004
+  - Code of Civil Procedure
+  - Code of Civil Procedure § 473
+  - Code of Civil Procedure § 1008
+laws:
+  - Code of Civil Procedure
+  - Code of Civil Procedure § 473
+  - Code of Civil Procedure § 1008
+case_citations:
+  - Code of Civil Procedure § 473
+  - Code of Civil Procedure § 1008
+roles:
+  - Plaintiff (Brian Whitaker)
+  - Defendant (Jasjit K. Bisla)
+  - Defendant (Satinder S. Bisla)
+  - Defendant (Pinkberry, Inc.)
+  - Attorney (Manuel Eli Gonzalez)
+  - Judge (Joel L. Lofton)
+significant_statements:
+  - Defendant's counsel's motion to set aside order imposing sanctions is denied
+  - Sanctions reduced from $3,000 to $2,000
+```
+
+And here is the English-text summary:
+
+The tentative ruling by Judge Joel L. Lofton denies Defendant's counsel's motion to set aside the order imposing sanctions. The sanctions were originally set at $3,000, but are reduced to $2,000 due to the lack of notice to Defendant's counsel. The dispute arose from Defendant's counsel's mistaken filing of a dismissal request and failure to appear for a hearing. The court finds that Defendant's counsel's actions were not reasonable and constitute neither excusable neglect nor mistake. Despite this, the court reduces the sanctions amount due to the lack of notice.

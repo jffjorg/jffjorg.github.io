@@ -1,0 +1,72 @@
+Here is the summary in YAML format:
+
+```
+case_number: 23PSCV02299
+plaintiff_name: Robert Lee Johnson
+defendant_name: City of Pomona and Officers A. Lopez, J. Smith, P. Hutchinson, and S. Erfan
+people_names:
+  - Robert Lee Johnson
+  - Alejandro Lopez
+  - Jacqueline Smith
+  - Prince Hutchinson
+  - Shreef Erfan
+company_names:
+  - City of Pomona
+places:
+  - Pomona
+  - Twin Towers facility
+dates:
+  - April 13, 2023
+  - July 31, 2023
+  - April 9, 2024
+events:
+  - Traffic stop
+  - Arrest
+  - Injury
+  - Damage to vehicle
+  - Theft of personal property
+money:
+  - Damages to vehicle
+  - Personal injury
+intentions:
+  - To strike the first amended answer
+  - To appoint counsel
+facts:
+  - Plaintiff was arrested and injured during a traffic stop
+  - Plaintiff's vehicle was damaged and property was stolen
+  - Plaintiff filed a complaint against the City and police officers
+disputes:
+  - Plaintiff's motion to strike the first amended answer
+  - Plaintiff's motion to appoint counsel
+acts:
+  - Plaintiff filed a complaint
+  - Plaintiff moved to strike the first amended answer
+  - Plaintiff moved to appoint counsel
+agreements:
+  - Code of Civil Procedure section 436
+  - Code of Civil Procedure section 446
+  - Code of Civil Procedure section 431.30
+laws:
+  - Code of Civil Procedure
+  - Title 28, United States Code, section 1915
+  - Wilborn v. Escalderon (9th Cir. 1986)
+  - Walker v. State Bar (1989)
+case_citations:
+  - Code Civ. Proc., § 436
+  - Code Civ. Proc., § 446
+  - Code Civ. Proc., § 431.30
+statutes:
+  - Code of Civil Procedure
+  - Title 28, United States Code
+roles:
+  - Plaintiff: Robert Lee Johnson
+  - Defendant: City of Pomona and Officers A. Lopez, J. Smith, P. Hutchinson, and S. Erfan
+  - Judge: [Judge's name]
+significant_statements:
+  - The court denies the motion to strike the first amended answer
+  - The court denies the motion to appoint counsel
+```
+
+And here is the English-text summary:
+
+The Judge has issued a tentative ruling in the case of Robert Lee Johnson versus the City of Pomona and police officers. The Judge has denied the Plaintiff's motion to strike the first amended answer, stating that the City and officers are not required to verify their answer, and that the answer complies with the Code of Civil Procedure. The Judge has also denied the Plaintiff's motion to appoint counsel, stating that there is no constitutional right to counsel in civil cases, and that the court does not have the discretion to appoint counsel in this case.

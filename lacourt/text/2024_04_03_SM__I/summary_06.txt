@@ -1,0 +1,57 @@
+Here is the summary in YAML format:
+
+```
+case_number: 23SMCV05550
+plaintiff: Bella Designs
+defendant: unknown
+people_names:
+  - Bella Designs
+  - unknown
+company_names:
+  - Bella Designs
+places:
+  - California
+dates:
+  - April 3, 2024
+events:
+  - Demurrer
+  - Motion to strike
+  - Car accident
+  - Business registration
+money: none
+intentions:
+  - To determine whether plaintiff can sue in California
+facts:
+  - Plaintiff is a foreign corporation
+  - Defendant is alleged to have hit a car owned by plaintiff
+  - Plaintiff is not registered to do business in California
+  - Defendant's actions were deliberate
+disputes:
+  - Whether plaintiff can sue in California
+  - Whether defendant's actions were deliberate
+acts:
+  - Demurrer filed
+  - Motion to strike filed
+  - Car accident alleged
+agreements:
+  - None
+laws:
+  - California business registration laws
+  - Pleading laws
+case_citations: none
+statutes: California Business and Professions Code
+roles:
+  - Judge
+  - Plaintiff (Bella Designs)
+  - Defendant (unknown)
+significant_statements:
+  - Demurrer is OVERRULED
+  - Motion to strike is DENIED
+  - Defendant misperceives the law
+  - Plaintiff is not required to be registered to do business in California
+  - Defendant's actions were deliberate
+```
+
+And here is the English-text summary:
+
+The judge's tentative ruling is that the demurrer filed by the defendant is OVERRULED and the motion to strike is DENIED. The defendant argued that the plaintiff, a foreign corporation, is not registered to do business in California and therefore cannot sue in California. However, the judge ruled that the plaintiff is required to register to do business in California only if it is doing business in the state. Since the plaintiff asserts that it does not do business in California, the lack of registration is not a bar to the suit. As for the motion to strike, the judge ruled that the allegation that the defendant's actions were deliberate is sufficient to survive a pleading motion. The defendant has one court day to answer the allegations.

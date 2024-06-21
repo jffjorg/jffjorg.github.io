@@ -1,0 +1,67 @@
+Here is the summary in YAML format:
+
+```
+case_number: 23STCV07952
+plaintiff_name: A. Blackman
+defendant_name: El Pollo Loco, Inc. and W.K.S. Restaurant Group
+people_names:
+  - A. Blackman
+  - W.K.S. Restaurant Group
+company_names:
+  - El Pollo Loco, Inc.
+  - W.K.S. Restaurant Group
+  - Evanston Insurance Company
+places:
+  - California (CCP § 2017.210)
+dates:
+  - June 20, 2024
+  - July 1, 2023
+  - July 1, 2024
+events:
+  - Plaintiff's Motion to Compel Further Responses to Request for Production
+  - Request for Production of Documents, Set One, No. 21
+  - Defendant's objections to the request
+  - Production of a heavily redacted declaration page of an insurance policy
+  - Plaintiff's counsel's declaration
+money:
+  - $3,000,000 (policy coverage)
+intentions:
+  - To compel further response to the request for production
+  - To determine the sufficiency of the defendant's supplemental response
+facts:
+  - Plaintiff seeks insurance policy information
+  - Defendant objected to the request on various grounds
+  - Defendant produced a heavily redacted declaration page of an insurance policy
+  - The policy covers employment practices and third-party discrimination liability
+disputes:
+  - Dispute over the sufficiency of the defendant's supplemental response
+  - Dispute over the propriety of the plaintiff's request
+acts:
+  - Plaintiff's motion to compel further responses
+  - Defendant's objections to the request
+  - Production of a heavily redacted declaration page of an insurance policy
+agreements:
+  - None mentioned
+laws:
+  - CCP § 2017.210
+  - California Code of Civil Procedure
+case_citations:
+  - CCP § 2017.210
+  - Falk Decl. ¶ 10, Exh. H
+statutes:
+  - CCP § 2017.210
+roles:
+  - Judge
+  - Plaintiff (A. Blackman)
+  - Defendant (El Pollo Loco, Inc. and W.K.S. Restaurant Group)
+  - Counsel (for Plaintiff and Defendant)
+significant_statements:
+  - The court finds that many of the defendant's objections are boilerplate objections with no application to the request at issue.
+  - The court finds that the request is not overbroad as it is limited to policies which may provide coverage for any claim in this lawsuit.
+  - The court finds that insurance policy information is directly relevant and discoverable.
+  - The court finds that the request is not harassing nor unduly burdensome.
+```
+
+And here is a summary of the judge's tentative ruling in English text:
+
+"Plaintiff A. Blackman seeks to compel further responses from Defendant El Pollo Loco, Inc. and W.K.S. Restaurant Group to her Request for Production of Documents, Set One, No. 21. The request seeks all pages of all insurance policies that may provide coverage for any claim alleged in this lawsuit. The court finds that the request is not overbroad and that insurance policy information is directly relevant and discoverable. The court denies the motion as the defendant's supplemental response is sufficient. The court also notes that the defendant's objections are boilerplate objections with no application to the request at issue."

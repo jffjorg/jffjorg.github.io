@@ -1,0 +1,59 @@
+Here is the summary in YAML format:
+```
+case_number: 19STCV46741
+plaintiffs_name: Randy Butler
+defendants_name: Sophia Dery
+people_names:
+  - Avia Butler
+  - Claimant (refers to Avia Butler)
+company_names: []
+places:
+  - California (assuming the court is located in California)
+dates:
+  - April 9, 2024 (hearing date)
+  - ... (OS Re Proof of Deposit date, but this is not specified)
+events:
+  - Petition to approve compromise of pending action of a minor
+  - Settlement agreement reached
+  - Court review and approval of settlement
+  - Granting of petition
+  - Setting of OSC Re Proof of Deposit
+money:
+  - $16,518.88 (settlement amount)
+  - $2,500 (medical expenses)
+  - $4,129.72 (attorneys' fees)
+  - $9,889.16 (net balance)
+intention:
+  - To approve the settlement and attorneys' fees
+  - To ensure fair and reasonable compensation for the claimant
+facts:
+  - Claimant (Avia Butler) agreed to settle her claims
+  - Settlement amount of $16,518.88
+  - Allocation of settlement amount: $2,500 (medical), $4,129.72 (attorneys' fees), and $9,889.16 (net balance)
+disputes:
+  - None mentioned in the document
+acts:
+  - Claimant agreed to settle
+  - Settlement amount was determined
+  - Court reviewed and approved the settlement
+  - Attorneys' fees were approved
+agreements:
+  - Settlement agreement between claimant and defendants
+  - Allocation of settlement amount
+laws:
+  - California laws and court procedures (assumed, but not explicitly stated)
+citations:
+  - No specific case citations mentioned
+statutes: []
+roles:
+  - Claimant: Avia Butler
+  - Guardian ad litem (role not specified, but assumed to be a representative of the claimant)
+  - Counsel (attorneys) for the claimant and defendants
+  - Judge (author of the tentative ruling)
+significant_statements:
+  - The settlement is fair and reasonable
+  - Attorneys' fees are fair and reasonable (amounting to 25% of the settlement)
+```
+And here is the English text to summarize the judge's tentative ruling:
+
+The court has reviewed the petition to approve the compromise of pending action of a minor, Avia Butler, and finds the settlement agreement fair and reasonable. The settlement amount of $16,518.88 will be allocated as follows: $2,500 for medical expenses, $4,129.72 for attorneys' fees, and $9,889.16 will be deposited into a blocked account. The court grants the petition and sets an OSC Re Proof of Deposit for a later date.

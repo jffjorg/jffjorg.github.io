@@ -1,0 +1,50 @@
+Here is the summary in YAML format:
+
+```
+case_number: "Unknown"
+plaintiff_name: "Unknown"
+defendant_name: "Unknown"
+people_names:
+  - "Unknown"
+company_names:
+  - "Unknown"
+places:
+  - "Utah"
+dates:
+  - "December 6, 2023"
+events:
+  - "Ruling on Plaintiffs' MSJ"
+  - "December 6, 2023 Ruling on Submitted Matter (MSJ)"
+  - "Breach of Duty"
+money: "Unknown"
+intentions:
+  - "Application of Utah law"
+facts:
+  - "Four Utah LLCs governed by identical operating agreements"
+  - "Utah law applies to dispute"
+  - "Scope of duty duplicated citation of applicable law"
+disputes:
+  - "Breach of duty"
+acts:
+  - "Ruling on Plaintiffs' MSJ"
+  - "December 6, 2023 Ruling on Submitted Matter-MSJ"
+agreements:
+  - "Identical operating agreements"
+laws:
+  - "Utah law"
+  - "Applicable law governing duty"
+  - "Applicable law governing scope of duty"
+case_citations:
+  - "December 6, 2023 Ruling on Plaintiffs' MSJ"
+  - "December 6, 2023 Ruling on Submitted Matter-MSJ"
+statutes: "Unknown"
+roles:
+  - "Judge"
+significant_statements:
+  - "The Court found that all four of the Utah LLCs were governed by identical operating agreements"
+  - "The Court found that Utah law applied to this dispute"
+```
+
+And here is the English-text summary:
+
+The Judge's tentative ruling is based on the information presented in court prior to today. The Court found that all four Utah LLCs were governed by identical operating agreements and that Utah law applies to this dispute. The Judge also cited applicable law governing duty and scope of duty, which duplicates the citation of applicable law in the previous ruling on Plaintiffs' MSJ. The Judge's ruling is based on the December 6, 2023 Ruling on Plaintiffs' MSJ and December 6, 2023 Ruling on Submitted Matter-MSJ.

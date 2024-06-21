@@ -1,0 +1,69 @@
+Here is the summary in YAML format:
+
+```
+case_number: 20STCV15518
+plaintiff_name: Brad Bello
+defendant_name: Francisco Jose Maisch
+people_names:
+  - Brad Bello
+  - Francisco Jose Maisch
+company_names: []
+places:
+  - California
+dates:
+  - April 25, 2018
+  - April 23, 2020
+  - November 19, 2021
+  - April 28, 2023
+  - May 12, 2023
+  - February 22, 2024
+  - April 9, 2024
+events:
+  - Automobile accident
+  - Filing of complaint
+  - Filing of answer
+  - Request for admission
+  - Failure to respond
+  - Filing of motion for deemed admitted order
+money:
+  - Monetary sanctions
+  - Reasonable expenses
+  - Attorney's fees
+intentions:
+  - To deem admitted the truth of the matters specified in the requests for admission
+facts:
+  - Plaintiff failed to respond to requests for admission
+  - Defendant served requests for admission on May 12, 2023
+  - Plaintiff did not serve responses
+disputes:
+  - Failure to respond to requests for admission
+  - Deeming admitted the truth of the matters specified in the requests for admission
+acts:
+  - Served requests for admission
+  - Failed to respond to requests for admission
+  - Filed motion for deemed admitted order
+agreements:
+  - Code of Civil Procedure section 2033.250
+  - Code of Civil Procedure section 2033.280
+  - Code of Civil Procedure section 2023.010
+  - Code of Civil Procedure section 2023.030
+laws:
+  - Code of Civil Procedure
+  - California Rules of Court
+  - Sinaiko Healthcare Consulting, Inc. v. Pacific Healthcare Consultants
+  - St. Mary v. Super. Ct.
+case_citations:
+  - Code Civ. Proc., § 2033.250
+  - Code Civ. Proc., § 2033.280
+  - Code Civ. Proc., § 2023.010
+  - Code Civ. Proc., § 2023.030
+  - Cal. Rules of Court, rule 3.1345(b)(1)
+roles:
+  - Judge
+  - Plaintiff
+  - Defendant
+  - Attorney
+  - Party
+significant_statements:
+  - Failure to respond to requests for admission may result in deemed admission
+  - Monetary sanctions may be imposed for misuse of the discovery process

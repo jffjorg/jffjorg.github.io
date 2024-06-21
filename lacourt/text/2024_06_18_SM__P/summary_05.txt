@@ -1,0 +1,55 @@
+Here is the summary in YAML format:
+
+```
+case_number: 23SMUD01577
+plaintiff: Johnson
+defendant: Essex Property Trust, Inc., et al.
+people_names:
+  - Johnson
+  - Tatyana Hopkins
+  - Shontel Johnson
+company_names:
+  - Essex Management Corporation
+  - Property Trust, Inc.
+places:
+  - District of Columbia
+dates:
+  - June 18, 2024
+events:
+  - Motion for Counsel to Appear Pro Hac Vice
+  - Unopposed motion
+money:
+  - $50 (fee paid to the State Bar)
+intentions:
+  - To allow Tatyana Hopkins to appear pro hac vice for Shontel Johnson
+facts:
+  - Shontel Johnson is plaintiff in Case No. 21STCV01974 and defendant in Case No. 23SMUD01577
+  - Both cases involve Essex Management Corporation
+disputes:
+  - None mentioned in this document
+acts:
+  - Verified application submitted by Tatyana Hopkins
+  - Fee paid to the State Bar
+agreements:
+  - Cal. Rule of Court 9.40(d)
+laws:
+  - California Rules of Court
+case_citations:
+  - Cal. Rule of Court 9.40(d)
+  - Case No. 21STCV01974
+  - Case No. 23SMUD01577
+statutes:
+  - None mentioned in this document
+roles:
+  - Judge
+  - Tatyana Hopkins (attorney)
+  - Shontel Johnson (party)
+  - Essex Management Corporation (party)
+significant_statements:
+  - The motion is unopposed.
+  - The fee was paid to the State Bar.
+```
+
+And here is the English text to summarize the judge's tentative ruling:
+
+"The court grants the unopposed motion of attorney Tatyana Hopkins to appear pro hac vice for Shontel Johnson in two related cases. The motion includes all required statements under Cal. Rule of Court 9.40(d) and the $50 fee has been paid to the State Bar. The cases involve Essex Management Corporation, and Shontel Johnson is a plaintiff in one case and a defendant in the other. The motion is granted, allowing Tatyana Hopkins to appear pro hac vice for Shontel Johnson in the two cases."

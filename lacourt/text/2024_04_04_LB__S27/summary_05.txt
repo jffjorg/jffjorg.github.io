@@ -1,0 +1,65 @@
+Here is the summary in YAML format:
+
+```
+Case:
+  Number: 22STCV07659
+  Hearing Date: 2024-04-04
+  Department: S27
+
+People:
+  - Aligda Cortez
+  - Adam Dolce
+
+Companies: []
+
+Places: []
+Dates:
+  - 2024-03-04 (filing date)
+  - 2024-04-04 (hearing date)
+
+Events:
+  - Filing of motions to be relieved as counsel
+  - Notice of motion
+  - Declaration
+  - Proposed order
+  - Proof of service
+
+Money: []
+
+Intentions:
+  - To be relieved as counsel
+
+Facts:
+  - Incomplete and unsigned declarations
+  - Blank proof of service documents
+  - Failure to provide required information
+
+Disputes:
+  - Incomplete and unsigned declarations
+  - Blank proof of service documents
+
+Acts:
+  - Filing of motions
+  - Failure to provide required information
+
+Agreements: []
+
+Laws: []
+
+Case Citations: []
+
+Statutes: []
+
+Roles:
+  - Counsel: Adam Dolce
+  - Client: Aligda Cortez
+
+Significant Statements:
+  - "Because the declarations and proofs of service are incomplete and unsigned, the motions are denied."
+  - "Counsel is ordered to give notice."
+  - "Parties who intend to submit on this tentative must send an email to the court..."
+```
+
+And here is a summary of the judge's tentative ruling in English text:
+
+The court has denied the motions to be relieved as counsel filed by Adam Dolce on behalf of Aligda Cortez and others. The motions include incomplete and unsigned declarations, as well as blank proof of service documents. The declarations lack required information, including upcoming hearing and trial dates, and are unsigned. The court finds that the motions are incomplete and therefore denied. The court orders counsel to give notice. The parties who intend to submit on the tentative must send an email to the court indicating their intention to submit. If the party does not submit on the tentative, they should make arrangements to appear remotely at the hearing.

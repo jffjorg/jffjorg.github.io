@@ -1,0 +1,81 @@
+Here is the summary in YAML format:
+
+```
+case_number: 23VECV04719
+plaintiff: Robert Allen, as Trustee of the 1989 Allen Family Revocable Trust
+defendant: TayMLis Foods, Inc.
+
+people:
+  - Robert Allen
+  - TayMLis Foods, Inc.
+
+companies:
+  - TayMLis Foods, Inc.
+
+places:
+  - California
+
+dates:
+  - October 24, 2023
+  - October 16, 2023
+  - December 26, 2023
+  - January 3, 2024
+  - April 4, 2024
+
+events:
+  - Unlawful detainer
+  - Service of notice
+  - Trial
+  - Case Management Conference
+
+money:
+  - $40,475.00
+
+intentions:
+  - Set aside judgment
+  - Quash writ of possession/execution
+
+facts:
+  - Defendant was served with notice of trial
+  - Defendant did not receive notification of trial from court
+  - Defendant appeared for Case Management Conference
+
+disputes:
+  - Dispute over notice of trial
+
+acts:
+  - Service of notice
+  - Trial
+  - Case Management Conference
+
+agreements:
+  - None
+
+laws:
+  - Code of Civil Procedure section 594
+  - California Civil Procedure section 594(a)
+  - California Civil Procedure section 594(b)
+
+case_citations:
+  - Urethane Foam Experts, Inc. v. Latimer (1995) 31 Cal.App.4th 763, 767
+  - Heidary v. Yadollahi (2002) 99 Cal.App.4th 857, 862
+
+statutes:
+  - Code of Civil Procedure section 594
+  - California Civil Procedure section 594(a)
+  - California Civil Procedure section 594(b)
+
+roles:
+  - Judge
+  - Plaintiff
+  - Defendant
+
+significant_statements:
+  - Defendant's motion to set aside judgment is denied
+  - Defendant did not receive notification of trial from court
+  - Judge finds defendant received proper notice of trial
+```
+
+And here is a brief summary in English text:
+
+The Judge's tentative ruling denies the defendant's motion to set aside the judgment and quash the writ of possession/execution. The defendant, TayMLis Foods, Inc., argues that they did not receive notice of the trial, which was held on December 26, 2023. However, the Judge finds that the defendant received proper notice of the trial on December 5, 2023, and that the defendant did not present any evidence of surprise, mistake, excusable neglect or inadvertence, or lack of actual notice. Therefore, the motion is denied.

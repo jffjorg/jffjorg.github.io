@@ -1,0 +1,77 @@
+Here is the YAML summary of the tentative ruling:
+
+```
+caseNumber: 23PSCV02265
+hearingDate: April 11, 2024
+dept: G
+plaintiff:
+  name: Maersk Agency USA, Inc.
+  role: Claimant
+defendant:
+  name: Marck Anthony Gomez
+  role: Defendant
+people:
+  - Marck Anthony Gomez
+  - Maersk Agency USA, Inc.
+companyNames:
+  - Maersk Agency USA, Inc.
+places:
+  - West Covina
+  - Pomona
+dates:
+  - July 26, 2023
+  - September 1, 2023
+  - April 2, 2024
+  - April 11, 2024
+events:
+  - Complaint filed
+  - Default entered
+  - Application for default judgment filed
+  - OSC Re: Default Judgment set
+money:
+  - $29,730 (outstanding balance)
+  - $34,299.14 (total amount sought in default judgment)
+  - $2,736.79 (interest)
+  - $1,281.90 (attorney fees)
+  - $550.45 (costs)
+intentions:
+  - Seek default judgment against Gomez
+facts:
+  - Maersk and Gomez entered into a Uniform Interchange and Facilities Access Agreement (UIFAA)
+  - Gomez owes an outstanding balance to Maersk
+  - Maersk filed a complaint against Gomez and others
+  - Default was entered against Gomez
+  - Maersk submitted an application for default judgment
+disputes:
+  - Breach of contract
+  - Open book account
+  - Account stated
+  - Unjust enrichment
+acts:
+  - Maersk filed a complaint
+  - Gomez was served with the complaint
+  - Default was entered against Gomez
+  - Maersk submitted an application for default judgment
+agreements:
+  - Uniform Interchange and Facilities Access Agreement (UIFAA)
+laws:
+  - Code of Civil Procedure section 585
+  - Cal. Rules of Court 3.1800
+caseCitations:
+  - CCP § 579
+  - CCP § 585
+statutes:
+  - Code of Civil Procedure
+roles:
+  - Judge
+  - Plaintiff (Maersk Agency USA, Inc.)
+  - Defendant (Marck Anthony Gomez)
+  - Counsel (Maersk's counsel)
+significantStatements:
+  - The court finds Maersk has submitted sufficient evidence to establish grounds for the entry of default judgment.
+  - The court notes Maersk's declaration of nonmilitary status in the CIV-100 application is deficient.
+```
+
+And here is the English text to summarize the judge's tentative ruling:
+
+The court has continued the hearing on Maersk's application for default judgment against Marck Anthony Gomez. Maersk seeks default judgment against Gomez in the total amount of $34,299.14, including $29,730 in damages, $2,736.79 in interest, $1,281.90 in attorney fees, and $550.45 in costs. The court finds that Maersk has submitted sufficient evidence to establish grounds for the entry of default judgment, but notes that Maersk's declaration of nonmilitary status in the CIV-100 application is deficient. The court has directed Maersk to file an updated CIV-100 form that corrects this deficiency.

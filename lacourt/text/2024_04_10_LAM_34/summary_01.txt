@@ -1,0 +1,70 @@
+Here is the summary in YAML format:
+
+```
+case_number: 23STCV15657
+plaintiff_name: Anita Jo Nave
+defendant_name: Matthew Lane Bremont and Sweet James, LLP
+people_names:
+  - Anita Jo Nave
+  - Matthew Lane Bremont
+  - Andy Servais
+companies:
+  - Sweet James, LLP
+  - Sweet James LLC
+places:
+  - California
+dates:
+  - July 6, 2023
+  - March 1, 2024
+  - April 10, 2024
+events:
+  - Demurrer to Complaint
+  - Filing of Notice of Lien
+  - Filing of Demurrer to Complaint
+money:
+  - None
+intentions:
+  - To determine the sufficiency of the Plaintiff's Complaint
+facts:
+  - Plaintiff alleges ineffective assistance of counsel and failure to contact Plaintiff
+  - Plaintiff alleges "unethical disposition" and "abuse of power"
+  - Plaintiff is a 65-year-old person with multiple disabilities
+disputes:
+  - Whether the Complaint states a cause of action for legal malpractice
+  - Whether the Complaint is uncertain and unclear
+acts:
+  - Filing of Demurrer to Complaint
+  - Filing of Memorandum of Points and Authorities
+  - Filing of Declaration of Andy Servais
+agreements:
+  - None
+laws:
+  - California Code of Civil Procedure § 430.10
+  - California Code of Civil Procedure § 430.30
+  - California Code of Civil Procedure § 430.50
+  - Coscia v. McKenna & Cuneo (2001)
+  - Neel v. Magana, Olney, Levy, Cathcart & Gelfand (1971)
+  - Slovensky v. Friedman (2006)
+  - Blank v. Kirwan (1985)
+  - Code Civ. Proc., § 430.10, subd. (e)–(f)
+  - Code Civ. Proc., § 430.10, subd. (e)
+  - Code Civ. Proc., § 430.50, subd. (a)
+case_citations:
+  - Coscia v. McKenna & Cuneo (2001)
+  - Neel v. Magana, Olney, Levy, Cathcart & Gelfand (1971)
+  - Slovensky v. Friedman (2006)
+  - Blank v. Kirwan (1985)
+roles:
+  - Judge
+  - Plaintiff
+  - Defendant
+  - Attorney
+  - Court
+significant_statements:
+  - The Demurrer to the Complaint is SUSTAINED.
+  - Plaintiff is granted 30 days leave to amend her Complaint.
+```
+
+And here is the English text summary of the Judge's tentative ruling:
+
+The judge has ruled in favor of the Defendants' demurrer to the Plaintiff's complaint, finding that the complaint does not state a cause of action for legal malpractice. The Plaintiff alleged that the Defendant's attorney failed to contact her and provided ineffective assistance of counsel, but the judge found that the complaint is uncertain and unclear. The judge granted the Plaintiff 30 days to amend the complaint to clarify the allegations and provide sufficient evidence of causation.

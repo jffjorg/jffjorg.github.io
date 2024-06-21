@@ -1,0 +1,61 @@
+Here is the summary in YAML format:
+
+```
+case_number: "Some Case Number"
+plaintiff_name: "Boris Adjamian"
+defendant_names:
+  - Tamara Rosenthal
+  - STJ, LP
+  - Magnifique Congregate Living Inc.
+people_names:
+  - Boris Adjamian
+  - Tamara Rosenthal
+company_names:
+  - STJ, LP
+  - Magnifique Congregate Living Inc.
+places:
+  - None relevant to this case
+dates:
+  - "Today" (presumably the date of the tentative ruling)
+events:
+  - Plaintiff seeks to compel initial responses to discovery requests
+  - Plaintiff seeks to compel initial responses to special interrogatories
+  - Defendants file declaration stating responses have been served
+  - Court awards reduced sanctions in the amount of $1,000
+money: $1,000
+intentions:
+  - Plaintiff wants to compel responses to discovery requests
+  - Plaintiff wants to compel responses to special interrogatories
+  - Court wants to resolve dispute and move forward with case
+facts:
+  - Plaintiff filed motions to compel initial responses to discovery requests
+  - Plaintiff filed motions to compel initial responses to special interrogatories
+  - Defendants filed declaration stating responses have been served
+disputes:
+  - Dispute over whether responses have been served
+  - Dispute over whether sanctions are necessary
+acts:
+  - Plaintiff files motions to compel initial responses
+  - Defendants file declaration stating responses have been served
+  - Court awards reduced sanctions
+agreements:
+  - None relevant to this case
+laws:
+  - Relevant laws not specified in this document
+citations:
+  - None relevant to this case
+statutes:
+  - None relevant to this case
+roles:
+  - Plaintiff: Boris Adjamian
+  - Defendant: Tamara Rosenthal
+  - Defendant: STJ, LP
+  - Defendant: Magnifique Congregate Living Inc.
+  - Judge: [Insert Judge's Name]
+significant_statements:
+  - Court awards reduced sanctions in the amount of $1,000
+```
+
+Here is a summary of the judge's tentative ruling in English text:
+
+The judge has issued a tentative ruling in the case of Boris Adjamian v. Tamara Rosenthal, STJ, LP, and Magnifique Congregate Living Inc. Plaintiff Adjamian sought to compel initial responses to his discovery requests and special interrogatories. However, defendants have now filed a declaration stating that responses have been served. The court finds that the motions to compel are therefore denied as moot. Additionally, the court awards reduced sanctions in the amount of $1,000. The court encourages counsel to use LACourtConnect rather than appearing in person due to the COVID-19 pandemic.

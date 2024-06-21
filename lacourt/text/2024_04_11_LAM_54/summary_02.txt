@@ -1,0 +1,73 @@
+Here is the summary in YAML format:
+
+```
+case_number: 23STCV13330
+plaintiff: Laura Spensley
+defendants:
+  - Yaniv Ben Ami
+  - Yaniv Ben Ami Living Trust
+  - Keren Shabat
+  - EG Renovation, Inc.
+people:
+  - Laura Spensley
+  - Yaniv Ben Ami
+  - Keren Shabat
+companies:
+  - EG Renovation, Inc.
+places:
+  - Los Angeles
+dates:
+  - June 9, 2023
+  - December 4, 2023
+  - December 15, 2023
+  - February 2, 2024
+  - April 11, 2024
+events:
+  - Breach of oral contract
+  - Fraud in the inducement
+  - Breach of the covenant of good faith and fair dealing
+  - Unjust enrichment
+  - Conversion
+  - Quiet title
+  - Declaratory relief
+  - Constructive trust
+  - Punitive damages
+  - Construction defects
+money:
+  - Overcharged
+intentions:
+  - To set aside default
+  - To demur to the complaint
+facts:
+  - Defendant's signature on notice of acknowledgment was not dated
+  - Defendant's were told to re-sign the notice of acknowledgment
+disputes:
+  - Whether the default should be set aside
+  - Whether the complaint fails to state sufficient facts
+acts:
+  - Motion to set aside default
+  - Demurrer to the complaint
+agreements:
+  - None
+laws:
+  - CCP § 473(b)
+  - CCP § 430.50(a)
+  - Picton v. Anderson Union High Sch. Dist. (1996)
+statutes:
+  - CCP § 473(b)
+  - CCP § 430.50(a)
+roles:
+  - Judge Maurice A. Leiter
+  - Laura Spensley (plaintiff)
+  - Yaniv Ben Ami (defendant)
+  - Keren Shabat (defendant)
+  - EG Renovation, Inc. (defendant)
+  - Yaniv Ben Ami Living Trust (defendant)
+significant statements:
+  - The Court will set aside default.
+  - The Court disagrees with Defendants' assertion that Plaintiff's allegations are vague.
+```
+
+And here is the English-text summary:
+
+The tentative ruling addresses the motion to set aside default and the demurrer to the complaint. The Court grants the motion to set aside default, finding that the defendants' signatures on the notice of acknowledgment were not dated, and they were told to re-sign the notice on February 2, 2024, which is an adequate showing of excusable mistake. The Court also overrules the demurrer to the complaint, finding that the plaintiff has alleged ultimate facts and provided sufficient detail of the defendants' alleged wrongdoing.

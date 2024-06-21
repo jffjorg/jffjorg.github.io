@@ -1,0 +1,63 @@
+Here is the summary in YAML format:
+
+```
+case_number: 23NWCV03414
+hearing_date: 2024-06-18
+dept: C
+parties:
+  - plaintiff: Orlando Beasley
+  - defendant: CR&R Incorporated
+  people_names:
+    - Orlando Beasley
+    - CR&R Incorporated
+  company_names:
+    - CR&R Incorporated
+  places:
+    - Orlando
+  dates:
+    - 2023-10-25
+    - 2023-12-07
+    - 2024-01-04
+    - 2024-01-22
+    - 2024-04-17
+    - 2024-06-11
+    - 2024-06-18
+  events:
+    - Personal injury lawsuit filed
+    - Discovery requests served
+    - Extension for responses granted
+    - Responses served
+    - Motion to compel filed
+    - Sanctions imposed
+  money:
+    - $2,000.00
+    - $2,435.00
+  intentions:
+    - Plaintiff: Seek damages for personal injury
+    - Defendant: Compel further discovery responses
+  facts:
+    - Plaintiff was struck by a negligent motorist
+    - Defendant served discovery requests
+    - Plaintiff failed to respond timely
+  disputes:
+    - Failure to provide timely discovery responses
+  acts:
+    - Defendant filed a motion to compel
+    - Plaintiff served further discovery responses
+  agreements:
+    - Parties agreed to a 30-day extension
+    - Parties agreed to a joint statement
+  laws:
+    - CCP §2031.310(h)
+  case_citations:
+    - CCP §2031.310(h)
+  roles:
+    - Judge: Ruling on motions and imposing sanctions
+  significant_statements:
+    - Defendant's motion to compel is moot
+    - Sanctions imposed against Plaintiff in the amount of $2,000.00
+```
+
+And here is the summary in English text:
+
+The Judge issues a tentative ruling on the motions before the Court. The Defendant's motion to compel further discovery responses is moot, as the parties have resolved the substantive deficiencies in the Plaintiff's responses. The Judge imposes sanctions against the Plaintiff in the amount of $2,000.00 payable within 90 days. The Plaintiff failed to provide timely discovery responses, and the Judge considers the Defendant's efforts to meet and confer before filing the motion, as well as the Plaintiff's counsel's representation that the failure to provide timely discovery responses was caused by client communication problems.

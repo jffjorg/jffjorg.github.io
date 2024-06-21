@@ -1,0 +1,53 @@
+Here is the summary in YAML format:
+
+```
+case_number: 23VECV03364
+plaintiff: CAN Capital, Inc.
+defendant: Beverly Hills Glass, Inc., et al.
+people_names:
+  - Eric Harmon (Judge)
+company_names:
+  - CAN Capital, Inc.
+  - Beverly Hills Glass, Inc.
+  - WebBank
+places:
+  - Los Angeles
+  - California
+dates:
+  - April 3, 2024
+events:
+  - Default judgment hearing
+  - Service of process
+  - Business Loan Agreement
+  - Precedence in interest
+money:
+  - None mentioned
+intentions:
+  - Grant or deny default judgment
+facts:
+  - Substituted service at incorrect address
+  - Lack of summary of case
+  - Lack of exhibits proving right to enforce Business Loan Agreement
+disputes:
+  - Validity of substituted service
+  - Plaintiff's right to enforce Business Loan Agreement
+acts:
+  - Filing of complaint
+  - Filing of O'Connell Declaration
+agreements:
+  - Business Loan Agreement
+laws:
+  - California law
+case_citations: []
+statutes: []
+roles:
+  - Plaintiff (CAN Capital, Inc.)
+  - Defendant (Beverly Hills Glass, Inc., et al.)
+  - Judge (Eric Harmon)
+significant_statements:
+  - Tentative ruling to deny default judgment
+```
+
+And here is the English text to summarize the judge's tentative ruling:
+
+The judge has issued a tentative ruling to deny the plaintiff's request for a default judgment. The ruling is based on the fact that the defendants were served through substituted service at an address that is not their registered address or the address for notice under the Business Loan Agreement. The plaintiff failed to provide a summary of the case and did not attach any exhibits to prove its right to enforce the agreement. The judge also notes that the complaint and O'Connell Declaration do not provide sufficient evidence to support the plaintiff's claims.

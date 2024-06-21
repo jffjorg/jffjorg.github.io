@@ -1,0 +1,54 @@
+Here is a summary of the tentative ruling in YAML format:
+
+```
+---
+case_number: 21STCV26628
+hearing_date: April 11, 2024
+department: 45
+superior_court: California County of Los Angeles
+
+parties:
+  - plaintiff: Stanley Orwasher
+  - defendant: Philip Michels, Jinheung N. Lew, Cedars-Sinai Medical Center
+
+events:
+  - motion for summary judgment filed by defendant
+  - opposition filed by plaintiff
+  - reply filed by defendant
+
+facts:
+  - Mrs. Orwasher died on August 5, 2023
+  - The case was settled for $2,100,000
+  - Michels & Lew represented the Orwashers in the underlying action
+  - The Orwashers claimed that Michels & Lew breached their fiduciary duty, committed fraud, and breached the implied covenant of good faith and fair dealing
+
+intentions:
+  - Michels & Lew's intention was to represent the Orwashers to the best of their abilities
+  - The Orwashers intended to recover more than $2,100,000
+
+disputes:
+  - Whether Michels & Lew breached their fiduciary duty to the Orwashers
+  - Whether Michels & Lew committed fraud against the Orwashers
+  - Whether Michels & Lew breached the implied covenant of good faith and fair dealing
+
+laws:
+  - California Code of Civil Procedure § 437c
+  - California Code of Civil Procedure § 452
+  - California Code of Civil Procedure § 453
+  - California Civil Code § 3294
+
+citations:
+  - Aguilar v. Atlantic Richfield Co. (2001) 25 Cal.4th 826
+  - Adler v. Manor Healthcare Corp. (1992) 7 Cal.App.4th 1110
+  - Juge v. County of Sacramento (1993) 12 Cal.App.4th 59
+  - Namikas v. Miller (2014) 225 Cal.App.4th 1574
+  - O'Neal v. Stanislaus County Employees' Retirement Assn. (2017) 8 Cal.App.5th 1184
+  - Beckwith v. Dahl (2012) 205 Cal.App.4th 1039
+  - Thrifty Payless, Inc. v. The Americana at Brand, LLC (2013) 218 Cal.App.4th 1230
+  - Smith v. Superior Court (1992) 10 Cal.App.4th 1033
+  - Shade Foods, Inc. v. Innovative Products Sales & Marketing, Inc. (2000) 78 Cal.App.4th 847
+  - Dawes v. Superior Court (1980) 111 Cal.App.3d 82
+  - College Hospital Inc. v. Superior Court (1994) 8 Cal.4th 704
+```
+
+The tentative ruling denies the motion for summary judgment on all causes of action. The court finds that there is evidence to support the Orwashers' position that they could have obtained a more favorable judgment or settlement in the underlying action. The court also finds that Michels & Lew did not meet their burden of showing that they did not breach their fiduciary duty, commit fraud, or breach the implied covenant of good faith and fair dealing.

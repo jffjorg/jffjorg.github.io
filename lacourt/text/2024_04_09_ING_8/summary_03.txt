@@ -1,0 +1,84 @@
+Here is the YAML summary of the tentative ruling:
+
+```
+case_number: 22TRCV01380
+hearing_date: 2024-04-09
+dept: 8
+case_name: Dyniesha Curtis; Corey Lee v. Kai T. Tsukiyama, et al.
+attorney_name: Manuel E Gonzalez
+
+people:
+  - Corey Lee
+  - Dyniesha Curtis
+  - Kai T. Tsukiyama
+  - Junko T. Tsukiyama
+  - Arnold L. Graff
+
+companies:
+  - Wright, Finlay, & Zak, LLP
+  - Mirai Trust
+
+places:
+  - California
+
+dates:
+  - 2022-12-02
+  - 2024-03-08
+  - 2024-04-09
+
+events:
+  - Breach of Implied Covenant of Quiet Use and Enjoyment
+  - Negligent Violation of Statutory Duty
+  - Intentional Violation of Statutory Duty
+  - Retaliation/Constructive Eviction
+  - Negligent Breach of the Implied Warranty of Habitability
+  - Intentional Breach of Implied Warranty of Habitability
+  - Nuisance (Negligent)
+  - Nuisance (Intentional)
+  - Negligence
+  - Intentional Infliction of Emotional Distress
+
+money: None
+
+intentions:
+  - To grant or deny the motion to be relieved as counsel
+
+facts:
+  - Plaintiffs filed a complaint on 2022-12-02
+  - Plaintiffs' attorney filed a motion to be relieved as counsel on 2024-03-08
+
+disputes:
+  - Whether the attorney complied with Rule 3.1362
+
+acts:
+  - Failed to include the MC-052 form in the motion
+
+agreements:
+  - None
+
+laws:
+  - California Code of Civil Procedure § 284
+  - California Rules of Court 3.1362
+  - Mandell v. Superior (1977)
+  - Lempert v. Superior Court (2003)
+
+case_citations:
+  - Mandell v. Superior (1977)
+  - Lempert v. Superior Court (2003)
+
+statutes:
+  - California Code of Civil Procedure § 284
+  - California Rules of Court 3.1362
+
+roles:
+  - Judge
+  - Attorney (Manuel E Gonzalez)
+  - Plaintiffs (Corey Lee and Dyniesha Curtis)
+
+significant_statements:
+  - The motion is denied without prejudice to it being re-filed with the proper supporting documentation.
+```
+
+And here is the English text summarizing the Judge's tentative ruling:
+
+The tentative ruling denies the motion to be relieved as counsel filed by Manuel E. Gonzalez, attorney for the Plaintiffs, without prejudice to it being re-filed with the proper supporting documentation. The motion was denied because the attorney failed to comply with California Rules of Court 3.1362 by not including the required forms, specifically the MC-052 form, which states the reasons for bringing the motion. The court's discretion in granting or denying the motion is reasonable and exercised reasonably.

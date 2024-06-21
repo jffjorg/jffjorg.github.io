@@ -1,0 +1,69 @@
+Here is the summary in YAML format:
+
+```
+case_number: "not specified"
+plaintiff:
+  name: "Video Symphony, LLC"
+  type: "Company"
+  role: "Plaintiff"
+defendant:
+  name: "Richard Sandoval and Dolores Sandoval"
+  type: "Individuals"
+  role: "Defendants"
+people:
+  - "Richard Sandoval"
+  - "Dolores Sandoval"
+  - "Plaintiff's counsel"
+company:
+  - "Video Symphony, LLC"
+places:
+  - "California"
+dates:
+  - "July 19, 2019"
+  - "May 16, 2024"
+  - "May 22, 2024"
+  - "June 13, 2024"
+events:
+  - "Breach of promissory notes"
+  - "Trial"
+  - "Judgment"
+  - "Motion for attorney fees"
+money:
+  - "$8,246.91" (judgment amount)
+  - "$15,681.50" (attorney fees)
+intention:
+  - "To recover attorney fees"
+facts:
+  - "Plaintiff filed for breach of promissory notes"
+  - "Defendants breached the promissory notes"
+disputes:
+  - "Breach of contract"
+  - "Attorney fees"
+acts:
+  - "Filing of the complaint"
+  - "Service of process"
+  - "Trial"
+  - "Motion for attorney fees"
+agreements:
+  - "Promissory notes"
+laws:
+  - "California Civil Code § 1717(a)"
+  - "California Code of Civil Procedure §§ 12c, 1005(b)"
+  - "California Code of Civil Procedure § 1021"
+case_citations:
+  - "Civ. Code § 1717(a)"
+  - "CCP §§ 12c, 1005(b)"
+  - "CCP § 1021"
+roles:
+  - "Judge"
+  - "Plaintiff's counsel"
+  - "Defendants"
+significant_statements:
+  - "Plaintiff is the prevailing party"
+  - "Plaintiff is entitled to attorney fees"
+  - "The Court grants the motion for attorney fees"
+```
+
+And here is a summary of the judge's tentative ruling in English text:
+
+The Court has reviewed the motion for attorney fees filed by Plaintiff Video Symphony, LLC. The motion is unopposed. The Court finds that Plaintiff is the prevailing party, having been awarded judgment against the Defendants for breach of promissory notes. The Court grants the motion for attorney fees in the amount of $15,681.50. The Court finds the hourly rate and time spent on the matter by Plaintiff's counsel to be reasonable. The Court orders Plaintiff's counsel to electronically submit a proposed form of order within 10 days and to give notice of the Court's ruling.

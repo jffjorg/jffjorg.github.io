@@ -1,0 +1,39 @@
+Here is the YAML summary of the tentative ruling:
+
+```yaml
+case_number: 21STCV29817
+hearing_date: 2024-04-10
+department: 32
+parties:
+  - plaintiff: Henry Leslie and Tamarra Williams
+  - defendant: Western Freight Carrier, Inc. and Estate of Gerardo Rendon Venegas
+motions:
+  - motion: Compel Deposition of Western Freight Carrier, Inc.
+    status: Denied as Moot
+  - motion: Continue Trial
+    status: Denied
+intents:
+  - intent: Compel deposition to ensure discovery and obtain evidence
+  - intent: Continue trial and all related dates to accommodate defendant's summary judgment motion
+facts:
+  - Plaintiffs filed a complaint on August 12, 2021
+  - Defendants answered on October 25, 2021
+  - Trial was originally set for February 9, 2023
+  - Trial was continued multiple times due to stipulation and ex parte applications
+laws:
+  - California Rules of Court, rule 3.1332
+  - Code of Civil Procedure section 2025.010
+  - Code of Civil Procedure section 2025.220
+  - Code of Civil Procedure section 2025.280
+  - Code of Civil Procedure section 2025.410
+  - Code of Civil Procedure section 2025.450
+  - Code of Civil Procedure section 664.6
+citations:
+  - "In re Marriage of Falcone & Fyke" (2008) 164 Cal.App.4th 814
+  - "Pham v. Nguyen" (1997) 54 Cal.App.4th 11
+roles:
+  - Judge: [Name of Judge]
+  - Plaintiff: Henry Leslie and Tamarra Williams
+  - Defendant: Western Freight Carrier, Inc. and Estate of Gerardo Rendon Venegas
+significant_statements:
+  - "Continuances are granted only on an affirmative showing of good cause requiring a continuance." (In re Marriage of Falcone & Fyke)

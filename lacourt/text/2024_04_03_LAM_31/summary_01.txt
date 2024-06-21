@@ -1,0 +1,74 @@
+Here is the summary in YAML format:
+
+```
+case_number: 22STCV31358
+plaintiff: Fermin Garcia
+defendant: Quik Tow LLC and Ignacio Gonzalez
+people_names:
+  - Fermin Garcia
+  - Ignacio Gonzalez
+  - Rocio Rivera
+  - Carlos Delgado
+  - Julio Martinez
+  - Francisco Torres
+company_names:
+  - Quik Tow LLC
+places:
+  - Los Angeles, California
+dates:
+  - September 26, 2022
+  - March 5, 2024
+  - April 3, 2024
+  - January 6, 2025
+events:
+  - Wage and hour violations
+  - Discovery motions
+  - Request for sanctions
+  - Request for production of documents
+money:
+  - $1,860 (monetary sanctions)
+  - $210 (filing fees)
+intentions:
+  - To compel further responses to discovery requests
+  - To request sanctions against Quik Tow and its counsel
+facts:
+  - Quik Tow responded incompletely to discovery requests
+  - Quik Tow failed to comply with Code of Civil Procedure section 2031.220
+  - Quik Tow's counsel did not meet their burden to show they did not counsel discovery abuse
+disputes:
+  - Between Plaintiff and Defendant over discovery requests
+  - Between Plaintiff and Defendant over sanctions
+  - Between Plaintiff and Quik Tow's counsel over discovery abuse
+acts:
+  - Plaintiff filed discovery motions
+  - Quik Tow responded incompletely to discovery requests
+  - Court granted discovery motions
+  - Court imposed sanctions against Quik Tow and its counsel
+agreements:
+  - Code of Civil Procedure sections 2030.300, 2031.310, and 2023.030
+  - California Rules of Court, Rule 3.1345
+laws:
+  - Code of Civil Procedure sections 2030.300, 2031.310, and 2023.030
+  - California Rules of Court, Rule 3.1345
+case_citations:
+  - Kwan Software Engineering, Inc. v. Hennings (2020) 58 Cal.App.5th 57
+  - Ghanooni v. Super Shuttle (1993) 20 Cal.App.4th 256
+  - Corns v. Miller (1986) 181 Cal.App.3d 195
+statutes:
+  - California Rules of Court, Rule 3.1345
+  - Code of Civil Procedure sections 2030.300, 2031.310, and 2023.030
+  - California Rules of Court, Rule 3.1345
+roles:
+  - Judge: Kerry Bensinger
+  - Plaintiff: Fermin Garcia
+  - Defendant: Quik Tow LLC and Ignacio Gonzalez
+  - Counsel: Quik Tow's counsel
+significant_statements:
+  - The court finds Quik Tow's responses to discovery requests were incomplete and evasive.
+  - The court grants the motions to compel further responses to discovery requests.
+  - The court imposes monetary sanctions against Quik Tow and its counsel.
+```
+
+And here is the summary in English text:
+
+This is a tentative ruling by Judge Kerry Bensinger in the case of Fermin Garcia v. Quik Tow LLC, et al. The case involves wage and hour violations and discovery disputes. Plaintiff Fermin Garcia filed motions to compel further responses to discovery requests, which were unopposed by Defendant Quik Tow LLC. The court finds that Quik Tow's responses to discovery requests were incomplete and evasive, and grants the motions to compel further responses. The court also imposes monetary sanctions against Quik Tow and its counsel in the amount of $1,860, plus $210 in filing fees.

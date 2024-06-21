@@ -1,0 +1,46 @@
+Here is the summary in YAML format:
+
+```
+case:
+  number: 21SMCV01769
+  plaintiff: Plaintiff's Name
+  defendant: Defendant's Name
+  people:
+  - Judge's Name
+  company-names: []
+  places:
+  - Santa Monica County Courthouse
+  dates:
+  - 9/8/23
+  - April 2, 2024
+  events:
+  - Cross-complaint dismissed
+  - FSC order given
+  - Trial date
+  money: []
+  intentions:
+  - Determine case status
+  - Inquire about FSC papers
+  - Vacate trial date
+  facts:
+  - Case may be fully dismissed
+  - FSC papers not filed
+  disputes:
+  - Case status unclear
+  acts:
+  - Judge's tentative ruling
+  agreements: []
+  laws: []
+  case-citations: []
+  statutes: []
+  roles:
+  - Judge
+  significant-statements:
+  - Case may be fully dismissed
+  - FSC papers must be filed
+  - Sanctions may be appropriate
+```
+
+And here is the English text summary:
+
+The judge has issued a tentative ruling on the case, expressing uncertainty about the current status of the case. The cross-complaint has been dismissed, but it's unclear whether the original complaint remains live. If the case is fully dismissed, the trial date will be vacated and no further hearings will be necessary. However, if the case remains live, the judge is concerned, particularly because the FSC order was given on September 8, 2023, but no FSC papers have been filed. The judge plans to inquire about the reason for this delay and will vacate the trial date. Additionally, the judge will consider whether sanctions are appropriate, depending on the reason for the delay.

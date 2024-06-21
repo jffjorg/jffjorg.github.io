@@ -1,0 +1,73 @@
+Here is the YAML summary of the tentative ruling:
+
+```
+Case Number: 23AHCV02364
+Plaintiff's Name: Dedicato Treatment Center, Inc.
+Defendant's Name: Salt River Pima-Maricopa Indian Community
+People-Names: A.N., D.N.
+Company-Names: IEC Group, Inc. d/b/a AmeriBen
+Places: Sierra Madra, CA
+Dates:
+  - September 25, 2019
+  - February 18, 2021
+  - June 13, 2022
+  - November 22, 2022
+  - December 13, 2022
+  - October 2, 2023
+  - October 11, 2023
+  - December 21, 2023
+  - January 16, 2024
+  - February 28, 2024
+  - March 8, 2024
+  - April 2, 2024
+  - June 20, 2024
+Events:
+  - Plaintiff contacted AmeriBen regarding health benefits
+  - AmeriBen confirmed Patient was covered under Plan
+  - Plaintiff provided 18 courses of treatment between September 25, 2019, and February 18, 2021
+  - Plaintiff sent 15 invoices totaling $508,000
+  - AmeriBen paid $72,265, leaving Dedicato with $435,735 in unpaid services
+  - Plaintiff filed federal lawsuit against AmeriBen on June 13, 2022
+  - AmeriBen successfully moved to dismiss on November 22, 2022
+  - Plaintiff filed First Amended Complaint against Defendant on December 13, 2022
+  - Federal district court granted Defendant's motion to dismiss on October 2, 2023
+  - Plaintiff filed this action in state court on October 11, 2023
+  - Plaintiff filed First Amended Complaint against Defendant on January 16, 2024
+  - Defendant filed Motion to Quash on February 28, 2024
+  - Plaintiff filed Motion to Allow Jurisdictional Discovery and to Continue Schedule on March 8, 2024
+Money:
+  - $508,000 (total invoices)
+  - $72,265 (paid by AmeriBen)
+  - $435,735 (unpaid services)
+Intentions:
+  - Plaintiff intends to recover outstanding balance owed
+  - Defendant intends to quash service of summons
+Facts:
+  - Patient received treatment from Plaintiff
+  - AmeriBen confirmed Patient was covered under Plan
+  - Plaintiff contacted AmeriBen regarding Patient's health benefits
+Disputes:
+  - Plaintiff seeks to recover outstanding balance
+  - Defendant seeks to quash service of summons
+Acts:
+  - Plaintiff filed federal lawsuit against AmeriBen
+  - AmeriBen successfully moved to dismiss
+  - Plaintiff filed First Amended Complaint against Defendant
+  - Defendant filed Motion to Quash
+  - Plaintiff filed Motion to Allow Jurisdictional Discovery and to Continue Schedule
+Laws:
+  - Fed. R. Civ. P. Rule 12(b)(7)
+  - Fed. R. Civ. P. Rule 12(b)(1)
+Statutes:
+  - None mentioned
+Roles:
+  - Plaintiff: Dedicato Treatment Center, Inc.
+  - Defendant: Salt River Pima-Maricopa Indian Community
+  - Third-party administrator: IEC Group, Inc. d/b/a AmeriBen
+Significant Statements:
+  - "A trial court has the discretion to continue the hearing on a motion to quash service of summons for lack of personal jurisdiction to allow the plaintiff to conduct discovery on jurisdictional issues." (HealthMarkets, Inc. v. Superior Court (2009) 171 Cal.App.4th 1160, 1173)
+  - "A plaintiff is generally entitled to conduct discovery with regard to a jurisdictional issue before a court rules on a motion to quash." (Goehring v. Superior Court (1998) 62 Cal.App.4th 894, 911)
+  - "The plaintiff has the right to conduct discovery with regard to the issue of jurisdiction to develop the facts necessary to sustain this burden." (Mihlon v. Superior Court (1985) 169 Cal.App.3d 703, 710)
+```
+
+Note that some of the fields, such as "Dates" and "Events", may contain multiple values, which are represented as lists in the YAML format.

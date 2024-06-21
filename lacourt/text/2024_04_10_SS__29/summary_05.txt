@@ -1,0 +1,72 @@
+Here is the summary in YAML format:
+
+```
+case_number: 21STCV05526
+hearing_date: 2024-04-10
+dept: 29
+plaintiff: Robert Joiner
+defendant: Terrence Lloyd Hutchinson
+
+people:
+  - Robert Joiner
+  - Terrence Lloyd Hutchinson
+
+companies: []
+places:
+  - California
+dates:
+  - 2019-02-11 (motor vehicle collision)
+  - 2021-02-11 (complaint filed)
+  - 2022-08-11 (dismissal)
+  - 2022-08-22 (motion filed)
+  - 2023-08-11 (hearing)
+  - 2024-04-10 (tentative ruling)
+
+events:
+  - Motor vehicle collision
+  - Complaint filed
+  - Dismissal
+  - Motion to reconsider
+
+money: []
+intentions:
+  - Plaintiff seeks to set aside dismissal
+  - Defendant seeks to maintain dismissal
+
+facts:
+  - Plaintiff sustained injuries in a motor vehicle collision
+  - Defendant was involved in the collision
+  - Plaintiff did not appear for non-jury trial
+
+disputes:
+  - Plaintiff disputes the dismissal
+  - Defendant disputes the plaintiff's claims
+
+acts:
+  - Plaintiff filed a complaint
+  - Defendant was involved in a motor vehicle collision
+  - Plaintiff did not appear for non-jury trial
+
+agreements: []
+laws:
+  - California Code of Civil Procedure § 581(b)(3)
+  - California Code of Civil Procedure § 473(b)
+  - California Code of Civil Procedure § 1008
+
+citations:
+  - Bae v. T.D. Service Co. (2016) 245 Cal.App.4th 89
+  - Rappleyea
+
+roles:
+  - Plaintiff: Robert Joiner
+  - Defendant: Terrence Lloyd Hutchinson
+  - Judge: [Judge's name]
+
+significant_statements:
+  - The motion is denied.
+  - The court DENIES Plaintiff’s motion for reconsideration.
+```
+
+And here is the English text to summarize the judge's tentative ruling:
+
+"In this tentative ruling, the court denies Plaintiff Robert Joiner's motion for reconsideration, which seeks to set aside the dismissal of the case. The court previously denied the motion in October 2023 and granted Plaintiff additional time to provide a supplemental brief. However, no supplemental brief has been filed, and the court finds that the motion is without merit. The court's decision is based on the parties' lack of diligence in pursuing the motion and the absence of new or different facts that would warrant reconsideration of the dismissal."

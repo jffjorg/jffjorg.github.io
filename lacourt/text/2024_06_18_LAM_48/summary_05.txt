@@ -1,0 +1,79 @@
+Here is the tentative ruling in YAML format:
+
+```
+case_number: 22STCV37327
+plaintiff: Nagisa Montemarani
+defendant: GC Brothers Entertainment, LLC
+judge: Hon. Thomas D. Long
+court: Superior Court of California, County of Los Angeles
+department: 48
+hearing_date: June 18, 2024
+motion: Motion to Be Relieved as Counsel
+
+people:
+  - Devon M. Lyon
+  - Lyon Legal P.C.
+
+companies:
+  - GC Brothers Entertainment, LLC
+
+places:
+  - Los Angeles
+  - Stanley Mosk Courthouse
+
+dates:
+  - June 18, 2024
+  - August 19, 2024
+  - February 18, 2025
+
+events:
+  - Motion to Be Relieved as Counsel
+  - Order to Show Cause Re: Failure to Retain New Counsel
+
+money: None
+
+intentions:
+  - Counsel's intention to withdraw as counsel
+  - Defendant's intention to retain new counsel
+
+facts:
+  - Counsel and client have irreconcilable differences
+  - Client has breached attorney-client retainer agreement
+  - Counsel has been instructed to refrain from work on the case
+
+disputes:
+  - Dispute over counsel's withdrawal
+
+acts:
+  - Counsel's motion to be relieved as counsel
+  - Defendant's failure to retain new counsel
+
+agreements:
+  - Attorney-client retainer agreement
+
+laws:
+  - California Rules of Court, rule 3.1362
+  - People v. Prince (1968) 268 Cal.App.2d 398, 406
+  - Caressa Camille, Inc. v. Alcoholic Beverage Control Appeals Bd. (2002) 99 Cal.App.4th 1094, 1101
+
+case_citations:
+  - People v. Prince (1968) 268 Cal.App.2d 398, 406
+  - Caressa Camille, Inc. v. Alcoholic Beverage Control Appeals Bd. (2002) 99 Cal.App.4th 1094, 1101
+
+statutes:
+  - California Rules of Court, rule 3.1362
+
+roles:
+  - Judge: Hon. Thomas D. Long
+  - Counsel: Devon M. Lyon
+  - Client: GC Brothers Entertainment, LLC
+
+significant_statements:
+  - Counsel's motion to be relieved as counsel is granted
+  - Defendant must retain new counsel by August 19, 2024
+  - Failure to retain new counsel may result in default
+```
+
+And here is a summary of the judge's tentative ruling in English text:
+
+The judge has granted the defendant's counsel's motion to be relieved as counsel. The counsel and client have irreconcilable differences, and the client has breached the attorney-client retainer agreement. The counsel has been instructed to refrain from work on the case. The judge has scheduled an Order to Show Cause Re: Failure to Retain New Counsel for August 19, 2024, and warned the defendant that failure to retain new counsel may result in default.

@@ -1,0 +1,71 @@
+Here is the summary in YAML format:
+
+```
+case_number: "Unknown"
+plaintiff_name: "Prell"
+defendant_name: "The Lobster"
+people_names:
+  - Armstrong
+  - Kull
+  - Barnes
+  - Garcia
+  - Prell
+company_names:
+  - The Lobster
+places:
+  - California
+  - Qualcomm
+  - Lobster
+dates:
+  - 2002
+  - 2021
+  - February 1, 2021
+  - February 8, 2021
+  - February 23, 2021
+events:
+  - Termination of employment
+  - Medical leave
+  - Arbitration
+  - Lawsuit
+  - Dispute over termination
+money:
+  - None mentioned
+intentions:
+  - Dispute over termination
+facts:
+  - Plaintiff was terminated while on medical leave
+  - Employer claimed termination was for valid, non-discriminatory reasons
+  - Arbitrator rejected Plaintiff's claims of retaliation, failure to accommodate, and failure to engage in an interactive process
+disputes:
+  - Dispute over termination
+  - Dispute over whether termination was discriminatory
+acts:
+  - Termination of employment
+  - Arbitration
+  - Lawsuit
+agreements:
+  - Prehearing Order No. 4
+  - Lawsuits
+laws:
+  - California Labor Code
+  - Guz v. Bechtel National, Inc. (2000) 24 Cal.4th 317, 358
+  - Tomlinson v. Qualcomm, Inc. (2002) 97 Cal.App.4th 934, 940
+  - 2002 California Code of Regulations, section 11060
+roles:
+  - Plaintiff (Prell)
+  - Defendant (The Lobster)
+  - Arbitrator
+  - Armstrong
+  - Kull
+  - Garcia
+  - Barnes
+significant_statements:
+  - "The Court is puzzled by this contention."
+  - "The arbitrator considered and rejected Plaintiff’s argument."
+  - "The guarantee of reinstatement to the same or comparable position does not preclude an employer from terminating the employee's employment as part of a work force reduction."
+  - "The arbitrator did not violate or misapply the order in issuing the Award."
+```
+
+And here is the summary in English text:
+
+This tentative ruling is a response to a dispute over the termination of employment of a plaintiff, Prell, by The Lobster, a restaurant. The arbitrator rejected the plaintiff's claims of retaliation, failure to accommodate, and failure to engage in an interactive process. The arbitrator found that the termination was for valid, non-discriminatory reasons, citing evidence of poor judgment and unreliability by the plaintiff. The ruling is based on California labor laws and court cases, including Guz v. Bechtel National, Inc. and Tomlinson v. Qualcomm, Inc. The Court is puzzled by the plaintiff's contention that the arbitrator ignored prehearing Order No. 4, and finds that the arbitrator did not violate or misapply the order in issuing the Award.
