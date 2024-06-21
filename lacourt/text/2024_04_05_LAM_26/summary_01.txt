@@ -1,0 +1,58 @@
+Here is a summary of the tentative ruling in YAML format:
+
+```
+case_number: 21STCV03715
+hearing_date: April 5, 2024
+dept: 26
+superior_court_of_california:
+  county: Los Angeles
+  department: 26
+
+parties:
+  - Plaintiffs: Susan Hopkins and Jason Hopkins
+  - Defendants: General Motors LLC and others
+
+companies:
+  - General Motors LLC
+  - Wittmeier Chevrolet
+  - Ed Wittmeier Ford, Inc.
+
+places:
+  - Chico, California
+
+dates:
+  - January 24, 2016
+  - October 14, 2012
+  - August 18, 2021
+  - January 29, 2023
+  - September 30, 2022
+  - September 29, 2023
+  - December 21, 2023
+  - December 28, 2023
+  - January 17, 2024
+  - March 29, 2024
+  - April 2, 2024
+
+events:
+  - Purchase of a certified pre-owned 2013 Chevrolet Cruze
+  - Filing of the operative First Amended Complaint
+  - Filing of the motion for summary adjudication
+  - Filing of the opposition
+  - Filing of the reply
+  - Hearing on the motion for summary adjudication
+
+money:
+  - $39,072
+  - $36,000
+  - $60,000
+  - $100,014
+
+intentions:
+  - To determine whether the defendants are liable for the breach of implied warranty
+  - To determine whether the defendants are entitled to judgment as a matter of law
+
+facts:
+  - The Subject Vehicle was purchased used with 60,942 miles on the odometer
+  - The Subject Vehicle was originally delivered to its original owner on October 14, 2012
+  - The original manufacturer's warranty had expired at the time of purchase
+  - The plaintiff's vehicle was not a new motor vehicle

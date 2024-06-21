@@ -1,0 +1,67 @@
+Here is the summary in YAML format:
+
+```
+case_number: 22AHCV00473
+plaintiff_name: David Tsao
+defendant_names:
+  - LA IMPACT CONSTRUCTION, LP
+  - IMPACT CONSTRUCTION COMPANY
+  - HEATHER LIEN
+  - AMERICAN CONTRACTORS INDEMNITY COMPANY
+  - DOES 1 through 100, inclusive
+people_names:
+  - David Tsao
+  - Heather Lien
+  - Joel L. Lofton
+company_names:
+  - LA IMPACT CONSTRUCTION, LP
+  - IMPACT CONSTRUCTION COMPANY
+  - AMERICAN CONTRACTORS INDEMNITY COMPANY
+places:
+  - 9606 Lower Azusa Road
+  - Temple City
+  - California
+dates:
+  - July 19, 2022
+  - September 9, 2022
+  - March 6, 2024
+  - April 8, 2024
+events:
+  - Motion for Order of Discharge, Deposit, and Dismissal
+money:
+  - $7,500
+  - $15,000
+intentions:
+  - ACIC seeks to be discharged from liability and dismissed from the suit
+facts:
+  - Plaintiff David Tsao claims Defendants failed to provide complete and adequate construction work
+  - ACIC is a mere stakeholder in the action
+  - ACIC filed a cross-complaint for interpleader regarding various claims on the bond
+disputes:
+  - Amount of deposit required
+  - Whether claims are made pursuant to Business and Professions Code section 7071.5
+acts:
+  - ACIC deposited the bond amount with the clerk of the court
+  - ACIC filed a cross-complaint for interpleader
+  - ACIC seeks to be discharged from liability and dismissed from the suit
+agreements:
+  - Business and Professions Code section 7071.5
+  - Business and Professions Code section 7071.6, subdivision (b)
+laws:
+  - California Code of Civil Procedure section 386.5
+statutes:
+  - Business and Professions Code section 7071.5
+  - Business and Professions Code section 7071.6
+roles:
+  - Judge: Joel L. Lofton
+  - Plaintiff: David Tsao
+  - Defendant: LA IMPACT CONSTRUCTION, LP, IMPACT CONSTRUCTION COMPANY, HEATHER LIEN, AMERICAN CONTRACTORS INDEMNITY COMPANY
+  - Mere stakeholder: ACIC
+signficant_statements:
+  - "The court will delay the ruling on this order until ACIC submits the deposit as discussed at the hearing."
+  - "ACIC’s motion for an order discharging it from liability, dismissing it from the present suit, and restraining any party from instituting any action against it related to the bond is GRANTED."
+```
+
+And here is the English-text summary of the judge's tentative ruling:
+
+The judge has made a tentative ruling on the motion for order of discharge, deposit, and dismissal filed by American Contractors Indemnity Company (ACIC). The court will delay the ruling until ACIC submits the deposit as discussed at the hearing. After ACIC has submitted the deposit, the court will grant ACIC's motion to be discharged from liability, dismissed from the present suit, and restrained from any action related to the bond. The court has ordered ACIC to explain why the deposit total should be $7,500 rather than $15,000 to account for any claims applicable under Business and Professions Code section 7071.5. The court has also noted that ACIC is a mere stakeholder in the action and should be subject to dismissal once it deposits the bond amount.

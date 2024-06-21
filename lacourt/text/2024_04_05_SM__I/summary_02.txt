@@ -1,0 +1,46 @@
+Here is the summary in YAML format:
+
+```
+case_number: 21STCV04325
+hearing_date: April 5, 2024
+dept: I
+ruling: DENIED
+facts:
+  - The trial was initially set in November 2023
+  - The defense had a pre-planned vacation that conflicted with the trial date
+  - The defense did not inform the court of the conflict until over four months later
+  - The plaintiff had been seeking to continue the trial for some time
+intents:
+  - To determine the fate of the trial
+  - To consider the defense's request to continue the trial
+  - To set a new trial date if necessary
+disputes:
+  - Whether the defense has good cause to continue the trial
+  - Whether the defense's pre-planned vacation is a valid reason for continuing the trial
+  - Whether the defense waited too long to inform the court of the conflict
+acts:
+  - The court initially set the trial date in November 2023
+  - The defense did not inform the court of the conflict until over four months later
+  - The plaintiff sought to continue the trial
+agreements:
+  - None mentioned
+laws:
+  - Not explicitly mentioned
+case_citations:
+  - None mentioned
+statutes:
+  - Not explicitly mentioned
+roles:
+  - Plaintiff: [not named]
+  - Defendant: [not named]
+  - Judge: [not named]
+significant_statements:
+  - The court does not intend to hear argument on this matter
+  - The defense had a duty to inform the court of the conflict in a timely manner
+  - The defense's desire not to go to trial because they want to keep working is not a valid reason
+  - The court is not persuaded by the defense's request to continue the trial
+```
+
+And here is the English-text summary:
+
+The tentative ruling denies the application to continue the trial, which was initially set for November 2023. The defense had a pre-planned vacation that conflicted with the trial date, but did not inform the court of the conflict until over four months later. The court is not persuaded by the defense's request to continue the trial, as they did not inform the court in a timely manner and the defense's desire not to go to trial because they want to keep working is not a valid reason. The court sets the trial date at an ex parte, and if a party finds the date inconvenient, they should have raised the issue promptly.

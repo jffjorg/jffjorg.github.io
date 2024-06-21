@@ -1,0 +1,38 @@
+Here is a summary of the tentative ruling in YAML format:
+
+```yaml
+Case Number: 23STCV03310
+Hearing Date: April 8, 2024
+Department: 40
+Court: Superior Court of California
+County: Los Angeles
+
+Plaintiff:
+  - Name: Joshua Coffman
+  - Name: Sunnybyte, LLC
+
+Defendants:
+  - Name: Ross Legal Corporation, Inc.
+  - Name: Polina L. Ross
+  - Name: Does 1 through 20
+
+Basis for Tentative Ruling:
+  - Demurrer to First Amended Complaint (FAC)
+  - Motion to Strike Portions of FAC
+
+Ruling:
+  - Demurrer to Fourth Cause of Action (Fraud): OVERRULED
+  - Demurrer to Sixth Cause of Action (Violations of Civil Code Section 1770(a)(5)): SUSTAINED
+  - Motion to Strike: GRANTED
+
+Reasoning:
+  - Demurrer to Fourth Cause of Action: The FAC sufficiently alleges concealment of the intent to bill additional fees, and the reliance element is not correctly construed by the moving papers.
+  - Demurrer to Sixth Cause of Action: The legal services alleged in the FAC do not fall within the plain language of the CLRA "services" contemplated at section 1770, subdivision (a)(5).
+  - Motion to Strike: The Complaint fails to allege actual fraud, and the FAC does not show on its face that any limitations period has run.
+
+Next Steps:
+  - Plaintiffs may amend the FAC to address the deficiencies identified in the demurrer.
+  - The Court will set a date for a hearing on the motion to strike.
+```
+
+This summary provides an overview of the tentative ruling, including the case number

@@ -1,0 +1,69 @@
+Here is the summary in YAML format:
+
+```
+case_number: 19SMCV01614
+plaintiff_name: Singer
+defendant_name: Related Management Company, L.P.
+people_names:
+  - Singer
+  - Related Management Company, L.P.
+company_names:
+  - Related Management Company, L.P.
+places:
+  - The Waverly
+dates:
+  - November 17, 2023
+  - January 5, 2024
+  - February 2017
+  - March 2023
+  - April 5, 2024
+events:
+  - Motion to Compel Further Responses to SDT
+  - Deposition subpoena
+  - Meet and confer declaration
+  - Production of documents
+money: None
+intentions:
+  - To compel further responses to SDT
+  - To obtain responsive documents
+facts:
+  - Related Management Company, L.P. served an unverified response to the subpoena
+  - The response consisted solely of two categories of documents
+  - Related Management did not provide the required affidavit as part of their production
+  - Plaintiff's counsel notes that since 2014, Related Management communicated extensively with homeowners, board members, developer/affiliate representatives, and vendors about the water intrusion issues
+disputes:
+  - Insufficiency of Related Management's response and production
+acts:
+  - Service of deposition subpoena
+  - Production of documents
+  - Meet and confer declaration
+  - Failure to provide required affidavit
+agreements:
+  - None
+laws:
+  - California Code of Civil Procedure (CCP) sections 2020.220(c), 1987.1, 2020.410(c), 2025.480(b), 2020.430
+  - California Evidence Code (Evid. Code) sections 1560-1563
+  - UnzippedApparel, LLC v. Bader (2007) 156 Cal.App.4th 123
+case_citations:
+  - (CCP § 2020.220(c))
+  - (CCP § 1987.1)
+  - (CCP § 2025.480(b))
+  - (CCP § 2020.410(c))
+  - (Evid. Code § 1560-1563)
+roles:
+  - Judge
+  - Plaintiff (Singer)
+  - Defendant (Related Management Company, L.P.)
+  - Deposition officer
+significant_statements:
+  - "Related Management's response is insufficient pursuant to Code of Civil Procedure section 2020.430 and Evidence Code sections 1560-1563."
+  - "Further responses are ordered within 10 days."
+```
+
+And here is the English-text summary:
+
+The judge has issued a tentative ruling in the case of Singer v. Related Cal. Urban Housing, et al. (Case No. 19SMCV01614). The motion, filed by Plaintiff Singer, seeks to compel further responses to a deposition subpoena served on non-party deponent Related Management Company, L.P. The subpoena requested production of six categories of documents related to the curtain wall and window systems at The Waverly.
+
+The judge finds that Related Management's response and production were insufficient. Specifically, the company failed to provide the required affidavit as part of their production, and the produced documents were incomplete. The judge notes that Plaintiff's counsel has demonstrated that responsive documents must exist, given the extensive communications between Related Management and various parties about the water intrusion issues.
+
+Accordingly, the judge grants the motion and orders further responses to be produced within 10 days.

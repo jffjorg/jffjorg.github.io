@@ -1,0 +1,70 @@
+Here is the summary in YAML format:
+
+```
+case_number: 21STCV43535
+plaintiff_name: Iam Miller
+defendant_name: Sasan Shadravan
+people_names:
+  - Iam Miller
+  - Sasan Shadravan
+company_names: []
+places: []
+dates:
+  - November 29, 2021
+  - June 29, 2023
+  - February 20, 2024
+  - March 12, 2024
+  - March 13, 2024
+  - March 14, 2024
+  - March 6, 2024
+  - April 8, 2024
+events:
+  - Trial on February 20, 2024
+  - Judgment entered on February 20, 2024
+  - Motion to Vacate Judgment filed on March 13, 2024
+  - Hearing on April 8, 2024
+money: []
+intentions:
+  - To vacate judgment
+  - To enter new judgment
+facts:
+  - Plaintiff filed an action against Defendant on November 29, 2021
+  - Action was reclassified as a limited civil case on June 29, 2023
+  - Trial was held on February 20, 2024
+  - Defendant was granted nonsuit and judgment was entered
+  - Plaintiff filed a Motion for Leave to Amend Continuance, which was denied
+  - Plaintiff filed a Motion to Vacate Judgment on March 13, 2024
+disputes:
+  - Denial of trial by jury
+  - Lack of subject matter jurisdiction
+  - Legal advice given to Defendant
+acts:
+  - Plaintiff filed an action
+  - Defendant was granted nonsuit
+  - Plaintiff filed a Motion for Leave to Amend Continuance
+  - Plaintiff filed a Motion to Vacate Judgment
+agreements: []
+laws:
+  - Code of Civil Procedure section 581
+  - Code of Civil Procedure section 663
+  - Code of Civil Procedure section 663a
+  - Code of Civil Procedure section 664.5
+  - Advanced Building Maintenance v. State Comp. Ins. Fund (1996)
+statutes:
+  - Code of Civil Procedure section 581
+  - Code of Civil Procedure section 663
+  - Code of Civil Procedure section 663a
+  - Code of Civil Procedure section 664.5
+roles:
+  - Judge
+  - Plaintiff
+  - Defendant
+significant_statements:
+  - "Plaintiff's Motion to Vacate Judgment is DENIED."
+  - "The 15-day deadline is jurisdictional and cannot be extended by the Court."
+  - "Plaintiff's arguments fail to demonstrate that the legal basis for the decision is not consistent with or supported by the facts."
+```
+
+And here is the English-text summary:
+
+The Judge has issued a tentative ruling denying Plaintiff Iam Miller's Motion to Vacate Judgment. The motion was filed on March 13, 2024, but is untimely, as the 15-day deadline to file such a motion passed on March 6, 2024. On the merits, the motion fails to demonstrate that the legal basis for the decision is not consistent with or supported by the facts. Plaintiff's arguments, which include denial of a trial by jury, lack of subject matter jurisdiction, and legal advice given to Defendant, are all unrelated to the legal basis for the decision. Therefore, the motion is denied.
