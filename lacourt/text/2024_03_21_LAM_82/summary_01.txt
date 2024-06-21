@@ -1,0 +1,33 @@
+Here is a summary of the judge's tentative ruling in YAML format:
+
+```
+case_number: 23STCP00014
+hearing_date: March 21, 2024
+dept: 82
+
+parties:
+  - Petitioner: John Doe
+  - Respondents: University of Southern California, Monique S. Allard, Catherine Spear
+
+facts:
+  - October 15, 2021: Incident occurred between John Doe and Jane Roe
+  - October 16, 2021: Jane Roe reported the incident to USC's Department of Public Safety and LAPD
+  - October 20, 2021: USC issued a crime alert stating the incident occurred at Sigma Nu fraternity house
+  - October 26, 2021: Jane Roe filed a formal complaint with USC's Office for Equity, Equal Opportunity, and Title IX
+  - November 2021: USC's Investigator began investigating the incident
+  - July 25-27, 2022: Live hearing took place
+  - August 17, 2022: Hearing Officer issued written determination
+  - October 6, 2023: Petitioner filed a petition for writ of administrative mandamus
+  - November 7, 2023: Respondents filed an opposition
+  - November 22, 2023: Petitioner filed a reply
+
+disputes:
+  - Whether John Doe engaged in non-consensual anal intercourse with Jane Roe
+  - Whether the Investigator withheld exculpatory evidence
+  - Whether the Investigator failed to follow investigatory leads
+
+acts:
+  - Jane Roe reported the incident to USC's Department of Public Safety and LAPD
+  - USC's Investigator began investigating the incident
+  - John Doe was interviewed by the Investigator
+  - Jane Roe was examined and gave

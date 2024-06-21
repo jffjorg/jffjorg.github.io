@@ -1,0 +1,66 @@
+Here is the summary in YAML format:
+
+```
+case_number: 20STCV44242
+plaintiff_names:
+  - Dept: 30
+    People-Names: GUSTAVO GONZALEZ SOTO
+    et al.
+defendant_name: GOTHIC LANDSCAPING, INC.
+people_names:
+  - Disha Bhagwat
+company_names:
+  - GOTHIC LANDSCAPING, INC.
+places:
+  -
+dates:
+  - March 20, 2024
+events:
+  - Hearing
+  - Petition to Approve Compromise of Disputed Claim of a Minor
+  - Fee request
+  - OSC RE PROOF OF DEPOSIT
+  - OSC RE DISMISSAL (SETTLEMENT)
+money:
+  - $1,126.97
+intentions:
+  - Approve settlement
+  - Approve fee request
+  - Approve distribution of settlement proceeds
+  - Set OSC RE PROOF OF DEPOSIT
+  - Continue OSC RE DISMISSAL (SETTLEMENT)
+facts:
+  - Settlement is reasonable
+  - Fee request is reasonable
+  - Petitioner holds money in trust for minor's benefit
+disputes:
+  - None mentioned
+acts:
+  - Court excuses personal appearance
+  - Court approves petition
+  - Court sets OSC RE PROOF OF DEPOSIT
+  - Court continues OSC RE DISMISSAL (SETTLEMENT)
+agreements:
+  - Petitioner will hold money in trust for minor's benefit
+  - Fee will be 25% of gross settlement
+laws:
+  - Cal Rules of Court, Rule 7.955(b)
+  - CCP 664.6
+case_citations:
+  - None mentioned
+statutes:
+  - CCP 664.6
+roles:
+  - Judge: [no name specified]
+  - Counsel
+  - Guardian ad litem
+  - Petitioner
+  - Defendant
+significant_statements:
+  - "The Court finds that the settlement is reasonable..."
+  - "The Court finds that on the current record, and in consideration of the factors set forth in Cal Rules of Court, Rule 7.955(b), a fee of 25% of the gross settlement is reasonable."
+```
+
+And here is a summary of the judge's tentative ruling in English text:
+
+The court has reviewed the petition to approve the compromise of a disputed claim of a minor and has determined that the settlement is reasonable. The court has also reviewed the fee request and has approved a fee of 25% of the gross settlement. The court has set aside a portion of the settlement proceeds for the minor's benefit and has instructed the petitioner to hold the money in trust for the minor's benefit until the minor reaches the age of majority. The court has also scheduled an OSC (Order to Show Cause) hearing for 60 days to ensure that the settlement proceeds have been deposited. If the parties require the court to retain jurisdiction of the matter after dismissal, they must file a stipulation pursuant to CCP 664.6.

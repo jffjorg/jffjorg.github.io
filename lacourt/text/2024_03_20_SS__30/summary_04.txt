@@ -1,0 +1,58 @@
+Here is the summary in YAML format:
+
+```
+case_number: 22STCV10473
+hearing_date: March 20, 2024
+dept: 30
+plaintiff: GREGORY WILSON, et al.
+defendant: DARREASHA DUKE
+people_names:
+  - GREGORY WILSON
+  - DARREASHA DUKE
+  - Cherie A. Enge
+company_names: []
+places: []
+dates:
+  - February 14, 2024
+events:
+  - Meet and Confer
+  - Motion to strike
+money:
+  - Attorneys' fees
+  - Punitive damages
+intentions:
+  - To strike the prayer for punitive damages and attorneys' fees
+facts:
+  - Plaintiffs' counsel refused to meet and confer
+  - Parties have not reached an agreement on prayer for punitive damages or attorneys' fees
+  - Plaintiffs have not alleged sufficient facts showing malice, fraud, or oppression
+  - Complaint is rooted in negligence
+disputes:
+  - Allegations of punitive damages and attorneys' fees
+acts:
+  - Motion to strike
+  - Meet and confer
+agreements: []
+laws:
+  - Code Civ. Proc. § 435
+  - Code Civ. Proc. § 436
+  - Code Civ. Proc. § 435.5
+  - Civ. Code § 3294
+  - Civ. Code § 1717
+  - Code Civ. Proc. § 1717
+statutes:
+  - Code Civ. Proc.
+  - Civ. Code
+roles:
+  - Judge
+  - Plaintiffs' counsel
+  - Defendant's counsel
+significant_statements:
+  - The Court GRANTS Defendant's motion to strike with 30 days leave to amend.
+  - The parties have not met and conferred in person, by telephone, or by video conference.
+  - The complaint fails to allege sufficient facts showing malice, fraud, or oppression.
+```
+
+And here is the English-text summary:
+
+The Court grants the Defendant's motion to strike the prayer for punitive damages and attorneys' fees with 30 days leave to amend. The Court finds that the parties have not met and conferred in person, by telephone, or by video conference as required by California Code of Civil Procedure Section 435.5. The Court also finds that the complaint fails to allege sufficient facts showing malice, fraud, or oppression to warrant the imposition of punitive damages. The Court notes that the complaint is rooted in negligence, and negligent conduct will not support a claim for punitive damages. The Court further finds that the complaint does not allege entitlement to attorneys' fees by statute or agreement of the parties. The Court grants the motion to strike with 30 days leave to amend, giving the parties an opportunity to re-file their complaint with sufficient allegations to support their claims.

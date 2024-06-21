@@ -1,0 +1,62 @@
+Here is the summary in YAML format:
+
+```
+case_number: 20STCV30564
+plaintiff: Jane Doe L.P. et al.
+defendant: Downey Unified School District
+people_names:
+  - Jane Doe L.P.
+  - Elizabeth P.
+  - Thomas D. Long
+company_names:
+  - Heredia Therapy Group
+places:
+  - Los Angeles
+  - California
+dates:
+  - August 12, 2020
+  - November 20, 2023
+  - November 21, 2023
+  - February 21, 2024
+  - March 21, 2024
+events:
+  - Filing of complaint
+  - Execution of HIPAA Compliant Authorization for Release of Protected Health Information Records
+  - Issuance of deposition subpoena
+  - Filing of motion to compel compliance with subpoena
+  - Unopposed motion to compel granted
+money: None
+intentions:
+  - To compel compliance with records subpoena
+facts:
+  - Plaintiff alleged emotional distress, depression, and anxiety
+  - Plaintiff sought mental health treatment
+  - Defendant issued deposition subpoena for production of business records
+  - Heredia Therapy Group objected to producing documents without a court order
+  - Plaintiff did not object or move to quash the subpoena
+disputes:
+  - Dispute over production of business records
+acts:
+  - Execution of HIPAA Compliant Authorization for Release of Protected Health Information Records
+  - Issuance of deposition subpoena
+  - Filing of motion to compel compliance with subpoena
+agreements:
+  - HIPAA Compliant Authorization for Release of Protected Health Information Records
+  - Deposition subpoena
+laws:
+  - Code Civ. Proc., §§ 1987.1, 2020.410
+case_citations: None
+statutes: Code Civ. Proc.
+roles:
+  - Judge: Hon. Thomas D. Long
+  - Plaintiff: Jane Doe L.P. et al.
+  - Defendant: Downey Unified School District
+  - Heredia Therapy Group: Non-party
+significant_statements:
+  - The subpoena requests production of medical records, billing and payment records, and psychological and/or psychiatric reports.
+  - The motion to compel compliance with the subpoena is granted.
+```
+
+And here is the English-text summary:
+
+The Judge's Tentative Ruling is to grant the motion to compel compliance with the records subpoena issued by the Defendant to Heredia Therapy Group. The subpoena requests production of medical records, billing and payment records, and psychological and/or psychiatric reports related to the care and treatment of Jane Doe L.P. The motion is unopposed and the Judge finds that the records are relevant to the Plaintiff's allegations of emotional distress and injury. The Judge orders Heredia Therapy Group to comply with the subpoena within 21 days of the order.

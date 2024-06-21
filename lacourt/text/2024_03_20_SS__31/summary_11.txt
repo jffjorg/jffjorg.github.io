@@ -1,0 +1,65 @@
+Here is the summary in YAML format:
+
+```
+case_number: 22STCV39533
+plaintiff: Justin Biggers
+defendant: Ralphs Grocery Company, ET AL.
+people_names:
+  - Justin Biggers
+  - Michelle C. Kim
+company_names:
+  - Ralphs Grocery Company
+places:
+  - Los Angeles
+  - California
+dates:
+  - December 14, 2023
+  - March 20, 2024
+events:
+  - Motion to compel discovery responses
+  - Failure to serve timely responses
+  - Award of sanctions
+money:
+  - $1,200
+  - $190
+  - $60
+  - $690
+intentions:
+  - To compel discovery responses
+  - To award sanctions
+facts:
+  - Plaintiff failed to serve timely responses to discovery requests
+  - Defendant properly served discovery requests
+  - Plaintiff withdrew counsel
+disputes:
+  - Lack of timely responses to discovery requests
+acts:
+  - Service of discovery requests
+  - Failure to serve timely responses
+  - Award of sanctions
+agreements:
+  - None specified
+laws:
+  - California Code of Civil Procedure (CCP) sections 2030.290, 2031.300
+  - California Rules of Court (CRC) section 3.1348
+case_citations:
+  - Leach v. Superior Court (1980) 111 Cal.App.3d 902, 905-906
+  - Sinaiko Healthcare Consulting, Inc. v. Pacific Healthcare Consultants (2007) 148 Cal.App.4th 390, 403
+  - Vallbona v. Springer (1996) 43 Cal.App.4th 1525, 1545
+statutes:
+  - CCP sections 2030.290, 2031.300
+  - CRC section 3.1348
+roles:
+  - Judge: Michelle C. Kim
+  - Plaintiff: Justin Biggers
+  - Defendant: Ralphs Grocery Company, ET AL.
+significant_statements:
+  - "A party that fails to serve timely responses waives any objections to the request, including ones based on privilege or the protection of attorney work product."
+  - "Sanctions are mandatory against any party, person, or attorney who unsuccessfully makes or opposes a motion to compel a response, unless a court makes certain findings."
+```
+
+And here is the English-text summary:
+
+The Judge, Michelle C. Kim, has issued a tentative ruling in the case of Justin Biggers vs. Ralphs Grocery Company, ET AL. (Case Number: 22STCV39533). The case involves a motion to compel discovery responses, which is unopposed by the plaintiff. The defendant, Ralphs Grocery Company, has served discovery requests on the plaintiff, including form interrogatories and special interrogatories, but the plaintiff has failed to respond. The Judge has granted the motion to compel discovery responses and ordered the plaintiff to serve verified responses without objections within 30 days.
+
+Additionally, the Judge has awarded sanctions to the defendant in the amount of $690, which includes attorney's fees and costs. The sanctions are mandatory due to the plaintiff's failure to serve timely responses and failure to oppose the motion to compel. The Judge has also ordered the plaintiff to pay the costs and fees within 30 days.

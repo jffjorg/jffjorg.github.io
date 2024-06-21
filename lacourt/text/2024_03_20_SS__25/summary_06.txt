@@ -1,0 +1,99 @@
+Here is the summary in YAML format:
+
+```
+case_number: [not specified]
+plaintiff: Creditors Adjustment Bureau, Inc. ("Plaintiff")
+defendant: Construction Servicing Center, Inc. aka Construction Servicing Center Inc aka Construction Servicing Ctr Inc dba Sunuso Energy adba Solar Servicing adba Servicing Center Inc ("Defendant")
+
+people-names:
+  - Lawrence C. Ecoff, Esq. (Counsel)
+  - Tiffanie Brown (Plaintiff's Counsel)
+  - [no other people mentioned]
+
+company-names:
+  - Creditors Adjustment Bureau, Inc.
+  - Construction Servicing Center, Inc.
+
+places:
+  - Spring Street Courthouse
+
+dates:
+  - March 29, 2022
+  - August 22, 2022
+  - October 25, 2023
+  - November 13, 2023
+  - November 15, 2023
+  - December 27, 2023
+  - December 04, 2023
+  - January 29, 2024
+  - February 14, 2024
+  - March 07, 2024
+  - March 13, 2024
+  - May 20, 2024
+  - September 10, 2024
+
+events:
+  - Filing of lawsuit
+  - Filing of answer
+  - Filing of motions to compel discovery
+  - Filing of opposition and reply to motions
+  - Granting of motions to compel discovery
+  - Issuance of sanctions
+  - Filing of motion for terminating sanctions
+  - Granting of motion for terminating sanctions
+
+money:
+  - $2,120.00 (amount of sanctions)
+  - $1,561.65 (amount of expenses incurred by Plaintiff)
+
+intentions:
+  - Plaintiff seeks to impose terminating sanctions on Defendant for failure to comply with discovery orders
+  - Defendant has not responded to Plaintiff's discovery requests
+
+facts:
+  - Defendant has failed to respond to Plaintiff's First Request for Production of Documents and First Set of Special Interrogatories
+  - Defendant has failed to comply with the Court's order to provide full, complete, and objection-free responses
+  - Plaintiff has incurred expenses in bringing the instant motion
+
+disputes:
+  - Dispute over compliance with discovery orders
+
+acts:
+  - Plaintiff filed the instant motion for terminating sanctions
+  - Defendant failed to respond to Plaintiff's discovery requests
+  - Defendant failed to comply with the Court's order
+
+agreements:
+  - None mentioned
+
+laws:
+  - California Code of Civil Procedure (CCP)
+  - California Rules of Court (CRC)
+
+case-citations:
+  - Code Civ. Proc. § 2030.040
+  - Code Civ. Proc. § 2030.030
+  - Code Civ. Proc. § 2023.010(d)
+  - Code Civ. Proc. § 2023.030
+  - R.S. Creative, Inc. v. Creative Cotton, Ltd. (1999) 75 Cal.App.4th 486, 495
+  - Lang v. Hochman (2000) 77 Cal.App.4th 1225, 1246
+  - Van Sickle v. Gilbert (2011) 196 Cal.App.4th 1495, 1516
+  - Brown v. Sup. Ct. (1986) 180 Cal.App.3d 701, 707
+  - Lopez v. Watchtower Bible and Tract Society of New York, Inc. (2016) 246 Cal.App.4th 566, 604-605
+
+statutes:
+  - CCP § 2030.040
+  - CCP § 2030.030
+  - CCP § 2023.010(d)
+  - CCP § 2023.030
+
+roles:
+  - Plaintiff: Creditors Adjustment Bureau, Inc.
+  - Defendant: Construction Servicing Center, Inc.
+  - Counsel: Lawrence C. Ecoff, Esq.
+  - Judge: [not specified]
+
+significant-statements:
+  - The Court finds that Defendant has willfully abandoned this litigation and has failed to comply with Plaintiff's discovery requests.
+  - The Court grants Plaintiff's motion for terminating sanctions and strikes Defendant's Answer.
+  - The Court declines to award further monetary sanctions as doing so would be futile in producing compliance.
