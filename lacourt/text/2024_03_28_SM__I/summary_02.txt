@@ -1,0 +1,74 @@
+Here is the summary in YAML format:
+
+```
+case_number: 21SMCV01968
+hearing_date: 2024-03-28
+dept: I
+
+people:
+  - Ramirez
+  - Mayendia
+  - Yan
+
+companies:
+
+places:
+  - none
+
+dates:
+  - 2023-12-06
+  - 2024-02-20
+  - 2024-03-28
+
+events:
+  - Request for continuance
+  - Hearing
+  - Writs of attachment
+
+money: none
+
+intentions:
+  - Deny request for continuance
+  - Deny applications for writs of attachment
+
+facts:
+  - Ramirez did not timely amend the cross-complaint to add cross-defendants
+  - Many writ applications are for non-parties
+  - Ramirez sues everyone else in tort
+  - Lack of supporting papers for writ applications
+
+disputes:
+  - Dispute over continuance
+  - Dispute over writs of attachment
+
+acts:
+  - Court gave Ramirez leave to amend cross-complaint
+  - Court denied request for continuance
+  - Court denied applications for writs of attachment
+
+agreements:
+  - Ramirez did not take advantage of leave to amend cross-complaint
+
+laws:
+  - none cited
+
+case_citations:
+  - none
+
+statutes:
+  - none
+
+roles:
+  - Judge
+  - Ramirez (plaintiff)
+  - Mayendia and Yan (defendants)
+
+significant_statements:
+  - The request for a continuance is DENIED
+  - The hearing will go forward today
+  - The applications for writs of attachment are DENIED
+```
+
+And here is the English text summarizing the judge's tentative ruling:
+
+The judge has denied the request for a continuance, and the hearing will proceed as scheduled. The applications for writs of attachment have also been denied. The court found that the applicant, Ramirez, did not timely amend the cross-complaint to add cross-defendants, and many of the writ applications were for non-parties. Additionally, Ramirez sues everyone else in tort, and the writ does not lie in tort. The court has also noted that Ramirez did not take advantage of a previous leave to amend the cross-complaint, which means that the cross-defendants are not in default.

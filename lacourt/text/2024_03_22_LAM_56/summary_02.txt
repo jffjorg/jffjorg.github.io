@@ -1,0 +1,70 @@
+Here is the summary in YAML format:
+
+```
+case_number: 23STCP01780
+plaintiff_name: Leah Alspaugh
+defendant_name: BNY Bank
+people_names: Leah Alspaugh, Judge Holly J. Fujie
+company_names: BNY Bank
+places: Los Angeles, California
+dates:
+  - May 24, 2023
+  - August 21, 2023
+  - September 29, 2023
+  - September 26, 2023
+  - October 20, 2023
+  - October 24, 2023
+  - January 8, 2024
+  - March 15, 2024
+  - March 19, 2024
+  - March 22, 2024
+events:
+  - Filing of Complaint for Mechanic Lien Claim for Unpaid Wages on Labor
+  - Filing of Motion for Default Mechanics Lien and Order for Default Judgment
+  - Denial of Motion for Default Mechanics Lien and Order for Default Judgment
+  - Filing of Motion to Quash Service of Summons
+  - Granting of Motion to Quash Service of Summons
+  - Filing of Motion for Reconsideration
+  - Opposition to Motion for Reconsideration
+  - Hearing on Motion for Reconsideration
+money: None mentioned
+intentions: To reconsider the Court's October 20, 2023 ruling on Defendant's Motion to Quash Service of Summons
+facts:
+  - Plaintiff filed a Complaint for Mechanic Lien Claim for Unpaid Wages on Labor
+  - Plaintiff filed a Motion for Default Mechanics Lien and Order for Default Judgment
+  - Defendant filed a Motion to Quash Service of Summons
+  - The Court denied the Motion for Default Mechanics Lien and Order for Default Judgment
+  - The Court granted the Motion to Quash Service of Summons
+  - Plaintiff filed a Motion for Reconsideration
+disputes:
+  - Whether Plaintiff properly served Defendant with the Complaint
+  - Whether the Court has jurisdiction over Defendant
+  - Whether Defendant is a corporation that can be served with a summons and complaint
+  - Whether Plaintiff failed to comply with service requirements
+acts:
+  - Plaintiff filed a Complaint for Mechanic Lien Claim for Unpaid Wages on Labor
+  - Plaintiff filed a Motion for Default Mechanics Lien and Order for Default Judgment
+  - Plaintiff filed a Motion for Reconsideration
+agreements:
+  - Code of Civil Procedure Section 1008, subdivision (a)
+  - Code of Civil Procedure Section 416.10
+  - Code of Civil Procedure Section 417.20
+laws:
+  - Code of Civil Procedure Section 1008, subdivision (a)
+  - Code of Civil Procedure Section 416.10
+  - Code of Civil Procedure Section 417.20
+case_citations:
+  - Shiffer v. CBS Corp. (2015) 240 Cal.App.4th 246, 255
+  - In re Marriage of Herr (2009) 174 Cal.App.4th 1463, 1468
+roles:
+  - Judge: Holly J. Fujie
+  - Plaintiff: Leah Alspaugh
+  - Defendant: BNY Bank
+significant_statements:
+  - The Court finds that Plaintiff's motion is facially deficient as it does not comply with the affidavit requirements.
+  - The Court finds that Plaintiff does not attempt to present any new or different facts or law that would establish a basis for reconsideration of the October 20, 2023 order.
+```
+
+English-text summary:
+
+This is a tentative ruling by Judge Holly J. Fujie regarding a motion for reconsideration filed by Plaintiff Leah Alspaugh against Defendant BNY Bank. The motion is related to the Court's previous ruling on Defendant's Motion to Quash Service of Summons, which was granted on October 20, 2023. Plaintiff argues that she properly served Defendant with the Complaint and that the Court does not have jurisdiction over Defendant. The Court finds that Plaintiff's motion is facially deficient as it does not comply with the affidavit requirements and does not present any new or different facts or law that would establish a basis for reconsideration. The motion is therefore denied.

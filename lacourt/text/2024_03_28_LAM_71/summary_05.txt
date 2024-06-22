@@ -1,0 +1,24 @@
+Here is a summary of the judge's tentative ruling in YAML format:
+
+```
+case_number: 22STCV41125
+hearing_date: March 28, 2024
+department: 71 Superior Court of California, County of Los Angeles
+
+plaintiff:
+  name: Adam Cohen
+
+defendants:
+  - Yoon Chung
+  - Yoon Chung Design, Inc.
+  - Ona by Yoon Chung, LLC
+
+demurrer:
+  - to Plaintiff's 1st-6th causes of action for fraud, breach of contract, intentional interference with prospective economic advantage, breach of fiduciary duty, and fraudulent inducement
+  - overruled for all causes of action
+
+facts:
+  - Plaintiff entered into a business relationship with Yoon and YCD in January 2019
+  - Yoon was appointed president of Ona and YCD
+  - Plaintiff provided initial investment of $300,000 to Ona
+  - Yoon and YCD were responsible for designing clothing line, developing customer base, and running

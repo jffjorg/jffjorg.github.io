@@ -1,0 +1,84 @@
+Here is the summary in YAML format:
+
+```
+case_number: 20STCV09554
+plaintiff_names:
+  - Maria Lopez
+  - Martin Gonzalez
+  - Sonia Soto
+  - Jayden Salas
+  - Giancarlo Salas
+  - Christian Gonzalez
+defendant_names:
+  - Matrix Service, Inc.
+  - Torrance Refining Company, LLC
+people_names:
+  - Gamaliel Gonzalez
+  - Orlando Carbajal
+  - Ms. Harwell
+  - Mr. Watts
+company_names:
+  - Matrix Service, Inc.
+  - Torrance Refining Company, LLC
+  - J.T. Thorpe
+places:
+  - Torrance Refinery
+  - Torrance
+dates:
+  - May 8, 2020
+  - September 17, 2020
+  - December 22, 2023
+  - February 15, 2024
+  - February 28, 2024
+  - March 8, 2024
+  - March 20, 2024
+  - March 21, 2024
+  - March 25, 2024
+  - September 9, 2024
+events:
+  - Wrongful death of Gamaliel Gonzalez
+  - Deposition of Orlando Carbajal
+  - Ex parte application for an order compelling answers to deposition questions and production of documents
+money:
+  - None specified
+intentions:
+  - To determine whether all responsive documents have been produced in discovery
+  - To compel answers to deposition questions and production of documents
+facts:
+  - Gamaliel Gonzalez was killed in an accident at the Torrance Refinery
+  - Matrix Service, Inc. designed and manufactured the jack stand that malfunctioned
+  - Torrance Refining Company, LLC owned the tank where the accident occurred
+disputes:
+  - Whether all responsive documents have been produced in discovery
+  - Whether the deponent was properly instructed not to answer questions
+acts:
+  - Refusal to answer questions at deposition
+  - Instructions to deponent not to answer questions
+agreements:
+  - None specified
+laws:
+  - California Code of Civil Procedure § 2025.480
+  - California Code of Civil Procedure § 2031.250
+  - Dayo v. Kilbourne (1978)
+  - Melendrez v. Superior Ct. (2013)
+case_citations:
+  - Code Civ. Proc., § 2025.480(a)
+  - Code Civ. Proc., § 2025.480(b)
+  - Code Civ. Proc., § 2031.250
+statutes:
+  - California Code of Civil Procedure
+roles:
+  - Judge
+  - Plaintiff
+  - Defendant
+  - Witness
+  - Counsel
+  - Court
+significant_statements:
+  - The court grants the ex parte application and requires further deposition of the deponent prior to filing of the motion for summary judgment opposition.
+  - The court finds good cause to grant the motion in line with the precedent set in Melendrez.
+```
+
+And here is a summary of the judge's tentative ruling in English text:
+
+The court has tentatively granted the ex parte application of Matrix Service, Inc. for an order compelling answers to deposition questions and production of documents by Orlando Carbajal. The court finds that the deponent's refusal to answer questions at his deposition was improper and that further discovery is necessary to determine whether all responsive documents have been produced in discovery. The court notes that the deponent verified Matrix's discovery responses and that further discovery can be directed to the deponent to determine the sources of the initial responses. The court also finds that the instructions to the deponent not to answer questions were without merit and a misuse of the discovery process. The court orders that the deponent be required to answer questions and produce documents prior to the filing of Matrix's motion for summary judgment opposition.

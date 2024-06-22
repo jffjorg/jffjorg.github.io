@@ -1,0 +1,56 @@
+Here is the summary in YAML format:
+
+```
+case_number: 23NWCV00123
+plaintiff_name: SEGURA-LEMUS
+defendant_name: GENERAL MOTORS, LLC
+people_names:
+  - SEGURA-LEMUS
+company_names:
+  - GENERAL MOTORS, LLC
+places:
+  - California
+dates:
+  - March 19, 2024
+  - March 28, 2024
+events:
+  - Demurrer
+  - Request for Dismissal without prejudice
+  - Motion to Strike
+money:
+  - Punitive damages
+intentions:
+  - To dismiss the Fourth Cause of Action for Fraud
+facts:
+  - Plaintiff's Fourth Cause of Action for Fraud is MOOT
+  - Plaintiff's claim for punitive damages is premised on the viability of their fourth cause of action
+disputes:
+  - Dispute over the availability of punitive damages
+acts:
+  - Filing of the First Amended Complaint
+  - Filing of the Request for Dismissal without prejudice
+  - Filing of the Motion to Strike
+agreements:
+  - None mentioned
+laws:
+  - California Civil Code §1794
+  - 15 U.S.C §2301
+  - California Code of Civil Procedure §436
+case_citations:
+  - Cal. Civ. Code §1794
+  - 15 U.S.C §2301
+  - CCP §436
+statutes:
+  - Song-Beverly Warranty Act
+roles:
+  - Judge
+  - Plaintiff
+  - Defendant
+significant_statements:
+  - "As a matter of law, punitive damages are not available under the remaining three causes of action, which are based on violations of the Song-Beverly Warranty Act."
+  - "Since Plaintiff's claim for punitive damages is premised on the viability of their fourth cause of action for Fraud, the Motion is GRANTED without leave to amend."
+```
+
+And here is the English-text summary of the judge's tentative ruling:
+
+The judge has tentatively ruled that the defendant's demurrer to the fourth cause of action in the plaintiff's first amended complaint is off-calendar as moot, and that the defendant's unopposed motion to strike punitive damages from the plaintiff's first amended complaint is granted without leave to amend. The judge has also granted the motion to strike punitive damages since the plaintiff's claim for punitive damages is premised on the viability of their fourth cause of action for fraud, which is now moot. The judge has based this decision on California law and federal law, specifically the Song-Beverly Warranty Act and the California Civil Code.

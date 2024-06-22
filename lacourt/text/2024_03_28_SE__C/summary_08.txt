@@ -1,0 +1,54 @@
+Here is the tentative ruling in YAML format:
+
+```
+Case Number: 23NWCV03414
+Plaintiff's Name: Beasley
+Defendant's Name: CR&R Incorporated
+People-Names:
+  - Beasley
+  - CR&R Incorporated
+Company-Names:
+  - CR&R Incorporated
+Places:
+  - California
+Dates:
+  - March 28, 2024
+  - April 30, 2024
+  - September 24, 2024
+  - November 6, 2024
+Events:
+  - Motor vehicle accident
+  - Motion to Compel Further Responses to Special Interrogatories
+  - Motion to Compel Further Responses to Requests for Production of Documents
+Money: N/A
+Intentions:
+  - Advance hearing dates
+Disputes:
+  - The need for expedited hearing dates
+Facts:
+  - The motions are identical and present similar issues
+  - The hearing dates are currently set for September 24, 2024, and November 6, 2024
+Acts:
+  - The court grants the motion for ex parte relief
+  - The hearing dates are advanced and consolidated
+Agreements:
+  - The parties agree to the advanced hearing dates
+Laws:
+  - California Rules of Court, rule 3.1202(c)
+  - Statutory basis for granting relief ex parte
+Case Citations:
+  - California Rules of Court, rule 3.1202(c)
+Statutes:
+  - N/A
+Roles:
+  - Judge: granting ex parte relief
+  - Defendant: seeking ex parte relief
+  - Plaintiff: N/A (no mention in the document)
+Significant Statements:
+  - "irreparable harm, immediate danger, or any other statutory basis for granting relief ex parte."
+    - "severe prejudice and significant waste will occur if the hearing dates are not advanced and consolidated"
+```
+
+And here is the English-text summary of the judge's tentative ruling:
+
+The court grants the defendant's motion for ex parte relief to advance the hearing dates on its Motion to Compel Further Responses to Special Interrogatories and Motion to Compel Further Responses to Requests for Production of Documents. The current hearing dates of September 24, 2024, and November 6, 2024, are advanced to today's date and continued to April 30, 2024. The court finds that the identical issues presented by each motion justify the expedited hearing dates, citing California Rules of Court, rule 3.1202(c), which allows for ex parte relief in cases of irreparable harm, immediate danger, or other statutory basis.

@@ -1,0 +1,87 @@
+Here is the summary in YAML format:
+
+```
+case_number: 23STCV25537
+hearing_date: 2024-03-26
+dept: 30
+plaintiff: EDWARD MORALES NIETO
+defendant: LADEJA DESIREE ROBINSON
+
+people_names:
+  - EDWARD MORALES NIETO
+  - LADEJA DESIREE ROBINSON
+
+company_names: []
+
+places: []
+
+dates:
+  - 1954
+  - 1979
+  - 1980
+  - 1983
+  - 1987
+  - 2010
+  - 2024
+
+events:
+  - defendant's motion to strike punitive damages
+  - meet and confer
+
+money: []
+
+intentions:
+  - to strike punitive damages
+  - to amend complaint
+
+facts:
+  - plaintiff alleges defendant was intoxicated while driving
+  - plaintiff alleges defendant was speeding while driving
+  - defendant was aware of the probable dangerous consequences of their conduct
+  - defendant willfully and deliberately failed to avoid those consequences
+
+disputes:
+  - whether punitive damages should be awarded
+  - whether plaintiff's allegations are sufficient to support punitive damages
+
+acts:
+  - defendant's alleged intoxication while driving
+  - defendant's alleged speeding while driving
+
+agreements: []
+
+laws:
+  - Code Civ. Proc., § 435(b)(1)
+  - Code Civ. Proc., § 436
+  - Code Civ. Proc., § 3294
+  - Civil Code § 3294
+
+case_citations:
+  - Stafford v. Shultz (1954) 42 Cal.2d 767, 782
+  - Turman v. Turning Point of Cent. Cal., Inc. (2010) 191 Cal.App.4th 53, 63
+  - Nolin v. National Convenience Stores, Inc. (1979) 95 Cal.App.3d 279, 286-288
+  - McDonell v Amer. Trust Co. (1955) 130 Cal.App.2d 296, 300
+  - Woolstrum v. Mailloux (1983) 141 Cal.App.3d Supp. 1, 12
+  - Taylor v. Superior Court (1979) 24 Cal. 3d 890, 895-96
+  - Dawes v. Sup. Ct. (1980) 111 Cal.App.3d 82, 89
+  - Coll. Hosp., supra, 8 Cal. 4th at 725
+
+statutes:
+  - Code Civ. Proc., § 435(b)(1)
+  - Code Civ. Proc., § 436
+  - Code Civ. Proc., § 3294
+  - Civil Code § 3294
+
+roles:
+  - Judge
+  - Plaintiff
+  - Defendant
+
+significant_statements:
+  - Defendant's motion to strike punitive damages is GRANTED without leave to amend.
+  - The Court finds that the allegations in the complaint regarding the intoxication of Defendant are insufficient to support the imposition of punitive damages.
+```
+
+And here is the English summary:
+
+The Judge has issued a tentative ruling on a motion to strike punitive damages brought by the defendant. The Judge finds that the plaintiff's allegations regarding the defendant's intoxication while driving do not support the imposition of punitive damages. The Judge notes that the plaintiff must allege specific factual circumstances that show the risk of injury was probable, such as weaving through lanes of traffic or a previous conviction for driving under the influence of alcohol. The Judge also finds that the proposed amended complaint does not cure the defects outlined above and therefore will not allow leave to amend. The Judge grants the defendant's motion to strike punitive damages without leave to amend.

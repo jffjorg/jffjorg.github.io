@@ -1,0 +1,74 @@
+Here is the summary in YAML format:
+
+```
+Case:
+  Number: 22STCV24239
+  Type: Order to Show Cause Re: Entry of Default Judgment
+
+Plaintiff:
+  Name: American Decking & Waterproofing Co
+
+Defendant:
+  Name: Andrew Zuker dba Cazco Construction
+  Company: Cazco Construction LLC
+
+People-Names:
+  - Andrew Zuker
+
+Company-Names:
+  - Cazco Construction LLC
+  - American Decking & Waterproofing Co
+
+Places: []
+
+Dates:
+  - March 22, 2024
+
+Events:
+  - Default judgment hearing
+  - Request for attorney fees
+
+Money:
+  - $960
+  - $1,200
+  - $1,589.40
+
+Intentions:
+  - Plaintiff seeks default judgment against defendants
+  - Plaintiff requests attorney fees
+
+Facts:
+  - Plaintiff's application meets requirements for default judgment
+  - Plaintiff's request for attorney fees is excessive
+
+Disputes:
+  - Amount of attorney fees to be awarded
+
+Acts:
+  - Plaintiff's application for default judgment
+  - Plaintiff's request for attorney fees
+
+Agreements:
+  - Civil Code section 1717.5
+
+Laws:
+  - Civil Code section 1717.5
+
+Case Citations: []
+
+Statutes:
+  - Civil Code section 1717.5
+
+Roles:
+  - Judge
+  - Plaintiff
+  - Defendant
+
+Significant Statements:
+  - "The court will modify the proposed judgment plaintiff submitted on form JUD-100 and will enter judgment."
+  - "Plaintiff may only recover $1,200 pursuant to Civil Code section 1717.5."
+```
+
+And here is a summary of the judge's tentative ruling in English text:
+
+The court has considered the plaintiff's application for default judgment against the defendants, Andrew Zuker dba Cazco Construction and Cazco Construction LLC. The plaintiff's application meets the requirements for default judgment, but the requested attorney fees are excessive. The plaintiff seeks attorney fees under Civil Code section 1717.5, which caps the amount at $1,200. The plaintiff's counsel, however, has requested $1,589.40 in attorney fees, which is above the allowed amount. Therefore, the court will reduce the judgment's amount of attorney fees to $1,200. The plaintiff's request for default judgment is granted in part, and the court will enter judgment after modifying the proposed judgment.

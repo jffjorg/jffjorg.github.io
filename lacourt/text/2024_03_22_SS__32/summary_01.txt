@@ -1,0 +1,65 @@
+Here is the summary in YAML format:
+
+```
+case_number: 21STCV32388
+plaintiff_name: Maya Sebastian
+defendant_name: Allstate Building and Office Maintenance, Inc.
+people_names:
+  - Maya Sebastian
+  - First Church of the Nazarene of Pasadena
+  - Sunrise Preschool
+  - Doe 1
+  - Roes 1-50
+company_names:
+  - Allstate Building and Office Maintenance, Inc.
+  - First Church of the Nazarene of Pasadena
+  - Sunrise Preschool
+places:
+  - Pasadena
+dates:
+  - September 1, 2021
+  - June 29, 2023
+  - August 25, 2023
+  - September 20, 2023
+  - March 22, 2024
+events:
+  - Slip and fall
+  - Filing of complaint
+  - Filing of cross-complaint
+  - Motion for leave to file cross-complaint
+money: Not specified
+intention: Grant leave to file cross-complaint
+facts:
+  - Plaintiff slipped on liquid in a bathroom
+  - Allstate contracted with Sunrise Preschool for maintenance and cleaning
+  - Assignees deny installing or maintaining air freshener
+  - Sunrise Preschool was aware of air freshener
+disputes:
+  - Liability for slip and fall
+acts:
+  - Filing of complaint
+  - Filing of cross-complaint
+  - Motion for leave to file cross-complaint
+agreements:
+  - Code of Civil Procedure
+  - Silver Organizations, Ltd. v. Frank (1990)
+laws:
+  - Code of Civil Procedure §§ 412.20(a)(3), 428.50(a), 432.10
+  - Code of Civil Procedure §§ 426.50, 428.50(c)
+  - Code of Civil Procedure § 428.10
+statutes:
+  - California Code of Civil Procedure
+roles:
+  - Judge
+  - Plaintiff
+  - Defendant
+  - Moving party
+  - Opposing party
+significant statements:
+  - The Court finds the interests of justice would be served by allowing Allstate to file the cross-complaint.
+  - The Court grants Defendant Allstate Building and Office Maintenance, Inc.'s motion for leave to file a cross-complaint.
+```
+
+Summary in English text:
+
+The tentative ruling grants Defendant Allstate Building and Office Maintenance, Inc.'s motion for leave to file a cross-complaint against First Church of the Nazarene of Pasadena, individually and dba Sunrise Preschool, for indemnity and declaratory relief. The motion was filed on August 25, 2023, and no opposition was filed. The Court finds that the interests of justice would be served by allowing Allstate to file the cross-complaint, as it is based on the same occurrence as the underlying case. The Court orders Allstate to file and serve its proposed cross-complaint within ten days of the date of this Order.

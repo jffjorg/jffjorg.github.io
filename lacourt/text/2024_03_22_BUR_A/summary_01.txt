@@ -1,0 +1,71 @@
+Here is the summary of the judge's tentative ruling in YAML format:
+
+```yaml
+Case Number: 21BBCV00927
+Plaintiff's Name: Roberto Chaidez
+Defendant's Name: Pitfire Artisan Pizza & Deluxe Foods, LLC
+People-Names:
+  - Roberto Chaidez
+  - Jaime Boalbey
+Company-Names:
+  - Pitfire Artisan Pizza & Deluxe Foods, LLC
+  - JAMS
+Places:
+  - Los Angeles
+  - Burbank
+Dates:
+  - March 22, 2024
+  - December 27, 2019
+Events:
+  - Arbitration agreement
+  - Employment interview
+  - Onboarding process
+  - Signing of arbitration agreement
+Money:
+  - None mentioned
+Intentions:
+  - To compel arbitration of individual PAGA claims
+  - To stay action pending arbitration
+Facts:
+  - Plaintiff brought PAGA action against Defendants
+  - Defendants moved to compel arbitration of individual PAGA claims
+  - Plaintiff opposed, arguing waiver and unconscionability
+  - Court found no waiver and no procedural unconscionability
+Disputes:
+  - Arbitration agreement enforceability
+  - Unconscionability
+  - Waiver
+Acts:
+  - Signing of arbitration agreement
+  - Employment interview
+  - Onboarding process
+  - Initiation of arbitration
+Agreements:
+  - Arbitration agreement
+  - JAMS rules
+Laws:
+  - California Labor Code
+  - California Rules of Court
+  - Federal Arbitration Act
+  - California Code of Civil Procedure
+Case Citations:
+  - Engalla v. Permanente Medical Group, Inc. (1997)
+  - Iskanian v. CLS Transportation Los Angeles LLC (2014)
+  - Viking River Cruises, Inc. v. Moriana (2022)
+  - Morgan v. Sundance (2022)
+  - Cisneros Alvarez v. Altamed Health Services Corporation (2021)
+  - OTO, L.L.C. v. Kho (2019)
+  - Appellate decision in Hasty v. American Automobile Assn. (2023)
+  - Adolph v. Uber Technologies, Inc. (2023)
+  - Rocha v. U-Haul Co. of California (2023)
+Roles:
+  - Plaintiff (Roberto Chaidez)
+  - Defendant (Pitfire Artisan Pizza & Deluxe Foods, LLC)
+  - Judge (F.M. Tavelman)
+Significant Statements:
+  - "The Agreement is not one of adhesion because it was not presented as a condition of Plaintiff's employment."
+  - "The failure to provide a copy of the JAMS rules generally raises procedural unconscionability concerns only if there is a substantively unconscionable provision in the omitted rules."
+  - "There is no added procedural unconscionability for failure to provide the JAMS rules to Plaintiff with the Agreement, especially when the link to those rules were provided to the Plaintiff."
+```
+
+Note that this summary is not exhaustive, and some details may have been omitted to keep the YAML format concise.

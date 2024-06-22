@@ -1,0 +1,55 @@
+Here is the summary in YAML format:
+
+```
+case_number: Grigoryan
+plaintiff_name: Grigoryan
+defendant_name: Defendant
+people_names:
+  - Grigoryan
+  - Plaintiff
+  - Defendant
+company_names:
+  - Defendant's authorized repair facility
+places:
+  - none
+dates:
+  - none
+events:
+  - customer complaints
+  - warranty history/summary
+  - repair orders
+  - meet and confer
+money:
+  - none
+intentions:
+  - to define "substantially similar" customer complaints
+facts:
+  - customer complaints in warranty history/summary
+  - repair orders created at authorized repair facility
+  - routine or scheduled maintenance items excluded
+disputes:
+  - definition of "substantially similar" customer complaints
+acts:
+  - Plaintiff's declaration
+  - Defendant's warranty history/summary
+  - repair orders
+agreements:
+  - willingness to meet and confer to list specific complaints
+laws:
+  - none cited
+case_citations:
+  - none
+statutes:
+  - none
+roles:
+  - Grigoryan (Plaintiff)
+  - Defendant (Defendant)
+significant_statements:
+  - "Substantially similar" defined as similar customer complaints
+  - Customer complaints can be found in warranty history/summary and repair orders
+  - Willingness to meet and confer to list specific complaints
+```
+
+And here is the English-text summary:
+
+This tentative ruling is based on the information presented by Grigoryan, the plaintiff, and the defendant. The plaintiff seeks to define what constitutes "substantially similar" customer complaints. The plaintiff argues that these complaints can be found in the defendant's warranty history/summary and repair orders created at the defendant's authorized repair facility. The plaintiff is willing to meet and confer to list out the specific complaints and the language used to describe them, excluding routine or scheduled maintenance items. The defendant has not attached a letter as Exhibit 7 to the plaintiff's declaration, as claimed. The judge will consider these facts and disputes when making a final ruling.

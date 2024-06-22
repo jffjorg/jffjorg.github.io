@@ -1,0 +1,73 @@
+Here is the summary in YAML format:
+
+```
+case_number: 19STCV45683
+plaintiff: AUDELINO ABUNDIS
+defendant: 5757 WILSHIRE LLC
+people_names:
+  - AUDELINO ABUNDIS
+  - Lee S. Arian
+company_names:
+  - 5757 WILSHIRE LLC
+places:
+  - Los Angeles
+  - California
+dates:
+  - March 11, 2024
+  - March 22, 2024
+  - September 30, 2022
+  - September 5, 2023
+  - December 18, 2023
+events:
+  - Defendant's motion for terminating sanctions
+  - Defendant's motion for monetary sanctions
+  - Plaintiff's declaration concerning counsel's health condition
+  - Plaintiff's payment of unpaid sanctions
+  - Further responses to discovery requests
+money:
+  - $810
+  - $960
+  - $3,000
+  - $3,960
+  - $3,579
+  - $2,310.00
+intentions:
+  - Defendant seeks to terminate sanctions
+  - Plaintiff seeks to demonstrate compliance with court orders
+facts:
+  - Plaintiff provided discovery responses
+  - Plaintiff paid outstanding sanctions
+  - Defendant failed to provide detailed accounting of outstanding sanctions
+disputes:
+  - Defendant claims not all sanctions were paid
+  - Plaintiff claims they have complied with court orders
+acts:
+  - Plaintiff's counsel declared health condition
+  - Plaintiff's counsel declared ability to continue litigating
+agreements:
+  - Parties ordered to meet and confer about outstanding sanctions
+  - Defendant authorized to file ex parte application if agreement not reached
+laws:
+  - Deyo v. Kilbourne (1978)
+  - Mileikowsky v. Tenet Healthsystem (2005)
+  - Midwife v. Bernal (1988)
+  - Kohan v. Cohan (1991)
+case_citations:
+  - Deyo v. Kilbourne (1978) 84 Cal.App.3d 771, 795-796.
+  - Mileikowsky v. Tenet Healthsystem (2005) 128 Cal.App.4th 262, 279-280.
+  - Midwife v. Bernal (1988) 203 Cal.App.3d 57, 64.
+  - Kohan v. Cohan (1991) 229 Cal.App.3d 967, 971.
+statutes: []
+roles:
+  - Judge: Lee S. Arian
+  - Plaintiff: AUDELINO ABUNDIS
+  - Defendant: 5757 WILSHIRE LLC
+significant_statements:
+  - "Defendant's Motion For Terminating Sanctions is DENIED."
+  - "Defendant's Motion For Monetary Sanctions is GRANTED."
+  - "Plaintiff has substantially complied with court’s order for sanctions and production of further discovery responses."
+```
+
+And here is a summary of the judge's tentative ruling in English text:
+
+The court has denied the defendant's motion to terminate sanctions, as the plaintiff has substantially complied with the court's orders for sanctions and production of further discovery responses. The court has granted the defendant's motion for monetary sanctions in the amount of $3,579, which the defendant claims has not been fully paid. The parties are ordered to meet and confer about the outstanding sanctions within 20 days, and if an agreement is not reached, the defendant is authorized to file an ex parte application. The court has also granted the defendant's request for attorney's fees in the amount of $2,310.00.

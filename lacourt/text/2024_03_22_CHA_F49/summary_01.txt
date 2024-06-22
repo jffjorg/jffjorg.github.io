@@ -1,0 +1,79 @@
+Here is the summary in YAML format:
+
+```
+case_number: "21CHCV00760"
+hearing_date: "March 22, 2024"
+dept: "F49"
+case_name: "Maya Shulman, et al. v. Kapustin"
+plaintiff: "Maya Shulman, a law corporation"
+defendant: "Olga Kapustin"
+people:
+  - Maya Shulman
+  - Olga Kapustin
+companies:
+  - Shulman Family Law Group
+  - Kapustin
+places:
+  - Los Angeles
+dates:
+  - September 30, 2021
+  - December 29, 2021
+  - January 14, 2022
+  - June 6, 2022
+  - September 19, 2022
+  - February 16, 2023
+  - October 9, 2023
+  - February 13, 2024
+  - February 8, 2024
+  - February 14, 2024
+events:
+  - Demurrer filed
+  - Motion to Strike filed
+  - Opposition filed
+  - Reply filed
+money:
+  - $100,000
+intentions:
+  - To induce reliance
+  - To conceal or suppress material facts
+  - To defraud
+facts:
+  - Shulman Family Law Group does not exist
+  - Kapustin signed a fee agreement with Shulman Family Law Group
+  - Kapustin paid money to Shulman Family Law Group
+disputes:
+  - Breach of contract
+  - Fraud
+  - Declaratory relief
+acts:
+  - Concealment
+  - Misrepresentation
+agreements:
+  - Fee agreement
+laws:
+  - California Rules of Court
+  - Code of Civil Procedure
+  - California Civil Code
+case_citations:
+  - Marketing West, Inc. v. Sanyo Fisher (USA) Corp.
+  - Engalla v. Permanent Med. Grp., Inc.
+  - Lazar v. Superior Court
+  - Cellular Plus, Inc. v Superior Court
+  - Kirkwood v. California State Automobile Assn. Inter-Ins. Bureau
+  - Stansfield v. Starkey
+  - LiMandri v. Judkins
+  - Berkley v. Dowds
+roles:
+  - Judge
+  - Plaintiff
+  - Defendant
+  - Cross-Defendant
+significant_statements:
+  - The Court finds the arguments presented by the demurring Parties to be without merit.
+  - The Court concludes that the demurring Parties have not convincingly argued against the particularity required for FACC's allegations of fraudulent concealment.
+  - The Court overrules the Demurrer and denies the Motion to Strike.
+```
+
+Summary:
+
+The judge's tentative ruling is that the demurrer filed by the cross-defendants to the first amended cross-complaint is overruled, and the motion to strike is denied. The demurrer was filed to challenge the sufficiency of the allegations in the first amended cross-complaint, specifically the allegations of fraudulent concealment and misrepresentation. The court finds that the allegations sufficiently state a cause of action and that the demurrer fails to contest the sufficiency of the pleadings. The motion to strike was filed to strike the entire second cause of action, which seeks declaratory relief. The court denies the motion to strike, finding that declaratory relief is a viable remedy for resolving disputes over the validity of a contract.

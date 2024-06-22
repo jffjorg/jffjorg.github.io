@@ -1,0 +1,86 @@
+Here is the summary in YAML format:
+
+```
+case_number: 23STCV11852
+hearing_date: 2024-03-25
+dept: 28
+
+people_names:
+  - Nikko Peach
+  - Sandra Moran
+  - Kamryn Jefferson
+  - Azucena Solano
+  - Jane Doe
+
+company_names: []
+
+places:
+  - 514 Danbury Park Lane, Houston, TX 77073
+  - Spring Street Courthouse
+
+dates:
+  - 2023-05-25
+  - 2023-12-19
+  - 2024-02-21
+  - 2024-03-07
+  - 2024-05-24
+  - 2024-11-21
+
+events:
+  - Filing of motion to quash service of summons and complaint
+  - Filing of proof of substituted service
+  - Filing of declaration by Defendant
+  - Filing of amended proof of service
+  - Filing of "Non Service Report"
+  - Tentative ruling granting motion to quash service
+
+money: []
+
+intentions:
+  - Defendant's intention to quash service of summons and complaint
+  - Plaintiff's intention to establish effective service
+
+facts:
+  - Service of summons and complaint via substituted service at 514 Danbury Park Lane, Houston, TX 77073
+  - Defendant's denial of living at the address at the time of service
+  - Proof of service identifies "Jane Doe" as a "co-occupant" rather than a person authorized to accept service for a business
+
+disputes:
+  - Dispute over whether service of summons and complaint was effective
+
+acts:
+  - Filing of motion to quash service
+  - Filing of proof of substituted service
+  - Filing of declaration by Defendant
+  - Filing of amended proof of service
+  - Filing of "Non Service Report"
+
+agreements: []
+
+laws:
+  - California Code of Civil Procedure sections 418.10, 415.20, 416.60-416.90
+  - California Practice Guide: Civil Procedure Before Trial (Rutter 2023)
+
+case_citations:
+  - Engebretson & Co. v. Harrison (1981) 125 Cal.App.3d 436
+  - Schering Corp. v. Superior Court (1975) 52 Cal.App.3d 737
+  - Summers v. McClanahan (2006) 140 Cal.App.4th 403
+  - Dill v. Berquist Construction Co. (1994) 24 Cal.App.4th 1426
+  - Floveyor Internat., Ltd. v. Superior Court (1997) 59 Cal.App.4th 789
+
+statutes:
+  - California Code of Civil Procedure sections 418.10, 415.20, 416.60-416.90
+
+roles:
+  - Judge: [Name]
+  - Plaintiff: Nikko Peach and Sandra Moran
+  - Defendant: Kamryn Jefferson
+
+significant_statements:
+  - The Court grants Defendant's motion and quashes service of the summons and complaint on Defendant.
+  - The Court sets an OSC re: dismissal for failure to file proof of service of the summons and complaint on May 24, 2024 at 8:30 a.m. in Department 28 of the Spring Street Courthouse.
+```
+
+And here is a summary of the judge's tentative ruling in English text:
+
+The judge has granted the defendant's motion to quash service of the summons and complaint. The defendant had argued that the service was improper because they did not live at the address where the papers were left, and the proof of service did not identify a person authorized to accept service for a business. The judge found that the service was not effective and that the court did not acquire jurisdiction over the defendant. As a result, the judge quashed the service and set a hearing to consider dismissing the case for failure to file proof of service.

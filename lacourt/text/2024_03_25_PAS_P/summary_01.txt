@@ -1,0 +1,68 @@
+Here is the summary in YAML format:
+
+```
+case_number: 23AHCV02162
+plaintiff_name: Tao Lao
+defendant_name: Anina Siddiqui and Doe 1
+people_names:
+  - Tao Lao
+  - Anina Siddiqui
+company_names:
+  - Naomi Gardens
+places:
+  - Naomi Gardens retirement home
+  - Los Angeles
+dates:
+  - September 19, 2023
+  - October 13, 2023
+  - October 17, 2023
+  - March 25, 2024
+events:
+  - Demurrer filed by Defendant Siddiqui
+  - Meet and confer effort by Plaintiff's attorney
+  - Sustaining of demurrer by Judge Oldendorf
+money: $ (no specific amount mentioned)
+intentions:
+  - Plaintiff Tao Lao seeks to recover for breach of contract and common counts
+  - Defendant Siddiqui seeks to dismiss the complaint
+facts:
+  - Plaintiff Tao Lao alleges breach of contract by Defendant Siddiqui
+  - Plaintiff Tao Lao alleges identity theft, theft of personal effects, and intimidation by Defendant Siddiqui
+  - Defendant Siddiqui argues that the complaint fails to state a valid cause of action
+  - The complaint is unverified and lacks specific details
+disputes:
+  - Breach of contract
+  - Common counts
+acts:
+  - Threats to send Plaintiff to a convalescent home
+  - Alleged identity theft
+  - Alleged theft of personal effects
+  - Intimidation
+agreements:
+  - Observation agreement between Naomi Gardens and Anina Siddiqui (alleged)
+laws:
+  - California Code of Civil Procedure (CCP) § 430.10(e)
+  - California Code of Civil Procedure (CCP) § 430.30
+  - California Code of Civil Procedure (CCP) § 430.10(f)
+  - California Civil Code (CCP) § 337
+case_citations:
+  - Oasis West Realty, LLC v. Goldman (2011)
+  - Consolidated World Investments, Inc. v. Lido Preferred, Ltd. (1992)
+  - Richtek USA, Inc. v. uPI Semiconductor Corp. (2015)
+statutes:
+  - California Code of Civil Procedure (CCP) § 430.10(e)
+  - California Code of Civil Procedure (CCP) § 430.30
+  - California Code of Civil Procedure (CCP) § 430.10(f)
+  - California Code of Civil Procedure (CCP) § 337
+roles:
+  - Plaintiff: Tao Lao
+  - Defendant: Anina Siddiqui and Doe 1
+  - Judge: Margaret L. Oldendorf
+significant_statements:
+  - The demurrer is sustained as to both causes of action of the Complaint.
+  - Plaintiff Tao Lao is given 20 days to file an amended complaint.
+```
+
+English-text summary:
+
+This is a tentative ruling by Judge Margaret L. Oldendorf in a breach of contract case. The plaintiff, Tao Lao, filed a complaint against the defendant, Anina Siddiqui, alleging breach of contract and common counts. The defendant filed a demurrer, arguing that the complaint fails to state a valid cause of action. The court finds that the complaint is unclear and uncertain, and sustains the demurrer. The plaintiff is given 20 days to file an amended complaint.

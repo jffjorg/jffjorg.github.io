@@ -1,0 +1,63 @@
+Here is the summary of the Judge's tentative ruling in YAML format:
+
+```
+case_number: 20STCV39482
+plaintiff: Emerson Langlois-Ulrich
+defendant: Michael Evich Kirsanov, et al.
+people_names:
+  - Emerson Langlois-Ulrich
+  - Michael Evich Kirsanov
+company_names: []
+places: []
+dates:
+  - March 22, 2024
+  - December 13, 2023
+  - August 4, 2008
+  - January 27, 2025
+events:
+  - Motor vehicle incident
+  - Preliminary hearing
+  - Trial
+  - Motion for leave to file first amended answer
+money: []
+intentions:
+  - To allow defendant to file a first amended answer
+facts:
+  - Plaintiff filed a complaint against defendant for damages arising from a motor vehicle incident
+  - Defendant seeks to file a first amended answer to include an affirmative defense based on prelitigation settlement of plaintiff's claims
+  - The motion was initially denied due to procedural defects
+  - Defendant proposes to add a fourth affirmative defense of compromise settlement based on a settlement entered by the parties on August 4, 2008
+disputes:
+  - Defendant's motion for leave to file a first amended answer
+acts:
+  - Plaintiff filed a brief opposition to defendant's ex parte application to advance the hearing date
+  - Defendant filed a motion for leave to file a first amended answer
+  - Court issued a tentative ruling granting the motion
+agreements:
+  - None
+laws:
+  - CCP § 473(a)(1)
+  - CRC Rule 3.1324(a)
+  - CRC Rule 3.1324(b)
+  - Kittredge Sports Co. v. Superior Court (1989)
+  - Hirsa v. Superior Court (1981)
+  - Magpali v. Farmers Group, Inc. (1996)
+case_citations:
+  - Kittredge Sports Co. v. Superior Court (1989)
+  - Hirsa v. Superior Court (1981)
+  - Magpali v. Farmers Group, Inc. (1996)
+statutes:
+  - CCP § 473(a)(1)
+roles:
+  - Judge: Michelle C. Kim
+  - Plaintiff: Emerson Langlois-Ulrich
+  - Defendant: Michael Evich Kirsanov, et al.
+significant_statements:
+  - The Court will grant the defendant's motion to file a first amended answer.
+  - The defendants must file a separate copy of the proposed first amended answer within ten days of the date of this order.
+  - The parties are encouraged to meet and confer to reach an agreement.
+```
+
+Here is a summary of the Judge's tentative ruling in English text:
+
+The Court has issued a tentative ruling granting the defendant's motion for leave to file a first amended answer to include an affirmative defense based on prelitigation settlement of the plaintiff's claims. The defendant had initially sought to file the amended answer to include this defense, but the motion was initially denied due to procedural defects. The Court found that the defendant's proposed amendment was proper and necessary, and that there was no prejudice to the plaintiff in allowing the amendment. The defendant must file a separate copy of the proposed amended answer within ten days of the date of this order. The parties are encouraged to meet and confer to reach an agreement.

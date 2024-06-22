@@ -1,0 +1,55 @@
+Here is the summary in YAML format:
+
+```
+case_number: 21STCV44157
+hearing_date: March 26, 2024
+dept: 29
+defendant: Ereka Mamasig (Defendant)
+plaintiff: Michelle Clyoine Sampson (Plaintiff)
+people:
+  - Michelle Clyoine Sampson (Plaintiff)
+  - Ereka Mamasig (Defendant)
+companies:
+  - None
+places:
+  - Long Beach
+  - Irvine
+dates:
+  - December 2, 2021
+  - October 11, 2022
+  - May 10, 2023
+  - November 3, 2023
+  - November 21, 2023
+  - December 22, 2023
+  - January 8, 2024
+  - January 31, 2024
+  - February 16, 2024
+  - April 4, 2024
+  - April 15, 2024
+events:
+  - Accident on March 17, 2020
+money:
+  - No monetary amounts mentioned
+intentions:
+  - Defendant seeks to compel the deposition of Plaintiff
+facts:
+  - Plaintiff previously appeared for her deposition, but it was suspended due to a medical condition
+  - Defendant noticed an additional session of Plaintiff's deposition, but Plaintiff did not appear
+disputes:
+  - Plaintiff's failure to appear for her deposition
+acts:
+  - Defendant filed a motion to compel the deposition of Plaintiff
+  - Plaintiff did not appear for her deposition
+agreements:
+  - None
+laws:
+  - Code of Civil Procedure sections 2025.010, 2025.210-2025.280, 2025.410, and 2025.450
+statutes:
+  - Code of Civil Procedure
+roles:
+  - Judge
+  - Plaintiff
+  - Defendant
+significant statements:
+  - "Any party may obtain discovery … by taking in California the oral deposition of any person, including any party to the action." (Code Civ. Proc., § 2025.010)
+  - "If, after service of a deposition notice, a party to the action or an officer, director, managing agent, or employee of a party, or a person designated by an organization that is a party under Section 2025.230, without having served a valid objection under Section 2025.410, fails to appear for examination, or to proceed with it, or to produce for inspection any document, electronically stored information, or tangible thing described in the deposition notice, the party giving the notice may move for an order compelling the deponent's attendance and testimony, and the production for inspection of any document, electronically stored information, or tangible thing described in the deposition notice." (Code Civ. Proc., § 2025.450, subd. (a))

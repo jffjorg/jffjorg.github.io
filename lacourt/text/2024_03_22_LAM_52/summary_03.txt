@@ -1,0 +1,61 @@
+Here is the summary in YAML format:
+
+```
+case_number: 23STCV00076
+plaintiff_name: Salvador Lopez, Jr.
+defendant_names:
+  - Advance Pipe Bending
+  - Mitchell McCray
+people_names:
+  - Salvador Lopez, Jr.
+  - Mitchell McCray
+company_names:
+  - Advance Pipe Bending
+places:
+  - California
+dates:
+  - October 3, 2023
+  - January 17, 2024
+  - March 22, 2024
+  - May 17, 2024
+events:
+  - Continued hearing on order to show cause
+  - Filing of first amended complaint
+  - Failure to file responsive pleadings
+  - Failure to file request for entry of default
+money:
+  - $100
+intentions:
+  - To impose sanctions on plaintiff
+facts:
+  - Plaintiff filed first amended complaint
+  - Defendants did not file responsive pleadings
+  - Plaintiff did not file request for entry of default
+disputes:
+  - Failure to comply with California Rules of Court, rule 3.110(g)
+acts:
+  - Plaintiff filed proofs of service
+  - Plaintiff did not timely file request for entry of default
+agreements:
+  - None
+laws:
+  - California Rules of Court, rule 3.110(g)
+  - Greenup v. Rodman (1986)
+  - Airs Aromatics, LLC v. CBL Data Recovery Technologies, Inc. (2018)
+case_citations:
+  - Greenup v. Rodman (1986) 42 Cal.3d 822, 830
+  - Airs Aromatics, LLC v. CBL Data Recovery Technologies, Inc. (2018) 23 Cal.App.5th 1013, 1025
+statutes:
+  - California Rules of Court, rule 3.110(g)
+roles:
+  - Judge
+  - Plaintiff
+  - Defendant
+significant_statements:
+  - The court will order plaintiff to show cause why sanctions should not be imposed
+  - The court will set an order to show cause re: why plaintiff should not pay $100 in sanctions
+```
+
+And here is the English-text summary:
+
+The Judge's tentative ruling is that the plaintiff, Salvador Lopez, Jr., failed to timely file a request for entry of default against the defendants, Advance Pipe Bending and Mitchell McCray, after they did not file responsive pleadings to the first amended complaint. As a result, the court will continue the order to show cause re: entry of default judgment to May 17, 2024, and will also set an order to show cause re: why the plaintiff should not pay $100 in sanctions under California Rules of Court, rule 3.110(g). The court cites prior case law, including Greenup v. Rodman and Airs Aromatics, LLC v. CBL Data Recovery Technologies, Inc., to support its decision.

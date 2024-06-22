@@ -1,0 +1,130 @@
+Here is the summary in YAML format:
+
+**Case Information**
+```
+case_number: 23CHCV01341
+hearing_date: March 22, 2024
+dept: F43 Dept. F43
+```
+
+**Parties**
+```
+plaintiff: Wvistano Daniel Perez
+defendants:
+  - FCI Lender Services, Inc.
+  - Puerto Loreto, LLC
+  - California TD Specialists
+```
+
+**People and Companies**
+```
+people:
+  - Wvistano Daniel Perez
+  - Ying Gu
+companies:
+  - FCI Lender Services, Inc.
+  - Puerto Loreto, LLC
+  - California TD Specialists
+```
+
+**Places**
+```
+places:
+  - California
+```
+
+**Dates**
+```
+dates:
+  - February 2022
+  - January 20, 2023
+  - June 22, 2023
+```
+
+**Events**
+```
+events:
+  - Mortgage taken out
+  - Default on loan
+  - Notice of Default recorded
+  - Property sold
+```
+
+**Money**
+```
+money:
+  - $2,000,000.00
+```
+
+**Intentions**
+```
+intentions:
+  - Plaintiff's intention to challenge Defendants' actions
+  - Defendants' intention to defend against Plaintiff's claims
+```
+
+**Facts**
+```
+facts:
+  - Plaintiff took out a mortgage
+  - Plaintiff defaulted on the loan
+  - Plaintiff contacted FCI to explore loss mitigation options
+  - FCI recorded a Notice of Default
+  - Plaintiff sold the property
+```
+
+**Disputes**
+```
+disputes:
+  - Violation of Civ. Code §§ 2923.5 and 2923.7
+  - Failure to assess Plaintiff's finances
+  - Failure to contact Plaintiff regarding non-foreclosure options
+```
+
+**Acts**
+```
+acts:
+  - Plaintiff's complaint
+  - Defendants' demurrer
+  - Request for judicial notice
+```
+
+**Agreements**
+```
+agreements:
+  - Civ. Code § 2923.5
+  - Civ. Code § 2923.7
+  - Civ. Code § 2924.12
+  - Business and Professions Code § 17200
+```
+
+**Laws**
+```
+laws:
+  - California Civil Code
+  - California Business and Professions Code
+```
+
+**Case Citations**
+```
+case_citations:
+  - Blank v. Kirwan (1985) 39 Cal.3d 311
+  - Postley v. Harvey (1984) 153 Cal.App.3d 280
+  - Berkley v. Dowds (2007) 152 Cal.App.4th 518
+  - Picton v. Anderson Union High School Dist. (1996) 50 Cal.App.4th 726
+  - Morris v. JPMorgan Chase Bank, N.A. (2022) 78 Cal.App.5th 279
+  - Cardenas v. Caliber Home Loans, Inc. (N.D.Cal.2017) 281 F.Supp.3d 862
+  - Shupe v. Nationstar Mortgage LLC (E.D.Cal.2017) 231 F.Supp.3d 597
+  - Batt v. City and County of San Francisco (2007) 155 Cal.App.4th 65
+  - Ball v. FleetBoston Financial Corp. (2008) 164 Cal.App.4th 794
+  - Puentes v. Wells Fargo Home Mortg., Inc. (2008) 160 Cal.App.4th 638
+  - Khoury v. Maly's of California, Inc. (1993) 14 Cal.App.4th 612
+```
+
+**Significant Statements**
+```
+significant_statements:
+  - "The demurrer is sustained for the First and Second Causes of Action without leave to amend because there is no longer a mortgage."
+  - "Plaintiff's cause of action for declaratory relief is derivative of his First and Second Causes of Action, which fail because there is no mortgage to postpone or enjoin."
+  - "Defendants' demurrer to Plaintiff's Fourth Cause of Action is sustained with leave to amend to give Plaintiff the opportunity to plead this cause of action with particularity."
+```

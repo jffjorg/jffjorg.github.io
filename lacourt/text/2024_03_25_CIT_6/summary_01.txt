@@ -1,0 +1,69 @@
+Here is a summary of the judge's tentative ruling in YAML format:
+
+```
+case_number: 21PSCV00636
+hearing_date: March 25, 2024
+dept: 6
+case_name: Art Weiss, Inc. v. Cloud Control, Inc., et al.
+plaintiff: Art Weiss, Inc.
+defendant: Cloud Control, Inc., Jefferson Liou
+people_names:
+  - Art Weiss
+  - Cloud Control
+  - Jefferson Liou
+company_names:
+  - Art Weiss, Inc.
+  - Cloud Control, Inc.
+places:
+  - Baldwin Park, CA 91706
+dates:
+  - August 9, 2021
+  - January 5, 2024
+  - September 19, 2022
+events:
+  - Breach of lease agreement
+  - Guaranty dispute
+  - Default judgment against Cloud Control
+money:
+  - $418,442.62
+  - $126,220.63
+  - $3,440.00
+  - $524.20
+  - $548,627.45
+intentions:
+  - To determine whether summary judgment is appropriate
+facts:
+  - The lease agreement and guaranty were entered into on November 29, 2017
+  - Cloud Control failed to pay rent and abandoned the premises before the end of the term
+  - Liou failed to pay Cloud Control's obligations under the lease and guaranty
+disputes:
+  - Breach of lease agreement and guaranty
+  - Damages owed to Plaintiff
+acts:
+  - Plaintiff filed a motion for summary judgment
+  - Defendant Liou did not oppose the motion
+laws:
+  - California Code of Civil Procedure section 437c
+  - California Evidence Code section 452
+  - California Civil Code section 1710
+case_citations:
+  - Aguilar v. Atlantic Richfield Co. (2001) 25 Cal.4th 826
+  - Adler v. Manor Healthcare Corp. (1992) 7 Cal.App.4th 1110
+  - Juge v. County of Sacramento (1993) 12 Cal.App.4th 59
+  - Scalf v. D.B. Log Homes, Inc. (2005) 128 Cal.App.4th 1510
+  - Code of Civil Procedure section 437c, subdivision (c)
+  - Code of Civil Procedure section 437c, subdivision (o)(1)
+  - Code of Civil Procedure section 437c, subdivision (p)(1)
+statutes:
+  - California Code of Civil Procedure section 437c
+  - California Evidence Code section 452
+roles:
+  - Judge
+  - Plaintiff (Art Weiss, Inc.)
+  - Defendant (Cloud Control, Inc. and Jefferson Liou)
+significant_statements:
+  - The Court DENIES Plaintiff's motion for summary judgment without prejudice
+  - Plaintiff is ordered to give notice of the Court's ruling within five calendar days of this order
+```
+
+Please note that this is a simplified summary and may not capture all the nuances and details of the judge's tentative ruling.

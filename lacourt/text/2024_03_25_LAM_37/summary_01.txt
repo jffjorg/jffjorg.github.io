@@ -1,0 +1,56 @@
+Here is a summary of the tentative ruling in YAML format:
+
+```
+case_number: 19STCV19669
+hearing_date: 2024-03-25
+department: 37
+judge: [Judge's Name]
+
+parties:
+  - plaintiff: Michael Eisenberg
+  - defendants:
+    - Chad McQueen
+    - City National Bank (Trustee of the Terry McQueen Testamentary Trust)
+
+summary_judgment:
+  - denied
+
+causes_of_action:
+  - tortious interference with contract
+  - intentional interference with economic advantage
+  - negligent interference with prospective economic advantage
+  - trade libel
+
+facts:
+  - The plaintiff owns a Rolex watch that was allegedly purchased by Steve McQueen and gifted to Loren Janes.
+  - The defendants dispute the provenance of the watch and claim that Steve McQueen did not gift it to Janes.
+  - The plaintiff alleges that the defendants' statements caused him to lose potential sales of the watch.
+
+disputes:
+  - The authenticity of the watch
+  - The provenance of the watch
+  - The amount of damages
+
+laws:
+  - California Code of Civil Procedure sections 437c and 437c(p)
+  - California Civil Code sections 3344.1 and 3345
+
+case_citations:
+  - Aguilar v. Atl. Richfield Co. (2001) 25 Cal. 4th 826
+  - Adler v. Manor Healthcare Corp. (1992) 7 Cal. App. 4th 1110
+  - Union Bank v. Superior Court (1995) 31 Cal. App. 4th 574
+  - Zavala v. Arce (1997) 58 Cal. App. 4th 915
+  - Saldana v. Globe-Weis Systems Co. (1991) 233 Cal. App. 3d 1505
+
+roles:
+  - Judge: [Judge's Name]
+  - Plaintiff: Michael Eisenberg
+  - Defendants: Chad McQueen and City National Bank (Trustee of the Terry McQueen Testamentary Trust)
+
+significant_statements:
+  - "The court finds that Plaintiff has failed to show that the Watch was indeed given by Steve McQueen to Loren Janes, it is speculation as to whether the Watch would have been sold for at least $1.5 million."
+  - "As the provenance of the Watch remains disputed, so does the amount of damages at issue."
+  - "The court agrees that Plaintiff has shown that the McQueen Defendants made a false statement of fact about conducting a comprehensive review and confirming the provenance of the Watch, but Plaintiff failed to show that no triable issues of material fact exist."
+```
+
+This summary provides an overview of the tentative ruling, including the parties involved, the causes of action, the facts and disputes, and the laws and case citations relevant to the case. The significant statements highlight the key points made by the judge in the ruling.

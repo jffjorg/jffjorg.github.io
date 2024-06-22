@@ -1,0 +1,64 @@
+Here is the summary in YAML format:
+```
+case_number: 22STLC04924
+plaintiff_name: Samara A. Weiner
+defendant_names:
+  - Century Property Management & Investment, Inc.
+  - Deion Gerhard
+people_names:
+  - Samara A. Weiner
+  - Art Koomer
+  - Michael Koomer
+  - Deion Gerhard
+company_names:
+  - Century Property Management & Investment, Inc.
+places:
+  - None
+dates:
+  - July 27, 2022
+  - November 23, 2022
+  - May 18, 2023
+  - June 30, 2023
+  - December 18, 2023
+  - February 5, 2024
+  - March 21, 2024
+events:
+  - Plaintiff filed action for recovery of COVID-19 rental debt
+  - Defendants filed answer and cross-complaint
+  - Plaintiff's Complaint was dismissed with prejudice
+  - Defendants filed Motion to Bifurcate Trial
+money:
+  - None
+intentions:
+  - To determine the fate of the Motion to Bifurcate Trial
+facts:
+  - Plaintiff's Complaint was dismissed with prejudice
+  - The Motion to Bifurcate Trial concerns the trial on Plaintiff's Complaint
+disputes:
+  - None
+acts:
+  - The Court granted Defendants' Motion for Judgment on the Pleadings
+  - The Court granted Defendants' ex parte application and dismissed Plaintiff's Complaint
+agreements:
+  - None
+laws:
+  - California Civil Code § 3295
+  - California Code of Civil Procedure § 598
+  - Other applicable laws
+case_citations:
+  - Minute Order, 12/18/23
+  - Minute Order, 02/05/24
+statutes:
+  - California Civil Code § 3295
+  - California Code of Civil Procedure § 598
+roles:
+  - Judge
+  - Plaintiff (Samara A. Weiner)
+  - Defendant (Century Property Management & Investment, Inc. and Deion Gerhard)
+significant_statements:
+  - The Motion to Bifurcate Trial is moot because Plaintiff's Complaint was dismissed with prejudice.
+  - The Court will place the Motion off calendar as moot.
+```
+And here is the English summary:
+
+The tentative ruling states that the Motion to Bifurcate Trial filed by Century Property Management & Investment, Inc. and Deion Gerhard is moot and will be placed off calendar as such. The motion concerns the trial on Plaintiff Samara A. Weiner's Complaint, which was previously dismissed with prejudice. The Court granted Defendants' Motion for Judgment on the Pleadings and dismissed the Complaint, making the motion to bifurcate trial unnecessary.

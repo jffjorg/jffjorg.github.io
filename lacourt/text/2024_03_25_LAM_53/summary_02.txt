@@ -1,0 +1,51 @@
+Here is the summary in YAML format:
+
+```
+Case Number: 22STCV40862
+Plaintiff's Name: Doe
+Defendant's Name: Doe 1
+People-Names: Doe, Doe 1
+Company-Names: None
+Places: None
+Dates:
+  - March 22, 2024
+  - March 25, 2024
+  - April 16, 2024
+Events:
+  - Ex parte application
+  - Hearing on motion to compel arbitration
+  - Motion to seal documents
+  - Order denying ex parte application
+Money: None
+Intentions:
+  - To grant or deny ex parte application
+  - To set hearing dates
+Facts:
+  - Plaintiff has not satisfied requirement of California Rules of Court, rule 3.1202, subdivision (c)
+  - Briefing and evidence on motion to compel arbitration closed
+Disputes:
+  - Plaintiff's claim of irreparable harm or immediate danger
+  - Defendant's motion to compel arbitration
+Acts:
+  - Plaintiff's ex parte application
+  - Defendant's motion to compel arbitration
+  - Court's continuance of hearing on motion to compel arbitration
+  - Court's order denying ex parte application
+Agreements: None
+Laws:
+  - California Rules of Court, rule 3.1202, subdivision (c)
+  - Statute allowing for ex parte relief
+Case Citations: None
+Statutes: None
+Roles:
+  - Judge: ruling on ex parte application
+  - Plaintiff: applying for ex parte relief
+  - Defendant: responding to motion to compel arbitration
+Significant Statements:
+  - "The court finds that plaintiff has not satisfied the requirement...that an applicant for an ex parte order must make an affirmative factual showing..."
+  - "The court therefore denies plaintiff's ex parte application."
+```
+
+And here is the English-text summary:
+
+The court has denied the plaintiff's ex parte application, which sought relief without notice to the opposing party. The plaintiff had failed to meet the requirement of California Rules of Court, rule 3.1202, subdivision (c), which demands an affirmative factual showing of irreparable harm, immediate danger, or other statutory basis for granting relief ex parte. The court has instead continued the hearing on the defendant's motion to compel arbitration to April 16, 2024, to be heard in conjunction with the plaintiff's motion to seal documents related to the arbitration motion.

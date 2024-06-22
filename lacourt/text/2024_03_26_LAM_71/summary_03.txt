@@ -1,0 +1,71 @@
+Here is the summary in YAML format:
+
+```
+case_number: 23STCV31619
+plaintiff_name: Miriam Motta
+defendant_name: Estrella Radio Broadcasting of California LLC, et al.
+people_names:
+  - Miriam Motta
+  - Steve Mandala
+  - Escalante
+company_names:
+  - Estrella Radio Broadcasting of California LLC
+  - Estrella Media, Inc.
+places:
+  - California
+  - Los Angeles
+dates:
+  - December 27, 2023
+  - February 28, 2024
+  - March 5, 2024
+  - March 13, 2024
+  - March 19, 2024
+  - March 26, 2024
+events:
+  - Filing of Complaint
+  - Filing of anti-SLAPP Motion
+  - Filing of Motion for Limited Discovery
+acts:
+  - Conducting limited discovery
+  - Filing motions (anti-SLAPP and limited discovery)
+money:
+  - Pay raise
+  - Disparate pay
+intentions:
+  - Allow limited discovery
+  - Deny limited discovery
+facts:
+  - Conversations about threatened claims
+  - Alleged retaliation
+  - Alleged unequal pay
+disputes:
+  - Anti-SLAPP Motion
+  - Limited discovery
+agreements:
+  - None mentioned
+laws:
+  - California Code of Civil Procedure (C.C.P.)
+  - California Labor Code (FEHA)
+  - Private Attorneys' General Act of 2004 (PAGA)
+case_citations:
+  - Balla v. Hall (2021)
+  - Lafayette v. Morehouse, Inc. v. Chronicle Publishing Co. (1995)
+  - Mattel, Inc. v. Luce, Forward, Hamilton & Scripps (2002)
+  - Tutor-Saliba Corp v. Herrera (2006)
+  - Blanchard v. DIRECTV, Inc. (2004)
+statutes:
+  - C.C.P. §425.16(g)
+  - C.C.P. §425.16
+roles:
+  - Judge
+  - Plaintiff (Miriam Motta)
+  - Defendant (Estrella Radio Broadcasting of California LLC and Estrella Media, Inc.)
+significant_statements:
+  - "The stay of discovery in an anti-SLAPP proceeding is automatic." (C.C.P. §425.16(g))
+  - "Discovery is disfavored and should not be allowed absent a showing of good cause, which Plaintiff has failed to demonstrate." (C.C.P. §425.16(g))
+  - "Plaintiff fails to meet her burden to demonstrate why the requested discovery is needed in light of the purpose of the anti-SLAPP Motion."
+```
+
+And here is a summary of the judge's tentative ruling in English text:
+
+The judge has denied the plaintiff's motion for an order permitting her to conduct limited discovery related to the defendants' anti-SLAPP motion. The defendants had filed a special motion to strike portions of the plaintiff's complaint, alleging retaliation and unequal pay. The plaintiff sought to conduct discovery to gather evidence to deny that certain conversations were protected activity under California Code of Civil Procedure section 425.16 and to gather evidence to bolster her opposition to the anti-SLAPP motion. However, the judge found that the plaintiff failed to demonstrate good cause for lifting the statutory stay of discovery and that the requested discovery was not narrowly aimed at opposing the anti-SLAPP issues presented in the defendants' motion. The judge also noted that the plaintiff's motion did not provide specific proposed deposition notices, document requests, or other proposed written discovery, making it impossible to determine whether the requested discovery satisfied the statutory requirements.
