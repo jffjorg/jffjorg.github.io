@@ -1,0 +1,63 @@
+Here is the summary in YAML format:
+
+```
+case_number: 21STCV41745
+plaintiff_name: Christian Bravo
+defendant_name: Candy Martinez
+people_names:
+  - Timothy M. Ghobrial
+  - Christian Bravo
+  - Candy Martinez
+company_names: []
+places:
+  - Upland, CA
+  - 672 W. 16th St.
+dates:
+  - March 19, 2024
+  - March 20, 2024
+events:
+  - Motion to be relieved as counsel
+  - Hearing
+  - Analysis and conclusion
+money: []
+intentions:
+  - To be relieved as counsel
+  - To continue representation
+facts:
+  - Breakdown in attorney-client relationship
+  - Insufficient notice to plaintiff
+  - "Skip trace" used to determine plaintiff's address
+  - Plaintiff has insufficient time to bring in new counsel
+disputes:
+  - Dispute over withdrawal of counsel
+acts:
+  - Filing of motion
+  - Service of notice
+  - Use of "skip trace"
+agreements:
+  - None mentioned
+laws:
+  - Cal. Rules of Court, rule 3.1362
+  - Ramirez v. Sturdevant (1994)
+  - People v. Prince (1968)
+  - Estate of Falco (1987)
+case_citations:
+  - Ramirez v. Sturdevant (1994)
+  - People v. Prince (1968)
+  - Estate of Falco (1987)
+statutes:
+  - Cal. Rules of Court, rule 3.1362
+roles:
+  - Judge: Hon. Lee S. Arian
+  - Plaintiff's Counsel: Timothy M. Ghobrial
+  - Plaintiff: Christian Bravo
+  - Defendant: Candy Martinez
+significant_statements:
+  - "The Court finds this to be proper grounds for withdrawal."
+  - "However, there is no explanation in the request of what a 'skip trace' is, its reliability, or any documentation of the search process."
+  - "Consequently, the current motion is denied without prejudice, pending further clarification and/or evidence from counsel re the 'skip trace' and pending the upcoming court appearances."
+```
+
+And here is a summary of the judge's tentative ruling in English text:
+
+The judge has issued a tentative ruling on the motion to be relieved as counsel by Timothy M. Ghobrial, the attorney for the plaintiff, Christian Bravo. The motion was unopposed and was based on an alleged breakdown in the attorney-client relationship. The judge found that this was proper grounds for withdrawal, but expressed concerns about whether proper notice was given to the plaintiff. The judge denied the motion without prejudice, pending further clarification and/or evidence from counsel regarding the "skip trace" used to determine the plaintiff's address and pending the upcoming court appearances.
