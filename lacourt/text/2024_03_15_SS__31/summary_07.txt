@@ -1,0 +1,57 @@
+Here is the summary in YAML format:
+
+```
+case_number: 22STCV39533
+plaintiff_name: Justin Biggers
+defendant_name: Ralphs Grocery Company ET AL
+people_names:
+  - Justin Biggers
+  - Michelle C. Kim
+company_names:
+  - American Guard Services, Inc.
+  - Ralphs Grocery Company
+places:
+  - Los Angeles
+  - California
+dates:
+  - August 9, 2023
+  - March 14, 2024
+  - March 15, 2024
+events:
+  - Propounding of discovery requests
+  - Failure to respond to discovery requests
+  - Motion to compel initial discovery responses
+money: None
+intentions:
+  - To compel plaintiff to respond to discovery requests
+  - To grant unopposed motions to compel
+facts:
+  - Plaintiff was properly served with discovery requests
+  - Plaintiff failed to respond to discovery requests
+  - Plaintiff's counsel withdrew from the matter
+disputes:
+  - Dispute over discovery requests
+acts:
+  - Propounding of discovery requests
+  - Failure to respond to discovery requests
+agreements:
+  - None
+laws:
+  - California Code of Civil Procedure (CCP)
+  - Leach v. Superior Court (1980)
+  - Sinaiko Healthcare Consulting, Inc. v. Pacific Healthcare Consultants (2007)
+statutes:
+  - CCP §§ 2030.290; 2031.300
+roles:
+  - Judge: Hon. Michelle C. Kim
+  - Plaintiff: Justin Biggers
+  - Defendant: Ralphs Grocery Company ET AL
+  - Moving party: American Guard Services, Inc.
+significant_statements:
+  - "Therefore, because the evidence shows Plaintiff was properly served with discovery and failed to respond, AGS' unopposed motions are GRANTED."
+  - "Plaintiff is ordered to serve verified responses to AGS' (1) form interrogatories, set one, (2) special interrogatories, set one, and (2) demand for inspection and production of documents, set one, without objections, within thirty (30) days."
+```
+
+And here is a summary of the judge's tentative ruling in English text:
+
+The judge has tentatively ruled in favor of American Guard Services, Inc. (AGS) in their unopposed motions to compel initial discovery responses from plaintiff Justin Biggers. AGS propounded discovery requests on August 9, 2023, but Biggers failed to respond despite being properly served. Biggers' counsel withdrew from the case, and Biggers has not served responses to date. The judge found that AGS met the requirements for a motion to compel, which includes proper service, expiration of the time to respond, and failure to provide a timely response. The judge granted the unopposed motions and ordered Biggers to serve verified responses to AGS' discovery requests without objections within 30 days.

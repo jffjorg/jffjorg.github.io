@@ -1,0 +1,64 @@
+Here is the summary in YAML format:
+
+```
+case_number: 19STCV11283
+plaintiff_name: Shuwen Li
+defendant_name: Timothy Pojim, Yonatan Daniel, Dajohn Wade
+people_names:
+  - Shuwen Li
+  - Timothy Pojim
+  - Yonatan Daniel
+  - Dajohn Wade
+company_names: []
+places:
+  - Los Angeles
+  - California
+dates:
+  - March 19, 2024
+events:
+  - Request for court judgment by default
+  - Hearing on the Order to Show Cause re entry of default judgment
+money:
+  - $53,980.54
+  - $50,000
+  - $50,808.54
+  - $33,100
+  - $20,072
+  - $808.54
+intentions:
+  - Plaintiff requests default judgment in their favor and against defendants
+facts:
+  - Plaintiff is entitled to damages in the reduced amount of $50,000
+  - Plaintiff expended $20,072 to repair and replace property items
+  - Code of Civil Procedure section 1033.5 permits costs of $808.54
+disputes:
+  - Dispute over amount of damages
+acts:
+  - Plaintiff's request for court judgment by default
+  - Court's limitation of damages to $50,000
+  - Court's finding of entitlement to damages and costs
+  - Court's notice of requirement to file Request for Dismissal of Doe defendants
+agreements:
+  - None
+laws:
+  - California Rules of Court, rule 3.1800
+  - Code of Civil Procedure section 1033.5
+  - California Rules of Court, rule 3.1800, subdivision (a)(7)
+case_citations:
+  - (2018) 23 Cal.App.5th 1013, 1018
+  - Airs Aromatics, LLC v. CBL Data Recovery Technologies, Inc.
+statutes:
+  - California Rules of Court, rule 3.1800
+  - Code of Civil Procedure section 1033.5
+roles:
+  - Judge: Robert B. Broadbelt III
+significant_statements:
+  - The court cannot award damages in the amount of $53,172
+  - The court must limit the award of damages to $50,000
+  - The court finds that Plaintiff has proven entitlement to damages and costs
+  - The court notes that Plaintiff has not filed a Request for Dismissal of the Doe defendants
+```
+
+And here is a summary of the judge's tentative ruling in English text:
+
+The judge has issued a tentative ruling on a request for court judgment by default. The plaintiff, Shuwen Li, is seeking a default judgment against the defendants, Timothy Pojim, Yonatan Daniel, and Dajohn Wade, in the amount of $53,980.54. The court finds that the plaintiff is entitled to damages in the reduced amount of $50,000 and costs of $808.54. However, the court notes that the plaintiff has not filed a Request for Dismissal of the Doe defendants, as required by California law. The court will enter a default judgment in favor of the plaintiff once the Doe defendants are dismissed.

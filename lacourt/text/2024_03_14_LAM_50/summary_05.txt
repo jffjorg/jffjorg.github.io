@@ -1,0 +1,67 @@
+Here is the summary in YAML format:
+
+```
+case_number: 23STCV11887
+plaintiff: Midway Rent a Car, Inc., a California Corporation dba Midway Fleet Leasing dba Midway Leasing dba Midway HFCA LLC
+defendant: Jennifer Timario aka Jennifer Enriquez
+people:
+  - Kevin Hy
+  - Jennifer Timario
+  - Jennifer Enriquez
+company:
+  - Midway Rent a Car, Inc.
+  - Midway Fleet Leasing
+  - Midway Leasing
+  - Midway HFCA LLC
+places:
+  - California
+  - Los Angeles
+dates:
+  - September 20, 2023
+  - December 11, 2023
+  - March 12, 2024
+  - March 14, 2024
+events:
+  - Request for default judgment
+  - Status Conference Re: Review of Default Judgment
+  - Supplemental declaration
+money:
+  - $83,700.22
+    - $77,935.05 in damages
+    - $2,818.47 in interest
+    - $498.00 in costs
+    - $2,448.70 in attorney's fees
+intentions:
+  - Plaintiff seeks entry of default judgment against Defendant
+facts:
+  - Plaintiff submitted a request for default judgment
+  - Plaintiff submitted a supplemental declaration
+  - Defendant did not respond to the request for default judgment
+disputes:
+  - Plaintiff's entitlement to attorney's fees
+acts:
+  - Plaintiff filed a request for default judgment
+  - Plaintiff filed a supplemental declaration
+  - Defendant did not respond to the request for default judgment
+agreements:
+  - California Motor Vehicle Lease Agreements
+laws:
+  - California state law
+case_citations:
+  - (Hy Decl., ¶ 9)
+  - (Suppl. Hy Decl., ¶ 3)
+statutes:
+  - California Motor Vehicle Lease Agreements
+roles:
+  - Judge: Hon. Teresa A. Beaudet
+  - Plaintiff: Midway Rent a Car, Inc.
+  - Defendant: Jennifer Timario aka Jennifer Enriquez
+significant_statements:
+  - The Court notes that it is unable to locate the language in Exhibits 5 or 6 attached to the Hy Declaration.
+  - The Court denies Plaintiff's request for default judgment without prejudice.
+  - The Court will discuss with Plaintiff a schedule for resubmission of the default judgment package.
+```
+
+And here is a summary of the judge's tentative ruling in English text:
+
+The judge has made a tentative ruling on Plaintiff's request for default judgment against Defendant Jennifer Timario aka Jennifer Enriquez. The request is for a total amount of $83,700.22, comprising damages, interest, costs, and attorney's fees. The judge notes that the Plaintiff's initial declaration did not provide adequate evidence to support the request, and the Plaintiff failed to cite any contractual provision authorizing attorney's fees. The judge also notes that the Plaintiff did not provide evidence demonstrating that it incurred attorneys' fees to recover, store, and sell the subject vehicle(s). As a result, the judge denies the request for default judgment without prejudice, and will discuss with the Plaintiff a schedule for resubmission of the default judgment package.

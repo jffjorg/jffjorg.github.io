@@ -1,0 +1,50 @@
+Here is the summary in YAML format:
+
+```
+case_number: None specified
+plaintiff_name: None specified
+defendant_name: None specified
+people_names:
+  - Defendant
+  - Plaintiff
+company_names: None
+places:
+  - California
+dates:
+  - 1/18/24
+events:
+  - Defendant's notice
+  - Memorandum of points and authorities
+  - Minute Order
+  - Court Hearing
+money: None
+intentions:
+  - Defendant seeks to strike Plaintiff's complaint
+  - Plaintiff failed to comply with California Rules of Court
+facts:
+  - Defendant's notice seeks to strike Plaintiff's complaint
+  - Memorandum of points and authorities refers to answer and cross-complaint
+  - Only operative pleading is Plaintiff's complaint
+  - Defendant's motion violates Rule 2.109 of California Rules of Court
+disputes:
+  - Striking Plaintiff's complaint
+acts:
+  - Defendant filed a notice
+  - Plaintiff failed to provide page numbering
+agreements: None
+laws:
+  - California Rules of Court, rule 2.109
+  - California Rules of Court
+statutes: None
+roles:
+  - Judge
+  - Defendant
+  - Plaintiff
+significant_statements:
+  - The Court assumes Defendant meant the complaint in the memorandum of points and authorities
+  - The Court admonishes Plaintiff to comply with the requirements of the California Rules of Court
+```
+
+And here is the English-text summary:
+
+The Judge's tentative ruling addresses a notice filed by the Defendant seeking to strike the Plaintiff's complaint. However, the memorandum of points and authorities filed by the Defendant refers to an answer and cross-complaint, which is not the operative pleading in this action. The Judge assumes the Defendant meant to seek to strike the complaint, but notes that the Defendant's motion violates Rule 2.109 of the California Rules of Court, which requires consecutively numbered papers. The Judge also admonishes the Plaintiff to comply with the requirements of the California Rules of Court in the future, as their papers do not contain page numbering.

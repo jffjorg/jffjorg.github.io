@@ -1,0 +1,52 @@
+Here is the summary in YAML format:
+
+```
+Case Number: [not provided]
+Plaintiff's Name: IFE Group
+Defendant's Name: Victoria Allen and Jeff Allen
+PeopleNames:
+  - Victoria Allen
+  - Jeff Allen
+CompanyNames:
+  - IFE Group
+Places: [not provided]
+Dates:
+  - [not provided]
+Events:
+  - Plaintiff's Request for Production
+  - Defendant's failure to respond
+Money:
+  - $1,832.70
+  - $838.00
+Intentions:
+  - Plaintiff seeks to compel responses from defendants
+  - Plaintiff seeks monetary sanctions
+Facts:
+  - Plaintiff made requests for production
+  - Defendants failed to respond
+Disputes:
+  - Failure to respond to requests for production
+Acts:
+  - Plaintiff filed motion to compel responses
+  - Plaintiff filed request for monetary sanctions
+Agreements:
+  - None stated
+Laws:
+  - California Code of Civil Procedure (C.C.P.) § 2031.300(c)
+Case Citations:
+  - [not provided]
+Statutes:
+  - [not provided]
+Roles:
+  - Plaintiff: IFE Group
+  - Defendant: Victoria Allen and Jeff Allen
+  - Judge: [not provided]
+Significant Statements:
+  - Plaintiff's Request for Sanctions is GRANTED in part for $838.00 against Defendants
+  - Defendants are ordered to respond to Plaintiff's Request for Production
+  - Defendants are ordered to pay sanctions in the amount of $838.00 to Plaintiff's Counsel
+```
+
+And here is the English-text summary:
+
+The Judge has granted the Plaintiff's motion to compel responses from both Defendants, Victoria Allen and Jeff Allen, to their requests for production. The Judge has also granted the Plaintiff's request for monetary sanctions against the Defendants in the amount of $838.00. The Judge has ordered the Defendants to respond to the Plaintiff's requests for production with code-compliant, objection-free verified responses within 20 days of notice of the order. Additionally, the Judge has ordered the Defendants to pay the sanctions of $838.00 to the Plaintiff's counsel within 30 days of service of the order.

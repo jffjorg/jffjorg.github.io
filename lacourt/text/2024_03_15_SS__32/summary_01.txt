@@ -1,0 +1,50 @@
+Here is the summary in YAML format:
+
+```
+case_number: 20STCV01009
+plaintiff_name: Jasmine Bledsoe
+defendant_name: Unopposed
+people_names:
+  - Jayden Coleman
+company_names: []
+places: []
+dates:
+  - February 15, 2024
+  - August 20, 2019
+  - March 15, 2024
+events:
+  - Petition for Minors Compromise
+  - MRI on August 20, 2019
+  - Court review of petition
+money:
+  - $6,250 (attorney fees)
+intention:
+  - To deny petition without prejudice
+facts:
+  - Claimant Jayden Coleman is 15 years old
+  - Claimant experiences scarring with occasional headaches
+  - No abnormalities were found on MRI on August 20, 2019
+disputes:
+  - None (petition is unopposed)
+acts:
+  - Petitioner filed a petition on February 15, 2024
+  - Petitioner included a medical record in the revised petition
+agreements:
+  - Petitioner will complete item 9a of MC-351
+  - Petitioner will give notice of the order
+laws:
+  - MC-351
+case_citations: []
+statutes: []
+roles:
+  - Judge
+  - Petitioner (Jasmine Bledsoe)
+  - Claimant (Jayden Coleman)
+significant_statements:
+  - The Court denies the petition without prejudice
+  - The Court finds the amount of $6,250 for attorney fees to be reasonable
+```
+
+And here is the English-text summary:
+
+This tentative ruling is related to a petition for minors compromise filed by Petitioner Jasmine Bledsoe on behalf of Claimant Jayden Coleman, a 15-year-old who is not fully recovered and experiences scarring with occasional headaches. The petition includes a medical record showing an MRI taken on August 20, 2019, which revealed no abnormalities. The Court denies the petition without prejudice and orders the Petitioner to complete item 9a of MC-351 and give notice of the order. The Court also finds the amount of $6,250 requested for attorney fees to be reasonable.

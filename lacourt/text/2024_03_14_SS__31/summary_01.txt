@@ -1,0 +1,57 @@
+Here is the summary in YAML format:
+
+```
+case_number: 19STCV00970
+plaintiff_name: Augustin Ramos
+defendant_name: Mozafar Babaie
+people_names:
+  - Augustin Ramos
+  - Mozafar Babaie
+company_names:
+  - Great Cuts Beauty Salon
+places:
+  - None
+dates:
+  - March 14, 2024
+  - July 26, 2022
+  - January 1, 2024
+events:
+  - Haircut injury
+  - Request for default judgment
+  - Conditional grant of default judgment
+money:
+  - $45,000 (initial request)
+  - $250 (reduced amount)
+  - $0 (costs waived)
+intention: To grant default judgment against Mozafar Babaie
+facts:
+  - Plaintiff suffered an injury to the outer portion of his upper right ear
+  - Plaintiff filed a single cause of action for negligence
+  - Plaintiff previously submitted no evidence of general damages
+  - Plaintiff now submits three photographs of his ear
+  - Injury is superficial and barely visible
+disputes:
+  - Amount of damages
+acts:
+  - Plaintiff filed a request for default judgment
+  - Plaintiff submitted photographs of his ear
+  - Plaintiff waived costs
+agreements:
+  - Plaintiff will file a proper proposed order using JUD-100
+laws:
+  - None mentioned
+case_citations:
+  - None mentioned
+statutes:
+  - None mentioned
+roles:
+  - Judge
+  - Plaintiff (Augustin Ramos)
+  - Defendant (Mozafar Babaie)
+significant_statements:
+  - "The Court will reduce the amount sought from $45,000 to $250 due to the lack of support after Plaintiff has already had an opportunity to substantiate his claimed damages."
+```
+
+And here is the English text summarizing the judge's tentative ruling:
+
+The judge has tentatively ruled in favor of granting a default judgment against Mozafar Babaie in the amount of $250. The plaintiff, Augustin Ramos, filed a request for default judgment after being injured during a haircut at Great Cuts Beauty Salon, where Babaie allegedly cut off a portion of Ramos's upper right ear. The plaintiff initially sought $45,000 in general damages for pain and suffering, but failed to provide evidence to support this claim. On the second request, the plaintiff submitted three photographs of his ear, which show a superficial and barely visible injury. Despite this, the judge reduced the amount sought from $45,000 to $250 due to the lack of support. The judge conditionally granted the default judgment, requiring the plaintiff to file a proper proposed order using JUD-100 within 10 days.

@@ -1,0 +1,66 @@
+Here is the summary in YAML format:
+
+```
+case_number: 22STCV09659
+plaintiff: Maria Barraza
+defendant: Alpha Beta Company dba Food 4 Less
+people_names:
+  - Maria Barraza
+  - Albert Ramirez
+company_names:
+  - Alpha Beta Company
+  - Food 4 Less
+places:
+  - Pasadena, California
+  - 1329 N. Lake Avenue
+dates:
+  - March 18, 2022
+  - July 12, 2021
+  - March 15, 2024
+events:
+  - Plaintiff slipped and fell on a transient substance on defendant's premises
+  - Defendant's employee conducted inspections and sweeps of the back aisle
+money:
+  - None mentioned
+intentions:
+  - Defendant seeks summary judgment
+  - Plaintiff opposes
+facts:
+  - Defendant's store policy requires employees to sweep and inspect the entire store at least once every 60 minutes
+  - Defendant's employees are trained to clean a spill anytime a customer informs them that an aisle needs care
+  - No customer or employee informed defendant that the aisle needed care between the time swept and plaintiff's fall
+  - Plaintiff entered the back aisle of defendant's store at 7:38:42 pm, 28 minutes after defendant's employee had inspected and swept the floor
+  - No employee walked over the area on which plaintiff slipped and fell between the spill and plaintiff's fall
+disputes:
+  - Plaintiff disputes the creation of the spill at 7:36:09 pm
+  - Plaintiff asserts that the video does not indisputably show creation of the spill
+  - Plaintiff asserts that there is an employee in the area prior to plaintiff's fall
+acts:
+  - Defendant's employee conducted inspections and sweeps of the back aisle
+  - Defendant's employee did not walk over the area on which plaintiff slipped and fell between the spill and plaintiff's fall
+agreements:
+  - None mentioned
+laws:
+  - California Code of Civil Procedure
+  - California Civil Code
+  - California Evidence Code
+case_citations:
+  - Aguilar v. Atlantic Richfield Co. (2001) 25 Cal.4th 826
+  - Smith v. Wells Fargo Bank, N.A. (2005) 135 Cal.App.4th 1463
+  - Fisherman's Wharf Bay Cruise Corp. v. Superior Court (2003) 114 Cal.App.4th 309
+statutes:
+  - California Code of Civil Procedure 437c
+  - California Civil Code 1714
+roles:
+  - Judge
+  - Defendant
+  - Plaintiff
+significant_statements:
+  - There is a triable issue of fact as to how long the substance (if any) was on the floor prior to plaintiff's fall.
+  - Defendant has not presented enough evidence to meet its burden that plaintiff cannot reasonably obtain needed evidence.
+  - The court does not reach defendant's alternative argument regarding causation.
+```
+
+And here is a summary in English text:
+
+The court has denied Defendant Alpha Beta Company dba Food 4 Less' motion for summary judgment. The motion was based on the argument that Defendant did not have actual or constructive notice of any dangerous condition that caused Plaintiff Maria Barraza to slip and fall on the floor of Defendant's store. The court found that there is a triable issue of fact as to how long the substance (if any) was on the floor prior to Plaintiff's fall, and therefore, the motion was denied. The court also noted that Defendant has not presented enough evidence to meet its burden that Plaintiff cannot reasonably obtain needed evidence. The case is set for further hearing.

@@ -1,0 +1,59 @@
+Here is the summary in YAML format:
+
+```
+case_number: Not provided
+plaintiff's_name: Not provided
+defendant's_name: Not provided
+people_names:
+  - victim
+  - perpetrator
+  - attorney general
+company_names: []
+places:
+  - California
+dates:
+  - one year (from date of recovery)
+  - 2016 (amendment)
+events:
+  - filing of a claim
+  - recovery of an amount
+  - deposit of amount in Indemnity Fund
+money:
+  - 25 percent of the amount of the recovery
+  - 75 percent of the amount and any amount not claimed
+intentions:
+  - payment to county probation department or victim
+  - deposit in Indemnity Fund
+facts:
+  - claim filed within one year of date of recovery
+  - recovery of amount subject to lien
+  - requirement of notification to board
+disputes:
+  - Not provided
+acts:
+  - filing of claim
+  - recovery of amount
+  - deposit in Indemnity Fund
+  - notification to board
+agreements:
+  - requirement of notification to board
+laws:
+  - Government Code § 13963, subd. (b)
+  - Opinion No. 81-208, 64 Cal. Op. Att'y Gen. 540
+  - 2016 amendment
+statutes:
+  - Government Code § 13963, subd. (b)
+  - Not provided
+roles:
+  - county probation department
+  - victim
+  - perpetrator
+  - attorney general
+  - board
+significant_statements:
+  - "If a claim is filed within one year of the date of recovery, the state shall pay 25 percent of the amount of the recovery..."
+```
+
+And here is the summary in English text:
+
+The tentative ruling concerns a statute requiring the state to pay 25% of the amount of a recovery subject to a lien on a judgment, award, or settlement to the county probation department or the victim responsible for the recovery. The remaining 75% and any amount not claimed within one year must be deposited in the Indemnity Fund. The statute was amended in 2016 to require notification to the board prior to receiving any recovery.

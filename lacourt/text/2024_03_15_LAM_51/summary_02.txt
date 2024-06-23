@@ -1,0 +1,65 @@
+Here is the summary in YAML format:
+
+```
+caseNumber: Not specified
+plaintiffName: Plaintiff
+defendantName: Defendants
+peopleNames:
+  - N.J.
+  - C.C.
+  - Daniel Palacios
+  - Cohen
+companyNames:
+  - None
+places:
+  - Not specified
+dates:
+  - Not specified
+events:
+  - Report creation
+  - Petition filing
+  - Anti-SLAPP motion
+money:
+  - Not specified
+intentions:
+  - Intentionally inflict emotional distress
+  - Protect reputation
+facts:
+  - Report is allegedly defamatory
+  - Report damages reputation
+  - Defamatory per se
+  - Potential financial conflicts of interest
+disputes:
+  - Litigation privilege
+  - Defamation
+  - Emotional distress
+acts:
+  - Report creation
+  - Petition filing
+agreements:
+  - None
+laws:
+  - Litigation privilege
+  - Anti-SLAPP
+  - Defamation laws
+  - Emotional distress laws
+caseCitations:
+  - Flatley v. State of California
+  - Action Apartment Association, Inc. v. City of Santa Monica
+  - Bradley v. Hartford Acc. & Indem. Co.
+  - Silberg v. Anderson
+statutes:
+  - California Code of Civil Procedure section 425.16 (anti-SLAPP statute)
+roles:
+  - Judge
+  - Plaintiff
+  - Defendant
+significantStatements:
+  - "The parties dispute whether this document is absolutely protected by the litigation privilege."
+  - "The Report is defamatory, that it is defamatory per se for painting her as scheming to control financial affairs of N.J., that it damages her reputation in the community, and that Defendants' creating the Report was meant to intentionally inflict emotional distress."
+  - "The litigation privilege is also relevant to the second step in the anti-SLAPP analysis in that it may present a substantive defense a plaintiff must overcome to demonstrate a probability of prevailing."
+```
+
+And here is a summary of the judge's tentative ruling in English text:
+
+The judge has reviewed the parties' dispute over whether a report is absolutely protected by the litigation privilege. The report is alleged to be defamatory and damages the plaintiff's reputation. The defendants argue that the report is protected by the litigation privilege, while the plaintiff argues that it is not. The judge notes that the report contains errors and that the two petitions filed by the parties are identical except for the gender of the conservatee. The judge also notes that the plaintiff's reliance on a previous case is misplaced and that the alleged potential financial conflicts of interest were leveled against the defendant Cohen, not the plaintiff. The judge will discuss this matter further in the written opinion.

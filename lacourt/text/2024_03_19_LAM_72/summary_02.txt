@@ -1,0 +1,52 @@
+Here is the summary in YAML format:
+
+```yaml
+case_number: 23STCV16017
+plaintiff_name: George Rahme
+defendant_name: The Bicycle Casino, L.P.
+people_names:
+  - George Rahme
+  - TBC (TBC states that it was erroneously sued as "The Bicycle Casino, Inc.")
+company_names:
+  - The Bicycle Casino, L.P.
+places:
+  - California
+  - Los Angeles
+dates:
+  - March 19, 2024
+events:
+  - Hearing
+  - Arbitration
+  - Private attorney general representative action
+money: $0
+intentions:
+  - Compel plaintiff to arbitrate claims
+  - Stay the action
+facts:
+  - Plaintiff filed suit against TBC
+  - TBC moves the Court to compel arbitration
+  - 2018 arbitration agreement includes a Private Attorney General Waiver
+disputes:
+  - Whether plaintiff signed the arbitration agreement
+  - Whether plaintiff's execution of the agreement was "knowing"
+acts:
+  - Plaintiff filed the lawsuit
+  - TBC moves the Court for an order to compel arbitration
+agreements:
+  - 2018 arbitration agreement
+laws:
+  - California law
+case_citations: []
+statutes: []
+roles:
+  - Judge
+  - Plaintiff
+  - Defendant
+  - Court
+significant_statements:
+  - The Court requests that the parties address the following issues
+```
+
+And here is the English summary:
+
+The Court has issued a tentative ruling in the case of George Rahme v. The Bicycle Casino, L.P. et al. (Case No. 23STCV16017). The defendant, TBC, L.P., has moved the Court to compel the plaintiff, George Rahme, to arbitrate his claims against TBC and stay the action. The Court is requesting that the parties address two key issues: whether the plaintiff contends that he did not sign the arbitration agreement or that he signed it but did not do so "knowing"; and the effect of a sentence in the 2018 arbitration agreement that waives the right to bring a private attorney general representative action.

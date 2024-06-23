@@ -1,0 +1,70 @@
+Here is the summary in YAML format:
+
+```
+case_number: Not specified
+plaintiff_name: Petitioner
+defendant_name: VOI and R&T (R&T being an abbreviation, exact name not specified)
+people_names:
+  - Akerley
+  - Niko
+  - Foreman
+  - Valov
+company_names:
+  - VOI (Virtual Office Inc.)
+  - R&T (exact name not specified)
+places:
+  - Los Angeles County
+  - California
+  - Delaware
+dates:
+  - Not specified
+events:
+  - Breach of fiduciary duty
+  - Failure to prepare documentation
+  - Failure to list petitioner as a member in books and records
+  - Court hearing
+money:
+  - Not specified
+intentions:
+  - Petitioner seeks to establish membership in VOI
+  - VOI and R&T seek to defend against petitioner's claims
+facts:
+  - Petitioner signed an unsigned declaration
+  - Petitioner failed to provide authority to support claims
+  - Operating Agreement requires listing of members in books and records
+  - Petitioner failed to demonstrate existence of Subscription Agreement
+disputes:
+  - Petitioner's claims against VOI and R&T
+  - VOI and R&T's defenses against petitioner's claims
+acts:
+  - Breach of fiduciary duty
+  - Failure to prepare documentation
+  - Failure to list petitioner as a member in books and records
+agreements:
+  - Operating Agreement
+laws:
+  - California Code of Civil Procedure (CCP) § 2015.5
+  - California statute (section 17701.13) regarding limited liability companies
+  - Niko v. Foreman (2006) 144 Cal.App.4th 344, 368
+  - Valov v. Department of Motor Vehicles (2005) 132 Cal.App.4th 1113, 1132
+case_citations:
+  - California Code of Civil Procedure (CCP) § 2015.5
+  - California statute (section 17701.13) regarding limited liability companies
+  - Niko v. Foreman (2006) 144 Cal.App.4th 344, 368
+  - Valov v. Department of Motor Vehicles (2005) 132 Cal.App.4th 1113, 1132
+statutes:
+  - California statute (section 17701.13) regarding limited liability companies
+  - California Code of Civil Procedure (CCP) § 2015.5
+roles:
+  - Judge: issuing tentative ruling
+  - Petitioner: bringing claims against VOI and R&T
+  - VOI and R&T: defending against petitioner's claims
+significant_statements:
+  - Petitioner's unsigned declaration is unavailing
+  - Petitioner's assertions of breach of fiduciary duty are unsupported by authority
+  - Even if petitioner's failure to be listed as a member in books and records could be excused, petitioner still fails to demonstrate the existence of any Subscription Agreement making him a member of VOI
+```
+
+And here is a summary of the judge's tentative ruling in English text:
+
+The judge is issuing a tentative ruling in response to a petition brought by the petitioner against VOI and R&T. The petitioner asserts that VOI and R&T negligently or intentionally breached a fiduciary duty to prepare documentation evidencing his membership in VOI. However, the judge finds that the petitioner's unsigned declaration is unavailing, and that his assertions of breach of fiduciary duty are unsupported by authority. Additionally, the judge notes that even if the petitioner's failure to be listed as a member in VOI's books and records could be excused, the petitioner still fails to demonstrate the existence of any Subscription Agreement making him a member of VOI. The judge is not persuaded by the petitioner's arguments and finds that his claims are without merit.

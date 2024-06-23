@@ -1,0 +1,36 @@
+Here is a summary of the judge's tentative ruling in YAML format:
+
+```
+case_number: 23STCV11136
+hearing_date: March 18, 2024
+department: 11
+judge: David S. Cunningham III
+
+parties:
+  plaintiff: Jane Doe
+  defendant: Adobe, Inc. (Defendant)
+
+facts:
+  - Defendant extracted private health and personally identifiable information from Kaiser Permanente's website
+  - Defendant transmitted the collected data to its own servers
+  - Plaintiff alleges that Defendant's conduct was unlawful and caused her harm
+
+disputes:
+  - Consent: Defendant argues that Plaintiff consented to the collection of her data, while Plaintiff disputes this
+  - Ownership: Defendant argues that personal data is not property, while Plaintiff asserts that it has property value
+
+intentions:
+  - Plaintiff intends to recover damages and seek injunctive relief
+  - Defendant intends to defend against the claims
+
+laws:
+  - California Invasion of Privacy Act (CIPA)
+  - California Penal Code Section 631
+  - California Penal Code Section 632
+  - California Unfair Competition Law (UCL)
+  - California Code of Civil Procedure Section 17200
+
+citations:
+  - Serrano v. Priest (1971) 5 Cal.3d 584
+  - Hahn v. Mirda (2007) 147 Cal.App.4th 740
+  - Aubry v

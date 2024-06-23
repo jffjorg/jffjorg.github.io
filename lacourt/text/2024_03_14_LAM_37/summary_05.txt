@@ -1,0 +1,55 @@
+Here is a summary of the tentative ruling in YAML format:
+
+```
+case:
+  number: 23STCV22235
+  name: Qiang Yang v. Youssef Tahiri, et al.
+  party:
+    plaintiff: Qiang Yang aka Michelle Yang
+    defendant: John Reinisch
+  dates:
+    hearing: 2024-03-14
+    complaint filing: 2023-09-14
+  events:
+    - Demurrer filed by Defendant John Reinisch
+    - Opposition filed by Plaintiff Qiang Yang
+    - Reply filed by Defendant John Reinisch
+  money:
+    - quantum meruit: $0 (sustained demurrer)
+    - punitive damages: $0 (sustained demurrer)
+  intentions:
+    - Defendant seeks to strike certain language from the complaint
+  facts:
+    - Plaintiff worked as program coordinator at Cedars-Sinai Health System
+    - Plaintiff was asked to market Defendant's surgical services
+    - Plaintiff created a WeChat group to market Defendant's services
+    - Defendant used Plaintiff's WeChat group to acquire new patients
+  disputes:
+    - Quantum meruit: Plaintiff seeks compensation for marketing services
+    - Common law misappropriation: Plaintiff seeks damages for alleged misappropriation of WeChat group
+    - Violation of Bus. & Prof. Code §§ 17200: Plaintiff seeks damages for alleged unfair business practices
+  acts:
+    - Plaintiff performed marketing services for Defendant
+    - Defendant allegedly misappropriated Plaintiff's WeChat group
+    - Plaintiff seeks damages for alleged wrongful conduct
+  agreements:
+    - None
+  laws:
+    - California Code of Civil Procedure § 430.41
+    - California Business and Professions Code § 17200
+  case citations:
+    - Huskinson & Brown v. Wolf (2004) 32 Cal.4th 453
+    - United States Golf Assn. v. Arroyo Software Corp. (1999) 69 Cal.App.4th 607
+    - Reeves v. Hanlon (2004) 33 Cal.4th 1140
+  statutes:
+    - California Code of Civil Procedure § 430.30
+    - California Business and Professions Code § 17200
+  roles:
+    - Judge: [Name]
+  significant statements:
+    - The demurrer to the fourth cause of action for quantum meruit, fifth cause of action for common law misappropriation, and sixth cause of action for violation of Bus. & Prof. Code §§ 17200 is sustained with leave to amend.
+    - The motion to strike is granted with leave to amend.
+    - Plaintiff is given 30 days leave to amend.
+```
+
+Please note that this summary is a simplified version of the original document, and some details may have been omitted to fit the YAML format.

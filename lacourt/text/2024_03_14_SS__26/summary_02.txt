@@ -1,0 +1,70 @@
+Here is the summary in YAML format:
+
+```
+case_number: 20STLC04809
+plaintiff_name: State Farm Mutual Automobile Insurance Company
+defendant_name: Kailani Figueroa
+people_names:
+  - Kailani Figueroa
+  - Juan Figueroa
+company_names:
+  - State Farm Mutual Automobile Insurance Company
+places:
+  - California
+dates:
+  - June 9, 2020
+  - January 20, 2021
+  - February 9, 2021
+  - June 30, 2022
+  - September 2, 2022
+  - January 29, 2024
+  - March 14, 2024
+events:
+  - Automobile subrogation
+  - Settlement agreement
+  - Dismissal of action
+  - Request for judgment
+money:
+  - $1,573.53 (principal)
+  - $374.50 (costs)
+  - $6,623.53 (total settlement amount)
+  - $5,000.00 (initial payment)
+  - $500.00 (maximum costs)
+intentions:
+  - To enforce settlement agreement
+  - To enter judgment in favor of Plaintiff
+facts:
+  - Plaintiff filed a motion to vacate dismissal and enforce settlement agreement
+  - Defendant defaulted on payments
+  - Settlement agreement provides for judgment in favor of Plaintiff if Defendant defaults
+disputes:
+  - None
+acts:
+  - Plaintiff filed a motion to vacate dismissal and enforce settlement agreement
+  - Defendant defaulted on payments
+  - Settlement agreement was signed by parties and their attorneys
+agreements:
+  - Settlement agreement between Plaintiff and Defendant
+laws:
+  - California Code of Civil Procedure, Section 664.6
+  - Levy v. Superior Court (1995)
+  - J.B.B. Investment Partners, Ltd. v. Fair (2014)
+  - Wackeen v. Malis (2002)
+case_citations:
+  - Levy v. Superior Court (1995) 10 Cal.4th 578
+  - J.B.B. Investment Partners, Ltd. v. Fair (2014) 232 Cal.App.4th 974
+  - Wackeen v. Malis (2002) 97 Cal.App.4th 429
+statutes:
+  - California Code of Civil Procedure, Section 664.6
+roles:
+  - Plaintiff: State Farm Mutual Automobile Insurance Company
+  - Defendant: Kailani Figueroa
+  - Judge: [Unknown]
+significant_statements:
+  - Plaintiff's motion to enforce settlement agreement is granted
+  - Judgment will be entered in favor of Plaintiff in the amount of $1,573.53 principal and $374.50 costs
+```
+
+And here is the summary in English text:
+
+The Judge's tentative ruling is that Plaintiff State Farm Mutual Automobile Insurance Company's Motion to Enforce Settlement Agreement is granted. The Judgment will be entered in favor of Plaintiff and against Defendant Kailani Figueroa in the amount of $1,573.53 principal and $374.50 costs. The settlement agreement was signed by both parties and their attorneys, and the request for retention of jurisdiction was made in writing before the action was dismissed. The settlement agreement provides for judgment in favor of Plaintiff if Defendant defaults, which has occurred.

@@ -1,0 +1,53 @@
+Here is the summary in YAML format:
+
+```
+case_number: 23STCV27583
+plaintiff_name: Pacific Walnut Center
+defendant_name: Joseph Esfandi
+people_names:
+  - Joseph Esfandi
+  - Maurice A. Leiter
+company_names:
+  - Pacific Walnut Center
+places:
+  - Los Angeles
+  - California
+dates:
+  - March 15, 2024
+  - December 19, 2023
+  - January 18, 2024
+  - February 2023
+events:
+  - Hearing Date
+  - Motion to Compel Responses to Form Interrogatories
+  - Request for Sanctions
+  - Settlement discussions
+money:
+  - $1,261.65
+intentions:
+  - To compel responses to form interrogatories
+  - To deny sanctions
+facts:
+  - Plaintiff served form interrogatories on December 19, 2023
+  - Responses were due on January 18, 2024
+  - Parties engaged in settlement discussions in January and February 2023
+disputes:
+  - Failure to respond to form interrogatories
+acts:
+  - Plaintiff moved to compel responses to form interrogatories
+  - Defendant filed opposition to the motion
+  - Court granted the motion
+agreements:
+  - Parties agreed to settlement discussions
+laws:
+  - California Code of Civil Procedure (C.C.P.) sections 2030.260(a), 2031.260(a), 2030.290(b), 2031.300(b), 2030.290(a), 2031.300(a)
+case_citations: 
+  - C.C.P. sections 2030.260(a), 2031.260(a), 2030.290(b), 2031.300(b), 2030.290(a), 2031.300(a)
+statutes:
+  - California Code of Civil Procedure (C.C.P.)
+roles:
+  - Judge: Maurice A. Leiter
+  - Plaintiff: Pacific Walnut Center
+  - Defendant: Joseph Esfandi
+significant_statements:
+  - "If a party to whom a demand for inspection, copying, testing, or sampling is directed fails to serve a timely response to it...the party to whom the demand for inspection, copying, testing, or sampling is directed waives any objection to the demand..."

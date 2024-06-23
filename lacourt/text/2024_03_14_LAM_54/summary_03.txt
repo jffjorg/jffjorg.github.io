@@ -1,0 +1,73 @@
+Here is the summary in YAML format:
+
+```
+case_number: 21STCV43430
+plaintiff:
+  - name: JOEL BERNKNOPF
+    alia: et al.
+defendant:
+  - name: BRIAN M. CRONIN
+    alia: et al.
+people:
+  - name: Jay M. Spillane
+  - name: Maurice Leiter
+  - name: Natalie Gonzalez Cronin
+  - name: Brian M. Cronin
+companies:
+  - name: ARC-IV, LLC
+  - name: ARC-V, Inc.
+  - name: Orthopros, Inc.
+  - name: Spillane Trial Group PLC
+places:
+  - name: Los Angeles
+  - name: California
+dates:
+  - date: March 14, 2024
+  - date: April 17, 2024
+events:
+  - motion to be relieved as counsel
+  - proof of service of order
+  - withdrawal from representation
+money:
+  - amount: none
+  - unit: USD
+intentions:
+  - counsel to file proof of service of order
+  - counsel to be relieved upon filing of proof of service of order
+facts:
+  - several invoices remain outstanding and unpaid
+  - serious breakdown in the attorney-client relationship
+  - clients have not executed and returned substitutions of counsel
+disputes:
+  - none mentioned
+acts:
+  - counsel has complied with CRC 3.1362
+  - OSC re: ARC-V, Inc. and Orthopros, Inc.'s Representation will be scheduled
+agreements:
+  - none mentioned
+laws:
+  - California Code of Civil Procedure (CCP) § 284
+  - California Rule of Professional Conduct 3-700
+  - California Court Rules (CRC) 3.1362
+  - California appellate case law (Ramirez v. Sturdevant, Caressa Camille, Inc. v. Alcoholic Beverage Control Appeals Bd.)
+  - California case law (California Rule of Professional Conduct 3-700)
+case_citations:
+  - Ramirez v. Sturdevant (1994) 21 Cal. App. 4th 904, 915
+  - Caressa Camille, Inc. v. Alcoholic Beverage Control Appeals Bd. (2002) 99 Cal.App.4th 1094, 1101
+statutes:
+  - California Code of Civil Procedure (CCP) § 284
+roles:
+  - Judge: Maurice Leiter
+  - Counsel: Jay M. Spillane
+  - Defendants: Brian & Natalie Cronin, ARC-IV, LLC, ARC-V, Inc., Orthopros
+  - Moving party: Jay M. Spillane
+  - Responding party: None
+significant_statements:
+  - Counsel has complied with CRC 3.1362
+  - No prejudice will result from counsel's withdrawal
+  - There is good cause for counsel's withdrawal
+```
+
+And here is a summary of the judge's tentative ruling in English text:
+
+The judge grants the motion to be relieved as counsel filed by Jay M. Spillane, attorney for the defendants. The motion is granted because there is good cause for counsel's withdrawal, as several invoices remain outstanding and unpaid, there has been a serious breakdown in the attorney-client relationship, and the clients have not executed and returned substitutions of counsel. The judge notes that counsel has complied with the requirements of California Rule of Professional Conduct 3.1362 and that no prejudice will result from counsel's withdrawal, as trial is not for five months. The judge orders counsel to file proof of service of the order within five days of notice of the ruling and to be relieved from representation upon filing of the proof of service. Additionally, the judge schedules an Order to Show Cause re: representation of ARC-V, Inc. and Orthopros, Inc. for April 17, 2024, as these corporations must retain legal counsel.

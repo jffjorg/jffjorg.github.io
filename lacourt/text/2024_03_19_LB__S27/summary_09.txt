@@ -1,0 +1,84 @@
+Here is the summary in YAML format:
+
+```
+case_number: "23LBCV01617"
+hearing_date: "March 19, 2024"
+dept: "S27"
+
+people_names:
+  - Harvey Smith
+  - Brian Beckcom
+
+company_names:
+  - Sunrise Operations, LLC
+
+places:
+  - M/V Horizon Spirit
+
+dates:
+  - prior lawsuit date (not specified)
+  - 10/10/23 (motion for sanctions)
+
+events:
+  - Back injury sustained by Harvey Smith while employed by Sunrise Operations, LLC
+  - Lawsuit filed by Harvey Smith against Sunrise Operations, LLC
+  - Demurrer filed by Sunrise Operations, LLC
+  - Pretrial conference in federal lawsuit
+  - Jury verdict in federal lawsuit
+  - Motion for sanctions filed by Sunrise Operations, LLC
+
+money:
+  - Maintenance and cure
+  - Punitive damages
+  - Pre- and post-judgment interest
+
+intentions:
+  - Defendant seeks to bar plaintiff's lawsuit based on res judicata and the rule against splitting a claim
+  - Plaintiff seeks to pursue his claims in state court despite prior federal lawsuit
+
+facts:
+  - Harvey Smith sustained a back injury while employed by Sunrise Operations, LLC
+  - Harvey Smith filed a federal lawsuit seeking maintenance and cure, punitive damages, and pre- and post-judgment interest
+  - The federal lawsuit was tried by jury and resulted in a verdict in Harvey Smith's favor, but with a finding that only 5% of the damages were caused by Sunrise Operations, LLC
+  - Harvey Smith appealed the verdict, but the appeal is still pending
+
+disputes:
+  - Res judicata and the rule against splitting a claim
+
+acts:
+  - Sunrise Operations, LLC filed a demurrer to Harvey Smith's complaint
+  - Harvey Smith filed an opposition to the demurrer
+  - The court granted the demurrer and sustained it without leave to amend
+
+agreements:
+  - None mentioned
+
+laws:
+  - Jones Act
+  - California Civil Procedure Code (CCP) sections 430.10, 430.30, 430.41, 430.50, and 92(c)
+  - Federal Rules of Civil Procedure (not specified)
+
+case_citations:
+  - Blank v. Kirwan, 39 Cal.3d 311 (1985)
+  - Financial Corporation of America v. Wilburn, 189 Cal.App.3d 764, 769 (1987)
+  - GP Vincent II v. Estate of Beard, 9th Cir. 2023) 68 F.4th 508, 514
+  - Brooks v. Raymond Dugat Co., 5th Cir. 2003) 336 F.3d 360, 362
+  - Turtle Island Restoration Network v. U.S. Dept. of State, 673 F.3d 914, 918 (9th Cir. 2012)
+
+statutes:
+  - California Civil Procedure Code (CCP) sections 430.10, 430.30, 430.41, 430.50, and 92(c)
+
+roles:
+  - Judge
+  - Harvey Smith (plaintiff)
+  - Sunrise Operations, LLC (defendant)
+  - Brian Beckcom (plaintiff's attorney)
+
+significant_statements:
+  - "The court is to give effect to specific factual allegations that may modify or limit inconsistent general or conclusory allegations."
+  - "The doctrine of res judicata bars claims that were previously submitted and also claims that arise from the same transactional nucleus of facts."
+```
+
+And here is a summary of the judge's tentative ruling in English text:
+
+The judge has sustained the demurrer filed by Sunrise Operations, LLC, which means that Harvey Smith's lawsuit against the company has been dismissed without the option to amend the complaint. The judge has concluded that the doctrine of res judicata bars Harvey Smith's claims, as he previously filed a federal lawsuit seeking the same damages and the case resulted in a final jury verdict. The judge has also found that Harvey Smith's claims in state court are based on the same transactional nucleus of facts as the claims in the prior federal lawsuit. As a result, the judge has denied Harvey Smith's request to pursue his claims in state court.

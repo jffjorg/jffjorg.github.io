@@ -1,0 +1,65 @@
+Here is the summary in YAML format:
+
+```
+case_number: 23STCV06057
+plaintiff: Tracyne Restrepo
+defendant: Sun Mar Management Services et al.
+people_names:
+  - Tracyne Restrepo
+  - Judge Thomas D. Long
+company_names:
+  - Community Care Rehab Center LLC
+  - Sun Mar Management Services
+places:
+  - Los Angeles
+  - California
+dates:
+  - May 17, 2023
+  - May 24, 2023
+  - July 13, 2023
+  - August 31, 2023
+  - June 19, 2023
+  - March 14, 2024
+events:
+  - PMK Deposition
+  - Request for Production of Documents
+  - Objection
+  - Deposition
+  - Motion to Compel Further Responses
+  - Production of Documents
+money:
+  - None mentioned
+intentions:
+  - Plaintiff seeks production of documents responsive to discovery requests
+  - Defendant objects to production of documents
+facts:
+  - Plaintiff served notice of PMK deposition and request for production of documents
+  - Defendant failed to produce all documents responsive to discovery requests
+  - Plaintiff filed motion to compel further responses
+disputes:
+  - Defendant's objection to production of documents
+acts:
+  - Plaintiff served notice of PMK deposition and request for production of documents
+  - Defendant failed to produce all documents responsive to discovery requests
+  - Plaintiff filed motion to compel further responses
+agreements:
+  - None mentioned
+laws:
+  - California Code of Civil Procedure, §§ 2025.480, 2031.280
+case_citations:
+  - Carter v. Superior Court (1990) 218 Cal.App.3d 994, 997
+statutes:
+  - California Code of Civil Procedure, §§ 2025.480, 2031.280
+roles:
+  - Judge Thomas D. Long: presiding judge
+  - Tracyne Restrepo: plaintiff
+  - Sun Mar Management Services et al.: defendants
+significant_statements:
+  - The motion to compel further responses is GRANTED.
+  - Defendant must provide supplemental responses, without objections, to discovery requests.
+  - The request for sanctions is denied.
+```
+
+And here is a summary of the judge's tentative ruling in English text:
+
+The judge has issued a tentative ruling granting the plaintiff's motion to compel further responses from the defendant. The defendant had previously failed to produce all documents responsive to discovery requests, and the plaintiff had filed a motion to compel further responses. The judge ruled that the defendant must provide supplemental responses, without objections, to the discovery requests within 30 days. The judge also denied the request for sanctions. The parties who intend to submit on this tentative must send an email to the court, and if all parties submit, no appearances before the court are required unless there is a companion hearing.

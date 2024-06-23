@@ -1,0 +1,34 @@
+Here is the summary of the tentative ruling in YAML format:
+
+```
+case_number: 23STCV09459
+hearing_date: 2024-03-14
+dept: 37
+opposing_party: Brock and Sam Barrett, Maurice Dupre
+moving_party: Mauricio Menache, Alexandra Menache
+trial_date: Not Set
+proof_of_service: OK
+
+proceeding: Demurrer with Motion to Strike
+opposition: 2024-03-01
+reply: 2024-03-07
+
+tentative_ruling:
+  - Demurrer to fourth, fifth, sixth, eighth, ninth, and tenth causes of action overruled
+  - Demurrer to fifth cause of action (negligence) sustained with leave to amend
+  - Demurrer to sixth cause of action (nuisance) sustained with leave to amend
+  - Demurrer to eighth cause of action (breach of tenant anti-harassment ordinance) overruled
+  - Demurrer to ninth cause of action (breach of Bus. & Prof. Code § 17200) overruled
+  - Demurrer to tenth cause of action (intentional infliction of emotional distress) overruled
+  - Motion to Strike certain paragraphs of the FAC granted
+```
+
+And here is the summary of the tentative ruling in English text:
+
+The tentative ruling is as follows:
+
+* The demurrer to the fourth, fifth, sixth, eighth, ninth, and tenth causes of action is overruled.
+* The demurrer to the fifth cause of action (negligence) is sustained with leave to amend.
+* The demurrer to the sixth cause of action (nuisance) is sustained with leave to amend.
+* The demurrer to the eighth cause of action (breach of tenant anti-harassment ordinance) is overruled.
+* The demurrer to the ninth cause of action (breach of Bus. & Prof. Code § 17200
