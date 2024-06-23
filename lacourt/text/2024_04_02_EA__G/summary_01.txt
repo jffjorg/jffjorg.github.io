@@ -1,0 +1,81 @@
+Here is the summary in YAML format:
+
+```
+case_number: 24PSCV00342
+hearing_date: 2024-04-02
+dept: G
+plaintiff: Eric Zhang & Associates LLP
+respondent: No opposition
+tentative_ruling: Granted
+
+people_names:
+  - Eric Zhang
+  - John Doe
+  - Does 2-25
+
+company_names:
+  - Eric Zhang & Associates LLP
+  - Sino-American Certified Public Accountants Association (SACPAA)
+  - Google
+  - Glassdoor
+  - Indeed
+
+places:
+  - California
+
+dates:
+  - 2021-01-01 (Eric Zhang's election as president of SACPAA)
+  - 2024-02-01 (complaint filed)
+  - 2024-02-06 (application filed)
+  - 2024-04-02 (hearing date)
+  - 2024-07-01 (case management conference and OSC Re: Failure to File Proof of Service set)
+
+events:
+  - False and defamatory reviews on Google, Glassdoor, and Indeed
+  - Election of Eric Zhang as president of SACPAA
+  - Filing of complaint and application
+  - Hearing and case management conference
+
+money: None
+
+intentions:
+  - To identify Doe Defendants
+  - To obtain identifying information about Doe Defendants
+
+facts:
+  - Eric Zhang & Associates LLP is an accounting firm
+  - Eric Zhang is a certified public accountant and president of SACPAA
+  - Doe Defendants allegedly made false and defamatory reviews
+  - Plaintiff seeks leave to conduct limited non-party discovery
+
+disputes:
+  - Between plaintiff and Doe Defendants
+
+acts:
+  - Filing of complaint and application
+  - Request for leave to conduct limited non-party discovery
+
+agreements:
+  - None
+
+laws:
+  - Code of Civil Procedure section 2019.020, subdivision (b)
+  - Code Civ. Proc., § 2025.210, subd. (b)
+  - Pearlson v. Does 1 To 646 (1999)
+
+statutes:
+  - None
+
+roles:
+  - Plaintiff: Eric Zhang & Associates LLP
+  - Defendant: Doe Defendants
+
+significant_statements:
+  - The court grants plaintiff's application for leave to conduct limited non-party discovery.
+  - The discovery will assist plaintiff in obtaining identifying information about Doe Defendants.
+  - The case is different from Pearlson v. Does 1 To 646 (1999) due to the limited category of Doe Defendants.
+```
+
+Here is the English-text summary:
+
+The Judge's tentative ruling is that the plaintiff, Eric Zhang & Associates LLP, is granted permission to conduct limited non-party discovery to identify the Doe Defendants who allegedly made false and defamatory reviews on Google, Glassdoor, and Indeed. This discovery will assist the plaintiff in obtaining identifying information about the Doe Defendants. The court notes that this case is different from Pearlson v. Does 1 To 646 (1999) because the category of Doe Defendants is limited to individuals who made specific comments, reviews, or posts about the plaintiff on the specified websites.

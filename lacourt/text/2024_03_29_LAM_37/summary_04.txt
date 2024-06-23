@@ -1,0 +1,77 @@
+Here is a summary of the judge's tentative ruling in YAML format:
+
+```
+case_number: 24STCP00552
+plaintiff: American International Industries
+defendant: Jack LaSalle, et al.
+people_names:
+  - American International Industries (Petitioner)
+  - Jack LaSalle (Respondent)
+  - Diana LaSalle (Respondent)
+  - Brian Dror (Respondent's accountant)
+companies:
+  - American International Industries
+  - Glamour Industries Co.
+  - SRYZ Corp.
+  - ARYZ Corp.
+  - ERX Corp.
+  - RAZY Properties, Inc.
+places:
+  - California
+  - Washington
+dates:
+  - February 21, 2024
+  - February 8, 2024
+  - February 23, 2024
+  - March 29, 2024
+events:
+  - Petition for Protective Order and to Quash Deposition Subpoena
+  - Deposition of Brian Dror
+money:
+  - None
+intensions:
+  - Petitioner seeks to prevent Respondent from obtaining personal records of American International Industries
+  - Respondent seeks to obtain personal records of American International Industries
+facts:
+  - American International Industries is a California general partnership
+  - Respondent served a subpoena on Brian Dror, an accountant of American International Industries
+  - American International Industries produced over 2500 pages of documents in response to Request for Production of Documents
+  - Respondent failed to provide notice to American International Industries as required by CCP § 1985.3
+disputes:
+  - Whether American International Industries is a consumer under CCP § 1985.3
+  - Whether Respondent complied with notice requirements under CCP § 1985.3
+acts:
+  - Petitioner filed a Petition for Protective Order and to Quash Deposition Subpoena
+  - Respondent served a subpoena on Brian Dror
+  - American International Industries produced documents in response to Request for Production of Documents
+agreements:
+  - CCP § 1985.3
+  - CCP § 2019.030
+  - CCP § 2025.420
+laws:
+  - CCP § 1985.3
+  - CCP § 2019.030
+  - CCP § 2025.420
+case_citations:
+  - Fairmont Ins. Co. v. Superior Court (2000) 22 Cal.4th 245
+  - Beverly Hills Nat'l Bank & Trust Co. v. Superior Court (1961) 195 Cal.App.2d 861
+  - West Pico Furniture Co. v. Los Angeles v. Superior Court (1961) 56 Cal.2d 407
+  - Williams v. Superior Court (2017) 3 Cal.5th 531
+  - Board of Registered Nursing v. Superior Court of Orange County (2021) 59 Cal.App.5th 1011
+roles:
+  - Petitioner (American International Industries)
+  - Respondent (Jack LaSalle and Diana LaSalle)
+  - Witness (Brian Dror)
+significant_statements:
+  - The court denies Petitioner's motion for a protective order.
+  - The court grants Petitioner's alternative motion to quash the subpoena.
+  - Petitioner is entitled to notice under CCP § 1985.3.
+  - Respondent failed to comply with notice requirements under CCP § 1985.3.
+```
+And here is a summary of the judge's tentative ruling in English text:
+
+The court denies Petitioner's motion for a protective order, finding that Petitioner has failed to show good cause for the order. The court grants Petitioner's alternative motion to quash the subpoena, finding that Respondent failed to comply with notice requirements under CCP § 1985.3.
+
+The court holds that American International Industries is a consumer under CCP § 1985.3 and is entitled to notice under that section. The court finds that Respondent's failure to provide notice to American International Industries was a violation of CCP § 1985.3, and that Respondent's subpoena requests for document production pertaining to American International Industries' personal records are invalid.
+
+The court orders that Brian Dror, an accountant of American International Industries, be excused from providing personal records under CCP § 1985.3(k). The court also orders that the deposition of Brian Dror be stayed pending compliance with CCP § 1985.3.

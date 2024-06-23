@@ -1,0 +1,105 @@
+Here is the summary in YAML format:
+
+```
+case_number: 23STCV20292
+hearing_date: March 29, 2024
+dept: 32
+
+people_names:
+  - Elizabeth Beissel
+  - Ara Kassabian
+  - Barry Floyd Dungy
+
+company_names:
+  - Ara Kassabian CPA, A Professional Corporation
+
+places:
+  - California
+
+dates:
+  - August 23, 2023
+  - November 2021
+  - May 2021
+  - December 20, 2023
+  - February 20, 2024
+  - March 18, 2024
+  - March 22, 2024
+
+events:
+  - Breach of oral contract
+  - Breach of written contract
+  - Common count - account stated
+  - Quasi-contract
+  - Accounting
+  - Fraud
+  - Declaratory relief
+  - Rescission and restitution
+
+money:
+  - 20% of revenues
+  - Unspecified damages
+
+intentions:
+  - To enforce obligations under a contract
+  - To recover unpaid revenues
+  - To recover damages for breach of contract
+  - To punish defendant for oppressive or fraudulent conduct
+
+facts:
+  - Plaintiff received an offer from Defendant to purchase the clients of Dungy's practice
+  - Defendant allegedly sent a Tentative Proposal providing for payment of 20% of revenues
+  - Plaintiff handed over Dungy's client information
+  - Defendant failed to make a good faith effort to transition the Dungy clients to his practice
+  - Plaintiff received a miniscule return on her interest
+
+disputes:
+  - Whether the contract is binding
+  - Whether Defendant has a legal obligation to pay Plaintiff
+  - Whether Plaintiff has a claim for fraud
+
+acts:
+  - Execution of the alleged contract
+  - Failure to pay revenues
+  - Failure to make a good faith effort to transition clients
+
+agreements:
+  - Tentative Proposal
+  - Letter of Administration
+
+laws:
+  - California Code of Civil Procedure section 430.30
+  - California Code of Civil Procedure section 435
+  - California Code of Civil Procedure section 436
+  - California Code of Civil Procedure section 437
+  - California Civil Code section 1624
+  - California Civil Code section 1689
+  - California Civil Code section 3294
+
+case_citations:
+  - Hahn v. Mirda (2007) 147 Cal.App.4th 740
+  - Taylor v. City of Los Angeles Dept. of Water and Power (2006) 144 Cal.App.4th 1216
+  - SKF Farms v. Superior Court (1984) 153 Cal.App.3d 902
+  - Nason v. Granz (1963) 223 Cal.App.2d 761
+  - Secrest v. Security National Mortgage Loan Trust 2002-2 (2008) 167 Cal.App.4th 544
+  - Garcia v. World Savings, FSB (2010) 183 Cal.App.4th 1031
+  - E.O.C. Ord, Inc. v. Kovakovich (1988) 200 Cal.App.3d 1194
+  - Davies v. Krasna (1970) 12 Cal.App.3d 1049
+  - Erlich v. Menezes (1999) 21 Cal.4th 543
+  - Gherman v. Colburn (1977) 72 Cal.App.3d 544
+  - Professional Tax Appeal v. Kennedy-Wilson Holdings, Inc. (2018) 29 Cal.App.5th 230
+
+roles:
+  - Judge
+  - Plaintiff
+  - Defendant
+
+significant_statements:
+  - The complaint asserts causes of action for breach of oral contract, breach of written contract, common count - account stated, quasi-contract, accounting, fraud, and declaratory relief
+  - Defendant argues that the breach of contract claim fails because there is no signed writing
+  - The court notes that Plaintiff could have ratified the transaction upon becoming administrator
+  - The court distinguishes the present case from Estate of Linnick, which concerned services contracts, not sales contracts
+  - The court overrules Defendant's demurrer and denies the motion to strike as to punitive damages
+  - The court grants the motion to strike as to attorneys' fees
+```
+
+Note: Some of the fields, such as "dates" and "events", are not strictly necessary to summarize the document, but they can be useful for organization and analysis purposes.

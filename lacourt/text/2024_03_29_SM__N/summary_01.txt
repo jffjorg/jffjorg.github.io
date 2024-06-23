@@ -1,0 +1,83 @@
+Here is the summary in YAML format:
+
+```
+caseNumber: 23SMCV02418
+hearingDate: March 29, 2024
+dept: N
+
+people:
+  - name: Ross Tarkhan
+    role: Defendant
+  - name: Rafael "Doe"
+    role: Person served
+  - name: Wilshire Quinn Income Fund Reit, LLC
+    role: Plaintiff
+
+companies:
+  - name: Wilshire Quinn Income Fund Reit, LLC
+
+places:
+  - Glendale
+  - 1319 Dorothy Drive
+  - 1316 North Columbus Avenue
+  - Apartment 105
+
+dates:
+  - January 21, 2024
+  - January 29, 2024
+  - 2020
+
+events:
+  - Service of summons
+  - Motion to quash service of summons
+  - Filing of responsive pleading
+
+money: None
+
+intentions:
+  - To quash service of summons
+  - To deny motion to quash service of summons
+
+facts:
+  - Defendant Ross Tarkhan was served at 1319 Dorothy Drive, Apartment 105, in Glendale on January 21, 2024
+  - The proof of service indicates nine attempts at personal service
+  - Defendant argues that the purported service is defective due to a typographical error and the fact that he no longer resides at the address
+
+disputes:
+  - Defective service of summons
+
+acts:
+  - Service of summons by a registered California process server
+  - Filing of motion to quash service of summons
+
+agreements:
+  - None
+
+laws:
+  - Code of Civil Procedure section 418.10
+  - Code of Civil Procedure section 418.10, subdivision (a)(1)
+  - Evidence Code section 647
+
+caseCitations:
+  - Code Civ. Proc., § 418.10, subd. (b)
+  - Evidence Code section 647
+
+statutes:
+  - Code of Civil Procedure
+  - Evidence Code
+
+roles:
+  - Judge
+  - Plaintiff
+  - Defendant
+  - Registered California process server
+
+significantStatements:
+  - The proof of service is signed by a registered California process server, who includes a declaration of diligence demonstrating nine attempts at personal service
+  - The declaration of diligence indicates that the process server first tried the address at 1316 North Columbus Avenue, Apartment 105, in Glendale, before trying a second address at 1319 Dorothy Drive in Glendale
+  - Defendant Ross Tarkhan's Motion to Quash Service of Summons is DENIED
+```
+
+Summary in English text:
+
+The Judge has issued a tentative ruling denying Defendant Ross Tarkhan's Motion to Quash Service of Summons. The Defendant had argued that the service of summons was defective due to a typographical error and the fact that he no longer resides at the address where he was served. However, the Judge found that the proof of service, executed by a registered California process server, creates a rebuttable presumption of proper service. The Defendant failed to provide sufficient evidence to rebut this presumption, and therefore, the motion to quash service of summons was denied. The Defendant is required to file a responsive pleading within 15 days of entry of this order.

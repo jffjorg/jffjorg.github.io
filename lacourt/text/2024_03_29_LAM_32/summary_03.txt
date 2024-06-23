@@ -1,0 +1,57 @@
+Here is the summary in YAML format:
+
+```yaml
+case_number: 23STCV12644
+plaintiff_name: Jamison 5455 Wilshire, LLC
+defendant_name: Tyler & Wilson, LLP
+people_names:
+  - Jamison 5455 Wilshire, LLC
+  - Tyler & Wilson, LLP
+company_names:
+  - Jamison 5455 Wilshire, LLC
+  - Tyler & Wilson, LLP
+places:
+  - Wilshire
+dates:
+  - June 2, 2023
+  - August 9, 2023
+  - March 7, 2024
+  - March 29, 2024
+events:
+  - Unlawful detainer action
+  - Default judgment
+  - Motion to vacate judgment
+  - Agreement for possession
+money:
+  - None mentioned
+intentions:
+  - Plaintiff seeks to dismiss the case
+facts:
+  - Parties have reached an agreement
+  - Default judgment was entered against Defendant
+  - No opposition to the motion
+disputes:
+  - None mentioned
+acts:
+  - Plaintiff filed a motion to vacate judgment
+  - Defendant did not oppose the motion
+agreements:
+  - Parties have reached an agreement for Defendant to maintain possession
+laws:
+  - None mentioned
+case_citations:
+  - None mentioned
+statutes:
+  - None mentioned
+roles:
+  - Plaintiff: Jamison 5455 Wilshire, LLC
+  - Defendant: Tyler & Wilson, LLP
+  - Judge: [not specified]
+significant_statements:
+  - The Court finds good cause to vacate the default judgment.
+  - The case is dismissed without prejudice.
+```
+
+And here is the summary in English text:
+
+The Judge has issued a tentative ruling on a motion to vacate a default judgment in a case between Jamison 5455 Wilshire, LLC (the Plaintiff) and Tyler & Wilson, LLP (the Defendant). The case began with an unlawful detainer action filed by the Plaintiff on June 2, 2023, and a default judgment was entered against the Defendant on August 9, 2023. However, on March 7, 2024, the Plaintiff filed a motion to vacate the default judgment, citing an agreement between the parties for the Defendant to maintain possession. There was no opposition to the motion, and the Judge has granted the motion. The default judgment is vacated, and the case is dismissed without prejudice.

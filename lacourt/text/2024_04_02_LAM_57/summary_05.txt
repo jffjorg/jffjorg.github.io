@@ -1,0 +1,55 @@
+Here is the summary in YAML format:
+
+```
+case_number: 23STCV23854
+plaintiff_name: Alex Nerush
+defendant_names:
+  - Naum Neil Shekhter
+  - Margarita V. Shekhter
+  - Alan Shekhter
+  - Alexander Shekhter
+  - NMS Properties, Inc.
+  - WS Communities, LLC
+  - 2156 Stratford, LLC
+  - Vera Shekhter
+people_names:
+  - Naum Neil Shekhter
+  - Margarita V. Shekhter
+  - Alan Shekhter
+  - Alexander Shekhter
+  - Vera Shekhter
+company_names:
+  - NMS Properties, Inc.
+  - WS Communities, LLC
+places: []
+dates:
+  - April 2, 2024
+events:
+  - Demurrer filed by Naum Defendants
+  - Demurrer filed by Vera Shekhter
+  - Hearing scheduled for April 2, 2024
+money: []
+intentions: To sustain demurrers and grant leave to amend
+facts:
+  - All three causes of action are barred by applicable statutes of limitations
+  - Allegations in the complaint are insufficient to support any of the causes of action
+disputes:
+  - Statutes of limitations
+  - Pleading defects in the complaint
+acts: Demurrer filed by Naum Defendants and Vera Shekhter
+agreements: None
+laws:
+  - Statutes of limitations
+case_citations: []
+statutes: []
+roles:
+  - Judge
+  - Plaintiff (Alex Nerush)
+  - Defendant (Naum Neil Shekhter, Margarita V. Shekhter, Alan Shekhter, Alexander Shekhter, Vera Shekhter, NMS Properties, Inc., WS Communities, LLC, 2156 Stratford, LLC)
+significant_statements:
+  - The Court is sustaining both demurrers for two reasons: the complaints are barred by applicable statutes of limitations and the allegations are insufficient to support any of the causes of action.
+```
+
+And here is the English-text summary:
+
+The tentative ruling by the Judge sustains the demurrers filed by the Naum Defendants and Vera Shekhter to the complaint of Plaintiff Alex Nerush. The demurrers target different causes of action in the complaint, but the Judge finds that all three causes of action are barred by applicable statutes of limitations. Additionally, the allegations in the complaint are insufficient to support any of the causes of action. The Judge grants leave to amend, suggesting that the Plaintiff may be able to cure the pleading defects identified in the demurrers. The ruling will be discussed further at a hearing scheduled for April 2, 2024.

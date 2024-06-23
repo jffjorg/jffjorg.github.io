@@ -1,0 +1,65 @@
+Here is the summary in YAML format:
+
+```
+case_number: 23STCV14336
+plaintiff_name: Elizabeth Renee Serrano
+defendant_name: Raul Gutierrez
+people_names:
+  - Michael Domingo
+  - Hon. Lee S. Arian
+company_names:
+  - Culver Legal, LLP
+places:
+  - California
+dates:
+  - March 29, 2024
+  - December 3, 2024
+  - December 17, 2024
+  - 1994
+  - 1968
+  - 1987
+events:
+  - Motion to be relieved as counsel
+  - Hearing
+  - Trial
+money: None
+intentions:
+  - Domingo seeks to be relieved as counsel
+  - Plaintiff seeks new counsel
+facts:
+  - Breakdown in attorney-client communication
+  - No opposition filed
+  - Requisite forms not filed and served
+disputes:
+  - None
+acts:
+  - Domingo moves to be relieved as counsel
+  - Court reviews legal standard
+  - Court denies motion
+agreements:
+  - None
+laws:
+  - California Rules of Court, rule 3.1362
+  - Ramirez v. Sturdevant (1994)
+  - People v. Prince (1968)
+  - Estate of Falco (1987)
+case_citations:
+  - Ramirez v. Sturdevant (1994) 21 Cal.App.4th 904, 915
+  - People v. Prince (1968) 268 Cal.App.2d 398, 403-407
+  - Estate of Falco (1987) 188 Cal.App.3d 1004, 1014
+statutes:
+  - California Rules of Court, rule 3.1362
+roles:
+  - Judge: Hon. Lee S. Arian
+  - Counsel: Michael Domingo
+  - Plaintiff: Elizabeth Renee Serrano
+  - Defendant: Raul Gutierrez
+significant_statements:
+  - The Court has discretion to allow an attorney to withdraw.
+  - A breakdown in the attorney-client relationship and/or communication is grounds for allowing the attorney to withdraw.
+  - The Court notes that the next hearing is an FSC set for 12/3/24, ample amount of time for Plaintiff to seek new counsel.
+```
+
+And here is a summary of the judge's tentative ruling in English text:
+
+The judge has issued a tentative ruling on a motion to be relieved as counsel filed by Michael Domingo, who represents Elizabeth Renee Serrano, the plaintiff, in a case against Raul Gutierrez. Domingo seeks to be relieved as counsel due to an irremediable breakdown in the attorney-client communication, which has rendered it unreasonably difficult, if not impossible, for him to continue representing the plaintiff. The court finds that this is proper grounds for withdrawal, as a breakdown in the attorney-client relationship and/or communication is grounds for allowing the attorney to withdraw. However, the court denies the motion because the requisite forms have not been filed and served. The court notes that the next hearing is an FSC set for December 3, 2024, which is ample time for the plaintiff to seek new counsel.

@@ -1,0 +1,68 @@
+Here is the judge's tentative ruling in YAML format:
+
+```
+case_number: PC042282
+plaintiff: Robert Johnson
+defendant: ATA Services, Inc.
+people_names:
+  - Robert Johnson
+  - David A. Garcia
+company_names:
+  - Automated Teller Accessories, Corp.
+  - ATA Services, Inc.
+places:
+  - California
+dates:
+  - 4/2/10 (default judgment)
+  - 2/15/24 (motion filing)
+  - 2/20/24 (motion filing)
+  - 3/22/24 (opposition filing)
+money:
+  - payments due to or become due to judgment debtor(s)
+  - punitive damages
+intentions:
+  - adding new names to the judgment
+  - reinstating punitive damages
+facts:
+  - default judgment was entered on 4/7/10
+  - Plaintiff filed motions on 2/15/24 and 2/20/24
+  - ATA Services, Inc. filed opposition on 3/22/24
+disputes:
+  - adding new names to the judgment
+  - reinstating punitive damages
+acts:
+  - Plaintiff filed motions
+  - ATA Services, Inc. filed opposition
+  - default judgment was entered
+agreements:
+  - California Rules of Court, Rule (CRC) 3.1110(a)
+  - California Rules of Court, Rule (CRC) 3.1112(a)(3)
+  - California Rules of Court, Rule (CRC) 3.1113(a), (b)
+laws:
+  - CCP 1005(b)
+  - California Rules of Court
+case_citations:
+  - CCP 1005(b)
+  - California Rules of Court, Rule (CRC) 3.1110(a)
+  - California Rules of Court, Rule (CRC) 3.1112(a)(3)
+  - California Rules of Court, Rule (CRC) 3.1113(a), (b)
+statutes:
+  - CCP 1005(b)
+  - California Rules of Court
+roles:
+  - Plaintiff/Judgment Creditor (Robert Johnson)
+  - Defendant/Responding Party (ATA Services, Inc.)
+  - Attorney (David A. Garcia)
+significant_statements:
+  - "The motions are denied."
+  - "Plaintiff has failed to establish that any other entity should be added to the judgment as a judgment debtor."
+  - "Plaintiff has failed to adequately support his request for an assignment order."
+```
+
+And here is a summary of the judge's tentative ruling in English text:
+
+The plaintiff, Robert Johnson, filed two motions on February 15, 2024. The first motion seeks to add new names to the judgment and for an assignment order restraining judgment debtors from encumbering, assigning, or disposing of the rights to payments due to or become due to judgment debtors from Sterling entities. The second motion seeks to reinstate punitive damages. However, the motions are defective in that they fail to provide clear notice of the relief requested and do not include memorandums of points and authorities as required by California Rules of Court.
+
+Additionally, there is no proof of service for the second motion, and the late opposition filed by the defendant does not address this motion. The court also notes that the plaintiff has failed to establish that any other entity should be added to the judgment as a judgment debtor and has failed to adequately support his request for an assignment order.
+
+The court has denied both motions.

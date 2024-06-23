@@ -1,0 +1,96 @@
+Here is the summary of the judge's tentative ruling in YAML format:
+
+```yaml
+case_number: 22STCV11073
+hearing_date: March 29, 2024
+dept: 52
+tentative_ruling:
+  - Defendents' motion for summary judgment or summary adjudication is denied
+  - Summary judgment is denied for the 1st, 2nd, 3rd, 4th, and 5th causes of action
+  - Triable issues of material fact preclude summary adjudication for whistleblower retaliation, age and disability discrimination, FEHA retaliation, and failure to prevent discrimination
+  - Punitive damages claim is denied summary adjudication due to triable issues of material fact
+
+people_names:
+  - Delaina Martinez
+  - Candice Dagnino
+  - Ms. Ramos
+  - Ms. Garcia
+
+company_names:
+  - Alliance College-Ready Public Schools
+  - Alliance For College-Ready Public Schools
+  - Alliance College Ready Academy High School
+
+places:
+  - California
+
+dates:
+  - March 15, 2019
+  - May 4, 2019
+  - May 15, 2019
+
+events:
+  - Plaintiff's whistleblower retaliation claim
+  - Defendant's motion for summary judgment or summary adjudication
+
+money:
+  - Not applicable
+
+intention:
+  - To deny defendants' motion for summary judgment or summary adjudication
+
+facts:
+  - Plaintiff Delaina Martinez claims whistleblower retaliation, age and disability discrimination, FEHA retaliation, and failure to prevent discrimination
+  - Defendant Alliance College-Ready Public Schools, Alliance For College-Ready Public Schools, and Alliance College Ready Academy High School move for summary judgment or summary adjudication
+  - Plaintiff presents evidence of triable issues of material fact on whistleblower retaliation, age and disability discrimination, FEHA retaliation, and failure to prevent discrimination
+  - Defendant presents evidence of legitimate reasons for not renewing plaintiff's contract, but plaintiff's evidence undermines these reasons
+
+disputes:
+  - Whistleblower retaliation
+  - Age and disability discrimination
+  - FEHA retaliation
+  - Failure to prevent discrimination
+
+acts:
+  - Plaintiff's protected activity
+  - Defendant's adverse employment actions
+
+agreements:
+  - Labor Code section 1102.5
+  - Evidence Code section 452
+  - California Rules of Court, rule 3.1354
+  - Government Code, section 12940(k)
+
+laws:
+  - Labor Code section 1102.5
+  - Evidence Code section 452
+  - California Rules of Court, rule 3.1354
+  - Government Code, section 12940(k)
+  - Civil Code section 3294
+
+citations:
+  - Lawson v. PPG Architectural Finishes, Inc. (2022) 12 Cal.5th 703
+  - Mora v. Big Lots Stores, Inc. (2011) 194 Cal.App.4th 496
+  - Villa v. McFerren (1995) 35 Cal.App.4th 733
+  - Dore v. Arnold Worldwide, Inc. (2006) 39 Cal.4th 384
+  - Hinesley v. Oakshade Town Center (2005) 135 Cal.App.4th 289
+  - Mamou v. Trendwest Resorts, Inc. (2008) 165 Cal.App.4th 686
+  - Horn v. Cushman & Wakefield Western, Inc. (1999) 72 Cal.App.4th 798
+  - Husman v. Toyota Motor Credit Corp. (2017) 12 Cal.App.5th 1168
+  - Butte Fire Cases (2018) 24 Cal.App.5th 1150
+  - Colucci v. T-Mobile USA, Inc. (2020) 48 Cal.App.5th 442
+  - Cloud v. Casey (1999) 76 Cal.App.4th 895
+  - Trujillo v. North County Transit Dist. (1998) 63 Cal.App.4th 280
+  - Dickson v. Burke Williams, Inc. (2015) 234 Cal.App.4th 1307
+  - Zirpel v. Alki David Productions, Inc. (2023) 93 Cal.App.5th 563
+
+roles:
+  - Judge
+  - Plaintiff
+  - Defendant
+
+significant_statements:
+  - The court cannot conclude that, as a matter of law, no reasonable trier of fact could conclude plaintiff's protected activity contributed to the decision not to renew her contract.
+  - The court cannot conclude that any reasonable trier of fact must find clear and convincing evidence that defendants would not have renewed plaintiff's contract even if she had not engaged in protected activity.
+  - The same-actor inference has lost some of its persuasive appeal in recent years.
+  - Citing a legitimate reason for the challenged action will entitle the employer to summary judgment only when the employee's showing, while sufficient to invoke the presumption, is too weak to sustain a reasoned inference in the employee's favor.

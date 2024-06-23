@@ -1,0 +1,74 @@
+Here is the summary in YAML format:
+
+```
+case_number: 22STCV09756
+plaintiff_name: Barry Shy
+defendant_name: Pedram Mansouri
+people_names:
+  - Barry Shy
+  - Pedram Mansouri
+  - Blea Fox
+company_names:
+  - P.L.C.
+places:
+  - California
+dates:
+  - June 22, 2022
+  - August 29, 2022
+  - October 13, 2022
+  - January 12, 2024
+  - March 29, 2024
+events:
+  - Service of discovery requests
+  - Response to discovery requests
+  - Motion to compel compliance
+  - Deposition
+  - Motion to "complete" deposition
+  - Sanctions request
+money:
+  - $12,000 (requested sanctions)
+  - $600 (hourly rate for counsel)
+  - $300 (hourly rate for travel reimbursement)
+  - $4,800 (awarded sanctions)
+intentions:
+  - Compel compliance with discovery requests
+  - Complete deposition
+  - Obtain sanctions
+facts:
+  - Mansouri failed to produce documents as agreed
+  - Mansouri's counsel declared it would be too time-consuming to retrieve documents
+  - Shy's counsel requested electronic file numerous times
+  - Mansouri testified for 3 hours and 47 minutes at deposition
+  - Shy requests four additional hours to depose Mansouri
+disputes:
+  - Failure to produce documents
+  - Request for additional deposition time
+  - Sanctions for bad faith litigation
+acts:
+  - Service of discovery requests
+  - Response to discovery requests
+  - Motion to compel compliance
+  - Deposition
+  - Motion to "complete" deposition
+  - Sanctions request
+agreements:
+  - Mansouri agreed to produce documents upon request
+laws:
+  - California Code of Civil Procedure sections 2031.320, 2025.290, 2025.610, 2025.450
+statutes:
+  - California Code of Civil Procedure
+roles:
+  - Judge
+  - Plaintiff (Barry Shy)
+  - Defendant (Pedram Mansouri)
+  - Counsel (Blea Fox)
+significant statements:
+  - Mansouri is bound to his statements of compliance
+  - The Court grants Shy's motion to compel compliance
+  - The Court grants Shy's motion to "complete" deposition
+  - Sanctions against Mansouri and his counsel are warranted
+```
+
+Here is the English-text summary:
+
+The Judge's tentative ruling concerns two motions filed by Plaintiff Barry Shy against Defendant Pedram Mansouri. The first motion seeks an order compelling Mansouri to produce documents as agreed upon in his written responses to Shy's discovery requests. The second motion requests an order to compel Mansouri to complete his deposition, which was previously conducted but was not completed within the seven-hour limit. The Judge grants both motions and orders Mansouri to produce the requested documents and complete his deposition within 21 days. Additionally, the Judge awards Shy $4,800 in sanctions against Mansouri and his counsel for their lack of substantial justification in their positions on the two motions.
