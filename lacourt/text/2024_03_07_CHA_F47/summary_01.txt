@@ -1,0 +1,78 @@
+Here is the summary in YAML format:
+
+```
+case_number: 22STCV27490
+plaintiff_name: Carlotta Andrea Peart
+defendant_name: Macy's Retail Holdings, LLC
+people:
+  - Carlotta Andrea Peart
+  - Macy's Retail Holdings, LLC
+  - Calvin Klein Studio, LLC
+companies:
+  - Macy's Retail Holdings, LLC
+  - Calvin Klein Studio, LLC
+places:
+  - California
+dates:
+  - 9/4/20
+  - 8/24/22
+  - 9/28/23
+  - 1/13/23
+  - 1/27/23
+  - 2/23/24
+  - 3/7/24
+events:
+  - Purchase of clothing
+  - Injury caused by loose manufacturer's tag
+  - Filing of lawsuit
+  - Service of discovery requests
+  - Failure to respond to discovery requests
+  - Filing of motions to compel responses
+  - Service of oppositions to motions
+  - Granting of sanctions
+money:
+  - $892.50 (requested sanctions)
+  - $1,475.00 (imposed sanctions)
+intentions:
+  - Plaintiff: to recover damages for injury caused by loose manufacturer's tag
+  - Defendant: to compel responses to discovery requests and seek sanctions
+facts:
+  - Plaintiff purchased clothing from Defendant on 9/4/20
+  - Plaintiff suffered injury caused by loose manufacturer's tag
+  - Defendant served discovery requests on 12/12/22
+  - Plaintiff failed to respond to discovery requests
+disputes:
+  - Failure to respond to discovery requests
+  - Request for sanctions
+acts:
+  - Purchase of clothing
+  - Service of discovery requests
+  - Failure to respond to discovery requests
+  - Filing of motions to compel responses
+agreements:
+  - None mentioned
+laws:
+  - California Code of Civil Procedure (CCP)
+  - California Rules of Court (CRC)
+case_citations:
+  - None mentioned
+statutes:
+  - CCP 2030.290(a), (b)
+  - CCP 2031.300(a), (b)
+  - CCP 2023.010(d)
+  - CCP 2023.030(a)
+  - CCP 2030.290(c)
+  - CCP 2031.300(c)
+roles:
+  - Judge: granting sanctions and ruling on motions
+  - Plaintiff: seeking recovery for injury
+  - Defendant: seeking to compel responses and impose sanctions
+significant_statements:
+  - The Court finds that a delay of more than a year in providing responses is unreasonable.
+  - Plaintiff's counsel failed to explain why no response was provided to Macy's 1/27/23 meet and confer letter.
+  - Sanctions are imposed against Plaintiff and her attorneys of record in the total amount of $1,475.00.
+```
+
+And here is a summary of the judge's tentative ruling in English text:
+
+The judge has denied the defendant's request to compel responses to discovery requests as the plaintiff has now provided the responses, albeit belatedly. However, the judge has granted the defendant's request for sanctions against the plaintiff and her attorneys for their failure to comply with discovery obligations. The judge has imposed sanctions in the amount of $1,475.00, which includes $1,295.00 for the time spent preparing and reviewing the motions and oppositions, as well as $180.00 in filing fees. The judge has also noted that the plaintiff's counsel failed to provide a satisfactory explanation for the delay in providing the responses and has found that the delay was unreasonable.

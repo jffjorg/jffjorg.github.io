@@ -1,0 +1,53 @@
+Here is the summary in YAML format:
+
+```
+case_number: 23STCV01165
+plaintiff: Boss Hoss of California, Inc.
+defendant: Angelia Dimattia
+people:
+  - Angelia Dimattia
+companies:
+  - Boss Hoss of California, Inc.
+places:
+  - Los Angeles
+  - California
+dates:
+  - March 7, 2024
+  - October 3, 2023
+  - November 27, 2023
+  - July 12, 2023
+events:
+  - Second Amended Application for Entry of Judgment
+  - Request for Court Judgment
+  - Request for Entry of Default
+  - Proposed Judgment
+money: $0 (no amount specified)
+intentions:
+  - Plaintiff seeks entry of judgment against Defendant
+facts:
+  - Plaintiff filed a Second Amended Application for Entry of Judgment
+  - Plaintiff has not filed a Request for Court Judgment
+  - Plaintiff has not filed a Proposed Judgment
+  - No Request for Court Judgment or Proposed Judgment were filed with the instant second amended application
+disputes:
+  - Plaintiff's Second Amended Application for Entry of Judgment is defective
+acts:
+  - Plaintiff filed a Request for Entry of Default against Angelia Dimattia on July 12, 2023
+agreements: None
+laws:
+  - California Rules of Court, rule 3.1800, subd. (a)
+  - California Rules of Court, rule 3.1800, subd. (a)(6)
+case_citations: None
+statutes: None
+roles:
+  - Judge: Hon. Teresa A. Beaudet
+  - Plaintiff: Boss Hoss of California, Inc.
+  - Defendant: Angelia Dimattia
+significant_statements:
+  - The Court notes a few defects with Plaintiff's second amended application for entry of judgment.
+  - The Court denies Plaintiff's Second Amended Application for Entry of Judgment without prejudice.
+```
+
+And here is a text summary of the judge's tentative ruling:
+
+The judge has denied the Plaintiff's Second Amended Application for Entry of Judgment without prejudice. The Plaintiff, Boss Hoss of California, Inc., has not filed a Request for Court Judgment or a Proposed Judgment with the application, as required by California Rules of Court. Additionally, the Plaintiff has not filed a Request for Entry of Default against the Defendant, Angelia Dimattia. The judge has asked the Plaintiff to resubmit the default judgment package and has scheduled a discussion with the Plaintiff to determine a schedule for resubmission.

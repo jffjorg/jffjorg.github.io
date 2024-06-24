@@ -1,0 +1,55 @@
+Here is the summary in YAML format:
+
+```
+case_number: 23STCV25583
+plaintiff_name: Zheng
+defendant_name: The Law Offices of Angela Swan, et. al.
+people_names:
+  - Angela Swan
+company_names:
+  - The Law Offices of Angela Swan
+places:
+  - California
+dates:
+  - March 4, 2024
+  - August 22, 2023
+  - October 19, 2023
+events:
+  - Demurrer to Complaint
+  - Motion to Strike
+  - Court Hearing
+money:
+  - Damages
+intention:
+  - To determine the sufficiency of the complaint
+facts:
+  - Plaintiff alleges professional negligence against defendants
+  - Plaintiff discovered defendants' wrongful actions on August 22, 2023
+  - Complaint was filed on October 19, 2023
+  - First cause of action is not barred by statute of limitations
+disputes:
+  - Sufficiency of the complaint
+  - Bar of statute of limitations
+  - Mitigation of damages
+acts:
+  - Demurrer to Complaint
+  - Motion to Strike
+agreements:
+  - None
+laws:
+  - Code Civ. Proc. §§ 430.10(e) and 430.10(f)
+  - Code Civ. Proc., § 340.6, subd. (a)
+roles:
+  - Judge
+  - Plaintiff
+  - Defendant
+  - Attorney
+significant_statements:
+  - "A demurrer tests the sufficiency of a complaint as a matter of law."
+  - "A demurrer accepts as true all well pleaded facts and those facts of which the court can take judicial notice but not deductions, contentions, or conclusions of law or fact."
+  - "If there is any reasonable possibility that the plaintiff can state a good cause of action, it is error to sustain a demurrer without leave to amend."
+```
+
+And here is a summary of the judge's tentative ruling in English text:
+
+The judge has issued a tentative ruling regarding the defendants' demurrer to the plaintiff's complaint for professional negligence. The demurrer is overruled, and the defendants are ordered to answer the complaint within 10 days. The judge finds that the plaintiff has sufficiently alleged a cause of action for professional negligence against the defendants. The judge also rejects the defendants' argument that the first cause of action is barred by the statute of limitations, as the plaintiff filed the complaint within the allowed timeframe. Additionally, the judge rejects the defendants' argument that the plaintiff failed to mitigate damages, as this is not relevant to determining the sufficiency of the complaint. The judge also notes that the defendants' motion to strike a paragraph from the complaint is improper, as it does not provide adequate notice or specify the grounds for the motion.

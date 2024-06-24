@@ -1,0 +1,45 @@
+Here is the summary in YAML format:
+
+```
+Case Number: [insert case number]
+Plaintiff's Name: [insert plaintiff's name]
+Defendant's Name: [insert defendant's name]
+People-Names:
+  - Plaintiff
+  - Defendant
+Company-Names: []
+Places: []
+Dates:
+  - [insert date of hearing or relevant date]
+Events:
+  - Motion for payment
+Money:
+  - Amount of money alleged to be wrongfully withheld
+Intentions:
+  - Discharge defendant from liability and dismiss from action
+Facts:
+  - Defendant is a mere stakeholder
+  - Conflicting demands have been made upon defendant for the amount
+Disputes:
+  - Liability and payment of the amount
+Acts:
+  - Defendant's application to court for order
+  - Plaintiff's citation of Civ. Proc. Code, § 386.5
+Agreements: []
+Laws:
+  - Civ. Proc. Code, § 386.5
+  - (Note: the judge is interpreting this section as not applicable to a plaintiff)
+Case Citations: []
+Statutes: []
+Roles:
+  - Plaintiff: seeks payment of wrongfully withheld amount
+  - Defendant: seeks discharge from liability and dismissal from action
+  - Judge: interprets law and makes tentative ruling
+Significant Statements:
+  - "Where the only relief sought against one of the defendants is the payment of a stated amount of money alleged to be wrongfully withheld..."
+  - "the court may, in its discretion, make such order."
+```
+
+And here is a summary of the judge's tentative ruling in English text:
+
+The judge is considering a motion for payment brought by the plaintiff. The defendant claims to be a mere stakeholder with no interest in the amount in dispute and that conflicting demands have been made upon them for the amount. The judge is skeptical of the plaintiff's argument, as Civ. Proc. Code, § 386.5 only applies to defendants seeking to be discharged from liability, not plaintiffs. The judge is considering granting the defendant's application for an order discharging them from liability and dismissing them from the action, provided they deposit the disputed amount with the court clerk.

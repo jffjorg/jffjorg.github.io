@@ -1,0 +1,58 @@
+Here is the summary in YAML format:
+
+```
+case_number: 22STCV27840
+plaintiff_name: County of Los Angeles
+defendant_name: Robert Muro, Cristina Reyes Muro aka Cristina Muro Reyes
+people_names:
+  - Audelio Camacho
+company_names:
+  - Department of Motor Vehicles
+places:
+  - Los Angeles
+dates:
+  - March 5, 2024
+  - February 26, 2024
+events:
+  - Automobile incident
+  - Workers compensation benefits paid
+  - Default judgment filed
+money:
+  - $190,953.84 (principal damages)
+  - $617 (costs)
+  - $15,000 (statutorily capped damages)
+  - $175,953.84 (remaining principal damages)
+intentions:
+  - Grant default judgment
+facts:
+  - Robert Muro operated the motor vehicle that rear-ended the plaintiff's employee
+  - Cristina Reyes Muro aka Cristina Muro Reyes owned the vehicle
+  - Plaintiff paid workers compensation benefits to its employee
+  - The liability of the owner of the vehicle is limited to $15,000 for injury to one person
+disputes:
+  - None
+acts:
+  - Plaintiff filed a subrogation action
+  - Plaintiff dismissed all unnamed Doe defendants
+  - Plaintiff seeks default judgment
+agreements:
+  - None
+laws:
+  - Cal. Veh. Code § 17151
+  - CCP § 1033.5 (a)
+case_citations:
+  - None
+statutes:
+  - Cal. Veh. Code § 17151
+  - CCP § 1033.5 (a)
+roles:
+  - Judge
+significant_statements:
+  - The amount sought is granted, but with the amount against Reyes statutorily capped at $15,000.
+  - The remainder may be sought against Muro.
+  - The costs are granted against both Defendants, jointly and severally.
+```
+
+And here is a summary of the judge's tentative ruling in English text:
+
+The County of Los Angeles (Plaintiff) has filed a subrogation action against Robert Muro, Cristina Reyes Muro aka Cristina Muro Reyes, and Does 1 to 10 for workers compensation benefits paid to its employee for damages arising from an automobile incident. The Plaintiff seeks $190,953.84 in special damages and $617 in costs against Muro and Reyes. The Plaintiff has provided sufficient evidence in support of the benefits it had paid. The judge has granted the application for default judgment filed on February 26, 2024, in the principal amount of $190,953.84 and $617 in costs, against defendants Robert Muro and Cristina Reyes Muro aka Cristina Muro Reyes. The amount sought against Reyes is statutorily capped at $15,000, while the remainder may be sought against Muro. The costs are granted against both Defendants, jointly and severally.

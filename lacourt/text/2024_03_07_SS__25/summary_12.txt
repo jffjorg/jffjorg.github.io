@@ -1,0 +1,66 @@
+Here is the summary in YAML format:
+
+```
+case_number: [insert case number]
+plaintiff_name: Dontavais Johnson
+defendant_name: Early Warning Services, LLC
+people_names: 
+  - Dontavais Johnson
+  - Judith K. Robenzadeh
+company_names:
+  - Early Warning Services, LLC
+  - Purepac Pharmaceutical Co.
+places: 
+  - California
+dates:
+  - October 02, 2023
+  - December 06, 2023
+  - January 08, 2024
+  - January 26, 2024
+  - February 05, 2024
+  - February 23, 2024
+  - February 29, 2024
+events:
+  - Filing of a cause of action
+  - Filing of a First Amended Verified Complaint
+  - Filing of an answer
+  - Filing of an Amended Answer
+  - Filing of a demurrer
+  - Meet and confer efforts
+money: 
+  - No amount mentioned
+intention:
+  - To determine the sufficiency of the affirmative defenses in the Amended Answer
+facts:
+  - Defendant's affirmative defenses sufficiently allege facts to the extent set forth in the Complaint
+disputes:
+  - The sufficiency of the affirmative defenses in the Amended Answer
+acts:
+  - Filing of pleadings
+agreements:
+  - None mentioned
+laws:
+  - California Consumer Credit Reporting Agencies Act
+  - Code of Civil Procedure
+  - Civil Code
+  - Code Civ. Proc. § 430.10
+  - Code Civ. Proc. § 430.20
+  - Code Civ. Proc. § 430.41
+  - Code Civ. Proc. § 431.30
+  - Code Civ. Proc. § 92
+statutes:
+  - California Consumer Credit Reporting Agencies Act
+  - California Code of Civil Procedure
+  - California Civil Code
+roles:
+  - Judge
+  - Plaintiff
+  - Defendant
+significant_statements:
+  - The Court finds that Defendant's affirmative defenses sufficiently allege facts to the extent set forth in the Complaint.
+  - The Court OVERRULES Plaintiff's Demurrer.
+```
+
+And here is a summary in English text:
+
+The Court has issued a tentative ruling on a demurrer filed by Plaintiff Dontavais Johnson against Defendant Early Warning Services, LLC. The demurrer challenges the sufficiency of Defendant's affirmative defenses in its Amended Answer. The Court finds that Defendant's affirmative defenses sufficiently allege facts to the extent set forth in the Complaint and overrules the demurrer. The Court also notes that the demurrer was filed without meeting and conferring with Defendant as required by CCP § 430.41(a).

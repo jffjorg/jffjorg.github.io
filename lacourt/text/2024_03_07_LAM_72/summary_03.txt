@@ -1,0 +1,60 @@
+Here is the summary in YAML format:
+
+```
+case_number: 23STCV20562
+plaintiff_name: Sly Spectrum LLC
+defendant_name: Katie Williams
+people_names:
+  - Katie Williams
+companies:
+  - Sly Spectrum LLC
+places:
+  - Los Angeles
+dates:
+  - February 27, 2024
+  - March 7, 2024
+  - March 15, 2024
+  - March 22, 2024
+  - April 2, 2024
+  - April 9, 2024
+  - April 17, 2024
+events:
+  - Motion to seal
+  - Hearing
+  - Meet and confer
+money:
+  - Financial compensation
+intention:
+  - To seal certain information in the Second Amended Complaint
+facts:
+  - References to specific medication taken by Williams
+  - References to particular employee's termination
+disputes:
+  - Disagreement over what information to seal
+acts:
+  - Filing of motions
+  - Filing of proposed orders
+  - Meet and confer
+agreements:
+  - Requirement to submit issues to same process as before
+  - Requirement to file joint statements and proposed orders
+laws:
+  - Cal. Rule of Court, rule 2.550(d)
+case_citations:
+  - None
+statutes:
+  - Cal. Rule of Court, rule 2.550(d)
+roles:
+  - Judge
+  - Plaintiff
+  - Defendant
+  - Counsel
+significant_statements:
+  - The Court grants the motion with respect to references to specific medication taken by Williams.
+  - The Court denies the motion in all other respects.
+  - The parties must meet and confer to resolve disagreements over what information to seal.
+```
+
+And here is a summary in English text:
+
+The tentative ruling addresses Katie Williams' motion to seal certain information in the Second Amended Complaint. The Court grants the motion with respect to references to specific medication taken by Williams and to particular employee terminations. However, the Court denies the motion in all other respects, including financial compensation information. The parties are required to submit the issues to the same process as before and to file joint statements and proposed orders. If there are disagreements, the parties must meet and confer to resolve them. The Court sets an OSC re compliance with this order for April 17, 2024.

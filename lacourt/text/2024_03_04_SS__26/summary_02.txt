@@ -1,0 +1,58 @@
+Here is the summary in YAML format:
+
+```
+case_number: 22STLC02236
+plaintiff: Robert Ames
+defendant: Luis Rosas
+people_names:
+  - Robert Ames
+  - Luis Rosas
+company_names: None
+places:
+  - Spring Street Courthouse
+  - Department 26
+dates:
+  - April 4, 2022
+  - July 10, 2023
+  - February 26, 2024
+  - April 3, 2024
+  - November 5, 2024
+events:
+  - Conversion
+  - Breach of contract
+  - Promissory fraud
+  - Discrimination
+  - Motion to continue trial date
+money: None
+intentions:
+  - To continue the trial date
+facts:
+  - Plaintiff filed the instant action on April 4, 2022
+  - Defendant filed an answer on July 10, 2023
+  - Trial is set for April 3, 2024
+  - Defendant is out of the country for a family medical emergency
+  - Plaintiff stipulated to a continuance of approximately six months
+disputes:
+  - Good cause for a continuance of the trial date
+acts:
+  - Defendant filed the instant Motion to Continue Trial on February 26, 2024
+  - No opposition has been filed to date
+agreements:
+  - Plaintiff stipulated to a continuance of approximately six months
+laws:
+  - Cal. Rules of Court, Rule 3.1332
+statutes:
+  - Cal. Rules of Court, Rule 3.1332, subds. (c), (d)
+roles:
+  - Judge
+  - Plaintiff
+  - Defendant
+significant_statements:
+  - Continuances of trials are disfavored, but each request must be considered on its own merits
+  - Good cause for a continuance may include a party's excused inability to obtain essential testimony, documents, or other material evidence
+  - The Court may grant a continuance only on an affirmative showing of good cause requiring the continuance
+```
+
+And here is the English-text summary:
+
+The judge has issued a tentative ruling granting defendant Luis Rosas' motion to continue the trial date. The original trial date was set for April 3, 2024, but the defendant has been out of the country for a family medical emergency and will also be out of the country on the current trial date. The plaintiff has stipulated to a continuance of approximately six months. The judge has considered the factors outlined in Cal. Rules of Court, Rule 3.1332, and has found that the defendant has shown good cause for the continuance. The trial date is hereby continued to November 5, 2024, at 8:30 AM in Department 26 of the Spring Street Courthouse.

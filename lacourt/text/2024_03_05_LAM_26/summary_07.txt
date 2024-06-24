@@ -1,0 +1,55 @@
+Here is the summary in YAML format:
+
+```
+case_number: 23STCV10014
+plaintiff_name: 
+defendant_name: 
+people_names: 
+company_names: 
+places: 
+dates:
+  - January 26, 2024
+  - March 5, 2024
+  - April 9, 2024
+  - April 18, 2024
+events:
+  - Default judgment submitted
+  - Hearing scheduled
+money:
+  - $42,480 (post-termination loss of earnings)
+  - $150,000 (emotional distress damages)
+  - attorney's fees (amount not specified)
+intentions:
+  - Deny default judgment
+  - Request additional evidence
+  - Provide instructions for new default judgment package
+facts:
+  - Plaintiff failed to submit CIV-100 form
+  - Insufficient evidence for post-termination loss of earnings
+  - Unclear calculation for statutory wait time damages
+  - Insufficient evidence for emotional distress damages
+  - Incorrect calculation for attorney's fees
+disputes:
+  - Plaintiff's claims for damages and attorney's fees
+acts:
+  - Failure to submit proper documentation
+  - Failure to provide sufficient evidence
+agreements:
+  - None mentioned
+laws:
+  - California Rules of Court, Rule 3.1800
+  - LASC Rule 3.214
+case_citations: 
+statutes: 
+roles:
+  - Plaintiff
+  - Defendant
+  - Judge
+significant_statements:
+  - "The default judgment submitted on January 26, 2024 is DENIED..."
+  - "Plaintiff must either... submit a new request for default judgment (CIV-100) and new proposed judgment (JUD-100)... or... submit evidence and briefing justifying a greater amount of attorney’s fees..."
+```
+
+And here is a summary of the judge's tentative ruling in English text:
+
+The judge has denied the default judgment submitted by the plaintiff due to several defects. The plaintiff failed to submit a properly completed CIV-100 form requesting a default judgment, and did not provide sufficient evidence to support the amount of damages claimed, including post-termination loss of earnings, statutory wait time damages, and emotional distress damages. Additionally, the plaintiff's request for attorney's fees was not calculated in accordance with LASC Rule 3.214. The judge has given the plaintiff until April 9, 2024 to submit a new default judgment package correcting these defects. Failure to do so may result in the imposition of sanctions, including monetary sanctions and/or dismissal.

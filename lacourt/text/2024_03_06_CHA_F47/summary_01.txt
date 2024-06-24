@@ -1,0 +1,52 @@
+Here is the summary in YAML format:
+
+```
+case_number: 22CHCV00016
+plaintiff_name: Martin Willerford
+defendant_name: None
+people_names:
+  - Justin Zarcone
+  - Martin Willerford
+company_names: None
+places: None
+dates:
+  - 11/17/23
+  - 11/20/24
+  - 8/5/24
+  - 3/6/24
+events:
+  - Motion to be relieved as counsel filed
+  - Declaration in support of motion filed
+  - Proof of service for motion filed
+money: None
+intentions:
+  - To relieve attorney Justin Zarcone as counsel for Plaintiff Martin Willerford
+facts:
+  - Attorney Justin Zarcone filed a motion to be relieved as counsel
+  - Declaration in support of motion does not include all required information
+  - Proof of service for motion does not indicate that the motion was served on the client
+disputes:
+  - Dispute over whether the motion is properly filed and served
+acts:
+  - Attorney Justin Zarcone filed a motion to be relieved as counsel
+  - Filed a declaration in support of the motion
+  - Failed to lodge a proposed order
+agreements: None
+laws:
+  - Judicial Council form MC-051 (Notice of Motion To Be Relieved As Counsel – Civil)
+  - Judicial Council form MC-052 (Declaration in support of a motion to be relieved as counsel)
+  - Judicial Council form MC-053 (Proposed order)
+statutes: None
+roles:
+  - Justin Zarcone: moving attorney
+  - Martin Willerford: client
+  - Judge: ruling on motion
+significant_statements:
+  - The motion is denied without prejudice
+  - The declaration in support of the motion does not include all required information
+  - The proof of service for the motion does not indicate that the motion was served on the client
+```
+
+And here is the English-text summary:
+
+The Judge has denied, without prejudice, a motion filed by attorney Justin Zarcone to be relieved as counsel for Plaintiff Martin Willerford. The motion was filed on November 17, 2023, along with a declaration in support of the motion. However, the declaration does not include all of the required information, such as confirmation of the client's address and method of service. Additionally, the proof of service for the motion does not indicate that the motion was served on the client. As a result, the Judge has denied the motion without prejudice, meaning that attorney Zarcone may refile the motion and address the deficiencies identified by the Court. The next hearing date is set for August 5, 2024.

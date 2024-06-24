@@ -1,0 +1,80 @@
+Here is the summary in YAML format:
+
+```
+case_number: 23STCV21311
+hearing_date: 2024-03-07
+department: 15
+judge: [TENTATIVE]
+motion: Motion to Quash Service of Summons
+parties:
+  - plaintiff: Otilia Rosas
+  - defendant: Cosmetic Specialties, Inc.
+people:
+  - Otilia Rosas
+  - Gina Grant
+companies:
+  - Cosmetic Specialties, Inc.
+  - Avon Products, Inc.
+places:
+  - California
+  - New Jersey
+  - Merchantville, New Jersey
+  - Pasadena
+dates:
+  - 2023-09-06 (filing of the action)
+  - 2023 (jurisdictional discovery continued)
+events:
+  - Motion to quash service of summons
+  - Jurisdictional discovery
+  - Continued hearing date
+  - Dismissal of complaint
+money: none
+intentions:
+  - To determine whether the court has jurisdiction over the defendant
+  - To determine whether the defendant's contacts with California justify personal jurisdiction
+facts:
+  - Defendant is incorporated in New Jersey and has its principal place of business in Merchantville, New Jersey
+  - Defendant supplied talc to Avon Products, Inc. which had facilities in California
+  - Plaintiffs did not file a supplemental brief or additional evidence showing that Plaintiffs' claims arise out of or relate to Defendant's contacts with California
+disputes:
+  - Lack of personal jurisdiction
+  - Whether the court has jurisdiction over the defendant
+acts:
+  - Defendant filed a motion to quash service of summons
+  - Plaintiffs filed an opposition to the motion
+  - Court granted the motion
+agreements:
+  - None
+laws:
+  - California Code of Civil Procedure sections 410.10, 418.10, and 581
+  - United States Constitution
+  - Burger King Corp. v. Rudzewicz (1985) 471 U.S. 462
+  - Asahi Metal Industry Co., Ltd. v. Superior Court of California, Solano County (1987) 480 U.S. 102
+  - Jayone Foods, Inc. v. Aekyung Industrial Co. Ltd. (2019) 31 Cal.App.5th 543
+  - Strasner v. Touchstone Wireless Repair & Logistics, LP (2016) 5 Cal.App.5th 215
+  - Daimler AG v. Bauman (2014) 571 U.S. 117
+  - Vons Companies, Inc. v. Seabest Foods, Inc. (1996) 14 Cal.4th 434
+  - Ford Motor Co. v. Montana Eighth Judicial District Court (2021) 141 S.Ct. 1017
+case_citations:
+  - Burger King Corp. v. Rudzewicz (1985) 471 U.S. 462
+  - Asahi Metal Industry Co., Ltd. v. Superior Court of California, Solano County (1987) 480 U.S. 102
+  - Jayone Foods, Inc. v. Aekyung Industrial Co. Ltd. (2019) 31 Cal.App.5th 543
+  - Strasner v. Touchstone Wireless Repair & Logistics, LP (2016) 5 Cal.App.5th 215
+  - Daimler AG v. Bauman (2014) 571 U.S. 117
+  - Vons Companies, Inc. v. Seabest Foods, Inc. (1996) 14 Cal.4th 434
+  - Ford Motor Co. v. Montana Eighth Judicial District Court (2021) 141 S.Ct. 1017
+statutes:
+  - California Code of Civil Procedure sections 410.10, 418.10, and 581
+roles:
+  - Judge: [TENTATIVE]
+  - Plaintiff: Otilia Rosas
+  - Defendant: Cosmetic Specialties, Inc.
+  - Moving party: Defendant
+  - Opposing party: Plaintiffs
+significant_statements:
+  - "A court of this state may exercise jurisdiction on any basis not inconsistent with the Constitution of this state or of the United States." (Code Civ. Proc., § 410.10)
+```
+
+And here is a summary of the judge's tentative ruling in English text:
+
+The court has granted the defendant's motion to quash service of summons due to lack of personal jurisdiction. The defendant, Cosmetic Specialties, Inc., is incorporated in New Jersey and has its principal place of business in Merchantville, New Jersey, and therefore is not subject to California's general jurisdiction. The court found that the plaintiffs did not provide sufficient evidence to demonstrate that the defendant's contacts with California justify personal jurisdiction. Specifically, the plaintiffs did not identify the specific Avon products that Otilia Rosas used or the time period she used those products, and did not file a supplemental brief or additional evidence showing that the claims arise out of or relate to the defendant's contacts with California. As a result, the complaint against Cosmetic Specialties, Inc. is dismissed without prejudice.

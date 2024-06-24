@@ -1,0 +1,51 @@
+Here is a summary of the tentative ruling in YAML format:
+
+```
+case_number: 21STCV03095
+hearing_date: March 7, 2024
+dept: 50
+judge: [Name]
+
+plaintiffs:
+  - CAROL M. SONI (AKA SYLMARAH BARUTI)
+  - THE ESTATE OF OBALAJII KHEPHEREN RUST
+
+defendants:
+  - KIM B. PRIESTLEY
+  - DARRYL H. PRIESTLEY
+
+people:
+  - CAROL M. SONI (AKA SYLMARAH BARUTI)
+  - OBALAJII KHEPHEREN RUST
+  - KIM B. PRIESTLEY
+  - DARRYL H. PRIESTLEY
+  - GIGI RUST
+
+companies:
+  - None
+
+places:
+  - 1933 W. Martin Luther King Blvd, Los Angeles, CA 90062
+
+dates:
+  - July 29, 2020
+  - July 31, 2020
+  - August 1, 2020
+  - August 8, 2020
+
+events:
+  - Wrongful eviction
+  - Intentional infliction of emotional distress
+  - Conversion
+  - Defamation per se: filing a false police report
+
+money:
+  - None
+
+intentions:
+  - None
+
+facts:
+  - Soni was living with Obalajii Khepheren Rust at 1933 W. Martin Luther King Blvd, Los Angeles, CA 90062
+  - Rust died on July 29, 2020
+  - The Priestleys changed the locks on the

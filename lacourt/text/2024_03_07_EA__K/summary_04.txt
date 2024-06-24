@@ -1,0 +1,101 @@
+Here is the summary in YAML format:
+
+```
+case_number: 23PSCV00711
+hearing_date: 2024-03-07
+dept: K
+
+parties:
+  - name: Rigoberto Mendoza
+    role: Plaintiff
+  - name: General Motors LLC
+    role: Defendant
+
+people:
+  - name: Rigoberto Mendoza
+  - name: Phil Thomas
+  - name: Claudia Gavrilescu
+
+companies:
+  - name: General Motors LLC
+
+places:
+  - name: California
+
+dates:
+  - 2019-04-20
+  - 2023-03-10
+  - 2023-10-25
+  - 2023-11-27
+  - 2023-12-15
+  - 2023-12-22
+  - 2023-12-28
+  - 2023-12-28
+  - 2024-01-04
+  - 2024-01-09
+  - 2024-01-11
+  - 2024-01-12
+  - 2024-01-18
+  - 2024-01-29
+  - 2024-02-05
+  - 2024-02-07
+  - 2024-03-07
+
+events:
+  - Plaintiff enters into warranty contract with General Motors LLC
+  - Plaintiff files complaint against General Motors LLC
+  - Plaintiff propounds discovery on General Motors LLC
+  - General Motors LLC provides unverified responses
+  - Plaintiff sends meet and confer letter to General Motors LLC
+  - General Motors LLC fails to respond to meet and confer letter
+  - Plaintiff sends second meet and confer letter to General Motors LLC
+  - General Motors LLC responds to second meet and confer letter
+  - Plaintiff files motion to compel further responses
+
+money:
+  - amount: $760.00
+    payable: 30 days after notice of ruling
+
+intention:
+  - Plaintiff seeks to compel General Motors LLC to provide further responses to discovery requests
+
+facts:
+  - General Motors LLC failed to provide sufficiently detailed and complete responses to discovery requests
+  - Plaintiff has alleged that the subject vehicle suffers from various defects and that General Motors LLC has failed to repair the vehicle after a reasonable number of attempts
+
+disputes:
+  - General Motors LLC objects to discovery requests on the basis of overbreadth, vagueness, and relevance
+  - Plaintiff argues that General Motors LLC's objections are unfounded and that the discovery requests are necessary to determine whether General Motors LLC acted in good faith
+
+acts:
+  - Plaintiff propounded discovery on General Motors LLC
+  - General Motors LLC provided unverified responses
+  - Plaintiff sent meet and confer letters to General Motors LLC
+  - General Motors LLC failed to respond to meet and confer letters
+  - Plaintiff filed motion to compel further responses
+
+agreements:
+  - Plaintiff and General Motors LLC signed and served a stipulated protective order
+
+laws:
+  - California Code of Civil Procedure § 2031.310
+  - California Code of Civil Procedure § 2031.280
+  - California Civil Code §§ 1792, 1792.1
+  - Magnuson Moss Act
+
+case_citations:
+  - Kirkland v. Superior Court (2002) 95 Cal.App.4th 92
+  - Deyo v. Kilbourne (1978) 84 Cal.App.3d 771
+  - Donlen v. Ford Motor Company (2013) 217 Cal.App.4th 138
+  - Jensen v. BMW of North America, Inc. (1995) 35 Cal.App.4th 112
+  - Kwan v. Mercedes-Benz of North America, Inc. (1994) 23 Cal.App.4th 174
+  - Oregel v. American Isuzu Motors, Inc. (2001) 90 Cal.App.4th 1094
+
+roles:
+  - Plaintiff: Rigoberto Mendoza
+  - Defendant: General Motors LLC
+
+significant_statements:
+  - The court grants the motion to compel further responses subject to the limitations set forth herein.
+  - Defendant is to provide further, Code-compliant responses within 20 days from the date of the notice of ruling.
+  - Sanctions are awarded in the reduced amount of $760.00 and are payable within 30 days of the date of the notice of ruling.

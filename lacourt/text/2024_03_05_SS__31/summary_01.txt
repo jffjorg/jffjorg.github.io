@@ -1,0 +1,66 @@
+Here is the summary in YAML format:
+
+```
+case_number: 19STCV17917
+plaintiff_name: Suzette Gonzalez
+defendant_names:
+  - Gustavo Gomez Garcia
+  - New Ride Taxi
+people_names:
+  - Suzette Gonzalez
+  - Gustavo Gomez Garcia
+company_names:
+  - New Ride Taxi
+places:
+  - California
+dates:
+  - June 2, 2017
+  - October 17, 2023
+  - March 5, 2024
+  - February 5, 2024
+events:
+  - Motor vehicle v. pedestrian collision
+  - Default judgment
+money:
+  - $275,000.00 (principal damages)
+  - $623.00 (costs)
+  - $1,000,000.00 (initially sought in general damages)
+  - $250,000.00 (amount sought in Statement of Damages)
+  - $500,000.00 (capped amount for general damages)
+intentions:
+  - Plaintiff seeks default judgment against defendants
+facts:
+  - Plaintiff was treated for her injury to her right leg and right ankle
+  - Plaintiff has been receiving regular treatment for her injury
+  - Plaintiff's medical treatment and care has been paid for by workers' compensation
+disputes:
+  - Amount of general damages sought by Plaintiff
+acts:
+  - Defendants failed to respond to lawsuit
+  - Plaintiff dismissed unnamed Doe defendants
+  - Plaintiff filed application for default judgment
+agreements:
+  - None mentioned
+laws:
+  - California Code of Civil Procedure (CCP) § 580(a)
+  - California Code of Civil Procedure (CCP) § 1033.5(a)(1) and (4)
+  - Airs Aromatics, LLC v. CBL Data Recovery Technologies, Inc. (2018) 23 Cal.App.5th 1013, 1018
+case_citations:
+  - 23 Cal.App.5th 1013, 1018
+  - CCP § 580(a)
+  - CCP § 1033.5(a)(1) and (4)
+statutes:
+  - CCP § 580(a)
+  - CCP § 1033.5(a)(1) and (4)
+roles:
+  - Judge
+  - Plaintiff (Suzette Gonzalez)
+  - Defendant (Gustavo Gomez Garcia and New Ride Taxi)
+significant_statements:
+  - The amount sought for general damages cannot exceed the amount pled in the operative complaint/cross-complaint or set forth in the statement of damages.
+  - Plaintiff's medical treatment and care has been paid for by workers' compensation, and thus Plaintiff seeks general damages only.
+```
+
+And here is a summary of the tentative ruling in English text:
+
+The tentative ruling is in favor of the plaintiff, Suzette Gonzalez, and against defendants Gustavo Gomez Garcia and New Ride Taxi. The court grants a default judgment against the defendants in the amount of $275,000 for general damages and $623 for costs. The court finds that the plaintiff is entitled to $275,000 in general damages, which is capped at $500,000 as per California Code of Civil Procedure § 580(a) and Airs Aromatics, LLC v. CBL Data Recovery Technologies, Inc. (2018) 23 Cal.App.5th 1013, 1018. The court also awards the plaintiff costs in the amount of $623, but strikes a portion of the request for costs as ambiguous. The defendant's failure to respond to the lawsuit and the plaintiff's dismissal of unnamed Doe defendants have led to this default judgment.

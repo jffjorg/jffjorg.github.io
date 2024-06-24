@@ -1,0 +1,68 @@
+Here is the summary in YAML format:
+
+```
+case_number: 23STLC02420
+plaintiff_name: Executive Presentations, Inc.
+defendant_name: Maro Burunsuzyan, et al.
+people_names:
+  - Maro Burunsuzyan
+  - David L. Scott
+company_names:
+  - Executive Presentations, Inc.
+places:
+  - San Francisco
+dates:
+  - August 10, 2023
+  - October 12, 2023
+  - October 28, 2023
+  - January 18, 2024
+  - March 5, 2024
+events:
+  - Motion to Compel
+  - Motion to Deem Admitted
+  - Sanctions Order
+money:
+  - $4,350
+  - $61.65
+  - $4,596.60
+intentions:
+  - Compel responses to request for production of documents
+  - Deem matters specified in requests for admission admitted
+  - Award sanctions to plaintiff
+facts:
+  - Plaintiff served requests for production of documents on October 12, 2023
+  - Defendant served responses without objections to each request
+  - Plaintiff served requests for admission on August 10, 2023
+  - Defendant argued service was improper, but court previously addressed issue
+  - Defendant served responses without objections to requests for admission
+disputes:
+  - Improper service of requests for admission
+  - Failure to respond to requests for production of documents
+acts:
+  - Plaintiff served requests for production of documents
+  - Defendant served responses without objections to requests for production
+  - Plaintiff served requests for admission
+  - Defendant served responses without objections to requests for admission
+agreements:
+  - Defendant will pay sanctions to plaintiff
+laws:
+  - California Code of Civil Procedure
+  - Federal Rules of Civil Procedure
+case_citations:
+  - Court's Minute Order, dated January 18, 2024
+  - Declaration of David L. Scott, ¶ 2
+  - Declaration of Maro Burunsuzyan, ¶ 2
+statutes:
+  - California Code of Civil Procedure § 2023.030
+  - Federal Rules of Civil Procedure 26
+roles:
+  - Plaintiff: Executive Presentations, Inc.
+  - Defendant: Maro Burunsuzyan, et al.
+  - Judge: [Judge's name]
+significant_statements:
+  - "The Court awards sanctions to Plaintiff at the prior hearing but declines to set an amount because the Court is concerned by potential duplication in sanctions given that there are three other motions raising similar issues."
+```
+
+And here is a summary of the judge's tentative ruling in English text:
+
+The Court has issued a tentative ruling on the motions filed by Executive Presentations, Inc. (Plaintiff) against Maro Burunsuzyan, et al. (Defendant). Plaintiff moves to compel Defendant to serve responses to requests for production of documents and supplemental requests, as well as to deem matters specified in requests for admission to have been admitted. The Court finds that both motions are moot because Defendant has already served responses without objections. The Court also awards sanctions to Plaintiff in the amount of $4,596.60, which Defendant must pay within 30 days.

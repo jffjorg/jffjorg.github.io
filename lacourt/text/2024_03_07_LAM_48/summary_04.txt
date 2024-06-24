@@ -1,0 +1,69 @@
+Here is the summary in YAML format:
+
+```
+case_number: 23STCV12173
+plaintiff: LUIS E. PENALOZA
+defendant: GENERAL MOTORS LLC
+people_names:
+  - LUIS E. PENALOZA
+  - Unknown (Erskine Law Group, PC)
+company_names:
+  - GENERAL MOTORS LLC
+  - Erskine Law Group, PC
+places:
+  - Los Angeles
+  - California
+dates:
+  - May 30, 2023
+  - November 2, 2023
+  - December 4, 2023
+  - January 12, 2024
+  - March 7, 2024
+events:
+  - Purchase of a vehicle
+  - Request for Production of Documents
+  - Motion to Compel Further Responses
+  - Request for Sanctions
+money:
+  - $2,004.15 (requested sanctions)
+  - $1,912.50 (attorney fees)
+  - $61.65 (filing fee)
+  - $91.95 (e-filing fee)
+  - $1,000.00 (awarded sanctions)
+intentions:
+  - To compel further responses to the request for production of documents
+  - To request monetary sanctions
+facts:
+  - Plaintiff purchased a vehicle from Defendant
+  - Plaintiff served Defendant with a request for production of documents
+  - Defendant provided incomplete responses
+  - Plaintiff moved to compel further responses
+disputes:
+  - Plaintiff's motion to compel further responses
+  - Request for sanctions
+acts:
+  - Plaintiff filed a motion to compel further responses
+  - Defendant provided incomplete responses
+  - Plaintiff seeks monetary sanctions
+agreements:
+  - Plaintiff and Defendant agreed to produce certain documents
+  - Defendant conceded to the motion
+laws:
+  - California Code of Civil Procedure (CCP) § 2031.310
+  - California Code of Civil Procedure (CCP) § 2031.320
+statutes:
+  - CCP § 2031.310
+  - CCP § 2031.320
+roles:
+  - Judge: Hon. Thomas D. Long
+  - Plaintiff: LUIS E. PENALOZA
+  - Defendant: GENERAL MOTORS LLC
+  - Counsel: Yashar
+significant_statements:
+  - The Court finds that Plaintiff shown good cause to compel further responses.
+  - The Court awards Plaintiff reasonable monetary sanctions in the amount of $1,000.00.
+```
+
+And here is a summary of the judge's tentative ruling in English text:
+
+The judge has issued a tentative ruling granting plaintiff Luis E. Penaloza's motion to compel further responses to his request for production of documents. The plaintiff purchased a vehicle from defendant General Motors LLC, which allegedly has defects. The plaintiff served the defendant with a request for production of documents, but the defendant's responses were incomplete. The plaintiff moved to compel further responses, and the judge found that the plaintiff showed good cause to do so. The judge also awarded the plaintiff reasonable monetary sanctions in the amount of $1,000.00. The defendant is ordered to provide verified, complete, and code-compliant responses to the plaintiff's request for production of documents within 30 days.

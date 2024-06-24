@@ -1,0 +1,55 @@
+Here is the YAML summary of the judge's tentative ruling:
+
+```
+case_number: [insert case number]
+plaintiff_name: [insert plaintiff name]
+defendant_name: [insert defendant name]
+people_names:
+  - [insert names of parties involved]
+company_names:
+  - [insert names of companies involved]
+places:
+  - [insert locations relevant to the case]
+dates:
+  - [insert dates relevant to the case]
+events:
+  - Filing of records in discovery
+  - Intention to use records at trial
+  - Failure to file motion to seal records
+money:
+  - No specific amounts mentioned
+intentions:
+  - To follow the procedure for parties not intending to file a motion to seal records
+  - To provide notice to the party that produced the records
+  - To transfer documents to the public file if no motion to seal is filed
+facts:
+  - Records produced in discovery are subject to a confidentiality agreement or protective order
+  - Party intends to use records at trial
+  - Party does not intend to request to have records sealed
+disputes:
+  - None mentioned
+acts:
+  - Lodge unredacted records and redacted copies with the court
+  - File notice with the party that produced the records
+  - File motion to seal records if party intends to do so
+agreements:
+  - Confidentiality agreement or protective order
+  - Procedure for parties not intending to file a motion to seal records
+laws:
+  - California Rules of Court, rule 2.551(b)(3)
+case_citations:
+  - California Rules of Court, rule 2.551(b)(3)
+statutes:
+  - None mentioned
+roles:
+  - Judge
+  - Party producing records
+  - Party intending to use records at trial
+significant_statements:
+  - Records must be lodged with the court and notice given to the party that produced the records
+  - Failure to file a motion to seal records within 10 days will result in the documents being transferred to the public file
+```
+
+And here is a summary of the judge's tentative ruling in English text:
+
+The judge's tentative ruling outlines the procedure for parties that do not intend to file a motion to seal records produced in discovery, which are subject to a confidentiality agreement or protective order. The party must lodge the unredacted records and redacted copies with the court, and give written notice to the party that produced the records. If the party that produced the records fails to file a motion to seal the records within 10 days, the clerk must transfer the documents to the public file. The judge's ruling is based on California Rules of Court, rule 2.551(b)(3).

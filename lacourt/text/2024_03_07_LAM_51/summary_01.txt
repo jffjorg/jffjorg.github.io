@@ -1,0 +1,48 @@
+Here is a summary of the judge's tentative ruling in YAML format:
+
+```yaml
+case_number: 21STCV43988
+hearing_date: March 7, 2024
+dept: 51
+judge: Upinder S. Kalra
+case_name: Claire Lin v. General Motors LLC
+plaintiff: Claire Lin
+defendant: General Motors LLC
+motion: Motion for Attorneys' Fees and Costs
+relief:
+  - An Order Awarding Attorneys' Fees of $63,612
+  - An Order Awarding Costs of $4,959.92
+tentative_ruling: The fee motion is granted in part
+material_facts:
+  - Plaintiff filed a Complaint against Defendant on December 2, 2021
+  - Defendant filed an Answer on January 7, 2022
+  - Plaintiff moved for leave to file a First Amended Complaint on January 28, 2022
+  - Plaintiff's FAC was deemed filed on March 28, 2022
+  - Defendant filed an Answer to the FAC on April 25, 2022
+  - Plaintiff filed a Notice of Settlement on October 17, 2023
+  - Plaintiff filed the instant motion on December 20, 2023
+  - Defendant filed an opposition on January 22, 2024
+  - Plaintiff filed a reply on January 29, 2024
+  - The parties agreed to further meet and confer regarding settlement and the court continued the hearing to March 7, 2024
+  - The parties filed a Joint Report re Status of Settlement on February 22, 2024
+legal_standard:
+  - The prevailing buyer in an action under Song-Beverly "shall be allowed by the court to recover as part of the judgment a sum equal to the aggregate amount of costs and expenses, including attorney's fees"
+  - The prevailing party has the burden of showing that the requested attorney fees are reasonable
+  - The lodestar method looks at the time spent on a matter multiplied by the reasonable hourly rate
+  - The factors that Courts look at to determine if a multiplier is reasonable are the novelty and difficulty of the questions involved, the skill displayed in presenting them, the extent to which the nature of the litigation precluded other employment by the attorneys, and the contingent nature of the fee award
+  - In determining hourly rates, the court must look to the "prevailing market rates in the relevant community"
+  - The court must consider the experience, skill, and reputation of the attorney requesting fees
+reasonableness_of_hours_billed:
+  - The court found instances where the time spent for minor cut and paste edits to templates was unreasonable
+  - The court reduced the requested lodestar by $8,290
+  - The court found the reasonable amount of fees, based upon its experience and knowledge of this type of litigation, the lack of novelty and complexity of this case, and the professed specialization of Plaintiff's counsel is $55,322
+costs:
+  - The requested costs are appropriate
+  - The Court will deny the request to reduce the costs
+conclusion:
+  - The Court decides the pending motion as follows: Motion for Attorneys' Fees is GRANTED, in the amount of $55,322 and costs in the amount of $4,959.92 for a total of $60,281.92 payable within 45 days of service of this order
+```
+
+English-text summary:
+
+The judge's tentative ruling grants Plaintiff's motion for attorneys' fees and costs in part. The court finds that Plaintiff is the prevailing party and is entitled to recover costs and expenses, including attorney's fees, as part of the judgment. The court calculates the reasonable amount of fees based on the lodestar method, which looks at the time spent on the matter multiplied by the reasonable hourly rate. The court finds that the hourly rates are reasonable, but reduces the requested lodestar by $8,290 due to unreasonable billing entries. The court grants the motion for attorneys' fees in the amount of $55,322 and costs in the amount of $4,959.92 for a total of $60,281.92 payable within 45 days of service of this order.

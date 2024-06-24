@@ -1,0 +1,56 @@
+Here is the summary in YAML format:
+
+```
+case_number: 23SMCV02140
+plaintiff_name: James Hunter
+defendant_name: Darren Burris
+people_names:
+  - James Hunter
+  - Darren Burris
+company_names: []
+places: []
+dates:
+  - June 28, 2023
+  - August 2, 2023
+  - October 24, 2023
+  - July 5, 2023
+  - June 14, 2023
+  - March 7, 2024
+events:
+  - Service of Form Interrogatories
+  - Failure to respond
+  - Opposition to motion
+  - Substitution of counsel
+  - Answer to complaint
+money: []
+intentions:
+  - Compel responses to Form Interrogatories
+facts:
+  - Plaintiff served defendant with Form Interrogatories on June 28, 2023
+  - Responses were due on August 2, 2023
+  - Defendant did not respond
+  - Defendant submitted opposition declaration on October 24, 2023
+disputes:
+  - Failure to respond to Form Interrogatories
+acts:
+  - Service of Form Interrogatories
+  - Failure to respond
+  - Submission of opposition declaration
+agreements: []
+laws:
+  - CCP § 2030.290(b)
+  - Leach v. Superior Court (1980) 111 Cal. App. 3d 902, 905-906
+statutes:
+  - CCP § 2030.290(b)
+case_citations: [Leach v. Superior Court (1980) 111 Cal. App. 3d 902, 905-906]
+roles:
+  - Plaintiff: James Hunter
+  - Defendant: Darren Burris
+  - Counsel: [multiple]
+significant_statements:
+  - "Given Defendant’s unexplained failure to respond, the motion to compel is GRANTED."
+```
+
+And here is the English-text summary:
+
+A tentative ruling has been issued in the case of Hunter v. Burris, Case No. 23SMCV02140. The plaintiff, James Hunter, moves for an order compelling the defendant, Darren Burris, to serve verified answers to Form Interrogatories (FROGs). The FROGs were served on June 28, 2023, and responses were due on August 2, 2023. Despite this, the defendant failed to respond. The court has granted the motion to compel, citing the defendant's unexplained failure to respond. The court also requests clarification on the service of the FROGs on Burris, noting that he was represented by the same counsel when he answered the complaint on June 14, 2023.

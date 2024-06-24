@@ -1,0 +1,71 @@
+Here is the summary in YAML format:
+
+```
+case_number: 22SMCV01917
+plaintiff: ANGELO RICHARD ARENA
+defendant: MALIBU PIER PARTNERS, LLC
+people_names:
+  - ANGELO RICHARD ARENA
+  - ALEXA ARENA
+  - JONATHAN SMILOVE
+  - ALEX ZARETSKIY
+company_names:
+  - MALIBU PIER PARTNERS, LLC
+places:
+  - Malibu Pier
+  - Beverly Hills Courthouse
+  - Department 205
+  - Los Angeles County
+  - West District
+dates:
+  - November 26, 2021
+  - March 7, 2024
+events:
+  - Trip and fall incident
+  - Motion for summary judgment
+  - Objections to declarations
+money:
+  - No specific amounts mentioned
+intentions:
+  - Defendant seeks summary judgment or summary adjudication
+  - Plaintiff seeks to prove negligence and premises liability
+facts:
+  - Plaintiff tripped and fell on the Malibu Pier walkway
+  - Defendant claims the elevation change between adjacent planks was trivial
+  - Plaintiff claims a vertical shim caused the fall
+  - Evidence of the shim includes a photo taken by Plaintiff's wife
+  - Plaintiff's expert opines that the shim was a dangerous condition
+  - Defendant claims the uneven surface of the pier was open and obvious
+  - Plaintiff's expert opines that the shims were random and not consistent
+  - Warning signs were posted on the pier, but their adequacy is disputed
+disputes:
+  - Whether the elevation change was trivial
+  - Whether the uneven surface was open and obvious
+  - Whether the warning signs were adequate
+acts:
+  - Defendant's motion for summary judgment
+  - Plaintiff's responses to the motion
+agreements:
+  - The Court grants judicial notice of the operative complaint
+  - The Court overrules some objections and sustains others
+laws:
+  - California Evidence Code
+  - California Code of Civil Procedure
+  - California Civil Code
+case_citations:
+  - Aguilar v. Atlantic Ritchfield Co.
+  - Adler v. Minor Healthcare Corp.
+  - Juge v. County of Sacramento
+  - Code Civ. Proc. §437c(c)
+  - Code Civ. Proc. §437c(p)(2)
+roles:
+  - Judge: Edward B. Moreton, Jr.
+  - Plaintiff: ANGELO RICHARD ARENA
+  - Defendant: MALIBU PIER PARTNERS, LLC
+significant_statements:
+  - The Court disagrees with Defendant's argument that the elevation change was trivial
+  - The Court concludes reasonable minds can differ on whether the open and obvious defense should prevail as a matter of law
+  - The Court denies Malibu Pier Partners, LLC's motion for summary judgment
+```
+
+The judge's tentative ruling is that the Court denies Malibu Pier Partners, LLC's motion for summary judgment. The Court disagrees with the defendant's argument that the elevation change was trivial and concludes that reasonable minds can differ on whether the open and obvious defense should prevail as a matter of law. The Court also finds that there are triable issues as to the adequacy of the warning signs and the dangerous condition caused by the vertical shim.

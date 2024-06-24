@@ -1,0 +1,75 @@
+Here is the summary in YAML format:
+
+```
+caseNumber: BC587406
+plaintiffName: AMAG, Inc.
+defendantName: Vlaze Media Networks, Inc.
+peopleNames:
+  - Anastasiia Arseneva
+  - Zambrano
+companyNames:
+  - T-mobile
+  - Vlaze Media Networks, Inc.
+places:
+  - California
+dates:
+  - February 20, 2022
+  - February 24, 2022
+  - February 27, 2022
+  - March 1, 2022
+  - March 5, 2022
+  - March 6, 2023
+  - May 1, 2023
+events:
+  - Fraudulent conversion
+  - Misrepresentation
+  - Constructive fraud
+  - Breach of fiduciary duty
+  - Declaratory relief
+  - Breach of written contract
+  - Quantum meruit
+  - Violation of Pen. Code §§ 528.5, 529
+  - Burglary
+  - Phone records subpoena
+money:
+  - None mentioned
+intentions:
+  - Plaintiff seeks to establish fraudulent conversion, misrepresentation, constructive fraud, breach of fiduciary duty, and declaratory relief
+  - Defendant seeks to quash subpoena issued to T-mobile for phone records
+  - Cross-claimant seeks to establish breach of written contract, quantum meruit, and violation of Pen. Code §§ 528.5, 529
+facts:
+  - Plaintiff alleges Defendant sought to avoid judgment by fraudulently transferring assets
+  - Cross-claimant alleges forged signatures on employment agreement
+  - Zambrano's law office was burglarized and documents were stolen
+  - Phone records may prove Cross-claimant's location on night of burglary or show she planned it
+disputes:
+  - Plaintiff vs. Defendant (fraudulent conversion, etc.)
+  - Cross-claimant vs. Cross-Defendants (breach of written contract, etc.)
+  - Cross-claimant vs. Court (quashing subpoena)
+acts:
+  - Plaintiff filed First Amended Complaint
+  - Cross-claimant filed Second Amended Cross-Complaint
+  - Zambrano reported burglary and stolen documents
+agreements:
+  - None mentioned
+laws:
+  - Code of Civil Procedure § 1987.1
+  - Calcor Space Facility, Inc. v. Superior Court (1997)
+statutes:
+  - Pen. Code §§ 528.5, 529
+roles:
+  - Judge
+  - Plaintiff
+  - Defendant
+  - Cross-claimant
+  - Cross-Defendants
+  - Expert
+significant statements:
+  - "Discovery devices are meant to facilitate litigation, not wage it."
+  - "The subpoena at issue seeks... phone records for Cross-complainant Anastasiia Arseneva's T-Mobile USA Inc. account..."
+  - "The Court will temporally limit the subpoena to February 24 to March 1, 2022 (inclusive)."
+```
+
+And here is the English-text summary:
+
+The Judge's tentative ruling addresses a dispute over a subpoena issued to T-mobile for phone records of Cross-claimant Anastasiia Arseneva. The subpoena seeks records from February 20, 2022, to March 5, 2022, including phone location data, call records, and text messages. The Cross-claimant objects to the subpoena, arguing it seeks to harass her and infringe on her privacy rights. The Judge finds that the records are relevant to establishing whether an employment agreement includes forged signatures from Cross-Defendants, and therefore grants the subpoena in part, limiting it to February 24 to March 1, 2022. The Judge also declines to award sanctions.

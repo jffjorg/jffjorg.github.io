@@ -1,0 +1,60 @@
+Here is the summary in YAML format:
+
+```
+case_number: 23PDUD03806
+plaintiff_name: Rao Hsein Ray Wu
+defendant_name: Karen Murphy
+people_names:
+  - Karen Murphy
+  - Rao Hsein Ray Wu
+company_names: []
+places:
+  - Los Angeles
+  - California
+dates:
+  - January 18, 2024
+  - January 3, 2024
+  - January 4, 2024
+  - January 19, 2024
+  - February 15, 2024
+  - March 5, 2024
+events:
+  - Default judgment entered against defendant
+  - Defendant's motion to set aside default filed
+  - Trial Setting Conference scheduled
+money: $4000.00
+intentions:
+  - To set aside default judgment
+  - To schedule a Trial Setting Conference
+facts:
+  - Defendant failed to pay rent for several months
+  - Defendant received notice to pay rent or quit
+  - Plaintiff entered judgment for possession in favor of the plaintiff
+  - Defendant filed demurrer, which was overruled
+  - Defendant filed answer to complaint
+disputes:
+  - Defendant's failure to pay rent
+  - Plaintiff's request for judgment for possession
+acts:
+  - Plaintiff filed complaint
+  - Defendant filed demurrer
+  - Defendant filed answer to complaint
+  - Plaintiff entered default judgment
+agreements: []
+laws:
+  - CCP Section 657
+  - CCP Section 1013
+  - Hayashi v. Lorenz (1954)
+case_citations: []
+statutes: []
+roles:
+  - Judge: Margaret L. Oldendorf
+  - Plaintiff: Rao Hsein Ray Wu
+  - Defendant: Karen Murphy
+significant_statements:
+  - "It is well settled that a judgment or order which is void on its face, and which requires only an inspection of the judgment roll or record to show its invalidity, may be set aside on motion, at any time after its entry, by the court which rendered the judgment or made the order." (Hayashi v. Lorenz (1954))
+```
+
+And here is the English-text summary:
+
+The Judge, Margaret L. Oldendorf, has issued a tentative ruling granting the defendant's motion to set aside the default judgment entered against her. The plaintiff, Rao Hsein Ray Wu, had alleged that the defendant, Karen Murphy, failed to pay rent for several months and had not vacated the premises after receiving a notice to pay rent or quit. The Judge found that the default judgment was entered in error, as the defendant had until January 19, 2024 to file her answer, which she did on the same day. The Judge therefore granted the motion to set aside the default judgment and scheduled a Trial Setting Conference for a future date.

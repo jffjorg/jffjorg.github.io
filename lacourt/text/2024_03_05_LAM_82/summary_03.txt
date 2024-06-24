@@ -1,0 +1,62 @@
+Here is the summary in YAML format:
+
+```
+case_number: 24STCV00979
+plaintiff: Americredit Financial Services
+defendant: Damien R. Escalante et al
+people_names:
+  - Damien R. Escalante
+  - Richard Dertinger
+  - K.O. Towing and Recovery (company)
+company_names:
+  - Americredit Financial Services
+  - K.O. Towing and Recovery
+places:
+  - Santa Ana, CA
+  - 3601 W 5th St, Santa Ana, CA
+dates:
+  - March 5, 2024
+  - (date of Retail Installment Sales Contract not specified)
+events:
+  - Application for Writ of Possession
+  - Application for Writ of Mandate
+money:
+  - $59,494.93 (amount owed)
+  - $33,334.00 (market value of vehicle)
+intentions:
+  - Grant or deny applications for writ of possession and writ of mandate
+facts:
+  - Americredit Financial Services is seeking possession of a 2020 Ford Super Duty F-25 (VIN 1FT8W2BT4LEC64673)
+  - The vehicle was purchased by defendants Damien R. Escalante and Richard Dertinger
+  - K.O. Towing and Recovery may not have possession of the vehicle
+  - Richard Dertinger was not properly served with the necessary documents
+disputes:
+  - Possession of the vehicle
+  - Validity of Americredit Financial Services' claim to possession
+acts:
+  - Americredit Financial Services' application for writ of possession and writ of mandate
+  - Failure to serve Richard Dertinger with necessary documents
+agreements:
+  - Retail Installment Sales Contract
+laws:
+  - CCP § 512.030
+  - CCP § 515.010
+case_citations:
+  - CCP § 512.030
+  - CCP § 515.010
+statutes:
+  - CCP (California Code of Civil Procedure)
+roles:
+  - Judge
+  - Plaintiff (Americredit Financial Services)
+  - Defendant (Damien R. Escalante et al)
+significant_statements:
+  - "The Court finds that plaintiff has established the probable validity of its claim to possession of the property..."
+  - "The writ of possession shall issue only as to the address listed in the Retail Installment Sales Contract..."
+```
+
+And here is a summary of the judge's tentative ruling in English text:
+
+The judge has issued a tentative ruling on the applications for writ of possession and writ of mandate filed by Americredit Financial Services against defendants Damien R. Escalante, Richard Dertinger, and K.O. Towing and Recovery. The judge has denied the application for writ of possession filed against K.O. Towing and Recovery, as there is no showing that the company has possession of the vehicle. The judge has also denied the application for writ of possession filed against Richard Dertinger, as the plaintiff failed to provide proof of service of the necessary documents to the defendant.
+
+The judge has granted the application for writ of mandate filed against Damien R. Escalante, finding that the plaintiff has established the probable validity of its claim to possession of the property, a 2020 Ford Super Duty F-25. The writ of possession will issue only as to the address listed in the Retail Installment Sales Contract, which is 3601 W 5th St, Santa Ana, CA. The judge has also determined that an undertaking is not required, as the amount owed ($59,494.93) exceeds the market value of the vehicle ($33,334.00).

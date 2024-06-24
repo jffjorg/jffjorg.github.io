@@ -1,0 +1,63 @@
+Here is the summary in YAML format:
+
+```
+Case Number: 20STCV49545
+Plaintiff's Name: Brown Strauss, Inc.
+Defendant's Name: Acme Metals & Steel Supply, Inc. et al.
+People-Names:
+  - Brown Strauss, Inc.
+  - Acme Metals & Steel Supply, Inc.
+  - Acme Metals, LLC
+  - Equitable Transitions, Inc.
+Company-Names:
+  - Brown Strauss, Inc.
+  - Acme Metals & Steel Supply, Inc.
+  - Acme Metals, LLC
+  - Equitable Transitions, Inc.
+Places:
+  - None specified
+Dates:
+  - December 29, 2020
+  - May 12, 2021
+  - May 19, 2021
+  - December 26, 2023
+  - February 6, 2024
+  - March 5, 2024
+Events:
+  - Contractual dispute
+  - Filing of complaint
+  - Entry of default
+  - Request for dismissal
+  - Motion to set aside defaults
+Money: None specified
+Intentions:
+  - Set aside defaults
+  - Dismiss complaint
+Facts:
+  - Court entered defaults for Equitable Transition Inc., Acme Metals & Steel Supply, and Acme Metals LLC
+  - Plaintiff filed request for dismissal without prejudice
+  - Court rejected request due to defaults
+Disputes:
+  - Contractual dispute
+Acts:
+  - Filing of complaint
+  - Entry of default
+  - Request for dismissal
+Agreements:
+  - None specified
+Laws:
+  - None specified
+Case Citations:
+  - None specified
+Statutes:
+  - None specified
+Roles:
+  - Plaintiff: Brown Strauss, Inc.
+  - Defendant: Acme Metals & Steel Supply, Inc. et al.
+Significant Statements:
+  - The court grants Plaintiff's motion to set aside the defaults
+```
+
+And here is a summary of the judge's tentative ruling in English text:
+
+The judge has tentatively ruled to grant the plaintiff's motion to set aside the defaults entered against the defendants. The plaintiff, Brown Strauss, Inc., filed a complaint against Acme Metals & Steel Supply, Inc., et al. on December 29, 2020, and the court entered defaults against Equitable Transition Inc., Acme Metals & Steel Supply, and Acme Metals LLC on May 12 and 19, 2021, respectively. The plaintiff later filed a request for dismissal without prejudice, which was rejected due to the defaults. The court instructed the plaintiff to set aside the defaults before dismissing the complaint. The plaintiff has now filed a motion to set aside the defaults, which the judge has granted. This allows the plaintiff to dismiss the complaint in this action.

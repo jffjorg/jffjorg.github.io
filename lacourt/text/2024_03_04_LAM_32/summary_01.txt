@@ -1,0 +1,80 @@
+Here is the summary in YAML format:
+
+```
+case_number: 21STCV23163
+hearing_date: March 4, 2024
+dept: 32
+plaintiff: Songhee Kim
+defendants: Jaegeuk Jeong, Jeong Jang
+people:
+  - Songhee Kim
+  - Jaegeuk Jeong
+  - Jeong Jang
+  - Jeehyun Yum
+companies:
+  - None
+places:
+  - Los Angeles
+  - Republic of Korea
+dates:
+  - June 22, 2021
+  - September 29, 2022
+  - February 21, 2023
+  - April 26, 2023
+  - March 4, 2024
+  - July 11, 2022
+  - August 25, 2022
+  - March 2, 2023
+  - March 31, 2023
+events:
+  - Assault
+  - Battery
+  - False imprisonment
+  - Intentional infliction of emotional distress
+  - Negligent infliction of emotional distress
+  - Failure to pay all earned wages
+  - Violations of the Ralph Civil Rights Act
+  - Subpoena for deposition
+  - Depositions
+  - Motion to compel deposition
+money:
+  - $1,701 (sanctions)
+intentions:
+  - Compel deposition of Jeehyun Yum
+  - Award sanctions for failure to appear for deposition
+facts:
+  - Plaintiff Songhee Kim filed a complaint against defendants Jaegeuk Jeong and Jeong Jang
+  - Plaintiff served a subpoena for the deposition of Jeehyun Yum, which was personally served on him
+  - Jeehyun Yum failed to appear for his duly noticed deposition
+  - Plaintiff's counsel attempted to confer with Jeehyun Yum to reschedule his deposition, but was unsuccessful
+disputes:
+  - Plaintiff's motion to compel deposition
+acts:
+  - Plaintiff served a subpoena for the deposition of Jeehyun Yum
+  - Jeehyun Yum failed to appear for his deposition
+  - Plaintiff's counsel attempted to confer with Jeehyun Yum to reschedule his deposition
+agreements:
+  - None
+laws:
+  - Code Civ. Proc., § 1987.1
+  - Calcor Space Facility, Inc. v. Superior Court (1997)
+  - Ralph Civil Rights Act
+case_citations:
+  - Calcor Space Facility, Inc. v. Superior Court (1997)
+  - Code Civ. Proc., § 1987.1
+statutes:
+  - Code Civ. Proc., § 1987.1
+roles:
+  - Plaintiff: Songhee Kim
+  - Defendant: Jaegeuk Jeong, Jeong Jang
+  - Nonparty: Jeehyun Yum
+significant_statements:
+  - The Court finds that Mr. Yum has failed to appear for his duly noticed deposition.
+  - No substantial justification has been provided for Mr. Yum's failure to appear.
+  - Plaintiff's motion to compel deposition is GRANTED.
+  - The Court sanctions Mr. Yum in the amount of $1,701, to be paid within 30 days.
+```
+
+And here is a summary of the judge's tentative ruling in English text:
+
+The judge is considering a motion by the plaintiff, Songhee Kim, to compel the deposition of Jeehyun Yum, a nonparty. The motion was personally served on Yum at the Consulate General of the Republic of Korea in Los Angeles. Yum failed to appear for his deposition on two separate occasions, and the plaintiff's counsel attempted to confer with Yum to reschedule the deposition, but was unsuccessful. The judge finds that Yum has failed to appear for his duly noticed deposition and that no substantial justification has been provided for his failure to appear. The judge grants the plaintiff's motion to compel deposition and sanctions Yum in the amount of $1,701, to be paid within 30 days.

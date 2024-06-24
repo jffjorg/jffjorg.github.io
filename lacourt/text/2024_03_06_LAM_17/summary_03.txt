@@ -1,0 +1,74 @@
+Here is the summary of the tentative ruling in YAML format:
+
+```
+case_number: 23STCP03563
+plaintiff: Tom Lehman
+defendant: Medialab.AI Inc.
+people_names:
+  - Tom Lehman
+  - Mr. Lehman
+  - Jacobs
+  - Gonzalez
+company_names:
+  - Medialab.AI Inc.
+places:
+  - Los Angeles
+  - California
+dates:
+  - 9/28/2023
+  - 6/6/2023
+  - 6/22/2023
+  - 7/21/2023
+  - 7/25/2023
+  - 9/15/2023
+  - March 13, 2023
+  - March 6, 2024
+events:
+  - Petition to compel arbitration
+  - Payment of arbitration fees
+  - Filing of demand for arbitration
+  - Email correspondence with JAMS
+money:
+  - $3,280 (fees)
+  - $640.20 (costs)
+  - $3,960 (initial claim)
+intentions:
+  - To compel Respondent to arbitrate
+  - To award reasonable attorney fees and costs
+facts:
+  - Petitioner filed a demand for arbitration on 6/6/2023
+  - JAMS sent an invoice for MediaLab's share of the case initiating fees on 6/22/2023
+  - MediaLab did not pay the invoice until July 25, 2023
+  - Petitioner seeks to compel Respondent to arbitrate and pay reasonable attorney fees and costs
+disputes:
+  - Whether Respondent committed a material breach of the arbitration agreement
+acts:
+  - Petitioner filed a petition to compel arbitration
+  - Respondent paid the arbitration fees
+  - JAMS sent emails to all counsel regarding the payment of the invoice
+agreements:
+  - Arbitration agreement between Petitioner and Respondent
+laws:
+  - CCP section 1281.97
+  - CCP section 1281.98
+  - CCP section 1281.99
+case_citations:
+  - Jacobs Decl.
+  - Gonzalez v. City of Maywood (9th Cir. 2013) 729 F.3d 1196, 1203
+statutes:
+  - CCP section 1281.97
+  - CCP section 1281.98
+  - CCP section 1281.99
+roles:
+  - Judge: Hon. Jon R. Takasugi
+  - Petitioner: Tom Lehman
+  - Respondent: Medialab.AI Inc.
+significant_statements:
+  - The Court awards $3,280 in fees and $640.20 in costs.
+  - The Court finds that Respondent committed a material breach of the arbitration agreement.
+  - The Court disagrees with Respondent that the petition is baseless.
+```
+
+Here is a summary of the tentative ruling in English text:
+
+The Judge has issued a tentative ruling in the case of Tom Lehman vs. Medialab.AI Inc., granting Petitioner's petition to compel Respondent to arbitrate and pay reasonable attorney fees and costs. The Court finds that Respondent committed a material breach of the arbitration agreement by failing to pay the arbitration fees within 30 days of receipt of the invoice. The Court awards $3,280 in fees and $640.20 in costs to Petitioner, which are reasonable and necessary expenses incurred as a result of the material breach. The Court also finds that Petitioner's billing records are mostly reasonable, but notes some minor evidence of padding.

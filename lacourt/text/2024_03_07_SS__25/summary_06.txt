@@ -1,0 +1,68 @@
+Here is the summary of the judge's tentative ruling in YAML format:
+
+```
+case_number: [insert case number]
+plaintiff_name: PRC Restoration, Inc. dba PRC
+defendant_name: Jennifer Noel, aka Jennifer M. Noel, aka Jennifer Michelle Noel
+people_names:
+  - Jennifer Noel
+  - Michael I. Schiller
+company_names:
+  - PRC Restoration, Inc.
+places:
+  - [insert location]
+dates:
+  - October 07, 2022
+  - November 23, 2022
+  - December 05, 2023
+  - January 15, 2024
+  - January 30, 2024
+  - February 07, 2024
+  - February 23, 2024
+  - February 29, 2024
+events:
+  - Filing of complaint
+  - Filing of answer
+  - Filing of motion to deem facts admitted
+  - Failure to respond to requests for admission
+money:
+  - $1,125.00 (amount of sanctions sought)
+  - $60.00 (filing fee)
+  - $355.00 per hour (attorney's fees)
+  - $770.00 (amount of sanctions granted)
+intentions:
+  - To deem facts admitted against defendant
+  - To impose sanctions on defendant for failure to respond to requests for admission
+facts:
+  - Defendant failed to respond to requests for admission
+  - Plaintiff filed motion to deem facts admitted
+  - Plaintiff seeks sanctions for court fees and attorney's fees
+disputes:
+  - Defendant's failure to respond to requests for admission
+acts:
+  - Filing of motion to deem facts admitted
+  - Failure to respond to requests for admission
+agreements:
+  - Plaintiff's request for admissions
+laws:
+  - California Code of Civil Procedure sections 2033.010, 2033.280, 2023.010, 2023.030
+  - California Rules of Court, rule 3.1300
+case_citations:
+  - Deymer v. Costa Mesa Mobile Home Estates (1995) 36 Cal.App.4th 393
+  - Wilcox v. Birtwhistle (1999) 21 Cal.4th 973
+  - Brigante v. Huang (1993) 20 Cal.App.4th 1569
+statutes:
+  - California Code of Civil Procedure sections 2033.010, 2033.280, 2023.010, 2023.030
+roles:
+  - Judge
+  - Plaintiff (PRC Restoration, Inc. dba PRC)
+  - Defendant (Jennifer Noel, aka Jennifer M. Noel, aka Jennifer Michelle Noel)
+significant_statements:
+  - The court finds that more than 30 days have lapsed since defendant was served with plaintiff's requests for admission, and therefore plaintiff is entitled to pursue the motion.
+  - The court deems the matters within plaintiff's requests for admissions, set one, as true against defendant.
+  - The court grants sanctions in the amount of $770.00 to plaintiff's counsel.
+```
+
+And here is the English-text summary:
+
+The judge's tentative ruling grants the plaintiff's motion to deem facts admitted against the defendant. The defendant failed to respond to the plaintiff's requests for admission, which triggered the plaintiff's right to move for an order deeming the facts admitted. The court finds that the defendant's failure to respond was a misuse of the discovery process and orders the defendant to pay sanctions in the amount of $770.00 to the plaintiff's counsel. The court also grants the plaintiff's motion to deem the facts admitted and orders the defendant to pay the sanctions within 30 days.

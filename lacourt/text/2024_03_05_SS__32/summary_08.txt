@@ -1,0 +1,60 @@
+Here is the summary in YAML format:
+
+```
+case_number: 23STCV16590
+plaintiff_name: Jose Lozano
+defendant_name: Davidra Jewel Jackson
+people_names:
+  - Jose Lozano
+  - Davidra Jewel Jackson
+company_names:
+  - None
+places: None
+dates:
+  - October 27, 2023
+  - January 8, 2024
+  - March 5, 2024
+events:
+  - Motion to compel responses to Form Interrogatories, Set One
+  - Request for monetary sanctions
+money:
+  - $960
+  - $360.00
+intentions:
+  - Compel responses to Form Interrogatories, Set One
+  - Seek monetary sanctions
+facts:
+  - Defendant served Form Interrogatories, Set One on Plaintiff on October 27, 2023
+  - Extensions to respond were granted until January 8, 2024
+  - No responses were served as of the date of filing the motion
+disputes:
+  - None (no opposition was filed)
+acts:
+  - Service of Form Interrogatories, Set One
+  - Request for monetary sanctions
+agreements:
+  - None
+laws:
+  - Code Civ. Proc. § 2030.290
+  - Code Civ. Proc. § 2030.290 (a)(1), (a)(2)
+  - Code Civ. Proc. § 2030.290 (c)
+  - Cal. Rules of Court, rule 3.1348(a)
+case_citations: Leach v. Superior Court (1980) 111 Cal.App.3d 902, 905-906
+statutes:
+  - Code Civ. Proc. § 2030.290
+  - Code Civ. Proc. § 2030.290 (a)(1), (a)(2)
+  - Code Civ. Proc. § 2030.290 (c)
+roles:
+  - Judge
+  - Plaintiff
+  - Defendant
+  - Counsel
+significant_statements:
+  - The motion to compel is granted
+  - The Court finds the amount of sanctions requested is excessive and reduces it to $360.00
+  - The Court grants the request for monetary sanctions against Plaintiff in the reduced amount of $360.00
+```
+
+And here is the English text summary:
+
+The judge has issued a tentative ruling on a motion to compel responses to Form Interrogatories, Set One filed by the defendant, Davidra Jewel Jackson. The defendant served the interrogatories on the plaintiff, Jose Lozano, on October 27, 2023, and extensions to respond were granted until January 8, 2024. Despite this, no responses were served by the plaintiff. The judge grants the motion to compel and orders the plaintiff to serve properly verified responses, without objections, to the interrogatories within 10 days. The judge also grants the request for monetary sanctions against the plaintiff in the reduced amount of $360.00, which is to be paid to counsel for the defendant within 30 days of the date of this order.

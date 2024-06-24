@@ -1,0 +1,90 @@
+Here is the summary of the judge's tentative ruling in YAML format:
+
+```
+Case Number: 20STCV34110
+Hearing Date: March 5, 2024
+Dept: 76
+
+People-Names:
+  - Alexander
+  - Cassandra, Giorgio
+  - Kim, Jonathan
+  - Lather, Jason
+  - Navasardyan, Artur
+  - Soghomonyan, Sergey
+  - Tokasey, Matt
+  - Benoff, Todd
+
+Company-Names:
+  - Heidari Law Group, PC
+  - Alston & Bird, LLP
+  - Repwest Insurance Company
+
+Places:
+  - California
+  - Nevada
+
+Dates:
+  - March 5, 2024
+
+Events:
+  - Motion to quash deposition subpoena
+  - Motion for protective order
+  - Request for sanctions
+
+Money:
+  - $1,935 (sanctions)
+
+Intentions:
+  - To grant motions to quash deposition subpoena and for protective order
+  - To impose sanctions on defendants and their counsel
+
+Facts:
+  - Plaintiff Navasardyan and Soghomonyan filed a lawsuit against defendants Alexander, Tokasey, and Repwest Insurance Company
+  - Plaintiff's counsel served a deposition subpoena on non-party Jason Lather
+  - Plaintiff's counsel moved to quash the deposition subpoena and for a protective order
+  - Defendant's counsel moved for sanctions against Plaintiff's counsel
+
+Disputes:
+  - Whether the deposition subpoena was properly served on non-party Lather
+  - Whether Plaintiff's counsel has a right to protection from the deposition subpoena
+  - Whether defendants and their counsel have a right to discovery of Plaintiff's counsel's documents
+
+Acts:
+  - Service of deposition subpoena on non-party Lather
+  - Filing of motions to quash deposition subpoena and for protective order
+  - Filing of request for sanctions
+
+Agreements:
+  - None
+
+Laws:
+  - California Rules of Court, Rule 3.1308(a)(1)
+  - California Code of Civil Procedure, Section 1987.1
+  - California Code of Civil Procedure, Section 1989
+  - California Code of Civil Procedure, Section 2025.310
+  - California Code of Civil Procedure, Section 2025.420
+  - California Evidence Code, Section 953
+  - Weil & Brown, Cal. Practice Guide: Civil Procedure Before Trial, P 8:518
+
+Case Citations:
+  - Maldonado v. Superior Court (2002) 94 Cal.App.4th 1390
+  - Toyota Motor Corp. v. Superior Court (2011) 197 Cal.App.4th 1107
+  - I-CA Enterprises, Inc. v. Palram Americas, Inc. (2015) 235 Cal.App.4th 257
+  - People v. Hayes (1999) 21 Cal.4th 1211
+  - Spectra-Physics, Inc. v. Superior Court (1988) 198 Cal.App.3d 1487
+
+Roles:
+  - Judge: [Not specified]
+  - Plaintiff's counsel: [Not specified]
+  - Defendant's counsel: [Not specified]
+
+Significant Statements:
+  - "The Court notes that if Plaintiffs' counsel truly spent 49 total hours on this motion, Plaintiff's counsel is extremely inefficient."
+  - "The Court will impose sanctions for 5 total hours at $375/hour, plus $60 in filing fees, for a total of $1,935."
+  - "The information sought is relevant and nonprivileged."
+  - "The information is crucial to the preparation of the case."
+  - "The client is the holder of the attorney-client privilege."
+```
+
+Note that some of the fields may not have been filled in as the YAML format is designed to be flexible and can be modified to fit the specific needs of the document.

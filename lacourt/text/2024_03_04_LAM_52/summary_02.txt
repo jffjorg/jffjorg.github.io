@@ -1,0 +1,85 @@
+Here is a summary of the judge's tentative ruling in YAML format:
+
+```
+case_number: 23STCV15099
+hearing_date: March 4, 2024
+dept: 52
+tentative_ruling:
+  - Demurrer to Second Amended Complaint: Sustained with 20 days' leave to amend
+  - Motion for Sanctions: Denied
+  - Statute of Limitations: Barred for breach of contract and negligence claims
+  - Equitable Tolling: Not applicable
+  - Discovery Rule: Not applicable
+  - Third Cause of Action (Tort of Another): Failures to state a cause of action
+people_names:
+  - Geraldine Marie Johnston
+  - Roger Manlin
+  - TD Ameritrade, Inc.
+companies:
+  - TD Ameritrade, Inc.
+places:
+  - California
+dates:
+  - June 28, 2023
+  - December 2016
+  - 2017
+  - 2018
+  - 2019
+  - 2020
+  - 2022
+  - 2023
+events:
+  - Unauthorized transfers of money from TDA account
+  - Divorce proceedings
+  - Claims for damages
+money:
+  - $160,800
+  - $100,000
+  - $217,500
+  - $750,000
+intention:
+  - Plaintiff seeks damages for alleged breach of contract and negligence
+facts:
+  - Plaintiff's late husband, Roger Manlin, made unauthorized transfers from her TDA account
+  - Plaintiff did not contact TDA about the transfers until 2017
+  - TDA reimbursed plaintiff for the first transfer
+  - Plaintiff did not provide timely notice of her claims against TDA
+  - Plaintiff did not allege sufficient facts for the discovery rule
+disputes:
+  - Statute of limitations
+  - Equitable tolling
+  - Discovery rule
+  - Third cause of action (Tort of Another)
+acts:
+  - Unauthorized transfers of money from TDA account
+  - Reimbursement of transfer
+  - Divorce proceedings
+  - Claims for damages
+agreements:
+  - None
+laws:
+  - California Civil Code Section 339
+  - California Code of Civil Procedure Section 337
+  - California Code of Civil Procedure Section 338
+  - California Code of Civil Procedure Section 128.7
+  - Evidence Code Section 452
+  - Code of Civil Procedure Section 664.6
+  - California Rules of Court Rule 5.24
+citations:
+  - Cansino v. Bank of America (2014) 224 Cal.App.4th 1462
+  - E-Fab, Inc. v. Accountants, Inc. Services (2007) 153 Cal.App.4th 1308
+  - Brome v. California Highway Patrol (2020) 44 Cal.App.5th 786
+  - Saint Francis Memorial Hospital v. State Department of Public Health (2020) 9 Cal.5th 710
+  - State Compensation Insurance Fund v. Department of Insurance (2023) 96 Cal.App.5th 227
+  - Apple Valley Unified School Dist. v. Vavrinek, Trine, Day & Co. (2002) 98 Cal.App.4th 934
+  - Neal v. Superior Court (2001) 90 Cal.App.4th 22
+  - d'Elia v. d'Elia (1997) 58 Cal.App.4th 415
+  - Askew v. Askew (1994) 22 Cal.App.4th 942
+  - Bidna v. Rosen (1993) 19 Cal.App.4th 27
+  - Stella v. Asset Management Consultants, Inc. (2017) 8 Cal.App.5th 181
+  - Saoy v. Peter (1990) 220 Cal.App.3d 1305
+  - Sooy v. Peter (1990) 220 Cal.App.3th 1305
+  - PPG Industries, Inc. v. Transamerica Ins. Co. (1999) 20 Cal.4th 310
+  - Ash v. North American Title Co. (2014) 223 Cal.App.4th 1258
+  - Brandt v. Superior Court (1985) 37 Cal.3d 813
+  - Copenbarger v

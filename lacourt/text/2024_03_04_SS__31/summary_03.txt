@@ -1,0 +1,59 @@
+Here is the summary in YAML format:
+
+```yaml
+case_number: 20STCV43151
+plaintiff: Keith Smith
+defendant: Liat Beroukhai
+people_names:
+  - Keith Smith
+  - Liat Beroukhai
+  - Jonathan Marsand Balter
+company_names: []
+places: []
+dates:
+  - October 18, 2023
+  - March 4, 2024
+events:
+  - Automobile incident
+  - Deposition subpoena
+  - Motion to compel non-party deposition
+money: []
+intentions:
+  - To compel the deposition and production of documents of non-party Jonathan Marsand Balter
+  - To resolve the issue of service
+facts:
+  - Plaintiff served Balter with a valid deposition subpoena
+  - Balter failed to appear for the deposition
+  - There has been no objection filed to the subpoena
+  - The proof of service indicates Balter was served by mail
+disputes:
+  - Plaintiff's motion to compel non-party deposition
+acts:
+  - Service of deposition subpoena
+  - Failure to appear for the deposition
+  - Personal service of moving papers
+agreements: []
+laws:
+  - California Code of Civil Procedure
+  - California Rules of Court
+case_citations:
+  - Code Civ. Proc., § 2020.010
+  - Code Civ. Proc., § 2020.020
+  - Code Civ. Proc., § 2020.220, subd. (a)
+  - Code Civ. Proc., § 2020.220, subd. (c)
+  - Code Civ. Proc., § 2020.240
+  - Cal. Rules of Court, Rule 3.1346
+statutes: []
+roles:
+  - Plaintiff
+  - Defendant
+  - Non-party deponent
+significant_statements:
+  - The Court is precluded from granting the motion until Plaintiff first resolves the issue of service.
+  - Plaintiff must serve the moving papers by personal service.
+  - The motion is denied without prejudice.
+```
+
+Here is a summary of the tentative ruling in English text:
+
+The judge has denied without prejudice Plaintiff Keith Smith's motion to compel the deposition and production of documents of non-party Jonathan Marsand Balter. The motion was unopposed, but the Court is precluded from granting the motion until Plaintiff first resolves the issue of service. The proof of service indicates Balter was served by mail, but there is no evidence that Balter agreed to accept service by mail, and therefore Plaintiff must serve the moving papers by personal service. The Court has ordered Plaintiff to give notice and has encouraged the parties to meet and confer to resolve the issue.

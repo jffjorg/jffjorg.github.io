@@ -1,0 +1,74 @@
+Here is the YAML summary:
+
+```
+case_number: 2020-000001
+plaintiff_name: State Farm Mutual Automobile Insurance Company
+defendant_name: Daniel Laurence Sabah, Aydin Karzar aka Aydin Hajir
+people_names:
+  - Daniel Laurence Sabah
+  - Aydin Karzar
+  - Aydin Hajir
+  - Harlan M. Reese
+company_names:
+  - State Farm Mutual Automobile Insurance Company
+places:
+  - California
+dates:
+  - 2020-04-20
+  - 2020-08-31
+  - 2021-03-31
+  - 2021-09-07
+  - 2021-09-14
+  - 2023-09-11
+  - 2024-01-30
+  - 2024-02-01
+  - 2024-02-09
+events:
+  - Filing of Complaint
+  - Filing of Answer and Cross-Complaint
+  - Filing of Motion for Leave to File Amended Complaint
+  - Filing of Joint Stipulation
+  - Dismissal of case
+  - Filing of Motion to Vacate Dismissal and Enter Judgment
+  - Filing of Memorandum of Costs
+  - Filing of Supplemental Papers
+money:
+  - 2,260.00
+  - 1,934.50
+  - 700.00
+  - 374.50
+intentions:
+  - To vacate the dismissal and enter judgment against Defendant Sabah
+facts:
+  - Defendant Sabah did not sign the settlement agreement
+  - The settlement agreement is between Plaintiff and Defendant Karzar
+  - Defendant Sabah made monthly payments, but defaulted on payments
+  - Plaintiff mailed a default letter to Defendant Sabah regarding the missed payments
+disputes:
+  - Whether the settlement agreement is enforceable against Defendant Sabah
+acts:
+  - Filing of Complaint
+  - Filing of Answer and Cross-Complaint
+  - Filing of Motion for Leave to File Amended Complaint
+  - Filing of Joint Stipulation
+  - Dismissal of case
+  - Filing of Motion to Vacate Dismissal and Enter Judgment
+agreements:
+  - Settlement Agreement and Stipulation for Dismissal
+laws:
+  - Code of Civil Procedure section 664.6
+statutes:
+  - Code of Civil Procedure section 664.6
+roles:
+  - Judge
+  - Plaintiff
+  - Defendant
+  - Counsel
+significant_statements:
+  - The Court cannot enter judgment against Defendant Sabah because he was not a party to the agreement.
+  - The Motion is denied without prejudice.
+```
+
+And here is the summary in English:
+
+The Judge has issued a tentative ruling in a case filed by State Farm Mutual Automobile Insurance Company (Plaintiff) against Daniel Laurence Sabah (Defendant Sabah) and Aydin Karzar aka Aydin Hajir (Defendant Karzar). The case was dismissed on September 14, 2021, with the reservation to vacate and enter judgment upon breach. The Plaintiff has filed a Motion to Vacate Dismissal and Enter Judgment, seeking to enter judgment against Defendant Sabah in the sum of $1,934.50. The Judge finds that the settlement agreement is between Plaintiff and Defendant Karzar, and not Defendant Sabah, and therefore cannot enter judgment against Defendant Sabah. The Motion is denied without prejudice.
