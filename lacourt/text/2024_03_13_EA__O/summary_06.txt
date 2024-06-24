@@ -1,0 +1,57 @@
+Here is the summary in YAML format:
+```
+case_number: "Unknown"
+plaintiff_name: "Plaintiff"
+defendant_name: "Defendant"
+people_names:
+  - Plaintiff
+  - Defendant
+company_names:
+  - Great W. Fin. Sec. Corp.
+places:
+  - Unknown
+dates:
+  - 14 Cal.4th 394
+  - 1996
+events:
+  - Sale of vehicle
+  - Negotiation of sale
+  - Contract disputes
+money:
+  - Unknown
+intentions:
+  - Establish a valid contract
+  - Enforce the sales contract
+facts:
+  - Plaintiff claims unable to read Spanish
+  - Plaintiff negotiated sale in Spanish
+  - Plaintiff signed sales contract
+disputes:
+  - Validity of contract
+  - Enforceability of sales contract
+acts:
+  - Plaintiff negotiated sale
+  - Defendant did not establish a valid contract
+agreements:
+  - Sales contract
+laws:
+  - Rosenthal v. Great W. Fin. Sec. Corp.
+  - Unknown
+case_citations:
+  - 14 Cal.4th 394
+  - 58 Cal.Rptr.2d 875
+  - 926 P.2d 1061
+statutes:
+  - Unknown
+roles:
+  - Plaintiff
+  - Defendant
+  - Judge
+significant_statements:
+  - Initial burden is to establish a valid contract
+  - Plaintiff's argument about not being able to read Spanish may not be persuasive
+  - The sales contract itself may be unenforceable
+```
+And here is a summary of the tentative ruling in English text:
+
+The judge's tentative ruling suggests that the initial burden lies with the defendant to establish a valid contract. The judge is uncertain about the persuasiveness of the plaintiff's argument that they cannot read Spanish and negotiated the sale of the vehicle in Spanish, as the sales contract itself is not in English. The judge notes that if the plaintiff's argument is taken to its logical conclusion, it may mean that the sales contract itself is unenforceable. The judge also references a previous case, Rosenthal v. Great W. Fin. Sec. Corp., to support the idea that the burden of proving the existence of an agreement to arbitrate rests on the moving party.

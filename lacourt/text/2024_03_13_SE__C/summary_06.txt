@@ -1,0 +1,70 @@
+Here is the summary in YAML format:
+
+```
+Case Number: 23NWCV00280
+Plaintiff's Name: Peter Oun
+Defendant's Name: Duncan Industries, Inc.
+People-Names:
+  - Peter Oun
+  - Jodey Lawrence
+Company-Names:
+  - Duncan Industries, Inc.
+  - Gaines & Gaines, APLC
+  - Phoenix Class Action Administration Solutions
+Places:
+  - California
+Dates:
+  - April 19, 2019
+  - August 31, 2023
+  - March 12, 2024
+  - March 13, 2024
+Events:
+  - Class action settlement
+Money:
+  - $300,000.00 (total settlement amount)
+  - $105,000.00 (attorney's fees)
+  - $15,000.00 (litigation costs)
+  - $10,000.00 (incentive award for class representative)
+  - $20,000.00 (PAGA penalties)
+  - $5,950.00 (settlement administration fees)
+Intentions:
+  - Preliminary approval of class and representative action settlement
+Facts:
+  - Violations of labor code provisions (wage and hour laws)
+  - Meal and rest period violations
+  - Failure to provide itemized wage statements
+  - Willful failure to pay all wages due upon separation of employment
+Disputes:
+  - Fairness of settlement
+Acts:
+  - Approval of settlement agreement
+  - Certification of class
+Laws:
+  - California Labor Code
+  - California Rules of Court
+  - Private Attorneys General Act of 2004 (PAGA)
+Case Citations:
+  - Cellphone Termination Fee Cases (2009) 180 Cal.App.4th 1110
+  - Consumer Advocacy Group, Inc. v. Kintetsu Enterprises of America (2006) 141 Cal.App.4th 46
+  - Amchem. Products, Inc. v. Windsor (1997) 521 U.S. 591
+  - Brinker Restaurant Corp. v. Super. Ct. (2012) 53 Cal.4th 1004
+  - Duran v. U.S. Bank Nat. Assn. (2014) 59 Cal.4th 1
+  - J.P. Morgan & Co. v. Super. Ct. (2003) 113 Cal.App.4th 195
+  - Kullar v. Foot Locker Retail, Inc. (2008) 168 Cal.App.4th 116
+  - Labor Code section 2699
+  - California Rules of Court, rule 3.769
+  - California Rules of Court, rule 3.766
+  - California Rules of Court, rule 3.769(b)
+Roles:
+  - Plaintiff (Peter Oun)
+  - Defendant (Duncan Industries, Inc.)
+  - Class representative (Peter Oun)
+  - Class counsel (Gaines & Gaines, APLC)
+  - Settlement administrator (Phoenix Class Action Administration Solutions)
+Significant Statements:
+  - The court's responsibility is to "prevent fraud, collusion or unfairness to the class" through settlement and dismissal of the class action.
+  - The strength of the case on the merits for the plaintiff is the most important factor, balanced against the amount offered in settlement.
+  - The court has a strong policy of allowing motions for leave to amend.
+```
+
+Note: I extracted the relevant information from the text and organized it into YAML format. I also added some YAML tags to make it easier to read.

@@ -1,0 +1,27 @@
+Here is a summary of the tentative ruling in YAML format:
+
+```
+case_number: 23STCV08667
+hearing_date: March 13, 2024
+judge: Judge Upinder S. Kalra
+department: 51
+case_name: Lawrence Molbury, et al. v. Robert Babish, et al.
+related_cases:
+  - 23STCV11717
+  - 23STCV09241
+
+movant: Plaintiffs Lawrence Molbury and Rebecca Molbury
+respondents: Defendants Dominique Cornejo, Katja Seib, Robert Babish, S M Management LLC, and The Place LLC
+
+requested_relief: Disqualify Mr. Wilson as counsel for Defendants
+
+tentative_ruling:
+  - Sinkov Matter:
+      - First Cause of Action: OVERRULED as to Defendant The Place and SUSTAINED as to Defendants Michael Sinkov, Robert Babish, and S M Management LLC
+      - Second Cause of Action: SUSTAINED
+      - Third Cause of Action: SUSTAINED
+  - Cojone Matter:
+      - First Cause of Action: SUSTAINED
+      - Second Cause of Action: SUSTAINED
+      - Third Cause of Action: SUSTAINED
+      - Fourth Cause of Action: SUSTAINED

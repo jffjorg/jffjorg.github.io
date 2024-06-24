@@ -1,0 +1,76 @@
+Here is the YAML summary:
+
+```
+case_number: 23AHCV02311
+plaintiff: Sophia Cheung
+defendant: Potato Construction, Inc.
+people_names:
+  - Sophia Cheung
+  - Jessie S. (Ms. Sun)
+  - Boyu Zhang (Mr. Zhang)
+company_names:
+  - Potato Construction, Inc.
+places:
+  - Arcadia, California
+  - Alhambra Courthouse
+dates:
+  - October 5, 2023
+  - November 27, 2023
+  - January 10, 2024
+  - March 1, 2024
+  - March 14, 2024
+events:
+  - Breach of contract
+  - Breach of implied covenant of good faith and fair dealing
+  - Fraud
+  - Violation of Business and Professions Code section 17200 et seq.
+  - Service of summons
+  - Default entry
+  - Motion to set aside default
+  - Opposition brief
+  - Proposed answer
+money:
+  - None
+intentions:
+  - Defendant seeks to set aside default
+  - Plaintiff opposes motion to set aside default
+facts:
+  - Defendant claims lack of actual notice due to clerical error
+  - Plaintiff served summons on Defendant's office manager and receptionist
+  - Defendant's officer and director (Mr. Zhang) was not aware of the lawsuit until December 1, 2023
+disputes:
+  - Whether Defendant received actual notice of the lawsuit
+acts:
+  - Service of summons
+  - Entry of default
+  - Motion to set aside default
+  - Opposition brief
+  - Proposed answer
+agreements:
+  - None
+laws:
+  - Code of Civil Procedure section 473.5
+  - Code of Civil Procedure section 416.10
+  - Business and Professions Code section 17200 et seq.
+case_citations:
+  - Trackman v. Kenney (2010)
+  - Goya v. P.E.R.U. Enterprises (1978)
+  - Pulte Homes Corp. v Williams Mechanical, Inc. (2016)
+  - Ramos v Homeward Residential, Inc. (2014)
+statutes:
+  - Code of Civil Procedure section 473.5
+  - Code of Civil Procedure section 416.10
+  - Business and Professions Code section 17200 et seq.
+roles:
+  - Judge: William A. Crowfoot
+  - Plaintiff: Sophia Cheung
+  - Defendant: Potato Construction, Inc.
+significant_statements:
+  - Defendant's motion to set aside default is GRANTED.
+  - The default is set aside.
+  - The Court sets a trial setting conference for __________ at 8:30 a.m. in Department 3 of the Alhambra Courthouse.
+```
+
+And here is the summary in English:
+
+The Judge's tentative ruling is a decision on a motion to set aside a default judgment entered against Potato Construction, Inc. (Defendant) by Sophia Cheung (Plaintiff). The Defendant argues that it did not receive actual notice of the lawsuit due to a clerical error and requests that the default judgment be set aside. The Judge grants the motion, finding that the Defendant did not receive actual notice of the lawsuit. The Judge sets aside the default judgment and orders the Defendant to file a proposed answer within 10 days.

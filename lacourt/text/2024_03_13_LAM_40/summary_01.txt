@@ -1,0 +1,75 @@
+Here is the summary of the "Tentative Ruling" in YAML format:
+
+```
+Case Number: 22STCV30740
+Plaintiff's Name: Marcus Webster
+Defendant's Name: The Regents of the University of California, Sasha Young, Jasmine Briones, Scott Karas, Brenda Quiroga, and Does 1-5
+People-Names:
+  - Jasmine Briones
+  - Marcus Webster
+  - Sasha Young
+  - Scott Karas
+  - Brenda Quiroga
+  - Eric Johnson
+  - Siobhan Johnson (also referred to as Eric Johnson)
+Company-Names:
+  - The Regents of the University of California
+Places:
+  - UCLA health system
+  - Ronald Reagan UCLA Medical Center
+Dates:
+  - June 22, 2023
+  - July 21, 2023
+  - October 17, 2023
+  - February 2, 2024
+  - February 6, 2024
+  - February 29, 2023
+  - March 13, 2024
+Events:
+  - Deposition of Jasmine Briones
+  - Motion for an order compelling Jasmine Briones's answers to deposition questions
+  - Request for monetary sanctions
+Money: None mentioned
+Intentions:
+  - Plaintiff seeks to compel Jasmine Briones to answer deposition questions
+  - Defendant seeks to protect third-party privacy rights
+  - Plaintiff seeks to discover information relevant to FEHA claims
+Facts:
+  - Jasmine Briones failed to answer certain deposition questions
+  - Plaintiff's counsel raised objections to Jasmine Briones's refusal to answer
+  - Defendant's counsel raised objections based on third-party privacy rights
+Disputes:
+  - Whether Jasmine Briones must answer deposition questions
+  - Whether third-party privacy rights are outweighed by Plaintiff's need for discovery
+Acts:
+  - Deposition of Jasmine Briones
+  - Filing of a motion to compel answers to deposition questions
+  - Filing of a request for monetary sanctions
+Agreements:
+  - None mentioned
+Laws:
+  - California Code of Civil Procedure
+  - California Rules of Court
+  - Fair Employment and Housing Act (FEHA)
+  - Labor Code
+  - Health and Safety Code
+Case Citations:
+  - Code Civ. Proc., § 2025.480
+  - Code Civ. Proc., § 2025.480, subd. (a)
+  - Code Civ. Proc., § 2025.480, subd. (b)
+  - Code Civ. Proc., § 2025.480, subd. (c)
+  - Code Civ. Proc., § 2025.480, subd. (h)
+  - Code Civ. Proc., § 2025.480, subd. (j)
+  - Cal. Rules of Court, rule 3.1345, subd. (b)
+  - Code Civ. Proc., § 2017.010
+  - Code Civ. Proc., § 2023.010
+Roles:
+  - Plaintiff: Marcus Webster
+  - Defendant: The Regents of the University of California, Jasmine Briones, Scott Karas, Brenda Quiroga, and Does 1-5
+Significant Statements:
+  - The Court finds that the right to privacy of the Regents and any third parties is overcome by a compelling interest in the discovery of information relevant to FEHA claims.
+  - The Court grants Plaintiff's motion to compel Jasmine Briones's answers to deposition questions.
+  - The Court denies Defendant's cross-request for monetary sanctions.
+```
+
+Note that some of the information in the YAML format is not explicitly mentioned in the text, but can be inferred or extracted from the context.

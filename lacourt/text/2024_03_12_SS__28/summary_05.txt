@@ -1,0 +1,60 @@
+Here is the summary in YAML format:
+
+```
+case_number: 23STCV03637
+plaintiff_names:
+  - Danelle Meeks
+  - Preecha Meeks
+defendant_name: Marcos Eduardo Lopez
+people_names:
+  - Danelle Meeks
+  - Preecha Meeks
+  - Marcos Eduardo Lopez
+company_names: []
+places:
+  - California
+dates:
+  - February 21, 2023
+  - April 3, 2023
+  - December 20, 2023
+  - August 20, 2024
+  - March 12, 2024
+  - April 12, 2024
+events:
+  - Filing of complaint
+  - Filing of answer
+  - Filing of motion to compel
+  - Court hearing
+money: $0
+intentions:
+  - Compel plaintiffs' responses to discovery requests
+  - Sanction plaintiffs for failure to respond
+facts:
+  - Plaintiffs did not serve timely responses to discovery requests
+  - Defendant filed motions to compel responses
+  - Plaintiffs have not filed oppositions
+disputes:
+  - Failure to respond to discovery requests
+acts:
+  - Filing of complaint
+  - Filing of answer
+  - Filing of motion to compel
+  - Failure to respond to discovery requests
+agreements:
+  - None
+laws:
+  - California Code of Civil Procedure sections 2031.300 and 2030.290
+statutes:
+  - California Code of Civil Procedure
+roles:
+  - Judge
+  - Plaintiff
+  - Defendant
+significant_statements:
+  - The Court grants the motions to compel responses to discovery requests
+  - The Court orders the plaintiffs to provide verified code-compliant responses within 30 days
+```
+
+And here is the English-text summary:
+
+The tentative ruling is regarding a motion to compel responses to discovery requests by the defendant, Marcos Eduardo Lopez, against the plaintiffs, Danelle and Preecha Meeks. The plaintiffs failed to serve timely responses to the discovery requests, and the defendant filed motions to compel responses. The court grants the motions, compelling the plaintiffs to provide verified code-compliant responses to the discovery requests within 30 days. The court also orders the plaintiffs to produce the requested documents and electronically stored information without objections. The court's ruling is based on California Code of Civil Procedure sections 2031.300 and 2030.290, which provide the legal standard for compelling responses to discovery requests.

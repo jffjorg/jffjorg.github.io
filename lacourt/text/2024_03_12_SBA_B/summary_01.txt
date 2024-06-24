@@ -1,0 +1,111 @@
+Here is the summary in YAML format:
+
+```yaml
+case_number: 22STCV04700
+hearing_date: March 12, 2024
+dept: B
+court: Superior Court of California
+county: Los Angeles
+district: Southwest
+location: Torrance
+judge: [[]
+
+people:
+  - Claudia Mendoza
+  - Salvador Mendoza Maldonado
+  - Albert Grabb
+  - Ricardo Huete
+  - Marie Pine
+  - L. Joel Kessler
+  - Dr. Adamczak
+  - Dr. Roossin
+  - Dr. Grabb
+  - Dr. Benson
+
+company:
+  - Torrance Memorial Medical Center
+  - Torrance Memorial Physicians Network
+  - Torrance Radiology Medical Group
+  - MedLex Corporation
+
+places:
+  - Torrance
+  - Southwest District
+  - Los Angeles County
+
+dates:
+  - July 21, 2020
+  - August 3, 2020
+  - January 25, 2021
+  - January 26, 2021
+  - February 7, 2022
+  - February 8, 2021
+  - December 19, 2023
+  - December 21, 2023
+  - January 16, 2024
+  - February 1, 2024
+  - October 16, 2023
+
+events:
+  - Ultrasound for pregnancy
+  - Prescription of Misoprostol
+  - C-section and hysterectomy
+
+money:
+  - None mentioned
+
+intentions:
+  - Breach of duty
+  - Negligence
+  - Causation
+
+facts:
+  - Claudia Mendoza underwent an ultrasound for her pregnancy
+  - Defendant Grabb read the ultrasound report and reported an abortion in progress
+  - Defendant Huete prescribed Misoprostol to Claudia
+  - Another ultrasound revealed a fetal heartbeat
+  - Claudia was forced to undergo a hysterectomy
+
+disputes:
+  - Negligence
+  - Causation
+  - Standard of care
+
+acts:
+  - Diagnosis of abortion
+  - Prescription of Misoprostol
+  - Ultrasound examination
+
+agreements:
+  - None mentioned
+
+laws:
+  - California Civil Code
+  - Evidence Code
+  - Code of Civil Procedure
+
+case_citations:
+  - Avivi v. Centro Medico Urgente Medical Center (2008)
+  - Jambazian v. Borden (1994)
+  - Golden Eagle Refinery Co., Inc. v. Associated Intern. Ins. Co. (2001)
+  - Kelley v. Trunk (1998)
+  - Jennings v. Palomar Pomerado Health Systems, Inc. (2003)
+  - Mejia v. Community Hospital of San Bernardino (2002)
+  - Magallanes v. Doctors Medical Center of Modesto (2022)
+  - University of Southern California v. Superior Court of Los Angeles County (1996)
+  - Willard v. Hagemeister (1981)
+
+roles:
+  - Judge
+  - Plaintiffs
+  - Defendants
+  - Expert witnesses
+
+significant_statements:
+  - "A staff physician treats his patients at the hospital. He has full authority to prescribe the patients' treatment, he is subject to no supervision during the course of treatment, and he generally bears full responsibility for negligence."
+  - "The standard of care for physicians is the reasonable degree of skill, knowledge and care ordinarily possessed and exercised by members of the medical profession under similar circumstances."
+  - "An opinion unsupported by reasons or explanations does not establish the absence of a material fact issue for trial, as required for summary judgment."
+  - "The law is well settled that in a personal injury action causation must be proven within a reasonable medical probability based on competent expert testimony."
+```
+
+This summary provides a comprehensive overview of the tentative ruling, including the case number, hearing date, department, and court. It also lists the key people, companies, places, dates, events, money, intentions, facts, disputes, acts, agreements, laws, case citations, roles, and significant statements mentioned in the document.

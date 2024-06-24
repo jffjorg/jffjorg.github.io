@@ -1,0 +1,63 @@
+Here is the summary in YAML format:
+
+```
+case_number: 23STCV14243
+plaintiff: William Harmon
+defendant: Los Angeles County Metropolitan Transit Authority, ET AL.
+people_names:
+  - William Harmon
+  - Karabed Mikaelian
+  - Michelle C. Kim
+company_names:
+  - David Yeremian & Associates
+  - Los Angeles County Metropolitan Transit Authority
+places:
+  - Los Angeles County
+  - Central District
+  - California
+dates:
+  - March 11, 2024
+  - December 17, 2024
+  - March 12, 2024
+events:
+  - Motion to be relieved as counsel
+  - Proof of service
+  - Trial
+money: none
+intentions:
+  - To determine whether Counsel may be relieved as counsel
+  - To grant or deny the motion
+facts:
+  - Breakdown in communication between Plaintiff and Counsel
+  - Counsel unable to effectively represent Plaintiff
+  - Plaintiff's mailbox is full
+  - Electronic service of papers
+disputes:
+  - Communication breakdown
+  - Effectiveness of Counsel
+acts:
+  - Counsel filed a motion to be relieved as counsel
+  - Plaintiff was served with papers
+  - Counsel declared proof of service
+  - Counsel may serve Plaintiff by electronic service
+agreements:
+  - None mentioned
+laws:
+  - California Rules of Court, rule 3.1362(d)
+  - California Rules of Court, Rule 3.1362(d)(2)
+case_citations: none
+statutes: none
+roles:
+  - Judge: Michelle C. Kim
+  - Counsel: Karabed Mikaelian
+  - Plaintiff: William Harmon
+  - Defendant: Los Angeles County Metropolitan Transit Authority, ET AL.
+significant_statements:
+  - The motion will be granted if Counsel files a satisfactory declaration prior to the hearing.
+  - The motion is denied without prejudice if Counsel does not file a satisfactory declaration.
+  - The parties are encouraged to meet and confer to reach an agreement.
+```
+
+And here is the English-text summary:
+
+The Judge, Michelle C. Kim, has issued a tentative ruling on a motion filed by Plaintiff William Harmon's attorney, Karabed Mikaelian, to be relieved as counsel. The motion was filed due to a breakdown in communication between Plaintiff and Counsel, making it impossible for Counsel to effectively represent Plaintiff. Counsel declared that they mailed the papers to Plaintiff, but the envelope was returned unopened due to Plaintiff's mailbox being full. The Judge has ordered Counsel to file a satisfactory declaration confirming the electronic service address of Plaintiff as current prior to the hearing. If the declaration is filed, the motion will be granted, and the ruling will be effective upon filing proof of service of the final order. If not, the motion will be denied without prejudice. The parties are encouraged to meet and confer to reach an agreement, and if no agreement is reached, they should appear remotely or in person for oral argument.

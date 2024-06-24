@@ -1,0 +1,55 @@
+Here is the summary in YAML format:
+
+```
+case_number: 20STCV44678
+plaintiff_name: Karen Smith
+defendant_name: Dushyant Singh
+people_names:
+  - Karen Smith
+  - Dushyant Singh
+company_names: []
+places:
+  - California
+dates:
+  - September 14, 2022
+  - March 13, 2024
+events:
+  - Service of discovery requests
+  - Failure to respond to discovery requests
+  - Motion to compel responses
+  - Request for sanctions
+money: []
+intentions:
+  - Defendant seeks to compel responses to discovery requests
+  - Plaintiff seeks to avoid providing responses
+facts:
+  - Defendant served discovery requests on September 14, 2022
+  - Plaintiff failed to provide responses
+  - Defendant filed motions to compel and request for sanctions
+disputes:
+  - Plaintiff's failure to respond to discovery requests
+  - Defendant's request for sanctions
+acts:
+  - Defendant served discovery requests
+  - Plaintiff failed to respond
+  - Defendant filed motions to compel and request for sanctions
+agreements: []
+laws:
+  - Code of Civil Procedure sections 2030.290(c) and 2031.300(c)
+  - Code of Civil Procedure section 2023.010
+  - Code of Civil Procedure section 2023.030
+case_citations:
+  - City of Los Angeles v. PricewaterhouseCoopers, LLC (2022) 84 Cal.App.5th 466, 504
+statutes: []
+roles:
+  - Plaintiff (Karen Smith)
+  - Defendant (Dushyant Singh)
+  - Judge (issuing the tentative ruling)
+significant_statements:
+  - Defendant is entitled to a court order directing Plaintiff to provide verified responses without objections to the discovery requests served on Plaintiff.
+  - The request for sanctions is denied because the motions were not opposed and because "sections 2023.010 and 2023.030 do not independently authorize the trial court to impose monetary sanctions for misuse of discovery."
+```
+
+And here is the English-text summary:
+
+This tentative ruling addresses the motions filed by Defendant Dushyant Singh to compel responses to form interrogatories, special interrogatories, and request for production of documents, as well as his request for sanctions. The Defendant served these requests on Plaintiff Karen Smith on September 14, 2022, but the Plaintiff has failed to provide responses. The Court grants the Defendant's motions to compel, ordering the Plaintiff to provide verified responses without objections to the discovery requests within 20 days of this order. The Court also denies the Defendant's request for sanctions, as the motions were not opposed and because California law does not allow for monetary sanctions for misuse of discovery.

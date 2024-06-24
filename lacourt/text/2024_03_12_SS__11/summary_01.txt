@@ -1,0 +1,95 @@
+Here is a summary of the judge's tentative ruling in YAML format:
+
+```
+case_number: 19STCV09558
+hearing_date: 2024-03-12
+dept: 11
+judge: David S. Cunningham III
+
+people_names:
+  - Sandra Braun
+  - Mauricio Braun
+  - Judge Ann Jones
+
+company_names:
+  - West Hills Surgical Center (WHSC)
+  - West Hills Hospital (WHH)
+  - Blue Shield
+
+places:
+  - West Hills
+  - California
+
+dates:
+  - 2018-03-27
+  - 2018-04-06
+  - 2024-01-11
+  - 2024-01-26
+
+events:
+  - Outpatient surgery
+  - Disclosure of personal medical health information (PMHI)
+  - Request for judicial notice
+
+money:
+  - $1,000 (nominal damages)
+  - $3,000 (punitive damages)
+  - $1,000 (attorney's fees)
+
+intentions:
+  - To request judicial notice of the Informed Consent form
+  - To demur to the fourth amended complaint (4AC)
+  - To seek relief under the Confidentiality of Medical Information Act (CMIA)
+
+facts:
+  - Plaintiff underwent outpatient surgery at WHSC in 2018
+  - Plaintiff signed an Informed Consent form before surgery
+  - WHSC disclosed PMHI to Blue Shield without plaintiff's authorization
+  - WHH analyzed a tissue sample taken during surgery and submitted a claim to Blue Shield
+  - Plaintiff alleges violation of the CMIA, UCL, and CLRA
+
+disputes:
+  - Whether the Informed Consent form is clear and unambiguous
+  - Whether WHSC and WHH disclosed PMHI without plaintiff's authorization
+  - Whether WHH is liable under the CMIA
+
+acts:
+  - Disclosure of PMHI by WHSC and WHH
+  - Request for judicial notice of the Informed Consent form
+  - Demurrer to the 4AC
+
+agreements:
+  - Informed Consent form
+  - CMIA
+
+laws:
+  - Confidentiality of Medical Information Act (CMIA)
+  - Unfair Competition Law (UCL)
+  - Consumer Legal Remedies Act (CLRA)
+
+case_citations:
+  - Serrano v. Priest (1971) 5 Cal.3d 584
+  - Hahn v. Mirda (2007) 147 Cal.App.4th 740
+  - Aubry v. Tri-City Hospital Dist. (1992) 2 Cal.4th 962
+  - Edmon & Karnow, Cal. Practice Guide: Civ. Procedure Before Trial (The Rutter Group June 2023 Update)
+
+statutes:
+  - Cal. Civ. Code § 56.10
+  - Cal. Civ. Code § 56.11
+  - Cal. Civ. Code § 56.35
+  - Cal. Civ. Code § 56.36(b)
+
+roles:
+  - Plaintiff: Sandra Braun
+  - Defendant: West Hills Surgical Center (WHSC) and West Hills Hospital (WHH)
+  - Judge: David S. Cunningham III
+
+significant_statements:
+  - The Court grants Defendants' request for judicial notice of the Informed Consent form
+  - The Court overrules the demurrer as to WHSC and sustains the demurrer as to WHH
+  - The Court will decide the issue of leave to amend at the hearing
+```
+
+And here is a summary of the judge's tentative ruling in English text:
+
+The Court's tentative ruling addresses the demurrer filed by West Hills Surgical Center (WHSC) and West Hills Hospital (WHH) to the fourth amended complaint (4AC) brought by Sandra Braun. The Court grants Defendants' request for judicial notice of the Informed Consent form, which was signed by Plaintiff before undergoing outpatient surgery at WHSC in 2018. The Court overrules the demurrer as to WHSC and sustains the demurrer as to WHH. The Court finds that the Informed Consent form is ambiguous and allows Plaintiff's allegations to stand. The Court will decide the issue of leave to amend at the hearing.

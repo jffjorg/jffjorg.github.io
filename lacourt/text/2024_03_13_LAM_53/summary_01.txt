@@ -1,0 +1,132 @@
+Here is the summary of the Judge's tentative ruling in YAML format:
+
+```
+case_number: 20STCV12016
+hearing_date: March 13, 2024
+dept: 53
+judge: Robert B. Broadbelt III
+```
+
+```
+people:
+  - Dennis Luna
+  - Vanessa Luna Bishop
+  - Fernando Gaytan
+  - Diana Gaytan
+  - Marc Grismer
+  - Angie Coello
+```
+
+```
+companies:
+  - New Century Mortgage Corp.
+  - United Healthcare Ins. Co.
+  - Thomas Dee Engineering Co., Inc.
+```
+
+```
+places:
+  - Los Angeles
+  - Keenan Street
+  - Ancillary Agreement
+```
+
+```
+dates:
+  - March 20, 2023
+  - May 11, 2023
+  - June 12, 2023
+  - June 14, 2023
+  - June 11, 2024
+```
+
+```
+events:
+  - Defendant's motion for summary judgment
+  - Defendant's motion for summary adjudication
+  - Ancillary Agreement
+  - Promissory note
+  - Peremptory challenge
+```
+
+```
+money:
+  - $150,000
+  - $300,000
+```
+
+```
+intentions:
+  - Defendant's intention to grant summary judgment
+  - Plaintiffs' intention to oppose summary judgment
+```
+
+```
+facts:
+  - Defendant did not make a representation to plaintiff Luna that he had a life estate in the subject property
+  - Defendant did not receive a benefit at the expense of Plaintiffs
+  - Defendant is not a party to the Ancillary Agreement or promissory note
+```
+
+```
+disputes:
+  - Dispute over whether Defendant made a misrepresentation to plaintiff Luna
+  - Dispute over whether Defendant received a benefit at the expense of Plaintiffs
+```
+
+```
+acts:
+  - Defendant's filing of a prior motion for summary judgment
+  - Defendant's filing of a motion for summary adjudication
+  - Defendant's execution of a promissory note
+```
+
+```
+agreements:
+  - Ancillary Agreement
+  - Promissory note
+```
+
+```
+laws:
+  - Code of Civil Procedure section 437c
+  - Evidence Code section 452
+  - Civil Code section 170.6
+```
+
+```
+case_citations:
+  - Aguilar v. Atlantic Richfield Co.
+  - Adler v. Manor Healthcare Corp.
+  - Aton Center, Inc. v. United Healthcare Ins. Co.
+  - D'Amico v. Board of Medical Examiners
+  - Harris v. Thomas Dee Engineering Co., Inc.
+  - Lyles v. Sangadeo-Patel
+  - Professional Tax Appeal v. Kennedy-Wilson Holdings, Inc.
+  - Scalf v. D.B. Log Homes, Inc.
+  - Silverado Modjeska Recreation & Park Dist. v. County of Orange
+  - Yvanova v. New Century Mortgage Corp.
+```
+
+```
+statutes:
+  - Code of Civil Procedure section 437c
+  - Evidence Code section 452
+  - Civil Code section 170.6
+```
+
+```
+roles:
+  - Judge: Robert B. Broadbelt III
+  - Defendant: Diana Gaytan
+  - Plaintiffs: Dennis Luna and Vanessa Luna Bishop
+```
+
+```
+significant_statements:
+  - The court grants Defendant's motion for summary judgment.
+  - The court orders Defendant to prepare, serve, and lodge a proposed judgment.
+  - The court sets an Order to Show Cause re entry of judgment for hearing.
+```
+
+Note: The YAML format is used to organize and structure the information in a way that is easy to read and understand. The keys are used to identify the different sections of the document, and the values are the corresponding information.

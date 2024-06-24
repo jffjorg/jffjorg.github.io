@@ -1,0 +1,66 @@
+Here is the summary in YAML format:
+
+```
+case_number: 23STCV04659
+plaintiff: Demesne Corporation
+defendant: Walgreen Company
+people_names:
+  - James Green
+  - Shanon J. McGinnis
+company_names:
+  - Demesne Corporation
+  - Walgreen Company
+places:
+  - None mentioned
+dates:
+  - April 14, 2017
+  - May 4, 2004
+  - August 1, 2004
+  - July 31, 2014
+  - July 31, 2028
+  - July 31, 2029
+events:
+  - Ground lease
+  - Sublease
+  - Option to extend sublease
+  - Exercise of option
+  - Deposition testimony
+money:
+  - Rent
+intentions:
+  - To clarify the expiration date of the lease
+facts:
+  - Plaintiff and Defendant entered into a sublease with an option to extend
+  - The sublease stated the term would end on July 31, 2013, but the lease itself listed ten 12-month periods
+  - Defendant moved for summary judgment, arguing that there was no triable issue of material fact
+  - Plaintiff's witness, James Green, testified that Plaintiff identified the alleged error in the sublease in May 2021, but did not object to the inaccuracy
+disputes:
+  - The expiration date of the lease
+acts:
+  - Plaintiff's exercise of the option to extend the sublease
+  - Defendant's motion for summary judgment
+agreements:
+  - Sublease
+  - Option to extend
+laws:
+  - Zamora v. Lehman (2010)
+  - Aguilar v. Atlantic Richfield Co. (2001)
+  - California law on waiver and summary judgment
+case_citations:
+  - Zamora v. Lehman (2010) 186 Cal.App.4th 1, 12
+  - Aguilar v. Atlantic Richfield Co. (2001) 25 Cal.4th 826, 850
+statutes:
+  - None mentioned
+roles:
+  - Plaintiff: Demesne Corporation
+  - Defendant: Walgreen Company
+  - Judge: ordering summary judgment and finding waiver by Plaintiff
+significant_statements:
+  - The Court grants Defendant's motion for summary judgment and finds that the lease ends on July 31, 2028, not July 31, 2029.
+  - Plaintiff fails to advance sufficient evidence to give rise to a triable issue.
+  - The Court orders that the lease ends on July 31, 2028, and advances and vacates all dates.
+```
+
+And here is a summary of the judge's tentative ruling in English text:
+
+The court has granted the defendant's motion for summary judgment and has found that the lease ends on July 31, 2028, not July 31, 2029. The plaintiff, Demesne Corporation, had argued that the lease should end on July 31, 2029, but the court has found that the plaintiff's witness, James Green, waived the right to challenge the expiration date of the final option. The court has also found that the plaintiff failed to advance sufficient evidence to give rise to a triable issue. Therefore, the court has ordered that the lease ends on July 31, 2028, and has advanced and vacated all dates.

@@ -1,0 +1,62 @@
+Here is the summary in YAML format:
+
+```
+case_number: 21NWCV00686
+plaintiff_name: Tesus, Inc.
+defendant_name: LBA RV-Company XVIII, LP
+people_names:
+  - David M. Lawrence
+company_names:
+  - Tesus, Inc.
+  - LBA RV-Company XVIII, LP
+places:
+  - Southern California
+dates:
+  - March 13, 2024
+  - November 11, 2021
+  - July 15, 2022
+events:
+  - Breach of contract action
+  - Attorney fee motion
+money:
+  - $36,946.00
+  - $36,840.00
+intents:
+  - To recover attorney fees
+facts:
+  - Defendant and Cross-Complainant seeks to recover attorney fees
+  - Prevailing party is entitled to attorney fees
+  - Reasonableness of attorney's fees is determined by lodestar method
+  - Hourly rate is reasonable at $300.00 per hour
+disputes:
+  - Amount of attorney fees to be awarded
+acts:
+  - Defendant and Cross-Complainant's motion for attorney fees
+  - Court's award of attorney fees
+agreements:
+  - Contract between Tesus, Inc. and LBA RV-Company XVIII, LP
+  - Civil Code section 1717
+laws:
+  - Civ. Code, § 1717, subd. (a)
+  - Civ. Code, § 1717, subd. (b)(1)
+  - Nichols v. City of Taft (2007) 155 Cal.App.4th 1233
+  - Concepcion v. Amscan Holdings, Inc. (2014) 223 Cal.App.4th 1309
+  - Children's Hosp. & Med. Center v. Bonta (2002) 97 Cal.App.4th 740
+  - Christian Research. Inst. v. Alnor (2008) 165 Cal.App.4th 1315
+  - Martino v. Denevi (1986) 182 Cal.App.3d 553
+  - Serrano v. Unruh (1982) 32 Cal.3d 621
+  - Alan S. v. Super. Ct. (2009) 172 Cal.App.4th 238
+roles:
+  - Judge
+  - Counsel (David M. Lawrence)
+  - Prevailing party
+  - Moving party
+significant_statements:
+  - "Defendant and Cross-Complainant is entitled to $36,840.00 in attorney fees."
+  - "Lodestar is the objective starting point to determine if attorney's fees are reasonable."
+  - "The Court concludes that the hours incurred are reasonable."
+```
+
+And here is a summary of the judge's tentative ruling in English text:
+
+The judge has tentatively ruled that the defendant and cross-complainant, Tesus, Inc., is entitled to recover attorney fees in the amount of $36,840.00 from the plaintiff, LBA RV-Company XVIII, LP. The ruling is based on the lodestar method, which considers the reasonable rate for comparable services in the local community and the reasonable number of hours spent on the case. The judge found that the hourly rate of $300.00 per hour, charged by counsel David M. Lawrence, is reasonable. The court also removed two erroneous entries from the award, which reduced the total amount of attorney fees from $36,946.00 to $36,840.00. The judge concluded that the hours incurred by counsel were reasonable and awarded the prevailing party the amount of attorney fees requested.

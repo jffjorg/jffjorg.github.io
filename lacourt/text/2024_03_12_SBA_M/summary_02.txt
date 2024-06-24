@@ -1,0 +1,54 @@
+Here is the summary in YAML format:
+
+```
+case_number: 19TRCV00261
+plaintiff_name: American Express National Bank
+defendant_name: Leon Thompson
+people_names:
+  - Scott D. Dyle
+company_names:
+  - American Express National Bank
+places:
+  - Los Angeles Superior Court
+  - Southwest District
+dates:
+  - March 22, 3029
+  - May 15, 2019
+  - May 2021
+  - March 12, 2024
+events:
+  - Complaint filed
+  - Settlement agreement executed
+  - Motion to vacate conditional dismissal and for entry of judgment
+money:
+  - $52,283.82
+intentions:
+  - To enforce settlement agreement
+facts:
+  - Breach of settlement agreement alleged
+  - No payment made by defendant since May 2021
+disputes:
+  - Breach of settlement agreement
+acts:
+  - Plaintiff filed the complaint
+  - Defendant failed to file written opposition
+agreements:
+  - Settlement agreement executed on May 15, 2019
+laws:
+  - CCP § 664.6
+case_citations: None
+statutes:
+  - CCP § 664.6
+roles:
+  - Judge: Honorable Gary Y. Tanaka
+  - Plaintiff: American Express National Bank
+  - Defendant: Leon Thompson
+  - Plaintiff's counsel: Scott D. Dyle
+significant_statements:
+  - Plaintiff's Motion to Vacate the Conditional Dismissal and for Entry of Judgment is granted.
+  - Plaintiff is ordered to give notice of this ruling.
+```
+
+And here is the English-text summary:
+
+This tentative ruling grants American Express National Bank's motion to vacate the conditional dismissal and for entry of judgment. The bank filed a complaint on March 22, 3029, alleging that it is owed $52,283.82. The parties entered into a settlement agreement on May 15, 2019, which was breached by the defendant, Leon Thompson, who has not made a payment since May 2021. The defendant failed to file a written opposition to the motion. The court finds that the plaintiff has met its burden to establish a breach of the settlement agreement and orders judgment in accordance with the terms of the settlement. The plaintiff is ordered to give notice of this ruling.

@@ -1,0 +1,145 @@
+Here is the summary in YAML format:
+
+**Case Information**
+```
+case_number: 21STCV18268
+hearing_date: March 12, 2024
+dept: 29
+```
+
+**Parties**
+```
+plaintiff: Sarah Davenport
+defendant: City of Pasadena
+```
+
+**People and Companies**
+```
+people:
+  - Sarah Davenport
+  - George Salinas
+companies:
+  - George Salinas Tree Preservation
+  - The County of Los Angeles
+  - The City of Pasadena
+```
+
+**Places**
+```
+places:
+  - La Pintoresca Park
+  - Pasadena
+  - 1365 North Raymond Avenue
+```
+
+**Dates**
+```
+dates:
+  - September 16, 2020
+  - May 14, 2021
+  - June 18, 2021
+  - July 13, 2021
+  - December 26, 2023
+  - February 27, 2024
+  - March 7, 2024
+  - March 12, 2024
+```
+
+**Events**
+```
+events:
+  - Plaintiff's injury
+  - Tree removal
+  - Tree stump removal
+  - Failure to fill hole
+  - City's motion for summary judgment
+  - Plaintiff's opposition
+  - City's reply
+```
+
+**Money**
+```
+money:
+  - None mentioned
+```
+
+**Intentions**
+```
+intentions:
+  - Plaintiff seeks to recover damages for her injuries
+  - City seeks to avoid liability for the dangerous condition
+```
+
+**Facts**
+```
+facts:
+  - Plaintiff alleges that she was injured when she stepped into a hole at La Pintoresca Park
+  - The hole was created by City's removal of a tree stump
+  - Plaintiff's experts measured the hole as more than 6 inches deep and 41 inches wide
+  - There was a tree at the location in 2011, a tree stump in 2014 and 2015, and the stump was removed in July 2017
+  - An orange cone was placed at or near the location of the hole in July 2017
+```
+
+**Disputes**
+```
+disputes:
+  - Whether City had actual or constructive knowledge of the dangerous condition
+  - Whether City negligently or wrongfully created the condition
+```
+
+**Acts**
+```
+acts:
+  - City's removal of the tree
+  - City's failure to fill the hole after removing the tree stump
+  - Plaintiff's injury
+```
+
+**Agreements**
+```
+agreements:
+  - None mentioned
+```
+
+**Laws**
+```
+laws:
+  - Government Code section 835
+  - Code of Civil Procedure section 437c
+```
+
+**Case Citations**
+```
+case_citations:
+  - Aguilar v. Atlantic Richfield Co. (2001) 25 Cal.4th 826
+  - Adler v. Manor Healthcare Corp. (1992) 7 Cal.App.4th 1110
+  - Juge v. County of Sacramento (1993) 12 Cal.App.4th 59
+  - FPI Development, Inc. v. Nakashima (1991) 231 Cal.App.3d 367
+  - Sangster v. Paetkau (1998) 68 Cal.App.4th 151
+  - Dore v. Arnold Worldwide, Inc. (2006) 39 Cal.4th 384
+  - Perry v. Bakewell Hawthorne LLC (2017) 2 Cal.5th 536
+  - Tansavatdi v. City of Rancho Palos Verdes (2023) 14 Cal.5th 639
+  - Thimon v. City of Newark (2020) 44 Cal.App.5th 745
+```
+
+**Statutes**
+```
+statutes:
+  - Government Code section 835
+  - Code of Civil Procedure section 437c
+```
+
+**Roles**
+```
+roles:
+  - Judge
+  - Plaintiff
+  - Defendant
+```
+
+**Significant Statements**
+```
+significant_statements:
+  - "The purpose of the law of summary judgment is to provide courts with a mechanism to cut through the parties' pleadings in order to determine whether, despite their allegations, trial is in fact necessary to resolve their dispute."
+  - "The Court has considered these factors and determines, on balance, that they weigh in favor of granting Plaintiff's request for a continuance in this matter."
+```

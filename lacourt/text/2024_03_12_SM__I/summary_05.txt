@@ -1,0 +1,63 @@
+Here is the summary in YAML format:
+
+```
+case_number: 23SMCV05901
+plaintiff_name: 
+defendant_name: Horne
+people_names:
+  - Horne
+  - HCVT
+company_names:
+  - HCVT
+places:
+  - 
+dates:
+  - 2016
+  - 2017
+  - 2019
+  - 2021
+  - 2024
+events:
+  - Retainer agreement
+  - Drafting of compensation plans
+  - Tax advisory services
+  - Arbitration motion
+  - Discovery and briefing
+money: 
+intentions:
+  - Compel arbitration
+  - Dispute over tax liability
+facts:
+  - Retainer agreements included arbitration clauses
+  - HCVT did not have an arbitration clause in its contract
+  - Plaintiff sued Horne and HCVT claiming a tax liability related to section 409A
+  - Horne moves to compel arbitration
+disputes:
+  - Whether arbitration should be compelled
+  - Whether HCVT's work is intertwined with Horne's work
+acts:
+  - Drafting of compensation plans
+  - Providing tax advisory services
+  - Consulting with HCVT
+agreements:
+  - Retainer agreement
+laws:
+  - Section 409A
+  - Abaya v. Spanish Ranch I, L.P.
+case_citations:
+  - Abaya v. Spanish Ranch I, L.P. (2010) 189 Cal.App.4th 1490
+statutes: 
+roles:
+  - Judge
+  - Plaintiff
+  - Defendant
+  - Counsel
+significant_statements:
+  - The court will CONITINUE the motion to allow the parties to discover evidence as to the extent, if any, of the collaboration between counsel and HCVT.
+  - The court will deal with the papers as drafted, even though it is not tactically wise.
+  - The court notes that the retainer agreement invites consultation and collaboration, but that does not mean it occurred.
+```
+
+And here is the English-text summary:
+
+The Judge is issuing a tentative ruling in a motion to compel arbitration in a case involving a plaintiff who is suing Horne and an accounting firm (HCVT) for a tax liability related to section 409A. The plaintiff alleges that the compensation plans drafted by Horne, coupled with the advice given by HCVT, led to the tax liability. Horne moves to compel arbitration based on the retainer agreements, which included an arbitration clause. The main issue is whether the work of Horne and HCVT is intertwined, and whether compelling arbitration against Horne only could lead to inconsistent results. The Judge notes that the retainer agreement invites consultation and collaboration between Horne and HCVT, but that does not mean it occurred. The Judge will continue the motion to allow the parties to discover evidence as to the extent, if any, of the collaboration between Horne and HCVT. If the collaboration was extensive, the motion may fail. If not, the motion may have merit. The Judge will discuss what supplemental papers will be filed and when the hearing will reconvene.

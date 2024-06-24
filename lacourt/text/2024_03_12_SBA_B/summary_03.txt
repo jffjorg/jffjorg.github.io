@@ -1,0 +1,94 @@
+Here is a summary of the tentative ruling in YAML format:
+
+```
+case_number: 22TRCV00890
+hearing_date: March 12, 2024
+dept: B
+judge: Superior Court of California, County of Los Angeles, Southwest District, Torrance Dept. B
+
+plaintiff:
+  - name: Barbara Clark
+  - guardian: Kevin Clark
+
+defendants:
+  - name: Prime Healthcare Centinela, LLC dba Centinela Hospital Medical Center
+  - name: Dignity Community Care dba Northridge Hospital Medical Center
+  - name: Parkwest Rehabilitation Center, LLC dba Parkwest Healthcare Center
+
+people:
+  - name: Barbara Clark
+  - name: Kevin Clark
+
+companies:
+  - name: Prime Healthcare Centinela, LLC
+  - name: Dignity Community Care
+  - name: Parkwest Rehabilitation Center, LLC
+
+places:
+  - name: Centinela Hospital Medical Center
+  - name: Northridge Hospital Medical Center
+  - name: Windsor Terrace Healthcare Center
+  - name: Lake Balboa Care Center
+  - name: Valley Presbyterian
+
+dates:
+  - date: October 3, 2023
+  - date: October 17, 2021
+  - date: October 30, 2021
+  - date: January 2, 2022
+  - date: November 5, 2021
+  - date: December 1, 2021
+  - date: December 7, 2021
+
+events:
+  - event: Demurrer to the First Amended Complaint
+  - event: Hearing on Demurrer
+
+money: None
+
+intentions:
+  - intention: To address the demurrer to the First Amended Complaint
+
+facts:
+  - fact: Barbara Clark was admitted to Centinela Hospital Medical Center with a history of atrial fibrillation and latent tuberculosis.
+  - fact: Clark required skilled, medical, and custodial care due to her physical condition.
+  - fact: Centinela Hospital failed to effectively assess Clark's care needs and develop, implement, and modify care plans designed to meet her individualized care needs.
+  - fact: Clark suffered a series of complications, including septicemia, urinary tract infection, and pneumonia.
+
+disputes:
+  - dispute: Whether the allegations in the First Amended Complaint are sufficient to state a cause of action for elder abuse.
+
+acts:
+  - act: Centinela Hospital's failure to effectively assess Clark's care needs and develop, implement, and modify care plans designed to meet her individualized care needs.
+  - act: Dignity Community Care's failure to provide adequate wound care and treatment.
+
+agreements:
+  - agreement: None
+
+laws:
+  - law: Elder Abuse Act
+  - law: Welfare and Institutions Code 15610.57
+
+case_citations:
+  - case: Covenant Care, Inc. v. Superior Court (2004) 32 Cal. 4th 771
+  - case: Carter v. Prime Healthcare Paradise Valley (2011) 198 Cal. App. 4th 396
+  - case: Larson v. UHS of Rancho Springs, Inc. (2014) 230 Cal. App. 4th 336
+  - case: Winn v. Pioneer Medical Group, Inc. (2016) 63 Cal. 4th 148
+
+statutes:
+  - statute: Welfare and Institutions Code 15610.57
+
+roles:
+  - role: Judge
+  - role: Plaintiff
+  - role: Defendant
+
+significant_statements:
+  - statement: "Neglect" is defined in section 15610.57 as "the negligent failure of any person having the care or custody of an elder...to exercise that degree of care that a reasonable person in a like position would exercise."
+  - statement: "Allegations of misconduct directed against one defendant...do not state a cause of action against another defendant against whom the allegations of misconduct are not directed."
+  - statement: "What seems beyond doubt is that the Legislature enacted a scheme distinguishing between – and decidedly not lumping together – claims of professional negligence and neglect."
+```
+
+Summary:
+
+The tentative ruling is a decision by the judge on a demurrer filed by defendant Dignity Community Care dba Northridge Hospital Medical Center to the First Amended Complaint (FAC) filed by plaintiff Barbara Clark. The judge sustains the demurrer with 20 days leave to amend. The FAC alleges elder abuse, negligence, and corporate ratification against Prime Healthcare Centinela, LLC dba Centinela Hospital Medical Center, Dignity Community Care dba Northridge Hospital Medical Center, and Parkwest Rehabilitation Center, LLC dba Parkwest Healthcare Center. The judge finds that the allegations are insufficient because they do not show malicious conduct by Dignity Community Care, and the FAC fails to sufficiently show abuse and neglect by defendant.

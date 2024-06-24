@@ -1,0 +1,62 @@
+Here is the summary in YAML format:
+
+```
+case_number: 22NWCV01285
+plaintiff_name: Martinez
+defendant_name: FCA US LLC
+people_names:
+  - Martinez
+  - Lopez
+company_names:
+  - FCA US LLC
+places:
+  - California
+dates:
+  - June 6, 2023
+  - June 9, 2023
+  - July 26, 2023
+  - August 7, 2023
+  - August 24, 2023
+  - September 15, 2023
+  - March 13, 2024
+events:
+  - Service of unverified responses
+  - Service of verifications
+  - Agreement to extend deadline
+  - Filing of motions to compel
+money: N/A
+intentions:
+  - Compel further responses to special interrogatories and document requests
+facts:
+  - Defendant served unverified responses on June 6, 2023
+  - Defendant served verifications on June 9, 2023
+  - Parties agreed to extend deadline on August 7, 2023
+  - Plaintiff filed motions to compel on September 15, 2023, past the agreed deadline
+disputes:
+  - Adequacy of responses to special interrogatories and document requests
+acts:
+  - Service of responses
+  - Service of verifications
+  - Agreement to extend deadline
+  - Filing of motions to compel
+agreements:
+  - Extension of deadline to August 24, 2023
+laws:
+  - California Code of Civil Procedure sections 2030.300 and 2031.310
+  - California Code of Civil Procedure sections 1010.6(a)(4) and 1013(a)
+case_citations:
+  - Sexton v. Super. Ct. (1997) 58 Cal.App.4th 1403, 1410
+statutes:
+  - California Code of Civil Procedure sections 2030.300 and 2031.310
+  - California Code of Civil Procedure sections 1010.6(a)(4) and 1013(a)
+roles:
+  - Judge
+  - Plaintiff
+  - Defendant
+significant_statements:
+  - "The 45-day rule to bring a motion to compel is mandatory and jurisdictional 'in the sense that it renders court without authority to rule on motions to compel other than to deny them.'"
+```
+
+And here is a summary of the judge's tentative ruling in English text:
+
+The judge has denied Plaintiff Martinez's motion to compel Defendant FCA US LLC's further responses to special interrogatories and document requests. The judge found that the motions were untimely, as they were filed on September 15, 2023, past the agreed deadline of August 24, 2023. The judge noted that the 45-day deadline to bring a motion to compel is mandatory and jurisdictional, and failure to timely move to compel constitutes a waiver of any right to compel a further response. The judge also denied Plaintiff's request for sanctions.

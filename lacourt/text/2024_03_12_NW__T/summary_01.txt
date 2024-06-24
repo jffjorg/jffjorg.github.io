@@ -1,0 +1,81 @@
+Here is the summary in YAML format:
+
+```
+case_number: 23VECV01240
+plaintiff: Adriana Soto
+defendant: Puretek Corporation and Partnership Staffing Solutions, LLC (PSS)
+people:
+  - Ana Ponce
+  - Teresa Sandoval
+  - Aurora Cruz
+  - Jesus Hernandez
+  - Christian Lopez
+  - Amador Amas
+  - Natalie Nunez
+  - Raymundo Flores
+  - Sabino
+  - Jeff Pressman
+  - Barry Pressman
+  - Al Mohajerian
+  - Adriana Soto
+companies:
+  - Puretek Corporation
+  - Mohajerian APLC
+  - Eghbali Firm
+  - Partnership Staffing Solutions, LLC
+places:
+  - Los Angeles, CA
+  - Wilshire Blvd
+  - Suite 1210
+dates:
+  - March 12, 2024
+  - February 20, 2024
+  - January 30, 2024
+  - February 2, 2024
+events:
+  - Motion to compel further answers to special interrogatories
+  - Motion for evidence sanctions
+  - Motion for good faith settlement
+money:
+  - $1,260 (monetary sanctions)
+  - Settlement amount (not specified)
+intentions:
+  - To compel defendant to provide additional information
+  - To award monetary sanctions against defendant
+  - To determine whether the settlement is in good faith
+facts:
+  - Defendant failed to provide additional information
+  - Plaintiff is seeking to compel defendant to provide additional information
+  - Defendant is seeking to determine the good faith of the settlement
+disputes:
+  - Whether defendant has complied with discovery requests
+  - Whether the settlement is in good faith
+acts:
+  - Defendant failed to provide additional information
+  - Plaintiff filed motions to compel and for evidence sanctions
+  - Defendant filed a motion for good faith settlement
+agreements:
+  - Settlement agreement between plaintiff and PSS
+laws:
+  - Code of Civil Procedure, section 2030.300(d)
+  - Code of Civil Procedure, section 2023.010
+  - Code of Civil Procedure, section 877.6(d)
+  - Tech-Bilt, Inc. v. Woodward-Clyde & Associates (1985)
+case_citations:
+  - Tech-Bilt, Inc. v. Woodward-Clyde & Associates (1985)
+  - Code of Civil Procedure, section 877.6(d)
+  - Code of Civil Procedure, section 2030.300(d)
+  - Code of Civil Procedure, section 2023.010
+roles:
+  - Plaintiff: Adriana Soto
+  - Defendant: Puretek Corporation and PSS
+  - Judge: issuing the tentative ruling
+significant_statements:
+  - The court finds that defendant failed to provide additional information and awards monetary sanctions
+  - The court grants defendant's motion for good faith settlement
+  - The court notes that the settlement agreement is within the ballpark of plaintiff's recovery
+```
+
+Here is the English summary of the judge's tentative ruling:
+
+The judge has issued a tentative ruling on three motions: (1) a motion to compel further answers to special interrogatories, (2) a motion for evidence sanctions, and (3) a motion for good faith settlement. On the first motion, the judge orders the defendant to provide additional information about several individuals, including their last known addresses and job titles. On the second motion, the judge continues the matter to allow the court to review documents and deposition testimony. On the third motion, the judge grants the defendant's request for a determination of good faith settlement and allows them to review the settlement agreement in camera. The judge finds that the settlement agreement is within the ballpark of the plaintiff's recovery and that the defendant has sufficiently demonstrated that the settlement was entered in good faith.

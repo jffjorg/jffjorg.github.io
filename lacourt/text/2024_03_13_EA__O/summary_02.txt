@@ -1,0 +1,62 @@
+Here is the summary in YAML format:
+```
+case_number: [Unknown]
+plaintiff_name: [Unknown]
+defendant_name: [Unknown]
+people_names:
+  - Dr. Coen
+  - Dr. Truong
+  - Dr. Copeli
+  - Dr. Urbina
+  - Dr. Harvey D. Cohen
+  - Mr. Roybal
+company_names: []
+places: []
+dates:
+  - 1982
+  - 1979
+  - 2007
+  - 2001
+events:
+  - Motion for Summary Judgment
+  - Notice of Non-Opposition
+  - Expert Testimony
+  - Breach of Standard of Care
+money: []
+intentions:
+  - Grant or Deny Motion for Summary Judgment
+  - Evaluate Expert Qualifications
+  - Review Evidence and Inferences
+facts:
+  - Dr. Copeli filed a motion for summary judgment
+  - Plaintiff filed a notice of non-opposition to Dr. Copeli's motion
+  - Dr. Urbina allegedly breached standard of care
+disputes:
+  - Breach of Standard of Care
+  - Liability
+acts:
+  - Evaluation of expert qualifications
+  - Review of evidence and inferences
+  - Consideration of moving party's burden
+agreements:
+  - None mentioned
+laws:
+  - Harman v. Mono General Hospital
+  - Chadock v. Cohn
+  - Powell v. Kleinman
+  - Aguilar v. Atlantic Richfield Co.
+statutes: []
+case_citations:
+  - Harman v. Mono General Hospital (1982) 131 Cal.App.3d 607, 612-613
+  - Chadock v. Cohn (1979) 96 Cal.App.3d 205, 208
+  - Powell v. Kleinman (2007) 151 Cal.App.4th 112, 120-121
+  - Aguilar v. Atlantic Richfield Co. (2001) 25 Cal.4th 826, 843
+roles:
+  - Judge
+  - Plaintiff
+  - Defendant
+  - Expert Witness
+significant_statements:
+  - The court still needs to address Dr. Copeli's burden
+  - The determination of expert qualifications is a matter of discretion
+  - The court must view evidence in the light most favorable to the opposing party
