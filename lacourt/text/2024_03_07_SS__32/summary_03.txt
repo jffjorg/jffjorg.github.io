@@ -1,0 +1,70 @@
+Here is the summary in YAML format:
+
+```
+case_number: 21STCV23528
+plaintiff: Rabin Babazadeh
+defendant: 118 Clark Homeowners Association
+people_names:
+  - Rabin Babazadeh
+  - Harrie Cohen
+  - Evan Cohen
+  - Chuck Hyneman
+company_names:
+  - 118 Clark Homeowners Association
+places:
+  - California
+dates:
+  - June 24, 2021
+  - November 13, 2023
+  - January 11, 2024
+  - February 9, 2024
+  - March 7, 2024
+events:
+  - Filing of form complaint
+  - Filing of cross-complaint
+  - Filing of amended complaint
+  - Motion for leave to amend complaint
+money:
+  - None
+intention:
+  - To allow the amendment of the complaint to assert that Doe 1 is a corporation
+facts:
+  - Plaintiff filed a form complaint on June 24, 2021
+  - Defendant filed a cross-complaint on November 13, 2023
+  - Plaintiff filed an amended complaint on January 11, 2024
+  - Plaintiff seeks leave to amend the complaint to assert that Doe 1 is a corporation
+disputes:
+  - Dispute over whether the amendment should be allowed
+acts:
+  - Filing of pleadings
+  - Service of summons
+agreements:
+  - California Code of Civil Procedure section 474
+  - California Rules of Court, rule 3.1324
+laws:
+  - California Code of Civil Procedure
+  - California Rules of Court
+citations:
+  - Code Civ. Proc. § 576
+  - Code Civ. Proc. § 473
+  - Code Civ. Proc. § 474
+  - Weil & Brown, Cal. Practice Guide: Civil Procedure Before Trial (The Rutter Group 2022)
+  - Morgan v. Superior Court (1959) 172 Cal.App.2d 527
+  - Kittredge Sports Co. v. Superior Court (1989) 213 Cal.App.3d 1045
+  - Fireman’s Fund Ins. Co. v. Sparks Construction, Inc. (2004) 114 Cal.App.4th 1135
+  - McClatchy v. Coblentz, Patch, Duffy & Bass, LLP (2016) 247 Cal.App.4th 368
+  - Winding Creek v. McGlashan (1996) 44 Cal.App.4th 933
+  - Milam v. Dickman Construction Co. (1964) 229 Cal.App.2d 208
+  - Thompson v. Palmer Corp. (1956) 138 Cal.App.2d 387
+roles:
+  - Judge
+  - Plaintiff
+  - Defendant
+significant_statements:
+  - The Court has the inherent authority to prohibit the withdrawal of the subject motion and adopt the tentative ruling as the order of the Court.
+  - The Court may grant leave to amend the pleadings at any stage of the action.
+  - The amendment relates back to the filing date of the original complaint.
+  - The pleading must contain allegations that the fictional defendants were responsible for the plaintiff’s injuries.
+```
+
+Summary: This is a tentative ruling on a motion for leave to amend a complaint to assert that Doe 1 is a corporation. The plaintiff, Rabin Babazadeh, filed an amended complaint substituting Defendant 118 Clark Homeowners Association as Doe 1. The defendant opposes the motion, arguing that the amendment is barred by the statute of limitations. The court finds that the pleading contains sufficient charging allegations against all named and Doe defendants and grants the motion for leave to amend the complaint.

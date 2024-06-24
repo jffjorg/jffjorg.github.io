@@ -1,0 +1,57 @@
+Here is the summary in YAML format:
+
+```
+case_number: 22STCV22825
+plaintiff_name: Craig A. Wright
+defendant_name: Hotel Saddleback
+people_names:
+  - Gilbert Perez, III
+company_names:
+  - Hotel Saddleback
+places: Saddleback
+dates:
+  - 7/15/2022
+  - 7/14/2022
+  - 10/21/2024
+  - March 11, 2024
+events:
+  - Slip and fall action
+  - Motion to be relieved as counsel
+money: None
+intentions:
+  - Breakdown in attorney-client relationship
+  - Irremediable breakdown in communication
+facts:
+  - Plaintiff filed the present slip and fall action on 7/14/22
+  - Plaintiff's counsel brings forth the present motion to be relieved as counsel
+  - No opposition has been filed
+disputes:
+  - Breakdown in attorney-client relationship
+acts:
+  - Plaintiff's counsel seeks to be relieved as counsel
+  - Plaintiff has sufficient time to retain new counsel or prepare to represent himself
+agreements:
+  - Plaintiff's counsel has filed the requisite forms
+laws:
+  - California Rules of Court, rule 3.1362
+  - Ramirez v. Sturdevant (1994) 21 Cal.App.4th 904, 915
+  - People v. Prince (1968) 268 Cal.App.2d 398, 403-407
+  - Estate of Falco (1987) 188 Cal.App.3d 1004, 1014
+case_citations:
+  - Ramirez v. Sturdevant (1994) 21 Cal.App.4th 904, 915
+  - People v. Prince (1968) 268 Cal.App.2d 398, 403-407
+  - Estate of Falco (1987) 188 Cal.App.3d 1004, 1014
+statutes:
+  - California Rules of Court, rule 3.1362
+roles:
+  - Judge
+  - Plaintiff's counsel
+  - Defendant
+significant_statements:
+  - The Court grants the motion to be relieved as counsel, effective as of the date of Notice to Plaintiff.
+  - The Court finds that the breakdown in the attorney-client relationship is proper grounds for withdrawal.
+```
+
+And here is the summary in English text:
+
+This is a tentative ruling on a motion to be relieved as counsel filed by Plaintiff's counsel, Gilbert Perez, III. The motion cites an irremediable breakdown in the attorney-client relationship and/or communication, which has rendered it unreasonably difficult, if not impossible, for Plaintiff's counsel to continue representing Plaintiff. The Court finds that this breakdown is proper grounds for withdrawal and grants the motion, effective as of the date of Notice to Plaintiff. The next hearing is a Final Status Conference set for 10/21/24, and Plaintiff has sufficient time to retain new counsel or prepare to represent himself.

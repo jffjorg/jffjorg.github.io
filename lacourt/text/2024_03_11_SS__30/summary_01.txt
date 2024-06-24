@@ -1,0 +1,50 @@
+Here is the summary in YAML format:
+
+```
+case_number: 20STCV17991
+plaintiff_name: Nanette Price
+defendant_name: Cal-Quake Construction, Inc., John Taferner, Joseph Goldberger
+people_names:
+  - Nanette Price
+  - John Taferner
+  - Joseph Goldberger
+company_names:
+  - Cal-Quake Construction, Inc.
+places: none
+dates:
+  - June 20, 2023
+  - March 11, 2024
+events:
+  - Defendant served Request for Production of Documents, Set One
+  - Plaintiff failed to provide responses
+money: none
+intentions:
+  - Defendant seeks to compel responses to request for production
+  - Plaintiff seeks to avoid providing responses
+facts:
+  - Defendant properly served discovery requests
+  - Plaintiff failed to serve responses
+  - The motion was not opposed
+disputes:
+  - Plaintiff's failure to provide responses
+  - Defendant's request for sanctions
+acts:
+  - Defendant served discovery requests
+  - Plaintiff failed to provide responses
+agreements: none
+laws:
+  - Code Civ. Proc. § 2031.300(c)
+case_citations: none
+statutes: none
+roles:
+  - Judge
+  - Plaintiff
+  - Defendant
+significant_statements:
+  - Defendant is entitled to a court order directing Plaintiff to provide verified responses without objections
+  - Sanctions are only mandatory when the motion is unsuccessfully opposed
+```
+
+And here is the English-text summary:
+
+The Judge has issued a tentative ruling in the case of Nanette Price vs Cal-Quake Construction, Inc., et al. The defendants, Cal-Quake Construction, Inc., John Taferner, and Joseph Goldberger, moved to compel responses to their request for production of documents. The Judge granted this motion, ordering the plaintiff, Nanette Price, to provide responses without objection to the defendants' request for production, set one, within 20 days of the order. The Judge also denied the defendants' request for sanctions, as sanctions are only mandatory when the motion is unsuccessfully opposed, and the motion was not opposed. The Judge's ruling is based on the fact that the defendants properly served discovery requests, while the plaintiff failed to serve responses.

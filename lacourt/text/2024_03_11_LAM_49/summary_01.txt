@@ -1,0 +1,76 @@
+Here is the summary in YAML format:
+
+```
+case_number: 23STCV07607
+plaintiff_name: Glovis America, Inc.
+defendant_names:
+  - Red Energy, Inc.
+  - Royal Express Delivery, Inc.
+  - Sunoil Retail Group, Inc.
+  - Smart Place, Inc.
+  - Sergey Vershinin
+people_names:
+  - Bleau Fox (lawyer)
+  - Randolph M. Hammock (judge)
+company_names:
+  - Glovis America, Inc.
+  - Red Energy, Inc.
+  - Royal Express Delivery, Inc.
+  - Sunoil Retail Group, Inc.
+  - Smart Place, Inc.
+places: None
+dates:
+  - January 18, 2024
+  - January 22, 2024
+  - March 11, 2024
+  - March 12, 2024
+  - April 12, 2024
+events:
+  - Motion to be relieved as counsel
+  - Cross-complaint
+  - Breach of contract
+  - Breach of personal guaranty
+  - Account stated
+money: None
+intentions:
+  - Plaintiff: to recover payments due
+  - Defendants: to dispute allegations and relieve counsel
+  - Counsel: to withdraw representation
+facts:
+  - Plaintiff supplied Defendants with petroleum
+  - Defendants failed to make payments due
+  - Counsel cites breakdown in attorney-client communications and clients' failure to fulfill financial obligations
+disputes:
+  - Breach of contract
+  - Breach of personal guaranty
+  - Account stated
+  - Cross-complaint
+acts:
+  - Plaintiff brings action
+  - Defendants cross-complain
+  - Counsel moves to withdraw representation
+agreements: None
+laws:
+  - CCP section 284
+  - CCP section 284(1)
+  - CCP section 284(2)
+  - California Rules of Court rule 3.1362
+  - Ramirez v. Sturdevant (1994)
+statutes:
+  - CCP section 284
+  - CCP section 284(1)
+  - CCP section 284(2)
+roles:
+  - Plaintiff: Glovis America, Inc.
+  - Defendant: Red Energy, Inc., Royal Express Delivery, Inc., Sunoil Retail Group, Inc., Smart Place, Inc., Sergey Vershinin
+  - Counsel: Bleau Fox, APLC
+  - Judge: Randolph M. Hammock
+significant statements:
+  - Counsel's motion to be relieved as counsel is granted
+  - Counsel must submit an order (Form MC-053) indicating the next hearing will be an OSC re: Striking of Answer on April 12, 2024
+  - If the four entity defendants do not have a new attorney of record by that date, their answers may be stricken
+```
+
+And here is a summary of the judge's tentative ruling in English text:
+
+The judge grants the motion of Bleau Fox, APLC, to be relieved as counsel for individual defendant Sergey Vershinin and for the four entity defendants (Red Energy, Inc., Royal Express Delivery, Inc., Sunoil Retail Group, Inc., and Smart Place, Inc.). The motion is granted for Vershinin without condition, but for the four entity defendants, the motion is granted subject to the condition that the counsel submit an order (Form MC-053) indicating that the next hearing will be an OSC re: Striking of Answer on April 12, 2024. If the entity defendants do not have a new attorney of record by that date, their answers may be stricken.

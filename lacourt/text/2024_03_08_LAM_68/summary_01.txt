@@ -1,0 +1,84 @@
+Here is a summary of the judge's tentative ruling in YAML format:
+
+```yaml
+case_number: 22STCV10568
+hearing_date: March 8, 2024
+dept: 68 Dept
+judgment_type: Summary Judgment/Summary Adjudication
+
+parties:
+  - moving_party: Defendant, State Farm Mutual Automobile Insurance Company
+  - responding_party: Plaintiffs, Henghame Abaghi
+
+causes_of_action:
+  - 1st Cause of Action: Breach of Duty of Good Faith and Fair Dealing
+  - 2nd Cause of Action: Breach of Contract
+  - Claim for Punitive Damages
+
+summary_of_action:
+  - On February 23, 2021, the home of plaintiff Henghame Abaghi suffered damage due to a water supply line rupture.
+  - Plaintiff submitted an insurance claim, which was denied on April 3, 2021.
+  - Plaintiff alleges State Farm failed to adequately investigate the cause of the leak and therefore improperly denied coverage.
+
+ruling:
+  - Granted in part, denied in part
+
+evidentiary_objects:
+  - Declaration of Jeffrey Nodd, Appendix of Exhibits, Ex. E, Janaury 28, 2021 Letter: Overruled
+  - Declaration of Jeffrey Nodd, Appendix of Exhibits, Ex. G, Declaration of David Spiegel: Overruled
+
+issues:
+  - Breach of Contract
+  - Bad Faith
+  - Punitive Damages
+
+facts:
+  - The parties agree that the coverage determination was based on a report from a plumber.
+  - The "wear and tear" exclusion remains undisputed.
+  - State Farm's expert, Michael Clark, determined that the existence of the unprotected pipe within the concrete barrier caused a potential corrosive reaction over time, leading to the leak.
+  - The counter-expert, David Spiegel, disagrees with Clark's conclusions and identifies potential manufacturing defects, fluctuating pressures, and/or chemicals in the water supply as possible causes of the leak.
+
+disputes:
+  - The dispute between the experts on the cause of the subject claim demonstrates a genuinely valid dispute over the origin of the damage on otherwise undisputed contractual terms and circumstances.
+
+acts:
+  - State Farm denied the insurance claim based on its investigation and determination.
+  - Plaintiff alleges State Farm failed to adequately investigate the cause of the leak and therefore improperly denied coverage.
+
+agreements:
+  - The parties agree that the coverage determination was based on a report from a plumber.
+  - The "wear and tear" exclusion remains undisputed.
+
+laws:
+  - Code of Civil Procedure section 437c, subdivision (c)
+  - Code of Civil Procedure section 437c, subdivision (p)(2)
+  - Civil Code section 3294, subdivision (c)
+
+case_citations:
+  - Scolinos v. Kolts (1995) 37 Cal. App. 4th 635
+  - FPI Development, Inc. v. Nakashima (1991) 231 Cal.App.3d 367
+  - Jordan-Lyon Prods., LTD., v. Cineplex Odeon Corp. (1994) 29 Cal.App.4th 1459
+  - Adler v. Manor Healthcare Corp. (1992) 7 Cal.App.4th 1110
+  - Scalf v. D.B. Log Homes, Inc. (2005) 128 Cal.App.4th 1510
+  - Murray v. State Farm Fire & Casualty Co. (1990) 219 Cal.App.3d 58
+  - Freedman v. State Farm Ins. Co. (2009) 173 Cal.App.4th 957
+  - Brown v. Mid-Century Ins. Co. (2013) 215 Cal.App.4th 841
+  - Love v. Fire Ins. Exchange (1990) 221 Cal.App.3d 1136
+  - Carma Developers (Cal.), Inc. v. Marathon Dev. California, Inc. (1992) 2 Cal.4th 342
+  - Chateau Chamberay Homeowners Ass'n v. Associated Intern. Ins. Co. (2001) 90 Cal.App.4th 335
+  - McMillin Scripps North Partnership v. Royal Ins. Co. (1993) 19 Cal.App.4th 1215
+  - Racine & Laramie, Ltd. v. California Dept. of Parks & Rec. (1992) 11 Cal.App.4th 1026
+  - Careau & Co. v. Security Pacific Business Credit, Inc. (1990) 222 Cal.App.3d 1371
+  - Tomaselli v. Transamerica Ins. Co. (1994) 25 Cal.App.4th 1269
+  - Shade Foods, Inc. v. Innovative Products Sales & Marketing, Inc. (2000) 78 Cal.App.4th 847
+```
+
+And here is a summary of the judge's tentative ruling in English text:
+
+The court has issued a tentative ruling on a motion for summary judgment/summary adjudication filed by State Farm Mutual Automobile Insurance Company. The case involves a breach of contract and bad faith claims arising from State Farm's denial of an insurance claim related to water damage to the plaintiff's home.
+
+The court has granted State Farm's motion for summary adjudication on the punitive damages claim, finding that the circumstances do not demonstrate oppressive or malicious conduct under the heightened factual standard required for punitive damages.
+
+The court has denied State Farm's motion for summary judgment on the breach of contract and bad faith claims, finding that there are triable issues of material fact regarding the cause of the water damage and the reasonableness of State Farm's investigation and denial of the claim.
+
+The court has also denied State Farm's motion for summary adjudication on the breach of contract and bad faith claims, finding that the dispute between the experts on the cause of the subject claim demonstrates a genuinely valid dispute over the origin of the damage on otherwise undisputed contractual terms and circumstances.

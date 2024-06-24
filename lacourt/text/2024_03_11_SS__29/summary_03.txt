@@ -1,0 +1,90 @@
+Here is the summary in YAML format:
+
+```
+case_number: 21STCV46567
+hearing_date: March 11, 2024
+dept: 29
+motion_for_relief_from_dismissal: yes
+
+people:
+  - Kary Law (Plaintiff)
+  - Belinda Feldman (Defendant)
+  - Gerson Garcia Mosqueda Antonio (Doe defendants)
+
+companies:
+  - None
+
+places:
+  - Spring Street Courthouse
+
+dates:
+  - December 21, 2021
+  - December 22, 2019
+  - July 5, 2023
+  - July 25, 2023
+  - July 31, 2023
+  - October 16, 2023
+  - October 17, 2023
+  - October 20, 2023
+  - January 31, 2024
+  - March 11, 2024
+  - May 13, 2024
+
+events:
+  - Automobile accident
+  - Filing of complaint
+  - Answer filed by Defendant
+  - Request for dismissal filed by Plaintiff
+  - Dismissal entered by Court
+  - Motion for relief from dismissal filed by Plaintiff
+
+money:
+  - None
+
+intentions:
+  - Plaintiff's counsel intended to add Doe defendants to the lawsuit
+  - Defendant's counsel filed the dismissal without Plaintiff's counsel's consent
+
+facts:
+  - Plaintiff filed a complaint against Defendant on December 21, 2021
+  - Defendant filed an answer on July 5, 2023
+  - Plaintiff's counsel signed a request for dismissal on July 25, 2023
+  - Dismissal was entered on October 20, 2023
+  - Plaintiff filed a motion for relief from dismissal on January 31, 2024
+
+disputes:
+  - Dispute over whether the dismissal was entered with Plaintiff's counsel's consent
+
+acts:
+  - Plaintiff's counsel signed a request for dismissal
+  - Defendant's counsel filed the dismissal without Plaintiff's counsel's consent
+
+agreements:
+  - None
+
+laws:
+  - California Code of Civil Procedure (CCP) § 581, subdivision (j)
+  - CCP § 473, subdivisions (b) and (d)
+
+case_citations:
+  - None
+
+statutes:
+  - CCP § 581, subdivision (j)
+  - CCP § 473, subdivisions (b) and (d)
+
+roles:
+  - Plaintiff: Kary Law
+  - Defendant: Belinda Feldman
+  - Plaintiff's counsel: Unknown
+  - Defendant's counsel: Unknown
+
+significant_statements:
+  - The Court sets aside the dismissal entered on October 20, 2023
+  - The Court grants Plaintiff's motion for relief from dismissal
+  - The Court schedules a Trial Setting Conference for May 13, 2024
+```
+
+And here is a summary of the judge's tentative ruling in English text:
+
+The Court has granted Plaintiff Kary Law's motion for relief from dismissal. The Court finds that the dismissal was entered without the consent of Plaintiff's counsel, and therefore, the order of dismissal is void. The Court sets aside the dismissal entered on October 20, 2023, and orders a new Trial Setting Conference for May 13, 2024.

@@ -1,0 +1,72 @@
+Here is the summary in YAML format:
+
+```
+case_number: 23AHCV02087
+plaintiff: Daniel Ventura
+defendant: Myron Longhurst, Clark Longhurst, Kendra Longhurst
+people_names:
+  - Daniel Ventura
+  - Myron Longhurst
+  - Clark Longhurst
+  - Kendra Longhurst
+  - Diana L. Paz
+company_names: []
+places:
+  - Los Angeles
+  - California
+dates:
+  - June 19, 2023
+  - June 20, 2023
+  - September 11, 2023
+  - November 9, 2023
+  - February 13, 2024
+  - March 12, 2024
+events:
+  - Motor vehicle collision
+  - Filing of complaint
+  - Demurrer
+  - Motion for order deeming complaint filed
+money: []
+intentions:
+  - To deem complaint filed on June 19, 2023
+  - To overrule demurrer
+facts:
+  - Complaint was rejected due to misspelled names
+  - Clerk has ministerial duty to file complaint
+  - Code of Civil Procedure section 473(a)(1) allows mistakes in party names
+disputes:
+  - Plaintiff's motion to deem complaint filed
+  - Defendant's demurrer
+acts:
+  - Filing of complaint
+  - Demurrer
+  - Motion for order deeming complaint filed
+agreements:
+  - Code of Civil Procedure section 473(a)(1)
+  - California Rules of Court
+laws:
+  - Code of Civil Procedure
+  - California Rules of Court
+case_citations:
+  - Rojas v. Cutsforth (1998) 67 Cal.App.4th 774
+  - Carlson v. State of California Department of Fish & Game (1998) 68 Cal.App.4th 1268
+  - Dillon v. Superior Court of Nevada County (1914) 24 Cal.App. 760
+  - Code Civ. Proc., § 473, subd. (a)(1)
+statutes:
+  - Code of Civil Procedure
+  - California Rules of Court
+roles:
+  - Judge: William A. Crowfoot
+  - Plaintiff: Daniel Ventura
+  - Defendant: Myron Longhurst, Clark Longhurst, Kendra Longhurst
+  - Clerk: [Unknown]
+significant_statements:
+  - The clerk has a ministerial duty to file a complaint that substantially conforms to the rules.
+  - A complaint is deemed filed when it is presented to the clerk for filing in the form required by state law.
+  - The Court grants Plaintiff's motion to deem the complaint filed on June 19, 2023.
+  - The Court overrules Defendant's demurrer on the grounds that the action is time-barred.
+```
+
+And here is a summary in English text:
+
+This tentative ruling addresses Plaintiff Daniel Ventura's motion for an order deeming the complaint filed on June 19, 2023, and Defendant Myron Longhurst's demurrer to the complaint on the grounds that it was time-barred. The Court finds that the clerk incorrectly rejected the complaint due to a minor defect, a misspelling of the defendants' names, and that the complaint should be deemed filed as of June 19, 2023. As a result, the Court grants Plaintiff's motion and overrules Defendant's demurrer.

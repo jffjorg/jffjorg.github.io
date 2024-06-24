@@ -1,0 +1,73 @@
+Here is the summary in YAML format:
+
+```
+Case Number: 23CHCV00954
+Plaintiff's Name: Monica Gonzalez, Delia M. Gonzalez, Jessica Acosta
+Defendant's Name: D&M Home Inspections, Maria Ramos, Gilardo Ramos, Ivan Escobar
+People-Names:
+  - Monica Gonzalez
+  - Delia M. Gonzalez
+  - Jessica Acosta
+  - Maria Ramos
+  - Gilardo Ramos
+  - Ivan Escobar
+Company-Names:
+  - D&M Home Inspections
+  - Century 21
+Places:
+  - 9043 Greenbush Avenue
+  - Pacoima
+  - California
+Dates:
+  - 12/1/22
+  - 4/5/23
+  - 5/23/23
+  - 11/28/24
+  - 2/16/24
+  - 3/12/24
+Events:
+  - Purchase of real property
+  - Failure to disclose defects
+  - Filing of lawsuit
+  - Demurrer filed
+  - Order to amend complaint
+  - Service of special interrogatories
+  - Failure to respond to interrogatories
+  - Filing of motion to compel
+  - Request for sanctions
+Money:
+  - $1,430
+Intentions:
+  - To compel plaintiff to respond to special interrogatories
+  - To impose sanctions on plaintiff
+Facts:
+  - Plaintiffs purchased real property from defendants
+  - Defendants failed to disclose defects in property
+  - Plaintiffs filed lawsuit
+  - Defendants served special interrogatories on plaintiff
+  - Plaintiff failed to respond to interrogatories
+Disputes:
+  - Plaintiff's failure to respond to special interrogatories
+  - Request for sanctions
+Acts:
+  - Service of special interrogatories
+  - Failure to respond to interrogatories
+  - Filing of motion to compel
+  - Request for sanctions
+Agreements:
+  - None
+Laws:
+  - CCP 1010.6(c)
+Statutes:
+  - CCP 1010.6(c)
+Roles:
+  - Plaintiff: Monica Gonzalez, Delia M. Gonzalez, Jessica Acosta
+  - Defendant: D&M Home Inspections, Maria Ramos, Gilardo Ramos, Ivan Escobar
+  - Judge: [Judge's name]
+Significant Statements:
+  - "Since there is no response to the motion to cure the defect in notice, the motion is placed off calendar."
+```
+
+And here is a summary of the judge's tentative ruling in English text:
+
+The judge has placed the motion to compel off calendar due to a defect in notice. The motion was filed by D&M Home Inspections, seeking an order compelling Plaintiff Monica Gonzalez to serve complete verified responses to their special interrogatories, Set 1, within 7 days after the hearing on the motion. The judge notes that there is no evidence before the court that any of the plaintiffs have consented to receive electronic service, and the motion was served on the plaintiffs by email. The judge finds that the proof of service indicates that the motion was served on all plaintiffs by email, but there is no evidence of consent to receive electronic service. As a result, the motion is placed off calendar.

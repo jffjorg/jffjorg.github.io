@@ -1,0 +1,58 @@
+Here is the summary in YAML format:
+
+```
+case_number: 22STCV15214
+plaintiff_name: Wanda Ann Leach
+defendant_name: Casa Moreno & Grill, Inc. DBA Casa Moreno Fine Mexican Food, Maria Mercy Moreno, and Maria Mercedes Moreno Trust
+people_names:
+  - Wanda Ann Leach
+  - Walter Bruce Keppel
+  - Maria Mercy Moreno
+  - Maria Mercedes Moreno
+company_names:
+  - Casa Moreno & Grill, Inc.
+  - Casa Moreno Fine Mexican Food
+places:
+  - Los Angeles
+dates:
+  - June 27, 2023
+  - March 7, 2024
+events:
+  - Slip and fall on defendants' premises
+  - Plaintiff's death
+  - Motion to substitute successor-in-interest
+money: 
+  - Damages
+intentions:
+  - To allow the decedent's successor-in-interest to continue the pending action
+facts:
+  - Plaintiff died on June 27, 2023
+  - Keppel is the brother and sole next of kin of Plaintiff
+  - Keppel has executed a declaration satisfying the requirements of CCP section 377.32
+disputes:
+  - None (unopposed motion)
+acts:
+  - Plaintiff's death
+  - Execution of Keppel's declaration
+agreements:
+  - Code of Civil Procedure sections 377.30-377.32
+laws:
+  - Code of Civil Procedure sections 377.30-377.32
+case_citations:
+  - Code Civ. Proc., § 377.30
+  - Code Civ. Proc., § 377.31
+  - Code Civ. Proc., § 377.32
+statutes:
+  - Code of Civil Procedure
+roles:
+  - Judge: Hon. Michelle C. Kim
+  - Plaintiff: Wanda Ann Leach
+  - Defendant: Casa Moreno & Grill, Inc. DBA Casa Moreno Fine Mexican Food, Maria Mercy Moreno, and Maria Mercedes Moreno Trust
+  - Successor-in-interest: Walter Bruce Keppel
+significant_statements:
+  - "A cause of action that survives the death of the person entitled to commence an action or proceeding passes to the decedent's successor in interest . . . and an action may be commenced by the decedent's personal representatives or, if none, by the decedent's successor in interest."
+```
+
+And here is the English-text summary:
+
+The Judge has issued a tentative ruling granting the unopposed motion to substitute Walter Bruce Keppel as the successor-in-interest of the deceased plaintiff, Wanda Ann Leach. The motion was filed after Leach's death on June 27, 2023. Keppel, who is Leach's brother and sole next of kin, has executed a declaration satisfying the requirements of California Code of Civil Procedure sections 377.32, which allows a pending action to be continued by the decedent's personal representative or successor-in-interest. The Court has reviewed Keppel's declaration and finds it satisfactory. The motion is granted, and Keppel is allowed to continue the action as Leach's successor-in-interest.
