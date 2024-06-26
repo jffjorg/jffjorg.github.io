@@ -1,0 +1,80 @@
+Here is the summary in YAML format:
+
+```
+case_number: 22STCV02323
+plaintiff_name: TC Nevada, LLC and TLC Luxury, LLC
+defendant_name: Luz Elena Hernandez
+people_names:
+  - Sarah Sakr
+  - Chris Sanchez
+  - Nina Scotti
+  - Robert S. Griswold
+  - Stephen Loomis Bucklin
+  - Ramon Valdez
+  - Elias Hernandez
+company_names:
+  - Matrix Mattresses
+  - H&H Pallet Company
+places:
+  - City of Compton, California
+  - 522 East Weber Avenue, Compton, California
+  - 538 East Weber Avenue, Compton, California
+dates:
+  - January 20, 2022
+  - February 26, 2021
+  - September 28, 2023
+events:
+  - Fire destruction of ten buses
+  - Negligence and premises liability
+  - Summary judgment motion
+  - Opposition to summary judgment motion
+money:
+  - Unknown
+intentions:
+  - To determine if a resolution may be reached
+  - To establish a triable issue of material fact
+facts:
+  - The fire originated in an alley between power poles
+  - The pallets were stacked too high and densely to create a foreseeable risk of fire
+  - The fire spread from the alley to Matrix Mattress and then to H&H Pallets
+  - The pallets were stored in a way that breached the duty of care
+  - The fire was caused by the negligence of the defendant
+disputes:
+  - Whether the fire started on the defendant's property
+  - Whether the defendant is responsible for the fire
+  - Whether the pallets were stacked higher than allowed by law
+acts:
+  - The defendant stored pallets on her property
+  - The plaintiff's buses were destroyed by fire
+  - The defendant moved for summary judgment
+agreements:
+  - None
+laws:
+  - Evidence Code section 352(d)
+  - Evidence Code section 669
+  - Civil Code section 1714
+  - Code of Civil Procedure section 437c
+  - Fire Code
+case_citations:
+  - Aguilar v. Atlantic Richfield Co. (2001) 25 Cal.4th 826
+  - Smith v. Wells Fargo Bank, N.A. (2005) 135 Cal.App.4th 1463
+  - Fisherman's Wharf Bay Cruise Corp. v. Superior Court (2003) 114 Cal.App.4th 309
+  - Binder v. Aetna Life Ins. Co. (1999) 75 Cal.App.4th 832
+  - Weiss v. People ex rel. Department of Transportation (2020) 9 Cal.5th 840
+  - Spates v. Dameron Hospital Association (2003) 114 Cal.App.4th 208
+  - Johnson v. Honeywell International Inc. (2009) 179 Cal.App.4th 549
+  - Kesner v. Superior Court (2016) 1 Cal.5th 1132
+  - McIntyre v. The Colonies-Pacific, LLC (2014) 228 Cal.App.4th 664
+  - Rowland v. Christian (1968) 69 Cal.2d 108
+roles:
+  - Judge
+  - Plaintiff
+  - Defendant
+  - Expert witness
+significant_statements:
+  - Defendant's motion for summary judgment is granted.
+  - Plaintiff's experts failed to provide a reasoned explanation for their opinions.
+  - The burden shifts to the plaintiff to establish a triable issue of material fact.
+```
+
+Note: Some information may not be included in the YAML format as it is not possible to represent certain types of data, such as the legal citations, in a concise and readable format.

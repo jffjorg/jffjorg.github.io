@@ -1,0 +1,101 @@
+Here is the summary in YAML format:
+
+```
+case_number: 23STCV00820
+hearing_date: February 13, 2024
+dept: 27
+
+plaintiff:
+  name: Darius Squire
+  roles: Plaintiff
+
+defendants:
+  - name: Exel Inc
+  - name: John Doe
+  - name: Jane Doe
+  - name: Does 1-10
+  roles: Defendant(s)
+
+people_names:
+  - Darius Squire
+  - John Doe
+  - Jane Doe
+
+company_names:
+  - Exel Inc
+  - DHL Supply Chain
+
+places:
+  - Los Angeles
+  - California
+
+dates:
+  - January 17, 2023
+  - January 17, 2024
+  - January 29, 2024
+  - February 5, 2024
+  - February 13, 2024
+
+events:
+  - Plaintiff filed the action
+  - Defendant filed a motion to compel arbitration
+  - Plaintiff opposed the motion
+  - Defendant replied to the opposition
+  - The court will stay the action pending arbitration
+
+money: None mentioned
+
+intentions:
+  - Defendant intends to compel arbitration
+  - Plaintiff intends to oppose the motion
+
+facts:
+  - Plaintiff alleges violations of California Fair Employment and Housing Act
+  - Plaintiff alleges wrongful termination in violation of public policy
+  - Plaintiff alleges negligent hiring, supervision and retention
+  - Plaintiff alleges intentional infliction of emotional distress
+  - Plaintiff alleges negligence per se
+  - Plaintiff alleges slander
+  - Plaintiff alleges violation of Unruh Civil Rights Act
+  - Plaintiff alleges violation of Civil Code section 51.5
+
+disputes:
+  - Whether the arbitration agreement is valid and enforceable
+  - Whether the claims are covered within the scope of the agreement
+
+acts:
+  - Defendant signed an arbitration agreement with Plaintiff
+  - Plaintiff signed an arbitration agreement with Defendant
+
+agreements:
+  - Arbitration agreement between Plaintiff and Defendant
+  - Federal Arbitration Act
+  - California Arbitration Act
+
+laws:
+  - Code of Civil Procedure section 1281.2
+  - Code of Civil Procedure section 1281.4
+  - Federal Arbitration Act
+  - California Arbitration Act
+
+case_citations:
+  - Code Civ. Proc. § 1281.2
+  - Code Civ. Proc. § 1281.4
+  - 9 U.S.C. § 3
+
+statutes:
+  - California Fair Employment and Housing Act
+  - Unruh Civil Rights Act
+  - Civil Code section 51.5
+
+roles:
+  - Judge: Lee S. Arian
+```
+
+And here is a summary of the judge's tentative ruling in English text:
+
+The court has issued a tentative ruling on a motion to compel arbitration filed by Defendant Exel Inc. The motion seeks to compel arbitration of Plaintiff Darius Squire's claims against the Defendant, which include alleged violations of the California Fair Employment and Housing Act, wrongful termination, and other claims.
+
+The court has found that a valid arbitration agreement exists between the parties, and that the claims alleged by the Plaintiff are covered within the scope of the agreement. The court has also found that the arbitration agreement is not unconscionable, despite some procedural unconscionability due to the adhesive nature of the contract.
+
+The court has granted the motion to compel arbitration and has stayed the action pending the completion of arbitration. The parties will be required to update the court on the status of the arbitration proceedings at a status conference.

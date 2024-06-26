@@ -1,0 +1,68 @@
+Here is the summary in YAML format:
+
+```
+case_number: [insert case number]
+plaintiff_name: [insert plaintiff name]
+defendant_name: [insert defendant name]
+people_names: 
+  - [insert names of people mentioned in the document]
+company_names: 
+  - [insert names of companies mentioned in the document]
+places:
+  - Los Angeles
+  - City of Los Angeles
+dates:
+  - February 7, 2024
+  - May 1, 2024
+  - February 22, 2024
+  - September 1, 2019
+events:
+  - Hearing on Defendant's demurrer
+  - Rent increase
+  - Termination of tenancy
+money: 
+  - [insert amounts of money mentioned in the document]
+intentions: 
+  - To reject Defendant's argument
+  - To apply Los Angeles Municipal Code 151.01 et seq.
+  - To apply Civil Code § 1947.12 and Civil Code § 1946.2
+facts: 
+  - The Property is located in Los Angeles
+  - The Property is subject to Los Angeles Municipal Code 151.01 et seq.
+disputes: 
+  - Defendant's demurrer
+  - Rent increase
+acts: 
+  - Defendant's argument
+  - Plaintiff's actions (not specified in the document)
+agreements: 
+  - Los Angeles Municipal Code 151.01 et seq.
+  - Civil Code § 1947.12
+  - Civil Code § 1946.2
+laws: 
+  - Los Angeles Municipal Code 151.01 et seq.
+  - Government Code Section 12927
+  - Civil Code § 1947.12
+  - Civil Code § 1946.2
+case_citations: 
+  - Los Angeles Municipal Code 151.01 et seq.
+  - Government Code Section 12927
+  - Civil Code § 1947.12
+  - Civil Code § 1946.2
+statutes: 
+  - Government Code Section 12927
+  - Civil Code § 1947.12
+  - Civil Code § 1946.2
+roles: 
+  - Judge
+  - Plaintiff
+  - Defendant
+significant_statements: 
+  - The court rejects Defendant's argument that Los Angeles Municipal Code 151.01 et seq. doesn't apply to the Property.
+  - The Property is subject to Los Angeles Municipal Code 151.01 et seq.
+  - Civil Code § 1947.12 and Civil Code § 1946.2 pertain to rent increases and termination of tenancy.
+```
+
+And here is the English text summary:
+
+Based on the information presented before today, Judge [insert judge's name] has issued a tentative ruling on the case. The court has rejected Defendant's argument that Los Angeles Municipal Code 151.01 et seq. does not apply to the Property, which is located in Los Angeles. The Judge has ruled that the Property is subject to the Code and that Civil Code § 1947.12 and Civil Code § 1946.2 pertain to rent increases and termination of tenancy. Specifically, the court has advanced the hearing on Defendant's demurrer from May 1, 2024 to February 22, 2024. The Judge's ruling is based on the definition of "Rental Units" in Los Angeles Municipal Code 151.01, which includes dwelling units, efficiency dwelling units, guest rooms, and suites, among other things. The court has also cited Government Code Section 12927 and Civil Code §§ 1947.12 and 1946.2 in support of its ruling.

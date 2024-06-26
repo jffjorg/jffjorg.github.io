@@ -1,0 +1,61 @@
+Here is the summary in YAML format:
+
+```
+case_number: 23NWCP00337
+plaintiff: v. de la cruz, et al.
+defendant: Benjamin De La Cruz
+people: Benjamin De La Cruz
+company: None
+places: South Gate, City of South Gate
+dates:
+  - February 21, 2024
+  - January 25, 2024
+  - January 26, 2024
+  - January 30, 2024
+  - April 4, 2024
+  - April 10, 2024
+  - April 17, 2024
+events:
+  - Motion for Reconsideration
+  - Motion to Set Aside Default
+  - Hearing on February 21, 2024
+money: None
+intentions:
+  - To consider both Motions
+  - To deny Motion for Reconsideration
+  - To continue Motion to Set Aside Default
+facts:
+  - Defendant has filed two separate Motions
+  - Defendant has reserved only one hearing
+  - Plaintiff argues that Defendant cannot personally file a motion while represented by counsel
+  - Defendant's Motion for Reconsideration is based on the same facts and circumstances as the original motion
+  - Defendant's Motion to Set Aside Default was improperly served on Plaintiff
+disputes:
+  - Defendant's Motions for Reconsideration and to Set Aside Default
+acts:
+  - Filing of Motions
+  - Service of Motions
+  - Request for reconsideration
+  - Request to set aside default
+agreements: None
+laws:
+  - Forrest v. Dept. Of Corps. (2007) 150 Cal.App.4th 183, 202
+  - Shalant v. Girardi (2011) 51 Cal. 4th 1164, 1172
+  - Rancho Mirage Country Club Homeowners Assn. v. Hazelbaker (2016) 2 Cal.App.5th 252, 262
+  - CCP § 1005(b)
+case_citations: Forrest v. Dept. Of Corps., Shalant v. Girardi, Rancho Mirage Country Club Homeowners Assn. v. Hazelbaker
+statutes: CCP § 1005(b)
+roles:
+  - Judge
+  - Plaintiff
+  - Defendant
+  - Counsel
+significant_statements:
+  - "A motion for reconsideration may only be brought if the party moving for reconsideration can offer 'new or different facts, circumstances, or law' which it could not, with reasonable diligence, have discovered and produced at the time of the prior motion."
+  - "A motion for reconsideration will be denied absent a strong showing of diligence."
+  - "A trial court has broad discretion to accept or reject late-filed papers."
+```
+
+And here is a summary of the judge's tentative ruling in English text:
+
+The judge has denied the defendant's motion for reconsideration of an earlier order. The defendant has not provided any new facts or circumstances to support reconsideration of the order. The judge has also continued the defendant's motion to set aside default to a later date, allowing the plaintiff to oppose the motion on the merits. The judge has given the plaintiff until April 4, 2024 to file any opposition, and the defendant until April 10, 2024 to file any reply.

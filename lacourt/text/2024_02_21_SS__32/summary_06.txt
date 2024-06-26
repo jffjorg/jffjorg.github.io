@@ -1,0 +1,66 @@
+Here is a summary of the judge's tentative ruling in YAML format:
+
+```
+Case Number: 21STCV46421
+Plaintiff's Name: David L. Yen
+Defendant's Name: Ernesto Ramos Esparza
+People-Names:
+  - David L. Yen
+  - Rosa Yen
+  - Maria Ramirez Villegas
+  - Josue J. Valerio
+Company-Names:
+  - V&V Hauling, Inc.
+Places:
+  - None
+Dates:
+  - December 20, 2021
+  - April 10, 2023
+  - May 26, 2023
+  - October 3, 2023
+  - October 31, 2023
+  - February 21, 2024
+Events:
+  - Motor vehicle accident
+  - Propounding of Requests for Admissions, Set One
+  - Extensions to respond
+  - Service of responses
+  - Motion to compel further responses
+  - Motion to compel Form Interrogatories, Set Two
+Money:
+  - $5,220 (requested sanctions)
+  - $1,260 (awarded sanctions)
+  - $960 (awarded sanctions)
+Intentions:
+  - Plaintiff intends to compel further responses to Requests for Admissions, Set One
+  - Plaintiff intends to compel verified responses to Form Interrogatories, Set Two
+Facts:
+  - Plaintiff and Defendant were involved in a motor vehicle accident
+  - Defendant failed to serve timely responses to Requests for Admissions, Set One
+  - Defendant failed to serve timely responses to Form Interrogatories, Set Two
+Disputes:
+  - Defendant's objections to Requests for Admissions, Set One lack merit
+  - Defendant failed to serve timely responses to discovery requests
+Acts:
+  - Plaintiff propounded Requests for Admissions, Set One
+  - Defendant served responses to Requests for Admissions, Set One
+  - Plaintiff moved to compel further responses to Requests for Admissions, Set One
+  - Defendant failed to serve timely responses to Form Interrogatories, Set Two
+  - Plaintiff moved to compel Form Interrogatories, Set Two
+Agreements:
+  - Parties agreed to waive the Separate Statement requirement
+Laws:
+  - Code of Civil Procedure section 2033.290(a)
+  - Code of Civil Procedure section 2030.290(b)
+  - Code of Civil Procedure section 2030.290(c)
+  - California Rules of Court, rule 3.1348(a)
+Statutes:
+  - Code of Civil Procedure section 2033.280(a)
+  - Code of Civil Procedure section 2034.210
+Roles:
+  - Plaintiff: David L. Yen
+  - Defendant: Ernesto Ramos Esparza
+  - Counsel: Plaintiff's counsel and Defendant's counsel
+Significant Statements:
+  - "The court shall impose a monetary sanction against any party, person, or attorney who unsuccessfully makes or opposes a motion to compel further response, unless it finds that the one subject to the sanction acted with substantial justification or that other circumstances make the imposition of the sanction unjust." (Code Civ. Proc. § 2033.290(d))
+  - "The Court finds sanctions are warranted because Defendant has failed to respond."

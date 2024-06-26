@@ -1,0 +1,109 @@
+**Case Summary in YAML Format**
+
+```
+case_number: 22STCP00618
+hearing_date: 2024-02-15
+dept: 85
+
+plaintiff:
+  name: Chang Ho Yoo
+  business_name: PCH Medical Pharmacy
+
+defendant:
+  name: Michelle Baass
+  title: Director of Department of Health Care Services
+  organization: Department of Health Care Services (DHCS)
+
+people:
+  - Chang Ho Yoo
+  - Michelle Baass
+
+companies:
+  - PCH Medical Pharmacy
+  - Midway Drugs
+  - Bell Gardens
+  - Department of Health Care Services (DHCS)
+
+places:
+  - California
+
+dates:
+  - 2022-02-22 (Petition filed)
+  - 2022-06-06 (Answer filed)
+  - 2022-10-25 (Order granting Petition)
+  - 2022-11-02 (Judgment entered)
+  - 2022-11-08 (Writ of Mandate issued)
+  - 2023-08-25 (Return filed)
+  - 2023-09-12 (Supplemental Petition filed)
+  - 2024-02-06 (Answer to Supplemental Petition filed)
+
+events:
+  - Administrative mandate proceedings
+  - Demurrer to Supplemental Petition
+  - Motion to strike
+
+money:
+  - $37,000 (amount paid before Medi-Cal approval)
+  - $2,045,350 (amount demanded by DHCS)
+  - $1,791,322.75 (amount claimed in audit findings)
+
+intentions:
+  - To obtain an order vacating and reversing the final decision and directing DHCS to rescind the demand for recovery
+
+facts:
+  - PCH Medical Pharmacy submitted Medi-Cal bills for payment for drugs dispensed at two pharmacy locations before DHCS approved the enrollment applications
+  - DHCS conducted an audit and demanded recovery of $2,045,350
+  - PCH Medical Pharmacy appealed the audit findings and the demand for recovery
+  - A formal hearing was held and an administrative law judge (ALJ) issued a proposed decision denying PCH's appeal
+  - The Chief ALJ adopted the proposed decision as the final decision
+
+disputes:
+  - Dispute over the propriety of DHCS's audit findings and demand for recovery
+  - Dispute over the Chief ALJ's Remand Decision
+
+acts:
+  - Submission of Medi-Cal bills
+  - Conduct of audit
+  - Appeal of audit findings
+  - Formal hearing
+  - Issuance of proposed and final decisions
+
+agreements:
+  - Medi-Cal regulations
+  - DHCS policies
+
+laws:
+  - Welfare and Institutions Code (W&I Code)
+  - California Code of Regulations (CCR)
+  - Code of Civil Procedure (CCP)
+
+case_citations:
+  - 22 CCR section 51488.1(a)
+  - 22 CCR section 51488.1(b)
+  - W&I Code section 14043.26(k)
+  - CCP section 464(a)
+  - CCP section 430.30(a)
+  - CCP section 430.31(a)
+  - CCP section 472a(c)
+  - CCP section 1097
+  - CCP section 1108
+  - CCP section 1109
+
+statutes:
+  - Welfare and Institutions Code (W&I Code)
+  - California Code of Regulations (CCR)
+  - Code of Civil Procedure (CCP)
+
+roles:
+  - Judge
+  - Administrative law judge (ALJ)
+  - Director of Department of Health Care Services
+  - Attorney for PCH Medical Pharmacy
+
+significant_statements:
+  - The court's writ required DHCS to exercise its discretion under W&I Code section 14043.26(k) and consider mitigating facts under 22 CCR section 51488.1(b)
+  - The Chief ALJ's Remand Decision discussed four potential mitigating factors but found that none of them merited an adjustment to the DHCS's audit finding
+  - Yoo's Supplemental Petition is permissible as it challenges the validity of the return
+```
+
+Note: This summary is based on the provided text and may not capture all the details and nuances of the case.

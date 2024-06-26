@@ -1,0 +1,63 @@
+Here is the summary in YAML format:
+
+```
+Case Number: 20STCV20123
+Plaintiff's Name: Geovanni Solis
+Defendant's Name: Martha Lewis
+People-Names:
+  - Geovanni Solis
+  - Martha Lewis
+Company-Names: None
+Places:
+  - Spring Street Courthouse
+Dates:
+  - May 27, 2020
+  - November 2, 2020
+  - December 15, 2022
+  - January 20, 2023
+  - March 9, 2023
+  - April 3, 2023
+  - February 8, 2024
+Events:
+  - Complaint filed
+  - Default entered
+  - Default judgment not entered
+  - OSC hearings
+  - Motion to set aside dismissal filed
+  - Case dismissal
+Money: None
+Intentions:
+  - Plaintiff seeks to set aside dismissal
+  - Court grants motion
+Facts:
+  - Plaintiff's counsel failed to appear at OSC hearings
+  - Court identified defects in default papers
+  - Court dismissed case without prejudice
+  - Plaintiff filed motion to set aside dismissal
+Disputes:
+  - Plaintiff's counsel's mistake, inadvertence, surprise, or neglect
+Acts:
+  - Plaintiff filed motion to set aside dismissal
+  - Court considered motion
+  - Court granted motion
+Agreements:
+  - None
+Laws:
+  - California Code of Civil Procedure, §473, subd. (b)
+  - Elston v. City of Turlock (1985)
+  - Kendall v. Barker (1988)
+Statutes:
+  - California Code of Civil Procedure, §473, subd. (b)
+Roles:
+  - Judge: [Name]
+  - Plaintiff: Geovanni Solis
+  - Defendant: Martha Lewis
+  - Plaintiff's counsel: [Name]
+Significant Statements:
+  - "The court may, upon any terms as may be just, relieve a party or his or her legal representative from a judgment, dismissal, order, or other proceeding taken against him or her through his or her mistake, inadvertence, surprise, or excusable neglect."
+  - "To qualify for relief under section 473, the moving party must act diligently in seeking relief and must submit affidavits or testimony demonstrating a reasonable cause for the default."
+```
+
+And here is a summary of the judge's tentative ruling in English text:
+
+This tentative ruling grants the motion to set aside the dismissal of the case. The case was originally filed by Geovanni Solis against Martha Lewis on May 27, 2020, and the defendant's default was entered on November 2, 2020. Despite several attempts by the plaintiff to submit sufficient default judgment papers, default judgment was never entered. The plaintiff's counsel failed to appear at an OSC hearing on December 15, 2022, and again on March 9, 2023, resulting in the case being dismissed without prejudice. The plaintiff filed this motion to set aside the dismissal on April 3, 2023, stating that the dismissal occurred due to counsel's mistake, inadvertence, surprise, or neglect. The court finds that the plaintiff has established a satisfactory excuse for the default and has acted diligently in seeking relief. Therefore, the court grants the motion to set aside the dismissal and sets an OSC re dismissal for failure to file a complete and accurate set of default judgment papers for February 8, 2024.

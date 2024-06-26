@@ -1,0 +1,72 @@
+Here is the YAML summary of the tentative ruling:
+
+```
+case_number: 21GDCV01353
+plaintiff: ANDREW BERGMAN, et al.
+defendant: ISAAC BLOCHER, et al.
+people_names:
+  - ANDREW BERGMAN
+  - ISAAC BLOCHER
+  - HILLARY ARROW BOOTH
+  - ANEAKA ENGLISH
+  - SELLING N. ATLANTA, LLC
+  - WSRE FLORIDA, LLC
+  - WSRE GEORGIA, LLC
+  - SELLING N. RICHMOND, LLC
+  - WSRE SOUTH CAROLINA, LLC
+  - SELLING N. CHARLESTON LLC
+company_names:
+  - SELLING N. ATLANTA, LLC
+  - WSRE FLORIDA, LLC
+  - WSRE GEORGIA, LLC
+  - SELLING N. RICHMOND, LLC
+  - WSRE SOUTH CAROLINA, LLC
+  - SELLING N. CHARLESTON LLC
+places:
+  - LOS ANGELES
+  - CALIFORNIA
+  - NORTH CENTRAL DISTRICT
+  - DEPARTMENT B
+dates:
+  - JANUARY 4, 2024
+  - FEBRUARY 9, 2024
+  - FEBRUARY 16, 2024
+  - MARCH 1, 2024
+  - MARCH 26, 2024
+events:
+  - MOTIONS TO BE RELIEVED AS COUNSEL
+  - DEMURRER
+  - MOTION TO COMPEL FURTHER DISCOVERY RESPONSES
+  - ORDER TO SHOW CAUSE RE STATUS OF REPRESENTATION
+  - CASE MANAGEMENT CONFERENCE
+money: NONE
+intentions:
+  - DEFENSE COUNSEL SEEKING TO BE RELIEVED AS COUNSEL
+facts:
+  - DEFENDANTS FAILED TO COMMUNICATE AND COOPERATE IN THE REPRESENTATION
+  - ATTORNEY-CLIENT RELATIONSHIP BROKEN DOWN
+disputes:
+  - ATTORNEY-CLIENT RELATIONSHIP DISPUTE
+acts:
+  - DEFENSE COUNSEL FILED MOTIONS TO BE RELIEVED AS COUNSEL
+  - DEFENDANTS FAILED TO COMMUNICATE AND COOPERATE IN THE REPRESENTATION
+agreements:
+  - DEFENSE COUNSEL PROPOSED ORDER FORMS REJECTED
+  - DEFENDANTS TO OBTAIN SUBSTITUTE COUNSEL
+laws:
+  - CALIFORNIA RULES OF COURT (CRC) RULE 3.1362
+  - ROGERS V. MUNICIPAL COURT (1988) 197 CAL.APP.3D 1314, 1318
+statutes: NONE
+roles:
+  - DEFENSE COUNSEL (HILLARY ARROW BOOTH)
+  - DEFENDANTS (ANEAKA ENGLISH, SELLING N. ATLANTA, LLC, WSRE FLORIDA, LLC, WSRE GEORGIA, LLC, SELLING N. RICHMOND, LLC, WSRE SOUTH CAROLINA, LLC, SELLING N. CHARLESTON LLC)
+  - COURT (SUPERIOR COURT OF CALIFORNIA, NORTH CENTRAL DISTRICT, DEPARTMENT B)
+significant_statements:
+  - DEFENSE COUNSEL SEEKING TO WITHDRAW FROM REPRESENTING DEFENDANTS
+  - DEFENDANTS TO OBTAIN SUBSTITUTE COUNSEL
+  - COURT TO SET ORDER TO SHOW CAUSE RE STATUS OF REPRESENTATION FOR CORPORATE DEFENDANTS
+```
+
+And here is the English-text summary of the tentative ruling:
+
+The tentative ruling grants the motions to be relieved as counsel filed by defense counsel, Hillary Arrow Booth, on behalf of defendants Aneaka English and several corporate entities. The defense counsel seeks to withdraw from representing the defendants due to an absolute and irreparable breakdown in the attorney-client relationship stemming from the defendants' failure to communicate and cooperate in the representation. The court notes that the proposed order forms have been rejected due to an incomplete phone number, and orders the defense counsel to electronically submit updated proposed order forms. The court also sets an Order to Show Cause re Status of Representation for the corporate defendants, as they cannot represent themselves in propria persona. The motions to be relieved as counsel are granted, and the defense counsel is ordered to obtain substitute counsel.

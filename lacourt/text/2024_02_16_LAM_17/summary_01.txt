@@ -1,0 +1,58 @@
+Here is the summary in YAML format:
+
+```
+case_number: 23STCV13443
+plaintiff_name: Maria Rodriguez
+defendant_name: General Motors, LLC
+people_names:
+  - Maria Rodriguez
+  - General Motors, LLC
+company_names:
+  - General Motors, LLC
+places:
+  - Los Angeles
+  - California
+dates:
+  - June 12, 2023
+  - November 9, 2023
+  - February 16, 2024
+events:
+  - Plaintiff's motion to compel
+  - Deposition of Defendant's PMK
+  - Review of deposition notices
+money:
+  - None mentioned
+intentions:
+  - Plaintiff seeks to compel Defendant to produce relevant information
+  - Defendant seeks to limit the scope of deposition notices
+facts:
+  - Plaintiff filed suit against General Motors, LLC alleging violations of Song-Beverly Act
+  - Plaintiff moved to compel the deposition of Defendant's PMK
+  - Defendant agreed to produce a PMQ on 9 of the 23 categories in Plaintiff's PMK deposition notice
+disputes:
+  - Overbreadth of Plaintiff's deposition notices
+  - Narrow scope of Defendant's proposed PMQ deposition
+acts:
+  - Plaintiff filed suit
+  - Defendant agreed to produce a PMQ
+  - Court reviewed deposition notices
+agreements:
+  - None mentioned
+laws:
+  - Song-Beverly Consumer Warranty Act
+case_citations:
+  - None mentioned
+statutes:
+  - Song-Beverly Consumer Warranty Act
+roles:
+  - Judge: Hon. Jon R. Takasugi
+  - Plaintiff: Maria Rodriguez
+  - Defendant: General Motors, LLC
+significant_statements:
+  - The Court finds the categories noticed by Plaintiff to be overbroad, but Defendant's proposed scope of the PMQ deposition to be too narrow.
+  - The Court grants Plaintiff's motion to compel in part, denying it in part, and declines to award sanctions at this time.
+```
+
+And here is a summary of the judge's tentative ruling in English text:
+
+The judge grants the plaintiff's motion to compel in part, denying it in part. The plaintiff had requested to compel the deposition of the defendant's PMK, arguing that the defendant had failed to produce a witness to be deposed on the noticed categories and had engaged in gamesmanship. The defendant had agreed to produce a PMQ on 9 of the 23 categories in the plaintiff's PMK deposition notice, but the court found the categories noticed by the plaintiff to be overbroad and the defendant's proposed scope of the PMQ deposition to be too narrow. The court limits the temporal scope of all other requests to the period of purchase to the present and finds all noticed deposition categories related to the subject vehicle to be relevant.

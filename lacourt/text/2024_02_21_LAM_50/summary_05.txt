@@ -1,0 +1,62 @@
+Here is a summary of the tentative ruling in YAML format:
+
+```yaml
+Case Number: 21STCV47554
+Hearing Date: February 21, 2024
+Department: 50
+Judge: [Judge's Name]
+
+Plaintiff:
+  - Name: Wave Investment, LLC
+  - Type: Plaintiff
+
+Defendants:
+  - Name: SecurCapital Corp.
+  - Name: Stephen J. Russell (CEO of SecurCapital)
+  - Type: Defendants
+
+People and Companies:
+  - Wave Investment, LLC
+  - SecurCapital Corp.
+  - Stephen J. Russell
+  - Breakout Capital
+  - WAVE
+
+Places:
+  - None
+
+Dates:
+  - April 8, 2019
+  - March 3, 2019
+  - November 13, 2023
+  - November 4, 2022
+  - February 21, 2024
+
+Events:
+  - Breach of Non-Circumvention Agreement
+  - Acquisition of Breakout Capital
+  - Negotiations with Breakout Capital
+
+Money:
+  - $100,000
+  - $3,000,000
+
+Intentions:
+  - Plaintiff intends to recover lost profits and other economic injury
+  - Defendant intends to strike paragraphs 13 and 54 of the TAC
+
+Facts:
+  - Plaintiff alleged that Defendant breached the Non-Circumvention Agreement
+  - Plaintiff alleged that Defendant acquired Breakout Capital without consent
+  - Plaintiff alleged that Defendant was unjustly enriched
+
+Disputes:
+  - Whether Defendant breached the Non-Circumvention Agreement
+  - Whether Defendant was unjustly enriched
+
+Acts:
+  - Breach of Non-Circumvention Agreement
+  - Acquisition of Breakout Capital
+
+Agreements:
+  - Non-Circumvention Agreement

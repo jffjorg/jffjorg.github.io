@@ -1,0 +1,72 @@
+Here is the summary in YAML format:
+
+```
+case_number: 22STCV20090
+plaintiff_name: Juanita Marquez
+defendant_name: Equinox Holdings Inc.
+people_names:
+  - Juanita Marquez
+  - Equinox Holdings Inc.
+company_names:
+  - Equinox Holdings Inc.
+places:
+  - California
+dates:
+  - June 20, 2022
+  - June 21, 2023
+  - June 23, 2023
+  - August 10, 2023
+  - October 3, 2023
+  - October 9, 2023
+  - January 3, 2024
+  - February 13, 2024
+events:
+  - Trial court oral proceedings
+  - Demurrer to First Amended Complaint
+  - Ex parte application for immediate reconsideration order
+  - Notice of appeal
+  - Motion to use a settled statement
+money:
+  - Court fees
+  - Costs
+  - Transcript Reimbursement Fund
+intentions:
+  - Plaintiff seeks to use a settled statement instead of a reporter's transcript
+  - Defendant has not filed opposition
+facts:
+  - Oral proceedings were not reported by a court reporter
+  - Plaintiff has not filed a new notice designating the record on appeal
+disputes:
+  - None
+acts:
+  - Plaintiff filed a First Amended Complaint
+  - Defendant filed a demurrer to the First Amended Complaint
+  - Plaintiff filed an ex parte application for immediate reconsideration order
+  - Plaintiff filed a notice of appeal
+agreements:
+  - None
+laws:
+  - California Rules of Court, rule 8.137(a)
+  - California Rules of Court, rule 8.137(b)
+  - California Rules of Court, rule 8.130(c)
+  - California Rules of Court, rule 8.121
+  - California Rules of Court, rule 8.130
+case_citations:
+  - None
+statutes:
+  - None
+roles:
+  - Judge: Kerry Bensinger
+  - Plaintiff: Juanita Marquez
+  - Defendant: Equinox Holdings Inc.
+significant_statements:
+  - "A settled statement is a summary of the superior court proceedings approved by the superior court."
+  - "An appellant may either elect under (b)(1) or move under (b)(2) to use a settled statement as the record of the oral proceedings in the superior court, instead of a reporter's transcript."
+  - "The unopposed motion to use a settled statement is GRANTED."
+```
+
+And here is the English-text summary:
+
+This is a tentative ruling by Judge Kerry Bensinger in the case of Juanita Marquez v. Equinox Holdings Inc., case number 22STCV20090. The plaintiff, Juanita Marquez, is seeking to use a settled statement instead of a reporter's transcript of the trial court oral proceedings for the appeal filed on October 9, 2023. The motion is unopposed by the defendant.
+
+The judge notes that the oral proceedings were not reported by a court reporter and cannot be transcribed. Therefore, the judge finds that the motion to use a settled statement is granted under California Rules of Court, rule 8.137(b)(2). The plaintiff must give notice of the ruling.

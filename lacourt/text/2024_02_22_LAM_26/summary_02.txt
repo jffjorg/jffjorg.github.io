@@ -1,0 +1,40 @@
+Here is the summary of the Judge's tentative ruling in YAML format:
+
+```
+case_number: 23STCV14431
+hearing_date: 2024-02-22
+dept: 26
+judge: Elaine Lu
+
+parties:
+  - plaintiff: Council of Korean Churches in Southern California (KCSC)
+  - defendants:
+    - Yong Jun Kim
+    - Yong Bong Choe (erroneously sued as Yong Bong Choi)
+    - Paul Jung
+
+issues:
+  - res judicata
+  - uncertainty
+  - failure to state a claim
+  - improper demurrer
+
+facts:
+  - Plaintiff filed a complaint alleging that Defendants conducted a general assembly in violation of bylaws
+  - Plaintiff claims that Defendants wrongfully appointed themselves as directors and officers of KCSC
+  - Plaintiff seeks a permanent injunction and declaratory relief
+
+actions:
+  - demurrer to the complaint
+  - request for leave to amend
+
+ruling:
+  - Defendants' demurrer to the first cause of action (permanent injunction) is sustained
+  - Defendants' demurrer to the third cause of action (ultra vires) is sustained
+  - Plaintiff's entire complaint is uncertain and fails to sufficiently allege causes of action
+  - Plaintiff is granted leave to amend the complaint within 30 days
+```
+
+And here is a brief English summary:
+
+The Judge's tentative ruling grants Defendants' demurrer to the first and third causes of action, sustaining the demurrer to the complaint for uncertainty and failure to state a claim. The Judge orders Plaintiff to file an amended complaint within 30 days. The case management conference is continued to May 8, 2024.

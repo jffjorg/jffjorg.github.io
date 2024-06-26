@@ -1,0 +1,77 @@
+Here is the summary in YAML format:
+
+```
+case_number: [not specified]
+plaintiff_name: [not specified]
+defendant_name: [not specified]
+people_names:
+  - Plaintiff
+  - Defendants
+  - Construction Protective Services, Inc.
+  - TIG Specialty Ins. Co.
+  - Sawyer
+  - Bank of America
+  - Gourley
+  - State Farm Mut. Auto. Ins. Co.
+  - Hernandez
+  - Hillsides, Inc.
+  - Ginsberg
+  - Gamson
+company_names:
+  - Interinsurance
+  - Auto Club
+places: [not specified]
+dates:
+  - January 12, 2024
+events:
+  - Filing of Exhibit Errata
+  - Demurrer
+  - Motion to strike
+  - Breach of contract
+  - Invasion of privacy
+  - Trespass
+money: [not specified]
+intentions:
+  - To determine the validity of the causes of action
+  - To address the motion to strike
+  - To rule on the demurrer
+facts:
+  - The FAC sets forth only five causes of action
+  - The Sixth and Seventh captioned causes of action are not pleaded
+  - Plaintiff filed an Exhibit Errata on January 12, 2024
+  - Defendants' demurrer indicates they received the FAC with the attached exhibit
+disputes:
+  - Breach of contract
+  - Invasion of privacy
+  - Trespass
+acts:
+  - Filing of the FAC
+  - Filing of the Exhibit Errata
+agreements:
+  - California Supreme Court case: Construction Protective Services, Inc. v. TIG Specialty Ins. Co. (2002) 29 Cal.4th 189, 198–199
+  - California case: Sawyer v. Bank of America (1978) 83 Cal.App.3d 135, 141
+  - California case: Gourley v State Farm Mut. Auto. Ins. Co. (1991) 53 Cal.3d 121, 127-28
+  - California case: Hernandez v Hillsides, Inc. (2009) 47 Cal.4th 272, 286
+  - California case: Ginsberg v Gamson (2012) 205 Cal.App.4th 873, 896
+laws:
+  - California Insurance Code sections 785 and 790
+  - Civil Code section 3294
+statutes:
+  - California Civil Code
+  - California Insurance Code
+roles:
+  - Plaintiff
+  - Defendants
+  - Judge
+significant statements:
+  - "In an action based on a written contract, a plaintiff may plead the legal effect of the contract rather than its precise language."
+  - "Punitive damages may not be awarded as relief in a breach of contract claim."
+```
+
+And here is the summary in English text:
+
+The tentative ruling addresses the demurrer filed by the defendants and the motion to strike filed by the plaintiff. The court finds that the plaintiff's FAC sets forth only five causes of action, and the sixth and seventh captioned causes of action are not pleaded. The court also notes that the plaintiff filed an Exhibit Errata on January 12, 2024, which states that Exhibit A to the FAC was omitted due to inadvertence.
+
+The court rejects the plaintiff's claims for breach of contract and invasion of privacy, finding that the plaintiff failed to state a cause of action for breach of contract and that the invasion of privacy claim is not supported by the facts. The court also sustains the demurrer and does not address the motion to strike.
+
+The court notes that punitive damages cannot be recovered for breach of contract, citing California Civil Code section 3294. The court also references several California court cases, including Construction Protective Services, Inc. v. TIG Specialty Ins. Co., Sawyer v. Bank of America, Gourley v State Farm Mut. Auto. Ins. Co., Hernandez v Hillsides, Inc., and Ginsberg v Gamson.

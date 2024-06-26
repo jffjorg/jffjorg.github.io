@@ -1,0 +1,56 @@
+Here is the summary in YAML format:
+
+```
+case_number: 23NWCV01809
+plaintiff_name: Luis Enrique Gomez and Marisela Rodriguez
+defendant_name: American Honda Motor Co., Inc.
+people_names:
+  - Luis Enrique Gomez
+  - Marisela Rodriguez
+  - Gomez (note: same as Luis Enrique Gomez)
+company_names:
+  - American Honda Motor Co., Inc.
+places:
+  - California
+dates:
+  - February 2, 2024
+  - February 21, 2024
+  - April 24, 2024
+events:
+  - Request for Production
+  - Motion to Compel
+  - Meeting and Conferencing
+money:
+  - Not applicable
+intentions:
+  - To compel further responses to Requests for Production
+  - To meet and confer and file a joint statement of remaining issues
+facts:
+  - Defendant produced additional documents on February 2, 2024
+  - Plaintiffs' Requests for Production are broad and could encompass irrelevant or privileged documents
+disputes:
+  - Defendant's objections to Plaintiffs' Requests for Production
+  - Scope of discovery and relevance of documents
+acts:
+  - Plaintiffs' Motion to Compel is CONTINUED to April 24, 2024
+  - Parties are ordered to meet and confer and file a joint statement of remaining issues
+agreements:
+  - None mentioned
+laws:
+  - Not specified
+case_citations:
+  - None mentioned
+statutes:
+  - None mentioned
+roles:
+  - Judge: C Gomez
+  - Plaintiffs: Luis Enrique Gomez and Marisela Rodriguez
+  - Defendant: American Honda Motor Co., Inc.
+significant_statements:
+  - The Court is unlikely to compel Defendant to provide further responses on the grounds that its objections are improper
+  - Documents related to similar vehicles of the same year and model with similar defects within California are relevant
+```
+
+And here is a summary of the judge's tentative ruling in English text:
+
+The court has tentatively ruled to continue the hearing on the plaintiffs' motion to compel further responses to their requests for production. The motion is continued to April 24, 2024, at 10:30 AM in Department C. The parties are ordered to meet and confer and file a joint statement of remaining issues, including the requests for which the plaintiffs seek further responses and the requests for which they seek production. The statement should also include the defendant's opposition. The court is unlikely to compel the defendant to provide further responses, as the plaintiffs' requests are broad and could encompass irrelevant or privileged documents. Additionally, the court finds that documents related to similar vehicles of the same year and model with similar defects within California are relevant, and expanding the scope of discovery beyond that would be unduly burdensome and of limited probative value.

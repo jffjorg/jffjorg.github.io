@@ -1,0 +1,82 @@
+Here is the summary in YAML format:
+
+```
+case_number: 23STCV00692
+plaintiff_name: Fred Behfarin
+defendant_name: Sergey Menshikov
+people_names:
+  - Fred Behfarin
+  - Sergey Menshikov
+  - Lucy Menshikova
+  - Larisa Menshikova
+company_names:
+  - DH Distribution Inc.
+  - Beverly Hills Escrow, Inc.
+places:
+  - California
+  - Russian Federation
+  - West Hollywood
+  - Ukraine
+dates:
+  - September 14, 2023
+  - October 4, 2023
+  - November 16, 2023
+  - November 7, 2022
+  - November 23, 2019
+  - February 14, 2024
+events:
+  - Real property dispute
+  - Service of summons and complaint
+  - Motion to quash service
+  - Motion for sanctions
+money:
+  - $1,500 (sanctions)
+  - $500 (sanctions)
+intentions:
+  - Plaintiff seeks to enforce service of summons and complaint
+  - Defendant seeks to quash service and prevent jurisdiction
+facts:
+  - Menshikov resides in the Russian Federation
+  - DHD is operated by Individual Defendants
+  - Plaintiff previously served Larisa, but not Menshikov
+  - Plaintiff attempted to serve Menshikov at a new address in West Hollywood
+disputes:
+  - Service of summons and complaint
+  - Jurisdiction over out-of-state defendant
+acts:
+  - Plaintiff served Larisa
+  - Plaintiff attempted to serve Menshikov
+  - DHD filed a new statement of information
+  - Menshikov filed a declaration
+agreements:
+  - Hague Service Convention
+  - Code of Civil Procedure section 413.10
+  - Code of Civil Procedure section 415.10
+laws:
+  - Code of Civil Procedure
+  - Hague Service Convention
+case_citations:
+  - Water Splash, Inc. v. Menon (2017)
+  - Nobel Floral, Inc. v. Pasero (2003)
+  - Sea Foods Co., Ltd. v. O.M. Foods Co., Ltd. (2007)
+  - Kott v. Superior Court (1996)
+statutes:
+  - Code of Civil Procedure section 413.10
+  - Code of Civil Procedure section 415.10
+  - Code of Civil Procedure section 177.5
+roles:
+  - Judge: Michael E. Whitaker
+  - Plaintiff: Fred Behfarin
+  - Defendant: Sergey Menshikov
+significant_statements:
+  - The Court grants Menshikov's motion to quash service of the summons and complaint on Menshikov.
+  - The Court orders Plaintiff Fred Behfarin to pay monetary sanctions to the Clerk of the Court in the amount of $500.00 (five hundred dollars) within 20 days of notice of the Court's order.
+```
+
+And here is a summary of the judge's tentative ruling in English text:
+
+The judge grants the defendant, Sergey Menshikov's, motion to quash service of the summons and complaint, as Menshikov still resides in the Russian Federation and has not returned to the United States since 2019. The judge finds that the plaintiff's attempt to serve Menshikov at a new address in West Hollywood, California is improper and in violation of the Hague Service Convention.
+
+The judge also grants in part and denies in part the defendant's motion for sanctions against the plaintiff and the process server. The judge orders the plaintiff, Fred Behfarin, to pay monetary sanctions to the Clerk of the Court in the amount of $500.00 within 20 days of notice of the Court's order.
+
+The judge concludes that the plaintiff's explanation for serving Menshikov at the new address strains credulity and that the plaintiff did not rely in good faith on a new statement of information in forming the opinion that Menshikov moved back to California.

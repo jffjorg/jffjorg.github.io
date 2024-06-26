@@ -1,0 +1,70 @@
+Here is the summary in YAML format:
+
+```
+case_number: 21STCV06288
+hearing_date: February 15, 2024
+dept: 15
+people:
+  - Kenneth Chaney (Plaintiff)
+  - Walter Frederick Chaney (Plaintiff's father)
+  - Defense counsel (unknown)
+  - Plaintiffs' counsel (unknown)
+company:
+  - The W.W. Henry Company, L.P.
+places:
+  - Court
+dates:
+  - February 17, 2021
+  - October 24, 2023
+  - October 25, 2023
+  - November 7, 2023
+  - November 30, 2023
+  - December 20, 2023
+  - February 13, 2024
+  - February 15, 2024
+events:
+  - Plaintiff filed the action
+  - Defendant filed a motion for summary adjudication
+  - Parties signed a stipulation
+  - Defendant filed its motion
+  - Judge's tentative ruling
+money:
+  - None mentioned explicitly
+intentions:
+  - Plaintiff: seek damages for punitive damages
+  - Defendant: seek summary adjudication of punitive damages claim
+  - Plaintiffs' counsel: offer to work with Defendant on notice period
+facts:
+  - Defendant's motion for summary adjudication was served with insufficient notice
+  - Parties signed a stipulation stating the standard notice period applies
+  - Defendant did not provide evidence of an agreement to shorten notice period
+disputes:
+  - Defendant's motion for summary adjudication on punitive damages claim
+acts:
+  - Plaintiff filed the action
+  - Defendant filed a motion for summary adjudication
+  - Parties signed a stipulation
+  - Defendant filed its motion
+agreements:
+  - Parties agreed to the standard notice period
+  - Parties agreed to adjust dates for hearings on summary judgment motions
+laws:
+  - Code Civ. Proc. § 437c(a)
+  - California Civil Procedure Code
+case_citations:
+  - None mentioned explicitly
+statutes:
+  - Code Civ. Proc. § 437c(a)
+roles:
+  - Judge: issued tentative ruling
+  - Plaintiff: filed the action
+  - Defendant: filed a motion for summary adjudication
+  - Plaintiffs' counsel: offered to work with Defendant on notice period
+  - Defense counsel: asked about notice period
+significant_statements:
+  - The motion for summary adjudication on the claim for punitive damages was served with insufficient notice and is DENIED.
+```
+
+And here is a summary of the judge's tentative ruling in English text:
+
+The judge has issued a tentative ruling denying defendant's motion for summary adjudication on the plaintiff's punitive damages claim. The motion was served with insufficient notice, and the defendant did not provide any evidence of an agreement to shorten the notice period after the parties signed a stipulation stating that the standard notice period applies. The judge notes that the plaintiff's counsel offered to work with the defendant on the notice period, but the defendant did not request a shorter period. As a result, the judge finds that the motion was served with insufficient notice and is denied. The defendant is ordered to give notice of the ruling.

@@ -1,0 +1,69 @@
+Here is the summary in YAML format:
+
+```
+case_number: (no case number specified)
+plaintiff_name: Plaintiff
+defendant_name: Kia
+people_names: 
+  - Ford Motor Co.
+  - Anderson-Behel Porsche/Audi, Inc.
+  - Mitchell
+  - Varwig
+  - Barnhouse
+  - Geernaert
+company_names: 
+  - Kia
+  - Ford Motor Co.
+  - Anderson-Behel Porsche/Audi, Inc.
+places: 
+  - California
+dates: 
+  - 2015
+  - 1995
+  - 1977
+  - 1982
+events: 
+  - Purchase of a used vehicle
+  - Private sale
+  - Fraudulent misrepresentation
+  - Liability for pecuniary loss
+money: 
+  - Pecuniary loss
+intentions: 
+  - Intention to defraud
+  - Reason to expect communication of misrepresentation
+facts: 
+  - Dagher v. Ford Motor Co. (2015)
+  - Song-Beverly Act
+  - Warranty establishes a transactional relationship
+disputes: 
+  - Procedural defect of Kia's Separate Statement
+  - Punitive damages
+acts: 
+  - Making a fraudulent misrepresentation
+  - Acting in justifiable reliance
+agreements: 
+  - Song-Beverly Act
+  - Warranty
+laws: 
+  - California Civil Code
+  - California Code of Civil Procedure
+case_citations: 
+  - Dagher v. Ford Motor Co. (2015)
+  - Varwig v. Anderson-Behel Porsche/Audi, Inc. (1977)
+  - Geernaert v. Mitchell (1995)
+  - Barnhouse v. City of Pinole (1982)
+statutes: 
+  - Song-Beverly Act
+roles: 
+  - Plaintiff
+  - Defendant
+  - Judge
+significant_statements: 
+  - The Court rejects Plaintiff's argument challenging the procedural defect of Kia's Separate Statement
+  - The maker of a fraudulent misrepresentation is subject to liability for pecuniary loss
+```
+
+And here is the English text summary:
+
+This tentative ruling addresses the defendant Kia's procedural defect in its Separate Statement, which does not include punitive damages as an issue for adjudication. The court rejects the plaintiff's argument challenging this defect, citing case law such as Dagher v. Ford Motor Co. (2015) and Varwig v. Anderson-Behel Porsche/Audi, Inc. (1977). The court also addresses the issue of whether a warranty establishes a transactional relationship, citing Geernaert v. Mitchell (1995) and Barnhouse v. City of Pinole (1982). The ruling notes that the maker of a fraudulent misrepresentation is subject to liability for pecuniary loss, as stated in the California Civil Code.

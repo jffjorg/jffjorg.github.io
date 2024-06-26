@@ -1,0 +1,53 @@
+Here is the summary in YAML format:
+
+```
+case_number: 22STCV38301
+plaintiff_name: Forex Express Corp.
+defendant_name: Inter & Co. Payments, Inc.
+people_names:
+  - Eliran Grushkowsky
+company_names:
+  - Forex Express Corp.
+  - Inter & Co. Payments, Inc.
+places:
+  - None mentioned
+dates:
+  - February 14, 2024
+  - February 21, 2024
+events:
+  - Ex parte application
+  - Request for temporary restraining order
+  - Request for expedited discovery
+  - Order to show cause re preliminary injunction
+money: None mentioned
+intentions:
+  - Plaintiff seeks to obtain an ex parte order for temporary restraining order and expedited discovery
+  - Plaintiff seeks to obtain an order to show cause re preliminary injunction
+facts:
+  - Plaintiff has not satisfied the requirement of California Rules of Court, rule 3.1202, subdivision (c)
+  - Plaintiff's declaration does not contain competent testimony based on personal knowledge of irreparable harm, immediate danger, or other statutory basis for granting plaintiff's ex parte requests
+disputes:
+  - Plaintiff's ex parte application
+acts:
+  - Plaintiff filed an ex parte application
+  - Plaintiff's counsel was ordered to meet and confer with defendant's counsel
+agreements:
+  - None mentioned
+laws:
+  - California Rules of Court, rule 3.1202, subdivision (c)
+  - Statutes (not specified)
+case_citations: None mentioned
+statutes: None mentioned
+roles:
+  - Plaintiff: Forex Express Corp.
+  - Defendant: Inter & Co. Payments, Inc.
+  - Judge: (not specified)
+significant_statements:
+  - Plaintiff has not satisfied the requirement for an ex parte order
+  - The court denies plaintiff's ex parte request for temporary restraining order and expedited discovery
+  - The court grants plaintiff's request to issue an order to show cause re preliminary injunction
+```
+
+And here is the English-text summary:
+
+The Judge has issued a tentative ruling on the ex parte application filed by Forex Express Corp. (plaintiff) against Inter & Co. Payments, Inc. (defendant). The Judge finds that the plaintiff has not provided sufficient evidence to support its request for an ex parte order for a temporary restraining order and expedited discovery. The Judge denies the ex parte request but grants an order to show cause re preliminary injunction. The Judge orders the parties' counsel to meet and confer to determine whether the defendant has possession of the MacBook Pro laptop computer and to try to enter into a stipulation for preserving the laptop and its data.

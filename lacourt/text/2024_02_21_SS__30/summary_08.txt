@@ -1,0 +1,66 @@
+Here is the summary in YAML format:
+
+```
+case_number: 23STCV11213
+hearing_date: 2024-02-21
+dept: 30
+plaintiff: SARA MELGAR
+defendant: US FLOOR DESIGNS INC., A CALIFORNIA CORPORATION, et al
+people:
+  - Sara Melgar
+  - Unknown (insurance company - NGIC)
+company_names:
+  - US Floor Designs Inc.
+  - NGIC
+places:
+  - California
+dates:
+  - 2023-03-15
+  - 2024-02-21
+events:
+  - Settlement agreement between NGIC and Sara Melgar
+  - Filing of complaint by Sara Melgar
+  - Filing of answer by US Floor Designs Inc.
+  - Motion for leave to file amended answer by US Floor Designs Inc.
+  - Hearing on motion for leave to file amended answer
+money:
+  - None mentioned
+intentions:
+  - Defendant seeks to file an amended answer alleging settlement as an additional affirmative defense
+facts:
+  - Settlement agreement between NGIC and Sara Melgar on 2023-03-15
+  - Defendant was unaware of the defense when he filed the answer
+  - Plaintiff filed the complaint despite the settlement agreement
+disputes:
+  - Validity of the settlement agreement
+  - Breach of the settlement agreement by Sara Melgar
+acts:
+  - NGIC reached a settlement agreement with Sara Melgar
+  - Sara Melgar filed the complaint
+  - US Floor Designs Inc. filed an answer
+  - US Floor Designs Inc. filed a motion for leave to file an amended answer
+agreements:
+  - Settlement agreement between NGIC and Sara Melgar
+laws:
+  - California Code of Civil Procedure section 473
+  - California Rules of Court Rule 3.1324
+  - Atkinson v. Elk Corp. (2003)
+  - Magpali v. Farmers Group, Inc. (1996)
+  - Kransco v. American Empire Surplus Lines Ins. Co. (2000)
+  - Kittredge Sports Co. v. Superior Court (1989)
+statutes:
+  - California Code of Civil Procedure section 473
+roles:
+  - Judge
+  - Sara Melgar (plaintiff)
+  - US Floor Designs Inc. (defendant)
+  - NGIC (insurance company)
+significant_statements:
+  - The court grants the motion for leave to file an amended answer
+  - The amended answer must be filed within 10 days of this order
+  - The moving party is ordered to give notice
+```
+
+And here is a summary of the judge's tentative ruling in English text:
+
+The defendant, US Floor Designs Inc., has filed a motion for leave to file an amended answer alleging settlement as an additional affirmative defense. The settlement was reached between the defendant's insurance company, NGIC, and the plaintiff, Sara Melgar, prior to litigation. However, the plaintiff filed the complaint despite the settlement agreement. The defendant argues that it was unaware of the defense when it filed the answer. The court has reviewed the proposed amended answer and finds that it complies with the relevant rules of court. The court exercises its discretion liberally in favor of amendments and grants the motion for leave to file the amended answer. The amended answer must be filed within 10 days of this order, and the moving party is ordered to give notice.

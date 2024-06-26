@@ -1,0 +1,55 @@
+Here is the summary in YAML format:
+
+```
+case_number: 2023-001234
+plaintiff_name: Oakwood Development LP
+defendant_name: Brian Rivera
+people_names:
+  - Brian Rivera
+company_names:
+  - Oakwood Development LP
+places:
+  - unknown
+dates:
+  - 2023-07-01
+  - 2023-12-27
+  - unknown (date of entry of judgment)
+events:
+  - Default Judgment Application
+  - re-renting of premises
+  - filing of lease
+money:
+  - $108.33
+  - $26,873
+  - $500.00
+intentions:
+  - seeking default judgment
+facts:
+  - premises were re-rented in July 2023
+  - lease indicates $500.00 attorney's fees
+disputes:
+  - entitlement to daily rent
+acts:
+  - filing of Default Judgment Application
+  - re-renting of premises
+agreements:
+  - lease agreement
+laws:
+  - unknown
+case_citations:
+  - unknown
+statutes:
+  - unknown
+roles:
+  - Plaintiff (Oakwood Development LP)
+  - Defendant (Brian Rivera)
+  - Judge
+significant_statements:
+  - "The Default Judgment Application is denied without prejudice..."
+```
+
+And here is the English-text summary:
+
+Judge's Tentative Ruling:
+
+Plaintiff Oakwood Development LP has sought a default judgment against Defendant Brian Rivera. The court has denied the Default Judgment Application without prejudice. The reasons for the denial are as follows: Plaintiff is seeking $108.33 in daily rent from December 27, 2023, to the date of entry of judgment, but the premises were re-rented in July 2023, making it unclear why Plaintiff is entitled to this amount. Additionally, Plaintiff is requesting $26,873 in attorneys' fees, but the lease agreement specifies that reasonable attorney's fees shall be capped at $500.00 for the prevailing party. Finally, the proposed judgment is not fully completed. The court has instructed Plaintiff to provide notice.

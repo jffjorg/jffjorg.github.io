@@ -1,0 +1,48 @@
+Here is the summary in YAML format:
+
+```
+Case Number: [not specified]
+Plaintiff's Name: [not specified]
+Defendant's Name: [not specified]
+People-Names:
+  - Defense counsel
+Company-Names: []
+Places: []
+Dates:
+  - December 6, 2023
+Events:
+  - Service of discovery
+  - Association of current Defense counsel
+  - Filing of motion to compel
+Money: []
+Intentions:
+  - Plaintiff seeks sanctions against Defendant's counsel
+  - Plaintiff seeks to compel responses to Form Interrogatories
+Facts:
+  - Defendant did not respond to discovery
+  - Current Defense counsel was associated into the case on December 6, 2023
+Disputes:
+  - Whether Defendant's counsel should be sanctioned
+  - Whether Defendant should be compelled to respond to Form Interrogatories
+Acts:
+  - Service of discovery
+  - Association of current Defense counsel
+  - Filing of motion to compel
+Agreements: []
+Laws:
+  - [not specified]
+Case Citations: []
+Statutes: []
+Roles:
+  - Plaintiff
+  - Defendant
+  - Defense counsel
+  - Judge
+Significant Statements:
+  - The Court will not award sanctions against Defendant's current counsel.
+  - A motion to compel is only appropriate where a party fails to respond at all.
+```
+
+And here is the English-text summary:
+
+This tentative ruling addresses the Plaintiff's request for sanctions against the Defendant's counsel and a motion to compel responses to Form Interrogatories. The Court declines to award sanctions against the current Defense counsel, as they were associated with the case on December 6, 2023, after the subject discovery was served. The Court will only rule on the motion to compel regarding Form Interrogatories, Set Two, as the Defendant did not respond to that portion of the discovery.

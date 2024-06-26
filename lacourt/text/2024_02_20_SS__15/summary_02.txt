@@ -1,0 +1,84 @@
+Here is the summary in YAML format:
+
+```
+case_number: 23STCV23517
+hearing_date: 2024-02-20
+dept: 15
+
+people_names:
+  - Jody Kay Meade
+  - Chattem, Inc.
+  - Westlye
+  - Look Sports, Inc.
+  - Zogarts
+
+company_names:
+  - Chattem, Inc.
+  - Look Sports, Inc.
+
+places:
+
+dates:
+  - 1993
+  - 1975
+  - 2024-01-18
+
+events:
+  - Demurrer
+  - Motion to strike
+  - Hearing
+
+money:
+
+intentions:
+  - To induce reliance
+  - To induce fraud
+
+facts:
+  - Chattem, Inc. filed a demurrer to the third cause of action
+  - The third cause of action alleges misrepresentation under Restatement Second, Torst section 402-B
+  - The demurrer is overruled
+  - Defendant failed to file a notice of motion and motion to strike
+  - The motion to strike is denied
+
+disputes:
+  - Whether the third cause of action is sufficient
+  - Whether punitive damages are available
+  - Whether the complaint lists the products at issue
+
+acts:
+  - Chattem, Inc. made representations that were false and untrue
+  - Jody Kay Meade relied on those representations
+  - Chattem, Inc. is responsible for personal talcum powder products
+
+agreements:
+  - Restatement Second, Torst section 402-B
+  - California Rules of Court, rule 3.1322
+
+laws:
+  - Restatement Second, Torst section 402-B
+  - California Rules of Court, rule 3.1322
+  - Civil Code sections 1708-1710
+
+case_citations:
+  - Westlye v. Look Sports, Inc. (1993) 17 Cal.App.4th 1715
+  - Hauter v. Zogarts (1975) 14 Cal.3d 104
+
+statutes:
+  - California Rules of Court, rule 3.1322
+  - Civil Code sections 1708-1710
+
+roles:
+  - Judge
+  - Plaintiff (Jody Kay Meade)
+  - Defendant (Chattem, Inc.)
+
+significant_statements:
+  - The third cause of action alleges misrepresentation under Restatement Second, Torst section 402-B
+  - The demurrer is overruled
+  - The motion to strike is denied
+```
+
+And here is the English-text summary:
+
+This is a tentative ruling by the Judge in a case filed by Jody Kay Meade against Chattem, Inc. and others. The case involves a demurrer filed by Chattem, Inc. to the third cause of action, which alleges misrepresentation under Restatement Second, Torst section 402-B. The Judge has overruled the demurrer, finding that the third cause of action is sufficient. The Judge has also denied Chattem, Inc.'s motion to strike punitive damages, finding that the notice of motion was not filed correctly. The Judge has ruled that the complaint does not need to list the specific products at issue, and that Chattem, Inc. is responsible for personal talcum powder products. The Judge has also ruled that Civil Code sections 1708-1710 are not applicable to this case.

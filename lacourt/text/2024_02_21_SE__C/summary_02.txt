@@ -1,0 +1,63 @@
+Here is the summary in YAML format:
+
+```
+case_number: 22NWCV01775
+plaintiff: Cesario Brito, Sonia Brito
+defendant: Yone Aracely Lopez Rios, Jose E. Rodriguez, Tequila B.A.R. General, Inc., Los Lopez Tequila B.A.R. & Spirits, Inc.
+people: 
+  - Yone Aracely Lopez Rios
+  - Jose E. Rodriguez
+  - Cesario Brito
+  - Sonia Brito
+companies: 
+  - Tequila B.A.R. General, Inc.
+  - Los Lopez Tequila B.A.R. & Spirits, Inc.
+places: 
+  - unknown
+dates: 
+  - March 1, 2023
+  - August 31, 2023
+  - February 21, 2024
+events: 
+  - Default judgment entered
+  - Motion to Set Aside Default filed
+  - Default set aside
+money: 
+  - unknown
+intentions: 
+  - Set aside default judgment
+facts: 
+  - Plaintiffs alleged worthless shares of stock sold
+  - Defendants claimed excusable neglect
+  - Default judgment entered due to lack of response
+disputes: 
+  - Breach of contract
+  - Fraud
+  - Conversion
+  - Violation of Penal Code § 496
+  - Declaratory relief
+acts: 
+  - Failure to file responsive pleading
+agreements: 
+  - unknown
+laws: 
+  - CCP § 473(b)
+  - Penal Code § 496
+  - CCP § 473
+  - English v. IKON Business Solutions
+  - Rappleyea v. Campbell
+  - Valenzuela Decl.
+  - CCP § 473(b)
+roles: 
+  - Judge: C Brito
+  - Plaintiff: Cesario Brito, Sonia Brito
+  - Defendant: Yone Aracely Lopez Rios, Jose E. Rodriguez, Tequila B.A.R. General, Inc., Los Lopez Tequila B.A.R. & Spirits, Inc.
+  - Counsel: Valenzuela
+significant statements: 
+  - "Strong public policy in favor of granting relief and allowing the requesting party his or her day in court..."
+  - "Excusable neglect of failing to file a responsive pleading while preparing for trials in other matters."
+```
+
+And here is the English-text summary:
+
+The Judge has issued a tentative ruling granting the Defendants' Motion to Set Aside Default and Default Judgment. The default judgment was entered against the Defendants on March 1, 2023, due to their failure to file a responsive pleading. However, the Defendants' counsel has submitted an affidavit stating that their neglect was excusable, as they were preparing for trials in other matters at the time. The Judge finds that the Defendants' counsel's neglect was indeed excusable and that there is a strong public policy in favor of granting relief and allowing the requesting party their day in court. Therefore, the Judge is granting the Motion to Set Aside Default and Default Judgment, effectively setting aside the default judgment and allowing the case to proceed.

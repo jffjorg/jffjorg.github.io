@@ -1,0 +1,51 @@
+Here is a YAML summary of the document:
+
+```
+case_number: 23STCV45088
+hearing_date: February 21, 2024
+department: 71 Superior Court of California
+county: Los Angeles
+
+parties:
+  - Plaintiff: People of the State of California, ex rel. Allstate Insurance Company
+  - Defendant: Adam Avelardo Perez, et al.
+
+facts:
+  - Defendant Perez, an unlicensed layperson, established and ran New Hope Imaging Services, LLC.
+  - New Hope Imaging Services, LLC billed insurance companies for MRI services it was not licensed to provide.
+  - Defendant Perez and New Hope Imaging Services, LLC submitted fraudulent claims to insurance companies.
+  - The scheme involved kickbacks and referral fees to radiologists who read and interpreted the MRI scans.
+
+disputes:
+  - Whether the Plaintiff's second amended complaint (SAC) states a cause of action under the California Insurance Fraud Prevention Act (CIFPA) and the Unfair Competition Law (UCL).
+
+acts:
+  - Defendant Perez and New Hope Imaging Services, LLC's alleged fraudulent conduct and submission of false insurance claims.
+  - The alleged unlawful practice of medicine and the unauthorized use of medical equipment.
+
+laws:
+  - California Insurance Fraud Prevention Act (CIFPA)
+  - Unfair Competition Law (UCL)
+  - Insurance Code §1871.7(a)-(b)
+  - Penal Code §§549, 550
+  - Business and Professions Code §§650, 2040, 2052, and 2273(a)
+  - Health and Safety Code §445
+
+case_citations:
+  - State of California ex rel. McCann v. Bank of America, N.A. (2011) 191 Cal.App.4th 897
+  - People v. Blick (2007) 153 Cal.App.4th 759
+  - State ex rel. Wilson v. Superior Court (2014) 227 Cal.App.4th 579
+  - Discovery Radiology Physicians, P.C. (2023) 94 Cal.App.5th 521
+  - Aleksick v. 7-Eleven, Inc. (2012) 205 Cal.App.4th 1176
+  - Berryman v. Merit Property Management, Inc. (2007) 152 Cal.App.4th 1544
+  - Zhang v. Superior Court (2013) 57 Cal.4th 364
+
+roles:
+  - Judge: [Name]
+  - Plaintiff's Counsel: [Name]
+  - Defendant's Counsel: [Name]
+
+significant_statements:
+  - The Plaintiff's SAC sufficiently states a cause of action under CIFPA and the UCL.
+  - The Court will consider the instant demurrer.
+  - The demurr

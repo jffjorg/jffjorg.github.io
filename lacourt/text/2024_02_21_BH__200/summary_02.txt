@@ -1,0 +1,68 @@
+Here is the summary in YAML format:
+
+```
+case_number: [omitted]
+plaintiff_name: [omitted]
+defendant_name: [omitted]
+people_names:
+  - Judge Beaudet
+  - Kowis
+  - Howard
+  - Torres
+company_names:
+  - CAG
+places:
+  - California
+dates:
+  - 1992
+  - 2020
+  - 2023-03-20
+  - 2023-11-22
+events:
+  - Motion to dismiss
+  - Petition for writ of mandate
+  - Final status conference
+money: [omitted]
+intentions:
+  - To relate cases
+  - To reject calculations supporting defendants' claim
+facts:
+  - Court of Appeal denied petition for writ of mandate
+  - Judge Beaudet denied motion to dismiss
+  - Expert became unavailable due to delay
+disputes:
+  - Defendants' claim of prejudice from delay
+  - Calculation of tolling period
+acts:
+  - Court of Appeal reviewed Judge Beaudet's order
+  - Judge declined to relate cases
+  - Expert became unavailable
+agreements:
+  - LASC Rules permit motion to relate cases
+  - Stipulation reached on November 22, 2023
+laws:
+  - Kowis v. Howard (1992)
+  - People v. Torres (2020)
+  - Chin (supra)
+case_citations:
+  - Kowis v. Howard (1992) 3 Cal.App.4th 888, 894
+  - People v. Torres (2020) 47 Cal.App.5th 984, 989
+  - Chin (supra)
+statutes: [omitted]
+roles:
+  - Judge
+  - Plaintiff
+  - Defendant
+  - Court of Appeal
+significant_statements:
+  - The Court will address the issue of prejudice from delay separately at the final status conference.
+  - The Court rejects the various calculations on p. 3 of the Reply that support Defendants' claim.
+```
+
+And here is a summary of the judge's tentative ruling in English text:
+
+The judge has made a tentative ruling on a motion to relate cases in a court case. The judge notes that the Court of Appeal has already denied a petition for writ of mandate concerning the denial of a motion to dismiss, which is significant because it shows that the Court of Appeal reviewed the order denying the motion and found that there were no necessary circumstances to intervene. The judge also notes that the Los Angeles Superior Court (LASC) Rules permit a motion to relate cases to be made to Dept. 1 if the assigned judge declines to relate cases.
+
+The judge rejects the various calculations on page 3 of the Reply that support the defendants' claim that the five-year and six-month period would have expired before the stipulation was reached on November 22, 2023. The judge acknowledges the defendants' claim of prejudice from delay in an expert becoming unavailable, but will address this issue separately at the final status conference.
+
+The judge does not need to reach the issue of whether there would be additional tolling after the period of impossibility is over, as the Court of Appeal has already addressed this issue. The judge's ruling is based on the principles that an order is presumed correct even if the record is silent, and that the burden is on the challenging party to show otherwise.

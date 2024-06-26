@@ -1,0 +1,83 @@
+Here is the summary in YAML format:
+
+```
+case_number: 23STCV00944
+hearing_date: 2024-02-15
+dept: 52
+order_to_show_cause_re: Entry Default Judgment
+
+plaintiff:
+  name: Jose Flores
+  role: Plaintiff
+
+defendant:
+  name: Frank Laaly, D.D.S.
+  role: Defendant
+
+people:
+  - Jose Flores
+  - Frank Laaly, D.D.S.
+
+companies: []
+
+places:
+  - 616 N. Sweetzer Ave., #309, Los Angeles, CA 90048
+  - 528 Amalia Avenue, Los Angeles, CA 90022
+
+dates:
+  - January 30, 2024
+  - July 10, 2023
+
+events:
+  - Default judgment
+  - Personal injury action
+  - Service of statement of damages
+
+money: $0
+
+intentions:
+  - Plaintiff seeks default judgment against defendant
+  - Defendant is defaulted
+
+facts:
+  - Plaintiff filed statement of damages dated January 30, 2024
+  - Statement was served by mail, not in the manner as a summons
+  - Plaintiff filed purported substituted service of a statement of damages on defendant in July 2023
+  - Defendant was personally served at 528 Amalia Avenue, Los Angeles, CA 90022
+  - Process server made one prior attempt to serve defendant at 616 N. Sweetzer Ave., #309, Los Angeles, CA 90048
+  - Defendant refused to identify self
+
+disputes:
+  - Plaintiff's failure to serve statement of damages in the manner as a summons
+  - Plaintiff's failure to prove adequate substituted service on defendant
+
+acts:
+  - Plaintiff filed statement of damages dated January 30, 2024
+  - Plaintiff filed proof of service of a statement of damages on July 10, 2023
+  - Process server made attempts to serve defendant at 616 N. Sweetzer Ave., #309, Los Angeles, CA 90048
+  - Defendant was personally served at 528 Amalia Avenue, Los Angeles, CA 90022
+
+agreements:
+  - None
+
+laws:
+  - CCP § 425.11(c) and (d)(1)
+  - Kremerman v. White (2021) 71 Cal.App.5th 358, 373
+
+statutes:
+  - Code of Civil Procedure section 425.11, subdivision (c)
+
+roles:
+  - Plaintiff: Jose Flores
+  - Defendant: Frank Laaly, D.D.S.
+  - Process server: Vasquez
+
+significant statements:
+  - "The plaintiff shall serve the statement [of damages] on the defendant before a default may be taken." (CCP § 425.11(c))
+  - "If a party has not appeared in the action, the statement shall be served in the same manner as a summons." (Id., subd. (d)(1))
+  - "Ordinarily, two or three attempts at personal service at a proper place and with correct pleadings should fully satisfy the requirement of reasonable diligence and allow substituted service to be made." (Kremerman v. White (2021) 71 Cal.App.5th 358, 373)
+```
+
+And here is a summary of the judge's tentative ruling in English text:
+
+The court cannot grant default judgment and must vacate the default of defendant Frank Laaly, D.D.S. The plaintiff, Jose Flores, has not shown proper service of his statement of damages on the defendant. Two reasons support this conclusion. Firstly, the plaintiff filed only one statement of damages, which was dated January 30, 2024, and served by mail, not in the manner as a summons. Secondly, the plaintiff did not prove adequate substituted service on the defendant. The process server made one prior attempt to serve the defendant at 616 N. Sweetzer Ave., #309, Los Angeles, CA 90048, but did not testify that this is the defendant's residence or any other "proper place." The court therefore denies the plaintiff's request for court judgment by default and vacates the default of the defendant.

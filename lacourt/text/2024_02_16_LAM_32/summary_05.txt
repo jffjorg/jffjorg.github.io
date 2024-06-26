@@ -1,0 +1,74 @@
+Here is the summary in YAML format:
+
+```
+case_number: 23STCV14020
+plaintiff_name: Alma Rosa Hernandez
+defendant_name: Los Angeles County High Desert Regional Health Center
+people_names:
+  - Alma Rosa Hernandez
+  - SEIU Local 721
+  - County of Los Angeles
+company_names:
+  - SEIU Local 721
+  - Los Angeles County High Desert Regional Health Center
+places:
+  - Los Angeles
+  - California
+dates:
+  - June 16, 2023
+  - August 21, 2023
+  - September 8, 2023
+  - November 15, 2023
+  - December 14, 2023
+  - January 12, 2024
+  - February 16, 2024
+events:
+  - Plaintiff filed complaint
+  - Court sustained demurrer with leave to amend
+  - Plaintiff filed amended complaint
+  - Court sustained demurrer with leave to amend
+  - Plaintiff filed second amended complaint
+  - Defendant filed demurrer
+money: $0
+intentions:
+  - Plaintiff seeks to state a cause of action against the union
+  - Defendant seeks to dismiss the second amended complaint
+facts:
+  - Plaintiff was suspended for 5 days without pay
+  - Plaintiff asked for union representation but was denied
+  - Complaint alleges discrimination on the characteristics of race, color, national origin, and reverse age discrimination
+disputes:
+  - Plaintiff claims discrimination by the union
+  - Defendant argues that the complaint does not state a cause of action against the union
+acts:
+  - Plaintiff filed a complaint
+  - Defendant filed a demurrer
+agreements:
+  - Meet and confer requirement
+  - Plaintiff did not file an opposition
+laws:
+  - California Civil Procedure Code
+  - Meyers-Milias-Brown Act
+  - Government Code
+  - California Labor Code
+case_citations:
+  - Hahn v. Mirda (2007) 147 Cal.App.4th 740, 747
+  - Taylor v. City of Los Angeles Dept. of Water and Power (2006) 144 Cal.App.4th 1216, 1228
+  - Code Civ. Proc., § 430.30, subd. (a)
+  - City of San Jose v. Operating Engineers Local Union No. 3 (2010) 49 Cal.4th 597, 601
+  - Paulsen v. Local No. 856 of Internat. Brotherhood of Teamsters (2011) 193 Cal.App.4th 823, 831
+  - Coachella Valley Mosquito & Vector Control Dist. v. California Public Employment Relations Bd. (2005) 35 Cal.4th 1072, 1091
+statutes:
+  - California Civil Procedure Code
+  - Meyers-Milias-Brown Act
+  - Government Code
+roles:
+  - Judge: [Tentative] Ruling
+significant_statements:
+  - Defendant SEIU Local 721's demurrer is sustained without leave to amend.
+    The second amended complaint does not state a cause of action against the union.
+```
+
+And here is a summary of the judge's tentative ruling:
+
+The judge has issued a tentative ruling on the demurrer filed by SEIU Local 721, defendant in the case. The demurrer is sustained without leave to amend, meaning that the second amended complaint does not state a cause of action against the union. The judge's ruling is based on the fact that the complaint does not contain sufficient facts to state a cause of action against the union and that the complaint implies that the suspension was caused by the employer (the County) and not the union. The judge also notes that the complaint does not allege that the plaintiff exhausted her administrative remedies under the Meyers-Milias-Brown Act (MMBA) or that she did so within six months.

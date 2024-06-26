@@ -1,0 +1,63 @@
+Here is the summary in YAML format:
+
+```
+case_number: 21CHCV00810
+plaintiff: Rick Hamm Construction, Inc.
+defendant: Danone US, LLC, et al.
+people_names:
+  - Rick Hamm
+  - Danone US, LLC, et al.
+company_names:
+  - Rick Hamm Construction, Inc.
+  - Danone US, LLC
+  - Avex Builders, Inc.
+places:
+  - California
+dates:
+  - February 9, 2024
+  - N/A (Trial Date)
+events:
+  - Settlement in favor of Plaintiff
+  - Motion for attorney fees
+money:
+  - $34,545.50 (attorney fees)
+  - $2,250 (additional 5 hours of attorney time)
+  - $36,795.50 (total attorney fees requested)
+  - $2,254.69 (costs)
+intentions:
+  - Plaintiff seeks attorney fees
+  - Defendant did not respond to motion
+facts:
+  - Settlement in favor of Plaintiff
+  - Contracts contain provisions for attorney fees
+  - Plaintiff is entitled to attorney fees as prevailing party
+disputes:
+  - None
+acts:
+  - Settlement agreement
+  - Filing of motion for attorney fees
+agreements:
+  - Contracts between parties
+  - Settlement agreement
+laws:
+  - California Civil Code § 1717
+  - California Code of Civil Procedure § 1033.5(a)(10)
+  - California Rules of Court, Rule 3.1700
+case_citations:
+  - Bowman v. City of Berkeley (2005) 131 Cal.App.4th 173, 178
+statutes:
+  - California Civil Code § 1717
+  - California Code of Civil Procedure § 1033.5(a)(10)
+roles:
+  - Plaintiff: Rick Hamm Construction, Inc.
+  - Defendant: Danone US, LLC, et al.
+  - Moving party: Plaintiff
+  - Responding party: None
+significant_statements:
+  - "A prevailing party is entitled to recover its attorneys' fees when authorized by contract, statute, or law." (CCP § 1033.5(a)(10); Cal. Civ. Code § 1717(a))
+  - "Given the nature of the case, the Court finds that the amount of attorney fees requested by Plaintiff is reasonable."
+```
+
+And here is the summary in English text:
+
+This is a tentative ruling by a Judge regarding a motion for attorney fees filed by Plaintiff Rick Hamm Construction, Inc. The case is numbered 21CHCV00810 and the hearing date is February 9, 2024. The motion is granted, and the Plaintiff is entitled to attorney fees in the amount of $36,795.50, plus costs, which should be requested in a memorandum of costs. The Court finds that the amount of attorney fees requested is reasonable, and the Plaintiff's hourly rates are not unreasonable. The Judge notes that the Plaintiff is the prevailing party due to the settlement in their favor, and that they are entitled to recover attorney fees as authorized by contract and statute.

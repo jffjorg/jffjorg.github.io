@@ -1,0 +1,44 @@
+Here is a summary of the case in YAML format:
+
+```
+case:
+  name: Pericles Chamis v. Michelle Dinh, M.D.
+  number: 21STCV37567
+  date: February 15, 2024
+
+  parties:
+    - name: Pericles Chamis (Plaintiff)
+    - name: Michelle Dinh, M.D. (Defendant)
+
+  motions:
+    - name: Motion for Summary Judgment or Adjudication
+      filed_by: Defendant Michelle Dinh, M.D.
+
+  issues:
+    - name: Professional Negligence
+      details: Did Defendant Dinh breach the standard of care in her treatment and care of Plaintiff?
+    - name: Breach of Fiduciary Duty
+      details: Did Defendant Dinh owe a fiduciary duty to warn Plaintiff about the potential risks of ceasing the Xarelto medication prior to undergoing anesthesia?
+
+  evidence:
+    - name: Declaration of Hendrikus J.M. Lemmens, M.D., Ph.D.
+      details: Expert testimony that Defendant Dinh acted at all times within the standard of care of anesthesiologists in the Southern California community.
+    - name: Declaration of Philip Bickler, M.D.
+      details: Expert testimony that Defendant Dinh breached the standard of care and that her breach of the standard of care caused or contributed to Plaintiff's claimed injuries.
+
+  legal_standards:
+    - name: Professional Negligence
+      details: To prevail on a claim for negligence against a medical professional, a plaintiff must demonstrate that: (1) the medical professional had a duty to use the skill, prudence, and diligence that members of the profession commonly possess and exercise; (2) breach of that duty; (3) an injury that resulted from the breach of that duty; and (4) actual loss or damage resulting from the breach of that duty.
+    - name: Breach of Fiduciary Duty
+      details: To prevail on a claim of breach of fiduciary duty, a plaintiff must prove (1) the existence of a fiduciary duty; (2) breach of the fiduciary duty; and (3) damage proximately caused by the breach.
+
+  citations:
+    - name: Aguilar v. Atlantic Richfield Co. (2001) 25 Cal.4th 826, 850
+    - name: Binder v. Aetna Life Ins. Co. (1999) 75 Cal.App.4th 832, 839
+    - name: Cal. Rules of Court, rule 3.1300(d)
+    - name: Civ. Code, § 1710
+    - name: Civ. Code, § 1714, subdivision (a)
+    - name: Code Civ. Proc., § 437c, subdivision (b)(2)
+    - name: Code Civ. Proc., § 437c, subdivision (n)
+    - name: Code Civ. Proc., § 437c, subdivision (o)(2)
+    - name: Fernandez v. Alexander (2019) 31 Cal.App.5th 

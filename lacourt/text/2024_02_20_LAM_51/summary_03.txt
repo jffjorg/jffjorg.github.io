@@ -1,0 +1,87 @@
+Here is the summary in YAML format:
+
+```
+case_number: 23STCV23723
+plaintiff_name: Kevin Hickey
+defendant_name: Transform Sears Home Services, LLC
+people_names:
+  - Kevin Hickey
+  - Sandra Quinn
+company_names:
+  - Transform Sears Home Services, LLC
+places:
+  - California
+dates:
+  - September 29, 2023
+  - November 17, 2023
+  - January 23, 2024
+  - February 5, 2024
+  - February 9, 2024
+  - February 20, 2024
+events:
+  - Filing of complaint
+  - Filing of answer
+  - Filing of motion to compel arbitration
+  - Filing of opposition
+  - Filing of reply
+money: None
+intentions:
+  - To compel arbitration
+  - To stay proceedings
+facts:
+  - Kevin Hickey filed a complaint against Transform Sears Home Services, LLC
+  - The complaint alleges discrimination, failure to accommodate, and retaliation
+  - The defendant filed an answer and a motion to compel arbitration
+  - The plaintiff opposed the motion
+  - The defendant replied to the opposition
+disputes:
+  - Whether the arbitration agreement is valid
+  - Whether the agreement covers the dispute at issue
+  - Whether the agreement is procedurally and substantively unconscionable
+acts:
+  - The filing of the complaint and answer
+  - The filing of the motion to compel arbitration and opposition
+  - The filing of the reply
+agreements:
+  - Mutual Arbitration Agreement (MAA)
+  - California Uniform Electronic Transactions Act (UETA)
+laws:
+  - California Code of Civil Procedure (CCP) §1281.2
+  - California Evidence Code (Evid. Code) §452(d), (h)
+  - California Civil Code (Civ. Code) §1637
+  - California Labor Code (Lab. Code) §1102.5
+cases_citations:
+  - Omar v. Ralphs Grocery Co.
+  - Giuliano v. Inland Empire Personnel, Inc.
+  - Weeks v. Crow
+  - Titolo v. Cano
+  - California Correctional Peace Officers' Ass'n v. State
+  - Iyere v. Wise Auto Group
+  - Espejo v. Southern California Permanente Medical Group
+  - Gamboa v. Northeast Community Clinic
+  - Armendariz v. Foundation Health Psychcare Service, Inc.
+  - Carmona v. Lincoln Millennium Car Wash, Inc.
+  - OTO, L.L.C. v. Kho
+  - Fitz v. NCR Corp.
+  - Baxter v. Genworth North America Corp.
+roles:
+  - Judge: Upinder S. Kalra
+  - Plaintiff: Kevin Hickey
+  - Defendant: Transform Sears Home Services, LLC
+  - Arbitrator: (implied)
+significant_statements:
+  - The court grants Defendant's request for judicial notice as to Exhibits 1 through 3.
+  - The court finds that the Moving Defendant has met its burden by a preponderance of the evidence establishing the existence of a valid agreement between the parties.
+  - The court finds that the MAA is substantively unconscionable because of the unreasonable limitations on discovery.
+  - The court denies the motion to compel arbitration.
+```
+
+And here is a summary in English text:
+
+The court has issued a tentative ruling on a motion to compel arbitration and stay proceedings. The motion was filed by the defendant, Transform Sears Home Services, LLC, in response to a complaint filed by the plaintiff, Kevin Hickey. The complaint alleges discrimination, failure to accommodate, and retaliation.
+
+The court found that the defendant has met its burden of proving the existence of a valid arbitration agreement between the parties. However, the court also found that the agreement is substantively unconscionable because of its unreasonable limitations on discovery.
+
+As a result, the court denied the motion to compel arbitration. The court found that the agreement is so unconscionable that it is unenforceable, and therefore, the defendant's attempt to compel arbitration is unsuccessful.
+
+The court also noted that the defendant's attempt to modify the rules of discovery to its advantage is similar to the situation in Fitz v. NCR Corp., where the court found that the arbitration agreement was substantively unconscionable because of its limitations on discovery.

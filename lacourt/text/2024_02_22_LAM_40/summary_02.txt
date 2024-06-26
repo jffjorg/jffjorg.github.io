@@ -1,0 +1,57 @@
+Here is a summary of the tentative ruling in YAML format:
+
+```
+Case Number: 23STCV12977
+Hearing Date: 2024-02-22
+Department: 40
+County: Los Angeles
+Judge: [Judge's Name]
+
+People-Names:
+  - Jasmin Hernandez
+  - Julia Pearlman
+  - Michael Pearlman
+  - Igor Dekhterman
+
+Company-Names:
+  - SRC Holdings, LLC
+  - SAP Solutions, Inc.
+  - Kanaplya, LLC
+  - Pearl Management Group, Inc.
+  - Pearl Pharma, Inc.
+  - Magic Appliance, Inc.
+  - Crystal Air, Inc.
+  - Covello Investments, LLC
+  - Chase Medical Assisting and Supplies, Inc.
+  - Care Evolution, Inc.
+  - Bluebell Farms, Inc.
+
+Places:
+  - Los Angeles
+  - Santa Rosa
+
+Dates:
+  - June 7, 2023
+  - December 21, 2023
+  - February 8, 2024
+  - February 14, 2024
+
+Events:
+  - Filing of complaint
+  - Filing of motion for sanctions
+  - Opposition to motion for sanctions
+  - Reply to opposition
+
+Money:
+  - $100,000
+  - $36,000
+  - $5,000
+
+Intentions:
+  - To determine whether the complaint is frivolous or brought for an improper purpose
+  - To award monetary sanctions
+
+Facts:
+  - Plaintiff worked for Defendants as a controller
+  - Plaintiff was paid $100,000 per year
+  - Plaintiff was required to travel for work and utilize personal phone and internet

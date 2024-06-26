@@ -1,0 +1,86 @@
+Here is a summary of the Judge's tentative ruling in YAML format:
+
+```
+case_number: 23CHCV00418
+hearing_date: February 22, 2024
+dept: F51
+
+people_names:
+  - Emmanuel Gutierrez-Munoz
+  - Kevin Zaguilan
+  - Reyna Espino
+  - Hannah M. Biemann
+  - Zachary Powell
+
+company_names:
+  - Ford Motor Company
+
+places:
+  - Los Angeles
+
+dates:
+  - July 14, 2019
+  - February 15, 2023
+  - August 10, 2023
+  - May 3, 2023
+  - June 6, 2023
+  - September 29, 2023
+  - October 3, 2023
+  - January 24, 2024
+  - January 30, 2024
+  - February 7, 2024
+  - February 14, 2024
+  - February 21, 2024
+
+events:
+  - Motion for Protective Order
+  - Motion to Compel Further Discovery Responses
+
+money:
+  - $2,865.00 (sanctions requested by Plaintiffs)
+  - $500.00 (sanctions imposed by the Court)
+
+intentions:
+  - Defendant seeks to protect its confidential, proprietary, and trade secret information
+  - Plaintiffs seek to compel Defendant to produce responsive documents
+
+facts:
+  - Plaintiffs brought an action under the Song-Beverly Consumer Warranty Act
+  - Defendant issued an express warranty for a vehicle purchased by Plaintiffs
+  - Plaintiffs allege that defects and nonconformities to the warranty manifested themselves during the applicable express warranty period
+
+disputes:
+  - Defendant's objections to the requests for production of documents
+  - Plaintiffs' claims that Defendant failed to comply with the requests
+
+acts:
+  - Defendant's failure to produce responsive documents
+  - Plaintiffs' motion to compel further discovery responses
+
+agreements:
+  - None mentioned
+
+laws:
+  - California Code of Civil Procedure
+  - California Civil Code
+
+case_citations:
+  - Code Civ. Proc. § 2031.060
+  - Code Civ. Proc. § 2030.090
+  - Code Civ. Proc. § 2031.310
+  - Code Civ. Proc. § 2017.010
+  - Civ. Code § 1794, subd. (c)
+  - Civ. Code § 1790 et seq.
+
+roles:
+  - Judge
+  - Plaintiffs' Counsel
+  - Defendant's Counsel
+
+significant_statements:
+  - The Court grants the motion to compel further discovery responses.
+  - The Court imposes sanctions against Defendant in the amount of $500.00.
+  - The Court finds that Defendant's objections to the requests for production of documents are without merit.
+```
+
+Note that some information may not be included in the YAML format, such as the specific documents and exhibits referenced in the Judge's ruling.

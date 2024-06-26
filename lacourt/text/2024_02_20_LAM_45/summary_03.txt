@@ -1,0 +1,70 @@
+Here is the summary in YAML format:
+
+```yaml
+case_number: "22STCV27993"
+plaintiff_names:
+  - Suzanne M. Emerson
+  - Austin J. Cook
+defendant_name: Jeffrey L. Martin
+people_names:
+  - Patricia Martin
+  - Howard Brief
+company_names:
+  - Select Portfolio Servicing, Inc.
+places:
+  - Los Angeles
+  - Long Beach
+  - California
+dates:
+  - August 29, 2022
+  - December 4, 2023
+  - January 16, 2020
+  - April 2, 2020
+  - April 15, 2021
+  - February 10, 2023
+  - May 13, 2023
+  - July 13, 2023
+  - January 17, 2024
+  - February 20, 2024
+  - March 11, 2024
+events:
+  - Partition
+  - Breach of Contract
+  - Fraud
+  - Conversion
+  - Theft
+money:
+  - $526.65
+intentions:
+  - Compel responses to Form Interrogatories (Set One)
+  - Compel inspection of real property
+  - Seek monetary sanctions
+facts:
+  - Decedent executed a Transfer of Deed on January 16, 2020
+  - Decedent died on April 2, 2020
+  - Defendant petitioned for determination of property to pass to surviving spouse without administration
+  - Defendant ceased all communications with Plaintiffs
+laws:
+  - CCP § 872.230
+  - CCP § 2030.290(b)-(c)
+  - CCP § 2031.300(b)-(c)
+  - Evid. Code § 641
+case_citations:
+  - Sinaiko Healthcare Consulting, Inc. v. Pacific Healthcare Consultants (2007) 148 Cal.App.4th 390, 404
+  - Leach v. Superior Court (1980) 111 Cal.App.3d 902, 905-906
+roles:
+  - Judge: Rolf M. Treu
+  - Plaintiff: Suzanne Emerson and Austin J. Cook
+  - Defendant: Jeffrey L. Martin
+  - Counsel: Howard Brief
+significant_statements:
+  - The court GRANTS Plaintiffs' motion to compel responses to Form Interrogatories (Set One)
+  - The court orders defendant Jeffrey L. Martin to serve responses, without objections, to Form Interrogatories (Set One), within 30 days of the date of this ruling
+  - The court CONTINUES the hearing for Plaintiffs' motion to compel inspection of real property to March 11, 2024
+  - The court orders Plaintiffs to file a proper proof of service at least seven days before the continued hearing date
+  - The court GRANTS Plaintiffs' request for monetary sanctions against Defendant and his counsel of record in the reduced amount of $526.65 in attorney's fees and costs
+```
+
+Summary:
+
+The Tentative Ruling is in favor of the Plaintiffs, Suzanne Emerson and Austin J. Cook, in their lawsuit against Defendant Jeffrey L. Martin. The court grants the Plaintiffs' motion to compel responses to Form Interrogatories (Set One) and orders the Defendant to serve responses, without objections, within 30 days. The court also grants the Plaintiffs' request for monetary sanctions against the Defendant and his counsel of record in the reduced amount of $526.65 in attorney's fees and costs. The court continues the hearing for the Plaintiffs' motion to compel inspection of real property to March 11, 2024, and orders the Plaintiffs to file a proper proof of service at least seven days before the continued hearing date.

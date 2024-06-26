@@ -1,0 +1,58 @@
+Here is the summary in YAML format:
+
+```
+case_number: 23NWCV00382
+plaintiff_name: ROBERT MENDOZA
+defendant_name: VIELE
+people_names:
+  - ROBERT MENDOZA
+  - VIELE
+company_names: []
+places: []
+dates:
+  - May 26, 2023
+  - August 31, 2023
+  - February 13, 2024
+  - February 15, 2024
+events:
+  - Motion to Compel
+  - Request for Production of Documents
+  - Form Interrogatories
+  - Special Interrogatories
+money:
+  - $1,230.00
+intentions:
+  - To compel plaintiff's responses
+  - To impose sanctions
+facts:
+  - Plaintiff failed to respond to discovery requests
+  - Defendant properly served discovery requests on May 26, 2023
+  - Deadlines to respond have expired
+  - No responses or objections have been filed as of February 13, 2024
+disputes:
+  - Plaintiff's failure to respond to discovery requests
+acts:
+  - Plaintiff's failure to respond to discovery requests
+  - Defendant's motion to compel
+  - Judge's grant of motion to compel
+agreements:
+  - None mentioned
+laws:
+  - CCP §§ 2030.290, 2031.300
+  - Sinaiko Healthcare Consulting, Inc. v. Pac. Healthcare Consultants (2007) 148 Cal.App.4th 390, 404
+statutes:
+  - CCP
+roles:
+  - Judge
+  - Plaintiff
+  - Defendant
+  - Counsel of Record
+significant_statements:
+  - "If a party to whom interrogatories and document demands are directed fails to respond at all, the propounding party's remedy is to seek a court order compelling answers thereto."
+  - "The moving party is not required to show a reasonable and good faith attempt to resolve the matter informally before filing this motion."
+  - "The failure to timely respond also waives all objections."
+```
+
+And here is a summary of the judge's tentative ruling in English text:
+
+The judge has granted the defendant's unopposed motions to compel the plaintiff's responses to request for production of documents, form interrogatories, and special interrogatories. The plaintiff failed to respond to the discovery requests, which were properly served on May 26, 2023, and the deadlines to respond have expired. The judge has ordered the plaintiff to provide verified responses and documents without objection by a certain date. Additionally, the judge has granted reasonable sanctions in the amount of $1,230.00 to be paid by the plaintiff to the defendant and their counsel of record.

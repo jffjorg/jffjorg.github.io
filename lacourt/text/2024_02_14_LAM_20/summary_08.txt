@@ -1,0 +1,71 @@
+Here is the summary in YAML format:
+
+```
+case_number: EWB-2023-001
+plaintiff_name: East West Bank (EWB)
+defendant_names:
+  - Gerry Hong
+  - DB Shipping (USA) Inc.
+  - Ren Chang Wang
+people_names:
+  - Gerry Hong
+  - Ren Chang Wang
+company_names:
+  - East West Bank (EWB)
+  - DB Shipping (USA) Inc.
+places:
+  - California
+dates:
+  - January 9, 2023
+events:
+  - Interpleader action filed
+  - Funds deposited with the Court
+  - Motion to discharge liability and award attorneys' fees and costs
+money:
+  - $569,433.81
+  - $47,032.00
+  - $1,484.03
+  - $10,000
+intentions:
+  - EWB seeks to be discharged of liability
+  - EWB requests attorneys' fees and costs
+  - Defendents oppose award of attorneys' fees and costs
+facts:
+  - EWB held disputed funds
+  - Defendents made conflicting claims to the funds
+  - EWB deposited the funds with the Court
+disputes:
+  - Defendents' conflicting claims to the funds
+  - EWB's request for attorneys' fees and costs
+acts:
+  - EWB filed an interpleader action
+  - EWB deposited the funds with the Court
+  - Defendents opposed award of attorneys' fees and costs
+agreements:
+  - Code Civ. Proc. § 386
+  - Code Civ. Proc. § 386.6
+laws:
+  - California Code of Civil Procedure
+  - City of Morgan Hill v. Brown (1999)
+  - Cantu v. Resolution Trust Corp. (1992)
+  - Pacific Loan Management Corp. v. Superior Court (1987)
+case_citations:
+  - City of Morgan Hill v. Brown (1999) 71 Cal.App.4th 1114
+  - Cantu v. Resolution Trust Corp. (1992) 4 Cal.App.4th 857
+  - Pacific Loan Management Corp. v. Superior Court (1987) 196 Cal.App.3d 1485
+statutes:
+  - California Code of Civil Procedure § 386
+  - California Code of Civil Procedure § 386.6
+roles:
+  - Judge
+  - Plaintiff (EWB)
+  - Defendant (Gerry Hong, DB Shipping (USA) Inc., Ren Chang Wang)
+significant_statements:
+  - The Court finds that EWB properly initiated the interpleader action
+  - The Court awards a total of $10,000 in fees and costs only
+  - The Motion is granted in part as set forth herein
+```
+
+And here is a summary of the Judge's tentative ruling in English text:
+
+The Judge is considering a tentative ruling on a motion filed by East West Bank (EWB) to be discharged of liability with respect to $569,433.81 in disputed funds. The funds were held by EWB and the defendants, Gerry Hong, DB Shipping (USA) Inc., and Ren Chang Wang, have made conflicting claims to the funds. The Court finds that EWB properly initiated the interpleader action and deposited the funds with the Court, avoiding the risk of inconsistent results in the event each claimant were to initiate a separate legal action. The Court will discharge EWB of liability and determine the claimants' respective rights to the funds. The Court also awards a total of $10,000 in fees and costs to EWB, finding that the hours expended for the interpleader action are excessive. The motion is granted in part as set forth herein.

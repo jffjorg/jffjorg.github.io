@@ -1,0 +1,74 @@
+Here is the summary in YAML format:
+
+```
+case_number: 23STCV15836
+plaintiff_name: Jill Belasco
+defendant_name: Fountain of Wellbeing, Inc, et al
+people_names:
+  - Jill Belasco
+  - Romie Chaudhari
+  - Unite4, LLC
+  - David Belasco
+company_names:
+  - Fountain of Wellbeing, Inc
+  - Unite4, LLC
+places:
+  - California
+  - Los Angeles
+dates:
+  - 7/6/2023
+  - 11/7/2023
+  - February 21, 2024
+events:
+  - Business dispute
+  - Failure to pay wages
+  - Waiting time penalties
+  - Failure to reimburse business expenses
+  - Violation of Business and Professions Code section 17200
+  - Deposition subpoena
+  - Motion to quash
+money:
+  - Wages
+  - Waiting time penalties
+  - Business expenses
+intentions:
+  - Plaintiff seeks to quash deposition subpoena
+  - Defendant seeks to obtain business records
+facts:
+  - David Belasco is an inactive member of the California Bar
+  - Plaintiff has not shown that she reasonably believed her brother was eligible to practice law
+  - Plaintiff has not shown that she was speaking with her brother in a professional capacity
+  - Plaintiff fails to support claims of work-product privilege
+disputes:
+  - Privilege protection for communications with David Belasco
+  - Reasonable belief that David Belasco was eligible to practice law
+acts:
+  - Plaintiff filed suit against defendants
+  - Plaintiff moved to quash deposition subpoena
+  - Defendant issued deposition subpoena for production of business records
+agreements:
+  - Business and Professions Code section 17200
+laws:
+  - California Evidentiary Code section 950
+  - California Evidentiary Code section 951
+  - Rules of the State Bar of California, Title 2, Rights and Responsibilities of Members, Rule 2.30(B)
+  - Cal. Bus. & Prof. Code, § 6126
+case_citations:
+  - (See Rules of the State Bar of California, Title 2, Rights and Responsibilities of Members, Rule 2.30(B) & Cal. Bus. & Prof. Code, § 6126)
+  - (See Cal. Evid. Code § 950.)
+  - (See Cal. Evid. Code § 951.)
+roles:
+  - Judge: Hon. Jon R. Takasugi
+  - Plaintiff: Jill Belasco
+  - Defendant: Fountain of Wellbeing, Inc, et al
+  - Brother: David Belasco
+  - Attorney: David Belasco
+significant_statements:
+  - Plaintiff's motion to quash is denied
+  - Communications with David Belasco are not entitled to privilege protection
+  - Plaintiff has not shown that she was speaking with her brother in a professional capacity
+```
+
+And here is a summary of the judge's tentative ruling in English text:
+
+The judge has denied the plaintiff's motion to quash a deposition subpoena issued by the defendant. The plaintiff argued that the subpoena must be quashed because the majority of the documents sought from her brother, David Belasco, are protected by attorney-client privilege. However, the judge found that David Belasco was an inactive member of the California Bar during the relevant time period and therefore was not authorized to practice law. As a result, communications with him are not entitled to privilege protection. The judge also found that the plaintiff failed to show that she was speaking with her brother in a professional capacity as his client and that she had a reasonable belief that her brother was eligible to practice law. Finally, the judge noted that the plaintiff failed to support her claims of work-product privilege and did not produce a privilege log to explain what was being withheld.

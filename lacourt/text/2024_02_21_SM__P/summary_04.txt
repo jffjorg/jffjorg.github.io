@@ -1,0 +1,122 @@
+Here is a summary of the judge's tentative ruling in YAML format:
+
+```
+case_number: 23SMCV02575
+hearing_date: February 21, 2024
+dept: P
+
+parties:
+  plaintiff: HW Singleton
+  defendant: Kids Artistic Sense, Inc.
+
+people:
+  - HW Singleton
+  - Andy Hsieh
+  - Burton Pederson
+  - Jose S.
+  - Caldwell
+
+companies:
+  - HW Singleton
+  - Kids Artistic Sense, Inc.
+
+places:
+  - The property
+
+dates:
+  - June 2022
+  - May 2023
+  - July 2022
+  - January 11, 2023
+
+events:
+  - Service of three-day notice
+  - Payment of rent
+  - Deposition testimony
+
+money:
+  - $88,893
+  - $9,834
+  - $10,129
+  - $15,000
+  - $30,000
+  - $200,000
+
+intentions:
+  - To determine whether the three-day notice is defective
+  - To determine whether the notice accurately reflects the unpaid rent owed by Kids
+
+facts:
+  - The three-day notice states that payment could be made by check delivered to the landlord's agent/president Singleton
+  - Singleton was "unpredictably floating in and out" of the property during the days following service of the notice
+  - Kids argues that the notice is defective because Singleton was not physically present at the address to receive payment
+  - HW argues that the notice is not defective and that Singleton was "available" to receive payment
+
+disputes:
+  - Whether the three-day notice is defective
+  - Whether the notice accurately reflects the unpaid rent owed by Kids
+
+acts:
+  - Service of three-day notice
+  - Payment of rent
+  - Deposition testimony
+
+agreements:
+  - Lease agreement between HW and Kids
+  - Unlawful detainer notice
+
+laws:
+  - Cal. Code of Civ. Proc. §1161
+  - Cal. Code of Civ. Proc. §1161(2)
+  - Cal. Civ. Code §1479
+  - Cal. Civ. Code §1479
+
+case_citations:
+  - Bawa v. Terhune (2019) 33 Cao.App.5th Supp. 1
+  - Andy Hsieh v. Burton Pederson (2018) 23 Cal.App.5th Supp. 1
+  - In re. Jose S. (2017) 2 Cal.App.5th 1107
+  - Wasatch Property Management v. Degrate (2005) 35 Cal.4th 1111
+  - SVAP III Poway Crossings, LLC v. Fitness International, LLC (2023) 87 Cal.App.5th 882
+  - Custom Parking, Inc. v. Superior Court (1982) 138 Cal.App.3d 90
+
+statutes:
+  - Cal. Code of Civ. Proc. §1161
+  - Cal. Code of Civ. Proc. §1161(2)
+  - Cal. Civ. Code §1479
+
+roles:
+  - Judge
+  - Plaintiff (HW Singleton)
+  - Defendant (Kids Artistic Sense, Inc.)
+
+significant_statements:
+  - The court agrees with Kids that if Singleton was "unavailable" to accept rent during the period identified in the notice, the notice is defective.
+  - The court disagrees with Kids that Singleton's deposition statement constitutes an admission of unavailability.
+  - There is no authority that the person must be physically present at all identified times to be "available" to accept payment.
+  - The court finds that the Caldwell declaration creates a triable issue of fact as to whether Kids communicated to HW that the $15,000 check was meant to be applied to ongoing debt, rather than prior debt.
+  - The court grants HW's motion for summary adjudication as to all of Kids' affirmative defenses.
+```
+
+And here is a summary of the judge's tentative ruling in English text:
+
+The court has reviewed the motions for summary judgment/adjudication filed by both parties and has reached the following conclusions.
+
+Regarding the motion by Kids Artistic Sense, Inc. (Kids) for summary judgment on the grounds that the notice to pay rent or quit is defective, the court agrees with Kids that the notice is defective if Singleton was "unavailable" to accept rent during the period identified in the notice. However, the court disagrees with Kids that Singleton's deposition statement constitutes an admission of unavailability. The court finds that the language used in the notice is ambiguous and does not provide sufficient evidence to conclude that Singleton was unavailable.
+
+Regarding the motion by HW Singleton (HW) for summary judgment on the grounds that Kids failed to pay rent due under the lease, the court finds that there is a triable issue of fact as to whether HW failed to include Kids' $15,000 payment in its three-day notice, and whether that failure rendered its estimate of the amount of rent due unreasonable. The court also finds that there is a triable issue of fact as to the affirmative defense of retaliation.
+
+Regarding the affirmative defenses raised by Kids, the court finds that the following defenses fail:
+
+* New Lease: Kids admitted that no new lease was created, so this defense fails.
+* Estoppel: Kids failed to provide evidence that HW promised to maintain the HVAC system, so this defense fails.
+* Force Majeure/Frustration of Purpose: The court finds that the COVID-19 pandemic does not constitute a force majeure event or give rise to a defense of impossibility.
+* Failure to Mitigate: Kids admitted that HW's claims are not barred due to a failure to mitigate, so this defense fails.
+* Waiver: Kids admitted that HW did not waive its right to declare a breach of the lease, so this defense fails.
+* Unjust Enrichment: Kids admitted that the amounts demanded in the complaint would not result in unjust enrichment to HW, so this defense fails.
+* Laches: Kids admitted that the demands contained in the complaint are not barred by the doctrine of laches, so this defense fails.
+* Acquiescence, Ratification, Knowledge: The court finds that Kids failed to provide evidence or argument that HW ratified or acquiesced in Kids' non-payment of rent, so this defense fails.
+* Acts of Third Parties: The court finds that Kids failed to provide evidence of acts of third parties that caused the dispute, so this defense fails.
+* Commercial Reasonableness: The court finds that there is no affirmative defense for "commercial reasonableness" in an unlawful detainer action.
+* Frustration of Purpose and Failure to Take Corrective Action: The court finds that the lease agreement placed responsibility for maintaining the HVAC system on Kids, so this defense fails.
+
+The court GRANTS HW's motion for summary adjudication as to all of Kids' affirmative defenses.

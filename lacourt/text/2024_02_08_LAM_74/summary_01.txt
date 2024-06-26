@@ -1,0 +1,64 @@
+Here is the summary in YAML format:
+```
+case_number: BC700483
+hearing_date: 2024-02-08
+dept: 74
+plaintiff_name: Nasser Sedaghat, et al.
+defendant_name: Tarzana Health and Rehabilitation Center, et al.
+people_names:
+  - Nasser Sedaghat
+  - David Sedaghat
+  - Kamran Kamrava
+company_names:
+  - Tarzana Health and Rehabilitation Center
+  - SAVASeniorCare Administrative Services, LLC
+  - SSC Tarzana Operating Company, LP
+places:
+  - Tarzana
+dates:
+  - 2018-04-02
+  - 2023-09-05
+  - 2023-09-06
+  - 2023-09-10
+  - 2023-10-23
+  - 2023-12-07
+events:
+  - Wrongful death
+  - Filing of complaint
+  - Propounding of discovery requests
+  - Response to discovery
+  - Filing of motion to compel further discovery
+money: None mentioned
+intentions:
+  - To compel further discovery
+  - To seek sanctions
+facts:
+  - Plaintiff propounded discovery requests
+  - Defendants responded to discovery
+  - Plaintiff filed motion to compel further discovery
+disputes:
+  - Plaintiff's motion to compel further discovery
+  - Defendant's response to discovery
+  - Plaintiff's request for sanctions
+acts:
+  - Filing of complaint
+  - Propounding of discovery requests
+  - Response to discovery
+  - Filing of motion to compel further discovery
+agreements: None mentioned
+laws:
+  - California Code of Civil Procedure, § 2016.040
+  - California Rules of Court, rule 3.1345, subdivision (a)
+statutes:
+  - California Code of Civil Procedure, § 2016.040
+  - California Rules of Court, rule 3.1345, subdivision (a)
+roles:
+  - Plaintiff: Nasser Sedaghat, et al.
+  - Defendant: Tarzana Health and Rehabilitation Center, et al.
+significant_statements:
+  - The court denies Plaintiff's motion to compel further discovery due to deficiencies in the motion and a lack of a separate statement.
+  - The court also denies Plaintiff's request for sanctions, as the motion was deficient and Defendants' opposition was substantially justified.
+```
+And here is a summary of the judge's tentative ruling in English text:
+
+The court has considered the motion to compel further discovery filed by Plaintiff Nasser Sedaghat and the responses from the Defendants, Tarzana Health and Rehabilitation Center and Kamran Kamrava. The Plaintiff has propounded multiple sets of discovery requests, including special interrogatories and requests for production of documents, and has filed a motion to compel further discovery. The court has denied the motion due to several reasons, including the fact that the motion includes multiple sets of discovery requests, lacks a separate statement, and does not show a reasonable and good faith attempt at informal resolution. The court has also denied the Plaintiff's request for sanctions, as the motion was deficient and the Defendants' opposition was substantially justified. The court orders that the Defendants shall give notice of the ruling.

@@ -1,0 +1,71 @@
+Here is the YAML format for the summary:
+
+```
+case_number: 21STCV40774
+plaintiff: Walter Andrade
+defendant: Aiden Cole Berlinger and Jason Berlinger
+people:
+  - Walter Andrade
+  - Aiden Cole Berlinger
+  - Jason Berlinger
+  - Dr. Barry Ludwig
+  - David Mendoza
+companies: []
+places:
+  - California
+  - United States
+dates:
+  - November 5, 2021
+  - December 13, 2023
+  - December 15, 2023
+  - January 10, 2024
+  - March 7, 2023
+  - March 22, 2024
+  - February 14, 2024
+  - February 28, 2024
+events:
+  - Motor vehicle accident
+  - Motion to conduct additional medical examination
+  - Discovery
+  - Trial
+money: []
+intentions:
+  - To conduct a mental status examination on the plaintiff
+  - To determine the plaintiff's mental state and capacity
+  - To gather evidence for the trial
+facts:
+  - The plaintiff alleges a traumatic brain injury and other injuries
+  - The plaintiff has already undergone a neurological examination with Dr. Ludwig
+  - The defendants are seeking to conduct a mental status examination to determine the plaintiff's mental state and capacity
+  - The examination will be limited to whatever condition is "in controversy" in the action
+disputes:
+  - The timeliness of the motion
+  - The necessity of the mental status examination
+acts:
+  - The plaintiff filed a complaint against the defendants
+  - The defendants filed a motion to conduct a mental status examination
+  - The defendants' counsel made a good faith attempt to resolve the issue
+  - The Court granted the defendants' motion to continue trial
+agreements:
+  - The parties agreed to the audio recording of the examination
+  - The parties agreed that no raw data will be generated from the tests
+laws:
+  - California Civil Procedure Code § 2032.310
+  - California Civil Procedure Code § 2032.320
+  - California Civil Procedure Code § 2024.020
+statutes:
+  - California Civil Procedure Code
+roles:
+  - Judge
+  - Plaintiff
+  - Defendant
+  - Counsel
+  - Expert witness
+significant statements:
+  - "A party who chooses to allege that he has mental and emotional difficulties can hardly deny his mental state is in controversy."
+  - "The good cause which must be shown should be such that will satisfy an impartial tribunal that the request may be granted without abuse of the inherent rights of the adversary."
+```
+
+And here is the English-text summary of the judge's tentative ruling:
+
+The judge is considering a motion by the defendants, Aiden Cole Berlinger and Jason Berlinger, to conduct a mental status examination on the plaintiff, Walter Andrade, with Dr. Barry Ludwig. The plaintiff opposes the motion, arguing that it is untimely and that the examination is not necessary. The judge finds that the motion is timely and that good cause has been shown to grant the motion. The judge orders that the examination be conducted on February 28, 2024, at 9:00 a.m., and that the plaintiff shall appear for the examination. The judge also orders that the defendants provide notice of the court's order and file a proof of service of such.

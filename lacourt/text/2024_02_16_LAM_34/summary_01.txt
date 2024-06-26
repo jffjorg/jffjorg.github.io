@@ -1,0 +1,100 @@
+Here is the summary in YAML format:
+
+```
+case_number: 21STCV27900
+plaintiff_name: Kamerron Easton
+defendant_name: James P. Ashby, Shellydale Princess Gray, Family Choice Private Duty Agency, Inc. (FCPDA)
+people_names:
+  - Kamerron Easton
+  - James P. Ashby
+  - Shellydale Princess Gray
+  - William F. Clark
+company_names:
+  - Family Choice Private Duty Agency, Inc.
+places:
+  - California
+dates:
+  - July 28, 2021
+  - October 15, 2021
+  - October 22, 2021
+  - February 8, 2022
+  - March 10, 2022
+  - May 6, 2022
+  - October 7, 2022
+  - March 14, 2023
+  - March 16, 2023
+  - March 21, 2023
+  - March 28, 2023
+  - May 9, 2023
+  - June 30, 2023
+  - December 21, 2023
+  - January 2, 2024
+  - January 30, 2024
+  - February 6, 2024
+  - February 13, 2024
+  - February 16, 2024
+events:
+  - Filing of complaint
+  - Filing of cross-complaint
+  - Filing of motions to compel further responses
+  - Filing of requests for admission
+  - Filing of motions for monetary sanctions
+  - Filing of motions for terminating sanctions
+  - Dismissal of party
+money:
+  - $573.85
+  - $114.77
+  - $61.65
+  - $13.12
+  - $40.00
+  - $1,500.00
+intentions:
+  - To compel further responses to discovery requests
+  - To deem admitted requests for admission
+  - To award monetary sanctions
+facts:
+  - Parties have failed to serve timely responses to discovery requests
+  - Parties have failed to serve initial responses to requests for admission
+  - Parties have failed to comply with court orders
+disputes:
+  - Failure to serve timely responses to discovery requests
+  - Failure to serve initial responses to requests for admission
+  - Failure to comply with court orders
+acts:
+  - Filing of motions to compel further responses
+  - Filing of requests for admission
+  - Filing of motions for monetary sanctions
+  - Filing of motions for terminating sanctions
+agreements:
+  - Court orders
+laws:
+  - California Code of Civil Procedure
+  - Code of Civil Procedure section 177.5
+  - Code of Civil Procedure section 2030.300
+  - Code of Civil Procedure section 2031.310
+  - Code of Civil Procedure section 2033.250
+  - Code of Civil Procedure section 2033.280
+citations:
+  - Code Civ. Proc. § 177.5
+  - Code Civ. Proc. § 2030.300
+  - Code Civ. Proc. § 2031.310
+  - Code Civ. Proc. § 2033.250
+  - Code Civ. Proc. § 2033.280
+roles:
+  - Judge
+  - Plaintiff (Kamerron Easton)
+  - Defendant (James P. Ashby, Shellydale Princess Gray, Family Choice Private Duty Agency, Inc.)
+  - Counsel
+significant_statements:
+  - The Court GRANTS Easton's Further FROGs Motion Against Gray.
+  - The Court GRANTS Easton's Further SROGs Motion Against Gray.
+  - The Court GRANTS Easton's Further SROGs Motion Against FCPDA.
+  - The Court GRANTS Easton's Further RPDs Motion Against Gray.
+  - The Court GRANTS Easton's Motion to Deem Admitted RFAs Against Gray.
+  - The RFAs served on Gray on March 30, 2023 are DEEMED ADMITTED.
+  - The Court awards in favor of Easton and against Gray and FCPDA the costs associated with filing each of these six motions.
+```
+
+And here is a summary of the judge's tentative ruling in English text:
+
+The court grants Easton's motions to compel further responses to discovery requests, deem admitted requests for admission, and award monetary sanctions against Gray and FCPDA. The court finds that Gray and FCPDA have failed to serve timely responses to discovery requests and failed to serve initial responses to requests for admission. The court awards Easton costs of $573.85 against Gray and $114.77 against FCPDA. The court also awards Easton attorney's fees for his self-representation. The court declines to award issue sanctions, evidentiary sanctions, terminating sanctions, or monetary sanctions pursuant to Code of Civil Procedure section 177.5.

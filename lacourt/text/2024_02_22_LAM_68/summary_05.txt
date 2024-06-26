@@ -1,0 +1,93 @@
+Here is a summary of the tentative ruling in YAML format:
+
+```
+case_number: 23STCV14354
+hearing_date: February 22, 2024
+dept: 68 Dept.
+
+people_names:
+  - D.M. (plaintiff)
+  - Los Angeles Unified School District (defendant)
+
+company_names:
+  - Los Angeles Unified School District
+
+places:
+  - Los Angeles
+
+dates:
+  - June 20, 2023
+  - August 24, 2023
+  - January 1, 2020
+  - January 1, 2023
+  - January 27, 2023
+  - February 22, 2024
+  - April 4, 2024
+
+events:
+  - Demurrer
+  - Motion to Strike
+  - Claim filing
+  - Statute of limitations
+  - Revival of lapsed claims
+  - Government claim presentation requirement
+
+money:
+  - None
+
+intentions:
+  - Plaintiff seeks damages for childhood sexual assault
+  - Defendant seeks to bar claims based on statute of limitations and lack of government claim
+
+facts:
+  - Plaintiff was sexually assaulted by a school custodian in 1971
+  - Plaintiff reported the assault to the Vice Principal, but no further action was taken
+  - Plaintiff filed a complaint and first amended complaint in 2023
+
+disputes:
+  - Statute of limitations
+  - Government claim presentation requirement
+  - Mandatory duty
+
+acts:
+  - Negligent hiring and/or retention
+  - Negligent supervision
+  - Negligent failure to warn, train, or educate
+  - Breach of mandatory duty
+
+agreements:
+  - Education Code Section 44807
+  - Education Code Section 212.5
+  - Civil Code Section 51.9
+  - Penal Code Section 11166
+  - Government Code Section 815.2
+  - Government Code Section 815.6
+
+laws:
+  - Code of Civil Procedure section 340.1
+  - Government Code section 905
+  - Government Code section 815
+  - Government Code section 815.2
+  - Government Code section 815.6
+
+case_citations:
+  - Quarry v. Doe I (2012) 53 Cal.4th 945
+  - J.P. v. Carlsbad Unified School Dist. (2014) 232 Cal.App.4th 323
+  - S.M. v. Los Angeles Unified School Dist. (2010) 184 Cal.App.4th 712
+  - C.A. v. William S. Hart Union High School Dist. (2012) 53 Cal.4th 861
+  - Doe v. Lawndale Elementary School Dist. (2021) 72 Cal.App.5th 113
+  - Delfino v. Agilent Technologies, Inc. (2006) 38 Cal.4th 614
+  - John R. v. Oakland Unified School Dist. (2001) 26 Cal.4th 1
+
+roles:
+  - Judge: [Name]
+  - Plaintiff: D.M.
+  - Defendant: Los Angeles Unified School District
+
+significant_statements:
+  - The court finds the subject claims are properly pled under a vicarious liability standard, as opposed to a direct theory without any actually incorporated statutory or regulatory authority.
+  - The court grants the unopposed motion to strike with prejudice.
+  - The demurrer is overruled and the motion to strike granted without prejudice/without leave to amend.
+```
+
+Note: This summary is based on the provided text and may not be a comprehensive or accurate summary of the entire case.

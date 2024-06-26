@@ -1,0 +1,89 @@
+Here is the summary in YAML format:
+
+```
+case_number: 21STCV47554
+plaintiff: Wave Investment, LLC
+defendant: SecurCapital Corp.
+people_names:
+  - Stephen J. Russell
+  - Stacy Y. North
+  - Mark Boyce
+  - Carl Fairbank
+company_names:
+  - Wave Investment, LLC
+  - SecurCapital Corp.
+  - Breakout Capital
+places:
+  - Los Angeles
+  - California
+  - South Carolina
+dates:
+  - December 30, 2021
+  - November 15, 2023
+  - February 20, 2024
+  - September 29, 2023
+  - November 8, 2023
+  - December 11, 2024
+events:
+  - Breach of contract
+  - Declaratory relief
+  - Breach of partnership or joint venture agreement
+  - Breach of fiduciary duty
+  - Conversion
+  - Fraudulent concealment
+  - Fraudulent misrepresentation
+  - Negligent misrepresentation
+  - Unjust enrichment
+  - Accounting
+  - Constructive trust
+money:
+  - $1.2 million
+  - $400,000
+  - $2 million
+intentions:
+  - To recover lost profits and other economic injury
+  - To seek compensation for substantial work
+  - To obtain disgorgement of benefits
+  - To assert causes of action against cross-defendants
+facts:
+  - SecurCapital acquired assets of Breakout without notice or approval from Wave Investment
+  - Wave Investment alleges breach of contract and other causes of action
+  - SecurCapital alleges fraudulent concealment, misrepresentation, and other causes of action
+disputes:
+  - Breach of contract
+  - Breach of partnership or joint venture agreement
+  - Breach of fiduciary duty
+  - Conversion
+  - Fraudulent concealment
+  - Fraudulent misrepresentation
+  - Negligent misrepresentation
+  - Unjust enrichment
+  - Accounting
+  - Constructive trust
+acts:
+  - SecurCapital acquired assets of Breakout without notice or approval from Wave Investment
+  - Wave Investment produced documents in litigation
+  - Breakout's founder produced text messages between Boyce and Fairbank
+agreements:
+  - Non-Circumvention Agreement
+  - Partnership or joint venture agreement
+  - Fiduciary duty agreement
+laws:
+  - Code of Civil Procedure section 428.50
+  - Code of Civil Procedure section 426.50
+  - Code of Civil Procedure section 426.30
+citations:
+  - Silver Orgs. v. Frank (1990) 217 Cal.App.3d 94
+  - Foot’s Transfer & Storage Co. v. Superior Court (1980) 114 Cal.App.3d 897
+  - Crocker Nat. Bank v. Emerald (1990) 221 Cal.App.3d 852
+stats:
+  - "related cause of action" means "a cause of action which arises out of the same transaction, occurrence, or series of transactions or occurrences as the cause of action which the plaintiff alleges in his complaint"
+roles:
+  - Judge: Teresa A. Beaudet
+  - Plaintiff: Wave Investment, LLC
+  - Defendant: SecurCapital Corp.
+  - Cross-Defendants: Wave Investment, LLC (South Carolina limited liability company) and Mark Boyce
+significant_statements:
+  - The Court grants SecurCapital's motion for leave to file a cross-complaint.
+  - The Court orders SecurCapital to file and serve the proposed Cross-Complaint within 3 days of the date of this Order.
+  - The Court finds that SecurCapital has demonstrated that it is "in the interest of justice" for the Court to grant SecurCapital leave to file the proposed Cross-Complaint.

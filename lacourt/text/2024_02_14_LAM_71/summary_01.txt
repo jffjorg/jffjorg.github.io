@@ -1,0 +1,79 @@
+Here is a summary of the tentative ruling in YAML format:
+
+```
+case_number: 20STCV20443
+hearing_date: 2024-02-14
+dept: 71
+judge: [Judge's Name]
+
+people_names:
+  - Craig Steven Roberts
+  - Carla Roxanna Roberts
+  - Judge's Name
+  - Roberts
+  - Metzger
+  - Cho
+
+company_names:
+  - Dyno Nobel, Inc.
+  - Alpha Dyno Nobel
+  - International Fireworks Manufacturing Co.
+  - Southwest Drilling, Inc.
+  - Austin Powder Company
+  - Cannon Fuse, Inc.
+  - Donovan Commercial Industries, Inc.
+  - E.B. Stone & Son, Inc.
+  - Goex Powder, Inc.
+  - Hodgdon Powder Company, Inc.
+  - New River Energetics, Inc.
+  - Orica USA
+  - Slurry Explosive Corporation
+  - W.A. Murphy California Drilling & Blasting Co., Inc.
+  - Walter Andersen Enterprises
+  - Aldon Corporation
+  - The Company Corporation, Registered Agent
+
+places:
+  - Los Angeles County, California
+  - Pennsylvania
+
+dates:
+  - 2020-05-28
+  - 2023-08-30
+  - 2023-09-01
+  - 2023-09-07
+  - 2023-09-20
+  - 2023-11-03
+  - 2024-01-31
+  - 2024-02-14
+
+events:
+  - Motion for Protective Order
+  - Demurrer
+  - Motion to Quash Service of Summons
+
+money:
+  - None
+
+intentions:
+  - To protect Craig Steven Roberts from the undue burden and expense of responding to defendants' discovery
+  - To challenge the jurisdiction of the court over IFMC
+  - To quash service of summons on IFMC
+
+facts:
+  - Craig Steven Roberts was exposed to toxic chemicals in the course of his employment
+  - The toxic chemicals caused him to develop Multiple Sclerosis and other related medical conditions
+  - The defendants are corporations that manufactured and supplied the toxic chemicals
+  - The defendants failed to provide adequate warnings and instructions to Craig Steven Roberts and his employers about the hazards of the toxic chemicals
+  - The defendants' products were manufactured and supplied in California and were used in California
+
+disputes:
+  - Whether the court has jurisdiction over IFMC
+  - Whether the defendants' products caused Craig Steven Roberts' injuries
+  - Whether the defendants are liable for Craig Steven Roberts' injuries
+
+acts:
+  - Service of summons on IFMC
+  - Failure to provide adequate warnings and instructions by the defendants
+  - Exposure to toxic chemicals by Craig Steven Roberts
+  -

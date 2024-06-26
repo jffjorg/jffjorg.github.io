@@ -1,0 +1,70 @@
+Here is the summary in YAML format:
+
+```
+caseNumber: 18STCL13165
+hearingDate: February 9, 2024
+dept: 74 Melynda
+plaintiffs:
+  - Melynda Bryan
+  - Errick Bryan
+defendants:
+  - Chad Jeremy Cassady
+  - Tiffanie Cassady
+peopleNames: Melynda Bryan, Errick Bryan, Chad Jeremy Cassady, Tiffanie Cassady
+companyNames: []
+places: []
+dates:
+  - October 22, 2018
+  - June 4, 2021
+  - November 1, 2022
+  - September 18, 2023
+  - October 2, 2023
+  - October 13, 2023
+events:
+  - Dispute over a used motorhome
+  - Complaint filed by Plaintiffs
+  - Amended complaint filed by Plaintiffs
+  - Motion to quash service of summons filed by Co-Defendant
+  - Judgment entered in favor of Defendant
+  - Memorandum of costs filed by Defendant
+  - Motion to tax costs filed by Plaintiffs
+money:
+  - $446.96
+  - $14.52
+  - $461.48
+intention: To tax Defendant's costs
+facts:
+  - Defendant seeks to recover costs incurred by Co-Defendant
+  - Co-Defendant's motion to quash service of summons was successful
+  - Defendant does not oppose Plaintiffs' motion
+disputes:
+  - Whether Defendant can recover costs incurred by Co-Defendant
+acts:
+  - Plaintiffs filed a complaint
+  - Co-Defendant filed a motion to quash service of summons
+  - Defendant filed a memorandum of costs
+  - Plaintiffs filed a motion to tax costs
+agreements:
+  - None mentioned
+laws:
+  - California Code of Civil Procedure sections 1032, 1032(b), 1033.5
+  - Adams v. Ford Motor Co. (2011)
+  - Perko's Enterprises, Inc. v. RRNS Enterprises (1992)
+caseCitations:
+  - Code Civ. Proc., sections 1032, 1032(b), 1033.5
+  - Adams v. Ford Motor Co. (2011)
+  - Perko's Enterprises, Inc. v. RRNS Enterprises (1992)
+statutes:
+  - California Code of Civil Procedure sections 1032, 1032(b), 1033.5
+roles:
+  - Judge
+  - Plaintiff
+  - Defendant
+  - Co-Defendant
+significantStatements:
+  - "A 'verified memorandum of costs is prima facie evidence of [the] propriety' of the items listed on it, and the burden is on the party challenging these costs to demonstrate that they were not reasonable or necessary."
+```
+
+And here is a summary of the judge's tentative ruling in English text:
+
+The court considered the motion to tax costs filed by the plaintiffs, who are disputing the defendant's request to recover costs incurred by the co-defendant. The court found that the defendant's request is improper because the co-defendant's motion to quash service of summons was successful, and the costs incurred by the co-defendant were not reasonably necessary to the conduct of the litigation. The court granted the plaintiffs' motion to tax costs and ordered the defendant to pay $461.48 from their memorandum of costs.
