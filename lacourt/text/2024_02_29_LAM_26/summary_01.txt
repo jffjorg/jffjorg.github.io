@@ -1,0 +1,88 @@
+Here is the summary in YAML format:
+
+```
+case_number: 19STCV28356
+plaintiff: Creditcard Data Services, Inc.
+defendant: Hyunmok Cho, et al.
+people_names:
+  - Hyunmok Cho
+  - Hank Cho
+company_names:
+  - Creditcard Data Services, Inc.
+places:
+  - Los Angeles
+  - California
+dates:
+  - August 9, 2019
+  - February 7, 2023
+  - May 18, 2023
+  - June 7, 2023
+  - August 4, 2023
+  - October 11, 2023
+  - January 31, 2024
+  - February 22, 2024
+  - February 27, 2024
+  - February 29, 2024
+events:
+  - Filing of complaint
+  - Jury trial
+  - Entry of judgment
+  - Filing of memorandum of costs
+  - Filing of motion to strike costs
+  - Opposition to motion to strike costs
+  - Reply to opposition
+  - Surreply
+money:
+  - Costs
+  - Judgment
+intentions:
+  - To recover costs
+  - To strike costs
+facts:
+  - Plaintiff filed a complaint on August 9, 2019
+  - Defendant filed a memorandum of costs on September 26, 2023
+  - Plaintiff filed a motion to strike costs on October 11, 2023
+  - Defendant filed an opposition to the motion to strike costs on January 31, 2024
+  - Plaintiff filed a reply to the opposition on February 22, 2024
+  - Defendant filed a surreply on February 27, 2024
+disputes:
+  - Whether the memorandum of costs was timely filed
+  - Whether the court has discretion to grant an extension to file a memorandum of costs
+acts:
+  - Filing of a motion to strike costs
+  - Filing of an opposition to the motion to strike costs
+  - Filing of a reply to the opposition
+  - Filing of a surreply
+agreements:
+  - None
+laws:
+  - California Rules of Court, Rule 3.1700
+  - California Code of Civil Procedure, section 1033.5
+  - California Code of Civil Procedure, section 916
+  - California Code of Civil Procedure, section 917.1
+  - California Code of Civil Procedure, section 473
+case_citations:
+  - Segal v. ASICS America Corp. (2022) 12 Cal.5th 651
+  - Perko's Enterprises, Inc. v. RRNS Enterprises (1992) 4 Cal.App.4th 238
+  - Ladas v. California State Automotive Assoc. (1993) 19 Cal.App.4th 761
+  - Hydratec, Inc. v. Sun Valley 260 Orchard & Vineyard Co. (1990) 223 Cal.App.3d 924
+  - Nielsen v. Stumbos (1990) 226 Cal.App.3d 301
+  - Lee v. Wells Fargo Bank, N.A. (2001) 88 Cal.App.4th 1187
+  - Pollard v. Saxe & Yolles Dev. Co. (1974) 12 Cal.3d 374
+  - Hoover Community Hotel Development Corp. v. Thomson (1985) 168 Cal.App.3d 485
+  - Cardinal Health 301, Inc. v. Tyco Electronics Corp. (2008) 169 Cal.App.4th 116
+  - Gunlock Corp. v. Walk on Water, Inc. (1993) 15 Cal.App.4th 1301
+  - Auto Equity Sales, Inc. v. Superior Court of Santa Clara County (1962) 57 Cal.2d 450
+roles:
+  - Judge: Elaine Lu
+  - Plaintiff: Creditcard Data Services, Inc.
+  - Defendant: Hyunmok Cho, et al.
+significant_statements:
+  - The court finds that the memorandum of costs was untimely filed, but denies the motion to strike costs.
+  - The court has discretion to grant an extension to file a memorandum of costs, even if the deadline has passed.
+  - The court must consider the prejudice to the opposing party before striking the memorandum of costs.
+```
+
+English-text summary:
+
+This is a tentative ruling by Judge Elaine Lu regarding a motion to strike costs filed by Creditcard Data Services, Inc. (Plaintiff) against Hyunmok Cho, et al. (Defendant). The case involves a jury trial that resulted in a judgment in favor of the Defendant, and the Defendant has filed a memorandum of costs seeking to recover costs. The Plaintiff has filed a motion to strike the costs, arguing that the memorandum of costs was untimely filed. The Judge finds that the memorandum of costs was indeed untimely filed, but denies the motion to strike costs, citing the court's discretion to grant an extension to file a memorandum of costs. The Judge also notes that the court must consider the prejudice to the opposing party before striking the memorandum of costs, and since no prejudice is claimed or identified, the motion to strike costs is denied.

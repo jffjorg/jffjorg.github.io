@@ -1,0 +1,62 @@
+Here is the summary in YAML format:
+
+```
+case_number: unspecified
+plaintiff: Petitioner
+defendant: EDD
+people_names:
+  - Petitioner
+  - Foster care provider
+company_names:
+  - EDD
+  - IRS
+places:
+  - 2021
+  - 2020
+  - United States
+dates:
+  - 2021 (first four months)
+  - 2020
+  - January 2021
+events:
+  - Overpayment of benefits
+  - Receipt of notices of overpayment
+  - Report to the EDD
+  - Payment of IHSS
+money:
+  - $13,939.90
+  - 30 percent statutory penalty
+intentions:
+  - To determine whether Petitioner was required to report to the EDD certain payments
+facts:
+  - Petitioner received certain payments for providing IHSS
+  - Petitioner received notices of overpayment for 2020 and 2021
+  - EDD advised Petitioner he was liable for the amounts overpaid
+  - Petitioner disputes the alleged overpayment
+disputes:
+  - Whether there was an overpayment
+acts:
+  - Petitioner received IHSS payments
+  - Petitioner received notices of overpayment
+  - EDD advised Petitioner of the alleged overpayment
+agreements:
+  - Petitioner was required to report to the EDD certain payments
+laws:
+  - Internal Revenue Code (§ 131)
+  - United States Code (26 USC)
+case_citations:
+  - IRS Notice 2014-7
+statutes:
+  - 30 percent statutory penalty
+roles:
+  - Petitioner (recipient of IHSS payments)
+  - EDD (issuer of notices of overpayment)
+  - IRS (issuer of Notice 2014-7)
+significant_statements:
+  - The issue is not about the alleged amount of overpayment, but whether there was in fact an overpayment.
+  - The payments received by Petitioner for providing IHSS do not relate to foster care.
+```
+
+And here is the summary in English text:
+
+The Judge's tentative ruling addresses a dispute between Petitioner and EDD regarding an alleged overpayment of benefits. According to the EDD, Petitioner received overpayments of $13,939.90 for IHSS benefits in 2020 and 2021, and is liable for the amounts overpaid plus a 30% statutory penalty. However, Petitioner disputes the alleged overpayment, arguing that they were not required to report certain payments to the EDD. The Judge takes judicial notice of IRS Notice 2014-7, which explains that certain payments, known as "difficulty of care payments", are excluded from taxable income. The Judge concludes that the issue is not about the amount of overpayment, but whether there was an overpayment in the first place, and whether Petitioner was required to report the IHSS payments to the EDD.

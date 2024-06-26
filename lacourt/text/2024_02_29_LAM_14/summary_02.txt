@@ -1,0 +1,68 @@
+Here is the summary in YAML format:
+
+```
+case_number: 22STCV19629
+plaintiff: Del Vecchio
+defendant: The Regents of the University of California, Angel Maree Jones
+people_names:
+  - Del Vecchio
+  - Angel Maree Jones
+companies:
+  - The Regents of the University of California
+places:
+  - UCLA Medical Center
+dates:
+  - August 17, 2022
+  - October 24, 2022
+  - November 9, 2022
+  - January 3, 2023
+  - October 13, 2023
+  - October 26, 2023
+  - February 29, 2024
+  - July 1, 2024
+  - March 7, 2024
+events:
+  - Plaintiff filed First Amended Complaint
+  - Defendant Regents filed Amended Answer
+  - Defendant Jones filed Amended Answer
+  - Instant Motion for referral of discovery to a discovery referee
+  - Informal Discovery Conferences
+money:
+  - None mentioned
+intentions:
+  - To refer the issue of the "official information privilege" to a discovery referee
+facts:
+  - Plaintiffs were dietitians at the UCLA Medical Center
+  - They claim they were driven into retirement by a new supervisor
+  - Defendant Jones filed an answer to the complaint
+  - The court held informal discovery conferences
+disputes:
+  - Application of the "official information privilege" to discovery
+acts:
+  - Plaintiff's motion for referral of discovery to a discovery referee
+  - Defendant's responses to the motion
+  - Court's decision to refer the issue to a discovery referee
+agreements:
+  - Code of Civil Procedure § 639
+  - Evidence Code § 1040
+  - Evidence Code § 915(b)
+laws:
+  - Code of Civil Procedure § 639
+  - Evidence Code § 1040
+  - Evidence Code § 915(b)
+case_citations:
+  - Marylander v. Superior Court (2000) 81 Cal.App.4th 1119
+  - Board of Registered Nursing v. Superior Court of Orange County (2021) 59 Cal.App.5th 1011
+  - Torres v. Superior Court (2000) 80 Cal.App.4th 867
+roles:
+  - Judge
+  - Plaintiff
+  - Defendant
+  - Referee
+significant_statements:
+  - The court will refer only issues involving the "official information privilege" contained in Evidence Code § 1040.
+```
+
+And here is the English-text summary:
+
+The judge's tentative ruling is that the motion to refer all discovery in the case to a discovery referee is granted, in part. The court will only refer issues involving the "official information privilege" contained in Evidence Code § 1040. This decision is based on the fact that the "official information privilege" is a qualified, limited privilege that only applies to requests under the Public Records Act, and therefore requires an in camera review to determine whether it bars disclosure of documents in discovery. The court believes that an independent referee is best suited to conduct this review, and that it would be prejudicial to delay the case while the court conducts the review. The parties are instructed to meet and confer and select a referee, and to prepare a proposed order for the court's signature.

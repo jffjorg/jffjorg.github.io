@@ -1,0 +1,36 @@
+Here is a summary of the tentative ruling in YAML format:
+
+```
+Case Number: 22STCV33580
+Hearing Date: March 1, 2024
+Department: 50
+
+Plaintiff:
+  - Name: Carolyn Tracie Love
+  - Capacity: Individually and as trustee for Trashawn Tillet
+
+Defendants:
+  - Name: Los Angeles County, Department of the Coroner
+  - Name: Los Angeles City
+  - Name: Los Angeles Police Department
+  - Name: Los Angeles Fire Department
+
+People and Company Names:
+  - People: Carolyn Tracie Love, Trashawn Alton Tillet
+  - Companies: Los Angeles County, Los Angeles City, Los Angeles Police Department, Los Angeles Fire Department
+
+Places:
+  - Los Angeles County
+  - Los Angeles City
+
+Dates:
+  - October 20, 2021
+  - November 15, 2023
+  - September 28, 2023
+  - March 1, 2024
+
+Events:
+  - Death of Trashawn Alton Tillet
+  - Investigation into Tillet's death
+  - Filing of the Third Amended Complaint
+  - Demurr

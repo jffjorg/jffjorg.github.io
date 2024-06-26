@@ -1,0 +1,69 @@
+Here is the summary in YAML format:
+
+```
+case_number: 23AHCV00503
+plaintiff_name: Rebecca Dean
+defendant_name: M. Pernecky Management Corp.
+people_names:
+  - Rebecca Dean
+  - M. Pernecky
+company_names:
+  - M. Pernecky Management Corp.
+places:
+  - Los Angeles
+  - California
+dates:
+  - January 24, 2024
+  - February 7, 2024
+  - August 7, 2023
+  - February 28, 2024
+events:
+  - Motion to compel responses
+  - Request for monetary sanctions
+  - Service of initial responses
+money:
+  - $310 (sanctions)
+  - $250 (hourly rate)
+  - $60 (filing fee)
+intentions:
+  - Plaintiff seeks to compel defendant to serve initial responses
+  - Plaintiff seeks monetary sanctions
+  - Defendant seeks to avoid sanctions
+facts:
+  - Plaintiff served discovery requests on August 7, 2023
+  - Defendant served verified responses on January 26, 2024
+  - Defendant offered no reason for delay in providing responses
+disputes:
+  - Plaintiff claims defendant failed to serve timely responses
+  - Defendant claims it served responses on time
+acts:
+  - Plaintiff filed motion to compel responses
+  - Defendant served verified responses
+  - Plaintiff seeks sanctions
+agreements:
+  - None mentioned
+laws:
+  - Code Civ. Proc., § 2031.300
+  - C.R.C. 3.1348
+  - Code of Civil Procedure
+  - California Rules of Court
+case_citations:
+  - Code Civ. Proc., § 2031.300
+  - C.R.C. 3.1348
+statutes:
+  - Code Civ. Proc.
+  - C.R.C.
+roles:
+  - Judge: William A. Crowfoot
+  - Plaintiff: Rebecca Dean
+  - Defendant: M. Pernecky Management Corp.
+  - Counsel: (multiple)
+significant_statements:
+  - Defendant's failure to serve timely responses warrants sanctions
+  - Sanctions are imposed on defendant and counsel
+  - Plaintiff's motion to compel responses is denied
+```
+
+And here is the English-text summary:
+
+The Judge's tentative ruling denies the Plaintiff's motion to compel responses from the Defendant, M. Pernecky Management Corp., stating that the Defendant had served verified responses on January 26, 2024. However, the Judge finds that the Defendant failed to provide a reason for the delay in providing responses and imposes monetary sanctions on the Defendant and its counsel in the amount of $310. The sanctions consist of 1 hour of Plaintiff's counsel's hourly rate of $250 and a $60 filing fee, payable within 20 days of the date of the order.

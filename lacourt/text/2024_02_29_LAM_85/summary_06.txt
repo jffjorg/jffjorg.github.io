@@ -1,0 +1,61 @@
+Here is the summary in YAML format:
+
+```
+case_number: Not specified
+plaintiff_name: Kazaryan
+defendant_name: County
+people_names:
+  - Kazaryan
+  - Locke
+  - Mosley
+  - Rodgers
+company_names: None
+places: None
+dates:
+  - April 22, 2019
+  - April 24
+  - April 25
+events:
+  - Hearing
+  - Trial setting conference
+  - CFT meeting
+money: None
+intentions:
+  - Conduct CFT meeting
+  - Provide table of contents and table of authorities
+  - Include bates-stamped version of Hearing Officer's decision
+facts:
+  - Kazaryan cancelled CFT meeting
+  - Locke did not cancel CFT meeting
+  - Kazaryan tried to arrange CFT meeting
+  - Hearing Officer found Kazaryan not guilty
+disputes:
+  - Failure to provide Rodgers Report
+  - Penalty for Kazaryan's actions
+acts:
+  - Kazaryan cancelled CFT meeting
+  - Locke did not cancel CFT meeting
+  - Hearing Officer made finding
+agreements: None
+laws: CRC 3.1113(f)
+case_citations: None
+statutes: None
+roles:
+  - Judge
+  - Plaintiff (Kazaryan)
+  - Defendant (County)
+  - Hearing Officer
+  - Counsel
+significant_statements:
+  - The County's moving papers fail to provide a table of contents and table of authorities as required by CRC 3.1113(f).
+  - The County failed to include a bates-stamped version of the Hearing Officer's decision in the trial notebook as ordered by the court.
+  - The court need not address the penalty issue.
+```
+
+And here is a summary of the judge's tentative ruling in English text:
+
+The judge has issued a tentative ruling regarding a future court hearing. The County's moving papers failed to include a table of contents and table of authorities as required by court rules, and also failed to include a bates-stamped version of the Hearing Officer's decision in the trial notebook as ordered by the court. The judge directs the County's counsel to follow all applicable court rules and orders in future cases.
+
+The judge also addresses several points of contention in the case, including the County's argument that Kazaryan cancelled a CFT meeting. However, the judge finds that the text messages show that Kazaryan cancelled the meeting, not Locke. The judge also notes that Kazaryan tried to arrange alternative CFT meetings, but ultimately cancelled them.
+
+The judge declines to opine on whether the failure to provide the Rodgers Report for the appeal hearing violated discovery requirements. The judge finds that substantial evidence supports the Hearing Officer's finding that Kazaryan is not guilty of the charges, and therefore need not address the penalty issue.

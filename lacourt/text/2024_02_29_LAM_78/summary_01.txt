@@ -1,0 +1,89 @@
+Here is the summary in YAML format:
+
+```
+case_number: 23STCV24103
+plaintiff_name: 1200 Management, LLC
+defendant_name: Anton Ivchenko
+people_names:
+  - Anton Ivchenko
+  - K. Aren
+  - K. Arsenyan
+  - John Doe
+  - Rommy Shy
+companies:
+  - 1200 Management, LLC
+  - Main SB, LLC
+  - Da Vinci Motor
+places:
+  - 2511 Lincoln Blvd, Venice, CA 90291
+  - 12751 W. Millenium Dr., #426B, Playa Vista, CA 90094
+  - 12751 W. Millenium Dr. 428NB, Playa Vista, CA 90094
+dates:
+  - July 14, 2023
+  - July 20, 2023
+  - July 23, 2023
+  - July 27, 2023
+  - July 28, 2023
+  - August 15, 2023
+  - November 16, 2023
+  - February 15, 2024
+  - February 29, 2024
+events:
+  - Service of process
+  - Filing of complaint
+  - Entry of default
+  - Motion to set aside default judgment
+  - Application for default judgment
+money:
+  - $58,921.59 (outstanding balance)
+  - $7,219.07 (interest)
+  - $592.88 (costs)
+  - $3,217.50 (attorney's fees)
+  - $2,068.43 (attorney's fees, as granted)
+  - $69,951.04 (total damages)
+  - $55,779.44 (outstanding balance, unpaid rent)
+  - $3,142.15 (outstanding balance, late fees)
+intentions:
+  - Plaintiff seeks to recover damages for outstanding rent and late fees
+  - Defendant seeks to set aside default judgment due to alleged lack of actual notice
+facts:
+  - Defendant has not been paying rent since April 2020
+  - Plaintiff was unable to serve Defendant at his residence due to a secure apartment building
+  - Defendant listed a different address for service of process with the California Secretary of State
+  - Defendant only visits his business office quarterly
+disputes:
+  - Whether the service of process was proper
+  - Whether Defendant had actual notice of the action
+acts:
+  - Service of process
+  - Filing of complaint
+  - Entry of default
+  - Motion to set aside default judgment
+  - Application for default judgment
+agreements:
+  - Lease between Plaintiff and Assignor Main SB, LLC
+  - Parties' contract
+laws:
+  - California Code of Civil Procedure, section 415.20
+  - California Code of Civil Procedure, section 473.5
+  - California Civil Code, section 3289(b)
+  - Local Rule of the Court, rule 3.214(a)
+statutes:
+  - California Code of Civil Procedure, section 415.20
+  - California Code of Civil Procedure, section 473.5
+  - California Civil Code, section 3289(b)
+roles:
+  - Judge: Hon. Jill Feeney
+significant statements:
+  - "The proof of service in this circumstance establishes a presumption, affecting the burden of producing evidence of the facts stated in the return."
+  - "The effect of a presumption affecting the burden of producing evidence is to require the trier of fact to assume the existence of the presumed fact unless and until evidence is introduced which would support a finding of its nonexistence."
+  - "The Court finds that Defendant's failure to visit his business office more often constitutes inexcusable neglect."
+```
+
+And here is a summary of the judge's tentative ruling in English text:
+
+The court has issued a tentative ruling in the case of 1200 Management, LLC vs. Anton Ivchenko. The defendant, Anton Ivchenko, has moved to set aside a default judgment entered against him, claiming that he did not receive actual notice of the action in time to defend himself. The court has denied the motion, finding that the defendant's lack of actual notice was caused by his own inexcusable neglect, including his failure to visit his business office frequently and his listing of a different address for service of process with the California Secretary of State.
+
+The court has granted the plaintiff's application for default judgment, awarding damages of $69,951.04, which includes outstanding balances of $55,779.44 in unpaid rent and $3,142.15 in late fees, as well as interest and attorney's fees. The court has also awarded the plaintiff costs of $592.88 for filing fees and service of process.
+
+The court has denied the defendant's request to set aside the default judgment, finding that the service of process was proper and that the defendant had actual notice of the action. The court has also denied the defendant's request for attorney's fees, finding that the amount requested was excessive and not supported by the evidence.

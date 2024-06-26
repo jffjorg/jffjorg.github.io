@@ -1,0 +1,73 @@
+Here is the summary of the judge's tentative ruling in YAML format:
+
+```
+case_number: 23STCV27202
+plaintiff_name: Scot Jacoby
+defendant_name: Craig Davis and Erica Fenwick
+people_names:
+  - Scot Jacoby
+  - Craig Davis
+  - Erica Fenwick
+  - Jason Stillman
+company_names:
+  - None
+places:
+  - California
+  - Los Angeles
+dates:
+  - November 6, 2023
+  - February 2, 2024
+  - February 6, 2024
+  - February 13, 2024
+  - February 14, 2024
+  - February 16, 2024
+  - February 22, 2024
+  - March 27, 2024
+events:
+  - Complaint filed
+  - Default judgment entered
+  - Motion to set aside default filed
+  - Motion to quash service of summons filed
+  - Hearing set for motion to quash service of summons
+money:
+  - $5,000
+intentions:
+  - Set aside default judgment
+facts:
+  - Defendants failed to timely respond to the Complaint
+  - Defendants claimed they provided incorrect zip code and omitted second page of fee waiver application
+  - Default judgment was entered on February 6, 2024
+disputes:
+  - Whether defendants' failure to respond was due to mistake, inadvertence, or excusable neglect
+acts:
+  - Defendants filed motion to set aside default
+  - Court granted stay of execution and shortened time for hearing
+  - Court struck motion to quash filed February 2, 2024
+  - Plaintiff's counsel filed declaration that defendants complied with conditions
+  - Court sets hearing on motion to quash service of summons
+agreements:
+  - Court's order granting stay of execution
+  - Court's order striking motion to quash filed February 2, 2024
+laws:
+  - California Code of Civil Procedure section 473(b)
+  - California Code of Civil Procedure section [insert section number]
+  - [Insert other relevant laws]
+case_citations:
+  - Code Civ. Proc. § 473(b)
+  - [Insert other relevant case citations]
+statutes:
+  - California Code of Civil Procedure
+  - California Civil Code
+roles:
+  - Judge: Theresa M. Traber
+  - Plaintiff: Scot Jacoby
+  - Defendant: Craig Davis and Erica Fenwick
+  - Plaintiff's counsel: Jason Stillman
+significant_statements:
+  - The Court grants defendants' motion to set aside default and default judgment.
+  - The Court sets a hearing on the motion to quash service of summons for March 27, 2024.
+```
+
+And here is a summary of the judge's tentative ruling in English text:
+
+The judge grants the defendants' motion to set aside the default and default judgment entered against them. The defendants claimed that their failure to timely respond to the complaint was due to mistake, inadvertence, or excusable neglect, specifically stating that they provided an incorrect zip code and omitted the second page of their fee waiver application, which led to their rejection of subsequent filings. The court finds good cause to set aside the default and default judgment and permit the filing of the proposed motion to quash service of summons. The court sets a hearing on the motion to quash service of summons for March 27, 2024, and orders the parties to serve their opposition and reply papers according to code.

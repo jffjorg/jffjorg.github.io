@@ -1,0 +1,57 @@
+Here is the summary in YAML format:
+
+```
+case_number: 22STCV32750
+plaintiff_name: MAYRA MEDASOSA
+defendant_name: CENTURY HOUSING CORPORATION, A CALIFORNIA CORPORATION, et al.
+people_names:
+  - MAYRA MEDASOSA
+  - CENTURY HOUSING CORPORATION
+company_names:
+  - CENTURY HOUSING CORPORATION
+places:
+  - California
+dates:
+  - February 28, 2024
+events:
+  - Cross-Defendant's motion for summary judgment
+money:
+  - indemnity
+  - damages
+  - expenses
+intentions:
+  - to determine whether there are triable issues of material fact
+facts:
+  - Cross-Defendant's conduct was not a substantial factor in causing harm
+  - Cross-Complainant's verified discovery responses are "factually devoid" with respect to liability
+  - Contract between Cross-Defendant and Cross-Complainant
+disputes:
+  - breach of contract
+  - equitable indemnity
+  - contribution
+  - comparative partial indemnity
+  - declaratory relief
+acts:
+  - indemnity provision in the contract
+agreements:
+  - contract between Cross-Defendant and Cross-Complainant
+laws:
+  - California Code of Civil Procedure
+  - California Civil Code
+  - Scalf v. D. B. Log Homes, Inc. (2005)
+statutes:
+  - Code Civ. Proc. §437c(c)
+  - Code Civ. Proc., § 437c, subd. (p)(2)
+  - Civ. Code § 2772
+roles:
+  - Judge
+  - Cross-Defendant
+  - Cross-Complainant
+significant_statements:
+  - "The initial burden is always on the moving party to make a prima facia showing that there are no triable issues of material fact."
+  - "A cross-defendant moving for summary judgment must show 'that one or more elements of the cause of action ... cannot be established, or that there is a complete defense to that cause of action.'"
+```
+
+And here is a summary in English text:
+
+The tentative ruling denies the Cross-Defendant's motion for summary judgment or summary adjudication as to the cross-complaint. The Cross-Defendant failed to address the causes of action for breach of contract and declaratory relief, and did not provide sufficient evidence to show that there are no triable issues of material fact. The Court also denied the Cross-Defendant's motion for summary adjudication of the affirmative defenses, as the Cross-Defendant failed to address each of the elements of the affirmative defenses and did not provide sufficient argument in support of its claims.

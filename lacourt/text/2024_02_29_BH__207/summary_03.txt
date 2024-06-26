@@ -1,0 +1,67 @@
+Here is a summary of the tentative ruling in YAML format:
+
+```
+case_number: 22STCV10330
+plaintiff_name: Ginger Drinkwater
+defendant_name: Stewart Title of California
+people_names:
+  - Candie Y. Chang
+  - Lee Wilson
+  - Sean M. Novak
+  - Nancy Rico
+  - Noe Gonzalez
+company_names:
+  - Sound Equity, Inc.
+  - Palms Blvd Venice Beach, LLC
+  - Gold Constructors
+  - Wiltchik Appraisers
+places:
+  - Los Angeles
+  - Venice Beach
+dates:
+  - December 26, 2019
+  - January 6, 2020
+  - January 8, 2020
+  - January 10, 2020
+  - January 13, 2020
+events:
+  - Escrow closing
+  - Property transfer
+  - Loan disbursement
+money:
+  - $2,534,000
+  - $254,000
+  - $1,100,000
+  - $27,380.22
+intentions:
+  - To establish a tentative ruling on the motion for summary judgment
+facts:
+  - Plaintiff never intended to sell the property
+  - Notary Nancy Rico was allegedly present when Plaintiff signed the grant deed
+  - Stewart Title escrow officer Noe Gonzalez was allegedly involved in the transaction
+disputes:
+  - Whether Stewart Title fabricated escrow documents
+  - Whether Stewart Title communicated with Plaintiff
+laws:
+  - California Code of Civil Procedure
+  - California Welfare and Institutions Code
+  - California Civil Code
+case_citations:
+  - Aguilar v. Atlantic Richfield Co. (2001) 25 Cal.4th 826
+  - Binder v. Aetna Life Ins. Co. (1999) 75 Cal.App.4th 832
+  - Weiss v. People ex rel. Department of Transportation (2020) 9 Cal.5th 840
+  - Union Bank v. Superior Court (1995) 31 Cal.App.4th 573
+  - Gulf Ins. Co. v. TIG Ins. Co. (2001) 86 Cal.App.4th 422
+  - Communist Party v. 522 Valencia, Inc. (1995) 35 Cal.App.4th 980
+  - Farmers & Merchants Trust Co. v. Vanetik (2019) 33 Cal.App.5th 638
+  - Mile v. Deutsche Bank National Trust Co. (2015) 236 Cal.App.4th 394
+roles:
+  - Judge: [Name]
+  - Parties: Plaintiff Ginger Drinkwater, Defendant Stewart Title of California
+significant_statements:
+  - The Court declines to consider Sound Equity's reply evidence, except to the extent it provides the foundation for Murray's knowledge as to the excerpts of Murray's testimony.
+  - The Court grants summary adjudication as to Issues 2, 6, 9, and 10.
+  - The Court cannot grant summary adjudication as to Issues 1, 3, 4, 5, 7, and 8.
+```
+
+This summary provides an overview of the case, including the parties involved, the dates and events, the money involved, the intentions and facts, the disputes, the laws,

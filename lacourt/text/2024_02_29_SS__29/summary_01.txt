@@ -1,0 +1,75 @@
+Here is the summary in YAML format:
+
+```
+case_number: 21STCV00910
+hearing_date: February 29, 2024
+dept: 29
+defendant: Richard Estrada
+plaintiff: Bethany Estrada
+people_names:
+  - Bethany Estrada
+  - Richard Estrada
+company_names:
+  - Ellis & Bakh
+places:
+  - US-395
+dates:
+  - January 8, 2021
+  - January 19, 2021
+  - October 12, 2023
+  - October 17, 2023
+  - October 23, 2023
+  - November 29, 2023
+  - December 17, 2023
+  - December 20, 2023
+  - December 28, 2023
+  - February 29, 2024
+events:
+  - Filing of complaint
+  - Service of notice of deposition
+  - Rescheduling of deposition
+  - Failure to appear for deposition
+money:
+  - $420
+  - $180 per hour (counsel's billing rate)
+  - $60 (filing fee)
+intentions:
+  - To compel deposition of plaintiff
+  - To impose sanctions on plaintiff
+facts:
+  - Plaintiff filed a complaint against defendant
+  - Defendant served notice of deposition on plaintiff
+  - Plaintiff failed to appear for deposition without service of a timely objection
+disputes:
+  - Failure to appear for deposition
+acts:
+  - Service of notice of deposition
+  - Rescheduling of deposition
+  - Failure to appear for deposition
+agreements:
+  - Civil Discovery Act
+laws:
+  - Code of Civil Procedure sections 2025.010, 2025.210, 2025.280, 2025.410, 2025.450
+  - Civil Discovery Act sections 2023.010, 2023.030
+case_citations:
+  - Code of Civil Procedure sections 2025.010, 2025.210, 2025.280, 2025.410, 2025.450
+  - Civil Discovery Act sections 2023.010, 2023.030
+statutes:
+  - Code of Civil Procedure
+  - Civil Discovery Act
+roles:
+  - Judge
+  - Plaintiff (Bethany Estrada)
+  - Defendant (Richard Estrada)
+  - Counsel (Ellis & Bakh)
+significant_statements:
+  - The motion to compel plaintiff's deposition is granted.
+  - The request for sanctions is granted in part.
+  - Plaintiff failed to appear for her properly noticed deposition without service of a timely objection.
+  - The Court orders plaintiff to attend her deposition on a date to be arranged by counsel that is no later than 21 days after notice.
+  - The Court orders plaintiff and counsel of record Ellis & Bakh, jointly and severally, to pay defendant monetary sanctions under the Civil Discovery Act in the amount of $420 within 30 days of notice.
+```
+
+And here is the English-text summary:
+
+The Court's tentative ruling grants the Defendant's motion to compel the deposition of the Plaintiff, Bethany Estrada, and also grants the Defendant's request for sanctions in part. The motion to compel was filed after the Plaintiff failed to appear for her properly noticed deposition without service of a timely objection. The Court finds that the Plaintiff's failure to appear was unreasonable and orders the Plaintiff to attend her deposition on a date to be arranged by counsel that is no later than 21 days after notice. The Court also imposes a monetary sanction of $420 on the Plaintiff and her counsel, Ellis & Bakh, for their failure to comply with the discovery process.

@@ -1,0 +1,71 @@
+Here is the summary in YAML format:
+
+```
+case_number: 23STCV24356
+plaintiff: Brian A. Armstrong
+defendant: FH Investment Partnership, LP et al.
+people:
+  - Brian A. Armstrong
+  - Jeffrey Breitman
+  - Marla Breitman
+companies:
+  - FH Investment Partnership, LP
+places:
+  - California
+dates:
+  - October 6, 2023
+  - January 4, 2024
+  - January 29, 2024
+  - February 9, 2024
+  - February 16, 2024
+  - February 26, 2024
+events:
+  - Filing of employment action
+  - Attempt to file first amended complaint
+  - Quashing of service of summons
+  - Filing of motion for leave to file first amended complaint
+  - Opposition to motion
+  - Reply to opposition
+money:
+  - Unpaid rent
+intensions:
+  - To allow plaintiff to amend complaint
+facts:
+  - Plaintiff filed employment action
+  - Defendant answered complaint
+  - Plaintiff attempted to file first amended complaint
+  - Defendant filed cross-complaint for unpaid rent
+disputes:
+  - Whether plaintiff should be allowed to amend complaint
+acts:
+  - Filing of motion for leave to file first amended complaint
+  - Filing of opposition and reply
+agreements:
+  - None
+laws:
+  - California Code of Civil Procedure
+  - California Rules of Court
+  - Duchrow v. Forrest (2013)
+  - Demetriades v. Yelp, Inc. (2014)
+  - Royal Thrift & Loan Co. v. County Escrow, Inc. (2004)
+case_citations:
+  - Code Civ. Proc., § 472(a)
+  - Code Civ. Proc., § 473, subd. (a)
+  - Code Civ. Proc., § 576
+  - Cal. Rules of Ct., Rule 3.1324(b)
+  - Duchrow v. Forrest (2013) 215 Cal.App.4th 1359
+  - Demetriades v. Yelp, Inc. (2014) 228 Cal.App.4th 294
+  - Royal Thrift & Loan Co. v. County Escrow, Inc. (2004) 123 Cal.App.4th 24
+roles:
+  - Judge
+  - Plaintiff
+  - Defendant
+significant_statements:
+  - Courts apply a policy of liberality in permitting amendments at any stage of the proceeding.
+  - The court may, in furtherance of justice, and on such terms as may be proper, allow a party to amend any pleading.
+  - The court must consider various factors, such as whether the amendment would delay trial or increase the discovery burden, in determining the extent of prejudice to the opposing party.
+```
+
+And here is the summary in English text:
+
+This is a tentative ruling by a judge regarding a motion by the plaintiff, Brian A. Armstrong, to file a first amended complaint in an employment action against defendants FH Investment Partnership, LP, Jeffrey Breitman, and Marla Breitman. The plaintiff initially filed the action on October 6, 2023, and attempted to file the first amended complaint on January 4, 2024, but was denied because the defendant had already answered the complaint. The plaintiff then filed a new motion on January 29, 2024, and the defendants filed an opposition on February 9, 2024, and the plaintiff filed a reply on February 16, 2024. The judge grants the motion, citing the policy of liberality in permitting amendments at any stage of the proceeding, and finding that the plaintiff has substantially complied with the requirements of the rules of court. The judge notes that the case was initiated recently and there is no significant delay to be explained, and that the defendant has not shown prejudice.

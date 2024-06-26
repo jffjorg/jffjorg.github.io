@@ -1,0 +1,57 @@
+Here is the summary in YAML format:
+
+```
+Case Number: unknown
+Plaintiff's Name: unknown
+Defendant's Name: unknown
+People-Names:
+  - Plaintiff
+  - Defendant
+Company-Names: none
+Places: none
+Dates:
+  - unknown
+Events:
+  - Injunction request
+  - Government Code section(s) violation
+  - Claim presentation requirements
+  - Damages recovery
+Money:
+  - Damages
+  - None specified
+Intentions:
+  - Prevent further violation
+  - Recover damages
+Facts:
+  - Government Claims Act does not apply to non-pecuniary actions
+  - Injunction requests are vague
+  - Primary purpose of causes of action is to recover damages
+Disputes:
+  - Applicability of Government Claims Act
+  - Legality of injunction requests
+Acts:
+  - Violation of Government Code section(s)
+  - Request for injunctive relief
+  - Claim presentation
+  - Recovery of damages
+Agreements: none
+Laws:
+  - Government Code section(s) 4525, et seq.
+  - Government Code section(s) 4529.12
+  - Government Claims Act
+  - Canova v. Trustees of Imperial Irrigation Dist. Employee Pension Plan (2007)
+Statutes:
+  - Government Code
+  - Government Claims Act
+Roles:
+  - Plaintiff (requests injunction)
+  - Defendant (violates Government Code section(s))
+  - Judge (issues tentative ruling)
+Significant Statements:
+  - The primary purpose of the causes of action is to recover damages
+  - Injunction requests are vague and do not seek to enjoin any specific future activity
+```
+
+And here is the English-text summary:
+
+The court's tentative ruling notes that the plaintiff's requests for an injunction to prevent the defendants from violating Government Code sections 4525, et seq. and 4529.12 are vague and do not seek to enjoin any specific future activity. As a result, the court finds that the primary purpose of the causes of action is to recover damages, and therefore the plaintiff must comply with the claim presentation requirements to allege them against the defendant. The court relies on Canova v. Trustees of Imperial Irrigation Dist. Employee Pension Plan (2007) in its decision, stating that the critical question in determining whether the Government Claims Act applies is whether the recovery of money or damages was the primary purpose of the plaintiff's claims.

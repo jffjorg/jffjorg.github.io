@@ -1,0 +1,44 @@
+Here is a summary of the judge's tentative ruling in YAML format:
+
+```
+case_number: 23STCV22235
+hearing_date: 2024-03-01
+department: 37
+case_name: Qiang Yang v. Youssef Tahiri, et al.
+moving_party: Cross-Defendants Qiang Yang and Y&S Enterprise, Inc.
+opposing_party: Defendant/Cross-Complainant Youssef Tahiri
+trial_date: Not Set
+proof_of_service: OK
+
+proceeding:
+  - Demurrer with Motion to Strike Punitive Damages
+
+demurrer:
+  - Allegations in the Cross-Complaint
+  - IIPEA and NIPEA causes of action
+  - Third cause of action for IIED
+  - Fourth cause of action for Negligence
+  - Fifth and Sixth causes of action for Defamation Per Quod and Defamation Per Se
+
+motion_to_strike:
+  - Paragraphs 74, 92, 112, and 118 from the Cross-Complaint
+  - Prayer for Relief, Paragraph 3, which seeks punitive and exemplary damages
+```
+
+And here is a summary of the judge's tentative ruling in English text:
+
+The court has reviewed the cross-complaint and sustain the demurrer to the following causes of action:
+
+* The second cause of action for negligent interference with economic relations with leave to amend
+* The fourth cause of action for negligence with leave to amend
+* The sixth cause of action for defamation per se with leave to amend
+
+The court also sustains the demurrer to the prayer for relief, which seeks punitive and exemplary damages.
+
+The court grants the motion to strike punitive damages from the Cross-Complaint, as there are no specific facts alleging malice, oppression, or fraud.
+
+The court overrules the demurrer to the first cause of action for intentional interference with economic relations and the third cause of action for intentional infliction of emotional distress.
+
+The court sustains the demurrer to the cross-complaint against Y&S Enterprises, Inc. due to insufficient pleading.
+
+The court sets the OSC re: Amended Cross-Complaint for [insert date].

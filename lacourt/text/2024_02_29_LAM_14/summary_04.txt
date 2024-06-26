@@ -1,0 +1,62 @@
+Here is the summary in YAML format:
+
+```
+case_number: 23STCV29159
+hearing_date: February 29, 2024
+dept: 14
+people_names:
+  - Lecea
+  - Veniroe
+company_names:
+  - Veniroe, Inc.
+places:
+  - California
+dates:
+  - November 29, 2023
+events:
+  - Filing of Complaint
+  - Demurrer
+  - Motion to Strike
+money:
+  - $4,000 (statutory minimum damages)
+intentions:
+  - Plaintiff seeks to prove intentional discrimination and/or violation of the Americans with Disabilities Act (ADA)
+  - Defendant seeks to demonstrate that Plaintiff has failed to plead willful and affirmative discrimination
+facts:
+  - Plaintiff is a blind individual using screen-reading software
+  - Plaintiff alleges that Defendant's website design is not compatible with his screen-reading software
+  - Defendant demurs to the complaint, arguing that Plaintiff has failed to plead willful and affirmative discrimination
+  - Plaintiff requests judicial notice of materials related to ADA compliance
+disputes:
+  - Whether Plaintiff has pled willful and affirmative discrimination
+  - Whether the damages claimed by Plaintiff are proper
+acts:
+  - Filing of Complaint
+  - Demurrer
+  - Motion to Strike
+agreements:
+  - Unruh Act (Civil Code § 51)
+  - Americans with Disabilities Act (ADA)
+laws:
+  - Civil Code § 51
+  - Civil Code § 52
+  - Code of Civil Procedure § 437c(t)
+case_citations:
+  - Munson v. Del Taco, Inc. (2009) 46 Cal.4th 661
+  - Koebke v. Bernardo Heights Country Club (2005) 36 Cal.4th 824
+roles:
+  - Plaintiff: Lecea
+  - Defendant: Veniroe, Inc.
+  - Judge: [Name]
+significant_statements:
+  - The court finds that Plaintiff has pled a violation of the ADA, and therefore does not need to consider the intentional discrimination theory
+  - The court denies the motion to strike the request for damages "for each and every offense"
+```
+
+And here is a summary of the judge's tentative ruling in English text:
+
+The judge has issued a tentative ruling in the case of Lecea v. Veniroe, Inc. The plaintiff, a blind individual, alleges that the defendant's website design is not compatible with his screen-reading software, making it impossible for him to use the site. The defendant has demurred to the complaint, arguing that the plaintiff has failed to plead willful and affirmative discrimination.
+
+The judge has denied the defendant's demurrer, finding that the plaintiff has properly pled a violation of the Americans with Disabilities Act (ADA). The judge has also denied the defendant's motion to strike the plaintiff's request for damages, finding that the issue of whether damages are proper is best left for discovery and possibly a motion for summary adjudication.
+
+The judge has also denied the defendant's alternative request to strike the plaintiff's intentional discrimination theory, finding that this theory does not affect the damages that may be awarded or otherwise change the shape of the case. The plaintiff only needs to prove an ADA violation to prevail in full, and this theory is not contested at this stage.

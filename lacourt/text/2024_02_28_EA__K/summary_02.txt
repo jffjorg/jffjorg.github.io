@@ -1,0 +1,65 @@
+Here is the summary in YAML format:
+
+```
+caseNumber: 22PSCV03100
+hearingDate: 2024-02-28
+dept: K
+plaintiff:
+  name: BPP Shiraz Hamp LP
+  application: Default Judgment
+defendant:
+  name: Shipgadget Corp.
+  name2: Xuemei Liu
+  name3: Does 1-10
+people:
+  - Sarah Francis
+companies:
+  - Shipgadget Corp.
+places:
+  - 17709 E. Valley Boulevard, Unit B, City of Industry, CA 91744
+dates:
+  - 2022-12-29
+  - 2023-01-11
+  - 2023-02-03
+  - 2023-03-23
+  - 2023-11-28
+events:
+  - Unlawful detainer action
+  - Default judgment for possession only
+  - Order to Show Cause Re: Default Judgment
+money:
+  - $86,592.14 (damage repair costs)
+  - $113,128.88 (security deposit)
+intentions:
+  - Plaintiff seeks default judgment
+facts:
+  - Plaintiff filed a complaint on 2022-12-29
+  - Defendants' defaults were entered on 2023-01-11
+  - Clerk's default judgment for possession only was entered on 2023-02-03
+  - Plaintiff was required to spend $86,592.14 to repair damages to the subject property
+disputes:
+  - Security deposit and damage repair costs
+acts:
+  - Plaintiff's application for default judgment is denied without prejudice
+agreements:
+  - None mentioned
+laws:
+  - None mentioned
+caseCitations:
+  - None mentioned
+statutes:
+  - None mentioned
+roles:
+  - Plaintiff: BPP Shiraz Hamp LP
+  - Defendant: Shipgadget Corp.
+  - Defendant: Xuemei Liu
+  - Defendant: Does 1-10
+  - Property manager: Sarah Francis
+significantStatements:
+  - "Plaintiff's Application for Default Judgment is denied without prejudice."
+  - "The following defects are noted: ... 1. Property manager Sarah Francis attests that Plaintiff was required to spend $86,592.14 to repair damages to the subject property..."
+```
+
+And here is a summary of the judge's tentative ruling in English text:
+
+The judge has issued a tentative ruling denying the plaintiff's application for default judgment without prejudice. The ruling notes several defects in the application, including the lack of receipts to support the claimed damage repair costs of $86,592.14 and the failure to provide a clear accounting of how a "portion" of the security deposit was previously applied to the defendant's account. The judge requests that the plaintiff provide a statement of account and clarifies the damages and security deposit issues before considering the application for default judgment again.

@@ -1,0 +1,53 @@
+Here is the summary in YAML format:
+
+```
+case_number: 22STCV09525
+plaintiff_name: Jalen Goins
+defendant_name: Michael Verna
+people_names:
+  - Jalen Goins
+  - Michael Verna
+company_names: []
+places: []
+dates:
+  - February 23, 2024
+  - January 30, 2024
+  - January 26, 2024
+events:
+  - Request for Admissions, Set One Deemed Admitted
+  - Motion for Monetary Sanctions
+money:
+  - Monetary sanctions
+intentions:
+  - Deem admitted requests for admissions
+  - Seek monetary sanctions
+facts:
+  - Plaintiff failed to provide timely response to requests for admission
+  - Defendant opposes motion
+  - Motion is procedurally defective
+disputes:
+  - Whether requests for admission should be deemed admitted
+  - Whether plaintiff is entitled to monetary sanctions
+acts:
+  - Plaintiff served motion electronically on January 30, 2024
+  - Plaintiff failed to provide notice and proof of service within minimum timeline
+agreements: []
+laws:
+  - Code of Civil Procedure section 2033.010
+  - Code of Civil Procedure section 2033.280
+  - Code of Civil Procedure section 1005
+  - Code of Civil Procedure section 1010.6(a)
+statutes: []
+roles:
+  - Judge
+  - Plaintiff
+  - Defendant
+significant_statements:
+  - The court shall grant a motion to deem admitted requests for admissions, unless it finds that the party to whom the requests for admission have been directed has served, before the hearing on the motion, a proposed response to the requests for admissions that is in substantial compliance with Section 2033.220.
+  - A party fails to provide a timely response to requests for admission, “[i]t is mandatory that the court impose a monetary sanction under Chapter 7 (commencing with Section 2023.010) on the party or attorney, or both, whose failure to serve a timely response to requests for admissions necessitated this motion.”
+  - The motion is procedurally defective because notice was not provided within the minimum timeline provided by section 1005.
+```
+
+And here is a summary in English text:
+
+The tentative ruling denies the plaintiff's motion to have Request for Admissions, Set One Deemed Admitted, as procedurally defective. The motion was served electronically on January 30, 2024, but notice was not provided within the minimum 16-court-day timeline. The court finds that the plaintiff failed to provide notice and proof of service within the required timeframe, violating the basic principles of procedural due process. Therefore, the motion is denied without prejudice, and the plaintiff is ordered to provide notice and file a proof of service.

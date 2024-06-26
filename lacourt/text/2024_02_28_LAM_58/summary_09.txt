@@ -1,0 +1,50 @@
+Here is the summary in YAML format:
+
+```
+case_number: [not provided]
+plaintiff_name: [not provided]
+defendant_names: ["Celebrity Shutters and Blinds, Inc.", "Gabriel Torres"]
+people_names: ["Hernandez", "Casado"]
+company_names: ["Celebrity Shutters and Blinds, Inc."]
+places: [none]
+dates: ["January 17, 2024", "July 31, 2023", "February 28, 2024"]
+events: ["default against Defendant", "request for default judgment", "request for entry of default judgment"]
+money:
+  - $59,272.24
+  - $2,817.48 (interest)
+  - $530 (costs)
+  - $7,431 (attorney fees)
+  - $1,844.81 (reduced attorney fees)
+  - $1,971.63 (prejudgment interest)
+  - $52,840.20 (total)
+intentions:
+  - to grant request for default judgment
+facts:
+  - Plaintiff seeks damages for Labor Code violations
+  - Default was entered against Defendant Celebrity Shutters and Blinds, Inc. and Gabriel Torres
+disputes:
+  - none mentioned
+acts:
+  - Plaintiff submits evidence to support request for damages
+  - Plaintiff requests costs and attorney fees
+  - Plaintiff seeks prejudgment interest
+agreements:
+  - none mentioned
+laws:
+  - Labor Code Sections 218.5, 226, and 1194
+  - Civil Code sections 3287 and 3289
+case_citations: [none]
+statutes: [none]
+roles:
+  - Judge
+  - Plaintiff
+  - Defendant
+significant_statements:
+  - Plaintiff's request for default judgment is granted in a reduced amount
+  - Attorney fees are granted in the reduced amount of $1,844.81
+  - Prejudgment interest will be reduced to $1,971.63
+```
+
+And here is the English-text summary:
+
+The Judge's tentative ruling is that the request for default judgment against Celebrity Shutters and Blinds, Inc. and Gabriel Torres is granted, but in a reduced amount. The total amount of the default judgment is $52,840.20, which includes damages of $48,493.66, prejudgment interest of $1,971.63, attorney fees of $530.10, and costs of $1,844.81. The Judge reduced the attorney fees and prejudgment interest from the original amounts requested by the Plaintiff. The Judge also notes that the Plaintiff's request for fees under Labor Code Sections 218.5, 226, and 1194 is granted, but the amount is reduced to $1,844.81.

@@ -1,0 +1,62 @@
+Here is the summary in YAML format:
+
+```
+case_number: 22CHCV00666
+plaintiff_name: Alma Vargas
+defendant_name: General Motors, LLC
+people_names:
+  - Alma Vargas
+  - General Motors, LLC
+company_names:
+  - General Motors, LLC
+places:
+  - California
+dates:
+  - 2022-08-19
+  - 2023-08-17
+  - 2023-09-18
+  - 2023-12-05
+  - 2024-02-26
+  - 2024-04-22
+events:
+  - Lemon law case
+  - Discovery
+  - Motion to compel further responses
+  - Meet and confer
+money: None
+intentions:
+  - Plaintiff: To compel further responses from Defendant
+  - Defendant: To resist Plaintiff's motion and maintain its current responses
+facts:
+  - Plaintiff propounded discovery on Defendant on August 17, 2023
+  - Defendant served responses to Plaintiff's requests for production on September 18, 2023
+  - Plaintiff filed a motion to compel further responses on December 5, 2023
+disputes:
+  - Sufficiency of Defendant's responses to Plaintiff's requests for production
+  - Applicability of meet and confer requirements
+acts:
+  - Plaintiff propounded discovery
+  - Defendant served responses
+  - Plaintiff filed motion to compel further responses
+  - Parties failed to conduct direct meet and confer
+agreements:
+  - Parties stipulated to a protective order
+laws:
+  - California Code of Civil Procedure
+  - California Rules of Court
+case_citations:
+  - None
+statutes:
+  - None
+roles:
+  - Judge: Ordering parties to conduct meet and confer and submit joint statement
+    Plaintiff: Requesting further responses from Defendant
+    Defendant: Resisting Plaintiff's motion and maintaining current responses
+significant_statements:
+  - Parties must conduct direct meet and confer
+  - Joint statement of remaining issues must be filed
+```
+
+And here is a summary of the judge's tentative ruling in English text:
+
+The judge has decided to order the parties to conduct a meaningful meet and confer to resolve the dispute over the sufficiency of Defendant's responses to Plaintiff's requests for production. The parties are also required to file a joint statement of the remaining issues, which should outline the matters in dispute and the arguments on both sides. The judge will not decide the motion on the merits at this time, but will instead set a hearing date and schedule for the parties to report on the status of their meet and confer efforts.

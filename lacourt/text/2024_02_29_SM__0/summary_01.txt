@@ -1,0 +1,55 @@
+Here is the YAML summary of the Judge's Tentative Ruling:
+
+```
+case_number: 22SMCV00534
+plaintiff: Peter Sjostrand
+defendant: Bye Bye House, Inc.
+people_names:
+  - Peter Sjostrand
+  - Bye Bye House, Inc.
+company_names:
+  - Bye Bye House, Inc.
+places:
+  - None
+dates:
+  - 4-14-22
+  - 1-5-24
+  - 1-22-24
+  - 2-29-24
+  - 2-5-24
+events:
+  - Motion for Reconsideration
+  - Motion to expunge lis pendens
+  - Writ of Mandate
+money: None
+intentions:
+  - Plaintiff seeks reconsideration of order granting motion to expunge lis pendens
+disputes:
+  - Procedural mechanism for appealing order
+acts:
+  - Plaintiff filed incorrect motion to appeal
+  - Plaintiff failed to state new or different facts, circumstances, or law
+agreements:
+  - CCP § 1008(a)
+  - CCP § 405.39
+laws:
+  - California Code of Civil Procedure
+  - California Code of Civil Procedure (CCP) § 1008(a)
+  - California Code of Civil Procedure (CCP) § 405.39
+case_citations:
+  - J&A Mash & Barrel, LLC, supra, 74 Cal.App.5th at p. 16
+statutes:
+  - CCP § 1008(a)
+  - CCP § 405.39
+roles:
+  - Judge
+  - Plaintiff
+  - Defendant
+significant_statements:
+  - A motion for reconsideration is not the correct procedural mechanism by which to appeal an order granting a motion to expunge lis pendens.
+  - A writ of mandate within 20 days pursuant to CCP § 405.39 is the exclusive means for challenging an order granting a motion to expunge lis pendens.
+```
+
+And here is a summary of the Judge's Tentative Ruling in English text:
+
+The Court has issued a tentative ruling denying Plaintiff Peter Sjostrand's Motion for Reconsideration (CCP § 1008(a)) against Defendant Bye Bye House, Inc. The Plaintiff filed an incorrect motion to appeal an order granting a motion to expunge lis pendens, which is not the correct procedural mechanism. Instead, the Plaintiff should have filed a petition for review and writ of mandate pursuant to CCP § 405.39. Additionally, the Plaintiff failed to state the necessary elements required under CCP § 1008(a) in their motion for reconsideration.
