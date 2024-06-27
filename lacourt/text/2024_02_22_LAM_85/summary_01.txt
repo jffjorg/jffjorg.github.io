@@ -1,0 +1,32 @@
+Here is a summary of the Judge's Tentative Ruling in YAML format:
+
+```
+case_number: 22STCP04207
+hearing_date: February 22, 2024
+dept: 85
+
+people_names:
+  - Megeen McLaughlin
+  - Ryan McLaughlin
+  - Marilyn J. Lavender
+  - Stephen Keck
+  - Carolyn Dabney
+  - Edward Francis
+  - Dan Murdoch
+  - Gary Wong
+
+company_names:
+  - California Department of Transportation (Caltrans)
+  - Department of General Services
+
+places:
+  - 1110 Glendon Way
+  - 854 Bank Street
+  - 5512 Atlas Street
+  - 5501 Berkshire Drive
+  - 5563 Village Grn
+
+dates:
+  - September 1991
+  - December 1999
+  - January 2001

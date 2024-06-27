@@ -1,0 +1,62 @@
+Here is the summary in YAML format:
+
+```
+case_number: 22STCV32810
+plaintiff: Lisa L. Saver
+defendant: Ezequiel Flores Barreto, Hugo Quijada Aldana, Does 1 through 10
+people_names:
+  - Lisa L. Saver
+  - Ezequiel Flores Barreto
+  - Hugo Quijada Aldana
+company_names: []
+places:
+  - California
+dates:
+  - October 6, 2022
+  - January 13, 2021
+  - January 19, 2024
+  - April 4, 2024
+  - February 22, 2024
+  - February 6, 2025
+events:
+  - Auto accident
+  - Filing of complaint
+  - Filing of motion to continue trial
+  - Granting of motion to continue trial
+money: []
+intentions:
+  - To continue trial date
+facts:
+  - Plaintiff filed complaint on October 6, 2022
+  - No answer has been filed
+  - No proof of service has been filed
+  - Plaintiff filed motion to continue trial on January 19, 2024
+  - No opposition has been filed
+disputes:
+  - Dispute over trial date
+acts:
+  - Plaintiff's attempts to serve defendants
+  - Failure to obtain proof of service
+agreements: []
+laws:
+  - California Code of Civil Procedure § 128(a)(8)
+  - California Rules of Court, Rule 3.1332(c) and (d)
+case_citations:
+  - Color-Vue, Inc. v. Abrams (1996) 44 Cal.App.4th 1599, 1603
+  - Park Motors, Inc. v. Cozens (1975) 49 Cal.App.3d 12, 18
+statutes:
+  - California Code of Civil Procedure § 128(a)(8)
+  - California Rules of Court, Rule 3.1332(c) and (d)
+roles:
+  - Judge
+  - Plaintiff (Lisa L. Saver)
+  - Defendant (Ezequiel Flores Barreto, Hugo Quijada Aldana, Does 1 through 10)
+significant_statements:
+  - The motion is granted.
+  - Plaintiff has shown good cause for a continuance to serve defendants with proof of service.
+  - The trial date is advanced and continued to February 6, 2025.
+```
+
+And here is a summary of the judge's tentative ruling in English text:
+
+The judge has granted the motion filed by Plaintiff Lisa L. Saver to continue the trial date. The motion was filed because Plaintiff was unable to serve the defendants with proof of service. Despite attempts to serve the defendants at the addresses listed in the Traffic Collision Report, Plaintiff was unsuccessful. The judge concluded that Plaintiff has shown good cause for a continuance to serve the defendants with proof of service and granted the motion. As a result, the trial date has been advanced and continued to February 6, 2025, and the final status conference and all deadlines have been reset based on the new trial date.

@@ -1,0 +1,51 @@
+Here is the summary of the judge's tentative ruling in YAML format:
+
+```
+case_number: 23STCV25631
+plaintiff: Mural Media LLC 401k Plan
+defendant: Linda J. Maultsby
+people_names:
+  - Linda J. Maultsby
+company_names:
+  - Mural Media LLC
+places:
+  - Los Angeles
+  - Sonoma
+  - Orange
+dates:
+  - February 22, 2024
+events:
+  - Motion to transfer case
+money: None
+intentions:
+  - To transfer the case to another county
+  - To deny the motion to transfer
+facts:
+  - Defendant has not filed an answer
+  - Defendant has not suggested another venue that would be appropriate
+  - Subject property is in Los Angeles
+  - Witnesses are apparently in Los Angeles
+disputes:
+  - Convenience of witnesses and ends of justice
+acts:
+  - Defendant moves to transfer the case
+  - Plaintiff opposes the motion
+  - Court denies the motion
+agreements: None
+laws:
+  - California Civil Procedure Code section 397, subdivision (c)
+case_citations: None
+statutes:
+  - California Civil Procedure Code section 397, subdivision (c)
+roles:
+  - Judge
+  - Plaintiff
+  - Defendant
+significant_statements:
+  - The Court DENIES Defendant's motion.
+  - The notion that Los Angeles is an inconvenient forum, or that some other forum is more convenient, does not seem credible on this record.
+```
+
+And here is the English-text summary:
+
+The judge has made a tentative ruling in the case of Mural Media LLC 401k Plan vs. Linda J. Maultsby, denying the defendant's motion to transfer the case to another county. The defendant, Linda J. Maultsby, had moved to transfer the case, citing inconvenience, but the court found that she had not shown an entitlement to transfer under California Civil Procedure Code section 397, subdivision (c). The court also found that the defendant had not filed an answer, making the motion premature, and that she had not suggested another venue that would be appropriate. The court noted that the subject property is located in Los Angeles, where the defendant is also located, and that other witnesses are apparently in the area, making it convenient for them to testify. The court also found that the out-of-county witnesses identified by the defendant would not be relevant or admissible. Therefore, the court denied the motion to transfer the case.

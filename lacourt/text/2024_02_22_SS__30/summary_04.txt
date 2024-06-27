@@ -1,0 +1,69 @@
+Here is the summary in YAML format:
+
+```
+case_number: 21STCV13491
+hearing_date: 2024-02-22
+department: 30
+plaintiff:
+  name: Tawny Marie Byrd
+  legal_name: Tawny Marie Byrd
+defendant:
+  name: Emily D. Linares Olivares
+  et_al: true
+people:
+  - Tawny Marie Byrd
+  - Emily D. Linares Olivares
+companies:
+  - none
+places:
+  - none
+dates:
+  - 2023-03-07
+  - 2023-03-22
+  - 2023-03-27
+  - 2023-04-07
+  - 2023-10-16
+  - 2023-11-01
+events:
+  - deposition notice
+  - failed appearance
+  - request for sanctions
+money:
+  - none
+intentions:
+  - compel deposition
+  - request sanctions
+facts:
+  - Plaintiff failed to appear for deposition
+  - Plaintiff failed to notify parties of non-appearance
+  - Defendant served deposition notices
+  - Defendant took certificates of non-appearance
+disputes:
+  - Defendant's motion to compel deposition
+  - Request for sanctions
+acts:
+  - Serving deposition notices
+  - Requesting deposition dates
+  - Taking certificates of non-appearance
+agreements:
+  - none
+laws:
+  - Code of Civil Procedure (CCP) sections 2025.010, 2025.410, 2025.450(a)(b)
+case_citations:
+  - Code Civ. Proc., § 2025.010
+  - Code Civ. Proc., § 2025.450(a)
+  - Code Civ. Proc., § 2025.450(b)
+statutes:
+  - CCP sections 2025.010, 2025.410, 2025.450(a)(b)
+roles:
+  - Judge
+  - Plaintiff (Tawny Marie Byrd)
+  - Defendant (Emily D. Linares Olivares)
+significant_statements:
+  - The motion to compel deposition is denied without prejudice.
+  - The request for sanctions is denied.
+```
+
+And here is a summary of the judge's tentative ruling in English text:
+
+The defendant's motion to compel the deposition of the plaintiff and request for sanctions is denied without prejudice. The defendant served the plaintiff with deposition notices, but the plaintiff failed to appear for the deposition or notify the parties of non-appearance on multiple occasions. The court cannot grant the motion because the defendant did not attach any deposition notice to the motion, and the plaintiff was not properly served. As a result, the request for sanctions is also denied.

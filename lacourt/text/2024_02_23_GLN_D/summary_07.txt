@@ -1,0 +1,64 @@
+Here is the summary in YAML format:
+
+```
+case_number: 23GDCV01864
+plaintiff_name: Ally Bank
+defendant_name: BDR Marketing Inc. and Michael J. Greenberg
+people_names:
+  - Michael J. Greenberg
+company_names:
+  - Ally Bank
+  - BDR Marketing Inc.
+places:
+  - California
+dates:
+  - February 23, 2024
+  - (Contract date)
+  - (Default date)
+events:
+  - Default on payment
+  - Demand for surrender
+  - Opposition to writ application
+money:
+  - $250,206.31
+  - $338,600
+  - $353,700
+  - $176,787.38
+intentions:
+  - Plaintiff seeks writ of possession
+  - Defendant opposes writ application
+facts:
+  - Contract for sale of motor vehicle
+  - Default on payment
+  - Plaintiff's right to immediate possession
+  - Defendant's interest in property
+disputes:
+  - Standing of plaintiff to pursue writ
+  - Validity of plaintiff's claim
+acts:
+  - Assignment of contract
+  - Filing of security interest
+  - Demand for surrender
+agreements:
+  - Contract for sale of motor vehicle
+  - Assignment agreement
+laws:
+  - CCP § 512.060
+  - CCP § 511.090
+  - CCP § 515.010
+  - Montana Notice of Security Interest
+statutes:
+  - California Code of Civil Procedure
+roles:
+  - Judge
+  - Plaintiff (Ally Bank)
+  - Defendant (BDR Marketing Inc. and Michael J. Greenberg)
+significant statements:
+  - Plaintiff's claim has "probable validity"
+  - Plaintiff's standing to pursue writ is unclear
+  - Undertaking required in the sum of $176,787.38
+```
+
+And here is the English-text summary:
+
+This is a tentative ruling by the Judge regarding a writ of possession application by Ally Bank against BDR Marketing Inc. and Michael J. Greenberg. The application is unopposed, but the Judge has concerns about the plaintiff's standing to pursue the writ, as there is no documentation of an assignment and the security holder appears to be Ally Financial, not Ally Bank. The Judge notes that the plaintiff has the right to immediate possession of the vehicle under the contract, but the writ will not issue until the plaintiff files an undertaking in the amount of $176,787.38. The Judge also requires the plaintiff to establish the probable validity of its claim to possession of the property.

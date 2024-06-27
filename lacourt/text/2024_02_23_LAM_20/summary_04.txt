@@ -1,0 +1,53 @@
+Here is the summary in YAML format:
+
+```
+Case Number: ???
+Plaintiff's Name: Luis and Maria Caceres
+Defendant's Name: Joe Nishanian
+People-Names:
+  - Luis Caceres
+  - Maria Caceres
+  - Joe Nishanian
+Company-Names: None
+Places: None
+Dates:
+  - ???
+Events:
+  - Default Judgment Application
+Money:
+  - $100,000 (requested by Plaintiffs)
+  - $25,001 (jurisdictional minimum)
+Intentions:
+  - Plaintiffs seek default judgment against Defendant
+  - Defendant has not responded to the complaint
+Facts:
+  - Defendant is in default
+  - Plaintiffs have not specified the amount of damages
+Disputes:
+  - Breach of warranty of habitability
+  - Amount of damages
+Acts:
+  - Plaintiffs have failed to specify damages
+  - Plaintiffs have failed to dismiss Doe Defendants
+  - Plaintiffs have failed to use form CIV-100 for damages
+Agreements: None
+Laws:
+  - Code Civ. Proc. § 580
+  - Electronic Funds Solutions, LLC v. Murphy (2005)
+  - Cole v. Roebling Const. Co. (1909)
+  - Leo v. Dunlap (1968)
+Case Citations:
+  - Code Civ. Proc. § 580
+  - Electronic Funds Solutions, LLC v. Murphy (2005)
+  - Cole v. Roebling Const. Co. (1909)
+  - Leo v. Dunlap (1968)
+Statutes:
+  - Code Civ. Proc. § 580
+Roles: None
+Significant Statements:
+  - "The relief granted to the plaintiff, if there is no answer, cannot exceed that demanded in the complaint . . . ."
+```
+
+And here is the English-text summary:
+
+The judge has issued a tentative ruling on the matter of breach of warranty of habitability, in which Plaintiffs Luis and Maria Caceres are seeking default judgment against Defendant Joe Nishanian. However, the Complaint fails to make any specific request for damages, which is problematic under Code Civ. Proc. § 580. The judge notes that phrases such as "in an amount not less than" do not give notice for the purposes of Code Civ. Proc. § 580. The judge orders the Plaintiffs to either accept the jurisdictional minimum of $25,001 in damages or to amend the Complaint's allegations as to damages, which would be a material change opening the Defendant's default. The judge also notes that the Plaintiffs failed to specifically explain how the damages were computed, dismiss the Doe Defendants, and request damages on form CIV-100. As a result, the Default Judgment Application is denied without prejudice, and the Plaintiffs are ordered to give notice.

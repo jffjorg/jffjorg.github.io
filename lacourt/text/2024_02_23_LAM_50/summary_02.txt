@@ -1,0 +1,60 @@
+Here is the summary in YAML format:
+
+```
+case_number: unknown
+plaintiff_name: Mr. Little
+defendant_name: Opposing Parties
+people_names:
+  - Mr. Little
+  - Kennedy
+company_names:
+  - unknown
+places:
+  - unknown
+dates:
+  - 2024-02-08
+  - 2023-11-13
+  - 2024-01-24
+  - 2024-01-31
+events:
+  - Notice of Errata
+  - Motion for Appellate Attorney's Fees
+money:
+  - $845
+  - $590
+  - $625
+  - $680
+intentions:
+  - clarify hourly rate
+  - request appellate attorney's fees
+facts:
+  - No opposition was filed to Plaintiff's motion for appellate attorney's fees
+  - Plaintiff's counsel stated that Mr. Little's hourly rate is $845, discounted to $590-$625
+  - Plaintiff's counsel then stated that Mr. Little's current discounted rate is $680
+disputes:
+  - Unclear hourly rate for attorney Robert Little
+  - Request for appellate attorney's fees
+acts:
+  - Plaintiff filed a motion for appellate attorney's fees
+  - Opposing Parties filed a notice of errata regarding their opposition to Mr. Little's supplemental declaration
+agreements:
+  - unknown
+laws:
+  - unknown
+case_citations:
+  - January 24, 2024 Order
+  - Kennedy Decl.
+statutes:
+  - unknown
+roles:
+  - Judge
+  - Plaintiff
+  - Defendant
+  - Attorney
+significant_statements:
+  - The Court finds that in his January 31, 2024 declaration, Mr. Little has clarified what is requested hourly rate are.
+```
+
+And here is the English-text summary:
+
+This tentative ruling concerns the opposition attached to the Opposing Parties' February 8, 2024 notice of errata regarding their opposition to Mr. Little's supplemental declaration. The Court notes that no opposition was filed to Plaintiff's November 13, 2023 motion for appellate attorney's fees. The Court had previously expressed uncertainty about the hourly rate requested by attorney Robert Little, citing conflicting statements in the Plaintiff's counsel's declaration. However, in his January 31, 2024 declaration, Mr. Little has clarified the requested hourly rates. The Court's intention is to clarify the hourly rate and consider the request for appellate attorney's fees.

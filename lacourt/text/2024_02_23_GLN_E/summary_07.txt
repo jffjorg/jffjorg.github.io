@@ -1,0 +1,51 @@
+Here is the case summary in YAML format:
+
+```
+case_number: EC065899
+hearing_date: 2024-02-23
+department: E
+trial_date: 2024-04-15
+case_name: FAC KV ELECTRIC, INC. v. FAIRVIEW EAST, LLC; TAI ON HO; ERIC HO; UNI-GLORY DEVELOPMENT, INC.; SEM CONSTRUCTION MANAGEMENT, INC.; KEVIN GUO; and DOES 1-20 inclusive
+cross_complaint: FAIRVIEW EAST, LLC, a California limited liability company; v. KV ELECTRIC, INC., a California corporation; MIN SHANG KO, an individual; and DOES 1-20 inclusive
+moving_party: Fairview East, LLC; Tai On Ho aka Eric Ho; and Kevin Guo
+responding_party: KV Electric, Inc.
+moving_papers:
+  - Notice/Motion
+  - Separate Statement
+  - Request for Judicial Notice
+  - Proposed Order
+opposing_papers:
+  - Opposition
+  - Request to Strike Exhibits 2 & 3
+  - Request for Judicial Notice
+  - Separate Statement
+reply_papers:
+  - Reply
+  - Responses to Plaintiff's Separate Statement
+  - Roland Ho Declaration
+sur_reply: Plaintiff's Objections to Defendant's Response to Plaintiff's Separate Statement and objections to the declaration of Roland Ho
+summary_judgment: yes
+summary_adjudication: yes
+causes_of_action:
+  - First Cause of Action: Breach of Written Contract
+  - Second Cause of Action: Breach of Oral Contract
+  - Third Cause of Action: Breach of Written Contract
+  - Fourth Cause of Action: Intentional or Negligent Misrepresentation
+  - Fourth Cause of Action: Concealment
+  - Fourth Cause of Action: Promise Made Without Intention to Perform
+  - Fifth Cause of Action: Common Counts
+  - Sixth Cause of Action: Unfair Business Practices
+  - Seventh Cause of Action: Foreclosure of Mechanic's Lien
+```
+
+And here is a summary of the case in English text:
+
+This is a tentative ruling on a motion for summary judgment and summary adjudication filed by defendants Fairview East, LLC, Tai On Ho aka Eric Ho, and Kevin Guo. The motion is made in response to a complaint filed by plaintiff KV Electric, Inc. alleging various causes of action, including breach of written and oral contracts, intentional or negligent misrepresentation, concealment, promise made without intention to perform, common counts, unfair business practices, and foreclosure of mechanic's lien.
+
+The defendants argue that none of the causes of action have merit and that there is no triable issue of material fact. They request summary judgment and summary adjudication as to the entire complaint.
+
+The court finds that the defendants have not met their burden of showing that one or more elements of the causes of action cannot be established. The court also notes that the defendants' motion does not address the issue of whether the parties to the complaint are the same as the parties to the cross-complaint.
+
+The court denies the motion for summary judgment and summary adjudication as to the first through seventh causes of action, finding that the defendants have not established that the causes of action are without merit. The court also denies the motion to strike exhibits 2 and 3 attached to the defendants' request for judicial notice.
+
+The court grants the opposition's request for judicial notice and orders the parties to address the issue of whether all parties to the action were served with the motion.

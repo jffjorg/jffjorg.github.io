@@ -1,0 +1,68 @@
+Here is the summary in YAML format:
+
+```
+case_number: 22STCV18567
+hearing_date: 2024-02-23
+dept: 52
+plaintiff:
+  name: David Abbasi
+defendant:
+  name: Jerry Davidson
+people_names:
+  - David Abbasi
+  - Jerry Davidson
+  - Perrin Davidson
+company_names: []
+places:
+  - California
+  - Los Angeles
+dates:
+  - 2023-07-25
+  - 2023-09-19
+events:
+  - Order compelling further responses to interrogatories
+  - Order compelling further responses to requests for production
+  - Order compelling further responses to requests for admission
+  - Service of supplemental discovery responses
+  - Motion for sanctions
+money:
+  - $3,910
+  - $3,560
+  - $3,210
+intentions:
+  - To impose sanctions on Jerry Davidson and his counsel
+  - To deem matters admitted
+facts:
+  - Jerry Davidson disobeyed court orders
+  - Jerry Davidson failed to serve supplemental discovery responses
+  - Plaintiff received copies of the responses
+disputes:
+  - Disobedience of court orders
+  - Failure to serve discovery responses
+  - Monetary sanctions
+acts:
+  - Service of supplemental discovery responses
+  - Failure to serve supplemental discovery responses
+agreements:
+  - Court orders
+laws:
+  - CCP § 2030.300(e)
+  - CCP § 2031.310(i)
+  - CCP § 2033.290(e)
+  - CCP § 1013a(1)-(4)
+case_citations:
+  - Lopez v. Watchtower Bible & Tract Society of New York, Inc.
+  - Laguna Auto Body v. Farmers Ins. Exchange
+roles:
+  - Judge
+  - Plaintiff
+  - Defendant
+  - Counsel
+significant_statements:
+  - The court will exercise its discretion only to impose further monetary sanctions.
+  - Discovery sanctions should be imposed incrementally, starting with monetary sanctions and ending with the ultimate sanction of termination.
+```
+
+And here is the English text to summarize the judge's tentative ruling:
+
+The judge has issued a tentative ruling on the motions for sanctions brought by plaintiff David Abbasi against defendant Jerry Davidson. The motions are based on Jerry Davidson's failure to comply with court orders compelling further responses to special interrogatories, requests for production, and requests for admission. The judge finds that Jerry Davidson disobeyed the court's orders and failed to serve the supplemental discovery responses. Despite this, the judge will only impose further monetary sanctions on Jerry Davidson and his counsel, Perrin Davidson, and will not grant terminating, issue, or evidence sanctions. The judge grants the motions for sanctions regarding special interrogatories, requests for production, and requests for admission, and orders Jerry Davidson and his counsel to pay plaintiff $3,910, $3,560, and $3,210 in sanctions, respectively.
