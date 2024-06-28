@@ -1,0 +1,102 @@
+Here is the summary in YAML format:
+
+```
+case_number: 23STCV06117
+plaintiff_name: Curtis Cash
+defendant_name: City of Los Angeles
+people_names:
+  - Curtis Cash
+  - Evan Selik
+company_names:
+  - McCathern LLP
+places:
+  - Los Angeles
+dates:
+  - March 20, 2023
+  - January 5, 2024
+  - January 19, 2024
+  - June 27, 2023
+  - August 30, 2023
+  - August 14, 2023
+  - October 2023
+  - January 31, 2024
+  - August 11, 2023
+events:
+  - Filing of complaint
+  - Filing of motions to compel
+  - Service of discovery
+  - Filing of responses
+  - Filing of substitution of attorney
+money: None
+intentions:
+  - To compel discovery responses
+  - To seek sanctions
+  - To clarify attorney representation
+facts:
+  - Plaintiff filed a whistleblower retaliation claim
+  - Defendant filed motions to compel discovery responses
+  - Plaintiff served belated responses
+  - Defendant failed to serve Form Interrogatories – Employment
+disputes:
+  - Defendant's request for sanctions
+  - Plaintiff's failure to serve timely responses
+acts:
+  - Service of discovery
+  - Filing of responses
+  - Filing of motions to compel
+  - Filing of substitution of attorney
+agreements:
+  - Stipulation for extension of discovery deadline
+  - Service of Form Interrogatories – Employment
+laws:
+  - California Code of Civil Procedure (Code Civ. Proc.)
+  - Labor Code section 1102.5
+  - Code of Civil Procedure section 2023.040
+  - Code of Civil Procedure section 2030.260(a)
+  - Code of Civil Procedure section 2031.260(a)
+  - Code of Civil Procedure section 2033.250(a)
+  - Code of Civil Procedure section 2030.290(b)
+  - Code of Civil Procedure section 2031.300(b)
+  - Code of Civil Procedure section 2033.280(b)
+  - Code of Civil Procedure section 2030.290(a)
+  - Code of Civil Procedure section 2031.300(a)
+  - Code of Civil Procedure section 2033.280(a)
+case_citations:
+  - Labor Code section 1102.5
+  - Code of Civil Procedure section 2023.040
+  - Code of Civil Procedure section 2030.260(a)
+  - Code of Civil Procedure section 2031.260(a)
+  - Code of Civil Procedure section 2033.250(a)
+  - Code of Civil Procedure section 2030.290(b)
+  - Code of Civil Procedure section 2031.300(b)
+  - Code of Civil Procedure section 2033.280(b)
+  - Code of Civil Procedure section 2030.290(a)
+  - Code of Civil Procedure section 2031.300(a)
+  - Code of Civil Procedure section 2033.280(a)
+statutes:
+  - Labor Code section 1102.5
+  - Code of Civil Procedure section 2023.040
+  - Code of Civil Procedure section 2030.260(a)
+  - Code of Civil Procedure section 2031.260(a)
+  - Code of Civil Procedure section 2033.250(a)
+  - Code of Civil Procedure section 2030.290(b)
+  - Code of Civil Procedure section 2031.300(b)
+  - Code of Civil Procedure section 2033.280(b)
+  - Code of Civil Procedure section 2030.290(a)
+  - Code of Civil Procedure section 2031.300(a)
+  - Code of Civil Procedure section 2033.280(a)
+roles:
+  - Plaintiff: Curtis Cash
+  - Defendant: City of Los Angeles
+  - Counsel: Evan Selik
+  - Judge: [Judge's name]
+significant_statements:
+  - "Defendant's motions to compel are GRANTED."
+  - "Plaintiff shall serve responses to the subject discovery within 15 days."
+  - "Sanctions are denied."
+  - "Plaintiff shall file a substitution of attorney reflecting Evan Selik as his current attorney within 10 days of this order."
+```
+
+English-text summary:
+
+The tentative ruling addresses the defendant's motions to compel discovery responses from the plaintiff. The defendant served discovery requests on June 27, 2023, and granted an extension to August 30, 2023, for responses. However, the plaintiff did not serve responses until January 19, 2024, without objection. The defendant's request for sanctions is denied because it failed to identify all parties against whom sanctions were sought. The plaintiff acted with substantial justification in serving belated responses. The court grants the defendant's motions to compel and orders the plaintiff to serve responses within 15 days. Additionally, the court notes that the plaintiff filed a substitution of attorney on August 11, 2023, reflecting his pro per status, but has not since filed a new substitution of attorney despite being represented by counsel.

@@ -1,0 +1,64 @@
+Here is the summary in YAML format:
+
+```
+Case Number: unknown
+Plaintiff's Name: Hughy Addison
+Defendant's Name: City of Santa Monica
+People-Names:
+  - Hughy Addison
+  - unknown (City of Santa Monica Risk Management Liability Claims Unit)
+  - unknown (City of Santa Monica Bus Company)
+Company-Names:
+  - City of Santa Monica
+  - City of Santa Monica Risk Management Liability Claims Unit
+  - City of Santa Monica Bus Company
+Places:
+  - Santa Monica
+Dates:
+  - October 8, 2021
+  - August 24, 2023
+  - October 2, 2023
+  - October 3, 2023
+  - October 23, 2023
+  - December 14, 2023
+Events:
+  - Plaintiff files form complaint in pro per
+  - Defendant files Demurrer and Motion to Strike
+  - Court sustains Demurrer and denies Motion to Strike
+  - Plaintiff given 20 days to amend complaint
+  - Deadline passes without amended complaint
+  - Defendant files Motion to Dismiss
+Money:
+  - punitive damages
+Intentions:
+  - Plaintiff seeks punitive damages
+  - Defendant seeks to dismiss case
+Facts:
+  - Plaintiff suffered injury while on Defendant's bus
+  - Defendant's Demurrer was sustained
+  - Plaintiff failed to amend complaint
+Disputes:
+  - Plaintiff's lack of compliance with court order
+Acts:
+  - Plaintiff filed form complaint
+  - Defendant filed Demurrer and Motion to Strike
+  - Plaintiff failed to amend complaint
+Agreements:
+  - None
+Laws:
+  - Code of Civil Procedure section 581, subdivision (f)(2)
+Case Citations:
+  - none
+Statutes:
+  - Code of Civil Procedure section 581, subdivision (f)(2)
+Roles:
+  - Judge
+  - Plaintiff (Hughy Addison)
+  - Defendant (City of Santa Monica)
+Significant Statements:
+  - "Defendant's Motion to Dismiss for Failure to Amend Complaint is GRANTED."
+```
+
+And here is a summary of the judge's tentative ruling in English text:
+
+The City of Santa Monica has moved to dismiss the case against it, claiming that the plaintiff, Hughy Addison, failed to amend his complaint after a demurrer was sustained. The plaintiff initially filed a handwritten complaint in pro per, alleging motor vehicle negligence and seeking punitive damages. The court sustained the demurrer and gave the plaintiff 20 days to amend the complaint. However, the deadline passed without the plaintiff filing an amended complaint. The defendant has now moved to dismiss the case, citing the plaintiff's failure to comply with the court's order. The judge has granted the motion, concluding that the defendant's motion is proper and that the plaintiff has failed to file an amended complaint despite being given multiple opportunities to do so.

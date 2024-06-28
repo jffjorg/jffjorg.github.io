@@ -1,0 +1,73 @@
+Here is the summary in YAML format:
+
+```
+---
+case_number: BC675696
+hearing_date: 2024-01-31
+department: 55
+
+people:
+  - name: Erika Valadez
+  - name: Maria Estela Rosas
+  - name: Estela Rosas
+
+companies: []
+
+places: []
+
+dates:
+  - 2022-01-12
+  - 2023-04-10
+  - 2023-07-12
+  - 2023-12-12
+  - 2023-12-13
+  - 2024-01-31
+  - 2024-04-12
+
+events:
+  - Petition of Defendants/Petitioners to Confirm Arbitration Award as to Respondent Estela Rosas
+  - Confirmation of arbitration award regarding Plaintiff/Respondent Erika Valadez
+  - Appeal of 2022-01-12 order
+  - Hearing on petition to confirm arbitration award
+
+money: []
+
+intentions:
+  - To confirm arbitration award as to Plaintiff/Respondent Maria Estela Rosas
+
+facts:
+  - Court confirmed arbitration award regarding Plaintiff/Respondent Erika Valadez on 2022-01-12
+  - Appeal was submitted on 2023-12-13 with an anticipated due date of 2024-03-01
+  - Court has ruled on 2023-04-10, 2023-07-12, and 2023-12-12
+
+disputes:
+  - Dispute over confirmation of arbitration award as to Plaintiff/Respondent Maria Estela Rosas
+
+acts:
+  - Petition filed by Defendants to confirm arbitration award
+  - Appeal filed by Plaintiffs of 2022-01-12 order
+
+agreements: []
+
+laws:
+  - Court of Appeal records
+  - Appellate case number B318125
+
+case_citations: []
+
+statutes: []
+
+roles:
+  - Judge
+  - Plaintiff/Respondent Erika Valadez
+  - Plaintiff/Respondent Maria Estela Rosas
+  - Defendant/Petitioner
+
+significant_statements:
+  - The Court concludes that the appellate decision in the B318125 case could impact the outcome of the Defendants' current petition.
+  - The Court should rule after considering an anticipated appellate ruling that likely would provide directions or guidance.
+```
+
+And here is the English-text summary:
+
+The Judge has issued a tentative ruling in the case of BC675696, regarding a petition to confirm an arbitration award as to Respondent Estela Rosas. The petition was filed by the Defendants, and the hearing was continued to April 12, 2024, pending the outcome of an appeal in a related case. The Judge has taken into account the fact that the Court has already confirmed an arbitration award regarding Plaintiff/Respondent Erika Valadez, and that the appeal of that order is still pending. The Judge has decided to wait for the outcome of the appeal before making a ruling on the petition, as the appellate decision could impact the outcome of the current petition.

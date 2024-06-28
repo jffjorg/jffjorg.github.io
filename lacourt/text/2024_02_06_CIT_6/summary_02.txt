@@ -1,0 +1,68 @@
+Here is the summary in YAML format:
+
+```
+case_number: 22PSCV01016
+plaintiff_names:
+  - Gonzalo R. Vazquez
+  - Leticia Vazquez
+defendant_names:
+  - Arcadio Toribio
+  - Joanna Aranda
+people_names:
+  - Gonzalo R. Vazquez
+  - Leticia Vazquez
+  - Arcadio Toribio
+  - Joanna Aranda
+company_names: []
+places:
+  - California
+dates:
+  - September 8, 2022
+  - May 2, 2023
+  - December 8, 2023
+  - January 16, 2024
+  - February 6, 2024
+events:
+  - Breach of rental agreement
+  - Default judgment
+  - Request for entry of default judgment
+  - Denial of request for entry of default judgment
+  - Resubmission of request for entry of default judgment
+money:
+  - $23,495.85
+  - $20,628.00
+  - $2,197.85
+  - $0.00
+  - $670.00
+intentions:
+  - Plaintiff's intention to obtain default judgment
+facts:
+  - Breach of rental agreement
+  - Failure to timely respond or appear
+disputes:
+  - Breach of contract
+acts:
+  - Filing of action
+  - Default judgment
+  - Request for entry of default judgment
+agreements:
+  - Rental agreement
+laws:
+  - Code of Civil Procedure section 585
+  - Cal. Rules of Court, rule 3.1800
+  - Code of Civil Procedure section 579
+statutes:
+  - Code of Civil Procedure
+  - Cal. Rules of Court
+roles:
+  - Plaintiff
+  - Defendant
+  - Judge
+significant_statements:
+  - "A party seeking judgment on the default by the court must file a Request for Court Judgment..."
+  - "The Court GRANTS Plaintiff’s request for entry of default judgment in the amount of $23,495.85."
+```
+
+And here is the English-text summary:
+
+The Judge has issued a tentative ruling on the request for entry of default judgment by Plaintiffs Gonzalo R. Vazquez and Leticia Vazquez against Defendants Arcadio Toribio and Joanna Aranda. The Plaintiffs are seeking judgment against the Defendants in the amount of $23,495.85, including damages, interest, and costs. The Judge has granted the request, finding that the Plaintiffs have submitted sufficient evidence to support the judgment. The Judge notes that the Defendants failed to timely respond or appear, and that the Plaintiffs have complied with the necessary procedures for seeking default judgment. The Judge will sign the proposed judgment and take the hearing off-calendar.

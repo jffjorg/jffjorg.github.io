@@ -1,0 +1,91 @@
+Here is the summary of the Tentative Ruling in YAML format:
+
+```
+case_number: 21STCV41627
+hearing_date: January 31, 2024
+dept: 56
+
+people_names:
+  - Walter Cuevas (Plaintiff)
+  - Richard Ray Dudgeon (Defendant)
+  - Centurion Protection Services (Defendant)
+
+company_names:
+  - Centurion Protection Services
+
+places:
+  - Los Angeles County
+  - California
+
+dates:
+  - September 12, 2023
+  - January 5, 2024
+  - January 12, 2024
+  - January 31, 2024
+
+events:
+  - Anti-SLAPP Motion
+  - Appeal of anti-SLAPP Motion
+  - Stay of action
+  - Motion to bifurcate
+  - Bifurcation of trials
+
+money:
+  - Overtime wages
+  - Reimbursement and indemnification
+  - Penalty
+
+intentions:
+  - Plaintiff seeks bifurcation of discovery related to FAC and SAXC
+  - Defendants oppose bifurcation
+
+facts:
+  - Plaintiff alleged private attorneys general act, overtime wages, and other claims
+  - Defendants alleged breach of contract, intentional interference, and other claims
+  - Court granted anti-SLAPP Motion, stayed action pending appeal
+
+disputes:
+  - Whether bifurcation is necessary to promote convenience, avoid prejudice, or promote economy
+
+acts:
+  - Plaintiff filed motion to bifurcate
+  - Defendants filed opposition to motion
+
+agreements:
+  - None mentioned
+
+laws:
+  - California Code of Civil Procedure (CCP) sections 1005, 1048, 598
+  - Labor Code sections 510, 226.7, 203, 1198.5, 226
+  - Penal Code section 637.7
+
+case_citations:
+  - Buran Equipment v. H&C Investment Co. (1983)
+  - Darbun Enters, Inc. v. San Fernando Community Hosp. (2015)
+  - Rincon EV Realty LLC v. CP III Rincon Towers, Inc. (2017)
+
+statutes:
+  - CCP section 1005
+  - CCP section 1048
+  - CCP section 598
+  - Labor Code section 510
+  - Labor Code section 226.7
+  - Labor Code section 203
+  - Labor Code section 1198.5
+  - Labor Code section 226
+  - Penal Code section 637.7
+
+roles:
+  - Judge: Holly J. Fujie
+  - Plaintiff: Walter Cuevas
+  - Defendant: Centurion Protection Services
+  - Defendant: Richard Ray Dudgeon
+
+significant_statements:
+  - The Court DENIES the Motion to bifurcate
+  - The Court finds that the discovery connected to the FAC and SAXC do not raise the same issues and therefore would not negatively impact the economy of the litigation
+```
+
+Here is a summary of the Tentative Ruling in English text:
+
+The Court has considered the motion to bifurcate the discovery related to the FAC and SAXC. The Plaintiff seeks to bifurcate the discovery to avoid the unnecessary expense of duplicative discovery. The Court finds that the discovery connected to the FAC and SAXC do not raise the same issues and therefore would not negatively impact the economy of the litigation. However, the Court denies the Motion because the Plaintiff provides no evidence to support their claim. The Court notes that bifurcation is typically used when the determination of one issue renders other issues moot, but in this case, the issues are not intertwined. The Court also notes that the Plaintiff's motion does not request the relief available under CCP section 1048, which would allow for a bifurcation of the trials on the FAC and SAXC.

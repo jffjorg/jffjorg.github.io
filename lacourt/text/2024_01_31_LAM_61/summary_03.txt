@@ -1,0 +1,55 @@
+Here is the summary in YAML format:
+
+```
+case_number: [not specified]
+plaintiff_name: [not specified]
+defendant_name: [not specified]
+people_names:
+  - Nicholas
+company_names: []
+places: []
+dates:
+  - September 5, 2023
+  - September 6, 2023
+events:
+  - Probate court's ruling
+  - Defendant's motion
+  - Plaintiff's objection
+money: []
+intentions:
+  - To take judicial notice of the probate court's ruling
+  - To determine the validity of the petition
+facts:
+  - The probate court's ruling was made on [not specified]
+  - The petition was filed on September 5, 2023
+  - Defendant's motion was filed on September 6, 2023
+  - Plaintiff objects to taking judicial notice of the probate court's ruling
+disputes:
+  - Plaintiff disputes the validity of the petition
+  - Defendant seeks to take judicial notice of the probate court's ruling
+acts:
+  - The probate court made a ruling
+  - The petition was filed
+  - The defendant's motion was filed
+  - Plaintiff objected to taking judicial notice
+agreements: []
+laws:
+  - Evidence Code § 452, subdiv. (c), (d)
+  - Estate of Nicholas (1986) 177 Cal.App.3d 1071, 1089
+  - [Other relevant laws]
+case_citations:
+  - Estate of Nicholas (1986) 177 Cal.App.3d 1071, 1089
+statutes:
+  - Evidence Code § 452
+roles:
+  - Judge
+  - Plaintiff
+  - Defendant
+significant_statements:
+  - The court need take no notice of the underlying truth of the presumption of fraud
+  - Defendant asks this court to take notice of the ruling and the asserted basis therefore
+```
+
+And here is the English text to summarize the judge's tentative ruling:
+
+The court is considering a defendant's motion to take judicial notice of a probate court's ruling. The plaintiff objects to this, arguing that the request for judicial notice does not specify which facts in the ruling the court is requested to take notice of. However, the court finds this objection unpersuasive, as the defendant is only asking the court to take notice of the ruling and the asserted basis therefore, which is within the scope of judicial notice. The court also notes that it need not take notice of the underlying truth of the presumption of fraud. The petition was filed on September 5, 2023, and the defendant's motion was filed the following day. The court will consider the motion and the petition in further proceedings.

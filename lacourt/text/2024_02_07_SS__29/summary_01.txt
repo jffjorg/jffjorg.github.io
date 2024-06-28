@@ -1,0 +1,64 @@
+Here is the summary in YAML format:
+
+```
+case_number: 20STCV10508
+plaintiff_name: Marcelita Martinez
+defendant_name: Sephora USA, Inc.
+people_names:
+  - Marcelita Martinez
+  - Sephora USA, Inc.
+company_names:
+  - Sephora USA, Inc.
+  - JCPenney
+  - J.C. Penney Properties, Inc.
+places:
+  - California
+dates:
+  - March 16, 2020
+  - May 27, 2018
+  - November 30, 2023
+  - January 11, 2024
+  - February 7, 2024
+  - February 18, 2025
+  - March 25, 2024
+  - March 25, 2025
+events:
+  - Trip and fall on May 27, 2018
+  - Filing of complaint on March 16, 2020
+  - Filing of motion for summary judgment on November 30, 2023
+  - Filing of motion to continue trial on January 11, 2024
+  - Tentative ruling on February 7, 2024
+money: None
+intentions:
+  - To grant the motion to continue trial
+facts:
+  - Plaintiff filed a premises liability cause of action
+  - Defendant filed a motion for summary judgment
+  - Defendant filed a motion to continue trial with no opposition
+disputes:
+  - Whether there is good cause for a continuance
+acts:
+  - Defendant filed a motion to continue trial
+agreements:
+  - None
+laws:
+  - Code Civ. Proc. § 128(a)(8)
+  - California Rules of Court, Rule 3.1332(c) and (d)
+  - Sentry Ins. Co. v. Superior Court (1989) 207 Cal.App.3d 526, 529
+  - Cole v. Superior Court (2022) 87 Cal.App.5th 84, 88
+case_citations:
+  - Color-Vue, Inc. v. Abrams (1996) 44 Cal.App.4th 1599, 1603
+  - Park Motors, Inc. v. Cozens (1975) 49 Cal.App.3d 12, 18
+roles:
+  - Judge: determining whether to grant the motion to continue trial
+  - Plaintiff: filing a premises liability cause of action
+  - Defendant: filing a motion for summary judgment and a motion to continue trial
+significant_statements:
+  - "The power to determine when a continuance should be granted is within the discretion of the trial court." (Color-Vue, Inc. v. Abrams (1996) 44 Cal.App.4th 1599, 1603)
+  - "A trial court has wide latitude in the matter of calendar control including the granting or denying of continuances." (Park Motors, Inc. v. Cozens (1975) 49 Cal.App.3d 12, 18)
+  - "A party's excused inability to obtain essential testimony, documents, or other material evidence despite diligent efforts" is considered good cause for a continuance. (Cal. Rules of Court, Rule 3.1332(c))
+```
+
+Here is a summary of the judge's tentative ruling in English text:
+
+The judge has granted the defendant's motion to continue the trial, which was scheduled for March 25, 2024. The defendant argued that there was good cause for the continuance because it has filed a motion for summary judgment, which is scheduled for hearing on February 18, 2025. The judge found that the defendant has shown good cause for the continuance, as it needs time to have its motion for summary judgment heard. The trial date is advanced and continued to a date on or after March 25, 2025.

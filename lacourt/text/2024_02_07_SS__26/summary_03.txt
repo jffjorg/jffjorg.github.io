@@ -1,0 +1,63 @@
+Here is the summary in YAML format:
+
+```
+case_number: 23STLC02119
+plaintiff_name: Tashika Durisseau
+defendant_name: Veros Credit, LLC
+people_names:
+  - Tashika Durisseau
+  - Naples (defense counsel)
+company_names:
+  - Veros Credit, LLC
+places: null
+dates:
+  - October 17, 2023
+  - January 2, 2024
+  - February 7, 2024
+events:
+  - Propounding of special interrogatories and requests for admission
+  - Failure to respond to discovery
+  - Filing of motions to compel and deem admissions admitted
+  - Granting of motions
+  - Order to serve verified responses
+  - Imposition of sanctions
+money:
+  - $760.00 (amount of sanctions)
+  - $320.00 (hourly rate for attorney time)
+  - $60.00 (costs per motion)
+intentions:
+  - To compel plaintiff to serve verified responses to interrogatories
+  - To deem requests for admission admitted
+  - To impose sanctions for misuse of discovery
+facts:
+  - Defendant propounded special interrogatories and requests for admission
+  - Plaintiff failed to respond to discovery
+  - Defendant filed motions to compel and deem admissions admitted
+disputes:
+  - Plaintiff's failure to respond to discovery
+  - Defendant's request for sanctions
+acts:
+  - Propounding of special interrogatories and requests for admission
+  - Failure to respond to discovery
+  - Filing of motions to compel and deem admissions admitted
+agreements: null
+laws:
+  - Code of Civil Procedure sections 2030.290, 2033.280, 2023.010
+  - Code of Civil Procedure sections 2033.280, 2023.010, 2023.030
+case_citations:
+  - null
+statutes:
+  - Code of Civil Procedure sections 2030.290, 2033.280, 2023.010
+roles:
+  - Tashika Durisseau (plaintiff)
+  - Veros Credit, LLC (defendant)
+  - Naples (defense counsel)
+significant_statements:
+  - The motions to compel and deem admissions admitted are granted.
+  - Plaintiff is ordered to serve verified responses to interrogatories within 20 days.
+  - Plaintiff is ordered to pay sanctions of $760.00 to defense counsel within 20 days.
+```
+
+Here is a summary of the judge's tentative ruling in English text:
+
+The judge grants the defendant's motion to compel responses to special interrogatories and requests for admission, and orders the plaintiff to serve verified responses without objection within 20 days. The judge also deems the requests for admission admitted against the plaintiff. Furthermore, the judge imposes sanctions of $760.00 on the plaintiff for misuse of the discovery process, which must be paid within 20 days. The plaintiff's failure to respond to the discovery requests constitutes a misuse of the discovery process, and the judge finds that the amount of sanctions sought is reasonable based on the lodestar calculation.

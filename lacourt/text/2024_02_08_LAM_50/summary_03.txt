@@ -1,0 +1,35 @@
+Here is a summary of the tentative ruling in YAML format:
+
+```
+case_number: 20STCV01544
+hearing_date: 2024-02-08
+dept: 50
+plaintiff:
+  - Mike Yessian
+  - Mandi Martinez
+defendant:
+  - Garfield Beach CVS LLC
+  - Deborah Padilla
+people:
+  - Mike Yessian
+  - Mandi Martinez
+  - Deborah Padilla
+  - William Pineda
+company:
+  - CVS Pharmacy Store
+places:
+  - Pomona, California
+  - Garfield Beach CVS LLC
+dates:
+  - November 15, 2019
+  - December 2, 2019
+  - January 13, 2020
+  - March 14, 2023
+money:
+  - None mentioned
+intentions:
+  - Intentional infliction of emotional distress
+  - Discrimination
+  - Defamation
+facts:
+  - Plaintiffs visited CVS

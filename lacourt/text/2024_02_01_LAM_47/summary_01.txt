@@ -1,0 +1,68 @@
+Here is the summary in YAML format:
+
+```
+case_number: 21STCV39278
+plaintiff_name: Loretta L. Tobin
+defendant_names:
+  - Solimar Homeowner's Association
+  - Ernst & Haas Management Co., Inc.
+  - David Haas
+people_names:
+  - Theresa M. Traber
+companies:
+  - Solimar Homeowner's Association
+  - Ernst & Haas Management Co., Inc.
+places:
+  - Los Angeles
+  - Orange County
+  - Huntington Beach
+  - Long Beach
+dates:
+  - October 5, 2021
+  - December 29, 2021
+  - May 11, 2022
+  - August 17, 2023
+  - February 1, 2024
+events:
+  - Hearing date: February 1, 2024
+  - Trial date: September 17, 2024
+money: none
+intentions:
+  - Transfer venue to Orange County
+facts:
+  - Plaintiff leased an apartment from Defendants that she alleges contained toxic mold
+  - Defendant Solimar Homeowner's Association argues that the case should be transferred to Orange County
+  - Plaintiff argues that the case should remain in Los Angeles County
+disputes:
+  - Improper venue
+  - Convenience of witnesses
+acts:
+  - Filing of a complaint
+  - Filing of a demurrer
+  - Filing of a motion to transfer venue
+agreements:
+  - Code of Civil Procedure section 396b(a)
+  - Code of Civil Procedure section 395(a)
+  - Code of Civil Procedure section 395.5
+  - Code of Civil Procedure section 397
+laws:
+  - Code of Civil Procedure
+statutes:
+  - Code of Civil Procedure section 396b(a)
+  - Code of Civil Procedure section 395(a)
+  - Code of Civil Procedure section 395.5
+  - Code of Civil Procedure section 397
+roles:
+  - Judge: Theresa M. Traber
+  - Plaintiff: Loretta L. Tobin
+  - Defendant: Solimar Homeowner's Association
+  - Defendant: Ernst & Haas Management Co., Inc.
+  - Defendant: David Haas
+significant statements:
+  - The Court is persuaded by Plaintiff's arguments and by the Court's own review of the allegations in the Complaint that the gravamen of this action is either an injury to Plaintiff's person or a violation of Plaintiff's rights in contract, not an injury to Plaintiff's rights and interests in land.
+  - Venue is proper in any county in which some or all of the Defendants in this action reside.
+```
+
+And here is the English text to summarize the judge's tentative ruling:
+
+The Judge has denied Defendant Solimar Homeowner's Association's Motion to Transfer Venue to Orange County. The Judge has determined that the plaintiff's choice of venue in Los Angeles County is proper, as the defendants, including Ernst & Haas Management Co., Inc. and David Haas, reside in that county. The Judge has also found that the convenience of witnesses is not sufficient to justify a transfer to Orange County, as the defendant has failed to provide sufficient evidence to show that it would be unduly burdensome for witnesses to travel to Los Angeles from Orange County to testify in court.

@@ -1,0 +1,42 @@
+Here is a summary of the judge's tentative ruling in YAML format:
+
+```
+case_number: 21STCV17381
+hearing_date: 2024-02-01
+dept: 37
+moving_party: Defendant Justin Meng
+opposing_party: Plaintiffs Shana Anglin, Christopher Dean Ebersole, and minors Elijiah Makar and Rozlynn Makar
+through their guardian ad litem Shana Anglin
+trial_date: 2024-03-12
+proof_of_service: OK
+
+# Background
+plaintiffs: Shana Anglin, Christopher Dean Ebersole, and minors Elijiah Makar and Rozlynn Makar
+defendants: Patrice Loraine Burton, Alex Villanueva, Justin Meng, Derek Clotworthy, Jose Hurtado
+complex: 4-unit apartment complex in Carson, CA
+events:
+  - May/June 2020: Plaintiffs entered into a verbal agreement with Burton to reside in the complex
+  - July 10, 2020: Burton served Ebersole with a restraining order
+  - July 17, 2020: Lockout occurred, and Plaintiffs called 911
+  - Deputy Meng arrived at the scene and instructed Ebersole to leave for the night and come back in the morning
+
+# Legal Standard
+summary_judgment: Defendant Meng's motion for summary judgment is granted
+summary_adjudication: Not applicable
+
+# Facts
+facts:
+  - Burton was the landlord and resided in a house connected to the complex
+  - Plaintiffs were allowed to reside in the complex in exchange for doing landscaping and repair work
+  - Burton changed the locks on the complex and refused to allow Plaintiffs to enter
+  - Plaintiffs called 911, and Deputy Meng arrived at the scene
+  - Deputy Meng instructed Ebersole to leave for the night and come back in the morning
+
+# Intentions
+intentions:
+  - Defendant Meng's intention was to keep the peace and handle the dispute in a civil manner
+  - Plaintiff's intention was to obtain relief from the court for the alleged violation of their constitutional rights
+
+# Disputes
+disputes:
+  - Whether Defendant Meng's failure to instruct Burton to allow Plaintiffs to reenter the complex was

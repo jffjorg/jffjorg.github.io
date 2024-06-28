@@ -1,0 +1,94 @@
+Here is the YAML summary of the tentative ruling:
+
+```yaml
+Case Number: 21STCV10112
+Hearing Date: January 30, 2024
+Dept: A14
+
+People-Names:
+  - Saundra Putizger (Plaintiff)
+  - Brian Lai, M.D. (Defendant)
+  - Shira Amor Bizaoui, CRNA (Defendant)
+  - Michael D. Antonovich (Judge)
+
+Company-Names:
+  - Advanced Pain Medical Group, Inc. (Defendant)
+  - Antelope Valley Specialty Surgical Center, LLC (Defendant)
+  - Paramount Investigative Services (Non-Party)
+
+Places:
+  - Antelope Valley
+
+Dates:
+  - March 02, 2020
+  - March 05, 2020
+  - April 22, 2021
+  - May 20, 2021
+  - June 24, 2021
+  - November 23, 2022
+  - February 03, 2023
+  - February 08, 2023
+  - July 18, 2023
+  - November 14, 2023
+  - January 17, 2024
+  - January 23, 2024
+  - February 16, 2024
+
+Events:
+  - Plaintiff filed a Complaint
+  - Bizaoui filed an Answer
+  - Dr. Lai filed an Answer
+  - ADMG and AVSSC filed an Answer
+  - Bizaoui filed a Motion for Summary Judgment
+  - Plaintiff filed an Opposition
+  - Bizaoui filed a Reply
+  - Dr. Lai filed a Motion for Protective Order Quashing Subpoena
+  - Plaintiff filed an Opposition
+  - Dr. Lai filed a Reply
+
+Money: None mentioned
+
+Intentions:
+  - Plaintiff seeks discovery of surveillance video and investigative reports
+  - Dr. Lai seeks to quash the subpoena and prevent discovery of the reports
+
+Facts:
+  - Plaintiff underwent an epidural injection on March 5, 2020, which resulted in severe and permanent injuries
+  - Dr. Lai administered the injection at Antelope Valley Specialty Surgical Center, LLC
+  - Plaintiff alleges that Dr. Lai was an employee or contractor of Advanced Pain Medical Group, Inc.
+
+Disputes:
+  - Whether the subpoenaed documents are discoverable
+  - Whether the investigative reports are protected by attorney-client privilege and/or work product doctrine
+
+Acts:
+  - Plaintiff filed a Complaint
+  - Dr. Lai filed a Motion for Protective Order Quashing Subpoena
+
+Agreements:
+  - None mentioned
+
+Laws:
+  - California Code of Civil Procedure (CCP) sections 1985, 1987.1, 2017.010, 2018.030, 2020.010, 2020.020, 2020.220
+  - California Evidence Code section 250
+  - California Rules of Court, Rule 3.1346
+
+Case Citations:
+  - Suezaki v. Superior Court (1962) 58 Cal.2d 166
+  - Flynn v. Superior Court (1979) 89 Cal. App. 3d 491
+  - Greyhound v. Superior Court (1956) 56 Cal.2d 355
+  - Hickman v. Taylor (1947) 329 U.S. 495
+  - National Steel Products Co. v. Superior Court (1985) 164 Cal. App. 3d 476
+  - Fellows v. Superior Court (1980) 108 Cal. App. 3d 55
+  - Coito v. Superior Court (2012) 54 Cal. 4th 480
+  - League of California Cities v. Superior Court (2015) 241 Cal. App. 4th 976
+
+Roles:
+  - Judge Mori
+  - Judge Antonovich
+
+Significant Statements:
+  - The Court notes that Suezaki v. Superior Court holds that surveillance videos are discoverable
+  - The Court finds that the investigative reports are not encompassed by attorney-client privilege
+  - The Court determines that the work product doctrine is not absolute under CCP section 2018.030
+  - The Court grants the Motion for Protective Order Quashing Subpoena in part

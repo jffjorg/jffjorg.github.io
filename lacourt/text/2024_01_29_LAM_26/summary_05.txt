@@ -1,0 +1,54 @@
+Here is the summary in YAML format:
+
+```
+case_number: 23STCP04444
+plaintiff_name: Petitioner
+defendant_name: None
+people_names: Petitioner
+company_names: CA DMV
+places: California
+dates:
+  - January 29, 2024
+  - March 11, 2024
+events:
+  - Probation to run a criminal history assessment
+  - Petitioner to provide identification
+  - Petitioner to provide fingerprint verification
+  - Hearing scheduled
+  - Petition to be continued/denied
+money: None
+intentions:
+  - Probation to assess criminal history
+  - Petitioner to provide necessary information
+  - Court to continue/deny petition
+facts:
+  - Petitioner failed to provide identification
+  - Identification tied to fingerprint on file is necessary
+disputes:
+  - None
+acts:
+  - Petitioner to provide identification options
+  - Probation to run criminal history assessment
+  - Court to schedule hearing
+agreements:
+  - None
+laws:
+  - Probation regulations
+  - California DMV regulations
+  - Court procedures
+case_citations: None
+statutes: None
+roles:
+  - Petitioner
+  - Probation
+  - Court Clerk
+  - Judge
+significant_statements:
+  - Petitioner must provide identification verified by fingerprint
+  - Petitioner may use one of three options to provide identification
+  - Failure to provide identification may result in petition denial
+```
+
+And here is the English-text summary:
+
+The Judge's tentative ruling is that the Petitioner has failed to provide any form of identification tied to a fingerprint on file, which is necessary for Probation to run a criminal history assessment. The Petitioner must provide Probation with some form of identification verified by a fingerprint, which can be done through one of three options: providing a California driver's license number or California ID number, providing a driver's license number or DMV-issued ID number from another state, or contacting Probation to request instructions on how to have fingerprints taken for a Livescan and results sent to Probation. The petition is continued to March 11, 2024, to enable the Petitioner to pursue one of these options. If the Petitioner fails to provide Probation with sufficient information prior to the next hearing date, the petition will be denied and dismissed without prejudice.

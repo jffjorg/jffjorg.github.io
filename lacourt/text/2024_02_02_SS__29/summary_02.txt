@@ -1,0 +1,69 @@
+Here is the summary in YAML format:
+
+```yaml
+Case Number: 21STCV05456
+Plaintiff's Name: Douglas Castellanos and Juian Holloman
+Defendant's Name: City of Los Angeles
+People-Names:
+  - Douglas Castellanos
+  - Juian Holloman
+Company-Names:
+  - City of Los Angeles
+  - City of Vernon
+Places:
+  - Los Angeles
+  - City of Vernon
+Dates:
+  - February 10, 2019
+  - February 10, 2021
+  - October 4, 2022
+  - April 19, 2023
+  - October 5, 2023
+  - January 5, 2024
+  - February 2, 2024
+Events:
+  - Motor vehicle accident
+  - Complaint filed
+  - Request to correct complaint
+  - Proof of service filed
+  - Default entered
+  - Motion to set aside default and default judgment filed
+Money: None
+Intentions:
+  - Set aside default and default judgment
+Facts:
+  - Plaintiff's complaint naming City of Los Angeles as defendant was corrected to name City of Vernon
+  - City of Los Angeles was brought back into the case as Doe 2
+  - Default was entered against City of Los Angeles
+  - Defendant filed motion to set aside default and default judgment
+Disputes:
+  - Lack of actual notice in time to defend the action
+  - Excusable neglect
+Acts:
+  - Filing of complaint
+  - Request to correct complaint
+  - Proof of service filed
+  - Entry of default
+  - Filing of motion to set aside default and default judgment
+Agreements: None
+Laws:
+  - Code of Civil Procedure section 473.5
+  - Code of Civil Procedure section 473(b)
+  - Code Civ. Pro., §473, subd. (b)
+  - Elston v. City of Turlock
+  - Kendall v. Barker
+Statutes:
+  - Code of Civil Procedure
+Roles:
+  - Judge
+  - Plaintiff
+  - Defendant
+  - Attorney
+Significant Statements:
+  - "The court may, upon any terms as may be just, relieve a party or his or her legal representative from a judgment, dismissal, order, or other proceeding taken against him or her through his or her mistake, inadvertence, surprise, or excusable neglect."
+  - "The moving party has a double burden: He must show a satisfactory excuse for his default, and he must show diligence in making the motion after discovery of the default."
+```
+
+And here is a summary of the judge's tentative ruling in English text:
+
+The judge is granting the defendant's motion to set aside the default and default judgment. The defendant, City of Los Angeles, filed the motion after realizing its mistake in not responding to the complaint and subsequently entering a default. The judge finds that the defendant has shown an adequate basis for relief under Code of Civil Procedure section 473(b) and has acted promptly in seeking to set aside the default. The judge is not required to reach the defendant's request to set aside the default under section 473.5. The default entered on October 5, 2023, is set aside, and the defendant is granted leave to defend the action.

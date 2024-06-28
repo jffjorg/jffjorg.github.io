@@ -1,0 +1,116 @@
+Here is the summary in YAML format:
+
+```
+case_number: 19TRCV00842
+hearing_date: February 1, 2024
+dept: B
+superior_court: California
+county: Los Angeles
+district: Southwest
+location: Torrance
+
+parties:
+  - plaintiff: Joseph Loh
+  - defendant: Robert Carruth
+  - defendant: Marianne Carruth
+  - defendant: David Seager
+
+people:
+  - Joseph Loh
+  - Robert Carruth
+  - Marianne Carruth
+  - David Seager
+
+companies:
+  - The Loh Family Trust
+  - The Seager Family Trust
+
+places:
+  - 18002 Faysmith Avenue, Torrance
+  - 18008 Faysmith Avenue, Torrance
+
+dates:
+  - September 25, 2019
+  - August 15, 2022
+  - December 17, 2019
+  - September 23, 2020
+  - October 1, 2020
+  - December 1, 2020
+  - December 23, 2020
+  - August 17, 2022
+  - July 21, 2023
+  - October 27, 2023
+  - September 13, 2023
+  - October 9, 2023
+  - September 15, 2023
+  - January 7, 2023
+  - January 13, 2023
+  - December 30, 2023
+  - January 9, 2024
+  - January 11, 2024
+
+events:
+  - Complaint filed
+  - Settlement agreement entered into
+  - Cross-complaint filed
+  - Motion for leave to amend cross-complaint filed
+  - FACC filed
+  - SACC filed
+  - Notice of conditional settlement filed
+  - Motion to enforce settlement agreement filed
+  - Hearing on motion to enforce settlement agreement
+
+money:
+  - $22,500 (penalties)
+  - $8471 (attorney's fees)
+  - $300/hr. (attorney's fees)
+  - $71.12 (filing fee)
+
+intentions:
+  - Enforce settlement agreement
+  - Obtain penalties and attorney's fees
+
+facts:
+  - Joseph Loh owns the property at 18002 Faysmith Avenue, Torrance
+  - Robert Carruth and Marianne Carruth own the property at 18008 Faysmith Avenue, Torrance
+  - The parties share a fence between the two properties
+  - Robert Carruth approached Joseph Loh about replacing the fence in summer 2017
+  - Joseph Loh discovered Robert Carruth removing a 16” by 16” pillar on his property with a jackhammer
+
+disputes:
+  - Interpretation of "install" and "delineation" in the settlement agreement
+  - Compliance with the settlement agreement
+
+acts:
+  - Installation of fence
+  - Removal of pillar
+  - Pouring cement on plaintiff's property
+  - Installation of gate
+  - Installation of delineation
+
+agreements:
+  - Settlement agreement entered into on August 15, 2022
+
+laws:
+  - CCP §664.6
+  - CCP §187
+
+case_citations:
+  - Viejo Bancorp, Inc. v. Wood (1989) 217 Cal. App. 3d 200
+  - Hernandez v. Board of Educ. of Stockton Unified School Dist. (2004) 126 Cal. App. 4th 1161
+  - Skulnick v. Roberts Express, Inc. (1992) 2 Cal. App. 4th 884
+
+roles:
+  - Judge
+  - Plaintiff
+  - Defendant
+  - Attorney
+
+significant_statements:
+  - The court finds that plaintiff is in violation of Paragraph E of the settlement agreement
+  - The court finds that defendant has complied with the settlement agreement
+  - The court awards penalties to defendant in the amount of $22,500
+  - The court awards attorney's fees to defendant in the amount of $8471
+```
+
+Note that some information, such as the exact dates and times of the events, has been omitted to make the summary more concise.

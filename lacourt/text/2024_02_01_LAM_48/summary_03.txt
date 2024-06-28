@@ -1,0 +1,57 @@
+Here is the summary in YAML format:
+
+```
+case_number: 22STCV07210
+plaintiff_name: Basilía Puerto
+defendant_name: AUXILIARY RESIDENTIAL CARE, INC. et al.
+people_names:
+  - Basilía Puerto
+  - Javier Jaime Puerto
+company_names:
+  - AUXILIARY RESIDENTIAL CARE, INC.
+  - CHA Hollywood Medical Center LP
+places:
+  - Los Angeles
+  - California
+dates:
+  - January 4, 2024
+  - February 1, 2024
+events:
+  - Deposition
+  - Motion for Order
+money: None
+intentions:
+  - To take deposition testimony electronically instead of stenographically
+facts:
+  - Stenographic reporting is the default method for taking deposition testimony
+  - Electronic recording is often more convenient and efficient
+  - Stenographic reporters are in short supply
+disputes:
+  - Plaintiff vs. Cross-Defendant CHA Hollywood Medical Center LP
+acts:
+  - Filing a motion for order
+  - Opposing the motion
+agreements:
+  - Code Civ. Proc., § 2025.330, subd. (b)
+  - Code Civ. Proc., § 2025.340, subd. (m)
+laws:
+  - California Code of Civil Procedure
+  - Civil Procedure
+case_citations:
+  - Code Civ. Proc., § 2025.330, subd. (b)
+  - Code Civ. Proc., § 2025.340, subd. (m)
+statutes:
+  - California Code of Civil Procedure
+roles:
+  - Judge: Hon. Thomas D. Long
+  - Plaintiff: Basilía Puerto
+  - Cross-Defendant: CHA Hollywood Medical Center LP
+significant_statements:
+  - "Unless the parties agree or the court orders otherwise, the testimony, as well as any stated objections, shall be taken stenographically."
+  - "Electronic recording of depositions is often more convenient, more efficient, and less expensive than stenographic reporting."
+  - "A stenographic transcript will still be required in order to offer deposition testimony as evidence."
+```
+
+And here is the English-text summary:
+
+The Judge, Hon. Thomas D. Long, has issued a tentative ruling denying the Plaintiff's motion for an order that deposition testimony may be taken electronically instead of stenographically. The Plaintiff, Basilía Puerto, argued that electronic recording is more convenient, efficient, and less expensive than stenographic reporting, citing the shortage of stenographic reporters and the reliability of electronic recording. However, the Judge found that the Plaintiff did not demonstrate any specific problems with stenographic reporting in this case, and that a stenographic transcript will still be required in order to offer deposition testimony as evidence. The Judge also noted that the parties can record depositions electronically as a backup, but this does not justify eschewing the requirement of stenographic reporting.

@@ -1,0 +1,63 @@
+Here is the summary in YAML format:
+
+```
+case_number: [Not specified]
+plaintiff_name: Larry M. Bakman
+defendant_name: Fari Bari Nejadpour
+people_names:
+  - Larry M. Bakman
+  - Fari Bari Nejadpour
+company_names: []
+places: []
+dates:
+  - June 13, 2023
+  - July 12, 2023
+events:
+  - Complaint filed
+  - Cross-Complaint filed
+  - Motion to strike filed
+  - Opposition filed
+money: []
+intentions:
+  - Plaintiff seeks damages
+  - Defendant seeks damages
+facts:
+  - Plaintiff alleges Defendant instigated a confrontation
+  - Defendant alleges Plaintiff made false claims
+disputes:
+  - False light
+  - Assault
+  - False imprisonment
+  - Intentional infliction of emotional distress
+  - Assault
+  - Battery
+  - Negligence
+acts:
+  - Cornering, trapping, and detaining the Plaintiff
+  - Recording the Plaintiff's voice without permission
+  - Filing a Cross-Complaint
+  - Moving to strike allegations
+  - Filing an opposition
+agreements: []
+laws:
+  - California Code of Civil Procedure, Section 435
+  - California Code of Civil Procedure, Section 436
+  - California Code of Civil Procedure, Section 431.10
+case_citations: []
+statutes:
+  - California Code of Civil Procedure
+roles:
+  - Judge
+  - Plaintiff (Larry M. Bakman)
+  - Defendant (Fari Bari Nejadpour)
+  - Cross-Defendant (Larry M. Bakman)
+  - Cross-Complainant (Fari Bari Nejadpour)
+significant_statements:
+  - The motion to strike is granted in part and denied in part.
+  - The allegations struck are irrelevant to the causes of action in this matter.
+  - The Judge denies Cross-Complainant Nejadpour's frivolous request for judicial notice.
+```
+
+And here is a summary of the judge's tentative ruling in English text:
+
+The judge has ruled on a motion to strike certain allegations in the Cross-Complaint filed by Defendant/Cross-Complainant Nejadpour. The motion was granted in part and denied in part. The judge struck allegations that the Plaintiff is a "violent spousal abuser", that the Plaintiff has admitted to making false claims to advantage himself in civil cases, and that the Plaintiff has threatened criminal charges to obtain an advantage in a civil dispute. The judge found these allegations to be irrelevant to the underlying altercation. The Judge denied the Cross-Complainant's request for judicial notice of certain items and did not grant leave to amend the Cross-Complaint.

@@ -1,0 +1,74 @@
+Here is the summary of the judge's tentative ruling in YAML format:
+
+```
+case_number: 23STCV09794
+plaintiff: CARMEN KING, ASSIGNEE FOR ANTOLIN GARCIA
+defendant: JORGE GARCIA, et al.
+people: 
+  - CARMEN KING
+  - ANTOLIN GARCIA
+  - JORGE GARCIA
+  - THERESA NONOAL
+  - SIMON GARCIA
+  - FRANK AGUILAR
+  - IVAN RENE MOORE
+  - KIMBERLY MARTIN-BRAGG
+company: 
+  - none
+places: 
+  - 845 E. 27th Street, Los Angeles, CA 90011
+dates: 
+  - May 2, 2023
+  - October 16, 2023
+  - December 18, 2023
+  - June 1, 2020
+  - November 2022
+  - April 2023
+  - February 7, 2024
+events: 
+  - Breach of contract
+  - Fraud in the inducement
+  - Breach of the implied covenant of good faith and fair dealing
+  - Unlawful detainer
+money: 
+  - $20,000
+  - $2,825
+  - $13,488.48
+  - $150,000
+intention: 
+  - To consolidate the instant action with the unlawful detainer action
+facts: 
+  - Antolin Garcia and Jorge Garcia entered into an agreement for the purchase of a property
+  - Antolin Garcia made monthly payments to Jorge Garcia
+  - Jorge Garcia refinanced the loan and decreased the monthly payments without Antolin Garcia's knowledge or consent
+  - Antolin Garcia demanded that Jorge Garcia comply with the terms of their agreement, but Jorge Garcia refused
+dispute: 
+  - Whether the agreement between Antolin Garcia and Jorge Garcia is enforceable
+acts: 
+  - Antolin Garcia made monthly payments to Jorge Garcia
+  - Jorge Garcia refinanced the loan and decreased the monthly payments without Antolin Garcia's knowledge or consent
+  - Antolin Garcia demanded that Jorge Garcia comply with the terms of their agreement, but Jorge Garcia refused
+agreements: 
+  - The agreement between Antolin Garcia and Jorge Garcia
+laws: 
+  - Code of Civil Procedure section 1048
+  - Statute of Frauds
+  - Statute of limitations
+case_citations: 
+  - Martin-Bragg v. Moore (2013) 219 Cal.App.4th 367
+statutes: 
+  - Code of Civil Procedure section 1048
+  - Statute of Frauds
+  - Statute of limitations
+roles: 
+  - Judge: Hon. Teresa A. Beaudet
+  - Plaintiff: CARMEN KING, ASSIGNEE FOR ANTOLIN GARCIA
+  - Defendant: JORGE GARCIA, et al.
+significant_statements: 
+  - The Court grants Plaintiff's motion to consolidate.
+  - The parties' right to a full trial of the issue of title may be unfairly expedited and limited if the issue of title is tried under the summary procedures that constrain unlawful detainer proceedings.
+```
+
+Summary:
+
+The judge's tentative ruling grants the plaintiff's motion to consolidate the instant action with the unlawful detainer action. The case involves a dispute over the enforceability of an agreement between Antolin Garcia and Jorge Garcia, as well as questions of title to the subject property. The judge cites to the California Code of Civil Procedure section 1048 and the Martin-Bragg v. Moore case, which holds that when an unlawful detainer proceeding and an unlimited action concerning title to the property are simultaneously pending, the trial court may stay the unlawful detainer action until the issue of title is resolved in the unlimited action, or it may consolidate the actions. The judge finds that the parties' right to a full trial of the issue of title may be unfairly expedited and limited if the issue of title is tried under the summary procedures that constrain unlawful detainer proceedings.

@@ -1,0 +1,83 @@
+Here is the summary in YAML format:
+
+```
+case_number: 23STCV17242
+plaintiff_name: Peter Raspudic
+defendant_names:
+  - Buxbaum & Chakmak
+  - Buxbaum Chakmak & Wynder PC
+  - Charles Lyon Zetterberg
+people_names:
+  - Peter Raspudic
+  - Charles Lyon Zetterberg
+company_names:
+  - Buxbaum & Chakmak
+  - Buxbaum Chakmak & Wynder PC
+places:
+  - Los Angeles
+dates:
+  - October 23, 2023
+  - November 21, 2021
+  - November 30, 2022
+  - July 24, 2023
+  - January 31, 2024
+events:
+  - Breach of contract
+  - Negligent misrepresentation
+  - Intentional misrepresentation
+  - Fraud
+  - Demurrer
+  - Motion to strike
+  - Discovery motions
+money:
+  - Attorney's fees
+  - Damages
+intentions:
+  - To induce reliance
+  - To escape liability for malpractice
+facts:
+  - Plaintiff alleges Defendants failed to respond to discovery and oppose discovery motions in an underlying trust & estate action
+  - Plaintiff alleges he was unable to present evidence in his defense and was forced to take a low settlement in mediation
+  - Plaintiff alleges Defendants failed to disclose potential conflicts
+disputes:
+  - Statute of limitations
+  - Elements of fraud
+acts:
+  - Breach of contract
+  - Negligent misrepresentation
+  - Intentional misrepresentation
+  - Fraud
+  - Discovery motions
+agreements:
+  - None
+laws:
+  - CCP § 430.50(a)
+  - CCP § 312
+  - CCP § 340.6
+  - Charnay v. Cobert (2006) 145 Cal.App.4th 170
+  - Small v. Fritz Companies, Inc. (2003) 30 Cal.4th 167
+  - Cansino v. Bank of America (2014) 224 Cal.App.4th 1462
+roles:
+  - Judge Maurice Leiter
+  - Peter Raspudic (Plaintiff)
+  - Buxbaum & Chakmak (Defendants)
+  - Buxbaum Chakmak & Wynder PC (Defendants)
+  - Charles Lyon Zetterberg (Defendant)
+significant_statements:
+  - The Court considers the moving papers, opposition, and reply.
+  - The demurrer to the first and second causes of action is OVERRULED.
+  - The demurrer to the third and fourth causes of action is OVERRULED.
+  - The motion to strike is DENIED.
+```
+
+And here is the summary in English text:
+
+This is a tentative ruling by Judge Maurice Leiter in a case between plaintiff Peter Raspudic and defendants Buxbaum & Chakmak, Buxbaum Chakmak & Wynder PC, and Charles Lyon Zetterberg. The case involves allegations of breach of contract, negligent misrepresentation, intentional misrepresentation, and fraud.
+
+The defendants demurred to the first and second causes of action, arguing that they are barred by the one-year statute of limitations for attorney malpractice actions. The plaintiff argues that the claims are not barred because the underlying action was not settled until November 30, 2022. The court finds that the claims are not clearly and affirmatively barred by the statute of limitations and therefore overrules the demurrer.
+
+The defendants also demurred to the fraud causes of action, arguing that the plaintiff has failed to allege any intentional misrepresentation. The plaintiff alleges in detail that the defendants concealed deadlines, discovery obligations, sanctions, and conflicts of interest, which is sufficient to allege intentional misrepresentation and/or concealment. The court finds that the demurrer is overruled.
+
+The defendants moved to strike the claim for punitive damages, arguing that the plaintiff has failed to allege fraud, malice, or oppression. The court finds that the plaintiff has sufficiently alleged fraud and therefore denies the motion to strike.
+
+The court orders the defendants to file and serve answers to the first amended complaint within 30 days of notice of ruling.

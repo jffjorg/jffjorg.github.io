@@ -1,0 +1,84 @@
+Here is the summary in YAML format:
+
+```
+case_number: 20STLC09464
+hearing_date: January 31, 2024
+dept: 26
+state: State Farm v. Devries, et al
+vacate_default_and_default_judgment: true
+laws:
+  - CCP § 473(b)
+  - CCP § 473(d)
+  - CCP § 473.5
+  - CCP § 128.5
+roles:
+  - Judge
+  - Plaintiff: State Farm Mutual Automobile Insurance Company
+  - Defendant: Pilar Devries
+people:
+  - Pilar Devries
+companies:
+  - State Farm Mutual Automobile Insurance Company
+places:
+  - California
+dates:
+  - November 10, 2020
+  - March 1, 2022
+  - May 20, 2022
+  - October 12, 2022
+  - December 12, 2022
+  - December 28, 2023
+  - January 18, 2024
+  - January 24, 2024
+  - February 10, 2023
+events:
+  - Filing of the instant action
+  - Service by publication
+  - Proof of service by publication
+  - Failure to file a responsive pleading
+  - Entry of default
+  - Entry of default judgment
+  - Notice of entry of judgment
+  - Filing of the instant Motion to Vacate Default and Default Judgment
+  - Filing of opposition
+  - Filing of reply
+money:
+  - Sanctions
+facts:
+  - Defendant failed to file a responsive pleading
+  - Default judgment was entered
+  - Defendant moves to vacate default and default judgment
+  - Defendant claims lack of actual notice
+  - Defendant claims judgment is void
+  - Defendant claims judgment was entered due to extrinsic fraud or excusable mistake
+disputes:
+  - Validity of default judgment
+  - Timeliness of Motion to Vacate Default and Default Judgment
+  - Lack of actual notice
+  - Avoidance of service
+  - Inexcusable neglect
+acts:
+  - Filing of Motion to Vacate Default and Default Judgment
+  - Filing of opposition
+  - Filing of reply
+agreements:
+  - None
+statutes:
+  - CCP § 473(b)
+  - CCP § 473(d)
+  - CCP § 473.5
+  - CCP § 128.5
+citations:
+  - English v. IKON Business Solutions (2001) 94 Cal.App.4th 130, 143
+  - Carmel, Ltd. v. Tavoussi (2009) 175 Cal.App.4th 393, 403
+  - Manson, Iver & York v. Black (2009) 176 Cal.App.4th 36, 42
+  - Slusher v. Durrer (1977) 69 Cal.App.3d 747, 754
+significant_statements:
+  - Defendant's Motion makes incomplete or incorrect arguments concerning each ground for relief.
+  - Defendant's Motion fails to cite any evidence in the memorandum of points and authorities in support of these arguments.
+  - The Motion is denied.
+```
+
+And here is the English text to summarize the judge's tentative ruling:
+
+The judge has made a tentative ruling on the Motion to Vacate Default and Default Judgment filed by Defendant Pilar Devries. The Motion is denied. The judge finds that the Motion does not satisfy the requirements for relief under Code of Civil Procedure sections 473(b), 473(d), and 473.5. Specifically, the Motion was not timely filed, and the defendant has not shown that the judgment was entered due to extrinsic fraud or excusable mistake. The judge also finds that the Motion makes incomplete or incorrect arguments concerning each ground for relief and fails to cite any evidence in support of these arguments. As a result, the Motion is denied, and the default judgment stands.

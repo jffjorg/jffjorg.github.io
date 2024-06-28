@@ -1,0 +1,88 @@
+Here is the summary in YAML format:
+
+```
+case_number: 21TRCV00687
+plaintiff_name: Mid-Century Insurance Company
+defendant_name: Blusky Restoration Contractors, et al.
+people_names:
+  - ProCorp Construction, Inc.
+  - Dwayne Swallows
+  - ROES 1 through 20
+company_names:
+  - Mid-Century Insurance Company
+  - Blusky Restoration Contractors, LLC
+  - ProCorp Construction, Inc.
+  - Southwest Home Remodeling, Inc.
+  - Dwayne Swallows
+places:
+  - California
+  - United States
+dates:
+  - September 30, 2021
+  - June 13, 2022
+  - May 5, 2022
+  - May 6, 2023
+  - January 3, 2024
+  - January 17, 2024
+  - January 23, 2024
+  - January 30, 2024
+events:
+  - Filing of Complaint
+  - Filing of Cross-Complaint
+  - Filing of Motion to Set Aside Default
+  - Service of Cross-Complaint
+  - Entry of Default
+  - Opposition to Motion
+  - Reply Brief
+money:
+  - $500 (attorneys fees)
+  - (costs of service)
+intentions:
+  - To set aside default
+  - To grant motion for relief from default
+facts:
+  - ProCorp was not served with Cross-Complaint
+  - ProCorp was unaware of proceedings against it
+  - Blusky filed motion to serve ProCorp via Secretary of State
+  - Clerk's default was entered
+  - ProCorp filed motion to set aside default
+disputes:
+  - Dispute over service of Cross-Complaint
+  - Dispute over notice of proceedings
+acts:
+  - Filing of motion to set aside default
+  - Filing of opposition to motion
+  - Filing of reply brief
+agreements:
+  - ProCorp will reimburse Blusky for costs of service
+  - ProCorp will reimburse Blusky for $500 in attorneys fees
+laws:
+  - California Code of Civil Procedure §473(b)
+  - California Code of Civil Procedure §473(a)
+  - California Code of Civil Procedure §473(c)
+case_citations:
+  - Rappleyea v. Campbell (1994) 8 Cal. 4th 975
+  - English v. IKON Business Solutions (2001) 94 Cal.App.4th 130
+  - Luxury Asset Lending, LLC v. Philadelphia Television Network, Inc. (2020) 56 Cal. App. 5th 894
+  - Goodson v. Bogerts, Inc. (1967) 252 Cal. App. 2d 32
+  - Shank v. County of L.A. (1983) 139 Cal.App.3d 152
+  - Taliaferro v. Taliaferro (1963) 217 Cal.App.2d 216
+statutes:
+  - California Code of Civil Procedure §473(b)
+  - California Code of Civil Procedure §473(a)
+  - California Code of Civil Procedure §473(c)
+roles:
+  - Judge
+  - Plaintiff
+  - Defendant
+  - Moving Party
+  - Responding Party
+significant_statements:
+  - ProCorp's motion to set aside default is granted
+  - ProCorp shall reimburse Blusky for costs of service and $500 in attorneys fees
+  - The default entered against ProCorp is set aside
+```
+
+And here is the English-text summary:
+
+The Judge has issued a tentative ruling on the motion of ProCorp Construction, Inc. (ProCorp) to set aside default. The case is Mid-Century Insurance Company v. Blusky Restoration Contractors, et al. ProCorp filed a motion to set aside default on January 3, 2024, and Blusky Restoration Contractors, LLC (Blusky) filed an opposition on January 17, 2024. The Judge finds that ProCorp has articulated a satisfactory excuse for lack of notice and that the inclusion of the proposed Answer evinces ProCorp's intent to participate in litigation. The motion is granted, and the default entered against ProCorp is set aside on the condition that ProCorp reimburse Blusky for the costs of service and $500 in reasonable attorneys fees incurred by Blusky in opposing the motion.

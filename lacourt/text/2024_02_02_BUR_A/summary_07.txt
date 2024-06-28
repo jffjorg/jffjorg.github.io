@@ -1,0 +1,79 @@
+Here is the summary in YAML format:
+
+```
+case_number: 23BBCV01647
+plaintiff_names:
+  - Linda Granero
+  - Emily Aceves
+defendant_names:
+  - Burlington Beverly LLC
+  - Olive Apartments LLC
+  - Drake Real Estate Group, Inc.
+people_names:
+  - Linda Granero
+  - Emily Aceves
+company_names:
+  - Burlington Beverly LLC
+  - Olive Apartments LLC
+  - Drake Real Estate Group, Inc.
+places:
+  - Burbank
+  - California
+  - Los Angeles
+dates:
+  - February 2, 2024
+  - April 1, 2024
+  - April 9, 2024
+  - January 5, 2024
+  - June 13, 2023
+events:
+  - Demurrer
+  - Motion to strike
+  - Request for judicial notice
+  - Case management conference
+money:
+  - None
+intentions:
+  - To determine the merits of the case
+  - To strike certain allegations
+  - To grant leave to amend
+facts:
+  - The 60-day Notice to Quit was served on April 15, 2023
+  - The notice stated the Defendants' intent to demolish or substantially remodel the residential real property
+  - Defendants inadvertently accepted rent from Plaintiffs after the notice was served
+  - Plaintiffs allege they have suffered damages by virtue of seeking alternative housing
+disputes:
+  - Litigation privilege
+  - Good faith intent
+  - Validity of the 60-day Notice to Quit
+acts:
+  - Service of the 60-day Notice to Quit
+  - Acceptance of rent by Defendants
+  - Filing of an unlawful detainer action
+agreements:
+  - Civil Code § 1946.2
+  - California Rules of Court, Rule 3.1308(a)(1)
+laws:
+  - Civil Code § 1946.2
+  - Civil Code § 1940.2
+  - California Rules of Court, Rule 3.1308(a)(1)
+case_citations:
+  - Silberg v. Anderson (1990) 50 Cal.3d 205
+  - Feldman v. 1100 Park Lane Associates (2008) 160 Cal.App.4th 1467
+  - Ulkarim v. Westfield LLC (2014) 227 Cal.App.4th 1266
+statutes:
+  - California Civil Code § 1946.2
+  - California Civil Code § 1940.2
+  - California Rules of Court, Rule 3.1308(a)(1)
+roles:
+  - Judge
+  - Plaintiff
+  - Defendant
+significant_statements:
+  - "The Court finds that Plaintiffs' causes of action, insofar as they are based on the filing of the 60-day Notice to Quit, are barred as a matter of law by the litigation privilege."
+  - "However, this does not mean that Plaintiffs cannot state any cause of action against Defendants. It could be that Plaintiffs may state causes of action against Defendants for actions external to the notice."
+```
+
+And here is a summary in English text:
+
+The judge's tentative ruling addresses a demurrer and motion to strike in a case involving a dispute over a 60-day Notice to Quit served by the defendants on the plaintiffs. The notice stated the defendants' intent to demolish or substantially remodel the residential real property, and the plaintiffs allege that the defendants did not have a good-faith intent to do so. The judge finds that the plaintiffs' causes of action, to the extent they are based on the filing of the 60-day Notice to Quit, are barred as a matter of law by the litigation privilege. However, the judge grants the plaintiffs 20 days' leave to amend their complaint to state additional causes of action. The judge also strikes certain allegations requesting punitive damages and attorneys' fees. The case is set for a case management conference on April 9, 2024.

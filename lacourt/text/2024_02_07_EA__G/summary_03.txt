@@ -1,0 +1,84 @@
+Here is the summary in YAML format:
+
+```
+case_number: 23PSCV03425
+plaintiff: Juan Zhao
+defendant: Min Zhou
+people_names:
+  - Juan Zhao
+  - Min Zhou
+  - Yuqing Zhao
+  - Ang Li
+company_names:
+  - None
+places:
+  - Diamond Bar
+  - Orange County
+dates:
+  - May 2023
+  - June 23, 2023
+  - July 25, 2023
+  - October 4, 2023
+  - November 29, 2023
+  - January 9, 2024
+  - January 16, 2024
+  - February 7, 2024
+events:
+  - Loan agreement
+  - Failure to repay loan
+  - Demurrer
+  - Hearing
+  - Status conference
+money:
+  - $1,500,000
+  - $150,000
+intentions:
+  - To loan money
+  - To repay loan
+  - To induce reliance
+facts:
+  - Loan agreement between Zhao and Min Zhou
+  - Min Zhou failed to repay loan
+  - Zhao alleges fraud and breach of contract
+disputes:
+  - Adequacy of allegations in complaint
+  - Standing to pursue claims
+  - Misjoinder of parties
+acts:
+  - Signing of promissory note
+  - Transfer of funds
+agreements:
+  - Loan agreement
+  - Promissory note
+laws:
+  - California Code of Civil Procedure
+  - California Civil Code
+  - Case law
+case_citations:
+  - Code Civ. Proc., § 430.10, subd. (e)
+  - Fox v. JAMDAT Mobile, Inc. (2010) 185 Cal.App.4th 1068
+  - Hahn v. Mirda (2007) 147 Cal.App.4th 740
+  - Lazar v. Superior Court (1996) 12 Cal.4th 631
+  - SKY Farms v. Superior Court (1984) 153 Cal.App.3d 902
+  - West v. JPMorgan Chase Bank, N.A. (2013) 214 Cal.App.4th 780
+statutes:
+  - California Code of Civil Procedure
+  - California Civil Code
+roles:
+  - Judge
+  - Plaintiff
+  - Defendant
+  - Counsel
+significant_statements:
+  - The court sustains Min Zhou's demurrer to Zhao's first and fifth causes of action with leave to amend.
+  - The court overrules Min Zhou's demurrer on all other grounds.
+  - The complaint does not state facts sufficient to constitute a cause of action.
+  - The economic loss rule does not apply in this case.
+  - The complaint fails to plead fraud with required specificity.
+  - The court notes the law is currently unsettled with regards to whether claims for fraudulent inducement by concealment are barred by the economic loss rule.
+  - Min Zhou's demurrer to the fifth cause of action is sustained with leave to amend.
+```
+
+English-text summary:
+
+This is a tentative ruling by a judge on a demurrer filed by defendant Min Zhou to a complaint filed by plaintiff Juan Zhao. The court sustains Min Zhou's demurrer to Zhao's first and fifth causes of action with leave to amend, and overrules it on all other grounds. The first cause of action alleges fraud, which the court finds is not pled with required specificity. The fifth cause of action alleges breach of written contract, which the court finds is not adequately pled. The court also rejects Min Zhou's arguments that Zhao lacks standing to pursue claims for funds belonging to third parties and that there is a misjoinder of parties.

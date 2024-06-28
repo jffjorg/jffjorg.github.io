@@ -1,0 +1,51 @@
+Here is the summary in YAML format:
+
+```
+Case Number: unknown
+Plaintiff's Name: unknown
+Defendant's Name: unknown
+People-Names:
+  - Plaintiff
+  - Defendant
+Company-Names: []
+Places: []
+Dates:
+  - unknown
+Events:
+  - Defendant's motion
+  - Plaintiffs' motion
+  - Settlement agreement
+  - Fraud
+Money: []
+Intentions:
+  - Defendant seeks summary adjudication of the fourth cause of action
+  - Defendant raised a triable issue about the statute of limitations
+Facts:
+  - Defendant's motion did not include the statute of limitations as an argument
+  - Plaintiffs' motion was defeated
+  - Defendant might have been entitled to summary adjudication based on the statute of limitations defense
+Disputes:
+  - Merit of the fourth cause of action
+  - Statute of limitations
+Acts:
+  - Defendant's motion for summary adjudication
+  - Plaintiffs' motion
+Agreements:
+  - Settlement agreement
+Laws:
+  - Code Civ. Proc., § 437c, subd. (f)(1)
+  - Gonzales v. Superior Court (1987) 189 Cal.App.3d 1542, 1545
+Statutes:
+  - Code Civ. Proc.
+Roles:
+  - Judge
+  - Plaintiff
+  - Defendant
+Significant Statements:
+  - "Only the grounds specified in the notice of motion may be considered by the trial court."
+  - "This rule has been held to be especially true in the case of motions for summary adjudication of issues."
+```
+
+And here is the English text summary:
+
+The Defendant's motion for summary adjudication of the fourth cause of action did not include a statute of limitations defense, despite raising a triable issue about when the statute of limitations began to run. The Judge notes that if the Defendant had brought a motion for summary adjudication based on the statute of limitations defense, it may have been entitled to summary adjudication of the claim. Instead, the Defendant's motion was limited to arguing that the settlement agreement was void, unenforceable, and rescinded due to the Plaintiff's fraud. The Judge rules that only the grounds specified in the notice of motion may be considered by the trial court, and that this rule is especially true in the case of motions for summary adjudication of issues.

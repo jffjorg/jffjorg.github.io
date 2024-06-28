@@ -1,0 +1,58 @@
+Here is the summary in YAML format:
+
+```
+case_number: 21STCV26388
+plaintiff_name: Bianca Alvarado
+defendant_name: City of Los Angeles, Tyler Patrick Whiteman
+people_names:
+  - Bianca Alvarado
+  - Tyler Patrick Whiteman
+  - Melissa Saenz
+company_names:
+  - Los Angeles Police Department
+  - California Hospital Medical Center
+  - Los Angeles Fire Department
+places:
+  - Los Angeles
+  - California
+dates:
+  - January 22, 2020
+  - February 1, 2024
+events:
+  - Automobile incident
+  - Syncopal episodes
+  - Medical employment records
+money: None
+intentions:
+  - Plaintiff seeks to compel the City to produce medical employment records of Whiteman related to prior syncopal episodes.
+facts:
+  - Whiteman lost control of his vehicle and collided with Plaintiff's vehicle on January 22, 2020.
+  - Whiteman has a history of syncopal episodes, including a reported incident at a café.
+  - The City and Whiteman oppose the motion.
+disputes:
+  - Whether the City has a duty to produce Whiteman's medical employment records related to prior syncopal episodes.
+acts:
+  - Pitchess motion filed by Plaintiff
+  - Opposition to motion by City and Whiteman
+agreements:
+  - None
+laws:
+  - Penal Code section 832.5, 832.7, 832.8
+  - Evidence Code section 1043, 1045
+  - Government Code section 815.2, 820
+  - Code of Civil Procedure section 1045
+statutes:
+  - California Code of Evidence
+  - California Code of Civil Procedure
+roles:
+  - Plaintiff: Bianca Alvarado
+  - Defendant: City of Los Angeles, Tyler Patrick Whiteman
+  - Judge: Hon. Michelle C. Kim
+significant statements:
+  - The Court finds that Plaintiff has failed to demonstrate good cause for the City to produce Whiteman's medical employment records related to prior syncopal episodes.
+  - The motion is denied.
+```
+
+And here is a summary of the judge's tentative ruling in English text:
+
+The judge has issued a tentative ruling denying the Pitchess motion filed by Plaintiff Bianca Alvarado to compel the City of Los Angeles to produce medical employment records of defendant Tyler Patrick Whiteman related to prior syncopal episodes. The judge found that Plaintiff failed to demonstrate good cause for the production of the records, as the party did not show a plausible factual foundation for discovery. The judge also noted that even if the records were considered, they did not establish a history of syncopal episodes or a reasonable belief that the City has the type of medical information sought. The motion is denied.

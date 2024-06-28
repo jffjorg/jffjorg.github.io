@@ -1,0 +1,62 @@
+Here is the summary in YAML format:
+
+```
+case_number: 23STCP02068
+plaintiff_name: Roy Lubit, M.D. Ph.D.
+defendant_names:
+  - FMB Development, LLC
+  - FMB Consulting LLC
+  - Ilan Kenig
+people_names:
+  - Luna
+  - Glushon
+  - Ilan Kenig
+  - Thomas D. Long
+company_names:
+  - FMB Development, LLC
+  - FMB Consulting LLC
+  - Luna & Glushon APC
+places:
+  - Los Angeles
+  - California
+dates:
+  - February 6, 2024
+events:
+  - Hearing
+  - Arbitration
+  - Status Conferences
+money:
+  - Fee agreement
+  - Unpaid fees
+intentions:
+  - Counsel's request to be relieved
+  - Retention of new counsel for FMB Development LLC and FMB Consulting LLC
+facts:
+  - Irreconcilable differences in attorney-client relationship
+  - Failure to pay under fee agreement
+disputes:
+  - None (unopposed motions)
+acts:
+  - Counsel's motions to be relieved
+  - Request for withdrawal
+agreements:
+  - Fee agreement
+  - Proposed orders
+laws:
+  - California Rules of Court, rule 3.1362
+  - People v. Prince (1968)
+  - Caressa Camille, Inc. v. Alcoholic Beverage Control Appeals Bd. (2002)
+statutes:
+  - None
+roles:
+  - Judge: Hon. Thomas D. Long
+  - Counsel: Luna & Glushon APC
+  - Parties: Roy Lubit, M.D. Ph.D., FMB Development, LLC, FMB Consulting LLC, Ilan Kenig
+significant_statements:
+  - "Absent a showing of resulting prejudice, an attorney's request for withdrawal should be granted."
+  - "A corporation cannot represent itself in a court of record either in propria persona or through an officer or agent who is not an attorney."
+```
+
+And here is a summary of the judge's tentative ruling in English text:
+
+The judge grants the unopposed motions of counsel, Luna & Glushon APC, to be relieved as counsel for defendants FMB Development LLC, FMB Consulting LLC, and Ilan Kenig. The motions are granted due to irreconcilable differences in the attorney-client relationship and failure to pay under the fee agreement. The judge notes that absent a showing of resulting prejudice, an attorney's request for withdrawal should be granted. The judge also orders that FMB Development LLC and FMB Consulting LLC must retain new counsel before further participation in the action, as a corporation cannot represent itself in a court of record. The proposed orders are subject to the provision of defendants' phone numbers, which must be provided at the hearing.

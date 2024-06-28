@@ -1,0 +1,53 @@
+Here is the tentative ruling in YAML format:
+
+```
+Case Number: N/A
+Plaintiff's Name: Yoon
+Defendant's Name: Lululemon USA, Inc. and others
+People-Names:
+  - Yoon
+  - Byars
+  - Yale
+  - Saleh
+Company-Names:
+  - Lululemon USA, Inc.
+  - Hot Topic, Inc.
+  - Clicktale, Inc.
+  - Nike, Inc.
+Places: California
+Dates:
+  - 2021
+  - 2023
+Events:
+  - Court Hearing
+Money: N/A
+Intentions: To determine the scope of data that constitutes "content" under Section 631
+Facts:
+  - IP addresses are not "content"
+  - Location data is not "content"
+  - Browser types and operating systems are not "content"
+Disputes:
+  - Whether certain data constitutes "content" under Section 631
+Acts: N/A
+Agreements: N/A
+Laws:
+  - Section 631, subdivision (a)
+  - Twombly and Iqbal
+  - Mere conclusion disregarded
+Case Citations:
+  - Yoon v. Lululemon USA, Inc. (C.D. Cal. 2021) 549 F.Supp.3d 1073
+  - Byars v. Hot Topic, Inc. (C.D. Cal. 2023) 656 F.Supp.3d 1051
+  - Yale v. Clicktale, Inc. (N.D.Cal. Apr. 15, 2021) 2021 WL 1428400
+  - Saleh v. Nike, Inc. (C.D.Cal. 2021) 562 F.Supp.3d 503
+Roles:
+  - Judge
+  - Plaintiff
+  - Defendant
+Significant Statements:
+  - "Data such as IP addresses, location, browser types and operating systems are not 'content' under Section 631, subdivision (a)."
+  - "The term 'contents' refers to the intended message conveyed by the communication, and does not include record information regarding the characteristics of the message that is generated in the course of the communication."
+```
+
+And here is the English-text summary of the judge's tentative ruling:
+
+The judge is considering the scope of data that constitutes "content" under Section 631. The judge notes that while the determination of what constitutes "content" is generally a question of fact, the plaintiff must still allege specific facts to state a claim. The judge cites several cases, including Yoon v. Lululemon USA, Inc. and Byars v. Hot Topic, Inc., to support the idea that certain data, such as IP addresses, location data, browser types, and operating systems, are not considered "content". The judge also references Saleh v. Nike, Inc. to clarify that the term "contents" refers to the intended message conveyed by the communication, and does not include record information regarding the characteristics of the message. The judge's tentative ruling is intended to provide guidance on what data constitutes "content" under Section 631.

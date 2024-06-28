@@ -1,0 +1,99 @@
+Here is a summary of the tentative ruling in YAML format:
+
+```yaml
+Case:
+  Number: BC565480
+  Hearing Date: January 30, 2024
+  Department: 50
+  Court: Superior Court of California, County of Los Angeles
+
+Parties:
+  Plaintiff:
+    Name: Mostafavi Law Group, APC
+  Defendant:
+    Name: Larry Rabineau, a Professional Corporation
+    Name: Amir Mostafavi (jointly with Plaintiff)
+
+Places:
+  Court: Stanley Mosk Courthouse
+  Department: 50
+
+Dates:
+  Filing Date: December 2, 2014
+  Judgment Date: June 28, 2019
+  Appeal Date: October 31, 2019
+  Stay Lifted Date: May 5, 2021
+  Five-Year Mark: December 2, 2019
+  Other dates:
+    - June 20, 2019: Settlement agreement signed
+    - October 2, 2019: Court granted Rabineau's motion for relief from void judgment
+    - November 15, 2021: Jury Trial scheduled for 09/07/2022
+    - November 8, 2022: Jury Trial advanced to 11/29/2022 and vacated
+    - March 19, 2022: Date calculated based on tolling of five-year period
+    - June 17, 2023: Date calculated based on further tolling of five-year period
+    - February 21, 2024: Current trial date
+
+Events:
+  - June 28, 2019: Stipulated judgment entered for Plaintiff
+  - October 31, 2019: Appeal filed
+  - May 5, 2021: Stay lifted
+  - November 15, 2021: Jury Trial scheduled for 09/07/2022
+  - November 8, 2022: Jury Trial advanced to 11/29/2022 and vacated
+  - March 16, 2020: Civil jury trials suspended due to COVID-19
+  - July 10, 2020: Civil jury trials resumed on January 4, 2021
+  - January 4, 2021: Jury trials resumed
+  - January 30, 2024: Tentative ruling issued
+
+Money:
+  - $25,000.01: Amount of damages awarded to Plaintiff in stipulated judgment
+
+Intentions:
+  - Plaintiff's intent to bring the action to trial
+  - Defendant's intent to dismiss the action for failure to bring it to trial
+
+Facts:
+  - Action filed on December 2, 2014
+  - Judgment entered on June 28, 2019
+  - Appeal filed on October 31, 2019
+  - Stay lifted on May 5, 2021
+  - Twelve hearing continuances granted by the Court
+  - Reasonable diligence not demonstrated by Plaintiff
+
+Disputes:
+  - Whether the five-year period was tolled due to impossibility, impracticability, or futility
+  - Whether the Court's continuances were properly considered in determining the five-year limitation period
+
+Acts:
+  - Filing of the complaint
+  - Entry of the stipulated judgment
+  - Filing of the appeal
+  - Stay of the action
+  - Lift of the stay
+  - Continuances granted by the Court
+
+Agreements:
+  - Settlement agreement signed on June 20, 2019
+
+Laws:
+  - Code of Civil Procedure sections 583.310-583.360
+
+Case Citations:
+  - McDonough Power Equipment Co. v. Superior Court of Los Angeles County (1972) 8 Cal.3d 527
+  - Lemaire v. Cox (1985) 171 Cal.App.3d 297
+  - Bergin v. Portman (1983) 141 Cal.App.3d 23
+  - Chin v. Meier (1991) 235 Cal.App.3d 1473
+  - De Santiago v. D & G Plumbing, Inc. (2007) 155 Cal.App.4th 365
+
+Roles:
+  - Judge: Hon. Teresa A. Beaudet
+  - Plaintiff's Counsel: Mostafavi Decl., ¶ 6
+  - Defendant's Counsel: Not specified
+
+Significant Statements:
+  - "The Court does not find that Plaintiffs have shown that the June 28, 2019 judgment constitutes a 'trial' for purposes of Code of Civil Procedure section 583.310."
+  - "Plaintiffs do not appear to demonstrate (or even assert) in the opposition that they exercised reasonable diligence in bringing the instant case to trial."
+  - "The Court grants Defendants' motion to dismiss."
+  - "The instant action shall be dismissed, as it was 'not brought to trial within the time prescribed in [Code of Civil Procedure sections 583.310-583.360]'."
+```
+
+Please note that this summary is based on the provided text and may not be exhaustive or entirely accurate.

@@ -1,0 +1,75 @@
+Here is the summary in YAML format:
+
+```
+Case Number: BC611486
+Plaintiff's Name: Gabriel Rueda
+Defendant's Name: Emmanuel Pacquiao, Frederick Roach, Keith M. Davidson, CBS Corporation, Showtime Networks, Inc.
+People-Names:
+  - Gabriel Rueda
+  - Emmanuel Pacquiao
+  - Frederick Roach
+  - Keith M. Davidson
+Company-Names:
+  - CBS Corporation
+  - Showtime Networks, Inc.
+  - Paramount Global
+Places: Los Angeles
+Dates:
+  - November 13, 2020
+  - January 7, 2021
+  - July 26, 2023
+  - October 5, 2023
+  - January 30, 2024
+  - August 27, 2024
+Events:
+  - Anti-SLAPP motion
+  - Appeal
+  - Remittitur
+  - Motion for attorneys' fees
+Money:
+  - $155,938 (requested)
+  - $46,897.98 (awarded)
+Intentions:
+  - Showtime Defendants seek to recover attorneys' fees incurred on appeal
+  - Plaintiff Rueda opposes the motion
+Facts:
+  - The Court granted a special motion to strike filed by the Showtime Defendants
+  - Plaintiff Rueda appealed the order
+  - The court of appeal affirmed the order in part and reversed in part
+  - The Showtime Defendants seek to recover attorneys' fees incurred on appeal
+Disputes:
+  - Plaintiff Rueda disputes the amount of fees requested
+  - Showtime Defendants argue that Plaintiff Rueda's indigence should not be a factor in determining the reasonable fee award
+Acts:
+  - The Court granted the anti-SLAPP motion
+  - The Court of appeal affirmed the order in part and reversed in part
+  - The Showtime Defendants filed a motion for attorneys' fees
+Agreements:
+  - The anti-SLAPP statute (Code Civ. Proc., § 425.16)
+  - The Court's ruling on the anti-SLAPP motion
+Laws:
+  - California Code of Civil Procedure § 425.16
+  - California Civil Procedure Code § 1200
+  - California Rules of Court, rule 3.170
+Case Citations:
+  - Butler-Rupp v. Lourdeaux (2007) 154 Cal.App.4th 918
+  - Holguin v. DISH Network LLC (2014) 229 Cal.App.4th 1310
+  - Trapp v. Naiman (2013) 218 Cal.App.4th 113
+  - Dove Audio, Inc. v. Rosenfeld, Meyer & Susman (1996) 47 Cal.App.4th 777
+  - Wilkerson v. Sullivan (2002) 99 Cal.App.4th 443
+  - PLCM Group v. Drexler (2000) 22 Cal.4th 1084
+  - Ketchum v. Moses (2001) 24 Cal.4th 1122
+  - Bernardi v. County of Monterey (2008) 167 Cal.App.4th 1379
+  - Garcia v. Santana (2009) 174 Cal.App.4th 464
+  - City of Colton v. Singletary (2012) 206 Cal.App.4th 751
+Roles:
+  - Judge: [Name of Judge]
+  - Plaintiff: Gabriel Rueda
+  - Defendant: Emmanuel Pacquiao, Frederick Roach, Keith M. Davidson, CBS Corporation, Showtime Networks, Inc.
+  - Counsel: [Names of Counsel]
+Significant Statements:
+  - The Court finds that the Showtime Defendants are the prevailing parties for anti-SLAPP fee recovery purposes.
+  - The Court makes a 20% across-the-board reduction to the remaining lodestar amount.
+  - The Court makes a further reduction of 50% from the initial lodestar calculation based on Plaintiff Rueda's showing of indigence.
+  - The Court awards the Showtime Defendants $46,897.98 in attorneys' fees.
+```

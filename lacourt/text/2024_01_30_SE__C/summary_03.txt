@@ -1,0 +1,73 @@
+Here is a summary of the judge's tentative ruling in YAML format:
+
+```
+case_number: 22NWCV00698
+hearing_date: January 30, 2024
+department: C
+parties:
+  - Kenneth B. Horton
+  - Christina Dudka (Plaintiffs)
+  - Winnebago Industries, Inc. (WNB)
+  - Mike Thompson RV 1 (MTRV)
+  - Mercedes-Benz USA, LLC (MBUSA)
+people:
+  - Kenneth B. Horton
+  - Christina Dudka
+  - Mike Thompson
+company_names:
+  - Winnebago Industries, Inc.
+  - Mike Thompson RV 1
+  - Mercedes-Benz USA, LLC
+places:
+  - Los Angeles County
+  - Joshua Tree
+  - Thayne, Wyoming
+dates:
+  - February 24, 2018
+  - August 2, 2022
+  - September 19, 2022
+  - October 4, 2018
+  - November 19, 2018
+  - February 2020
+events:
+  - Purchase of motorhome
+  - Repair attempts
+  - Failure to repair
+money:
+  - $0 (no monetary amount specified)
+intentions:
+  - To resolve disputes regarding lemon law claims
+facts:
+  - Plaintiff purchased a 2018 Winnebago motorhome from MTRV
+  - Plaintiff presented the motorhome for repair on multiple occasions
+  - Plaintiff alleges defects in the motorhome, including cracked rims and dead battery
+disputes:
+  - Whether the motorhome was sold in a merchantable condition
+  - Whether the manufacturer breached implied warranties
+  - Whether the manufacturer had reason to know of the buyer's intended use
+acts:
+  - Plaintiff presented the motorhome for repair
+  - Defendant failed to repair the motorhome
+agreements:
+  - Song-Beverly Consumer Warranty Act (California law)
+  - Implied warranty of merchantability
+  - Implied warranty of fitness for a particular purpose
+laws:
+  - California Civil Code § 1792
+  - California Civil Code § 1793
+  - California Civil Code § 1793.22
+statutes:
+  - California Civil Code § 1792.1
+  - California Civil Code § 1792.2
+roles:
+  - Judge: C Kenneth B. Horton
+  - Parties: Kenneth B. Horton, Christina Dudka, Winnebago Industries, Inc., Mike Thompson RV 1, Mercedes-Benz USA, LLC
+significant_statements:
+  - The Court finds that there is a triable issue of fact regarding whether the motorhome was sold in a merchantable condition.
+  - The Court finds that there is a triable issue of fact regarding whether the manufacturer breached implied warranties.
+  - The Court finds that there is a triable issue of fact regarding whether the manufacturer had reason to know of the buyer's intended use.
+```
+
+Here is a brief summary of the judge's tentative ruling in English:
+
+The judge has denied the defendants' motion for summary judgment on all three causes of action: breach of express warranty, breach of implied warranty of merchantability, and breach of implied warranty of fitness for a particular purpose. The judge has found that there are triable issues of fact in all three cases, and therefore the case will proceed to trial.

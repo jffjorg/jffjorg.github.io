@@ -1,0 +1,56 @@
+Here is the summary in YAML format:
+
+```
+case_number: 23STCV12345
+plaintiff_name: Stephanie Navarrete
+defendant_name: (Not specified)
+people_names:
+  - Stephanie Navarrete
+places:
+  - (Not specified)
+dates:
+  - August 18, 2023
+events:
+  - Filing of Complaint
+  - Notice of Related Cases
+money:
+  - (Not specified)
+intentions:
+  - To determine if related cases should be related
+facts:
+  - Plaintiff filed a Complaint with 11 claims
+  - Notice of Related Cases filed for cases 23STCV20980 and 23STCV27511
+  - Same property and landlord involved in related cases
+disputes:
+  - Whether cases involve the same parties and claims
+  - Whether cases require substantial duplication of judicial resources
+acts:
+  - Filing of Complaint and Notice of Related Cases
+agreements:
+  - (None mentioned)
+laws:
+  - Civ. Code § 1942.4
+  - Bus. & Prof. Code § 17500
+  - Cal. Rules of Court, rule 3.300(a)
+  - CLRA
+  - UCL
+case_citations:
+  - (None mentioned)
+statutes:
+  - Civ. Code § 1942.4
+  - Bus. & Prof. Code § 17500
+  - CLRA
+  - UCL
+roles:
+  - Judge
+  - Plaintiff
+  - Defendant
+significant_statements:
+  - The Court will not relate the subject cases because the benefits of relation are not apparent for these types of cases.
+```
+
+And here is the English-text summary:
+
+**Tentative Ruling**
+
+On August 18, 2023, Plaintiff Stephanie Navarrete filed a Complaint with 11 claims, including violation of Civ. Code § 1942.4, tortious breach of warranty of habitability, and false advertising. A Notice of Related Cases was also filed for cases 23STCV20980 and 23STCV27511, which involve the same property and landlord, but relate to habitability claims by other tenants. The Court will not relate the subject cases because the benefits of relation are not apparent for these types of cases. The Defendants are ordered to give notice.

@@ -1,0 +1,101 @@
+Here is a summary of the tentative ruling in YAML format:
+
+```
+case_number: 23STCV18819
+hearing_date: 2024-02-02
+dept: 27
+
+plaintiff:
+  name: Alejandra Quintero
+
+defendants:
+  - Perch Restaurant (erroneously sued as Perch)
+  - JMF Enterprises V LLC
+  - JMF Pershing Square LLC
+  - Citrus Hospitality Management (erroneously sued as Citrus LLC)
+  - Does 1 through 100
+
+people:
+  - Alejandra Quintero
+  - Defendants' counsel
+  - Speegle (declared in support of motion)
+
+company_names:
+  - Perch Restaurant
+  - JMF Enterprises V LLC
+  - JMF Pershing Square LLC
+  - Citrus Hospitality Management
+
+places:
+  - Los Angeles
+  - Pershing Square
+
+dates:
+  - 2023-08-08 (date of filing complaint)
+  - 2023-11-02 (date of filing first amended complaint)
+  - 2023-12-20 (date of filing demurrer)
+  - 2023-12-30 (extended deadline for filing demurrer)
+  - 2024-02-02 (hearing date)
+
+events:
+  - Demurrer to complaint
+  - Motion to strike
+
+money:
+  - Punitive damages
+
+intentions:
+  - To test sufficiency of complaint as a matter of law
+  - To strike allegations of punitive damages
+
+facts:
+  - Plaintiff was injured at a restaurant
+  - Restaurant used electric or gas space heaters
+  - Plaintiff alleges restaurant's premises were inadequate and unsafe
+  - Restaurant hid the danger of the device and premises
+
+disputes:
+  - Sufficiency of complaint
+  - Allegations of punitive damages
+
+acts:
+  - Demurrer filed
+  - Motion to strike filed
+  - Meet and confer process undertaken
+
+agreements:
+  - None
+
+laws:
+  - California Civil Code section 3294
+  - California Code of Civil Procedure sections 430.41, 435, 435.5, 436
+
+case_citations:
+  - Durell v. Sharp Healthcare (2010) 183 Cal.App.4th 1350
+  - Fox v. JAMDAT Mobile, Inc. (2010) 185 Cal.App.4th 1068
+  - Rakestraw v. California Physicians' Serv. (2000) 81 Cal.App.4th 39
+  - Youngman v. Nevada Irrigation Dist. (1969) 70 Cal.2d 240
+  - Peterson v. Superior Court (1995) 10 Cal.4th 1185
+  - Taylor v. Elliott Turbomachinery Co., Inc. (2009) 171 Cal.App.4th 564
+  - O'Neil v. Crane Co. (2012) 53 Cal.4th 335
+  - Hillard v. A.H. Robins Co. (1983) 148 Cal.App.3d 374
+  - Silberg v. California Life Ins. Co. (1974) 11 Cal.3d 452
+  - Tomaselli v. Transamerica Ins. Co. (1994) 25 Cal.App.4th 1269
+  - Lazar v. Superior Court (1996) 12 Cal. 4th 631
+  - Clauson v. Superior Court (1998) 67 Cal.App.4th 1253
+
+roles:
+  - Judge: Lee S. Arian
+  - Plaintiff: Alejandra Quintero
+  - Defendants: Perch Restaurant, JMF Enterprises V LLC, JMF Pershing Square LLC, Citrus Hospitality Management
+```
+
+And here is a summary of the tentative ruling in English text:
+
+The tentative ruling sustains the demurrer of the defendants as to the third cause of action in the First Amended Complaint, with leave to amend. The ruling also grants the motion to strike, but denies the request to grant the motion without leave to amend.
+
+The plaintiff, Alejandra Quintero, alleges that she was injured at a restaurant owned by the defendants, Perch Restaurant, JMF Enterprises V LLC, JMF Pershing Square LLC, and Citrus Hospitality Management. The defendants filed a demurrer to the complaint, arguing that the third cause of action, which alleges products liability, fails to state a cause of action.
+
+The court finds that the plaintiff's allegations do not establish that the defendants manufactured, distributed, or sold the allegedly defective product, and therefore, strict products liability cannot be imposed on the restaurant owners. The court also strikes the allegations of punitive damages, finding that they are not specific enough to support a claim for punitive damages.
+
+The court orders the moving party to give notice and invites parties who intend to submit on the tentative to send an email to the court. The court will adopt the tentative as the final order or place the motion off calendar if no objections are received.

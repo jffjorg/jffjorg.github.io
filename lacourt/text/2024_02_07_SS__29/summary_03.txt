@@ -1,0 +1,69 @@
+Here is the summary in YAML format:
+
+```
+case_number: 21STCV13304
+plaintiff_name: Joann Gomez
+defendant_name: Target Corporation
+people_names:
+  - Joann Gomez
+  - Matthew Doe
+company_names:
+  - Target Corporation
+places:
+  - California
+dates:
+  - April 7, 2021
+  - January 4, 2024
+  - January 10, 2024
+  - April 23, 2019
+  - April 23, 2024
+  - March 13, 2025
+events:
+  - Slip and fall
+  - Filing of complaint
+  - Filing of motion for summary judgment
+  - Filing of motion to continue trial
+money: None
+intentions:
+  - To have motion for summary judgment heard
+  - To continue trial
+facts:
+  - Plaintiff filed complaint against Target Corporation and others
+  - Defendant filed motion for summary judgment
+  - Defendant filed motion to continue trial
+disputes:
+  - Whether good cause exists for a continuance
+acts:
+  - Plaintiff filed complaint
+  - Defendant filed motion for summary judgment
+  - Defendant filed motion to continue trial
+agreements: None
+laws:
+  - California Rules of Court, Rule 3.1332(c)
+  - California Rules of Court, Rule 3.1332(d)
+  - Code Civ. Proc. § 128(a)(8)
+  - Sentry Ins. Co. v. Superior Court (1989) 207 Cal.App.3d 526, 529
+  - Cole v. Superior Court (2022) 87 Cal.App.5th 84, 88
+  - Color-Vue, Inc. v. Abrams (1996) 44 Cal.App.4th 1599, 1603
+  - Park Motors, Inc. v. Cozens (1975) 49 Cal.App.3d 12, 18
+case_citations:
+  - California Rules of Court, Rule 3.1332(c)
+  - California Rules of Court, Rule 3.1332(d)
+  - Code Civ. Proc. § 128(a)(8)
+  - Sentry Ins. Co. v. Superior Court (1989) 207 Cal.App.3d 526, 529
+  - Cole v. Superior Court (2022) 87 Cal.App.5th 84, 88
+  - Color-Vue, Inc. v. Abrams (1996) 44 Cal.App.4th 1599, 1603
+  - Park Motors, Inc. v. Cozens (1975) 49 Cal.App.3d 12, 18
+roles:
+  - Judge
+  - Plaintiff
+  - Defendant
+significant_statements:
+  - The motion to continue the trial date is granted.
+  - The Court finds Defendant has shown good cause for a continuance due to the right to have their motion for summary judgment heard.
+  - The Court DENIES Defendant’s request to advance the hearing for the motion summary adjudication before the current trial date.
+```
+
+And here is the English-text summary:
+
+This is a tentative ruling by the judge regarding a motion to continue the trial date and, in the alternative, advance the hearing on a motion for summary judgment filed by the defendant, Target Corporation. The plaintiff, Joann Gomez, filed a complaint against Target Corporation and others on April 7, 2021, alleging negligence and premise liability causes of action arising from a slip and fall on April 23, 2019. The defendant filed its motion for summary judgment on January 4, 2024, and its motion to continue the trial date on January 10, 2024. The court finds that the defendant has shown good cause for a continuance due to the right to have its motion for summary judgment heard. Therefore, the motion to continue the trial date is granted, and the trial is advanced and continued to late April 2025. The final status conference and all deadlines are reset based on the new trial date.

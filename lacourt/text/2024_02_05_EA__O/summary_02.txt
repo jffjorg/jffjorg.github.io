@@ -1,0 +1,56 @@
+Here is the summary in YAML format:
+
+```
+case_number: [omitted]
+plaintiff_name: Plaintiff
+defendant_name: Defendant
+people_names:
+  - Plaintiff
+  - Mother
+  - Defendant
+company_names: []
+places: []
+dates:
+  - [omitted]
+events:
+  - Payment to mother
+  - Mortgage
+money:
+  - Mortgage payments
+  - Non-real property related costs
+intentions:
+  - Resolve dispute
+  - Determine ownership percentage
+facts:
+  - Payments made to mother via direct deposit, direct transfer, or by check
+  - Payments denoted for "mortgage"
+  - Totality of circumstances indicate payments were for real property related costs
+disputes:
+  - Truthfulness of parties' statements
+acts:
+  - Signing statements under penalty of perjury
+  - Sending checks to mother
+  - Making mortgage payments
+agreements:
+  - None mentioned
+laws:
+  - Summers (case citation omitted)
+  - [omitted]
+case_citations:
+  - Summers
+  - [omitted]
+statutes:
+  - [omitted]
+roles:
+  - Judge
+  - Plaintiff
+  - Defendant
+  - Mother
+significant_statements:
+  - The Judge will require a trial court to solve or resolve the parties' respective percentage of ownership
+  - The Judge will resolve the dispute by submitting each payment made by the Plaintiff to her mother
+```
+
+And here is the English-text summary:
+
+The Judge's tentative ruling addresses a dispute between the Plaintiff and the Defendant regarding the ownership percentage of a property. The Judge rejects the Defendant's argument that the Plaintiff's ownership interest must be "undisputed" and instead notes that the case of Summers requires a trial court to solve or resolve the parties' respective percentage of ownership. The Judge suggests that the dispute can be resolved by submitting each payment made by the Plaintiff to her mother, which was signed under penalty of perjury. The Judge also notes that the totality of the circumstances indicates that the payments were for real property related costs, despite the Defendant's argument that they were for non-real property related costs.

@@ -1,0 +1,71 @@
+Here is the summary in YAML format:
+
+```
+case_number: 21STCV34550
+plaintiff_name: Razmik Gharapety
+defendant_name: Los Angeles Metropolitan Transportation Authority, ET AL.
+people_names:
+  - Razmik Gharapety
+  - Michelle C. Kim
+company_names:
+  - Los Angeles Metropolitan Transportation Authority
+places:
+  - Los Angeles
+dates:
+  - September 20, 2021
+  - March 20, 2023
+  - April 4, 2023
+  - January 16, 2024
+  - January 30, 2024
+events:
+  - Motor vehicle incident
+  - Non-jury trial
+  - Dismissal of complaint
+  - Motion to set aside dismissal
+  - Opposition to motion
+  - Order to show cause
+money: $0
+intentions:
+  - Plaintiff seeks to set aside dismissal of complaint
+  - Defendant opposes motion to set aside
+facts:
+  - Plaintiff failed to appear at non-jury trial due to calendaring mistake
+  - Defendant was not served with summons and complaint
+disputes:
+  - Excusable neglect vs. fault
+acts:
+  - Plaintiff's counsel failed to calendar deadlines correctly
+  - Defendant was not served with summons and complaint
+agreements: none
+laws:
+  - California Code of Civil Procedure (CCP) § 473
+  - CCP § 473, subdivision (b)
+  - Credit Managers Association of California v. National Independent Business Alliance (1984)
+  - Davis v. Thayer (1980)
+  - Basinger v. Roger & Wells (1990)
+  - Renteria v. Juvenile Justice, Dept. of Corrections & Rehabilitation (2006)
+  - State Farm Fire & Casualty Co. v. Pietak (2001)
+  - Solv-All v. Sup. Ct. (2005)
+case_citations:
+  - 162 Cal.App.3d 1166
+  - 113 Cal.App.3d 892
+  - 220 Cal.App.3d 16
+  - 135 Cal. App. 4th 903
+  - 90 Cal.App.4th 600
+  - 131 Cal.App.4th 1003
+statutes:
+  - CCP § 473
+roles:
+  - Plaintiff (Razmik Gharapety)
+  - Defendant (Los Angeles Metropolitan Transportation Authority, ET AL.)
+  - Judge (Michelle C. Kim)
+  - Counsel (Plaintiff's counsel)
+signifcant_statements:
+  - The motion to set aside the dismissal is GRANTED and the action is reinstated.
+  - The Court sets an Order to Show Cause re: Dismissal for Failure to File Proof of Service for ________________.
+  - Plaintiff is required to appear at the OSC and provide evidence showing Defendant has been served with the summons and complaint or why such service has not occurred.
+```
+
+And here is a summary of the judge's tentative ruling in English text:
+
+The judge has issued a tentative ruling in this case, granting the plaintiff's motion to set aside the dismissal of the complaint. The dispute arose when the plaintiff's counsel failed to calendar deadlines correctly, resulting in the plaintiff's failure to appear at a non-jury trial and the subsequent dismissal of the complaint. The judge has found that the plaintiff's counsel's mistake was excusable and that the plaintiff has shown a reasonable excuse for the default. The judge has also ordered an Order to Show Cause re: Dismissal for Failure to File Proof of Service, requiring the plaintiff to provide evidence showing that the defendant has been served with the summons and complaint or why such service has not occurred.

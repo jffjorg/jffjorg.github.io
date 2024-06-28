@@ -1,0 +1,55 @@
+Here is the YAML format summary of the tentative ruling:
+
+```
+case_number: [not specified]
+plaintiff_name: [not specified]
+defendant_name: [not specified]
+people_names:
+  - Plaintiff's counsel
+  - Defense counsel
+company_names: []
+places: []
+dates:
+  - January 2, 2024
+  - January 3, 2024
+  - January 10, 2024
+  - January 26, 2024
+events:
+  - Hearing on motion
+  - Failure to appear
+  - Continuance of hearing
+  - Filing of declaration
+  - Filing of objection
+money: []
+intentions:
+  - To resolve the motion
+  - To clarify the court's jurisdiction
+facts:
+  - Plaintiff's counsel failed to appear at the hearing
+  - Defendant's counsel filed an objection to the continuance
+  - The court has discretion to control its calendar
+disputes:
+  - Over the continuance of the hearing
+  - Over the court's jurisdiction
+acts:
+  - Filing of declaration
+  - Filing of objection
+  - Overruling of objection
+agreements: []
+laws:
+  - California Rule of Court 3.1304 (d)
+  - R & A Vending Services v. City of Los Angeles (1985)
+  - [other relevant laws or cases]
+statutes: []
+roles:
+  - Judge
+  - Plaintiff's counsel
+  - Defense counsel
+significant_statements:
+  - The court has discretion to control its calendar
+  - The court has the authority to put the matter on calendar on its own motion
+```
+
+And here is a summary of the judge's tentative ruling in English text:
+
+At the hearing on January 2, 2024, counsel for the plaintiff failed to appear. The court continued the motion to allow counsel to appear and discuss available dates for the deposition. The matter was continued to January 26, 2024. The plaintiff's counsel later filed a declaration explaining that their failure to appear was due to a calendaring error. The defendant's counsel objected to the continuance, citing California Rule of Court 3.1304 (d) and arguing that the court had two options: take the motion off calendar or rule on the motion. The court has overruled the defendant's objection and will proceed with the hearing as scheduled.

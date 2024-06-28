@@ -1,0 +1,45 @@
+Here is the summary in YAML format:
+
+```
+case_number: 23SMCV01369
+plaintiff_name: N/A
+defendant_name: Jared Najjar
+people_names:
+  - David R. Fisher
+  - Jared Najjar
+company_names:
+  - Fisher, Klein & Wolfe LLP
+places: N/A
+dates:
+  - February 1, 2024
+events:
+  - Motion to Withdraw as Counsel
+money: N/A
+intentions: Withdrawal of counsel
+facts:
+  - Attorney-client relationship has broken down
+  - Counsel has provided required forms under rule 3.1362 of the California Rules of Court
+  - Counsel has served opposing parties and client with the required forms
+disputes: N/A
+acts:
+  - Counsel's motion to withdraw
+  - Service of the required forms
+  - Filing of proof service of the ruling
+agreements: N/A
+laws:
+  - Rules of Professional Conduct, rule 1.16(b)(4), (b)(5)
+  - California Rules of Court, rule 3.1362
+case_citations: N/A
+statutes: N/A
+roles:
+  - Judge: David R. Fisher
+  - Counsel: David R. Fisher and Fisher, Klein & Wolfe LLP
+  - Defendant/Cross-Complainant: Jared Najjar
+significant_statements:
+  - "Counsel has asserted a valid reason for withdrawal, i.e., the attorney-client relationship has broken down."
+  - "There being good cause to grant counsel's request to withdraw, David R. Fisher and Fisher, Klein & Wolfe LLP's Motion to Withdraw as Counsel for Defendant/Cross-Complainant Jared Najjar is GRANTED."
+```
+
+And here is the English-text summary:
+
+The Judge grants a motion to withdraw as counsel for the defendant/cross-complainant Jared Najjar. The attorney-client relationship has broken down, and the law firm, Fisher, Klein & Wolfe LLP, has provided the required forms and served the opposing parties and client. The Judge finds good cause to grant the motion, citing relevant rules of professional conduct and the California Rules of Court. The ruling becomes effective upon filing of proof service of the ruling with the defendant/cross-complainant.

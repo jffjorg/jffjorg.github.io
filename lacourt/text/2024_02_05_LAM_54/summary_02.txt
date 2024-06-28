@@ -1,0 +1,64 @@
+Here is the summary in YAML format:
+
+```
+case_number: 22STCV01203
+plaintiff_name: 740 South Broadway Associates, LLC
+defendant_name: Chol Enterprises, Inc.
+people_names:
+  - Judge Maurice A. Leiter
+company_names:
+  - 740 South Broadway Associates, LLC
+  - Chol Enterprises, Inc.
+places:
+  - Los Angeles
+  - California
+dates:
+  - August 29, 2023
+  - August 24, 2023
+  - February 5, 2024
+  - May 2, 2023
+  - November 2022
+  - September 2023
+events:
+  - Motion to Set Aside Judgment
+  - Motion for Attorney's Fees
+  - Hearing on motions
+money:
+  - $58,269.75
+  - $3,302.44
+  - $88,934.25
+intentions:
+  - To set aside judgment
+  - To award attorney's fees
+facts:
+  - Defendant's former counsel did not understand the request for live testimony
+  - Plaintiff's motion to enforce settlement was denied
+  - Defendant had adequate notice and opportunity to be heard
+disputes:
+  - Attorney error and excusable neglect
+acts:
+  - Defendant's motion to set aside judgment
+  - Plaintiff's motion for attorney's fees
+agreements:
+  - Settlement agreement
+laws:
+  - CCP § 473(b)
+  - Civ. Code § 1717(a)
+case_citations:
+  - CCP § 473(b)
+  - Civ. Code § 1717(a)
+statutes:
+  - CCP § 473(b)
+  - Civ. Code § 1717(a)
+roles:
+  - Judge
+  - Plaintiff
+  - Defendant
+significant_statements:
+  - "The Court agrees that Plaintiff should not recover fees and costs incurred prior to the May 2, 2023 hearing denying Plaintiff's first motion to enforce settlement."
+  - "Plaintiff's motion is GRANTED in the reduced amount of $58,269.75 in attorney's fees and $3,302.44 in costs."
+```
+
+And here is a summary of the judge's tentative ruling in English text:
+
+The judge has issued a tentative ruling on the motions to set aside judgment and for attorney's fees. The defendant's motion to set aside judgment is denied because the defendant had adequate notice and opportunity to be heard, despite alleged attorney error and excusable neglect. The plaintiff's motion for attorney's fees is granted in the reduced amount of $58,269.75 in attorney's fees and $3,302.44 in costs. The court finds that the fees incurred after the May 2, 2023 hearing denying the plaintiff's first motion to enforce settlement are reasonable and timely.

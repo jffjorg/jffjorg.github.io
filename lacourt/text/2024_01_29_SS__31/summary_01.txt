@@ -1,0 +1,68 @@
+Here is the summary in YAML format:
+
+```
+case_number: 19STCV00574
+plaintiff_name: Lekesha Hawes
+defendant_name: Kennedy Gordy
+people_names:
+  - Lekesha Hawes
+  - Kennedy Gordy
+company_names: []
+places: []
+dates:
+  - April 16, 2019
+  - November 25, 2020
+  - November 30, 2023
+  - January 29, 2024
+events:
+  - Plaintiff filed action against defendant
+  - Plaintiff dismissed other defendants
+  - Plaintiff submitted request for default judgment
+  - Defendant was served with Statement of Damages
+  - Plaintiff seeks default judgment
+money:
+  - $1,179,781
+  - $479,781
+intentions:
+  - Plaintiff seeks default judgment against defendant
+facts:
+  - Defendant hit plaintiff with a chair
+  - Plaintiff was served with Statement of Damages
+  - Services of Statement of Damages are defective
+disputes:
+  - Whether plaintiff was properly served with Statement of Damages
+  - Whether plaintiff's damages are consistent
+acts:
+  - Plaintiff filed action
+  - Plaintiff dismissed other defendants
+  - Defendant was served with Statement of Damages
+agreements: []
+laws:
+  - CCP §425.11
+  - CCP §415.20
+  - CCP §415.50
+  - Plotitsa v. Superior Ct. (1983)
+  - Van Sickle v. Gilbert (1962)
+  - Engebretson & Co. v. Harrison (1981)
+case_citations:
+  - Plotitsa v. Superior Ct. (1983) 140 Cal. App. 3d 755, 760
+  - Van Sickle v. Gilbert, supra, 196 Cal.App.4th at p. 1521, 127 Cal.Rptr.3d 542
+  - Engebretson & Co. v. Harrison (1981) 125 Cal.App.3d 436, 443-444, 178 Cal.Rptr. 77
+statutes:
+  - CCP §425.11
+  - CCP §415.20
+  - CCP §415.50
+roles:
+  - Plaintiff: Lekesha Hawes
+  - Defendant: Kennedy Gordy
+  - Plaintiff's Counsel: unknown
+significant_statements:
+  - Plaintiff's request for default judgment is denied due to defective service of Statement of Damages
+  - Plaintiff must demonstrate defendant was properly served with the Statement of Damages
+  - Plaintiff must correct defects in proposed judgment and declaration
+  - Failure to do so may result in sanctions, including monetary sanctions and/or dismissal
+```
+
+And here is a summary in English text:
+
+The Judge has issued a tentative ruling denying the plaintiff's request for default judgment against the defendant. The plaintiff, Lekesha Hawes, filed the action against the defendant, Kennedy Gordy, alleging that the defendant hit the plaintiff with a chair. The plaintiff has properly dismissed all other defendants. However, the Judge finds that the services of the Statement of Damages are defective, and therefore, the plaintiff has not demonstrated that the defendant was properly served with the statement. Additionally, the Judge notes that the proposed judgment and declaration have defects, including inconsistencies in the amount of damages sought and lack of personal knowledge by the plaintiff's counsel. The Judge orders the plaintiff to correct these defects and submit a new default judgment package within a certain timeframe. Failure to do so may result in sanctions, including monetary sanctions and/or dismissal.

@@ -1,0 +1,63 @@
+Here is the summary in YAML format:
+
+```
+case_number: 23STCV05855
+plaintiff_names:
+  - Evike.com Inc.
+  - Matrix Airsoft, Inc.
+defendant_name: 2801 Mission Road Properties, LLC
+people_names:
+  - Maurice Leiter (Judge)
+company_names:
+  - Evike.com Inc.
+  - Matrix Airsoft, Inc.
+  - 2801 Mission Road Properties, LLC
+places:
+  - Los Angeles
+dates:
+  - November 6, 2023
+  - February 6, 2024
+events:
+  - Demurrer to Second Amended Complaint
+  - Motion to Strike
+money: None
+intentions:
+  - Defendant seeks to strike punitive damages from complaint
+  - Plaintiffs seek to maintain punitive damages in complaint
+facts:
+  - Plaintiffs are commercial tenants of a warehouse owned by Defendant
+  - Defendant represented to Plaintiffs that they were in default on lease
+  - Plaintiffs claim Defendant intentionally and in bad faith misrepresented
+    default to negotiate a new lease
+disputes:
+  - Interpreting Section 8.8 of the lease
+  - Whether punitive damages are available in this case
+acts:
+  - Defendant's demurrer to third, fourth, and fifth causes of action
+  - Motion to strike punitive damages
+agreements:
+  - Lease between Plaintiffs and Defendant
+laws:
+  - California Civil Procedure Code (CCP) § 430.50(a)
+  - California Civil Procedure Code (CCP) § 435(b)(1)
+  - California Civil Procedure Code (CCP) § 436
+  - California Civil Code § 3294(a)
+statutes:
+  - California Civil Procedure Code (CCP) § 430.50(a)
+  - California Civil Procedure Code (CCP) § 435(b)(1)
+  - California Civil Procedure Code (CCP) § 436
+  - California Civil Code § 3294(a)
+roles:
+  - Judge: Maurice Leiter
+signifcant statements:
+  - Defendant's demurrer is OVERRULED
+  - The motion to strike is DENIED
+```
+
+And here is the English-text summary:
+
+Judge Maurice Leiter has issued a tentative ruling in the case of Evike.com Inc. and Matrix Airsoft, Inc. v. 2801 Mission Road Properties, LLC. The case involves a dispute over a commercial lease and allegations of breach of contract, intentional interference with contractual relations, and punitive damages.
+
+The Judge has OVERRULED the defendant's demurrer to the third, fourth, and fifth causes of action, which argued that the lease barred liability for these claims. The Judge also DENIED the defendant's motion to strike the punitive damages from the complaint, finding that the allegations of intentional and bad faith misrepresentation by the defendant were sufficient to support a claim for punitive damages.
+
+The Judge has ordered the defendant to file and serve an answer to the second amended complaint within 30 days of notice of the ruling.

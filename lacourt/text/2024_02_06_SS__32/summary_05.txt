@@ -1,0 +1,68 @@
+Here is the summary in YAML format:
+
+```
+case_number: 22STCV09483
+plaintiff_name: Juana Sandoval
+defendant_name: Long Beach Public Transportation Company
+people_names:
+  - Juana Sandoval
+  - Defendant's counsel
+  - Defendant's counsel of record
+company_names:
+  - Long Beach Public Transportation Company
+places:
+  - Long Beach
+dates:
+  - September 28, 2022
+  - January 10, 2023
+  - February 6, 2024
+events:
+  - Request for Production of Documents, Set One
+  - Motion to compel responses
+  - Granting of motion to compel
+  - Imposition of monetary sanctions
+money:
+  - $1,250 (initial request)
+  - $375 (reduced amount)
+intentions:
+  - Defendant seeks to compel Plaintiff's responses to Request for Production
+  - Plaintiff did not oppose the motion
+facts:
+  - Defendant served Request for Production of Documents, Set One, on September 28, 2022
+  - Plaintiff did not serve a timely response
+  - Defendant requested responses without objections
+disputes:
+  - Plaintiff's failure to serve timely responses
+acts:
+  - Defendant served Request for Production of Documents, Set One
+  - Defendant requested responses without objections
+  - Plaintiff did not file an opposition to the motion
+  - The Court granted the motion to compel
+agreements:
+  - Code of Civil Procedure Section 2031.300
+  - Cal. Rules of Court, rule 3.1348(a)
+laws:
+  - Code of Civil Procedure Section 2031.300
+  - Cal. Rules of Court, rule 3.1348(a)
+case_citations:
+  - Code Civ. Pro § 2031.300 (a)(1)-(2)
+  - Code Civ. Pro § 2031.300 (b)
+  - Code Civ. Pro § 2031.300 (c)
+  - Cal. Rules of Court, rule 3.1348(a)
+statutes:
+  - Code of Civil Procedure Section 2031.300
+  - Cal. Rules of Court, rule 3.1348(a)
+roles:
+  - Judge
+  - Plaintiff (Juana Sandoval)
+  - Defendant (Long Beach Public Transportation Company)
+  - Counsel for Defendant
+  - Counsel for Plaintiff
+significant_statements:
+  - The Court grants the motion to compel and orders Plaintiff to serve properly verified responses without objections.
+  - The Court imposes monetary sanctions against Plaintiff and her counsel of record in the reduced amount of $375.
+```
+
+And here is the English-text summary:
+
+The Judge's tentative ruling grants the motion by Long Beach Public Transportation Company (Defendant) to compel Plaintiff Juana Sandoval's responses to Request for Production of Documents, Set One. The Defendant had served the request on September 28, 2022, and Plaintiff failed to serve a timely response. The Court finds that Plaintiff waived any objection to the request and grants the motion to compel. The Court also imposes monetary sanctions against Plaintiff and her counsel of record in the reduced amount of $375, to be paid within 30 days of the order.

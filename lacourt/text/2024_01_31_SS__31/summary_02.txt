@@ -1,0 +1,54 @@
+Here is the summary in YAML format:
+
+```
+Case Number: 20STCV04190
+Plaintiff's Name: Morgan Lumpkins
+Defendant's Name: Beverly Jean Byers
+People-Names:
+  - Morgan Lumpkins
+  - Beverly Jean Byers
+Company-Names:
+Places:
+  - California
+Dates:
+  - December 7, 2023
+  - December 2, 2023
+  - November 8, 2021
+  - January 25, 2024
+  - January 31, 2024
+Events:
+  - Proof of service
+  - Statement of Damages
+  - Entry of default
+  - Amended Statement of Damages
+Money:
+  - Damages
+Intentions:
+  - Request for default judgment
+Facts:
+  - Plaintiff served Defendant with Statement of Damages on December 2, 2023
+  - Statement of Damages increased the amount of damages sought
+  - November 8, 2021 entry of default is voided
+Disputes:
+  - Plaintiff vs Defendant
+Acts:
+  - Plaintiff filed proof of service
+  - Plaintiff served amended Statement of Damages
+Agreements:
+  - None mentioned
+Laws:
+  - California Code of Civil Procedure (CCP) 425.11(c)-(d)
+  - Van Sickle v. Gilbert (196 Cal.App.4th at p. 1521, 127 Cal.Rptr.3d 542)
+  - Plotitsa v. Superior Court (1983) 140 Cal.App.3d 755, 759
+Roles:
+  - Plaintiff: Morgan Lumpkins
+  - Defendant: Beverly Jean Byers
+  - Judge: (unspecified)
+Significant Statements:
+  - "A default judgment is void if the required statement of damages was not served on the defendant before the default was taken."
+  - "A statement of damages is the functional equivalent to an amendment to a complaint that increases the amount of damages sought."
+```
+
+And here is the English-text summary:
+
+The Judge's Tentative Ruling denies the Plaintiff's request for default judgment against the Defendant, Beverly Jean Byers. The Plaintiff, Morgan Lumpkins, had previously served the Defendant with a Statement of Damages on December 2, 2023, which increased the amount of damages sought compared to the original complaint. However, the Judge has voided the November 8, 2021 entry of default due to the Plaintiff's failure to serve the required statement of damages. The Judge requires the Plaintiff to seek a new entry of default and submit a new default judgment package by a certain date. Failure to do so may result in sanctions, including monetary sanctions and/or dismissal.

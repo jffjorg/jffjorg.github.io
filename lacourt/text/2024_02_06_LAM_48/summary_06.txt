@@ -1,0 +1,71 @@
+Here is the summary in YAML format:
+
+```
+case_number: 23STCV16888
+plaintiff_name: Melissa Bontempt
+defendant_names:
+  - FCA US LLC
+  - Axis Automotive Group, LLC dba Hunter Dodge Chrysler Jeep Ram Fiat and HW Hunter Ram (Hunter Dodge)
+people_names:
+  - Hunter Dodge
+  - Saeedian
+company_names:
+  - FCA US LLC
+  - Axis Automotive Group, LLC
+  - Hunter Dodge Chrysler Jeep Ram Fiat
+  - HW Hunter Ram
+places:
+  - Los Angeles
+  - California
+dates:
+  - July 19, 2023
+  - December 11, 2023
+  - August 29, 2023
+  - September 22, 2023
+  - September 29, 2023
+  - February 6, 2024
+events:
+  - Filing of motion to compel deposition
+  - Notice of deposition
+  - Failure to respond to meet and confer letter
+  - Failure to produce PMK for deposition
+  - Granting of motion to compel deposition
+  - Imposition of sanctions
+money:
+  - $2,846.75
+intentions:
+  - To compel deposition of Hunter Dodge's PMK
+facts:
+  - Plaintiff filed a motion to compel deposition of Hunter Dodge's PMK
+  - Hunter Dodge did not respond to meet and confer letter or produce PMK for deposition
+  - Plaintiff sent another meet and confer letter, but Hunter Dodge did not respond
+disputes:
+  - Dispute over propriety of Hunter Dodge's objections and topic limitations
+  - Dispute over date of deposition notice
+acts:
+  - Filing of motion and supporting evidence
+  - Failure to respond to meet and confer letter and produce PMK for deposition
+  - Granting of motion and imposition of sanctions
+agreements:
+  - None mentioned
+laws:
+  - California Code of Civil Procedure, § 2025.450
+  - California Code of Civil Procedure, § 2025.450, subdivision (a)
+case_citations:
+  - Code Civ. Proc., § 2025.450
+  - Code Civ. Proc., § 2025.450, subd. (a)
+statutes:
+  - California Code of Civil Procedure
+roles:
+  - Judge
+  - Plaintiff
+  - Defendant
+  - Counsel
+significant_statements:
+  - The court is guessing that Plaintiff subscribes to the common belief that depositions cannot be noticed until after a date is agreed on by the parties
+  - It is not improper to "unilaterally" pick a date
+```
+
+And here is a summary of the judge's tentative ruling in English text:
+
+The court has granted the plaintiff's motion to compel the deposition of Hunter Dodge's PMK. The plaintiff filed the motion on December 11, 2023, and Hunter Dodge did not respond to the meet and confer letter or produce the PMK for deposition. The court finds that Hunter Dodge's failure to respond and produce the PMK is unreasonable and orders them to produce the PMK for deposition within 30 days. Additionally, the court grants the plaintiff's request for sanctions and orders Hunter Dodge's counsel to pay $2,846.75 to the plaintiff within 30 days. The court notes that it is not improper to unilaterally pick a date for a deposition and that Hunter Dodge's failure to respond and produce the PMK is a violation of the court's rules and orders.

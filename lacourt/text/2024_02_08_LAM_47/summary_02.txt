@@ -1,0 +1,68 @@
+Here is the summary in YAML format:
+
+```
+case_number: 20STCV41680
+plaintiff_name: Edward D. Fagan
+defendant_name: Zhejiang Sunmarr International Transportation Co. Ltd., et al.
+people_names:
+  - Edward D. Fagan
+  - Kenneth Corkum
+  - Paul Corkum
+company_names:
+  - Zhejiang Sunmarr International Transportation Co. Ltd.
+places:
+  - United States
+  - Nigeria
+  - British Columbia
+  - Canada
+  - Ontario
+dates:
+  - October 30, 2020
+  - December 18, 2023
+  - February 5, 2024
+  - February 8, 2024
+events:
+  - Fraud scheme
+  - Service of process
+  - Motion for orders issuing letters rogatory
+money: None mentioned
+intentions:
+  - To issue letters rogatory
+  - To establish jurisdiction over defendants
+facts:
+  - Plaintiff alleges fraud scheme in Nigeria
+  - Plaintiff moves for order to show cause re: proof of service
+  - Plaintiff's proofs of service lack supporting declarations from process servers
+disputes:
+  - Validity of proofs of service
+acts:
+  - Service of process on Kenneth and Paul Corkum
+  - Plaintiff's motion for order issuing letters rogatory
+agreements:
+  - Hague Service Convention
+  - Code of Civil Procedure section 413.10
+  - Code of Civil Procedure section 410.50
+laws:
+  - Hague Service Convention
+  - Code of Civil Procedure section 413.10
+  - Code of Civil Procedure section 410.50
+case_citations:
+  - Rockefeller Technology Investments (Asia) VII v. Changzhou SinoType Technology Co., Ltd. (2020) 9 Cal.5th 125
+  - Volkswagenwerk Aktiengesellschaft v. Schlunk (1988) 486 U.S. 694
+  - Water Splash Inc. v. Menon (2017) 518 U.S. 271
+statutes:
+  - Code of Civil Procedure section 413.10
+  - Code of Civil Procedure section 410.50
+roles:
+  - Judge Theresa M. Traber
+  - Plaintiff Edward D. Fagan
+  - Defendant Zhejiang Sunmarr International Transportation Co. Ltd.
+significant_statements:
+  - Plaintiff has failed to carry his burden to demonstrate that service was properly made on the Corkum Defendants in compliance with the Hague Service Convention.
+  - The Court strikes the proofs of service on these Defendants as invalid.
+  - Plaintiff's Motion for Order Issuing Letters Rogatory is DENIED without prejudice.
+```
+
+Here is a summary of the tentative ruling in English text:
+
+The Court has issued a tentative ruling in a fraud case filed by Edward D. Fagan against Zhejiang Sunmarr International Transportation Co. Ltd. and others. The Court has struck the proofs of service on Kenneth and Paul Corkum as invalid because they lack supporting declarations from process servers. Therefore, the Court has denied the plaintiff's motion for an order issuing letters rogatory without prejudice. The Court has also denied the plaintiff's motion for an order to show cause re: proof of service because the plaintiff has failed to demonstrate that service was properly made on the Corkum defendants in compliance with the Hague Service Convention.

@@ -1,0 +1,71 @@
+Here is the summary in YAML format:
+
+```
+case_number: 22NWCV01249
+plaintiff_names:
+  - Yesenia Garcia
+  - Armando Garcia
+defendant_name: American Honda Motor Co., Inc.
+people_names:
+  - Yesenia Garcia
+  - Armando Garcia
+company_names:
+  - American Honda Motor Co., Inc.
+places:
+  - California
+dates:
+  - 2014
+  - 2020
+  - February 6, 2024
+events:
+  - Lemon law case
+  - Discovery
+  - Motion to compel further responses
+money: $0
+intentions:
+  - To compel defendant to produce documents and information
+  - To prove agency relationship between manufacturer and dealership
+  - To establish duty on behalf of manufacturer to disclose information
+facts:
+  - Plaintiffs purchased a 2020 Honda Pilot with a defect
+  - Defendant distributed and warranted the vehicle
+  - Plaintiffs requested production of documents and information
+disputes:
+  - Overbroadness of requests
+  - Confidentiality and proprietary information
+acts:
+  - Defendant failed to timely respond to requests
+  - Plaintiffs moved to compel further responses
+agreements:
+  - None mentioned
+laws:
+  - California Code of Civil Procedure
+  - California Vehicle Code
+  - Federal Rules of Civil Procedure
+case_citations:
+  - Code Civ. Proc., § 2031.020, subd. (b)
+  - Code Civ. Proc., § 2030.020, subd. (b)
+  - Code Civ. Proc., § 2031.030
+  - Code Civ. Proc., § 2031.060, subd. (a)
+  - Code Civ. Proc., § 2030.060, subd. (a)
+statutes:
+  - California Lemon Law
+roles:
+  - Judge: Yesenia Garcia
+  - Plaintiff: Armando Garcia
+  - Defendant: American Honda Motor Co., Inc.
+  - Court: California Superior Court
+significant_statements:
+  - The Court grants in part and denies in part the motion to compel further responses.
+  - Defendant must provide a sample and/or redacted dealership agreement.
+  - Requests 27-28 are limited to Technical Service Bulletins relating to the defects.
+  - Requests 56-60, 66, and 71-73 are denied due to overbroadness and potential confidentiality issues.
+```
+
+And here is the summary in English text:
+
+The Court's tentative ruling grants in part and denies in part the Plaintiffs' motion to compel further responses to their requests for production of documents. The Plaintiffs, Yesenia and Armando Garcia, are seeking information related to a lemon law case involving a 2020 Honda Pilot. The Court agrees with the Defendant, American Honda Motor Co., Inc., that some requests are overbroad and requires confidentiality and proprietary information to be protected.
+
+The Court orders the Defendant to provide a sample and/or redacted dealership agreement, which contains relevant terms without disclosing confidential financial information. The Court also limits Requests 27-28 to Technical Service Bulletins relating to the defects alleged to be present in the Subject Vehicle.
+
+However, the Court denies the motion to compel further responses to Requests 56-60, 66, and 71-73, as they are not reasonably calculated to lead to admissible evidence and may request confidential and proprietary information. The Court finds that the requests are too broad and would require the production of confidential information, which would not reasonably lead to the discovery of admissible evidence.

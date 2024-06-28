@@ -1,0 +1,62 @@
+Here is the summary in YAML format:
+
+```
+Case Number: 23STCV13959
+Plaintiff's Name: Michelle Pesce
+Defendant's Name: 1745 San Ysidro Drive, LLC and Christian Toxboe
+People-Names:
+  - Michelle Pesce
+  - Christian Toxboe
+Company-Names:
+  - 1745 San Ysidro Drive, LLC
+Places:
+  - Los Angeles
+Dates:
+  - February 8, 2024
+  - January 11, 2024
+Events:
+  - Court Hearing
+  - Default Judgment Request
+  - Usury Limitations
+Money:
+  - $159,174.20
+    - Damages: $100,000.00
+    - Prejudgment Interest: $55,228.32
+    - Attorney's Fees: $3,442.28
+    - Costs: $503.60
+Intentions:
+  - Plaintiff seeks default judgment against defendants
+  - Plaintiff seeks interest at a daily rate of $54.79
+Facts:
+  - Plaintiff requests default judgment in the amount of $159,174.20
+  - Plaintiff has not provided proof of exemption from usury limitations
+  - Plaintiff has not provided the original promissory note
+Disputes:
+  - Usury limitations
+  - Exemption from usury limitations
+Acts:
+  - Plaintiff requests default judgment
+  - Court denies default judgment without prejudice
+Agreements:
+  - None
+Laws:
+  - California Constitution Article XV, Section 1
+  - California Rules of Court, rule 3.206
+  - California Rules of Court, rule 3.1806
+  - Kahn v. Lasorda's Dugout, Inc. (2003) 109 Cal.App.4th 1118, 1124
+Case Citations:
+  - None
+Statutes:
+  - California Constitution Article XV, Section 1
+Roles:
+  - Judge: Teresa A. Beaudet
+  - Plaintiff: Michelle Pesce
+  - Defendants: 1745 San Ysidro Drive, LLC and Christian Toxboe
+Significant Statements:
+  - "[i]nterest has accrued on the principal balance of $100,000.00 at the agreed rate of 20% interest."
+  - "Proof must be presented of plaintiff's exemption from the usury limitations unless an exemption has been pleaded in the complaint and admitted by the entry of default."
+```
+
+And here is a summary of the judge's tentative ruling in English text:
+
+The judge has denied the plaintiff's request for default judgment without prejudice. The plaintiff had requested a default judgment in the amount of $159,174.20, comprising damages, prejudgment interest, attorney's fees, and costs. However, the court found several defects with the submitted default judgment package. First, the plaintiff failed to provide proof of exemption from the usury limitations of California Constitution Article XV, Section 1. Second, the total amount sought was not listed in the requests. Third, the plaintiff did not provide the original promissory note, as required by California Rules of Court, rule 3.1806. The court will discuss with the plaintiff a schedule for resubmission of the default judgment package.

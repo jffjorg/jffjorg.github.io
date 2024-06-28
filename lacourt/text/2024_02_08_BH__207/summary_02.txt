@@ -1,0 +1,50 @@
+Here is a summary of the tentative ruling in YAML format:
+
+```
+case_number: 23SMCV05292
+hearing_date: February 8, 2024
+dept: 207
+moving_party: Defendant City of Santa Monica
+opposing_party: None
+
+motions:
+  - Demurrer and Motion to Strike Portions of Complaint
+
+analysis:
+  - Demurrer:
+      - Failure to state a cause of action:
+          - First Cause of Action: Government Code Section 835 et seq
+            - Plaintiff does not allege a specific injury and does not meet the
+              requirements of Government Code section 835
+          - Second Cause of Action: Vicarious Liability
+            - Plaintiff does not allege specific facts demonstrating physical or
+              mental harm resulting from an incident that occurred when Plaintiff
+              was not present
+          - Third Cause of Action: Negligence
+            - Plaintiff's third cause of action for negligence is not premised on
+              any statutory duty
+
+motion_to_strike:
+  - Allegations of bodily injury and emotional distress struck from the Complaint
+
+leave_to_amend:
+  - Plaintiff has failed to meet its burden to show in what manner the Complaint
+    could be amended and how the amendment would change the legal effect of the
+    Complaint
+```
+
+And here is a summary of the tentative ruling in English text:
+
+The Court has issued a tentative ruling on the demurrer and motion to strike portions of the Complaint. The Defendant City of Santa Monica has demurred to all three causes of action alleged in the Complaint and has moved to strike allegations of bodily injury and emotional distress.
+
+The Court has sustained the demurrer to the First Cause of Action, which alleges a claim under Government Code Section 835 et seq, as the Plaintiff does not allege a specific injury and does not meet the requirements of Government Code section 835.
+
+The Court has overruled the demurrer to the Second Cause of Action, which alleges vicarious liability, as the Plaintiff does not allege specific facts demonstrating physical or mental harm resulting from an incident that occurred when Plaintiff was not present.
+
+The Court has sustained the demurrer to the Third Cause of Action, which alleges negligence, as the Plaintiff's third cause of action for negligence is not premised on any statutory duty.
+
+The Court has granted the motion to strike allegations of bodily injury and emotional distress from the Complaint.
+
+The Court has denied the Plaintiff's request for leave to amend the Complaint, as the Plaintiff has failed to meet its burden to show in what manner the Complaint could be amended and how the amendment would change the legal effect of the Complaint.
+
+The Court has ordered the Defendant to file an Answer to the Complaint on or before February 22, 2024, and has ordered the Plaintiff to provide notice of the Court's ruling and file a proof of service regarding the same.
