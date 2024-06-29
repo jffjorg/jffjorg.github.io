@@ -1,0 +1,57 @@
+Here is the summary in YAML format:
+
+```
+case_number: 22STCV02832
+plaintiff_name: Maria Skaleris, ET AL.
+defendant_name: Rafael Fajardo, ET AL.
+people_names:
+  - Peter Daniel Doss
+  - H. Dean Aynechi
+  - Rafael Fajardo
+  - Maria Skaleris
+company_names: []
+places:
+  - Los Angeles
+  - California
+dates:
+  - October 4, 2023
+  - December 5, 2023
+  - October 3, 2023
+events:
+  - Motion to be relieved as counsel
+  - Trial date set
+money: []
+intentions:
+  - Counsel seeks to be relieved as counsel due to inability to locate or contact plaintiff
+facts:
+  - Counsel hired private investigator to locate new address
+  - Counsel served moving papers on plaintiff via mail
+  - Counsel unable to confirm address or locate current address
+  - Trial date currently set for December 5, 2023
+disputes:
+  - Counsel's inability to locate or contact plaintiff
+acts:
+  - Counsel filed proof of service of motion, declaration, and proposed order
+  - Counsel declared inability to locate or contact plaintiff
+  - Counsel hired private investigator
+agreements:
+  - Parties must meet and confer to reach agreement
+  - Parties must submit tentative ruling by email if no agreement reached
+laws:
+  - California Rules of Court, Rule 3.1362(d)
+  - California Rule of Professional Conduct (CRPC) 3.700
+  - CRPC 3.700(B)
+statutes: []
+roles:
+  - Judge: Hon. Michelle C. Kim
+  - Counsel: H. Dean Aynechi
+  - Plaintiff: Peter Daniel Doss
+  - Defendant: Rafael Fajardo, ET AL.
+significant_statements:
+  - The motion is CONDITIONALLY GRANTED if all parties stipulate to a trial continuance
+  - The ruling is effective upon filing proof of service of the final order
+```
+
+Summary in English text:
+
+The tentative ruling in this case, 22STCV02832, addresses a motion by Plaintiff's attorney, H. Dean Aynechi, to be relieved as counsel. Aynechi claims he has been unable to locate or contact Plaintiff, Peter Daniel Doss, despite his best efforts, including hiring a private investigator and serving moving papers on the plaintiff's last known address. The motion is CONDITIONALLY GRANTED if all parties agree to a trial continuance, but otherwise, it is denied without prejudice. The court also orders Aynechi to give notice and encourages parties to meet and confer to reach an agreement. If no agreement is reached, parties must submit the tentative ruling by email or appear remotely or in person for oral argument.

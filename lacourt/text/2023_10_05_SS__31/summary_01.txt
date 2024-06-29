@@ -1,0 +1,49 @@
+Here is the summary in YAML format:
+
+```
+Case Number: 19STCV07374
+Plaintiff's Name: Ivan Rene Moore
+Defendant's Name: Jaari Zvi
+People-Names:
+  - Ivan Rene Moore
+  - Jaari Zvi
+Company-Names: []
+Places: []
+Dates:
+  - September 21, 2023
+  - October 5, 2023
+Events:
+  - Request for default judgment
+  - Failure to submit complete default judgment package
+Money:
+  - Sanctions (monetary)
+Intentions:
+  - Deny request for default judgment
+  - Order plaintiff to resubmit complete default judgment package
+  - Consider imposing sanctions
+Facts:
+  - Default judgment package submitted on September 21, 2023
+  - Package lacks CIV-100, JUD-100, and declaration with supporting evidence
+  - Court unable to locate required documents
+Disputes:
+  - Whether plaintiff's default judgment package is complete
+Acts:
+  - Plaintiff's failure to submit complete default judgment package
+  - Court's inability to locate required documents
+Agreements: []
+Laws:
+  - CRC 3.1800(a)
+Case Citations: []
+Statutes: []
+Roles:
+  - Judge
+  - Plaintiff (Ivan Rene Moore)
+  - Defendant (Jaari Zvi)
+Significant Statements:
+  - "A default package must include CIV-100, JUD-100, and a declaration by a percipient witness (i.e. Plaintiff) of the damages suffered with admissible supporting evidence of the damages sought."
+  - "The Court is unable to locate CIV-100, which is mandatory."
+```
+
+And here is the English-text summary:
+
+The Judge denies the request for default judgment submitted by Ivan Rene Moore against Jaari Zvi due to the lack of a complete default judgment package. The package, submitted on September 21, 2023, fails to include mandatory documents such as CIV-100 and JUD-100, as well as a declaration with supporting evidence of damages. The Court is unable to locate these required documents. The Judge orders the plaintiff to submit a new default judgment package correcting these defects by a certain date, failure to do so may result in the imposition of sanctions, including monetary sanctions and/or dismissal.

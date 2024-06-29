@@ -1,0 +1,70 @@
+Here is the summary of the tentative ruling in YAML format:
+
+```
+case_number: 21STCV47324
+hearing_date: October 4, 2023
+dept: 74
+plaintiff_name: Raluca Pereira
+defendant_name: Jaguar Land Rover North America, LLC
+people_names:
+  - Raluca Pereira
+  - Jaguar Land Rover North America, LLC
+company_names:
+  - Jaguar Land Rover North America, LLC
+places:
+  - California
+dates:
+  - February 8, 2023
+  - April 25, 2023
+  - May 1, 2023
+  - July 21, 2023
+  - August 8, 2023
+events:
+  - Defective vehicle
+  - Breach of implied warranty of merchantability
+  - Breach of express warranty under the Song-Beverly Act
+  - Request for production of documents
+  - Motion to compel further responses
+money:
+  - None mentioned
+intentions:
+  - Plaintiff seeks to compel further responses to requests for production of documents
+  - Defendant seeks to deny motion
+facts:
+  - Plaintiff filed a complaint against Defendant
+  - Plaintiff propounded requests for production of documents
+  - Defendant served responses, which Plaintiff was dissatisfied with
+  - Defendant served further responses, which Plaintiff was still dissatisfied with
+disputes:
+  - Plaintiff's motion to compel further responses
+acts:
+  - Plaintiff filed a motion to compel further responses
+  - Defendant opposed the motion
+  - The court considered the moving papers, opposition, and reply
+agreements:
+  - Stipulated protective order
+laws:
+  - California Code of Civil Procedure (Code Civ. Proc.)
+  - Song-Beverly Act
+case_citations:
+  - Code Civ. Proc., § 2031.310, subd. (a)
+  - Code Civ. Proc., § 2031.310, subd. (b)
+  - Code Civ. Proc., §§ 2031.310, subd. (a), 2031.210, subd. (b)
+  - Kirkland v. Sup.Ct. (Guess?, Inc.) (2002) 95 Cal.App.4th 92, 98
+statutes:
+  - California Code of Civil Procedure (Code Civ. Proc.)
+  - Song-Beverly Act
+roles:
+  - Plaintiff: Raluca Pereira
+  - Defendant: Jaguar Land Rover North America, LLC
+  - Judge: Raluca Pereira
+significant_statements:
+  - Defendant's objections are too general
+  - Plaintiff has shown good cause for the discovery
+  - Defendant must produce code-compliant responses
+  - Defendant must produce all documents in its possession, custody, or control which are responsive to the requests
+```
+
+And here is the English-text summary:
+
+The Judge has issued a tentative ruling on Plaintiff Raluca Pereira's motion to compel further responses to requests for production of documents. The motion arises from a defective 2019 Land Rover Range Rover Sport and Plaintiff's claims of breach of implied warranty of merchantability and breach of express warranty under the Song-Beverly Act. The Judge finds that Plaintiff has shown good cause for the discovery and grants the motion. The Judge orders Defendant Jaguar Land Rover North America, LLC to serve complete, code-compliant, further responses to the requests and to produce all documents in its possession, custody, or control which are responsive to the requests within 30 days of the date of the order.

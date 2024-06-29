@@ -1,0 +1,71 @@
+Here is the summary in YAML format:
+
+```
+case_number: 21STCP03146
+plaintiff: Fix the City, Inc.
+defendant: City of Los Angeles, et al.
+people_names:
+  - Beverly Grossman Palmer
+  - Michael J. Strumwasser
+  - Julia Michel
+company_names:
+  - Fix the City, Inc.
+  - HS Westside Properties, LLC
+  - Los Angeles Department of Building and Safety
+places:
+  - 1772 Glendon Avenue
+  - 1751 Malcolm Avenue
+  - Los Angeles
+dates:
+  - September 22, 2021
+  - February 20, 2022
+  - April 11, 2023
+  - April 24, 2023
+  - August 29, 2023
+  - September 13, 2023
+events:
+  - Petition for Writ of Mandate
+  - Hearing
+  - Judgment
+  - Fee motion
+money:
+  - $155,670.41 (total fees requested)
+  - $130,515.00 (fees for merits)
+  - $43,505.00 (reduced merits fees)
+  - $23,018.50 (fees for fee motion)
+  - $2,136.91 (out-of-pocket expenses)
+intention:
+  - To enforce important rights affecting the public interest
+facts:
+  - Petitioner Fix the City, Inc. challenged the issuance of certificates of occupancy for two apartment buildings
+  - The Court granted the petition for writ of mandate and ordered further geologic investigation
+  - Petitioner incurred fees for the litigation and fee motion
+disputes:
+  - Respondents' opposition to the fee request
+acts:
+  - Petitioner's challenge to the City's approval of the project
+  - Respondents' issuance of building permits and certificates of occupancy
+  - Further geologic investigation ordered by the Court
+agreements:
+  - Joint stipulation between respondents and real party in interest HS Westside Properties, LLC
+laws:
+  - California Code of Civil Procedure § 1021.5
+  - Public Resources Code § 2621.5
+  - Public Resources Code § 2623
+case_citations:
+  - Conservatorship of Whitley (2010) 50 Cal.4th 1206
+  - Ebbetts Pass Forest Watch v. Department of Forestry & Fire Protection (2010) 187 Cal.App.4th 376
+  - La Mirada Avenue Neighborhood Assn. of Hollywood v. City of Los Angeles (2018) 22 Cal.App.5th 1149
+  - Mejia v. City of Los Angeles (2007) 156 Cal.App.4th 151
+  - Woodland Hills Residents Assn., Inc. v. City Council (1979) 23 Cal.3d 917
+roles:
+  - Judge: Curtis A. Kin
+  - Plaintiff: Fix the City, Inc.
+  - Defendant: City of Los Angeles, et al.
+  - Real party in interest: HS Westside Properties, LLC
+significant_statements:
+  - The Court finds that petitioner's action has resulted in the enforcement of an important right affecting the public interest.
+  - The Court awards fees to petitioner against respondents City of Los Angeles, Los Angeles Department of Building and Safety, and Board of Building and Safety Commissioners and real party in interest HS Westside Properties, LLC, jointly and severally.
+```
+
+Note: Some information, such as the specific dates and times of the events, has been omitted from the summary to reduce its length and focus on the main points.

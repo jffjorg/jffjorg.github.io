@@ -1,0 +1,69 @@
+Here is the summary in YAML format:
+
+```
+case_number: 19STCV12152
+plaintiff: Ilan N. Rosen Janfaza
+defendant: Andres Gutierrez, Elizabeth Gutierrez
+people_names:
+  - Ilan N. Rosen Janfaza
+  - Andres Gutierrez
+  - Elizabeth Gutierrez
+company_names: []
+places:
+  - Los Angeles
+  - California
+dates:
+  - March 30, 2023
+  - May 18, 2023
+  - September 21, 2023
+  - October 3, 2023
+  - October 4, 2023
+events:
+  - Propounded request for production of documents (RPDs)
+  - Failure to respond to discovery requests
+  - Motion to compel discovery responses
+  - Request for sanctions
+money:
+  - $455.34
+  - $320.34
+  - $60
+intentions:
+  - To compel plaintiff to respond to discovery requests
+  - To award sanctions to defendants
+facts:
+  - Plaintiff was properly served with discovery requests
+  - Plaintiff failed to respond to discovery requests
+  - Plaintiff did not file opposition to the motion to compel
+disputes:
+  - Failure to respond to discovery requests
+  - Request for sanctions
+acts:
+  - Propounding request for production of documents (RPDs)
+  - Sending correspondence to plaintiff's counsel
+  - Filing motion to compel discovery responses
+  - Requesting sanctions
+agreements: []
+laws:
+  - Leach v. Superior Court (1980)
+  - Code Civ. Proc., § 2031.300
+  - Sinaiko Healthcare Consulting, Inc. v. Pacific Healthcare Consultants (2007)
+  - Code Civ. Proc., § 2031.300, subd. (a)
+  - Code Civ. Proc., § 2031.300(c)
+  - CRC 3.1348(a)
+roles:
+  - Judge: Hon. Michelle C. Kim
+  - Plaintiff: Ilan N. Rosen Janfaza
+  - Defendant: Andres Gutierrez, Elizabeth Gutierrez
+significant_statements:
+  - "Defendants’ motion is GRANTED."
+  - "Plaintiff is ordered to serve verified responses to Defendants’ RPDs, set two, without objections, within fifteen (15) days."
+  - "Sanctions are imposed against Plaintiff and Plaintiff’s attorney of record, jointly and severally."
+```
+
+And here is the English-text summary:
+
+The Judge, Hon. Michelle C. Kim, has made a tentative ruling in the case 19STCV12152. The plaintiff, Ilan N. Rosen Janfaza, failed to respond to discovery requests from the defendants, Andres Gutierrez and Elizabeth Gutierrez, which were propounded on March 30, 2023. The defendants sent a correspondence to the plaintiff's counsel requesting responses by May 18, 2023, but the plaintiff did not respond. The defendants therefore filed a motion to compel discovery responses and request sanctions.
+
+The Judge has granted the motion to compel discovery responses, ordering the plaintiff to serve verified responses to the discovery requests within 15 days. The Judge has also imposed sanctions on the plaintiff and the plaintiff's attorney, jointly and severally, in the amount of $380.34, which includes $320.34 in attorneys' fees and $60 in filing fees.
+
+The Judge has given notice to the parties to meet and confer to see if they can reach an agreement. If a party intends to submit to the tentative ruling, they must send an email to the court with the subject line "SUBMIT" followed by the case number.

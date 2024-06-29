@@ -1,0 +1,48 @@
+Here is the summary in YAML format:
+
+```
+case_number: Not specified
+plaintiff_name: Not specified
+defendant_name: Not specified
+people_names:
+  - Plaintiff
+  - Defendant
+  - nGroup
+company_names:
+  - nGroup
+places: None
+dates:
+  - Not specified
+events:
+  - Filing of Complaint
+  - Filing of Cross-Complaint
+  - Filing of First Amended Cross-Complaint
+  - Filing of FAC (First Amended Complaint)
+money: None
+intentions:
+  - To amend the Complaint
+  - To request leave of court
+  - To reject the FAC
+acts:
+  - Filing of documents
+  - Failure to obtain leave of court
+  - Filing of Answer
+agreements: None
+laws:
+  - Court Rules
+  - Statutes (not specified)
+case_citations: None
+statutes: None
+roles:
+  - Plaintiff
+  - Defendant
+  - Judge
+significant_statements:
+  - The relevant issue is why the request for amendment was not made earlier.
+  - The fact that nGroup is the Plaintiff's employer was known before the case was filed.
+  - Defendant filed its Answer to the FAC without raising any issues regarding its filing.
+```
+
+And here is the English-text summary:
+
+The Judge's tentative ruling addresses the Plaintiff's proposed amendment to the Complaint and the Defendant's objections to it. The Judge notes that the Defendant has pointed out that the accompanying declaration does not discuss when the facts giving rise to the amended allegations were discovered. However, the Judge finds that the relevant issue is not discovery of the fact that nGroup is the Plaintiff's employer, which was known before the case was filed and was alluded to in the original Complaint. The Judge also addresses the Defendant's objection that the Plaintiff's First Amended Complaint (FAC) was improperly filed because the Plaintiff had not obtained leave of court. However, the Judge notes that the FAC was not rejected for failure to obtain leave of court and that the Defendant filed its Answer to the FAC without raising any issues regarding its filing.

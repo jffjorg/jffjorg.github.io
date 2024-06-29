@@ -1,0 +1,64 @@
+Here is the summary in YAML format:
+
+```
+case_number: 23CHCV00081
+plaintiff_name: Rolando Urquidiez
+defendant_name: Ford Motor Company
+people_names:
+  - Jeffrey Push
+company_names:
+  - Galpin Motors, Inc.
+  - Ford Motor Company
+places:
+  - California
+dates:
+  - January 11, 2023
+  - March 3, 2023
+  - May 2, 2023
+  - June 20, 2023
+  - August 23, 2023
+  - September 15, 2023
+  - October 4, 2023
+events:
+  - Complaint filed
+  - Demurrer sustained
+  - Answer filed
+  - Motion to compel further responses
+money: None
+intentions:
+  - Compel Ford to produce documents related to the 2019 F-150 transmission defect
+facts:
+  - The plaintiff alleges a defective transmission in his 2019 certified pre-owned Ford F-150
+  - Ford produced documents regarding the subject model year and transmission defect
+  - The plaintiff seeks production of additional documents related to internal knowledge of engine defects, communications with governmental agencies, and dealership agreements
+disputes:
+  - The defendant challenged the separate statement and maintained that the responses were appropriate
+acts:
+  - The plaintiff filed a complaint
+  - The defendant answered
+  - The plaintiff filed a motion to compel further responses
+agreements:
+  - Lemon Law claims
+  - Magnuson-Moss Warranty Act
+  - Consumer Legal Remedies Act
+laws:
+  - California Civil Code section 1793.2
+  - Song-Beverly Act
+  - California Code of Civil Procedure section 2031.240
+case_citations:
+  - Ibrahim v. Ford Motor Co. (1989) 214 Cal.App.3d 878, 263 Cal.Rptr. 64
+  - Oregel v. American Isuzu Motors, Inc. (2001) 90 Cal.App.4th 1094, 1101
+  - Donlen v. Ford Motor Co. (2013) 217 Cal.App.4th 138, 153-154
+roles:
+  - Judge
+  - Plaintiff
+  - Defendant
+significant_statements:
+  - The court will limit discovery to the make and model year, 2019 F-150, with further limitation to the transmission defect
+  - The court will allow discovery into the relevant make and model year for all impacted systems or parts
+  - The court will deny the motion as to numbers 50, 52, 121, 128, 130, and 131 due to overbroad or insufficiently defined parameters
+```
+
+And here is a summary in English text:
+
+The Judge's tentative ruling is to deny the plaintiff's motion to compel further responses to request for production of documents in part, and grant it in part. The motion is denied as to numbers 50, 52, 121, 128, 130, and 131 due to overbroad or insufficiently defined parameters. The court will limit discovery to the make and model year, 2019 F-150, with further limitation to the transmission defect. The court will allow discovery into the relevant make and model year for all impacted systems or parts. The court will also deny the motion as to numbers 145, 146, 147, and 148 due to lack of justification beyond the agreed upon production. The Judge invites the plaintiff to reexamine motions possibly filed prior to a change in the disposition of the action, and utilize the reply as an opportunity to update arguments possibly rendered moot.

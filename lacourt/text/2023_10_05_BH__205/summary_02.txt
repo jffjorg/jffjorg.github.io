@@ -1,0 +1,94 @@
+Here is the summary in YAML format:
+
+```
+case_number: 22SMCV00619
+plaintiffs: MIKHAIL CHERNOV, et al.
+defendants: PAOLA JOICE MILLER, et al.
+people_names:
+  - Mikhail Chernov
+  - Olga Chernova
+  - Paola Joice Miller
+company_names: null
+places:
+  - 1070 Somera Road
+  - Los Angeles, California
+  - Beverly Hills Courthouse
+  - Department 205
+dates:
+  - March 21, 2023
+  - May 18, 2023
+  - June 12, 2023
+  - July 20, 2023
+  - August 11, 2023
+  - August 21, 2023
+  - August 23, 2023
+  - October 5, 2023
+  - November 6, 2023
+  - December 6, 2023
+events:
+  - Landlord-tenant dispute
+  - Breach of contract
+  - Notice of deposition
+  - Failure to appear for deposition
+  - IDC (In Person Discovery Conference)
+  - Motion to compel deposition
+  - Request for monetary sanctions
+  - Granting of motion
+  - Award of sanctions
+  - Failure to pay sanctions
+  - Notice of deposition (again)
+  - Failure to appear for deposition (again)
+money: null
+intentions:
+  - To terminate Tenant's discovery obligations
+  - To impose issue and/or evidentiary sanctions
+facts:
+  - Tenant failed to pay rent
+  - Landlords sued for breach of contract
+  - Tenant failed to appear for deposition
+  - Landlords filed a motion to compel deposition and requested monetary sanctions
+  - Court granted motion and awarded sanctions
+  - Tenant failed to pay sanctions
+  - Landlords noticed Tenant's deposition again, and Tenant failed to appear
+disputes:
+  - Whether terminating, issue and/or evidentiary sanctions are warranted
+acts:
+  - Landlords served Tenant with a notice of deposition
+  - Tenant failed to appear for deposition
+  - Landlords filed a motion to compel deposition and requested monetary sanctions
+  - Court granted motion and awarded sanctions
+  - Tenant failed to pay sanctions
+  - Landlords noticed Tenant's deposition again, and Tenant failed to appear
+agreements:
+  - Written lease agreement between Landlords and Tenant
+  - Court orders regarding deposition and sanctions
+laws:
+  - California Code of Civil Procedure section 2023.010
+  - California Code of Civil Procedure section 2023.030
+  - California Code of Civil Procedure section 2023.030 subdivision (d)
+case_citations:
+  - Lang v. Hochman (2000) 77 Cal.App.4th 1225, 1246
+  - Reedy v. Bussell (2007) 148 Cal.App.4th 1272, 1293
+  - Miranda v. 21st Century Ins. Co. (2004) 117 Cal.App.4th 913, 928-929
+  - Do It Urself Moving & Storage, Inc. v. Brown, Leifer, Slatkin & Berns (1992) 7 Cal.App.4th 27, 36
+  - Laguna Auto Body v. Farmers Ins. Exchange (1991) 231 Cal.App.3d 481, 491
+  - Los Defensores, Inc. v. Gomez (2014) 223 Cal.App.4th 377, 390
+  - Collisson & Kaplan v. Hartunian (1994) 21 Cal.App.4th 1611, 1617-1622
+  - Garcia v. McCutchen (1997) 16 Cal.4th 469, 478, n. 4
+statutes:
+  - California Code of Civil Procedure section 2023.010
+  - California Code of Civil Procedure section 2023.030
+roles:
+  - Judge: Edward B. Moreton, Jr.
+  - Plaintiffs: Mikhail Chernov, et al.
+  - Defendant: Paola Joice Miller
+significant_statements:
+  - The Court grants Plaintiffs' motion for terminating sanctions.
+  - Tenant's answer is stricken.
+  - Plaintiffs are ordered to provide a proposed default judgment by November 6, 2023.
+  - The Court sets a status conference re entry of default judgment on December 6, 2023 at 9:00 a.m.
+```
+
+And here is the English-text summary:
+
+The Judge's Tentative Ruling is that the Plaintiff's motion for terminating sanctions is granted. The Defendant, Paola Joice Miller, has failed to comply with several court orders, including failing to appear for a deposition and failing to pay monetary sanctions. The Court has previously granted a motion to compel deposition and awarded sanctions against the Defendant, but the Defendant has continued to fail to comply. The Judge finds that the Defendant's actions have been willful and that less severe sanctions have not served to curb the Defendant's discovery abuses. Therefore, the Judge concludes that terminating sanctions are warranted, and the Defendant's answer is stricken. The Plaintiffs are ordered to provide a proposed default judgment by November 6, 2023, and a status conference is set for December 6, 2023 to consider entry of default judgment.

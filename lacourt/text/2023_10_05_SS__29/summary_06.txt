@@ -1,0 +1,73 @@
+Here is the summary in YAML format:
+
+```
+case_number: 21STCV09505
+plaintiff: Ramona Simpson
+defendant: Michael Cross
+people:
+  - Ty Davis
+  - Maxwell (counsel)
+companies: []
+places:
+  - California (state)
+  - California (court)
+dates:
+  - March 10, 2021
+  - April 7, 2019
+  - February 16, 2023
+  - February 22, 2023
+  - March 2, 2023
+  - March 9, 2023
+  - April 5, 2023
+  - May 3, 2023
+  - May 4, 2023
+  - June 29, 2023
+  - July 19, 2023
+  - August 3, 2023
+  - September 8, 2023
+  - October 5, 2023
+events:
+  - Traffic collision
+  - Deposition
+  - Settlement agreement
+  - Notice of taking deposition
+  - Motion to compel deposition
+  - Hearing
+money:
+  - $572.30 (costs for court reporter)
+intentions:
+  - To compel deposition of Plaintiff
+facts:
+  - Plaintiff failed to appear for deposition
+  - Defendant served Plaintiff with notice of taking deposition
+  - Defendant incurred costs for court reporter
+disputes:
+  - Failure of Plaintiff to appear for deposition
+  - Failure of Defendant to comply with Code of Civil Procedure section 2025.450
+acts:
+  - Defendant filed motion to compel deposition
+  - Defendant served Plaintiff with notice of taking deposition
+  - Plaintiff failed to appear for deposition
+agreements:
+  - Settlement agreement (failed to be signed)
+laws:
+  - Code of Civil Procedure, section 2025.010
+  - Code of Civil Procedure, section 2025.410
+  - Code of Civil Procedure, section 2025.450
+case_citations: [Code Civ. Proc.]
+statutes: []
+roles:
+  - Judge
+  - Plaintiff
+  - Defendant
+  - Counsel
+  - Court reporter
+significant_statements:
+  - The motion is DENIED without prejudice.
+  - Defendant has failed to comply with Code of Civil Procedure section 2025.450.
+  - Plaintiff failed to appear for deposition.
+```
+
+And here is the English summary of the judge's tentative ruling:
+
+The Defendant's motion to compel the deposition of the Plaintiff is denied without prejudice. The Plaintiff failed to appear for the deposition, despite being properly served with notice, and the Defendant has not filed any supplemental documentation to comply with the requirements of Code of Civil Procedure section 2025.450. The Defendant has incurred costs for the court reporter in the amount of $572.30. The case is set for further hearing on October 5, 2023.

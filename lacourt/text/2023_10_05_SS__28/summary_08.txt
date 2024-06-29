@@ -1,0 +1,77 @@
+Here is the summary in YAML format:
+
+```
+case_number: 22STCV18680
+plaintiff_name: Shawn Steven Yenis
+defendant_name: Abbe Christopher Redin, Los Angeles Unified School District
+people_names:
+  - Shawn Steven Yenis
+  - Abbe Christopher Redin
+company_names:
+  - Los Angeles Unified School District
+places:
+  - Los Angeles
+dates:
+  - June 8, 2022
+  - August 24, 2022
+  - January 20, 2023
+  - January 24, 2023
+  - September 7, 2023
+  - October 5, 2023
+  - December 6, 2023
+  - July 13, 2023
+  - August 8, 2023
+  - August 13, 2023
+  - September 11, 2023
+events:
+  - Motor vehicle accident
+  - Filing of complaint
+  - Filing of answer
+  - Motion to compel verified responses
+  - Motion to compel production of documents
+  - Motion to deem admitted
+  - Failure to comply with court orders
+  - Filing of motion for terminating sanctions
+  - Dismissal of case
+money:
+  - None requested
+intentions:
+  - To impose terminating sanctions
+facts:
+  - Plaintiff failed to comply with court orders
+  - Defendants filed motion for terminating sanctions
+  - Court granted motion for terminating sanctions and dismissed case
+disputes:
+  - Failure to comply with court orders
+  - Request for terminating sanctions
+acts:
+  - Filing of complaint
+  - Filing of answer
+  - Failure to comply with court orders
+  - Filing of motion for terminating sanctions
+agreements:
+  - None mentioned
+laws:
+  - Code of Civil Procedure section 2023.030
+  - Collison & Kaplan v. Hartunian (1994)
+  - Deyo v. Kilbourne (1978)
+  - Mileikowsky v. Tenet Healthsystem (2005)
+case_citations:
+  - Code Civ. Proc., § 2023.030
+  - Collison & Kaplan v. Hartunian (1994) 21 Cal.App.4th 1611
+  - Deyo v. Kilbourne (1978) 84 Cal.App.3d 771
+  - Mileikowsky v. Tenet Healthsystem (2005) 128 Cal.App.4th 262
+statutes:
+  - Code of Civil Procedure section 2023.030
+roles:
+  - Plaintiff: Shawn Steven Yenis
+  - Defendant: Abbe Christopher Redin, Los Angeles Unified School District
+significant_statements:
+  - The Court grants the motion for terminating sanctions and dismisses the case.
+  - The Court finds that the plaintiff failed to comply with court orders.
+  - The Court orders the dismissal of the case with prejudice.
+```
+
+Here is the English-text summary:
+
+The tentative ruling grants the motion for terminating sanctions filed by the defendants, Abbe Christopher Redin and Los Angeles Unified School District, against the plaintiff, Shawn Steven Yenis. The plaintiff failed to comply with two court orders, and the defendants filed a motion for terminating sanctions before the deadline for compliance. The Court finds that the plaintiff's failure to comply with the orders is a misuse of the discovery process and warrants the imposition of terminating sanctions. As a result, the Court grants the motion and dismisses the case with prejudice.

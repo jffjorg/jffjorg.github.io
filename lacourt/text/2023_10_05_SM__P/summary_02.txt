@@ -1,0 +1,78 @@
+Here is the summary in YAML format:
+
+```
+case_number: 21SMCV00574
+hearing_date: 2023-10-05
+dept: P
+
+people:
+  - Estevez
+  - General Motors, LLC
+
+companies:
+  - General Motors, LLC
+
+places:
+  - California
+
+dates:
+  - 2023-10-05
+
+events:
+  - Plaintiff's Motion for Attorney Fees
+
+money:
+  - $70,802.50 (initial request)
+  - $3,723 (anticipated fees)
+  - $69,499.80 (awarded fees)
+  - $860.70 (reduction for discovery requests)
+  - $992.64 (reduction for meet and confer letters)
+  - $1,600 (reduction for deposition subpoenas and reviewing objections)
+  - $1,600 (reduction for motion to compel)
+  - $5,052.70 (total reduction)
+
+intentions:
+  - Plaintiff seeks attorney fees and anticipated fees
+  - Defendant argues requested fees are excessive
+
+facts:
+  - Plaintiff sued General Motors, alleging failure to fix a transmission defect
+  - Parties settled, with defendant agreeing to pay prevailing party attorney's fees
+  - Plaintiff seeks fees for five attorneys who performed almost 200 hours of work
+  - Plaintiff's initial motion sought costs, but the reply stated that costs would be sought via a separate mechanism
+
+disputes:
+  - Reasonableness of attorney fees and costs
+
+acts:
+  - Plaintiff filed a motion for attorney fees
+  - Defendant opposed the motion, arguing requested fees are excessive
+  - The court reduced the awarded fees to reflect time saved using pre-existing briefs and other documents
+
+agreements:
+  - Parties settled, with defendant agreeing to pay prevailing party attorney's fees
+
+laws:
+  - Cal. Civ. Code §1794(d)
+  - Ketchum v. Moses (2001) 24 Cal.4th 1122, 1138
+
+case_citations:
+  - Ketchum v. Moses (2001) 24 Cal.4th 1122, 1138
+
+statutes:
+  - Cal. Civ. Code §1794(d)
+
+roles:
+  - Estevez (plaintiff)
+  - General Motors, LLC (defendant)
+  - Judge (ruling)
+
+significant_statements:
+  - The court agrees that some of the amounts billed are excessive and do not seem to reflect the time efficiencies use of a template should yield.
+  - The court reduced the awarded fees to reflect time saved using pre-existing briefs and other documents.
+  - The other requested fees and costs are reasonable and supported by billing records and the nature of the tasks performed.
+```
+
+And here is the English-text summary:
+
+The Judge has issued a tentative ruling on Plaintiff Estevez's Motion for Attorney Fees in the case of Estevez v. General Motors, LLC. The parties settled the case, with the defendant agreeing to pay prevailing party attorney's fees. Plaintiff Estevez seeks $70,802.50 in attorneys' fees and $3,723 in anticipated fees, billed at hourly rates of $300-515/hour, for five attorneys who performed almost 200 hours of work. The Judge agrees that some of the amounts billed are excessive and do not reflect the time efficiencies use of a template. After reducing the fees to reflect time saved, the Judge awards Plaintiff Estevez $69,499.80 in attorneys' fees. The Judge also finds that the other requested fees and costs are reasonable and supported by billing records and the nature of the tasks performed.

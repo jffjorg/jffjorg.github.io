@@ -1,0 +1,50 @@
+Here is the summary in YAML format:
+
+```
+case_number: 22VECV01103
+plaintiffs_name: T Kimia
+defendants_name: Ventura
+people_names:
+  - Hashemian
+company_names: []
+places: []
+dates:
+  - October 4, 2023
+  - May 2022
+  - November 2022
+events:
+  - Deposition
+  - Motion
+  - Production of documents
+money: []
+intentions:
+  - To grant or deny the motion for a second session of Hashemian's deposition
+  - To order the production of documents
+facts:
+  - Hashemian's property management reports and photos are relevant to the case
+  - The deposition is scheduled to take place within 20 days
+disputes:
+  - The parties have different opinions on the relevance of certain documents
+acts:
+  - The parties have submitted motions and objections
+  - The court has reviewed the motions and objections
+agreements:
+  - The parties have agreed to the deposition taking place within 20 days
+laws:
+  - California Civil Procedure Code
+case_citations: []
+statutes: []
+roles:
+  - Judge: T Kimia
+  - Plaintiff: T Kimia
+  - Defendant: Ventura
+  - Witness: Hashemian
+significant_statements:
+  - The court grants the motion for a second session of Hashemian's deposition
+  - The court denies the request to shift the cost of the deposition
+  - The court orders the production of Hashemian's property management reports and photos
+```
+
+And here is the English-text summary:
+
+This tentative ruling addresses a motion for a second session of Hashemian's deposition. The court grants the motion, allowing the deposition to take place within 20 days. The court also orders the production of Hashemian's property management reports and photos from May 2022 to November 2022, to be produced by email or personal delivery to the moving party no later than 3 court days prior to the deposition. The court denies the request to shift the cost of the deposition and sustains the objections to the motion.

@@ -1,0 +1,68 @@
+Here is the summary in YAML format:
+
+```
+Case Number: 23SMCV00439
+Plaintiff's Name: Capital One, N.A.
+Defendant's Name: Jonathan Roudier
+People-Names:
+  - Jonathan Roudier
+  - Beverly Hills
+Company-Names:
+  - Capital One, N.A.
+Places:
+  - Beverly Hills
+Dates:
+  - February 1, 2023
+  - June 23, 2023
+  - August 1, 2023
+  - August 14, 2023
+  - October 5, 2023
+Events:
+  - Default on credit card account
+  - Filing of complaint
+  - Service of complaint
+  - Request for entry of default
+  - Entry of default
+  - Request for default judgment
+Money:
+  - $31,778.73 (damages)
+  - $662 (costs)
+  - $32,440.73 (total judgment)
+Intentions:
+  - Recovery of outstanding balance on credit card account
+Facts:
+  - Defendant defaulted on credit card account
+  - Plaintiff brought action to recover outstanding balance
+  - Plaintiff served defendant with complaint
+  - Defendant did not respond
+Disputes:
+  - None mentioned
+Acts:
+  - Default on credit card account
+  - Filing of complaint
+  - Service of complaint
+  - Request for entry of default
+  - Entry of default
+  - Request for default judgment
+Agreements:
+  - None mentioned
+Laws:
+  - Code of Civil Procedure section 585
+  - Code of Civil Procedure section 579
+  - CRC Rule 3.1800
+Case Citations:
+  - Kim v. Westmoore Partners, Inc. (2011) 201 Cal.App.4th 267, 287
+Statutes:
+  - Code of Civil Procedure section 585
+  - Code of Civil Procedure section 579
+Roles:
+  - Judge: Moreton
+  - Plaintiff: Capital One, N.A.
+  - Defendant: Jonathan Roudier
+Significant Statements:
+  - "As default has already been entered and there has been no appearance or filing whatsoever from Defendant, default judgment is appropriate here."
+```
+
+And here is the English-text summary:
+
+The judge's tentative ruling is in favor of Capital One, N.A., granting their request for a default judgment against Jonathan Roudier. The case arises from a credit card account that Roudier defaulted on, leaving an outstanding balance of $31,778.73. Capital One brought the action to recover the outstanding balance and served Roudier with the complaint, but Roudier did not respond. As a result, the court entered a default judgment against Roudier, awarding Capital One $32,440.73, which includes the outstanding balance and costs. The judge concludes that the default judgment is appropriate given Roudier's failure to respond to the complaint and the fact that all necessary documents have been filed.

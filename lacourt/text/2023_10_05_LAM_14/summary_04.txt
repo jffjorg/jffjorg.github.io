@@ -1,0 +1,86 @@
+Here is the summary in YAML format:
+
+```
+case_number: 21STCV06550
+hearing_date: October 5, 2023
+dept: 14 (1)
+osctype: OSC re: Dismissal
+
+people:
+  - Scott R. Carpenter
+  - Edward J. Farrell
+  - Jeffrey M. Singletary
+  - Justin F. Mello
+
+companies:
+  - Cummins & White LLP
+  - Snell & Wilmer LLP
+  - Vast
+  - CLD Construction, Inc.
+
+places:
+  - California
+  - San Ramon
+
+dates:
+  - February 16, 2023
+  - March 2, 2023
+  - April 11, 2023
+  - April 13, 2023
+  - January 13, 2023
+  - March 1, 2023
+  - February 27, 2023
+  - October 20, 2023
+
+events:
+  - Relief of counsel
+  - Filing of proof of service
+  - Dismissal of Plaintiff's case
+  - Setting of OSC re: dismissal of cross-complaint
+  - Setting of OSC re: striking answer and entering default
+
+money: $0
+
+intentions:
+  - To dismiss Plaintiff's case
+
+facts:
+  - Plaintiff and Defendant Vast have been without counsel for four months
+  - Defendant Vast has counsel in related case
+  - Plaintiff has made no effort to appear or communicate with court
+
+disputes:
+  - Dispute over dismissal of Plaintiff's case
+
+acts:
+  - Relief of counsel
+  - Filing of proof of service
+  - Dismissal of Plaintiff's case
+
+agreements:
+  - None mentioned
+
+laws:
+  - California Code of Civil Procedure §§ 128(a)(4)&(8), 581(m), 583.150
+  - CLD Construction, Inc. v. City of San Ramon (2004) 120 Cal.App.4th 1141
+
+case_citations:
+  - CLD Construction, Inc. v. City of San Ramon (2004) 120 Cal.App.4th 1141
+
+statutes:
+  - California Code of Civil Procedure
+
+roles:
+  - Judge
+  - Plaintiff
+  - Defendant Vast
+  - Counsel
+
+significant_statements:
+  - "The court has the inherent authority to dismiss Plaintiff's case."
+  - "The discovery responses served by the corporate representative are invalid."
+```
+
+And here is the English summary of the judge's tentative ruling:
+
+The court has tentatively ruled to dismiss the plaintiff's case without prejudice. The plaintiff has been without counsel for four months, and the defendant has counsel in a related case but not in this case. The court has the inherent authority to dismiss the case under California Code of Civil Procedure sections 128(a)(4)&(8), 581(m), and 583.150. The court also sets an order to show cause (OSC) re: dismissal of the cross-complaint filed by defendant Vast for October 20, 2023, and an OSC re: striking the answer and entering default of Cross-Defendant Vast for the same date. Additionally, the court has taken off-calendar a motion to compel discovery responses from defendant Vast, which was served by a corporate representative who is not a member of the California bar.

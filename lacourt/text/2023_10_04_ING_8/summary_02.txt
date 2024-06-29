@@ -1,0 +1,77 @@
+Here is the summary in YAML format:
+
+```
+case_number: 21TRCV00462
+plaintiff_name: Ana Soto-Trejo
+defendant_name: Employbridge, LLC
+people_names:
+  - Ana Soto-Trejo
+  - Bernard C. Barmann, Jr.
+company_names:
+  - Air Fayre CA, Inc.
+  - Employbridge, LLC
+places:
+  - California
+dates:
+  - June 25, 2021
+  - October 21, 2022
+  - May 19, 2023
+  - August 29, 2023
+  - September 20, 2023
+  - September 27, 2023
+  - November 13, 2020
+  - July 28, 2023
+events:
+  - Filing of PAGA complaint
+  - Filing of First Amended Complaint
+  - Filing of Doe Amendment
+  - Demurrer filed
+  - Opposition filed
+  - Reply brief filed
+  - Judicial notice requested
+  - Demurrer sustained
+money: None
+intention: To determine whether the plaintiff's PAGA claim is valid
+facts:
+  - Plaintiff filed a PAGA complaint on June 25, 2021
+  - Plaintiff filed a First Amended Complaint on October 21, 2022
+  - Plaintiff filed a Doe Amendment on May 19, 2023
+  - Defendant filed a demurrer on August 29, 2023
+  - Plaintiff filed an opposition on September 20, 2023
+  - Defendant filed a reply brief on September 27, 2023
+disputes:
+  - Whether the plaintiff's PAGA claim is valid
+  - Whether the plaintiff exhausted administrative remedies
+acts:
+  - Filing of PAGA complaint
+  - Filing of First Amended Complaint
+  - Filing of Doe Amendment
+  - Demurrer filed
+  - Opposition filed
+  - Reply brief filed
+  - Judicial notice requested
+  - Demurrer sustained
+agreements:
+  - Labor Code § 2699.3(a)
+  - Code of Civil Procedure § 583.210(a)
+laws:
+  - Labor Code § 2699.3(a)
+  - Code of Civil Procedure § 583.210(a)
+  - Labor Code § 226(a)
+  - Labor Code § 2699(a)
+statutes:
+  - Labor Code § 2699.3(a)
+  - Code of Civil Procedure § 583.210(a)
+roles:
+  - Plaintiff: Ana Soto-Trejo
+  - Defendant: Employbridge, LLC
+  - Judge: [Undisclosed]
+significant_statements:
+  - The court sustained the demurrer with leave to amend.
+  - The plaintiff failed to exhaust administrative remedies.
+  - The relation back doctrine cannot be used to frustrate the intent of the Legislature to require compliance with administrative procedures.
+```
+
+Summary:
+
+The Judge's tentative ruling sustains the demurrer filed by Employbridge, LLC, with leave to amend. The demurrer argues that the plaintiff, Ana Soto-Trejo, failed to exhaust administrative remedies as required by Labor Code § 2699.3(a) before filing the PAGA complaint. The Judge finds that the plaintiff's notice was untimely and did not comply with the administrative procedures required by the Labor Code. The Judge also notes that the relation back doctrine cannot be used to frustrate the intent of the Legislature to require compliance with administrative procedures. The plaintiff has 30 days to amend the complaint to cure the defect.

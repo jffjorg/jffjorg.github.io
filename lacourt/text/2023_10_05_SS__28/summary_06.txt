@@ -1,0 +1,72 @@
+Here is the summary in YAML format:
+
+```
+case_number: 22STCV10003
+plaintiff_name: Abdi Manavi
+defendant_name: Jan's Towing, Inc. (Jan's), Ritter Lien Sales, Inc., Abdalla Yaghi, Does 1 to 20
+people_names:
+  - Abdi Manavi
+  - Jan's
+  - Abdalla Yaghi (erroneously sued as Abdulla Yaghi)
+  - Eric Raymond Fascia
+  - Roes 1-20
+company_names:
+  - Jan's Towing, Inc. (Jan's)
+  - Ritter Lien Sales, Inc.
+  - Route 66 Car Wash, Inc. (Route 66)
+  - Auto Care, Inc.
+places:
+  - Los Angeles
+  - East District of the Los Angeles Superior Court
+  - Central District of the Los Angeles Superior Court
+  - North District of the Los Angeles Superior Court
+dates:
+  - March 22, 2022
+  - May 12, 2022
+  - May 27, 2022
+  - June 16, 2022
+  - August 14, 2023
+  - September 12, 2023
+  - January 9, 2024
+  - October 5, 2023 (Hearing Date)
+events:
+  - Filing of complaint
+  - Filing of answer
+  - Filing of cross-complaint
+  - Dismissal of Ritter Lien Sales, Inc.
+  - Entry of Fascia's default
+  - Request for change in venue
+money:
+  - None mentioned
+intentions:
+  - To transfer the case to the East District of the Los Angeles Superior Court
+facts:
+  - Plaintiff Abdi Manavi filed a complaint against Defendants Jan's Towing, Inc., Ritter Lien Sales, Inc., Abdalla Yaghi, and Does 1 to 20
+  - Jan's and Abdalla Yaghi filed an answer
+  - Route 66 Car Wash, Inc. filed a cross-complaint against Abdi Manavi, Auto Care, Inc., Eric Raymond Fascia, and Roes 1-20
+  - The case involves the alleged towing and auctioning of Plaintiff/Cross-Defendant Abdi Manavi's car
+disputes:
+  - Dispute over venue
+acts:
+  - Filing of papers and motions
+agreements:
+  - Local Rule 2.3(b)(2) of the Los Angeles Superior Court
+laws:
+  - Local Rule 2.3(b)(2) of the Los Angeles Superior Court
+  - Statute not specified
+case_citations:
+  - None mentioned
+statutes:
+  - None mentioned
+roles:
+  - Plaintiff: Abdi Manavi
+  - Defendant: Jan's Towing, Inc., Ritter Lien Sales, Inc., Abdalla Yaghi, Does 1 to 20
+  - Cross-Complainant: Route 66 Car Wash, Inc.
+  - Cross-Defendant: Abdi Manavi, Auto Care, Inc., Eric Raymond Fascia, Roes 1-20
+significant_statements:
+  - The Court denies the motion for a change in venue without prejudice to filing a motion in Department 1 in the Central District.
+```
+
+And here is a summary of the judge's tentative ruling in English text:
+
+The Court has considered the moving papers and has ruled as follows. The case involves the alleged wrongful towing and auctioning of a car belonging to Plaintiff Abdi Manavi. The defendants, including Jan's Towing, Inc., Abdalla Yaghi, and Route 66 Car Wash, Inc., have moved for a change in venue to the East District of the Los Angeles Superior Court. However, the Court has denied this motion without prejudice to filing a motion in Department 1 in the Central District, citing Local Rule 2.3(b)(2) of the Los Angeles Superior Court.

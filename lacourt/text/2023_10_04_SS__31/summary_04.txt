@@ -1,0 +1,49 @@
+Here is the summary in YAML format:
+
+```
+Case Number: 21STCV13169
+Plaintiff's Name: Kerry Thatcher
+Defendant's Name: City of Santa Monica, City of Los Angeles, County of Los Angeles
+People-Names: None mentioned
+Company-Names: Spectrum
+Places: Santa Monica, Los Angeles
+Dates:
+  - March 11, 2020
+  - March 8, 2019
+  - January 13, 2022
+Events: Trip and fall on sidewalk
+Money: None mentioned
+Intentions: Plaintiff intends to prove the City is liable for the trip and fall
+Facts:
+  - Defendant City of Santa Monica moves for summary judgment
+  - Plaintiff alleges causes of action for premises liability and general negligence
+  - Plaintiff tripped and fell on a raised portion of sidewalk, allegedly due to a trivial defect
+  - The City contends it is entitled to judgment as a matter of law because there is no dangerous condition of public property
+Disputes:
+  - Whether the sidewalk defect was trivial or dangerous
+  - Whether the City had notice of the defect
+Acts:
+  - Plaintiff tripped and fell on the sidewalk
+  - City inspectors inspected the sidewalk regularly, but did not identify any notable displacement
+  - Spectrum installed a utility box on the property
+Agreements: None mentioned
+Laws:
+  - California Code of Civil Procedure § 437c
+  - California Evidence Code § 801(a)
+  - California Government Code § 830
+  - California Government Code § 830.2
+Statutes:
+  - California Code of Civil Procedure § 437c
+  - California Government Code § 830
+  - California Government Code § 830.2
+Roles:
+  - Judge: Michelle C. Kim
+  - Plaintiff: Kerry Thatcher
+  - Defendant: City of Santa Monica, City of Los Angeles, County of Los Angeles
+Significant Statements:
+  - The City contends it is entitled to judgment as a matter of law because there is no dangerous condition of public property
+  - The Plaintiff argues the area was a high traffic area and that the City had notice of the defect
+  - The Court finds that the sidewalk defect was trivial as a matter of law
+```
+
+Note: The YAML format is used to provide a structured summary of the document. The format is as follows: `key: value`, where `key` is the name of the field and `value` is the corresponding value.
