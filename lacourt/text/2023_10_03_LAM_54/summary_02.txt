@@ -1,0 +1,68 @@
+Here is the summary in YAML format:
+
+```
+case_number: 19STCV31158
+plaintiff_names:
+  - Benthos Bioscience Corporation of America
+  - Danny Qiu
+  - Key Inspiration Limited
+  - Advance View Group Limited
+defendant_names:
+  - Delia Rosalba Simental Crespo
+  - Coco Chavita
+people_names:
+  - Delia Rosalba Simental Crespo
+  - Coco Chavita
+  - Fernando Ortiz
+  - Danny Qiu
+company_names:
+  - Benthos Bioscience Corporation of America
+  - Key Inspiration Limited
+  - Advance View Group Limited
+places:
+  - Mexico
+  - Sinaloa
+  - Los Angeles
+dates:
+  - September 4, 2019
+  - December 2022
+  - November 2019
+  - April 2023
+  - October 3, 2023
+events:
+  - Motion to Serve
+money: None
+intentions:
+  - To serve the defendants via email
+facts:
+  - Crespo is a resident of Mexico
+  - Attempts to serve Crespo at her last known address in Mexico have been unsuccessful
+  - Plaintiffs sent the complaint to three possible email addresses of Crespo in December 2022
+  - One email sent to a Hotmail address went through
+  - Ortiz is an attorney in Mexico who claims to be Crespo's counsel
+  - Ortiz did not respond to Plaintiff's counsel's request to accept service on behalf of Crespo
+disputes:
+  - Whether service on Ortiz will result in actual notice to the defendants
+acts:
+  - Plaintiffs' motion to serve the defendants via email
+  - Ortiz's refusal to accept service on behalf of Crespo
+agreements: None
+laws:
+  - CCP § 413.30
+  - CCP § 583.210(a)
+case_citations: None
+statutes:
+  - California Code of Civil Procedure (CCP)
+roles:
+  - Judge: Maurice A. Leiter
+  - Moving Party: Plaintiffs
+  - Responding Party: None
+significant_statements:
+  - The Court previously denied Plaintiffs' motion to serve Crespo via her personal email address because Plaintiffs could not show the email was in use after 2019.
+  - The Court is unpersuaded that service on Ortiz will result in actual notice to the defendants.
+  - The Court previously denied Plaintiffs' motion to serve Crespo via her personal email address because Plaintiffs could not show the email was in use after 2019.
+```
+
+And here is a summary of the judge's tentative ruling in English text:
+
+The judge has denied the plaintiffs' motion to serve the defendants, Delia Rosalba Simental Crespo and Coco Chavita, via email. The plaintiffs had previously attempted to serve Crespo at her last known address in Mexico, but were unsuccessful. They then sent the complaint to three possible email addresses of Crespo, but two of the emails bounced back and one sent to a Hotmail address went through. The plaintiffs claimed that Crespo used this Hotmail address as of at least November 2019. However, the court was unpersuaded that serving the defendants via email would result in actual notice, as the attorney who received the email, Fernando Ortiz, did not respond to the request to accept service on behalf of Crespo and did not provide any evidence that the email would be seen by Crespo or Chavita. Additionally, the court noted that the summons and complaint were filed more than four years ago, and the court was not convinced that this was an appropriate case for alternative means of service.

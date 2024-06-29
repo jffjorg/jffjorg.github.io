@@ -1,0 +1,61 @@
+Here is the summary in YAML format:
+
+```
+case_number: 22STCP04406
+plaintiff: Terry Krekorian
+defendant: PCH Treatment, Inc., Jeffrey D. Ball
+people_names:
+  - Terry Krekorian
+  - Jeffrey D. Ball
+company_names:
+  - PCH Treatment, Inc.
+  - S&J Ball Family Trust
+places:
+  - Los Angeles
+  - California
+dates:
+  - 12/19/2022
+  - 8/14/2023
+  - 9/6/2023
+events:
+  - judicial dissolution
+  - accounting
+  - breach of fiduciary duty
+  - motion to compel further responses
+money: none
+intentions:
+  - Plaintiff to comply with discovery obligations
+  - PCH to compel further responses
+facts:
+  - Plaintiff filed suit against PCH and Jeffrey D. Ball
+  - PCH moved to compel further responses
+  - Plaintiff provided supplemental responses to PCH's requests
+  - PCH indicated that RFPs Nos. 25-30 remained insufficient
+  - Plaintiff provided further responses to RFP Nos. 25-30
+disputes:
+  - PCH's contention that RFPs Nos. 45 to 46 were deficient
+acts:
+  - PCH filed motion to compel further responses
+  - Plaintiff provided supplemental responses to PCH's requests
+agreements:
+  - none
+laws:
+  - judicial dissolution
+  - accounting
+  - breach of fiduciary duty
+case_citations:
+  - none
+statutes:
+  - none
+roles:
+  - Judge: Hon. Jon R. Takasugi
+  - Plaintiff's counsel
+  - PCH's counsel
+significant_statements:
+  - PCH's motions to compel further are denied
+  - The Court declines to award sanctions at this time
+```
+
+And here is the English-text summary:
+
+The Judge's Tentative Ruling is that PCH's motion to compel further responses to its Form Interrogatories, Special Interrogatories, and Requests for Production is DENIED. The Court also declines to award sanctions at this time. The Plaintiff had filed a suit against PCH and Jeffrey D. Ball alleging judicial dissolution, accounting, and breach of fiduciary duty. PCH moved to compel further responses, claiming that the Plaintiff's responses to certain requests were insufficient. The Plaintiff provided supplemental responses, and the Court finds that the motion is moot. Additionally, the Court finds that the delays in discovery were due to the Plaintiff's counsel experiencing medical issues, and therefore sanctions are not warranted.

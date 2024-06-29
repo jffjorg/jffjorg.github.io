@@ -1,0 +1,72 @@
+Here is the summary in YAML format:
+
+```
+case_number: 23CMCV00541
+plaintiff_name: Francisco Villareal
+defendant_name: American Honda Motor Co, Inc.
+people_names:
+  - Francisco Villareal
+  - Ali Ameripour
+  - Martha OCHOA
+  - Ngo
+company_names:
+  - American Honda Motor Co, Inc.
+  - Gardena Honda
+  - Carson Honda
+places:
+  - California
+  - Ford
+dates:
+  - April 19, 2023
+  - May 17, 2020
+  - September 26, 2023
+  - October 3, 2023
+events:
+  - Vehicle purchase
+  - Warranty claims
+  - Arbitration motion
+money:
+  - Sales contract
+  - Warranty claims
+  - Financing
+intentions:
+  - Compel arbitration
+  - Deny arbitration
+facts:
+  - Plaintiff purchased a 2020 Honda Pilot from Carson Honda
+  - Vehicle developed defects
+  - Plaintiff alleges violations under the Song-Beverly Consumer Warranty Act
+  - Defendant requests an order compelling arbitration
+disputes:
+  - Arbitration provision in sales contract
+  - Defendant's standing to enforce arbitration provision
+  - Equitable estoppel
+acts:
+  - Plaintiff filed a complaint
+  - Defendant filed a motion to compel arbitration
+  - Plaintiff filed an opposition
+agreements:
+  - Retail Installment Sales Contract
+  - Song-Beverly Consumer Warranty Act
+  - Federal Arbitration Act
+laws:
+  - Code of Civil Procedure Section 1281.2
+  - California Civil Code Section 1559
+  - United States Arbitration Act Section 2
+statutes:
+  - Song-Beverly Consumer Warranty Act
+  - Federal Arbitration Act
+roles:
+  - Plaintiff
+  - Defendant
+  - Judge
+significant_statements:
+  - Defendant lacks standing to enforce arbitration provision
+  - Plaintiff's claims are not founded on the sales contract
+  - Equitable estoppel does not apply
+  - Defendant's motion to compel arbitration is denied
+```
+
+And here is a summary of the judge's tentative ruling in English text:
+
+The judge has denied American Honda Motor Co, Inc.'s (Honda) motion to compel arbitration in the case of Francisco Villareal v. American Honda Motor Co, Inc. The plaintiff, Villareal, purchased a 2020 Honda Pilot from Carson Honda and alleges that the vehicle developed defects that Honda could not repair. Honda claims that the parties agreed to arbitrate disputes arising out of the purchase or condition of the vehicle through the Retail Installment Sales Contract. However, the judge finds that Honda lacks standing to enforce the arbitration provision because it is not a signatory to the contract and did not have a direct relationship with the plaintiff. Additionally, the judge concludes that the plaintiff's claims are not founded on the sales contract, but rather on the manufacturer's warranty obligations under the Song-Beverly Consumer Warranty Act. Therefore, the judge denies Honda's motion to compel arbitration.

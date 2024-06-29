@@ -1,0 +1,55 @@
+Here is the summary of the tentative ruling in YAML format:
+
+```
+Case Number: 23STCP01654
+Plaintiff's Name: Labor Commissioner, State of California
+Defendant's Name: Elissa Brassfield, et al.
+People-Names:
+  - Elissa Brassfield
+Company-Names:
+  - Labor Commissioner, State of California
+Places:
+  - California
+Dates:
+  - March 4, 2023
+  - September 20, 2023
+Events:
+  - Citation issued
+  - Appeal filed
+  - Findings and Order issued
+  - Clerical error in judgment amount
+Money:
+  - $596.102.13 (incorrect amount)
+  - $189,594.19 (correct amount)
+Intentions:
+  - Plaintiff seeks to correct the judgment to reflect the correct amount
+Facts:
+  - Clerical error in judgment amount
+  - Incorrect amount was entered on Request for Judgment documents
+  - Defendants appealed the citation
+  - Findings and Order modified the amount
+Disputes:
+  - None
+Acts:
+  - Plaintiff filed a motion to amend the judgment
+Agreements:
+  - None
+Laws:
+  - CCP § 473(d)
+  - CCP § 473(a)
+Case Citations:
+  - None
+Statutes:
+  - CCP § 473(d)
+Roles:
+  - Plaintiff: Labor Commissioner, State of California
+    Defendant: Elissa Brassfield, et al.
+    Judge: [Judge's name]
+Significant Statements:
+  - "The court is authorized to amend judgments to correct clerical mistakes pursuant to CCP § 473(d)."
+  - "The Court grants Plaintiff's motion to amend the judgment to correct this error."
+```
+
+And here is the English-text summary of the tentative ruling:
+
+The Labor Commissioner, State of California (Plaintiff) is seeking to amend a judgment to correct a clerical error in the amount awarded to Elissa Brassfield, et al. (Defendants). The error occurred when the wrong amount was entered on the Request for Judgment documents due to an administrative mistake. The correct amount, as determined by the Findings and Order issued after the Defendants' appeal, is $189,594.19. The Court grants the Plaintiff's motion to amend the judgment to correct this error, and the correct judgment amount is now $189,594.19.

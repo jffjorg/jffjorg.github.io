@@ -1,0 +1,73 @@
+Here is the summary in YAML format:
+
+```
+case_number: 22CHCV00755
+plaintiff_name: Jose Diaz
+defendant_name: Carlos Lara
+people_names:
+  - Jose Diaz
+  - Carlos Lara
+company_names: []
+places: []
+dates:
+  - January 18, 2021
+  - September 12, 2022
+  - November 14, 2021
+  - September 18, 2023
+  - September 19, 2023
+  - December 6, 2023
+events:
+  - Loan agreement
+  - Default on loan
+  - Filing of complaint
+  - Filing of general denial
+  - Motion to compel deposition
+  - Deposition notice
+  - Failure to appear for deposition
+  - Motion to compel compliance with deposition subpoena
+  - Case management conference
+money:
+  - $40,000 (loan amount)
+  - $250 (sanction amount)
+intentions:
+  - Plaintiff seeks to compel defendant's deposition
+  - Defendant opposes deposition
+facts:
+  - Plaintiff loaned defendant $40,000
+  - Defendant defaulted on loan
+  - Defendant failed to appear for deposition
+disputes:
+  - Breach of contract
+  - Breach of covenant of good faith and fair dealing
+  - Conversion
+  - Fraud - intentional misrepresentation of fact
+  - Negligent misrepresentation
+  - Unfair competition
+acts:
+  - Execution of loan agreement
+  - Filing of complaint
+  - Failure to appear for deposition
+agreements:
+  - Written loan agreement
+laws:
+  - California Code of Civil Procedure (CCP)
+  - Business and Professions Code section 17200
+case_citations:
+  - Code Civ. Proc., §2025.410, subd. (b)
+  - Code Civ. Proc., §2025.450, subd. (a)
+  - Code Civ. Proc., §2025.450, subd. (b)
+  - Code Civ. Proc., §2025.450, subd. (g)
+  - Code Civ. Proc., §2025.450, subd. (h)
+roles:
+  - Judge
+  - Plaintiff
+  - Defendant
+significant_statements:
+  - "The court finds the unopposed motion sufficiently complies with procedural requirements."
+  - "The court orders to meet and confer on a new deposition within 10 days of this order."
+  - "Plaintiff may unilaterally pick a date for the deposition if the parties are unable to agree."
+```
+
+And here is a summary of the judge's tentative ruling in English text:
+
+The judge's tentative ruling grants the plaintiff's motion to compel the deposition of defendant Carlos Lara. The plaintiff loaned $40,000 to the defendant, who defaulted on the loan. The plaintiff filed a complaint alleging various causes of action, including breach of contract, breach of covenant of good faith and fair dealing, conversion, fraud, and unfair competition. The defendant failed to appear for the deposition, despite being served with a notice of deposition. The court finds that the plaintiff's motion is sufficient and grants the motion, ordering the defendant to appear for a deposition within 30 days. The court also orders the parties to meet and confer on a new deposition date and warns that any further failure to appear may result in sanctions, including striking of the defendant's answer.

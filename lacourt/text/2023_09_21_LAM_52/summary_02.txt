@@ -1,0 +1,99 @@
+Here is a summary of the judge's tentative ruling in YAML format:
+
+```
+---
+case_number: 23STCV14467
+hearing_date: September 21, 2023
+dept: 52
+defendants:
+  - KHRG La Peer LLC
+  - Karina Celis
+  - Felipe Cucalon
+
+plaintiffs:
+  - Cynthia Sandoval
+
+people:
+  - Karina Celis
+  - Felipe Cucalon
+  - Kimberly Friedman
+  - Krystopher Campbell
+
+companies:
+  - KHRG La Peer LLC
+  - ADP
+
+places:
+  - California
+
+dates:
+  - November 14, 2022
+  - December 2021
+  - November 16, 2022
+
+events:
+  - Electronic signature of arbitration agreement
+  - Presentation of arbitration agreement to plaintiff
+  - Plaintiff's refusal to sign arbitration agreement
+  - Defendant Karina Celis' denial of involvement in electronic signature process
+
+money:
+  - Arbitration fees
+
+intentions:
+  - To compel arbitration and stay the action
+  - To dispute the validity of the arbitration agreement
+
+facts:
+  - Plaintiff electronically signed an arbitration agreement on November 14, 2022
+  - Plaintiff had previously opted out of an arbitration agreement presented to her on paper
+  - Defendant Karina Celis denies involvement in electronic signature process
+  - Plaintiff's supervisors made multiple efforts to convince her to sign the company's arbitration agreement
+
+disputes:
+  - Whether the Federal Arbitration Act (FAA) applies
+  - Whether the arbitration agreement is unconscionable
+
+acts:
+  - Electronic signature of arbitration agreement
+  - Presentation of arbitration agreement to plaintiff
+  - Plaintiff's refusal to sign arbitration agreement
+  - Defendant Karina Celis' denial of involvement in electronic signature process
+
+agreements:
+  - Arbitration agreement between plaintiff and defendants
+
+laws:
+  - Federal Arbitration Act (FAA)
+  - California Arbitration Act
+  - Private Attorneys General Act (PAGA)
+
+case_citations:
+  - Espesjo v. Southern California Permanente Medical Group (2016)
+  - Serafin v. Balco Properties Ltd., LLC (2015)
+  - Trivedi v. Curexo Technology Corp. (2010)
+  - Iskanian v. CLS Transportation Los Angeles, LLC (2014)
+  - Armendariz v. Foundation Health Psychcare Services, Inc. (2000)
+  - Lange v. Monster Energy Company (2020)
+
+statutes:
+  - California Code of Civil Procedure § 1280.2
+
+roles:
+  - Judge: [judge's name]
+  - Plaintiff: Cynthia Sandoval
+  - Defendants: KHRG La Peer LLC, Karina Celis, Felipe Cucalon
+
+significant_statements:
+  - The court hereby severs the agreement's "Waiver of Representative Claims" and the agreement's provision that "the Company and I shall be responsible for our own attorney's fees and costs."
+  - As required by Armendariz v. Foundation Health Psychcare Services, Inc., defendant KHRG La Peer LLC must pay all of plaintiff's costs that are unique to arbitration.
+  - The court hereby grants defendants' motion to compel arbitration and stay the action.
+```
+
+Here is a summary of the judge's tentative ruling in English text:
+
+The defendants, KHRG La Peer LLC, Karina Celis, and Felipe Cucalon, move to compel arbitration and stay the action against plaintiff Cynthia Sandoval. The court finds that the defendants have presented sufficient evidence that plaintiff electronically signed an arbitration agreement on November 14, 2022, and that the defendants have met their burden of showing by a preponderance of the evidence that plaintiff manifested her consent to the electronic arbitration agreement.
+
+The court also finds that the arbitration agreement is not unconscionable and that the provisions waiving plaintiff's right to bring representative claims under the Private Attorneys General Act (PAGA) and requiring plaintiff to pay arbitration fees are severable. The court hereby severs these provisions and requires defendant KHRG La Peer LLC to pay all of plaintiff's costs that are unique to arbitration.
+
+The court grants the defendants' motion to compel arbitration and stay the action, and orders plaintiff Cynthia Sandoval to arbitrate this action against defendants. The court hereby stays the entire action pending resolution of the arbitration proceeding.

@@ -1,0 +1,50 @@
+Here is the summary in YAML format:
+
+```
+Case Number: unknown
+Plaintiff's Name: unknown
+Defendant's Name: Liu
+People-Names:
+  - Liu
+Company-Names:
+Places:
+  - SAC (court)
+Dates:
+  - unknown
+Events:
+  - Request for default filed
+  - Prior request for default entered
+  - No Answer filed
+Money:
+  - unknown
+Intentions:
+  - Unknown
+Facts:
+  - Prior request for default entered
+  - No Answer filed
+  - Code of Civil Procedure § 583.240 applied
+Disputes:
+  - Unknown
+Acts:
+  - Service of process
+Agreements:
+  - Unknown
+Laws:
+  - Code of Civil Procedure § 583.240
+Statutes:
+  - Code of Civil Procedure
+Case Citations:
+  - unknown
+Roles:
+  - Judge
+  - Plaintiff
+  - Defendant
+Significant Statements:
+  - Request for default unclear
+  - Prior request for default entered
+  - Code of Civil Procedure § 583.240 applied
+```
+
+And here is a summary of the judge's tentative ruling in English text:
+
+The judge is unsure if a request for default has been filed against Liu, a defendant in the Superior Court of California (SAC). A previous request for default was entered against Liu, but no answer has been filed. The judge is considering the application of Code of Civil Procedure § 583.240, which excludes time from calculations when certain conditions exist, such as the defendant not being amenable to the process of the court or the prosecution being stayed. The judge will likely rule on how to proceed with service of process and whether Liu's lack of response will result in a default judgment.

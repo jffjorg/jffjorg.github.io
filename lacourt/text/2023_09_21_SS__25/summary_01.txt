@@ -1,0 +1,95 @@
+Here is the summary in YAML format:
+
+```
+case_number: 21STLC02852
+plaintiff_name: Eli's Collision Repair of South Bay, Inc.
+defendant_name: Brown, et al.
+people_names:
+  - Gannon Brown
+  - USAA Casualty Insurance Company
+company_names:
+  - Eli's Collision Repair of South Bay, Inc.
+  - USAA Casualty Insurance Company
+places:
+  - Inglewood, CA
+  - South Bay, CA
+dates:
+  - April 12, 2021
+  - December 8, 2021
+  - December 28, 2021
+  - February 17, 2022
+  - February 27, 2023
+  - January 19, 2023
+  - August 21, 2023
+  - August 24, 2023
+  - September 1, 2023
+  - September 5, 2023
+  - September 7, 2023
+  - September 11, 2023
+  - September 18, 2023
+  - September 21, 2023
+events:
+  - Filing of Complaint
+  - Denial of Motion to Quash Service of Summons
+  - Filing of Demurrer
+  - Overruling of Demurrer
+  - Filing of Cross-Complaint
+  - Filing of Demurrer to Cross-Complaint
+  - Filing of Second Amended Cross-Complaint
+  - Filing of Motion to Compel Deposition
+  - Filing of Motion to Compel Production of Vehicle
+  - Ruling on Motions
+money:
+  - $3,633.80
+  - $5,016.30
+  - $1,263.80
+  - $1,763.80
+intentions:
+  - Compel Defendant's Deposition and Production of Vehicle for Inspection
+  - Obtain Monetary Sanctions
+facts:
+  - Defendant failed to appear for deposition
+  - Defendant failed to produce vehicle for inspection
+  - Plaintiff complied with discovery requests
+  - Defendant served objections to discovery requests
+  - Plaintiff moved to compel deposition and production of vehicle
+disputes:
+  - Defendant's refusal to appear for deposition
+  - Defendant's refusal to produce vehicle for inspection
+acts:
+  - Filing of Complaint
+  - Denial of Motion to Quash Service of Summons
+  - Filing of Demurrer
+  - Overruling of Demurrer
+  - Filing of Cross-Complaint
+  - Filing of Demurrer to Cross-Complaint
+  - Filing of Second Amended Cross-Complaint
+  - Filing of Motion to Compel Deposition
+  - Filing of Motion to Compel Production of Vehicle
+agreements:
+  - Parties agreed to meet and confer regarding discovery requests
+  - Parties failed to agree on location for inspection
+laws:
+  - Code of Civil Procedure § 2025.450
+  - Code of Civil Procedure § 2025.010
+  - Code of Civil Procedure § 2031.030(c)(2)
+  - Code of Civil Procedure § 2024.020(a)
+case_citations:
+  - None
+statutes:
+  - Code of Civil Procedure § 2025.450
+  - Code of Civil Procedure § 2025.010
+  - Code of Civil Procedure § 2031.030(c)(2)
+  - Code of Civil Procedure § 2024.020(a)
+roles:
+  - Judge
+  - Plaintiff
+  - Defendant
+  - Counsel
+significant_statements:
+  - The Court GRANTS Plaintiff's Motion to Compel Defendant's Deposition and Production of Vehicle for Inspection.
+  - The Court GRANTS Plaintiff's request for monetary sanctions in the amount of $1,263.80.
+  - The Court GRANTS Plaintiff's request for monetary sanctions in the amount of $1,763.80.
+```
+
+Note that some information, such as the specific dates and times of events, has been omitted from the summary.

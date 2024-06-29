@@ -1,0 +1,66 @@
+Here is a summary of the Judge's tentative ruling in YAML format:
+
+```yaml
+case_number: 2023-001234
+plaintiff: Lynette Whiting
+defendant: California Department of Corrections and Rehabilitation and California Correctional Health Care Services
+people_names: 
+  - Lynette Whiting
+  - Unnamed individuals ( referenced in the complaint)
+company_names:
+  - California Department of Corrections and Rehabilitation
+  - California Correctional Health Care Services
+places:
+  - California
+dates:
+  - January 12, 2023
+  - July 5, 2023
+  - July 19, 2023
+events:
+  - Complaint filed
+  - First Amended Complaint filed
+  - Demurral filed
+  - Motion to strike filed
+money:
+  - Damages sought
+intentions:
+  - To determine whether Plaintiff's claim is barred by her failure to file a timely claim under the Government Tort Claims Act
+facts:
+  - Plaintiff alleges discrimination, harassment, and retaliation based on FEHA
+  - Plaintiff alleges failure to accommodate her disability
+  - Plaintiff failed to present a timely claim under the Government Tort Claims Act
+disputes:
+  - Whether Plaintiff's claim is barred by her failure to file a timely claim under the Government Tort Claims Act
+acts:
+  - Demurrer filed
+  - Motion to strike filed
+agreements:
+  - Government Tort Claims Act
+  - FEHA
+laws:
+  - Government Code section 945.4
+  - Labor Code section 6310
+  - FEHA
+case_citations:
+  - Kappelman v. City & County of San Francisco
+  - Le Mere v. Los Angeles Unified School District
+  - E.M. v. Los Angeles Unified School District
+  - State of California v. Superior Court
+  - City of Stockton v. Superior Court
+  - Phillips v. Desert Hospital Dist.
+  - Sheridan v. Touchstone Television Productions, LLC
+  - Satyadi v. West Contra Costa Healthcare Dist.
+  - Terris v. County of Santa Barbara
+roles:
+  - Judge
+  - Plaintiff
+  - Defendant
+  - Court
+significant_statements:
+  - The demurrer to the eighth cause of action is sustained without leave to amend.
+  - The motion to strike is granted without leave to amend.
+```
+
+Summary:
+
+The Judge has issued a tentative ruling on a demurrer and motion to strike filed by the Defendant in a case alleging employment discrimination, harassment, and retaliation. The Plaintiff, Lynette Whiting, alleges that she was discriminated against, harassed, and retaliated against because of her membership in several protected status groups while working for the Defendant, California Department of Corrections and Rehabilitation and California Correctional Health Care Services. The Defendant demurred to the eighth cause of action, alleging that the Plaintiff failed to comply with the Government Tort Claims Act, which requires a written claim to be presented to the public entity within six months before filing a lawsuit. The Judge sustained the demurrer without leave to amend, finding that the Plaintiff's failure to present a timely claim bars her lawsuit. The Defendant also moved to strike certain allegations underlying the discrimination and harassment claims, which the Judge granted without leave to amend, finding that the allegations are improper and do not support the Plaintiff's claims.

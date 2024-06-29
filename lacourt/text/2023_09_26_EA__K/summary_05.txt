@@ -1,0 +1,87 @@
+Here is the summary of the tentative ruling in YAML format:
+
+```
+case_number: 22PSCV00835
+hearing_date: 2023-09-26
+dept: K
+
+parties:
+  - name: Albertina Acevedo
+    role: Plaintiff
+  - name: General Motors LLC
+    role: Defendant
+
+people_names:
+  - Nicholas Yowarski
+  - Jesse Valencia
+
+company_names:
+  - General Motors LLC
+
+places:
+  - California
+
+dates:
+  - 2020-11-23
+  - 2022-08-09
+  - 2022-09-23
+  - 2023-04-19
+  - 2023-05-16
+  - 2023-06-05
+  - 2023-06-12
+  - 2023-06-20
+
+events:
+  - Purchase of 2021 Chevrolet Silverado
+  - Filing of complaint
+  - Propounding of discovery requests
+  - Responses to discovery requests
+  - Meet and confer letter
+
+money:
+  - None
+
+intentions:
+  - To compel further responses to discovery requests
+
+facts:
+  - Subject vehicle purchased on 2020-11-23
+  - Subject vehicle suffers from engine, electrical, and emission system defects
+  - Defendant undertook to preserve or maintain the utility or performance of the subject vehicle
+  - Plaintiff filed a complaint on 2022-08-09
+
+disputes:
+  - Defendant's objections to discovery requests
+
+acts:
+  - Defendant's refusal to produce documents
+  - Plaintiff's request for further responses
+
+agreements:
+  - None
+
+laws:
+  - California Civil Code
+  - California Rules of Court
+  - Song-Beverly Act
+
+case_citations:
+  - Code Civ. Proc. § 2031.310
+  - Code Civ. Proc. § 2031.320
+  - Code Civ. Proc. § 2030.310
+  - Code Civ. Proc. § 2031.210
+  - Code Civ. Proc. § 2031.220
+
+statutes:
+  - Song-Beverly Act
+  - Magnuson Moss Act
+
+roles:
+  - Judge: [not specified]
+  - Plaintiff's counsel: Nicholas Yowarski
+  - Defendant's counsel: Jesse Valencia
+```
+
+And here is a brief summary in English text:
+
+The tentative ruling grants the plaintiff's motion to compel further responses to discovery requests in part, and denies it in part. The motion was filed by the plaintiff, Albertina Acevedo, against General Motors LLC, seeking further responses to discovery requests related to the subject vehicle, a 2021 Chevrolet Silverado. The defendant objected to the requests, claiming they were overbroad, unduly burdensome, and sought confidential and proprietary information. The court rejects the defendant's objections, finding that the requests are reasonably calculated to lead to the discovery of admissible evidence, and that the defendant's concerns of confidentiality and privilege can be addressed through a protective order. The court grants the motion as to certain requests and denies it as to others, and orders the defendant to provide further, code-compliant responses within 20 days.

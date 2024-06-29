@@ -1,0 +1,71 @@
+Here is the summary in YAML format:
+
+```
+case_number: 20STLC01119
+plaintiff_name: City of Los Angeles
+defendant_name: Danny Martinez aka Danny Lopez Martinez
+people_names:
+  - Danny Martinez
+  - Danny Lopez Martinez
+  - Georgoulis (attorney)
+company_names:
+  - Los Angeles Department of Water and Power
+places:
+  - Los Angeles
+dates:
+  - 2020-02-04
+  - 2021-10-25
+  - 2022-02-01
+  - 2022-02-02
+  - 2023-08-14
+  - 2023-10-02
+events:
+  - Filing of lawsuit
+  - Settlement agreement
+  - Request for dismissal and retention of jurisdiction
+  - Motion for entry of judgment
+  - Default of defendant
+money:
+  - $18,000.00
+  - $23,536.33
+  - $25,000.00
+  - $25,000.50
+intentions:
+  - Enforce settlement agreement
+  - Seek judgment against defendant
+facts:
+  - No payments made by defendant
+  - Defendant in default under settlement agreement
+disputes:
+  - None
+acts:
+  - Signing of settlement agreement
+  - Request for retention of jurisdiction
+  - Failure to make payments by defendant
+agreements:
+  - Settlement agreement
+laws:
+  - Code of Civil Procedure section 664.6
+  - Code of Civil Procedure section 85
+  - Levy v. Superior Court (1995)
+  - J.B.B. Investment Partners, Ltd. v. Fair (2014)
+  - Wackeen v. Malis (2002)
+case_citations:
+  - Code Civ. Proc., § 664.6
+  - Code Civ. Proc., § 85
+  - Levy v. Superior Court (1995)
+  - J.B.B. Investment Partners, Ltd. v. Fair (2014)
+  - Wackeen v. Malis (2002)
+roles:
+  - Plaintiff: City of Los Angeles
+  - Defendant: Danny Martinez aka Danny Lopez Martinez
+  - Attorney: Georgoulis
+significant_statements:
+  - The settlement agreement provides for monthly payments by the defendant
+  - The defendant is in default under the settlement agreement
+  - The plaintiff is entitled to entry of judgment against the defendant
+```
+
+And here is the summary in English text:
+
+The tentative ruling grants the plaintiff's motion to enforce the settlement agreement in part. The court will enter judgment in the plaintiff's favor and against the defendant, Danny Martinez aka Danny Lopez Martinez, in the amount of $25,000.50 principal plus 18 percent interest per annum starting on February 2, 2022. The settlement agreement provides for monthly payments by the defendant, but no payments have been made, leaving the defendant in default. The court finds that the plaintiff is entitled to entry of judgment against the defendant for the amount of $23,536.33 principal and 18 percent interest per annum starting on February 2, 2022, but limits the judgment to $25,000.00 due to the court's limited jurisdiction.

@@ -1,0 +1,53 @@
+Here is a summary of the judge's tentative ruling in YAML format:
+
+```
+Case Number: 23STCV07962
+Hearing Date: September 28, 2023
+Dept: 85
+
+People-Names:
+  - Clay Dunn
+  - GCX, LLC (Contractor)
+  - Jackson Lewis, PC (Law Firm)
+  - Landlord Realty, LLC (Landlord)
+  - EYP Realty, LLC (EYP)
+
+Company-Names:
+  - Clay Dunn Enterprises, Inc. (Subcontractor)
+  - GCX, LLC (Contractor)
+  - Jackson Lewis, PC (Law Firm)
+  - Landlord Realty, LLC (Landlord)
+  - EYP Realty, LLC (EYP)
+
+Places:
+  - Los Angeles, California
+  - 725 S. Figueroa Street
+
+Dates:
+  - February 28, 2023
+  - April 4, 2023
+  - April 12, 2023
+  - April 21, 2023
+  - May 15, 2023
+  - June 12, 2023
+  - June 23, 2023
+  - July 24, 2023
+  - August 15, 2023
+  - August 28, 2023
+  - September 16, 2022
+  - September 28, 2023
+
+Events:
+  - Execution of Construction Contract
+  - Recording of mechanic's lien
+  - Filing of Cross-Complaint
+  - Application for right to attach order
+  - Hearing on application for right to attach order
+
+Money:
+  - $5,763,298.19 (amount owed by Law Firm to Contractor)
+  - $6,397,038 (amount owed by Law Firm to Contractor under Construction Contract)
+  - $92,443.50 (payment made by Landlord to Law Firm)
+
+Intentions:
+  - Contractor seeks to recover damages from Law Firm for breach of contract

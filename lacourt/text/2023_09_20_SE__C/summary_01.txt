@@ -1,0 +1,66 @@
+Here is the summary in YAML format:
+
+```yaml
+Case Number: 19NWCV00820
+Plaintiff's Name: Blaine Holding
+Defendant's Name: Vivera Pharmaceuticals
+People-Names:
+  - Blaine Holding
+  - Vivera Pharmaceuticals
+  - Vivera Bio (Third-party)
+Company-Names:
+  - Vivera Bio
+  - Vivera Pharmaceuticals
+  - Blaine Holding
+Places:
+  - None mentioned
+Dates:
+  - September 15, 2021
+  - June 3, 2021
+  - September 20, 2023
+Events:
+  - Judgment in favor of Blaine Holding against Vivera Pharmaceuticals
+  - Deposition subpoena issued by Blaine Holding for bank records from Vivera Bio
+  - Motion for Protective Order filed by Vivera Bio
+Money:
+  - $406,657.19 (judgment amount)
+  - $623.58 per day (interest)
+  - Unspecified amount (attorney's fees)
+Intentions:
+  - Blaine Holding seeks to discover Vivera Bio's bank records to support claim of "single entity" with Vivera Pharmaceuticals
+  - Vivera Bio seeks to block discovery of bank records
+Facts:
+  - Vivera Bio is a separate entity from Vivera Pharmaceuticals
+  - Blaine Holding issued deposition subpoena for bank records from Vivera Bio
+  - Vivera Bio argues that Blaine Holding failed to seek court-ordered debtor examination under CCP § 708.120
+Disputes:
+  - Whether Blaine Holding's deposition subpoena for bank records from Vivera Bio is valid
+  - Whether Vivera Bio's Motion for Protective Order should be granted
+Acts:
+  - Blaine Holding issued deposition subpoena for bank records from Vivera Bio
+  - Vivera Bio filed Motion for Protective Order
+  - Court entered judgment in favor of Blaine Holding against Vivera Pharmaceuticals
+Agreements:
+  - None mentioned
+Laws:
+  - CCP § 708.110
+  - CCP § 708.130
+  - CCP § 2031.060(h)
+Case Citations:
+  - Shrewsbury Management, Inc. v. Superior Court (2019) 32 Cal.App.5th 1213, 1228
+Statutes:
+  - CCP § 708.110
+  - CCP § 708.130
+  - CCP § 2031.060(h)
+Roles:
+  - Judge: presiding over the case
+  - Blaine Holding: plaintiff
+  - Vivera Pharmaceuticals: defendant
+  - Vivera Bio: third-party
+Significant Statements:
+  - "The bank records sought by Plaintiff are within the scope of discovery authorized by section 708.130 because they are relevant to Plaintiff's claim that Vivera Pharmaceuticals and Vivera Bio are 'a single entity with overlapping management and commingled finances.'"
+```
+
+And here is a summary of the judge's tentative ruling in English text:
+
+The judge has denied Vivera Bio's Motion for Protective Order, which sought to block Blaine Holding's deposition subpoena for bank records. The judge ruled that the subpoena is valid because it is "tethered" to a debtor examination of Vivera Pharmaceuticals under CCP § 708.110, and that the bank records are within the scope of discovery authorized by CCP § 708.130. The judge also denied Blaine Holding's request for attorney's fees, as the plaintiff failed to provide evidence to support such an award.

@@ -1,0 +1,56 @@
+Here is the summary in YAML format:
+
+```
+case_number: 21STCV02330
+hearing_date: 2023-09-29
+dept: 52
+plaintiff: Jimmy Guzman
+defendant: Dr. Ben Tantayanubutr, M.D.
+people:
+  - Jimmy Guzman
+  - Dr. Ben Tantayanubutr, M.D.
+company-names: []
+places: []
+dates:
+  - 2023-09-29
+events:
+  - Motion to Quash Subpoena
+  - Deposition subpoena
+  - Production of business records
+money: []
+intentions:
+  - Plaintiff seeks to quash deposition subpoena
+  - Plaintiff did not file supporting memorandum
+disputes:
+  - Plaintiff's procedural defect
+  - Lack of information on subpoena demands
+facts:
+  - Plaintiff filed notice of motion
+  - Plaintiff did not file motion itself
+  - Plaintiff did not file supporting memorandum
+  - Plaintiff did not provide copy of deposition subpoena
+  - Plaintiff did not state what subpoena demands
+acts:
+  - Filing notice of motion
+  - Filing supporting memorandum
+  - Providing copy of deposition subpoena
+  - Stating what subpoena demands
+agreements: []
+laws:
+  - Cal. Rules of Court, rule 3.1112(a)(2), (3)
+  - Cal. Rules of Court, rule 3.1113(a)
+  - Cal. Rules of Court, rule 3.1345(a)(5), (c)
+case-citations: []
+statutes: []
+roles:
+  - Judge
+  - Plaintiff (Jimmy Guzman)
+  - Defendant (Dr. Ben Tantayanubutr, M.D.)
+significant-statements:
+  - "A party filing a motion … must serve and file a supporting memorandum."
+  - "The court may construe the absence of a memorandum as an admission that the motion or special demurrer is not meritorious and cause for its denial."
+```
+
+And here is a summary of the judge's tentative ruling in English text:
+
+The plaintiff, Jimmy Guzman, filed a notice of motion to quash the deposition subpoena for personal appearance and production of business records to Dr. Ben Tantayanubutr, M.D. However, the motion is procedurally defective because it was not accompanied by a supporting memorandum as required by the California Rules of Court. Additionally, the plaintiff did not provide a copy of the deposition subpoena or specify what it demands. Without this information, the court cannot rule on the merits of the motion. Therefore, the plaintiff's motion to quash the subpoena is denied.

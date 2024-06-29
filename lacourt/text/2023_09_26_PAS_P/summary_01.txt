@@ -1,0 +1,80 @@
+Here is the summary in YAML format:
+
+```
+case_number: 22AHCV00979
+plaintiffs:
+  - name: Justin Booth
+    - name: Cynthia Booth
+defendants:
+  - name: GeoVel, Inc.
+    type: California corporation
+  - name: FCA US LLC
+    type: Delaware limited liability company
+  - name: DOES 1 through 10, inclusive
+people:
+  - name: Armando Lopez
+  - name: Christopher M. Fisher
+companies:
+  - name: FCA US LLC
+  - name: GeoVel, Inc.
+places:
+  - Los Angeles
+  - California
+  - Delaware
+dates:
+  - September 26, 2023
+  - February 23, 2023
+  - March 30, 2023
+  - May 11, 2023
+  - June 6, 2023
+  - June 20, 2023
+  - June 27, 2023
+  - September 11, 2023
+events:
+  - Warranty agreement entered into
+  - Defects and nonconformities manifested
+  - Vehicle delivered to repair facility
+  - Repair attempts made
+  - Meet and confer letters exchanged
+  - Supplemental responses provided
+money: None mentioned
+intentions:
+  - Compel further responses to special interrogatories
+  - Obtain additional information from FCA
+  - Settle the matter informally
+facts:
+  - Plaintiffs entered into a warranty agreement with defendants
+  - Defects and nonconformities manifested during the warranty period
+  - Plaintiffs delivered the vehicle to a repair facility for repair
+  - FCA provided supplemental responses to special interrogatories
+disputes:
+  - Plaintiffs' motion to compel further responses
+  - FCA's response to special interrogatories
+acts:
+  - Served special interrogatories
+  - Provided supplemental responses
+  - Exchanged meet and confer letters
+  - Conducted a diligent search and reasonable inquiry
+  - Agreed to produce documents related to warranty claims data
+agreements:
+  - Written agreement to extend the motion filing date
+  - Stipulation that plaintiffs had until June 27, 2023, to file a motion to compel
+laws:
+  - California Code of Civil Procedure Section 2030.300
+  - California Code of Civil Procedure Section 2030.230
+  - California Code of Civil Procedure Section 2030.300(c)
+statutes:
+  - California Civil Code Section 1790-1799
+roles:
+  - Judge: Margaret L. Oldendorf
+  - Plaintiff: Justin Booth and Cynthia Booth
+  - Defendant: GeoVel, Inc. and FCA US LLC
+significant statements:
+  - "The motion is therefore denied without prejudice."
+  - "Sanctions are also denied."
+  - "To the extent that Plaintiffs believe that the responses are still defective, they will be required to meet and confer further with FCA, and attempt to reach an informal resolution prior to seeking an order compelling further responses."
+```
+
+And here is a summary of the judge's tentative ruling in English text:
+
+The judge has denied the plaintiffs' motion to compel further responses to special interrogatories, as FCA has already provided supplemental responses to the interrogatories at issue. The judge finds that the parties have been engaged in informal resolution efforts and that further efforts would have been expected before seeking an order compelling further responses. The judge also denies the plaintiffs' request for monetary sanctions, as there is no evidence that FCA acted in bad faith or that the parties did not make a good faith effort to resolve the issue informally. The ruling is without prejudice to any future motion to compel further responses that may be appropriate following further meet and confer efforts.

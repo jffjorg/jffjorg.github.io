@@ -1,0 +1,55 @@
+Here is the summary in YAML format:
+
+```
+case_number: 23CHCV02556
+plaintiff_name: Bassam Khalil
+defendant_name: Riley Runyon
+people_names:
+  - Nabil Khalil
+  - Mram Khalil
+company_names: []
+places: []
+dates:
+  - January 23, 2023
+  - August 23, 2023
+  - October 3, 2023
+events:
+  - Vehicle accident
+  - Filing of complaint
+  - Petition for minors compromise
+money:
+  - $9,000
+  - $4,122.89
+  - $8,650
+  - $5,481.89
+  - $3,960.39
+intentions:
+  - Approval of minors compromise
+facts:
+  - Vehicle driven by Nabil Khalil was struck by a vehicle driven by Riley Runyon
+  - Bassam and Mram Khalil were passengers in the vehicle driven by Nabil Khalil
+  - Plaintiffs filed a complaint for Negligence
+disputes:
+  - None (unopposed)
+acts:
+  - Petition for approval of minors compromise submitted by Nabil Khalil
+  - Total deductions calculated for medical expenses and attorney fees
+agreements:
+  - Probate Code § 3401, 3611, subd. (a)
+laws:
+  - Probate Code
+statutes:
+  - Probate Code § 3401, 3611, subd. (a)
+roles:
+  - Judge
+  - Plaintiff (Bassam Khalil)
+  - Defendant (Riley Runyon)
+  - Petitioner (Nabil Khalil)
+significant_statements:
+  - The balance is below $5,000, and therefore payable to the parent.
+  - Moving party to give notice.
+```
+
+And here is a summary of the judge's tentative ruling in English text:
+
+The judge has granted the petition for approval of minors compromise for Bassam Khalil, who was 16 years old at the time of the accident, and for Mram Khalil, who was 13 years old at the time of the accident. The settlement amounts are $9,000 for Bassam and $8,650 for Mram. After deducting medical expenses and attorney fees, the net balances are $4,122.89 for Bassam and $3,960.39 for Mram. Since the balances are below $5,000, they are payable to the parents. The judge orders the moving party to give notice of the ruling.

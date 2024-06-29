@@ -1,0 +1,120 @@
+Here is a summary of the judge's tentative ruling in YAML format:
+
+```yaml
+case_number: 20STCV34158
+hearing_date: 2023-09-27
+department: 71
+judge: [Judge's name]
+
+people:
+  - Benjamin Chui
+  - Margaret Chui-Lee
+  - Kode Li
+  - Jayesh Patel
+  - Scott Garner
+  - Christine Chui
+  - Jackson Chen
+
+companies:
+  - Parker, Milliken, Clark, O'Hara & Samuelian
+  - Greenspoon Marder
+  - Venable LLP
+  - Loeb & Loeb
+  - BCPD LLP
+  - Hess Verdon
+
+places:
+  - Los Angeles
+  - California
+
+dates:
+  - 2020-09-08
+  - 2022-07-25
+  - 2022-08-15
+  - 2022-08-16
+  - 2022-09-07
+  - 2023-02-08
+  - 2023-02-21
+  - 2023-03-02
+  - 2023-03-07
+  - 2023-03-29
+  - 2023-05-12
+  - 2023-06-22
+  - 2023-06-30
+  - 2023-07-03
+  - 2023-07-14
+  - 2023-07-17
+  - 2023-07-19
+  - 2023-07-27
+  - 2023-09-13
+
+events:
+  - Motion for determination of privilege
+  - Motion to quash
+  - Motion for protective order
+
+money:
+  - $225,000
+  - $18 million
+
+intentions:
+  - Waive attorney-client privilege
+  - Quash subpoena
+  - Obtain discovery
+  - Protect privileged information
+
+facts:
+  - Plaintiffs produced documents to Defendant in discovery
+  - Defendant seeks to determine whether Plaintiffs waived attorney-client privilege
+  - Plaintiffs argue they did not intend to waive privilege
+  - Defendant argues Plaintiffs waived privilege through inadvertent production of privileged documents
+
+disputes:
+  - Defendant's motion for determination of privilege
+  - Plaintiffs' motion to quash
+  - Defendant's request for sanctions
+
+acts:
+  - Production of documents
+  - Request for determination of privilege
+  - Request for quashing of subpoena
+  - Request for sanctions
+
+agreements:
+  - C.C.P. §2031.285
+  - C.C.P. §1987.1
+  - C.C.P. §2025.420(b)
+
+laws:
+  - Evidence Code §950
+  - Evidence Code §953
+  - Evidence Code §954
+  - Evidence Code §911
+  - Evidence Code §912(a)
+  - Rules of Professional Conduct, Rule 4.4
+
+case_citations:
+  - McDermott Will & Emery LLP v. Superior Court (2017) 10 Cal.App.5th 1083
+  - State Compensation Insurance Fund v. WPS, Inc. (1999) 70 Cal.App.4th 644
+  - HLC Properties, Ltd. v. Superior Court (2005) 35 Cal.4th 54
+  - Moeller v. Superior Court (1997) 16 Cal.4th 1124
+  - Greyhound Corp. v. Superior Court (1961) 56 Cal.2d 355
+  - Calcor Space Facility, Inc. v. Superior Court (1997) 53 Cal.App.4th 216
+
+roles:
+  - Judge
+  - Plaintiff
+  - Defendant
+  - Lawyer
+  - Trustee
+  - Counsel
+
+significant_statements:
+  - The attorney-client privilege is presumptively privileged and not subject to disclosure.
+  - The client holds the privilege and may refuse to authorize or authorize disclosure of any attorney-client communications.
+  - The privilege does not terminate upon the end of the representation.
+  - A knowing and voluntary disclosure constitutes a waiver under Evidence Code §912.
+  - A lawyer who receives privileged information through inadvertence should refrain from examining the materials any more than is essential to ascertain the materials are privileged, should immediately notify the sender, and disqualification might be justified if an attorney inadvertently receives confidential materials and fails to conduct himself or herself in the manner specified above.
+```
+
+This summary captures the key points from the judge's tentative ruling, including the case number, hearing date, and department. It also includes information about the parties involved, the events and disputes, and the laws and case citations referenced in the ruling.

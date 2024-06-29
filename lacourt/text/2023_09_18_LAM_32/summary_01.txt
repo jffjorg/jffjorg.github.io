@@ -1,0 +1,88 @@
+Here is the summary in YAML format:
+
+```
+case_number: 21STCV16410
+plaintiff: Crocker & Towne Wholesale Mart, LLC
+defendant: Ki Whan Pak and Jennifer Kim
+people_names:
+  - Ki Whan Pak
+  - Jennifer Kim
+  - Crocker & Towne Wholesale Mart, LLC
+company_names:
+  - Crocker & Towne Wholesale Mart, LLC
+  - Olson Decl.
+places:
+  - California
+dates:
+  - April 30, 2021
+  - November 18, 2021
+  - September 3, 2021
+  - May 2-4, 2023
+  - June 20, 2023
+  - August 18, 2023
+  - September 5, 2023
+  - September 11, 2023
+  - September 18, 2023
+events:
+  - Court trial
+  - Judgment
+  - Motion for attorneys' fees
+money:
+  - $34,000
+  - $92,000
+  - $19,156.10
+  - $111,156.10
+intentions:
+  - Breach of contract
+  - Trespass
+  - Conversion
+  - Fraud
+  - Unjust enrichment
+facts:
+  - Leases contain identical attorneys' fees provisions
+  - Plaintiff obtained a judgment of $34,000
+  - Defendants obtained a judgment of $92,000
+  - Judgment was offset by security deposit
+disputes:
+  - Breach of contract
+  - Unlawful retention of security deposit
+  - Unjust enrichment
+  - Conversion
+acts:
+  - Filing of complaint
+  - Filing of cross-complaint
+  - Filing of motion for attorneys' fees
+  - Filing of opposition
+  - Filing of reply
+agreements:
+  - Leases containing attorneys' fees provisions
+laws:
+  - California Civil Code section 1717
+  - California Code of Civil Procedure section 1032
+  - Mustachio v. Great Western Bank (1996)
+  - McLarand, Vasquez & Partners, Inc. v. Downey Savings & Loan Assn. (1991)
+  - Deane Gardenhome Assn. v. Denktas (1993)
+  - Hsu v. Abbara (1995)
+case_citations:
+  - (Civ. Code, § 1717(a))
+  - (Civ. Code, § 1717(b)(1))
+  - (Mustachio v. Great Western Bank (1996) 48 Cal.App.4th 1145, 1150.)
+  - (McLarand, Vasquez & Partners, Inc. v. Downey Savings & Loan Assn. (1991) 231 Cal.App.3d 1450, 1456.)
+  - (Deane Gardenhome Assn. v. Denktas (1993) 13 Cal.App.4th 1394, 1398, internal citations omitted.)
+  - (Hsu v. Abbara (1995) 9 Cal.4th 863, 875.)
+roles:
+  - Judge
+  - Plaintiff
+  - Defendant
+  - Cross-complainant
+  - Cross-defendant
+significant_statements:
+  - "The party prevailing on the contract shall be the party who recovered a greater relief in the action on the contract."
+  - "The prevailing party determination is to be made only upon final resolution of the contract claims and only by a comparison of the extent to which each party ha[s] succeeded and failed to succeed in its contentions."
+```
+
+And here is a summary in English text:
+
+The tentative ruling is about a motion for attorneys' fees filed by the defendants, Ki Whan Pak and Jennifer Kim, in a lawsuit against Crocker & Towne Wholesale Mart, LLC. The lawsuit involves breach of contract, trespass, conversion, fraud, and unjust enrichment. The court previously entered a judgment in which the defendants were ordered to pay a total of $0 because the $34,000 of damages was completely offset by security deposit. On the cross-complaint, the cross-defendant Crocker & Towne Wholesale Mart, LLC was ordered to pay $92,000 in damages, plus $19,156.10 in prejudgment interest, for a total of $111,156.10.
+
+The defendants argue that they are the prevailing parties because they obtained a net monetary recovery of $111,156.10. However, the court finds that there is no prevailing party for purposes of California Civil Code section 1717 because both parties partially prevailed. The court concludes that the defendants' motion for attorneys' fees is denied.

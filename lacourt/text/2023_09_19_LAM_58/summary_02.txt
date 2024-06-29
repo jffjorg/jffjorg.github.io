@@ -1,0 +1,60 @@
+Here is the summary in YAML format:
+
+```
+case_number: 23STCV00910
+plaintiff_name: Resolution Economics, LLC
+defendant_name: Centinela Car Wash, Inc.
+people_names:
+  - Hooman Nissani
+company_names:
+  - Centinela Car Wash, Inc.
+  - Resolution Economics, LLC
+places:
+  - None
+dates:
+  - January 17, 2023
+  - May 8, 2023
+  - July 27, 2023
+  - September 19, 2023
+events:
+  - Complaint filed
+  - Entry of default
+  - Motion to set aside entry of default
+  - Tentative ruling
+money: $146,621.50
+intentions:
+  - To set aside entry of default
+facts:
+  - Plaintiff filed a complaint against defendant Centinela Car Wash, Inc. and defendant Hooman Nissani
+  - Default was entered against defendant Centinela Car Wash, Inc.
+  - Defendant Centinela Car Wash, Inc. moved to set aside the entry of default based on attorney fault
+disputes:
+  - None
+acts:
+  - Defendant's attorney failed to file an answer
+  - Defendant's attorney submitted a declaration stating the mistake was unintentional
+agreements:
+  - Code of Civil Procedure section 473, subdivision (b)
+  - Mandatory relief provision
+laws:
+  - Code of Civil Procedure section 473, subdivision (b)
+  - Rappleyea v. Campbell (1994) 8 Cal.4th 975
+  - Austin v. Los Angeles Unified School Dist. (2016) 244 Cal.App.4th 918
+  - Zamaora v. Clayborn Contracting Group, Inc. (2002) 28 Cal.4th 249
+  - SJP Limited Partnership v. City of Los Angeles (2006) 136 Cal.App.4th 511
+  - Martin Potts & Associates, Inc. v. Corsair, LLC (2016) 244 Cal.App.4th 432
+case_citations:
+  - Luri¿v. Greenwald¿(2003) 107 Cal.App.4th 1119
+roles:
+  - Judge
+  - Plaintiff
+  - Defendant
+  - Defendant's attorney
+significant_statements:
+  - "The purpose of this mandatory relief provision is to alleviate the hardship on parties who lose their day in court due to an inexcusable failure to act by their attorneys."
+  - "The motion to set aside the entry of default is granted based on the attorney affidavit of neglect."
+```
+
+And here is a summary of the judge's tentative ruling in English text:
+
+The judge has granted the defendant's motion to set aside the entry of default. The defendant, Centinela Car Wash, Inc., had failed to file an answer to the complaint, and default was entered against it. The defendant then moved to set aside the entry of default, citing attorney fault. The judge found that the defendant's attorney had unintentionally failed to file the answer, and therefore granted the motion to set aside the entry of default. The judge relied on California Code of Civil Procedure section 473, subdivision (b), which provides for mandatory relief from default judgments based on attorney fault. The judge noted that the purpose of this provision is to alleviate the hardship on parties who lose their day in court due to an inexcusable failure to act by their attorneys.

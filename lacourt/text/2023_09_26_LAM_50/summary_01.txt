@@ -1,0 +1,87 @@
+Here is the summary in YAML format:
+
+```
+case_number: 22STCV19257
+plaintiff_names:
+  - Haller, LLC
+  - Shaun Tan
+  - Jayesh Kumar
+defendant_names:
+  - The City of Los Angeles
+  - Hollywood Arts Collective LP
+  - Hollywood Arts Collective LLC
+  - Thomas Safran and Associates Development, Inc.
+  - Thomas Safran and Associates, Inc.
+  - Morley Construction Company
+  - Benchmark Contractors Inc.
+people_names:
+  - Haller
+  - Shaun Tan
+  - Jayesh Kumar
+  - Thomas Safran
+company_names:
+  - Haller, LLC
+  - Hollywood Arts Collective LP
+  - Hollywood Arts Collective LLC
+  - Thomas Safran and Associates Development, Inc.
+  - Thomas Safran and Associates, Inc.
+  - Morley Construction Company
+  - Benchmark Contractors Inc.
+places:
+  - Los Angeles
+  - California
+dates:
+  - June 13, 2022
+  - June 8, 2023
+  - April 4, 2022
+  - August 2, 2023
+  - August 23, 2023
+  - September 26, 2023
+events:
+  - Filing of First Amended Complaint (FAC)
+  - Filing of motion to strike portions of FAC
+money:
+  - Not applicable
+intentions:
+  - To determine the validity of the motion to strike
+facts:
+  - Haller, LLC and Shaun Tan filed a lawsuit against several defendants
+  - Jayesh Kumar filed a separate lawsuit against the City of Los Angeles
+  - The two lawsuits were consolidated for pretrial and discovery purposes
+disputes:
+  - Defendants' motion to strike portions of FAC
+acts:
+  - Filing of FAC
+  - Filing of motion to strike
+  - Meeting and conferring between parties
+agreements:
+  - Parties did not meet and confer in person or by telephone regarding the FAC
+laws:
+  - California Code of Civil Procedure section 435.5
+  - California Code of Civil Procedure section 1005
+case_citations:
+  - 22STCV11937
+  - 22STCV19257
+statutes:
+  - California Code of Civil Procedure section 435.5
+  - California Code of Civil Procedure section 1005
+roles:
+  - Haller, LLC: Plaintiff
+  - Shaun Tan: Plaintiff
+  - Jayesh Kumar: Plaintiff
+  - The City of Los Angeles: Defendant
+  - Hollywood Arts Collective LP: Defendant
+  - Hollywood Arts Collective LLC: Defendant
+  - Thomas Safran and Associates Development, Inc.: Defendant
+  - Thomas Safran and Associates, Inc.: Defendant
+  - Morley Construction Company: Defendant
+  - Benchmark Contractors Inc.: Defendant
+significant_statements:
+  - The Court notes that the parties did not meet and confer in person or by telephone regarding the FAC.
+  - The Court finds that the hearing on Defendants' motion to strike is denied.
+  - The Court orders Defendants to give notice of this order.
+```
+
+And here is a summary of the judge's tentative ruling in English text:
+
+The Court has issued a tentative ruling regarding the defendant's motion to strike portions of the plaintiff's First Amended Complaint (FAC). The defendant's motion was filed on August 23, 2023, but the parties did not meet and confer in person or by telephone regarding the FAC, as required by California Code of Civil Procedure section 435.5. The Court finds that the defendant's motion is denied due to the lack of good faith effort to resolve the issues subject to the motion. The Court orders the defendant to give notice of this order.

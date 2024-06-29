@@ -1,0 +1,62 @@
+Here is the summary in YAML format:
+
+```
+case_number: 19STCV39466
+plaintiff: Aecom Energy & Construction, Inc.
+defendant: Topolewski and Northern Resources
+people_names:
+  - Aecom Energy & Construction, Inc.
+  - URS Holdings, Inc.
+  - Topolewski
+  - Northern Resources
+company_names:
+  - Aecom Energy & Construction, Inc.
+  - URS Holdings, Inc.
+  - Northern Resources
+places: none
+dates:
+  - January 2020
+  - June 2023
+  - April 2024
+events:
+  - Corporate transactions transferring rights to enforce judgment
+  - Amendment of underlying judgment
+  - Motion for leave to file amended complaint
+  - Opposition to motion
+money: none
+intentions:
+  - To amend the complaint to replace Aecom Energy & Construction, Inc. as plaintiff with URS Holdings, Inc.
+  - To add allegations of an alter ego relationship between Defendants Topolewski and Northern Resources
+  - To add further allegations concerning procedural history in the underlying litigation
+facts:
+  - Right to enforce underlying judgment was transferred to URS Holdings, Inc. in January 2020
+  - Underlying judgment was amended to reflect substitution in June 2023
+  - Discovery has already been propounded concerning relationship between Topolewski and Northern Resources
+disputes:
+  - Plaintiff's failure to explain earlier introduction of corporate transactions and transfer of rights
+  - Potential prejudice to Defendant from addition of alter ego allegations
+acts:
+  - Plaintiff filed motion for leave to file amended complaint
+  - Defendant filed opposition to motion
+agreements: none
+laws:
+  - California Code of Civil Procedure section 473
+  - California Rules of Court Rule 3.1324
+  - Magpali v. Farmers Group, Inc. (1996)
+  - Armenta ex rel. City of Burbank v. Mueller Co. (2006)
+statutes:
+  - California Code of Civil Procedure section 473
+roles:
+  - Aecom Energy & Construction, Inc. (Plaintiff)
+  - URS Holdings, Inc. (new plaintiff)
+  - Topolewski (Defendant)
+  - Northern Resources (Defendant)
+  - Judge (issuing the tentative ruling)
+significant statements:
+  - "The trial court has discretion to permit or deny the amendment of the complaint, but instances justifying the court's denial of leave to amend are rare."
+  - "Although courts are bound to apply a policy of great liberality in permitting amendments to the complaint at any stage of the proceedings, up to and including trial, this policy should be applied only 'where no prejudice is shown to the adverse party . . .'"
+```
+
+And here is the English-text summary:
+
+The Judge has issued a tentative ruling granting Aecom Energy & Construction, Inc.'s motion for leave to file a first amended complaint. The proposed amended complaint seeks to replace Aecom Energy & Construction, Inc. as plaintiff with URS Holdings, Inc. due to corporate transactions that transferred the right to enforce the underlying judgment to URS. The motion also seeks to add allegations of an alter ego relationship between Defendants Topolewski and Northern Resources, as well as further allegations concerning the procedural history in the underlying litigation. The Judge found that Plaintiff has shown good cause for seeking leave to amend, as the transfer of rights to enforce the judgment occurred in January 2020 and the underlying judgment was amended to reflect this substitution in June 2023. The Judge also found that Defendant's arguments regarding prejudice from the addition of alter ego allegations were speculative, given that discovery has already been propounded and trial is not set to begin until April 2024.

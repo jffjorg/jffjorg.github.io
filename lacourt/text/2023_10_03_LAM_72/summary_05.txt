@@ -1,0 +1,63 @@
+Here is the summary in YAML format:
+
+```
+case_number: 22STCV14060
+plaintiff: WM Sunset & Vine, LLC
+defendant: Gosh Enterprises, Inc. et al.
+people_names:
+  - WM Sunset & Vine, LLC (Plaintiff)
+  - Gosh Enterprises, Inc. (Defendant)
+  - Wendy A. Adam (representative for WM)
+company_names:
+  - WM Sunset & Vine, LLC
+  - Gosh Enterprises, Inc.
+  - BBB Operating CA-1, LLC
+places:
+  - 6333 Sunset Boulevard
+  - Hollywood, CA
+dates:
+  - April 28, 2022 (filing of complaint)
+  - May 1, 2023 (cross-complaint filed)
+  - June 1, 2022 (answer filed)
+  - October 3, 2023 (hearing date)
+events:
+  - Breach of contract
+  - Failure to mitigate damages
+  - Unfair business practices
+money:
+  - $648,533.00 (amount of damages claimed by WM)
+  - Unspecified (amount of damages claimed by Gosh)
+intentions:
+  - WM seeks summary judgment on Gosh's affirmative defenses
+  - Gosh seeks to establish triable issues of fact
+facts:
+  - WM owns a commercial space at 6333 Sunset Boulevard
+  - BBB leased the space from WM and later assigned the lease to Gosh
+  - Gosh guaranteed the lease payments to WM
+  - BBB stopped paying rent in April 2020
+  - WM sued Gosh in April 2022
+disputes:
+  - Breach of contract
+  - Failure to mitigate damages
+  - Unfair business practices
+acts:
+  - WM's alleged failure to cooperate with BBB's attempts to assign the lease
+  - Gosh's alleged unfair business practices
+agreements:
+  - Lease agreement between WM and BBB
+  - Guaranty agreement between Gosh and WM
+  - Civil Code section 1951.4
+laws:
+  - California Civil Code section 1951.4
+  - California Code of Civil Procedure section 437c
+statutes:
+  - California Civil Code section 1951.4
+roles:
+  - Judge: ruling on motion for summary judgment
+  - WM: Plaintiff, seeking summary judgment
+  - Gosh: Defendant, opposing summary judgment
+significant_statements:
+  - The court GRANTS summary adjudication to Plaintiff as to all affirmative defenses subject to Plaintiff's motion, except for the twentieth (20th) for unclean hands, as to which summary adjudication is DENIED.
+```
+
+Note: The YAML format is used to represent the summary in a structured and easily readable way. Each key-value pair represents a specific aspect of the case, such as the case number, parties involved, dates, and facts.

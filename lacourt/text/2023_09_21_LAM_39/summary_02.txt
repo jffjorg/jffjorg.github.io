@@ -1,0 +1,51 @@
+Here is the summary in YAML format:
+
+```
+case_number: 21STCV11608
+plaintiff: Katherine Rickey, et al.
+defendant: Nissan North America, Inc.
+people_names:
+  - Katherine Rickey
+  - Counsel (Plaintiff's)
+company_names:
+  - Nissan North America, Inc.
+places:
+  - Court
+  - Department 39
+dates:
+  - September 21, 2023
+  - November 9, 2023
+events:
+  - Order to Show Cause re: Dismissal
+  - Motion for attorney's fees
+money: None
+intentions:
+  - Continue Order to Show Cause
+  - Hear motion for attorney's fees
+  - Provide notice to Plaintiff's counsel
+facts:
+  - Plaintiff's counsel must file motion for attorney's fees in advance
+  - Plaintiff's counsel must appear at hearing or risk dismissal
+disputes:
+  - Dismissal of the case
+acts:
+  - Filing of motion for attorney's fees
+  - Providing notice to the Court
+  - Appearing at the hearing
+agreements:
+  - None
+laws:
+  - Statutory notice
+case_citations: None
+statsues: None
+roles:
+  - Judge
+  - Plaintiff's counsel
+  - Defendant
+significant_statements:
+  - "If Plaintiff's counsel does not appear, either remotely or in-person, absent good cause, the Court will dismiss this case with prejudice at the upcoming hearing."
+```
+
+And here is the English-text summary of the judge's tentative ruling:
+
+The judge has advanced and continued the Order to Show Cause regarding the dismissal of the case from September 21, 2023 to November 9, 2023 at 8:30 a.m. The court will also hear any motions for attorney's fees on this date. The plaintiff's counsel is required to file any such motions in advance to provide statutory notice. The court warns that if the plaintiff's counsel does not appear at the hearing, either remotely or in-person, without good cause, the court will dismiss the case with prejudice. The counsel must provide notice and file proof of such with the court.

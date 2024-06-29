@@ -1,0 +1,60 @@
+Here is the summary in YAML format:
+
+```
+case_number: 21STLC07584
+hearing_date: September 27, 2023
+dept: 26
+plaintiff: State Farm Mutual Automobile Insurance Company
+defendant: Oluwajuwon Ajayi
+people:
+  - Oluwajuwon Ajayi
+  - Defense counsel (Hellesen)
+companies:
+  - State Farm Mutual Automobile Insurance Company
+places:
+  - California
+dates:
+  - October 20, 2021
+  - June 17, 2022
+  - November 3, 2022
+  - December 12, 2022
+  - June 6, 2023
+  - June 14, 2023
+  - July 18, 2023
+  - September 25, 2023
+events:
+  - Filing of motion for relief from admissions
+  - Granting of motion for judgment on the pleadings
+  - Entry of judgment
+  - Filing of motion to vacate judgment
+  - Granting of motion to vacate judgment
+money: None
+intentions:
+  - Defendant seeks relief from admissions deemed admitted
+  - Plaintiff seeks to maintain action on merits
+facts:
+  - Defendant's law firm was in disarray due to attorney resignations
+  - Defendant's responses and verifications to discovery responses were delayed
+disputes:
+  - Dispute over admissibility of requests for admission
+acts:
+  - Plaintiff filed motion to deem requests for admission admitted
+  - Defendant filed motion for relief from admissions
+agreements: None
+laws:
+  - California Code of Civil Procedure section 2033.300
+  - Carli v. Superior Court (1984)
+statutes:
+  - Code Civ. Proc., § 2033.300, subd, (b)
+roles:
+  - Plaintiff: State Farm Mutual Automobile Insurance Company
+  - Defendant: Oluwajuwon Ajayi
+  - Defense counsel: Hellesen
+significant statements:
+  - "The Court exercises its discretion under Code of Civil Procedure section 2033.300, to relieve Defendant from the admissions."
+  - "Defendant's admissions were the result of excusable neglect."
+```
+
+And here is a summary of the judge's tentative ruling in English text:
+
+The judge has granted defendant Oluwajuwon Ajayi's motion for relief from admissions. The defendant's law firm was in disarray due to attorney resignations, resulting in delays in serving responses and verifications to discovery responses. The judge finds that this was excusable neglect and that the admissions were not the result of intentional conduct. Therefore, the judge has vacated the court order dated December 12, 2022, and relieved the defendant from the admissions.

@@ -1,0 +1,59 @@
+Here is the summary in YAML format:
+
+```
+case_number: 21NWCV00512
+plaintiff: Citibank N.A.
+defendant: Robert Avetisian
+people_names:
+  - Robert Avetisian
+company_names:
+  - Citibank N.A.
+places: none
+dates:
+  - September 28, 2023
+events:
+  - Motion to Compel Arbitration
+  - Lawsuit to collect debt
+money: none
+intentions:
+  - Compel arbitration
+  - Collect debt
+facts:
+  - Written agreement to arbitrate controversy exists
+  - Petitioner bears burden of proving existence of valid arbitration agreement
+  - Opposing party bears burden of proving fact necessary to defense
+  - No Arbitration Agreement attached to Complaint or Motion
+  - Relevant provisions of Arbitration Agreement not recited in Complaint or Motion
+disputes:
+  - Existence of valid arbitration agreement
+acts:
+  - Filing of lawsuit
+  - Filing of Motion to Compel Arbitration
+agreements:
+  - Arbitration Agreement (purported)
+laws:
+  - CCP §1281.2
+  - CCP §1281.1
+  - CCP §1281.4
+  - C.R.C. Rule 3.1330
+  - Craig v. Brown & Root, Inc. (2000)
+  - Engalia v. Permanente Medical Group, Inc. (1997)
+case_citations:
+  - Craig v. Brown & Root, Inc. (2000)
+  - Engalia v. Permanente Medical Group, Inc. (1997)
+statutes:
+  - CCP §1281.2
+  - CCP §1281.1
+  - CCP §1281.4
+roles:
+  - Judge
+  - Plaintiff
+  - Defendant
+significant_statements:
+  - The Court cannot conclude, based on the evidence provided, that a valid arbitration agreement exists between the parties.
+  - The Motion is DENIED.
+```
+
+And here is the English-text summary:
+
+This tentative ruling denies the Defendant's Motion to Compel Arbitration. The Plaintiff, Citibank N.A., filed a lawsuit to collect a debt from the Defendant, Robert Avetisian. The Defendant argued that a written agreement to arbitrate the controversy exists, but failed to attach the agreement to the Complaint or Motion. The Court found that the Defendant did not provide sufficient evidence to prove the existence of a valid arbitration agreement, and therefore denied the Motion.

@@ -1,0 +1,85 @@
+Here is the summary in YAML format:
+
+```
+case_number: 20BBCV00444
+plaintiff_name: Robin Kim, as sole trustee of the MCINTOSH TRUST
+defendant_name: Yonatan Rabin, et al.
+people_names:
+  - Robin Kim
+  - Yonatan Rabin
+  - Liat Rabin
+  - Joseph Bernstein
+  - Betty Jo Kim McIntosh
+company_names:
+  - Sapphire Development & Construction, Inc.
+places:
+  - 926 Hilldale Ave.
+  - West Hollywood
+  - Los Angeles
+dates:
+  - July 17, 2020
+  - July 5, 2023
+  - July 19, 2023
+  - July 31, 2023
+  - August 3, 2023
+  - August 9, 2023
+  - August 15, 2023
+  - September 18, 2023
+  - September 21, 2023
+  - September 29, 2023
+  - October 16, 2023
+  - October 20, 2023
+  - October 27, 2023
+events:
+  - Trial
+  - Judgment
+  - Statement of Decision
+money:
+  - $1,963.02
+  - $1,066.55
+  - $8,516.58
+  - $2,070.00
+  - $20,911.50
+  - $1,971.00
+  - $640.99
+  - $37,139.64
+  - $205,788
+  - $52,175
+intentions:
+  - Motion for order awarding costs of proof
+facts:
+  - The Trust owns real property located at 926 Hilldale Ave.
+  - The Trust engaged the Rabins, SDC, and Defendant Joseph Bernstein to handle all aspects of the project.
+  - Plaintiff alleged that Defendants preyed on the Trust's confidence in them and misrepresented their qualifications to perform the work.
+  - The Trust filed a complaint alleging causes of action for intentional misrepresentation/fraudulent inducement, breach of fiduciary duty, negligence, unfair competition, unjust enrichment, and accounting.
+  - The jury returned a defense verdict on the 1st and 3rd causes of action as against all Defendants.
+  - Judgment was entered for the defense.
+  - The Court issued a Statement of Decision regarding the 6th cause of action for accounting.
+disputes:
+  - Plaintiff failed to admit certain facts in the Requests for Admissions
+acts:
+  - Plaintiff commenced this action against Defendants
+  - The Trust engaged the Rabins, SDC, and Defendant Joseph Bernstein to handle all aspects of the project
+  - Plaintiff alleged that Defendants preyed on the Trust's confidence in them and misrepresented their qualifications to perform the work
+  - The Trust filed a complaint alleging causes of action for intentional misrepresentation/fraudulent inducement, breach of fiduciary duty, negligence, unfair competition, unjust enrichment, and accounting
+agreements:
+  - None
+laws:
+  - CCP § 2033.420
+  - CCP § 2033.290
+  - CCP § 2033.290
+  - Smith v. Circle P Ranch Co. (1978)
+  - Bloxham v. Saldinger (2014)
+case_citations:
+  - Smith v. Circle P Ranch Co. (1978)
+  - Bloxham v. Saldinger (2014)
+statutes:
+  - CCP § 2033.420
+  - CCP § 2033.290
+roles:
+  - Judge
+  - Plaintiff
+  - Defendant
+significant_statements:
+  - "One need not be a prevailing party to be entitled to sanctions under this statute." (Smith v. Circle P Ranch Co. (1978))
+  - "[W]here it becomes clear from evidence introduced by either party at trial that the party who denied for lack of information or belief had access to the information at the time requests for admissions were propounded, sanctions are justified because that party has a duty to investigate ...". (Bloxham v. Saldinger (2014))

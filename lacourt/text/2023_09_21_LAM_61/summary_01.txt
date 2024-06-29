@@ -1,0 +1,95 @@
+Here is the summary in YAML format:
+
+```yaml
+Case Number: 23STCP00972
+Plaintiff's Name: Antoine Souma
+Defendant's Name: Morgan Stanley Smith Barney LLC, Morgan Stanley Smith Barney Financing LLC
+People-Names:
+  - Wendy R. Robinson, executive director of Morgan Stanley Smith Barney
+  - Antoine Souma
+  - Lewitas
+  - Vanecek
+Company-Names:
+  - Morgan Stanley Smith Barney LLC
+  - Morgan Stanley Smith Barney Financing LLC
+  - FINRA
+Places:
+  - California
+Dates:
+  - July 2020
+  - November 2020
+  - March 2022
+  - October 26, 2022
+  - March 7, 2023
+  - September 21, 2023
+Events:
+  - Arbitration hearing
+  - Settlement agreement
+  - Default judgment
+  - Motion to file under seal
+  - Motion to vacate arbitration award
+  - Motion to confirm arbitration award
+Money:
+  - $6.39 million
+  - $7,865,991
+  - $9.5 million
+  - $1.1 million
+  - $20,000
+  - $45,000
+  - $85,000
+  - $38,000
+  - $60,000
+  - $1.5 million
+  - $575,000
+  - $257,546.17
+  - $30,000
+  - $251,200.13
+Intentions:
+  - To file under seal
+  - To vacate arbitration award
+  - To confirm arbitration award
+Facts:
+  - Antoine Souma was an employee of Morgan Stanley Smith Barney LLC
+  - Souma signed two promissory notes
+  - The parties settled the dispute with a confidential settlement agreement
+  - Souma defaulted on the payment schedule
+  - Respondents filed a FINRA arbitration claim
+  - The arbitration award was rendered in favor of Respondents
+Disputes:
+  - Over the enforceability of the liquidated damages provision in the settlement agreement
+  - Over the amount of the arbitration award
+  - Over the jurisdiction of the court to vacate the arbitration award
+Acts:
+  - Filing of motions to file under seal and to vacate arbitration award
+  - Filing of motions to confirm arbitration award
+  - Entry of default judgment
+  - Entry of arbitration award
+Laws:
+  - California Rules of Court (CRC) Rule 2.550, subd. (d)
+  - Code of Civil Procedure (Civ. Code) § 1671
+  - Civil Code § 1671, subd. (b) and (c)
+  - California Constitution, Article I, Section 7
+Case Citations:
+  - Huffy Corp. v. Superior Court
+  - Universal City Studios, Inc. v. Superior Court
+  - Jones v. Humanscale Corp.
+  - Honchariw v. FJM Private Mortgage Fund, LLC
+  - Greentree Financial Group, Inc. v. Execute Sports, Inc.
+  - Purcell v. Schweitzer
+  - Gormley v. Gonzalez
+  - Imani v. Creditors Adjustment Bureau, Inc.
+  - Ridgley v. Topa Thrift & Loan Association
+  - Vitatech Internat., Inc. v. Sporn
+  - Red & White Distribution, LLC v. Osteroid Enterprises, LLC
+Roles:
+  - Judge
+  - Parties
+  - Arbitrators
+  - Counsel
+Significant Statements:
+  - "There exists an overriding interest that overcomes the right of public access to the record; ... The overriding interest supports sealing the record; ... A substantial probability exists that the overriding interest will be prejudiced if the record is not sealed; ... The proposed sealing is narrowly tailored; ... No less restrictive means exist to achieve the overriding interest." (CRC Rule 2.550, subd. (d))
+  - "The merits of the controversy between the parties are not subject to judicial review. ... Further, a court may not review the validity of the arbitrator's reasoning. ... The general rule is that, [t]he merits of the controversy between the parties are not subject to judicial review."
+  - "A liquidated damages clause will generally be considered unreasonable, and hence unenforceable under section 1671(b), if it bears no reasonable relationship to the range of actual damages that the parties could have anticipated would flow from a breach."
+```
+
+Note: Some of the text has been condensed or omitted to fit the YAML format, while still maintaining the essential information.

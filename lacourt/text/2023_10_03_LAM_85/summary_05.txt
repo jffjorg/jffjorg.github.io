@@ -1,0 +1,83 @@
+Here is the summary in YAML format:
+
+```
+case_number: 23STLC03941
+plaintiff: Sierra Credit Corporation
+defendant: Guadelupe Ramos
+people_names:
+  - Sierra Credit Corporation
+  - Guadelupe Ramos
+  - Best Deal Motors
+  - Alonso
+company_names:
+  - Sierra Credit Corporation
+  - Best Deal Motors
+places:
+  - 131 E. 1st Street, San Dimas, CA 91773
+  - San Dimas, CA 91773
+dates:
+  - October 29, 2019
+  - November 29, 2021
+  - June 12, 2023
+  - October 3, 2023
+events:
+  - Breach of Contract
+  - Failure to pay
+  - Repossession
+  - Application for Writ of Possession
+  - Hearing
+money:
+  - $204.50
+  - $341.65
+  - $451.07
+  - $10,629
+  - $13,388
+  - $10,811.07
+  - $5,153.86
+intentions:
+  - To recover the 2008 Toyota Tundra
+  - To obtain possession of the Vehicle
+facts:
+  - Ramos entered into a written Contract with Best Deal Motors to purchase the 2008 Toyota Tundra
+  - Ramos failed to make timely payments and the Contract was assigned to Sierra Credit Corporation
+  - The Vehicle's retail value is estimated to be $13,388
+  - The balance owed by Ramos is $10,811.07
+  - The undertaking for the writ of possession is $5,153.86
+disputes:
+  - Breach of Contract
+acts:
+  - Failure to pay
+  - Repossession
+  - Application for Writ of Possession
+  - Hearing
+agreements:
+  - Contract between Ramos and Best Deal Motors
+  - Assignment of Contract to Sierra Credit Corporation
+laws:
+  - California Code of Civil Procedure
+  - California Civil Code
+  - Judicial Council Forms
+case_citations:
+  - Pillsbury, Madison & Sutro v. Schectman (1997) 55 Cal.App.4th 1279, 1288
+  - RCA Service Co. v. Superior Court (1982) 137 Cal.App.3d 1, 3
+  - Edwards v Superior Court (1991) 230 Cal.App.3d 173, 178
+statutes:
+  - CCP §512.010(a), (b)
+  - CCP §512.030(a), (b)
+  - CCP §512.050
+  - CCP §512.060(a), (b)
+  - CCP §512.070
+  - CCP §515.010(a), (b)
+  - CCP §515.020
+roles:
+  - Plaintiff: Sierra Credit Corporation
+  - Defendant: Guadelupe Ramos
+significant_statements:
+  - The court grants the application for writ of possession.
+  - The undertaking for the writ of possession is $5,153.86.
+  - The levying officer may enter 131 E. 1st Street, San Dimas, CA 91773 to recover the Vehicle.
+```
+
+And here is a summary in English text:
+
+The court has granted a tentative decision to grant a writ of possession to Sierra Credit Corporation (Sierra) against Guadelupe Ramos (Ramos) to recover a 2008 Toyota Tundra. Ramos breached the contract by failing to make timely payments and the vehicle was assigned to Sierra. The court found that Sierra has established the probable validity of its claim to possession of the vehicle and that the undertaking requirements of CCP section 515.010 are satisfied. The undertaking for the writ of possession is $5,153.86. The court also granted a turnover order directing Ramos to transfer possession of the vehicle to Sierra.

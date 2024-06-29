@@ -1,0 +1,67 @@
+Here is the summary in YAML format:
+
+```
+case_number: 20STCV45610
+plaintiff_name: Jose Martin Arenas
+defendant_name: Jose Montoya dba A Imports & Domestic Auto Wrecking
+people_names:
+  - Jose Martin Arenas
+  - Jose Montoya
+company_names:
+  - A Imports & Domestic Auto Wrecking
+places:
+  - None
+dates:
+  - November 30, 2018
+  - January 16, 2023
+  - June 23, 2021
+  - August 30, 2023
+  - September 29, 2023
+events:
+  - Incident on November 30, 2018
+  - Filing of complaint
+  - Service of Statement of Damages
+  - Entry of default
+  - Request for default judgment
+money:
+  - $20,858.65
+  - $12,000.00
+  - $1,369.00
+  - $7,489.65
+  - $500,000.00
+intentions:
+  - Plaintiff seeks default judgment against defendant
+facts:
+  - Plaintiff was injured on November 30, 2018 while working for defendant
+  - Plaintiff filed a complaint alleging defendant's negligence caused the injury
+  - Plaintiff served a Statement of Damages to defendant on January 16, 2023
+  - Default was entered on June 23, 2021 without a Statement of Damages
+disputes:
+  - Plaintiff's request for default judgment is denied
+acts:
+  - Plaintiff failed to serve a Statement of Damages before entry of default
+  - Plaintiff's declaration was not certified under oath by a qualified interpreter
+  - Plaintiff failed to substantiate special damages
+agreements:
+  - None
+laws:
+  - California Code of Civil Procedure (CCP) 425.11(c)-(d)
+  - California Rules of Court, Rule 3.1110(g)
+case_citations:
+  - Hamm v. Elkin (1987) 196 Cal.App.3d 1343, 1345-46
+statutes:
+  - CCP 425.11(c)-(d)
+  - Cal. Rules of Court, Rule 3.1110(g)
+roles:
+  - Plaintiff: Jose Martin Arenas
+  - Defendant: Jose Montoya dba A Imports & Domestic Auto Wrecking
+significant_statements:
+  - The Court finds the underlying default VOID due to lack of a Statement of Damages
+  - Plaintiff must obtain a new entry of default and submit a new default package
+  - Plaintiff must cure defects noted in the request for default judgment
+  - Plaintiff may be subject to sanctions and/or dismissal if new entry of default is not submitted
+```
+
+And here is the English text summarizing the judge's tentative ruling:
+
+The court has made a tentative ruling on the request for default judgment submitted by plaintiff Jose Martin Arenas against defendant Jose Montoya dba A Imports & Domestic Auto Wrecking. The court has denied the request for the following reasons: the underlying default is void because it was entered without a Statement of Damages, which was served to the defendant on January 16, 2023. The court has also noted several defects in the plaintiff's request for default judgment, including the lack of a signature on the CIV-100 form, an un-certified English translation of the plaintiff's declaration, and insufficient evidence to support the plaintiff's claims for special and general damages. The court has ordered the plaintiff to obtain a new entry of default and submit a new default package, which must cure the defects noted above. If the plaintiff fails to do so, the court may impose sanctions, including monetary sanctions and/or dismissal.

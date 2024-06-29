@@ -1,0 +1,63 @@
+Here is the summary of the judge's tentative ruling written in YAML format:
+
+```
+case_number: 21STCV14872
+plaintiff_name: Desiderio Sandoval, et al.
+defendant_name: Maria Guerrero
+people_names:
+  - Desiderio Sandoval
+  - Herlinda Sandoval
+  - Maria Guerrero
+company_names: []
+places: []
+dates:
+  - April 20, 2021
+  - November 3, 2021
+  - March 8, 2023
+  - September 18, 2023
+  - September 25, 2023
+  - October 2, 2023
+  - January 26, 2024
+events:
+  - Motion to compel responses to Form Interrogatories
+  - Motion to compel responses to Special Interrogatories
+  - Motion to compel responses to Request for Production of Documents
+  - Motion to deem Request for Admissions admitted
+money:
+  - $1,050
+intentions:
+  - To compel Defendant's responses to discovery requests
+  - To impose sanctions on Defendant and her counsel
+facts:
+  - Defendant served late responses to Plaintiffs' discovery requests
+  - Defendant's responses substantially comply with the Code of Civil Procedure
+  - Plaintiffs seek sanctions against Defendant and her counsel
+disputes:
+  - Dispute over Defendant's responses to discovery requests
+acts:
+  - Defendant served late responses to Plaintiffs' discovery requests
+  - Defendant's counsel represented that he did not counsel discovery abuse
+agreements: []
+laws:
+  - Code of Civil Procedure section 2023.030
+  - Code of Civil Procedure section 2023.040
+  - Code of Civil Procedure section 2030.290
+  - Code of Civil Procedure section 2031.300
+  - Code of Civil Procedure section 2033.280
+case_citations:
+  - Kwan Software Engineering, Inc. v. Hennings (2020) 58 Cal.App.5th 57
+  - Ghanooni v. Super Shuttle (1993) 20 Cal.App.4th 256
+  - Corns v. Miller (1986) 181 Cal.App.3d 195
+roles:
+  - Judge: Kerry Bensinger
+  - Plaintiff: Desiderio Sandoval and Herlinda Sandoval
+  - Defendant: Maria Guerrero
+  - Defense Counsel: [unknown]
+significant_statements:
+  - The motions are moot.
+  - Sanctions are imposed against Defendant only in the amount of $1,050.
+```
+
+And here is a brief English summary of the judge's tentative ruling:
+
+The judge has ruled on a motion to compel responses to discovery requests from the defendant. The defendant served late responses to the discovery requests, which substantially comply with the Code of Civil Procedure. The judge finds that the motions are moot and that sanctions are warranted against the defendant. The judge has imposed sanctions against the defendant in the amount of $1,050, to be paid to the plaintiffs. The judge has also considered the issue of sanctions against the defendant's counsel, but has found that the counsel did not counsel discovery abuse and therefore sanctions against the counsel are not imposed.

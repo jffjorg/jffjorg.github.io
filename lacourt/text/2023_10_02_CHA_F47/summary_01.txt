@@ -1,0 +1,88 @@
+Here is a summary of the judge's tentative ruling in YAML format:
+
+```
+case_number: 20CHCV00648
+hearing_date: 2023-10-02
+department: F47
+trial_date: 2024-03-04
+
+parties:
+  - Plaintiffs: Alex Alvarado and Patricia Alvarado
+  - Defendants: Michael Meadows and Althea Meadows
+
+people:
+  - Neena Sachinvala, M.D.
+  - Bevanne Bean-Mayberry, M.D.
+  - Michelle Elliott-Zwirn, M.D.
+
+companies:
+  - A Cleaner Pool, Inc.
+  - Ridgeview Saugus Homeowners Association
+  - Fitzgerald Kreditor Bolduc Risbrough LLP
+  - Lubin Pham + Chaplin LLP
+
+places:
+  - Beverly Hills
+  - Saugus
+
+dates:
+  - 2023-06-07 (motion filed)
+  - 2023-04-20 (VA response)
+  - 2023-07-17 (motion to compel filed)
+  - 2023-09-13 (motion to compel denied)
+  - 2023-10-02 (hearing date)
+
+events:
+  - Deposition subpoena
+  - Motion to compel
+  - Motion to compel (alternative)
+
+money:
+  - $3,440.00 (sanctions requested)
+  - $1,200.00 (sanctions requested)
+  - $825.00 (sanctions awarded)
+
+intentions:
+  - To compel defendants to comply with deposition subpoenas
+  - To impose sanctions on plaintiffs and their counsel
+
+facts:
+  - Plaintiffs have sued defendants for operating a pool cleaning business
+  - Defendants have served deposition subpoenas on non-party medical professionals
+  - Plaintiffs have opposed motions to compel compliance with deposition subpoenas
+  - Defendants have requested sanctions against plaintiffs and their counsel
+
+disputes:
+  - Dispute over relevance of documents and information requested
+  - Dispute over burden and oppression of discovery requests
+  - Dispute over invasion of privacy of third parties
+
+acts:
+  - Service of deposition subpoenas
+  - Filing of motions to compel
+  - Filing of oppositions to motions to compel
+  - Request for sanctions
+
+agreements:
+  - None
+
+laws:
+  - CCP 1987.1
+  - CCP 2023.010
+  - CCP 2023.030
+  - CCP 2025.480
+  - CCP 2030.300
+  - CCP 2031.310
+  - CRC 3.1345
+  - CRC 3.1110
+
+case_citations:
+  - None
+
+roles:
+  - Judge: [Judge's name]
+  - Parties: Plaintiffs and defendants
+  - Counsel: Lubin Pham + Chaplin LLP and Fitzgerald Kreditor Bolduc Risbrough LLP
+
+significant_statements:
+  - The motion is denied.

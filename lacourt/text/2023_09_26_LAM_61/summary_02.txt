@@ -1,0 +1,54 @@
+Here is the summary in YAML format:
+
+```
+case_number: (none specified)
+plaintiff's_name: (none specified)
+defendant's_name: (none specified)
+people-names:
+  - (none specified)
+company-names:
+  - (none specified)
+places: (none specified)
+dates:
+  - (none specified)
+events:
+  - Deposition
+  - Trial
+  - Postponement
+money:
+  - Costs
+  - Just (amount not specified)
+intentions:
+  - To postpone trial
+  - To require payment of costs
+facts:
+  - Amendment to pleadings
+  - Automatic stay of deposition
+disputes:
+  - None specified
+acts:
+  - Filing of motion to quash deposition notice
+  - Service of motion before deposition begins
+agreements:
+  - Code of Civil Procedure § 2025.410, subd. (c)
+  - Code Civ. Proc. § 473, subd. (a)(2)
+  - Code Civ. Proc. § 594a
+laws:
+  - Code of Civil Procedure
+statutes:
+  - § 2025.410, subd. (c)
+  - § 473, subd. (a)(2)
+  - § 594a
+roles:
+  - Judge
+  - Plaintiff
+  - Defendant
+significant_statements:
+  - "When it appears to the satisfaction of the court that the amendment renders it necessary, the court may postpone the trial..."
+  - "The court may, of its own motion, postpone the trial..."
+```
+
+And here is a summary of the judge's tentative ruling in English text:
+
+
+The judge's tentative ruling discusses the procedures for filing motions to quash deposition notices. The judge notes that there is no specific time requirement for filing such motions, except that they must be served before the deposition begins. The judge also references California Code of Civil Procedure sections 473 and 594a, which allow for the postponement of trial in certain circumstances, including when an amendment to the pleadings is necessary. The judge intends to postpone the trial and may require the payment of costs to the adverse party if an amendment to the pleadings is necessary.

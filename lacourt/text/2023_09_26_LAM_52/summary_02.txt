@@ -1,0 +1,64 @@
+Here is the summary in YAML format:
+
+```
+case_number: 22STCV04568
+hearing_date: September 26, 2023
+dept: 52
+plaintiff:
+  name: Federico Hernandez
+  motion: Motion to Compel Further Responses from Defendant C.R. Laurence Co., Inc. to Request for Production, Set One
+defendant:
+  name: C.R. Laurence Co., Inc.
+  company: true
+  people:
+    - Reyes
+places:
+  - California
+dates:
+  - May 1, 2023
+  - May 18, 2023
+  - September 8, 2023
+  - September 22, 2023
+events:
+  - Defendant's notice of production
+  - Plaintiff's motion to compel further responses
+  - Defendant's objections to requests for production
+money: $2,588.25
+intentions:
+  - Plaintiff intends to compel defendant to serve further responses to requests for production
+  - Defendant intends to object to requests for production
+facts:
+  - Defendant produced documents without identifying them with specific request numbers
+  - Defendant did not provide a privilege log for requests Nos. 6, 7, and 38
+  - Plaintiff is entitled to verified responses to requests for production
+disputes:
+  - Plaintiff vs. Defendant (C.R. Laurence Co., Inc.) - requests for production
+acts:
+  - Plaintiff filed a motion to compel further responses
+  - Defendant served a notice of production
+  - Defendant objected to requests for production
+agreements:
+  - There is no agreement between the parties regarding production of documents
+laws:
+  - California Civil Code (CCP) §§ 2031.210, 2031.220, 2031.240, 2031.250, 2031.280
+statutes:
+  - California Family and Medical Leave Act (FMLA)
+  - California Family Rights Act (CFRA)
+roles:
+  - Judge: [Name]
+  - Plaintiff: Federico Hernandez
+  - Defendant: C.R. Laurence Co., Inc.
+significant statements:
+  - "A party objecting to a request for production must identify with particularity any document, tangible thing, land, or electronically stored information falling within any category of item in the demand to which an objection is being made." (CCP § 2031.240(b)(1))
+  - "If the responding party objects based on privilege or attorney work product, the response must also provide sufficient factual information for other parties to evaluate the merits of these objections, including, if necessary, a privilege log." (CCP § 2031.240(c)(1))
+```
+
+And here is the summary in English text:
+
+This tentative ruling is regarding a motion to compel further responses from defendant C.R. Laurence Co., Inc. to requests for production. The plaintiff, Federico Hernandez, is seeking to compel the defendant to serve further responses to requests Nos. 1-7, 12-15, 17-24, 26-33, 35-53, 55-65, and 68. The defendant objected to these requests, citing attorney-client privilege and work product. However, the defendant did not provide a privilege log, which is required by California Civil Code (CCP) § 2031.240(c)(1).
+
+The court finds that the defendant's objections are sustained as to requests Nos. 6, 7, and 38, and the defendant is ordered to serve further verified responses, including a privilege log, within 20 days. The defendant is also ordered to serve a further verified response without objections to request No. 70 within 20 days.
+
+The court also denies the defendant's request for $2,588.25 in sanctions against the plaintiff and his counsel. The court finds that the plaintiff acted with substantial justification in bringing this motion and that the motion achieved meaningful results.
+
+Overall, the court grants the plaintiff's motion to compel further responses from the defendant as to requests Nos. 6, 7, 38, and 70.

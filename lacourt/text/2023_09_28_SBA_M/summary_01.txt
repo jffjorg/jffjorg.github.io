@@ -1,0 +1,87 @@
+Here is the YAML summary:
+
+```
+case_number: 23TRCV01567
+plaintiff: JOHN YELUSICH, et al.
+defendant: DRIFTWOOD HEALTHCARE CENTER, et al.
+hearing_date: September 28, 2023
+department: M
+
+people-names:
+  - JOHN YELUSICH
+  - DONNA YELUSICH
+  - DRIFTWOOD HEALTHCARE CENTER
+  - PROVIDENCE LITTLE COMPANY OF MARY MEDICAL CENTER - TORRANCE
+  - TORRANCE MEMORIAL MEDICAL CENTER
+  - TORRANCE HEALTH ASSOCIATION, INC.
+  - PROVIDENCE HEALTH SYSTEM - SOUTHERN CALIFORNIA
+  - PROVIDENCE LITTLE COMPANY OF MARY MEDICAL CENTER - SAN PEDRO
+
+company-names:
+  - DRIFTWOOD HEALTHCARE & WELLNESS CENTER, LLC
+  - CITRUS WELLNESS CENTER, LLC
+  - PROVIDENCE LITTLE COMPANY OF MARY MEDICAL CENTER - TORRANCE
+  - PROVIDENCE HEALTH SYSTEM - SOUTHERN CALIFORNIA
+  - PROVIDENCE LITTLE COMPANY OF MARY MEDICAL CENTER - SAN PEDRO
+  - TORRANCE MEMORIAL MEDICAL CENTER
+
+places:
+  - TORRANCE
+  - LOS ANGELES
+  - SAN PEDRO
+
+dates:
+  - May 17, 2023
+  - March 10, 2022
+  - March 24, 2022
+  - April 15, 2022
+  - July 1, 2022
+  - August 3, 2022
+  - August 9, 2022
+
+events:
+  - plaintiff was taken to the ER of Providence Little Company of Mary Medical Center - San Pedro
+  - plaintiff was diagnosed with hemiparesis of his left side
+  - plaintiff was given a shot of morphine and three pain pills (Vicodin)
+  - plaintiff suffered a stroke and was taken to Torrance Memorial Medical Center
+  - plaintiff developed a pressure injury while at Driftwood Healthcare Center
+  - plaintiff was discharged to Driftwood Healthcare Center for rehabilitation
+  - plaintiff's pressure injury worsened and he was discharged home
+
+money:
+  - $0
+
+intentions:
+  - to hold defendants liable for elder abuse and neglect
+
+facts:
+  - plaintiff suffered physical and mental health needs
+  - defendants failed to provide adequate care and attention to plaintiff's needs
+  - plaintiff developed pressure ulcers and other health issues due to neglect
+
+disputes:
+  - defendants argue that they did not have a custodial or caretaking relationship with plaintiff
+  - defendants argue that the allegations do not support reckless, oppressive, fraudulent, or malicious conduct
+
+acts:
+  - defendants failed to provide medical care for plaintiff's physical and mental health needs
+  - defendants failed to protect plaintiff from health and safety hazards
+  - defendants failed to prevent malnutrition and dehydration
+  - defendants failed to ensure adequate supervision of plaintiff
+
+agreements:
+  - none
+
+laws:
+  - Elder Abuse Act (Welf. & Inst. Code §15600, et seq.)
+  - California Civil Code §3294
+  - California Code of Civil Procedure §436
+  - California Code of Civil Procedure §437
+
+case-citations:
+  - Taylor v. City of Los Angeles Dept. of Water and Power (2006) 144 Cal. App. 4th 1216, 1228
+  - SKF Farms v. Superior Court (1984) 153 Cal. App. 3d 902, 905
+  - Hahn v. Mirda (2007) 147 Cal. App. 4th 740, 747
+  - Gressley v. Williams (1961) 193 Cal. App. 2d 636, 643-44
+  - Covenant Care, Inc. v. Superior Court (2004) 32 Cal. 4th 771, 789
+  - Carter v

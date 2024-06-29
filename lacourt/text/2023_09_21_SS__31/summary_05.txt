@@ -1,0 +1,64 @@
+Here is the summary in YAML format:
+
+```
+case_number: 22STCV17072
+plaintiff_name: Nadine Starr
+defendant_name: Gustavo Arriola
+people_names:
+  - Nadine Starr
+  - Paul M. Krueger
+  - Gustavo Arriola
+  - Michelle C. Kim
+company_names:
+  - Barry and Krueger
+places:
+  - Los Angeles
+  - California
+  - Victorville
+  - Stanley Mosk Courthouse
+dates:
+  - September 21, 2023
+  - June 26, 2023
+  - September 20, 2023
+events:
+  - Motion to be relieved as counsel
+  - Failure to communicate
+  - Service of moving papers
+money: None
+intentions:
+  - To be relieved as counsel
+  - To continue representation
+facts:
+  - Counsel has been unable to confirm the address of the Plaintiff
+  - Counsel has served the moving papers on the Plaintiff via mail
+  - Counsel has filed proof of service on the Plaintiff and defendant
+  - The Court previously denied Counsel's request for relief
+disputes:
+  - Failure to communicate
+  - Unreasonable difficulty in carrying out representation
+acts:
+  - Counsel has made efforts to locate a current address
+  - Counsel has served the moving papers on the Clerk of the Court
+agreements:
+  - None
+laws:
+  - CCP §1011
+  - California Rules Court, rule 3.1362(d)
+case_citations:
+  - Min. Order, June 26, 2023
+statutes:
+  - CCP §1011
+  - California Rules Court, rule 3.1362(d)
+roles:
+  - Judge: Michelle C. Kim
+  - Counsel: Paul M. Krueger
+  - Plaintiff: Nadine Starr
+  - Defendant: Gustavo Arriola
+significant_statements:
+  - The motion is denied without prejudice
+  - The instruction remains the same: Counsel must serve the moving papers on the Plaintiff and on all defendants who have appeared in this action, and also on the Clerk of the Court
+```
+
+And here is a summary of the judge's tentative ruling in English text:
+
+The judge has issued a tentative ruling denying the motion of Counsel, Paul M. Krueger, to be relieved as counsel for the Plaintiff, Nadine Starr. The motion was made on the grounds that Counsel has been unable to communicate with the Plaintiff and has been met with unreasonable difficulty in carrying out representation. Counsel has made efforts to locate a current address for the Plaintiff, but has been unable to confirm it. The judge has instructed Counsel to continue serving the moving papers on the Plaintiff and on all defendants who have appeared in this action, as well as on the Clerk of the Court, as previously directed. The motion is denied without prejudice, and Counsel is ordered to give notice. The parties are encouraged to meet and confer to reach an agreement, and if a party intends to submit on the tentative ruling, they must send an email to the court with the required information.

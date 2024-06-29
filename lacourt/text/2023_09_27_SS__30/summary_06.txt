@@ -1,0 +1,62 @@
+Here is the summary in YAML format:
+
+```
+case_number: 21STCV47251
+plaintiff_name: Chul Hee Lim
+defendant_name: Kung Soon Han
+people_names:
+  - Chul Hee Lim
+  - Kung Soon Han
+  - Jeong
+company_names:
+  - Food 4 Less Supermarkets, Inc.
+places:
+  - none
+dates:
+  - November 4, 2022
+  - September 27, 2023
+events:
+  - Motion to Compel Responses to Form Interrogatories
+  - Motion to Compel Responses to Request for Production
+money: none
+intentions:
+  - compel responses to discovery requests
+  - deny sanctions
+facts:
+  - Defendant served Form Interrogatories and Request for Production on Plaintiff
+  - Plaintiff has not served any responses
+  - Defendant may move for an order compelling responses
+disputes:
+  - none mentioned
+acts:
+  - serving Form Interrogatories and Request for Production
+  - failing to serve responses
+agreements:
+  - Code Civ. Proc sections 2030.290(b), 2031.300(b)
+  - Code Civ. Proc. 2030.290(a), 2032.300(a)
+laws:
+  - Code of Civil Procedure
+  - Food 4 Less Supermarkets, Inc. v. Superior Court (1995)
+  - California Appellate Court
+case_citations:
+  - Code Civ. Proc sections 2030.290(b), 2031.300(b)
+  - Code Civ. Proc. 2030.290(a), 2032.300(a)
+  - Food 4 Less Supermarkets, Inc. v. Superior Court (1995) 40 Cal.App.4th 651, 658
+statutes:
+  - Code Civ. Proc. 2030.290(a)
+  - Code Civ. Proc. 2031.300(b)
+  - Code Civ. Proc. 2032.300(a)
+roles:
+  - Judge
+  - Plaintiff
+  - Defendant
+significant_statements:
+  - Motions to Compel are granted
+  - Plaintiff is ordered to serve responses
+  - Requests for sanctions are denied
+  - Defendant is granted an order compelling responses
+```
+
+And here is a summary of the judge's tentative ruling in English text:
+
+The judge has granted the motions to compel responses to form interrogatories and request for production. The plaintiff is ordered to serve responses without objections within 20 days of the date of notice of the ruling. The requests for sanctions are denied. The defendant served the form interrogatories and request for production on the plaintiff on November 4, 2022, but the plaintiff has not served any responses. The judge has declined to award sanctions as the motions are unopposed.

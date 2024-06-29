@@ -1,0 +1,67 @@
+Here is the summary in YAML format:
+
+```
+case_number: 23STCP02448
+plaintiff_name: Robin Hood Funding, LLC
+defendant_name: Los Angeles Child Support Services Department
+people_names:
+  - J.T.
+company_names:
+  - Robin Hood Funding, LLC
+  - Los Angeles Child Support Services Department
+places:
+  - Los Angeles
+  - California
+  - West Sacramento
+  - Monterey
+  - San Francisco
+dates:
+  - September 12, 2023
+  - September 26, 2023
+  - September 29, 2023
+events:
+  - Petition for Transfer of Structured Settlement Payment Rights
+  - Child support arrearages payment
+money:
+  - $541,475
+  - $1,836,596.97
+  - $873,267.18
+  - $30,353.07
+intentions:
+  - To transfer structured settlement payment rights
+  - To pay off child support arrearages
+facts:
+  - J.T. is the payee of the structured settlement payment rights
+  - RH Funding seeks to transfer the payment rights to J.T.
+  - J.T. has child support arrearages in three cases
+  - The transfer agreement satisfies the requirements of Insurance Code sections 10136 and 10138
+disputes:
+  - None
+acts:
+  - RH Funding filed a petition for transfer of structured settlement payment rights
+  - J.T. filed a response to the petition
+  - The court reviewed the petition and found it satisfied the requirements of Insurance Code sections 10136 and 10138
+agreements:
+  - Transfer agreement
+  - Absolute Assignment Agreement and Security Agreement
+  - Disclosure statement
+laws:
+  - California Insurance Code sections 10134 et seq.
+  - Insurance Code sections 10136 and 10138
+  - Insurance Code section 10139.5
+case_citations:
+  - Insurance Code sections 10134 et seq.
+  - Insurance Code sections 10136 and 10138
+  - Insurance Code section 10139.5
+statutes:
+  - California Insurance Code
+roles:
+  - Judge
+  - Petitioner (RH Funding)
+  - Responding party (Los Angeles Child Support Services Department)
+  - Payee (J.T.)
+significant_statements:
+  - The court granted the petition subject to the condition that child support arrearages are paid off by September 29, 2023.
+```
+
+Please note that this is a summary and may not cover all the details and nuances of the document.

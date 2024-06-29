@@ -1,0 +1,52 @@
+Here is the YAML summary of the tentative ruling:
+
+```
+case_number: Not specified
+plaintiff_name: Not specified
+defendant_name: Not specified
+people_names:
+  - Nicholas
+company_names: []
+places: []
+dates:
+  - September 5, 2023
+  - September 6, 2023
+events:
+  - Filing of petition
+  - Filing of motion
+  - Request for judicial notice
+money: []
+intentions:
+  - To take judicial notice of probate court's ruling
+  - To dismiss Plaintiff's objection
+facts:
+  - Probate court's ruling was made
+  - Defendant's motion was filed on September 6, 2023
+  - Petition was filed on September 5, 2023
+  - Request for judicial notice was made
+disputes:
+  - Plaintiff objects to taking judicial notice of probate court's ruling
+acts:
+  - Probate court made a ruling
+  - Defendant filed a motion
+  - Plaintiff filed a petition
+agreements:
+  - Evid. Code § 452, subdiv. (c), (d)
+laws:
+  - Evid. Code
+  - Estate of Nicholas (1986) 177 Cal.App.3d 1071
+  - Evidence Code § 452
+statutes:
+  - Evid. Code § 452
+roles:
+  - Judge
+  - Plaintiff
+  - Defendant
+significant_statements:
+  - The trial judge should always be careful to specify exactly the document or portion of a document contained in a court file of which he is taking judicial notice.
+  - This court need take no notice of the underlying truth of the presumption of fraud.
+```
+
+And here is the English-text summary:
+
+The tentative ruling addresses two key issues. Firstly, Plaintiff objects to the court taking notice of the probate court's ruling, citing a lack of specificity in the request for judicial notice. However, the court finds this objection unpersuasive, as Defendant has requested the court to take notice of the ruling and its asserted basis, which falls within the scope of judicial notice. Secondly, the court notes that the petition was filed on September 5, 2023, and Defendant's motion was filed on September 6, 2023. The court will likely take judicial notice of the probate court's ruling and the underlying facts, citing relevant case law and statutes, including Evidence Code § 452.

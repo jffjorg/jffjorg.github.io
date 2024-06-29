@@ -1,0 +1,92 @@
+Here is the summary of the judge's tentative ruling in YAML format:
+
+```
+case_number: 23STCV05812
+hearing_date: September 27, 2023
+dept: 30 Dept. 30
+calendar_no: 
+plaintiff: Joann Callanta
+defendant: Harbor Health Care, Inc., et. al.
+
+people:
+  - Cheryl Loflin
+  - Joann Callanta
+
+company:
+  - Harbor Health Care, Inc.
+
+places:
+  - Bellflower, California
+
+dates:
+  - September 7, 2021
+  - November 4, 2021
+  - October 18, 2021
+  - October 26, 2021
+
+events:
+  - Plaintiff was hired by Defendant
+  - Plaintiff was terminated by Defendant
+  - Plaintiff reported to Loflin about Defendant's unlawful activity
+  - Plaintiff sent text messages to Loflin about her schedule and duties
+  - Plaintiff sent an email to Loflin about a direct care staff member's behavior
+
+money:
+  - None
+
+intentions:
+  - Plaintiff seeks to establish a prima facie case for whistleblower liability
+
+facts:
+  - Plaintiff was hired by Defendant on September 7, 2021
+  - Plaintiff reported to Loflin about Defendant's unlawful activity
+  - Plaintiff sent text messages and an email to Loflin about her concerns
+  - Plaintiff was terminated by Defendant on November 4, 2021
+
+disputes:
+  - Plaintiff's wrongful termination and retaliation claims
+  - Defendant's demurrer to Plaintiff's First Amended Complaint
+
+acts:
+  - Defendant demurred to Plaintiff's First Amended Complaint
+  - Plaintiff responded to Defendant's demurrer
+
+agreements:
+  - None
+
+laws:
+  - California Labor Code § 1102.5
+  - Health & Safety Code §§ 1276.4-1275.5
+  - 22 CCR §§ 87468.1-87468.2
+
+case_citations:
+  - Blank v. Kirwan (1985) 39 Cal.3d 311
+  - C & H Foods Co. v. Hartford Ins. Co. (1984) 163 Cal.App.3d 1055
+  - Stevens v. Superior Court (1999) 75 Cal.App.4th 594
+  - Guclimane Co. v. Stewart Title Guaranty Co. (1998) 19 Cal.4th 26
+  - Wilner v. Sunset Life Ins. Co. (2000) 78 Cal.App.4th 952
+  - Ion Equip. Corp. v. Nelson (1980) 110 Cal.App.3d 868
+  - Kramer v. Intuit Inc. (2004) 121 Cal.App.4th 574
+  - Prue v. Brady Co./San Diego, Inc. (2015) 242 Cal.App.4th 1367
+  - Tameny v. Atlantic Richfield Co. (1980) 27 Cal.3d 167
+  - Edgerly v. City of Oakland (2012) 211 Cal.App.4th 1191
+  - Patten v. Grant Joint Union High School Dist. (2005) 134 Cal.App.4th 1378
+  - Lawson v. PPG Architectural Finishes, Inc. (2022) 12 Cal.5th 703
+  - Diego v. Pilgrim United Church of Christ (2014) 231 Cal.App.4th 913
+  - Rodriguez v. Laboratory Corporation of America (C.D. Cal. 2022) 623 F.Supp.3d 1047
+
+roles:
+  - Judge
+  - Plaintiff
+  - Defendant
+  - Loflin
+
+significant_statements:
+  - The Court sustained Defendant's prior demurrer to Plaintiff's whistleblower retaliation claim based on Plaintiff's failure to allege disclosure of information that could reasonably be believed to be a violation of state or federal statute, or of a local, state, or federal rule or regulation.
+  - Plaintiff's communications did not constitute the type of disclosures that are protected under Section 1102.5.
+  - Plaintiff's complaints relate to personnel matters, and do not concern alleged violations of law.
+  - The text of Section 1102.5 expressly requires that the employee have "reasonable cause to believe that the information discloses a violation" of law.
+```
+
+Summary:
+The judge's tentative ruling sustains Defendant's demurrer to Plaintiff's First Amended Complaint, dismissing Plaintiff's wrongful termination and retaliation claims. The Court finds that Plaintiff's communications with Loflin about her schedule and duties, as well as her complaints about understaffing and patient safety, do not constitute protected disclosures under California Labor Code § 1102.5. The Court holds that Plaintiff's complaints relate to personnel matters, rather than alleged violations of law, and that Plaintiff failed to allege disclosure of information that could reasonably be believed to be a violation of state or federal statute, or of a local, state, or federal rule or regulation.

@@ -1,0 +1,117 @@
+Here is the summary of the tentative ruling in YAML format:
+
+```
+case_number: 23PSCV00230
+hearing_date: October 2, 2023
+dept: 6
+case_name: Bin Yang v. Thomas Ton, et al.
+
+people:
+  - Bin Yang
+  - Thomas Ton
+
+companies:
+  - Mercury Insurance Company
+
+places:
+  - California
+
+dates:
+  - January 31, 2020
+  - June 25, 2021
+  - October 7, 2021
+  - December 14, 2021
+  - December 21, 2021
+  - January 7, 2022
+  - January 20, 2022
+  - July 25, 2022
+  - August 11, 2022
+  - September 27, 2022
+  - November 23, 2022
+  - January 12, 2023
+  - January 26, 2023
+  - February 2, 2023
+  - April 5, 2023
+  - April 19, 2023
+  - May 10, 2023
+  - July 3, 2023
+  - July 13, 2023
+  - August 8, 2023
+  - August 15, 2023
+  - August 29, 2023
+  - September 25, 2023
+
+events:
+  - Automobile accident
+  - Filing of claim with insurance company
+  - Filing of lawsuit
+  - Demurrer
+  - Motion to strike
+  - Request for judicial notice
+  - Meet and confer
+
+money:
+  - None
+
+intentions:
+  - Plaintiff seeks to hold Defendant Mercury Insurance Company liable for personal injury and bad faith insurance claims.
+
+facts:
+  - Plaintiff was involved in an automobile accident on January 31, 2020.
+  - Plaintiff filed a claim with Defendant Ton's insurance company, which was denied.
+  - Plaintiff filed a lawsuit against Defendant Ton and Defendant Mercury Insurance Company.
+
+disputes:
+  - Defendant Mercury Insurance Company demurred to Plaintiff's cause of action for personal injury/negligence.
+  - Defendant Mercury Insurance Company moved to strike portions of Plaintiff's Second Amended Complaint.
+
+acts:
+  - Plaintiff filed a Second Amended Complaint against Defendant Mercury Insurance Company.
+  - Defendant Mercury Insurance Company demurred to the complaint.
+  - Defendant Mercury Insurance Company moved to strike portions of the complaint.
+
+agreements:
+  - None
+
+laws:
+  - California Code of Civil Procedure section 422.10
+  - California Code of Civil Procedure section 430.41
+  - California Code of Civil Procedure section 435
+  - California Code of Civil Procedure section 436
+  - California Evidence Code section 452
+
+case_citations:
+  - Donabedian v. Mercury Ins. Co. (2004) 116 Cal.App.4th 968
+  - Blank v. Kirwan (1985) 39 Cal.3d 311
+  - Ion Equip. Corp. v. Nelson (1980) 110 Cal.App.3d 868
+  - Afuso v. United States Fid. & Guar. Co. (1985) 169 Cal.App.3d 859
+  - Moradi-Shalal v. Fireman's Fund Ins. Cos. (1988) 46 Cal.3th 287
+  - Guardian North Bay, Inc. v. Superior Court (2001) 94 Cal.App.4th 963
+  - Frantz v. Blackwell (1987) 189 Cal.App.3d 91
+  - Barnett v. Fireman's Fund Ins. Co. (2001) 90 Cal.App.4th 500
+  - Poizner v. Fremont General Corp. (2007) 148 Cal.App.4th 97
+  - Kong v. City of Hawaiian Gardens Redev. Agency (2003) 108 Cal.App.4th 1028
+  - Royal Indem. Co. v. United Enterprises, Inc. (2008) 162 Cal.App.4th 194
+  - Major v. W. Home Ins. Co. (2009) 169 Cal.App.4th 1197
+  - Starr v. Ashbrook (2023) 87 Cal.App.5th 999
+
+roles:
+  - Judge: [Name]
+  - Plaintiff: Bin Yang
+  - Defendant: Thomas Ton
+  - Defendant: Mercury Insurance Company
+
+significant_statements:
+  - The Court sustains the demurrer without leave to amend as to the personal injury/negligence claim.
+  - The demurrer is overruled with respect to any bad faith insurance claim as moot since the SAC does not allege a cause of action for bad faith insurance.
+  - The Court denies the motion to strike as moot.
+  - Mercury Insurance is ordered to give notice and provide proof of service of same within five calendar days of the Court's order.
+```
+
+Summary in English text:
+
+The Court has issued a tentative ruling in the case of Bin Yang v. Thomas Ton, et al. The case involves an automobile accident and the subsequent litigation. Plaintiff Bin Yang is seeking to hold Defendant Mercury Insurance Company liable for personal injury and bad faith insurance claims.
+
+The Court has sustained the demurrer without leave to amend as to the personal injury/negligence claim, meaning that the complaint does not adequately state a claim for personal injury against Defendant Mercury Insurance Company. The Court has also overruled the demurrer with respect to any bad faith insurance claim as moot since the Second Amended Complaint (SAC) does not allege a cause of action for bad faith insurance.
+
+The Court has denied the motion to strike as moot, meaning that it is no longer necessary to strike portions of the complaint. Finally, the Court has ordered Defendant Mercury Insurance Company to give notice and provide proof of service of same within five calendar days of the Court's order.

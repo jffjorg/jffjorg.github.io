@@ -1,0 +1,61 @@
+Here is the summary in YAML format:
+
+```
+case_number: 21STCV14726
+hearing_date: 2023-09-26
+trial_date: 2023-10-31
+plaintiff: Scot Hickey
+defendants: The Rand Corporation, Does 1-10
+people_names:
+  - Scot Hickey
+  - Amyanne C. Freeburg
+companies:
+  - The Rand Corporation
+places:
+  - Los Angeles
+dates:
+  - 2021-04-19
+  - 2023-08-15
+  - 2023-08-18
+  - 2023-08-21
+  - 2023-08-29
+  - 2023-09-01
+  - 2023-09-12
+  - 2023-09-18
+  - 2023-09-25
+events:
+  - Independent Mental Examination (IME)
+money: None mentioned
+intentions:
+  - Compel Plaintiff to attend an IME
+facts:
+  - Plaintiff sued The Rand Corporation and Does 1-10 for FEHA Disability Discrimination, FEHA Failure to Provide Reasonable Accommodation, and other claims
+  - Rand Corp. requested an IME of Plaintiff to determine the nature and extent of his emotional distress damages
+disputes:
+  - Plaintiff opposed the IME, citing concerns about the scope and conditions of the examination
+acts:
+  - Rand Corp. moved to compel an IME of Plaintiff
+  - Plaintiff opposed the motion
+agreements:
+  - Parties agreed to certain conditions for the IME, including the examiner, time, and place of the examination
+laws:
+  - California Code of Civil Procedure sections 2032.310, 2032.320, 2032.530
+case_citations:
+  - Doyle v. Superior Court (1996) 50 Cal.App.4th 1878
+  - Carpenter v. Superior Court (2006) 141 Cal.App.4th 249
+  - Vinson v. Superior Court (1987) 43 Cal.3d 833
+  - Greyhound Corp. v. Superior Court (1961)
+roles:
+  - Judge
+  - Plaintiff
+  - Defendant
+  - Examiner
+significant_statements:
+  - The Court finds that Rand Corp.'s motion meets the statutory requirements to compel an IME of Plaintiff Scot Hickey
+  - The Court grants Rand Corp.'s motion, subject to the limitations in Section II
+  - The parties are ordered to meet and confer and reach agreement on the date and time of the examination
+```
+
+And here is the English-text summary:
+
+The Judge's tentative ruling is on a motion by Defendant The Rand Corporation to compel Plaintiff Scot Hickey to attend an Independent Mental Examination (IME) to determine the nature and extent of his emotional distress damages. The Court finds that Rand Corp.'s motion meets the statutory requirements to compel an IME of Plaintiff Hickey. The Court grants Rand Corp.'s motion, subject to certain conditions and limitations. The parties are ordered to meet and confer and reach agreement on the date and time of the examination.

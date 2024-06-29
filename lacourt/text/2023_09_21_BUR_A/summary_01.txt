@@ -1,0 +1,77 @@
+Here is the summary in YAML format:
+
+```
+case_number: 22BBCV00358
+plaintiff: Sentinel Insurance Company
+defendant: Archstone Distribution, LLC
+people:
+  - Michael Jenkins
+  - Andrii Mitchenko
+companies:
+  - Archstone Distribution, LLC
+  - EcoSoft SPC
+  - EcoSoft WaterSystems
+  - Clean Sip LLC
+  - Down Town Wholesalers, Inc.
+places:
+  - Burbank, CA
+  - Ukraine
+  - Germany
+  - New York
+  - California
+dates:
+  - September 21, 2023
+  - June 6, 2023
+  - March 2022
+  - September 2019
+events:
+  - Malfunctioning of a water filtration system
+  - Service of process
+  - Motion to quash
+  - Personal jurisdiction
+  - Jurisdictional discovery
+money:
+  - $926,379.54
+intensions:
+  - To quash service of process
+  - To establish personal jurisdiction
+facts:
+  - The water filtration system was installed in a doctor's office in Burbank, CA
+  - The system malfunctioned, causing damages
+  - Archstone Distribution, LLC is the manufacturer of the filter
+  - EcoSoft SPC is the company that manufactured the filter
+  - Clean Sip LLC is the company that sold the filter through Amazon
+disputes:
+  - Lack of jurisdiction over EcoSoft SPC and EcoSoft WaterSystems
+  - Proper service of process
+acts:
+  - Service of process by Archstone Distribution, LLC
+  - Motion to quash by EcoSoft SPC and EcoSoft WaterSystems
+agreements:
+  - Asset Purchase Agreement between Andrii Mitchenko and Down Town Wholesalers, Inc.
+  - Distribution Agreement between Down Town Wholesalers and EcoSoft SPC
+laws:
+  - California Code of Civil Procedure § 418.10(a)
+  - Evidence Code § 452
+  - Hague Service Convention
+  - Daimler AG v. Bauman (2014)
+  - Pavlovich v. Superior Court (2002)
+  - Virtualmagic Asia, Inc. v. Fil-Cartoons, Inc. (2002)
+statutes:
+  - California Code of Civil Procedure
+  - Evidence Code
+roles:
+  - Judge: F.M. Tavelman
+  - Plaintiff: Sentinel Insurance Company
+  - Defendant: Archstone Distribution, LLC
+  - Cross-Complainant: Archstone Distribution, LLC
+  - Cross-Defendants: EcoSoft SPC and EcoSoft WaterSystems
+significant statements:
+  - The Court grants the motion to quash as to EcoSoft WaterSystems
+  - The Court grants the request for additional jurisdictional discovery
+  - The motion to quash is continued to December 29, 2023
+```
+
+Summary in English:
+
+This is a tentative ruling issued by Judge F.M. Tavelman in a case involving a motion to quash service of process filed by EcoSoft SPC and EcoSoft WaterSystems. The motion was filed in response to service of process by Archstone Distribution, LLC, which is seeking indemnification for damages caused by a malfunctioning water filtration system installed in a doctor's office in Burbank, CA. The system was manufactured by EcoSoft SPC and sold through Amazon by Clean Sip LLC. The Court finds that the service of process on EcoSoft WaterSystems is improper and grants the motion to quash, but denies the motion as to EcoSoft SPC. The Court also grants the request for additional jurisdictional discovery and continues the motion to quash to December 29, 2023.

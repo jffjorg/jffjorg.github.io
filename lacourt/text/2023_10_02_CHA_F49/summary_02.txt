@@ -1,0 +1,79 @@
+Here is a summary of the tentative ruling in YAML format:
+
+```
+case_number: 21STCV25336
+plaintiff_name: Evelyn Gallegos
+defendant_name: Los Angeles Unified School District, et al.
+people_names:
+  - Evelyn Gallegos
+  - Luis Lopez
+  - Sabryna Beckles
+company_names:
+  - Los Angeles Unified School District
+places:
+  - Germain Elementary School
+dates:
+  - March 5, 2020
+  - July 9, 2021
+  - November 3, 2021
+  - January 3, 2022
+  - May 18, 2022
+  - June 13, 2022
+  - September 1, 2022
+  - September 20, 2022
+  - March 2, 2023
+  - March 21, 2023
+  - May 4, 2023
+  - September 25, 2023
+  - October 2, 2023
+  - February 15, 2024
+  - February 26, 2024
+events:
+  - Bullying incident on March 5, 2020
+  - Filing of complaint on July 9, 2021
+  - Transfer of action to Department 49 on November 3, 2021
+  - Substitution of new counsel for Plaintiff on January 3, 2022
+  - Sustaining of demurrer on May 18, 2022
+  - Filing of first amended complaint on June 13, 2022
+  - Sustaining of demurrer on September 1, 2022
+  - Filing of second amended complaint on September 20, 2022
+  - Sustaining of demurrer on March 2, 2023
+  - Granting of motion to strike punitive damages claims on March 2, 2023
+  - Answering of remaining causes of action on March 21, 2023
+  - Granting of motion to be relieved as counsel on May 4, 2023
+  - Filing of notice of non-opposition on September 25, 2023
+money: N/A
+intentions:
+  - Plaintiff seeks to compel responses to request for production of documents
+  - Defendant seeks to compel responses to request for production of documents
+facts:
+  - Plaintiff was a student at Germain Elementary School
+  - Plaintiff alleges bullying by fellow students and failure of school principal to address bullying
+  - Plaintiff alleges violent incident on March 5, 2020
+disputes:
+  - Plaintiff's allegations of bullying and negligence
+  - Defendant's alleged failure to address bullying
+acts:
+  - Filing of complaint
+  - Filing of amended complaints
+  - Filing of demurrer
+  - Filing of motion to strike punitive damages claims
+  - Filing of motion to be relieved as counsel
+agreements: N/A
+laws:
+  - Code Civ. Proc., § 2031.300
+statutes:
+  - Code Civ. Proc.
+roles:
+  - Plaintiff: Evelyn Gallegos
+  - Defendant: Los Angeles Unified School District, et al.
+  - Attorney: Sabryna Beckles
+significant statements:
+  - The court finds service valid and assumes former counsel forwarded the file to the former clients.
+  - The unopposed motion is granted.
+  - Plaintiff is ordered to serve verified responses to Request for Production of Documents (set one) without objections within ten days.
+```
+
+And here is a summary of the judge's tentative ruling in English text:
+
+The court grants the motion of the defendant, Los Angeles Unified School District, to compel responses to the request for production of documents (set one) from the plaintiff, Evelyn Gallegos. The defendant served the request on March 17, 2023, and no responses were received as of the filing of the motion. The court assumes that the former counsel for the plaintiff forwarded the file to the former clients, and therefore finds service valid. The plaintiff is ordered to serve verified responses to the request without objections within ten days. The court refrains from imposing sanctions due to the plaintiff being a minor and the guardian parent possibly being unhoused. The final status conference and trial are set for February 15 and February 26, 2024, respectively.

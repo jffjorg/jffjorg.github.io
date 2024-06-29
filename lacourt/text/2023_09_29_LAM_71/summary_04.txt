@@ -1,0 +1,69 @@
+Here is the summary in YAML format:
+
+```
+case_number: 20STCV28221
+plaintiff_name: Juan Galicia
+defendant_name: DS Services of America, Inc.
+people_names:
+  - Raymond Ghermezian
+  - Alexander Robinson
+company_names:
+  - DS Services of America, Inc.
+places:
+  - Department 71
+  - California
+dates:
+  - September 5, 2023
+  - September 29, 2023
+  - October 30, 2023
+  - December 1, 2022
+  - January 12, 2024
+  - February 9, 2024
+events:
+  - Discovery proceedings
+  - Request for Production
+  - Order to Show Cause
+  - Sanctions
+  - Trial Setting Conference
+  - Final Status Conference
+money:
+  - $1,000
+  - $2,000
+intentions:
+  - Compliance with discovery requests
+  - Verification of discovery responses
+facts:
+  - Plaintiff's counsel failed to provide Code of Civil Procedure compliant discovery responses
+  - Plaintiff's counsel used pre-signed verification in discovery responses
+  - Plaintiff's counsel failed to verify discovery responses
+disputes:
+  - Compliance with discovery requests
+  - Verification of discovery responses
+acts:
+  - Providing discovery responses
+  - Failing to verify discovery responses
+  - Using pre-signed verification in discovery responses
+agreements:
+  - Plaintiff's counsel agreed to provide Code of Civil Procedure compliant discovery responses
+  - Plaintiff's counsel agreed to verify discovery responses
+laws:
+  - California Code of Civil Procedure
+  - California Supreme Court rules
+case_citations:
+  - Deyo v. Kilbourne (1978) 84 Cal.App.3d 771
+  - Drociak v. State Bar (1991) 52 Cal.3d 1085
+statutes:
+  - Code of Civil Procedure sections 2032.210-2031.240
+  - Code of Civil Procedure sections 2031.220-2031.230
+roles:
+  - Plaintiff's counsel (Raymond Ghermezian)
+  - Defendant (DS Services of America, Inc.)
+  - Judge
+significant_statements:
+  - Plaintiff's counsel failed to comply with the Court's order to provide Code of Civil Procedure compliant discovery responses
+  - The use of pre-signed verification in discovery responses is a serious violation of the statutes and rules
+```
+
+And here is a summary in English text:
+
+The Judge's tentative ruling is in response to Plaintiff's counsel, Raymond Ghermezian, Esq.'s, failure to provide Code of Civil Procedure compliant discovery responses to Defendant's requests for production. The Judge has ordered Ghermezian to provide compliant responses by October 30, 2023, and has sanctioned him $1,000 for his failure to comply. The Judge has also set a hearing to show cause why Ghermezian should not be sanctioned $2,000 and/or Plaintiff's case dismissed for failing to provide compliant discovery responses. Additionally, the Judge has set a hearing to show cause why the Court should consider any of Plaintiff's discovery responses served after December 1, 2022, verified, and, if not properly verified, why the Court should not sanction Ghermezian $2,000 and/or dismiss Plaintiff's case.

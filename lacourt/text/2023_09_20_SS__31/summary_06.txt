@@ -1,0 +1,68 @@
+Here is the summary of the tentative ruling in YAML format:
+
+```
+case_number: 22STCV31049
+plaintiff: Carmen Trujillo
+defendant: Miguel Reyes
+people_names:
+  - Carmen Trujillo
+  - Miguel Reyes
+company_names: []
+places:
+  - Los Angeles
+  - California
+dates:
+  - October 27, 2022
+  - September 6, 2023
+  - September 20, 2023
+  - September 19, 2023
+events:
+  - Request for Admissions (RFA) propounded by Plaintiff
+  - Failure of Defendant to respond to RFA
+  - Motion to deem RFA admitted
+  - Grant of motion and imposition of sanctions
+money:
+  - $811.65 (amount of sanctions requested)
+  - $250 per hour (attorney fees)
+  - $61.65 (motion filing fee)
+  - $500 (attorney fees for preparation and appearance)
+  - $561.65 (total sanctions imposed)
+intentions:
+  - Plaintiff seeks to deem RFA admitted and impose sanctions
+  - Defendant fails to respond to RFA, waiving objections
+facts:
+  - Plaintiff propounded RFA on October 27, 2022
+  - Defendant failed to respond to RFA
+  - Plaintiff seeks to deem RFA admitted and impose sanctions
+disputes:
+  - Defendant's failure to respond to RFA
+  - Plaintiff's request for sanctions
+acts:
+  - Plaintiff propounded RFA
+  - Defendant failed to respond to RFA
+  - Plaintiff filed motion to deem RFA admitted
+agreements:
+  - Plaintiff and Defendant did not reach an agreement
+laws:
+  - California Code of Civil Procedure (CCP) § 2033.010
+  - CCP § 2033.280
+  - CCP § 2033.220
+case_citations: []
+statutes:
+  - CCP § 2033.010
+  - CCP § 2033.280
+  - CCP § 2033.220
+roles:
+  - Judge: Hon. Michelle C. Kim
+  - Plaintiff: Carmen Trujillo
+  - Defendant: Miguel Reyes
+  - Attorney: Vardanyan (Plaintiff's counsel)
+  - Attorney: Reyes's counsel (Defendant's counsel)
+significant_statements:
+  - "Where there has been no timely response to a request for admission under CCP § 2033.010, the propounding party may move for an order that the genuineness of any documents and the truth of any matters specified in the requests be deemed admitted, as well as for a monetary sanction."
+  - "The court 'shall' grant a motion to deem admitted requests for admissions, 'unless it finds that the party to whom the requests for admission have been directed has served, before the hearing on the motion, a proposed response to the requests for admission that is in substantial compliance with Section 2033.220.'"
+```
+
+And here is a summary of the tentative ruling in English text:
+
+The Judge has issued a tentative ruling granting Plaintiff Carmen Trujillo's motion to deem requests for admissions (RFAs) admitted and imposing sanctions on Defendant Miguel Reyes. The RFAs were propounded on October 27, 2022, but Defendant failed to respond, waiving any objections. The Judge finds that the Plaintiff's motion is granted because Defendant has not filed an opposition or demonstrated that he has served a substantially compliant response to the RFAs. As a result, the RFAs are deemed admitted against Defendant, and the Judge imposes sanctions in the amount of $561.65. The Judge also awards Plaintiff $500 in attorney fees for preparation and appearance, as well as a motion filing fee of $61.65.

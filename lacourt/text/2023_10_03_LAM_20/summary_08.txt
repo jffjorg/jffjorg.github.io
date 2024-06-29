@@ -1,0 +1,58 @@
+Here is the summary in YAML format:
+
+```
+case_number: JIA v. California Department of Healthcare Services
+plaintiff_name: Justice in Aging (JIA)
+defendant_name: California Department of Healthcare Services
+people_names:
+  - McKibben (author of declaration)
+companies:
+  - Justice in Aging (JIA)
+  - Centers for Medicare & Medicaid Services (CMS)
+places:
+  - California
+dates:
+  - December 8, 2022
+  - March 20, 2023
+events:
+  - Filing of Complaint and Petition for Writ of Mandate
+  - Production of CMS report with redactions
+  - Court review of unredacted report
+money: none mentioned
+intentions:
+  - JIA: to obtain "quality measure information regarding the Assisted Living Waiver" for Medicaid
+  - Department: to protect information security records
+facts:
+  - Department produced CMS report with redactions
+  - Redactions relate to MedCompass system architecture
+  - JIA argues that redactions are too vague and don't relate to information security records
+disputes:
+  - Whether redactions are proper
+acts:
+  - Department's production of CMS report
+agreements:
+  - None mentioned
+laws:
+  - Government Code Section 7929.210
+  - Government Code Section 7922.000
+case_citations:
+  - Government Code Section 7929.210
+  - Government Code Section 7922.000
+statutes:
+  - Government Code Section 7929.210
+  - Government Code Section 7922.000
+roles:
+  - Judge
+  - Justice in Aging (JIA)
+  - California Department of Healthcare Services
+  - Centers for Medicare & Medicaid Services (CMS)
+significant_statements:
+  - Redactions are proper because they relate to information that poses a security risk
+  - Public interest served by nondisclosure outweighs public interest in disclosure
+```
+
+And here is the English-text summary:
+
+The judge has issued a tentative ruling in the case of Justice in Aging (JIA) v. California Department of Healthcare Services. JIA filed a Complaint and Petition for Writ of Mandate, alleging that the Department failed to comply with its Public Records Act (PRA) requests for "quality measure information regarding the Assisted Living Waiver" for Medicaid. The Department produced a 34-page report from the Centers for Medicare & Medicaid Services (CMS), with redactions to protect information security records. The Department argues that the redactions are proper because the report was written for internal use and includes sensitive information about its MedCompass system architecture. JIA argues that the redactions are too vague and don't relate to information security records, and that the public would benefit greatly from knowing how MedCompass works.
+
+In the tentative ruling, the judge finds that the redactions are proper because they relate to information that poses a security risk. The redacted portions of the report relate to how the MedCompass system interacts and connects with other systems, which could be exploited by hackers to obtain patient information. The judge concludes that the public interest served by nondisclosure outweighs the public interest in disclosure, and that the Department has shown that the redactions are justified under Government Code Section 7922.000. The Department is ordered to give notice of the tentative ruling, and counsel are strongly encouraged to submit briefs on the tentative or appear by LACourtConnect due to the COVID-19 pandemic.

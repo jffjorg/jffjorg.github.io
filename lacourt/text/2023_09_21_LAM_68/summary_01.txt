@@ -1,0 +1,75 @@
+Here is the summary in YAML format:
+
+```
+case_number: 20STCP00529
+plaintiff_name: Bahram Nowparvar
+defendant_name: Jeremy Daniels-Stock, et al.
+people_names:
+  - Bahram Nowparvar
+  - Jeremy Daniels-Stock
+  - Howard R. Daniels-Stock
+company_names:
+  - ADR Services, Inc.
+  - JDS Minions
+places:
+  - California
+dates:
+  - January 3, 2023
+  - July 1, 2023
+  - September 21, 2023
+events:
+  - Arbitration hearing
+  - Settlement agreement
+  - Motion to enforce settlement
+  - Payment of $75,000
+  - Failure to pay arbitration fees
+money:
+  - $100,000
+  - $20,950
+  - $75,000
+  - $25,000
+  - $45,950
+intentions:
+  - Enforce settlement agreement
+  - Seek payment of arbitration fees
+facts:
+  - The parties signed a settlement agreement on January 3, 2023
+  - Respondents paid $75,000 by July 1, 2023
+  - Respondents failed to pay arbitration fees
+  - Petitioner seeks judgment for $45,950
+disputes:
+  - Amount of arbitration fees
+  - Timeliness of payment
+acts:
+  - Signing of settlement agreement
+  - Payment of $75,000
+  - Failure to pay arbitration fees
+agreements:
+  - Settlement agreement
+  - Code of Civil Procedure § 664.6
+laws:
+  - Code of Civil Procedure § 664.6
+case_citations:
+  - [Ex.1]
+  - [Ex.2]
+  - Decl. Howard R. Daniels-Stock
+  - Decl. Jeremy Daniels-Stock
+statutes:
+  - Code of Civil Procedure § 664.6
+roles:
+  - Judge
+  - Petitioner (Bahram Nowparvar)
+  - Respondents (JDS Minions and Jeremy Daniels-Stock)
+significant_statements:
+  - The Court agrees with Petitioner that "ADR Services arbitration fees" means all fees associated with the arbitration.
+  - Respondents did not know the precise amount of the ADR Services arbitration fees, but did nothing to obtain that information.
+  - Respondents are engaged in after-the-fact rationalization to justify their failure to make timely payment of the arbitration fee.
+```
+
+And here is the summary in English text:
+
+This tentative ruling concerns a motion to enforce a settlement agreement between Bahram Nowparvar (Petitioner) and Jeremy Daniels-Stock, et al. (Respondents). The parties signed a settlement agreement on January 3, 2023, which provided for payment of $100,000 plus arbitration fees to Petitioner. Respondents paid $75,000 by July 1, 2023, but failed to pay the arbitration fees. The dispute centers on the amount of the arbitration fees, with Petitioner seeking judgment for $45,950.
+
+The Court finds that Respondents knew or should have known the amount of the arbitration fees, but failed to obtain the information and instead made a claim of ignorance. The Court concludes that Respondents are engaged in after-the-fact rationalization to justify their failure to make timely payment of the arbitration fee.
+
+As a result, the Court grants Petitioner's motion to enter judgment in the amount of $45,950, which includes the amount of the arbitration fees ($20,950) and the reduction of $25,000. The Court also strikes the opposition of Respondents insofar as it is made on behalf of the suspended corporation JDS Minions.

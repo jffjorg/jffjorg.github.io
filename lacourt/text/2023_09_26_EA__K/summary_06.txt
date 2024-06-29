@@ -1,0 +1,50 @@
+Here is the summary in YAML format:
+
+```
+case_number: unknown
+plaintiff_name: unknown
+defendant_name: unknown
+people_names:
+  - unknown
+  - unknown
+company_names: []
+places: []
+dates:
+  - unknown
+events: []
+money: []
+intentions:
+  - to understand the meaning of "contact" and its implications in the case
+  - to clarify the requirements for responding to a demand for inspection, copying, testing, or sampling
+  - to define the scope of what constitutes a "consultant"
+facts:
+  - a demand for inspection, copying, testing, or sampling has been made
+  - the demand has not been responded to
+  - the parties have not defined what constitutes "contact"
+disputes:
+  - the meaning of "contact"
+  - the scope of what constitutes a "consultant"
+acts:
+  - a demand has been made
+  - no response has been given
+agreements:
+  - Code of Civil Procedure § 2031.210 and § 2031.220
+laws:
+  - Code of Civil Procedure
+case_citations:
+  - unknown
+statutes:
+  - Code of Civil Procedure § 2031.210 and § 2031.220
+roles:
+  - Judge
+  - Plaintiff
+  - Defendant
+significant_statements:
+  - "Contact" is defined as any transmittal, conveyance, or exchange of information between or among PERSONS.
+  - Code of Civil Procedure § 2031.210 provides requirements for responding to a demand for inspection, copying, testing, or sampling.
+  - Code of Civil Procedure § 2031.220 provides requirements for producing documents or things in response to a demand.
+```
+
+And here is the English-text summary:
+
+This is a tentative ruling from a Judge regarding a future Court Hearing. The Judge is trying to understand the meaning of "contact" and its implications in the case, as well as clarifying the requirements for responding to a demand for inspection, copying, testing, or sampling. The Judge is also trying to define the scope of what constitutes a "consultant". The parties have not defined what constitutes "contact" and have not responded to the demand. The Judge is referencing Code of Civil Procedure § 2031.210 and § 2031.220 in their ruling.

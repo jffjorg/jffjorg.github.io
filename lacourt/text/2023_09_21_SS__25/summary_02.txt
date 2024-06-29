@@ -1,0 +1,89 @@
+Here is the summary in YAML format:
+
+```
+case_number: 21STLC04630
+hearing_date: September 21, 2023
+dept: 25
+plaintiff: Nerfitte Wanzo
+defendant: Dameon Powell
+people_names:
+  - Nerfitte Wanzo
+  - Dameon Powell
+  - Philip Paul DeLuca
+  - Greg Lowther
+  - Kayla Waymire
+  - Donald Wanzo
+company_names:
+  - JPL Attorney Service
+  - JPL Process Service
+  - Kayway Attorney Service
+places:
+  - San Pedro
+  - Los Angeles
+  - Visalia
+  - Yucca Valley
+  - Palm Avenue
+  - Spring Street Courthouse
+dates:
+  - June 1, 2019
+  - June 21, 2021
+  - October 27, 2021
+  - February 15, 2023
+  - May 8, 2023
+  - May 10, 2023
+  - July 18, 2023
+  - July 20, 2023
+  - August 21, 2023
+  - August 22, 2023
+  - December 5, 2023
+events:
+  - Motor vehicle accident
+  - Filing of complaint
+  - Request for entry of default
+  - Entry of default
+  - Granting of motion to set aside default
+  - Filing of answer
+  - Motion to be relieved as counsel
+  - Hearing on motion to be relieved as counsel
+money:
+  - None
+intensions:
+  - Plaintiff seeks to recover damages for motor vehicle and general negligence
+  - Defendant seeks to be relieved of counsel
+facts:
+  - Plaintiff filed a complaint against Defendant on June 21, 2021
+  - Defendant was served with the moving papers
+  - Counsel DeLuca has attempted to contact and serve Plaintiff through various means but has not been successful
+disputes:
+  - Whether Plaintiff has been properly served with the moving papers
+  - Whether Counsel DeLuca has shown sufficient effort to contact and serve Plaintiff
+acts:
+  - Filing of complaint
+  - Filing of request for entry of default
+  - Granting of motion to set aside default
+  - Filing of answer
+  - Filing of motion to be relieved as counsel
+  - Hearing on motion to be relieved as counsel
+agreements:
+  - None
+laws:
+  - Code of Civil Procedure § 284
+  - Cal. Rules of Court, Rule 3.1362
+  - Cal. Rules of Court, rule 3.1362(d)(1)
+statutes:
+  - Code of Civil Procedure § 284
+  - Cal. Rules of Court, Rule 3.1362
+roles:
+  - Judge
+  - Counsel DeLuca
+  - Plaintiff
+  - Defendant
+  - Process server
+significant_statements:
+  - Counsel DeLuca has attempted to contact and serve Plaintiff through various means but has not been successful
+  - The Court finds Counsel DeLuca's efforts to be sufficient
+  - Counsel DeLuca's Motion to Be Relieved as Counsel as to Plaintiff Nerfitte Wanzo is GRANTED
+```
+
+Summary:
+This is a tentative ruling by the court regarding a motion to be relieved as counsel filed by Counsel Philip Paul DeLuca on behalf of Plaintiff Nerfitte Wanzo. The motion was filed after attempts to contact and serve Plaintiff had been unsuccessful. The court finds that Counsel DeLuca has shown sufficient effort to contact and serve Plaintiff, despite not being successful, and grants the motion to be relieved as counsel.

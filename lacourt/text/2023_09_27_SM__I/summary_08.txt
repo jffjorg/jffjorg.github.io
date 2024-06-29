@@ -1,0 +1,49 @@
+Here is the summary in YAML format:
+
+```
+case_number: 23SMCV01704
+hearing_date: September 27, 2023
+dept: I
+party_names:
+  - Plaintiff
+  - GM (General Motors)
+people_names: []
+company_names: [GM, Nissan of North America, Inc., Breg, Inc., Uber Technologies]
+places: []
+dates:
+  - 2017 (Bigler-Engler v. Breg, Inc.)
+  - 2022 (Dhital v. Nissan of North America, Inc.)
+  - February 1, 2023 (Rattagan v. Uber Technologies)
+  - December 2023 (status conference)
+events: [fraud, concealment, demurrer, Song-Beverly case]
+money: [economic loss]
+intentions: [fraudulent concealment, duty to disclose]
+facts:
+  - GM knew of a problem with the car but did not disclose it to the plaintiff
+  - The plaintiff alleges fraudulent concealment
+  - GM argues that there is no duty to speak and that fraud can only occur in a transactional relationship
+  - Dhital v. Nissan of North America, Inc. suggests that the car dealer acted as the manufacturer's agent
+disputes: [duty to disclose, fraudulent concealment]
+acts: [fraudulent concealment, demurrer]
+agreements: [Song-Beverly case, economic loss rule]
+laws: [California Civil Code]
+case_citations:
+  - Bigler-Engler v. Breg, Inc. (2017) 7 Cal.App.5th 311
+  - Dhital v. Nissan of North America, Inc. (2022) 84 Cal.App.5th 828
+  - Rattagan v. Uber Technologies, S272113, Feb. 1, 2023
+statutes: []
+roles:
+  - Judge
+  - Plaintiff
+  - GM (General Motors)
+  - Nissan of North America, Inc.
+  - Breg, Inc.
+  - Uber Technologies
+significant_statements:
+  - The court is inclined to see what happens to Dhital and Rattagan in the Supreme Court.
+  - The court will set a status conference for some time in December 2023 to assess the status of Rattagan and Dhital.
+```
+
+And here is a summary of the judge's tentative ruling in English text:
+
+The judge is considering a demurrer filed by GM (General Motors) in a Song-Beverly case alleging fraudulent concealment. GM argues that there was no duty to disclose the problem with the car and that fraud can only occur in a transactional relationship. The judge notes that the main thrust of GM's motion is that it had no duty to disclose anything, rather than what it failed to disclose. The judge also references Dhital v. Nissan of North America, Inc. (2022), which suggests that the car dealer acted as the manufacturer's agent and had a duty to disclose known defects. The judge is inclined to wait for the Supreme Court's decision in Dhital and Rattagan v. Uber Technologies, which addresses the economic loss rule and the agency argument. The judge will set a status conference for December 2023 to assess the status of these cases.
