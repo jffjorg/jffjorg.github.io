@@ -1,0 +1,75 @@
+Here is the summary in YAML format:
+
+```
+case_number: 2023-CV-XXXXX
+plaintiff: Elvis J. Torrez
+defendant: GL LBT, LLC DBA West Coast Toyota of Long Beach, Wells Fargo Bank National Association, Travelers Casualty and Surety Company of America
+people_names:
+  - Elvis J. Torrez
+  - Kasra Sadr
+company_names:
+  - GL LBT, LLC DBA West Coast Toyota of Long Beach
+  - Wells Fargo Bank National Association
+  - Travelers Casualty and Surety Company of America
+places:
+  - Spring Street Courthouse
+dates:
+  - September 2, 2021
+  - July 17, 2023
+  - August 22, 2023
+  - October 13, 2023
+  - October 20, 2023
+  - January 17, 2024
+  - February 24, 2020
+  - February 27, 2024
+events:
+  - Complaint filed
+  - Dismissal of complaint
+  - Motion to set aside dismissal filed
+  - Opposition to motion filed
+  - Reply to opposition filed
+money: None
+intentions:
+  - To set aside the dismissal of the complaint
+facts:
+  - Plaintiff filed a complaint against defendants
+  - Defendants filed an opposition to the motion to set aside dismissal
+  - Plaintiff's counsel believed that defense counsel would inform the court of the parties' agreement to continue the trial
+disputes:
+  - Whether the motion to set aside dismissal should be granted
+acts:
+  - Plaintiff filed a complaint
+  - Defendants filed an opposition to the motion to set aside dismissal
+  - Plaintiff's counsel believed that defense counsel would inform the court of the parties' agreement to continue the trial
+agreements:
+  - None
+laws:
+  - California Code of Civil Procedure Section 473(b)
+  - California Civil Code Section 1750 et seq
+  - California Business and Professions Code Section 17200 et seq
+  - California Civil Code Section 1632
+case_citations:
+  - Transit Ads, Inc. v. Tanner Motor Livery, Ltd. (1969) 270 Cal.App.2d 275
+  - Toho-Towa Co., Ltd. v. Morgan Creek Productions, Inc. (2013) 217 Cal.App.4th 1096
+  - Leader v. Health Industries of America, Inc. (2001) 89 Cal.App.4th 603
+  - Rappleyea v. Campbell (1994) 8 Cal.4th 975
+  - People v. The North River Ins. Co. (2011) 200 Cal.App.4th 712
+  - Arambula v. Union Carbide Corp. (2005) 128 Cal.App.4th 333
+statutes:
+  - California Code of Civil Procedure Section 473(b)
+  - California Civil Code Section 1750 et seq
+  - California Business and Professions Code Section 17200 et seq
+  - California Civil Code Section 1632
+roles:
+  - Judge
+  - Plaintiff
+  - Defendant
+  - Counsel
+significant_statements:
+  - The Court finds that an order setting aside the dismissal is warranted under the law because Plaintiff's motion was timely filed and Plaintiff's Counsel has sufficiently established mistake, inadvertence, surprise, or neglect.
+  - The Court grants Plaintiff Elvis J. Torrez's Motion to Set Aside Court's 01/17/2023 Dismissal and resets the trial for February 27, 2024 at 8:30 a.m.
+```
+
+Summary:
+
+The Judge has issued a tentative ruling granting Plaintiff Elvis J. Torrez's Motion to Set Aside Court's Dismissal of the complaint. The motion was filed on August 22, 2023, which is within the six-month time limit specified in California Code of Civil Procedure Section 473(b). The Judge finds that Plaintiff's counsel made a mistake in believing that defense counsel would inform the court of the parties' agreement to continue the trial, and that the dismissal was caused by counsel's mistake, inadvertence, surprise, or neglect. The trial is reset for February 27, 2024 at 8:30 a.m.

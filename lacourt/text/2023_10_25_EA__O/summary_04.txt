@@ -1,0 +1,57 @@
+Here is the summary in YAML format:
+
+```
+case_number: "Unknown" # need more information
+plaintiff_name: "Defendants" # unclear who the plaintiff is
+defendant_name: "Unknown" # need more information
+people_names:
+  - Eagle Oil & Ref. Co
+  - Prentice
+company_names:
+  - Eagle Oil & Ref. Co
+places:
+  - California
+dates:
+  - 1942
+events:
+  - Court hearing
+  - Demurrers
+  - Request for judicial notice
+money: "None"
+intentions:
+  - To strike punitive damages
+  - To cite cases
+  - To request judicial notice
+facts:
+  - Affirmative defenses already adjudicated
+  - Affirmative defenses not in conformity with California laws
+  - Demurrers filed
+  - Request for judicial notice
+disputes:
+  - Dispute over citing cases
+  - Dispute over punitive damages
+acts:
+  - Citing cases
+  - Filing demurrers
+  - Requesting judicial notice
+agreements:
+  - None mentioned
+laws:
+  - Federal Rule of Civil Procedure
+  - California laws
+case_citations:
+  - Eagle Oil & Ref. Co v. Prentice (1942) 19 Cal.2d 553, 560
+statutes:
+  - None mentioned
+roles:
+  - Judge
+  - Defendants
+  - Plaintiff (unknown)
+significant_statements:
+  - "The court requests Defendants to file a request for judicial notice and produce the case."
+  - "The court finds no such conclusion in the case."
+```
+
+And here is a summary in English text:
+
+This tentative ruling is a judge's preliminary thoughts on a pending court hearing. The judge is concerned about the defendants' citing of cases that cannot be found, even on other databases. The judge requests that the defendants file a request for judicial notice and produce the case. The judge also notes that the defendants' affirmative defenses have already been adjudicated and are not in conformity with California laws. The judge finds that a case cited by the defendants, Eagle Oil & Ref. Co v. Prentice, does not support the defendants' proposition that a court may strike punitive damages based on constitutional grounds. The judge seems to be signaling that the defendants need to provide more support for their arguments and that the court will require additional information before making a final ruling.

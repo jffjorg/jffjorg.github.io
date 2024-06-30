@@ -1,0 +1,90 @@
+Here is a summary of the tentative ruling in YAML format:
+
+```
+case_number: 19STCV27545
+hearing_date: October 25, 2023
+dept: 8
+
+people_names:
+  - Mihwa Kim
+  - Kwangwoo Kim
+  - Kwang Hee Kim
+  - Prime Pan-Pacific Co
+  - Glenn Cummins
+  - Kenneth Yun
+  - Mawema
+
+company_names:
+  - Prime Pan-Pacific Co
+
+places:
+  - Gardena
+  - California
+
+dates:
+  - August 6, 2019
+  - January 5, 2021
+  - August 16, 2023
+  - August 10, 2023
+  - August 11, 2023
+  - August 14, 2023
+
+events:
+  - Decedent's fatal accident
+  - Trial
+  - Jury deliberation
+
+money:
+  - $12 million
+  - $500,000
+  - $300,000
+
+intentions:
+  - To determine the correctness of Prime's motions for judgment notwithstanding the verdict and new trial
+
+facts:
+  - Decedent was a pedestrian operating a wheelchair who was killed in an accident caused by Prime's negligence
+  - Prime blocked the sidewalk with a customer's vehicle, forcing Decedent onto the driveway apron where he lost control and was struck by a semi-trailer truck
+  - Decedent's family sued Prime for negligence, premises liability, wrongful death, and discrimination
+
+disputes:
+  - Prime's motions for judgment notwithstanding the verdict and new trial on the grounds that the jury's verdict was not supported by the evidence
+
+acts:
+  - Prime's negligence and failure to maintain a safe premises
+  - Prime's blocking of the sidewalk with a customer's vehicle
+
+agreements:
+  - None
+
+laws:
+  - California Civil Code § 846
+  - California Code of Civil Procedure § 629
+  - California Code of Civil Procedure § 657
+  - Evidence Code § 352
+
+case_citations:
+  - Hauter v. Zogarts (1975) 14 Cal.3d 104
+  - Rucker v. WINCAL, LLC (2022) 74 Cal.App.5th 883
+  - Jacobs v. Coldwell Banker Residential Brokerage Co. (2017) 14 Cal.App.5th 438
+  - Mudrick v. Market Street Ry. Co. (1938) 11 Cal.2d 724
+  - Bigboy v. County of San Diego (1984) 154 Cal.App.3d 397
+
+statutes:
+  - California Civil Code § 846
+  - California Code of Civil Procedure § 629
+  - California Code of Civil Procedure § 657
+
+roles:
+  - Judge: [undisclosed]
+  - Plaintiff: Mihwa Kim, Kwangwoo Kim, Kwang Hee Kim
+  - Defendant: Prime Pan-Pacific Co
+  - Witness: Glenn Cummins, Kenneth Yun, Mawema
+
+significant_statements:
+  - The Court's decision is based on the totality of the circumstances and the evidence presented at trial.
+  - The Court finds no error of law or irregularity in the proceedings that would warrant a new trial.
+  - The jury's award was not excessive or inadequate and is supported by the weight of the evidence.
+```
+
+Note that some of the fields, such as `people_names`, `company_names`, and `places`, may have multiple entries, and some fields, such as `money` and `dates`, may have multiple values.

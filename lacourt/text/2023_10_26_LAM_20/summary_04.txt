@@ -1,0 +1,65 @@
+Here is the summary in YAML format:
+
+```
+case_number: GAL-20-1234
+plaintiff_name: Francisco Gallegos
+defendant_name: University of La Verne
+people_names:
+  - Francisco Gallegos
+  - Alexander
+  - Panitz
+  - Arnold
+company_names:
+  - University of La Verne
+places:
+  - La Verne
+dates:
+  - August 4, 2020
+events:
+  - Jury trial
+  - Judgment
+  - Motion for attorneys' fees
+money:
+  - $600,000 (judgment)
+  - $1,289,840 (lodestar)
+  - $2,579,680 (attorneys' fees sought)
+  - $732,223.25 (awarded attorneys' fees)
+intentions:
+  - Plaintiff seeks attorneys' fees
+  - Defendant opposes attorneys' fees
+facts:
+  - Plaintiff took medical leave for shoulder disability
+  - Plaintiff was terminated after taking medical leave
+  - Jury found in favor of Plaintiff on medical leave retaliation claim
+  - Jury found in favor of Defendant on discrimination claim
+disputes:
+  - Disagreement over attorneys' fees
+acts:
+  - Plaintiff filed Complaint
+  - Jury trial held
+  - Judgment entered
+  - Motion for attorneys' fees filed
+  - Motion granted in part
+agreements:
+  - None mentioned
+laws:
+  - CFRA (California Family Rights Act)
+  - FEHA (Fair Employment and Housing Act)
+  - California statutes (not specified)
+case_citations:
+  - None mentioned
+statutes:
+  - None mentioned
+roles:
+  - Judge
+  - Plaintiff
+  - Defendant
+  - Counsel
+significant_statements:
+  - Court will not award multiplier due to lack of complexity and novelty
+  - Court will reduce hourly rates and hours worked due to duplication and reasonableness
+```
+
+And here is the English-text summary:
+
+This is a tentative ruling by the Judge regarding a motion for attorneys' fees filed by the plaintiff, Francisco Gallegos, against the University of La Verne. The plaintiff was awarded a $600,000 judgment for emotional distress and retaliation for taking medical leave. The motion seeks attorneys' fees of $2,579,680, based on a lodestar of $1,289,840 and a 2.0 multiplier. The Court reduces the hourly rates and hours worked by some counsel, finding that the time incurred was excessive, unreasonable, and duplicative. The Court awards $732,223.25 in fees.

@@ -1,0 +1,62 @@
+Here is the summary in YAML format:
+
+```
+Case Number: 22STCV32918
+Plaintiff's Name: Not specified
+Defendant's Name: Cordoba
+People-Names:
+  - Lockley
+  - Cantrell
+  - Green
+  - Pekich
+  - Cruz
+  - McCort
+Company-Names:
+  - Law Office of Cantrell, Green, Pekich, Cruz & McCort
+Places:
+  - Not specified
+Dates:
+  - October 24, 2023
+  - February 28, 2023
+  - 2001
+Events:
+  - Request for Judicial Notice
+  - Motion to strike paragraphs 27-29, 51, and Exhibit F
+  - Anti-SLAPP motion
+Money:
+  - Not specified
+Intentions:
+  - Defendant Cordoba seeks to strike portions of the Plaintiff's SAC
+Facts:
+  - Defendant Cordoba's counsel sent a letter to the Plaintiff before the action began
+  - The letter was the basis of the Plaintiff's earlier claims against the Attorney Defendants
+  - The court ordered the claims against the Attorney Defendants stricken
+  - The Plaintiff removed those claims from their operative pleadings
+Disputes:
+  - Whether the letter is relevant to the case
+Acts:
+  - Sending of the letter
+  - Filing of the anti-SLAPP motion
+  - Order striking claims against the Attorney Defendants
+  - Filing of the SAC
+Agreements:
+  - Not specified
+Laws:
+  - California Code of Civil Procedure § 425.16
+  - Lockley v. Law Office of Cantrell, Green, Pekich, Cruz & McCort (2001) 91 Cal.App.4th 875, 882
+Statutes:
+  - California Code of Civil Procedure § 425.16
+Roles:
+  - Judge
+  - Plaintiff
+  - Defendant
+  - Counsel
+  - Attorney Defendants
+Significant Statements:
+  - "The litigation privilege is not an evidentiary objection."
+  - "These portions of the SAC are not properly subject to a motion to strike."
+```
+
+And here is a summary of the judge's tentative ruling in English text:
+
+The judge has granted the plaintiff's request for judicial notice regarding Exhibits 7 and 13, but only as to the existence of the documents and the fact that certain statements were made, not as to the truth of the contents. The judge has denied the defendant's motion to strike paragraphs 27-29, 51, and Exhibit F from the plaintiff's SAC. The judge finds that the letter sent by the defendant's counsel before the action began is still a fact that may be relevant to the case, even if it does not form the basis for a cause of action. The judge concludes that the litigation privilege protects a party from causes of action, but not from the recitation of facts or the production of evidence. As such, the motion to strike is denied.

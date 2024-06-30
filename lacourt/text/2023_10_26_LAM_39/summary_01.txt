@@ -1,0 +1,65 @@
+Here is the summary in YAML format:
+
+```
+case_number: 23STCV09018
+plaintiff_name: Leia Brim
+defendant_name: Delrick McElwee
+people_names:
+  - Leia Brim
+  - Delrick McElwee
+company_names: []
+places:
+  - California
+dates:
+  - August 23, 2023
+  - October 23, 2023
+  - October 26, 2023
+events:
+  - Case management conference
+  - Hearing
+money:
+  - $500
+  - $2,500
+intention:
+  - To resolve pending matters
+facts:
+  - Plaintiff did not appear at case management conference
+  - Plaintiff alleges intentional tort by defendant
+  - Defendant made threats and harassed plaintiff
+disputes:
+  - Order to Show Cause re: Sanctions
+  - Motion to Compel
+  - Striking Jury Demand
+acts:
+  - Plaintiff failed to appear at case management conference
+  - Plaintiff failed to file proof of service
+  - Plaintiff failed to post jury fees
+agreements:
+  - None
+laws:
+  - Code of Civil Procedure section 631
+case_citations:
+  - Court's Minute Order, dated August 23, 2023
+statutes:
+  - None
+roles:
+  - Judge
+  - Plaintiff
+  - Defendant
+significant_statements:
+  - The Court discharges the Order to Show Cause
+  - The motion to compel is denied without prejudice
+  - The jury demand is struck and the trial will proceed as a bench trial
+```
+
+And here is a summary in English text:
+
+Judge's Tentative Ruling:
+
+This ruling addresses four pending matters in a case between Leia Brim (Plaintiff) and Delrick McElwee (Defendant). The case involves allegations of intentional tort by the Defendant, including harassment and threats. The Plaintiff did not appear at a case management conference, and the Court issued an Order to Show Cause why sanctions should not be imposed. The Plaintiff provided a valid reason for her absence and the Court discharged the Order.
+
+The Plaintiff also filed a Motion to Compel responses to discovery requests, but failed to file a proof of service. The Court denied the motion without prejudice to re-serving the requests.
+
+Additionally, the Plaintiff failed to post jury fees or seek a waiver of jury fees, as required by law. The Court struck the Plaintiff's demand for a jury trial and ordered that the trial will proceed as a bench trial.
+
+The Court provides notice that any party who does not appear at the hearing on October 26, 2023, will waive their right to be heard and will be bound by this tentative order. The Court also authorizes remote appearances and provides contact information for parties experiencing technical difficulties.

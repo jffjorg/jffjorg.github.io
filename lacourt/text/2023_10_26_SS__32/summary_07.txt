@@ -1,0 +1,50 @@
+Here is the summary in YAML format:
+
+```
+case_number: unknown
+plaintiff_name: unknown
+defendant_name: unknown
+people_names:
+  - Plaintiff
+  - Defendant
+company_names: []
+places:
+  - Serbia
+dates:
+  - unknown
+events:
+  - motion to compel
+  - motion for sanctions
+money: unknown
+intentions:
+  - to compel production of evidence
+  - to impose sanctions
+facts:
+  - Plaintiff permanently resides in Serbia
+  - Plaintiff did not provide a declaration under penalty of perjury
+  - Plaintiff opposed the motion in its entirety
+disputes:
+  - whether Plaintiff should have addressed specific terms within the motion
+acts:
+  - Plaintiff's failure to provide a declaration
+  - Plaintiff's opposition to the motion
+agreements:
+  - unknown
+laws:
+  - unknown
+case_citations: []
+statutes: []
+roles:
+  - Judge
+  - Plaintiff
+  - Defendant
+significant_statements:
+  - Plaintiff provides no explanation for how Defendants were to know
+    Plaintiff permanently resides in Serbia
+  - Plaintiff's position results in an inefficient use of court time
+  - The title of the motion itself requests sanctions in the alternative
+```
+
+And here is a summary of the judge's tentative ruling in English text:
+
+The judge has issued a tentative ruling regarding a motion to compel and a motion for sanctions. The judge notes that the plaintiff has not provided a declaration under penalty of perjury to confirm that they permanently reside in Serbia, despite the defendants not being aware of this fact. The judge also finds that the plaintiff's opposition to the motion was overly broad, failing to address specific terms and line items within the motion. The judge suggests that this approach is inefficient and wasteful of court resources. The judge's tentative ruling implies that the plaintiff's failure to provide a declaration may impact their ability to obtain the relief they seek.

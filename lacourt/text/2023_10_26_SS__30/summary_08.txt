@@ -1,0 +1,60 @@
+Here is a summary of the tentative ruling in YAML format:
+
+```
+case_number: 22STCV30628
+hearing_date: October 26, 2023
+dept: 30
+parties:
+  - plaintiff: Pedro Serrano-Trujillo
+    defendants:
+      - Alejandro Cadena
+      - SYSTEMS SOURCE, INC.
+people:
+  - Benny Khorsandi
+companies:
+  - SYSTEMS SOURCE, INC.
+places:
+  - None mentioned
+dates:
+  - January 26, 2023
+  - February 27, 2023
+  - March 15, 2023
+  - April 11, 2023
+events:
+  - Service of initial discovery request
+  - Filing of motion to deem requests for admission admitted
+  - Service of responses to requests for admission
+money:
+  - $1260 (amount of sanctions)
+intentions:
+  - Plaintiff's intention to deem requests for admission admitted
+facts:
+  - Initial discovery request was served on January 26, 2023
+  - Deadline for responses was February 27, 2023
+  - Responses were not received until April 11, 2023
+disputes:
+  - Dispute over whether requests for admission should be deemed admitted
+acts:
+  - Service of requests for admission
+  - Filing of motion to deem requests for admission admitted
+  - Service of responses to requests for admission
+agreements:
+  - None mentioned
+laws:
+  - CCP 2033.280(c)
+  - Sinaiko Healthcare Consulting, Inc. v. Pacific Healthcare Consultants (2007) 148 Cal.App.4th 390, 407
+case_citations:
+  - CCP 2033.280(c)
+  - Sinaiko Healthcare Consulting, Inc. v. Pacific Healthcare Consultants (2007) 148 Cal.App.4th 390, 407
+statutes:
+  - CCP 2033.280(c)
+roles:
+  - Judge ( Pedro Serrano-Trujillo, et al. vs SYSTEMS SOURCE, INC., et al)
+significant_statements:
+  - Plaintiff's motion to deem requests for admission admitted is denied
+  - Sanctions will be imposed against Defendant and his attorneys of record in the amount of $1260
+```
+
+And here is a summary of the tentative ruling in English:
+
+The court has issued a tentative ruling on the motion to deem requests for admission admitted, brought by plaintiff Pedro Serrano-Trujillo against defendant Alejandro Cadena and SYSTEMS SOURCE, INC. The motion is denied, but the court has granted the request for sanctions against the defendant and his attorneys of record. The sanctions amount to $1260, payable to the plaintiff within 30 days. The court's decision is based on the fact that responses to the requests for admission were not served until April 11, 2023, after the deadline of February 27, 2023. The court has also cited relevant case law, including CCP 2033.280(c) and Sinaiko Healthcare Consulting, Inc. v. Pacific Healthcare Consultants (2007) 148 Cal.App.4th 390, 407, in support of its decision.

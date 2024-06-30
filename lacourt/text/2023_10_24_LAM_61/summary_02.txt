@@ -1,0 +1,45 @@
+Here is a summary of the tentative ruling in YAML format:
+
+```
+case_number: 20STCV27823
+hearing_date: October 24, 2023
+department: 61
+
+parties:
+  - plaintiff: Jennifer Hung
+  - defendant:
+    - Los Angeles County University of Southern California Medical
+    - James Leonard Buxbaum, M.D.
+    - Michael Andrew Quezada
+    - Michael Kline
+    - Tracy Kim Nguyen
+
+facts:
+  - Jennifer Hung underwent an endoscopic procedure on June 5, 2019
+  - She alleged that Dr. Buxbaum promised to perform the procedure, but Dr. Quezada performed it instead
+  - She claimed that Dr. Quezada inserted an IV into her hand without her consent, causing bleeding and pain
+  - She also claimed that Dr. Nguyen was rough with her when inserting the IV
+
+disputes:
+  - Whether the defendants complied with the standard of care during the procedure
+  - Whether the plaintiff gave informed consent for the procedure
+  - Whether the plaintiff suffered harm as a result of the procedure
+
+issues:
+  - Medical negligence
+  - Battery
+  - Intentional misrepresentation
+  - Negligent misrepresentation
+  - False promise
+  - Concealment
+
+rulings:
+  - The motion for summary judgment is GRANTED as to the second cause of action for battery alleged against Nguyen
+  - The motion is otherwise DENIED
+  - Triable issues of fact exist as to the plaintiff's medical negligence claim
+  - Triable issues of fact exist as to the plaintiff's claims for intentional misrepresentation, negligent misrepresentation, false promise, and concealment
+```
+
+And here is a brief summary of the ruling in English:
+
+The court has tentatively ruled on the motion for summary judgment. The motion is GRANTED as to the second cause of action for battery alleged against Nguyen, as the evidence shows that Nguyen intentionally and without consent inserted an IV into the plaintiff's hand, causing harm. The motion is otherwise DENIED, as triable issues of fact exist as to the plaintiff's medical negligence claim, intentional misrepresentation, negligent misrepresentation, false promise, and concealment claims. The court has also ruled that the plaintiff's claims for medical battery and fraud are not barred by the statute of limitations, and that the plaintiff has presented sufficient evidence to establish triable issues of fact as to whether the defendants complied with the standard of care during the procedure.

@@ -1,0 +1,50 @@
+Here is the summary in YAML format:
+
+```
+case_number: 23STCP01460
+plaintiff: DAVID WEINBERG, as trustee of the David Weinberg Trust
+defendant: BRIAN TAYLOR, et al.
+people_names:
+  - DAVID WEINBERG
+  - BRIAN TAYLOR
+  - STUART SACKLEY
+company_names:
+  - Lubin Pham + Caplin LLP
+  - 2522 The Strand LLC
+places:
+  - Los Angeles
+  - California
+dates:
+  - October 26, 2023
+events:
+  - Motion to be relieved as counsel
+  - In camera hearing
+  - Case Management Conference
+money: None
+intentions: The Judge intends to deny the motions to be relieved as counsel without prejudice
+facts:
+  - Counsel's declarations are confidential and do not provide sufficient reasons for requesting relief
+  - Counsel did not file complete Form MC-053 proposed orders
+disputes: None
+acts:
+  - Counsel's motion to be relieved as counsel
+  - Judge's tentative ruling
+agreements: None
+laws:
+  - Business and Professions Code section 6068, subdivision (e)
+  - Rules of Professional Conduct, rule 1.6
+  - Evidence Code, §§ 950 et seq.
+case_citations: None
+statutes: None
+roles:
+  - Hon. Thomas D. Long, Judge of the Superior Court
+  - Ramy Galal, counsel for Defendants
+  - Lubin Pham + Caplin LLP, counsel of record
+significant_statements:
+  - Counsel must state general reasons for requesting relief without divulging attorney-client privileged information
+  - Counsel must file complete Form MC-053 proposed orders
+```
+
+And here is the English-text summary:
+
+The Judge has issued a tentative ruling denying the motions to be relieved as counsel for defendants Bryan Taylor, 2522 The Strand LLC, and Stuart Sackley. The motions were filed by Ramy Galal and the firm Lubin Pham + Caplin LLP, who sought to be relieved due to "confidential" reasons. However, the Judge found that the declarations provided insufficient reasons and that the firm failed to file complete proposed orders. The Judge orders the motions to be denied without prejudice and requires the moving party to give notice. The Judge also reminds parties who intend to submit on the tentative ruling to send an email to the Court.

@@ -1,0 +1,68 @@
+Here is the summary in YAML format:
+
+```
+case_number: 22STCV03154
+plaintiff_name: Pedro Pizano
+defendant_name: Powerhouse Grading Inc., Caesar Alexander Lopez, JDP Equipment Rental Inc.
+people_names:
+  - Pedro Pizano
+  - Caesar Alexander Lopez
+  - James Leo McDermott
+  - Rayelle Sabo
+company_names:
+  - Powerhouse Grading Inc.
+  - JDP Equipment Rental Inc.
+places:
+  - California
+dates:
+  - January 26, 2022
+  - July 24, 2023
+  - October 24, 2023
+events:
+  - Motor vehicle accident
+  - Deposition notice
+  - Motion to compel deposition
+  - Meet and confer
+money:
+  - $2,260.00 (hourly rate: $275, hours: 8)
+  - $60 (filing fee)
+intentions:
+  - To compel Plaintiff's deposition
+  - To impose monetary sanctions
+facts:
+  - Plaintiff filed a complaint on January 26, 2022
+  - Defendants noticed Plaintiff's deposition seven times
+  - Plaintiff has not worked with Defendants to schedule a mutually beneficial time
+  - Plaintiff agreed to a deposition on July 24, 2023 but did not appear
+disputes:
+  - Plaintiff's unavailability for deposition
+acts:
+  - Plaintiff filed a complaint
+  - Defendants noticed Plaintiff's deposition
+  - Plaintiff and Defendants met and conferred
+  - Plaintiff agreed to a deposition but did not appear
+agreements:
+  - Code Civ. Proc. § 2025.450, subd. (a)
+  - Code Civ. Proc. § 2025.450, subd. (b)
+laws:
+  - Code of Civil Procedure
+  - California Code of Civil Procedure
+  - Sole Energy Co. v. Hodges (2005) 128 Cal.App.4th 199, 207-08
+statutes:
+  - Code Civ. Proc. § 2025.410
+  - Code Civ. Proc. § 2025.450, subd. (a)
+  - Code Civ. Proc. § 2025.450, subd. (b)
+  - Code Civ. Proc. § 2025.450 (g)
+roles:
+  - Judge: [unnamed]
+  - Plaintiff: Pedro Pizano
+  - Defendant: Powerhouse Grading Inc., Caesar Alexander Lopez, JDP Equipment Rental Inc.
+  - Counsel: Rayelle Sabo
+significant statements:
+  - "If, after service of a deposition notice, a party to the action . . . , without having served a valid objection under Section 2025.410, fails to appear for examination, or to proceed with it, or to produce for inspection any document . . . described in the deposition notice, the party giving the notice may move for an order compelling the deponent's attendance and testimony, and the production for inspection of any document . . . described in the deposition notice."
+  - "A motion under subdivision (a) [above] shall comply with both of the following: ... 1. The motion shall set forth specific facts showing good cause justifying the production for inspection of any document, electronically stored information, or tangible thing described in the deposition notice. ... 2. The motion shall be accompanied by a meet and confer declaration under Section 2016.040, or, when the deponent fails to attend the deposition and produce the documents, electronically stored information, or things described in the deposition notice, by a declaration stating that the petitioner has contacted the deponent to inquire about the nonappearance."
+```
+
+And here is the English summary:
+
+The Judge's tentative ruling grants the motion to compel the deposition of Pedro Pizano, the Plaintiff, by Powerhouse Grading Inc., Caesar Alexander Lopez, and JDP Equipment Rental Inc., the Defendants. The Defendants have noticed the deposition seven times, but the Plaintiff has not worked with them to schedule a mutually beneficial time. The Plaintiff agreed to a deposition on July 24, 2023, but did not appear. The Judge finds that the Plaintiff has not acted in good faith and grants the motion. However, the Judge denies the request for monetary sanctions as procedurally defective. The Plaintiff is ordered to appear for deposition within 30 days.

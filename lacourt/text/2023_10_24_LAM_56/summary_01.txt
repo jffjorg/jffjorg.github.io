@@ -1,0 +1,102 @@
+Here is the YAML summary of the Tentative Ruling:
+
+```
+case_number: 20STCV19331
+plaintiff_names:
+  - Aidan Sciandra
+  - Boualiene Syprasert
+defendant_names:
+  - Chronicpractor Caregiver, Inc. dba Exhale Med Center
+  - Daniela Alexander
+  - Eric Loyola
+
+people_names:
+  - Aidan Sciandra
+  - Boualiene Syprasert
+  - Daniela Alexander
+  - Eric Loyola
+  - Jack Edjourian
+  - Holly J. Fujie
+
+company_names:
+  - Chronicpractor Caregiver, Inc.
+  - Exhale Med Center
+
+places:
+  - Los Angeles
+  - California
+
+dates:
+  - May 25, 2023
+  - June 23, 2023
+  - July 3, 2023
+  - July 12, 2023
+  - October 24, 2023
+
+events:
+  - Request for responses to supplemental special interrogatories
+  - Failure to respond to discovery
+  - Request for sanctions
+  - Hearing on motion to compel responses
+
+money:
+  - $1,710 (amount of sanctions)
+
+intentions:
+  - To compel defendants to provide verified responses to supplemental special interrogatories
+  - To impose sanctions for failure to respond to discovery
+
+facts:
+  - Plaintiffs served supplemental special interrogatories on defendants on May 25, 2023
+  - Responses were due on June 23, 2023
+  - Defendants never requested an extension or responded to the discovery
+  - Plaintiffs' counsel sent an email requesting responses on July 3, 2023
+  - Defendants served verified responses stating that their prior responses have not changed
+
+disputes:
+  - Breach of contract
+  - Breach of promissory note
+  - Breach of security agreement
+  - Breach of written contract by third-party beneficiary
+  - Specific performance
+  - Demand for accounting
+  - Unjust enrichment
+
+acts:
+  - Serving of supplemental special interrogatories
+  - Failure to respond to discovery
+  - Request for sanctions
+  - Serving of verified responses
+
+agreements:
+  - Equity purchase agreement
+  - Promissory note
+  - Security agreement
+  - Written contract
+
+laws:
+  - California Code of Civil Procedure (CCP) sections 2030.030, 2030.040, 2030.070, 2030.260, and 2030.290
+
+case_citations:
+  - Code Civ. Proc. § 2030.030
+  - Code Civ. Proc. § 2030.040
+  - Code Civ. Proc. § 2030.070
+  - Code Civ. Proc. § 2030.260
+  - Code Civ. Proc. § 2030.290
+
+statutes:
+  - California Code of Civil Procedure
+
+roles:
+  - Judge: Holly J. Fujie
+  - Plaintiffs: Aidan Sciandra, Boualiene Syprasert
+  - Defendants: Chronicpractor Caregiver, Inc. dba Exhale Med Center, Daniela Alexander, Eric Loyola
+
+significant_statements:
+  - "The request to compel the responses is moot. Nevertheless, the Court will impose monetary sanctions because Defendants waited until after the instant motion was filed to serve their responses."
+  - "The Motion to Compel is DENIED in part and GRANTED in part as follows. The request to compel Defendants' responses to Plaintiffs' supplemental interrogatories is DENIED. The request to impose monetary sanctions of $1,710 against Defendants is GRANTED."
+```
+
+Summary in English text:
+
+This is a tentative ruling by Judge Holly J. Fujie regarding a motion to compel responses to supplemental special interrogatories served on defendants by plaintiffs. The motion is denied in part and granted in part. The request to compel defendants' responses is denied as the request is moot since defendants have finally provided the discovery. However, the court grants the request to impose monetary sanctions of $1,710 against defendants for their failure to respond to discovery and for waiting until after the motion was filed to serve their responses.

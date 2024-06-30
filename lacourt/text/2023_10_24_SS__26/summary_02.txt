@@ -1,0 +1,68 @@
+Here is the summary in YAML format:
+
+```yaml
+Case Number: 19STLC08825
+Plaintiff's Name: Juan Jose Garcia
+Defendant's Name: Gizzelle Andrea Becerra, Beartha Deanda Becerra
+People-Names:
+  - Juan Jose Garcia
+  - Gizzelle Andrea Becerra
+  - Beartha Deanda Becerra
+Company-Names: None
+Places: California
+Dates:
+  - September 25, 2019
+  - February 6, 2020
+  - March 27, 2023
+  - September 19, 2023
+  - October 10, 2023
+  - October 24, 2023
+Events:
+  - Filing of complaint
+  - Filing of answer
+  - Continuation of trial date
+  - Failure to appear at trial
+  - Grant of motion to dismiss
+  - Filing of motion to vacate dismissal
+  - Filing of opposition
+Money: None
+Intentions:
+  - Plaintiff: To vacate dismissal
+  - Defendant: To uphold dismissal
+Facts:
+  - Plaintiff failed to appear at trial
+  - Court granted motion to dismiss
+  - Plaintiff filed motion to vacate dismissal
+  - Defendant filed opposition
+Disputes:
+  - Reasonableness of delay in filing motion
+  - Excusable neglect
+Acts:
+  - Filing of motion
+  - Filing of opposition
+  - Granting of motion to dismiss
+  - Denial of motion to vacate dismissal
+Agreements: None
+Laws:
+  - California Code of Civil Procedure, section 473, subdivision (b)
+  - English v. IKON Business Solutions (2001) 94 Cal.App.4th 130
+  - Caldwell v. Methodist Hospital (1994) 24 Cal.App.4th 1521
+  - Carrasco v. Craft (1985) 164 Cal.App.3d 796
+Case Citations:
+  - English v. IKON Business Solutions (2001) 94 Cal.App.4th 130
+  - Caldwell v. Methodist Hospital (1994) 24 Cal.App.4th 1521
+  - Carrasco v. Craft (1985) 164 Cal.App.3d 796
+Statutes:
+  - California Code of Civil Procedure, section 473, subdivision (b)
+Roles:
+  - Plaintiff: Juan Jose Garcia
+  - Defendant: Gizzelle Andrea Becerra, Beartha Deanda Becerra
+  - Judge: Presiding over the case
+Significant Statements:
+  - "What is a reasonable time in any case depends upon the circumstances of that particular case."
+  - "There must be some showing—some evidence—as the basis for the exercise of such discretion."
+```
+
+And here is a summary of the judge's tentative ruling in English text:
+
+The judge has tentatively ruled to deny Plaintiff Juan Jose Garcia's motion to vacate a dismissal in a motor vehicle negligence case. The plaintiff had failed to appear at trial and the court granted the defendants' motion to dismiss. The plaintiff later filed a motion to vacate the dismissal, citing illness as the reason for missing the trial. However, the court found that the motion was filed too late, almost six months after the dismissal was granted, and that there was no evidence to support the exercise of discretion to find that the motion was filed within a reasonable time.

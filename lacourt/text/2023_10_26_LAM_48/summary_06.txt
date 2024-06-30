@@ -1,0 +1,62 @@
+Here is the summary in YAML format:
+
+```
+case_number: "22STCV38658"
+plaintiff_names:
+  - Jaime Aguayo
+  - Giovani Tzul
+defendant_names:
+  - 839 S Carondelet Street LLC
+  - J.K. Residential Services Inc.
+people_names: []
+company_names:
+  - 839 S Carondelet Street LLC
+  - J.K. Residential Services Inc.
+places:
+  - Los Angeles
+  - California
+dates:
+  - December 12, 2022
+  - April 7, 2023
+  - October 26, 2023
+events:
+  - Motion to strike
+  - Filing of complaint
+money:
+  - Punitive damages
+  - Damages for uninhabitable living conditions
+intentions:
+  - To strike allegations relating to punitive damages
+  - To grant motion to strike
+facts:
+  - Plaintiffs suffered uninhabitable living conditions due to defendants' failure to maintain property
+  - Defects included cockroach and termite infestation, mold contamination, etc.
+  - Defendants knew about conditions but responded inconsistently or not at all
+  - Plaintiffs' complaint contains only conclusions, no facts about defendants' ratification
+disputes:
+  - Whether defendants acted with oppression or malice
+  - Whether plaintiffs are entitled to punitive damages
+acts:
+  - Failure to maintain property
+  - Inconsistent or non-response to complaints
+agreements:
+  - None mentioned
+laws:
+  - California Code of Civil Procedure, § 436
+  - California Civil Code, § 3294
+  - Grieves v. Superior Court (1984)
+  - Civ. Code, § 3294, subd. (b)
+stats:
+  - 30 days' leave to amend
+roles:
+  - Judge: Thomas D. Long
+  - Moving party: Defendants
+  - Parties: Plaintiffs and defendants
+significant_statements:
+  - "A plaintiff can recover punitive damages in tort cases where 'the defendant has been guilty of oppression, fraud, or malice.'"
+  - "The mere allegation an intentional tort was committed is not sufficient to warrant an award of punitive damages."
+```
+
+And here is the English text to summarize the judge's tentative ruling:
+
+The judge has tentatively granted the defendants' motion to strike allegations relating to punitive damages from the complaint. The defendants argued that the plaintiff's allegations of intentional tort and oppression or malice are insufficient to warrant an award of punitive damages. The judge agreed, finding that the complaint contains only conclusions, no facts, about the defendants' ratification of the alleged wrongful conduct. The judge also noted that the plaintiff's allegations of uninhabitable living conditions due to the defendants' failure to maintain the property are sufficient to support a claim for compensatory damages, but not punitive damages. The judge has given the plaintiff 30 days to amend the complaint to correct these issues.

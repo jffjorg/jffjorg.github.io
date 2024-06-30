@@ -1,0 +1,56 @@
+Here is the summary in YAML format:
+
+```
+case_number: 23VECV02789
+plaintiff_name: Fedex Corporate Services, Inc.
+defendant_name: James Coleman Studios, Inc.
+people_names:
+  - James Coleman
+company_names:
+  - Fedex Corporate Services, Inc.
+  - James Coleman Studios, Inc.
+places: null
+dates:
+  - September 12, 2023
+  - October 26, 2023
+events:
+  - Request for entry of default
+  - Hearing on default judgment
+money:
+  - Damages: $33,910.55
+  - Interest: $1,885.40
+  - Attorney Fees: $1,200.00
+  - Costs: $522.20
+  - Total: $37,518.23
+intentions: Continue hearing
+facts:
+  - Plaintiff filed a complaint against defendant
+  - Defendant defaulted
+disputes:
+  - Prejudgment interest rate
+acts:
+  - Plaintiff's CCP §585 Declaration is incomplete
+  - Interest exceeds 7%
+agreements: null
+laws:
+  - CCP §585
+  - CC 3289
+  - Cal. Const. Art. 15 § 1
+case_citations: null
+statutes:
+  - CCP §585
+  - CC 3289
+  - Cal. Const. Art. 15 § 1
+roles:
+  - Judge
+  - Plaintiff (Fedex Corporate Services, Inc.)
+  - Defendant (James Coleman Studios, Inc.)
+significant_statements:
+  - Plaintiff's CCP §585 Declaration is incomplete
+  - Interest exceeds 7%
+  - Judge intends to continue the hearing
+```
+
+And here is the English-text summary:
+
+The Judge's tentative ruling is to continue the hearing on the default judgment in the case of Fedex Corporate Services, Inc. v. James Coleman Studios, Inc. (Case No. 23VECV02789). The Plaintiff, Fedex Corporate Services, Inc., filed a complaint against the Defendant, James Coleman Studios, Inc., and the Defendant defaulted. The Judge notes that the Plaintiff's CCP §585 Declaration is incomplete, which may affect the calculation of prejudgment interest. The interest rate is also in excess of 7%, which is the default rate for non-contract cases. The Judge intends to continue the hearing to resolve these issues.

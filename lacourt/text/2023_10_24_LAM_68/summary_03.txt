@@ -1,0 +1,61 @@
+Here is the summary in YAML format:
+
+```
+case_number: 21STCV21301
+plaintiff_name: Mural Media, LLC 401K Plan
+defendant_name: Linda J. Maultsby
+people_names:
+  - Linda J. Maultsby
+  - Mural Media, LLC 401K Plan
+company_names:
+  - Mural Media, LLC
+places:
+  - California
+dates:
+  - September 9, 2023
+  - September 10, 2023
+  - September 14, 2023
+  - September 25, 2023
+  - October 24, 2023
+events:
+  - Unlawful detainer action
+  - Motion to quash service of summons
+  - Service of summons
+money:
+  - None
+intentions:
+  - Defendant seeks to quash service of summons
+  - Plaintiff seeks to deny motion to quash
+facts:
+  - Defendant claims she was improperly served by mailing and posting
+  - Plaintiff claims Defendant was served via substitute service
+  - Process server made three attempts to personally serve Defendant
+  - Defendant claims no one matching the description of the woman served by substitute service lives at her address
+disputes:
+  - Defendant disputes service of summons
+acts:
+  - Defendant filed a motion to quash service of summons
+  - Plaintiff filed a proof of service of summons
+  - Process server served Defendant via substitute service
+agreements:
+  - None
+laws:
+  - California Code of Civil Procedure (CCP) § 415.20(b)
+  - California Code of Civil Procedure (CCP) § 418.10
+  - Evidence Code § 647
+  - Kremerman v. White (2021) 71 Cal.App.5th 358, 373
+statutes:
+  - California Code of Civil Procedure (CCP)
+  - Evidence Code
+roles:
+  - Judge
+  - Plaintiff (Mural Media, LLC 401K Plan)
+  - Defendant (Linda J. Maultsby)
+significant_statements:
+  - Defendant has not sufficiently rebutted the presumption of the facts contained in the proof of service.
+  - The Court denies Defendant's motion to quash service of summons.
+```
+
+And here is a summary of the judge's tentative ruling in English text:
+
+The judge has denied the defendant's motion to quash service of summons. The defendant, Linda J. Maultsby, claims she was improperly served by mailing and posting a copy of the summons and complaint. However, the plaintiff, Mural Media, LLC 401K Plan, claims that Maultsby was served via substitute service on September 10, 2023, after three attempts at personal service. The proof of service filed by the plaintiff indicates that the process server left a copy of the summons and complaint at Maultsby's dwelling house with a competent member of the household, and mailed a copy of the summons and complaint to Maultsby's residence on September 14, 2023. The judge found that the process server made a reasonable number of attempts at personal service and that the proof of service is prima facie evidence of the completion of service on Maultsby. The defendant's evidence, which consisted of an assertion that no one matching the description of the woman served by substitute service lives with her, was insufficient to rebut the presumption of the facts contained in the proof of service. Therefore, the judge denied the defendant's motion to quash service of summons and ordered Maultsby to file a responsive pleading within 5 days of service of notice of the order.

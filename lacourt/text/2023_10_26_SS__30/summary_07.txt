@@ -1,0 +1,65 @@
+Here is the summary in YAML format:
+
+```
+case_number: 22STCV27015
+hearing_date: October 26, 2023
+department: 30
+plaintiff: KAYANE JOHN ROTH
+defendant: KEVIN PATRICK FUTVOY
+people:
+  - KAYANE JOHN ROTH
+  - KEVIN PATRICK FUTVOY
+  - JOHN KS AJIKIAN
+companies:
+  - none
+places:
+  - none
+dates:
+  - February 23, 2023
+  - April 14, 2023
+events:
+  - Service of discovery requests
+  - Failure to respond
+  - Motions to compel
+  - Request for admissions
+  - Sanctions
+money:
+  - $910.00
+intentions:
+  - To compel responses to discovery requests
+  - To deem request for admissions admitted
+  - To award sanctions
+facts:
+  - Plaintiff served discovery requests on February 23, 2023
+  - Final due date for discovery requests was April 14, 2023
+  - No responses received
+  - Defendant waived right to object
+disputes:
+  - Failure to respond to discovery requests
+acts:
+  - Service of discovery requests
+  - Failure to respond
+  - Request for admissions
+  - Motions to compel
+agreements:
+  - None
+laws:
+  - California Code of Civil Procedure
+  - Code Civ. Proc., §§ 2030.290, subd. (a); 2033.280, subd. (a)
+case_citations:
+  - None
+statutes:
+  - California Code of Civil Procedure
+roles:
+  - Plaintiff: KAYANE JOHN ROTH
+  - Defendant: KEVIN PATRICK FUTVOY
+  - Judge: (unspecified)
+significant_statements:
+  - "The motions to compel responses to Form Interrogatories (Set One) and Special Interrogatories (Set One) are GRANTED."
+  - "The Motion to Deem Request for Admissions Admitted is GRANTED."
+  - "The Court awards sanctions against Defendant in the amount of $910.00, payable to Plaintiff within 30 days."
+```
+
+And here is the English summary:
+
+The judge has issued a tentative ruling on the motions filed by plaintiff KAYANE JOHN ROTH against defendant KEVIN PATRICK FUTVOY. The motions include a request to compel defendant to respond to Form Interrogatories (Set One) and Special Interrogatories (Set One), as well as a request to deem plaintiff's Request for Admissions (Set One) admitted. The judge has granted all three motions. The defendant is ordered to serve verified responses to the discovery requests within 20 days of notice of the ruling. The judge has also deemed the truth of the matters specified in plaintiff's Requests for Admission (Set One) admitted. The judge has denied plaintiff's request for sanctions related to the interrogatories, but has awarded sanctions against the defendant in the amount of $910.00, payable to the plaintiff within 30 days.

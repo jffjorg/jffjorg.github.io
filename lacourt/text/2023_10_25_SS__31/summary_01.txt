@@ -1,0 +1,55 @@
+Here is the summary in YAML format:
+
+```
+case_number: 20STCV04874
+plaintiff_names:
+  - Evan Solanki
+  - Wendy Kadi
+defendant_names:
+  - Kathy Mitsuye Kozai
+  - Gerald Kozai
+people_names:
+  - Evan Solanki
+  - Wendy Kadi
+  - Kathy Mitsuye Kozai
+  - Gerald Kozai
+company_names: []
+places:
+  - Los Angeles County
+  - California
+dates:
+  - October 10, 2022
+  - September 20, 2022
+  - October 25, 2023
+events:
+  - Automobile collision
+  - Informal Discovery Conference (IDC)
+  - Motion to Compel Further Responses
+money: []
+intentions:
+  - Compel further responses to supplemental interrogatories and requests for production of documents
+facts:
+  - Plaintiffs filed an action against defendants for damages arising from an automobile collision
+  - Defendant Kathy Mitsuye Kozai moves the Court for an order compelling Plaintiff Wendy Kadi to provide further responses
+  - Parties did not participate in an IDC prior to the motion being heard
+disputes:
+  - Failure to schedule and complete an IDC
+acts:
+  - Filed a motion to compel further responses
+  - Did not participate in an IDC
+agreements:
+  - Eight Amended Standing Order for Procedures in the Personal Injury Hub Courts
+laws:
+  - California court procedures
+case_citations: []
+statutes: []
+roles:
+  - Judge: Hon. Michelle C. Kim
+significant_statements:
+  - "The purpose of an IDC is to avoid the necessity of a motion to compel, or to at least reduce its scope."
+  - "Parties are encouraged to stipulate to extend the deadline for filing a motion to compel further by 60 days to allow time to participate in an IDC and to informally resolve pending discovery issues."
+```
+
+And here is the English-text summary:
+
+The Judge's tentative ruling is regarding a motion to compel further responses filed by Defendant Kathy Mitsuye Kozai against Plaintiff Wendy Kadi. The case involves a lawsuit filed by Plaintiffs Evan Solanki and Wendy Kadi against Defendants Kathy Mitsuye Kozai and Gerald Kozai for damages arising from an automobile collision. The Judge notes that the parties did not participate in an Informal Discovery Conference (IDC) prior to the motion being heard, and therefore the motion is premature and must be continued to a new date. The parties are ordered to participate in an IDC as required by the Court's Standing Order Re: PI Court Procedures. The Judge encourages the parties to meet and confer to resolve outstanding issues and submit a joint statement of items in dispute if necessary.
