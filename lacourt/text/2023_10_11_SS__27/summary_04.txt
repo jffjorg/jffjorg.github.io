@@ -1,0 +1,71 @@
+Here is the summary in YAML format:
+
+```
+case_number: 22STCV28461
+plaintiff: Marili Arellano, et al.
+defendant: Demetrius Watson
+people:
+  - Marili Arellano
+  - Esther Granados
+  - Demetrius Watson
+companies:
+  - Bank of America
+places:
+  - Long Beach, California
+dates:
+  - October 11, 2023
+  - November 1, 2023
+  - December 11, 2023
+events:
+  - Hearing
+  - OSC Re: Proof of Deposit (minor –Esther Granados)
+  - OSC Re: Dismissal (Settlement)
+money:
+  - $12,500 (settlement amount)
+  - $54.24 (medical expenses)
+  - $3,125 (attorney's fees)
+  - $257 (other expenses)
+  - $9,063.76 (settlement balance)
+intentions:
+  - To approve the minor's compromise
+facts:
+  - Claimant Esther Granados has agreed to settle her claims against Defendant Demetrius Watson
+  - The settlement balance is fair and reasonable
+  - The request for attorney's fees is reasonable
+  - Medical expenses and other expenses are supported by documentation
+disputes:
+  - None (the petition is unopposed)
+acts:
+  - The Court has reviewed the petition and finds it satisfactory
+  - The Court grants the petition
+  - The OSC Re: Proof of Deposit (minor –Esther Granados) is set for December 11, 2023
+  - The OSC Re: Dismissal (Settlement) is continued to December 11, 2023
+agreements:
+  - The parties have agreed to settle the claims
+  - The settlement balance will be deposited at Bank of America
+laws:
+  - Probate Code §§ 3500, 3600, et seq.
+  - Code Civ. Proc. § 372
+  - Cal. Rules of Court, rule 7.950
+  - Cal. Rules of Court, Rule 7.953, subd. (a)
+case_citations:
+  - Probate Code
+  - Code Civ. Proc.
+  - Cal. Rules of Court
+statutes:
+  - Probate Code §§ 3500, 3600, et seq.
+  - Code Civ. Proc. § 372
+roles:
+  - Judge: Kerry Bensinger
+  - Petitioner: Marili Arellano
+  - Claimant: Esther Granados
+  - Defendant: Demetrius Watson
+significant_statements:
+  - The Court finds the settlement balance is fair and reasonable
+  - The request for attorney's fees is reasonable
+  - Medical expenses and other expenses are supported by documentation
+```
+
+And here is a summary of the judge's tentative ruling in English text:
+
+The judge has reviewed the petition to approve the minor's compromise and finds it satisfactory. The petition was filed by Marili Arellano, the parent and guardian ad litem of Esther Granados, a minor, who has agreed to settle her claims against Demetrius Watson in exchange for $12,500. The Court grants the petition and sets an OSC Re: Proof of Deposit (minor –Esther Granados) for December 11, 2023. The OSC Re: Dismissal (Settlement) scheduled for November 1, 2023 is continued to December 11, 2023. The Court finds the settlement balance is fair and reasonable, and the request for attorney's fees is reasonable. Medical expenses and other expenses are supported by documentation.

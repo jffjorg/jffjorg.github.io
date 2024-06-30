@@ -1,0 +1,59 @@
+Here is a summary of the judge's tentative ruling in YAML format:
+
+```
+case_number: 22STCV01605
+plaintiff: Elisa Ortego
+defendant: Magic Laundry Services, Inc.
+people_names:
+  - Elisa Ortego
+  - Crystal Portillo
+  - Gallegos
+company_names:
+  - Magic Laundry Services, Inc.
+  - American Arbitration Association (AAA)
+places:
+  - California
+dates:
+  - January 13, 2022
+  - September 28, 2023
+  - October 23, 2023
+events:
+  - Motion to compel arbitration
+  - Arbitration agreement signing
+money: None mentioned
+intentions:
+  - Compel arbitration
+  - Stay pending arbitration
+facts:
+  - Elisa Ortego filed a complaint alleging PAGA claim
+  - Defendant Magic Laundry Services, Inc. filed a motion to compel arbitration
+  - Arbitration agreement was signed on January 7, 2019
+  - Defendant submitted evidence of training and notification to employees
+disputes:
+  - Existence of arbitration agreement
+  - Scope of arbitration agreement
+  - Delegation of arbitrability to arbitrator
+  - Unconscionability of arbitration agreement
+acts:
+  - Signing of arbitration agreement
+  - Filing of motion to compel arbitration
+  - Filing of opposition to motion
+  - Ruling on evidentiary issues
+laws:
+  - California Code of Civil Procedure, section 1281.2
+  - Federal Arbitration Act (9 U.S.C. §§ 1, et seq.)
+statutes:
+  - California Labor Code
+roles:
+  - Judge
+  - Plaintiff (Elisa Ortego)
+  - Defendant (Magic Laundry Services, Inc.)
+significant_statements:
+  - The Court grants Defendant's motion to compel arbitration.
+  - The arbitrator will decide whether the individual portion of Plaintiff's PAGA claim falls within the scope of the Agreement.
+  - The remaining representative PAGA claims are stayed pending the resolution of this arbitration.
+```
+
+And here is a brief English-text summary of the judge's tentative ruling:
+
+The judge grants Defendant Magic Laundry Services, Inc.'s motion to compel arbitration, requiring the arbitrator to decide whether Elisa Ortego's individual PAGA claim falls within the scope of the arbitration agreement. The remaining representative PAGA claims are stayed pending the outcome of the arbitration. The judge also rules on various evidentiary issues and finds that the arbitration agreement is enforceable and not unconscionable.

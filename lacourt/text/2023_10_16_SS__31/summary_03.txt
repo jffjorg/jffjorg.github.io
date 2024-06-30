@@ -1,0 +1,72 @@
+Here is the summary in YAML format:
+
+```
+Case Number: 21STCV09586
+Plaintiff's Name: Paul Martin
+Defendant's Name: Smart & Final Stores, LLC, et al.
+People-Names:
+  - Trimel Drain
+  - Joshua Hodel
+  - Barry's Security Services, Inc.
+Company-Names:
+  - Smart & Final Stores, LLC
+  - Barry's Security Services, Inc.
+Places:
+  - 604 Lincoln Blvd, Venice, California
+  - Smart & Final store No. 332
+  - Los Angeles County
+  - California
+Dates:
+  - March 6, 2020
+  - September 1, 2014
+  - September 1, 2015
+  - October 16, 2023
+Events:
+  - Assault by Joshua Hodel on Paul Martin
+  - Incident outside Smart & Final store
+  - Security guard Trimel Drain's failure to report suspicious activity to management
+Money:
+  - Indemnification
+  - Contribution
+Intention:
+  - To determine the liability of Smart & Final Stores, LLC and Barry's Security Services, Inc. in the assault of Paul Martin
+Facts:
+  - Paul Martin was assaulted by Joshua Hodel outside a Smart & Final store
+  - Paul Martin informed Smart & Final's security guard Trimel Drain about the suspicious activity
+  - Trimel Drain did not report the suspicious activity to management
+Disputes:
+  - Whether Barry's Security Services, Inc. has a duty to protect Paul Martin from harm
+  - Whether Smart & Final Stores, LLC is liable for the conduct of Joshua Hodel
+Acts:
+  - Smart & Final Stores, LLC contracted with Barry's Security Services, Inc. for security services
+  - Barry's Security Services, Inc. failed to report suspicious activity to management
+  - Joshua Hodel assaulted Paul Martin
+Laws:
+  - California Civil Code Section 437c
+  - California Code of Civil Procedure Section 875
+  - Rowland v. Christian (1968) 69 Cal.2d 108
+  - Isaacs v. Huntington Memorial Hosp. (1985) 38 Cal.3d 112
+  - Delgado v. Trax Bar & Grill (2005) 36 Cal.4th 224
+  - Ann M. v. Pacific Plaza Shopping Ctr. (1993) 6 Cal.4th 666
+Case Citations:
+  - Code Civ. Proc. §437c
+  - Code Civ. Proc. §875
+  - Rowland v. Christian (1968) 69 Cal.2d 108
+  - Isaacs v. Huntington Memorial Hosp. (1985) 38 Cal.3d 112
+  - Delgado v. Trax Bar & Grill (2005) 36 Cal.4th 224
+  - Ann M. v. Pacific Plaza Shopping Ctr. (1993) 6 Cal.4th 666
+Statutes:
+  - California Civil Code Section 437c
+  - California Code of Civil Procedure Section 875
+Roles:
+  - Judge: Hon. Michelle C. Kim
+  - Plaintiff: Paul Martin
+  - Defendant: Smart & Final Stores, LLC, et al.
+  - Cross-Defendant: Barry's Security Services, Inc.
+Significant Statements:
+  - The Court grants BSSI's motion for summary judgment or adjudication as to the first cause of action for express indemnity.
+  - The Court denies BSSI's motion for summary judgment or adjudication as to the second, third, and fourth causes of action.
+  - The Court finds that there are issues of material fact as to whether BSSI's employee complied with its contractual duties by not reporting Plaintiff's complaint to management, whether BSSI's employee had any foreseeable knowledge of Hodel's actions, and whether BSSI's acts or omissions caused or contributed to Plaintiff's injuries.
+```
+
+Note that some of the information, such as the dates and events, are not explicitly stated in the YAML format. If you need to include these details in the YAML file, you can add additional fields or modify the existing fields to accommodate the information.

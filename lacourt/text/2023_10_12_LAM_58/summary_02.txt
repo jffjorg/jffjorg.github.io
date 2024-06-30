@@ -1,0 +1,73 @@
+Here is a summary of the tentative ruling in YAML format:
+
+```
+case_number: 21STCV26927
+plaintiff_name: Corine Cano
+defendant_name: General Motors, LLC
+people_names:
+  - Corine Cano
+  - Michael Chevrolet
+  - Advantage Auto Sales, Inc.
+companies:
+  - General Motors, LLC
+  - Enterprise Family
+  - National Car Rental
+  - EAN Holdings LLC
+places:
+  - California
+  - Advantage Auto Sales, Inc.
+dates:
+  - August 20, 2020
+  - July 24, 2019
+  - July 22, 2021
+  - May 8, 2023
+  - October 12, 2023
+events:
+  - Vehicle purchase
+  - Vehicle repair
+  - New car warranty
+  - Fleet Purchase Risk Program
+  - Pre-delivery inspection
+money:
+  - None mentioned
+intentions:
+  - Plaintiff: to prove breach of express and implied warranties
+  - Defendant: to prove that the vehicle was used and not new
+facts:
+  - Plaintiff purchased a used 2020 Chevrolet Malibu
+  - Defendant GM is not responsible for the vehicle's condition
+  - Plaintiff did not receive a new manufacturer's warranty when purchasing the vehicle
+disputes:
+  - Plaintiff disputes that the vehicle was used and not new
+  - Defendant disputes that the vehicle was purchased with a new manufacturer's warranty
+acts:
+  - Plaintiff purchased the vehicle from Advantage Auto Sales, Inc.
+  - Defendant GM did not issue a new car warranty when the vehicle was purchased
+agreements:
+  - None mentioned
+laws:
+  - Song-Beverly Act
+  - California Civil Code sections 1792 and 1793
+  - Code of Civil Procedure section 437c
+case_citations:
+  - Rodriguez v. FCA US, LLC (2022) 77 Cal.App.5th 209
+  - Jensen v. BMW of North America, Inc. (1995) 35 Cal.App.4th 112
+  - Donlen v. Ford Motor Co. (2013) 217 Cal.App.4th 138
+  - Kiluk v. Mercedes-Benz USA, LLC (2019) 43 Cal.App.5th 334
+  - Dagher v. Ford Motor Co. (2015) 238 Cal.App.4th 905
+  - Brand v. Hyundai Motor Am. (2014) 226 Cal.App.4th 1538
+  - American Suzuki Motor Corp. v. Superior Court (1995) 37 Cal.App.4th 1291
+roles:
+  - Judge: presiding over the case
+  - Plaintiff: Corine Cano
+  - Defendant: General Motors, LLC
+significant_statements:
+  - The Court grants Defendant's motion for summary judgment.
+  - The Court denies Plaintiff's request for continuance.
+  - The Court denies Plaintiff's request for leave to amend.
+  - The Court denies Plaintiff's request for a stay.
+```
+
+Summary:
+
+The tentative ruling grants Defendant General Motors, LLC's motion for summary judgment, dismissing Plaintiff Corine Cano's claims for breach of express and implied warranties under the Song-Beverly Act. The Court finds that the vehicle was used, not new, and that Plaintiff did not receive a new manufacturer's warranty when purchasing the vehicle. The Court also denies Plaintiff's requests for continuance, leave to amend, and stay.

@@ -1,0 +1,48 @@
+Here is the summary in YAML format:
+```
+case_number: unknown
+plaintiff_name: unknown
+defendant_name: unknown
+people_names:
+  - Plaintiff
+  - Defendant
+company_names:
+  - unknown
+places:
+  - unknown
+dates:
+  - August 1, 2021
+  - August 17, 2021
+events:
+  - Execution of an agreement
+  - Allegation of causes of action
+money: unknown
+intentions: unknown
+facts:
+  - Discrepancy in date of agreement execution
+  - Allegations in complaint
+  - Facts in exhibits
+disputes:
+  - Alter ego and damage as separate causes of action
+acts:
+  - Execution of agreement
+  - Filing of complaint
+agreements:
+  - Agreement (date of execution disputed)
+laws:
+  - California Civil Procedure ( Moran v. Prime Healthcare Mgmt., Inc.)
+  - unknown
+case_citations:
+  - Moran v. Prime Healthcare Mgmt., Inc. (2016) 3 Cal. App. 5th 1131
+statutes: unknown
+roles:
+  - Judge
+  - Plaintiff
+  - Defendant
+significant_statements:
+  - "The first three causes of action are the only causes of action alleged in the Complaint."
+  - "The ‘facts appearing in exhibits attached to the complaint will also be accepted as true and, if contrary to the allegations in the pleading, will be given precedence.’"
+```
+And here is a summary of the judge's tentative ruling in English text:
+
+The judge is considering a tentative ruling on a case. The plaintiff has filed a complaint with several causes of action, but the judge notes that the caption page appears to include a fourth cause of action for alter ego and a fifth cause of action for damage, which are not explicitly stated in the body of the complaint. The judge also points out a discrepancy in the date of execution of an agreement, which is stated as August 1, 2021 in the exhibit, but August 17, 2021 in the complaint. However, the judge rules that this discrepancy does not constitute failure to state a cause of action. The judge cites a California court case, Moran v. Prime Healthcare Mgmt., Inc., to support the conclusion that the facts in exhibits will be accepted as true and may take precedence over the allegations in the pleading. The judge's tentative ruling does not address the merits of the case, but rather focuses on procedural issues.

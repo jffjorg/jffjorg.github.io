@@ -1,0 +1,54 @@
+Here is the summary in YAML format:
+
+```
+case_number: BC723513
+plaintiff: Second Site, LLC
+defendant: Paul Scott, et al., Los Angeles Wellness Center
+people:
+  - Mr. Alireza Shekarchian
+companies:
+  - Second Site, LLC
+  - Los Angeles Wellness Center
+places:
+  - Los Angeles
+dates:
+  - August 15, 2023
+  - July 17, 2023
+  - October 13, 2023
+events:
+  - Deposition
+  - Motion to compel further answers
+  - Motion for reconsideration
+money:
+  - $2,000.00 (sanctions)
+intentions:
+  - Defendant seeks to reconsider the Court's prior ruling
+facts:
+  - Defendant's PMQ was unable to answer several deposition questions
+  - Defendant claims irregular service of the motion to compel further answers
+  - Defendant claims failure to meet and confer prior to the motion to compel
+disputes:
+  - Defendant's motion for reconsideration
+acts:
+  - Defendant filed a motion for reconsideration
+agreements:
+  - CCP § 1008(a)
+  - CCP § 2025.450(j)
+laws:
+  - CCP § 1008(a)
+  - CCP § 2025.450(j)
+case_citations: []
+statutes:
+  - CCP § 1008(a)
+  - CCP § 2025.450(j)
+roles:
+  - Judge
+  - Plaintiff
+  - Defendant
+significant_statements:
+  - "The Court denies Defendant's motion for reconsideration."
+```
+
+And here is the English-text summary:
+
+This is a tentative ruling by the Judge on a motion for reconsideration filed by the Defendant, Los Angeles Wellness Center, in the case of Second Site, LLC vs. Paul Scott, et al., BC723513. The Defendant seeks to reconsider the Court's prior ruling granting the Plaintiff's motion to compel further answers to deposition questions. The Defendant argues that it did not have an opportunity to oppose the motion to compel because it was not served with the motion and that there was a failure to meet and confer prior to the motion being filed. The Plaintiff argues that the service was proper and that the failure to meet and confer is immaterial to the Court's analysis. The Court finds that the Defendant has not presented new facts, law, or circumstances to support its motion for reconsideration and that the prior ruling stands. The motion for reconsideration is denied and no new sanctions will be awarded.

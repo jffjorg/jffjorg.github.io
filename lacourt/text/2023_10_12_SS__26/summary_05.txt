@@ -1,0 +1,70 @@
+Here is the summary in YAML format:
+
+```
+case_number: 23STLC00901
+plaintiff: State Farm Mutual Automobile Insurance Company
+defendant: PV Holding Corporation, et al
+people_names:
+  - State Farm Mutual Automobile Insurance Company
+  - PV Holding Corporation
+  - Stone (likely a lawyer's name)
+company_names:
+  - State Farm
+  - PV Holding Corporation
+places:
+  - California (implied, but not explicitly stated)
+dates:
+  - May 18, 2023
+  - August 9, 2023
+  - October 12, 2023
+events:
+  - Serving of Form Interrogatories, Set One
+  - Serving of Request for Production of Documents, Set One
+  - Meet and confer effort
+  - Filing of motions to compel
+  - Failure to timely respond to discovery requests
+money:
+  - $493.30 (amount of sanctions awarded)
+  - $185.00 per hour (attorney's billing rate)
+  - $61.65 (filing fees)
+intentions:
+  - To compel responses to discovery requests
+  - To impose sanctions for failure to timely respond
+facts:
+  - Defendant PV Holding Corporation served discovery requests on May 18, 2023
+  - Plaintiff State Farm Mutual Automobile Insurance Company failed to timely respond
+  - Defendant PV Holding Corporation filed motions to compel on August 9, 2023
+disputes:
+  - Failure to timely respond to discovery requests
+  - Amount of sanctions sought
+acts:
+  - Serving of discovery requests
+  - Failure to timely respond to discovery requests
+  - Filing of motions to compel
+  - Awarding of sanctions
+agreements:
+  - None explicitly stated
+laws:
+  - Code of Civil Procedure (CCP) sections 2030.290, 2031.300, 2023.030
+  - CCP section 2023.010, subdivision (d)
+case_citations:
+  - Code Civ. Proc., § 2031.300
+  - Code Civ. Proc., § 2023.010, subdivision (d)
+  - Code Civ. Proc., § 2023.030
+statutes:
+  - CCP sections 2030.290, 2031.300, 2023.030
+  - CCP section 2023.010
+roles:
+  - Judge
+  - Plaintiff (State Farm)
+  - Defendant (PV Holding Corporation)
+  - Lawyer (Stone)
+significant_statements:
+  - Defendant PV Holding Corporation's motion to compel is granted
+  - Plaintiff State Farm Mutual Automobile Insurance Company is ordered to serve verified responses to discovery requests within 20 days
+  - Plaintiff and counsel are jointly and severally ordered to pay sanctions of $493.30 within 20 days
+```
+
+And here is a summary of the judge's tentative ruling in English text:
+
+The judge has granted the motions to compel filed by Defendant PV Holding Corporation, requiring Plaintiff State Farm Mutual Automobile Insurance Company to serve verified responses to discovery requests without objections within 20 days. The judge has also ordered Plaintiff and counsel to pay sanctions of $493.30 to Plaintiff's counsel within 20 days. The motions were filed after Defendant PV Holding Corporation served discovery requests on May 18, 2023, and Plaintiff failed to timely respond. The judge found that Plaintiff's failure to respond constituted a misuse of the discovery process and that sanctions are appropriate under the California Code of Civil Procedure.

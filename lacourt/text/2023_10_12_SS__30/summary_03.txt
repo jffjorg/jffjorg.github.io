@@ -1,0 +1,54 @@
+Here is the summary in YAML format:
+
+```
+Case Number: 20STCV32790
+Plaintiff's Name: SHANE ANTLEY, et al.
+Defendant's Name: ROBERT OLIE, et al.
+People-Names:
+  - SHANE ANTLEY
+  - ROBERT OLIE
+  - FLORENCE OLIE
+Company-Names:
+Places:
+  - California
+Dates:
+  - October 12, 2023
+  - October 18, 2023
+  - October 23, 2023
+Events:
+  - Motion to be Relieved as Counsel
+  - Final Status Conference
+  - Trial
+Money:
+Intentions:
+  - Counsel seeks to be relieved as counsel for Defendants
+Facts:
+  - Counsel has filed necessary documents (MC-051, MC-052, MC-053)
+  - Counsel has a compelling reason to withdraw (breakdown of attorney-client relationship)
+  - Defendants will be prejudiced if Counsel's motion is granted
+Disputes:
+  - Client-attorney relationship breakdown
+Acts:
+  - Counsel has served Defendants by mail
+  - Counsel has filed notices and motions
+  - Counsel seeks to withdraw as counsel
+Agreements:
+  - California Rules of Court, rule 3.1362
+Laws:
+  - California Rules of Court, rule 3.1362, subdivisions (a), (c), and (e)
+Case Citations:
+  - (Garcia Decl., ¶ 2)
+  - (Garcia Decl., ¶ 3(b)(1)(d))
+Statutes:
+Roles:
+  - Judge
+  - Counsel
+  - Defendants
+Significant Statements:
+  - "The Court is satisfied that Counsel has a compelling reason to withdraw..."
+  - "However, Defendants will be prejudiced if Counsel's motion is granted."
+```
+
+And here is the English-text summary:
+
+The tentative ruling denies the motions of Counsel to be relieved as counsel for Defendants Robert Olie and Florence Olie. The Court has already denied previous motions due to the clients being unduly prejudiced, and nothing has changed. Counsel has filed the necessary documents and has a compelling reason to withdraw due to the breakdown of the attorney-client relationship. However, granting the motion would prejudice the defendants, who will not have sufficient time to engage new counsel before the final status conference and trial.

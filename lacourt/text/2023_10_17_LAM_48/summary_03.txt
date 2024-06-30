@@ -1,0 +1,67 @@
+Here is the summary in YAML format:
+
+```
+case_number: 23STCV14445
+plaintiff_name: William S Jameson Jr
+defendant_names:
+  - Lucia Lopez
+  - Yoel Lopez
+people_names: William S Jameson Jr, Lucia Lopez, Yoel Lopez
+company_names: null
+places: Los Angeles, California
+dates:
+  - June 21, 2023
+  - September 14, 2023
+  - July 31, 2023
+  - October 17, 2023
+events:
+  - Filing of lawsuit
+  - Service of discovery requests
+  - Failure to respond to discovery requests
+  - Motion to compel discovery
+  - Motion to deem requests for admissions admitted
+  - Request for monetary sanctions
+money:
+  - $1,161.50
+  - $3,484.50
+  - $1,710.00
+intentions:
+  - To compel discovery responses
+  - To deem requests for admissions admitted
+  - To impose monetary sanctions
+facts:
+  - Plaintiff served discovery requests on July 31, 2023
+  - Defendants failed to respond to discovery requests
+  - Plaintiff filed motions to compel discovery and deem requests for admissions admitted
+disputes:
+  - Failure to respond to discovery requests
+  - Failure to serve timely responses to discovery requests
+acts:
+  - Service of discovery requests
+  - Failure to respond to discovery requests
+  - Filing of motions
+agreements:
+  - Code of Civil Procedure, sections 2030.290, 2031.300, 2033.280
+laws:
+  - Code of Civil Procedure
+citations:
+  - Healthcare Consulting, Inc. v. Pacific Healthcare Consultants (2007) 148 Cal.App.4th 390, 403
+statutes:
+  - Code of Civil Procedure, sections 2030.290, 2031.300, 2033.280
+roles:
+  - Judge: Hon. Thomas D. Long
+  - Plaintiff: William S Jameson Jr
+  - Defendant: Lucia Lopez, Yoel Lopez
+significant_statements:
+  - The court may make an order compelling responses to discovery requests if a party fails to serve timely responses.
+  - A party that fails to serve timely responses waives any objections to the request.
+  - The court shall grant a motion to deem admitted requests for admissions, unless it finds that the party to whom the requests have been directed has served a substantially compliant response.
+```
+
+And here is the English text summarizing the judge's tentative ruling:
+
+The judge has granted the plaintiff's motions to compel discovery responses from the defendants, Lucia Lopez and Yoel Lopez. The defendants failed to respond to the plaintiff's discovery requests, which were served on July 31, 2023. The judge has ordered each defendant to serve verified responses, without objection, to the plaintiff's Form Interrogatories and Demands For Production of Documents within 30 days.
+
+The judge has also granted the plaintiff's motions to deem requests for admissions admitted against the defendants. The defendants failed to respond to the plaintiff's requests for admissions, which were served on July 31, 2023. The judge has ordered that the genuineness of any documents and the truth of any matters specified in the requests be deemed admitted.
+
+Additionally, the judge has granted the plaintiff's requests for monetary sanctions against each defendant. The plaintiff has requested $1,161.50 in monetary sanctions against each defendant, for a total of $3,484.50. The judge has found that a reasonable total sanction against each defendant is $1,710.00, and has ordered each defendant to pay this amount to the plaintiff within 30 days.

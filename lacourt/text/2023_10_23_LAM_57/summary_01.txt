@@ -1,0 +1,74 @@
+Here is the summary in YAML format:
+
+```
+case_number: 21STCV09876
+hearing_date: 2023-10-23
+dept: 57
+
+people:
+  - Hicham Zerhouni (Defendant)
+  - Richard Knapp
+  - unknown (Plaintiff, State Farm Mutual Automobile Insurance Company)
+
+companies:
+  - State Farm Mutual Automobile Insurance Company (Plaintiff)
+
+places:
+  - unknown (Court location)
+
+dates:
+  - 2023-10-18 (start of jury trial)
+  - 2023-10-31 (end of jury trial)
+
+events:
+  - Pre-trial hearing request
+  - Bench trial
+  - Jury trial
+
+money:
+  - unknown
+
+intentions:
+  - Defendant requests pre-trial hearing
+  - Court to evaluate objections to testimony
+  - Court to consider limiting testimony
+
+facts:
+  - Richard Knapp provided opinion for State Farm
+  - Opinion is central to State Farm's declaratory relief action
+
+disputes:
+  - Defendant requests limits on Knapp's testimony
+  - Defendant requests deviation from usual order of presentation
+
+acts:
+  - Court denies pre-trial hearing request
+  - Court will evaluate objections during bench trial
+  - Court will consider limiting testimony
+
+agreements:
+  - None mentioned
+
+laws:
+  - Evidence Code Sections 402 and 802
+  - Evidence Code Section 320
+
+case_citations:
+  - None mentioned
+
+statutes:
+  - None mentioned
+
+roles:
+  - Judge
+  - Plaintiff (State Farm Mutual Automobile Insurance Company)
+  - Defendant (Hicham Zerhouni)
+
+significant_statements:
+  - "The Court is denying Defendant Hicham Zerhouni's request..."
+  - "The Court will be unable to start the bench trial in State Farm v. Zerhouni as scheduled on October 23."
+```
+
+And here is the English text summary:
+
+The Judge has issued a tentative ruling regarding a future Court Hearing in the case of State Farm Mutual Automobile Insurance Company (Plaintiff) against Hicham Zerhouni (Defendant). The Defendant had requested a pre-trial hearing to assess whether limits should be placed on the testimony of Richard Knapp, who provided an opinion for the Plaintiff that is central to their declaratory relief action. The Court has denied this request, finding that the Defendant has not provided a sufficient basis for the hearing. The Court will instead evaluate any objections to Knapp's testimony during the bench trial and limit the range of his testimony as necessary. Additionally, the Court will not deviate from the usual order of presentation of evidence at trial, and will not direct the Defendant to testify prior to Knapp. The Court has also informed the parties that it will be unable to start the bench trial as scheduled on October 23 due to its current engagement in a jury trial, and will instead have the parties appear on October 23 to discuss resetting the start of the bench trial.

@@ -1,0 +1,63 @@
+Here is the summary in YAML format:
+
+```
+case_number: 22PSCV01006
+plaintiff_names:
+  - PEDRO SORIA
+  - ANDRES SORIA
+defendant_name: FORD MOTOR COMPANY
+people_names: PEDRO SORIA, ANDRES SORIA
+company_names: FORD MOTOR COMPANY
+places: 
+dates:
+  - September 7, 2022
+  - February 14, 2023
+  - March 29, 2023
+  - June 2, 2023
+  - October 24, 2023
+events:
+  - Purchase of used 2014 Ford Fusion
+  - Engine issues with vehicle
+  - Filing of lawsuit
+  - Filing of demurrer
+  - Waiver of untimeliness
+  - Hearing on demurrer
+money: 
+intentions: 
+facts:
+  - Vehicle was not represented as a "lemon" vehicle
+  - Ford had engaged in multiple service inquiries to repair the vehicle
+  - Vehicle experienced engine issues on day of purchase
+  - Defendant failed to cure defects
+disputes:
+  - Failure to replace or make restitution
+  - Breach of express warranties
+  - Failure to begin repairs within reasonable time and complete repairs within 30 days
+  - Breach of implied warranty
+  - Violation of the Consumer Legal Remedies Act
+  - Negligent misrepresentation
+  - Fraudulent misrepresentation
+  - Concealment
+acts:
+  - Purchase of used vehicle
+  - Failure to cure defects
+  - Filing of lawsuit
+agreements:
+  - Waiver of untimeliness
+laws:
+  - California lemon law
+  - Consumer Legal Remedies Act
+case_citations:
+  - Rodriguez v. FCA US, LLC, (2022) 77 Cal.App.5th 209
+statutes:
+  - California lemon law
+roles:
+  - Plaintiffs: PEDRO SORIA and ANDRES SORIA
+  - Defendant: FORD MOTOR COMPANY
+significant_statements:
+  - The demurrer is continued pending the California Supreme Court's decision in Rodriguez v. FCA US, LLC
+```
+
+And here is the English-text summary:
+
+The Judge's tentative ruling continues the demurrer filed by Defendant Ford Motor Company pending the California Supreme Court's decision in Rodriguez v. FCA US, LLC. This is a lemon law case where Plaintiffs Pedro Soria and Andres Soria allege that Ford sold them a used vehicle that was not represented as a "lemon" vehicle, despite multiple service inquiries to repair defects. The vehicle experienced engine issues on the day of purchase, and Ford failed to cure the defects. The Plaintiffs filed a lawsuit alleging various claims, including failure to replace or make restitution, breach of express warranties, and violation of the Consumer Legal Remedies Act, among others. The Defendant filed a demurrer, which was previously continued due to untimeliness, but was allowed to be considered on its merits after a waiver was filed. The Judge continues the hearing pending the California Supreme Court's decision on the applicability of the California lemon law to used vehicles.

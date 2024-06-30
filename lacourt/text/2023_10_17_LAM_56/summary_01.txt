@@ -1,0 +1,66 @@
+Here is the summary of the judge's tentative ruling in YAML format:
+
+```
+case_number: 19STCV28385
+plaintiff: Barbara Mendoza et al.
+defendant: Danny Navarro et al.
+people: 
+  - Barbara Mendoza
+  - Danny Navarro
+  - Shawn Golan
+companies: 
+  - None
+places: 
+  - Los Angeles
+  - California
+dates: 
+  - April 12, 2021
+  - May 21, 2022
+  - March 22, 2023
+  - September 21, 2023
+  - October 17, 2023
+  - December 7, 2023
+events: 
+  - Trial
+  - Judgment
+  - Motion to vacate judgment
+  - Status conference
+money: 
+  - None
+intentions: 
+  - Defendant seeks to vacate judgment and strike abstract of judgment
+facts: 
+  - Defendant failed to appear at trial
+  - Defendant's attorney misled him about the status of the proceedings
+  - Defendant did not learn of the judgment until receiving a copy of the abstract in the mail
+disputes: 
+  - Extrinsic mistake vs. extrinsic fraud
+acts: 
+  - Defendant retained new counsel after discovering the judgment
+  - Defendant's former attorney continued to mislead him about the status of the proceedings
+agreements: 
+  - None
+laws: 
+  - California Code of Civil Procedure section 1005, subdivision (b)
+  - Kasperbauer v. Fairfield (2009)
+  - Kramer v. Traditional Escrow, Inc. (2020)
+  - People v. One Parcel of Land (1991)
+case_citations: 
+  - Kasperbauer v. Fairfield (2009)
+  - Kramer v. Traditional Escrow, Inc. (2020)
+  - People v. One Parcel of Land (1991)
+statutes: 
+  - California Code of Civil Procedure section 1005, subdivision (b)
+roles: 
+  - Judge: Hon. Holly J. Fujie
+  - Moving Defendant: Danny Navarro
+  - Plaintiffs: Barbara Mendoza et al.
+  - Former attorney: Shawn Golan
+significant_statements: 
+  - The Court finds that the Motion presents sufficient evidence that Moving Defendant's failure to participate in this litigation and present a defense is attributable to extrinsic mistake caused by the ongoing assurances of his former counsel.
+  - The Court grants the Motion and schedules a status conference on December 7, 2023.
+```
+
+And here is the English-text summary of the judge's tentative ruling:
+
+The judge's tentative ruling addresses a motion to vacate a judgment entered against defendant Danny Navarro. The motion is based on the claim that Navarro's failure to participate in the litigation was due to extrinsic mistake caused by his former attorney, Shawn Golan, who misled him about the status of the proceedings. The judge finds that the evidence presented supports the claim of extrinsic mistake and grants the motion. The judge also schedules a status conference on December 7, 2023, to discuss the next steps in the case.

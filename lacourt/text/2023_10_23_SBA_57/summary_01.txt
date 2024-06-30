@@ -1,0 +1,44 @@
+Here is the summary in YAML format:
+
+```
+case_number: 21STCV43055
+plaintiff_name: 
+defendant_name: Bag Fund, LLC
+people_names: 
+company_names: Bag Fund, LLC
+places: 
+dates: 
+  - October 23, 2023
+events: 
+  - Motion for attorney's fees
+  - Underlying action leading to judgment
+money: 
+  - Attorney's fees
+  - Other costs
+intentions: 
+  - To deny Defendant's motion for attorney's fees
+facts: 
+  - Defendant's motion lacks explanation of the contract and action supporting request for attorney's fees
+disputes: 
+  - Lack of specificity in Defendant's motion
+acts: 
+  - Defendant filed a motion for attorney's fees
+agreements: 
+  - Civil Code Section 1717
+laws: 
+  - Civil Code Section 1717
+case_citations: 
+  - Civil Code Section 1717
+statutes: 
+  - Civil Code Section 1717
+roles: 
+  - Judge
+  - Plaintiff
+  - Defendant
+significant_statements: 
+  - "The party who is determined to be the party prevailing on the contract shall be entitled to reasonable attorney's fees in addition to other costs."
+```
+
+And here is the English-text summary:
+
+The Judge's tentative ruling is to deny the motion for attorney's fees filed by Defendant Bag Fund, LLC. The motion is based on Civil Code Section 1717, which allows a party to recover reasonable attorney's fees and costs if they are specifically provided for in a contract. However, Defendant's motion fails to explain what contract and action it is referring to that supports its request for attorney's fees. The Judge is not convinced that there is a valid basis for awarding attorney's fees without more information about the underlying contract and action.

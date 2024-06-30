@@ -1,0 +1,53 @@
+Here is the summary in YAML format:
+
+```
+case_number: 22STCV05381
+plaintiff: LUIS MANUEL LOPEZ
+defendant: OUTFRONT MEDIA INC. et al.
+people_names:
+  - LUIS MANUEL LOPEZ
+  - Judge: Hon. Jill Feeney
+company_names:
+  - OUTFRONT MEDIA INC.
+places:
+  - Los Angeles
+  - Superior Court of California
+  - County of Los Angeles
+  - Department 78
+dates:
+  - October 23, 2023
+  - March 26, 2024
+  - April 8, 2024
+events:
+  - Motion to Continue Trial
+  - Trial
+  - Final Status Conference (FSC)
+money: N/A
+intentions:
+  - To grant defendants' motion to continue trial
+facts:
+  - Defendants' motion to continue trial is granted
+disputes:
+  - None mentioned
+acts:
+  - Motion to continue trial
+  - Setting new trial date and FSC
+agreements:
+  - None mentioned
+laws:
+  - N/A
+case_citations: N/A
+statutes: N/A
+roles:
+  - Judge: Hon. Jill Feeney
+  - Plaintiff: LUIS MANUEL LOPEZ
+  - Defendant: OUTFRONT MEDIA INC. et al.
+significant_statements:
+  - For good cause shown, defendants' motion to continue trial is granted.
+  - Trial is set for April 8, 2024 at 9:30 a.m.
+  - FSC is set for March 26, 2023 at 8:30 a.m.
+```
+
+And here is the English-text summary:
+
+This tentative ruling grants the defendant's motion to continue trial and all corresponding dates. The current final status conference (FSC) and trial dates are advanced and vacated. The trial is set for April 8, 2024 at 9:30 a.m., and the FSC is set for March 26, 2024 at 8:30 a.m. All discovery and motion cutoff dates are to be based on the new trial date. The defendants are also instructed to file an ex parte motion to advance the summary judgment motion hearing date if they are unable to reserve a date sufficiently in advance of trial.

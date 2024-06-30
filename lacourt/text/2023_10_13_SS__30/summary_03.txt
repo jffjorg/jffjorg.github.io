@@ -1,0 +1,57 @@
+Here is the summary in YAML format:
+
+```
+case_number: 21STCV16714
+plaintiff_names:
+  - Antonio Ramirez
+  - Alexander Ramirez
+defendant_name: Tara Lee Baum
+people_names:
+  - Antonio Ramirez
+  - Alexander Ramirez
+  - Dan Tusa
+company_names: []
+places: []
+dates:
+  - July 28, 2023
+  - July 31, 2023
+  - October 13, 2023
+events:
+  - Motion to Compel IME of Antonio Ramirez
+  - Motion to Compel IME of Alexander Ramirez
+  - Filing of Declaration of Dan Tusa
+money: []
+intentions:
+  - Compel Plaintiffs to submit to physical examination
+  - Meet and confer declaration
+facts:
+  - Plaintiffs failed to appear for noticed physical examinations
+  - Defendant's motion indicates refusal was unwarranted
+  - Defendant did not include meet and confer declaration
+disputes:
+  - Whether Plaintiffs' refusal was unwarranted
+acts:
+  - Defendant's motion to compel
+  - Failure of Plaintiffs to appear
+  - Failure of Defendant to include meet and confer declaration
+agreements: []
+laws:
+  - California Code of Civil Procedure (CCP) § 2032.020(a)
+  - California Code of Civil Procedure (CCP) § 2032.410
+  - California Code of Civil Procedure (CCP) § 2032.250(a)
+  - California Code of Civil Procedure (CCP) § 2016.040
+case_citations: []
+statutes: []
+roles:
+  - Judge
+  - Plaintiff
+  - Defendant
+  - Counsel
+significant_statements:
+  - The Motions to Compel are DENIED.
+  - Defendant must give notice of the denial.
+```
+
+And here is the English-text summary:
+
+The Judge has issued a tentative ruling on the motions to compel physical examinations of the plaintiffs, Antonio Ramirez and Alexander Ramirez. The motions, filed by the defendant, Tara Lee Baum, are denied. The Judge finds that the defendant's motion does not meet the requirements of California Code of Civil Procedure (CCP) § 2016.040, which requires a meet and confer declaration to be included with the motion. Additionally, the Judge notes that the motion is essentially two separate motions, one for each plaintiff, and therefore should have been filed and paid for separately. The Judge orders the defendant to give notice of the denial.

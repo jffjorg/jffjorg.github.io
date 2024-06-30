@@ -1,0 +1,56 @@
+Here is the summary in YAML format:
+
+```
+case_number: "Not specified"
+plaintiff_name: "Not specified"
+defendant_name: "Not specified"
+people_names:
+  - "Judge"
+  - "Plaintiff"
+  - "Defendant"
+company_names: []
+places: []
+dates:
+  - "Not specified"
+  - "1973" (Crail v. Blakely)
+  - "1985" (Tenzer v. Superscope, Inc.)
+events:
+  - "Contract entered into"
+  - "Subsequent events"
+money: []
+intentions:
+  - "Challenge the adequacy of consideration"
+  - "Establish oral promise with fraudulent intent"
+facts:
+  - "Contract was entered into"
+  - "Good consideration"
+  - "Promisory fraud"
+disputes:
+  - "Adequacy of consideration"
+  - "Statute of frauds defenses"
+acts:
+  - "Demurrer"
+  - "Enter into a contract"
+agreements:
+  - "Civil Code section 1605"
+laws:
+  - "Civil Code section 1605"
+  - "Statute of frauds"
+case_citations:
+  - "Crail v. Blakely (1973) 8 Cal.3d 744"
+  - "Tenzer v. Superscope, Inc. (1985) 39 Cal.3d 18"
+statutes:
+  - "Civil Code section 1605"
+  - "Statute of frauds"
+roles:
+  - "Judge"
+  - "Plaintiff"
+  - "Defendant"
+significant_statements:
+  - "Defendants' attempt to challenge the adequacy of the consideration on demurrer is not well-taken."
+  - "The adequacy of consideration to support a contract must be determined as of the date the contract was entered into, and not in the light of subsequent events."
+```
+
+And here is the English-text summary:
+
+The judge's tentative ruling addresses two points: the adequacy of consideration for a contract and the applicability of the statute of frauds defenses to a promissory fraud claim. The judge holds that defendants' attempt to challenge the adequacy of consideration on demurrer is not well-taken, citing Civil Code section 1605 which defines "good consideration" as any benefit conferred or agreed to be conferred upon the promisor. The judge also rules that the statute of frauds defenses do not apply to the promissory fraud claim, citing Tenzer v. Superscope, Inc. (1985) 39 Cal.3d 18, which held that a fraud claim is not barred by the statute of frauds if the plaintiff can establish an oral promise was made with fraudulent intent.

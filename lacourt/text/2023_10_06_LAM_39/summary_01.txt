@@ -1,0 +1,50 @@
+Here is the summary in YAML format:
+
+```
+case_number: 20STCV47075
+plaintiff_name: Sean Suh
+defendant_name: Royce Clayton, et al.
+people_names:
+  - Sean Suh
+  - Royce Clayton
+company_names: []
+places:
+  - California (Court location)
+dates:
+  - October 6, 2023 (Hearing Date)
+  - October 24, 2023 (Former trial date)
+  - July 26, 2024 (Final Status Conference)
+  - August 6, 2024 (Trial Date)
+events:
+  - Ex parte application to continue trial date
+  - Setting of trial date
+  - Final Status Conference
+  - Trial
+money: []
+intentions:
+  - To continue trial date
+  - To set trial date
+facts:
+  - Plaintiff's counsel seeks to continue trial date
+  - Defendants do not oppose continuance
+disputes: []
+acts:
+  - Granting of ex parte application
+  - Setting of trial date
+agreements:
+  - Parties agree to continue trial date
+  - Discovery and motions deadlines based on former trial date
+laws: []
+case_citations: []
+statutes: []
+roles:
+  - Judge
+  - Plaintiff's counsel
+  - Defendant's counsel
+significant_statements:
+  - "The Court grants the ex parte application and sets trial on its first available date."
+```
+
+And here is the English-text summary:
+
+This tentative ruling grants the ex parte application to continue the trial date in the case of Sean Suh v. Royce Clayton, et al. The parties have agreed to continue the trial date, and the defendants do not oppose the continuance. Due to the Court's lack of availability, the trial date is set for August 6, 2024. The discovery and motions deadlines will be based on the former trial date of October 24, 2023, except for the depositions of defendants Sean Suh and Royce Clayton. Plaintiff's counsel is required to provide notice and file proof of the depositions with the Court. A Final Status Conference is scheduled for July 26, 2024, at 9:00 a.m.

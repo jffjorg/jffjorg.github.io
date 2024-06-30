@@ -1,0 +1,85 @@
+Here is the tentative ruling in YAML format:
+
+```
+Case Number: 23STCV13108
+Hearing Date: October 10, 2023
+Department: 54
+Judge: Maurice A. Leiter
+
+People-Names:
+  - American Outdoor Advertising LLC
+  - Riddle Legacy LLC
+  - KBS Holdco, LLC
+  - Regency (subtenant)
+
+Company-Names:
+  - American Outdoor Advertising LLC
+  - KBS Holdco, LLC
+  - Regency
+
+Places:
+  - Los Angeles
+  - 1320 South Santa Fe Ave.
+
+Dates:
+  - June 6, 2023
+  - October 10, 2023
+
+Events:
+  - Demurrer to Complaint
+  - Service of 3-day Notice to Pay Rent or Quit
+
+Money:
+  - Unstated
+
+Intentions:
+  - Defendant KBS Holdco, LLC seeks to demur to the complaint
+  - Plaintiff seeks to establish a cause of action for unlawful detainer
+
+Facts:
+  - Plaintiffs filed a commercial unlawful detainer complaint against Defendant KBS Holdco, LLC
+  - Defendant demurs to the complaint on the ground that Plaintiffs failed to provide legally adequate notice of the 3-day Notice to Pay Rent or Quit
+
+Disputes:
+  - Proper service of notice
+  - Legally adequate notice of the 3-day Notice to Pay Rent or Quit
+
+Acts:
+  - Service of notice by certified first class mail
+  - Personal service via courtesy copies delivered to KBS' known most-recent current business address
+
+Agreements:
+  - None
+
+Laws:
+  - Code of Civil Procedure (CCP) § 1161
+  - CCP § 1162
+  - CCP § 430.50(a)
+  - Picton v. Anderson Union High Sch. Dist. (1996) 50 Cal. App. 4th 726, 732
+  - Liebovich, supra, 56 Cal.App.4th at p. 513, 65 Cal.Rptr.2d 457
+
+Case Citations:
+  - Kwok v. Bergren, supra, 130 Cal.App.3d at p. 600, 181 Cal.Rptr. 795
+  - Lamey v. Masciotra (1969) 273 Cal.App.2d 709, 713, 78 Cal.Rptr. 344
+  - Palm Property Investments, LLC v. Yadegar (2011) 194 Cal.App.4th 1419, 1425
+
+Statutes:
+  - CCP § 1161
+  - CCP § 1162
+  - CCP § 430.50(a)
+
+Roles:
+  - Judge: Maurice A. Leiter
+  - Plaintiff: American Outdoor Advertising LLC and Riddle Legacy LLC
+  - Defendant: KBS Holdco, LLC
+
+Significant Statements:
+  - "A demurrer to a complaint may be taken to the whole complaint or to any of the causes of action in it." (CCP § 430.50(a))
+  - "A demurrer challenges only the legal sufficiency of the complaint, not the truth of its factual allegations or the plaintiff's ability to prove those allegations." (Picton v. Anderson Union High Sch. Dist. (1996) 50 Cal. App. 4th 726, 732)
+  - "The complaint is to be construed liberally to determine whether a cause of action has been stated." (Picton v. Anderson Union High Sch. Dist. (1996) 50 Cal. App. 4th 726, 733)
+  - "Proper service on the lessee of a valid three-day notice to pay rent or quit is an essential prerequisite to a judgment declaring a lessor's right to possession under section 1161, subdivision 2." (Liebovich, supra, 56 Cal.App.4th at p. 513, 65 Cal.Rptr.2d 457)
+```
+
+And here is a summary of the judge's tentative ruling in English text:
+
+The judge has tentatively ruled that the demurrer to the complaint filed by defendant KBS Holdco, LLC is sustained with leave to amend. The complaint filed by plaintiffs American Outdoor Advertising LLC and Riddle Legacy LLC alleged that defendant failed to provide legally adequate notice of the 3-day Notice to Pay Rent or Quit, and that the notice itself and the method of service of the notice were defective. The judge found that the complaint failed to allege proper service of the notice, and that the method of service used by the plaintiffs (mail service) was not permitted under CCP § 1162(b). The judge has given the plaintiffs leave to amend their complaint to cure the defect in service of notice.

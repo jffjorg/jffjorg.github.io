@@ -1,0 +1,75 @@
+Here is the summary in YAML format:
+
+```
+case_number: 19STCV06544
+plaintiff_name: Colin Andrew Hancock
+defendant_name: Barbara Dybnis
+people_names:
+  - Colin Andrew Hancock
+  - Barbara Dybnis
+  - Michael D. Hirsch
+  - Elizabeth Trent Schaus
+company_names:
+  - Christensen Hsu Sipes, LLP
+  - Cosco Fire Protection, Inc.
+places:
+  - California
+  - Los Angeles
+dates:
+  - February 27, 2019
+  - July 23, 2021
+  - December 9, 2021
+  - August 15, 2023
+  - October 16, 2023
+  - December 1, 2023
+events:
+  - Motor vehicle accident
+  - Deposition subpoena
+  - Motion to compel
+money:
+  - None mentioned
+intentions:
+  - Defendant seeks to compel nonparty CHS to produce business records
+facts:
+  - Plaintiff suffered injuries in two separate motor vehicle accidents
+  - Defendant seeks documents related to the 2015 accident
+  - CHS is not the custodian of the records sought
+disputes:
+  - Defendant's motion to compel CHS to produce business records
+acts:
+  - Serving a deposition subpoena
+  - Filing a motion to compel
+agreements:
+  - Evidence Code section 1561 requires attestation from the custodian of records
+laws:
+  - Code of Civil Procedure
+  - Evidence Code
+  - California Rules of Court
+case_citations:
+  - Cooley v. Superior Court (2006) 140 Cal.App.4th 1039
+  - Code Civ. Proc., § 2017.010
+  - Code Civ. Proc., § 2020.010
+  - Code Civ. Proc., § 2020.220
+  - Code Civ. Proc. §§ 2024.480, 2025.480
+  - Evid. Code, 1561, subd. (a)(1)
+  - Evid. Code, 1561, subd. (a)(1)
+  - Cooley, 140 Cal.App.4th at p. 1044
+statutes:
+  - Code of Civil Procedure
+  - Evidence Code
+roles:
+  - Judge Kerry Bensinger
+  - Colin Andrew Hancock (Plaintiff)
+  - Barbara Dybnis (Defendant)
+  - Christensen Hsu Sipes, LLP (nonparty)
+  - Elizabeth Trent Schaus (nonparty)
+  - Michael D. Hirsch (witness)
+significant_statements:
+  - Defendant is not entitled to an order compelling CHS to comply with the entirety of the subpoena
+  - CHS cannot provide attestation under Evidence Code section 1561 for records it did not produce or generate
+  - The Court cannot compel CHS's compliance with the subpoena to the extent it seeks records for which CHS did not produce or generate and cannot provide a EC 1561 affidavit
+```
+
+And here is the English-text summary:
+
+The Judge, Kerry Bensinger, has issued a tentative ruling on a motion to compel nonparty Christensen Hsu Sipes, LLP (CHS) to produce business records. The motion was filed by the defendant, Barbara Dybnis, in a lawsuit against the plaintiff, Colin Andrew Hancock, arising from a motor vehicle accident. The defendant seeks documents related to a 2015 accident involving the plaintiff and which resulted in a lawsuit captioned Hancock v. Cosco Fire Protection, Inc. CHS handled the defense of Cosco Fire Protection, Inc. in the 2015 lawsuit. The Court has denied the motion to the extent that it seeks records for which CHS did not produce or generate and cannot provide an affidavit under Evidence Code section 1561. The Court has granted the motion to the extent that CHS can provide non-privileged documents supported by an Evidence Code section 1561 affidavit. CHS is to provide any responsive documents within 30 days.

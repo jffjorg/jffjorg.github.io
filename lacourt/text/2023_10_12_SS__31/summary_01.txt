@@ -1,0 +1,78 @@
+Here is the summary in YAML format:
+
+```
+case_number: 20STCV16657
+plaintiff_name: Sherry Delgadillo
+defendant_name: Super Center Concepts, Inc., DBA Superior Grocers, et al.
+people_names:
+  - Sherry Delgadillo
+  - Judge Michelle C. Kim
+company_names:
+  - Super Center Concepts, Inc.
+  - Superior Grocers
+places:
+  - Los Angeles
+  - California
+dates:
+  - May 1, 2020
+  - May 30, 2023
+  - July 12, 2023
+  - September 30, 2023
+  - October 1, 2023
+  - October 12, 2023
+events:
+  - Slip and fall on defendant's property
+  - Filing of complaint
+  - Orders compelling further responses to discovery requests
+  - Failure to comply with discovery orders
+  - Motion for terminating sanctions
+  - Opposition to motion
+  - Reply to opposition
+  - Hearing on motion
+money:
+  - $2,455 (amount of past due monetary sanctions)
+  - $1,050 (amount of attorney fees)
+  - $60 (motion filing fee)
+  - $1,110 (total amount of sanctions)
+intentions:
+  - To strike plaintiff's complaint and/or dismiss the action with prejudice
+  - To impose terminating sanctions against plaintiff
+  - To reimburse defendant for attorney fees and costs
+facts:
+  - Plaintiff failed to comply with discovery orders
+  - Plaintiff provided further responses to discovery requests after motion was filed
+  - Plaintiff paid past due monetary sanctions
+  - Defendant seeks terminating sanctions and monetary sanctions
+disputes:
+  - Plaintiff's non-compliance with discovery orders
+  - Defendant's request for terminating sanctions
+  - Plaintiff's opposition to motion
+acts:
+  - Filing of complaint
+  - Orders compelling further responses to discovery requests
+  - Failure to comply with discovery orders
+  - Motion for terminating sanctions
+  - Opposition to motion
+  - Reply to opposition
+  - Hearing on motion
+agreements:
+  - Plaintiff's agreement to comply with discovery orders
+  - Defendant's agreement to seek terminating sanctions
+laws:
+  - Code of Civil Procedure § 2023.030
+  - Code of Civil Procedure § 2023.010
+statutes:
+  - California Civil Code
+roles:
+  - Judge: Michelle C. Kim
+  - Plaintiff: Sherry Delgadillo
+  - Defendant: Super Center Concepts, Inc., DBA Superior Grocers, et al.
+significant statements:
+  - "A terminating sanction is a 'drastic measure which should be employed with caution.'"
+  - "A decision to order terminating sanctions should not be made lightly."
+  - "Discovery sanctions are not to be imposed for punishment, but instead are used to encourage fair disclosure of discovery to prevent unfairness resulting from the lack of information."
+```
+
+And here is the English-text summary:
+
+The judge's tentative ruling denies the defendant's motion for terminating sanctions, which sought to strike the plaintiff's complaint and/or dismiss the action with prejudice due to the plaintiff's failure to comply with discovery orders. The plaintiff failed to provide further responses to discovery requests and did not pay monetary sanctions as ordered by the court. However, the plaintiff has since demonstrated compliance by providing responses and paying the past due sanctions in full. The court finds that terminating sanctions are not warranted and instead awards the defendant monetary sanctions in the amount of $1,110 to reimburse the defendant for attorney fees and costs.

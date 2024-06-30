@@ -1,0 +1,60 @@
+Here is the summary in YAML format:
+
+```
+case_number: 23PSCV02468
+plaintiff_name: Leo Tovar
+defendant_name: Giovanni Sanchez Alvarez, et al. (Alejandro Sanchez, Does 1 to 50)
+people_names:
+  - Oscar A. Ischiu
+  - Leo Tovar
+  - Giovanni Sanchez Alvarez
+  - Alejandro Sanchez
+company_names: Law Firm of Oscar A. Ischiu
+places: 
+  - California
+dates:
+  - August 11, 2023
+  - October 5, 2023
+  - October 23, 2023
+events:
+  - Personal injury action
+  - Motion to be Relieved as Counsel
+money: None
+intentions:
+  - Counsel seeks to withdraw from representation
+  - Plaintiff has not opposed the motion
+facts:
+  - Breakdown in communications between Counsel and Plaintiff
+  - Counsel has completed the required Judicial Council forms
+  - Plaintiff has been served with the motion and supporting documents
+disputes: None
+acts:
+  - Counsel filing a motion to withdraw
+  - Plaintiff's failure to oppose the motion
+  - Court's grant of the motion
+agreements: None
+laws:
+  - California Rules of Court, rule 3.1362
+  - California Rules of Professional Conduct, rule 1.16
+  - Ramirez v. Sturdevant (1994)
+  - People v. Prince (1968)
+  - Estate of Falco (1987)
+case_citations:
+  - Ramirez v. Sturdevant (1994) 21 Cal.App.4th 904, 915
+  - People v. Prince (1968) 268 Cal.App.2d 398, 403-407
+  - Estate of Falco (1987) 188 Cal.App.3d 1004, 1014
+statutes: None
+roles:
+  - Judge
+  - Counsel (Oscar A. Ischiu)
+  - Plaintiff (Leo Tovar)
+  - Defendant (Giovanni Sanchez Alvarez, et al.)
+significant_statements:
+  - The Motion to be Relieved as Counsel is GRANTED.
+  - Counsel is ordered to give notice of this ruling and file proof of service of same within five calendar days of this order.
+  - The Court will sign the Proposed Order (Form MC-053).
+```
+
+And here is the summary in English text:
+
+The Judge has granted the motion of Plaintiff's Counsel, Oscar A. Ischiu, to withdraw from representation. The motion is unopposed, and the Judge has found that the breakdown in communications between Counsel and Plaintiff constitutes proper grounds for withdrawal. The Judge has ordered Counsel to provide notice of this ruling and file proof of service of same within five calendar days, and to serve the signed Proposed Order (Form MC-053) upon Plaintiff and file proof of service of same within five calendar days thereof.

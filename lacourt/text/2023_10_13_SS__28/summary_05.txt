@@ -1,0 +1,53 @@
+Here is a summary of the tentative ruling in YAML format:
+
+```
+case_number: 20STCV36739
+hearing_date: 2023-10-13
+dept: 28
+
+parties:
+  - Plaintiff: Casey Curley
+  - Defendant: Bonita Unified School District
+  - Defendant: Bonita High School
+  - Defendant: Kelly O'Grady
+  - Defendant: Chae Mireles
+  - Defendant: Justis Mireles-Torres
+  - Defendant: Does 1-50
+
+dates:
+  - November 14, 2018 (incident date)
+  - August 21, 2018 (date of acknowledgement and waiver signing)
+  - May 10, 2021 (date of answer filing)
+  - May 27, 2021 (date of answer filing by O'Grady, Mireles, and Mireles-Torres)
+  - January 3, 2023 (date of motion for summary judgment filing)
+  - August 24, 2023 (date of opposition filing)
+  - August 30, 2023 (date of reply filing)
+  - September 13, 2023 (date of supplemental opposition filing)
+
+events:
+  - Incident: Cheerleading practice accident
+  - Acknowledgement and Waiver: Signed by Plaintiff and her mother on August 21, 2018
+  - Answers: Filed by Defendant on May 10, 2021
+  - Motion for Summary Judgment: Filed by Moving Defendants on January 3, 2023
+  - Opposition: Filed by Plaintiff on August 24, 2023
+  - Reply: Filed by Moving Defendants on August 30, 2023
+  - Supplemental Opposition: Filed by Plaintiff on September 13, 2023
+
+money:
+  - None mentioned
+
+intentions:
+  - Plaintiff's intention to participate in cheerleading practice
+  - Defendant's intention to provide a safe environment for cheerleading practice
+
+facts:
+  - Plaintiff was a high school student
+  - Plaintiff was participating in cheerleading practice on November 14, 2018
+  - Plaintiff fell and injured herself on the hardwood floor
+  - Floor was not covered with mats
+  - Defendant employees were present but did not provide adequate supervision
+
+disputes:
+  - Plaintiff claims that Defendant increased the risk of harm by not providing mats and adequate supervision
+  - Plaintiff claims that the waiver and acknowledgement signed by her mother is invalid
+  - Defendant claims that Plaintiff assumed the

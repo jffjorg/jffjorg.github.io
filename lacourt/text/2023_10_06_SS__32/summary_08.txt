@@ -1,0 +1,68 @@
+Here is the summary in YAML format:
+
+```
+case_number: 22STCV21815
+plaintiff:
+  - Alejandra Guzman
+  - Joanna Guzman
+  - Miguel Angel Moto, Jr.
+defendant: Nestor Cabrera
+people_names:
+  - Alejandra Guzman
+  - Joanna Guzman
+  - Miguel Angel Moto, Jr.
+  - Nestor Cabrera
+  - Roy Penuela, Esq.
+company_names: []
+places:
+  - California
+  - Los Angeles
+dates:
+  - February 4, 2022
+  - February 28, 2023
+  - October 6, 2023
+events:
+  - Auto accident
+  - Filing of motions to compel responses
+  - Failure to respond to discovery requests
+money:
+  - $215.09
+  - $430.18
+intentions:
+  - To compel responses to discovery requests
+  - To impose monetary sanctions
+facts:
+  - Defendant served Special Interrogatories, Set One and Demand for Inspection and Production of Documents, Set One on Joanna Guzman
+  - Plaintiff has failed to respond to discovery requests
+  - Defendant is entitled to an order compelling responses
+disputes:
+  - Failure to respond to discovery requests
+  - Imposition of monetary sanctions
+acts:
+  - Filing of motions to compel responses
+  - Failure to respond to discovery requests
+agreements:
+  - None
+laws:
+  - California Code of Civil Procedure, § 2030.290
+  - California Code of Civil Procedure, § 2031.300
+  - California Rules of Court, rule 3.1348(a)
+case_citations:
+  - Leach v. Superior Court (1980) 111 Cal.App.3d 902
+statutes:
+  - Code Civ. Proc., § 2030.290
+  - Code Civ. Proc., § 2031.300
+roles:
+  - Judge
+  - Plaintiff
+  - Defendant
+  - Counsel
+significant_statements:
+  - The Court finds Defendant's motions to compel are well-taken.
+  - Defendant is entitled to an order compelling responses.
+  - The Court grants Defendant's request for monetary sanctions against Joanna Guzman and her counsel.
+```
+
+And here is a summary of the tentative ruling in English text:
+
+The Court has issued a tentative ruling regarding a motion filed by Defendant Nestor Cabrera to compel responses to Special Interrogatories, Set One and Demand for Inspection and Production of Documents, Set One against Plaintiff Joanna Guzman. The Defendant filed the motions on February 28, 2023, and despite multiple extensions, the Plaintiff has failed to respond. The Court finds the motions to be well-taken and grants the Defendant's request to compel responses. The Court also imposes monetary sanctions against the Plaintiff and her counsel in the amount of $430.18. The Plaintiff is ordered to provide verified responses to the discovery requests within 20 days of the date of this order.

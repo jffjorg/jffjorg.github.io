@@ -1,0 +1,75 @@
+Here is the summary of the tentative ruling in YAML format:
+
+```
+case_number: 23PSCV00731
+hearing_date: October 11, 2023
+dept: 6
+case_name: Bin Xu, et al. v. TMD Shops LLC, et al.
+defendants:
+  - TMD Shops LLC
+  - Yuan Zhou
+  - Xiaoyu Li
+plaintiffs:
+  - Bin Xu
+  - Shenzhen FAMO Technology Co., Ltd
+people:
+  - Bin Xu
+  - Yuan Zhou
+  - Xiaoyu Li
+companies:
+  - TMD Shops LLC
+  - X-Planet LLC
+  - Shenzhen FAMO Technology Co., Ltd
+places:
+  - California
+dates:
+  - March 13, 2023
+  - June 20, 2023
+  - July 12, 2023
+  - October 4, 2023
+events:
+  - Filing of complaint
+  - Filing of demurrer
+  - Opposition to demurrer
+  - Reply to opposition
+money:
+  - $2,557,213.42
+intentions:
+  - To resolve disputes between plaintiffs and defendants
+facts:
+  - Plaintiffs allege conversion, breach of fiduciary duty, and other causes of action
+  - Defendants argue plaintiffs lack standing and that claims are insufficiently pleaded
+disputes:
+  - Lack of standing
+  - Insufficiency of pleading
+acts:
+  - Demurrer filed by defendants
+  - Opposition to demurrer filed by plaintiffs
+  - Reply to opposition filed by defendants
+agreements:
+  - Corporations Code, Section 17704.09
+  - Corporations Code, Section 17704.10
+laws:
+  - California Civil Procedure Code, Section 430.41
+  - California Civil Procedure Code, Section 452
+  - California Evidence Code, Section 452
+  - Corporations Code, Section 17701.13
+statutes:
+  - Corporations Code, Section 17704.09
+  - Corporations Code, Section 17704.10
+roles:
+  - Judge
+  - Plaintiff
+  - Defendant
+  - Demurrer
+  - Opposition
+  - Reply
+significant_statements:
+  - The Court sustains the demurrer to the First and Second Causes of Action with leave to amend.
+  - The Court overrules the demurrer in all other respects.
+  - The Court orders plaintiffs to give notice of the ruling within five days.
+```
+
+Here is a summary of the tentative ruling in English text:
+
+The Court has issued a tentative ruling in the case of Bin Xu, et al. v. TMD Shops LLC, et al. The Court sustains the demurrer to the First and Second Causes of Action with leave to amend, and overrules the demurrer in all other respects. The First Cause of Action for conversion is dismissed due to insufficient pleading, and the Second Cause of Action for breach of fiduciary duty is dismissed due to lack of standing. The Court also sustains the demurrer to the Fourth Cause of Action for member's right of inspection and accounting, but overrules the demurrer to the Seventh Cause of Action for common law trademark infringement. The Court orders plaintiffs to give notice of the ruling within five days.

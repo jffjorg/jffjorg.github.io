@@ -1,0 +1,80 @@
+Here is the summary in YAML format:
+
+```
+case_number: 20STCV22463
+plaintiff_name: Troy Perry
+defendant_name: Brian E. Boudreaux, Sophia Rocha
+people_names:
+  - Troy Perry
+  - Brian E. Boudreaux
+  - Sophia Rocha
+  - Adrineh Hayrabidian
+  - Alex Omar Munguia Romero
+  - Dr. Ronald Kvitne
+company_names: []
+places:
+  - California
+  - Los Angeles
+  - October 1, 2019
+  - May 4, 2023
+  - May 10, 2023
+  - May 15, 2023
+  - December 6, 2023
+dates:
+  - October 1, 2019
+  - May 4, 2023
+  - May 10, 2023
+  - May 15, 2023
+  - October 11, 2023
+  - December 6, 2023
+events:
+  - Automobile collision
+  - Motion for terminating sanctions
+  - Physical examination
+  - Court order
+  - Failure to appear for examination
+money: []
+intentions:
+  - To impose terminating sanctions on Romero's complaint
+  - To dismiss Romero's complaint with prejudice
+facts:
+  - Romero did not appear for a medical examination
+  - Romero disobeyed a Court Order compelling Plaintiff to appear for medical examination
+  - Romero failed to file an opposition to this motion
+disputes:
+  - Willful failure to comply with discovery obligations
+  - Disobedience of a Court Order
+acts:
+  - Failure to appear for examination
+  - Disobedience of a Court Order
+agreements:
+  - Code of Civil Procedure section 2023.030
+  - Code Civ. Proc., § 2023.010, subds. (d), (g)
+  - Code Civ. Proc., § 2023.030, subd. (d)
+laws:
+  - Code of Civil Procedure
+  - California Evidence Code
+  - California Rules of Court
+case_citations:
+  - Code Civ. Proc., § 2023.010, subds. (d), (g)
+  - Code Civ. Proc., § 2023.030, subd. (d)
+  - Collison & Kaplan v. Hartunian (1994) 21 Cal.App.4th 1611, 1620
+  - Deyo v. Kilbourne (1978) 84 Cal.App.3d 771, 795-796
+  - Lang v. Hochman (2000) 77 Cal.App.4th 1225, 1246
+  - Van Sickle v. Gilbert (2011) 196 Cal.App.4th 1495, 1516
+  - Fairfield v. Superior Court for Los Angeles County (1966) 246 Cal.App.2d 113, 118
+  - Mileikowsky v. Tenet Healthsystem (2005) 128 Cal.App.4th 262, 279-280
+roles:
+  - Judge: Kerry Bensinger
+  - Plaintiff: Troy Perry
+  - Defendant: Brian E. Boudreaux, Sophia Rocha
+  - Self-represented party: Alex Omar Munguia Romero
+significant_statements:
+  - "Terminating sanctions are appropriate when a party persists in disobeying the court's orders."
+  - "A decision to order terminating sanctions should not be made lightly."
+  - "Discovery sanctions are not to be imposed for punishment, but instead are used to encourage fair disclosure of discovery to prevent unfairness resulting for the lack of information."
+```
+
+And here is the English-text summary:
+
+The tentative ruling is a motion filed by the defendants, Brian E. Boudreaux and Sophia Rocha, seeking terminating sanctions against the plaintiff, Alex Omar Munguia Romero, for failing to comply with a court order to appear for a physical examination. The court finds that Romero's failure to appear for the examination was willful and that he disobeyed the court's order. The court also notes that Romero failed to file an opposition to the motion, indicating a lack of interest in prosecuting the case. Based on these findings, the court grants the motion and dismisses Romero's complaint with prejudice.

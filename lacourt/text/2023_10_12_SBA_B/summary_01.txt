@@ -1,0 +1,63 @@
+Here is the summary in YAML format:
+
+```
+case_number: 22TRCV01443
+plaintiff_name: Veera Raja Suresh Babu Kollipara
+defendant_name: Tesla Motors Inc., et al.
+people_names:
+  - Veera Raja Suresh Babu Kollipara
+  - Raymond Kim
+company_names:
+  - Tesla Motors Inc.
+  - Tesla Inc.
+places:
+  - Los Angeles
+dates:
+  - March 9, 2023
+  - October 12, 2023
+events:
+  - Motion to Compel Arbitration
+money:
+  - None
+intentions:
+  - To compel arbitration of plaintiff's claims
+  - To stay pending completion of arbitration
+facts:
+  - Plaintiff alleges defects in 2018 Tesla Model X
+  - Plaintiff brings claims under Song-Beverly Warranty Act
+disputes:
+  - Whether a valid arbitration agreement exists between parties
+acts:
+  - Plaintiff files complaint
+  - Defendant moves to compel arbitration
+agreements:
+  - Motor Vehicle Order Agreement (contains arbitration provision)
+  - Retail Installment Sale Contract (lists "Tesla Motors, Inc." as "Seller/Creditor")
+laws:
+  - Code of Civil Procedure § 1281 et seq.
+  - Federal Arbitration Act (FAA)
+  - California law in favor of arbitration
+case_citations:
+  - Acquire II, Ltd. v. Colton Real Estate Group (2013) 213 Cal.App.4th 959
+  - Giuliano v. Inland Empire Personnel, Inc. (2007) 149 Cal.App.4th 1276
+  - Rice v. Downs (2016) 247 Cal.App.4th 1213
+  - Rowe v. Exline (2007) 153 Cal.App.4th 1276
+  - Valley Casework, Inc. v. Comfort Construction, Inc. (1999) 76 Cal.App.4th 1013
+  - Pinnacle Museum Tower Assn. v. Pinnacle Market Development (US), LLC (2012) 55 Cal.4th 223
+  - Felisilda v. FCA US LLC (2020) 53 Cal.App.5th 486
+statutes:
+  - Code of Civil Procedure § 1281.2
+  - Federal Arbitration Act (FAA)
+roles:
+  - Plaintiff: Veera Raja Suresh Babu Kollipara
+  - Defendant: Tesla Motors Inc., et al.
+  - Judge: Honorable Gary Y. Tanaka
+significant_statements:
+  - "California law reflects a strong public policy in favor of arbitration as a relatively quick and inexpensive method for resolving disputes."
+  - "The party opposing arbitration has the burden of demonstrating that an arbitration clause cannot be interpreted to require arbitration of the dispute."
+  - "Under the doctrine of equitable estoppel, a nonsignatory defendant may invoke an arbitration clause to compel a signatory plaintiff to arbitrate its claims when the causes of action against the nonsignatory are intimately founded in and intertwined with the underlying contract obligations."
+```
+
+And here is a summary of the judge's tentative ruling in English text:
+
+The judge has denied Tesla, Inc.'s motion to compel arbitration of plaintiff Veera Raja Suresh Babu Kollipara's claims without prejudice. The motion is denied because, as currently situated, there is no entity named "Tesla, Inc." in the complaint nor served with the complaint. The only named and served defendant is an entity named Tesla Motors, Inc. The judge has ordered the plaintiff to give notice of this ruling. The motion may be refiled by the named defendant if the defendant is properly named and identified by the plaintiff.

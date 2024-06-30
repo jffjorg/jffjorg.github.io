@@ -1,0 +1,57 @@
+Here is the summary in YAML format:
+
+```
+case_number: 22STCV05758
+plaintiff: Dong Youb Lee
+defendant: Academy of Couture Art, Inc., et al.
+people_names:
+  - Dong Youb Lee
+  - (corporate officers and directors)
+company_names:
+  - Academy of Couture Art, Inc.
+  - Hollywood World Entertainment Incorporated
+  - Global Entertainment Management, Inc.
+places:
+  - California
+dates:
+  - June 2, 2023
+  - October 13, 2023
+events:
+  - Motion to strike answers
+  - Default entry
+money: None
+intentions:
+  - Plaintiff seeks to strike Defendants' answers
+  - Plaintiff seeks entry of default against Defendants
+facts:
+  - Defendants are corporate entities
+  - Defendants are not represented by counsel
+  - Corporate entities cannot represent themselves in court
+disputes:
+  - Plaintiff vs. Defendants
+acts:
+  - Plaintiff filed motion to strike answers
+  - Plaintiff sought entry of default against Defendants
+  - Judge granted motion to strike answers and entered default against Defendants
+agreements: None
+laws:
+  - CCP § 435
+  - CCP § 436
+  - California Business and Professions Code § 6125
+  - CLD Construction, Inc. v. City of San Ramon (2004)
+  - Hearst v. Hart (1900)
+statutes:
+  - CCP § 435
+  - CCP § 436
+  - California Business and Professions Code § 6125
+roles:
+  - Moving party: Dong Youb Lee
+  - Respondent: Academy of Couture Art, Inc., et al.
+significant_statements:
+  - "A corporation, unlike a natural person, cannot represent itself before courts of record in propria persona, nor can it represent itself through a corporate officer, director or other employee who is not an attorney."
+  - "If the corporate agent who would likely appear on behalf of the corporation in court proceedings, e.g., an officer or director, is not an attorney, that person would be engaged in the unlicensed practice of law."
+```
+
+And here is the summary text:
+
+This tentative ruling grants Plaintiff Dong Youb Lee's motion to strike the answers of Defendants Academy of Couture Art, Inc., Hollywood World Entertainment Incorporated, and Global Entertainment Management, Inc. in their entirety. The Defendants are corporate entities that have not been represented by counsel since June 2, 2023, and are therefore not able to represent themselves in court. Pursuant to CCP § 436, the Court strikes the Defendants' answers and enters default against them. The Court also notes that a corporation must be represented by licensed counsel in proceedings before courts of record, and that the unlicensed practice of law is prohibited in California.

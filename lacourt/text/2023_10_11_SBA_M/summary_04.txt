@@ -1,0 +1,52 @@
+Here is the summary of the judge's tentative ruling in YAML format:
+
+```
+case_number: 23TRCV01184
+hearing_date: October 11, 2023
+dept: M
+judge: [Judge's name]
+
+parties:
+  - plaintiff: Jakob Medina
+  - defendant: Volkswagen Group of America, Inc.
+
+motions:
+  - motion_to_compel: yes
+  - motion_to_compel_description: Motion to Compel Further Responses to Plaintiff's Request for Production of Documents, Set One
+
+issues:
+  - discovery: yes
+  - relevance: yes
+  - good_cause: yes
+  - objections: yes
+
+requests:
+  - document_requests: 1-37
+
+responses:
+  - responses_accepted: 1-5, 7, 8, 10-15, 16-28, 31, and 34-35
+  - responses_denied: 6, 9, 29, 30, and 32
+  - responses_granted: 33, 36, and 37
+
+orders:
+  - order_to_produce: yes
+  - order_to_produce_description: Defendant is ordered to produce responsive documents within 20 days
+  - order_to_produce_documents: 33, 36, and 37
+  - order_to_produce_exceptions: 6, 9, 29, 30, and 32
+```
+
+Here is a summary of the judge's tentative ruling in English text:
+
+The court has issued a tentative ruling on the motion to compel further responses to plaintiff's request for production of documents, set one. The motion is deemed MOOT as to requests 1-5, 7, 8, 10-15, 16-28, 31, and 34-35, as defendant has purportedly produced responsive documents after the protective order was entered.
+
+The court grants the motion as to requests 33, 36, and 37, and denies it as to requests 6, 9, 29, 30, and 32.
+
+The court finds that defendant's responses to requests 6, 9, 29, 30, and 32 are insufficient and orders defendant to produce responsive documents within 20 days.
+
+The court orders defendant to produce responsive documents as to requests 33, 36, and 37.
+
+The court notes that defendant's objections to requests 32, 33, 36, and 37 lack merit, and that plaintiff has shown good cause for the requests.
+
+The court finds that defendant's responses to requests 32, 33, 36, and 37 are sufficient and orders defendant to produce responsive documents.
+
+The court orders plaintiff to give notice of the ruling.

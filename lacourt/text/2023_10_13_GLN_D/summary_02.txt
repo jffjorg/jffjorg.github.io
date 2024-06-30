@@ -1,0 +1,92 @@
+Here is a summary of the tentative ruling in YAML format:
+
+```
+case:
+  number: 21STV28230
+  name: Morales, et al. v. Panares, M.D., et al.
+  parties:
+    - Morales, Francesca (Plaintiff)
+    - Morales, Robert Nathan (Plaintiff)
+    - Morales, Matthew Ethan Kyle (Plaintiff)
+    - Panares, M.D. (Defendant)
+    - Salhotra, M.D. (Defendant)
+    - City of Hope National Medical Center (Defendant)
+
+people:
+  - Padley, Dawn (Expert Witness)
+  - Hemmen, Thomas (Expert Witness)
+  - Miller, Becky J. (Expert Witness)
+  - Polanco, Reina (Witness)
+
+companies:
+  - City of Hope National Medical Center
+
+places:
+  - Orange County
+  - California
+
+dates:
+  - June 8, 2020
+  - June 18, 2020
+  - July 22, 2020
+  - July 31, 2020
+  - December 6, 2021
+  - May 31, 2023
+  - June 1, 2023
+
+events:
+  - Fall of decedent
+  - Discharge of decedent
+  - Death of decedent
+
+money:
+  - None mentioned
+
+intentions:
+  - To determine whether defendant's conduct met the applicable standard of care
+
+facts:
+  - Decedent was admitted to City of Hope with a diagnosis of cellulitis and abscess of leg, and acute myeloid leukemia in relapse
+  - Decedent sustained a fall on June 8, 2020, which caused left frontal and temporal subdural hematoma and left lateral periorbital hematoma
+  - Decedent was discharged to his family on June 18, 2020
+  - Decedent died on July 31, 2020, due to cardiopulmonary failure and left frontal and temporal subdural hematoma and left lateral periorbital hematoma secondary to the fall
+
+disputes:
+  - Whether defendant's conduct met the applicable standard of care
+  - Whether defendant's negligence caused decedent's death
+
+acts:
+  - Fall of decedent
+  - Discharge of decedent
+  - Death of decedent
+
+agreements:
+  - None mentioned
+
+laws:
+  - California Code of Civil Procedure section 437c(p)(2)
+  - California Evidence Code section 1271
+  - California Evidence Code section 801
+  - Civil Code section 1714(a)
+
+case citations:
+  - Elam v. College Park Hospital (1982) 132 Cal.App.3d 332
+  - Landeros v. Flood (1976) 17 Cal.3d 399
+  - Gin Non Louie v. Chinese Hospital Assn. (1967) 249 Cal.App.2d 774
+  - Stephenson v. Kaiser Foundation Hospitals (1962) 203 Cal.App.2d 631
+  - Salasguevera v. Wyeth Laboratories, Inc. (1990) 222 Cal.App.3d 379
+  - Bromme v. Pavitt (1992) 5 Cal.App.4th 1487
+  - Hanson v. Grode (1999) 76 Cal.App.4th 601
+  - Kelley v. Trunk (1998) 66 Cal.App.4th 519
+  - Westbrooks v. State of California (1985) 173 Cal.App.3d 1203
+  - Caloroso v. Hathaway (2004) 122 Cal.App.4th 922
+  - Edwards v. California Sports, Inc. (1988) 2nd Dist. 206 Cal.App.3d 1284
+
+roles:
+  - Judge: [Undisclosed]
+  - Parties: Plaintiffs and Defendants
+  - Expert Witnesses: Padley, Hemmen, and Miller
+  - Witness: Polanco
+```
+
+This summary includes the case number, name, parties, people, companies, places, dates, events, money, intentions, facts, disputes, acts, agreements, laws, case citations, and roles.

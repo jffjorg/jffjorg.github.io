@@ -1,0 +1,69 @@
+Here is the summary of the Judge's Tentative Ruling in YAML format:
+
+```
+case_number: 23VECV00978
+hearing_date: October 16, 2023
+dept: W
+plaintiff: Sophia Shloss
+defendants:
+  - Petros Gharibyan
+  - Vazrik Gharibyan
+people_names:
+  - Sophia Shloss
+  - Petros Gharibyan
+  - Vazrik Gharibyan
+company_names: []
+places: []
+dates:
+  - February 26, 2022
+  - March 6, 2023
+  - July 1, 2022
+  - October 12, 2023
+events:
+  - Accident
+  - Filing of complaint
+  - Motion to stay
+  - Motion to strike
+  - Motion to consolidate
+money:
+  - No specific amount mentioned
+intentions:
+  - Stay the civil proceeding due to pending criminal case
+  - Strike portions of plaintiff's complaint
+  - Consolidate cases
+facts:
+  - Accident occurred on February 26, 2022
+  - Defendant Petros Gharibyan is facing criminal charges
+  - Plaintiff alleges negligence and premises liability
+disputes:
+  - Plaintiff's claim for punitive damages
+acts:
+  - Defendant Petros Gharibyan's alleged reckless driving
+  - Defendant Vazrik Gharibyan's alleged negligent entrustment
+agreements: []
+laws:
+  - California Civil Code section 3294
+  - California Code of Civil Procedure section 1048
+  - California Rules of Court rule 3.350(a)(1)
+statutes:
+  - Penal Code §187(A) (murder)
+  - Vehicle Code §23101(A) (reckless driving)
+roles:
+  - Judge
+  - Plaintiff
+  - Defendant
+  - Attorney
+significant_statements:
+  - Defendant Petros Gharibyan's Fifth Amendment rights are implicated
+  - The court grants the motion to stay the civil proceeding as to Defendant Petros Gharibyan
+  - The court grants the motion to strike portions of plaintiff's complaint with leave to amend
+  - The court denies the motion to consolidate cases without prejudice
+```
+
+And here is a summary of the Judge's Tentative Ruling in English text:
+
+The Judge grants the motion to stay the civil proceeding as to Defendant Petros Gharibyan due to the pending criminal case against him. The Judge also grants the motion to strike portions of the plaintiff's complaint with leave to amend. The Judge denies the motion to consolidate the three cases without prejudice.
+
+The Judge orders that Defendant Petros Gharibyan may participate in depositions noticed by the plaintiff or Defendant Vazrik Gharibyan and may ask questions and receive copies of discovery between those parties, but may not issue discovery requests or respond to them at this time.
+
+The Judge finds that the allegations in the complaint regarding Defendant Petros Gharibyan's erratic driving and Defendant Vazrik Gharibyan's negligent entrustment are insufficient to support a claim for punitive damages. However, the Judge believes that the proposed allegations of Defendant Petros driving more than twice the posted speed limit around a sharp corner, running a red light before the subject crash, a previous arrest for reckless driving, and Defendant Vazrik's knowledge of Petros' arrest for reckless driving would show that the risk of injury was probable and warrant a request for punitive damages.

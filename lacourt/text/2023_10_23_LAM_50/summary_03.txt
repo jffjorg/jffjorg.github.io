@@ -1,0 +1,65 @@
+Here is the summary in YAML format:
+
+```
+case_number: 21STCV23520
+plaintiff_names:
+  - C&M Investment Group, Ltd.
+  - Karlin Holdings Limited Partnership
+defendant_names:
+  - Harvey Champlin
+people_names:
+  - Philip Richard Powers
+company_names:
+  - C&M Investment Group, Ltd.
+  - Karlin Holdings Limited Partnership
+places:
+  - Los Angeles
+  - California
+dates:
+  - June 23, 2021
+  - October 24, 2022
+  - November 30, 2022
+  - January 17, 2023
+  - February 17, 2023
+  - March 20, 2023
+  - October 23, 2023
+events:
+  - Deposition
+  - Informal Discovery Conference (IDC)
+  - Motion to Compel
+money:
+  - None mentioned
+intentions:
+  - Plaintiffs' intention to compel Philip Richard Powers to provide responses to deposition questions
+facts:
+  - Plaintiffs filed this action against Defendant Harvey Champlin
+  - Plaintiffs served Philip Richard Powers with a deposition subpoena
+  - Powers appeared for deposition but refused to answer most questions
+  - Plaintiffs filed a motion to compel Powers to provide responses to deposition questions
+disputes:
+  - Powers' invocation of the Fifth Amendment privilege to refuse to answer questions
+acts:
+  - Plaintiffs' filing of a motion to compel
+  - Defendant's failure to respond to deposition questions
+  - Court's consideration of the motion
+agreements:
+  - None mentioned
+laws:
+  - California Code of Civil Procedure Section 2025.480 et seq.
+  - California Rules of Court, rule 3.1346
+statutes:
+  - California Code of Civil Procedure Section 2025.480
+  - California Code of Civil Procedure Section 2025.010
+roles:
+  - Judge
+  - Plaintiffs
+  - Defendant
+  - Witness
+significant statements:
+  - "If a deponent fails to answer any question or to produce any document, electronically stored information, or tangible thing under the deponent's control that is specified in the deposition notice or a deposition subpoena, the party seeking discovery may move the court for an order compelling that answer or production."
+  - "This motion shall be made no later than 60 days after the completion of the record of the deposition, and shall be accompanied by a meet and confer declaration under Section 2016.040."
+```
+
+And here is a summary of the judge's tentative ruling in English text:
+
+The judge has denied the plaintiffs' motion to compel Philip Richard Powers to provide responses to deposition questions. The motion was filed over 60 days after the completion of the deposition record and did not include a meet and confer declaration as required by the code. Additionally, the proof of service indicates that Powers was served with the motion by mail, but the judge does not find that this meets the requirements of California Rules of Court, rule 3.1346. The judge notes that the plaintiffs have not demonstrated that the requirements for filing a motion to compel have been satisfied.

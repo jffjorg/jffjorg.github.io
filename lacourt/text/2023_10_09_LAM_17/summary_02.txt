@@ -1,0 +1,58 @@
+Here is the summary in YAML format:
+
+```
+case_number: 23STCV12769
+plaintiff_name: Timothy Kinman
+defendant_name: Manhattan Loft LLC et al.
+people_names:
+  - Timothy Kinman
+  - FPI Management (Defendant)
+company_names:
+  - Manhattan Loft LLC
+  - FPI Management
+places:
+  - Los Angeles
+  - California
+dates:
+  - June 5, 2023
+  - October 9, 2023
+events:
+  - Filings of lawsuit
+  - Demurrer to Plaintiff's claims
+money:
+  - None mentioned
+intentions:
+  - To determine the sufficiency of Plaintiff's claims
+facts:
+  - Allegations of habitability violations
+  - Allegations of negligence
+  - Allegations of intentional infliction of emotional distress
+disputes:
+  - Plaintiff's claims against Defendant
+acts:
+  - Failure to repair habitability violations
+  - Failure to provide written notice of alleged violations
+agreements:
+  - Civil Code section 1942.4
+  - California Welfare and Institutions Code section 15600
+laws:
+  - Civil Code section 1942.4
+  - California Welfare and Institutions Code section 15600
+  - Los Angeles Municipal Code section 45.33
+  - California Civil Code section 1782(a)
+statutes:
+  - Civil Code section 1942.4
+  - California Welfare and Institutions Code section 15600
+  - Los Angeles Municipal Code section 45.33
+  - California Civil Code section 1782(a)
+roles:
+  - Judge: Hon. Jon R. Takasugi
+  - Plaintiff: Timothy Kinman
+  - Defendant: Manhattan Loft LLC et al.
+significant_statements:
+  - The Court sustains Defendant's demurrer to the first, second, third, fourth, sixth, seventh, eighth, ninth, tenth, eleventh, twelfth, and thirteenth causes of action with 15 days leave to amend.
+```
+
+And here is a summary in English text:
+
+This is a tentative ruling by Judge Hon. Jon R. Takasugi in a lawsuit brought by Timothy Kinman against Manhattan Loft LLC and others. The lawsuit alleges various claims, including habitability violations, negligence, intentional infliction of emotional distress, and violations of various statutes. The defendant, FPI Management, demurred to these claims, arguing that they were insufficiently pled. The court agrees, sustaining the demurrer to the first, second, third, fourth, sixth, seventh, eighth, ninth, tenth, eleventh, twelfth, and thirteenth causes of action, with 15 days leave to amend. The court also notes that the plaintiff has failed to plead specific facts to support many of these claims, including allegations of contract and tortious breach of the warranty of habitability. The court orders that the defendant's motion to strike is moot.

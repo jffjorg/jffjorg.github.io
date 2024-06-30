@@ -1,0 +1,64 @@
+Here is a summary of the tentative ruling in YAML format:
+
+```
+case_number: 23STCV11722
+hearing_date: October 13, 2023
+dept: 50 Superior Court of California
+places:
+  - Los Angeles County
+  - Orange County
+  - Commerce, CA
+dates:
+  - March 20, 2019
+  - September 30, 2020
+  - June 15, 2021
+  - October 28, 2022
+events:
+  - Execution of employment agreement
+  - Change of position from Operations Manager to Branch Manager
+  - Filing of complaint
+  - Motion to compel arbitration and stay action
+money:
+  - Unpaid wages
+  - Profit share
+  - Arbitration fees
+  - Attorney's fees and costs
+intensions:
+  - To compel arbitration and stay action
+  - To determine arbitrability of disputes
+facts:
+  - Plaintiff worked for Empire from March 20, 2019 to October 28, 2022
+  - Plaintiff executed an employment agreement on September 30, 2020
+  - Plaintiff alleges breaches of the employment agreement
+disputes:
+  - Arbitrability of disputes
+  - Waiver of arbitration
+  - Breach of the employment agreement
+acts:
+  - Execution of employment agreement
+  - Filing of complaint
+  - Motion to compel arbitration and stay action
+agreements:
+  - Employment agreement
+  - Arbitration agreement
+laws:
+  - California Code of Civil Procedure sections 1281.2, 1281.97, and 1281.98
+  - Federal Arbitration Act (FAA)
+citations:
+  - Rosenthal v. Great Western Fin. Securities Corp. (1996) 14 Cal.4th 394
+  - Coast Plaza Doctors Hospital v. Blue Cross of California (2000) 83 Cal.App.4th 677
+  - Higgins v. Superior Court (2006) 140 Cal.App.4th 1238
+  - Aanderud v. Superior Court (2017) 13 Cal.App.5th 880
+  - Josefsberg v. YMCA of Metropolitan Los Angeles (1993) 17 Cal.App.4th 158
+  - Baker v. Osborne Development Corp. (2008) 159 Cal.App.4th 884
+  - Gallo v. Wood Ranch USA, Inc. (2022) 81 Cal.App.5th 621
+  - Omar v. Ralphs Grocery Co. (2004) 118 Cal.App.4th 955
+roles:
+  - Plaintiff: Marlene Cornejo
+  - Defendant: Atlantic Solutions Group Inc. and Adam Kidan
+significant_statements:
+  - The language of the delegation clause is clear and unmistakable.
+  - The delegation clause provides that the arbitrator shall have authority to determine jurisdiction, including to resolve all issues of arbitrability.
+  - The Court finds that Defendants have demonstrated the existence of an arbitration agreement.
+  - The Court does not find that Plaintiff has met her burden of demonstrating that the delegation clause is unenforceable due to unconscionability.
+  - The Court finds that whether Plaintiff's claims in this action are covered by the Agreement to Arbitrate is a question for the arbitrator

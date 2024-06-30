@@ -1,0 +1,65 @@
+Here is the summary in YAML format:
+
+```
+Case Number: BC703498
+Plaintiff's Name: Susana Menendez
+Defendant's Name: Blanca Schlup, ET AL.
+People-Names:
+  - Brian Miller
+  - Blanca Schlup
+  - Martha Bautista
+  - Jack Colocho
+  - Denise Colocho
+  - Catalina Colocho
+Company-Names: None
+Places:
+  - Los Angeles
+  - California
+Dates:
+  - April 24, 2018
+  - July 31, 2018
+  - March 30, 2021
+  - August 6, 2020
+  - August 19, 2022
+  - July 20, 2023
+  - October 11, 2023
+Events:
+  - Dog bite
+  - Cross-complaint
+  - Default judgment
+  - Motion to set aside default
+  - Notice of dismissal
+Money: None
+Intentions:
+  - To set aside default judgment
+  - To recover damages
+Facts:
+  - Plaintiff Brian Miller filed an action against defendants Blanca Schlup, et al.
+  - Blanca Schlup and Martha Bautista filed a cross-complaint against Jack Colocho, Denise Colocho, and Catalina Colocho
+  - Plaintiff settled with Schlup and Bautista
+  - Schlup and Bautista moved to set aside default judgment against Jack Colocho
+Disputes:
+  - Timeliness of motion to set aside default
+Acts:
+  - Entry of default against Jack Colocho
+  - Service of Statement of Damages upon Jack Colocho
+  - Denial of default judgment
+  - Filing of motion to set aside default
+Agreements:
+  - Settlement between Plaintiff and Schlup and Bautista
+Laws:
+  - CCP § 473(b)
+Case Citations:
+  - Graham v. Beers (1994) 30 Cal.App.4th 1656
+  - Leader v. Health Indus. of America, Inc. (2001) 89 Cal.App.4th 603
+Statutes:
+  - CCP § 473(b)
+Roles:
+  - Judge: Hon. Michelle C. Kim
+Significant Statements:
+  - "The motion is untimely, and therefore DENIED."
+```
+
+And here is the English-text summary:
+
+The judge's tentative ruling is on a motion to set aside a default judgment against Jack Colocho. The case was filed by Plaintiff Brian Miller against defendants Blanca Schlup, et al., and a cross-complaint was filed by Schlup and Martha Bautista against Jack Colocho, Denise Colocho, and Catalina Colocho. Schlup and Bautista settled with Plaintiff, and now they are moving to set aside the default judgment against Jack Colocho due to mistake, inadvertence, and excusable neglect. The judge is denying the motion because it is untimely, filed 3 years after the entry of default and 11 months after being notified of the issue.

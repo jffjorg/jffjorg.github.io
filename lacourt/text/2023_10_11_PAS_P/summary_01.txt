@@ -1,0 +1,102 @@
+Here is the summary of the judge's tentative ruling in YAML format:
+
+```
+case_number: 18BBCV00147
+hearing_date: October 11, 2023
+dept: P
+
+plaintiff:
+  - name: Intermedia Film Distribution, Ltd.
+    type: Corporation
+
+defendant:
+  - name: NBC Universal Media, LLC
+    type: Corporation
+  - name: LEI Development Projects, Inc.
+    type: Corporation
+  - name: Christopher Taylor
+    type: Individual
+  - name: Does 1-10
+    type: Unknown
+
+people:
+  - name: Largo Entertainment, Inc.
+    type: Corporation
+
+companies:
+  - name: Intermedia Film Distribution, Ltd.
+    type: Corporation
+  - name: NBC Universal Media, LLC
+    type: Corporation
+  - name: LEI Development Projects, Inc.
+    type: Corporation
+  - name: Largo Entertainment, Inc.
+    type: Corporation
+
+places:
+  - name: Los Angeles
+    type: City
+
+dates:
+  - May 9, 2000
+  - December 14, 2001
+  - June 2002
+  - September 2003
+  - May 16, 2023
+  - October 11, 2023
+
+events:
+  - Timecop film release
+  - Timecop 2 film release
+  - Arbitration proceeding
+
+money:
+  - $400,000
+
+intentions:
+  - Intermedia seeks to assert claims against Universal for breach of contract
+
+facts:
+  - Intermedia acquired rights to Timecop from Largo Entertainment, Inc.
+  - Largo Entertainment, Inc. sold rights to Timecop to LEI Development Projects, Inc. and Christopher Taylor
+  - LEI Development Projects, Inc. and Christopher Taylor sold rights to Timecop to NBC Universal Media, LLC
+  - NBC Universal Media, LLC released Timecop 2 in Japan without Intermedia's consent
+
+disputes:
+  - Intermedia alleges that NBC Universal Media, LLC breached its contract with Intermedia
+
+acts:
+  - NBC Universal Media, LLC released Timecop 2 in Japan without Intermedia's consent
+  - LEI Development Projects, Inc. and Christopher Taylor sold rights to Timecop to NBC Universal Media, LLC
+
+agreements:
+  - Universal Purchase Agreement (UPA)
+  - Intermedia Asset Purchase Agreement (APA)
+  - LEI-Universal 2002 Agreement
+  - Largo-LEI 2002 Agreement
+
+laws:
+  - California Code of Civil Procedure §430.10(e)
+  - California Code of Civil Procedure §337(a)
+  - California Code of Civil Procedure §339(1)
+  - Evidence Code §452
+
+case_citations:
+  - Tindell v. Murphy (2018) 22 Cal.App.5th 1239
+  - Donabedian v. Mercury Ins. Co. (2004) 116 Cal.App.4th 968
+  - Iverson, Yoakum, Papiano & Hatch v. Berwald (1999) 76 Cal.App.4th 990
+  - Vaca v. Wachovia Mortgage Corp. (2011) 198 Cal.App.4th 737
+  - Lockton v. O’Rourke (2010) 184 Cal.App.4th 1051
+  - NBC Universal Media, LLC v. Superior Court (2014) 225 Cal.App.4th 1222
+  - Ginsberg v. Gamson (2012) 205 Cal.App.4th 873
+  - Knoell v. Petrovich (1999) 76 Cal.App.4th 164
+
+roles:
+  - Judge: Margaret L. Oldendorf
+  - Plaintiff: Intermedia Film Distribution, Ltd.
+  - Defendant: NBC Universal Media, LLC
+```
+
+Summary:
+
+The judge sustains the demurrer to the Fourth Amended Complaint without leave to amend. The claims are all barred by their applicable statutes of limitation. The court finds that the plaintiff, Intermedia Film Distribution, Ltd., has not alleged any new facts that would toll the statute of limitations. The court also finds that the plaintiff's delayed discovery allegations fail because they are focused on discovery of the source of distribution rather than the distribution itself. The court recognizes that this is an anomalous result because the arbitrator reached a contrary conclusion with respect to the statute of limitations in the arbitration award.

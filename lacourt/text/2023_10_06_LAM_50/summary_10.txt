@@ -1,0 +1,81 @@
+Here is the summary in YAML format:
+
+```
+case_number: BC665798
+hearing_date: October 6, 2023
+department: 50
+county: Los Angeles
+plaintiff: Consumer Advocacy Group, Inc., et al.
+defendant: Gel Spice Company, Inc., et al.
+people_names:
+  - Andrew Kuszyński
+  - Dennis Raglin
+  - Kenneth W. Ralidis
+  - Rolf M. Treu
+company_names:
+  - Olam
+  - Gel Spice Company, Inc.
+  - Consumer Advocacy Group, Inc.
+places:
+  - Los Angeles
+dates:
+  - June 20, 2017
+  - January 19, 2021
+  - July 6, 2022
+  - October 18, 2022
+  - October 20, 2022
+  - November 4, 2022
+  - January 9, 2023
+  - January 30, 2023
+  - January 10, 2023
+  - September 7, 2023
+  - September 29, 2023
+  - October 6, 2023
+events:
+  - Deposition of Gel Spice's Person Most Qualified
+  - Informal Discovery Conference
+  - Motion to Compel Production of Documents
+  - Request for Monetary Sanctions
+money:
+  - $1,935.00
+intentions:
+  - Compel production of documents
+  - Seek monetary sanctions
+facts:
+  - Gel Spice failed to produce documents responsive to plaintiff's deposition notice
+  - Plaintiff seeks to compel production of documents
+  - Gel Spice claims it has produced all documents in response to plaintiff's request
+disputes:
+  - Dispute over production of documents
+  - Dispute over sanctions
+acts:
+  - Gel Spice failed to produce documents
+  - Plaintiff filed motion to compel production
+  - Gel Spice produced documents in response to motion
+agreements:
+  - Tentative agreement reached at Informal Discovery Conference
+  - Gel Spice agreed to provide documents for "attorneys' eyes only"
+laws:
+  - Code of Civil Procedure section 2025.480
+  - Code of Civil Procedure section 2016.040
+case_citations:
+  - Clement v. Alegre (2009) 177 Cal.App.4th 1277
+statutes:
+  - Proposition 65
+roles:
+  - Judge: Rolf M. Treu
+  - Plaintiff: Consumer Advocacy Group, Inc., et al.
+  - Defendant: Gel Spice Company, Inc., et al.
+significant_statements:
+  - The Court finds that the instant motion is moot.
+  - The Court denies plaintiff's request for sanctions.
+  - The Court denies Gel Spice's request for sanctions.
+```
+
+Here is a summary of the judge's tentative ruling in English text:
+
+The judge has issued a tentative ruling in a case between Consumer Advocacy Group, Inc. (plaintiff) and Gel Spice Company, Inc. (defendant). The case is about a motion to compel production of documents and a request for monetary sanctions.
+
+The judge finds that the motion is moot because the defendant has already produced the requested documents in response to the plaintiff's deposition notice. The judge also denies the plaintiff's request for sanctions because the defendant did not take any improper actions in resisting discovery. Additionally, the judge denies the defendant's request for sanctions because it does not cite to any legal authority in support of its request.
+
+The judge orders the defendant to give notice of this ruling.

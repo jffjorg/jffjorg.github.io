@@ -1,0 +1,77 @@
+Here is the summary of the judge's tentative ruling in YAML format:
+
+**Case Information**
+```yaml
+Case Number: 23STCV11567
+Hearing Date: October 23, 2023
+Dept: 68 Artin
+```
+
+**Parties**
+```yaml
+Plaintiff: Artin Arakelian
+Defendants: Bloomingdales, LLC, Lawrence Quijada
+```
+
+**Background**
+```yaml
+Employment law case
+Plaintiff sued Defendants for harassment and discrimination
+Plaintiff filed the lawsuit on May 23, 2023
+```
+
+**Motion to Compel Arbitration**
+```yaml
+Defendants moved to compel arbitration based on a form signed by Plaintiff
+Form: Solutions InSTORE New Hire Acknowledgment
+Agreement states that disputes will be resolved through arbitration
+Plaintiff did not opt out of arbitration within 30 days
+```
+
+**Opposition**
+```yaml
+Plaintiff opposes the motion
+Arguments:
+  1. No evidence that Plaintiff electronically signed the document
+  2. No indication that Plaintiff was signing a binding agreement to arbitrate
+  3. The onboarding documents were signed at the same time, without review
+  4. The agreement is procedurally and substantively unconscionable
+  5. Defendant Lawrence Quijada is not a party to the arbitration agreement
+```
+
+**Reply**
+```yaml
+Defendants argue that they met their burden to show an arbitration agreement exists
+Plaintiff does not deny signing the New Hire Acknowledgment form
+Plaintiff admits to signing the documents because he had to create a unique password
+Security procedures surround the onboarding process
+```
+
+**Legal Standard**
+```yaml
+California law incorporates Federal Arbitration Act policies
+Presumption in favor of arbitrability
+Petitioner bears the burden of proving existence of a valid arbitration agreement
+```
+
+**Analysis**
+```yaml
+A. Existence of an Agreement
+  1. Electronic signatures are valid and enforceable under California law
+  2. Document provided by Defendants shows an agreement exists between parties
+
+B. Unconscionability
+  1. Procedural Unconscionability
+    * Not procedurally unconscionable due to lack of surprise or sharp practices
+  2. Substantive Unconscionability
+    * Agreement meets minimal requirements: no limitation on damages, sufficient discovery, written arbitration decision, and employer pays all costs
+
+C. Inclusion of Individual Defendant
+  1. Plan Document includes provision that arbitration applies to disputes with employees, officers, or agents
+  2. Mr. Quijada may be a party to the arbitration
+```
+
+**Order**
+```yaml
+Defendants' motion to compel arbitration is GRANTED
+```
