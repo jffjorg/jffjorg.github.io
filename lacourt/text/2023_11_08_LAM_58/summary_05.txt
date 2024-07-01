@@ -1,0 +1,53 @@
+Here is the summary in YAML format:
+
+```
+case_number: "Not specified"
+plaintiff_name: "Not specified"
+defendant_name: "Score-Mexico"
+people_names:
+  - "Washington Mutual"
+  - "Kearney"
+  - "Salomon Smith Barney"
+  - "Smith"
+  - "Cimmet"
+  - "Beech Aircraft Corp."
+companies:
+  - "Washington Mutual Bank"
+  - "Salomon Smith Barney, Inc."
+  - "Score-Mexico"
+places: []
+dates:
+  - "2001"
+  - "2006"
+  - "2011"
+  - "1976"
+events:
+  - "Conflict of laws inquiry"
+  - "Negligence"
+  - "Negligent Hiring, Supervision, and Retention"
+money: []
+intentions: []
+facts:
+  - "Two causes of action alleged against Score-Mexico"
+  - "Claims treated as substantively the same"
+disputes:
+  - "Conflict of laws inquiry"
+acts: []
+agreements: []
+laws:
+  - "California Constitution"
+  - "California Code"
+case_citations:
+  - "Washington Mutual Bank v. Superior Court (2001) 24 Cal.4th 906"
+  - "Kearney v. Salomon Smith Barney, Inc. (2006) 39 Cal.4th 95"
+  - "Smith v. Cimmet (2011) 199 Cal.App.4th 1381"
+  - "Beech Aircraft Corp. v. Superior Court (1976) 61 Cal.App.3d 501"
+statutes: []
+roles: []
+significant_statements:
+  - "A separate conflict of laws inquiry must be made with respect to each issue in the case."
+```
+
+And here is the English-text summary:
+
+The judge's tentative ruling highlights the importance of a separate conflict of laws inquiry for each issue in the case. The ruling cites several California Supreme Court and Appellate Court cases that emphasize the need for a distinct analysis of state interests underlying each issue. The case involves a First Amended Complaint filed by a plaintiff against Score-Mexico, alleging two causes of action: negligence and Negligent Hiring, Supervision, and Retention. The defendant and the plaintiff treat these claims as substantively the same. The judge's ruling suggests that a separate conflict of laws inquiry will be necessary to address each of these claims individually.

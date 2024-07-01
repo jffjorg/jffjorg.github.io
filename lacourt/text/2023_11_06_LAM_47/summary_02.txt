@@ -1,0 +1,56 @@
+Here is the summary in YAML format:
+
+```
+case_number: 23STCV06115
+plaintiff_name: Kevin Ryan
+defendant_name: Metropolitan Animal Specialty Hospital, Eileen Wong, DVM, DACVECC
+people_names:
+  - Kevin Ryan
+  - Eileen Wong
+company_names:
+  - Metropolitan Animal Specialty Hospital
+  - NVA MASH Capital Partners LP
+places:
+  - California
+dates:
+  - March 20, 2023
+  - July 26, 2023
+  - November 6, 2023
+events:
+  - Demurrer filed
+  - Motion to strike filed
+money:
+  - Punitive damages
+intentions:
+  - Intentional infliction of emotional distress
+facts:
+  - Plaintiff's service dog was misdiagnosed and underwent unnecessary surgeries
+  - Plaintiff alleges Defendants exceeded the scope of consent given
+  - Plaintiff seeks punitive damages under Civil Code section 3340
+disputes:
+  - Demurrer to the third cause of action for intentional infliction of emotional distress
+  - Motion to strike Plaintiff's prayer for punitive damages
+acts:
+  - Demurrer filed
+  - Motion to strike filed
+agreements:
+  - None
+laws:
+  - Civil Code section 3340
+  - Code of Civil Procedure sections 425.13, 436, 435.5
+  - Restatement of Torts section 256
+statutes:
+  - California Civil Code section 3340
+  - California Code of Civil Procedure sections 425.13, 436, 435.5
+roles:
+  - Judge: Theresa M. Traber
+  - Plaintiff: Kevin Ryan
+  - Defendant: Metropolitan Animal Specialty Hospital, Eileen Wong, DVM, DACVECC
+significant_statements:
+  - The Court finds that Plaintiff has failed to allege extreme and outrageous conduct contemplated by the tort of intentional infliction of emotional distress.
+  - The Court sustains the demurrer to the third cause of action for intentional infliction of emotional distress.
+  - The Court overrules the demurrer to the second cause of action for trespass to chattel.
+  - The Court denies the motion to strike Plaintiff's prayer for punitive damages.
+```
+
+Note that some of the fields may not be applicable to this specific case, but I've included them for completeness.

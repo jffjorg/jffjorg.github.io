@@ -1,0 +1,76 @@
+Here is the summary in YAML format:
+
+```yaml
+case_number: 22STCV32849
+plaintiff_name: Marvin Kay
+defendant_name: Gregory A. Yates, et al.
+people:
+  - Edward Steinbrecher
+  - Gregory A. Yates
+  - Steve Vartazarian
+  - Anthony Miramontes
+company_names:
+  - Edward Steinbrecher, P.C.
+  - Gregory A. Yates, P.C.
+  - Vartazarian law Firm
+  - United Parcel Services, Inc.
+places:
+  - California
+dates:
+  - May 2019
+  - October 28, 2021
+  - December 1, 2021
+  - October 30, 2023
+events:
+  - Death of Edward Steinbrecher
+  - Probate court appointment of Marvin Kay as practice administrator
+  - Negotiation of agreement between Marvin Kay and Gregory A. Yates
+  - Settlement of Miramontes case
+  - Filing of ex parte application to unseal petition for approval of claim or action
+money:
+  - $4 million (value of Steinbrecher's work)
+  - $1,000 per hour (rate of Steinbrecher's work)
+  - Over $4 million (settlement amount of Miramontes case)
+intentions:
+  - Plaintiff intends to recover attorney's fees earned by Gregory A. Yates
+facts:
+  - Edward Steinbrecher was an attorney who maintained a practice
+  - Marvin Kay was appointed as practice administrator after Steinbrecher's death
+  - Steinbrecher was handling a personal injury case on behalf of Anthony Miramontes
+  - Plaintiff and Gregory A. Yates negotiated an agreement regarding the Miramontes case
+  - The Miramontes case settled, but Defendants did not pay Plaintiff the required attorney's fees
+disputes:
+  - Dispute over payment of attorney's fees earned by Gregory A. Yates
+  - Dispute over settlement of Miramontes case
+acts:
+  - Plaintiff filed an ex parte application to unseal petition for approval of claim or action
+  - Defendants agreed to stipulate that Case Number BC661807 settled for over $4 million
+agreements:
+  - Agreement between Marvin Kay and Gregory A. Yates regarding the Miramontes case
+laws:
+  - California probate code
+  - California civil code
+case_citations:
+  - BC661807
+  - 22STCV32849
+statutes:
+  - California Probate Code
+  - California Civil Code
+roles:
+  - Marvin Kay (plaintiff)
+  - Gregory A. Yates (defendant)
+  - Edward Steinbrecher (decased attorney)
+  - Steve Vartazarian (defendant)
+  - Vartazarian law Firm (defendant)
+  - United Parcel Services, Inc. (defendant)
+  - Anthony Miramontes (plaintiff in related case)
+significant_statements:
+  - The Court denies the ex parte application to unseal the petition for approval of claim or action
+  - The petition was not filed under seal, so Plaintiff's counsel can access it through the docket
+  - The settlement and disbursal amounts are publicly available
+  - The Court orders Plaintiff's counsel to provide notice and file proof with the Court
+```
+
+And here is a summary of the judge's tentative ruling in English text:
+
+The judge has issued a tentative ruling denying an ex parte application to unseal a petition for approval of a claim or action related to a settled personal injury case. The plaintiff, Marvin Kay, had filed the application to gain access to information about the case, which was handled by an attorney who passed away. The judge denies the application because the petition was not filed under seal, and therefore, the plaintiff's counsel can access it through the docket. Additionally, the defendants have agreed to stipulate that the case settled for over $4 million, making the application moot. The judge orders the plaintiff's counsel to provide notice and file proof with the court.

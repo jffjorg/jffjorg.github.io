@@ -1,0 +1,54 @@
+Here is the YAML summary of the tentative ruling:
+
+```
+caseNumber: 21STCV27536
+hearingDate: November 8, 2023
+department: 57
+plaintiffs:
+  - name: David Halverson
+  - name: Ryan Kelly
+defendants:
+  - name: Roy Ferman
+  - name: Seek Capital, LLC
+peopleNames:
+  - name: Jay Omayan
+companyNames:
+  - name: Seek Capital, LLC
+places: []
+dates:
+  - November 8, 2023
+events:
+  - Motion for judgment on the pleadings filed
+  - Trade secret misappropriation claim brought
+money: []
+intentions:
+  - Seeking declaratory relief
+  - Determining whether Halverson and Kelly misappropriated Seek Capital's trade secrets
+facts:
+  - Halverson and Kelly allegedly misappropriated Seek Capital's trade secrets
+  - Seek Capital brought a trade secret misappropriation claim against Jay Omayan
+disputes:
+  - Whether Halverson and Kelly misappropriated Seek Capital's trade secrets
+acts:
+  - Filing of motion for judgment on the pleadings
+  - Bringing of trade secret misappropriation claim
+agreements: []
+laws:
+  - Trade secret misappropriation
+caseCitations: []
+statutes: []
+roles:
+  - Judge
+  - Roy Ferman
+  - Seek Capital, LLC
+  - David Halverson
+  - Ryan Kelly
+  - Jay Omayan
+significantStatements:
+  - The Court will discuss further the reasoning behind its ruling at the hearing on the motion.
+  - The Court is granting the motion for judgment on the pleadings because Seek Capital does not claim that Halverson and Kelly misappropriated Seek Capital trade secrets.
+```
+
+And here is the English-text summary:
+
+The tentative ruling of the Court is that the motion for judgment on the pleadings filed by Roy Ferman and Seek Capital, LLC is granted. The motion seeks to dismiss the declaratory relief claim brought by David Halverson and Ryan Kelly, who allege that they did not misappropriate Seek Capital's trade secrets. The Court finds that Seek Capital does not claim that Halverson and Kelly misappropriated its trade secrets, and therefore, they are not entitled to declaratory relief. The Court will discuss the reasoning behind this ruling further at the hearing on November 8, 2023.

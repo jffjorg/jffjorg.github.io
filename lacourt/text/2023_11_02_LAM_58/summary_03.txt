@@ -1,0 +1,64 @@
+Here is the summary in YAML format:
+
+```
+case_number: Not specified
+plaintiff_name: Dr. Koos
+defendant_name: UCLA
+people_names:
+  - Dr. Koos
+  - Judge (not specified)
+company_names:
+  - UCLA
+places:
+  - California
+dates:
+  - 2016 (Armin v. Riverside Community Hospital)
+  - 2022 (Bogue v. Sharp Memorial Hospital)
+  - 2012 (Onkvisit v. Board of Trustees of California State University)
+  - (Harris v. City of Santa Monica)
+events:
+  - Section 1278.5 action
+  - Internal peer review process
+  - Section 1278.5 claim
+  - Whistleblower Protection Act
+money: Not specified
+intentions:
+  - UCLA: asserting issue preclusion (collateral estoppel)
+  - Dr. Koos: seeking relief under Section 1278.5
+facts:
+  - Dr. Koos was investigated by UCLA
+  - UCLA claims collateral estoppel applies
+  - UCLA claims mixed-motive defense applies
+disputes:
+  - Issue preclusion (collateral estoppel) vs. claim preclusion
+  - Mixed-motive defense
+acts:
+  - UCLA's investigation of Dr. Koos
+  - Dr. Koos' filing of Section 1278.5 action
+agreements:
+  - Not specified
+laws:
+  - California Government Code section 1278.5
+  - California Whistleblower Protection Act (Government Code section 8547)
+  - Res judicata (claim preclusion)
+  - Collateral estoppel (issue preclusion)
+case_citations:
+  - Armin v. Riverside Community Hospital (2016) 5 Cal.App.5th 810
+  - Bogue v. Sharp Memorial Hospital (2022) 2022 WL 1165857
+  - Onkvisit v. Board of Trustees of California State University (2012) 2012 WL 3029780
+  - Harris v. City of Santa Monica (2013) 56 Cal.4th 203
+statutes:
+  - California Government Code section 1278.5
+  - California Government Code section 8547
+roles:
+  - Judge
+  - Plaintiff (Dr. Koos)
+  - Defendant (UCLA)
+significant_statements:
+  - UCLA is asserting issue preclusion (collateral estoppel), not claim preclusion
+  - A physician need not complete the internal peer review process prior to filing a Section 1278.5 action
+```
+
+Here is a summary of the judge's tentative ruling in English text:
+
+The judge has issued a tentative ruling in a case involving Dr. Koos, a physician who was investigated by UCLA and filed a Section 1278.5 action. UCLA is asserting issue preclusion (collateral estoppel) based on a previous decision, arguing that the court need not address the issue of whether a "mixed-motive" defense applies to the Section 1278.5 claim. The judge has determined that collateral estoppel applies and need not address the mixed-motive defense. The judge has also cited several previous court decisions to support its ruling, including Armin v. Riverside Community Hospital, Bogue v. Sharp Memorial Hospital, and Onkvisit v. Board of Trustees of California State University.

@@ -1,0 +1,61 @@
+Here is the YAML summary of the tentative ruling:
+
+```
+case_number: 23STCV06585
+hearing_date: October 31, 2023
+dept: 32
+parties:
+  - plaintiff: Jeremy David Asheghian
+    defendant: Beth Schuster
+people_names:
+  - Jeremy David Asheghian
+  - Daniel Jacobi
+  - Beth Schuster
+company_names: []
+places: []
+dates: []
+events:
+  - complaint filed
+  - demurrer filed
+  - motion to strike filed
+money: []
+intentions:
+  - to test the legal sufficiency of the complaint
+  - to strike punitive damages
+facts:
+  - Defendant drove under the influence of a substance
+  - There is no evidence of malice, fraud, or oppression
+  - The complaint only alleges ordinary driving while intoxicated
+  - The risk of injury to others from ordinary driving while intoxicated is not necessarily probable
+disputes:
+  - Demurrer to complaint
+  - Motion to strike punitive damages
+acts:
+  - Filing of complaint
+  - Filing of demurrer
+  - Filing of motion to strike
+agreements: []
+laws:
+  - California Code of Civil Procedure
+  - California Civil Code
+  - California Supreme Court cases (Taylor, Dawes)
+  - Court decisions (Donabedian, Poizner, Venice Town Council)
+statutes:
+  - Code Civ. Proc. § 422.10
+  - Code Civ. Proc. § 589
+  - Civ. Code, § 3294
+  - Code Civ. Proc. § 430.41
+roles:
+  - Judge: [name]
+  - Plaintiff: Jeremy David Asheghian
+  - Defendant: Beth Schuster
+  - Counsel: [names]
+significant_statements:
+  - The Court finds that Plaintiffs’ allegations do not support punitive damages against Defendant.
+  - The Court grants the motion to strike.
+  - The burden is on Plaintiffs to show in what manner he or she can amend the complaint.
+```
+
+Here is a summary of the tentative ruling in English text:
+
+The Court has reviewed the demurrer and motion to strike filed by Defendant Beth Schuster in the case 23STCV06585. The Court finds that the Plaintiffs' allegations do not support punitive damages against Defendant. The Court grants the motion to strike paragraphs 12, 13, and prayer 6 "For punitive damages" without leave to amend. The Court notes that the Plaintiffs did not oppose the motion or request leave to amend, and therefore, have not met their burden. The Court orders Defendant to provide notice of the Court's ruling and file a proof of service of such.

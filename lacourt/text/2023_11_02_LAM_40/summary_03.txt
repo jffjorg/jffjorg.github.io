@@ -1,0 +1,36 @@
+Here is a summary of the tentative ruling in YAML format:
+
+```
+case_number: 23STCV09720
+hearing_date: 2023-11-02
+dept: 40
+court: Superior Court of California
+county: Los Angeles
+
+plaintiff: Samantha Chapman
+defendants: 1516 Hobart Investments, LP, Concord Real Estate, Does 1-50
+
+causes_of_action:
+  - Breach of Warranty of Habitability (Violation of Civil Code § 1941.1)
+  - Breach of Warranty of Habitability (Health & Safety Code § 17920.3)
+  - Breach of Warranty of Habitability (Violation of Civil Code § 1942.4)
+  - Negligence - Premises Liability
+  - Nuisance
+  - Intentional Infliction of Emotional Distress
+  - Breach of Contract
+  - Breach of Covenant of Quiet Enjoyment
+  - Fraud/Deceit/Intentional Misrepresentations of Fact
+
+demurrer:
+  - Overruled as to first to third causes of action
+  - Overruled as to fifth cause of action
+  - Overruled as to sixth cause of action
+  - Overruled as to seventh cause of action
+  - Overruled as to eighth cause of action
+  - Overruled as to ninth cause of action
+
+motion_to_strike:
+  - Denied as to punitive damages
+```
+
+The tentative ruling is

@@ -1,0 +1,61 @@
+Here is the summary in YAML format:
+
+```
+case_number: 20STCV28247
+plaintiff_name: Elvir Babakhanloo
+defendant_name: Karen Bagdoyan, et al
+people_names:
+  - Elvir Babakhanloo
+  - Karen Bagdoyan
+  - Hayk Grigoryan
+company_names: []
+places:
+  - 6320 Canoga Avenue
+  - Woodland Hills
+  - CA 91367
+dates:
+  - July 27, 2020
+  - December 5, 2022
+  - March 21, 2023
+  - March 24, 2022
+  - March 23, 2023
+events:
+  - Filing of complaint
+  - Default entered against defendant
+  - Motion to set aside default filed
+  - Proof of service filed
+  - Hearing on motion to set aside default
+money: []
+intentions:
+  - To set aside default and default judgment
+facts:
+  - Plaintiff filed a complaint against defendant
+  - Default was entered against defendant
+  - Defendant claims lack of notice and no affiliation with served address
+  - Plaintiff provided evidence of defendant's affiliation with served address
+  - Defendant claims identity theft and lack of notice
+disputes:
+  - Defendant's claim of lack of notice and affiliation with served address
+  - Defendant's claim of identity theft
+acts:
+  - Filing of complaint and motion
+  - Service of proof of service
+  - Filing of declaration and exhibits
+agreements: []
+laws:
+  - California Code of Civil Procedure, § 473.5, subdivision (a)
+  - California Code of Civil Procedure, § 473.5, subdivision (c)
+  - California Code of Civil Procedure, § 473, subdivision (b)
+case_citations: []
+statutes: []
+roles:
+  - Plaintiff: Elvir Babakhanloo
+  - Defendant: Karen Bagdoyan, et al
+significant_statements:
+  - Defendant's motion to set aside default is denied
+  - Plaintiff shall give notice
+```
+
+And here is a summary of the judge's tentative ruling in English:
+
+The court has considered the motion to set aside default and default judgment filed by defendant Karen Bagdoyan, et al. The defendant claims lack of notice and asserts that identity thieves used his name. However, the court has previously denied a similar motion due to the defendant's inability to reconcile a letter identifying the served address as his place of business with his claim of no affiliation with the address. The defendant has not provided reliable evidence to support his new claims and has failed to attach the proposed answer and supporting documents to his motion. Therefore, the court denies the defendant's motion to set aside default and default judgment.

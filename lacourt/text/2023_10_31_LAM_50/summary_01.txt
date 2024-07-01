@@ -1,0 +1,69 @@
+Here is the summary of the Judge's tentative ruling in YAML format:
+
+```
+case_number: 22STCV13629
+plaintiff_name: Janet Haywood
+defendant_name: Stephen Cho
+people_names:
+  - Janet Haywood
+  - Stephen Cho
+company_names:
+  - Creative Recovery Concepts
+places:
+  - Los Angeles
+  - California
+dates:
+  - April 25, 2022
+  - February 9, 2023
+  - July 6, 2023
+  - October 31, 2023
+events:
+  - Breach of contract
+  - Breach of implied covenant of good faith and fair dealing
+  - Conspiracy to commit fraud
+  - Litigation
+  - Settlement
+  - Collection of attorneys' fees
+money:
+  - $650,000.00
+intention:
+  - To strike the third cause of action of the FAC as it arises from protected activity
+facts:
+  - Plaintiff retained Stephen Cho to represent her in a lawsuit
+  - Stephen Cho allegedly conducted unnecessary and exorbitant discovery and litigation activities
+  - Plaintiff alleges that Stephen Cho pressured and coerced her to participate in a settlement conference
+  - Stephen Cho allegedly falsely informed Plaintiff that she would be incarcerated if she did not relinquish her interest in the Denker Property
+  - After the settlement, Stephen Cho passed off his large bill for attorneys' fees to Creative Recovery Concepts, which aggressively sought payment from Plaintiff
+disputes:
+  - Whether the third cause of action of the FAC arises from protected activity
+  - Whether the litigation privilege bars the third cause of action of the FAC
+acts:
+  - Filing a special motion to strike
+  - Conducting unnecessary and exorbitant discovery and litigation activities
+  - Pressuring and coercing Plaintiff to participate in a settlement conference
+  - Passing off attorneys' fees to Creative Recovery Concepts
+agreements:
+  - The parties' settlement agreement
+laws:
+  - Code of Civil Procedure section 425.16
+  - Civil Code section 47
+case_citations:
+  - Simmons v. Allstate Ins. Co.
+  - Equilon Enterprises v. Consumer Cause, Inc.
+  - Fox Searchlight Pictures, Inc. v. Paladino
+  - Castleman v. Sagaser
+  - Navellier v. Sletten
+  - Ramona Unified School Dist. v. Tsiknas
+  - Applied Equipment Corp. v. Litton Saudi Arabia Ltd.
+  - Rusheen v. Cohen
+roles:
+  - Judge: Rolf M. Treu
+  - Plaintiff: Janet Haywood
+  - Defendant: Stephen Cho
+  - Defendant company: Creative Recovery Concepts
+significant_statements:
+  - The anti-SLAPP statute is a mechanism through which complaints that arise from the exercise of free speech rights can be evaluated at an early stage of the litigation process and resolved expeditiously.
+  - The litigation privilege applies to any communication made in judicial or quasi-judicial proceedings, by litigants or other participants authorized by law, to achieve the objects of the litigation.
+```
+
+Please note that this is a summary of a complex legal document and may not capture every detail or nuance.

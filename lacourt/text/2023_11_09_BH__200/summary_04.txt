@@ -1,0 +1,87 @@
+Here is the summary in YAML format:
+
+```
+case_number: KC070323
+plaintiffs: Arechiga, et al.
+defendants: JDH Capital, et al.
+people_names:
+  - Bryan Kimball
+  - Thomas Newsom
+  - Jose A. Galan Lopez
+  - Alejandro Rascon
+  - Lonnie Haughton
+  - Scott Delahooke
+  - Walter Lane
+  - Martin B. Goldman
+  - David and Esther Weiswasser
+
+company_names:
+  - JDH Capital
+  - MZL Properties
+  - LA County Department of Public Works
+
+places:
+  - Beverly Hills Courthouse
+  - Los Angeles County
+
+dates:
+  - November 9, 2023
+  - October 2016
+  - 2001
+  - 1995
+  - 1988
+
+events:
+  - Motion in Limine
+  - Hearing
+  - Trial
+
+money:
+  - None
+
+intentions:
+  - To exclude certain evidence from trial
+
+facts:
+  - The court has to make a ruling on various motions in limine filed by both parties.
+  - The motions relate to the admissibility of certain evidence, including character evidence, insurance information, and expert testimony.
+
+disputes:
+  - The parties disagree on the admissibility of certain evidence and the scope of the trial.
+
+acts:
+  - The court has to review the motions and make a ruling on each one.
+
+agreements:
+  - None
+
+laws:
+  - Evidence Code sec. 1101
+  - Evidence Code sec. 788
+  - Evidence Code sec. 800
+  - Code of Civil Procedure sec. 1856
+  - Civil Code sec. 798.74.5
+  - Civil Code sec. 798.75.5
+  - Civil Code sec. 798.87(a)
+  - Civil Code sec. 3294(d)
+  - Health & Safety Code secs. 18250 and 18251
+
+case_citations:
+  - Britt v. Sup. Ct. (1978) 20 Cal.3d 844
+  - Galland v. City of Clovis (2001) 24 Cal.4th 1003
+  - Easton v. Strassburger (1984) 152 Cal.App.3d 90
+  - Renz v. 33rd Dist. Agricultural Ass’n (1995) 39 Cal.App.4th 61
+  - Sanchez v. (2016) 63 Cal.4th 665
+
+roles:
+  - Judge
+  - Plaintiff
+  - Defendant
+
+significant_statements:
+  - The court has to act as a gatekeeper to avoid speculative testimony of experts.
+  - The court requires that any opinion be definitive where it will impact what units may encroach on the easement.
+  - The court finds that there is no basis to exclude all lay opinion testimony related to repairs or improvements to plaintiffs' homes.
+```
+
+This summary provides an overview of the case, including the parties involved, the dates and events, the laws and case citations relevant to the case, and the significant statements made by the judge in the tentative ruling.

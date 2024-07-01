@@ -1,0 +1,113 @@
+Here is the summary in YAML format:
+
+```
+case_number: 21AVCV00425
+hearing_date: November 7, 2023
+dept: A14
+
+plaintiffs:
+  - Name: Western General Insurance Company
+    Type: Corporation
+
+defendants:
+  - Name: Fabiola Sant Maria
+    Type: Individual
+  - Name: Marcela Santa Maria
+    Type: Individual
+  - Name: Michael Angelo Bacelis, Jr. (Bacelis, Jr.)
+    Type: Individual
+
+people:
+  - Juan Ramos Preciado
+  - Marisela S Preciado
+  - Fabiola Sant Maria
+  - Marcela Santa Maria
+  - Michael Angelo Bacelis, Jr.
+
+companies:
+  - Western General Insurance Company
+
+places:
+  - Palmdale, California
+  - E. Palmdale Avenue
+  - 30th Street East
+
+dates:
+  - July 05, 2019
+  - May 25, 2021
+  - July 21, 2021
+  - January 04, 2022
+  - June 09, 2022
+  - January 18, 2023
+  - May 10, 2023
+  - June 05, 2023
+  - September 11, 2023
+  - October 25, 2023
+  - November 7, 2023
+
+events:
+  - Car accident
+  - Filing of complaint
+  - Answer to complaint
+  - Default judgment
+  - Hearing on motion
+  - Amendment of fictitious name
+  - Amendment of incorrect name
+  - Filing of motion to deem requests for admissions
+
+money:
+  - $4,339.68 (property damage)
+  - $30,000.00 (damages to Juan Ramos Preciado and Marisela S Preciado's persons)
+  - $660.00 (sanction)
+  - $250.00 (sanction)
+
+intentions:
+  - To deem requests for admissions admitted
+  - To impose sanctions for failure to respond timely
+
+facts:
+  - Plaintiff alleges defendant's negligence caused a car accident
+  - Defendant has failed to respond to requests for admissions
+
+disputes:
+  - None
+
+acts:
+  - Filing of complaint
+  - Answer to complaint
+  - Default judgment
+  - Hearing on motion
+  - Amendment of fictitious name
+  - Amendment of incorrect name
+  - Filing of motion to deem requests for admissions
+
+agreements:
+  - None
+
+laws:
+  - California Code of Civil Procedure (Cal. Code Civ. Proc.) § 2033.010
+  - California Code of Civil Procedure (Cal. Code Civ. Proc.) § 2033.280
+  - California Code of Civil Procedure (Cal. Code Civ. Proc.) § 2033.220
+  - California Code of Civil Procedure (Cal. Code Civ. Proc.) § 1005(b)
+  - California Code of Civil Procedure (Cal. Code Civ. Proc.) § 1013
+
+statutes:
+  - California Code of Civil Procedure (Cal. Code Civ. Proc.) § 2033.010
+  - California Code of Civil Procedure (Cal. Code Civ. Proc.) § 2033.280
+  - California Code of Civil Procedure (Cal. Code Civ. Proc.) § 2033.220
+  - California Code of Civil Procedure (Cal. Code Civ. Proc.) § 1005(b)
+  - California Code of Civil Procedure (Cal. Code Civ. Proc.) § 1013
+
+roles:
+  - Judge: Granting motion to deem requests for admissions admitted
+  - Plaintiff: Western General Insurance Company
+  - Defendant: Michael Angelo Bacelis, Jr.
+
+significant statements:
+  - The Court GRANTS Plaintiff's Motion to Deem RFAs admitted.
+  - The Court imposes a sanction of $250.00 pursuant to Cal. Code Civ. Proc. § 2033.280.
+```
+
+And here is a summary of the judge's tentative ruling in English text:
+
+The Court has issued a tentative ruling granting Plaintiff Western General Insurance Company's Motion to Deem Requests for Admissions Served Upon Michael Angelo Bacelis, Jr. Admitted. The Court finds that Bacelis, Jr. has failed to respond to Plaintiff's requests for admissions, which were served on June 26, 2023. As a result, the Court deems all matters specified in the requests for admissions admitted. The Court also imposes a sanction of $250.00 against Bacelis, Jr. for his failure to respond timely. The Court's ruling is based on California Code of Civil Procedure sections 2033.010, 2033.280, and 2033.220. The hearing on the motion is set for November 7, 2023.

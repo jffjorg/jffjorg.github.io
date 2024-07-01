@@ -1,0 +1,62 @@
+Here is the summary in YAML format:
+
+```
+case_number: 23STCV00097
+plaintiff_name: 
+defendant_name:
+people_names:
+  - Lord Brice Barrington aka Barron Barrington
+  - DOES 1-25
+company_names:
+  - FBSR Franchises, Inc.
+places:
+  - California
+dates:
+  - January 4, 2023
+  - March 14, 2023
+  - October 31, 2023
+events:
+  - Default of Defendants FBSR and Barrington
+  - Entry of defaults
+  - Filing of Complaint
+  - Submission of request for default judgment
+money:
+  - $248,931.80
+  - $4,422.42
+  - $4,423.54
+  - $805.72
+  - $100,000.00
+intentions:
+  - To recover unpaid rent
+facts:
+  - Plaintiff filed Complaint on January 4, 2023
+  - Defaults of Defendants FBSR and Barrington were entered on March 14, 2023
+  - Plaintiff failed to submit dismissal of DOE defendants
+disputes:
+  - Dispute over amount of damages available
+acts:
+  - Plaintiff filed Complaint
+  - Defaults of Defendants FBSR and Barrington were entered
+  - Plaintiff failed to submit dismissal of DOE defendants
+agreements:
+  - California Rules of Court Rule 3.1800
+  - Code of Civil Procedure § 580(a)
+  - Code of Civil Procedure § 425.11
+laws:
+  - California Rules of Court Rule 3.1800
+  - Code of Civil Procedure § 580(a)
+  - Code of Civil Procedure § 425.11
+case_citations:
+  - Airs Aromatics, LLC v. CBL Data Recovery Technologies, Inc. (2018) 23 Cal.App.5th 1013
+  - Finney v. Gomez (2003) 111 Cal.App.4th 527
+roles:
+  - Judge
+significant_statements:
+  - The court lacks the power to award more than the amount demanded in the complaint
+  - The statement of damages must be served before the entry of default
+  - The court can only award $100,000.00 in damages
+```
+
+And here is the English text to summarize the judge's tentative ruling:
+
+The court has considered the request for default judgment against defendants FBSR Franchises, Inc. and Lord Brice Barrington aka Barron Barrington. However, the plaintiff has failed to submit a dismissal of the DOE defendants as required by California Rules of Court Rule 3.1800. Additionally, the plaintiff's request for damages exceeds the legal limit of $100,000.00. Therefore, the court cannot award more than $100,000.00 in damages. The plaintiff has two options: accept the current award limit and submit a corrected package seeking that amount, or set aside the default and amend the complaint to state the exact amount of damages and restart the default process.

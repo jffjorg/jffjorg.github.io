@@ -1,0 +1,75 @@
+Here is the summary in YAML format:
+
+```
+Case Number: 21STCV22144
+Plaintiff's Name: Eloy Alfaro
+Defendant's Name: Uber Technologies, Inc.
+People-Names:
+  - Eloy Alfaro
+  - Chris Northcross
+Company-Names:
+  - Rasier LLC
+  - Uber Technologies, Inc.
+Places:
+  - None
+Dates:
+  - June 15, 2021
+  - June 23, 2023
+  - August 18, 2023
+  - October 9, 2023
+  - October 30, 2023
+Events:
+  - Motor vehicle accident
+  - Filing of complaint
+  - Service of complaint
+  - Filing of answer
+  - Demurrer to answer
+Money:
+  - None
+Intentions:
+  - To test the legal sufficiency of Defendant's answer
+Facts:
+  - Plaintiff filed a complaint on June 15, 2021
+  - Defendant filed an answer on August 18, 2023
+  - Plaintiff demurred to Defendant's answer on October 9, 2023
+Disputes:
+  - Whether Defendant's answer is sufficient to constitute a defense
+Acts:
+  - Filing of complaint
+  - Filing of answer
+  - Demurrer to answer
+Agreements:
+  - None
+Laws:
+  - Code of Civil Procedure sections 422.10, 430.20, 430.30, 430.40, 430.41
+  - California Rules of Court
+  - Donabedian v. Mercury Ins. Co. (2004)
+  - Hahn v. Mirda (2007)
+  - Ion Equip. Corp. v. Nelson (1980)
+  - Timberidge Enterprises, Inc. v. City of Santa Rosa (1978)
+  - South Shore Land Co. v. Petersen (1964)
+  - Code Civ. Proc. § 431.30(b)
+Statutes:
+  - Code of Civil Procedure
+Case Citations:
+  - Donabedian v. Mercury Ins. Co. (2004)
+  - Hahn v. Mirda (2007)
+  - Ion Equip. Corp. v. Nelson (1980)
+  - Timberidge Enterprises, Inc. v. City of Santa Rosa (1978)
+  - South Shore Land Co. v. Petersen (1964)
+  - McAllister v. County of Monterey (2007)
+Roles:
+  - Judge: [Name]
+  - Plaintiff: Eloy Alfaro
+  - Defendant: Uber Technologies, Inc.
+  - Counsel: [Name]
+Significant Statements:
+  - The Court notes that Defendant filed and served its answer on August 18, 2023.
+  - The trial court has discretion to hear an untimely demurrer.
+  - The Court declines to exercise its discretion to hear the untimely demurrer.
+  - The demurrer to Defendant's answer is overruled.
+```
+
+And here is the English-text summary:
+
+This is a tentative ruling in a civil case, case number 21STCV22144, regarding a demurrer to the answer filed by Defendant Uber Technologies, Inc. (Defendant). Plaintiff Eloy Alfaro (Plaintiff) seeks to test the legal sufficiency of Defendant's answer, arguing that each of Defendant's forty affirmative defenses fails to state facts sufficient to constitute a defense and is uncertain. The Court notes that the parties did not meet and confer before filing the demurrer, but this is not grounds to overrule or sustain the demurrer. The Court also declines to exercise its discretion to hear the untimely demurrer, as no explanation was provided for the delay and no court order extending the deadline was issued. Therefore, the demurrer to Defendant's answer is overruled.

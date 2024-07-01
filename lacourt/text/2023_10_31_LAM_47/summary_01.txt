@@ -1,0 +1,76 @@
+Here is the summary in YAML format:
+
+```
+case_number: 20STCV15786
+plaintiff_name: James Weldon Schott
+defendant_name: Miguel A. Melgoza
+people_names:
+  - James Weldon Schott
+  - Miguel A. Melgoza
+company_names:
+  - none
+places:
+  - California
+dates:
+  - 04/24/20
+  - 09/27/22
+  - 10/26/23
+  - 10/31/2023
+  - 01/23/2024
+events:
+  - Motion to Compel Responses to Form Interrogatories
+  - Motion to Compel Responses to Requests for Production
+  - Motion for Order Deeming the Truth of Matters in Requests for Admissions
+  - Hearing
+money:
+  - $1,560
+  - $2,180
+  - $3,120
+  - $60
+  - $500
+intention:
+  - to compel defendant to respond to discovery requests
+  - to seek sanctions against defendant
+facts:
+  - Plaintiff loaned money to defendant to purchase property
+  - Defendant failed to respond to discovery requests
+  - Plaintiff's counsel granted multiple extensions, with final deadline set for June 28, 2023
+disputes:
+  - Defendant's failure to respond to discovery requests
+  - Defendant's counsel's failure to respond to discovery requests
+acts:
+  - Plaintiff served form interrogatories and requests for production on defendant's counsel
+  - Plaintiff's counsel granted multiple extensions
+agreements:
+  - none
+laws:
+  - California Code of Civil Procedure
+  - California Rules of Court
+  - Code Civ. Proc. § 2030.290(b)
+  - Code Civ. Proc. § 2031.300(b)
+  - Code Civ. Proc. § 2033.280(c)
+  - Code Civ. Proc. § 2023.010
+  - Code Civ. Proc. § 2023.030
+  - Code Civ. Proc. § 2033.220
+  - Code Civ. Proc. § 2030.290(c)
+  - Code Civ. Proc. § 2030.300(d)
+  - Code Civ. Proc. § 2031.300 (c)
+  - Code Civ. Proc. § 2031.310(h)
+case_citations:
+  - Leach v. Sup. Ct. (1980) 111 Cal.App.3d 902, 905-06
+roles:
+  - Judge
+  - Plaintiff
+  - Defendant
+  - Defendant's counsel
+significant_statements:
+  - Defendant is ordered to provide verified, code-compliant responses without objections within 30 days of the date of this order.
+  - Plaintiff's request for sanctions is GRANTED in the amount of $2,180 against Defendant only.
+  - Plaintiff's Motion to Compel Responses to Form Interrogatories is GRANTED.
+  - Plaintiff's Motion to Compel Responses to Requests for Production is GRANTED.
+  - Plaintiff's Motion for Order Deeming the Truth of Matters in Requests for Admission Propounded to Defendant is GRANTED.
+```
+
+And here is a summary of the judge's tentative ruling in English text:
+
+The judge has granted Plaintiff's motions to compel defendant's responses to form interrogatories and requests for production. The defendant is ordered to provide verified, code-compliant responses without objections within 30 days of the date of this order. The judge has also granted Plaintiff's request for sanctions against the defendant in the amount of $2,180. Additionally, the judge has granted Plaintiff's motion for an order deeming the truth of matters in requests for admissions propounded to the defendant. The judge has ordered the defendant to pay the sanctions within 30 days of this order.

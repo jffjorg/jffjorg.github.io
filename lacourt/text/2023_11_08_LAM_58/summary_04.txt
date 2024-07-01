@@ -1,0 +1,87 @@
+Here is the summary in YAML format:
+
+```
+case_number: 19STCV28457
+plaintiff_name: Magda Angel
+defendant_name: Monster Energy Company
+people_names:
+  - Magda Angel
+  - Morgan Langley
+  - Roger Norman
+company_names:
+  - Monster Energy Company
+  - Score International, S. de R.L. de C.V
+  - Promote Mexico, LLC
+  - COPS Racing, LLC
+  - Langley Productions, Inc.
+places:
+  - Ensenada, Mexico
+  - Baja California, Mexico
+  - California
+dates:
+  - October 30, 2018
+  - August 12, 2019
+  - August 29, 2022
+  - January 7, 2020
+  - April 21, 2021
+  - April 9, 2020
+  - January 13, 2020
+  - July 18, 2023
+  - May 18, 2023
+  - September 28, 2023
+  - October 30, 2023
+events:
+  - 2018 Baja 1000 Race
+  - Motion for Application of Choice of Law
+  - Motion for Summary Adjudication
+  - Cross-Complaint
+  - First Amended Cross-Complaint
+  - First Amended Complaint
+money:
+  - Negligence
+  - Damages
+intention:
+  - To apply Mexican law to Plaintiff's claims
+facts:
+  - The 2018 Baja 1000 Race was held in Ensenada, Mexico
+  - The race was owned and operated by Promote Mexico, LLC
+  - Plaintiff Magda Angel was an independent contractor for Monster Energy Company
+  - A vehicle driven by Morgan Langley struck and injured Plaintiff
+  - Plaintiff filed a complaint against multiple defendants, including Monster Energy Company
+  - Monster Energy Company filed a cross-complaint against other defendants
+  - The Court granted a motion for summary adjudication in favor of Monster Energy Company
+  - The Court denied a motion for summary adjudication in favor of Promote Mexico, LLC
+disputes:
+  - The issue of whether Mexican law or California law applies to Plaintiff's claims
+  - The issue of whether Score International, S. de R.L. de C.V. is a Mexican defendant or an alter ego of other defendants
+acts:
+  - The Court granted a motion for summary adjudication in favor of Monster Energy Company
+  - The Court denied a motion for summary adjudication in favor of Promote Mexico, LLC
+  - The Court denied the motion to apply Mexican law to Plaintiff's claims
+agreements:
+  - The Television Sponsorship Agreement between Monster Energy Company and Promote Mexico, LLC
+laws:
+  - California law
+  - Mexican law
+  - Civil Code for the State of Baja California
+case_citations:
+  - McCann v. Foster Wheeler LLC (2010) 48 Cal.4th 68
+  - Chen v. Los Angeles Truck Centers, LLC (2019) 7 Cal.5th 862
+  - Frontier Oil Corp. v. RLI Ins. Co. (2007) 153 Cal.App.4th 1436
+  - Washington Mutual, supra, 24 Cal.4th 919
+  - Diaz v. Carcamo (2011) 51 Cal.4th 1148
+  - Yanez v. Plummer (2013) 221 Cal.App.4th 180
+  - Offshore Rental Co. v. Continental Oil Co. (1978) 22 Cal.3d 157
+  - Hurtado v. Superior Court (1974) 11 Cal.3d 574
+  - Hernandez v. Burger (1980) 102 Cal.App.3d 795
+  - Denham v. Farmers Ins. Co. (1989) 213 Cal.App.3d 1061
+roles:
+  - Judge
+  - Plaintiff
+  - Defendant
+  - Cross-Complainant
+  - Cross-Defendant
+significant_statements:
+  - "The Court finds that Mexico has an interest in applying its own law to the facts here, based on the location of the incident."
+  - "The Court concludes that California has an interest in applying its own law to the facts here, based on the residence of the defendants and the plaintiff."
+  - "The Court determines that the issue of whether Score International, S. de R.L. de C.V. is a Mexican defendant or an alter ego of other defendants is critical to the choice of law analysis."

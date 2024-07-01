@@ -1,0 +1,68 @@
+Here is the summary in YAML format:
+
+```
+case_number: 23STCV23440
+plaintiff: 26 Global Development, Inc. et al.
+defendant: The Evergreen Advantage, LLC et al.
+people_names:
+  - Shaul Arbib
+  - Yanit Z. Ibrahimian
+company_names:
+  - 26 Global Development, Inc.
+  - The Evergreen Advantage, LLC
+  - FCI Lender Services, Inc.
+  - California TD Specialists
+  - Qualfax, Inc.
+  - RTI Properties, Inc.
+  - Peak Foreclosure Services, Inc.
+places:
+  - Beverly Hills
+dates:
+  - September 27, 2023
+  - October 3, 2023
+  - October 30, 2023
+events:
+  - filing of complaint
+  - filing of motion for preliminary injunction
+  - foreclosure proceedings
+money:
+  - loan principal
+  - improper fees and charges
+intentions:
+  - to enjoin foreclosure proceedings
+facts:
+  - Plaintiffs defaulted on a loan
+  - Defendants failed to properly account for payments
+  - Defendants initiated foreclosure proceedings without discussion
+disputes:
+  - accounting
+  - injunctive relief
+  - breach of contract
+acts:
+  - filing of complaint
+  - filing of motion for preliminary injunction
+agreements:
+  - none mentioned
+laws:
+  - California laws (specifically, Scaringe v. J.C.C. Enterprises, Inc. and White v. Davis)
+case_citations:
+  - Scaringe v. J.C.C. Enterprises, Inc. (1988) 205 Cal.App.3d 1536
+  - White v. Davis (2003) 30 Cal.4th 528
+  - Cohen v. Board of Supervisors (1985) 40 Cal.3d 277
+  - Merco Constr. Engineers, Inc. v. Municipal Court (1978) 21 Cal.3d 724
+  - Costa Mesa City Employees Assn. v. City of Costa Mesa (2012) 209 Cal.App.4th 298
+statutes:
+  - none mentioned
+roles:
+  - Judge
+  - Plaintiffs
+  - Defendants
+significant_statements:
+  - The purpose of a preliminary injunction is to preserve the status quo pending final resolution upon a trial.
+  - The ruling on an application for a preliminary injunction rests in the sound discretion of the trial court.
+  - A corporation cannot represent itself in court, either in propria persona or through an officer or agent who is not an attorney.
+```
+
+And here is a summary of the judge's tentative ruling in English text:
+
+The judge has denied the plaintiffs' motion for a preliminary injunction to enjoin the foreclosure proceedings. The judge noted that there was no proof of service indicating service of the complaint to any defendant, and that the motion was improperly served via mail. Additionally, the judge ruled that a corporation cannot represent itself in court, and that the entities that allegedly own the subject property have no authority to file the motion. The judge also found that the motion failed to demonstrate a likelihood of success, and that any one of the reasons discussed would warrant denial of the motion.

@@ -1,0 +1,76 @@
+Here is the summary in YAML format:
+
+```
+case_number: 21STCV28362
+plaintiff:
+  - name: Felipe Rodriguez
+    minor: true
+  - name: Angelo Rodriguez
+    minor: true
+    guardian: Felipe Rodriguez
+defendant:
+  - name: Uber Technologies, Inc.
+  - name: Aimin Lin
+  - name: Andrian Krugliy
+  - name: Roman Pidkova
+people:
+  - Felipe Rodriguez
+  - Angelo Rodriguez
+  - Aimin Lin
+  - Andrian Krugliy
+  - Roman Pidkova
+companies:
+  - Uber Technologies, Inc.
+places:
+  - Los Angeles
+  - California
+dates:
+  - June 7, 2023
+  - October 16, 2023
+  - October 27, 2023
+events:
+  - Automobile collision
+  - Deposition
+  - Motion to compel
+  - Sanctions
+money:
+  - $2,500 (sanctions)
+  - $750 (attorney's fees award)
+intentions:
+  - To compel Plaintiff Felipe to submit to an additional deposition
+  - To award additional time for the deposition
+  - To impose sanctions on Plaintiff Felipe and his attorney
+facts:
+  - Plaintiff Felipe's deposition was not completed
+  - Defendant Uber requests additional time for the deposition
+  - Plaintiff's counsel agreed to a two-day deposition
+  - Interpreter was needed for the deposition
+disputes:
+  - Over the need for an additional deposition
+  - Over the length of the deposition
+acts:
+  - Defendant Uber moved to compel Plaintiff Felipe's deposition
+  - Plaintiff's counsel agreed to a two-day deposition
+  - Interpreter was needed for the deposition
+agreements:
+  - Plaintiff's counsel agreed to a two-day deposition
+laws:
+  - CCP § 2025.610
+  - CCP § 2025.290(a)
+  - CCP § 2025.450(g)(1)
+statutes:
+  - California Code of Civil Procedure (CCP)
+roles:
+  - Judge: Hon. Michelle C. Kim
+  - Plaintiff: Felipe Rodriguez and Angelo Rodriguez
+  - Defendant: Uber Technologies, Inc., Aimin Lin, Andrian Krugliy, and Roman Pidkova
+  - Counsel: Counsel for Defendant Krugliy
+significant_statements:
+  - "Uber's counsel did not yet have their turn to question Plaintiff."
+  - "Plaintiffs' counsel did not respond to Uber's counsel's emails attempting to schedule the second session of Plaintiff Felipe's deposition."
+  - "Additional time is necessary to complete Plaintiff Felipe's deposition."
+```
+
+And here is the English text to summarize this judge's tentative ruling:
+
+The court has issued a tentative ruling on Uber's motion to compel the second deposition of Plaintiff Felipe Rodriguez. The motion was unopposed, and the court grants the motion, ordering the second deposition to take place with an additional four hours of deposition time. The court also awards Uber $750 in attorney's fees for preparing the motion and appearing at the hearing. Furthermore, the court imposes sanctions on Plaintiff Felipe and his attorney, ordering them to pay $750 within 20 days. The court orders the moving defendant to give notice of the ruling.

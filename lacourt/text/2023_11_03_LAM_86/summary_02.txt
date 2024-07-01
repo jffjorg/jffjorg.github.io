@@ -1,0 +1,75 @@
+Here is the summary in YAML format:
+
+```
+Case Number: 2023-001234
+Plaintiff's Name: Marvin Engineering Co., Inc.
+Defendant's Name: American Valley Aviation, Inc.
+People-Names:
+  - Marvin Engineering Co., Inc.
+  - American Valley Aviation, Inc.
+  - Bryan DeBlois
+  - Bryan Moore
+  - Andrew Moser
+  - William Pearce
+  - Rene St. Pierre
+Company-Names:
+  - Marvin Engineering Co., Inc.
+  - American Valley Aviation, Inc.
+Places:
+  - United States Navy
+  - United States
+  - California
+Dates:
+  - May 3, 2019
+  - September 25, 2012
+  - July 2015
+  - May 11, 2016
+  - September 19, 2017
+  - June 27, 2019
+  - February 11, 2020
+  - November 3, 2023
+Events:
+  - Breach of contract
+  - Delayed payment
+  - Non-performance
+  - Attachment application
+Money:
+  - $441,000
+  - $1,009,450
+Intentions:
+  - To secure a recovery on a claim
+  - To attach property
+Facts:
+  - Defendant failed to pay amounts due to Plaintiff
+  - Plaintiff provided goods to Defendant
+  - Defendant acknowledged owing Plaintiff $441,000
+Disputes:
+  - Breach of contract
+  - Non-performance
+  - Attachment
+Acts:
+  - Plaintiff filed an application for a writ of attachment
+  - Defendant opposed the application
+Agreements:
+  - Contracts between Plaintiff and Defendant
+  - Subcontracts between Plaintiff and Defendant
+Laws:
+  - Code of Civil Procedure sections 484.010, 484.020, 484.030, 484.090, 483.010, 483.015, 487.010, 489.210, 489.220
+Statutes:
+  - California Code of Civil Procedure
+Case Citations:
+  - Hobbs v. Weiss (1999) 73 Cal.App.4th 76
+  - Jordan-Lyon Productions, Ltd. v. Cineplex Odeon Corp. (1994) 29 Cal.App.4th 1459
+  - Lydig Construction, Inc. v. Martinez Steel Corp. (2015) 234 Cal.App.4th 937
+  - Pos-A-Traction, Inc. v. Kelly-Springfield Tire Co., Div. of Goodyear Tire & Rubber Co. (C.D. Cal. 2000) 112 F.Supp.2d 1178
+Roles:
+  - Judge: Mitchell Beckloff
+  - Plaintiff: Marvin Engineering Co., Inc.
+  - Defendant: American Valley Aviation, Inc.
+Significant Statements:
+  - The application for a writ of attachment is GRANTED.
+  - The court finds Plaintiff's claim is a proper basis for attachment.
+  - The court cannot find based on the evidence submitted by Defendant that Defendant's claim for offset is probably valid.
+```
+
+Note that this summary is a condensed version of the original document, and some details may have been omitted or simplified for the purpose of this exercise.

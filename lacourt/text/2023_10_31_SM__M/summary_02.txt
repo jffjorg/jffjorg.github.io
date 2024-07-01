@@ -1,0 +1,68 @@
+Here is the summary in YAML format:
+
+```
+case_number: 23SMCV01560
+plaintiff_name: WW Westwood LP
+defendant_name: Nikjoo
+people_names:
+  - Ebi Nikjoo, D.D.S.
+company_names:
+  - WW Westwood LP
+places:
+  - California
+dates:
+  - October 31, 2023
+  - March 30, 2023
+events:
+  - Demurrer to First Amended Complaint
+  - Service of Three-Day Notice to Pay Rent or Quit
+money:
+  - $52,517.51
+  - $49,087.20
+  - $52,149.60
+intentions:
+  - To determine if the complaint states a cause of action
+  - To determine if the three-day notice is valid
+facts:
+  - The complaint alleges unlawful detainer
+  - The three-day notice was served on March 30, 2023
+  - The notice does not indicate how much accrued for each month
+  - The notice does not indicate if the rent is due on the 15th or 1st of the month
+disputes:
+  - Whether the three-day notice is valid
+  - Whether the rent demand is reasonable
+acts:
+  - Service of the three-day notice
+  - Demurrer to the First Amended Complaint
+agreements:
+  - Code of Civil Procedure section 1161(2)
+  - Code of Civil Procedure section 1161.1
+  - Code of Civil Procedure section 1947.3(a)
+laws:
+  - California Civil Procedure Code
+  - California Code of Civil Procedure
+case_citations:
+  - Hahn v. Mirda (2007)
+  - Donabedian v. Mercury Ins. Co. (2004)
+  - Semole v. Sansoucie (1972)
+  - S. Shore Land Co. v. Petersen (1964)
+  - Khoury v. Maly's of Calif., Inc. (1993)
+  - Angie M. v. Superior Court (1995)
+  - Goodman v. Kennedy (1976)
+  - WDT-Winchester v. Nilsson (1994)
+  - Levitz Furniture Co. of the Pac., Inc. v. Wingtip Communications, Inc. (2001)
+statutes:
+  - Code of Civil Procedure section 1161(2)
+  - Code of Civil Procedure section 1161.1
+  - Code of Civil Procedure section 1947.3(a)
+roles:
+  - Plaintiff: WW Westwood LP
+  - Defendant: Nikjoo
+significant_statements:
+  - The Court finds that the three-day notice sufficiently identifies the information required in conformity with section 1161(2).
+  - The demurrer is OVERRULED.
+```
+
+And here is the English text to summarize the judge's tentative ruling:
+
+The court has reviewed the demurrer filed by defendant Ebi Nikjoo, D.D.S., to the first amended complaint filed by plaintiff WW Westwood LP. The demurrer argues that the three-day notice to pay rent or quit is defective because it does not indicate how much accrued for each month and does not indicate if the rent is due on the 15th or 1st of the month. However, the court finds that the notice substantially complies with the statutory requirements of Code of Civil Procedure section 1161(2) and does not need to indicate whether payment will be made personally or by mail. Furthermore, the notice includes the information for personal delivery, and the court finds that the rent demand is reasonable. Therefore, the demurrer is overruled, and the complaint will proceed.

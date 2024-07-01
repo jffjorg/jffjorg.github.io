@@ -1,0 +1,73 @@
+Here is the summary in YAML format:
+
+```
+case_number: 23AHCV0037
+plaintiff_name: FRANCES VILLEGAS
+defendant_name: COUNTY OF LOS ANGELES
+people_names:
+  - FRANCES VILLEGAS
+  - Allen L. Thomas
+company_names:
+  - County of Los Angeles
+places:
+  - Los Angeles
+dates:
+  - January 6, 2022
+  - March 6, 2023
+  - April 10, 2023
+  - April 25, 2023
+  - July 29, 2023
+  - August 4, 2023
+  - August 11, 2023
+  - September 6, 2023
+  - November 2, 2023
+events:
+  - Villegas falls in her home
+  - Paramedics called and Villegas is transported to an ambulance
+  - Villegas alleges improper handling by paramedics
+  - County serves Villegas with form interrogatories and demand for inspection
+  - Villegas fails to respond to discovery requests
+money:
+  - $2,475.00 (request for sanctions)
+  - $1,125.00 (awarded sanctions)
+intentions:
+  - County seeks to compel responses to form interrogatories and demand for inspection
+  - County seeks sanctions against Villegas for failure to respond to discovery requests
+facts:
+  - Villegas alleged injury from improper handling by paramedics
+  - Paramedics employed by County of Los Angeles
+  - Villegas failed to respond to discovery requests
+disputes:
+  - Villegas's failure to respond to discovery requests
+acts:
+  - Villegas's fall in her home
+  - Paramedics' alleged improper handling of Villegas
+  - County's service of form interrogatories and demand for inspection
+  - Villegas's failure to respond to discovery requests
+agreements:
+  - None
+laws:
+  - CCP § 2017.010
+  - CCP § 2030.260(a)
+  - CCP § 2030.290(b)
+  - CCP § 2031.260(a)
+  - CCP § 2031.300(b)
+  - CCP § 2023.010(d)
+  - CCP § 2023.030(a)
+case_citations:
+  - Ghanooni v. Super Shuttle (1993) 20 Cal.App.4th 256, 262
+statutes:
+  - CCP (California Code of Civil Procedure)
+roles:
+  - Judge: MARGARET L. OLDENDORF
+  - Counsel: Allen L. Thomas
+  - Plaintiff: FRANCES VILLEGAS
+  - Defendant: COUNTY OF LOS ANGELES
+significant_statements:
+  - The Court grants the motion to compel responses to form interrogatories and demand for inspection.
+  - The Court awards sanctions in the amount of $1,125.00 against Villegas.
+```
+
+And here is the English text summarizing the judge's tentative ruling:
+
+The judge grants the motion by the County of Los Angeles to compel responses to form interrogatories and demand for inspection, as well as sanctions in the amount of $1,125.00 against Frances Villegas for her failure to respond to the discovery requests. The judge finds that Villegas was served with the discovery requests on March 6, 2023, and failed to provide responses despite multiple extensions of the deadline. The judge concludes that Villegas's failure to respond to discovery requests is a misuse of the discovery process and awards sanctions against her.

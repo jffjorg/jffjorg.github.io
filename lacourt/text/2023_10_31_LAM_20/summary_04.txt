@@ -1,0 +1,74 @@
+Here is the summary in YAML format:
+
+```
+Case Number: 20STCV21231
+Plaintiff's Name: Kangying, LLC
+Defendant's Name: Michel Amar, Alec Amar, Bit.Management, LLC, NYAM, LLC, Multiple Application Technology, LLC
+People-Names:
+  - Xu Hai
+  - Fangyu Huang
+  - Kangying, LLC
+  - Michel Amar
+  - Alec Amar
+  - Kevin Yap
+  - Jerry Xu
+Company-Names:
+  - IMT LLC
+  - Bit.Management, LLC
+  - NYAM, LLC
+  - Multiple Application Technology, LLC
+  - Kangying, LLC
+Places:
+  - None
+Dates:
+  - August 5, 2021
+  - March 28, 2022
+  - April 21, 2023
+Events:
+  - Breach of fiduciary duty
+  - Breach of contract
+  - Breach of implied covenant of good faith and fair dealing
+  - Fraudulent transfer
+  - Accounting
+  - Termination agreement
+  - Deposition
+Money:
+  - $1 million
+  - $350,000
+Intentions:
+  - To resolve the dispute and grant summary judgment
+Facts:
+  - Kangying, LLC was not a member of IMT LLC
+  - IMT LLC's operating agreement did not define Kangying, LLC as a member
+  - The termination agreement was signed by Kevin Yap, a minority member of IMT LLC
+Disputes:
+  - Whether Kangying, LLC was bound by the termination agreement
+  - Whether the termination agreement was valid
+Acts:
+  - Ousting of Plaintiffs from the business
+  - Refusal of access to financial records
+  - Taking of proceeds from the business
+  - Moving of mining operations away from IMT LLC
+  - Transferring of assets from IMT LLC to Multiple Application Technology, LLC
+Agreements:
+  - IMT LLC's operating agreement
+  - Termination agreement
+Laws:
+  - California Civil Procedure Code § 437c
+  - California Civil Procedure Code § 437c(f)(2)
+Statutes:
+  - California Civil Procedure Code
+Roles:
+  - Judge: [Name]
+  - Plaintiff: Kangying, LLC
+  - Defendants: Michel Amar, Alec Amar, Bit.Management, LLC, NYAM, LLC, Multiple Application Technology, LLC
+  - Counsel: [Names]
+Significant Statements:
+  - The Court believes that the initial operating agreement allowed 3 of 4 directors to bind IMT LLC, but not Kangying, LLC.
+  - There is a triable issue as to whether Kangying, LLC consented to the termination agreement.
+  - The Court agrees with Defendants that Kangying, LLC was not a member of IMT LLC.
+```
+
+Summary in English text:
+
+The Court has issued a tentative ruling on the motion for summary judgment, denying the motion. The motion was brought by the defendants, who sought to have all claims against them dismissed. The defendants argued that the plaintiff, Kangying, LLC, was not a member of IMT LLC, and therefore had no standing to bring the claims. The Court agreed with the defendants, finding that the IMT LLC operating agreement did not define Kangying, LLC as a member, and that the termination agreement signed by Kevin Yap, a minority member of IMT LLC, only bound IMT LLC, not Kangying, LLC. The Court also found that there was a triable issue as to whether Kangying, LLC consented to the termination agreement. The Court granted the request for judicial notice and ordered the moving parties to submit a proposed judgment within 10 days.

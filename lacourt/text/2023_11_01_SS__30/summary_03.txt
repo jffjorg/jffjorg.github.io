@@ -1,0 +1,49 @@
+Here is the summary in YAML format:
+
+```
+case_number: 21STCV46117
+plaintiff_name: Liandra Danenberg-Helm
+defendant_name: Mark Markwell
+people_names:
+  - Liandra Danenberg-Helm
+  - Mark Markwell
+  - Shannon Markwell
+company_names: []
+places:
+  - Los Angeles
+  - San Diego
+dates:
+  - November 1, 2023
+events:
+  - Motion to Transfer
+money:
+  - $50.00 (transfer fee)
+  - $435.00 (filing fee)
+intentions:
+  - To transfer the case to proper venue
+facts:
+  - Venue is not proper in Los Angeles
+  - Proper venue lies in San Diego County
+disputes:
+  - Dispute over proper venue
+acts:
+  - Defendant's motion to transfer
+agreements:
+  - Code of Civil Procedure section 395
+laws:
+  - Code of Civil Procedure
+case_citations: []
+statutes:
+  - Code of Civil Procedure section 395
+roles:
+  - Judge
+  - Plaintiff (Liandra Danenberg-Helm)
+  - Defendant (Mark Markwell, Shannon Markwell)
+significant_statements:
+  - "Venue is not proper pursuant to Code of Civil Procedure section 395."
+  - "Matter is ordered transferred to said county upon payment of the transfer fee..."
+```
+
+And here is the English-text summary:
+
+The Judge has issued a tentative ruling on the Motion to Transfer filed by Mark Markwell and Shannon Markwell. The Judge has granted the motion, finding that the venue is not proper in Los Angeles and that the proper venue lies in San Diego County. The Judge orders that the matter be transferred to San Diego County, with the defendants being responsible for paying the transfer fee of $50.00 to the Los Angeles Superior Court and the filing fee of $435.00 to the San Diego Superior Court. The payment and filing must be made within 30 days by submitting separate checks to the Clerk's Office at the Los Angeles Superior Court.

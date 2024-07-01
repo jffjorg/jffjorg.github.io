@@ -1,0 +1,68 @@
+Here is the summary in YAML format:
+
+```
+case_number: 23PSCV00177
+hearing_date: November 6, 2023
+dept: O
+plaintiffs_name: Plaintiffs
+defendant_name: Defendant
+people_names: 
+  - Plaintiffs
+  - Defendant
+company_names: 
+  - General Motors (GM)
+places: 
+  - California (referred to as "state")
+dates:
+  - January 20, 2023
+  - June 20, 2023
+  - October 24, 2023
+  - October 30, 2023
+events: 
+  - Lemon law case
+  - Plaintiff filing suit
+  - Plaintiff filing motion
+  - Defendant filing opposition
+  - Plaintiff filing reply
+money: 
+  - No monetary amounts mentioned
+intentions: 
+  - Plaintiff seeks further production of documents
+  - Defendant objects to production
+facts: 
+  - Vehicle has nonconformity covered by warranty
+  - Vehicle was presented to authorized representative for repair
+  - Manufacturer did not repair nonconformity after reasonable number of attempts
+disputes: 
+  - Plaintiff's motion to compel further production responses
+  - Defendant's opposition to motion
+acts: 
+  - Plaintiff filing motion
+  - Defendant filing opposition
+  - Plaintiff filing reply
+  - Court granting motion subject to modifications
+agreements: 
+  - Protective order
+  - Re-definition of "writings"
+laws: 
+  - Song-Beverly Act (California Civil Code section 1793.2)
+  - Oregel v. American Isuzu Motors, Inc. (2001)
+  - Ibrahim v. Ford Motor Co. (1989)
+case_citations: 
+  - Oregel v. American Isuzu Motors, Inc. (2001)
+  - Ibrahim v. Ford Motor Co. (1989)
+  - Song-Beverly Act (California Civil Code section 1793.2)
+statutes: 
+  - California Civil Code section 1793.2
+roles: 
+  - Judge
+  - Plaintiff
+  - Defendant
+significant_statements: 
+  - "The court agrees that writing will be redefined to the following..."
+  - "To the extent that the information pertains to trade secrets, GM appears amenable to a protective order as is Plaintiff."
+```
+
+And here is a summary of the judge's tentative ruling in English text:
+
+The judge has granted the plaintiff's motion to compel further production of documents, but subject to modifications. The defendant had objected to the production of certain documents, claiming they were overbroad, but the court has redefined "writings" to include only specific documents related to General Motors' internal policies and procedures regarding warranty claims and lemon law compliance. The court has also agreed to a protective order to protect any trade secrets that may be contained in the documents. No sanctions are imposed. The motion is granted, but with these modifications.

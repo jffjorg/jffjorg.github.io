@@ -1,0 +1,71 @@
+Here is the summary of the judge's tentative ruling in YAML format:
+
+```
+case_number: 23STCV00478
+hearing_date: November 1, 2023
+dept: 40
+superior_court: California
+county: Los Angeles
+
+parties:
+  - Misty Hammer (Plaintiff/Cross-Defendant)
+  - Morgan Stanley Smith Barney LLC (Defendant/Cross-Complainant)
+  - Viktor Armand Hammer (Defendant)
+  - Mark Alfano (Cross-Defendant)
+  - Armand Hammer Foundation, Inc. (AHF)
+  - Hammer International Foundation, Inc. (HIF)
+  - Michael A. Hammer (deceased)
+
+dates:
+  - January 10, 2023 (Complaint filed)
+  - February 21, 2023 (Cross-Complaint filed)
+  - September 28, 2023 (Morgan Stanley's motion for protective order filed)
+  - October 19, 2023 (Misty's opposition to motion filed)
+  - October 25, 2023 (Morgan Stanley's reply filed)
+
+events:
+  - Breach of Contract
+  - Tortious Interference with Contract
+  - Motion for Protective Order
+  - Discovery requests (RPDs, Set One)
+
+money:
+  - $2 million (securities and cash in accounts)
+
+intentions:
+  - Morgan Stanley seeks to protect confidential financial information
+  - Misty seeks to obtain production of documents related to accounts
+
+facts:
+  - Michael Hammer died on November 30, 2022
+  - Morgan Stanley refused to transfer accounts to Misty
+  - Viktor Hammer began trying to seize control of accounts
+
+disputes:
+  - Who is entitled to receive the accounts at issue
+  - Liability to Plaintiff and Cross-Defendants
+
+acts:
+  - Morgan Stanley's motion for protective order
+  - Misty's opposition to motion
+  - Morgan Stanley's reply
+
+agreements:
+  - Proposed protective order attached as Exhibit 1 to Morgan Stanley's motion
+
+laws:
+  - California Code of Civil Procedure sections 2017.020, 2019.030, 2025.420, 2025.460, 2030.090, 2031.060, 2032.510, 2033.080, 2034.250, 2034.420
+
+case_citations:
+  - Liberty Mut. Ins. v. Superior Court (1992) 10 Cal.App.4th 1282
+  - Stony Brook I Homeowners Ass'n v. Superior Court (2000) 84 Cal.App.4th 691
+  - Overstock.com, Inc. v. Goldman Sachs Group, Inc. (2014) 231 Cal.App.4th 471
+  - In re Ins. Installment Fee Cases (2012) 211 Cal.App.4th 1395
+  - Cassidy v. California Bd. of Accountancy (2013) 220 Cal.App.4th 620
+  - Hill v. National Collegiate Athletic Ass'n (1994) 7 Cal.4th 1
+  - Valley Bank of Nev. v. Superior Court (1975) 15 Cal.3d 652
+
+roles:
+  - Judge: signed the tentative ruling
+  - Parties: Misty Hammer, Morgan Stanley Smith Barney LLC, Viktor Armand Hammer, Mark Alfano, Armand Hammer Foundation, Inc., Hammer International Foundation, Inc.
+  - Attorneys: represented parties in the litigation

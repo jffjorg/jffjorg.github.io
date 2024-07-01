@@ -1,0 +1,82 @@
+Here is the summary of the judge's tentative ruling in YAML format:
+
+```
+case_number: 22BBCV00666
+hearing_date: November 3, 2023
+dept: NCB
+court: Superior Court of California
+county: Los Angeles
+district: North Central
+judge: [Judge's Name]
+
+people:
+  - Fadi Khalil (Plaintiff)
+  - General Motors LLC (Defendant)
+
+companies:
+  - General Motors LLC
+
+places:
+  - Los Angeles
+  - California
+
+dates:
+  - October 7, 2020
+  - September 20, 2022
+  - June 23, 2023
+  - October 23, 2023
+  - October 27, 2023
+
+events:
+  - Purchase of 2020 GMC Sierra
+  - Warranty and repair obligations
+  - Motion to compel further responses
+
+money:
+  - None mentioned
+
+intentions:
+  - Plaintiff seeks to compel Defendant to produce further responses to discovery requests
+  - Defendant opposes the motion
+
+facts:
+  - Defendant issued a written warranty for the 2020 GMC Sierra
+  - Plaintiff alleges the vehicle was delivered with serious defects and nonconformities
+  - Defendant has produced some documents, but not all requested
+
+disputes:
+  - Whether Defendant has produced all relevant documents
+  - Whether documents are protected by privilege or confidentiality
+
+acts:
+  - Defendant issued a written warranty for the 2020 GMC Sierra
+  - Plaintiff filed a motion to compel further responses
+
+agreements:
+  - None mentioned
+
+laws:
+  - Song-Beverly Act
+  - California Civil Procedure Code (CCP) § 2031.240
+
+case_citations:
+  - None mentioned
+
+statutes:
+  - Song-Beverly Act
+  - California Civil Procedure Code (CCP) § 2031.240
+
+roles:
+  - Plaintiff: Fadi Khalil
+  - Defendant: General Motors LLC
+  - Judge: [Judge's Name]
+
+significant_statements:
+  - The Court grants the motion as to RPD Nos. 1-3, 5, 8, 11-12, 16-33, 35-37 and denies as to Nos. 9 and 34.
+  - The parties are ordered to meet and confer about entering into a protective order.
+  - Defendant is ordered to provide further responses to the discovery requests within 20 days of entering the protective order.
+```
+
+And here is a summary of the judge's tentative ruling in English text:
+
+The judge grants the motion to compel further responses to discovery requests as to RPD Nos. 1-3, 5, 8, 11-12, 16-33, 35-37, and denies it as to Nos. 9 and 34. The parties are ordered to meet and confer about entering into a protective order to protect confidential and trade secret information. Defendant is ordered to provide further responses to the discovery requests within 20 days of entering the protective order.

@@ -1,0 +1,83 @@
+Here is the summary in YAML format:
+
+```yaml
+case_number: 20TRCV00137
+plaintiff_name: Vincent Lucy
+defendant_name: Matthew R. Stall, as Administrator of the Estate of Richard J. Stall, Jr., and as Trustee of The Richard J. Stall, Jr. Trust
+people_names:
+  - Richard J. Stall, Jr.
+  - Vincent Lucy
+  - Matthew R. Stall
+company_names:
+  - The Richard J. Stall, Jr. Trust
+places:
+  - California
+dates:
+  - February 11, 2020
+  - July 28, 2021
+  - May 19, 2022
+  - January 17, 2023
+  - July 26, 2023
+  - October 10, 2023
+  - October 20, 2023
+  - October 26, 2023
+  - November 2, 2023
+  - February 20, 2024
+events:
+  - Plaintiff's Complaint
+  - Plaintiff's Second Amended Complaint
+  - Plaintiff's Third Amended Complaint
+  - Defendant's Motion to Compel Further Responses
+  - Defendant's Request for Production of Documents
+money:
+  - $348,418.02
+  - $150,000.00
+intentions:
+  - Defendant seeks to compel further responses to Plaintiff's Request for Production of Documents No. 13 to 16
+  - Plaintiff seeks to protect attorney-client privilege
+facts:
+  - Plaintiff loaned decedent $348,418.02 at 10 percent interest
+  - Plaintiff loaned decedent $150,000.00 at 10 percent interest
+  - Decedent died in 2018
+  - Plaintiff made claims to the Estate of Richard J. Stall, but each of the claims were denied
+disputes:
+  - Breach of Oral Contract
+  - Common Count – Account Stated
+  - Breach of Contract
+  - Breach of Written Contract
+  - Legal Malpractice
+  - Breach of Fiduciary Duties
+acts:
+  - Plaintiff filed his Complaint on February 11, 2020
+  - Plaintiff filed his Second Amended Complaint on July 28, 2021
+  - Plaintiff filed his Third Amended Complaint on May 19, 2022
+  - Defendant filed his Motion to Compel Further Responses on October 10, 2023
+agreements:
+  - Oral agreement between Plaintiff and decedent in 1993
+  - Written promissory note between Plaintiff and decedent in 1996
+laws:
+  - Evidence Code § 958
+  - Code of Civil Procedure § 2025.420
+  - Code of Civil Procedure § 2025.420, subdivision (b)
+case_citations:
+  - Schlumberger Limited v. Superior Court (1981) 115 Cal.App.3d 386
+  - Solin v. O’Melveny & Myers, LLP (2001) 89 Cal.App.4th 451
+statutes:
+  - Evidence Code § 958
+  - Code of Civil Procedure § 2025.420
+  - Code of Civil Procedure § 2025.420, subdivision (b)
+roles:
+  - Judge
+  - Plaintiff
+  - Defendant
+  - Administrator
+  - Trustee
+significant_statements:
+  - Plaintiff's attorney-client privilege objection has no merit as to RFPs 13 through 16
+  - The exception of Evidence Code § 958 would likely not apply if Plaintiff's suit were against Matthew R. Stall's firm
+  - The Court's ruling to GRANT the Motions to Compel Further Responses comport with the purpose behind the statute
+```
+
+And here is a summary of the judge's tentative ruling in English text:
+
+The Court has ruled on the Defendant's Motion to Compel Further Responses to Plaintiff's Request for Production of Documents Nos. 13-16. The Court has granted the motion, except for tax returns which have an independent basis for privilege. The Court has ordered the Plaintiff to provide verified further written responses to the requests within 30 days and to produce the requested documents in that same time period. However, the tax returns are subject to an independent basis for privilege from discovery, and the parties may enter into a limited protective order with respect to their production. The Court has requested argument on this point.

@@ -1,0 +1,48 @@
+Here is the summary in YAML format:
+
+```
+case_number: 22SMCV01673
+hearing_date: November 3, 2023
+dept: N
+plaintiff: Douglas Emmett 2007, LLC
+defendant: Keith A. Fink
+people_names:
+  - Keith A. Fink
+  - Douglas Emmett 2007, LLC
+company_names:
+  - Douglas Emmett 2007, LLC
+places: null
+dates:
+  - November 3, 2023
+events:
+  - Motion for Leave to File First Amended Cross Complaint
+money: null
+intentions:
+  - Grant leave to file First Amended Cross Complaint
+facts:
+  - The case is over a year old
+  - Plaintiff filed a non-opposition to Defendant's motion
+  - Defendant failed to provide required information under rule 3.1324(b)
+disputes:
+  - Dispute over whether to grant leave to file First Amended Cross Complaint
+acts:
+  - Defendant/Cross-Complainant Keith A. Fink moves the Court for leave to file a First Amended Cross-Complaint
+agreements:
+  - Plaintiff has filed a non-opposition to Defendant's motion
+laws:
+  - California Rules of Court, rule 3.1324(a) and (b)
+  - Code Civ. Proc., § 473, subd. (a)
+statutes:
+  - null
+roles:
+  - Judge
+  - Plaintiff/Cross-Defendant
+  - Defendant/Cross-Complainant
+significant_statements:
+  - The policy favoring amendment is so strong that it is a rare case in which denial of leave to amend can be justified.
+  - Leave to amend should be denied only where the facts are not in dispute, and the nature of the plaintiff's claim is clear, but under substantive law, no liability exists and no amendment would change the result.
+```
+
+And here is the English text to summarize the judge's tentative ruling:
+
+The judge has granted Defendant/Cross-Complainant Keith A. Fink's Motion for Leave to File First Amended Cross Complaint. The First Amended Cross Complaint is deemed filed as of the date of entry of this order. The judge's reasoning is based on the strong policy favoring amendment, which is only justified in rare cases where the facts are not in dispute and the nature of the plaintiff's claim is clear. In this case, the case is over a year old, and Plaintiff has filed a non-opposition to Defendant's motion. Although Defendant failed to provide required information under rule 3.1324(b), the judge concludes that it is proper to allow Defendant leave to file a First Amended Cross-Complaint.

@@ -1,0 +1,85 @@
+Here is the summary in YAML format:
+
+```
+case_number: 22VECV01540
+hearing_date: November 1, 2023
+dept: T
+plaintiff: Kiumars Khalili
+defendant: GM (General Motors LLC)
+people_names:
+  - Kiumars Khalili
+  - Huizen Lu
+companies:
+  - GM (General Motors LLC)
+  - Santana
+  - Donlen
+places:
+  - California
+dates:
+  - 2016
+  - 2017
+  - 2018
+  - 2022
+events:
+  - Demurrer
+  - Motion to strike
+  - Punitive damages
+  - Discovery
+money:
+  - Civil penalties
+  - Punitive damages
+  - Refund of purchase price
+  - Replacement of vehicle
+  - Actual damages
+intentions:
+  - Concealment of battery defect
+  - Failure to disclose
+  - Fraudulent inducement
+facts:
+  - Battery defect in Chevrolet Bolt EV
+  - Loss of propulsion
+  - Catastrophic fire
+  - Reduced range
+  - Thermal runaway
+  - Spontaneous combustion
+  - Pre-production and post-production testing data
+  - Early consumer complaints
+  - Warranty data
+  - Testing conducted by GM
+  - Warranty repair and part replacements data
+disputes:
+  - Pleading requirements
+  - Sufficiency of allegations
+  - Intent to defraud
+  - Duty to disclose
+acts:
+  - Concealment of battery defect
+  - Failure to disclose
+  - Fraudulent inducement
+agreements:
+  - Song-Beverly Consumer Warranty Act
+  - Civil Code section 3294
+  - Code of Civil Procedure section 3295(c)
+laws:
+  - California Civil Code section 1790 et seq.
+  - California Civil Code section 1794
+  - California Code of Civil Procedure section 3295(c)
+  - California Civil Code section 3294
+statutes:
+  - Song-Beverly Consumer Warranty Act
+  - Civil Code section 3294
+  - Code of Civil Procedure section 3295(c)
+roles:
+  - Plaintiff
+  - Defendant
+  - Judge
+significant_statements:
+  - The court overrules the objections to the declaration of Huizen Lu.
+  - The court sustains the objections to the requests for further responses and production.
+  - The court grants the motion to strike punitive damages as to the first through fourth causes of action.
+  - The court denies the motion to strike punitive damages as to the fifth cause of action.
+```
+
+And here is a summary in English text:
+
+The judge has issued a tentative ruling on a motion to compel further responses from defendant GM and sanctions. The motion is related to a case involving a battery defect in a Chevrolet Bolt EV vehicle. The judge has overruled objections to the declaration of Huizen Lu and sustained objections to requests for further responses and production. The judge has granted the motion to strike punitive damages as to the first through fourth causes of action, but denied the motion as to the fifth cause of action. The judge has also ordered GM to produce responsive documents relating to the battery defect and to file an answer to the complaint within 20 days.

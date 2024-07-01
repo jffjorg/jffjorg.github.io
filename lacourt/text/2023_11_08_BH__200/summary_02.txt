@@ -1,0 +1,50 @@
+Here is the summary of the tentative ruling in YAML format:
+```
+case_number: Not specified
+plaintiff_name: Plaintiff
+defendant_name: General Contractor, Owner, Sub-Contractor, Mgm’t Co.
+people_names:
+  - Corey Garrard
+  - Sifuentes
+company_names:
+  - General Contractor
+  - Mgm’t Co.
+places: Not specified
+dates: None
+events: Motion for summary judgment, discovery requests
+money: Not specified
+intentions:
+  - To summarize the judge's thinking on the admissibility of a photo
+  - To determine whether General Contractor should be bound by previous rulings
+facts:
+  - An investigator hired by Corey Garrard showed Sifuentes a photo
+  - Sifuentes purportedly confirmed that the photo was what fell on the Plaintiff
+  - The photo was identified in response to discovery requests
+disputes:
+  - Admissibility of the photo
+  - Whether General Contractor should be bound by previous rulings
+acts:
+  - General Contractor's failure to support objections
+  - General Contractor's motion for summary judgment
+agreements: None
+laws:
+  - Rules of evidence
+  - Procedural rules for discovery
+case_citations: None
+statutes: None
+roles:
+  - Judge
+  - Plaintiff
+  - General Contractor
+  - Owner
+  - Sub-Contractor
+  - Mgm’t Co.
+  - Corey Garrard
+  - Sifuentes
+significant_statements:
+  - The judge disregards the multiple level hearsay testimony of Corey Garrard
+  - General Contractor should not be bound by previous rulings because it did not bring the motions
+```
+And here is the English-text summary:
+
+The judge is considering the admissibility of a photo that is allegedly what fell on the Plaintiff. The photo was identified in response to discovery requests, but the judge is concerned about its admissibility due to multiple levels of hearsay. The judge also notes that the photo was not directly identified by the Plaintiff or any other witness. On the other hand, General Contractor argues that it should not be bound by previous rulings because it did not bring the motions for summary judgment, and therefore did not have an opportunity to support objections. The judge is tentatively ruling that the photo is not admissible and that General Contractor should not be bound by previous rulings.

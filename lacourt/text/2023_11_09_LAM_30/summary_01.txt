@@ -1,0 +1,71 @@
+Here is the summary in YAML format:
+
+```
+case_number: 21STCV00174
+plaintiff: Carlson
+defendant: Farmers Insurance Exchange, et al
+people:
+  - Douglas Carlson
+  - Jeffery Dailey
+  - Zoltan Nagy
+  - Steve Aspel
+  - Neal Bordenave
+company_names:
+  - Farmers Insurance Exchange
+  - Linear Technology Corp
+  - Applied Materials, Inc
+places:
+  - California
+dates:
+  - 1984
+  - 2017
+  - 2018
+  - 2019
+events:
+  - Contract signing
+  - Meeting with Plaintiff
+  - Termination notice
+  - MUA program implementation
+money:
+  - Commissions
+  - Premium for policies sold
+  - Sales goals
+intentions:
+  - Intention to induce reliance
+  - Intention to misrepresent
+  - Intention to conceal
+facts:
+  - MUA program existed
+  - MUA program ranked agents based on sales performance
+  - MUA program terminated agents who did not meet certain sales performance metrics
+disputes:
+  - Whether MUA program imposed sales quotas
+  - Whether MUA program was intended to terminate agents
+  - Whether Plaintiff relied on MUA program
+acts:
+  - Contract signing
+  - Meeting with Plaintiff
+  - Termination notice
+  - MUA program implementation
+agreements:
+  - Parties' agreement provided for no-cause termination
+laws:
+  - California Civil Code §1709
+  - California Civil Code §1710
+  - California Code of Civil Procedure §437c
+statutes:
+  - Restatement (Third) Torts: Liability for Econ. Harm § 9
+roles:
+  - Judge
+  - Plaintiff
+  - Defendant
+significant_statements:
+  - MUA program did not impose sales quotas
+  - MUA program was intended to terminate agents
+  - Plaintiff relied on MUA program
+  - Plaintiff could have improved his business metrics through merger or acquisition
+```
+
+And here is a summary of the judge's tentative ruling in English text:
+
+The judge has denied the defendants' motion for summary adjudication on the plaintiff's second and fourth causes of action for intentional misrepresentation and deceit. The plaintiff alleged that the defendants fraudulently represented to him that he was not subject to sales quotas or goals after 2015, and that they concealed the existence of the MUA program, which ranked agents based on their sales performance and terminated those who did not meet certain metrics. The judge found that there were triable issues of material fact on these claims, including whether the MUA program imposed sales quotas, whether the defendants intended to induce the plaintiff's reliance, and whether the plaintiff justifiably relied on the defendants' representations. The judge also rejected the defendants' argument that they did not owe the plaintiff a duty to disclose the existence of the MUA program, and that the plaintiff's reliance was unreasonable as a matter of law.

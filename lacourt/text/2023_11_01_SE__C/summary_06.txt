@@ -1,0 +1,68 @@
+Here is the summary in YAML format:
+
+```yaml
+case:
+  number: 23NWCV00500
+  hearing_date: November 1, 2023
+  department: C
+people:
+  - Plaintiff: American Express National Bank
+  - Defendant: Ilan Asherian, dba A to Z Textile, Inc.
+companies:
+  - A to Z Textile, Inc.
+places:
+  - Encino, California
+  - High Knoll Road
+dates:
+  - February 15, 2023
+  - April 26, 2023
+  - May 19, 2023
+  - August 11, 2023
+  - November 1, 2023
+  - November 6, 2023
+  - November 8, 2023
+events:
+  - Complaint for Account Stated and Open Book Account
+  - Service of summons
+  - Default judgment
+  - Motion to Set Aside Default Judgment
+money:
+  - $62,560.72
+intentions:
+  - To set aside default judgment
+facts:
+  - Defendant was never served with the Complaint
+  - Proof of service has incorrect address
+  - Defendant has not filed a proposed responsive pleading
+disputes:
+  - Dispute over service of summons and default judgment
+acts:
+  - Filing of Complaint
+  - Service of summons
+  - Request for entry of default
+  - Granting of default judgment
+  - Filing of Motion to Set Aside Default Judgment
+agreements:
+  - None mentioned
+laws:
+  - California Code of Civil Procedure (CCP) § 473(b)
+  - California Code of Civil Procedure (CCP) § 473.5
+  - California Code of Civil Procedure (CCP) § 418.10
+case_citations:
+  - CCP § 473(b)
+  - CCP § 473.5
+  - CCP § 418.10
+statutes:
+  - California Code of Civil Procedure (CCP)
+roles:
+  - Plaintiff: American Express National Bank
+  - Defendant: Ilan Asherian, dba A to Z Textile, Inc.
+significant_statements:
+  - The proof of service has the incorrect address
+  - Defendant was never served with the Complaint
+  - The Motion to Set Aside Default Judgment is continued to November 8, 2023
+```
+
+And here is the English-text summary:
+
+The Judge has issued a tentative ruling in the case of American Express National Bank v. Ilan Asherian, dba A to Z Textile, Inc. (Case No. 23NWCV00500). The Defendant, Ilan Asherian, has moved to set aside a default judgment entered against him in favor of the Plaintiff, American Express National Bank, for $62,560.72. The default judgment was entered after the Plaintiff alleged that the Defendant owed this amount on a credit card account. The Defendant claims that he was never served with the Complaint and that the proof of service has an incorrect address. The Judge has found that the Motion to Set Aside Default Judgment is within the six-month period allowed by California Code of Civil Procedure (CCP) § 473.5, and that there is a strong public policy in favor of granting the Motion. Therefore, the Judge has continued the Motion to Set Aside Default Judgment to November 8, 2023, at 9:30 AM, and allowed the Defendant to file a supplemental declaration with a proposed pleading by November 6, 2023.

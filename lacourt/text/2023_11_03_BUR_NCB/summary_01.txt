@@ -1,0 +1,91 @@
+Here is the summary of the judge's tentative ruling in YAML format:
+
+```
+Case Number: 20BBCV00444
+Plaintiff's Name: Robin Kim
+Defendant's Name: Yonatan Rabin, et al.
+People-Names:
+  - Robin Kim
+  - Betty Jo Kim McIntosh
+  - Yonatan Rabin
+  - Liat Rabin
+  - Joseph Bernstein
+  - Solomon E. Gressen
+Company-Names:
+  - Sapphire Development & Construction, Inc.
+Places:
+  - West Hollywood, CA
+  - Los Angeles, CA
+Dates:
+  - July 17, 2020 (complaint filed)
+  - July 5, 2023 (trial began)
+  - July 19, 2023 (jury verdict)
+  - July 31, 2023 (judgment entered)
+  - August 3, 2023 (statement of decision)
+  - August 9, 2023 (memorandum of costs filed)
+  - September 18, 2023 (opposition brief filed)
+  - September 21, 2023 (reply brief filed)
+  - September 29, 2023 (hearing date)
+  - October 11, 2023 (supplemental memorandum filed)
+  - October 20, 2023 (responsive supplemental declaration filed)
+  - October 25, 2023 (reply to supplemental papers filed)
+  - November 3, 2023 (hearing date)
+Events:
+  - Trial
+  - Jury verdict
+  - Judgment entered
+  - Statement of decision
+  - Memorandum of costs filed
+  - Opposition brief filed
+  - Reply brief filed
+  - Hearing date
+Money:
+  - $1,963.02 (filing and motion fees)
+  - $1,066.55 (jury fees)
+  - $8,516.58 (deposition costs)
+  - $2,070.00 (witness fees)
+  - $20,911.50 (court reporter fees)
+  - $1,971.00 (models, enlargements, and photocopies of exhibits)
+  - $640.99 (fees for electronic filing or service)
+  - $205,788 (attorney's fees)
+  - $52,175 (costs)
+  - $60,000 (awarded attorney's fees and costs)
+  - $50,000 (awarded attorney's fees and costs)
+Intentions:
+  - Plaintiff seeks to prove that Defendants failed to admit certain facts in Requests for Admissions (RFAs)
+  - Defendants seek attorney's fees and costs for proving the truth of the RFAs
+Facts:
+  - Plaintiff alleged that the Trust owns real property and engaged Defendants to develop it
+  - Plaintiff alleged that Defendants preyed on the Trust's confidence and misrepresented their qualifications
+  - The jury returned a defense verdict on the fraud and negligence causes of action
+  - The Court dismissed the fraud cause of action against Liat Rabin
+  - The Court awarded judgment to the defense
+  - Plaintiff failed to admit certain RFAs
+  - Defendants sought attorney's fees and costs for proving the truth of the RFAs
+Disputes:
+  - Plaintiff disputes the reasonableness of the fees sought by Defendants
+  - Plaintiff argues that Defendants should only be entitled to recover $8,100 in attorney's fees
+  - Defendants argue that they should be entitled to recover $205,788 in attorney's fees
+Acts:
+  - Plaintiff filed a complaint against Defendants
+  - Plaintiff failed to admit certain RFAs
+  - Defendants sought attorney's fees and costs for proving the truth of the RFAs
+  - The jury returned a defense verdict
+  - The Court awarded judgment to the defense
+Agreements:
+  - None
+Laws:
+  - CCP § 2033.420
+Statutes:
+  - CCP § 2033.420
+Roles:
+  - Judge: [Judge's name]
+  - Plaintiff: Robin Kim
+  - Defendant: Yonatan Rabin, et al.
+Significant Statements:
+  - "One need not be a prevailing party to be entitled to sanctions under this statute." (Smith v. Circle P Ranch Co.)
+  - "[W]here it becomes clear from evidence introduced by either party at trial that the party who denied for lack of information or belief had access to the information at the time requests for admissions were propounded, sanctions are justified because that party has a duty to investigate...". (Bloxham v. Saldinger)
+  - "Since requests for admissions are not limited to matters within personal knowledge of the responding party, that party has a duty to make a reasonable investigation of the facts before answering items which do not fall within his personal knowledge." (Bloxham v. Saldinger)
+```
+
+Note: The YAML format is used to organize and present the information in a clear and concise manner. The fields are designed to capture the main points of the document, including the case number, parties involved, dates, events, and significant statements.

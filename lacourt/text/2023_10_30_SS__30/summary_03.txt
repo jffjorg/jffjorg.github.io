@@ -1,0 +1,55 @@
+Here is the summary in YAML format:
+
+```
+case_number: 20STCV24350
+hearing_date: October 30, 2023
+dept: 30
+plaintiff: Gilbert Dorsey, an individual
+defendant: Roberto Tapia Guzman, an individual, et al.
+people_names:
+  - Gilbert Dorsey
+  - Roberto Tapia Guzman
+  - Bryant (defendant)
+company_names: []
+places: []
+dates:
+  - October 17, 2022
+events:
+  - Motion to Compel Responses to Form Interrogatories
+  - Motion to Compel Responses to Special Interrogatories
+  - Motion to Compel Responses to Request for Production of Documents
+  - Failure to serve responses
+money: []
+intentions:
+  - To compel responses to discovery requests
+facts:
+  - Plaintiff did not respond to discovery demands
+  - Defendant granted a thirty-day extension and attempted to meet and confer
+  - Plaintiff failed to serve responses despite multiple attempts
+disputes:
+  - Failure to comply with discovery requests
+acts:
+  - Plaintiff's failure to respond to discovery demands
+  - Defendant's attempts to meet and confer
+  - Court's order to serve verified responses
+agreements: []
+laws:
+  - CCP 2030.290(a) (California Code of Civil Procedure)
+  - CCP 2030.290(a) states that a party waives objections to a discovery request when it does not serve a timely response to the request
+case_citations: []
+statutes:
+  - CCP 2030.290(a)
+roles:
+  - Plaintiff: Gilbert Dorsey
+  - Defendant: Roberto Tapia Guzman, et al.
+  - Moving party: Defendant Bryant
+significant_statements:
+  - Defendant's motions are granted
+  - Plaintiff is ordered to serve verified responses within 20 days
+  - Requests for sanctions are denied
+  - Moving party is required to give notice
+```
+
+And here is a summary of the judge's tentative ruling in English text:
+
+The defendant's motions to compel responses to form interrogatories, special interrogatories, and request for production of documents are granted. The plaintiff is ordered to serve verified responses without objections within 20 days. The defendant's requests for sanctions are denied. The court declines to award sanctions as the motions are unopposed. The plaintiff failed to respond to the defendant's discovery demands, despite being granted a thirty-day extension and multiple attempts by the defendant to meet and confer. The court notes that a party waives objections to a discovery request when it does not serve a timely response to the request, as stated in CCP 2030.290(a).

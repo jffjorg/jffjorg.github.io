@@ -1,0 +1,52 @@
+Here is the summary in YAML format:
+
+```
+case_number: 21STCV13286
+plaintiff_name: Narda Janinna Tercero
+defendant_name: Bailey Rae Brietzke
+people_names:
+  - Narda Janinna Tercero
+  - Bailey Rae Brietzke
+  - Carla Guidice-Hu
+company_names: []
+places: []
+dates:
+  - January 6, 2023
+  - October 31, 2023
+events:
+  - Motion to Compel Responses to Request for Production of Documents (Set One)
+  - Demand for Production, Set One
+  - Serving of verified responses
+  - Request for sanctions
+money: []
+intentions:
+  - Compel Plaintiff to serve verified responses
+  - Award sanctions (denied)
+facts:
+  - Defendant served Demand for Production, Set One, on Plaintiff on January 6, 2023
+  - Plaintiff has not responded to the request
+disputes:
+  - Plaintiff's failure to respond to Defendant's discovery request
+acts:
+  - Defendant filed motion to compel responses
+  - Plaintiff failed to serve a timely response
+agreements: []
+laws:
+  - Code Civ. Proc. § 2031.300, subd. (a)
+  - "A party waives its objections to a discovery request when it does not serve a timely response to the request."
+case_citations: []
+statutes:
+  - Code Civ. Proc. § 2031.300, subd. (a)
+roles:
+  - Judge: Narda Janinna Tercero (Plaintiff)
+    - Bailey Rae Brietzke (Defendant)
+    - Carla Guidice-Hu ( witness)
+significant_statements:
+  - "Defendant’s Motion for an Order Compelling Plaintiff Narda Janinna Tercero’s Responses to Demand for Production, Set One is GRANTED."
+  - "Plaintiff is ORDERED to serve verified responses, without objection, within 20 days from notice of ruling."
+  - "Request for sanctions is DENIED."
+```
+
+And here is a summary of the judge's tentative ruling in English text:
+
+The judge has granted the defendant's motion to compel the plaintiff's responses to a request for production of documents, Set One. The defendant served the request on January 6, 2023, but the plaintiff has failed to respond. The court finds that the plaintiff's failure to respond waives any objections they may have had to the request. The court has ordered the plaintiff to serve verified responses, without objection, within 20 days from notice of the ruling. The request for sanctions is denied as the motion was unopposed.

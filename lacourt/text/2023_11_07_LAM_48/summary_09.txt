@@ -1,0 +1,61 @@
+Here is the summary in YAML format:
+
+```
+case_number: 23STCV04727
+plaintiff_name: JPMorgan Chase Bank, N.A.
+defendant_name: Keith W. Furlong, et al.
+people_names:
+  - Keith W. Furlong
+  - David J. Parsons
+  - Karena P. Chuang
+company_names:
+  - JPMorgan Chase Bank, N.A.
+  - Golden Eagle Aviation Group Inc.
+places:
+  - Los Angeles
+  - California
+dates:
+  - March 3, 2023
+  - March 23, 2023
+  - October 2, 2023
+  - November 7, 2023
+events:
+  - Interpleader action
+  - Notice of Related Case
+  - Motion to consolidate
+  - Consolidation of cases
+money:
+  - $303,383.64
+intentions:
+  - To consolidate cases to avoid unnecessary costs and delay
+facts:
+  - JPMorgan filed an interpleader action against Furlong, Parsons, Golden Eagle Aviation Group Inc., and Chuang
+  - Furlong and Parsons moved to consolidate the action with Case No. 23STCV14344
+  - JPMorgan did not oppose the motion
+disputes:
+  - Dispute over ownership of funds
+acts:
+  - Filing of the interpleader action
+  - Filing of the Notice of Related Case
+  - Filing of the motion to consolidate
+agreements:
+  - Consolidation of cases
+laws:
+  - California Code of Civil Procedure § 1048
+  - California Rules of Court, rule 3.300(a)
+  - Los Angeles Superior Court Rule 3.3, subdivision (g)
+case_citations:
+  - Todd-Stenberg v. Dalkon Shield Claimants Trust (1996) 48 Cal.App.4th 976
+statutes:
+  - California Code of Civil Procedure
+  - California Rules of Court
+  - Los Angeles Superior Court Rule
+roles:
+  - Judge: Hon. Thomas D. Long
+significant_statements:
+  - "When actions involving a common question of law or fact are pending before the court, it may order a joint hearing or trial of any or all the matters in issue in the actions; it may order all the actions consolidated and it may make such orders concerning proceedings therein as may tend to avoid unnecessary costs or delay."
+```
+
+And here is a summary of the tentative ruling in English text:
+
+The tentative ruling grants the motion to consolidate Case No. 23STCV04727 with Case No. 23STCV14344. The two cases are related and involve the same $303,383.64 in disputed funds. The consolidation is intended to avoid unnecessary costs and delay, as the cases share common questions of law and fact. The motion was not opposed by JPMorgan, the plaintiff in the case. The consolidated case will be the lead case, and all future pleadings must be filed under this case number.

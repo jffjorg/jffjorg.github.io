@@ -1,0 +1,55 @@
+Here is the summary in YAML format:
+
+```
+case_number: 22STCV25889
+plaintiff_name: Pacific Escrow, Inc.
+defendant_name: Citibank, N.A.
+people_names:
+  - Jonathan L Endman
+  - John Baesler
+company_names:
+  - Pacific Escrow, Inc.
+  - Citibank, N.A.
+  - WB Horizon Real Estate LLC
+places:
+  - Los Angeles
+  - California
+dates:
+  - August 10, 2022
+  - April 26, 2023
+  - May 25, 2023
+  - November 6, 2023
+  - January 18, 2024
+events:
+  - Demurrer
+  - Order to amend complaint
+  - Filing of answer
+  - Motion for judgment on the pleadings
+money: None
+intentions:
+  - Plaintiff seeks to recover for alleged tortious interference with contract, unfair business practices, and tortious interference with prospective advantage
+  - Defendant seeks judgment on the pleadings as to Plaintiff's second cause of action
+facts:
+  - Plaintiff filed action on August 10, 2022
+  - Defendant demurred to each cause of action, with exception of second cause of action
+  - Plaintiff did not file amended complaint, and Defendant filed answer on May 25, 2023
+disputes:
+  - Whether Defendant's demurrer to third cause of action should be sustained
+acts:
+  - Proof of service attached to Plaintiff's opposition to motion
+agreements: None
+laws:
+  - California Civil Procedure Code
+case_citations: None
+statutes: None
+roles:
+  - Judge: Hon. Rolf M. Treu
+  - Plaintiff: Pacific Escrow, Inc.
+  - Defendant: Citibank, N.A.
+significant_statements:
+  - "In light of the foregoing, the hearing on Defendant's motion for judgment on the pleadings is continued to 1-18-2024, at 2:00 p.m. in Dept. 50."
+```
+
+And here is a summary of the judge's tentative ruling in English text:
+
+The judge has issued a tentative ruling on Defendant Citibank, N.A.'s motion for judgment on the pleadings as to Plaintiff Pacific Escrow, Inc.'s second cause of action. The motion was filed after the judge's previous order sustaining Defendant's demurrer to the third cause of action, with leave to amend. Plaintiff did not file an amended complaint, and Defendant filed an answer to the original complaint. The judge notes that the proof of service attached to Plaintiff's opposition to the motion does not show that it was served on Defendant, and that Defendant did not file a reply in support of the motion. As a result, the hearing on the motion is continued to January 18, 2024, at 2:00 p.m. in Department 50.

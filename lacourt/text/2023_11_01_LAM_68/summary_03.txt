@@ -1,0 +1,49 @@
+Here is the Judge's tentative ruling in YAML format:
+
+```
+Case Number: 23STCV16328
+Plaintiff's Name: Jose Antonio Arroyo
+Defendant's Name: Lee Kum Kee USA, Inc.
+People-Named: Jose Antonio Arroyo, Lee Kum Kee USA, Inc.
+Company-Named: Lee Kum Kee USA, Inc.
+Places: None
+Dates:
+  - Hearing Date: November 1, 2023
+Events:
+  - Motion to Compel Arbitration
+Money: None
+Intentions:
+  - Defendant seeks to compel arbitration of Plaintiff's individual PAGA claims
+Facts:
+  - Arbitration agreement exists and is enforceable
+  - Agreement excludes representative PAGA claims from arbitration
+Disputes:
+  - Whether individual PAGA claims are subject to arbitration
+Acts:
+  - Plaintiff signed arbitration agreement
+  - Defendant filed motion to compel arbitration
+  - Plaintiff opposes motion
+  - Defendant replies to opposition
+Agreements:
+  - Arbitration agreement
+Laws:
+  - CCP § 1281.2
+  - FAA (Federal Arbitration Act)
+  - Cal. Labor Code
+  - Civ. Code §§ 1599 and 1670.5(a)
+  - Labor Code § 432.6
+Case Citations:
+  - Duran v. EmployBridge Holding Company (2023) 92 Cal.App.5th 59
+Statutes:
+  - 9 U.S.C. § 1
+Roles:
+  - Moving Party: Defendant Lee Kum Kee USA, Inc.
+  - Opposing Party: Plaintiff Jose Antonio Arroyo
+Significant Statements:
+  - "Private attorney general representative actions under the California Labor Code are not arbitrable, not within the scope of this Agreement and may be maintained in a court of law." (Arbitration agreement)
+  - "Nothing in this section is intended to invalidate a written arbitration agreement that is otherwise enforceable under the Federal Arbitration Act." (Labor Code § 432.6(f))
+```
+
+And here is a summary of the Judge's tentative ruling in English text:
+
+The Court grants Defendant Lee Kum Kee USA, Inc.'s motion to compel arbitration of Plaintiff Jose Antonio Arroyo's individual PAGA claims. The arbitration agreement signed by Plaintiff excludes representative PAGA claims from arbitration, but does not mention individual PAGA claims. Defendant argues that the agreement only excludes representative PAGA claims, and Plaintiff's individual claims are therefore subject to arbitration. The Court finds that the FAA and Cal. Labor Code do not bar arbitration in this case, and that the arbitration agreement is otherwise enforceable.

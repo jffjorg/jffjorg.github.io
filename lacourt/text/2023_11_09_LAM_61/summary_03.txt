@@ -1,0 +1,73 @@
+Here is the summary in YAML format:
+
+```
+case_number: 23STCV17920
+hearing_date: November 9, 2023
+dept: 61
+defendant: The Discovery House, LLC
+plaintiff: William Jenkins
+
+people:
+  - William Jenkins
+  - Judge (unnamed)
+
+companies:
+  - The Discovery House, LLC
+
+places:
+  - (none)
+
+dates:
+  - November 9, 2023
+  - (arbitration agreement execution date not specified)
+
+events:
+  - Motion to Compel Arbitration
+  - Arbitration agreement execution
+
+money:
+  - (none)
+
+intentions:
+  - Grant the motion to compel arbitration
+
+facts:
+  - Arbitration agreement exists
+  - Agreement applies to "any dispute regarding employee's employment"
+  - Plaintiff has filed a notice of non-opposition
+
+disputes:
+  - Whether the arbitration agreement is valid and applicable
+  - Whether the parties have waived their right to arbitrate
+
+acts:
+  - Execution of arbitration agreement
+  - Filing of motion to compel arbitration
+  - Filing of notice of non-opposition
+
+agreements:
+  - Arbitration agreement
+
+laws:
+  - California Code of Civil Procedure, Section 1281.2
+  - Hotels Nevada v. L.A. Pacific Center, Inc. (2006) 144 Cal.App.4th 754, 758
+
+case_citations:
+  - California Code of Civil Procedure, Section 1281.2
+  - Hotels Nevada v. L.A. Pacific Center, Inc. (2006) 144 Cal.App.4th 754, 758
+
+statutes:
+  - California Code of Civil Procedure, Section 1281.2
+
+roles:
+  - Judge: to grant or deny the motion to compel arbitration
+  - The Discovery House, LLC (Defendant): to provide notice
+  - William Jenkins (Plaintiff): to file a notice of non-opposition
+
+significant_statements:
+  - "The party moving to compel arbitration bears the burden of establishing the existence of a valid agreement to arbitrate, and the party opposing arbitration bears the burden of proving by a preponderance of the evidence any fact necessary to its defense."
+```
+
+And here is the English-text summary:
+
+The Judge's tentative ruling grants the Motion to Compel Arbitration filed by The Discovery House, LLC (Defendant). The Defendant presented an arbitration agreement executed by Plaintiff William Jenkins, which contains a class action waiver and applies to "any dispute regarding employee's employment". The Plaintiff has filed a notice of non-opposition. The Judge determines that the arbitration agreement exists and is applicable to the present controversy, and therefore grants the motion. The Defendant is ordered to provide notice.

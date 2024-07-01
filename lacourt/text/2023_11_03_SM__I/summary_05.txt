@@ -1,0 +1,79 @@
+Here is the summary in YAML format:
+
+```
+case_number: 23SMCV02091
+hearing_date: November 3, 2023
+department: I
+
+people_names:
+  - Plaintiff
+  - Defendant
+
+company_names:
+  - None
+
+places:
+  - None
+
+dates:
+  - 2003
+  - 1989
+
+events:
+  - Accident
+  - Incident report
+  - Motion to compel further
+  - Log production
+
+money:
+  - None
+
+intentions:
+  - Plaintiff seeks to compel production of two documents: a video and an incident report
+
+facts:
+  - Defendant has agreed to provide the video of the accident
+  - Defendant claims the incident report is protected by attorney/client privilege or attorney work product doctrine
+  - The insured was interviewed at the direction of counsel or for counsel's use primarily
+  - The carrier's employee conducted the interview for the primary purpose of providing it to counsel
+
+disputes:
+  - Plaintiff disputes the defendant's claim of privilege and work product protection
+  - Defendant disputes the plaintiff's request for production of the incident report
+
+acts:
+  - Defendant has agreed to provide the video
+  - Defendant has not provided a sufficient log to establish the prima facie privilege or protection
+  - The court has granted the motion to compel production of the video
+
+agreements:
+  - Defendant will provide a log of the incident report within 10 court days
+  - The 45-day clock will re-start once the log is produced
+
+laws:
+  - Scripps Health v. Superior Court (2003)
+  - Soltani-Rastegar v. Superior Court (1989)
+
+statutes:
+  - None
+
+roles:
+  - Judge
+  - Plaintiff
+  - Defendant
+  - Carrier
+  - Counsel
+
+significant_statements:
+  - The court grants the motion to compel production of the video
+  - The court denies the motion to compel production of the incident report pending the production of a sufficient log
+  - The court warns defendant that the log must be sufficiently detailed to establish the prima facie privilege or protection
+```
+
+And here is a summary of the tentative ruling in English text:
+
+The court has issued a tentative ruling on a motion to compel further production of two documents: a video of an accident and an incident report. The plaintiff is seeking these documents as part of their case. The defendant has agreed to provide the video, but only subject to a confidentiality agreement, which the court has not accepted as valid. Therefore, the court grants the motion to compel production of the video.
+
+As for the incident report, the defendant claims it is protected by attorney/client privilege or attorney work product doctrine. The court agrees that an interview of the insured done at the direction of counsel or for counsel's use primarily is generally privileged. However, the court disagrees that this is just a witness statement, and finds that the carrier's employee conducted the interview for the primary purpose of providing it to counsel.
+
+The court orders the defendant to produce a log of the incident report within 10 court days, which must be sufficiently detailed to establish the prima facie privilege or protection. If the log is not produced, the incident report will be deemed waived. The 45-day clock will re-start once the log is produced, during which time the plaintiff may seek to compel production of the incident report on the basis that the prima facie showing is insufficient to establish either the attorney/client privilege or some form of work product protection.

@@ -1,0 +1,83 @@
+Here is the YAML summary of the tentative ruling:
+
+```
+case_number: 22STCV17802
+plaintiff: Maria Margarita Carranza
+defendant: El Super, Gallagher Bassett, SVCS, Inc. D1-10, Does 1-10
+people:
+  - Maria Margarita Carranza
+  - El Super
+  - Gallagher Bassett, SVCS, Inc.
+companies:
+  - El Super
+  - Gallagher Bassett, SVCS, Inc.
+places:
+  - Los Angeles
+  - California
+dates:
+  - June 1, 2022
+  - December 22, 2022
+  - January 11, 2023
+  - April 4, 2023
+  - April 13, 2023
+  - July 25, 2023
+  - September 21, 2023
+  - October 9, 2023
+  - October 10, 2023
+  - November 23, 2022
+  - November 3, 2023
+  - November 8, 2023
+events:
+  - Slip and fall incident
+  - Plaintiff files complaint
+  - Defendant files motion to strike
+  - Court grants motion to strike
+  - Plaintiff fails to file amended complaint
+  - Defendant files motion to dismiss
+  - Court denies motion to dismiss
+  - Plaintiff files addendum to complaint
+  - Court strikes addendum
+money:
+  - None mentioned
+intention:
+  - Plaintiff seeks to recover damages
+  - Defendant seeks to dismiss complaint
+facts:
+  - Plaintiff suffered a slip and fall incident
+  - Defendant failed to timely amend complaint
+  - Defendant failed to produce documents
+disputes:
+  - Plaintiff's failure to amend complaint
+  - Defendant's failure to produce documents
+acts:
+  - Plaintiff's failure to amend complaint
+  - Defendant's motion to strike
+  - Defendant's motion to dismiss
+  - Plaintiff's opposition to motion to dismiss
+agreements:
+  - None mentioned
+laws:
+  - California Code of Civil Procedure Section 581(f)(4)
+  - California Code of Civil Procedure Section 472(a)
+  - California Code of Civil Procedure Section 473(a)(1)
+  - California Code of Civil Procedure Section 436
+case_citations:
+  - Leader v. Health Industries of America, Inc. (2001) 89 Cal.App.4th 603
+statutes:
+  - California Code of Civil Procedure Section 581(f)(4)
+  - California Code of Civil Procedure Section 472(a)
+  - California Code of Civil Procedure Section 473(a)(1)
+  - California Code of Civil Procedure Section 436
+roles:
+  - Judge: Hon. Lee S. Arian
+  - Plaintiff: Maria Margarita Carranza
+  - Defendant: El Super, Gallagher Bassett, SVCS, Inc. D1-10, Does 1-10
+significant_statements:
+  - The Court grants Defendant's motion to dismiss the complaint.
+  - The Court strikes Plaintiff's addendum to the complaint.
+  - The Court finds that Plaintiff failed to amend the complaint within the time allowed by the Court.
+```
+
+Summary:
+
+The tentative ruling is regarding a motion to dismiss a premises liability action filed by Plaintiff Maria Margarita Carranza against Defendant El Super, Gallagher Bassett, SVCS, Inc. D1-10, and Does 1-10. The Court finds that Plaintiff failed to amend the complaint within the time allowed by the Court and failed to demonstrate a valid reason for the delay. The Court grants Defendant's motion to dismiss the complaint and strikes Plaintiff's addendum to the complaint. The Court also notes that Plaintiff's opposition to the motion to dismiss is untimely and fails to address the substance of the motion.

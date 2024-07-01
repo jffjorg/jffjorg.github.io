@@ -1,0 +1,67 @@
+Here is the summary in YAML format:
+
+```
+case_number: 21STCV30090
+plaintiff_names:
+  - Peter Yorck
+  - Lillian Yorck
+defendant_names:
+  - Shahrad Mizrahi
+people_names:
+  - Peter Yorck
+  - Lillian Yorck
+  - Shahrad Mizrahi
+company_names:
+  - USAA
+places:
+  - California
+dates:
+  - July 17, 2023
+  - October 25, 2023
+  - October 31, 2023
+events:
+  - Petition to Approve Compromise of Pending Action of a Minor
+  - Settlement between Plaintiffs and Defendants
+  - Expedited Petition to Approve Compromise of Pending Action of a Minor
+money:
+  - $15,000 (attorney's fees)
+  - $3,500 (medical expenses)
+  - $41,500 (net balance)
+  - $60,000 (settlement amount)
+  - $100,000 (UIM policy limit)
+intentions:
+  - Deny the expedited petition
+facts:
+  - Lillian Yorck, age 3, is the minor involved in the case
+  - The settlement between Plaintiffs and Defendants was previously approved
+  - The attorney's fees in the amount of 25% were found fair and reasonable
+  - The UIM carrier, USAA, is being asked to pay the difference between the coverage limit and the previously approved settlement
+disputes:
+  - Whether the expedited petition is proper
+  - Whether the settlement amount represents the policy limit
+acts:
+  - The Court previously reviewed the Petition to Approve Compromise and found it fair and reasonable
+  - The Petitioner has been informed of the limits of an expedited petition form
+agreements:
+  - The settlement between Plaintiffs and Defendants
+  - The attorney's fees in the amount of 25%
+  - The UIM policy limit of $100,000
+laws:
+  - CRC, Rule 7.950.5(a)(8) and (9)
+  - California Rules of Court
+statutes:
+  - None mentioned
+roles:
+  - Judge
+  - Counsel
+  - Petitioner
+  - Guardian ad litem
+significant statements:
+  - The Court excuses the personal appearance of Claimant and the guardian ad litem.
+  - The Court instructs Petitioner to file a new petition by making use of MC-350 [Rev. January 1, 2021], instead of on MC-350EX.
+  - The Court notes that the intention is for the net settlement amount to be deposited into a blocked account with financial institution JP Morgan Chase Bank.
+```
+
+And here is the English-text summary:
+
+The Court has issued a tentative ruling denying the expedited petition to approve the compromise of the pending action of a minor, Lillian Yorck. The Court previously reviewed the petition and found the settlement between the Plaintiffs and Defendants to be fair and reasonable. However, the Court finds that the expedited petition is not proper because the settlement amount of $60,000 is greater than the $50,000 limit for an expedited petition. The Court instructs the Petitioner to file a new petition using the correct form, MC-350 [Rev. January 1, 2021]. Additionally, the Court notes that the Petitioner must correct Item 19b of the petition to indicate that the net settlement amount will be deposited into a blocked account with JP Morgan Chase Bank, rather than split between the guardian of the estate and a blocked account.

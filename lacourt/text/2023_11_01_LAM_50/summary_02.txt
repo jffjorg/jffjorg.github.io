@@ -1,0 +1,45 @@
+Here is a summary of the tentative ruling in YAML format:
+
+```
+case_number: 23STCV02602
+hearing_date: 2023-11-01
+dept: 50
+judge: [Judge's name]
+parties:
+  - CENTRAL METAL, INC. (Plaintiff)
+  - JONG UK BYUN (Plaintiff)
+  - HOPE YS KIM (Defendant)
+  - JASON KIM (Defendant)
+  - J&I CONSULTING, INC. (Defendant)
+  - SA RECYCLING LLC (Defendant)
+
+facts:
+  - Plaintiffs allege that Central Metal, Inc. ("CMI") and Jong Uk Byun ("Byun") jointly filed a complaint against defendants Hope YS Kim, Jason Kim, and J&I Consulting, Inc. ("J&I Consulting") alleging causes of action for breach of fiduciary duty, fraud, constructive fraud, professional negligence, and financial elder abuse.
+  - The complaint alleges that Byun and CMI owned a parcel of land and metal shearing machines, respectively, and that defendants conspired to fraudulently divert funds from the sale of the parcel and machines.
+  - Plaintiffs allege that Byun was led to believe that defendants were his fiduciaries and that they would assist him in the transaction, but in reality, they were working to enrich themselves at Byun's expense.
+
+issues:
+  - Standing: Do the plaintiffs have standing to bring this action?
+  - Uncertainty: Is the complaint unclear and uncertain?
+  - Fraud: Do the plaintiffs' fraud claims fail to state facts sufficient to constitute a cause of action?
+  - Conversion: Do the plaintiffs' conversion claims fail to state facts sufficient to constitute a cause of action?
+  - Penal Code section 496: Do the plaintiffs' claims under Penal Code section 496 fail to state facts sufficient to constitute a cause of action?
+
+ruling:
+  - The court finds that the plaintiffs have standing to bring this action.
+  - The court finds that the complaint is not uncertain and that the demurrer is overruled.
+  - The court finds that the plaintiffs' fraud and conversion claims are sufficient to constitute causes of action.
+  - The court finds that the plaintiffs' claims under Penal Code section 496 are sufficient to constitute a cause of action.
+```
+
+And here is a summary of the tentative ruling in English text:
+
+This tentative ruling addresses the demurrer filed by defendants Hope YS Kim, Jason Kim, and J&I Consulting, Inc. to the complaint filed by plaintiffs Central Metal, Inc. and Jong Uk Byun. The complaint alleges that the defendants conspired to fraudulently divert funds from the sale of a parcel of land and metal shearing machines owned by the plaintiffs.
+
+The court finds that the plaintiffs have standing to bring this action and that the complaint is not uncertain. The court also finds that the plaintiffs' fraud and conversion claims are sufficient to constitute causes of action.
+
+The court sustains the demurrer to the plaintiffs' sixth cause of action for financial elder abuse, as it only applies to individuals over the age of 65, and the plaintiffs are corporations.
+
+The court finds that the plaintiffs' claims under Penal Code section 496 are sufficient to constitute a cause of action, as the statute allows for civil actions by anyone injured by the knowing sale of stolen property.
+
+Overall, the court overrules the demurrer in part and sustains it in part, allowing the plaintiffs to move forward with their claims.

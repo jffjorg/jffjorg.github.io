@@ -1,0 +1,62 @@
+Here is the summary in YAML format:
+
+```
+case_number: 20STCV49233
+plaintiff_name: Alexander Moradi
+defendant_name: Lyons Development, Inc. et al.
+people_names:
+  - Alexander Moradi
+  - Doe defendants
+company_names:
+  - El Verde Terrazzo, Inc.
+  - Lyons Development, Inc.
+places:
+  - California
+dates:
+  - December 24, 2020
+  - December 1, 2022
+  - February 16, 2012
+  - late 2018
+  - November 3, 2023
+events:
+  - Demurrer
+  - Filing of complaints
+  - Completion of work
+money:
+  - None mentioned
+intentions:
+  - To determine whether claims are time-barred
+facts:
+  - Defendant completed work in 2012
+  - Plaintiff discovered defects in 2018
+  - Plaintiff filed original complaint in 2020
+  - Plaintiff filed second amended complaint in 2022
+disputes:
+  - Whether claims are time-barred
+acts:
+  - Filing of complaints
+  - Completion of work
+  - Discovery of defects
+agreements:
+  - Code of Civil Procedure, § 337.15
+  - Smeltzley v. Nicholson Mfg. Co. (1977)
+laws:
+  - Code of Civil Procedure, § 337.15
+  - Smeltzley v. Nicholson Mfg. Co. (1977)
+case_citations:
+  - Liptak v. Diane Apartments, Inc. (1980)
+  - Smeltzley v. Nicholson Mfg. Co. (1977)
+statutes:
+  - Code of Civil Procedure, § 337.15
+roles:
+  - Judge: Alexander Moradi
+  - Plaintiff: Alexander Moradi
+  - Defendant: El Verde Terrazo, Inc. et al.
+significant_statements:
+  - The relation-back doctrine applies
+  - The prior complaints sufficiently allege construction defects
+```
+
+Summary in English text:
+
+The judge has issued a tentative ruling on a demurrer filed by Defendant El Verde Terrazzo, Inc. in a construction defect action brought by Plaintiff Alexander Moradi. The defendant argues that the claims are time-barred by the statute of repose, which requires that an action for property damage based on latent defects in the planning or construction of improvements to real property must commence within ten years of substantial completion. The judge finds that despite the original complaint naming Doe defendants, the relation-back doctrine applies because the second amended complaint was filed within ten years of the defendant's completion of work and within three years of the plaintiff's discovery of the defects. The judge overrules the demurrer and orders the defendant to file an answer within 20 days.

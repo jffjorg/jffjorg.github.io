@@ -1,0 +1,52 @@
+Here is a summary of the Judge's tentative ruling in YAML format:
+
+```yaml
+case_number: 22CHCV01007
+hearing_date: November 3, 2023
+dept: F51
+motion_for: Attorney Fees
+parties:
+  - Plaintiff: Juan Antonio Carrillo Berumen
+  - Defendants: Mercedes-Benz USA, LLC, Mercedes-Benz of Valencia
+notice: OK
+relief_requested:
+  - Judgment in favor of Plaintiff
+  - Order granting Plaintiff attorney fees and costs
+  - Amount: $23,846.23
+tentative_ruling:
+  - Grant motion in part
+  - Award Plaintiff $15,666.23 in attorney fees and costs
+  - Deny request for judgment
+  - Parties may file separate request for judgment or stipulated judgment
+evidentiary_objections:
+  - Overrule Defendants' evidentiary objections
+background:
+  - Parties entered into settlement agreement on 4/26/23
+  - Plaintiff filed motion on 8/11/23
+  - Defendants filed opposition on 10/25/23
+  - Plaintiff filed reply on 10/27/23
+analysis:
+  - Right to recovery: Plaintiff has right to recover attorney fees and costs under Song-Beverly Act
+  - Attorney fees incurred: Plaintiff seeks to recover $22,890.00 in attorney fees
+  - Hours expended: Plaintiff proffers itemized list of time entries detailing attorneys' work
+    - Client communications: 2 hours (decline to reduce)
+    - Attorney-client agreement: 1.8 hours (decline to reduce)
+    - Complaint: 2.9 hours (decline to reduce)
+    - Discovery: 2.3 hours (decline to reduce)
+    - Motion to compel arbitration: 1.5 hours (reduce by $600.00)
+    - Fee motion: 2.1 hours (decline to reduce)
+    - Clerical tasks: none (decline to reduce)
+  - Code of Civil Procedure Section 998 offer: decline to reduce attorney fees
+  - Costs incurred: Plaintiff seeks to recover $956.23 in costs
+    - Filing and motion fees: $61.65
+    - Process server fees: $147.19
+    - Electronic filing/service fees: $497.39
+    - Other costs: $250.00 (reduce by $250.00)
+conclusion:
+  - Grant motion in part
+  - Award Plaintiff $15,666.23 in attorney fees and costs
+```
+
+And here is a summary of the Judge's tentative ruling in English text:
+
+The Judge grants the motion in part, awarding Plaintiff $15,666.23 in attorney fees and costs. The Judge denies the request for judgment and notes that parties may file a separate request for judgment or stipulated judgment. The Judge overrules Defendants' evidentiary objections and finds that Plaintiff has the right to recover attorney fees and costs under the Song-Beverly Act. The Judge reviews the hours expended by Plaintiff's attorneys and finds that the fees incurred for client communications, attorney-client agreement, complaint, discovery, and fee motion are reasonable. The Judge reduces the fee demand by $600.00 for the time spent on the motion to compel arbitration and by $250.00 for the unspecified other costs. The Judge declines to reduce the attorney fees and costs for the time spent on clerical tasks, Code of Civil Procedure Section 998 offer, and other unspecified tasks.

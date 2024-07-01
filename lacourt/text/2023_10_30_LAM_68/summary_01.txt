@@ -1,0 +1,71 @@
+Here is the summary in YAML format:
+
+```
+case_number: 20STCP00529
+plaintiff_name: Bahram Nowparvar
+defendant_names:
+  - JDS Minions
+  - Jeremy Daniels-Stock
+people_names:
+  - Bahram Nowparvar
+  - Jeremy Daniels-Stock
+company_names:
+  - JDS Minions
+places:
+  - None
+dates:
+  - October 30, 2023
+  - Over three and a half years (time period of litigation)
+events:
+  - Motion for Attorneys' Fees, Costs, and Expenses
+  - Settlement agreement
+money:
+  - $22,685 (amount of attorney fees requested)
+  - $21,060 (amount of invoices)
+  - $1,625 (expected amount for reviewing opposition, drafting reply, and attending hearing)
+  - $650 (hourly rate of Plaintiff's attorney)
+  - $400-$450 (hourly rate of attorneys in the area, according to Defendants)
+intentions:
+  - Plaintiff is seeking to recover attorney fees from Defendants
+  - Defendants are disputing the amount of attorney fees requested
+facts:
+  - The parties settled in Plaintiff's favor
+  - The contract contains a provision for attorney fees
+  - Plaintiff's attorney has worked on the case for over three and a half years
+  - Plaintiff's attorney's hourly rate is $650
+disputes:
+  - Amount of attorney fees requested
+  - Reasonableness of Plaintiff's attorney's hourly rate
+acts:
+  - Plaintiff filed a motion for attorney fees
+  - Plaintiff's attorney worked on the case for over three and a half years
+  - The parties reached a settlement agreement
+  - Plaintiff is seeking to recover attorney fees from Defendants
+agreements:
+  - Settlement agreement
+  - Contract containing a provision for attorney fees
+laws:
+  - Civ. Code § 1717
+  - CCP § 1033.5(a)(10)
+  - Cal. Civ. Code § 1717(a)
+case_citations:
+  - Civ. Code § 1717
+  - CCP § 1033.5(a)(10)
+  - Cal. Civ. Code § 1717(a)
+statutes:
+  - Civ. Code § 1717
+  - CCP § 1033.5(a)(10)
+roles:
+  - Judge
+  - Plaintiff (Bahram Nowparvar)
+  - Defendant (JDS Minions and Jeremy Daniels-Stock)
+  - Plaintiff's attorney
+significant_statements:
+  - "Plaintiff is entitled to attorney fees as the prevailing party on a contract containing a fees provision"
+  - "The Court does not find that Plaintiff's hourly rate of $650 an hour is unreasonable"
+  - "Plaintiff's motion for attorneys' fees is granted in the amount of $22,685"
+```
+
+And here is the summary in English text:
+
+The tentative ruling is a summary of a motion for attorneys' fees, costs, and expenses filed by Plaintiff Bahram Nowparvar against Defendants JDS Minions and Jeremy Daniels-Stock. The parties settled in Plaintiff's favor, and Plaintiff is seeking to recover $22,685 in attorney fees from Defendants. The Court has reviewed the evidence and finds that Plaintiff is entitled to attorney fees as the prevailing party on a contract containing a fees provision. The Court also finds that Plaintiff's hourly rate of $650 an hour is reasonable. Plaintiff's motion for attorneys' fees is granted in the amount of $22,685.

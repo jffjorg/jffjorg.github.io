@@ -1,0 +1,68 @@
+Here is the summary in YAML format:
+
+```
+Case Number: [Insert Case Number]
+Plaintiff's Name: [Insert Plaintiff's Name]
+Defendant's Name: [Insert Defendant's Name]
+
+People-Names:
+  - St. Pierre
+  - Choi
+
+Company-Names:
+  - [Plaintiff]
+  - [Defendant]
+
+Places:
+  - United States
+
+Dates:
+  - 2014
+  - February 11, 2020
+
+Events:
+  - Defendants' payment delay
+  - United States Navy termination of contracts
+
+Money:
+  - Defendant's debt to Plaintiff
+
+Intentions:
+  - Defendant's intention to delay payment
+  - Plaintiff's intent to seek payment
+
+Facts:
+  - Defendant did not pay Plaintiff at the time of delivery
+  - Defendant did not object to evidence presented by Plaintiff
+  - Defendant acknowledged obligation just days before Navy contract termination
+  - Defendant last acknowledged obligation after Navy contract termination
+
+Disputes:
+  - Defendant's claim that evidence presented by Plaintiff is hearsay
+  - Plaintiff's claim that Defendant failed to pay for delivered goods
+
+Acts:
+  - Defendant's acceptance and payment for goods delivered by Plaintiff
+  - Defendant's delay in payment
+
+Agreements:
+  - Parties' agreement regarding payment terms
+
+Laws:
+  - [Insert relevant laws or statutes]
+
+Case Citations:
+  - [Insert relevant case citations]
+
+Statutes:
+  - [Insert relevant statutes]
+
+Roles:
+  - Judge
+  - Plaintiff
+  - Defendant
+
+Significant Statements:
+  - Defendant did not object to evidence presented by Plaintiff
+  - Defendant acknowledged obligation just days before Navy contract termination
+  - Defendant last acknowledged obligation after Navy contract termination

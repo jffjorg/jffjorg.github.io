@@ -1,0 +1,71 @@
+Here is the summary in YAML format:
+
+```
+case_number: 21STCV03475
+plaintiff_name: Christina Stever
+defendant_names:
+  - Steuber Corporation
+  - Patrick Fink
+people_names:
+  - Christina Stever
+  - Patrick Fink
+  - Cindy Chapman
+company_names:
+  - Steuber Corporation
+  - Alta Service
+places:
+  - California
+dates:
+  - January 28, 2021
+  - February 21, 2023
+  - April 27, 2023
+  - July 14, 2023
+  - August 9, 2023
+  - November 8, 2023
+events:
+  - Motor vehicle accident
+  - Deposition
+  - Motion to compel
+  - Meet and confer
+money:
+  - $418.65 (initial request)
+  - $229.65 (awarded)
+intention:
+  - To compel Plaintiff's deposition
+  - To award monetary sanctions
+facts:
+  - Plaintiff failed to appear for deposition
+  - Defendants made numerous attempts to reschedule deposition
+  - Plaintiff was unresponsive to attempts to reschedule
+  - No opposition was filed to motion
+disputes:
+  - Plaintiff's failure to appear for deposition
+acts:
+  - Plaintiff canceled deposition
+  - Defendants noticed deposition
+  - Plaintiff was unresponsive to attempts to reschedule
+agreements:
+  - None mentioned
+laws:
+  - California Code of Civil Procedure § 2025.450
+  - California Code of Civil Procedure § 2025.410
+  - California Code of Civil Procedure § 2016.040
+case_citations:
+  - Code Civ. Proc., § 2025.450, subd. (a)
+  - Code Civ. Proc., § 2025.450, subd. (b)
+  - Code Civ. Proc., § 2025.450, subd. (g)
+statutes:
+  - California Code of Civil Procedure
+roles:
+  - Plaintiff (Christina Stever)
+  - Defendant (Steuber Corporation and Patrick Fink)
+  - Counsel (Cindy Chapman)
+significant_statements:
+  - The Court grants the motion to compel Plaintiff's deposition.
+  - Plaintiff shall appear for deposition within 30 days.
+  - Plaintiff is ordered to pay $229.65 in monetary sanctions to counsel for Defendants within 30 days.
+```
+
+And here is a summary in English text:
+
+The tentatively ruling judge grants the motion to compel the deposition of Plaintiff Christina Stever, filed by Defendants Steuber Corporation and Patrick Fink. The motion was unopposed and the court finds that the Plaintiff has been unresponsive to attempts to reschedule the deposition. The court awards $229.65 in monetary sanctions to the Defendants, representing two hours of attorney time and the filing fee. The court orders the Plaintiff to appear for deposition within 30 days and to pay the sanctions within the same timeframe.

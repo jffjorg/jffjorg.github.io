@@ -1,0 +1,67 @@
+Here is the summary in YAML format:
+
+```
+caseNumber: "TBD"
+plaintiffName: "Ana Cordova and Luis Cordova"
+defendantName: "Shuo Steven Wang, M.D. and other defendants"
+peopleNames: ["Ana Cordova", "Luis Cordova", "Shuo Steven Wang, M.D.", "Estela Quintero"]
+companyNames: ["Adventist Health White Memorial"]
+places: ["California"]
+dates:
+  - "July 17, 2023"
+  - "July 27, 2021"
+  - "January 12, 2023"
+  - "June 19, 2023"
+  - "July 3, 2023"
+  - "July 6, 2023"
+money: "None mentioned"
+intentions: "Plaintiffs seek to hold defendants liable for medical malpractice"
+facts:
+  - "Ana Cordova suffered paraplegia due to defendants' negligent surgery and post-surgery evaluation"
+  - "Defendant Wang was added as a defendant after other defendants contended he was negligent"
+  - "Plaintiffs received discovery responses from Defendant Longacre stating Wang was negligent"
+disputes:
+  - "Defendant Wang seeks to quash the Doe amendment, alleging Plaintiffs knew his identity and were prejudiced"
+  - "Plaintiffs argue they did not unreasonably delay in filing the Doe amendment"
+acts:
+  - "Plaintiffs amended their Complaint to identify Doe 1 as Shuo Steven Wang, M.D."
+  - "Defendant Wang responded to discovery, stating he was negligent"
+  - "Plaintiffs retained their own expert to review care and treatment rendered by Defendant Wang"
+agreements: "None mentioned"
+laws:
+  - "Code of Civil Procedure section 474"
+  - "Marasco v. Wadsworth"
+  - "Dieckmann v. Superior Court"
+  - "Balon v. Drost"
+  - "Munoz v. Purdy"
+  - "Westfour Corp. v. California First Bank"
+  - "Sobeck & Assoc., Inc. v. B & R Investments No. 24"
+  - "Streicher v. Tommy's Electric Co."
+  - "Snoke v. Bolen"
+  - "A.N. v. Cty. of Los Angeles"
+  - "Fireman's Fund Ins. Co. v. Sparks Constr. Inc."
+  - "McClatchy v. Coblentz, Patch, Duffy & Bass, LLP"
+caseCitations:
+  - "21 Cal.3d 82"
+  - "175 Cal.App.3d 345"
+  - "20 Cal.App.4th 483"
+  - "91 Cal.App.3d 947"
+  - "164 Cal.App.3d 876"
+  - "215 Cal.App.3d 861"
+  - "3 Cal.App.4th 1559"
+  - "171 Cal.App.4th 1058"
+  - "247 Cal.App.4th 368"
+roles:
+  - "Judge"
+  - "Plaintiffs"
+  - "Defendants"
+  - "Counsel"
+significantStatements:
+  - "The Court finds that while Plaintiffs/counsel likely knew of Wang's identity at the time they filed the Complaint, there is little to indicate that they knew or had a factual basis to know that Wang was negligent in providing care."
+  - "The Motion is denied."
+  - "The Request for Judicial Notice is granted."
+```
+
+And here is the English text summary:
+
+This is a medical malpractice action brought by Ana Cordova and her husband Luis against several defendants, including Dr. Shuo Steven Wang. The plaintiffs allege that Dr. Wang's negligent surgery and post-surgery evaluation led to Ana's paraplegia and loss of consortium for Luis. The defendants, including Dr. Wang, contend that the plaintiffs knew Dr. Wang's identity and involvement in the case since the filing of the lawsuit and that the plaintiffs unreasonably delayed in filing an amended complaint identifying Dr. Wang as a defendant. The court finds that while the plaintiffs' counsel likely knew of Dr. Wang's identity, there is no indication that they knew or had a factual basis to know that Dr. Wang was negligent. Therefore, the court denies the motion to quash the amended complaint and grants the request for judicial notice.

@@ -1,0 +1,41 @@
+Here is a summary of the tentative ruling in YAML format:
+
+```
+case_number: 21STCV22304
+hearing_date: November 9, 2023
+dept: 85
+plaintiff: Ari Chazanas
+defendant: Vazgen Hakopian
+people_names:
+  - Ari Chazanas
+  - Vazgen Hakopian
+company_names:
+  - T. Max Custom Cabinets
+  - Lotus West Properties, Inc.
+  - Demetra Design Corp.
+places:
+  - 1835 Old Ranch Road, Los Angeles, CA
+  - 1565 Kings Road, Palmdale, CA
+dates:
+  - November 2020
+  - April 2021
+  - May 2021
+  - June 2021
+  - July 2021
+  - August 2021
+  - October 2023
+  - November 2023
+events:
+  - Oral agreement between Ari and Hakopian
+  - Payment of $61,600 to Hakopian
+  - Discovery of Hakopian's unlicensed contractor status
+  - Filing of complaint and cross-complaint
+  - Award of $67,500 in restitution in criminal case
+money:
+  - $61,600 (amount paid to Hakopian)
+  - $70,000 (amount paid to new contractor)
+  - $67,500 (amount awarded in restitution)
+intentions:
+  - To recover damages and penalties
+facts:
+  - Ari and Hakopian entered an oral agreement for a

@@ -1,0 +1,58 @@
+Here is the summary in YAML format:
+```
+case_number: 23CHCV01650
+plaintiff_name: Luis Sanchez
+defendant_name: General Motors, LLC
+people_names:
+  - Luis Sanchez
+company_names:
+  - General Motors, LLC
+places:
+  - None
+dates:
+  - June 7, 2023
+  - October 16, 2023
+  - October 30, 2023
+events:
+  - Demurrer and motion to strike filed
+  - First amended complaint filed
+money:
+  - None
+intention:
+  - To address demurrer and motion to strike
+facts:
+  - Plaintiff alleges defective transmission in purchased vehicle
+  - GMC never disclosed known defects
+  - Plaintiff filed two complaints
+  - First amended complaint was timely filed
+disputes:
+  - Violation of Song-Beverly Act
+  - Fraudulent Inducement
+  - Concealment
+acts:
+  - Plaintiff purchased vehicle
+  - GMC failed to disclose defects
+  - Plaintiff filed complaints
+agreements:
+  - None
+laws:
+  - Song-Beverly Act
+  - Beverly Act Section 1793.2
+  - Fraud laws
+case_citations:
+  - None
+statutes:
+  - Song-Beverly Act
+  - Beverly Act
+roles:
+  - Judge
+  - Plaintiff (Luis Sanchez)
+  - Defendant (General Motors, LLC)
+significant_statements:
+  - The scheduled demurrer and filed motion to strike are therefore moot.
+    The court takes the items off-calendar.
+    General Motors, LLC must serve notice.
+```
+And here is a summary of the judge's tentative ruling in English text:
+
+The court has issued a tentative ruling on the demurrer and motion to strike filed by General Motors, LLC. The defendant scheduled the demurrer and motion to strike, but no actual demurrer was filed. On the same day, the plaintiff filed a first amended complaint before the opposition deadline, making the demurrer and motion to strike moot. The court has taken the items off the calendar. General Motors, LLC is required to serve notice.

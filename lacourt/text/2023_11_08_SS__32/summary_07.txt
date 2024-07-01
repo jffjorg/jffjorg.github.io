@@ -1,0 +1,66 @@
+Here is the summary in YAML format:
+
+```
+case_number: 22STCV09483
+plaintiff_name: Juana Sandoval
+defendant_name: Long Beach Public Transportation Company
+people_names:
+  - Juana Sandoval
+  - Sullivan
+  - Smith
+company_names:
+  - Long Beach Public Transportation Company
+places:
+  - Long Beach
+dates:
+  - September 28, 2022
+  - January 10, 2023
+  - February 3, 2023
+  - October 30, 2023
+  - November 8, 2023
+events:
+  - Request for Admissions, Set One
+  - Service of responses
+  - Request for monetary sanctions
+money:
+  - $1,250 (original request)
+  - $500 (reduced amount)
+intentions:
+  - Defendant seeks to have Request for Admissions, Set One deemed admitted
+  - Plaintiff seeks to serve verified responses to Requests for Admissions, Set One
+facts:
+  - Defendant served Request for Admissions, Set One on September 28, 2022
+  - Plaintiff served unverified responses on February 3, 2023
+  - Plaintiff's counsel declares serving verified responses on October 30, 2023
+disputes:
+  - Defendant alleges Plaintiff failed to respond timely
+  - Plaintiff's counsel disputes the allegation
+acts:
+  - Defendant served Request for Admissions, Set One
+  - Plaintiff served unverified responses
+  - Plaintiff's counsel served verified responses
+agreements:
+  - Code of Civil Procedure sections 2033.010, 2033.280, and 2033.330
+laws:
+  - Code of Civil Procedure
+  - Code of Civil Procedure section 2033.280
+  - Code of Civil Procedure section 2033.330
+case_citations:
+  - Code of Civ. Proc., § 2033.010
+  - Code of Civ. Proc., § 2033.280
+  - Code of Civ. Proc., § 2033.330
+statutes:
+  - California Code of Civil Procedure
+roles:
+  - Moving party: Long Beach Public Transportation Company
+  - Opposing party: Juana Sandoval
+  - Counsel: Smith (Plaintiff's counsel)
+  - Judge: (author of tentative ruling)
+significant_statements:
+  - "The Court denies the motion as moot."
+  - "The Court GRANTS Defendant's request for monetary sanctions against Plaintiff and her counsel of record in the reduced amount of $500."
+```
+
+And here is a summary of the judge's tentative ruling in English text:
+
+The defendant, Long Beach Public Transportation Company, moves to have Request for Admissions, Set One deemed admitted. The defendant asserts that it served the request on September 28, 2022, and that the plaintiff, Juana Sandoval, did not respond timely. The plaintiff's counsel declares that he served verified responses to the requests on October 30, 2023. The court finds that the motion is moot since the plaintiff has served verified responses and denies the motion. The defendant requests monetary sanctions against the plaintiff and her counsel of record in the amount of $1,250, but the court reduces this amount to $500 due to the type of motion and the fact that counsel can appear remotely at the hearing. The court grants the defendant's request for monetary sanctions in the reduced amount of $500.

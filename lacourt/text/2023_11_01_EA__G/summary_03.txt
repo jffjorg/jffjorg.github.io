@@ -1,0 +1,98 @@
+Here is the summary in YAML format:
+
+```
+case_number: 23PSCV01030
+hearing_date: November 1, 2023
+dept: G
+plaintiff: M&K, LLC
+respondent: Defendant Belle Gonzales Halili
+
+people:
+  - Belle Gonzales Halili
+  - M&K, LLC (M&K)
+
+companies:
+  - M&K, LLC
+
+places:
+  - West Covina
+
+dates:
+  - September 2016
+  - October 2019
+  - September 2024
+  - February 23, 2023
+  - April 7, 2023
+  - July 19, 2023
+  - September 20, 2023
+  - September 29, 2023
+  - November 1, 2023
+  - November 20, 2023
+
+events:
+  - Unlawful detainer action
+  - Lease agreement
+  - Three-day notice to quit or pay rent
+  - Bench trial
+  - Judgment in favor of M&K
+  - Motion to strike M&K's costs
+  - Motion for attorney's fees
+
+money:
+  - $3,375 (monthly rent)
+  - $3,800 (monthly rent after lease extension)
+  - $45,600 (amount owed in rent)
+  - $65,208 (initial request for attorney fees)
+  - $26,795 (reduced amount of attorney fees awarded)
+
+intentions:
+  - Plaintiff M&K, LLC's intention to recover attorney fees
+  - Defendant Belle Gonzales Halili's intention to strike M&K's costs
+
+facts:
+  - Defendant failed to comply with a three-day notice to quit or pay rent
+  - M&K filed a complaint against Gonzales Halili and Does 1-10 for unlawful detainer
+  - Court held a bench trial and entered judgment in favor of M&K
+  - Gonzales Halili filed a motion to strike M&K's costs
+  - M&K filed a motion for attorney's fees
+
+disputes:
+  - Dispute over attorney fees
+
+acts:
+  - M&K's counsel requested attorney fees for 104.4 hours of work billed at $570 per hour
+  - M&K's counsel requested an additional 10 hours for work on this motion
+  - Court reduced hourly rate from $570 to $250 per hour
+  - Court reduced additional hours from 10 to 3.5 hours
+
+agreements:
+  - Lease agreement between M&K and Gonzales Halili
+
+laws:
+  - Code of Civil Procedure, § 1021
+  - Civil Code, § 1717, subdivision (a)
+  - Code of Civil Procedure, § 1032, 1033.5, subdivision (a)(10)(A)
+
+case_citations:
+  - B.F. v. Superior Court (2012) 207 Cal.App.4th 621, 627, fn. 2
+  - Contractors Labor Pool, Inc. v. Westway Contractors, Inc. (1997) 53 Cal.App.4th 152, 168
+
+statutes:
+  - Civil Code, § 1717, subdivision (a)
+  - Code of Civil Procedure, § 1021
+  - Code of Civil Procedure, § 1032, 1033.5, subdivision (a)(10)(A)
+
+roles:
+  - Judge: makes tentative ruling on motion for attorney's fees
+  - Plaintiff M&K, LLC: requests attorney fees
+  - Defendant Belle Gonzales Halili: opposes motion for attorney's fees
+
+significant_statements:
+  - The court grants M&K's motion for attorney fees in the reduced amount of $26,795.
+  - The prevailing party on a contract which specifically provides for attorney fees and costs incurred to enforce the agreement is entitled to reasonable attorney fees in addition to other costs.
+  - The court considers the nature, difficulty, intricacy and importance of the litigation, the amount involved, the skill required and success of the attorney's efforts, the attorney's learning, age and experience, and the time consumed when determining the reasonableness of an attorney fees award.
+```
+
+Here is a summary of the judge's tentative ruling in English text:
+
+The judge has issued a tentative ruling on the motion for attorney's fees brought by M&K, LLC. The court finds that M&K is the prevailing party in this unlawful detainer action and is entitled to reasonable attorney fees. The court awards M&K attorney fees in the reduced amount of $26,795, which is calculated based on the number of hours worked by M&K's counsel at a reduced hourly rate of $250 per hour. The court grants M&K's motion for attorney fees, but reduces the initial request of $65,208.

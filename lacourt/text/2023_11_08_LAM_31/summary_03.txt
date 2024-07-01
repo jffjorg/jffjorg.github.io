@@ -1,0 +1,51 @@
+Here is the summary in YAML format:
+
+```
+case_number: [insert case number]
+plaintiff_name: [insert plaintiff name]
+defendant_name: [insert defendant name]
+people_names:
+  - Plaintiff's name
+  - Defendant's name
+company_names: []
+places: []
+dates:
+  - [insert date of hearing]
+events:
+  - Propounding discovery
+  - Filing demurrer
+  - Intimidation
+money: [insert amount of money]
+intentions:
+  - Harass and intimidate
+  - Intended for benefit
+facts:
+  - Plaintiff is 90 years old
+  - Money was loaned to defendants
+  - Intended for defendants' benefit
+disputes:
+  - Propounding discovery too early
+  - Intimidation
+  - Intended benefit
+acts:
+  - Propounding discovery
+  - Filing demurrer
+  - Loaning money
+agreements: []
+laws:
+  - Code Civ. Proc., §§ 2030.020, subd. (a); 2031.020, subd. (a); 2033.020, subd. (a)
+  - Civil Discovery Act
+case_citations: []
+statutes: []
+roles:
+  - Judge
+  - Plaintiff
+  - Defendant
+significant_statements:
+  - "A defendant may propound interrogatories/make a demand for inspection/make requests for admission by a party without leave of court at any time."
+  - "The money at issue was intended for Defendants' benefit, not Plaintiff's."
+```
+
+And here is a summary of the judge's tentative ruling in English text:
+
+The judge is considering a demurrer filed by the defendant and has reviewed the plaintiff's declaration and opposition. The plaintiff claims that the defendant propounded discovery too early in an attempt to harass and intimidate them. However, the judge notes that the Civil Discovery Act allows defendants to propound discovery at any time after the action is initiated. The judge also takes into account the plaintiff's age (90 years old) and the fact that the money at issue was allegedly loaned to the defendants to purchase a house, suggesting that the money was intended for the defendants' benefit, not the plaintiff's. The judge is tentatively ruling that the demurrer will be denied and that the case will proceed.

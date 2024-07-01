@@ -1,0 +1,58 @@
+Here is the summary in YAML format:
+
+```
+case_number: 22STCV40862
+plaintiff_name: Jane Doe
+defendant_names:
+  - Religious Technology Center
+  - Church of Scientology International
+  - Bridge Publications, Inc.
+people_names:
+  - Jane Doe
+  - Robert B. Broadbelt III
+company_names:
+  - Religious Technology Center
+  - Church of Scientology International
+  - Bridge Publications, Inc.
+places:
+  - Los Angeles
+  - California
+dates:
+  - October 27, 2023
+  - September 18, 2023
+  - May 30, 2024
+  - February 16, 2024
+events:
+  - Motion to stay
+  - Motion to compel arbitration
+money: $0
+intentions:
+  - Stay action pending arbitration
+facts:
+  - Plaintiff filed an action against defendants
+  - Defendants moved to stay the action pending arbitration
+  - Code of Civil Procedure section 1281.4 requires the court to stay the action
+disputes:
+  - Plaintiff's action against defendants
+acts:
+  - Plaintiff filed the action
+  - Defendants moved to stay the action
+  - Judge considered the moving, opposition, and reply papers
+agreements:
+  - Code of Civil Procedure section 1281.4
+laws:
+  - Code of Civil Procedure section 1281.4
+  - Twentieth Century Fox Film Corp. v. Superior Court (2000)
+statutes:
+  - Code of Civil Procedure section 1281.4
+roles:
+  - Judge: Robert B. Broadbelt III
+  - Plaintiff: Jane Doe
+  - Defendant: Religious Technology Center, Church of Scientology International, and Bridge Publications, Inc.
+significant statements:
+  - "Code of Civil Procedure section 1281.4 is clear and unambiguous: it requires that the trial court stay an action pending before it while an application to arbitrate the subject matter of the action is pending in a court of competent jurisdiction."
+```
+
+And here is the English-text summary:
+
+The Judge's tentative ruling grants the defendants' motion to stay the plaintiff's action pending the resolution of the defendants' motion to compel arbitration. The defendants, Religious Technology Center, Church of Scientology International, and Bridge Publications, Inc., filed the motion to stay, citing Code of Civil Procedure section 1281.4, which requires the court to stay the action if an application to arbitrate is pending in a court of competent jurisdiction. The Judge finds that the defendants have filed a motion to compel arbitration and therefore must stay the plaintiff's action until the court rules on the motion. The Judge orders that the action is stayed pending the court's resolution of the motion to compel arbitration and advances the hearing on the motion to compel arbitration from May 30, 2024, to February 16, 2024.

@@ -1,0 +1,59 @@
+Here is the summary of the tentative ruling in YAML format:
+
+```
+case_number: 20STCV45327
+plaintiff:
+  - EILEEN RADZIK
+  - et al.
+defendant:
+  - HELEN MARY EUGENIA SCHEUPLEIN
+  - et al.
+people_names:
+  - EILEEN RADZIK
+  - Jai Radzik
+  - HELEN MARY EUGENIA SCHEUPLEIN
+company_names: []
+places: []
+dates:
+  - October 27, 2023
+events:
+  - Petition to Approve Compromise of Pending Action of a Minor
+  - Wrongful Death Action
+money:
+  - $108,500
+  - $36,166.66
+  - $9,041.66
+  - $2,748.08
+  - $24,376.92
+  - $11,789.74
+intentions:
+  - Deny the petition
+facts:
+  - Petitioner Eileen Radzik is both the guardian ad litem of Claimant and a Plaintiff
+  - Petitioner incorrectly marks on MC-350, Item 11(b)(3)
+  - Item 10 is for the total amount offered to Claimant
+  - Item 16(a) provides that the gross amount to Claimant is actually in the amount of $36,166.66
+disputes:
+  - Petitioner must mark the correct item on MC-350, Item 11(b)(3)
+  - Petitioner must provide an Attachment 11b(3) briefly explaining the circumstances and effect of Petitioner's claim
+acts:
+  - Petitioner must file a new petition curing all the above-noted defects
+  - Petitioner must include a copy of the written attorney fee agreement in Attachment 14a
+agreements: []
+laws: []
+case_citations: []
+statutes: []
+roles:
+  - Judge
+  - Petitioner
+  - Claimant
+  - Guardian ad litem
+significant_statements:
+  - The petition is denied for the following reasons
+  - Petitioner must mark the correct item on MC-350, Item 11(b)(3)
+  - Petitioner must provide an Attachment 11b(3) briefly explaining the circumstances and effect of Petitioner's claim
+```
+
+And here is the English-text summary of the judge's tentative ruling:
+
+The judge has issued a tentative ruling denying the petition to approve the compromise of the pending action of a minor, Jai Radzik, in this wrongful death action. The petition was filed by Eileen Radzik, who is both the guardian ad litem of Jai Radzik and a plaintiff to the same action. The judge found that the petition contains several defects, including incorrect marking on the MC-350 form and incomplete information regarding the settlement amount offered to Jai Radzik. The judge ordered the petitioner to file a new petition curing all the above-noted defects at her earliest convenience. The petitioner was also ordered to include a copy of the written attorney fee agreement in support of the attorneys' fees claimed.

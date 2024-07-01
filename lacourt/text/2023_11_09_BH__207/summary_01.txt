@@ -1,0 +1,48 @@
+Here is the summary in YAML format:
+
+```
+case_number: 21SMCV00991
+hearing_date: November 9, 2023
+department: 207
+moving_party: Plaintiff 1059Corning, LLC
+opposing_party: Defendant Marmar Corning, LLC
+
+background:
+  - A dispute between owners of adjoining residential properties
+  - Plaintiff hired third-party consultants Soil Pacific, Inc. and PSFEG, Inc. to evaluate damage
+  - Plaintiff sent reports to Defendant prior to initiating litigation
+
+procedural_requirements:
+  - Meet and confer
+  - Plaintiff did not sufficiently meet and confer prior to filing motions to quash
+  - Defendant sent meet and confer letter, asking for further information
+  - Counsel for Plaintiff and Defendant met and conferred over the phone
+
+analysis:
+  - If a subpoena requires the production of documents, the court may quash the subpoena or modify it
+  - Plaintiff makes two arguments in support of the motions: (1) documents are privileged because third-party companies have not been designated as expert witnesses; (2) information sought is not relevant because third-party companies are not percipient witnesses
+
+privilege:
+  - Plaintiff does not explicitly raise either the attorney-client privilege or the attorney work product doctrine
+  - Neither privilege applies because it was Plaintiff, not Plaintiff's counsel, who hired the third-party companies
+  - Plaintiff has not demonstrated that it disclosed confidential information to the consultants
+  - Code of Civ. Proc. section 411.35 does not create a privilege in this case
+
+relevance:
+  - Plaintiff argues that the requests are not relevant because the third-party consultants are not percipient witnesses and the requests are too broad
+  - The records would necessarily be relevant to the litigation
+
+monetary_sanctions:
+  - Both parties seek monetary sanctions
+  - Defendant acted with substantial justification in opposing the motion to quash
+  - Plaintiff did not act with substantial justification in bringing the motions to quash
+  - Defendant is awarded monetary sanctions in the amount of $2042.50
+```
+
+And here is a summary of the judge's tentative ruling in English text:
+
+The judge denies the plaintiff's motions to quash the third-party subpoenas, ruling that the requested documents are not privileged or irrelevant. The plaintiff hired third-party consultants to evaluate damage to its building, and the defendant sought documents related to the consultants' retention and prelitigation examinations. The plaintiff argued that the documents were privileged because the consultants were not designated as expert witnesses, but the judge found that this argument was unpersuasive. The judge also found that the information sought was relevant to the litigation.
+
+The judge awarded the defendant monetary sanctions in the amount of $2042.50, finding that the plaintiff did not act with substantial justification in bringing the motions to quash. The judge denied the plaintiff's request for monetary sanctions, finding that the defendant acted with substantial justification in opposing the motion to quash.
+
+The judge also denied the plaintiff's motion to quash, finding that the requested documents are not protected from disclosure. The judge ordered the plaintiff to provide notice of the ruling and file a proof of service regarding the same.

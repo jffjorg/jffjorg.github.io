@@ -1,0 +1,71 @@
+Here is the summary in YAML format:
+
+```
+case_number: 22STCV04999
+hearing_date: October 31, 2023
+dept: K
+plaintiff_names:
+  - Aniceto Jimenez Vidal, Jr.
+  - Pauline Moreno Vidal
+defendant_names:
+  - Toyota Material Handling, Inc.
+people_names:
+  - Aniceto Jimenez Vidal, Jr.
+  - Pauline Moreno Vidal
+  - Sergio Valdez
+company_names:
+  - GE Appliances
+  - GE Appliances—Decatur, LLC
+  - Haier US Appliance Solutions, Inc.
+  - Toyota Material Handling, Inc.
+places: None
+dates:
+  - April 10, 2020
+  - February 9, 2022
+  - May 10, 2022
+  - December 6, 2022
+  - September 20, 2023
+  - December 7, 2023
+events:
+  - Workplace forklift accident
+  - Filing of complaint
+  - Dismissal of GEA
+  - Dismissal of GEA—Decatur
+  - Case transfer
+  - Filing of stipulation
+money: None
+intentions: None
+facts:
+  - Aniceto sustained severe injuries in a workplace forklift accident
+  - Plaintiffs filed a complaint against multiple defendants
+  - Plaintiffs dismissed GEA and GEA—Decatur
+  - Toyota moves for leave to amend its answer
+disputes:
+  - Negligence
+  - Negligent Products Liability
+  - Strict Products Liability
+  - Loss of Consortium
+  - Additional affirmative defenses
+acts:
+  - Toyota moves for leave to amend its answer
+agreements: None
+laws:
+  - Code Civ. Proc., § 473, subd. (a)(1)
+  - Code Civ. Proc., § 576
+  - Bedolla v. Logan & Frazer (1975) 52 Cal.App.3d 118, 135
+  - Kittredge Sports Co. v. Superior Court (1989) 213 Cal.App.3d 1045, 1048
+  - California Casualty Gen. Ins. Co. v. Superior Court (1985) 173 Cal.App.3d 274, 280
+roles:
+  - Judge
+  - Plaintiffs
+  - Defendant Toyota Material Handling, Inc.
+significant_statements:
+  - The court may allow a party to amend any pleading in furtherance of justice
+  - The trial court has wide discretion in allowing the amendment of any pleading
+  - Even if a good amendment is proposed in proper form, unwarranted delay in presenting it may be a valid reason for denial
+  - The motion is granted
+```
+
+And here is the English-text summary:
+
+This tentative ruling grants Defendant Toyota Material Handling, Inc.'s unopposed motion for leave to file an amended answer. The motion is based on new facts discovered through plaintiff's and Sergio Valdez's depositions, which support the assertion of additional affirmative defenses. The court has wide discretion in allowing amendments to pleadings, and the proposed amendments relate to the same general set of facts. The motion is granted, despite technical non-compliance with certain rules, as the proposed amendments are necessary and proper.

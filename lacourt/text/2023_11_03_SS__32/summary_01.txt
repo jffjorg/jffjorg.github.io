@@ -1,0 +1,71 @@
+Here is the summary in YAML format:
+
+```
+case_number: 19STCV40369
+plaintiff_name: Ben Behzadi
+defendant_name: Jonathan Pae
+people_names:
+  - Ben Behzadi
+  - Jonathan Pae
+  - David Browne
+company_names: []
+places: []
+dates:
+  - June 15, 2023
+  - July 18, 2023
+  - July 24, 2023
+  - August 1, 2023
+  - October 30, 2023
+  - October 31, 2023
+  - November 1, 2023
+  - November 3, 2023
+events:
+  - Request for Admission, Set One
+  - Failure to respond
+  - Declaration filed
+  - Motion to deem admitted
+  - Monetary sanction request
+money:
+  - $4,141.65 (requested)
+  - $741.65 (awarded)
+intentions:
+  - To deem admitted Requests for Admission, Set One
+  - To impose monetary sanctions
+facts:
+  - Requests for Admission, Set One served on June 15, 2023
+  - Pae failed to respond by July 18, 2023
+  - Behzadi sent follow-up emails on July 24, 2023 and August 1, 2023
+  - Pae did not file an opposition to the motion
+  - Counsel David Browne filed a declaration on November 1, 2023
+disputes:
+  - Whether Requests for Admission, Set One should be deemed admitted
+  - Amount of monetary sanctions
+acts:
+  - Serving Requests for Admission, Set One
+  - Failure to respond
+  - Filing a declaration
+  - Filing a motion to deem admitted
+agreements:
+  - Code of Civil Procedure section 2033.010
+  - Code of Civil Procedure section 2033.280
+laws:
+  - Code of Civil Procedure
+case_citations:
+  - Code of Civ. Proc., § 2033.010
+  - Code of Civ. Proc., § 2033.280
+statutes:
+  - Code of Civil Procedure
+roles:
+  - Judge
+  - Plaintiff (Behzadi)
+  - Defendant (Pae)
+  - Cross-Complainant (Behzadi)
+significant_statements:
+  - The Court finds that Pae has failed to respond to the Requests for Admission, Set One.
+  - The Court awards sanctions in the amount of $741.65.
+  - The Court grants the motion for monetary sanctions against Pae in the reduced amount of $741.65.
+```
+
+And here is the English-text summary:
+
+The Judge has issued a tentative ruling on a motion to deem admitted Requests for Admission, Set One, filed by Defendant/Cross-Complainant Ben Behzadi against Cross-Defendant Jonathan Pae. The Judge finds that Pae has failed to respond to the requests, despite being served on June 15, 2023, and despite follow-up emails from Behzadi. The Judge denies the motion to deem admitted as moot, as Pae has since filed a verified response to the requests. The Judge awards sanctions in the amount of $741.65 against Pae, which includes 1 hour of attorney time and the filing fee. The Judge grants the motion for monetary sanctions against Pae in the reduced amount of $741.65.
