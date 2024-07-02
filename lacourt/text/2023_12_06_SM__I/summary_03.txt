@@ -1,0 +1,42 @@
+Here is the summary in YAML format:
+
+```
+case_number: 21SMCV01145
+hearing_date: 2023-12-06
+dept: I
+people_names:
+  - Plaintiff's Name: unknown
+  - Defendant's Name: unknown
+company_names: []
+places: []
+dates: []
+events:
+  - Deposition
+money: []
+intentions:
+  - Allow defense more time for deposition
+facts:
+  - Plaintiff's deposition will not be enough in 7 hours
+  - Defendant's need more time to complete deposition
+disputes:
+  - 7 hours vs 14 hours for deposition
+acts:
+  - Plaintiff's deposition will be conducted
+  - Defense will have more time for deposition
+agreements:
+  - 12 hours for deposition without prejudice
+laws:
+  - Unknown
+case_citations: []
+statutes: []
+roles:
+  - Judge
+  - Plaintiff
+  - Defendant
+significant_statements:
+  - "The court STRONGLY urges the parties not to file motions on this sort of thing but rather to work it out."
+```
+
+And here is the summary in English text:
+
+This is a tentative ruling by a Judge regarding a future Court Hearing on December 6, 2023. The case is numbered 21SMCV01145 and is from Department I. The Judge has been presented with an ex parte application by the defense to allow them more than 7 hours to depose the plaintiff. The defense claims that 7 hours will not be enough and the plaintiff's counsel may end the deposition early. The Judge agrees that more than 7 hours is necessary and will allow 12 hours without prejudice to granting more time if the transcript of the deposition reveals it is needed. However, the Judge will not grant the full 14 hours requested by the defense, as they have not shown that they have been efficient with their questioning or have not engaged in improper behavior, such as making excessive objections. The Judge strongly urges the parties to work out these issues without filing motions and will not hear argument on this matter at the upcoming hearing.

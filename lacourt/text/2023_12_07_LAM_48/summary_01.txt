@@ -1,0 +1,63 @@
+Here is the summary in YAML format:
+
+```
+case_number: 20STCV30564
+plaintiff_names:
+  - Jane Doe L.P.
+  - Elizabeth P.
+defendant_name: Downey Unified School District
+people_names:
+  - Jane Doe L.P.
+  - Elizabeth P.
+  - Judge Thomas D. Long
+company_names:
+  - South Central Los Angeles Regional Center
+  - Kaiser Permanente
+places:
+  - Los Angeles
+  - Downey
+  - Central District
+dates:
+  - August 12, 2020
+  - September 25, 2023
+  - November 7, 2023
+  - December 7, 2023
+events:
+  - Filing of the action
+  - Issuance of deposition subpoenas
+  - Objection to the subpoenas
+  - Filing of motions to compel
+money: None
+intentions:
+  - To compel compliance with records subpoenas
+  - To produce business records related to plaintiff's injuries
+facts:
+  - Doe L.P. alleged emotional distress, depression, and anxiety
+  - Defendant issued deposition subpoenas for production of business records
+  - Doe L.P. objected to the subpoenas
+disputes:
+  - Whether the subpoenas are reasonable and necessary
+acts:
+  - Issuance of the subpoenas
+  - Objection to the subpoenas
+  - Filing of the motions to compel
+agreements: None
+laws:
+  - California Code of Civil Procedure, sections 1987.1 and 2020.410
+  - Vinson v. Superior Court (1987) 43 Cal.3d 833
+case_citations: Vinson v. Superior Court (1987) 43 Cal.3d 833
+statutes:
+  - California Code of Civil Procedure, sections 1987.1 and 2020.410
+roles:
+  - Judge: Hon. Thomas D. Long
+  - Plaintiff: Jane Doe L.P.
+  - Defendant: Downey Unified School District
+  - Non-parties: South Central Los Angeles Regional Center and Kaiser Permanente
+significant_statements:
+  - The subpoenas are relevant for Doe L.P.'s allegations of "severe emotional distress and injury in mind and body"
+  - Plaintiff's mental and emotional condition is directly relevant to her claims, so she has waived her right to privacy as it relates to the alleged harms
+```
+
+And here is a summary of the judge's tentative ruling in English text:
+
+This tentative ruling grants the defendant's motion to compel compliance with records subpoenas issued to non-parties South Central Los Angeles Regional Center and Kaiser Permanente. The subpoenas seek production of business records related to the plaintiff's injuries, including medical records, billing and payment records, and psychological and psychiatric reports. The court finds that the subpoenas are relevant to the plaintiff's claims of emotional distress, depression, and anxiety, and that the plaintiff has waived her right to privacy as it relates to the alleged harms. Therefore, the non-parties are ordered to comply with the subpoenas within 14 days of this order.

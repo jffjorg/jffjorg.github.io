@@ -1,0 +1,72 @@
+Here is the summary in YAML format:
+
+```
+Case Number: 18STCV09180
+Plaintiff's Name: Allison Cervantes
+Defendant's Name: Ocean Avenue LLC, dba Fairmont Miramar Hotels
+People-Names:
+  - James R. High, M.D.
+  - Hugh Fitzgerald
+  - Shannon Leavitt
+  - Jamilah Bazille
+  - Brianna Green
+  - Dirk D'Jon Mornay
+Company-Names:
+  - Ocean Avenue LLC
+  - Fairmont Miramar Hotels
+Places:
+  - Los Angeles
+  - Fig Restaurant
+Dates:
+  - August 2017
+  - November 30, 2023
+  - December 6, 2023
+Events:
+  - Motion in limine
+  - Settlement negotiations
+  - Mediation
+  - Trial
+  - Bifurcation of trial
+Money:
+  - Actual damages
+  - Punitive damages
+Intentions:
+  - Prohibit the introduction of certain evidence
+  - Prohibit the reference to defendants' financial condition
+Facts:
+  - Plaintiff alleged sex/gender harassment and discrimination
+  - Defendant Mornay allegedly engaged in harassing conduct
+  - Non-party employees attested to similar harassing conduct
+Disputes:
+  - Admissibility of evidence
+  - Relevance of evidence
+  - Probative value of evidence
+  - Potential for undue prejudice
+Acts:
+  - Motion in limine
+  - Opposition to motion in limine
+  - Reply to motion in limine
+Laws:
+  - Evidence Code section 350
+  - Evidence Code section 352
+  - Evidence Code section 800
+  - Civil Code section 3294
+  - Civil Code section 3295
+  - Los Angeles County Court Rules, Rule 3.57(a)(1)
+Case Citations:
+  - Pinter-Brown v. Regents of University of California (2020) 48 Cal.App.5th 55
+  - Meeks v. Autozone, Inc. (2018) 24 Cal.App.5th 855
+  - Johnson v. United Cerebral Palsy/Spastic Children’s Foundation of Los Angeles and Ventura County (2009) 173 Cal.App.4th 740
+Statutes:
+  - Evidence Code section 1155
+Roles:
+  - Judge: Robert B. Broadbelt III
+  - Plaintiff: Allison Cervantes
+  - Defendant: Ocean Avenue LLC, dba Fairmont Miramar Hotels
+Significant Statements:
+  - The court finds that the testimony from Bazille, Green, and Leavitt is admissible as "me too" evidence.
+  - The court grants defendants' motion in limine no. 6 in part, to the extent it seeks to exclude Shannon Leavitt's testimony about Fairmont's managers' treatment of her based on her disabilities.
+  - The court orders that the trial of this action is bifurcated, with two phases: first, to try the issues of liability and actual damages, and second, if necessary, to try plaintiff's claim for punitive damages.
+```
+
+Note that this summary is not exhaustive, and some information may not be included in the YAML format.

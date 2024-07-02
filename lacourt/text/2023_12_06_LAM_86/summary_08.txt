@@ -1,0 +1,63 @@
+Here is the summary in YAML format:
+
+```
+case_number: N/A
+plaintiff_name: Petitioner
+defendant_name: Respondent
+people_names:
+  - Petitioner
+  - Respondent
+company_names:
+  - Rental Housing Assn. of Northern Alameda County
+  - American Financial Services Assn.
+places:
+  - Oakland
+  - Alameda County
+dates:
+  - April 1, 2022
+events:
+  - Nonpayment of rent
+  - Eviction
+  - COVID-19 pandemic
+money: N/A
+intentions:
+  - Protection from eviction
+  - Provision of substantive limitations on eviction
+  - Authorization of local legislation
+facts:
+  - Conflict of jurisdiction
+  - Substantial violation of a material term of the tenancy
+  - Notice provision
+disputes:
+  - Conflict of jurisdiction
+  - Notice provision
+  - Self-certification component
+acts:
+  - Nonpayment of rent
+  - Eviction
+agreements:
+  - Oakland ordinance
+  - Resolution
+laws:
+  - California Code
+  - Oakland ordinance
+  - Petitioner's reply record
+  - Respondent's supplemental record
+  - Petitioner's record
+case_citations:
+  - American Financial Services Assn. v. City of Oakland (2005) 34 Cal.4th 1239
+statutes:
+  - N/A
+roles:
+  - Petitioner (plaintiff)
+  - Respondent (defendant)
+  - Judge
+significant_statements:
+  - Conflict of jurisdiction refers to a conflict where the Legislature has adopted a general scheme for the regulation of a particular subject.
+  - Nonpayment of rent constitutes a "substantial violation of a material term of the tenancy" and could fall within the notice provision.
+  - The court acknowledges the cited legislative history arguably shows an intent to authorize local legislation that provides substantive limitations on eviction due to nonpayment of rent accruing on or after April 1, 2022.
+```
+
+And here is the English-text summary:
+
+The judge's tentative ruling addresses a dispute between the Petitioner and Respondent regarding a Resolution that aims to provide protection from eviction due to nonpayment of rent. The Petitioner argues that the Resolution is invalid because it conflicts with the jurisdiction of the Oakland ordinance. The judge notes that the conflict of jurisdiction is similar to finding the Legislature implicitly intended to fully occupy the subject area. However, the judge denies the petition on other grounds and finds it unnecessary to decide the point. The judge also notes that the Petitioner does not explain how the Resolution could be structured to provide the intended protection from eviction without a self-certification component. The judge acknowledges that the legislative history arguably shows an intent to authorize local legislation that provides substantive limitations on eviction due to nonpayment of rent accruing on or after April 1, 2022, but decides not to resolve this issue.

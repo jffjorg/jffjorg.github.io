@@ -1,0 +1,64 @@
+Here is the summary in YAML format:
+
+```
+case_number: 23STCV18497
+plaintiff_name: Venken LLC
+defendant_name: MJ4 Capital, LLC, Jason Arrow, Jay E. Davenport
+people_names:
+  - Jason Arrow
+  - Jay E. Davenport
+  - Joel L. Lofton
+company_names:
+  - Venken LLC
+  - MJ4 Capital, LLC
+places:
+  - Rosemead, California
+  - 7772 Garvey Avenue
+dates:
+  - August 4, 2023
+  - September 18, 2023
+  - November 20, 2023
+  - November 27, 2023
+  - December 5, 2023
+events:
+  - Breach of lease
+  - Breach of guaranty
+  - Demurrer
+  - Answer
+money:
+  - Rent
+  - Damages
+intentions:
+  - Demurring Parties: to object to Plaintiff's complaint
+  - Plaintiff: to recover rent and damages
+facts:
+  - Plaintiff alleges breach of lease and guaranty
+  - Plaintiff failed to obtain a certificate of occupancy (alleged by Demurring Parties)
+disputes:
+  - Whether Plaintiff's complaint states a cause of action
+acts:
+  - Demurring Parties filed a demurrer
+  - Plaintiff filed an opposition and reply
+agreements:
+  - Lease agreement
+  - Guaranty agreement
+laws:
+  - California Code of Civil Procedure section 430.10(e)
+  - California Code of Civil Procedure section 430.30(a)
+  - Hahn v. Mirda (2007)
+  - Fremont Indemnity Co. v. Fremont General Corp. (2007)
+  - Green Valley Landowners Assn. v. City of Vallejo (2015)
+statutes:
+  - California Code of Civil Procedure
+roles:
+  - Judge: Joel L. Lofton
+  - Moving Party: Demurring Parties (MJ4 Capital, LLC and Jay E. Davenport)
+  - Responding Party: Plaintiff (Venken LLC)
+significant statements:
+  - Demurring Parties' demurrer is OVERRULED
+  - Plaintiff's allegations are sufficient at the pleading stage
+```
+
+And here is a summary of the judge's tentative ruling in English text:
+
+The judge has tentatively ruled that the demurrer filed by the defendants (MJ4 Capital, LLC and Jay E. Davenport) is overruled. The demurrer was based on the argument that the plaintiff (Venken LLC) failed to allege that it obtained a certificate of occupancy, which is required for a breach of contract claim. The judge found that the plaintiff's allegations are sufficient at the pleading stage and that the demurrer is not justified. The defendants are ordered to file an answer to the complaint within 5 days of receiving notice of this ruling.

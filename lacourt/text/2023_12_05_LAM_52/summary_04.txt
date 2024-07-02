@@ -1,0 +1,62 @@
+Here is the summary in YAML format:
+
+```
+case_number: 23STCV03596
+hearing_date: 2023-12-05
+dept: 52
+plaintiff:
+  name: German Palominos Cervantes
+  company: German Palominos
+defendant:
+  name: General Motors LLC
+  company: General Motors
+people:
+  - German Palominos Cervantes
+  - General Motors LLC
+companies:
+  - German Palominos
+  - General Motors
+places:
+  - California
+dates:
+  - 2023-08-17
+  - 2023-08-30
+  - 2023-12-05
+events:
+  - Motion to compel further responses to requests for production
+  - Meet and confer declaration
+  - Informal resolution of disputes
+money:
+  - None mentioned
+intention:
+  - To compel further responses to requests for production
+facts:
+  - Plaintiff did not adequately meet and confer before filing the motion
+  - Defendant offered to supplement its production and requested a stipulated protective order
+  - Plaintiff failed to respond to defendant's letter
+disputes:
+  - Over requests for production Nos. 13-16, 34, and 35
+acts:
+  - Plaintiff sent a meet and confer letter to defendant
+  - Defendant replied to plaintiff's letter and offered to supplement its production
+  - Plaintiff filed the motion without engaging with defendant in a reasonable and good faith effort
+agreements:
+  - None mentioned
+laws:
+  - California Code of Civil Procedure (CCP) § 2016.040
+  - CCP § 2031.310(b)(2)
+  - Clement v. Alegre (2009) 177 Cal.App.4th 1277, 1293
+statutes:
+  - CCP § 2016.040
+  - CCP § 2031.310(b)(2)
+roles:
+  - Plaintiff: German Palominos Cervantes
+  - Defendant: General Motors LLC
+significant_statements:
+  - Plaintiff failed to make a sufficient attempt to informally resolve any dispute over Nos. 34 and 35
+  - Defendant tried to informally resolve the dispute over Nos. 13-16
+```
+
+And here is a summary of the judge's tentative ruling in English text:
+
+The judge has denied the motion to compel further responses to requests for production filed by Plaintiff German Palominos Cervantes. The motion was filed without a sufficient attempt to informally resolve the disputes over the requested documents, as required by law. The plaintiff failed to adequately meet and confer with the defendant before filing the motion, and did not provide adequate notice or attempt to informally resolve the disputes over certain specific requests. The defendant had offered to supplement its production and requested a stipulated protective order, but the plaintiff failed to respond to the defendant's letter. As a result, the judge has denied the motion.

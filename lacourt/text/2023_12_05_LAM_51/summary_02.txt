@@ -1,0 +1,79 @@
+Here is the summary in YAML format:
+
+```
+case_number: "Unknown"
+plaintiff_name: "Unknown"
+defendant_name: "C & C North America"
+people_names:
+  - Plaintiff
+  - C & C North America's officer
+company_names:
+  - C & C North America
+  - Jiaxing Micarose Trade Co.
+  - Toyota Motor Sales, U.S.A., Inc.
+  - Daewoo Motor America, Inc.
+  - Dongbu Fire Ins. Co., Ltd.
+places:
+  - Florida
+  - California
+  - Spain
+  - Canada
+dates:
+  - Earlier this year
+  - November 6, 2023
+events:
+  - Service of process
+  - Application to hail a foreign corporation into California court
+money: "Unknown"
+intentions:
+  - To hail a foreign corporation into California court
+  - To serve process on the defendant
+facts:
+  - Plaintiff tried to serve the defendant's officer earlier this year
+  - The court has not received the return receipt for certified U.S. mail
+disputes:
+  - Authority to hail a foreign corporation into California court
+  - Methods of service under California law
+acts:
+  - Attempt to serve process
+  - Application to hail a foreign corporation into California court
+agreements:
+  - None mentioned
+laws:
+  - California Rules of Court, Rule 8.1115
+  - California Code of Civil Procedure (CCP) § 415.50
+  - Lanham Act
+  - Hague Service Convention
+  - California insurance law
+  - California long-arm statute
+  - Yamaha Motor Co., Ltd. v. Superior Court (2009)
+  - Kott v. Superior Court (1999)
+  - Lebel v. Superior Court (1997)
+  - San Antonio Winery, Inc. v. Jiaxing Micarose Trade Co. (9th Cir. 2022)
+  - Khachatryan v. Toyota Motor Sales, U.S.A., Inc. (C.D. Cal. 2008)
+  - Daewoo Motor America, Inc. v. Dongbu Fire Ins. Co., Ltd. (C.D. Cal 2001)
+case_citations:
+  - San Antonio Winery, Inc. v. Jiaxing Micarose Trade Co. (9th Cir. 2022)
+  - Khachatryan v. Toyota Motor Sales, U.S.A., Inc. (C.D. Cal. 2008)
+  - Daewoo Motor America, Inc. v. Dongbu Fire Ins. Co., Ltd. (C.D. Cal 2001)
+  - Yamaha Motor Co., Ltd. v. Superior Court (2009)
+  - Kott v. Superior Court (1999)
+  - Lebel v. Superior Court (1997)
+statutes:
+  - California Rules of Court, Rule 8.1115
+  - California Code of Civil Procedure (CCP) § 415.50
+roles:
+  - Judge
+  - Plaintiff
+  - Defendant
+  - Officer
+  - Managing agent
+significant_statements:
+  - The court declines to review federal cases from district courts and circuits other than the 9th Circuit.
+  - Service in this method is not yet effective.
+  - The court is not aware of any authority where a managing agent outside of California successfully hailed a foreign corporation into California court.
+```
+
+And here is the summary in English text:
+
+The Judge's tentative ruling is that the Plaintiff's attempt to serve the Defendant through a managing agent in Canada is not effective. The Plaintiff tried to serve the Defendant's officer earlier this year, but the court has not received the return receipt for certified U.S. mail. The court declines to review federal cases from district courts and circuits other than the 9th Circuit, and finds that the Plaintiff's cited authorities do not support her position. The court is not aware of any authority where a managing agent outside of California successfully hailed a foreign corporation into California court. The court notes that the only method of service under California law that does not require transmission of documents abroad is service by publication, and that the Plaintiff has not addressed this option. The court also references HCCH authority indicating that Spain does not oppose the Hague Service Convention.

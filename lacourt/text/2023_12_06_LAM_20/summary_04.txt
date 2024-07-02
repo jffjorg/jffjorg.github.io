@@ -1,0 +1,63 @@
+Here is the summary in YAML format:
+
+```
+case_number: Not specified
+plaintiff_name: Victoria White
+defendant_name:
+  - Service All-Stars Energy, Inc.
+  - Faisal Lodhi
+people_names:
+  - Rami Kayyali
+  - Edwin Pairavi
+  - Faisal Lodhi
+company_names:
+  - Service All-Stars Energy, Inc.
+places: Not specified
+dates:
+  - Not specified
+events:
+  - Employment action
+  - Settlement discussions
+  - Pause of discovery
+  - Filing of motions
+  - Denial of motions
+  - Compelling of responses
+money: Not specified
+intentions:
+  - Plaintiff: seek admission of requests for admission
+  - Defendant: respond to requests for admission
+  - Court: deny motions, compel responses
+facts:
+  - Plaintiff's requests for admission were propounded
+  - Defendants never served responses
+  - Agreement to pause discovery and engage in settlement discussions
+  - No agreement to engage in settlement discussions
+disputes:
+  - Plaintiff's contention: Defendants failed to engage in settlement discussions
+  - Defendant's contention: Plaintiff's counsel failed to initiate settlement discussions
+acts:
+  - Agreement to pause discovery
+  - Agreement to engage in settlement discussions
+  - Filing of motions
+  - Denial of motions
+  - Compelling of responses
+agreements:
+  - Pause discovery
+  - Engage in settlement discussions
+laws:
+  - Not specified
+case_citations: Not specified
+statutes: Not specified
+roles:
+  - Judge: make a tentative ruling
+  - Plaintiff's counsel: initiate settlement discussions
+  - Defendant's counsel: respond to settlement discussions
+significant_statements:
+  - "Should we try Resolve LA before a lot of discovery?"
+  - "It makes sense to first attempt settlement."
+  - "Mr. Edwin Pairavi will engage you in settlement discussions."
+```
+
+And here is the English summary:
+
+This is a tentative ruling in an employment action. Plaintiff Victoria White seeks to have her requests for admission deemed admitted against Defendants Service All-Stars Energy, Inc. and Faisal Lodhi. The Plaintiff claims that the Defendants never served responses to her requests for admission. The Defendants, on the other hand, argue that they were surprised by the motions because the parties had agreed to engage in settlement discussions and pause discovery. The Defendants claim that the Plaintiff's counsel was supposed to reach out to them, but did not. The Court finds that there was an agreement to pause discovery and engage in settlement discussions, but denies the Plaintiff's motions and instead compels the Defendants to respond to the requests for admission within 30 days. The Court declines to award sanctions at this time.

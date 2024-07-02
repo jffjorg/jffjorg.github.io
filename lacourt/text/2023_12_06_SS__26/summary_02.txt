@@ -1,0 +1,83 @@
+Here is the summary in YAML format:
+
+```
+case_number: 21STCP02976
+hearing_date: 2023-12-06
+dept: 26
+
+people_names:
+  - William P. Anderson (Judgment Creditor)
+  - Michelle Shocked (Judgment Debtor)
+  - Jason Pontaza (private investigator)
+  - Sebastian Pourrat (officer of Duclot La Vinicole, LLC)
+
+company_names:
+  - Duclot La Vinicole, LLC
+
+places:
+  - 1850 Industrial Street, #709, Los Angeles, California
+
+dates:
+  - 2022-02-28 (judgment entered)
+  - 2023-06-21 (Motion for Assignment Order filed)
+  - 2023-09-14 (hearing continued)
+  - 2023-10-16 (supplemental declaration filed)
+  - 2023-11-09 (hearing continued)
+  - 2023-11-17 (supplemental papers filed)
+  - 2023-11-27 (hearing continued)
+
+events:
+  - Judgment entered in favor of Judgment Creditor
+  - Motion for Assignment Order filed
+  - Hearing continued
+  - Supplemental declaration filed
+  - Supplemental papers filed
+
+money:
+  - $4,322.51 (principal)
+  - $1,380.83 (interest)
+  - $6,000.00 (monthly rent)
+
+intentions:
+  - Judgment Creditor seeks to assign rent Judgment Debtor purportedly receives to satisfy the judgment
+
+facts:
+  - Judgment Creditor has not carried their burden of proof to demonstrate that the Court should issue an assignment order
+  - The judgment remains wholly unsatisfied
+
+disputes:
+  - Whether an assignment order should be issued
+
+acts:
+  - Judgment Debtor purportedly receives rent from a tenant
+  - Private investigator declares that the rent is paid to Judgment Debtor
+
+agreements:
+  - Code of Civil Procedure, section 708.510
+
+laws:
+  - Code of Civil Procedure, section 708.510
+  - California Evidence Code, section 1200
+
+case_citations:
+  - Code Civ. Proc., § 708.510
+  - Cal. Evid. Code, § 1200
+
+statutes:
+  - Code of Civil Procedure, section 708.510
+
+roles:
+  - Judge
+  - Judgment Creditor (William P. Anderson)
+  - Judgment Debtor (Michelle Shocked)
+  - Private investigator (Jason Pontaza)
+
+significant_statements:
+  - "These out-of-court statements are not admissible."
+  - "The judgment remains wholly unsatisfied."
+  - "Judgment Creditor has not carried their burden of proof to demonstrate that the Court should issue an assignment order."
+```
+
+And here is a summary of the judge's tentative ruling in English text:
+
+The judge has denied William P. Anderson's (Judgment Creditor) motion for an assignment order. The motion sought to assign rent that Michelle Shocked (Judgment Debtor) purportedly receives from a tenant to satisfy the judgment. The judge found that Judgment Creditor did not carry their burden of proof to demonstrate that the court should issue an assignment order. The judge noted that the judgment remains wholly unsatisfied and that the out-of-court statements provided by a private investigator were not admissible. Therefore, the motion is denied.

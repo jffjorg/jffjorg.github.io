@@ -1,0 +1,61 @@
+Here is the summary in YAML format:
+
+```
+case_number: 22STLC03332
+hearing_date: December 6, 2023
+department: 26
+parties:
+  - plaintiff: Sisi Missy, Inc. dba CDP Construction
+  - defendant: Doris Anderson
+  - cross-defendant: Sisi Missy, Inc. dba CDP Construction
+  - cross-complainant: Doris Anderson
+people:
+  - Doris Anderson
+companies:
+  - Sisi Missy, Inc.
+  - CDP Construction
+places:
+  - None mentioned
+dates:
+  - August 17, 2023
+  - September 28, 2023
+events:
+  - Service of Form Interrogatories, Set One
+  - Filing of Motion to Compel Responses to Form Interrogatories, Set One, and Request for Sanctions
+  - Failure to serve timely responses
+money:
+  - $261.65 (sanctions)
+intentions:
+  - Compel service of verified responses to discovery requests
+  - Award sanctions to defense counsel
+facts:
+  - Plaintiff failed to serve timely responses to discovery requests
+  - Defendant filed a motion to compel responses and request for sanctions
+disputes:
+  - Failure to comply with discovery requests
+acts:
+  - Service of discovery requests
+  - Failure to serve timely responses
+agreements:
+  - None mentioned
+laws:
+  - Code of Civil Procedure sections 2030.290, 2023.010, and 2023.030
+case_citations:
+  - Code Civ. Proc. § 2030.290
+  - Code Civ. Proc. § 2023.010
+  - Code Civ. Proc. § 2023.030
+statutes:
+  - CCP §§ 2030.290, 2023.030
+roles:
+  - Judge
+  - Plaintiff/Cross-Defendant (Sisi Missy, Inc. dba CDP Construction)
+  - Defendant/Cross-Complainant (Doris Anderson)
+significant_statements:
+  - There is no requirement for a prior meet and confer effort before a motion to compel initial responses can be filed.
+  - The motion can be brought at any time after the responding party fails to provide the responses.
+  - Sanctions are appropriate under Code of Civil Procedure sections 2023.010 and 2023.030.
+```
+
+And here is a summary of the judge's tentative ruling in English text:
+
+The judge grants the defendant's motion to compel responses to form interrogatories and requests for sanctions. The plaintiff, Sisi Missy, Inc. dba CDP Construction, is ordered to serve verified responses to the discovery requests without objections within 20 days of the order. The plaintiff is also ordered to pay sanctions of $261.65 to defense counsel within 20 days. The judge finds that the plaintiff's failure to timely respond to the discovery requests constitutes a misuse of the discovery process and that sanctions are appropriate. The judge awards sanctions based on a lodestar calculation of half-an-hour of attorney time billed at $400.00 per hour and a filing fee of $61.65.

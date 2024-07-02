@@ -1,0 +1,59 @@
+Here is the summary in YAML format:
+
+```
+case_number: "Not specified"
+plaintiff_name: "Petitioner"
+defendant_name: "Respondent"
+people_names:
+  - Petitioner
+  - Respondent
+  - Guiamelon
+company_names:
+  - None
+places:
+  - None
+dates:
+  - Not specified
+events:
+  - Referral of patients to healthcare providers
+  - Conviction of a felony or misdemeanor
+  - Suspension from participating in the workers' compensation system
+money:
+  - None
+intentions:
+  - To ensure that referrals are not induced by consideration other than the best interests of the patient
+  - To prevent patients being charged more for treatment due to additional hidden fees
+facts:
+  - The crime committed by the Defendant falls within Labor Code section 139.21, subdivision (a)(1)(A)
+  - The Defendant has been convicted of a felony or misdemeanor
+  - The Defendant has been suspended from participating in the workers' compensation system
+disputes:
+  - Whether the Defendant has standing to bring a motion to dismiss
+  - The nature of the crime as one falling within Labor Code section 139.21, subdivision (a)(1)(A)
+acts:
+  - Receiving money or other consideration for referring patients to healthcare providers
+  - Conviction of a felony or misdemeanor
+  - Suspension from participating in the workers' compensation system
+agreements:
+  - Business and Professions Code section 650, subdivision (a)
+  - Labor Code section 139.21, subdivision (a)(1)(A)
+laws:
+  - Business and Professions Code section 650, subdivision (a)
+  - Labor Code section 139.21, subdivision (a)(1)(A)
+case_citations:
+  - People v. Guiamelon (2012) 205 Cal.App.4hh 383, 399
+statutes:
+  - Business and Professions Code section 650, subdivision (a)
+  - Labor Code section 139.21, subdivision (a)(1)(A)
+roles:
+  - Petitioner (bringing the petition)
+  - Respondent (opposing the petition)
+  - Administrative director (suspending the Defendant from participating in the workers' compensation system)
+significant_statements:
+  - The court is not entirely certain if Petitioner challenges any factual findings by the agency
+  - The petition does not appear to raise any issue about the agency's factual findings
+```
+
+And here is a summary of the judge's tentative ruling in English text:
+
+The court has reviewed the petition filed by Petitioner and the opposition filed by Respondent, as well as the administrative record. The court is considering the allegations that the Defendant, who has been convicted of a felony or misdemeanor, received money or other consideration for referring patients to healthcare providers in violation of Business and Professions Code section 650, subdivision (a). The court notes that Respondent asserts that the Defendant does not have standing to bring a motion to dismiss, but acknowledges that the alleged error in procedure is not before the court. The court is not entirely certain if Petitioner challenges any factual findings by the agency, and the petition does not appear to raise any issue about the agency's factual findings. The court will consider the evidence and determine whether the Defendant's crime falls within Labor Code section 139.21, subdivision (a)(1)(A), which provides for suspension from participating in the workers' compensation system.

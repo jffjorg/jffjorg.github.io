@@ -1,0 +1,56 @@
+Here is the summary in YAML format:
+
+```
+case_number: 076916026971
+plaintiff_name: Alberto Moncada
+defendant_name: Federal Insurance Company
+people_names:
+  - Alberto Moncada
+  - Federal Insurance Company
+company_names:
+  - Federal Insurance Company
+places:
+  - Los Angeles
+  - California
+dates:
+  - none specified
+events:
+  - Subpoena issued
+  - Motion to compel production
+money:
+  - $3,200 (requested by plaintiff)
+  - $1,000 (awarded by judge)
+intentions:
+  - Plaintiff seeks to compel production of documents
+  - Defendant has not opposed the motion
+facts:
+  - Plaintiff's workers compensation claim number 076916026971
+  - Los Angeles Workers' Compensation Appeals Board Case Number ADJl0605607
+disputes:
+  - None specified
+acts:
+  - Subpoena issued
+  - Motion to compel production filed
+agreements:
+  - Plaintiff and defendant have agreed to production
+laws:
+  - California Rules of Court, Rule 8.54(c)
+  - Sexton v. Superior Court (1997) 58 Cal.App.4th 1403, 1410
+case_citations:
+  - Sexton v. Superior Court (1997) 58 Cal.App.4th 1403, 1410
+  - California Rules of Court, Rule 8.54(c)
+statutes:
+  - None specified
+roles:
+  - Judge
+  - Plaintiff (Alberto Moncada)
+  - Defendant (Federal Insurance Company)
+significant_statements:
+  - "Because there is no opposition, the Motion is granted."
+  - "The production is to be completed within 30 days."
+  - "Plaintiff requests $3,200 in sanctions, but the Court awards reduced sanctions in the amount of $1,000."
+```
+
+And here is the English-text summary:
+
+This is a tentative ruling in an employment action filed by Alberto Moncada against Federal Insurance Company. The plaintiff seeks to compel the defendant to comply with a subpoena issued to produce workers compensation claims and diary notes, as well as investigative records related to his workers compensation claim. Since there is no opposition to the motion, the court grants the motion and orders the defendant to produce the requested documents within 30 days. The court also awards reduced sanctions in the amount of $1,000 in favor of the plaintiff.

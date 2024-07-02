@@ -1,0 +1,58 @@
+Here is a summary of the tentative ruling in YAML format:
+
+```
+case_number: 23STCP01114
+hearing_date: December 6, 2023
+dept: 86
+people:
+  - California Apartment Association
+  - County of Los Angeles
+companies:
+  - California Apartment Association
+  - County of Los Angeles
+places:
+  - Los Angeles
+dates:
+  - January 24, 2023
+  - March 1, 2020
+  - July 1, 2022
+  - March 31, 2023
+events:
+  - Adoption of County of Los Angeles' COVID-19 Tenant Protections Resolution
+  - Nonpayment of rent
+  - Eviction proceedings
+money:
+  - Rent
+  - Financial hardship
+  - Area Median Income
+intention:
+  - To provide eviction protections to vulnerable tenants
+facts:
+  - The County of Los Angeles adopted a COVID-19 Tenant Protections Resolution on January 24, 2023
+  - The Resolution provides eviction protections to tenants who are unable to pay rent due to financial impacts related to the COVID-19 pandemic
+  - The 30-Day Notice Requirement applies only to tenants who meet specific criteria, including household income at or below 80% of Area Median Income and nonpayment of rent during a specific period
+disputes:
+  - Preemption of local ordinance by state law
+acts:
+  - Adoption of the COVID-19 Tenant Protections Resolution
+  - Imposition of the 30-Day Notice Requirement
+agreements:
+  - None mentioned
+laws:
+  - California Code of Civil Procedure section 1085
+  - California Code of Civil Procedure section 1161(2)
+  - California Constitution, article XI, section 7
+citations:
+  - Birkenfeld v. City of Berkeley (1976) 17 Cal.3d 129
+  - San Francisco Apartment Assn. v. City and County of San Francisco (2018) 20 Cal.App.5th 510
+  - Rental Housing Assn. of Northern Alameda County v. City of Oakland (2009) 171 Cal.App.4th 751
+roles:
+  - Judge
+  - California Apartment Association
+  - County of Los Angeles
+significant_statements:
+  - The 30-Day Notice Requirement is not preempted by state law because it only applies to a defined class of vulnerable tenants and does not replace the state-mandated 3-day notice requirement.
+  - The requirement is reasonably interpreted as a substantive limitation on eviction and a permissible rent control measure falling within the police powers of the County in response to the COVID-19 pandemic.
+```
+
+Please note that this summary is based on the provided text and may not be exhaustive or entirely accurate.

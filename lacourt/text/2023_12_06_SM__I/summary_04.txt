@@ -1,0 +1,80 @@
+Here is the summary in YAML format:
+
+```
+case_number: 21SMCV01968
+hearing_date: 2023-12-06
+dept: I
+
+people_names:
+  - Ramirez
+  - Mayendia
+
+company_names: []
+
+places:
+  - Marina Del Rey
+  - Gardena
+
+dates:
+  - 2023-12-06
+  - 2023-05-?? (approximate date of previous ruling)
+
+events:
+  - Motion for leave to amend
+  - Amended cross-complaint
+  - Default
+  - Judgment
+  - Demurrer
+
+money:
+  - $3,000/month
+
+intentions:
+  - To allow Ramirez to bring back individual defendants into the case
+  - To deny Ramirez's request to add new parties
+  - To grant injunctive relief
+  - To strike Mayendia's amended complaint
+
+facts:
+  - Ramirez previously defaulted individual defendants
+  - Ramirez filed an amended cross-complaint without naming individual defendants as parties
+  - Individual defendants claim they are not liable to Ramirez
+  - Ramirez seeks to add new parties to the case
+  - Mayendia's amended complaint alleges multiple rental locations
+
+disputes:
+  - Procedural dispute regarding individual defendants' default
+  - Dispute regarding adding new parties to the case
+  - Dispute regarding Mayendia's amended complaint
+
+acts:
+  - Ramirez filed an amended cross-complaint
+  - Individual defendants were excluded from the amended cross-complaint
+  - Mayendia filed an amended complaint
+
+agreements:
+  - None mentioned
+
+laws:
+  - California Code of Civil Procedure
+
+case_citations:
+  - None mentioned
+
+statutes:
+  - None mentioned
+
+roles:
+  - Ramirez: plaintiff
+  - Mayendia: cross-defendant
+  - Individual defendants: potential defendants
+
+significant_statements:
+  - The court tends to side with Ramirez on allowing individual defendants back into the case
+  - The court believes that the prejudice of further delay in the case warrants denying Ramirez's request to add new parties
+  - The court will issue its ruling on Mayendia's amended complaint one week from today
+```
+
+And here is a summary of the judge's tentative ruling in English text:
+
+The judge rules that the motion for leave to amend is granted in part and denied in part. The judge allows Ramirez to bring back individual defendants who were previously defaulted, but only by amending the cross-complaint rather than filing a new one. The judge denies Ramirez's request to add new parties to the case, citing the potential for further delay and prejudice to the remaining parties. The judge also denies Ramirez's request for injunctive relief. Additionally, the judge strikes Mayendia's amended complaint for failing to comply with previous orders. The judge sets a case management conference (CMC) approximately 90 days from now and intends to set a trial date at that time.

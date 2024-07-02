@@ -1,0 +1,71 @@
+Here is the summary of the judge's tentative ruling in YAML format:
+
+```yaml
+Case Number: 23STCV03899
+Plaintiff's Name: Dixon-Shane, LLC
+Defendant's Name: Flash Servicing Company, Inc.
+People-Names:
+  - Billie Fraley
+  - Theresa M. Troupson
+Company-Names:
+  - Dixon-Shane, LLC
+  - Flash Servicing Company, Inc.
+Places:
+  - Los Angeles
+Dates:
+  - March 27, 2023
+  - July 10, 2023
+  - September 25, 2023
+  - September 29, 2021
+  - October 28, 2021
+  - November 28, 2021
+  - December 2021
+  - December 6, 2023
+Events:
+  - Default against Defendant
+  - Filing of complaint
+  - Service of complaint and summons
+  - Dismissal of Doe defendants
+  - Request for default judgment
+Money:
+  - $824,141.98 (principal damages)
+  - $51,841.92 (pre-judgment interest)
+  - $6,945.00 (attorney's fees)
+  - $676.24 (costs of litigation)
+Intentions:
+  - To enter a default judgment against Defendant
+Facts:
+  - Defendant failed to timely answer the complaint
+  - Defendant underpaid its payments
+  - Defendant missed its December 2021 payment
+  - Plaintiff filed a complaint and obtained a default against Defendant
+  - Plaintiff requests a default judgment for principal damages, pre-judgment interest, attorney's fees, and costs of litigation
+Disputes:
+  - Whether Defendant failed to timely answer the complaint
+  - Whether Defendant is liable for principal damages, pre-judgment interest, attorney's fees, and costs of litigation
+Acts:
+  - Service of complaint and summons
+  - Dismissal of Doe defendants
+  - Filing of Form CIV-100
+  - Submission of evidence supporting a prima facie case for damages
+Agreements:
+  - Settlement and Release Agreement between Plaintiff and Defendant
+Laws:
+  - California Rules of Court (CRC)
+  - California Code of Civil Procedure (CCP)
+  - Local Rule 3.214
+  - Local Rule 3.207
+  - Code Civ. Proc. § 1032
+  - Code Civ. Proc. § 1033.5(a)(1)
+  - Code Civ. Proc. § 425.11
+  - CCP § 585
+Statutes:
+  - None
+Roles:
+  - Judge
+  - Plaintiff (Dixon-Shane, LLC)
+  - Defendant (Flash Servicing Company, Inc.)
+Significant Statements:
+  - "A party seeking judgment on the default by the Court must file a Form CIV-100 Request for Court Judgment, and ... Proof of service of the complaint and summons..." (CRC 3.1800(a)(1))
+  - "A party who defaults only admits facts well pleaded in the complaint or cross-complaint." (Molen v. Friedman (1998) 64 Cal.App.4th 1149, 1153-1154)
+  - "Where a request for attorney fees is based on a contractual provision the specific provision must be cited; (Local Rule 3.207)"

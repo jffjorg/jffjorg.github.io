@@ -1,0 +1,85 @@
+Here is the summary in YAML format:
+
+```
+case_number: 21STCV06984
+plaintiff_name: Ana Gonzalez
+defendant_name: Cosentino Group, S.A.
+people_names:
+  - Ana Gonzalez
+  - Victor Gonzalez
+  - Eduardo Cosentino
+company_names:
+  - ADB Global Trade LLC
+  - Cosentino Group, S.A.
+places:
+  - Canada
+  - British Columbia
+  - Spain
+  - California
+dates:
+  - September 23, 2021
+  - March 22, 2022
+  - November 21, 2021
+  - November 1, 2022
+  - October 12, 2023
+  - October 24, 2023
+  - October 27, 2023
+  - November 2, 2023
+  - November 9, 2023
+  - November 22, 2023
+  - November 30, 2023
+  - November 27, 2023
+  - December 5, 2023
+events:
+  - Complaint filed
+  - First Amended Complaint filed
+  - Second Amended Complaint filed
+  - Motion to Quash Service of Summons filed
+  - Opposition filed
+  - Reply filed
+  - Supplemental briefing filed
+  - Judicial notice granted
+money:
+  - None mentioned
+intentions:
+  - To quash service of summons
+facts:
+  - Plaintiff Ana Gonzalez filed a Complaint against Defendant Cosentino Group, S.A.
+  - Defendant contends that service did not comply with the Hague Service Convention
+  - Plaintiff argues that service was proper under Canadian law
+disputes:
+  - Whether service complied with the Hague Service Convention
+acts:
+  - Service of summons and complaint
+  - Filing of motions, oppositions, and replies
+  - Granting of judicial notice
+agreements:
+  - Hague Service Convention
+  - California Code of Civil Procedure
+laws:
+  - California Code of Civil Procedure § 413.10
+  - California Code of Civil Procedure § 416.10
+  - California Code of Civil Procedure § 418.10
+case_citations:
+  - Kalnoki v. First American Trustee Servicing Solutions, LLC (2017) 8 Cal.App.5th 23, 37
+  - Dominguez v. Bonta (2022) 87 Cal. App. 5th 389, 400
+  - Roy v. Superior Court (2005) 127 Cal.App.4th 337, 342
+  - Mihlon v. Superior Court (1985) 169 Cal.App.3d 703, 710
+  - Sweetwater Union High School Dist. v. Gilbane Building Co. (2019) 6 Cal.5th 931, 947-949
+  - In re Alyssa F. (2003) 112 Cal.App.4th 846, 852
+  - Kott v. Superior Court (1996) 45 Cal.App.4th 1126, 1134
+  - Inversiones Papaluchi S.A.S. v. Superior Court (2018) 20 Cal.App.5th 1055, 1065-66
+  - Denlinger v. Chinadotcom Corp. (2003) 110 Cal.App.4th 1396
+  - Yamaha Motor Co., Ltd. v. Superior Court (2009) 174 Cal.App.4th 264
+  - Lebel v. Mai (2012) 210 Cal.App.4th 1154
+roles:
+  - Judge: Upinder S. Kalra
+significant_statements:
+  - The court grants Plaintiff's request for judicial notice as to Exhibits A (Canadian Law), Exhibits A - D.
+  - The court agrees with Moving Defendant that service did not comply with the Hague Service Convention.
+  - The court GRANTS Moving Defendant's motion to quash service of summons.
+```
+
+And here is a summary of the judge's tentative ruling in English text:
+
+The judge has granted the motion to quash service of summons filed by Cosentino Group, S.A. (Moving Defendant). The Moving Defendant argued that the service of the summons and complaint did not comply with the Hague Service Convention, which regulates the service of process in international cases. The Moving Defendant contended that the service was not properly effected in Canada, where the process server attempted to serve Eduardo Cosentino, an officer of Cosentino Group, while he was on official business. The judge found that the service did not comply with the Hague Service Convention and therefore is invalid. The judge also rejected the plaintiff's arguments that the Hague Service Convention does not apply or that the service in Canada was proper.

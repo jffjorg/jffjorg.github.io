@@ -1,0 +1,81 @@
+Here is the summary of the Judge's tentative ruling in YAML format:
+
+```
+case_number: 22CHCV00494
+plaintiff_name: Michael Brang
+defendant_name: General Motors, LLC
+people_names:
+  - Michael Brang
+  - Huizhen Lu
+  - Darshnik Brar
+  - Brian T. Shippen-Murray
+  - Sepehr Daghighian
+company_names:
+  - General Motors, LLC
+places:
+  - Los Angeles
+  - North Valley
+  - California
+dates:
+  - December 2, 2020
+  - July 6, 2022
+  - August 5, 2022
+  - September 21, 2022
+  - October 25, 2023
+  - November 3, 2023
+  - December 6, 2023
+events:
+  - Vehicle purchase
+  - Warranty claim
+  - Discovery requests
+  - Motion to compel further responses
+money:
+  - $1,200.00
+intentions:
+  - Compel further responses to discovery requests
+  - Sanction Defendant for non-compliance
+facts:
+  - Defendant issued a manufacturer's warranty for a vehicle purchased by the plaintiff
+  - The plaintiff filed a complaint alleging breach of warranty
+  - Defendant responded to the plaintiff's discovery requests, but the responses were incomplete
+  - The plaintiff filed a motion to compel further responses
+disputes:
+  - Scope and relevance of discovery requests
+  - Undue burden of responding to discovery requests
+  - Privilege and trade secrets
+acts:
+  - Defendant failed to meet and confer with the plaintiff regarding discovery issues
+  - Defendant failed to provide complete responses to discovery requests
+  - Plaintiff filed a motion to compel further responses
+agreements:
+  - The parties' agreement to a meet and confer effort
+  - The court's order to meet and confer
+laws:
+  - California Code of Civil Procedure
+  - California Civil Code
+  - Evidence Code
+case_citations:
+  - Code Civ. Proc. § 2030.210
+  - Code Civ. Proc. § 2030.220
+  - Code Civ. Proc. § 2030.300
+  - Code Civ. Proc. § 2031.240
+  - Code Civ. Proc. § 2031.310
+  - Civ. Code § 1790 et seq.
+  - Civ. Code § 1794, subd. (c)
+  - Civ. Code § 3426.1, subd. (d)
+statutes:
+  - California Code of Civil Procedure
+  - California Civil Code
+roles:
+  - Judge
+  - Plaintiff
+  - Defendant
+  - Attorney
+significant_statements:
+  - The court grants the plaintiff's motions to compel further responses to discovery requests
+  - The court imposes sanctions against the defendant in the amount of $1,200.00
+  - The defendant failed to meet and confer with the plaintiff regarding discovery issues
+  - The defendant failed to provide complete responses to discovery requests
+```
+
+Note: Some information, such as the specific page numbers and paragraphs, has been omitted for brevity.

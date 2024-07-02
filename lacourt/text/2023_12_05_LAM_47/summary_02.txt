@@ -1,0 +1,60 @@
+Here is the summary in YAML format:
+
+```
+Case Number: 22STCV24280
+Plaintiff's Name: Century Recovery LLC
+Defendant's Name: Walter C. Harris, et al.
+People-Names:
+  - Walter C. Harris
+Company-Names:
+  - Century Recovery LLC
+  - LoanMe
+Places:
+  - California
+Dates:
+  - July 27, 2022 (filing of the lawsuit)
+  - February 19, 2016 (loan agreement)
+  - September 1, 2018 (last payment made by defendant)
+  - December 5, 2023 (hearing date)
+  - January 23, 2024 (trial date)
+Events:
+  - Breach of contract by defendant
+  - Plaintiff's motion for summary judgment
+Money:
+  - $11,500 (original loan amount)
+  - $11,490.07 (outstanding principal balance)
+  - $49,632.88 (outstanding interest)
+  - $61,113.95 (total outstanding balance)
+Intentions:
+  - Plaintiff seeks summary judgment to establish a valid contract and breach of contract claim
+  - Defendant has not responded to the motion
+Facts:
+  - Defendant entered into a business loan agreement with LoanMe on February 19, 2016
+  - Defendant made payments on the loan until September 1, 2018, then ceased making payments
+  - Plaintiff has produced evidence showing the existence of a valid contract, defendant's breach, and resulting damage
+Disputes:
+  - Whether defendant breached the loan agreement
+  - Whether plaintiff is entitled to summary judgment
+Acts:
+  - Plaintiff filed a lawsuit against defendant alleging breach of contract
+  - Defendant has not responded to the lawsuit
+  - Plaintiff moved for summary judgment
+Agreements:
+  - Loan agreement between LoanMe and defendant
+  - Assignment of loan from LoanMe to Century Recovery LLC
+Laws:
+  - California Constitution, Article XV, section 1 (interest rate limit)
+  - California Financial Code, sections 22002 and 22009 (definition of finance lenders and brokers)
+Case Citations:
+  - Aguilar v. Atl. Richfield Co. (2001) 25 Cal.4th 826
+  - Adler v. Manor Healthcare Corp. (1992) 7 Cal.App.4th 1110
+  - Avivi v. Centro Medico Urgente Med. Ctr. (2008) 159 Cal.App.4th 463
+  - Scalf v. D. B. Log Homes, Inc. (2005) 128 Cal.App.4th 1510
+Statutes:
+  - None
+Roles:
+  - Plaintiff (Century Recovery LLC)
+  - Defendant (Walter C. Harris, et al.)
+Significant Statements:
+  - "The purpose of a motion for summary judgment is to provide courts with a mechanism to cut through the parties' pleadings in order to determine whether, despite their allegations, trial is in fact necessary to resolve their dispute." (Aguilar v. Atl. Richfield Co.)
+  - "If all the evidence submitted, and all inferences reasonably deducible from the evidence, and uncontradicted by other inferences or evidence, show that there is no triable issue as to any material fact and that the moving party is entitled to judgment as a matter of law, the trial judge must grant summary judgment." (Adler v. Manor Healthcare Corp.)

@@ -1,0 +1,78 @@
+Here is the summary in YAML format:
+
+```
+case_number: BC715362
+plaintiff: Vichit Tilakamonkul, Somsak Tilakamonkul
+defendant: Vichai Tilakamonkul, Virut Tilakamonkul, Narlong Tilakamonkul, Sumeth Tilakamonkul, Pramorte Tilakamonkul, Royal Thai Cuisine II, Inc., Royal Thai Cuisine IV, Inc., Siriratn Tilakamonkul
+people_names:
+  - Vichit Tilakamonkul
+  - Somsak Tilakamonkul
+  - Vichai Tilakamonkul
+  - Virut Tilakamonkul
+  - Narlong Tilakamonkul
+  - Sumeth Tilakamonkul
+  - Pramorte Tilakamonkul
+  - Siriratn Tilakamonkul
+company_names:
+  - Royal Thai Cuisine II, Inc.
+  - Royal Thai Cuisine IV, Inc.
+  - T-Team Investments, Inc.
+places:
+  - Newport Beach
+  - Long Beach
+  - San Diego
+dates:
+  - July 25, 2018
+  - March 12, 2019
+  - April 29, 2019
+  - August 21, 2019
+  - November 2, 2020
+  - March 5, 2021
+  - June 30, 2022
+  - October 11, 2022
+  - September 26, 2023
+  - December 7, 2023
+events:
+  - Motion to Amend Judgment
+  - Motion to Tax Costs
+  - Motion to Strike Costs
+money:
+  - $20,700
+  - $555
+  - $435
+  - $795
+  - $3,581
+intentions:
+  - To amend the judgment
+  - To tax costs
+  - To strike costs
+facts:
+  - The case involves a dispute among seven Tilakamonkul brothers
+  - Plaintiffs sought to quiet title, dissolve a partnership, and partition and sell restaurants and real property
+  - The Court ordered a bifurcated trial, with equitable claims tried first, followed by legal issues
+  - The Court found in favor of Vichit and Somsak Tilakamonkul, and against the other defendants
+disputes:
+  - Plaintiffs' claims against RT II, RT IV, and Siriratn
+  - Defendants' objections to Plaintiffs' cost memoranda
+acts:
+  - Filing of cost memoranda
+  - Filing of motions to amend judgment, tax costs, and strike costs
+  - Service of motions and memoranda
+agreements:
+  - None
+laws:
+  - California Code of Civil Procedure sections 1032(a)(4), 1033.5, 1010.6(a)(4)
+  - California Rules of Court, rule 3.1700(b)(1)
+statutes:
+  - Code of Civil Procedure section 473(b)
+  - Code of Civil Procedure section 473(d)
+Roles:
+  - Judge: Theresa M. Traber
+  - Parties: Vichit Tilakamonkul, Somsak Tilakamonkul, Vichai Tilakamonkul, Virut Tilakamonkul, Narlong Tilakamonkul, Sumeth Tilakamonkul, Pramorte Tilakamonkul, Siriratn Tilakamonkul, Royal Thai Cuisine II, Inc., Royal Thai Cuisine IV, Inc., T-Team Investments, Inc.
+significant statements:
+  - "The Court concludes that the omission of RT II, RT IV, and Siriratn Tilakamonkul as defendants against whom Plaintiffs were the prevailing parties was a clerical error in that the omission caused the Judgment as entered to fail to reflect the Court's Amended Statement of Decision and further caused the Judgment to be internally inconsistent."
+  - "The Court finds that Plaintiffs are the prevailing parties in this action and are entitled to costs."
+  - "The Court concludes that the costs claimed by Plaintiffs are reasonable and necessary to the conduct of the litigation."
+```
+
+Note that some of the fields (e.g. "people_names", "company_names", etc.) may contain duplicate values, as the same person or company may be mentioned multiple times in the document.

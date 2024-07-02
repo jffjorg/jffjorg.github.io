@@ -1,0 +1,67 @@
+Here is the summary in YAML format:
+
+```
+case_number: 22CHCV00394
+plaintiff_name: Napa Industries, LLC
+defendant_name: NPI Debt Fund
+people_names:
+  - Steffanie Stelnick (Counsel)
+  - Plaintiff (Napa Industries, LLC)
+company_names:
+  - Napa Industries, LLC
+  - NPI Debt Fund
+places:
+  - Los Angeles Superior Court
+dates:
+  - 6/28/23 (Motion filed)
+  - 9/27/23 (Previous hearing)
+  - 11/28/23 (Substitution of Attorney)
+  - December 5, 2023 (Hearing Date)
+events:
+  - Motion to be relieved as counsel
+  - Previous hearing on the instant motion
+  - Substitution of Attorney
+  - Service of motion and accompanying papers
+money: None
+intentions:
+  - Counsel to be relieved as attorney of record for Plaintiff
+facts:
+  - Counsel did not serve NPI Debt Fund with the motion and accompanying papers
+  - No updated proof of service has been filed
+  - Plaintiff is an unincorporated association and must be represented by licensed counsel
+disputes:
+  - Whether Counsel can be relieved as attorney of record for Plaintiff
+acts:
+  - Counsel filed a motion to be relieved as counsel
+  - Counsel filed a Substitution of Attorney
+agreements:
+  - California Rules of Court, rule 3.1362
+  - Code of Civil Procedure, section 284
+laws:
+  - California Rules of Court, rule 3.1362
+  - Code of Civil Procedure, section 284
+  - CLD Construction, Inc. v. City of San Ramon (2004) 120 Cal.App.4th 1141
+  - Merco Constr. Engineers, Inc. v. Municipal Court (1978) 21 Cal.3d 724
+  - Roddis v. Strong (1967) 250 Cal.App.2d 304
+case_citations:
+  - 22CHCV00394
+  - 9/27/23 Min. Order
+  - 11/28/23 Sub. of Attorney
+statutes:
+  - California Rules of Court, rule 3.1362
+  - Code of Civil Procedure, section 284
+roles:
+  - Counsel (Steffanie Stelnick)
+  - Plaintiff (Napa Industries, LLC)
+  - NPI Debt Fund (Defendant)
+significant_statements:
+  - A corporation cannot represent itself before courts of record.
+  - A person who is not an attorney authorized to practice law in this state cannot represent anyone other than himself.
+  - The Court finds that Plaintiff may not be self-represented, and the Substitution of Attorney is therefore invalid.
+```
+
+And here is the English-text summary:
+
+The Judge has issued a tentative ruling in the case of Napa Industries, LLC (Plaintiff) vs. NPI Debt Fund (Defendant), case number 22CHCV00394. The motion filed by Counsel, Steffanie Stelnick, on June 28, 2023, seeks an order relieving her as attorney of record for Plaintiff. The Court previously found that Counsel did not serve NPI Debt Fund with the motion and accompanying papers, and the motion was continued to allow for service. However, no updated proof of service has been filed, and instead, Counsel filed a Substitution of Attorney substituting Plaintiff as its own new legal representative.
+
+The Court finds that Plaintiff, being an unincorporated association, must be represented by licensed counsel and cannot represent itself. Therefore, the Substitution of Attorney is invalid, and the Court denies the instant motion without prejudice.

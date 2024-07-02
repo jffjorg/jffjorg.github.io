@@ -1,0 +1,59 @@
+Here is the summary in YAML format:
+
+```
+case_number: "22STCV35611"
+hearing_date: "December 6, 2023"
+dept: "53"
+court: "Superior Court of California, County of Los Angeles - Central District"
+moving_parties:
+  - Joe Ko
+  - Louisa Zhou
+  - Predicate Holdings, Inc.
+  - Studio 88 Holdings, Inc.
+  - J. Adams Fashion, LLC
+responding_party: "Zooshoo, Inc."
+motion: "Motion to Compel Arbitration"
+facts:
+  - Plaintiff Zooshoo, Inc. signed an Amended and Restated Services Agreement (Agreement) with Predicate Holdings, Inc. on February 17, 2021.
+  - The Agreement includes an arbitration provision stating that any controversy or claim relating to the Agreement shall be settled by arbitration.
+  - Plaintiff does not dispute that it signed the Agreement, but contends that the Agreement is invalid due to fraud in the execution.
+  - The court finds that Plaintiff has not met its burden to show that the Agreement is invalid.
+disputes:
+  - Whether the Agreement is valid and enforceable
+  - Whether the arbitration clause in the Agreement applies to the causes of action alleged in Plaintiff's Complaint
+acts:
+  - Plaintiff filed a complaint alleging various causes of action against Defendants
+  - Defendants moved to compel arbitration
+  - The court considered the moving, opposition, and reply papers filed in connection with the motion
+laws:
+  - California Code of Civil Procedure § 1281.2
+  - California Code of Civil Procedure § 1281.4
+  - California Civil Code § 1710
+  - California Civil Code § 1715
+  - California Civil Code § 1716
+citations:
+  - Beco v. Fast Auto Loans (2022) 86 Cal.App.5th 292
+  - Gamboa v. Northeast Community Clinic (2021) 72 Cal.App.5th 158
+  - Rosenthal v. Great Western Fin. Securities Corp. (1996) 14 Cal.4th 394
+  - Hotels Nevada v. L.A. Pacific Center, Inc. (2006) 144 Cal.App.4th 754
+  - Benaroya v. Willis (2018) 23 Cal.App.5th 462
+  - Ahern v. Asset Management Consultants, Inc. (2022) 74 Cal.App.5th 675
+  - Howard v. Goldbloom (2018) 30 Cal.App.5th 659
+intentions:
+  - To compel arbitration of the claims alleged in Plaintiff's Complaint
+  - To determine whether the Agreement is valid and enforceable
+  - To determine whether the arbitration clause in the Agreement applies to the causes of action alleged in Plaintiff's Complaint
+significant_statements:
+  - The court grants Defendants' motion to compel arbitration.
+  - The court orders Plaintiff Zooshoo, Inc. and Defendants to arbitrate the claims alleged in Plaintiff's Complaint.
+  - The court stays the action until arbitration is completed.
+  - The court vacates the trial set for October 16, 2024, and the Final Status Conference set for October 4, 2024.
+roles:
+  - Judge: Robert B. Broadbelt III
+  - Moving Parties: Joe Ko, Louisa Zhou, Predicate Holdings, Inc., Studio 88 Holdings, Inc., J. Adams Fashion, LLC
+  - Responding Party: Zooshoo, Inc.
+```
+
+And here is a summary in English text:
+
+The court has issued a tentative ruling granting defendants' motion to compel arbitration. The defendants, including Joe Ko, Louisa Zhou, Predicate Holdings, Inc., Studio 88 Holdings, Inc., and J. Adams Fashion, LLC, moved to compel arbitration of the claims alleged in plaintiff Zooshoo, Inc.'s complaint. The plaintiff signed an Amended and Restated Services Agreement (Agreement) with Predicate Holdings, Inc. on February 17, 2021, which includes an arbitration provision stating that any controversy or claim relating to the Agreement shall be settled by arbitration. The court finds that the plaintiff has not met its burden to show that the Agreement is invalid due to fraud in the execution. The court also finds that the arbitration clause in the Agreement applies to the causes of action alleged in the plaintiff's complaint. The court orders the parties to arbitrate the claims alleged in the plaintiff's complaint and stays the action until arbitration is completed.

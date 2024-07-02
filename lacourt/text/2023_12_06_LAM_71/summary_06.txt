@@ -1,0 +1,67 @@
+Here is the summary in YAML format:
+
+```
+case_number: BC705010
+plaintiff_name: Mark Groubert
+defendant_name: Landmark Recovery LLC
+people_names:
+  - Mark Groubert
+  - Jay S. Rothman
+  - Kenneth R. Meyers
+company_names:
+  - Landmark Recovery LLC
+  - Jay S. Rothman & Associates
+places:
+  - Los Angeles
+  - California
+dates:
+  - May 3, 2018
+  - October 22, 2018
+  - September 7, 2021
+  - October 26, 2021
+  - November 2, 2023
+  - December 6, 2023
+events:
+  - Filing of complaint
+  - Filing of answer
+  - Bench trial
+  - Entry of judgment
+  - Motion to be relieved as counsel
+money:
+  - None mentioned
+intentions:
+  - To grant the motion to be relieved as counsel
+facts:
+  - Plaintiff filed an action against the defendant
+  - The defendant filed an answer
+  - A bench trial was held and judgment was entered in favor of the plaintiff
+  - The plaintiff's counsel filed a motion to be relieved as counsel
+disputes:
+  - None mentioned
+acts:
+  - Filing of motion and supporting documents
+  - Service of notice of motion on the client
+agreements:
+  - Written retainer agreement
+laws:
+  - California Rule of Court rule 3.1362
+  - Code of Civil Procedure section 284
+  - Ramirez v. Sturdevant (1994)
+statutes:
+  - Code of Civil Procedure section 284
+  - California Rule of Court rule 3.1362
+case_citations:
+  - Ramirez v. Sturdevant (1994)
+roles:
+  - Judge
+  - Plaintiff
+  - Defendant
+  - Counsel
+significant_statements:
+  - The court has discretion to allow an attorney to withdraw
+  - The motion should be granted provided that there is no prejudice to the client, and it does not disrupt the orderly process of justice
+```
+
+And here is a summary of the judge's tentative ruling in English text:
+
+The judge has granted the motion of Mark Groubert's counsel, Jay S. Rothman & Associates/Kenneth R. Meyers, to be relieved as counsel. The motion was filed on November 2, 2023, and the court has discretion to allow an attorney to withdraw. The court found that the motion was properly served on the client, Mark Groubert, and that there is no prejudice to him. The court also noted that the attorney-client relationship has broken down irreconcilably and that Groubert has not consented to a voluntary substitution of attorney. The judge ordered that the counsel be relieved upon filing proof of service on their client of the order granting the motion.
