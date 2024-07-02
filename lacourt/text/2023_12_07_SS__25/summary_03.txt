@@ -1,0 +1,79 @@
+Here is the YAML summary of the tentative ruling:
+
+```
+case_number: Not specified
+plaintiff_name: All Los Angeles Painting Company Inc.
+defendant_names: Garnero Inc., Nate Garnero
+people_names:
+  - Nate Garnero
+  - [Judge's name not specified]
+company_names:
+  - Garnero Inc.
+  - All Los Angeles Painting Company Inc.
+places: Not specified
+dates:
+  - March 1, 2022
+  - May 11, 2022
+  - October 27, 2022
+  - November 28, 2022
+  - May 8, 2023
+  - July 11, 2023
+  - July 18, 2023
+  - August 17, 2023
+  - September 25, 2023
+events:
+  - Breach of contract
+  - Quantum meruit
+  - Common counts
+  - Defaults
+  - Vacations of defaults
+  - Filing of answers
+  - Discovery motions
+  - Monetary sanctions
+  - Terminating sanctions
+money:
+  - $2,415.00
+intentions:
+  - Plaintiff seeks to strike defendant's answer and enter default
+facts:
+  - Defendant Nate failed to comply with discovery obligations
+  - Plaintiff gave notice of the Court's order
+  - Defendant Nate failed to pay monetary sanctions
+disputes:
+  - Failure to comply with discovery obligations
+  - Failure to pay monetary sanctions
+acts:
+  - Filing of motions
+  - Filing of answers
+  - Failure to comply with discovery orders
+  - Failure to pay monetary sanctions
+agreements:
+  - Stipulation to vacate default
+  - Agreement to file responsive pleadings
+laws:
+  - California Code of Civil Procedure, section 2023.010
+  - California Code of Civil Procedure, section 2023.030
+  - California Code of Civil Procedure, section 2023.030, subdivision (a)-(e)
+  - Doppes v. Bentley Motors, Inc.
+  - J.W. v. Watchtower Bible and Tract Society of New York, Inc.
+  - Mileikowsky v. Tenet Healthsystem
+  - Creed-21 v. City of Wildomar
+  - Code of Civil Procedure, section 2023.010, subdivisions (d) and (f)
+  - Los Defensores, Inc. v. Gomez
+  - Stevenson v. Bentley Motors, Inc.
+  - Holden v. City of San Diego
+  - C. Opposing the Motion—and Rebutting the Opposition, Cal. Prac. Guide Civ. Pro.
+    Before Trial Ch. 9(I)-C, ¶ 9:105.10
+roles:
+  - Plaintiff
+  - Defendant
+  - Judge
+  - Attorney
+significant_statements:
+  - The Court finds that striking the Answer of Defendant Nate and entering default against him is appropriate in light of his repeated failures to comply with his discovery obligations.
+  - The Court exercises its discretion and declines to award monetary sanctions.
+```
+
+English-text summary:
+
+The tentative ruling is about a case between All Los Angeles Painting Company Inc. (Plaintiff) and Garnero Inc. and Nate Garnero (Defendants) regarding breach of contract, quantum meruit, and common counts. The Plaintiff filed an action against the Defendants, and after the Defendants failed to comply with discovery orders, the Plaintiff moved to strike the Defendant's answer and enter default. The Plaintiff argued that the Defendant has repeatedly failed to comply with discovery obligations and has failed to pay monetary sanctions. The Court granted the Plaintiff's motion and struck the Defendant's answer, entering default against him. The Court also declined to award monetary sanctions, finding that striking the Defendant's answer and entering default was sufficient.

@@ -1,0 +1,105 @@
+Here is the summary in YAML format:
+
+```
+case_number: 23NEWCV00745
+hearing_date: 2023-12-07
+dept: C COMPLETE CLOTHING COMPANY v. BUCHALTER, a Professional Corporation, et al.
+
+people_names:
+  - Complete Clothing
+  - Buchalter
+  - Jeffrey Kapoor
+  - Star Ace
+  - Ningbo Brother Apparel Co., Ltd.
+  - Young Bin Luo
+  - Sarah Kelly-Kilgore
+  - Rainbow Luo
+
+company_names:
+  - Complete Clothing
+  - Buchalter
+  - Star Ace
+  - Ningbo Brother Apparel Co., Ltd.
+
+places:
+  - China
+
+dates:
+  - 2023-03-13
+  - 2023-03-24
+  - 2023-04-14
+  - 2023-05-16
+  - 2023-07-07
+  - 2023-10-28
+  - 2023-11-22
+  - 2023-12-07
+
+events:
+  - Plaintiff filed a complaint against Buchalter and Kapoor
+  - Plaintiff propounded RFPs on Defendants Buchalter and Kapoor
+  - Defendants provided responses to RFPs
+  - Plaintiff filed a motion to compel further responses
+  - Defendants provided a privilege log
+  - IDC before the Court
+
+money:
+  - significant legal fees
+
+intentions:
+  - Plaintiff alleges Defendants Buchalter and Kapoor negligently provided substandard legal counsel
+  - Plaintiff seeks to compel further responses from Defendants
+
+facts:
+  - Complete Clothing contracted with Star Ace to locate a manufacturer in China
+  - Star Ace sourced clothing for manufacture by Ningbo Brother Apparel Co., Ltd.
+  - Plaintiff alleges Defendants failed to timely raise objections to certain documents
+
+disputes:
+  - Dispute among Plaintiff, Star Ace, and Ningbo regarding amounts due to Ningbo
+  - Dispute between Plaintiff and Defendants regarding legal malpractice and breach of fiduciary duty
+
+acts:
+  - Plaintiff filed a motion to compel further responses
+  - Defendants provided responses to RFPs
+  - Defendants provided a privilege log
+
+agreements:
+  - Plaintiff and Defendants agreed to mediate the dispute
+
+laws:
+  - CCP § 2031.310
+  - CCP § 2018.080
+  - Evid. Code § 1119
+  - Evid. Code § 912
+  - Evid. Code § 954
+
+case_citations:
+  - Kirkland v. Supr. Ct. (2002)
+  - Glenfed Develop. Corp. v. Superior Court (1997)
+  - Hartbrodt v. Burke (1996)
+  - Cassel v. Sup.Ct. (Wasserman, Comden, Casselman & Pearson, L.L.P. (2011)
+  - Amis v. Greenberg Traurig LLP (2015)
+  - Wimsatt v. Sup.Ct. (Kausch) (2007)
+  - Behunin v. Supr. Ct. (2017)
+  - Kerner v. Superior Court (2012)
+
+roles:
+  - Judge
+  - Plaintiff
+  - Defendant
+  - Attorney
+  - Client
+
+significant_statements:
+  - The mediation privilege may prevent a client from bringing a malpractice action against his or her attorney based on the attorney's alleged malpractice in connection with the settlement of the case.
+  - The attorney-client privilege may be claimed only by the holder of the privilege, a person who is authorized by the holder to claim the privilege, or the person who was the lawyer at the time of the confidential communication.
+  - Failure to claim the privilege constitutes consent to disclosure and a waiver of the privilege only if the holder, in a proceeding in which he or she has the legal standing and opportunity to claim the privilege, fails to claim the privilege knowing that the disclosure of privileged information is sought.
+```
+
+The judge's tentative ruling is that:
+
+* Plaintiff's motion to compel further responses is denied as to documents identified at ¶30(A), (B), (D), (F)-(GG) of the Kilgore Declaration.
+* Plaintiff's motion to compel further responses is granted as to documents identified at ¶30(C) and (E) of the Kilgore Declaration. Defendants are ordered to produce these documents within 10 days.
+* The mediation privilege prevents the disclosure of certain documents related to the mediation between Ningbo and Plaintiff.
+* The attorney-client privilege is applicable to certain documents related to the attorney-client relationship between Defendants and their client, Rainbow Luo.
+* Work product protection does not exist in litigation between an attorney and client on matters relevant to an issue of breach by the attorney of a duty to the client arising out of the attorney-client relationship.

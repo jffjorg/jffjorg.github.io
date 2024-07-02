@@ -1,0 +1,48 @@
+Here is the summary in YAML format:
+
+```
+case_number: Defendant P.V. Holding Corp.'s Motion to Deem Requests for Admissions Admitted
+plaintiff_name: Plaintiff
+defendant_name: P.V. Holding Corp.
+people_names:
+  - P.V. Holding Corp.
+  - Plaintiff
+company_names:
+  - P.V. Holding Corp.
+places: N/A
+dates:
+  - N/A
+events:
+  - Defendant's Request for Admissions, Set One
+  - Defendant's Special Interrogatories, Set One and Form Interrogatories, Set One
+  - Defendant's Request for Production of Documents, Set One
+acts:
+  - Deeming requests for admissions admitted
+  - Compelling responses to discovery requests
+  - Granting monetary sanctions
+agreements:
+  - Plaintiff is ordered to provide verified code-compliant responses
+  - Plaintiff is ordered to tender payment to Defendant's counsel
+laws:
+  - N/A
+case_citations:
+  - N/A
+statutes:
+  - N/A
+roles:
+  - Judge
+  - Plaintiff
+  - Defendant
+  - Counsel
+significant_statements:
+  - Defendant's Motion to Deem Requests for Admissions Admitted is GRANTED
+  - Plaintiff is ordered to provide verified code-compliant responses within 20 days
+  - Defendant's requests for monetary sanctions are GRANTED in the reduced amount of $1,080
+  - Plaintiff is ordered to tender payment to Defendant's counsel within 30 days
+money:
+  - $1,080
+```
+
+And here is the English-text summary:
+
+The judge has issued a tentative ruling on several motions filed by the defendant, P.V. Holding Corp. The judge has granted the defendant's motion to deem the plaintiff's requests for admissions admitted, and has also granted the defendant's motion to compel the plaintiff's responses to the defendant's special interrogatories and request for production of documents. The judge has ordered the plaintiff to provide verified, code-compliant responses to these discovery requests without objection within 20 days. Additionally, the judge has granted the defendant's request for monetary sanctions in the amount of $1,080, which includes fees, and has ordered the plaintiff to tender payment to the defendant's counsel within 30 days.

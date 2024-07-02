@@ -1,0 +1,61 @@
+Here is the summary in YAML format:
+
+```
+case_number: 20STCV39446
+plaintiff_name: Maria Avalos and Alfonso Avalos Cervantes
+defendant_name: Los Angeles County Metropolitan Transportation Authority
+people_names:
+  - Kelly Lawrence Casado
+  - Maria Avalos
+  - Alfonso Avalos Cervantes
+company_names:
+  - Los Angeles County Metropolitan Transportation Authority
+places:
+  - Spring Street Courthouse
+dates:
+  - October 14, 2020
+  - March 14, 2020
+  - February 16, 2023
+  - August 16, 2023
+  - October 20, 2023
+  - November 29, 2023
+  - December 7, 2023
+events:
+  - Vehicle collision
+  - Trial
+  - Dismissal of complaint
+  - Motion to set aside dismissal
+money: $250
+intention: To set aside and vacate the order of dismissal
+facts:
+  - Plaintiffs' complaint was dismissed without prejudice
+  - Plaintiffs' counsel did not appear on the day of trial
+  - Counsel filed a motion to set aside the dismissal six months later
+disputes:
+  - Whether the dismissal was entered due to counsel's mistake, inadvertence, surprise, or excusable neglect
+acts:
+  - Counsel's failure to appear on the day of trial
+  - Counsel's failure to set an alarm
+  - Counsel's clients did not appear as advised
+agreements:
+  - Code of Civil Procedure section 473, subdivision (c)(1)(B)
+laws:
+  - Code of Civil Procedure section 473, subdivision (b)
+  - Code of Civil Procedure section 473, subdivision (c)(1)(B)
+case_citations:
+  - Code Civ. Pro., §473, subd. (b)
+  - Code Civ. Pro., §473, subd. (c)(1)(B)
+statutes:
+  - Code of Civil Procedure section 473
+roles:
+  - Judge
+  - Plaintiffs' counsel
+  - Defendant
+significant_statements:
+  - "The court may, upon any terms as may be just, relieve a party or his or her legal representative from a judgment, dismissal, order, or other proceeding taken against him or her through his or her mistake, inadvertence, surprise, or excusable neglect."
+  - "Plaintiffs have shown that the dismissal was entered based on their counsel's mistake, inadvertence, surprise, or excusable neglect."
+```
+
+And here is a summary of the judge's tentative ruling in English text:
+
+The judge has granted the plaintiff's motion to set aside and vacate the order of dismissal dated February 16, 2023. The motion was filed six months later, supported by an attorney declaration stating that the attorney became ill and overslept past the hearing time on the day of trial. The judge finds that the dismissal was entered based on the attorney's mistake, inadvertence, surprise, or excusable neglect, and that the motion is timely. The judge orders the attorney to pay $250 to the State Bar Client Security Fund within 30 days of the ruling and to file proof of payment with the court within 60 days. The judge also sets a trial setting conference and an OSC regarding submission of proof of payment.

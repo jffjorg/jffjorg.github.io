@@ -1,0 +1,52 @@
+Here is the summary in YAML format:
+
+```
+case_number: "instant petition"
+plaintiff's_name: "Petitioners"
+defendant's_name: "Respondent"
+people_names:
+  - Ghanshyam
+companies_names: []
+places: []
+dates:
+  - December 4, 2023
+  - August 11, 2023
+  - May 23, 2023
+  - September 13, 2023
+events:
+  - Untimely filing of request for judicial notice
+  - Filing of opening brief
+  - Violation of court order
+  - Decline to consider late-filed opening brief
+money: []
+intentions:
+  - To exercise discretion and decline to consider late-filed opening brief
+facts:
+  - Petitioners did not attach exhibits to the request for judicial notice
+  - Petitioners filed the opening brief three court days before the hearing
+  - Petitioners' counsel prepared and ready to file the opening brief on August 11, 2023
+  - Respondent did not have a reasonable opportunity to oppose the late-filed opening brief
+disputes:
+  - Failure to comply with court order
+  - Late filing of opening brief
+acts:
+  - Refusal to consider late-filed opening brief
+  - Decline to consider request for judicial notice
+agreements: []
+laws:
+  - Rule 3.1300(d) of the Rules of Court
+  - CRC 3.1300(d)
+  - Bozzi v. Nordstrom, Inc. (2010) 186 Cal.App.4th 755, 765
+statutes: []
+roles:
+  - Judge
+  - Petitioners
+  - Respondent
+significant_statements:
+  - "A trial court has broad discretion under rule 3.1300(d) of the Rules of Court to refuse to consider papers served and filed beyond the deadline without a prior court order finding good cause for late submission."
+  - "If the court, in its discretion, refuses to consider a late filed paper, the minutes or order must so indicate"
+```
+
+And here is the English-text summary:
+
+This tentative ruling addresses the petitioners' untimely filing of a request for judicial notice and their late filing of an opening brief. Despite the petitioners' counsel stating that the opening brief was prepared and ready to be filed on August 11, 2023, it was not filed until December 4, 2023, three court days before the hearing. The court declines to consider the late-filed opening brief, citing the broad discretion under Rule 3.1300(d) of the Rules of Court to refuse to consider papers served and filed beyond the deadline without a prior court order finding good cause for late submission. Additionally, the court notes that the proof of service attached to the opening brief falsely states that the brief was served on the respondent on May 23, 2023.

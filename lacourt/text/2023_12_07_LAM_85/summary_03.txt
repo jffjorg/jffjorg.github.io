@@ -1,0 +1,74 @@
+Here is the summary of the judge's tentative ruling in YAML format:
+
+```
+case_number: 23STCP00104
+hearing_date: December 7, 2023
+dept: 85
+plaintiff: Ajah Alvarez
+defendant: Silverlake Auto Body and Paint
+people_names:
+  - Ajah Alvarez
+  - Silverlake Auto Body and Paint
+company_names:
+  - Silverlake Auto Body and Paint
+places:
+  - 2849 Rowena Avenue, Los Angeles, CA 90039
+dates:
+  - January 12, 2023
+  - December 28, 2022
+  - February 22, 2023
+  - March 21, 2023
+  - May 18, 2023
+  - May 12, 2023
+  - November 9, 2023
+events:
+  - Complaint filed
+  - Notice of application for writ of possession
+  - Service of complaint and moving papers
+  - Opposition to writ of possession
+  - Application for preliminary injunction
+  - Denial of ex parte applications for writ of possession
+  - Grant of temporary restraining order and order to show cause
+  - Application to dissolve preliminary injunction
+money:
+  - $3,251.03 (estimated repair cost)
+  - $1,239.21 (outstanding repair fees)
+  - $3,750 (outstanding storage fees)
+  - $1,750 (damages sought by Alvarez)
+intentions:
+  - Grant writ of possession and turnover order for Vehicle
+  - Compel Silverlake to transfer Vehicle
+  - Deny other requests for relief
+facts:
+  - Ajah Alvarez dropped off Vehicle for repair at Silverlake
+  - Silverlake assured Alvarez that she would owe nothing for repairs
+  - Silverlake added storage fees and lien fees
+  - Alvarez did not receive notice of outstanding balance
+  - Silverlake did not apply for lien sale until May 12, 2023
+  - Lien was extinguished
+laws:
+  - Civil Code section 3068(a)
+  - Civil Code section 3068(b)(1)(A)
+  - Civil Code section 3068(c)(1)
+  - CCP section 512.010(a)
+  - CCP section 512.010(b)
+  - CCP section 512.030(a)
+  - CCP section 512.050
+  - CCP section 512.060(a)
+  - CCP section 512.070
+  - CCP section 515.010(a)
+  - CCP section 515.010(b)
+citations:
+  - RCA Service Co. v. Superior Court, (1982) 137 Cal.App.3d 1
+  - Edwards v Superior Court, (1991) 230 Cal.App.3d 173
+roles:
+  - Judge
+  - Ajah Alvarez (plaintiff)
+  - Silverlake Auto Body and Paint (defendant)
+significant statements:
+  - Silverlake's lien has been extinguished
+  - Alvarez is entitled to $1,750 in damages under Civil Code section 3068(d)
+  - The court may issue a turnover order directing the defendant to transfer possession of the property to the plaintiff
+```
+
+Note that I did not include the entire text of the judge's tentative ruling, but rather extracted the relevant information and organized it in a YAML format.
