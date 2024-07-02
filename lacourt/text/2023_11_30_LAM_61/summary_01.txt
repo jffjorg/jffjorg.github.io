@@ -1,0 +1,56 @@
+Here is the summary in YAML format:
+
+```
+case_number: 19STCV43159
+hearing_date: November 30, 2023
+dept: 61
+plaintiff: Manuel Parravicini
+defendant: APAC Sale Group, Inc.
+people:
+  - Manuel Parravicini
+  - APAC Sale Group, Inc.
+companies:
+  - APAC Sale Group, Inc.
+places:
+  - None mentioned
+dates:
+  - August 4, 2023
+events:
+  - Filing of substitution of attorney form
+  - Failure to obtain counsel
+  - Motion to strike answer
+  - OSC re: striking answer and entering default
+money: None mentioned
+intentions:
+  - Plaintiff's intention to strike defendant's answer
+  - Defendant's intention to proceed in propria persona
+facts:
+  - APAC filed a substitution of attorney form on August 4, 2023
+  - APAC has not obtained counsel
+  - Plaintiff moves to strike defendant's answer
+disputes:
+  - Whether defendant's answer should be struck
+acts:
+  - APAC's failure to obtain counsel
+  - Plaintiff's motion to strike answer
+  - Court's decision to deny motion and set OSC
+agreements: None mentioned
+laws:
+  - Code Civ. Proc. § 128, subdivision (a)(3) and (4)
+  - Van Gundy v. Camelot Resorts, Inc. (1983)
+  - CLD Construction, Inc. v. City of San Ramon (2004)
+  - Gamet v. Blanchard (2001)
+statutes:
+  - Code of Civil Procedure
+roles:
+  - Judge
+  - Plaintiff (Manuel Parravicini)
+  - Defendant (APAC Sale Group, Inc.)
+significant_statements:
+  - "Every court shall have the power... To provide for the orderly conduct of proceedings before it, or its officers."
+  - "To compel obedience to its judgments, orders, and process, and to the orders of a judge out of court, in an action or proceeding pending therein."
+```
+
+And here is the English text to summarize the judge's tentative ruling:
+
+The judge has denied Plaintiff Manuel Parravicini's motion to strike Defendant APAC Sale Group, Inc.'s answer, with the intention of setting an Order to Show Cause (OSC) to strike the answer and enter default against the defendant. The defendant had filed a substitution of attorney form on August 4, 2023, indicating that it would proceed in propria persona, but has since failed to obtain counsel. The court acknowledges that corporations generally may not represent themselves in legal proceedings outside of small claims court, but believes that it is the duty of the trial judge to advise the representative of the corporation of the necessity to be represented by an attorney. Therefore, the court will grant the defendant the opportunity to retain counsel before striking the answer and entering default.

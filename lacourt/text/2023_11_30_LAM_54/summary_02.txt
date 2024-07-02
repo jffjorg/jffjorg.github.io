@@ -1,0 +1,58 @@
+Here is the summary in YAML format:
+
+```
+case_number: 23STCP03651
+plaintiff_name: Uber Technologies, Inc.
+defendant_name: Eric Ruiz, et al.
+people_names:
+  - Maurice A. Leiter (Judge)
+companies:
+  - Uber Technologies, Inc.
+places:
+  - Los Angeles
+  - California
+dates:
+  - November 30, 2023
+  - January 6, 2020
+events:
+  - Petition to Compel Arbitration
+  - Arbitration proceedings
+  - DLSE proceedings
+money: None
+intentions:
+  - To compel arbitration
+  - To stay DLSE proceedings pending arbitration
+facts:
+  - Existence of arbitration agreement
+  - Refusal to arbitrate by Respondent Ruiz
+  - Failure to oppose motion by Respondent Ruiz
+disputes:
+  - Arbitration agreement
+  - DLSE proceedings
+  - Conflict with pending court action
+acts:
+  - Execution of Platform Access Agreement
+  - Filing of petition to compel arbitration
+  - Failure to oppose motion
+agreements:
+  - Arbitration agreement in Platform Access Agreement
+laws:
+  - California Code of Civil Procedure (CCP) § 1281.2
+  - Federal Arbitration Act (FAA)
+case_citations:
+  - Pinnacle Museum Tower Assn. v. Pinnacle Market Development (US), LLC (2012) 55 Cal.4th 223, 236
+statutes:
+  - CCP § 1281.2(a)-(c)
+roles:
+  - Judge: Maurice A. Leiter
+  - Petitioner: Uber Technologies, Inc.
+  - Respondent: Eric Ruiz, et al.
+significant_statements:
+  - "The petition is granted."
+  - "The DLSE proceedings are stayed pending arbitration."
+  - "Petitioner has met its burden to establish an agreement to arbitrate."
+```
+
+And here is a summary of the judge's tentative ruling in English text:
+
+The judge grants the petition brought by Uber Technologies, Inc. (Petitioner) to compel arbitration of Eric Ruiz's (Respondent) wage and hour claims brought before the Division of Labor Standards Enforcement (DLSE). The Petitioner seeks to compel arbitration based on the arbitration provision in the Platform Access Agreement executed by Respondent Ruiz on January 6, 2020. The agreement requires arbitration of any legal dispute arising out of or related to the relationship between Uber and Respondent Ruiz or its affiliates. The judge finds that the Petitioner has met its burden to establish an agreement to arbitrate and that Respondent Ruiz has failed to oppose this motion to show any defenses to enforcement. As a result, the judge grants the petition and stays the DLSE proceedings pending arbitration.

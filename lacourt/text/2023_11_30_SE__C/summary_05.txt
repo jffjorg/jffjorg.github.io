@@ -1,0 +1,53 @@
+Here is a summary of the judge's tentative ruling in YAML format:
+
+```
+case_number: 23NWCV02106
+hearing_date: November 30, 2023
+dept: C
+parties:
+  - JAMES CISNEROS (Plaintiff)
+  - LONDON EXPRESS, LP
+  - JACQUES ASSAYAG (Defendants)
+
+facts:
+  - The plaintiff alleges wrongful eviction and seeks damages.
+  - The defendants are the owners of a trailer park where the plaintiff resides.
+  - The plaintiff alleges that the defendants failed to credit him for utility payments and illegally raised the rent.
+  - The defendants argue that the plaintiff's claims arise from protected activity, specifically the filing of an unlawful detainer action.
+
+disputes:
+  - The defendants moved to strike the plaintiff's complaint, arguing that it arises from protected activity.
+  - The plaintiff argues that the defendants' actions were illegal and not protected by the anti-SLAPP statute.
+
+acts:
+  - The filing of an unlawful detainer action by the defendants.
+  - The defendants' alleged failure to credit the plaintiff for utility payments.
+  - The plaintiff's alleged attempt to retaliate against the defendants.
+
+agreements:
+  - None mentioned in the document.
+
+laws:
+  - California Civil Code §§798.15, 798.16, 798.30, 798.41
+  - California Code of Civil Procedure §367
+  - California Code of Civil Procedure §425.16
+  - California Code of Civil Procedure §637
+
+citations:
+  - Equillion Enterprises v. Consumer Cause, Inc. (2002) 29 Cal.4th 53
+  - Flatley v. Mauro (2006) 39 Cal.4th 299
+  - Novartis Vaccines & Diagnostics, Inc. v. Stop Huntingdon Animal Cruelty USA, Inc. (2006) 143 Cal.App.4th 1284
+  - Zucchet v. Galardi (2014) 229 Cal.App.4th 1466
+
+intention:
+  - The judge's intention is to determine whether the plaintiff's claims arise from protected activity and whether the defendants' actions were illegal.
+
+significant statements:
+  - "The moving party's burden is to demonstrate that the act or acts of which plaintiff complains were taken "in furtherance of the defendant's right of petition or free speech under the United States or California Constitution in connection with a public issue.""
+  - "The litigation privilege is also relevant to the second step in the anti-SLAPP analysis in that it may present a substantive defense a plaintiff must overcome to demonstrate a probability of prevailing."
+  - "The Court does not find that the defendants' act of filing the unlawful detainer action equals "malice". The zealous representation of their client against the nonpayment of rent is not malicious."
+```
+
+English-text summary:
+
+The judge has ruled that the defendants' special motion to strike the plaintiff's complaint is granted in part and denied in part. The motion to strike the first, fourth, and fifth causes of action is granted, while the motion to strike the second and third causes of action is denied. The judge found that the plaintiff's claims arise from protected activity, specifically the filing of an unlawful detainer action, but that the defendants' actions were not illegal. The defendants are entitled to attorney's fees and costs, which will be determined in a separately noticed motion.

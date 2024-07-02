@@ -1,0 +1,58 @@
+Here is the summary in YAML format:
+
+```
+Case Number: 20SMCV00786
+Plaintiff's Name: Pacific Horizon Holdings, LLC
+Defendant's Name: Meehan et al.
+People-Names:
+  - Meehan
+Company-Names:
+  - Pacific Horizon Holdings, LLC
+Places:
+  - Horizon Way
+  - The project
+Dates:
+  - January 5, 2023
+  - September 20, 2023
+  - October 4, 2023
+  - November 16, 2023
+Events:
+  - Motion for summary judgment
+  - Court trial
+  - Final judgment
+  - Memorandum of Costs
+  - Motion to strike
+Money:
+  - Costs
+Intentions:
+  - Plaintiff seeks declaratory relief
+  - Defendant seeks to strike cost bill
+Facts:
+  - Court granted summary judgment in favor of Meehan defendants on breach of CC&Rs and nuisance claims
+  - Court denied summary judgment on declaratory relief claim
+  - Court ruled in favor of Pacific Horizon on declaratory relief claim
+  - Pacific Horizon filed memorandum of Costs
+Disputes:
+  - Who is the prevailing party
+Acts:
+  - Court trial
+  - Motion for summary judgment
+  - Motion to strike
+Agreements:
+  - Cal. Code of Civ. Proc. §1032
+Laws:
+  - Cal. Code of Civ. Proc. §1032
+Case Citations: None
+Statutes:
+  - Cal. Code of Civ. Proc. §1032
+Roles:
+  - Plaintiff: Pacific Horizon Holdings, LLC
+  - Defendant: Meehan et al.
+Significant Statements:
+  - "The court has discretion under §1032 regarding costs."
+  - "It seems inequitable to award costs to Pacific Horizon, which prevailed on one cause of action, and against the Meehans, who prevailed on two causes of action."
+```
+
+And here is the English-text summary:
+
+The court has issued a tentative ruling on the Meehan defendants' motion to strike the memorandum of costs filed by Pacific Horizon Holdings, LLC. The Meehans argue that Pacific Horizon is not the prevailing party, as they prevailed on two causes of action (breach of CC&Rs and nuisance) and Pacific Horizon prevailed on only one cause of action (declaratory relief). The court notes that under Cal. Code of Civ. Proc. §1032, the court has discretion to determine who is the prevailing party when a party recovers non-monetary relief. The court finds that it is difficult to separate the costs incurred in connection with the three claims, and it would be inequitable to award costs to Pacific Horizon and against the Meehans. Therefore, the court grants the Meehans' motion to strike the cost bill.

@@ -1,0 +1,67 @@
+Here is the summary in YAML format:
+
+```
+case_number: 22STCV26035
+plaintiff_name: N.D.
+defendant_name: Pasadena Unified School District, Alejandro Botero
+people_names:
+  - N.D.
+  - Angela Divish
+  - Alejandro Botero
+company_names:
+  - Pasadena Unified School District
+places:
+  - Pasadena
+  - Pasadena High School
+dates:
+  - August 11, 2022
+  - August 27, 2021
+  - February 9, 2023
+  - July 19, 2023
+  - August 8, 2023
+  - November 21, 2023
+  - November 1, 2023
+events:
+  - Sexual assault
+  - Discovery requests
+  - Motion to compel further responses
+  - Supplemental responses
+money:
+  - $1060 (sanctions)
+intentions:
+  - Plaintiff seeks to compel further responses to discovery requests
+  - Defendant opposes the motion, arguing that some requests are mooted by supplemental responses
+facts:
+  - Plaintiff was sexually assaulted at Pasadena High School on August 27, 2021
+  - Plaintiff filed a complaint on August 11, 2022
+  - Defendant served initial responses to discovery requests
+  - Defendant served supplemental responses to discovery requests
+disputes:
+  - Whether certain discovery requests seek records protected by Education Code section 49076
+  - Whether defendant's supplemental responses are sufficient
+acts:
+  - Defendant failed to serve timely responses to discovery requests
+  - Defendant served supplemental responses months after initial responses
+agreements:
+  - Education Code section 49076
+  - Code of Civil Procedure section 2033.280
+laws:
+  - California Civil Code
+  - California Rules of Court
+  - Education Code
+case_citations:
+  - BRV, Inc. v. Superior Court (2006) 143 Cal.App.4th 742
+  - Sinaiko Healthcare Consulting, Inc. v. Pacific Healthcare Consultants (2007) 148 Cal.App.4th 390
+  - Code Civ. Proc. section 2030.300
+  - Code Civ. Proc. section 2031.310
+  - Code Civ. Proc. section 2033.290
+  - Code Civ. Proc. section 2033.280
+statutes:
+  - Education Code section 49076
+  - Education Code section 49076, subdivision (a)
+roles:
+  - Judge: Joel L. Lofton
+  - Parties: Plaintiff (N.D.), Defendant (Pasadena Unified School District, Alejandro Botero)
+significant_statements:
+  - The court declines to grant a sweeping discovery order due to lack of developed argument on Education Code section 49076
+  - Any future motion to compel must include a proper separate statement addressing why the court should order further responses as to each matter in dispute.

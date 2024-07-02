@@ -1,0 +1,68 @@
+Here is the summary in YAML format:
+
+```
+case_number: 22STCV09767
+plaintiff_name: JENNIFER LINARES
+defendant_name: TOLUCA LAKE COLLECTIVE, INC.
+people_names:
+  - JENNIFER LINARES
+  - HODGE
+  - GUTIERREZ
+company_names:
+  - TOLUCA LAKE COLLECTIVE, INC.
+places:
+  - California
+dates:
+  - March 21, 2022
+  - November 3, 2022
+  - September 25, 2023
+  - November 17, 2023
+events:
+  - Plaintiff filing suit
+  - Defendant responding to requests for production
+  - Plaintiff sending meet and confer correspondence
+  - Defendant providing supplemental responses
+  - Plaintiff filing motion to compel further responses
+money:
+  - $900 (sanctions)
+intentions:
+  - Plaintiff seeking further responses to requests for production
+  - Defendant objecting to responses and failing to provide adequate information
+facts:
+  - Defendant initially responded to requests for production in September 2022
+  - Defendant promised to provide supplemental responses with sufficient information
+  - Defendant's supplemental responses were incomplete and failed to address privilege objections
+disputes:
+  - Plaintiff's motion to compel further responses
+  - Defendant's objections to responses and failure to provide adequate information
+acts:
+  - Plaintiff filing suit
+  - Defendant responding to requests for production
+  - Plaintiff sending meet and confer correspondence
+  - Defendant providing supplemental responses
+agreements:
+  - Defendant's promise to provide supplemental responses with sufficient information
+  - Plaintiff's agreement to wait one day for further responses before filing motion
+laws:
+  - California Code of Civil Procedure
+  - Labor Code
+case_citations:
+  - Code Civ. Proc., § 2030.300(b)(1)
+  - Code Civ. Proc., § 2031.310(a)
+  - Code Civ. Proc., § 2031.240(c)(1)
+  - Code Civ. Proc., § 2033.290(b)(1)
+statutes:
+  - Labor Code
+roles:
+  - Plaintiff
+  - Defendant
+  - Judge
+significant_statements:
+  - Defendant failed to provide adequate responses to requests for production
+  - Plaintiff's motion to compel further responses is GRANTED
+  - Defendant is sanctioned in the amount of $900
+```
+
+And here is the English-text summary:
+
+This tentative ruling addresses a motion to compel further responses to requests for production filed by Plaintiff Jennifer Linares against Defendant Toluca Lake Collective, Inc. The Plaintiff sought further responses to requests for production, while the Defendant objected, claiming attorney-client privilege and failing to provide sufficient information. The Court found that the Defendant failed to provide adequate responses, despite promising to do so, and therefore granted the Plaintiff's motion to compel further responses. The Defendant is also sanctioned in the amount of $900 for its failure to comply with discovery requests.

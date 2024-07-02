@@ -1,0 +1,79 @@
+Here is the summary of the judge's tentative ruling in YAML format:
+
+```
+case_number: 21BBCV00565
+hearing_date: 2023-12-01
+dept: NCB
+superior_court: California
+county: Los Angeles
+north_central_district: Department B
+judge: christo halekakis
+plaintiff: christo j. halekakis
+defendants: nico halekakis, aka nick j. halekakis, et al
+companies:
+  - none
+people:
+  - christo j. halekakis
+  - nico halekakis
+  - megan t. lorick halekakis
+places:
+  - 10926 hartsook street, north hollywood, ca 91601
+dates:
+  - 2011-03-14
+  - 2019-10-11
+  - 2021-05
+  - 2021-06-18
+  - 2023-10-31
+  - 2023-11-14
+  - 2023-11-16
+  - 2023-11-21
+events:
+  - auction sale
+  - escrow
+  - deed transfer
+  - breach of contract
+  - forgery
+money:
+  - $36,000
+  - $17,000
+  - $35,300
+  - $500,000
+intentions:
+  - to file a cross-complaint
+  - to delay the trial
+facts:
+  - plaintiff purchased a property at an auction sale
+  - plaintiff and defendants allegedly reached an oral agreement to rent the property
+  - defendants allegedly forged a deed to transfer plaintiff's interest in the property
+  - defendants are seeking over $500,000 in damages for breach of contract
+disputes:
+  - whether defendants acted in good faith in filing the cross-complaint
+  - whether plaintiff will be prejudiced by the filing of the cross-complaint
+acts:
+  - plaintiff filed a complaint alleging causes of action for cancellation of instrument and damages, accounting, money had and received, and partition of real property
+  - defendants filed a motion for leave to file a cross-complaint
+  - plaintiff filed an opposition brief
+  - defendants filed a reply brief
+agreements:
+  - oral agreement between plaintiff and defendants to rent the property
+  - written agreement dated March 8, 2011
+laws:
+  - CCP § 426.50
+  - California Civil Code
+case_citations:
+  - none
+statutes:
+  - CCP § 426.50
+roles:
+  - judge: christo halekakis
+  - plaintiff: christo j. halekakis
+  - defendants: nico halekakis, aka nick j. halekakis, et al
+significant_statements:
+  - defendants have been aware of their claim that plaintiff breached an investment contract since the time they filed their answer
+  - defendants have failed to show that they acted in good faith in filing the cross-complaint
+  - the cross-complaint is without merit and seems calculated to cause delay
+```
+
+And here is a summary of the judge's tentative ruling in English text:
+
+The court has denied the defendants' motion for leave to file a cross-complaint against the plaintiff. The defendants claim that they were aware of their breach of contract claim since the time they filed their answer, but the court finds that they have not acted in good faith in filing the cross-complaint. The court also finds that the cross-complaint is without merit and seems calculated to cause delay. The court orders that the defendants provide notice of this order.

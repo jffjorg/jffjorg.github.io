@@ -1,0 +1,65 @@
+Here is the summary in YAML format:
+
+```
+Case Number: 22SMCV00791
+Plaintiff's Name: Jane Doe
+Defendant's Name: Justin Raanan, D.D.S., MMSC, et al.
+People-Names:
+  - Jane Doe
+  - Justin Raanan
+Company-Names:
+  - MMSC
+Places:
+  - California
+Dates:
+  - 5-31-22
+  - 7-25-23
+  - 8-31-23
+  - 10-31-23
+  - 11-30-23
+  - 4-22-24
+Events:
+  - Complaint filed
+  - Hearing on motion for order directing plaintiff to file amended complaint
+  - Plaintiff's counsel's failure to review minute order
+  - Plaintiff's motion for reconsideration and discretionary relief
+Money: None
+Intentions:
+  - Plaintiff seeks to proceed anonymously
+  - Defendants seek to have plaintiff file amended complaint with true name
+Facts:
+  - Plaintiff filed complaint under pseudonym
+  - Defendant's motion for order directing plaintiff to file amended complaint was granted
+  - Plaintiff's counsel failed to review minute order
+  - Plaintiff's motion for reconsideration and discretionary relief was filed
+Disputes:
+  - Plaintiff v. Defendant on issue of anonymity
+  - Plaintiff v. Defendant on issue of amended complaint
+Acts:
+  - Plaintiff filed complaint
+  - Defendant filed motion for order directing plaintiff to file amended complaint
+  - Plaintiff's counsel failed to review minute order
+  - Plaintiff filed motion for reconsideration and discretionary relief
+Agreements:
+  - None
+Laws:
+  - CCP § 437(b)
+  - CCP § 437c, subdivision (f)(2)
+  - CCP § 1008
+  - Le Francois v. Goel (2005)
+Statutes:
+  - California Code of Civil Procedure (CCP)
+Case Citations:
+  - Le Francois v. Goel (2005)
+Roles:
+  - Judge: ruling on motions
+  - Plaintiff: Jane Doe
+  - Defendant: Justin Raanan, et al.
+Significant Statements:
+  - "Plaintiff's counsel acted with diligence in filing this motion, and granting the motion will not prejudice the Defendants."
+  - "Under the circumstances of this case the Court finds Mr. Goldberg's failure to appear at the hearing on August 31 to be excusable neglect."
+```
+
+And here is a summary of the judge's tentative ruling in English text:
+
+The judge is denying the plaintiff's motion for reconsideration and granting the motion for discretionary relief under CCP § 437(b). The plaintiff's counsel failed to review the July 25, 2023 minute order, which led to the counsel's failure to appear at the August 31, 2023 hearing. However, the judge finds this failure to be excusable neglect due to the counsel's reasonable belief that the hearing would occur on October 31, 2023, as previously stated by the court. As a result, the court is vacating its August 31, 2023 order granting the defendant's motion and will hear argument on both motions on November 30, 2023.

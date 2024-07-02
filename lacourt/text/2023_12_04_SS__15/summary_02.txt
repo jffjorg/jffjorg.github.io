@@ -1,0 +1,53 @@
+Here is the summary in YAML format:
+
+```
+case_number: 23STCV11756
+hearing_date: December 4, 2023
+dept: 15
+people:
+  - Union Carbide
+  - Dow Chemical
+companies:
+  - Union Carbide
+  - Dow Chemical
+places: null
+dates:
+  - December 4, 2023
+events:
+  - Motions in Limine
+  - Court Hearing
+money: null
+intentions:
+  - Exclude evidence
+facts:
+  - Relationship between Union Carbide and Dow Chemical
+  - Working conditions at Union Carbide facilities
+  - Incidents involving Union Carbide's chemicals and asbestos
+disputes:
+  - Relevance of evidence
+  - Prejudice of evidence
+acts:
+  - Union Carbide moves to exclude evidence
+  - Plaintiff asks questions about Dow Chemical
+  - Evidence of working conditions presented
+  - Incidents involving Union Carbide's chemicals presented
+agreements: null
+laws:
+  - Rules of Evidence
+  - Court procedures
+case_citations: null
+statutes: null
+roles:
+  - Plaintiff
+  - Defendant
+  - Judge
+significant_statements:
+  - "This motion is too vague."
+  - "If at trial Plaintiff asks questions about Dow Chemical that are irrelevant, Defendant can object at that time."
+  - "The motion is denied without prejudice to objections at trial."
+  - "Incidents not involving asbestos are irrelevant, more prejudicial than probative, and would be unduly time consuming."
+```
+
+And here is a summary of the judge's tentative ruling in English text:
+
+The judge has issued a tentative ruling on three motions in limine filed by Union Carbide. The first motion seeks to exclude evidence of Union Carbide's relationship with Dow Chemical, which the judge finds too vague and denies without prejudice to objections at trial. The second motion seeks to exclude evidence of working conditions at Union Carbide's facilities, which the judge also finds too vague and denies without prejudice to objections at trial. The third motion seeks to exclude any reference to incidents where people died or were injured as a result of Union Carbide's chemicals other than asbestos, which the judge grants because the judge believes the incidents are irrelevant, more prejudicial than probative, and would be unduly time consuming. The judge orders the moving party to give notice of the ruling.

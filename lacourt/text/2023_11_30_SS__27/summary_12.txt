@@ -1,0 +1,91 @@
+Here is the summary in YAML format:
+
+```
+case_number: 22STCV27077
+plaintiffs:
+  - name: Jordan Saunders
+  - name: George Heinen
+  - name: Damon Jackson
+defendants:
+  - name: Seth Meyers
+people:
+  - name: Robert B. Gibson
+  - name: Brian Leach
+  - name: Brent D. Rawlings
+companies:
+  - name: Gibson & Hughes
+  - name: The Ledger Law Firm
+places:
+  - Los Angeles, CA
+  - Woodrow Wilson Dr.
+  - Cahuenga Blvd.
+  - Mulholland Drive
+dates:
+  - August 19, 2022
+  - September 13, 2020
+  - March 22, 2023
+  - November 13, 2023
+  - November 28, 2023
+  - November 30, 2023
+  - December 13, 2023
+events:
+  - Motor vehicle injury
+  - General negligence
+  - Hit-and-run
+  - Request for Production of Documents (RPDs)
+  - Motion to compel response
+  - Motion for monetary sanctions
+money:
+  - $960 per motion
+  - $2,880 (total sanctions)
+  - $735 per motion (reduced sanctions)
+  - $225 (deducted from requested sanctions)
+  - $450 per hour (counsel's billing rate)
+  - $60 filing fee
+intention:
+  - To compel Plaintiffs' responses to RPDs
+  - To impose monetary sanctions on Plaintiffs
+facts:
+  - Plaintiffs were passengers in Saunders's vehicle
+  - Meyers rear-ended their vehicle
+  - Meyers fled the scene
+  - Plaintiffs sustained significant injuries
+  - No opposition was filed to the motions
+disputes:
+  - Failure to serve timely responses to RPDs
+  - Failure to cooperate with discovery requests
+acts:
+  - Serving RPDs on Plaintiffs
+  - Filing motions to compel response
+  - Filing motions for monetary sanctions
+agreements:
+  - Code of Civil Procedure, Section 2031.260
+  - Code of Civil Procedure, Section 2031.300
+  - California Rules of Court, Rule 3.1348
+laws:
+  - California Rules of Court
+  - Code of Civil Procedure
+case_citations:
+  - Code Civ. Proc., § 2031.260
+  - Code Civ. Proc., § 2031.300
+  - Code Civ. Proc., § 2030.290
+statutes:
+  - Code of Civil Procedure
+roles:
+  - Plaintiff
+  - Defendant
+  - Counsel
+  - Judge
+significant_statements:
+  - The Court finds it proper to grant the request to compel Plaintiffs' responses to RPDs.
+  - The Court finds the requested sanctions excessive.
+  - The Court will impose sanctions on Plaintiffs only based on counsel's statement.
+```
+
+And here is the English-text summary:
+
+This is a tentative ruling by Judge Lee S. Arian in the case of Jordan Saunders, George Heinen, and Damon Jackson (Plaintiffs) vs. Seth Meyers (Defendant). The case involves a motor vehicle accident on September 13, 2020, in which Meyers rear-ended the Plaintiffs' vehicle, causing significant injuries. The Plaintiffs have failed to serve timely responses to Defendant's Requests for Production of Documents (RPDs), and Defendant has filed motions to compel response and for monetary sanctions.
+
+The Court finds that the Plaintiffs have waived any objections to the discovery requests and that sanctions are mandatory in connection with motions to compel requests for production of documents. The Court grants the Defendant's motions to compel response and imposes sanctions of $735 per motion, totaling $2,205.
+
+The Court also finds that the requested sanctions of $960 are excessive and deducts $225 from the total sanctions. The Court orders the Plaintiffs to serve code-compliant responses to the RPDs within 30 days and to pay the reduced sanctions of $735 per motion.

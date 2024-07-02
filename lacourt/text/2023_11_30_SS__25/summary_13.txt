@@ -1,0 +1,66 @@
+Here is the summary in YAML format:
+
+```
+case_number: ???
+plaintiff_names:
+  - Judith Guerra
+  - Gloria Guerra
+defendant_names:
+  - United Financial Casualty Company
+  - AFNI
+  - AAA Insurance
+people_names:
+  - Judith Guerra
+  - Gloria Guerra
+company_names:
+  - United Financial Casualty Company
+  - AFNI
+  - AAA Insurance
+places: ???
+dates:
+  - August 10, 2023
+  - November 28, 2023
+events:
+  - Filing of complaint
+  - Demurrer filed
+  - Demurrer sustained
+money: ???
+intentions:
+  - To determine whether Plaintiff's complaint states a cause of action
+facts:
+  - Plaintiffs filed a complaint against Defendants
+  - Complaint alleges "Motor Vehicle" as a cause of action
+  - Complaint fails to allege specific facts regarding the accident
+  - Defendant argues complaint is uncertain and fails to state a cause of action
+disputes:
+  - Uncertainty of complaint
+acts:
+  - Filing of complaint
+  - Demurrer filed
+agreements: ???
+laws:
+  - CCP s. 92(c)
+  - Khoury v. O'Maly (1993) 14 Cal.App.4th 612, 616
+  - ???
+case_citations:
+  - Khoury v. O'Maly (1993) 14 Cal.App.4th 612, 616
+  - CCP s. 92(c)
+  - ???
+statutes:
+  - CCP s. 92(c)
+roles:
+  - Judge
+  - Plaintiff
+  - Defendant
+  - Attorneys
+significant_statements:
+  - "A demurrer for uncertainty is strictly construed, even where a complaint is in some respects uncertain, because ambiguities can be clarified under modern discovery procedures." - Khoury v. O'Maly
+  - "Plaintiffs' complaint is so poorly drafted that Defendant United Financial cannot reasonably respond, nor do Plaintiffs' vague allegations state any cause of action against United."
+  - "Plaintiff Judith Guerra denies 'all guilt' in Item 15 and states that 'my mother's car was insured during the time of the accident' and 'United Financial decided to declare me at fault and now sent AFNI to charge me.'"
+```
+
+And here is the English-text summary:
+
+**Tentative Ruling**
+
+The court has reviewed the complaint filed by Plaintiffs Judith Guerra and Gloria Guerra against United Financial Casualty Company, AFNI, and AAA Insurance, alleging a motor vehicle accident. The defendants demurred to the complaint, arguing that it is uncertain and fails to state a cause of action. The court agrees with the defendants that the complaint is poorly drafted and fails to allege specific facts regarding the accident. The court sustains the demurrer and orders the plaintiffs to amend their complaint within 20 days.

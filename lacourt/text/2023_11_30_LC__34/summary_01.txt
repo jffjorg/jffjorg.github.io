@@ -1,0 +1,70 @@
+Here is the summary in YAML format:
+
+```
+case_number: 23STCV18169
+plaintiff_name: Lisa McDonald
+defendant_name: Paradigm Treatment Center, LLC
+people_names:
+  - Lisa McDonald
+  - Elie Ghodsizadeh
+  - Jonathan J. Delshad
+  - Brian De Neve
+company_names:
+  - Paradigm Treatment Center, LLC
+places:
+  - California
+  - Los Angeles
+dates:
+  - August 1, 2023
+  - August 23, 2023
+  - September 25, 2023
+  - October 23, 2023
+  - October 26, 2023
+  - November 30, 2023
+events:
+  - Arbitration agreement
+  - Arbitration initiation
+  - Motion to vacate arbitration
+  - Request for sanctions
+  - Arbitration fees and costs
+money:
+  - $3,315.65
+  - $435.00
+  - $195.00
+  - $61.65
+intentions:
+  - Vacate arbitration
+  - Seek sanctions
+  - Compel arbitration
+facts:
+  - Arbitration agreement signed
+  - Defendant failed to pay arbitration fees and costs
+  - Plaintiff initiated arbitration
+  - Defendant waived right to jointly select arbitrator
+  - Plaintiff selected JAMS as arbitral forum
+disputes:
+  - Arbitration agreement
+  - Arbitration fees and costs
+  - Waiver of right to jointly select arbitrator
+acts:
+  - Signed arbitration agreement
+  - Failed to pay arbitration fees and costs
+  - Initiated arbitration
+  - Waived right to jointly select arbitrator
+agreements:
+  - Arbitration agreement
+laws:
+  - Code of Civil Procedure, sections 1281.97, 1281.99
+statutes:
+  - Code of Civil Procedure, sections 1281.97, 1281.99
+roles:
+  - Judge
+  - Plaintiff
+  - Defendant
+significant_statements:
+  - "A written agreement to submit to arbitration an existing controversy or a controversy thereafter arising is valid, enforceable and irrevocable..."
+  - "A petition to compel arbitration will be denied when the right has been waived by the proponent's failure to properly and timely assert it."
+  - "The Court shall impose sanctions on the drafting party that materially breaches an arbitration agreement..."
+```
+
+Let me know if you'd like me to clarify anything!

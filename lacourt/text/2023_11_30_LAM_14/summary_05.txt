@@ -1,0 +1,81 @@
+Here is the summary in YAML format:
+
+```
+case_number: 23STCV10822
+plaintiff: 
+  - name: (not specified)
+    role: Plaintiff
+defendant: 
+  - name: Warren
+    role: Defendant
+
+people_names: 
+  - Warren
+  - (not specified)
+
+company_names: 
+  - (none)
+
+places: 
+  - (none)
+
+dates: 
+  - November 30, 2023
+  - October 16, 2023
+  - November 15, 2023
+
+events: 
+  - Motion for preliminary injunction
+  - Demurrer to the operative complaint
+  - Motion for reconsideration
+
+money: 
+  - (none)
+
+intentions: 
+  - Plaintiff seeks a preliminary injunction to allow access to a storage unit and prevent destruction of its contents
+
+facts: 
+  - The court sustained a demurrer to the operative complaint on October 16, 2023
+  - No amended complaint has been filed
+  - The motion for reconsideration is pending
+
+disputes: 
+  - Access to a storage unit
+  - Destruction of its contents
+
+acts: 
+  - Plaintiff's motion for preliminary injunction
+  - Defendant's alleged destruction or disposal of the storage unit's contents
+
+agreements: 
+  - (none)
+
+laws: 
+  - Code of Civil Procedure § 526
+  - Code of Civil Procedure § 527
+  - California Rules of Court Rule 3.1320(h)
+
+case_citations: 
+  - Law School Admission Council, Inc. v. State of California (2014)
+  - Common Cause v. Board of Supervisors (1989)
+  - Saltonstall v. City of Sacramento (2014)
+
+statutes: 
+  - Code of Civil Procedure § 581(f)(2)
+
+roles: 
+  - Judge
+  - Plaintiff
+  - Defendant
+  - Parties
+
+significant_statements: 
+  - The motion is DENIED due to the lack of an operative complaint and admissible evidence.
+  - The court cannot rule in favor of the Plaintiff until an amended complaint is filed and supported by admissible evidence.
+  - The Defendant is entitled to a dismissal of the action if they choose to make a motion for dismissal.
+```
+
+English-text summary:
+
+The Judge has issued a tentative ruling denying the Plaintiff's motion for a preliminary injunction. The Plaintiff sought to access a storage unit and prevent the Defendant, Warren, from destroying or disposing of its contents. However, the Judge ruled that the motion is denied due to the lack of an operative complaint and admissible evidence. The Plaintiff was given 30 days to amend its complaint, but no amended complaint has been filed. The Judge also noted that the Plaintiff has not provided any admissible evidence to support its motion. The Defendant is entitled to a dismissal of the action if they choose to make a motion for dismissal. The Judge will consider the Plaintiff's motion again after an amended complaint is filed and supported by admissible evidence.

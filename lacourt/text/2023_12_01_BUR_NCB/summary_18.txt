@@ -1,0 +1,87 @@
+Here is a summary of the judge's tentative ruling in YAML format:
+
+```
+case_number: 23BBCV01862
+plaintiff: Qin Zhou
+defendant: Diana Gomez, William Antonio Barrera, Jr.
+people:
+  - Qin Zhou
+  - Diana Gomez
+  - William Antonio Barrera, Jr.
+  - Sadia Gomez-Rosas
+  - Esperanza Barrera
+company:
+  - none
+places:
+  - Burbank
+  - Los Angeles
+dates:
+  - May 2, 2022
+  - May 11, 2022
+  - October 29, 2022
+  - February 17, 2023
+  - June 16, 2023
+  - August 7, 2023
+  - August 11, 2023
+events:
+  - filing of First Action
+  - recording of lis pendens
+  - filing of Probate Action
+  - recording of second lis pendens
+money:
+  - damages
+  - attorney's fees
+  - costs
+intentions:
+  - to strike plaintiff's complaint
+  - to prevent sale of property
+facts:
+  - Plaintiff alleges that Defendants recorded a lis pendens against the property
+  - Plaintiff alleges that Defendants filed a Notice of Pendency of Action
+  - Plaintiff alleges that Defendants sought to stop the sale of the property
+  - Plaintiff alleges that Defendants filed a Probate Action
+  - Plaintiff alleges that Defendants recorded a second lis pendens
+disputes:
+  - dispute over ownership of property
+  - dispute over sale of property
+  - dispute over lis pendens
+acts:
+  - recording of lis pendens
+  - filing of First Action
+  - filing of Probate Action
+  - recording of second lis pendens
+agreements:
+  - none
+laws:
+  - CCP § 425.16
+  - CCP § 405.36
+  - CCP § 405.4
+  - Civ. Code, § 47
+  - CCP § 4
+statutes:
+  - CCP § 425.16
+  - CCP § 405.36
+  - CCP § 405.4
+roles:
+  - Judge
+  - Plaintiff
+  - Defendant
+  - Successor Trustee
+  - Trustee
+  - Beneficiaries
+significant statements:
+  - The Court finds that Defendants have not met their initial burden on the first prong.
+  - The burden does not shift to Plaintiff to demonstrate the probability of prevailing on the merits of her claims against Defendants.
+  - The special motion to strike Plaintiff's complaint is denied.
+  - The request for monetary sanctions and attorney's fees is denied.
+```
+
+Here is a summary of the judge's tentative ruling in English text:
+
+The judge has denied the special motion to strike the plaintiff's complaint, filed by Defendants Diana Gomez and William Antonio Barrera, Jr. The motion was filed under California Code of Civil Procedure § 425.16, which permits the court to strike causes of action arising from an act in furtherance of the defendant's right of free speech or petition.
+
+The court found that the defendants have not met their initial burden on the first prong of the anti-SLAPP statute, which requires that the defendants show that their conduct was protected activity. The defendants argued that their filing of the First Action, filing and recording a lis pendens in May 2022, filing the Probate Action, and filing the second lis pendens in August 2023 were protected activities. However, the court found that the recording of the lis pendens was not privileged because the underlying action did not properly allege a real property claim.
+
+The court also found that the second lis pendens, filed in the Probate Action, has not been recorded and no determination has been made regarding whether the lis pendens is proper or will be expunged. Therefore, the burden does not shift to the plaintiff to demonstrate the probability of prevailing on the merits of her claims against the defendants.
+
+The court denied the request for monetary sanctions and attorney's fees and ordered the defendants to file a responsive pleading to the plaintiff's complaint.

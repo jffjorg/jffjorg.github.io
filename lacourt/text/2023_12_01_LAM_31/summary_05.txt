@@ -1,0 +1,55 @@
+Here is the summary in YAML format:
+
+```
+case_number: Not specified
+plaintiff: Judgment Creditor
+defendant: Mr. Kaho
+people_names:
+  - Mr. Kaho
+  - Judgment Creditor
+company_names:
+  - Ajinomoto
+  - Ajinomoto Foods
+places:
+  - None
+dates:
+  - Not specified
+events:
+  - Court hearing
+  - Examination of Mr. Kaho
+money:
+  - Judgment debt
+  - Section 708.120, subdivision (f)
+intentions:
+  - To confirm whether Mr. Kaho will appear for examination
+facts:
+  - Mr. Kaho has been served with a civil subpoena
+  - Judgment Creditor seeks to examine Mr. Kaho
+disputes:
+  - Whether Mr. Kaho has an obligation to appear for examination
+  - Whether Judgment Creditor has satisfied section 708.120, subdivision (f)
+acts:
+  - Mr. Kaho has advanced arguments in response to the Motion
+  - Judgment Creditor has sought to examine Mr. Kaho
+agreements:
+  - None
+laws:
+  - California Civil Code section 708.120, subdivision (f)
+  - California Civil Code section 708.300
+case_citations:
+  - None
+statutes:
+  - California Civil Code
+roles:
+  - Judge
+  - Plaintiff (Judgment Creditor)
+  - Defendant (Mr. Kaho)
+  - Representative of Ajinomoto Foods (unclear)
+significant_statements:
+  - Mr. Kaho's arguments are not addressed as there is no money judgment at issue
+  - The Court is unclear about Judgment Creditor's intentions
+```
+
+And here is a summary of the judge's tentative ruling in English text:
+
+The judge has issued a tentative ruling on the Motion for Examination of Mr. Kaho. The judge has determined that there is no money judgment at issue, and therefore, does not need to address Mr. Kaho's remaining arguments. The judge also notes that it is unclear whether Judgment Creditor seeks to examine Mr. Kaho in his individual or representative capacity, and that the civil subpoena and Application for Order are unclear in this regard. The judge will likely revisit these issues at the upcoming court hearing.

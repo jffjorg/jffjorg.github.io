@@ -1,0 +1,51 @@
+Here is the summary in YAML format:
+
+```
+case_number: 22STCV00738
+plaintiff: Stephanie Marie Wickstrom, et al.
+defendant: Southern California Edison Company, et al.
+people_names:
+  - Stephanie Marie Wickstrom
+  - Maurice A. Leiter
+company_names:
+  - Southern California Edison Company
+  - Diversified Utility Services, Inc.
+places:
+  - Los Angeles
+dates:
+  - December 4, 2023
+events:
+  - Motion for Leave to Amend Cross-Complaint
+money:
+  - indemnity agreement
+intentions:
+  - Cross-Complainant seeks to enforce contractual indemnity agreement
+facts:
+  - DUSI was decedent's direct employer and Cross-Complainant's subcontractor
+  - Decedent died while performing electrical work
+disputes:
+  - Cross-Complainant's claim for indemnity against DUSI
+acts:
+  - Cross-Complainant's motion to add DUSI as a cross-defendant
+agreements:
+  - Contractual indemnity agreement
+laws:
+  - CCP § 473(a)(1)
+  - CRC Rule 3.1324(b)
+  - Posz v. Burchell (1962)
+  - Higgins v. Del Faro (1981)
+statutes:
+  - CCP § 473(a)(1)
+  - CRC Rule 3.1324(b)
+roles:
+  - Judge: Maurice A. Leiter
+  - Moving Party: Southern California Edison Company
+  - Responding Party: Stephanie Marie Wickstrom, et al.
+significant_statements:
+  - "Counsel on the firing line in an actual trial must be prepared for surprises, including requests for amendments of pleading."
+  - "Absent a showing of prejudice, delay alone is insufficient grounds for denial."
+```
+
+And here is a summary of the judge's tentative ruling in English text:
+
+The judge has denied the motion for leave to amend the cross-complaint to add Diversified Utility Services, Inc. (DUSI) as a cross-defendant. The motion was brought by the defendant, Southern California Edison Company, seeking to enforce a contractual indemnity agreement against DUSI. The court found that the claims against DUSI are based on the contractual relationship between the two companies and do not involve the same legal and factual issues as the claims against the original defendants. The court also noted that trial is approaching and any claims against DUSI for indemnity will not become ripe unless it is determined that the defendant is liable to the plaintiffs for damages. The court concluded that the potential for another trial continuance and the complexity of adding another party to the action at this late stage outweighed the benefits of allowing the amendment.

@@ -1,0 +1,52 @@
+Here is the summary in YAML format:
+
+```
+case_number: 23NWCV00507
+plaintiff_name: JOHN DOE J.M.
+defendant_name: EAST WHITTIER CITY SCHOOL DISTRICT
+people_names:
+  - James W. Lewis
+  - [last name unknown] (client of Slater Slater Schulman, LLP)
+company_names:
+  - Slater Slater Schulman, LLP
+places:
+  - Whittier
+dates:
+  - November 13, 2023
+  - November 16, 2023
+events:
+  - Motion to withdraw as counsel of record
+  - Case Management Conference
+money: none
+intentions:
+  - To withdraw as counsel of record for plaintiff
+  - To continue representation would not serve the interests of justice
+facts:
+  - Breakdown of attorney-client relationship
+  - Undisputed breakdown in attorney-client communications
+disputes:
+  - None
+acts:
+  - Motion to withdraw as counsel of record
+  - Grant of motion
+agreements:
+  - None
+laws:
+  - C.R.C. 3.1362
+case_citations:
+  - None
+statutes:
+  - None
+roles:
+  - Judge
+  - Counsel (Slater Slater Schulman, LLP)
+  - Plaintiff (JOHN DOE J.M.)
+  - Defendant (EAST WHITTIER CITY SCHOOL DISTRICT)
+significant_statements:
+  - Counsel's declaration indicates a breakdown of the attorney-client relationship
+  - Continued representation would not serve the interests of justice
+```
+
+And here is a summary of the judge's tentative ruling in English text:
+
+The judge has granted the unopposed motion of Slater Slater Schulman, LLP to withdraw as counsel of record for plaintiff JOHN DOE J.M. The motion was granted because the court found that the attorney-client relationship has broken down and that continued representation would not serve the interests of justice. The court relied on the counsel's sworn declaration and did not find any reason to doubt the representations. The motion to withdraw is effective immediately, and the parties may request a continuance at the upcoming Case Management Conference scheduled for November 16, 2023.

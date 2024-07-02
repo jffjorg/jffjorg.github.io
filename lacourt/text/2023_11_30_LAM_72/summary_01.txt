@@ -1,0 +1,55 @@
+Here is the summary in YAML format:
+
+```
+case_number: 21STCV34041
+plaintiff_name: Donny Adonis Ekine
+defendant_name: Deborah Yearby
+people_names:
+  - Donny Adonis Ekine
+  - Deborah Yearby
+company_names: []
+places:
+  - Los Angeles
+dates:
+  - November 30, 2023
+  - June 7, 2022
+events:
+  - Motion to set aside entry of default
+  - Failure to oppose motion
+  - Service of summons
+  - Default judgment
+  - Small claims action
+money: []
+intentions:
+  - To set aside default judgment
+  - To decide matter on merits
+  - To prevent unjust default judgment
+facts:
+  - Defendant never received service of summons and complaint
+  - Plaintiff failed to oppose motion
+  - Defendant's motion is timely
+disputes:
+  - Defendant knew about default but never received written notice
+  - Defendant is lying about not receiving service
+acts:
+  - Defendant's motion to set aside default
+  - Plaintiff's failure to oppose motion
+  - Defendant's declaration about not receiving service
+agreements: []
+laws:
+  - Code of Civil Procedure § 473.5, subdivision (a)
+statutes:
+  - California Code of Civil Procedure
+roles:
+  - Judge
+  - Plaintiff
+  - Defendant
+significant_statements:
+  - The Court exercises its discretion to disregard the untimely opposition to this motion.
+  - The Court will grant Defendant's motion to set aside default judgment.
+  - The motion is timely because there is no indication in the record that Defendant received written notice of default.
+```
+
+And here is the English text summarizing the judge's tentative ruling:
+
+The judge has granted Deborah Yearby's motion to set aside the default judgment entered against her. The defendant had moved to set aside the default, alleging that she never received service of the summons and complaint. The judge finds that the defendant's motion is timely and grants it, vacating the default judgment entered on June 7, 2022. The defendant is ordered to file an answer within 20 days of the hearing date, November 30, 2023. The judge also disregards the plaintiff's untimely opposition to the motion, finding that the defendant has provided sufficient basis for setting aside the default. The judge's decision is supported by the strong public policy of deciding matters on the merits, which will lead to a more orderly and just proceeding.

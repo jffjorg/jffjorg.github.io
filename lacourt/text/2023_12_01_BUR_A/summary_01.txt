@@ -1,0 +1,45 @@
+Here is a summary of the judge's tentative ruling in YAML format:
+
+```
+case_number: 21BBCV00149
+plaintiff: Cadlerock Joint Venture, LP
+defendants: Ajax Quality Linen Uniform, Inc., Vahe Azoian, Varoojan Azojan, Albert Voskansan, Bogos Karapetian
+people: Azoian, Shahmuradyan, Sauer
+companies: PHH Mortgage Services, New Rez, Los Angeles County Tax Collector, Los Angeles County Assessor's Office
+places: Glendale, California, Burbank, California, Los Angeles, California
+dates: February 19, 2021, December 29, 2021, February 11, 2022, February 14, 2022, May 19, 2023, December 1, 2023
+events: Default judgment, application for sale of property, order to show cause, service of notice
+money:
+  - $33,548.19 (default judgment amount)
+  - $38,875.17 (writ of judgment amount)
+  - $296,277.56 (senior lien amount)
+  - $518.75 (Los Angeles County Tax Collector lien amount)
+  - $2,407.87 (current real property taxes due)
+  - $626,400 (homestead exemption amount)
+  - $1,323,000 (fair market value of the property)
+  - $397,395.82 (difference between fair market value and encumbrances/homestead exemption)
+intentions: Sale of property, enforcement of judgment
+facts:
+  - The property is titled to Azoian and Shahmuradyan as joint tenants.
+  - Azoian transferred the property to himself and his wife as joint tenants in 2004.
+  - The property was transferred to Azoian and Shahmuradyan as trustees of a revocable inter vivos trust in 2022.
+  - The judgment creditor is seeking an order for the sale of the property.
+disputes: None
+acts:
+  - Plaintiff filed a suit against the defendants on February 19, 2021.
+  - Default judgment was entered on December 29, 2021.
+  - Plaintiff applied for an order for the sale of property.
+  - The court granted the application.
+agreements: California Civil Code § 704.760-704.780, California Evidence Code § 452(c)-(h), California Probate Code §§ 18200 & 18201
+laws: California Civil Code, California Evidence Code, California Probate Code
+case_citations: Zanelli v. McGrath (2008) 166 Cal.App.4th 615, Berhanu v. Metzger (1992) 12 Cal.App.4th 445
+roles: Judge, Plaintiff, Defendant
+significant_statements:
+  - The court finds that the property is legally qualified as community property within the complete ownership of Azoian.
+  - The court agrees that the homestead exemption amount is $626,400, adjusted for inflation.
+  - The court grants the application for the sale of the property.
+```
+
+Here is a summary of the judge's tentative ruling in English text:
+
+The judge has reviewed the application for the sale of property and has granted the application. The property is titled to Azoian and Shahmuradyan as joint tenants and was transferred to them as trustees of a revocable inter vivos trust in 2022. The judgment creditor is seeking an order for the sale of the property to satisfy a default judgment entered on December 29, 2021. The court has determined that the property has a fair market value of $1,323,000 and that the encumbrances against it total $299,204.18. The court has also determined that the homestead exemption amount is $626,400, adjusted for inflation. The court finds that the property is legally qualified as community property within the complete ownership of Azoian and that the application satisfies the statutory requirements for the sale of property. The court grants the application and orders the property to be sold to satisfy the default judgment.

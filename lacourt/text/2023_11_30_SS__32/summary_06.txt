@@ -1,0 +1,49 @@
+Here is the summary in YAML format:
+
+```yaml
+case_number: 21STCV39927
+plaintiff_name: Patrice Brown
+defendant_name: None
+people_names:
+  - Patrice Brown
+  - Scarlett Farrokh
+company_names:
+  - None
+places:
+  - California
+dates:
+  - November 30, 2023
+events:
+  - Motion to be Relieved as Counsel
+  - Hearing
+money:
+  - None
+intentions:
+  - Counsel's intention to withdraw from the case
+facts:
+  - Plaintiff refused to follow counsel's advice
+  - Plaintiff did not provide new attorney's contact information
+disputes:
+  - None
+acts:
+  - Counsel filed forms MC-051 and MC-052
+  - Counsel lodged copy of proposed order on form MC-053
+laws:
+  - California Rules of Court (CRC) 3.1362
+  - California Rule of Professional Conduct (CRPC) 3.700
+  - Cal. Rules of Court, rule 3.1362(e)
+statutes:
+  - None
+roles:
+  - Judge
+  - Counsel
+  - Plaintiff
+significant_statements:
+  - The Court grants the motion conditionally pending Counsel's filing and service of the updated form.
+  - Counsel must file an amended form MC-053 within 5 calendar days of the hearing.
+  - Counsel must serve the signed order within 10 days of the date of the order.
+```
+
+And here is a summary of the judge's tentative ruling in English text:
+
+The judge is considering a motion filed by the plaintiff's counsel, Scarlett Farrokh, to be relieved as counsel. The motion is unopposed, and the judge finds that the reason for withdrawal, namely that the plaintiff refused to follow counsel's advice and did not provide the new attorney's contact information, is valid. However, the proposed order is incomplete, and the judge orders counsel to file an amended form MC-053 within 5 calendar days of the hearing, which must include information about all future hearings and proceedings. The judge also orders counsel to serve the signed order within 10 days of the date of the order and file a proof of service. The motion is conditionally granted pending counsel's filing and service of the updated form.

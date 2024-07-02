@@ -1,0 +1,80 @@
+Here is the summary of the judge's tentative ruling in YAML format:
+
+```
+case_number: 21STCV36796
+hearing_date: December 1, 2023
+dept: 78
+county: Los Angeles
+judge: Hon. Jill Feeney
+plaintiff: SHAWN RUDOLPH
+defendant: COUNTY OF LOS ANGELES
+people_names:
+  - SHAWN RUDOLPH
+  - GEORGE GASCON
+  - DIANA WANG WELLS
+  - BETH D. CORRIEA
+  - GREGORY W. SMITH
+company_names:
+  - LOS ANGELES COUNTY DISTRICT ATTORNEY'S OFFICE
+places:
+  - LOS ANGELES
+dates:
+  - November 2020
+  - October 5, 2021
+  - December 8, 2021
+  - April 11, 2023
+  - May 8, 2023
+  - June 9, 2023
+  - July 3, 2023
+  - December 1, 2023
+events:
+  - Election of GEORGE GASCON as District Attorney
+  - Plaintiff's employment issues with the District Attorney's Office
+  - Plaintiff's motion for attorney's fees and costs
+money:
+  - $1,500,000 (damages awarded to Plaintiff)
+  - $810,371.25 (previous attorney's fees award)
+  - $139,799.38 (new attorney's fees award)
+intentions:
+  - Plaintiff seeks attorney's fees and costs for work performed on post-trial motions
+facts:
+  - Plaintiff alleges retaliation by the District Attorney's Office
+  - Plaintiff believes the District Attorney's new policies violate California's ethical and statutory duties
+  - Plaintiff seeks attorney's fees and costs for work performed on post-trial motions
+disputes:
+  - Timeliness of Plaintiff's motion for attorney's fees
+  - Reasonableness of hourly rates and billed hours
+acts:
+  - Plaintiff filed a motion for attorney's fees and costs
+  - Defendant objected to the motion
+  - The Court heard arguments and made a tentative ruling
+agreements:
+  - Lab. Code, section 1102.5(j)
+  - Code Civ. Proc., section 1008(a)
+  - Code Civ. Proc., section 1008(b)
+laws:
+  - California Labor Code
+  - California Civil Procedure Code
+  - California Constitution (Marsy's Law)
+case_citations:
+  - Bernardi v. County of Monterey (2008) 167 C.A.4th 1379
+  - Martino v. Denevi (1986) 182 Cal.App.3d 553
+  - Raining Data Corp. v. California Insurance Guarantee Association (2008) 175 Cal.App.4th 550
+  - Premier Medical Management Systems, Inc. v. California Insurance Guarantee Association (2008) 163 Cal.App.4th 550
+  - Ketchum v. Moses (2001) 24 Cal.4th 1122
+  - Horsford v. Board of Trustees of California State University (2005) 132 Cal.App.4th 359
+  - Serrano III (1982) 20 Cal.3d 1
+roles:
+  - Plaintiff: SHAWN RUDOLPH
+  - Defendant: COUNTY OF LOS ANGELES
+  - Judge: Hon. Jill Feeney
+  - Attorneys: DIANA WANG WELLS, BETH D. CORRIEA, GREGORY W. SMITH
+significant_statements:
+  - The Court grants Plaintiff's motion for attorney's fees and costs in the full amount of $139,799.38.
+  - The Court finds that Plaintiff's counsel's billed hours and rates are reasonable.
+  - The Court approves a 1.3 multiplier to account for the complexity and novelty of the case.
+```
+
+Summary:
+
+This is a tentative ruling by Judge Hon. Jill Feeney on a motion for attorney's fees and costs filed by Plaintiff SHAWN RUDOLPH against Defendant COUNTY OF LOS ANGELES. The case involves a dispute over whether the County's new policies, implemented by District Attorney GEORGE GASCON, violated California's ethical and statutory duties. The Court granted Plaintiff's motion for attorney's fees and costs in the full amount of $139,799.38, finding that Plaintiff's counsel's billed hours and rates were reasonable and that a 1.3 multiplier was warranted due to the complexity and novelty of the case.
