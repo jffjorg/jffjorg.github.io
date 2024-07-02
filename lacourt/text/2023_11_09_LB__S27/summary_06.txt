@@ -1,0 +1,69 @@
+Here is the summary in YAML format:
+
+```
+case_number: 21STCV47583
+hearing_date: November 9, 2023
+dept: S27
+background:
+  facts:
+    - Courtney Brooks (Plaintiff) filed a Complaint against Long Beach Memorial Medical Center, Mundi Attinasi, M.D., Amjuli Kumar, M.D., Glenn Levine, M.D., and Does 1 through 20.
+    - Plaintiff alleges wrongful death from professional negligence.
+    - Marlee Sage Butler was born with holoprosencephaly and died on July 18, 2020, after being admitted to Medical Center on July 8, 2020.
+
+motion:
+  standard_on_summary_judgment:
+    - Summary judgment is proper if all papers submitted show no triable issue of material fact and the moving party is entitled to judgment as a matter of law.
+    - Defendant must show either (1) one or more elements of the cause of action cannot be established or (2) there is a complete defense to that cause of action.
+  law_re_standard_of_care:
+    - Standard of care against which acts of health care providers are to be measured is a matter within the knowledge of experts.
+    - Unless the conduct required by particular circumstances is within the common knowledge of the layman, the standard of care can only be proved by expert testimony.
+  law_re_causation:
+    - To establish defendant's negligence was a "substantial factor" in causing injury or death, plaintiff must prove negligence was of itself sufficient to bring about that harm.
+  law_re_hospital_liability_for_physician_negligence:
+    - A hospital is not vicariously liable for the negligent conduct of its independent contractor physicians.
+  initial_note_re_summary_adjudication:
+    - Defendant's notice of motion does not indicate which causes of action, affirmative defenses, claims for damages, and/or issues of duty it wishes to have adjudicated.
+parties_positions:
+  defendant:
+    - Defendant contends it is entitled to judgment as a matter of law because its nurses and staff complied with the standard of care at all times, and nothing they did caused or contributed to Decedent's death.
+  plaintiff:
+    - Plaintiff argues Defendant's nursing staff's care and treatment did not comply with the standard of care.
+    - Plaintiff argues medical records provided to Defendant's expert were not full and complete records.
+    - Plaintiff argues the terms of admissions contract is contradicting.
+    - Plaintiff argues the case should go to trial because Defendant's staff spoliated the evidence.
+
+prior_continuance:
+  - The Court was originally scheduled to hear the motion on 9/21/23.
+  - The Court continued the hearing due to evidentiary issues.
+  - The Court ordered:
+    - Defendant to file a declaration properly authenticating Plaintiff's medical records.
+    - Plaintiff to file a declaration authenticating all evidence proffered with the opposition.
+    - Defendant to file an entirely new set of reply papers.
+
+new_papers:
+  - Defendant filed an updated Declaration of Myra Firth.
+  - Plaintiff submitted a supplemental declaration and her exhibits.
+  - Plaintiff filed copies of her evidence in a format that can be viewed online.
+  - Defendant filed a reply, a reply separate statement, and objections to the evidence submitted with the opposition.
+
+objections:
+  - Plaintiff submitted objections to the updated Firth Declaration.
+  - The objections are overruled on their merits.
+  - Defendant's purported objections are to Plaintiff's separate statement. Objections must be directed at evidence, not separate statements.
+
+moving_burden:
+  - Defendant met its moving burden to show it is entitled to judgment as a matter of law.
+  - Defendant established that its staff was not negligent, and that it is not liable for any negligence on the part of its treating physicians.
+
+shifted_burden:
+  - Plaintiff failed to raise a triable issue of material fact.
+  - Plaintiff makes numerous arguments in opposition to the motion, each of which will be considered in turn.
+
+conclusion:
+  - Defendant met its moving burden to show it is entitled to judgment as a matter of law.
+  - Plaintiff failed to raise a triable issue of material fact.
+  - The motion is therefore granted.
+```
+
+Summary:
+This is a tentative ruling on a motion for summary judgment filed by the defendant, Long Beach Memorial Medical Center, and its medical staff. The plaintiff, Courtney Brooks, alleges that the defendant's negligence caused the death of her daughter, Marlee Sage Butler. The defendant contends that it is entitled to judgment as a matter of law because its nurses and staff complied with the standard of care at all times, and nothing they did caused or contributed to Decedent's death. The court finds that the defendant has met its moving burden and that the plaintiff has failed to raise a triable issue of material fact. The motion is therefore granted.

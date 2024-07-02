@@ -1,0 +1,98 @@
+Here is the summary in YAML format:
+
+```
+case_number: 23STCV15242
+hearing_date: November 16, 2023
+dept: 17 Superior Court of California
+county: Los Angeles
+
+people-names:
+  - Redwood Liquidating Co. (plaintiff)
+  - Paul Hastings, LLP (defendant)
+  - Esfandyarpour (CEO of Redwood Liquidating Co.)
+  - Hartlin (partner at Paul Hastings)
+  - Han (partner at Paul Hastings)
+  - Fry (partner at MTO)
+  - Brian (partner at MTO)
+  - Kim (partner at MTO)
+  - Quinn Emanuel LLP (counsel)
+
+company-names:
+  - Redwood Liquidating Co.
+  - Paul Hastings, LLP
+  - Munger, Tolles & Olson LLP (MTO)
+  - Foresite Capital
+  - GenapSys (predecessor of Redwood Liquidating Co.)
+
+places:
+  - Los Angeles
+  - California
+
+dates:
+  - June 30, 2023
+  - March 2020
+  - April 27, 2020
+  - May 4, 2020
+  - June 1, 2020
+  - June 11, 2020
+  - June 26, 2020
+  - September 7, 2023
+
+events:
+  - Foresite Dispute
+  - Books and records demand
+  - Litigation
+  - Confidential consultations and advice
+
+money:
+  - None mentioned
+
+intentions:
+  - Plaintiff seeks to disqualify MTO as counsel for Defendant
+  - MTO argues that the matters are not substantially related
+
+facts:
+  - MTO represented Redwood Liquidating Co. in a dispute with Foresite Capital
+  - MTO consulted with Redwood Liquidating Co.'s CEO, Esfandyarpour
+  - MTO's representation of Redwood Liquidating Co. was limited to a discrete subject
+  - Paul Hastings was also involved in the Foresite Dispute and had access to confidential information
+  - MTO did not possess any confidential information unknown to Paul Hastings
+
+disputes:
+  - Whether MTO's representation of Redwood Liquidating Co. in the Foresite Dispute creates a conflict of interest with its current representation of Defendant
+
+acts:
+  - MTO's representation of Redwood Liquidating Co. in the Foresite Dispute
+  - MTO's representation of Defendant in the current case
+
+agreements:
+  - None mentioned
+
+laws:
+  - California Rules of Professional Conduct Rule 1.9(a)
+  - Code Civ. Proc., § 128(a)(5)
+  - SpeeDee Oil Change Sys., Inc. v. Salomon Bros., Inc. (1991) 229 Cal.App.3d 1445
+  - H.F. Ahmanson & Co. v. Salomon Bros., Inc. (1991) 229 Cal.App.3d 1445
+  - Adams v. Aerojet-General Corp. (2001) 86 Cal.App.4th 1324
+  - W. Cont'l Operating Co. v. Nat. Gas Corp. (1989) 212 Cal.App.3d 752
+
+case_citations:
+  - Ontiveros v. Constable (2016) 245 Cal. App. 4th 686
+  - People ex rel. Dept. of Corps. v. SpeeDee Oil Change Sys., Inc. (1999) 20 Cal. 4th 1135
+  - Flatt v. Superior Ct. (1994) 9 Cal. 4th 275
+  - Knight v. Ferguson (2007) 149 Cal. App. 4th 1207
+  - Beahcomber Mgmt. Crystal Cove, LLC v. Super. Ct (2017) 13 Cal.App.5th 1105
+  - Cornish v. Super. Ct (1989) 209 Cal.App.3d 476
+
+roles:
+  - Judge: Hon. Jon R. Takasugi
+  - Plaintiff: Redwood Liquidating Co.
+  - Defendant: Paul Hastings, LLP
+  - Counsel: MTO, Paul Hastings, Quinn Emanuel LLP
+  - CEO: Esfandyarpour
+  - Partners: Hartlin, Han, Fry, Brian, Kim
+
+significant_statements:
+  - The Court agrees that the evidence demonstrates that the information conveyed to MTO was shared with Paul Hastings as well and nothing MTO learned from GenapSys was not also, and concurrently, known to Paul Hastings.
+  - The Court concludes that MTO's representation of GenapSys in the books and records demand is not substantially related to its current representation of Paul Hastings.
+  - The Court denies Plaintiff's motion to disqualify MTO as counsel.

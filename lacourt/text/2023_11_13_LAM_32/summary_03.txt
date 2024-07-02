@@ -1,0 +1,73 @@
+Here is the summary in YAML format:
+
+```
+case_number: 23STCV15075
+plaintiff_name: Kendall Blevens
+defendant_name: GREAT MAPLE, LLC et al
+people_names:
+  - Kendall Blevens
+  - GREAT MAPLE, LLC et al
+company_names:
+  - GREAT MAPLE, LLC
+places:
+  - California
+dates:
+  - June 28, 2023
+  - October 17, 2023
+  - October 30, 2023
+  - November 3, 2023
+  - November 13, 2023
+  - December 19, 2022
+events:
+  - Wrongful discharge in violation of public policy
+  - Labor Code retaliation
+  - Battery
+  - Arbitration
+money:
+  - None mentioned
+intentions:
+  - To compel arbitration
+facts:
+  - Plaintiff signed an arbitration agreement on December 19, 2022
+  - Plaintiff does not dispute the existence of the arbitration agreement
+  - The agreement is enforceable by all moving defendants
+  - Labor Code section 432.6 prohibits an employer from requiring an employee to arbitrate FEHA or Labor Code claims as a condition of employment
+  - The FAA applies to the agreement, precluding Labor Code section 432.6
+disputes:
+  - Whether the arbitration agreement is enforceable
+  - Whether Labor Code section 432.6 applies
+acts:
+  - Plaintiff filed an action asserting wrongful discharge in violation of public policy, Labor Code retaliation, and battery
+  - Defendants filed a motion to compel arbitration
+  - Plaintiff filed an opposition to the motion
+  - Defendants filed a reply to the opposition
+agreements:
+  - Arbitration agreement dated December 19, 2022
+  - Parties agreed to apply the FAA
+  - Parties agreed to enforce the agreement under the FAA
+laws:
+  - Federal Arbitration Act (FAA)
+  - California Code of Civil Procedure section 1281.2
+  - Labor Code section 432.6
+  - Allied-Bruce Terminix Co. v. Dobson (1995)
+  - Citizens Bank v. Alafabco, Inc. (2003)
+  - Victrola 89, LLC v. Jaman Properties 8 LLC (2020)
+  - Pinnacle Museum Tower Assn. v. Pinnacle Market Development (US), LLC (2012)
+  - Chamber of Commerce of the United States v. Bonta (9th Cir. 2023)
+  - Gamboa v. Northeast Community Clinic (2021)
+  - Bannister v. Marinidence Opco, LLC (2021)
+roles:
+  - Judge
+  - Plaintiff
+  - Defendant
+  - Employer
+  - Employee
+significant_statements:
+  - The court finds that Plaintiff agreed to arbitrate the claims at issue and that the agreement is enforceable by all moving defendants.
+  - The FAA applies to the agreement, precluding Labor Code section 432.6.
+  - The parties agreed to apply the FAA, even without proving interstate commerce.
+```
+
+And here is the English text to summarize the judge's tentative ruling:
+
+The court has tentatively ruled in favor of the defendants' motion to compel arbitration. The plaintiff, Kendall Blevens, signed an arbitration agreement on December 19, 2022, and does not dispute the existence of the agreement. The court finds that the agreement is enforceable by all moving defendants. The plaintiff's argument that Labor Code section 432.6 bars enforcement of the agreement is rejected, as the Federal Arbitration Act (FAA) applies to the agreement and preempts Labor Code section 432.6. The court grants the motion to compel arbitration and stays the case pending the outcome of arbitration.

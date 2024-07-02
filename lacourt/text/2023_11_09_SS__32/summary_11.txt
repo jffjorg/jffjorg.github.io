@@ -1,0 +1,53 @@
+Here is the summary in YAML format:
+
+```
+case_number: 22STCV17909
+plaintiff_name: Nazario Mejia Jimenez
+defendant_name: None
+people_names:
+  - Shaun Bauman (Counsel)
+  - Nazario Mejia Jimenez (Plaintiff)
+company_names: []
+places: []
+dates:
+  - November 9, 2023
+  - November 15, 2023
+  - November 29, 2023
+events:
+  - Motion to be Relieved as Counsel
+  - Final Status Conference
+  - Trial
+money: []
+intentions:
+  - Counsel wants to be relieved as counsel for Plaintiff
+  - Plaintiff's rights may be prejudiced
+facts:
+  - Breakdown in attorney-client communication
+  - Counsel has been unable to communicate with Plaintiff
+  - Plaintiff has been uncooperative in assisting with his case
+  - Trial date is approaching
+disputes:
+  - Counsel's right to withdraw from the case vs. Plaintiff's right to continue with Counsel
+acts:
+  - Counsel has filed forms MC-051 and MC-052
+  - Counsel has lodged a copy of the proposed order with the Court
+  - Court has scheduled a Final Status Conference and trial
+agreements:
+  - None
+laws:
+  - California Rules of Court (CRC) 3.1362
+  - California Rule of Professional Conduct (CRPC) 3.700
+  - CRPC 3-700 (C)(1)(d)
+case_citations:
+  - Vann v. Shilleh (1975) 54 Cal.App.3d 192
+  - People v. Prince (1968) 268 Cal.App.2d 398
+  - Hodcarriers, Bldg. and Common Laborers Local Union No. 89 v. Miller (1966) 243 Cal.App.2d 391
+  - Pineda v. State Bar (1989) 49 Cal.3d 753
+roles: []
+significant_statements:
+  - "The Court finds that relieving Counsel will likely prejudice Plaintiff’s rights."
+```
+
+Summary in English text:
+
+The tentative ruling denies the motion to relieve Shaun Bauman, counsel for Plaintiff Nazario Mejia Jimenez, from his representation. The motion was filed due to a breakdown in attorney-client communication and Plaintiff's uncooperativeness in assisting with his case. The Court finds that relieving Counsel would likely prejudice Plaintiff's rights, particularly given the proximity to the trial date. The Court notes that the proposed order does not list all dates currently scheduled in the case. Counsel for the moving party is ordered to provide notice of the Court's ruling and file a proof of service.

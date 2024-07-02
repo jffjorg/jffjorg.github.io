@@ -1,0 +1,71 @@
+Here is the summary in YAML format:
+
+```
+case_number: 20STCV14726
+plaintiff_name: Allstate Property and Casualty Insurance Company
+defendant_name: Shawn Williams
+people_names:
+  - Shawn Williams
+  - Jerome Salas
+company_names:
+  - Allstate Property and Casualty Insurance Company
+places:
+  - California
+dates:
+  - April 16, 2020
+  - October 5, 2020
+  - February 26, 2021
+  - June 6, 2022
+  - December 6, 2022
+  - August 22, 2023
+  - November 15, 2023
+events:
+  - Motor vehicle negligence
+  - Default judgment
+  - Dismissal of lawsuit
+  - Request for default judgment
+money:
+  - $114,272.20
+  - $114,822.20
+  - $0.00 (prejudgment interest)
+  - $0.00 (attorney's fees)
+  - $550.00 (costs)
+intentions:
+  - To obtain a default judgment against defendant Shawn Williams
+  - To award plaintiff damages of $114,272.20
+facts:
+  - Plaintiff filed a lawsuit against defendant Shawn Williams for motor vehicle negligence
+  - Defendant Shawn Williams defaulted
+  - Plaintiff requested a default judgment
+  - Plaintiff submitted a declaration to support the request for default judgment
+disputes:
+  - Whether the plaintiff has provided sufficient evidence to support the request for default judgment
+acts:
+  - Filing of lawsuit
+  - Default by defendant
+  - Request for default judgment
+  - Submission of declaration to support request for default judgment
+agreements:
+  - None mentioned
+laws:
+  - California Rules of Court, rule 3.1800(a)
+  - California Code of Civil Procedure, sections 580, 585, 579
+  - Johnson v. Stanhiser (1999) 72 Cal.App.4th 357
+  - Becker v. S.P.V. Construction Co. (1980) 27 Cal.3d 489
+  - Cal. Practice Guide: Civil Procedure Before Trial (Rutter 2023) ¶ 5:213.1, p. 5-56
+  - Code Civ. Proc., § 585, subd. (b)
+statutes:
+  - Code Civ. Proc., sections 580, 585, 579
+roles:
+  - Judge
+  - Plaintiff (Allstate Property and Casualty Insurance Company)
+  - Defendant (Shawn Williams)
+significant statements:
+  - The court denies the motion for default judgment due to insufficient evidence
+  - The plaintiff's declaration lacks sufficient information to support the request for default judgment
+  - The court exceeds its jurisdiction if it awards damages in excess of the amount specified in the complaint or statement of damages
+```
+
+And here is a summary of the judge's tentative ruling in English text:
+
+The court has denied the plaintiff's application for default judgment against defendant Shawn Williams. The plaintiff, Allstate Property and Casualty Insurance Company, sought a default judgment against Williams for motor vehicle negligence and damages of $114,272.20. However, the court found that the plaintiff's declaration submitted in support of the request for default judgment lacked sufficient information to support the request. Specifically, the declaration did not provide a police report, did not explain the items paid for, the need for the payments, the reasonableness of the payments, or the connection between the payments and Williams's tortious conduct. The court ruled that the relief granted to a plaintiff upon entry of a defendant's default cannot exceed the amount demanded in the complaint, and that the court must hear the evidence offered by the plaintiff and render judgment in the plaintiff's favor for that relief, not exceeding the amount stated in the complaint, as appears by the evidence to be just.

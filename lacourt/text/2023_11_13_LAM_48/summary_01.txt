@@ -1,0 +1,60 @@
+Here is the summary in YAML format:
+
+```
+case_number: 21STCV34339
+plaintiff: Elham Khorsandi, Sam S. Khorsandi
+defendant: Star Der Parseghian, Star DP Design, Inc.
+people_names: Elham Khorsandi, Sam S. Khorsandi, Star Der Parseghian
+company_names: Star DP Design, Inc.
+places: Los Angeles, Stanley Mosk Courthouse
+dates:
+  - September 17, 2021
+  - August 3, 2022
+  - November 6 and 7, 2023
+  - November 13, 2023
+  - March 14, 2024
+events:
+  - Filing of lawsuit
+  - Entry of default against defendants
+  - Request for entry of default judgment
+  - Order to Show Cause Re: Entry of Default Judgment
+money:
+  - $21,749.79 (total damages)
+  - $17,726.00 (damages)
+  - $2,789.64 (prejudgment interest)
+  - $1,234.15 (costs)
+  - $14,000.00 (deposit)
+  - (unpleaded storage damages)
+intentions:
+  - Plaintiff seeks entry of default judgment
+  - Defendant opposes entry of default judgment
+facts:
+  - Plaintiffs paid $14,000.00 deposit for floor installation that never occurred
+  - Plaintiffs incurred storage fees for 18 extra months
+  - Defendant failed to perform as represented
+disputes:
+  - Amount of damages for storage costs
+acts:
+  - Failure to perform as represented
+  - Incurring of storage fees
+agreements:
+  - None mentioned
+laws:
+  - California Code of Civil Procedure, § 580
+  - Electronic Funds Solutions, LLC v. Murphy (2005)
+  - Code Civ. Proc., § 580, subd. (a)
+statutes:
+  - California Code of Civil Procedure, § 580
+roles:
+  - Plaintiff: Elham Khorsandi, Sam S. Khorsandi
+  - Defendant: Star Der Parseghian, Star DP Design, Inc.
+  - Judge: Hon. Thomas D. Long
+significant statements:
+  - "The Court cannot award more in a default judgment than the amount demanded in the complaint."
+  - "Plaintiffs do not plead an amount of damages for the storage costs."
+  - "An Order to Show Cause Re: Entry of Default Judgment is scheduled for 03/14/2024 at 8:30 a.m."
+```
+
+And here is a summary of the judge's tentative ruling in English text:
+
+The judge has denied the plaintiff's request for entry of default judgment without prejudice. The plaintiff had requested a judgment of $21,749.79, including damages, prejudgment interest, and costs. However, the court cannot award more in a default judgment than the amount demanded in the complaint, and the plaintiff did not plead an amount of damages for storage costs. The court has scheduled an Order to Show Cause Re: Entry of Default Judgment for March 14, 2024, at 8:30 a.m. The plaintiff may either file an amended complaint alleging the total amount of economic damages or submit a new request for entry of default judgment that excludes the unpleaded storage damages.

@@ -1,0 +1,68 @@
+Here is the summary in YAML format:
+
+```
+Case Number: 21STCV06759
+Plaintiff's Name: PATRICIA KIMBALL
+Defendant's Name: CITY OF WEST HOLLYWOOD
+People-Names:
+  - Patricia Kimball
+  - Jereme Stark
+  - Gary M. Gsell
+  - Mila Sologub
+Company-Names:
+  - BPR (City's contractor)
+Places:
+  - Huntley Drive
+  - West Hollywood
+Dates:
+  - 2014
+  - 2015
+  - 2016
+  - 2017
+  - 2018
+  - 2019
+  - 2020
+  - November 15, 2023
+Events:
+  - Sidewalk uplift incident
+  - Sidewalk inspections
+  - Repair attempts
+  - Depositions
+Money:
+  - None mentioned
+Intentions:
+  - Defendant seeks summary judgment
+  - Plaintiff contests summary judgment
+Facts:
+  - Plaintiff fell on sidewalk uplift
+  - Uplift measured 7/8 inch
+  - Plaintiff argues uplift was more dangerous due to adjacent hedge and tree shadow
+  - Defendant denies actual or constructive notice of condition
+  - City had inspection protocol in place but did not detect condition
+Disputes:
+  - Whether uplift was trivial as a matter of law
+  - Whether City had actual or constructive notice of condition
+Acts:
+  - City inspected sidewalks every 12-18 months
+  - City ordered repair of uplift in 2017 but did not complete it
+  - Plaintiff and son took pictures of uplift in 2019
+  - Plaintiff fell on uplift in 2020
+Laws:
+  - Government Code section 835
+  - Government Code section 830
+  - Government Code section 835.2
+Statutes:
+  - California Government Code
+Roles:
+  - Judge
+  - Plaintiff (Patricia Kimball)
+  - Defendant (City of West Hollywood)
+  - Assistant City Engineer (Mila Sologub)
+  - Liability expert (Gary M. Gsell)
+Significant Statements:
+  - "The trivial defect doctrine originated to shield public entities from liability where conditions on public property create a risk 'of such a minor, trivial or insignificant nature in view of the surrounding circumstances ... no reasonable person would conclude that the condition created a substantial risk of injury when such property or adjacent property was used with due care in a manner in which it was reasonably foreseeable that it would be used.'" (Huckey v. City of Temecula, 2019)
+  - "A court should not rely solely upon the size of the defect ... although the defect's size 'may be one of the most relevant factors' to the court's decision." (Huckey v. City of Temecula, 2019)
+  - "The critical test for constructive notice is whether 'the condition has existed long enough that it may be inferred that a reasonable inspection would have ascertained its existence.'" (Strongman v. Kern County, 1967)
+```
+
+Note that some of the information in the YAML summary is not explicitly stated in the document, but can be inferred from the context.

@@ -1,0 +1,76 @@
+Here is the summary in YAML format:
+
+```
+case_number: 21PSCV00758
+hearing_date: November 15, 2023
+dept: K
+plaintiff: SoCal Lien Solutions LLC
+defendant: Pacificore Construction, Inc.
+people:
+  - Kathryn Ann (Ann)
+company_names:
+  - C&M Stucco Specialists, Inc.
+  - Pacificore Construction, Inc.
+  - ADP of San Dimas, LLC
+  - Advocacy Development Partners, LLC
+places:
+  - 1155 Via Verde, San Dimas, California, 91773
+dates:
+  - September 15, 2021
+  - September 29, 2021
+  - October 25, 2023
+  - August 8, 2023
+  - November 15, 2023
+events:
+  - Plaintiff filed a complaint
+  - ADP and Advocacy Development were dismissed
+  - Pacificore's default was entered
+  - An Order to Show Cause Re: Default Judgment is set
+money:
+  - $38,003.85 (attorney's fees)
+  - $37,378.60 (amount owing)
+  - $29,978.60 (payment made)
+  - $10,485.00 (balance)
+  - $7,500.00 (adjusted claim amount)
+intentions:
+  - Plaintiff seeks default judgment
+  - Plaintiff's application for default judgment is denied without prejudice
+facts:
+  - Plaintiff's assignor provided improvements to the property
+  - Plaintiff has not been paid in full
+  - Plaintiff filed a complaint against multiple defendants
+  - Pacificore's default was entered
+disputes:
+  - Plaintiff's failure to utilize Judicial Council Form CIV-100
+  - Plaintiff's failure to provide a brief summary of the case
+  - Typographical error in attorney's fees
+  - Discrepancy in balance owing
+acts:
+  - Plaintiff filed an "Amendment to Complaint"
+  - ADP and Advocacy Development were dismissed
+agreements:
+  - None
+laws:
+  - California Rules of Court ("CRC"), Rule 3.1800, subdivision (a)(1)
+  - None
+case_citations:
+  - None
+statutes:
+  - None
+roles:
+  - Judge
+  - Plaintiff (SoCal Lien Solutions LLC)
+  - Defendant (Pacificore Construction, Inc.)
+  - Assignor (C&M Stucco Specialists, Inc.)
+  - Co-defendant (unnamed)
+significant_statements:
+  - Plaintiff's application for default judgment is denied without prejudice
+  - Plaintiff failed to utilize Judicial Council Form CIV-100
+  - Plaintiff failed to provide a brief summary of the case
+  - Typographical error in attorney's fees
+  - Discrepancy in balance owing
+```
+
+And here is the English-text summary:
+
+The Judge has issued a tentative ruling on the plaintiff's application for default judgment. The application is denied without prejudice due to several defects. The plaintiff failed to utilize Judicial Council Form CIV-100, failed to provide a brief summary of the case, and listed a typographical error in attorney's fees. Additionally, there is a discrepancy in the balance owing, which must be reconciled. The Order to Show Cause Re: Default Judgment is set for November 15, 2023. The Judge requests clarification on several points, including the assignment of the claim and the reconciliation of the balance owing.

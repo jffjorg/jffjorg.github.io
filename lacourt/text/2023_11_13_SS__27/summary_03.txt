@@ -1,0 +1,58 @@
+Here is the proposed YAML format for the tentative ruling:
+
+```
+Case Number: 22STCV25558
+Plaintiff's Name: Herbert C. Rubinstein, Trustee, et al.
+Defendant's Name: Colby Square Homeowners Association, Inc., et al.
+People-Named: Herbert C. Rubinstein, Caitlin J. Hoffman
+Company-Named: Colby Development, LP, Colby Square Homeowners Association, Inc.
+Places: Los Angeles, California
+Dates:
+  - August 8, 2022
+  - September 27, 2022
+  - May 4, 2023
+  - October 5, 2023
+  - October 31, 2023
+  - November 9, 2023
+  - November 13, 2023
+Events:
+  - Complaint filed
+  - Answer filed
+  - Motions to compel responses filed and granted
+  - Request for terminating sanctions filed
+  - Notice of non-receipt of opposition filed
+Money: $780 (sanctions)
+Intentions:
+  - Plaintiff's intention to recover damages from Defendant
+  - Defendant's intention to compel responses to discovery requests
+  - Defendant's intention to request terminating sanctions
+Facts:
+  - Water pipe burst in the Subject Building, causing water damage to Plaintiff's unit
+  - Defendant is holding insurance proceeds, but has not released the funds to Plaintiffs
+Disputes:
+  - Dispute over Plaintiff's failure to respond to discovery requests
+  - Dispute over Defendant's request for terminating sanctions
+Acts:
+  - Plaintiff filed a complaint against Defendant
+  - Defendant filed an answer
+  - Defendant filed motions to compel responses
+  - Defendant filed a request for terminating sanctions
+  - Plaintiff failed to respond to discovery requests
+Agreements:
+  - None mentioned in the document
+Laws:
+  - California Code of Civil Procedure (CCP) sections 2023.010, 2023.030, 2023.030(d)
+  - Evidence Code Section 452
+  - Van Sickle v. Gilbert (2011) 196 Cal.App.4th 1495, 1516
+  - Brown v. Sup. Ct. (1986) 180 Cal.App.3d 701, 707
+  - Los Defensores, Inc. v. Gomez (2014) 223 Cal.App.4th 377, 390
+Statutes:
+  - CCP sections 2023.010, 2023.030, 2023.030(d)
+  - Evidence Code Section 452
+Roles:
+  - Judge: Hon. Lee S. Arian
+  - Plaintiff: Herbert C. Rubinstein, Trustee, et al.
+  - Defendant: Colby Square Homeowners Association, Inc., et al.
+Significant Statements:
+  - "The court may impose a terminating sanction by one of the following orders: (1) An order striking out the pleadings or parts of the pleadings of any party engaging in the misuse of the discovery process. (2) An order staying further proceedings by that party until an order for discovery is obeyed. (3) An order dismissing the action, or any part of the action, of that party. (4) An order rendering a judgment by default against that party." (CCP section 2023.030(d))
+  - "Given the totality of these circumstances, the Court finds that terminating sanctions are appropriate."

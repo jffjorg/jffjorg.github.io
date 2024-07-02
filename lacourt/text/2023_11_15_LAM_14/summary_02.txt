@@ -1,0 +1,73 @@
+Here is the summary in YAML format:
+
+```
+case_number: BC717376
+hearing_date: 2023-11-15
+dept: 14
+plaintiffs:
+  - name: (not specified)
+defendant:
+  - name: Ryan
+people_names:
+  - Ryan
+  - Daniel B. Lopez
+company_names: []
+places: []
+dates:
+  - 2023-07-19
+  - 2023-08-02
+  - 2023-08-18
+  - 2023-09-05
+events:
+  - Motion to compel further responses to interrogatories
+  - Motion to compel further responses to requests for production
+  - Motion to compel compliance
+  - Change of counsel for Defendant Ryan
+  - Service of further responses to interrogatories and requests for production
+  - Service of supplemental responses to interrogatories and requests for production
+money:
+  - $5,161.65 (amount of sanctions sought by Plaintiffs)
+  - $6,960.00 (amount of sanctions sought by Defendant Ryan)
+intentions:
+  - Plaintiffs seek to impose sanctions on Defendant Ryan for failure to comply with discovery
+    Defendant Ryan seeks to impose sanctions on Plaintiffs for bringing the motion
+facts:
+  - Defendant Ryan failed to comply with discovery orders
+  - Defendant Ryan served further responses to the interrogatories and requests for production
+    on August 16, 2023
+  - Defendant Ryan served supplemental responses to the interrogatories and requests for production
+    on September 5, 2023
+disputes:
+  - Failure to comply with discovery orders
+acts:
+  - Defendant Ryan failed to comply with discovery orders
+  - Defendant Ryan served further responses to the interrogatories and requests for production
+    on August 16, 2023
+  - Defendant Ryan served supplemental responses to the interrogatories and requests for production
+    on September 5, 2023
+agreements:
+  - Defendant Ryan agreed to produce documents
+  - Defendant Ryan later told Plaintiffs he didn't have any documents to produce
+laws:
+  - Code of Civil Procedure § 2023.030
+  - Code of Civil Procedure § 2023.040
+  - Code of Civil Procedure § 2030.300(e)
+  - Code of Civil Procedure § 2031.310(i)
+  - Code of Civil Procedure § 2031.320(c)
+case_citations: []
+statutes:
+  - Code of Civil Procedure
+roles:
+  - Judge
+  - Plaintiff
+  - Defendant
+  - Counsel
+significant_statements:
+  - The court cannot punish Defendant Ryan for having nothing to produce
+  - Plaintiffs have produced no evidence of spoliation
+  - There is no basis for the imposition of further sanctions
+```
+
+And here is a summary of the judge's tentative ruling in English text:
+
+The judge has denied the Plaintiffs' motion for terminating, issue, and monetary sanctions against Defendant Ryan for failure to comply with discovery orders. The judge has also denied Defendant Ryan's request for monetary sanctions against the Plaintiffs for bringing the motion. The judge found that Defendant Ryan did not intentionally destroy or conceal any evidence, but rather made mistakes in his responses to the discovery requests. The judge noted that Plaintiffs' reaction to the sequence of events was understandable, but that it would be unjust to sanction them for bringing the motion.

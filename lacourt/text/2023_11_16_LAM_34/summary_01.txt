@@ -1,0 +1,68 @@
+Here is the YAML summary of the tentative ruling:
+
+```
+Case Number: 20STCV00320
+Hearing Date: November 16, 2023
+Dept: 34
+Subject:
+  - Motion for Judgment Notwithstanding the Verdict
+  - Motion for New Trial on the Issue of Damages
+  - Motion to Tax Costs
+
+Moving Party:
+  - Defendant: City of Los Angeles
+Resp. Party:
+  - Plaintiffs: Stephen Glick and Alfred Garcia
+
+Facts:
+  - The case involves discrimination and retaliation claims against the City of Los Angeles Police Department (LAPD)
+  - The Jury found in favor of Plaintiffs on both causes of action
+  - The Jury awarded Plaintiff Stephen Glick $8,621,358.00 in damages, including $5,000,000.00 in past noneconomic damages and $3,000,000.00 in future noneconomic damages
+  - The Jury awarded Plaintiff Alfred Garcia $4,500,000.00 in damages
+  - The Motion for Judgment Notwithstanding the Verdict is DENIED
+  - The Motion for New Trial on the Issue of Damages is GRANTED, with a conditional order to reduce the damages to $125,000.00 for Plaintiff Stephen Glick and $50,000.00 for Plaintiff Alfred Garcia
+  - The Motion to Tax Costs is GRANTED in part, with costs taxed in the amount of $4,870.00 and awarded in favor of Plaintiffs and against Defendant in the amount of $94,595.66
+
+Intentions:
+  - To determine the merits of the motions filed by the parties
+  - To consider the evidence presented and the arguments made by the parties
+
+Disputes:
+  - The parties dispute the amount of damages awarded to Plaintiffs
+  - The parties dispute the propriety of the jury's verdict
+  - The parties dispute the application of the law to the facts
+
+Acts:
+  - The Jury was presented with evidence and arguments from both parties
+  - The Jury deliberated and returned verdicts in favor of Plaintiffs
+  - The parties filed motions seeking relief from the verdict
+
+Agreements:
+  - The parties agree on the facts of the case
+  - The parties agree on the legal standards applicable to the case
+
+Laws:
+  - California Civil Code section 629
+  - California Civil Code section 662.5
+  - Government Code section 12940
+  - Code of Civil Procedure section 656
+  - Code of Civil Procedure section 657
+  - Code of Civil Procedure section 662.5
+
+Case Citations:
+  - Hauter v. Zogarts (1975) 14 Cal.3d 104
+  - Brandenburg v. Pac. Gas & Elec. Co. (1946) 28 Cal.2d 282
+  - Yanowitz v. L’Oreal USA, Inc. (2005) 36 Cal.4th 1028
+
+Roles:
+  - Judge: The Judge is responsible for reviewing the motions and making decisions based on the evidence and arguments presented
+  - Parties: The parties are responsible for presenting evidence and arguments in support of their positions
+  - Jury: The Jury was responsible for deliberating and returning verdicts in favor of Plaintiffs
+
+Significant Statements:
+  - "The Court cannot weigh the evidence, or judge the credibility of witnesses." (Hauter v. Zogarts, 14 Cal.3d at p. 110)
+  - "A new trial is a re-examination of an issue of fact in the same court after a trial and decision by a jury, court, or referee." (Code Civ. Proc., § 656)
+  - "A new trial shall not be granted upon the ground of insufficiency of the evidence to justify the verdict or other decision, nor upon the ground of excessive or inadequate damages, unless after weighing the evidence the court is convinced from the entire record, including reasonable inferences therefrom, that the court or jury clearly should have reached a different verdict or decision." (Code Civ. Proc., § 657)
+```
+
+Note: The YAML syntax is used to represent the data in a structured format. The `Case Number`, `Hearing Date`, `Dept`, `Subject`, `Moving Party`, and `Resp. Party` are represented as key-value pairs, while the `Facts`, `Intentions`, `Disputes`, `Acts`, `Agreements`, `Laws`, `Case Citations`, `Roles`, and `Significant Statements` are represented as lists of key-value pairs.

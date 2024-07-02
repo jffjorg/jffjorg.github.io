@@ -1,0 +1,57 @@
+Here is the summary in YAML format:
+
+```
+case_number: "Unknown"
+plaintiff_name: "Plaintiffs"
+defendant_name: "Defendant"
+people_names:
+  - Stafford
+companies_names: []
+places: []
+dates:
+  - September 20, 2023
+events:
+  - Filing of FAC
+  - Service of opposition
+  - Demurrer
+  - Motion to strike
+  - Reply brief
+money:
+  - Attorney fees
+intentions:
+  - Dismiss FAC
+  - Consider FAC on merits
+facts:
+  - FAC filed 8 days late
+  - Service of opposition via overnight mail
+  - Reply brief and direct argument by Defendant
+disputes:
+  - Whether to dismiss FAC
+acts:
+  - Filing of FAC
+  - Service of opposition
+  - Demurrer
+  - Motion to strike
+  - Reply brief
+agreements: []
+laws:
+  - CCP § 473
+  - Penal Code § 496
+  - Civil Code § 789.3
+case_citations: []
+statutes:
+  - CCP § 473
+  - Penal Code § 496
+  - Civil Code § 789.3
+roles:
+  - Judge
+  - Plaintiffs' counsel
+  - Defendant's counsel
+significant_statements:
+  - Disregard Defendant's argument of prejudice
+  - Puzzling argument on attorney fees
+```
+
+And here is the English-text summary:
+
+The court has issued a tentative ruling in this case. The dispute is whether the court should consider the First Amended Complaint (FAC) on its merits or dismiss it because it was filed eight days late. The court notes that CCP § 473 does not apply because there is no judgment or order to set aside. Defendant argues that they were never served with the opposition, but the court finds that the proof of service shows that the documents were served via overnight mail and the Defendant's reply brief and direct argument weigh against finding prejudice. The court disregards this argument. The court also notes that the allegations of Defendant calling Plaintiff Stafford a "bad guy" are unchanged from the original Complaint. Finally, the court finds that the Defendant's argument on attorney fees is puzzling and based on a misreading of the case.

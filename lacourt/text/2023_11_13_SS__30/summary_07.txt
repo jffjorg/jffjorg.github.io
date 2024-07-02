@@ -1,0 +1,57 @@
+Here is the summary in YAML format:
+
+```
+Case Number: 21STCV24799
+Plaintiff's Name: Chester Patton
+Defendant's Name: Chris Winvick
+People-Names: Chester Patton, Chris Winvick
+Company-Names: None
+Places: None
+Dates:
+  - Hearing Date: November 13, 2023
+Events:
+  - Request for Entry of Default Judgment
+  - Review of request by the Court
+Money:
+  - $50,000 (claimed special damages)
+  - $15,488.33 (proved special damages)
+  - $125,000 (excessive general damages)
+  - $15,488.33 (adjusted special damages)
+Intentions:
+  - DENIED without prejudice
+Facts:
+  - Plaintiff claimed $50,000 in special damages
+  - Only evidence supports $15,488.33 in medical bills
+Disputes:
+  - Amount of damages
+  - Timeliness of obtaining default judgment
+Acts:
+  - Request for default judgment
+  - Review of request by the Court
+Agreements:
+  - California Rules of Court, rule 3.110
+  - California Rules of Court, rule 3.740
+  - Gov. Code § 68608
+  - LASC local rule 3.10
+  - Garcia v. McCutchen (1997)
+Laws:
+  - California Rules of Court, rule 3.110
+  - California Rules of Court, rule 3.740
+  - Gov. Code § 68608
+  - CCP 581(b)(4)
+  - CCP 583.410
+  - CCP 583.420(a)(2)(B)
+  - LASC local rule 3.10
+Statutes:
+  - Gov. Code § 68608
+Roles: Judge
+Significant Statements:
+  - Request for default judgment denied without prejudice
+  - Special damages adjusted to $15,488.33
+  - General damages excessive, adjusted accordingly
+  - Court sets deadline for final OSC re dismissal
+```
+
+And here is the English-text summary:
+
+The Court has reviewed the request for default judgment and is denying it without prejudice due to several defects. The Plaintiff claimed $50,000 in special damages, but the evidence only supports $15,488.33 in medical bills. Therefore, the request for judgment must be adjusted to reflect this reduced amount. Additionally, the Court finds that the requested general damages of $125,000 are excessive, and will only award general damages in an amount that is at most three times the special damages. The Court also notes that the Plaintiff failed to obtain entry of default within the required timeframe, and will set a deadline for a final OSC re dismissal.

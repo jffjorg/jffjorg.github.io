@@ -1,0 +1,66 @@
+Here is the summary in YAML format:
+
+```
+case_number: 2021-001234
+plaintiff_name: Dan Ma
+defendant_name: Vista Del Mar Child and Family Services
+people_names:
+  - Dan Ma
+  - Huina Allyson Huang
+company_names:
+  - Vista Del Mar Child and Family Services
+places:
+  - ?
+dates:
+  - September 14, 2021
+events:
+  - Filing of operative Fourth Amended Complaint
+  - Adoption of child
+  - Signing of relinquishment agreement
+  - Attempt to rescind agreement
+  - Refusal to return child
+  - Filing of cross-complaint
+money: $0
+intentions:
+  - To grant motion to file cross-complaint
+facts:
+  - Plaintiff gave child up for adoption through defendant
+  - Plaintiff signed relinquishment agreement without understanding its contents
+  - Defendant refused to return child after plaintiff sought to rescind agreement
+  - Defendant seeks leave to file cross-complaint against interpreter
+disputes:
+  - Fraudulent inducement
+  - Intentional misrepresentation
+  - Negligent misrepresentation
+  - Breach of written contract
+  - Breach of oral contract
+acts:
+  - Signing of relinquishment agreement
+  - Attempt to rescind agreement
+  - Refusal to return child
+agreements:
+  - Relinquishment agreement
+  - Cross-complaint
+laws:
+  - California Code of Civil Procedure § 426.10(c)
+  - California Code of Civil Procedure § 426.30(a)
+  - California Code of Civil Procedure § 426.50
+  - California Code of Civil Procedure § 428.50(c)
+  - California Rules of Court, Rule 8.54(c)
+statutes:
+  - Code Civ. Proc. § 426.10(c)
+  - Code Civ. Proc. § 426.30(a)
+  - Code Civ. Proc. § 426.50
+  - Code Civ. Proc. § 428.50(c)
+roles:
+  - Plaintiff: Dan Ma
+  - Defendant: Vista Del Mar Child and Family Services
+  - Interpreter: Huina Allyson Huang
+significant_statements:
+  - The court liberally construes the term "transaction"
+  - The decision to grant permission to file a permissive cross-complaint rests within the sound discretion of the trial court
+```
+
+And here is the English text summarizing the judge's tentative ruling:
+
+The judge is considering a motion by Vista Del Mar Child and Family Services to file a cross-complaint against Huina Allyson Huang, the interpreter who assisted in the adoption process. The plaintiff, Dan Ma, had given up her child for adoption through the defendant, but later sought to rescind the agreement and was refused. The defendant now seeks indemnity and related claims against the interpreter. The judge is granting the motion, as there is no opposition, and notes that the decision to grant permission to file a permissive cross-complaint rests within the sound discretion of the trial court.

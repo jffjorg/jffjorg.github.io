@@ -1,0 +1,63 @@
+Here is the summary in YAML format:
+
+```
+case-number: 22CMCV00686
+plaintiff-name: Ricardo Gonzalez
+defendant-names:
+  - Perez Express Inc.
+  - Raul Lopez Coronado
+  - Hector Flores
+people-names:
+  - Ricardo Gonzalez
+  - Raul Lopez Coronado
+  - Hector Flores
+  - Stacey A. Miller
+company-names:
+  - Tharpe & Howell, LLP
+  - Perez Express, Inc.
+places:
+  - Compton courthouse
+dates:
+  - November 16, 2023
+  - December 13, 2022
+  - December 10, 2023
+events:
+  - Collision between tractor-trailers
+  - Filing of complaint
+  - Filing of cross-complaint
+  - Motion to be relieved as counsel
+money: N/A
+intentions:
+  - To determine if attorney-client relationship has broken down
+  - To determine if address for service is current
+disputes:
+  - Breakdown in attorney-client relationship
+  - Unclear address for service
+acts:
+  - Service of notice by mail
+  - Declaration of counsel demonstrating address for service
+  - Request for order to be relieved as counsel
+agreements: N/A
+laws:
+  - California Rules of Court, Rule 3.1362
+  - Code of Civil Procedure, § 1011
+case-citations:
+  - California Rules of Court, Rule 3.1362
+  - Code of Civil Procedure, § 1011
+statutes:
+  - California Rules of Court, Rule 3.1362
+  - Code of Civil Procedure, § 1011
+roles:
+  - Judge
+  - Counsel for Defendant/Cross-Complainant Hector Flores
+  - Plaintiff
+  - Clerk of the court
+significant-statements:
+  - The attorney-client relationship has broken down
+  - The address for service is unclear
+  - The court cannot make the express finding that the requirements of California Rules of Court, Rule 3.1362, have been satisfied
+```
+
+And here is a summary of the judge's tentative ruling in English text:
+
+This tentative ruling addresses a motion by counsel for Defendant/Cross-Complainant Hector Flores to be relieved as counsel due to a breakdown in the attorney-client relationship. The court finds that the address for service of notice is unclear and that the declaration submitted by counsel does not meet the requirements of California Rules of Court, Rule 3.1362. As a result, the court continues the hearing to December 10, 2023, and orders counsel to file a supplemental declaration addressing the discrepancy.

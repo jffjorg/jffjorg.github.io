@@ -1,0 +1,101 @@
+Here is the summary in YAML format:
+
+```
+case_number: 23STCV01110
+hearing_date: November 13, 2023
+dept: 40
+court: Superior Court of California
+county: Los Angeles
+
+plaintiff:
+  name: Karen Flores
+  role: individual
+
+defendants:
+  - Everbrands, Inc., a California corporation
+  - Everbrands, Inc., a Delaware corporation
+  - Michael Florman, an individual
+  - Yon Lai, an individual
+  - DOES 1-25
+
+people:
+  - Karen Flores
+  - Allyson K. Thompson, Esq.
+  - Laura P. Birnbaum, Esq.
+  - Carmen Dilks, secretary
+
+companies:
+  - Everbrands, Inc.
+
+places:
+  - Los Angeles
+
+dates:
+  - January 18, 2023 (Complaint filed)
+  - July 24, 2023 (Requests for Admission served)
+  - September 11, 2023 (Everbrands CA served responses)
+  - September 19, 2023 (Meet and confer email sent)
+  - October 12, 2023 (Plaintiff's counsel received no responses)
+  - October 30, 2023 (Everbrands CA opposed the motion)
+  - November 3, 2023 (Plaintiff filed reply)
+
+events:
+  - Plaintiff filed a motion to compel further responses to Requests for Admission, Set 1
+  - Everbrands CA served responses to Requests for Admission, Set 1
+  - Plaintiff's counsel sent a meet and confer email
+  - Everbrands CA failed to respond to the meet and confer email
+  - Plaintiff filed a motion to compel further responses to Requests for Admission, Set 1
+
+money:
+  - $4,663.01 (sanctions awarded to Plaintiff)
+
+intensions:
+  - Plaintiff intends to compel further responses to Requests for Admission, Set 1
+  - Everbrands CA intends to provide supplemental responses to Requests for Admission, Set 1
+
+facts:
+  - Plaintiff was employed by Everbrands CA and alleges that she was not paid minimum wage or overtime
+  - Everbrands CA served responses to Requests for Admission, Set 1
+  - Plaintiff's counsel sent a meet and confer email, but Everbrands CA failed to respond
+  - Plaintiff filed a motion to compel further responses to Requests for Admission, Set 1
+
+disputes:
+  - Dispute over whether Everbrands CA's responses to Requests for Admission, Set 1 are sufficient
+  - Dispute over whether Everbrands CA's failure to respond to the meet and confer email is excusable
+
+acts:
+  - Plaintiff filed a motion to compel further responses to Requests for Admission, Set 1
+  - Everbrands CA served responses to Requests for Admission, Set 1
+  - Plaintiff's counsel sent a meet and confer email
+  - Everbrands CA failed to respond to the meet and confer email
+
+agreements:
+  - California Labor Code sections 201-203 (minimum wage and overtime)
+  - California Business Code section 17200 (unfair competition and unlawful business practices)
+
+laws:
+  - Code of Civil Procedure sections 2030.300, 2031.310, 2033.290 (discovery and requests for admission)
+  - California Rules of Court rule 3.1348 (sanctions)
+
+case_citations:
+  - Obregon v. Superior Court (1998) 67 Cal.App.4th 424
+  - Volkswagenwerk A.G. v. Superior Court (1981) 122 Cal.App.3d 326
+
+statutes:
+  - California Labor Code sections 201-203
+  - California Business Code section 17200
+
+roles:
+  - Judge
+  - Plaintiff's counsel
+  - Everbrands CA's counsel
+  - Secretary
+
+significant_statements:
+  - The Court notes that it understands Plaintiff's counsel's frustration with Defendants in relation to the discovery process and to this litigation generally.
+  - The Court reminds counsel that the Local Rules of this Court explicitly provide that "[n]either written submissions nor oral presentations should disparage the intelligence, ethics, morals, integrity or personal behavior of one's adversaries, unless such things are directly and necessarily in issue."
+  - The Court finds in favor of Plaintiff Flores and grants the motion to compel further responses to Requests for Admission, Set 1.
+  - The Court finds that Plaintiff is entitled to monetary damages and that these sanctions are merited based on Everbrands CA making evasive responses to discovery.
+```
+
+Note that some of the information presented in the document may not be relevant to the summary, so I may have omitted certain details.

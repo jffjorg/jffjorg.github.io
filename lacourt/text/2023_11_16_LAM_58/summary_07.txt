@@ -1,0 +1,83 @@
+Here is a summary of the tentative ruling in YAML format:
+
+```yaml
+case_number: [insert case number]
+plaintiff_name: Vivian Alecio
+defendant_name: Jet Aviation Flight Service, Inc. and Janelle Jaque
+people_names:
+  - Vivian Alecio
+  - Janelle Jaque
+  - Kara Carrier
+  - David Silkey
+  - Bruce Vogt
+  - Angie Riedel
+  - Carl Legenos
+  - Eduardo De Souza
+  - Dr. Irene Woo
+companies:
+  - Jet Aviation Flight Service, Inc.
+  - California Center for Reproductive Health
+places:
+  - Burbank
+  - Teterboro
+  - New Jersey
+dates:
+  - April 8, 2021
+  - April 9, 2021
+  - January 1, 2020
+  - June 10, 2020
+  - June 26, 2020
+  - March 18, 2021
+  - March 30, 2021
+  - February 23, 2021
+  - February 26, 2021
+events:
+  - Termination of employment
+  - Pregnancy
+  - Fertility treatment
+  - Doctor's appointments
+  - Performance evaluations
+  - Interactive process for reasonable accommodations
+  - Failure to prevent discrimination
+  - Failure to accommodate
+  - Harassment
+money: $0
+intention: To grant summary judgment to Jet Aviation Flight Service, Inc. and Janelle Jaque
+facts:
+  - Jet Aviation Flight Service, Inc. terminated Vivian Alecio's employment on April 9, 2021
+  - Alecio alleged discrimination based on her sex, pregnancy, and reproductive health decision-making
+  - Alecio alleged disability discrimination
+  - Alecio alleged failure to prevent discrimination
+  - Alecio alleged failure to accommodate her disability
+  - Alecio alleged harassment based on her pregnancy and related medical conditions
+  - Alecio alleged wrongful termination in violation of public policy
+laws:
+  - Fair Employment and Housing Act (FEHA)
+  - California Code of Civil Procedure section 437c
+  - California Rules of Court 3.1354
+citations:
+  - Aguilar v. Atlantic Richfield Co. (2001) 25 Cal.4th 826
+  - Avivi v. Centro Medico Urgente Medical Center (2008) 159 Cal. App. 4th 463
+  - Avila v. Continental Airlines, Inc. (2008) 165 Cal. App. 4th 1237
+  - Brundage v. Hahn (1997) 57 Cal. App. 4th 228
+  - Faust v. California Portland Cement Co. (2007) 150 Cal. App. 4th 864
+  - King v. United Parcel Service, Inc. (2007) 152 Cal. App. 4th 426
+  - Knight v. Hayward Unified School Dist. (2005) 132 Cal. App. 4th 121
+  - Morgan v. Regents of University of Cal. (2000) 88 Cal. App. 4th 52
+  - Nazir v. United Airlines, Inc. (2009) 178 Cal. App. 4th 243
+  - Scotch v. Art Institute of California (2009) 173 Cal. App. 4th 986
+  - Trop v. Sony Pictures Entertainment, Inc. (2005) 129 Cal. App. 4th 1133
+roles:
+  - Judge
+  - Plaintiff
+  - Defendant
+  - HR representative
+  - Supervisor
+  - Facilities Maintenance Manager
+significant_statements:
+  - "A party moving for summary judgment bears the burden of persuasion that there is no triable issue of material fact and that he is entitled to judgment as a matter of law."
+  - "The party opposing summary judgment must demonstrate that the evidence would allow a reasonable trier of fact to find the underlying fact in favor of the party opposing the motion, in accordance with the applicable standard of proof."
+  - "California uses the three-stage burden-shifting test established by the United States Supreme Court for trying claims of discrimination based on a theory of disparate treatment."
+```
+
+This summary is based on the tentative ruling and includes the case number, parties involved, and relevant

@@ -1,0 +1,95 @@
+Here is the summary in YAML format:
+
+```
+case_number: 21STCV13920
+hearing_date: November 16, 2023
+dept: 40
+judge: [Judge's name]
+
+people_names:
+  - Randall L. Bort
+  - Brian Kennedy
+  - Leonard Green
+
+company_names:
+  - KBS Holco, LLC
+  - Leonard Green & Partners LP
+
+places:
+  - Los Angeles
+  - California
+
+dates:
+  - August 31, 2021
+  - January 19, 2023
+  - July 18, 2023
+  - August 18, 2023
+  - September 8, 2023
+  - October 19, 2023
+  - October 30, 2023
+  - November 3, 2023
+  - November 8, 2023
+
+events:
+  - Motion to Compel Deposition of Nonparty
+  - Request for Monetary Sanctions
+  - Hearing on Motion to Quash
+
+money:
+  - $50,000 (Retainer Fee)
+  - $1,470,000 (Success Fee)
+  - $1,460,000 (Damages claimed by Plaintiff)
+
+intentions:
+  - To compel deposition of nonparty Leonard Green & Partners LP
+  - To obtain production of responsive documents
+  - To seek monetary sanctions
+
+facts:
+  - Plaintiff Randall L. Bort alleges that Defendants breached the Agreement
+  - Plaintiff Bort destroyed handwritten notes related to his work on the Regency Project
+  - Leonard Green & Partners LP was identified as a possible financing source by Plaintiff Bort
+  - Plaintiff's counsel's declaration shows that over 1,000 pages of discovery were produced to Defendants
+
+disputes:
+  - Over whether Leonard Green & Partners LP complied with deposition subpoena
+  - Over whether Defendants' motion was timely filed
+
+acts:
+  - Plaintiff Bort's destruction of handwritten notes
+  - Leonard Green & Partners LP's objection to deposition subpoena
+  - Defendants' motion to compel deposition of nonparty
+
+agreements:
+  - Written Agreement between Plaintiff Bort and Defendants regarding the Regency Project
+
+laws:
+  - California Code of Civil Procedure Section 2025.450
+  - California Code of Civil Procedure Section 2024.020
+  - California Code of Civil Procedure Section 2025.230
+
+case_citations:
+  - Terry v. SLICO (2009) 175 Cal.App.4th 352
+  - Sears, Roebuck, & Co. v. National Un. Fire Ins. (2005) 131 Cal.App.4th 1342
+  - Brun v. Bailey (1994) 27 Cal.App.4th 641
+
+statutes:
+  - California Code of Civil Procedure Section 2025.450
+  - California Code of Civil Procedure Section 2024.020
+  - California Code of Civil Procedure Section 2025.230
+
+roles:
+  - Judge: [Judge's name]
+  - Plaintiff: Randall L. Bort
+  - Defendants: KBS Holco, LLC and Brian Kennedy
+  - Nonparty: Leonard Green & Partners LP
+
+significant_statements:
+  - "Defendants' motion is therefore DENIED."
+  - "The Court cannot find that Defendants moved diligently to obtain this discovery such that the Court should overlook the issue of timeliness."
+  - "The Court DENIES Leonard Green's sanctions request because Defendants made reasonable arguments in their motion, though not ultimately successful."
+```
+
+And here is a brief summary in English text:
+
+The Judge's tentative ruling denies the motion of Defendants KBS Holco, LLC and Brian Kennedy to compel non-party Leonard Green & Partners LP to comply with a deposition subpoena and produce responsive documents. The motion was filed late and the Judge finds that the Defendants did not move diligently to obtain the discovery. The Judge also denies the request for monetary sanctions.

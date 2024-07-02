@@ -1,0 +1,109 @@
+Here is the YAML summary:
+
+```
+case_number: 22PSCV01041
+hearing_date: November 14, 2023
+dept: O
+tentative_ruling:
+  motion_to_set_aside_default_judgement_and_request_for_default_judgement_against_defendant: DENIED
+
+people_names:
+  - Larry Ortega
+  - The People of the State of California
+  - California Public Utilities Commission
+
+company_names:
+  - Community Union, Inc.
+
+places:
+  - Pomona Courthouse South
+
+dates:
+  - September 13, 2022
+  - December 14, 2022
+  - January 27, 2023
+  - February 28, 2023
+  - March 1, 2023
+  - April 7, 2023
+  - April 24, 2023
+  - April 25, 2023
+  - May 9, 2023
+  - June 7, 2023
+  - August 21, 2023
+  - August 28, 2023
+  - September 11, 2023
+  - September 21, 2023
+  - October 31, 2023
+  - November 7, 2023
+  - November 14, 2023
+
+events:
+  - Default judgment entered against CU
+  - Default judgment entered against Ortega
+  - CMC scheduled for February 28, 2023
+  - OSC scheduled for February 28, 2023
+  - Plaintiff filed POS indicating CU had been served
+  - Plaintiff filed POS indicating Ortega had been served
+  - Ortega filed motion to set aside default judgment
+  - Plaintiff filed opposition to motion
+  - Ortega filed amended motion
+  - Plaintiff filed opposition to amended motion
+  - Ortega filed reply
+  - Hearing on motion to set aside default judgment
+
+money:
+  - $162,109.00
+
+intentions:
+  - To set aside default judgment
+  - To request default judgment against Ortega
+
+facts:
+  - CU was in violation of Commission's approval
+  - CU was ordered to return $162,109.00
+  - Ortega was personally liable
+  - Plaintiff filed complaint
+  - Ortega filed motion to set aside default judgment
+
+disputes:
+  - Ortega's claim of excusable neglect
+  - Ortega's claim of mistake
+  - Ortega's claim of surprise
+
+acts:
+  - Plaintiff filed complaint
+  - Plaintiff filed POS
+  - Ortega filed motion to set aside default judgment
+  - Plaintiff filed opposition to motion
+  - Ortega filed amended motion
+  - Plaintiff filed opposition to amended motion
+  - Ortega filed reply
+
+agreements:
+  - None
+
+laws:
+  - California Public Utilities Code
+  - Code of Civil Procedure section 473
+  - Code of Civil Procedure section 585a
+
+case_citations:
+  - Henderson v. Pacific Gas & Electric Co.
+  - Nwosu v. Uba
+  - Hodge Sheet Metal Products v. Palm Springs Riviera Hotel
+
+statutes:
+  - CCP section 473
+  - CCP section 585a
+
+roles:
+  - Judge
+  - Plaintiff
+  - Defendant
+  - Prosecution
+  - Defense
+
+significant_statements:
+  - The motion is denied due to lack of excusable neglect and failure to provide a valid reason for not filing an answer.
+  - The court is not persuaded by Ortega's claims of mistake, inadvertence, and surprise.
+  - The motion is denied to prevent unnecessary expenditure of resources.

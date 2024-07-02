@@ -1,0 +1,58 @@
+Here is the summary in YAML format:
+
+```
+case_number: 21STCV45686
+plaintiff_name: Juan Pablo Garcia
+defendant_name: Monesha Nicole Clayton and Does 1-25
+people_names:
+  - Juan Pablo Garcia
+  - Clara Consuelo Zaragoza Velazquez
+  - Monesha Nicole Clayton
+company_names: []
+places:
+  - California
+  - Los Angeles
+  - Central District
+  - Spring Street Courthouse
+dates:
+  - December 16, 2021
+  - August 28, 2023
+  - October 11, 2023
+  - November 15, 2023
+events:
+  - Filing of complaint
+  - Filing of motion to continue action
+  - Continuance of motion
+  - Granting of motion
+money: []
+intentions:
+  - To continue the pending action by substituting Clara Consuelo Zaragoza Velazquez as successor in interest to deceased Plaintiff
+facts:
+  - Plaintiff Juan Pablo Garcia died
+  - Plaintiff filed a complaint against Defendant and Does 1-25
+  - Plaintiff filed a motion to continue the action by substituting Clara Consuelo Zaragoza Velazquez as successor in interest
+disputes:
+  - None
+acts:
+  - Filing of motion
+  - Continuance of motion
+  - Granting of motion
+agreements:
+  - Code of Civil Procedure § 377.31 and § 377.32
+laws:
+  - Code of Civil Procedure § 377.31 and § 377.32
+case_citations: []
+statutes:
+  - Code of Civil Procedure § 377.31 and § 377.32
+roles:
+  - Judge: Hon. Lee S. Arian
+  - Guardian Ad Litem: Clara Consuelo Zaragoza Velazquez
+  - Successor in interest: Clara Consuelo Zaragoza Velazquez
+significant_statements:
+  - The Court finds that the Successor's declaration complies with all the requirements of Code section 377.32, subdivision (a).
+  - The motion is granted.
+```
+
+Summary in English text:
+
+The judge has issued a tentative ruling on the motion to continue the pending action by substituting Clara Consuelo Zaragoza Velazquez as successor in interest to deceased Plaintiff Juan Pablo Garcia. The motion was filed on August 28, 2023, and no opposition was filed. The Court has found that the successor's declaration complies with all the requirements of Code of Civil Procedure § 377.32, subdivision (a), and therefore grants the motion. The motion to continue the action by successor in interest is granted.

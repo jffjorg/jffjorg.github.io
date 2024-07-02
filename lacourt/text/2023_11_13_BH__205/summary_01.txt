@@ -1,0 +1,62 @@
+Here is the summary in YAML format:
+
+```
+case_number: 23SMCV00657
+plaintiff_name: Michelman & Robinson LLP
+defendant_name: Jeremy Byk
+people_names:
+  - Michelman & Robinson LLP
+  - Jeremy Byk
+company_names:
+  - Michelman & Robinson LLP
+places:
+  - Beverly Hills
+dates:
+  - February 15, 2023
+  - July 5, 2023
+  - August 24, 2023
+  - October 2, 2023
+  - November 13, 2023
+events:
+  - Request for Entry of Default Judgment
+  - Entry of Default
+  - Request for Default Judgment
+money:
+  - $47,475.72
+  - $9,464
+  - $728.51
+intentions:
+  - Obtain default judgment
+facts:
+  - Plaintiff entered into an agreement with Defendant to provide legal services
+  - Defendant defaulted by failing to pay fees due under the agreement
+  - Plaintiff filed a Complaint and served Defendant by publication
+  - Defendant did not respond, and default was entered
+  - Plaintiff requested a default judgment
+disputes:
+  - Discrepancy in amounts owing under the agreement
+acts:
+  - Entry of default
+  - Request for default judgment
+agreements:
+  - Written agreement between Plaintiff and Defendant
+laws:
+  - Code of Civil Procedure section 585
+  - Code of Civil Procedure section 579
+  - CRC Rule 3.1800
+case_citations:
+  - Kim v. Westmoore Partners, Inc. (2011) 201 Cal.App.4th 267
+statutes:
+  - Code of Civil Procedure section 585
+  - Code of Civil Procedure section 579
+roles:
+  - Judge
+  - Plaintiff
+  - Defendant
+significant_statements:
+  - Default judgment is denied due to discrepancy in amounts owing under the agreement
+```
+
+And here is the English-text summary:
+
+This tentative ruling denies the request for default judgment filed by Michelman & Robinson LLP against Jeremy Byk. The dispute is a breach of contract case, where the Plaintiff entered into an agreement with the Defendant to provide legal services, but the Defendant defaulted by failing to pay fees due under the agreement. The Plaintiff filed a Complaint and served the Defendant by publication, but the Defendant did not respond, and default was entered. The Plaintiff then requested a default judgment, but the Court denied it due to a discrepancy in the amounts owing under the agreement. The Court has not made a ruling on the merits of the case, but rather has denied the request for default judgment based on the lack of clarity regarding the amounts owing.

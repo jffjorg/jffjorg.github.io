@@ -1,0 +1,53 @@
+Here is the summary in YAML format:
+
+```
+case_number: 22STCV37700
+plaintiff_name: Zachary Kelling, Hanzo, Inc.
+defendant_name: Praesidium Partners, Inc., Phillip Liu, Rayne Steinberg, Jeff Dorman
+people_names:
+  - Daniel B. Lopez
+  - Zachary Kelling
+  - Phillip Liu
+  - Rayne Steinberg
+  - Jeff Dorman
+company_names:
+  - Hanzo, Inc.
+  - Praesidium Partners, Inc.
+places:
+  - None mentioned
+dates:
+  - December 1, 2022
+  - July 20, 2023
+  - October 19, 2023
+events:
+  - Filing of Complaint
+  - Dismissal of Complaint with prejudice
+  - Filing of Motion to be Relieved as Counsel
+money: None mentioned
+intentions:
+  - Plaintiff's Counsel, Daniel B. Lopez, intends to be relieved as Counsel
+facts:
+  - The case was dismissed with prejudice on July 20, 2023
+  - The Court has no jurisdiction to hear the Motion to be Relieved as Counsel
+disputes: None mentioned
+acts:
+  - Filing of Complaint
+  - Dismissal of Complaint
+  - Filing of Motion to be Relieved as Counsel
+agreements: None mentioned
+laws: Civil Procedure
+case_citations: None mentioned
+statutes: None mentioned
+roles:
+  - Judge
+  - Plaintiff's Counsel (Daniel B. Lopez)
+  - Plaintiff (Zachary Kelling, Hanzo, Inc.)
+  - Defendant (Praesidium Partners, Inc., Phillip Liu, Rayne Steinberg, Jeff Dorman)
+significant_statements:
+  - The Motion to be Relieved as Counsel is taken off-calendar
+  - The Court has no jurisdiction to hear this Motion to be Relieved as Counsel
+```
+
+And here is the summary in English text:
+
+The tentative ruling is about a motion to be relieved as counsel filed by Daniel B. Lopez, the plaintiff's counsel, on October 19, 2023. However, the case was dismissed with prejudice on July 20, 2023, and therefore, the court has no jurisdiction to hear this motion. As a result, the motion is taken off-calendar.
