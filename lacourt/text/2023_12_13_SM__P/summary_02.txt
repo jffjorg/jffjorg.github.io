@@ -1,0 +1,92 @@
+Here is the summary of the tentative ruling in YAML format:
+
+```
+case_number: 22SMCV01418
+hearing_date: December 13, 2023
+dept: P
+tentative_ruling:
+  - motion: Plaintiff Roth's Motion to Compel Further Responses to Requests for Production of Documents
+    ruling: GRANTED or DENIED for each request
+
+people_names:
+  - Karl Roth
+  - Mariangela Caraballo
+  - Arakelian
+
+company_names:
+  - Arakelian Enterprises, Inc.
+
+places:
+  - Los Angeles
+  - 90291 zip code
+
+dates:
+  - June 13, 2023
+  - July 17, 2023
+  - October 9, 2023
+  - November 15, 2023
+  - August 25, 2020
+  - May 2023
+  - 2017
+
+events:
+  - Sanitation vehicle accident
+  - Service of requests for production of documents
+  - Demurrer to all causes of action against Mariangela Caraballo
+
+money:
+  - None
+
+intentions:
+  - To compel further responses to requests for production of documents
+  - To discover relevant information about the accident and the defendant's negligence
+
+facts:
+  - The plaintiff's car was struck by a sanitation vehicle driven by an employee of the defendant
+  - The defendant did not provide sufficient responses to the plaintiff's requests for production of documents
+  - The court reserved a hearing date for discovery motions on October 9, 2023
+
+disputes:
+  - Timeliness of the motion to compel further responses
+  - Sufficiency of the defendant's responses to the requests for production of documents
+  - Relevance and discoverability of certain documents
+
+acts:
+  - Service of requests for production of documents
+  - Objections by the defendant to the requests for production of documents
+  - Demurrer to all causes of action against Mariangela Caraballo
+
+agreements:
+  - None
+
+laws:
+  - California Code of Civil Procedure §2031(c)
+  - California Evidence Code §1155
+
+case_citations:
+  - None
+
+statutes:
+  - California Code of Civil Procedure §2031(c)
+  - California Evidence Code §1155
+
+roles:
+  - Plaintiff: Karl Roth
+  - Defendant: Arakelian Enterprises, Inc.
+  - Judge: [Name of Judge]
+
+significant_statements:
+  - The motion is compliant with the court's October 9 order, not untimely.
+  - The court will consider the merits of the motion.
+  - The request for GPS tracking data of Arakelian's vehicles is denied.
+  - The court will order production only of reports that reference the August 25, 2020 accident.
+  - The court is open to issuing a protective order to prevent the disclosure of materials outside the litigation.
+```
+
+And here is a summary of the tentative ruling in English text:
+
+This tentative ruling addresses Plaintiff Karl Roth's Motion to Compel Further Responses to Requests for Production of Documents against Defendant Arakelian Enterprises, Inc. The court has reviewed the requests and granted or denied each one based on their relevance and discoverability.
+
+The court finds that the defendant's responses to the requests were insufficient and that the plaintiff's motion is not untimely. The court grants certain requests, including requests for production of documents related to the accident, the defendant's contract with the City of Los Angeles, and GPS tracking data of the defendant's vehicles. The court denies other requests, including requests for overbroad or irrelevant information.
+
+The court also orders the defendant to produce further documents in accordance with the rulings above within 20 days or, if no further documents exist, provide a verified statement that a diligent search has been conducted. No sanctions will issue as there is no evidence that the defendant's objections were made in bad faith.

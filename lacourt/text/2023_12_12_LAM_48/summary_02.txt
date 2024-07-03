@@ -1,0 +1,73 @@
+Here is the summary in YAML format:
+
+```
+case_number: 22STCV01261
+plaintiff: Richard Pastore
+defendant: Autozone West, Inc. et al.
+people_names:
+  - Richard Pastore
+  - Zalman Robles
+  - Anthony Nguyen
+  - Steven Gatley
+  - Jerry Chang
+  - Ula Chun
+  - Raul Martinez
+company_names:
+  - AutoZone West, Inc.
+  - AutoZone Inc.
+  - AutoZoners LLC
+places:
+  - California
+  - United States
+dates:
+  - October 10, 2023
+  - October 27, 2023
+  - November 13, 2023
+  - November 21, 2023
+  - December 12, 2023
+events:
+  - Jury trial
+  - Verdict in favor of defendants
+  - Motion to disqualify defendants' counsel
+  - Judgment entered
+money: None
+intentions:
+  - To disqualify defendants' counsel
+  - To preserve public trust in the judicial process
+  - To maintain ethical standards of professional responsibility
+facts:
+  - Zalman Robles, a former associate of plaintiff's counsel, worked for defendants' counsel's firm since June 2023
+  - Robles had direct communications with defendants' counsel during his time at plaintiff's counsel's firm
+  - Robles was asked about his involvement with the case during the hiring process at defendants' firm and denied any involvement
+  - Defendants' firm created an ethical wall to prohibit Robles from accessing information related to the case
+disputes:
+  - Whether Robles's employment with defendants' counsel's firm constitutes a conflict of interest
+  - Whether defendants' counsel used Responses to Request for Admission to impeach plaintiff at trial
+acts:
+  - Plaintiff filed a motion to disqualify defendants' counsel
+  - Defendants' firm created an ethical wall to prohibit Robles from accessing information related to the case
+agreements:
+  - None
+laws:
+  - California Rules of Professional Conduct
+  - California Code of Civil Procedure
+case_citations:
+  - Ontiveros v. Constable (2016)
+  - People ex rel. Dept. of Corporations v. SpeeDee Oil Change Systems, Inc. (1999)
+  - O'Gara Coach Co., LLC v. Ra (2019)
+  - Kirk v. First American Title Ins. Co. (2010)
+  - In re Complex Asbestos Litigation (1991)
+roles:
+  - Judge: Hon. Thomas D. Long
+  - Plaintiff: Richard Pastore
+  - Defendant: Autozone West, Inc. et al.
+  - Counsel: [Defendants' counsel's firm]
+significant_statements:
+  - The Court concludes that defendants have rebutted the presumption that any confidential attorney-client information was used or disclosed in Robles's new employment with defendants' firm.
+  - The Court finds that plaintiff has not shown that Robles actually conveyed confidential information.
+  - The Court denies the motion to disqualify defendants' counsel.
+```
+
+And here is a summary of the judge's tentative ruling in English text:
+
+The judge is denying the plaintiff's motion to disqualify defendants' counsel. The motion was filed after the jury trial in this action, in which the jury returned a verdict in favor of defendants. The plaintiff argues that disqualification is necessary because Zalman Robles, a former associate of the plaintiff's counsel, joined defendants' counsel's firm in June 2023 and had direct communications with defendants' counsel during his time at the plaintiff's counsel's firm. However, the judge finds that defendants have rebutted the presumption that any confidential attorney-client information was used or disclosed in Robles's new employment with defendants' firm. The judge also finds that plaintiff has not shown that Robles actually conveyed confidential information. Additionally, the judge notes that defendants' firm created an ethical wall to prohibit Robles from accessing information related to the case, and that any wrongdoing or harm to plaintiff arising from responses to request for admission was caused by Robles's actions while at the plaintiff's counsel's firm, not by his later employment with defendants' counsel's firm.

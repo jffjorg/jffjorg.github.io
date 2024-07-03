@@ -1,0 +1,64 @@
+Here is the YAML representation of the legal document:
+
+```
+Case Number: 21SMCV00176
+Plaintiff's Name: WW Westwood, L.P.
+Defendant's Name: EBI NIKJOO, D.D.S., et al.
+People-Names:
+  - Ebi Nikjoo D.D.S.
+  - Ron Rosen Janfaza
+Company-Names:
+  - WW Westwood, L.P.
+Places:
+  - 10921 Wilshire Blvd, Los Angeles, California
+  - Beverly Hills Courthouse / Department 205
+Dates:
+  - December 13, 2023
+  - October 12, 2023
+  - 1995
+  - 1997
+  - 1996
+  - 2006
+  - 2011
+Events:
+  - Landlord-tenant dispute
+  - Failure to pay rent
+  - Grant of summary judgment in favor of Plaintiff
+  - Motion for reconsideration by Defendant
+Money:
+  - $300,000
+Intentions:
+  - To offset rental obligation against loss
+Facts:
+  - Tenant failed to pay rent
+  - Tenant claims Landlord failed to provide maintenance and repair services
+  - Tenant claims this failure prevented him from providing dental services to patients
+Disputes:
+  - Dispute over maintenance and repair services
+  - Dispute over responsibility for failure to pay rent
+Acts:
+  - Grant of summary judgment in favor of Plaintiff
+  - Filing of motion for reconsideration by Defendant
+  - Submission of supplemental declaration by Defendant
+Agreements:
+  - Written lease agreement between Landlord and Tenant
+Laws:
+  - Code of Civil Procedure Section 1008(a)
+  - Code of Civil Procedure Section 437c(d)
+Case Citations:
+  - Gilberd v. AC Transit (1995) 32 Cal. App. 4th 1494
+  - Garcia v. Hejmadi (1997) 58 Cal. App. 4th 674
+  - Ramon v. Aerospace Corp. (1996) 50 Cal.App.4th 1233
+  - Morris v. AGFA Corp. (2006) 144 Cal.App.4th 1452
+  - Hennigan v. White (2011) 199 Cal.App.4th 395
+  - Nave v. Taggart (1995) 34 Cal.App.4th 1173
+Roles:
+  - Judge: Edward B. Moreton, Jr.
+Significant Statements:
+  - "A court acts in excess of jurisdiction when it grants a motion to reconsider that is not based upon 'new or different facts, circumstances or law'."
+  - "A party seeking reconsideration of a prior order based on 'new or different facts, circumstances or law' must provide a satisfactory explanation for failing to present the information at the first hearing."
+```
+
+And here is a summary of the judge's tentative ruling in English text:
+
+The judge has denied the defendant's motion for reconsideration of the summary judgment granted in favor of the plaintiff. The defendant had claimed that the plaintiff failed to provide maintenance and repair services, which prevented him from providing dental services to his patients and resulted in a loss of over $300,000. However, the judge found that the defendant failed to present new or different facts or law to support his claim, and that he should have presented the evidence earlier. The judge also noted that the defendant had failed to show that he could not have presented the evidence earlier, and that he was required to submit admissible evidence in opposing a summary judgment. The judge concluded that the motion for reconsideration was denied because the court lacked jurisdiction to consider it after the entry of judgment in favor of the plaintiff.

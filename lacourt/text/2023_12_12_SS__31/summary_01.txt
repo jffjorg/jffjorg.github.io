@@ -1,0 +1,84 @@
+Here is the summary of the Judge's tentative ruling in YAML format:
+
+```
+case_number: 20STCV03959
+plaintiff_name: Raquel Landeros
+defendant_names:
+  - Thurman David Heaberlin
+  - Perry Anthony Duplessis
+people_names:
+  - Raquel Landeros
+  - Thurman David Heaberlin
+  - Perry Anthony Duplessis
+company_names: []
+places:
+  - California
+  - USA
+dates:
+  - July 6, 2021
+  - October 25, 2022
+  - October 4, 2023
+  - February 12, 2020
+  - April 16, 2022
+  - December 12, 2023
+events:
+  - Motor vehicle vs. pedestrian accident
+  - Default judgment request
+  - Service of statement of damages
+  - Amendment to complaint
+  - Substituted service
+  - Service by publication
+money:
+  - $25,349.57 (special damages)
+  - $10,000 (general damages)
+  - $530 (costs)
+  - $15,000 (statutory cap on vehicle owner's liability)
+  - $18,865 (capped amount of special damages)
+  - $250 (monetary sanctions)
+intentions:
+  - To obtain default judgment against Heaberlin and Duplessis
+  - To clarify the amount sought against Duplessis
+  - To properly serve the amended statement of damages
+  - To avoid the imposition of sanctions
+facts:
+  - Plaintiff obtained Heaberlin's default on July 6, 2021
+  - Plaintiff obtained Duplessis's default on October 25, 2022
+  - Plaintiff seeks damages from Duplessis as the vehicle owner
+  - Vehicle Code 17151(a) provides that a vehicle owner's liability is capped at $15,000
+disputes:
+  - Plaintiff's request for default judgment is defective
+  - Plaintiff failed to specify the amount sought against Duplessis
+  - Plaintiff failed to properly serve the amended statement of damages
+acts:
+  - Plaintiff filed this action against Heaberlin and Duplessis
+  - Plaintiff obtained defaults against Heaberlin and Duplessis
+  - Plaintiff seeks default judgment against Heaberlin and Duplessis
+agreements:
+  - Vehicle Code 17151(a)
+  - Plotitsa v. Superior Ct. (1983)
+laws:
+  - Vehicle Code 17151(a)
+  - California Code of Civil Procedure sections 415.20 and 415.50
+case_citations:
+  - Plotitsa v. Superior Ct. (1983)
+statutes:
+  - Vehicle Code 17151(a)
+  - California Code of Civil Procedure sections 415.20 and 415.50
+roles:
+  - Judge
+  - Plaintiff (Raquel Landeros)
+  - Defendant (Thurman David Heaberlin)
+  - Defendant (Perry Anthony Duplessis)
+significant_statements:
+  - The Court will not void the defaults at this time
+  - Plaintiff must properly serve the amended statement of damages and obtain new entry of default thereafter
+  - Failure to do so may result in the imposition of sanctions, including monetary sanctions and/or dismissal
+```
+
+And here is the summary of the Judge's tentative ruling in English text:
+
+The Court has reviewed the Plaintiff's request for default judgment against Heaberlin and Duplessis. The Plaintiff seeks damages from Duplessis as the vehicle owner, citing Vehicle Code 17151(a) which caps the vehicle owner's liability at $15,000. However, the Plaintiff failed to specify the amount sought against Duplessis, and therefore, the request for default judgment is denied. The Plaintiff must specify the amount sought against Duplessis, either $15,000 or a lesser value within the statutory cap.
+
+Additionally, the Court notes that the statement of damages filed on October 4, 2023, increased the amount of special damages sought against the Defendants. However, the service of this amended statement of damages was improper, and personal service is required. The Plaintiff must properly serve the amended statement of damages and obtain new entry of default thereafter.
+
+The Court also notes that this is the fifth time the Plaintiff has submitted a defective request for default judgment, and therefore, the Plaintiff has failed to show cause why sanctions should not be imposed for failure to prosecute. The Court hereby imposes monetary sanctions of $250 payable within 30 days. The OSC re entry of default judgment is continued to a later date.

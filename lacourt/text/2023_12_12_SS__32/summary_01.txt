@@ -1,0 +1,69 @@
+Here is the summary of the judge's tentative ruling in YAML format:
+
+```
+case_number: 21STCV18687
+plaintiff_name: Kamran Massachi
+defendant_name: Sayaco Partnership
+people_names:
+  - Ben Sayani
+  - Artin Avetisove
+  - Jeff Esguerra
+  - Benjamin Thompson
+company_names:
+  - Sayaco Partnership
+  - A Plus Fabric, Inc.
+places:
+  - 2080 Belgrave Avenue
+  - Huntington Park, California
+dates:
+  - April 30, 2021
+  - May 18, 2021
+  - July 26, 2021
+  - March 23, 2022
+  - June 20, 2022
+  - October 29, 2020
+  - February 2021
+events:
+  - Rolling metal gate fell on plaintiff
+  - Plaintiff filed complaint against defendants
+  - Sayaco filed cross-complaint against Roe 1 (A Plus Fabric, Inc.)
+  - APF filed answer to cross-complaint
+  - Sayaco moved for summary adjudication
+money:
+  - None mentioned
+intentions:
+  - Sayaco seeks to have APF indemnify and defend against plaintiff's action
+facts:
+  - Gate was fully functional before being damaged
+  - Gate was damaged as a result of APF employee's actions
+  - Gate was not damaged when plaintiff first started working at the property
+  - Plaintiff had no difficulty opening or closing the gate before it was damaged
+disputes:
+  - Whether APF owes a contractual duty to indemnify and defend against plaintiff's action
+  - Whether the gate was a structural component of the leased premises
+acts:
+  - APF removed metal rail from gate
+  - Sayaco failed to correct the issue after being notified
+laws:
+  - Civil Code section 2778
+  - Code of Civil Procedure section 437c
+  - Mora v. Baker Commodities, Inc. (1989) 210 Cal.App.3d 771
+  - Montrose Chemical Corp. v. Superior Court (1993) 6 Cal.4th 287
+case_citations:
+  - Code Civ. Proc., § 437c, subd. (f)(1)
+  - Civ. Code § 2778
+  - Aguilar v. Atlantic Richfield Co. (2001) 25 Cal.4th 826
+  - Fisherman's Wharf Bay Cruise Corp. v. Superior Court (2003) 114 Cal.App.4th 309
+  - Crawford v. Weather Shield Mfg., Inc. (2008) 44 Cal.4th 541
+  - Centex Homes v. R-Help Construction Co., Inc. (2019) 32 Cal.App.5th 1230
+roles:
+  - Judge
+  - Sayaco Partnership
+  - A Plus Fabric, Inc.
+  - Kamran Massachi
+significant_statements:
+  - The Court finds that the Lease Agreement entered between Sayaco and APF requires APF to indemnify and defend Plaintiff's action on behalf of Sayaco.
+  - The Court grants Sayaco Partnership's Motion for Summary Adjudication on its cross complaint.
+```
+
+The judge's tentative ruling concludes that Sayaco Partnership's Motion for Summary Adjudication on its cross-complaint is granted. The Court finds that the Lease Agreement between Sayaco and A Plus Fabric, Inc. requires APF to indemnify and defend against plaintiff's action on behalf of Sayaco. The ruling is based on the evidence presented, which shows that APF removed the metal rail from the gate, causing it to fall, and that Sayaco failed to correct the issue after being notified. The Court concludes that there is no triable issue of material fact that the indemnity provision does not require APF to defend and indemnify Sayaco.

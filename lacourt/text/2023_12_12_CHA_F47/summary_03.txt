@@ -1,0 +1,65 @@
+Here is the summary in YAML format:
+
+```
+case_number: PC051340
+plaintiff: Magdalena V. Guerrero
+defendant: Yesenia Guerrero
+people:
+  - Magdalena V. Guerrero (plaintiff)
+  - Yesenia Guerrero (defendant)
+  - Hugo M. Cervantes (defendant's spouse and claimant)
+company:
+  - Wells Fargo Bank
+places:
+  - California
+dates:
+  - 8/14/19
+  - 11/6/23
+  - 11/14/23
+  - 12/12/23
+events:
+  - Judgment entered in favor of plaintiff
+  - Claim of exemption filed by defendant's spouse
+  - Notice of hearing on claim of exemption filed by plaintiff
+  - Opposition to claim of exemption filed by plaintiff
+money:
+  - $74,386.07 (amount of judgment)
+  - $100,149.50 (amount of funds held by Wells Fargo Bank)
+intentions:
+  - Plaintiff intends to enforce judgment against defendant's community property
+  - Defendant's spouse intends to claim exemption of funds held by Wells Fargo Bank
+facts:
+  - Judgment was entered in favor of plaintiff against defendant
+  - Defendant's spouse claimed exemption of funds held by Wells Fargo Bank
+  - Plaintiff filed notice of hearing on claim of exemption and opposition to claim of exemption
+disputes:
+  - Whether funds held by Wells Fargo Bank are exempt from enforcement of judgment
+acts:
+  - Levy on bank account by plaintiff
+  - Claim of exemption filed by defendant's spouse
+  - Opposition to claim of exemption filed by plaintiff
+agreements:
+  - CCP 704.070 (California Code of Civil Procedure)
+  - CCP 700.160 (California Code of Civil Procedure)
+  - Family Code 910 (California Family Code)
+laws:
+  - CCP 704.070 (California Code of Civil Procedure)
+  - CCP 700.160 (California Code of Civil Procedure)
+  - Family Code 910 (California Family Code)
+case_citations:
+  - CCP 704.070
+  - CCP 700.160
+  - Family Code 910
+roles:
+  - Plaintiff (Magdalena V. Guerrero)
+  - Defendant (Yesenia Guerrero)
+  - Claimant (Hugo M. Cervantes)
+significant_statements:
+  - The claim of exemption is denied.
+  - The funds held by Wells Fargo Bank are not exempt from enforcement of judgment.
+  - A creditor may levy on bank accounts in the name of the debtor's spouse, even if the spouse is not a defendant in the action.
+```
+
+And here is a summary of the judge's tentative ruling in English text:
+
+The court has issued a tentative ruling denying the claim of exemption filed by Yesenia Guerrero's spouse, Hugo M. Cervantes, regarding $100,149.50 held by Wells Fargo Bank. The funds were levied upon by the plaintiff, Magdalena V. Guerrero, in an effort to enforce a judgment entered in her favor against Yesenia Guerrero in the amount of $74,386.07. The court determined that the funds do not qualify as exempt wages under CCP 704.070 because they were not earned within the past 30 days and the claimant, Hugo M. Cervantes, does not have any income. Additionally, the court held that a creditor may levy on bank accounts in the name of the debtor's spouse, even if the spouse is not a defendant in the action, as long as an affidavit is delivered to the financial institution showing that the person is the judgment debtor's spouse.

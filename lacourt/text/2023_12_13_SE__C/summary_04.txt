@@ -1,0 +1,56 @@
+Here is the summary in YAML format:
+
+```
+case_number: 22NWCV01161
+plaintiff: Nicole Zaun
+defendant: Rick O Trevino et al.
+people_names:
+  - Michael R. Perry
+  - Larry M. Roberts
+  - Matthew J. Bertolucci
+  - Rick Oliver Trevino
+  - Stacy Helen Trevino
+company_names:
+  - None
+places:
+  - None
+dates:
+  - December 13, 2023
+  - January 10, 2024
+  - April 17, 2024
+events:
+  - Ex parte application to be relieved as counsel
+  - Hearing on motion to be relieved as counsel
+  - Trial
+money:
+  - Attorney fees
+intentions:
+  - Attorneys for Defendant want to be relieved as counsel
+facts:
+  - Attorneys for Defendant are no longer being paid by their client
+disputes:
+  - Attorneys for Defendant argue they would be irreparably harmed if not granted relief ex parte
+acts:
+  - Attorneys for Defendant filed ex parte application
+  - Court determines Attorneys for Defendant have not demonstrated good cause for ex parte relief
+agreements:
+  - None
+laws:
+  - Cal. R. Ct. 3.1202(c)
+case_citations:
+  - Bertolucci Dec., ¶¶ 7, 11
+statutes:
+  - None
+roles:
+  - Judge
+  - Attorneys for Defendant
+  - Plaintiff
+  - Defendant
+significant_statements:
+  - Attorneys for Defendant have not demonstrated good cause for ex parte relief
+  - The court denies ex parte relief in the concurrently heard matter Rick Oliver Trevino, et al. vs Stacy Helen Trevino, et al., 18NWCV00181
+```
+
+And here is the English-text summary:
+
+This is a tentative ruling by a Judge regarding an ex parte application by Attorneys for Defendant Rick O Trevino to be relieved as counsel. The Attorneys argue that they would be irreparably harmed if not granted relief, as they would continue to prepare for trial while their client is no longer paying their fees. However, the Judge determines that the Attorneys have not demonstrated good cause for ex parte relief, as the trial is not scheduled until April 17, 2024, and the current hearing date for the motion to be relieved as counsel is January 10, 2024, less than a month away. The Judge denies the ex parte relief and orders the Moving Party to give notice.

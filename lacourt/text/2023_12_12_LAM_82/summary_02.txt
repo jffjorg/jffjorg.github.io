@@ -1,0 +1,67 @@
+Here is the summary in YAML format:
+
+```
+Case Number: 23STCV19050
+Plaintiff's Name: McKenna Capital, LLC et al.
+Defendant's Name: Eng Taing et al., Touzi Capital, LLC, Touzi Data Center Inv, LLC, Touzi DC Invest, LLC, Touzi Data Technology, LLC, Touzi Gem Inv, LLC, Touzi Mining Inv, LLC, Touzi Mining Inv II LLC, Teracel Blockchain Fund, LLC, Teracel Blockchain Fund II LLC
+People-Names:
+  - McKenna
+  - Eng Taing
+  - Jerrold Bregman
+Company-Names:
+  - McKenna Capital, LLC
+  - Touzi Capital, LLC
+  - Touzi Data Center Inv, LLC
+  - Touzi DC Invest, LLC
+  - Touzi Data Technology, LLC
+  - Touzi Gem Inv, LLC
+  - Touzi Mining Inv, LLC
+  - Touzi Mining Inv II LLC
+  - Teracel Blockchain Fund, LLC
+  - Teracel Blockchain Fund II LLC
+  - GC Data Centers
+Places:
+  - Orange County
+Dates:
+  - December 12, 2023
+Events:
+  - Motion to Appoint Temporary Receiver
+  - Hearing Date: December 12, 2023
+Money:
+  - $3.9 million (located in bitcoin wallets)
+  - $5.1 million (unpaid fees to GC Data Centers)
+Intentions:
+  - Appointment of a receiver to manage defendants' assets
+Facts:
+  - Defendants allegedly have bitcoin wallets worth $3.9 million
+  - Defendants allegedly have not distributed funds to plaintiffs as promised
+  - Defendants allegedly have idle bitcoin mining machines
+  - GC Data Centers is owed $5.1 million in unpaid fees
+Disputes:
+  - Plaintiffs argue that defendants are not managing assets properly and assets are at risk of dissipation
+  - Defendants argue that they are managing assets properly and there is no need for a receiver
+Acts:
+  - Plaintiffs submitted declarations in support of their motion
+  - GC Data Centers submitted a declaration in support of plaintiffs' motion
+Laws:
+  - CCP § 564(b)(1)
+  - CCP § 564(b)(9)
+Case Citations:
+  - City & County of San Francisco v. Daley (1993) 16 Cal.App.4th 734, 745
+  - Weil & Brown, Civ. Proc. Before Trial § 9:743 et seq.
+  - In re Jamison Steel Corp. (1958) 158 Cal.App.2d 27, 35
+  - Alhambra-Shumway Mines v. Alhambra Gold Mine Corp. (1953) 116 Cal.App.2d 869, 873
+Statutes:
+  - CCP § 564(b)
+Roles:
+  - Plaintiffs: McKenna Capital, LLC et al.
+  - Defendants: Eng Taing et al., Touzi Capital, LLC, Touzi Data Center Inv, LLC, Touzi DC Invest, LLC, Touzi Data Technology, LLC, Touzi Gem Inv, LLC, Touzi Mining Inv, LLC, Touzi Mining Inv II LLC, Teracel Blockchain Fund, LLC, Teracel Blockchain Fund II LLC
+Significant Statements:
+  - "A receiver should not be appointed unless absolutely essential, because no other remedy will suffice."
+  - "The appointment of a receiver is a drastic remedy and is one which should not be invoked unless there is an actual or threatened cessation or diminution of the business."
+  - "It is thus unclear whether a receiver is necessary to preserve defendants’ assets."
+```
+
+Summary:
+
+The Judge has issued a tentative ruling denying the motion to appoint a temporary receiver to manage the assets of the defendants. The Judge finds that there is insufficient evidence to show that the assets are in danger of dissipation, and that the proposed receiver would not be able to make the bitcoin miners operational or safeguard the assets. The Judge notes that the defendants have allegedly breached their agreements with GC Data Centers, but that this does not necessarily mean that the assets are at risk of dissipation. The Judge also finds that the plaintiffs have not proposed a plan that demonstrates the necessity of appointing a receiver.

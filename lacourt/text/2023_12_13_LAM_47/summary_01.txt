@@ -1,0 +1,50 @@
+Here is a summary of the "Tentative Ruling" in YAML format:
+
+```
+---
+case_number: 22STCV07639
+hearing_date: 2023-12-13
+department: 47
+
+parties:
+  - Plaintiff: Sharon Rachelle Cano et al.
+  - Defendant: Rajendra Makkar, M.D. et al. (Cedars-Sinai Medical Center)
+
+case_history:
+  - 03/02/22: Complaint filed.
+  - 08/28/23: First Amended Complaint filed.
+
+material_facts_and_proceedings:
+  - Medical malpractice action arising from cardiac procedure performed on decedent.
+
+tentative_ruling:
+  - Demurrer to First Amended Complaint:
+    - Sustained without leave to amend with respect to First, Second, and Third Causes of Action.
+    - Leave to amend with respect to Fourth Cause of Action.
+  - Motion to Strike:
+    - MOOT.
+
+demurrer_to_first_amended_complaint:
+  - First Cause of Action: Professional Negligence
+    - Sustained. Barred by doctrine of retraxit.
+  - Second Cause of Action: Medical Battery
+    - Sustained. Barred by one-year statute of limitations under Code of Civil Procedure section 340.5.
+  - Third Cause of Action: Fraud
+    - Sustained. Barred by one-year statute of limitations under Code of Civil Procedure section 340.5.
+  - Fourth Cause of Action: Wrongful Death
+    - Sustained. Barred by one-year statute of limitations under Code of Civil Procedure section 340.5, or rejected for technical reasons.
+
+uncertainty:
+  - Demurrer for uncertainty. Sustained only if pleading is so bad that defendant cannot reasonably respond.
+
+leave_to_amend:
+  - Plaintiff granted 20 days to file an amended complaint with respect to Fourth Cause of Action.
+  - Leave to amend denied with respect to First, Second, and Third Causes of Action.
+
+motion_to_strike:
+  - MOOT.
+```
+
+And here is a brief summary of the judge's tentative ruling in English text:
+
+The court has sustained the demurrer to the First Amended Complaint, dismissing the first, second, and third causes of action (professional negligence, medical battery, and fraud) without leave to amend. The fourth cause of action (wrongful death) is also dismissed, but the court grants leave to amend to allow the plaintiff to cure the defects in the pleading. The court finds that the first, second, and third causes of action are barred by the doctrine of retraxit and the one-year statute of limitations, respectively.

@@ -1,0 +1,54 @@
+Here is the summary in YAML format:
+
+```
+caseNumber: 22STLC08434
+plaintiffName: Boren, Osher & Luftman, LLP
+defendantName: Rose, et al
+peopleNames:
+  - Camila Rose
+companyNames:
+  - Boren, Osher & Luftman, LLP
+places:
+  - California
+dates:
+  - March 29, 2023
+  - November 13, 2023
+  - December 13, 2023
+events:
+  - Motion to Compel Responses to Interrogatories
+  - Request for Production of Documents
+  - Request for Monetary Sanctions
+money:
+  - $773.40
+intentions:
+  - Compel responses to discovery requests
+  - Seek sanctions for defendant's failure to respond
+facts:
+  - Plaintiff served discovery requests on March 29, 2023
+  - Defendant failed to respond timely
+  - Plaintiff sought to meet and confer, but defendant did not respond
+disputes:
+  - Defendant's failure to respond to discovery requests
+acts:
+  - Plaintiff served discovery requests
+  - Defendant failed to respond
+  - Plaintiff filed motion to compel and request for sanctions
+agreements:
+  - None mentioned in the document
+laws:
+  - California Code of Civil Procedure sections 2030.290, 2031.300, 2023.010, 2023.030
+caseCitations:
+  - CCP §§ 2030.290, 2031.300, 2023.010, 2023.030
+statutes:
+  - California Code of Civil Procedure
+roles:
+  - Plaintiff: Boren, Osher & Luftman, LLP
+  - Defendant: Rose, et al
+significantStatements:
+  - "Defendant is entitled to an order compelling service of verified responses to the discovery requests without objections."
+  - "Sanctions are appropriate under Code of Civil Procedure sections 2023.010 and 2023.030 and have been properly noticed."
+```
+
+And here is a summary of the judge's tentative ruling in English text:
+
+The judge grants the plaintiff's motion to compel responses to discovery requests and requests for sanctions. The defendant, Camila Rose, is ordered to serve verified responses to the discovery requests without objections within 20 days of service of this order. The defendant is also ordered to pay sanctions of $773.40 to the plaintiff's counsel within 20 days of service of this order. The judge's decision is based on the defendant's failure to timely respond to the plaintiff's discovery requests, which constitutes a misuse of the discovery process. The sanctions awarded are calculated based on one hour of attorney time billed at $645.00 per hour and two filing fees of $64.20 each.

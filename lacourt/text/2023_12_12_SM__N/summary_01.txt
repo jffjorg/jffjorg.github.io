@@ -1,0 +1,56 @@
+Here is the summary in YAML format:
+
+```
+case_number: 20SMCV00272
+plaintiff: Ralph Churchwell
+defendant: FGW Productions LLC, Stephanie Frederic
+people: Ralph Churchwell, Stephanie Frederic
+companies: FGW Productions LLC
+places: None
+dates:
+  - July 18, 2023
+  - December 12, 2023
+events:
+  - Plaintiff served discovery on July 18, 2023
+  - No responses received from defendants
+money:
+  - Monetary sanctions requested by plaintiff
+  - Sanctions denied by court
+intentions:
+  - Plaintiff seeks to compel defendants' responses to discovery
+  - Defendants to provide code-compliant responses within 20 days
+facts:
+  - Plaintiff served discovery on July 18, 2023
+  - No responses received from defendants
+  - Plaintiff requested monetary sanctions
+disputes:
+  - Failure of defendants to respond to discovery
+acts:
+  - Plaintiff served discovery on July 18, 2023
+  - Plaintiff requested monetary sanctions
+agreements:
+  - None
+laws:
+  - Code of Civil Procedure section 708.030, subdivision (a)
+  - Code of Civil Procedure section 2031.010 et seq.
+  - Code of Civil Procedure section 2030.290, subdivision (c)
+  - Code of Civil Procedure section 2031.300, subdivision (c)
+case_citations:
+  - Code Civ. Proc., §§ 708.020
+  - Code Civ. Proc., §§ 708.030
+  - Code Civ. Proc., §§ 2030.290
+  - Code Civ. Proc., §§ 2031.300
+statutes:
+  - Code of Civil Procedure
+roles:
+  - Plaintiff: Ralph Churchwell
+  - Defendant: FGW Productions LLC, Stephanie Frederic
+significant_statements:
+  - Plaintiff's motions to compel are granted
+  - Defendants must provide code-compliant responses within 20 days
+  - Plaintiff's requests for monetary sanctions are denied
+```
+
+And here is the English-text summary:
+
+The Judge has issued a tentative ruling on the motions filed by Plaintiff Ralph Churchwell. The motions seek to compel Defendants FGW Productions LLC and Stephanie Frederic to respond to post-judgment debtor special interrogatories and requests for production of documents. The Judge grants the motions, requiring the defendants to provide code-compliant responses within 20 days of the order. The Judge also denies the Plaintiff's request for monetary sanctions, finding that the imposition of sanctions is not warranted under the relevant laws and statutes.

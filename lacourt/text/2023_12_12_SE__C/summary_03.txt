@@ -1,0 +1,77 @@
+Here is the summary in YAML format:
+
+```
+case_number: 22NWCV00977
+plaintiff: Joseph Construction
+defendant: Andy Tran
+people:
+  - Joseph Machul
+  - Andy Tran
+  - Ms. Rollins
+companies:
+  - Joseph Construction
+  - Insurers (unnamed)
+places:
+  - Lakewood
+  - 5222 Carfax Avenue
+dates:
+  - May 21, 2022
+  - October 12, 2022
+  - November 14, 2022
+  - August 2, 2023
+  - September 4, 2023
+  - November 3, 2023
+  - December 12, 2023
+events:
+  - Breach of contract
+  - Quantum meruit
+  - Mechanics lien enforcement
+  - Prompt payment penalties
+money:
+  - $40,000.00
+intention:
+  - To deem matters admitted
+  - To deny or grant sanctions
+facts:
+  - Defendant Tran served requests for admission (set one) on Cross-Defendant Machul on August 2, 2023
+  - Responses were due on September 4, 2023, but Cross-Defendant Machul did not respond until November 3, 2023
+  - Cross-Defendant Machul's counsel claims to have acted with substantial justification for the initial lack of responses
+  - Defendant Tran's counsel did not copy Ms. Rollins in all servings, including the one for the instant motion
+disputes:
+  - Whether the motion to deem matters admitted should be granted
+  - Whether sanctions should be awarded against Cross-Defendant Machul's counsel
+  - Whether Defendant Tran's counsel should be sanctioned for not copying Ms. Rollins
+acts:
+  - Serving requests for admission
+  - Filing a cross-complaint
+  - Requesting sanctions
+  - Denying or granting sanctions
+agreements:
+  - Written contract between Plaintiff and Defendant
+  - Code of Civil Procedure (CCP) § 2033.280
+  - Code of Civil Procedure (CCP) § 2031.320(b)
+  - California Rules of Court (CRC) 3.1348(a)
+laws:
+  - California Code of Civil Procedure (CCP)
+  - California Rules of Court (CRC)
+case_citations:
+  - St. Mary v. Superior Court (2014) 223 Cal.App.4th 762, 778
+statutes:
+  - Code of Civil Procedure (CCP) § 2033.280
+  - Code of Civil Procedure (CCP) § 2031.320(b)
+  - California Rules of Court (CRC) 3.1348(a)
+roles:
+  - Judge
+  - Plaintiff (Joseph Construction)
+  - Defendant (Andy Tran)
+  - Cross-Defendant (Joseph Machul)
+  - Counsel (for Joseph Construction, Andy Tran, and Joseph Machul)
+significant_statements:
+  - The Court denies Defendant Tran's motion to deem matters admitted as moot.
+  - The Court denies Defendant Tran's request for sanctions.
+  - The Court denies Cross-Defendant Machul's request for sanctions.
+```
+
+And here is the summary in English text:
+
+The Judge has issued a tentative ruling in the case of Joseph Construction v. Andy Tran. The Court denies Defendant Tran's motion to deem matters admitted as moot, as Cross-Defendant Machul's counsel served responses in substantial compliance with the Code of Civil Procedure before the hearing. The Court also denies Defendant Tran's request for sanctions and Cross-Defendant Machul's request for sanctions. The Court finds that Cross-Defendant Machul's counsel acted with substantial justification for the initial lack of responses to the requests for admission, and that Defendant Tran's counsel did not copy Ms. Rollins in all servings, including the one for the instant motion.

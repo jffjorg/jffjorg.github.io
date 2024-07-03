@@ -1,0 +1,82 @@
+Here is the summary of the Judge's tentative ruling in YAML format:
+
+```
+case_number: 23STCV10822
+hearing_date: December 12, 2023
+dept: 14 (1)
+reconsideration: true
+
+people_names:
+  - Plaintiff
+  - Defendant Warren
+
+company_names: []
+
+places: []
+
+dates:
+  - October 16, 2023
+  - October 30, 2023
+  - November 6, 2023
+  - November 16, 2023
+
+events:
+  - Demurrer sustained
+  - Motion for reconsideration filed
+  - Ex parte application for dismissal filed
+
+money: []
+
+intentions:
+  - Reconsideration of demurrer
+  - Dismissal of case with prejudice
+
+facts:
+  - Demurrer sustained with 30 days leave to amend
+  - Deadline for amendment passed without filing
+  - Plaintiff's motion for reconsideration untimely and unmeritorious
+  - Defendant Warren's ex parte application for dismissal granted
+
+disputes:
+  - Plaintiff's motion for reconsideration vs. Defendant Warren's demurrer
+
+acts:
+  - Sustaining demurrer
+  - Granting motion for reconsideration
+  - Granting ex parte application for dismissal
+
+agreements:
+  - Code of Civil Procedure § 1008
+  - Code of Civil Procedure § 581(f)(2)
+  - California Rules of Court Rule 3.1113(d)
+  - California Rules of Court Rule 3.1113(g)
+  - California Rules of Court Rule 3.1300(d)
+  - California Rules of Court Rule 3.1320(h)
+
+laws:
+  - Code of Civil Procedure § 1008
+  - Code of Civil Procedure § 581(f)(2)
+  - California Rules of Court Rule 3.1113(d)
+  - California Rules of Court Rule 3.1113(g)
+  - California Rules of Court Rule 3.1300(d)
+  - California Rules of Court Rule 3.1320(h)
+
+case_citations:
+  - Glade v. Glade (1995) 38 Cal.App.4th 1441
+  - Baldwin v. Home Sav. Of America (1997) 59 Cal.App.4th 1192
+
+statutes:
+  - Code of Civil Procedure § 1008
+  - Code of Civil Procedure § 581(f)(2)
+
+roles:
+  - Plaintiff
+  - Defendant Warren
+  - Court
+
+significant_statements:
+  - Plaintiff's motion for reconsideration is untimely and unmeritorious
+  - Defendant Warren's ex parte application for dismissal is granted
+```
+
+Note that some of the fields, such as "people_names", "company_names", "places", and "dates", are not strictly necessary for a summary, but can be useful for organizing and visualizing the information.

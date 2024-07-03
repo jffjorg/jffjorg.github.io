@@ -1,0 +1,105 @@
+Here is the YAML summary:
+
+```
+case_number: 21STCV22340
+hearing_date: December 13, 2023
+dept: 31
+tentative_ruling:
+  - The Cross-Complainant's Motion is DENIED
+  - The hearing will be heard in the Clara Shortridge Foltz Criminal Justice Center, located at 210 W. Temple Street, Department 133, 15th Floor at 9:00 a.m. before the Honorable Serena Murillo
+
+plaintiff:
+  - John Cadusale
+  - Filed this wage and hour lawsuit on June 15, 2021
+
+defendants:
+  - Alameda Restaurant LLC
+  - Noypitz Bar & Grill LLC
+  - Lauro Calonzo
+  - Wokcano Cerritos, LLC
+
+people:
+  - John Cadusale
+  - Lauro Calonzo
+  - Serena Murillo
+
+companies:
+  - Alameda Restaurant LLC
+  - Noypitz Bar & Grill LLC
+  - Wokcano Cerritos, LLC
+
+places:
+  - Clara Shortridge Foltz Criminal Justice Center
+  - 210 W. Temple Street
+  - Department 133, 15th Floor
+
+dates:
+  - June 15, 2021
+  - July 28, 2022
+  - November 6, 2023
+  - November 15, 2023
+  - December 1, 2023
+  - December 5, 2023
+  - December 8, 2023
+  - October 31, 2023
+
+events:
+  - Filing of the first amended complaint (FAC)
+  - Filing of the Cross-Complainant's Motion for Reconsideration
+  - Filing of the opposition to the motion
+  - Filing of the reply to the motion
+  - Hearing scheduled for November 6, 2023 (taken off calendar)
+
+money:
+  - $1,000.00 (bi-monthly compensation)
+
+intentions:
+  - To reconsider the October 31, 2023 order dismissing the Cross-Complaint
+
+facts:
+  - Cross-Complainant was employed by the defendants as a waiter/server from January 2018 to March 17, 2020
+  - Cross-Complainant regularly worked overtime and was not paid properly
+  - Cross-Complainant complained to the defendants about their unlawful working conditions and was terminated
+  - Cross-Complainant alleges that the defendants wrongfully terminated his employment
+
+disputes:
+  - Dispute over the dismissal of the Cross-Complaint
+
+acts:
+  - Alleged failure to provide meal breaks and rest breaks
+  - Alleged failure to pay wages and overtime
+  - Alleged failure to provide accurate itemized wage statements
+  - Alleged wrongful termination in violation of public policy
+
+agreements:
+  - None
+
+laws:
+  - California Code of Civil Procedure section 1008
+  - California Code of Civil Procedure section 473
+  - California Code of Civil Procedure section 1010
+  - California Code of Civil Procedure section 1005(b)
+  - California Code of Civil Procedure section 1013(a)
+  - California Rules of Court, rule 2.108
+
+case_citations:
+  - Pagnini v. Union Bank, N.A. (2018) 28 Cal.App.5th 298
+  - Minick v. City of Petaluma (2016) 3 Cal.App.5th 15
+  - Cho v. Chang, 219 Cal. App. 4th 521 (2013)
+  - Wilson v. Cable News Network, Inc., 7 Cal. 5th 871 (2019)
+
+statutes:
+  - Business and Professions Code section 17200-17208
+
+roles:
+  - Cross-Complainant: John Cadusale
+  - Cross-Defendant: Lauro Calonzo
+  - Honorable Serena Murillo: Judge
+
+significant_statements:
+  - The Court finds Cross-Complainant's arguments to be without merit.
+  - The Court notes that the hearing scheduled for November 6, 2023 was taken off calendar based on the October 31, 2023 order dismissing the Cross-Complaint.
+  - The Court assumes that Cross-Complainant seeks reconsideration of the October 31, 2023 order.
+```
+
+Please note that some information, such as the exact text of the court's ruling, may not be included in the YAML summary due to its size and complexity.

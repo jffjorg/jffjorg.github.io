@@ -1,0 +1,65 @@
+Here is the summary in YAML format:
+
+```
+case_number: 22STCV28075
+plaintiff_name: Bryan Medrano
+defendant_name: 123 Ramona LLC
+people_names:
+  - Bryan Medrano
+  - Defendant's counsel
+company_names:
+  - 123 Ramona LLC
+places:
+  - None specified
+dates:
+  - June 19, 2023
+  - December 13, 2023
+events:
+  - Plaintiff served Requests for Production of Documents, Set Two on Defendant
+  - Defendant failed to serve responses to the requests
+  - Plaintiff moves to compel responses
+money:
+  - $1,060 (requested by Plaintiff)
+  - $460 (awarded by the Court)
+intentions:
+  - Plaintiff intends to compel responses to the requests
+  - Defendant intends to provide responses within 15 days
+facts:
+  - Defendant failed to serve responses to the requests
+  - Plaintiff served the requests on June 19, 2023
+disputes:
+  - None specified
+acts:
+  - Plaintiff served the requests
+  - Defendant failed to serve responses
+  - Plaintiff moves to compel responses
+  - Defendant agrees to provide responses within 15 days
+agreements:
+  - Defendant agrees to provide verified responses within 15 days
+  - Defendant agrees to pay monetary sanctions
+laws:
+  - Code of Civil Procedure Section 2031.300
+  - California Rules of Court, rule 3.1348(a)
+case_citations:
+  - Code Civ. Pro § 2031.300 (b)
+  - Code Civ. Pro § 2031.300 (a)(1)-(2)
+  - Code Civ. Proc. § 2031.300 (c)
+  - Cal. Rules of Court, rule 3.1348(a)
+statutes:
+  - Code of Civil Procedure
+  - California Rules of Court
+roles:
+  - Judge
+  - Plaintiff (Bryan Medrano)
+  - Defendant (123 Ramona LLC)
+  - Plaintiff's counsel
+  - Defendant's counsel
+significant_statements:
+  - The Court grants the motion to compel responses to the requests
+  - The Court awards monetary sanctions in the amount of $460
+  - The Court finds that the Defendant's failure to serve responses was not justified
+```
+
+And here is a summary of the judge's tentative ruling in English text:
+
+The judge grants the plaintiff's motion to compel responses to the requests for production of documents, set two. The defendant failed to serve responses to the requests despite being served on June 19, 2023. The court finds that the defendant's failure to serve responses was not justified and awards monetary sanctions in the amount of $460 to the plaintiff. The defendant is ordered to provide verified responses to the requests within 15 days and to pay the monetary sanctions within 30 days.

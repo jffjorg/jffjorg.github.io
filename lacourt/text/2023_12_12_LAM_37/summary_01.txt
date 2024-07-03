@@ -1,0 +1,54 @@
+Here is the YAML summary:
+
+```
+case_number: 22STCV07285
+hearing_date: 2023-12-12
+dept: 37
+case_name: Pedro Ramirez v. FCA US LLC
+moving_party: Plaintiff Pedro Ramirez
+opposing_party: Defendant FCA US LLC
+trial_date: No Trial
+proof_of_service: OK
+
+proceeding: Motion for Attorney’s Fees
+opposition: 16 November 2023
+reply: 22 November 2023
+
+tentative_ruling: Plaintiff’s Motion for Attorney’s Fees is granted in part. Plaintiff is awarded attorney’s fees in the sum of $19,750.00 and $1,099.94 in costs.
+
+background:
+  - On July 5, 2020, Plaintiff purchased a 2019 Ram 2500 for $64,998.09
+  - On February 28, 2022, Plaintiff filed a Complaint against FCA, FAB4 LLC, and Does 1-50
+  - On June 5, 2023, Plaintiff accepted a Settlement Agreement and Release offered by Defendant FCA
+
+motion_for_attorney_fees:
+  - The prevailing party in an action arising out of the Song-Beverly Consumer Warranty Act is entitled to fees that were reasonably incurred
+  - The lodestar method is the primary method for determining a reasonable attorney fee award
+  - The court considers the nature of the litigation, the complexity of the issues, the experience and expertise of counsel, and the amount of time involved
+
+reasonable_hourly_rates:
+  - Plaintiff requests an hourly rate of $535.00 for Isaac Kohen and $285.00 for Tamara R. Imber
+  - The court sets Kohen's reasonable hourly rate at $500.00 per hour and Imber's at $250.00 per hour
+
+time_reasonably_spent_on_litigation:
+  - The court agrees that 4 hours should be deducted from Kohen's billing entries for communications and email correspondence
+  - The court deducts 2 hours from Kohen's billing entries and 5 hours from Imber's for reviewing defendant's discovery responses
+  - The court deducts 5 hours from Imber's billing entries for drafting the meet and confer letter
+  - The court deducts 2 hours from Kohen's billing entries for reviewing defendant's discovery responses
+
+request_for_multiplier:
+  - Plaintiff's counsel requests a multiplier of 1.1 or $3,013.00
+  - The court finds there is no reasonable basis to award a multiplier
+
+reasonable_costs_and_expenses:
+  - The court grants Plaintiff's request for costs in the amount of $1,099.94
+
+adjusted_lodestar:
+  - Plaintiff's unadjusted lodestar was $34,242.94
+  - The court deducts 11.5 hours from Kohen's billing entries and 9 hours from Imber's
+  - The adjusted lodestar is $19,750.00
+```
+
+English-text summary:
+
+The judge's tentative ruling grants Plaintiff's Motion for Attorney's Fees in part, awarding attorney's fees in the sum of $19,750.00 and costs in the amount of $1,099.94. The court sets Kohen's reasonable hourly rate at $500.00 per hour and Imber's at $250.00 per hour. The court deducts hours from Kohen's and Imber's billing entries for excessive or unnecessary work. The court denies Plaintiff's request for a multiplier. The court grants Plaintiff's request for costs in the amount of $1,099.94. The adjusted lodestar is $19,750.00.

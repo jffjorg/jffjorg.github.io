@@ -1,0 +1,92 @@
+Here is a summary of the judge's tentative ruling in YAML format:
+
+```
+case_number: 23STCP02565
+hearing_date: December 12, 2023
+department: 85
+
+people_names:
+  - John Doe
+  - Office of Administrative Hearings
+  - Los Angeles Community College District
+  - District of Columbia
+  - Victoria Friedman
+  - Veronica Garcia
+  - Drew Yamanishi
+  - Araksia Dovlatyan
+  - Mary Gallagher
+
+company_names:
+  - Los Angeles Community College
+  - California Community Colleges Chancellor's Office
+
+places:
+  - Los Angeles
+  - California
+
+dates:
+  - July 21, 2023
+  - October 4, 2023
+  - November 2, 2023
+  - December 7, 2023
+  - January 9, 2020
+  - April 9, 2020
+  - June 20, 2018
+  - June 23, 2023
+
+events:
+  - Motion to strike
+  - Notice of Investigation
+  - Investigation
+  - Administrative hearing
+  - OAH decision
+
+money:
+  - None
+
+intentions:
+  - To strike certain paragraphs of the First Amended Petition
+  - To determine the relevance of allegations in the First Amended Petition
+
+facts:
+  - The District moved to strike certain paragraphs of the First Amended Petition
+  - The FAP alleges that the District's investigation and adjudication policies are illegal
+  - The FAP alleges that the OAH committed an abuse of discretion in its decision
+  - The FAP seeks relief from the OAH decision
+
+disputes:
+  - The District disputes the relevance of certain paragraphs of the First Amended Petition
+  - The District argues that the FAP's allegations of District misconduct and Title IX violations are time-barred
+
+acts:
+  - The District moved to strike certain paragraphs of the First Amended Petition
+  - The FAP responded to the motion to strike
+
+agreements:
+  - CCP section 1094.5
+  - CCP section 1094.6(b)
+  - Title IX
+
+laws:
+  - CCP section 1094.5
+  - CCP section 1094.6(b)
+  - Title IX
+
+case_citations:
+  - Doe v. Allee, 30 Cal.App.5th 1036
+  - Perlman v. Municipal Court, 99 Cal. App. 3d 568
+  - Ph II, Inc. v. Superior Court, 33 Cal. App. 4th 1680
+
+statutes:
+  - CCP section 1094.5
+  - CCP section 1094.6(b)
+  - Title IX
+
+roles:
+  - Judge
+  - Parties
+  - Attorney
+
+significant_statements:
+  - The FAP may properly allege the District's misconduct and Title IX violations.
+  - The motion to strike is granted for FAP paragraphs 49-69 and denied for all other paragraphs.
