@@ -1,0 +1,105 @@
+Here is a summary of the tentative ruling in YAML format:
+
+```
+case_number: 22STCV34822
+hearing_date: December 11, 2023
+dept: 52
+defendants:
+  - County of Los Angeles
+  - Los Angeles County Flood Control District
+
+plaintiff:
+  - Perry Lazar
+  - as an individual
+  - as trustee of the Plone Trust
+
+people_names:
+  - Perry Lazar
+  - Odalis Suarez
+  - David S. Gould
+  - Bruce Cook
+  - William Devin
+
+company_names:
+  - Crescenta Valley Water District
+  - First American Title Insurance Company
+  - Lawyer's Title Insurance Company
+  - Old Republic Title Company
+
+places:
+  - Los Angeles County
+
+dates:
+  - 1960
+  - 1966
+  - 1980
+  - 2004
+  - 2011
+  - 2019
+  - 2021
+  - 2022
+  - 2023
+
+events:
+  - creation of parcel 36
+  - sale of parcel 36
+  - purchase of parcel 36
+  - investigation by First American Title Insurance Company
+  - investigation by Lawyer's Title Insurance Company
+  - investigation by Old Republic Title Company
+  - preliminary title report
+
+money:
+  - $ (no specific amount mentioned)
+
+intentions:
+  - to determine whether the defendants are liable for negligence
+
+facts:
+  - County created parcel 36 without following required procedures
+  - parcel 36 was sold to Bruce Cook and William Devin in 1980
+  - plaintiff purchased parcel 36 in 2004
+  - plaintiff discovered CVWD's claimed fee interest in 2021
+  - plaintiff alleges defendants failed to maintain property records and surveys
+
+disputes:
+  - ownership of parcel 36
+  - accuracy of parcel maps
+  - compliance with subdivision map act and county ordinances
+
+acts:
+  - creation of parcel 36
+  - sale of parcel 36
+  - purchase of parcel 36
+  - investigation by title insurance companies
+  - preparation of preliminary title report
+
+agreements:
+  - none mentioned
+
+laws:
+  - California Code of Civil Procedure section 335.1
+  - California Government Code section 815.2(a)
+  - California Government Code section 815.6
+  - California Revenue and Taxation Code sections 321-328
+
+case_citations:
+  - Czajkowski v. Haskell & White, LLP (2012) 208 Cal.App.4th 166
+  - Del E. Webb Corp. v. Structural Materials Co. (1981) 123 Cal.App.3d 593
+  - Moran v. Prime Healthcare Management, Inc. (2016) 3 Cal.App.5th 1131
+  - Barnett v. Fireman's Fund Ins. Co. (2001) 90 Cal.App.4th 500
+  - Jenkins v. JPMorgan Chase Bank, N.A. (2013) 216 Cal.App.4th 497
+  - Poseidon Development, Inc. v. Woodland Lane Estates, LLC (2007) 152 Cal.App.4th 1106
+  - Yvanova v. New Century Mortgage Corp. (2016) 62 Cal.4th 919
+  - City of Anaheim v. Metropolitan Water Dist. of Southern Cal. (1978) 82 Cal.App.3d 763
+  - First Bank v. East West Bank (2011) 199 Cal.App.4th 1309
+  - Homestead Savings v. Darmiento (1991) 230 Cal.App.3d 424
+  - Haggis v. City of Los Angeles (2000) 22 Cal.4th 490
+  - Stevens v. Superior Court (1999) 75 Cal.App.4th 594
+  - Smith v. State Farm Mutual Automobile Ins. Co. (2001) 93 Cal.App.4th 700
+  - Lawrence v. Bank of America (1985) 163 Cal.App.3d 431
+  - Mikels v. Rager (1991) 232 Cal.App.3d 334
+  - Triple A Management Co., Inc. v. Frisone (1999) 69 Cal.App.4th 520
+```
+
+In summary, the tentative ruling sustains the demurrer of the defendants, County of Los Angeles and Los Angeles County Flood Control District, to the plaintiff's third amended complaint on the first, second, and third causes of action for negligence. The court found that the plaintiff had constructive notice of the facts in 1966 and 2011, and that the statute of limitations had already expired. The court also found that the defendants are not liable under Government Code sections 815.2(a) and 815.6, and that the plaintiff's claims for trespass are not viable.

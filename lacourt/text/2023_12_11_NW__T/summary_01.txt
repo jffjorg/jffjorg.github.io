@@ -1,0 +1,72 @@
+Here is a summary of the case in YAML format:
+
+```
+case_number: 19STCV17360
+plaintiff_name: Vehanush Gradjian
+defendant_name: Best Western
+people_names:
+  - Vehanush Gradjian
+  - Shelan Toma
+  - Mr. Janfaza
+  - Judge Bacigalupo
+company_names:
+  - Best Western
+  - CHM Hotels
+places:
+  - Sacramento
+  - California
+dates:
+  - 5/17/2019
+  - 9/14/2021
+  - 11/30/2020
+  - 2/21/2021
+  - 4/13/2021
+  - 7/14/2021
+  - 8/13/2021
+  - 10/21/2021
+  - 12/20/2021
+  - 3/23/2022
+  - 6/29/2022
+  - 9/19/2022
+  - 1/18/2023
+  - 2/24/2023
+  - 4/3/2023
+  - 4/5/2023
+  - 4/13/2023
+  - 4/17/2023
+  - 4/18/2023
+events:
+  - Plaintiff filed a complaint
+  - Discovery was served
+  - Plaintiff failed to respond to discovery
+  - Plaintiff's counsel made numerous promises to respond to discovery
+  - Plaintiff's counsel failed to comply with court orders
+  - Plaintiff's counsel filed a motion for reconsideration
+  - Plaintiff's counsel failed to oppose a motion to compel discovery
+  - Plaintiff's counsel failed to appear at a mandatory settlement conference
+money:
+  - None mentioned
+intention:
+  - Plaintiff seeks to reconsider the court's order granting terminating sanctions
+  - Plaintiff seeks to vacate the court's order of sanctions and dismissal
+facts:
+  - Plaintiff's counsel failed to respond to discovery for over 1-1/2 years
+  - Plaintiff's counsel made numerous broken promises to respond to discovery
+  - Plaintiff's counsel failed to comply with court orders
+  - Plaintiff's counsel failed to appear at a mandatory settlement conference
+  - Plaintiff's counsel filed a motion for reconsideration without providing any evidence to support their claims
+disputes:
+  - Plaintiff disputes the court's order granting terminating sanctions
+  - Plaintiff disputes the court's order of sanctions and dismissal
+  - Plaintiff disputes the court's refusal to grant a continuance
+acts:
+  - Plaintiff's counsel failed to respond to discovery
+  - Plaintiff's counsel failed to comply with court orders
+  - Plaintiff's counsel failed to appear at a mandatory settlement conference
+  - Plaintiff's counsel filed a motion for reconsideration without providing any evidence to support their claims
+agreements:
+  - None mentioned
+laws:
+  - California Code of Civil Procedure (CCP) section 1008(a) and (c)
+  - CCP section 473
+ 
