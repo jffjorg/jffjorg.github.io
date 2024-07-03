@@ -1,0 +1,78 @@
+Here is the summary in YAML format:
+
+```
+case_number: 23STCV01560
+plaintiff_name: Hashani Pipersburgh
+defendant_name: Enjoy Technology, Inc. and its affiliates
+people_names:
+  - Hashani Pipersburgh
+  - Alan D. Halperin
+company_names:
+  - Enjoy Technology, Inc.
+  - Legacy EJY, Inc.
+places:
+  - Los Angeles, California
+dates:
+  - January 24, 2023
+  - March 21, 2023
+  - March 9, 2023
+  - March 16, 2023
+  - December 8, 2023
+  - December 9, 2024
+events:
+  - Employment by Enjoy Technology, Inc.
+  - Filing of complaint
+  - Motion to compel arbitration
+  - Opposition to motion to compel arbitration
+  - Reply to opposition
+money:
+  - None mentioned
+intentions:
+  - To compel arbitration and stay the court action
+facts:
+  - Plaintiff Hashani Pipersburgh worked for Enjoy Technology, Inc.
+  - Plaintiff alleges employment-related claims against Enjoy Technology, Inc.
+  - Enjoy Technology, Inc. filed a motion to compel arbitration
+  - Plaintiff opposes the motion
+  - The court must determine whether the arbitration agreement is enforceable
+disputes:
+  - Whether the arbitration agreement is enforceable
+  - Whether the dispute should be resolved through arbitration rather than litigation
+acts:
+  - Signing of arbitration agreement
+  - Submission of motion to compel arbitration
+  - Opposition to motion to compel arbitration
+  - Reply to opposition
+agreements:
+  - Arbitration agreement between Enjoy Technology, Inc. and Hashani Pipersburgh
+laws:
+  - California Code of Civil Procedure §1281.2
+  - California Code of Civil Procedure §1281.4
+  - Federal Arbitration Act (FAA)
+  - California Arbitration Act (CAA)
+case_citations:
+  - Gilmer v. Interstate/Johnson Lane Corp. (1991)
+  - AT&T Mobility, LLC v. Concepcion (2011)
+  - Rent-A-Center West, Inc. v. Jackson (2010)
+  - Kindred Nursing Centers Limited Partnership v. Clark (2017)
+  - Epic Systems Corp. v. Lewis (2018)
+  - Brookwood v. Bank of America (1996)
+  - Macaulay v. Norlander (1992)
+  - United Transportation Union v. Southern California Rapid Transit District (1992)
+  - Vianna v. Doctors’ Management Co. (1994)
+  - Armendariz v. Foundation Health Psychcare Services, Inc. (2000)
+  - Roman v. Superior Court (2009)
+  - Graham v. Scissor-Tail, Inc. (1981)
+  - Lagatree v. Luce, Forward, Hamilton & Scripps, LLP (1999)
+  - 24 Hour Fitness, Inc. v. Superior Court (1998)
+  - Harper v. Ultimo (2003)
+  - Ajamian v. CantorCO2e, LP (2012)
+roles:
+  - Judge
+  - Plaintiff (Hashani Pipersburgh)
+  - Defendant (Enjoy Technology, Inc. and its affiliates)
+significant_statements:
+  - The court finds that the arbitration agreement is enforceable
+  - The court grants the motion to compel arbitration
+  - The case is stayed pending arbitration
+  - The parties are directed to submit a joint statement five calendar days in advance, apprising the court of the status of the arbitration.

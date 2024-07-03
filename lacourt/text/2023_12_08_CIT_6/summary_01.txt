@@ -1,0 +1,74 @@
+Here is the summary in YAML format:
+
+```yaml
+case_number: 22PSCV01016
+hearing_date: December 8, 2023
+dept: 6
+plaintiffs:
+  - Gonzalo R. Vazquez
+  - Leticia Vazquez
+defendants:
+  - Arcadio Toribio
+  - Joanna Aranda
+people_names:
+  - Gonzalo R. Vazquez
+  - Leticia Vazquez
+  - Arcadio Toribio
+  - Joanna Aranda
+company_names: []
+places:
+  - California
+dates:
+  - September 8, 2022
+  - May 2, 2023
+  - October 6, 2023
+  - February 1, 2022
+  - September 10, 2022
+events:
+  - Breach of rental agreement
+  - Default judgment
+  - Request for entry of default judgment
+  - Mediation
+money:
+  - $24,505.43
+  - $20,628.00
+  - $2,198.43
+  - $1,009.00
+  - $670.00
+intentions:
+  - Request entry of default judgment
+facts:
+  - Default was entered against the defendants on May 2, 2023
+  - Plaintiffs filed the instant request for entry of default judgment on October 6, 2023
+  - The combined rent for both properties at issue was $3,240.00 a month
+  - Plaintiffs did not provide evidence indicating partial payments from defendants
+  - Plaintiffs did not provide proration calculations
+disputes:
+  - Amount of damages requested
+  - Prejudgment interest calculation
+  - Attorney fees calculation
+acts:
+  - Breach of contract
+  - Common counts
+agreements:
+  - Lease agreement
+laws:
+  - Code of Civil Procedure section 585
+  - Code of Civil Procedure section 579
+  - Cal. Rules of Court, rule 3.1800
+  - Local Rule 3.214
+case_citations: []
+statutes: []
+roles:
+  - Judge
+  - Plaintiffs
+  - Defendants
+significant_statements:
+  - The Court finds that the evidence Plaintiffs submitted does not adequately support the amount of damages requested.
+  - The Court understands that the combined rent for both properties at issue was $3,240.00 a month for the period of February 1, 2022 to September 10, 2022, but it is unclear how the amount of $20,628.00 was determined.
+  - The Court DENIES the request for entry of default judgment without prejudice.
+```
+
+And here is a summary of the judge's tentative ruling in English text:
+
+The judge has denied the request for entry of default judgment without prejudice. The case is a breach of rental agreement action, and the plaintiffs, Gonzalo R. Vazquez and Leticia Vazquez, are seeking a default judgment against the defendants, Arcadio Toribio and Joanna Aranda, in the amount of $24,505.43. However, the judge finds that the evidence submitted by the plaintiffs does not adequately support the amount of damages requested, as it is unclear how the amount of $20,628.00 was determined. Additionally, the judge notes that the plaintiffs' prejudgment interest calculation and attorney fees calculation are incorrect, and that it is unclear if the plaintiffs are entitled to attorney fees. Therefore, the judge has denied the request for entry of default judgment without prejudice, allowing the parties to submit further evidence or arguments.

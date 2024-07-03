@@ -1,0 +1,56 @@
+Here is the summary in YAML format:
+
+```
+case_number: 22STCV07721
+plaintiff_name: Ricka Neider
+defendant_name: CVS Pharmacy, Inc.
+people_names:
+  - Ricka Neider
+  - CVS Pharmacy, Inc.
+company_names:
+  - CVS Pharmacy, Inc.
+places:
+  - California
+dates:
+  - December 7, 2023
+  - November 7, 2023
+events:
+  - Motion to compel further responses to discovery
+  - Informal Discovery Conference (IDC)
+money:
+  - Monetary sanctions
+intentions:
+  - Plaintiff seeks to compel further responses to discovery
+  - Plaintiff seeks monetary sanctions
+facts:
+  - Plaintiff filed a motion to compel further responses to discovery
+  - Defendant did not file an opposition
+  - Plaintiff did not file an IDC statement with the Court
+  - Plaintiff scheduled an IDC for November 7, 2023, but there is no indication it took place
+disputes:
+  - Procedural defect in the motion to compel further responses to discovery
+acts:
+  - Plaintiff's motion to compel further responses to discovery
+  - Plaintiff's request for monetary sanctions
+agreements:
+  - None mentioned
+laws:
+  - Cal. R. Ct. 3.1345(c)
+  - Court's Eighth Amended Standing Order for Procedures in the Personal Injury Hub
+case_citations:
+  - Cal. R. Ct. 3.1345(c)
+  - Court's Eighth Amended Standing Order for Procedures in the Personal Injury Hub
+statutes:
+  - None mentioned
+roles:
+  - Judge
+  - Plaintiff
+  - Defendant
+significant_statements:
+  - The Court denies the motions as procedurally defective.
+  - The Court requires counsel to participate in an IDC before the Court will hear any motion to compel further responses to discovery.
+```
+
+And here is the English-text summary:
+
+The tentative ruling denies the motion to compel further responses to discovery and denies the request for monetary sanctions. The motion is procedurally defective because it is not accompanied by a separate statement, as required by the California Rules of Court. Additionally, the plaintiff did not file an IDC statement with the Court, which is required before the Court will hear any motion to compel further responses to discovery. The Court's Eighth Amended Standing Order for Procedures in the Personal Injury Hub requires counsel to participate in an IDC before the Court will hear any motion to compel further responses to discovery. As a result, the Court denies the motion and denies the request for monetary sanctions.

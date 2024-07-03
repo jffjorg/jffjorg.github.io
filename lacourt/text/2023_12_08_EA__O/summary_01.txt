@@ -1,0 +1,72 @@
+Here is the summary in YAML format:
+
+```
+case_number: 23PSCV01699
+hearing_date: 2023-12-08
+dept: O
+plaintiff: Robindale Villas Condominium Association, Inc.
+defendant: Arlene L. Danganan
+people_names:
+  - Arlene L. Danganan
+company_names:
+  - Robindale Villas Condominium Association, Inc.
+places:
+  - Unknown
+dates:
+  - 2023-06-06
+  - 2023-08-03
+  - 2023-10-04
+  - 2022-10-13
+events:
+  - Foreclosure of assessment lien
+  - Collection of delinquent assessment debt
+  - Breach of contract
+  - Violation of equitable servitudes
+  - Default judgment
+  - Sale of property
+money:
+  - $71,732.80
+  - $353.00
+  - $70,793.30
+  - $3,250.00
+  - $2,051.85
+intentions:
+  - Foreclose assessment lien
+  - Collect delinquent assessment debt
+  - Recover damages
+  - Recover attorney fees
+  - Recover costs
+facts:
+  - Defendant failed to pay regular assessments
+  - Defendant owes $71,732.80
+  - Plaintiff filed suit for foreclosure, collection, breach of contract, and violation of equitable servitudes
+  - Default was entered against defendant
+disputes:
+  - Attorney fees and costs
+  - Reasonableness of hourly rate
+acts:
+  - Plaintiff filed suit
+  - Plaintiff filed notice of lis pendens
+  - Default was entered against defendant
+agreements:
+  - None
+laws:
+  - Civ. Code, § 5650
+case_citations:
+  - Unknown
+statutes:
+  - Civ. Code, § 5650
+roles:
+  - Plaintiff: Robindale Villas Condominium Association, Inc.
+  - Defendant: Arlene L. Danganan
+  - Counsel: Plaintiff's attorney
+significant_statements:
+  - "Double recovery" allowed by proposed order
+  - Attorney fees and costs to be modified
+  - Revised proposed order required
+  - Hourly rate reduced to $300/hour
+```
+
+And here is the English-text summary:
+
+The Judge has issued a tentative ruling on the application for default judgment filed by Robindale Villas Condominium Association, Inc. (Plaintiff) against Arlene L. Danganan (Defendant). The Plaintiff is seeking to foreclose an assessment lien and collect delinquent assessment debt, among other things. The Judge has denied the application without prejudice, citing two defects: the proposed order does not provide for a revised judgment, and the attorney fees and costs charged by the Plaintiff's counsel are excessive and duplicate. The Judge requests a revised proposed order on a JUD-100 form and for the Plaintiff's counsel to clarify and modify the attorney fees and costs.

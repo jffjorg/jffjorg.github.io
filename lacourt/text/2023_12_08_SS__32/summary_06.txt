@@ -1,0 +1,49 @@
+Here is the summary in YAML format:
+
+```
+case_number: "Unknown"
+plaintiff_name: "Unknown"
+defendant_name: "Unknown"
+people_names:
+  - Plaintiff
+  - Defendant
+company_names: []
+places: []
+dates:
+  - "Unknown"
+events:
+  - Deposition
+  - Discovery
+  - Motion
+  - Hearing
+money: []
+intentions:
+  - Protect private information
+  - Obtain discovery
+facts:
+  - Defendant has not taken a deposition
+  - Plaintiff's medical records may contain private information
+disputes:
+  - Discovery dispute
+  - Protective order
+acts:
+  - Plaintiff filed a motion
+  - Defendant may respond to the motion
+agreements:
+  - None
+laws:
+  - Protective order
+case_citations: []
+statutes: []
+roles:
+  - Judge
+  - Plaintiff
+  - Defendant
+significant_statements:
+  - "The parties should meet and confer and submit a proposed protective order."
+  - "At the hearing on this motion, Defendant may respond to Plaintiff's assertion that inside legal counsel should be prohibited from viewing the records."
+```
+
+And here is the English-text summary:
+
+This tentative ruling addresses a motion filed by the Plaintiff regarding discovery and a protective order. The Plaintiff argues that the Defendant has not taken a deposition and that the records contain private information that should not be publicly disclosed. The Court suggests that the parties meet and confer to submit a proposed protective order and refer to the Court's form protective order. The Defendant may respond to the Plaintiff's assertion that inside legal counsel should be prohibited from viewing the records at the hearing on this motion.
