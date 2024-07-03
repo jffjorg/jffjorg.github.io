@@ -1,0 +1,38 @@
+Here is a summary of the tentative ruling in YAML format:
+
+```
+Case Number: 22STCV22953
+Plaintiff's Name: Denise Wheeler
+Defendant's Name: Center Street Lending Corporation
+People-Names:
+  - Denise Wheeler
+  - Lionel E. Giron
+Company-Names:
+  - Center Street Lending Corporation
+  - Paradyme Investment Funding
+Places:
+  - Los Angeles
+  - California
+  - 637 E 29th Street
+Dates:
+  - September 21, 2023
+  - October 5, 2023
+  - October 19, 2023
+  - December 5, 2023
+  - January 4, 2024
+Events:
+  - Filing of complaint
+  - Filing of opposition
+  - Filing of reply
+  - Filing of surreply
+  - Hearing on Order to Show Cause
+Money:
+  - $350,000.00
+  - $5200.00
+Intention:
+  - To issue a preliminary injunction to prevent foreclosure
+Facts:
+  - Plaintiff owns the property at 637 E 29th Street
+  - Defendant recorded a notice of default on May 31, 2023
+  - Plaintiff alleges that Defendant failed to contact her to assess her financial situation and explore options to avoid foreclosure
+  - Plaintiff alleges that the notice of default was recorded without complying with Civil Code section 2923.

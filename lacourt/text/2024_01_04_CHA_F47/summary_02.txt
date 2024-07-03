@@ -1,0 +1,61 @@
+Here is the summary in YAML format:
+
+```
+case_number: 23CHCV02262
+plaintiff_name: Edward Babalians
+defendant_name: Catamount Properties 2018, LLC
+people_names:
+  - Edward Babalians
+  - Catamount Properties 2018, LLC
+company_names:
+  - Catamount Properties 2018, LLC
+places:
+  - California
+dates:
+  - 9/5/23
+  - 12/20/23
+  - 1/4/24
+events:
+  - Demurrer filed
+  - First Amended Complaint filed
+  - Hearing date
+money: None
+intentions:
+  - To determine the validity of the demurrer
+  - To resolve the dispute
+facts:
+  - Demurrer filed to 2nd, 3rd, 4th, and 5th causes of action
+  - Plaintiff filed a First Amended Complaint
+disputes:
+  - Validity of demurrer
+acts:
+  - Filing of demurrer
+  - Filing of First Amended Complaint
+agreements: None
+laws:
+  - California Civil Code 2923.5
+  - California Civil Code 2923.6
+  - California Civil Code 2923.7
+  - California Civil Code 2924.17
+  - California Business and Professions Code 17200
+  - California Code of Civil Procedure 472(a)
+  - California Code of Civil Procedure 1005(b)
+case_citations: CCP 472(a), CCP 1005(b)
+statutes:
+  - California Civil Code 2923.5
+  - California Civil Code 2923.6
+  - California Civil Code 2923.7
+  - California Civil Code 2924.17
+  - California Business and Professions Code 17200
+roles:
+  - Judge
+  - Plaintiff
+  - Defendant
+significant_statements:
+  - The demurrer is placed off calendar as moot.
+  - The demurrer is to the 2nd, 3rd, 4th, and 5th causes of action.
+```
+
+And here is a summary of the judge's tentative ruling in English text:
+
+The judge has issued a tentative ruling on the demurrer filed by the defendant, Catamount Properties 2018, LLC. The demurrer was filed on September 5, 2023, to the 2nd, 3rd, 4th, and 5th causes of action in the plaintiff, Edward Babalians' complaint. The demurrer alleges violations of California Civil Code sections 2923.5, 2923.6, 2923.7, and 2924.17, as well as California Business and Professions Code section 17200. On December 20, 2023, the plaintiff filed a First Amended Complaint, which rendered the demurrer moot. Therefore, the judge has placed the demurrer off calendar.

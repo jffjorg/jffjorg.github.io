@@ -1,0 +1,84 @@
+Here is the summary in YAML format:
+
+```
+case_number: 21STCV43201
+hearing_date: 2023-12-14
+dept: 61
+judge_ruling:
+  - demurrer: sustained with leave to amend as to the third cause of action for wrongful lockout
+    granted with leave to amend as to the prayer for punitive damages
+  - motion to strike: denied
+  - motion for judgment on the pleadings: denied
+  - cross-defendants' demurrer: sustained with leave to amend as to the third cause of action
+
+parties:
+  - plaintiff: Jill Greenberg
+  - cross-defendant: Aaron Serruya
+  - cross-defendant: Yogen Fruz USA, Inc.
+  - cross-defendant: David Bogner
+  - trustee: Jill Greenberg (2019 Trust)
+
+events:
+  - default judgment entered against Ernest Financial, LLC on 2021-12-06
+  - default judgment request denied on 2022-08-30
+  - motion for judgment on the pleadings filed by plaintiff
+  - demurrer filed by cross-defendants
+
+money:
+  - punitive damages
+  - attorney fees
+
+intentions:
+  - plaintiff seeks judgment in favor of her own complaint
+  - cross-defendants seek to strike portions of cross-complainant's cross-complaint
+
+facts:
+  - lease was executed with Ernest Financial, LLC
+  - lease was terminated on 2021-09-01
+  - cross-defendants formed a sublease with plaintiff
+  - plaintiff alleges wrongful lockout and conversion
+
+disputes:
+  - demurrer disputes: whether plaintiff's complaint states a cause of action
+  - motion to strike disputes: whether plaintiff's prayer for punitive damages is proper
+
+acts:
+  - plaintiff's demurrer and motion for judgment on the pleadings
+  - cross-defendants' demurrer and motion to strike
+
+laws:
+  - California Civil Procedure Code
+  - California Civil Code
+  - California Rules of Court
+
+case_citations:
+  - Blank v. Kirwan (1985) 33 Cal.3d 311
+  - Gressley v. Williams (1961) 193 Cal.App.2d 636
+  - Khoury v. Maly's of Cal., Inc. (1993) 14 Cal.App.4th 612
+  - Mahan v. Charles W. Chan Insurance Agency, Inc. (2017) 14 Cal.App.5th 841
+  - Schifando v. City of Los Angeles (2003) 31 Cal.4th 1081
+  - Krawitz v. Rusch (1989) 209 Cal.App.3d 957
+  - Rev. & Tax Code § 23304.5
+  - Civil Code § 3294
+  - Civil Code § 789.3
+  - Code Civ. Proc., § 430.30
+  - Code Civ. Proc., § 436
+  - Code Civ. Proc., § 437(a)
+  - Code Civ. Proc., § 435(b)(1)
+  - California Rules of Court Rule 3.1322
+
+roles:
+  - judge: [judge's name]
+  - plaintiff: Jill Greenberg
+  - cross-defendant: Aaron Serruya
+  - cross-defendant: Yogen Fruz USA, Inc.
+  - cross-defendant: David Bogner
+  - trustee: Jill Greenberg (2019 Trust)
+
+significant_statements:
+  - "A demurrer should be sustained only where the defects appear on the face of the pleading or are judicially noticed."
+  - "A court should sustain a demurrer if a complaint does not allege facts that are legally sufficient to constitute a cause of action."
+  - "The level of distress required to state a claim for IIED is distress of 'such substantial quality or enduring quality that no reasonable [person] in civilized society should be expected to endure it.'"
+```
+
+Note that this summary is not a verbatim reproduction of the judge's tentative ruling, but rather a condensed version of the main points and disputes presented in the document.

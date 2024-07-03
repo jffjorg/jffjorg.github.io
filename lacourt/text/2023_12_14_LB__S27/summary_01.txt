@@ -1,0 +1,82 @@
+Here is a summary of the tentative ruling in YAML format:
+
+```
+case_number: 20LBCV00504
+hearing_date: December 14, 2023
+department: S27
+background:
+  facts:
+    - Tokio Marine America Insurance Company (plaintiff) filed a lawsuit against Prestig, Inc. (defendant) for carrier liability under the Carmack Amendment.
+    - The plaintiff alleges that it insured Panasonic Corporation and that the defendant received a shipment of lithium ion batteries from Panasonic, which was damaged in a single-vehicle accident.
+  parties:
+    - Plaintiff: Tokio Marine America Insurance Company
+    - Defendant: Prestig, Inc.
+people_names:
+  - Dennis A. Cammarano (plaintiff's counsel)
+  - Deyana Koleva (defendant's owner)
+company_names:
+  - Tokio Marine America Insurance Company
+  - Panasonic Corporation
+  - Prestig, Inc.
+  - Prestige Transportation Inc.
+places:
+  - Carson
+  - Kansas City
+  - Illinois
+dates:
+  - November 19, 2020 (original complaint filed)
+  - January 19, 2021 (first amended complaint filed)
+  - May 6, 2021 (special motion to strike denied)
+  - December 6, 2022 (demurrer overruled)
+  - November 7, 2023 (motion to reopen discovery filed)
+  - December 1, 2023 (opposition filed)
+  - December 6, 2023 (reply filed)
+  - December 7, 2023 (objection to reply filed)
+  - February 20, 2024 (jury trial scheduled)
+events:
+  - Single-vehicle accident involving the shipment of lithium ion batteries
+  - Plaintiff's motion to reopen discovery and compel PMK deposition
+money:
+  - $620,199.27 (amount of loss claimed by the plaintiff)
+intentions:
+  - Plaintiff seeks to reopen discovery and compel the deposition of the defendant's PMK to obtain information material to the case.
+  - Defendant opposes the motion, arguing that the plaintiff has not shown good cause to reopen discovery.
+facts:
+  - The plaintiff served a notice of deposition on the defendant, which was objected to and a motion to quash was filed.
+  - The motion to quash was referred to a discovery referee, who set a hearing date.
+  - The defendant withdrew the motion to quash, and the plaintiff seeks to reopen discovery and compel the PMK deposition.
+disputes:
+  - Whether the plaintiff has shown good cause to reopen discovery and compel the PMK deposition
+acts:
+  - Plaintiff filed a motion to reopen discovery and compel PMK deposition
+  - Defendant filed an opposition to the motion
+  - Plaintiff filed a reply to the opposition
+  - Defendant filed an objection to the reply
+agreements:
+  - None mentioned
+laws:
+  - Code of Civil Procedure section 2024.020
+  - Code of Civil Procedure section 2024.050
+  - Code of Civil Procedure section 2025.410
+  - Code of Civil Procedure section 639
+  - Code of Civil Procedure section 2024.020
+  - Code of Civil Procedure section 2024.050
+  - Pelton-Shepherd Industries, Inc. v. Delta Packaging Products, Inc.
+case_citations:
+  - None mentioned
+statutes:
+  - California Code of Civil Procedure section 2024.020
+  - California Code of Civil Procedure section 2024.050
+  - California Code of Civil Procedure section 2025.410
+  - California Code of Civil Procedure section 639
+roles:
+  - Judge: John P. Shook (Ret.)
+  - Referee: John P. Shook (Ret.)
+significant_statements:
+  - The Court finds that plaintiff has shown good cause to reopen discovery and compel the PMK deposition.
+  - The Court grants the request to reopen discovery to allow plaintiff's motion to compel defendant's PMK deposition to be heard and the deposition to be taken if the motion is granted.
+```
+
+Summary:
+
+The tentative ruling grants the plaintiff's motion to reopen discovery and compel the deposition of the defendant's person most qualified or knowledgeable (PMK). The defendant had objected to the motion, arguing that the plaintiff had not shown good cause to reopen discovery. The Court found that the plaintiff had demonstrated good cause and that the defendant's objections were without merit. The Court also referred the motion to compel the PMK deposition to the discovery referee.

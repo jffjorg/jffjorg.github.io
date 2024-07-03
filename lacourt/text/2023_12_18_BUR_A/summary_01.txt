@@ -1,0 +1,103 @@
+Here is a summary of the judge's tentative ruling in YAML format:
+
+```
+case_number: 21STCV18294
+hearing_date: December 18, 2023
+department: A
+los_angeles_superior_court:
+  north_central_district: burbank
+  department: A
+
+parties:
+  plaintiff: Olga Zharovskaya
+  defendant: BHC Alhambra Hospital
+
+people:
+  - Denise K. Rounds
+  - David Rudnick
+  - Gary Mittelberg
+  - Dr. Leonard Jones
+  - Dr. Wakelin McNeel
+  - Nicholas Duran
+
+companies:
+  - BHC Alhambra Hospital
+
+places:
+  - Los Angeles
+  - Alhambra
+  - Burbank
+
+dates:
+  - May 14, 2023
+  - May 17, 2020
+  - May 9, 2023
+  - May 10, 2023
+  - May 12, 2023
+  - May 20, 2023
+  - December 15, 2023
+  - December 18, 2023
+
+events:
+  - Plaintiff filed suit against Defendant
+  - Defendant moved for summary judgment
+  - Plaintiff moved for summary adjudication
+  - Hearing on the motion for summary judgment
+
+money:
+  - None mentioned
+
+intentions:
+  - Defendant intends to demonstrate that it did not fall below the standard of care
+  - Plaintiff intends to demonstrate that Defendant did fall below the standard of care
+
+facts:
+  - Plaintiff was admitted to Defendant's hospital on May 17, 2020
+  - TPP was admitted to Defendant's hospital on May 9, 2023
+  - TPP was released from OTO on May 12, 2023
+  - TPP entered Plaintiff's room on May 20, 2023 and attacked her
+  - Defendant's staff failed to properly supervise TPP
+  - Defendant's staff did not adequately implement physician orders
+
+disputes:
+  - Dispute over whether Defendant fell below the standard of care
+  - Dispute over whether Plaintiff's alleged injuries were caused by Defendant's negligence
+
+acts:
+  - Defendant's alleged failure to properly supervise TPP
+  - Defendant's alleged failure to adequately implement physician orders
+
+agreements:
+  - None mentioned
+
+laws:
+  - California Civil Procedure Code
+  - Welfare and Institutions Code
+  - Evidence Code
+
+case_citations:
+  - Aguilar v. Atlantic Richfield Co. (2001)
+  - Adler v. Manor Healthcare Corp. (1992)
+  - Juge v. County of Sacramento (1993)
+  - Munro v. Regents of University of California (1989)
+  - Hanson v. Grode (1999)
+  - Chakalis v. Elevator Solutions, Inc. (2012)
+  - Garrett v. Howmedica Osteonics Corp. (2013)
+  - Menges v. Department of Transportation (2020)
+  - Fenimore v. Regents of University of California (2016)
+  - Berkley v. Dowds (2007)
+  - Bains v. Western Pacific R. Co. (1976)
+  - Conservatorship of O.B. (2020)
+
+roles:
+  - Judge: F.M. Tavelman
+
+significant_statements:
+  - The Court finds that Plaintiff has presented sufficient expert testimony to establish a triable issue of fact.
+  - The Court finds that Defendant's failure to properly supervise TPP and adequately implement physician orders constitutes a triable issue of fact.
+  - The Court denies Defendant's motion for summary judgment and summary adjudication.
+```
+
+And here is a summary of the judge's tentative ruling in English text:
+
+The Court denies Defendant's motion for summary judgment and summary adjudication. The Court finds that Plaintiff has presented sufficient expert testimony to establish a triable issue of fact regarding Defendant's alleged failure to properly supervise TPP and adequately implement physician orders. The Court also finds that Defendant's failure to properly supervise TPP and adequately implement physician orders constitutes a triable issue of fact. Therefore, the motion for summary judgment is denied, and the motion for summary adjudication is also denied.

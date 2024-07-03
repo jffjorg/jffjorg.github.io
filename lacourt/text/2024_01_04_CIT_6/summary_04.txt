@@ -1,0 +1,63 @@
+Here is the summary in YAML format:
+
+```
+case_number: 23PSCV02505
+plaintiff_name: Joanna Juarez
+defendant_name: Sequoia Janai Williams
+people_names:
+  - Vivan F. Yochelson
+  - Joanna Juarez
+  - Sequoia Janai Williams
+company_names:
+  - Yochelson & Associates
+places:
+  - California
+dates:
+  - August 16, 2023
+  - December 6, 2023
+  - January 4, 2024
+events:
+  - Motor vehicle accident
+  - Filing of lawsuit
+  - Motion to be relieved as counsel
+money: None
+intentions:
+  - To grant the motion to be relieved as counsel
+facts:
+  - Breakdown in the attorney-client relationship
+  - Unopposed motion
+disputes:
+  - None
+acts:
+  - Filing of motion
+  - Service of notice
+  - Granting of motion
+agreements:
+  - None
+laws:
+  - California Rules of Court, rule 3.1362
+  - California Rules of Professional Conduct, rule 1.16
+  - Ramirez v. Sturdevant (1994)
+  - People v. Prince (1968)
+  - Estate of Falco (1987)
+case_citations:
+  - Ramirez v. Sturdevant (1994) 21 Cal.App.4th 904, 915
+  - People v. Prince (1968) 268 Cal.App.2d 398, 403-407
+  - Estate of Falco (1987) 188 Cal.App.3d 1004, 1014
+statutes:
+  - Cal. Rules of Court, rule 3.1362
+  - Cal. Rules of Professional Conduct, rule 1.16
+roles:
+  - Judge
+  - Plaintiff
+  - Defendant
+  - Counsel
+  - Client
+significant_statements:
+  - The Court grants the motion to be relieved as counsel on the condition that Counsel submits a revised proposed order as directed herein.
+  - Counsel is ordered to give notice of this ruling and file proof of service of same within five calendar days.
+```
+
+And here is the English-text summary:
+
+This tentative ruling grants the motion to be relieved as counsel for the plaintiff, Joanna Juarez, filed by her attorney, Vivan F. Yochelson of Yochelson & Associates. The motion is unopposed and is granted on the condition that Counsel submits a revised proposed order as directed by the Court. The Court finds that the breakdown in the attorney-client relationship is sufficient grounds for permitting withdrawal. The Court orders Counsel to give notice of this ruling and file proof of service within five calendar days.

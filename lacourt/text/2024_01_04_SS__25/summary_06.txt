@@ -1,0 +1,54 @@
+Here is the summary in YAML format:
+
+```
+case_number: unknown
+plaintiff_name: Judgment Creditor Legal Support Network, LLC
+defendant_name: Judgment Debtor Sellar Hazard and Lucia, A Professional Law Corporation
+people_names:
+  - Sellar Hazard
+  - Lucia
+company_names:
+  - Judgment Creditor Legal Support Network, LLC
+  - Sellar Hazard and Lucia, A Professional Law Corporation
+places: unknown
+dates:
+  - December 01, 2021
+  - August 31, 2022
+  - May 17, 2023
+  - October 31, 2023
+  - November 07, 2023
+  - November 14, 2023
+events:
+  - Default judgment entered
+  - Motion to Amend Default Court Judgment filed
+money: unknown
+intentions:
+  - To amend the default judgment to remove incorrect defendant name
+facts:
+  - Judgment Debtor defaulted
+  - Default judgment entered
+  - Judgment Creditor files motion to amend default judgment
+disputes: unknown
+acts:
+  - Judgment Debtor's participation in the action
+  - Submission to judgment
+  - Error in naming defendant
+agreements: unknown
+laws:
+  - California Code of Civil Procedure § 187
+  - California Code of Civil Procedure § 473(d)
+  - California Code of Civil Procedure § 128(a)(8)
+statutes: unknown
+roles:
+  - Judge
+  - Judgment Creditor
+  - Judgment Debtor
+significant_statements:
+  - The Court finds that "Sellar Hazard and Lucia" is an alter ego of Judgment Debtor
+  - The default judgment is corrected to reflect "Sellar Hazard and Lucia" as the true judgment debtor
+  - The Motion to Amend the May 17, 2023 Default Court Judgment is granted
+```
+
+And here is the English text to summarize the judge's tentative ruling:
+
+The judge has granted the motion to amend the default court judgment filed by Judgment Creditor Legal Support Network, LLC. The motion is to correct the default judgment to remove the incorrect name of the defendant, "Sellar Hazard and Lucia, A Professional Corporation", and properly designate the real judgment debtor as "Sellar Hazard and Lucia". The judge has found that "Sellar Hazard and Lucia" is an alter ego of Judgment Debtor and that the default judgment was the result of an error. The judge is amending the default judgment to reflect the correct name of the judgment debtor and has ordered counsel for Plaintiff to submit a proposed amended judgment for review and approval within 10 court days.

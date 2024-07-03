@@ -1,0 +1,65 @@
+Here is the summary of the tentative ruling in YAML format:
+
+```
+case_number: 23STCV08767
+plaintiff_name: LVNV Funding LLC
+defendant_name: Stephen C Dimon
+people_names:
+  - Stephen C Dimon
+company_names:
+  - LVNV Funding LLC
+places:
+  - Los Angeles
+  - California
+dates:
+  - December 14, 2023
+  - October 13, 2023
+  - 1995
+  - 2003
+events:
+  - Request for default judgment
+  - Submission of default judgment package
+  - Denial of default judgment request
+money:
+  - $61,541.08
+  - $53,235.45
+  - $5,817.42
+  - $533.50
+  - $1,954.71
+intentions:
+  - Plaintiff seeks entry of default judgment
+  - Plaintiff seeks judgment in the total amount of $61,541.08
+facts:
+  - Plaintiff does not allege in the Complaint that it seeks any interest
+  - Plaintiff's previous request for default judgment was denied
+  - A complaint or cross-complaint shall contain a demand for judgment
+disputes:
+  - Plaintiff's request for default judgment
+acts:
+  - Plaintiff submitted a default judgment package
+  - Plaintiff seeks judgment against Defendant Stephen C Dimon
+agreements:
+  - None mentioned
+laws:
+  - Code Civ. Proc., § 425.10, subd. (a)(2)
+  - Finney v. Gomez (2003) 111 Cal.App.4th 527, 534
+  - Feminist Women's Health Center v. Blythe (1995) 32 Cal.App.4th 1641, 1675
+case_citations:
+  - Code Civ. Proc., § 425.10, subd. (a)(2)
+  - Finney v. Gomez (2003) 111 Cal.App.4th 527, 534
+  - Feminist Women's Health Center v. Blythe (1995) 32 Cal.App.4th 1641, 1675
+statutes:
+  - Code Civ. Proc., § 425.10, subd. (a)(2)
+roles:
+  - Judge: Hon. Rolf M. Treu
+  - Plaintiff: LVNV Funding LLC
+  - Defendant: Stephen C Dimon
+significant_statements:
+  - "A complaint or cross-complaint shall contain…the following:…(2) A demand for judgment for the relief to which the pleader claims to be entitled. If the recovery of money or damages is demanded, the amount demanded shall be stated."
+  - "A trial court has no jurisdiction to grant a plaintiff more relief against a defaulting defendant than is asked for in the complaint."
+  - "Plaintiff to schedule a date for submitting a new default judgment package."
+```
+
+And here is the English summary of the judge's tentative ruling:
+
+The judge has denied the plaintiff's request for default judgment against the defendant, Stephen C Dimon, without prejudice. The plaintiff had requested a default judgment in the amount of $61,541.08, but the court notes that the complaint does not allege any interest. The court cites Code of Civil Procedure section 425.10 and several California appellate court cases to state that a complaint must contain a demand for judgment, and that a trial court has no jurisdiction to grant a plaintiff more relief than is asked for in the complaint. The court orders the plaintiff to schedule a new date to submit a default judgment package.

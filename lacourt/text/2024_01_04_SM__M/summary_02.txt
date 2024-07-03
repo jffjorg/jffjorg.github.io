@@ -1,0 +1,64 @@
+Here is the summary in YAML format:
+
+```
+case_number: 23SMCV02701
+plaintiff_name: Athony DiGirolamo
+defendant_name: Landon McCarroll
+people_names:
+  - Athony DiGirolamo
+  - Landon McCarroll
+company_names: []
+places: []
+dates:
+  - October 2, 2023
+  - November 3, 2023
+  - November 7, 2023
+  - January 4, 2024
+events:
+  - Defendant served Plaintiff with discovery requests
+  - Plaintiff failed to respond to discovery requests
+  - Counsel followed up with Plaintiff regarding outstanding discovery requests
+  - Defendant moved to compel initial discovery responses
+  - Court granted motion to compel
+money: []
+intentions:
+  - Defendant intends to compel initial discovery responses
+  - Plaintiff intends to delay or avoid responding to discovery requests
+facts:
+  - Defendant served Plaintiff with discovery requests on October 2, 2023
+  - Responses were due on November 3, 2023
+  - Plaintiff failed to respond to discovery requests
+  - Defendant has not received any response to discovery requests
+  - Counsel followed up with Plaintiff regarding outstanding discovery requests
+disputes:
+  - Plaintiff's failure to respond to discovery requests
+  - Defendant's motion to compel initial discovery responses
+acts:
+  - Defendant served Plaintiff with discovery requests
+  - Plaintiff failed to respond to discovery requests
+  - Counsel followed up with Plaintiff regarding outstanding discovery requests
+  - Defendant moved to compel initial discovery responses
+agreements: []
+laws:
+  - CCP section 2031.010
+  - CCP section 2031.300
+  - CCP section 2030.290(b)
+  - Leach v. Superior Court (1980) 111 Cal. App. 3d 902, 905-906
+statutes:
+  - CCP section 2031.010
+  - CCP section 2031.300
+  - CCP section 2030.290(b)
+roles:
+  - Judge: [not specified]
+  - Plaintiff: Athony DiGirolamo
+  - Defendant: Landon McCarroll
+significant_statements:
+  - "Where there has been no timely response to a CCP section 2031.010 inspection demand, the demanding party must seek an order compelling a response."
+  - "Failure to timely respond waives all objections, including privilege and work product."
+  - "The statute contains no time limit for a motion to compel where no responses have been served."
+  - "All that need be shown in the moving papers is that a set of interrogatories was properly served on the opposing party, that the time to respond has expired, and that no response of any kind has been served."
+```
+
+And here is a summary of the judge's tentative ruling in English text:
+
+The defendant, Landon McCarroll, moves to compel initial discovery responses from the plaintiff, Athony DiGirolamo. The defendant served the plaintiff with discovery requests on October 2, 2023, and responses were due on November 3, 2023. The plaintiff failed to respond to the discovery requests, and the defendant has not received any response. The court grants the motion to compel and orders the plaintiff to provide further responses without objection within 10 days.

@@ -1,0 +1,73 @@
+Here is the summary in YAML format:
+
+```
+case_number: 23STCV08810
+plaintiff_name: Halen Kadel
+defendant_names:
+  - Operational Technical Services, LLC
+  - Operational Technical Services, Inc.
+people_names: 
+  - Ibrahim Adwani (Defendants' counsel)
+  - Theresa M. Traber (Judge)
+company_names:
+  - Operational Technical Services, LLC
+  - Operational Technical Services, Inc.
+places: 
+  - California
+dates:
+  - April 20, 2023
+  - September 29, 2023
+  - December 12, 2023
+  - December 15, 2023
+events:
+  - Wage and hour action filed
+  - Motion to strike portions of the complaint
+  - Meet and confer process
+  - Tentative ruling issued
+money: 
+  - Overtime pay
+  - Minimum wages
+  - Indemnification for business expenses
+  - Wage and hour statements
+  - Meal and rest periods
+intentions:
+  - To strike portions of the complaint pertaining to punitive damages
+facts:
+  - Plaintiff was misclassified as an exempt employee
+  - Plaintiff was paid a salary rather than hourly wages
+  - Plaintiff was deprived of overtime, minimum wages, indemnification for business expenses, wage and hour statements, and meal and rest periods
+  - Plaintiff was terminated in retaliation for complaining about treatment
+disputes:
+  - Whether the complaint is sufficient to support a claim for punitive damages
+  - Whether the defendants' conduct was malicious, fraudulent, or oppressive
+  - Whether the plaintiff's termination was authorized or ratified by an officer, director, or managing agent of the corporation
+acts:
+  - Filing of the complaint
+  - Motion to strike portions of the complaint
+  - Meet and confer process
+  - Issuance of the tentative ruling
+agreements: 
+  - None
+laws:
+  - Code of Civil Procedure, § 436
+  - Code of Civil Procedure, § 437
+  - Code of Civil Procedure, § 436(b)
+  - Civil Code, § 3294, subd. (a)
+  - Civil Code, § 3294, subd. (c)(1), (2)
+  - College Hospital Inc. v. Superior Court (1994) 8 Cal.4th 704
+  - Angie M. v. Superior Court (1995) 37 Cal.App.4th 1217
+  - Pfeifer v. John Crane, Inc., (2013) 220 Cal.App.4th 1270
+  - Grieves v. Superior Court (Fox) (1984) 157 Cal.App.3d 159
+  - Perkins v. Superior Court (1981) 117 Cal.App.3d 1
+roles: 
+  - Judge: Theresa M. Traber
+  - Moving party: Operational Technical Services, LLC and Operational Technical Services, Inc.
+  - Responding party: Halen Kadel
+significant statements:
+  - "Defendants contend that Plaintiff has not properly set forth facts supporting a claim for punitive damages."
+  - "The Court is therefore persuaded that the allegations pertaining to punitive damages are insufficiently pled and must be stricken."
+```
+
+And here is a summary of the judge's tentative ruling in English text:
+
+The judge has issued a tentative ruling granting the defendants' motion to strike portions of the complaint pertaining to punitive damages. The defendants argue that the complaint lacks specific facts showing malicious, fraudulent, or oppressive conduct, and the judge agrees. The judge finds that the complaint's allegations of retaliation are conclusory and do not provide sufficient evidence to support a claim for punitive damages. The judge notes that the complaint is entirely devoid of factual allegations showing ratification of any malicious conduct. As a result, the judge grants the motion to strike the punitive damages allegations.

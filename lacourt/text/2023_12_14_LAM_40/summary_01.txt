@@ -1,0 +1,109 @@
+Here is the summary in YAML format:
+
+```
+case_number: 21STCV14401
+hearing_date: December 14, 2023
+dept: 40
+superior_court: California
+county: Los Angeles
+
+plaintiff:
+  name: Public Health and Safety Advocates, LLC
+  type: Limited Liability Company
+
+defendant:
+  name: Hong Chang USA, Inc.
+  type: California Corporation
+  alias: Hong Chang Corporation
+  alias: California Food International
+  alias: Galleria Foods Wholesale
+  does: 1-50
+
+people:
+  - Hong Chang
+
+companies:
+  - Hong Chang USA, Inc.
+  - Hong Chang Corporation
+  - California Food International
+  - Galleria Foods Wholesale
+
+places:
+  - California
+  - Los Angeles
+
+dates:
+  - April 15, 2021
+  - October 18, 2023
+  - October 19, 2023
+  - November 20, 2023
+  - January 11, 2024
+  - December 14, 2023
+
+events:
+  - Complaint filed
+  - Notice of settlement filed
+  - Order to Show Cause Hearing set
+  - Dismissal of defendants
+  - Motion to approve settlement filed
+
+money:
+  - $2,500 (per day civil penalty)
+  - $37,000 (attorney's fees)
+
+intentions:
+  - To approve the Proposition 65 settlement and consent judgment
+
+facts:
+  - Hong Chang USA, Inc. and its affiliates allegedly produce and distribute food products containing lead and cadmium in violation of California's Proposition 65
+  - Plaintiff seeks penalties, injunctive relief, and attorney's fees
+  - Settlement requires defendant to affix Proposition 65 warnings to products
+
+disputes:
+  - None (unopposed motion)
+
+acts:
+  - Defendant's alleged noncompliance with Proposition 65
+  - Plaintiff's filing of a complaint and notice of settlement
+  - Defendant's alleged attempts to rectify noncompliance
+
+agreements:
+  - Settlement agreement between plaintiff and defendant
+  - Consent judgment proposed by plaintiff
+
+laws:
+  - Proposition 65 (California Safe Drinking Water and Toxic Enforcement Act of 1986)
+  - Health & Safety Code section 25249.5, et seq.
+  - Health & Safety Code section 25249.7, subdivision (f)(4)
+  - Code of Civil Procedure section 664.6
+  - Code of Civil Procedure section 1021.5
+
+case_citations:
+  - Consumer Advocacy Group, Inc. v. Kintetsu Enterprises of America (2006)
+  - Consumer Defense Group v. Rental Housing Industry Members (2006)
+  - Environmental Law Foundation v. Wykle Research, Inc. (2005)
+  - Serrano v. Priest (1977)
+  - 12 Witkin, Summary of California Law 10th (2005) Real Property, § 894, p. 1075
+
+statutes:
+  - Health & Safety Code section 25249.5, et seq.
+  - Health & Safety Code section 25249.6
+  - Health & Safety Code section 25249.7, subdivision (f)(4)
+  - Code of Civil Procedure section 664.6
+  - Code of Civil Procedure section 1021.5
+
+roles:
+  - Judge: [Name]
+  - Plaintiff: Public Health and Safety Advocates, LLC
+  - Defendant: Hong Chang USA, Inc.
+  - Attorneys: [Name(s)]
+
+significant_statements:
+  - The Court finds that the settlement and proposed judgment satisfy the requirements of Health & Safety Code section 25249.7, subdivision (f)(4)
+  - The Court determines that the attorney's fees sought are reasonable
+  - The Court is satisfied with the analysis provided by Plaintiff for why the civil penalty is reasonable
+```
+
+And here is a summary of the judge's tentative ruling in English text:
+
+The Court is considering the plaintiff's motion to approve a settlement and consent judgment in a case alleging violations of California's Proposition 65. The settlement requires the defendant to affix Proposition 65 warnings to certain food products and pay a civil penalty of $3,000. The Court finds that the settlement and proposed judgment satisfy the requirements of Health & Safety Code section 25249.7, subdivision (f)(4) and that the attorney's fees sought are reasonable. The Court is satisfied with the analysis provided by the plaintiff for why the civil penalty is reasonable. The motion is granted, and the proposed order and consent judgment are approved. The Court retains jurisdiction to enforce the terms of the consent judgment.

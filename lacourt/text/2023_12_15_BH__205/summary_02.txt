@@ -1,0 +1,64 @@
+Here is the summary in YAML format:
+
+```
+case_number: 23SMCV01692
+plaintiff_name: Velocity Investments, LLC
+defendant_name: Shanna Nikole
+people_names:
+  - Shanna Nikole
+company_names:
+  - Velocity Investments, LLC
+places:
+  - Beverly Hills
+dates:
+  - April 20, 2023
+  - August 15, 2023
+  - October 25, 2023
+  - December 15, 2023
+events:
+  - Request for Entry of Default Judgment
+  - Request for Default Judgment
+  - Failure to make payments on account
+  - Purchase of delinquent accounts
+money:
+  - $33,521.29
+  - $542.17
+  - $34,063.46
+intentions:
+  - Collect debt
+facts:
+  - Defendant failed to make payments on account
+  - Plaintiff purchased delinquent account
+  - Plaintiff filed complaint and proof of service
+  - Defendant did not respond
+  - Plaintiff requested entry of default and default judgment
+disputes:
+  - Lack of compliance with default judgment requirements
+acts:
+  - Plaintiff filed complaint and proof of service
+  - Defendant failed to respond
+  - Plaintiff requested entry of default and default judgment
+agreements:
+  - None mentioned
+laws:
+  - Code of Civil Procedure section 585
+  - Code Civ. Proc. 579
+  - Code Civ. Proc. 415.20
+  - CRC Rule 3.1800
+case_citations:
+  - Kim v. Westmoore Partners, Inc. (2011)
+  - Board of Trustees of Leland Stanford Junior University v. Ham (2013)
+statutes:
+  - Code of Civil Procedure
+roles:
+  - Judge: Moreton
+  - Plaintiff: Velocity Investments, LLC
+  - Defendant: Shanna Nikole
+significant_statements:
+  - "Plaintiff has not complied with the requirements for a default judgment."
+  - "Plaintiff's Request for Default Judgment is DENIED as to Defendant Shanna Nikole."
+```
+
+And here is a summary of the judge's tentative ruling in English text:
+
+The judge's tentative ruling is that the plaintiff's request for a default judgment against the defendant, Shanna Nikole, is denied. The plaintiff, Velocity Investments, LLC, purchased a delinquent account from the original creditor and filed a complaint against the defendant seeking $33,521.29 in damages. The defendant failed to respond to the complaint and the plaintiff successfully requested the entry of default. However, the plaintiff failed to comply with the requirements for a default judgment, including providing a declaration of diligence showing prior attempts to personally serve the defendant. As a result, the judge is denying the plaintiff's request for a default judgment.

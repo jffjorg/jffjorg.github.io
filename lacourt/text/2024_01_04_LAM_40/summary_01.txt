@@ -1,0 +1,95 @@
+Here is the summary in YAML format:
+
+```
+case_number: 21BBCV00732
+plaintiff_name: Bagrat Ogannes
+defendant_name: Armen Kavoukjian
+people_names:
+  - Bagrat Ogannes
+  - Giorgi Imnaishvili
+  - Tigran Hakobyan
+  - Armen Kavoukjian
+  - Haruntin Kassakhian
+company_names:
+  - GreenEden, LLC
+places:
+  - Los Angeles
+  - California
+dates:
+  - August 17, 2021
+  - October 6, 2015
+  - February 20, 2019
+  - October 14, 2021
+  - November 8, 2021
+  - April 12, 2022
+  - April 14, 2022
+  - April 26, 2022
+  - April 27, 2022
+  - May 3, 2022
+  - May 16, 2022
+  - June 12, 2023
+  - June 13, 2023
+  - July 12, 2023
+  - July 14, 2023
+  - August 16, 2023
+  - August 22, 2023
+  - September 6, 2023
+  - September 29, 2023
+  - October 3, 2023
+  - December 7, 2023
+  - January 4, 2024
+events:
+  - Malicious prosecution
+  - Discovery disputes
+  - Motion for terminating sanctions
+  - Motion for evidence sanctions
+  - Motion for issue sanctions
+  - Motion for monetary sanctions
+money:
+  - $10,728.16
+  - $4,850
+intentions:
+  - To impose terminating sanctions
+  - To impose evidence sanctions
+  - To impose issue sanctions
+  - To impose monetary sanctions
+facts:
+  - Plaintiff Ogannes alleges that Defendant Kavoukjian initiated a lawsuit against him without probable cause
+  - Defendant Kavoukjian seeks to impose sanctions on Plaintiff Ogannes for alleged discovery abuses
+  - Plaintiff Ogannes failed to supplement discovery responses
+  - Defendant Kavoukjian filed a motion for terminating sanctions, or, in the alternative, for evidentiary, issue and monetary sanctions
+disputes:
+  - Discovery disputes
+  - Sanctions disputes
+acts:
+  - Failure to supplement discovery responses
+  - Discovery abuses
+agreements:
+  - Code of Civil Procedure section 2023.030
+  - Code of Civil Procedure section 2023.010
+laws:
+  - California Rules of Court, rule 3.1345
+case_citations:
+  - Vallbona v. Springer (1996) 43 Cal.App.4th 1525
+  - In re Marriage of Eustice (2015) 242 Cal.App.4th 1291
+  - Dept. of Forestry & Fire. Prot. v. Howell (2017) 18 Cal.App.5th 154
+  - Los Defensores, Inc. v. Gomez (2014) 223 Cal.App.4th 377
+  - Karlsson v. Ford Motor Co. (2006) 140 Cal.App.4th 1202
+  - New Albertsons, Inc. v. Superior Court (2008) 168 Cal.App.4th 1403
+  - Peat, Marwick, Mitchell & Co. v. Superior Court (1988) 200 Cal.App.3d 272
+  - Dalany v. American Pacific Holding Corp. (1996) 42 Cal.App.4th 822
+  - Rutledge v Hewlett-Packard Co. (2015) 238 Cal.App.4th 1164
+roles:
+  - Judge
+  - Plaintiff
+  - Defendant
+  - Attorney
+significant_statements:
+  - "Terminating sanctions are drastic sanctions that should be imposed sparingly and only when it is clear that the party to be sanctioned has left no viable alternatives."
+  - "Discovery sanctions 'should be appropriate to the dereliction, and should not exceed that which is required to protect the interests of the party entitled to but denied discovery.'"
+  - "Ordering evidence sanctions in these circumstances would provide a windfall to the plaintiffs by relieving them of their burden of proving their theory of liability."
+```
+
+And here is a summary of the judge's tentative ruling in English text:
+
+The judge has denied Defendant Armen Kavoukjian's motion for terminating sanctions, or, in the alternative, for evidentiary, issue, and monetary sanctions against Plaintiff Bagrat Ogannes in the amount of $10,728.16. The motion was based on alleged discovery abuses by Plaintiff Ogannes, including failure to supplement discovery responses. The judge found that terminating sanctions were not warranted because there were viable alternatives, such as imposing monetary sanctions or issue sanctions. The judge also denied the request for evidence sanctions, finding that they were overbroad and would relieve the Plaintiff of its burden of proving its theory of liability. Finally, the judge denied the request for monetary sanctions, finding that the supplemental discovery responses were facially sufficient and should have been challenged in a motion to compel further responses if necessary.

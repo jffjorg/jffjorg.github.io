@@ -1,0 +1,53 @@
+Here is the summary in YAML format:
+
+```
+case_number: 22VECV01170
+plaintiff: Scalzo
+defendant: Hyundai Motor America
+people_names:
+  - Aaron Bailey
+  - M. Nicholas Nita
+company_names:
+  - Hyundai Motor America
+places:
+  - Los Angeles
+  - 3055 Wilshire Blvd.
+dates:
+  - 3/15/2022
+  - 12/14/2023
+  - 12/28/2023
+  - 1/14/2024
+events:
+  - Plaintiff's motion to compel deposition
+acts:
+  - Production of Aaron Bailey for deposition
+  - Monetary sanctions
+  - Deposition scheduled for 12/28/2023
+money:
+  - $3,360
+intention:
+  - Grant plaintiff's motion
+facts:
+  - Aaron Bailey is within the control of defendant
+  - Defendant has failed to produce Bailey for deposition
+  - CCP section §§ 2025.010, 2025.230, 2025.450 apply
+disputes:
+  - Discovery abuse without substantial justification
+laws:
+  - CCP (California Code of Procedure)
+  - Section §§ 2025.010, 2025.230, 2025.450
+citations:
+  - Hyundai letter 3/15/2022
+  - Exhibits A-H
+roles:
+  - Plaintiff (Scalzo)
+  - Defendant (Hyundai Motor America)
+  - Judge (ordering deposition and sanctions)
+significant_statements:
+  - Aaron Bailey is the "proverbial 'duck'"
+  - Deposition will take place by Zoom unless alternative agreed upon
+```
+
+And here is the English-text summary:
+
+This is a tentative ruling by the Judge regarding a plaintiff's motion to compel the deposition of Aaron Bailey. The Judge grants the motion, finding that Aaron Bailey is within the control of the defendant, Hyundai Motor America, and that the defendant has failed to produce him for deposition. The deposition will take place on December 28, 2023, at 9 a.m. by Zoom, unless the parties agree to an alternative. Additionally, the Judge orders Hyundai Motor America to pay monetary sanctions in the sum of $3,360 to the client trust account of M. Nicholas Nita by January 14, 2024, due to discovery abuse without substantial justification.

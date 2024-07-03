@@ -1,0 +1,82 @@
+Here is the summary in YAML format:
+
+```
+case_number: 23STCV08151
+hearing_date: 2023-12-14
+dept: 49
+parties:
+  - Plaintiff: Derek Paul Deakin
+  - Defendant/Cross-Complainant: Robert Allan Kahn
+people_names:
+  - Derek Paul Deakin
+  - Robert Allan Kahn
+company_names:
+  - None
+places:
+  - None
+dates:
+  - 2018-06-15 (Retainer Agreement)
+  - 2018-08-16 (filing of lawsuit)
+  - 2022-08-23 (settlement)
+  - 2023-11-02 (hearing)
+  - 2023-12-14 (tentative ruling)
+events:
+  - Retainer Agreement
+  - Filing of lawsuit
+  - Settlement
+  - Hearing
+  - Tentative ruling
+money:
+  - $269,984.74 (amount in dispute)
+  - $1,675,000 (settlement amount)
+  - $644,021.60 (amount disbursed to Deakin)
+  - $162,565.44 (amount disbursed to Deakin)
+  - $494,592.02 (amount disbursed to Kahn)
+intentions:
+  - Cross-Complainant seeks declaratory judgment that he is entitled to the disputed funds
+  - Cross-Defendant opposes the motion
+facts:
+  - Deakin retained Kahn to represent him in a personal injury case
+  - Kahn filed a lawsuit on Deakin's behalf
+  - The case settled for $1,675,000
+  - Deakin authorized Kahn to accept the settlement
+  - Kahn disbursed $644,021.60 and $162,565.44 to Deakin
+  - Kahn paid himself $494,592.02 from the trust account
+disputes:
+  - Dispute over the fee agreement
+  - Dispute over the settlement amount
+  - Dispute over Kahn's entitlement to the disputed funds
+acts:
+  - Retainer Agreement
+  - Filing of lawsuit
+  - Settlement
+  - Disbursement of funds
+agreements:
+  - Fee Agreement between Deakin and Kahn
+laws:
+  - California Code of Civil Procedure
+  - California Rules of Court
+case_citations:
+  - Aguilar v. Atlantic Richfield Co. (2001) 25 Cal.4th 826
+  - Gafcon, Inc. v. Ponsor & Associates (2002) 98 Cal.App.4th 1388
+  - Hinesley v. Oakshade Town Center (2005) 135 Cal.App.4th 289
+  - Oldcastle Precast, Inc. v. Lumbermens Mut. Cas. Co. (2009) 170 Cal. App. 4th 554
+  - Villa v. McFarren (1995) 35 Cal.App.4th 733
+statutes:
+  - California Code of Civil Procedure § 437c
+  - California Rules of Court Rule 3.1350
+roles:
+  - Judge: Randolph M. Hammock
+  - Plaintiff: Derek Paul Deakin
+  - Defendant/Cross-Complainant: Robert Allan Kahn
+significant_statements:
+  - The court grants Cross-Complainant's motion for summary judgment
+  - Cross-Defendant failed to meet his burden to establish a triable issue
+  - The undisputed evidence shows that Deakin authorized Kahn to accept the settlement
+  - The fee agreement is clear and unambiguous
+  - Cross-Defendant's evidence is insufficient to establish a triable issue
+```
+
+Summary:
+
+The Judge grants the Cross-Complainant's motion for summary judgment, ruling that he is entitled to the disputed funds of $269,984.74. The Court found that the Cross-Defendant failed to meet his burden to establish a triable issue and that the undisputed evidence shows that Deakin authorized Kahn to accept the settlement. The Judge also found that the fee agreement is clear and unambiguous, and that Cross-Defendant's evidence is insufficient to establish a triable issue.

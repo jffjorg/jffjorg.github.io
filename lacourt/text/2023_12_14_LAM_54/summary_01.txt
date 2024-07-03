@@ -1,0 +1,60 @@
+Here is the summary in YAML format:
+
+```
+case_number: 19STCV28303
+plaintiff_name: Paul Van Kleef
+defendant_name: Clean Concept, LLC, et al.
+people_names:
+  - Paul Van Kleef
+  - Maurice A. Leiter
+  - Max Azria
+  - Yasmine Hanane
+  - Robert McFarlane
+  - Lubov Azria
+company_names:
+  - Clean Concept, LLC
+  - Beitchman & Kekian, PC
+places:
+  - Los Angeles
+  - California
+dates:
+  - September 17, 2019
+  - August 9, 2023
+  - December 14, 2023
+events:
+  - Filing of operative first amended complaint
+  - Service of subpoena on Beitchman & Kekian, PC
+  - Motion to enforce subpoena
+money: None
+intentions:
+  - Plaintiff seeks to enforce subpoena on Beitchman & Kekian, PC
+  - Beitchman seeks to quash subpoena or modify it
+facts:
+  - Plaintiff filed complaint against defendants on September 17, 2019
+  - Plaintiff served subpoena on Beitchman & Kekian, PC on August 9, 2023
+  - Beitchman asserts that responsive, non-privileged documents have been served
+disputes:
+  - Plaintiff's motion to enforce subpoena vs. Beitchman's opposition
+acts:
+  - Plaintiff filed motion to enforce subpoena
+  - Beitchman filed opposition to motion
+agreements: None
+laws:
+  - CCP § 1987.1
+  - CCP § 2018.080
+case_citations: None
+statutes:
+  - California Code of Civil Procedure (CCP)
+roles:
+  - Judge Maurice A. Leiter
+  - Plaintiff Paul Van Kleef
+  - Defendant Clean Concept, LLC, et al.
+  - Third Party Beitchman & Kekian, PC
+significant_statements:
+  - The Court denies plaintiff's motion to enforce subpoena
+  - The Court declines to award sanctions to either party
+```
+
+And here is a summary of the judge's tentative ruling in English text:
+
+The court has made a tentative ruling on the motion to enforce subpoena filed by the plaintiff, Paul Van Kleef. The motion is denied. The subpoena was served on Beitchman & Kekian, PC, a third-party law firm, seeking documents related to their representation of Clean Concept and Lubov Azria. Beitchman has asserted that all responsive, non-privileged documents have been served, and that the withheld documents are either attorney work-product, privileged communications, or confidential corporate documents. The court finds that the work-product privilege is not waived in this action, and that Beitchman owes independent duties to the non-Clean Concept entities. Therefore, the court will not require Beitchman to potentially violate its ethical duties. The court also declines to award sanctions to either party.

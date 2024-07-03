@@ -1,0 +1,78 @@
+Here is the summary in YAML format:
+
+```
+case_number: [Not specified]
+plaintiff_name: Dante Segundo, Jessica Navarro
+defendant_name: Sahara Auto Mart, Inc., Sierra Credit Corporation, Hudson Insurance Company
+people_names: Dante Segundo, Jessica Navarro, [Unknown]
+company_names: Sahara Auto Mart, Inc., Sierra Credit Corporation, Hudson Insurance Company
+places: San Fernando, CA 91340
+dates:
+  - July 14, 2023
+  - August 22, 2023
+  - August 23, 2023
+  - August 24, 2023
+  - September 12, 2023
+  - September 12, 2023
+  - October 18, 2023
+  - November 07, 2023
+  - November 17, 2023
+  - December 27, 2023
+  - January 10, 2025
+  - September 5, 2024
+events:
+  - Sale of a used 2014 Chevrolet Silverado 1500
+  - Motion to compel arbitration
+  - Proof of service
+  - Non-service report
+  - Opposition to motion
+  - Reply to motion
+money: [Not specified]
+intentions:
+  - Plaintiff intends to compel arbitration
+  - Defendant Sierra Credit Corporation agrees to arbitrate through AAA
+  - Defendant Sierra Credit Corporation objects to JAMS arbitrating this action
+facts:
+  - The complaint arises from the sale of a used 2014 Chevrolet Silverado 1500
+  - The parties have a written agreement to arbitrate
+  - The right to compel arbitration has not been waived
+disputes:
+  - Dispute over the forum of arbitration (AAA vs. JAMS)
+acts:
+  - Plaintiff filed a motion to compel arbitration
+  - Defendant Sierra Credit Corporation filed an opposition to the motion
+  - Plaintiff filed a proof of service
+  - Defendant Sahara Auto Mart, Inc. was unable to be served
+agreements:
+  - Retail Installment Sale Contract (RISC) between the parties
+  - Arbitration agreement in the RISC
+laws:
+  - California Code of Civil Procedure section 1281.2
+  - California Code of Civil Procedure section 1281.4
+  - California Civil Code section 1750 et seq.
+  - California Civil Code section 17200 et seq.
+  - California Civil Code section 1632
+case_citations:
+  - Banner Entertainment, Inc. v. Superior Court (1998) 62 Cal.App.4th 348
+  - Armendariz v. Foundation Health Psychcare Services, Inc. (2000) 24 Cal.4th 83
+  - Serafin v. Balco Properties Ltd., LLC (2015) 235 Cal.App.4th 165
+statutes:
+  - California Code of Civil Procedure section 1281.2
+  - California Code of Civil Procedure section 1281.4
+  - California Civil Code section 1750 et seq.
+  - California Civil Code section 17200 et seq.
+  - California Civil Code section 1632
+roles:
+  - Judge: [Unknown]
+  - Plaintiff: Dante Segundo, Jessica Navarro
+  - Defendant: Sahara Auto Mart, Inc., Sierra Credit Corporation, Hudson Insurance Company
+  - Counsel: [Unknown]
+significant_statements:
+  - The Court grants the motion to compel arbitration
+  - The entire action is stayed pending the results of arbitration
+  - A post-arbitration status conference is set for September 5, 2024
+```
+
+And here is a summary of the judge's tentative ruling in English text:
+
+The judge grants the plaintiff's motion to compel arbitration, which was filed on August 22, 2023. The motion seeks to compel arbitration of the controversy between the parties, which arises from the sale of a used 2014 Chevrolet Silverado 1500. The judge finds that the parties have a written agreement to arbitrate, and the right to compel arbitration has not been waived. The judge also finds that the plaintiff has provided sufficient evidence of service on all defendants, including Defendant Sahara Auto Mart, Inc., which was previously unable to be served. As a result, the judge grants the motion and stays the entire action pending the results of arbitration. A post-arbitration status conference is set for September 5, 2024, at which time the parties are expected to report on the status of the arbitration.

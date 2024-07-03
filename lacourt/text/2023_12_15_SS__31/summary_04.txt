@@ -1,0 +1,68 @@
+Here is the summary in YAML format:
+
+```
+case_number: 20STCV45380
+plaintiff: Chad Tewksberry
+defendant: TJX Inc, ET AL, Marshalls of CA, LLC
+people_names:
+  - Chad Tewksberry
+  - Michelle C. Kim
+company_names:
+  - TJX Inc
+  - Marshalls of CA, LLC
+places:
+  - Los Angeles
+  - California
+dates:
+  - January 20, 2023
+  - February 24, 2023
+  - December 15, 2023
+  - December 14, 2023
+events:
+  - Motion to Deem Admissions Admitted
+  - Requests for Admissions
+  - Failure to Provide Responses
+  - Imposition of Monetary Sanctions
+money:
+  - $390 (attorney's fees)
+  - $60 (motion filing fee)
+  - $450 (total sanctions)
+intentions:
+  - Deem admissions admitted
+  - Impose monetary sanctions
+facts:
+  - Plaintiff failed to provide responses to requests for admission
+  - Defendant seeks an order deeming admissions admitted
+  - Defendant requests monetary sanctions
+disputes:
+  - Failure to provide timely responses to requests for admission
+acts:
+  - Defendant propounded requests for admissions
+  - Plaintiff failed to provide responses
+  - Defendant filed a reply providing that Plaintiff served responses
+  - Defendant seeks an order deeming admissions admitted
+agreements:
+  - None mentioned
+laws:
+  - California Code of Civil Procedure §2033.280(c)
+  - California Code of Civil Procedure §2023.010
+  - St. Mary v. Superior Court (2014) 223 Cal.App.4th 762, 776
+case_citations:
+  - California Code of Civil Procedure §2033.280(c)
+  - California Code of Civil Procedure §2023.010
+  - St. Mary v. Superior Court (2014) 223 Cal.App.4th 762, 776
+statutes:
+  - California Code of Civil Procedure
+roles:
+  - Judge: Hon. Michelle C. Kim
+  - Plaintiff: Chad Tewksberry
+  - Defendant: TJX Inc, ET AL, Marshalls of CA, LLC
+significant_statements:
+  - The Court finds the motion moot.
+  - Sanctions are imposed against Plaintiff and Plaintiff's counsel.
+  - The moving party is ordered to give notice.
+```
+
+And here is a summary of the judge's tentative ruling in English text:
+
+The judge has issued a tentative ruling in the case of Chad Tewksberry vs. TJX Inc, ET AL, and Marshalls of CA, LLC. The defendant, Marshalls of CA, LLC, propounded requests for admissions on January 20, 2023, and the plaintiff failed to respond. The defendant then filed a reply stating that the plaintiff had served responses, making the motion to deem admissions admitted moot. The judge finds that the plaintiff's failure to provide timely responses necessitated the motion and imposes monetary sanctions on the plaintiff and their counsel. The defendant is awarded attorney's fees and costs, and the plaintiff and their counsel are ordered to pay sanctions to the defendant. The parties are encouraged to meet and confer to reach an agreement, and if a party intends to submit to the tentative ruling, they must send an email to the court.

@@ -1,0 +1,62 @@
+Here is the summary in YAML format:
+
+```
+case_number: 23PSCV01125
+plaintiff: Cathay Bank
+defendant: Joyful Worldwide Inc. (JWI), Yong Hoon Lee
+people_names:
+  - Joyful Worldwide Inc. (JWI)
+  - Yong Hoon Lee
+  - Cathay Bank
+company_names:
+  - Cathay Bank
+  - Joyful Worldwide Inc. (JWI)
+places: N/A
+dates:
+  - October 18, 2021
+  - November 1, 2022
+  - April 17, 2023
+  - June 20, 2023
+  - January 4, 2024
+events:
+  - Execution of Business Loan Agreement and promissory note
+  - Failure to pay principal amount
+  - Filing of complaint
+  - Entry of defaults
+  - Application for default judgment
+money:
+  - $50,000.00 (principal amount)
+intentions:
+  - To grant default judgment
+facts:
+  - JWI failed to pay principal amount when it matured
+  - Lee executed a continuing Commercial Guaranty
+disputes:
+  - Breach of Written Promissory Note and Business Loan Agreement
+  - Breach of Written Guaranty
+  - Money Lent
+  - Account Stated
+  - Indebtedness
+acts:
+  - Execution of Business Loan Agreement and promissory note
+  - Failure to pay principal amount
+  - Filing of complaint
+agreements:
+  - Business Loan Agreement
+  - Promissory note
+  - Continuing Commercial Guaranty
+laws:
+  - California Rules of Court Rule 3.1806
+case_citations: N/A
+statutes: N/A
+roles:
+  - Plaintiff: Cathay Bank
+  - Defendant: Joyful Worldwide Inc. (JWI), Yong Hoon Lee
+  - Judge: N/A
+significant_statements:
+  - Plaintiff's Application for Default Judgment is denied without prejudice
+```
+
+And here is the English-text summary of the judge's tentative ruling:
+
+The plaintiff, Cathay Bank, has filed an application for default judgment against Joyful Worldwide Inc. (JWI) and Yong Hoon Lee. The plaintiff alleges that JWI failed to pay the principal amount of $50,000.00 when it matured on November 1, 2022, and that Lee executed a continuing commercial guaranty. The court has reviewed the application and has noted several defects. Specifically, the plaintiff has not provided the original promissory note or explained why the court should accept a copy of the note in lieu of the original. Therefore, the court denies the plaintiff's application for default judgment without prejudice. An order to show cause re: default judgment is set for January 4, 2024.

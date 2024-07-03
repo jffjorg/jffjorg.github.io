@@ -1,0 +1,100 @@
+Here is the summary of the judge's tentative ruling in YAML format:
+
+```
+case_number: 23STCV13089
+hearing_date: 2023-12-14
+dept: 78
+county: Los Angeles
+judge: [Unknown]
+
+people_names:
+  - Aaron Gonzalez
+  - Erica Rivera
+  - Pam Pham-Le
+  - Barry Shy
+  - Eric Shy
+  - Rommy Shy
+
+company_names:
+  - Manhattan Loft
+  - SBDTLA 1, LLC
+  - SBDTLA 2, LLC
+  - SBDTLA 3, LLC
+  - SBDTLA 4, LLC
+  - FPI Management, Inc.
+  - Greystar California, Inc.
+  - 215 W 6 Owner, LLC
+
+places:
+  - Los Angeles
+  - California
+
+dates:
+  - 2023-06-08
+  - 2023-08-16
+
+events:
+  - Demurrer and motion to strike filed
+  - Hearing on demurrer and motion to strike
+
+money:
+  - Demand for monetary damages in paragraph 165 stricken
+  - Demand for punitive damages GRANTED
+
+intentions:
+  - FPI Management, Inc. attempts to demur and strike the complaint
+  - Plaintiff seeks to maintain the complaint
+
+facts:
+  - Plaintiff Aaron Gonzalez alleges that his unit at 215 W 6th Street, Unit 708, Los Angeles, CA 90013 is in an uninhabitable and unsafe condition
+  - Defendant FPI Management, Inc. failed to maintain the unit and abate known habitability violations cited by the Housing Department and Health Department
+  - FPI Management, Inc. advertised the property as habitable when it was not
+
+disputes:
+  - FPI Management, Inc. demurs to the complaint on various causes of action
+  - Plaintiff seeks to maintain the complaint
+
+acts:
+  - FPI Management, Inc. failed to maintain the unit
+  - FPI Management, Inc. failed to abate known habitability violations
+  - FPI Management, Inc. advertised the property as habitable when it was not
+
+agreements:
+  - None
+
+laws:
+  - California Civil Code section 1942.4
+  - California Health and Safety Code
+  - Los Angeles Municipal Code
+
+case_citations:
+  - Blank v. Kirwan (1985) Cal.3d 311
+  - Green v. Superior Court (1974) 10 Cal.3d 616
+  - Peterson v. Superior Court (1995) 10 Cal.4th 1185
+  - Hood v. Hacienda La Puente Unified School Dist. (1998) 65 Cal.App.4th 435
+  - El Escorial Owner's Association v. DLC Plastering, Inc. (2007) 154 Cal.App.4th 1337
+  - Van Zyl v. Spiegelberg (1969) 2 Cal.App.3d 367
+  - Stoiber v. Honeychuck (1980) 101 Cal.App.3d 903
+  - Newby v. Alto Riviera Apartments (1976) 60 Cal.App.3d 288
+  - Aweeka v. Bonds (1971) 20 Cal.App.3d 278
+  - Okorie v. Los Angeles Unified School Dist. (2017) 14 Cal.App.5th 574
+  - Johnson v. Honeywell International Inc. (2009) 179 Cal.App.4th 549
+  - College Hospital, Inc. v. Superior Court (1994) 8 Cal.4th 704
+  - Taylor v. Superior Court (1979) 24 Cal.3th 890
+  - City Products Corp. v. Globe Indemnity Co. (1979) 88 Cal.App.3d 31
+  - Cruz v. Home Base (2000) 83 Cal.App.4th 160
+
+roles:
+  - Judge: [Unknown]
+  - Plaintiff: Aaron Gonzalez
+  - Defendant: FPI Management, Inc.
+  - Respondent: [Unknown]
+
+significant_statements:
+  - The judge overrules FPI Management, Inc.'s demurrer to the first, second, third, sixth, eighth, and eleventh causes of action
+  - The judge sustains FPI Management, Inc.'s demurrer to the seventh and tenth causes of action
+  - The judge grants FPI Management, Inc.'s motion to strike the demand for punitive damages and attorney's fees
+  - The judge denies FPI Management, Inc.'s motion to strike the demand for special damages under Civ. Code 1942.4(b)(1)
+```
+
+This summary captures the main points of the judge's tentative ruling, including the various causes of action that were affected, the facts that were alleged, and the legal issues that were addressed.
