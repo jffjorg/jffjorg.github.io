@@ -1,0 +1,46 @@
+Here is the summary in YAML format:
+
+```
+Case Number: [not specified]
+Plaintiff's Name: [not specified]
+Defendant's Name: [not specified]
+People-Names:
+  - Plaintiff
+  - Defendant
+Company-Names: []
+Places: []
+Dates:
+  - [not specified]
+Events:
+  - Discovery of surveillance materials
+  - Deposition of the plaintiff
+  - Trial
+Money: []
+Intentions:
+  - Plaintiff: to obtain discovery of surveillance materials
+  - Defendant: to prevent discovery of surveillance materials
+Facts:
+  - The plaintiff argues that the surveillance materials are not privileged communications
+  - The defendant did not object based on attorney-client privilege or privileged communications
+Disputes:
+  - Whether the surveillance materials are discoverable
+Acts:
+  - The plaintiff filed a motion for discovery of surveillance materials
+  - The defendant filed an opposition to the motion
+Agreements: []
+Laws:
+  - Fed.R.Civ.P. (Federal Rules of Civil Procedure)
+  - 161 F.R.D. (Federal Rules of Civil Procedure, Reporters' Notes)
+Case Citations:
+  - Ward v. [not specified], 161 F.R.D. at 41
+Statutes: []
+Roles:
+  - Plaintiff: seeking discovery of surveillance materials
+  - Defendant: opposing discovery of surveillance materials
+Significant Statements:
+  - "In the absence of any ruling by the Fourth Circuit, and considering the split of other authority on the subject, the undersigned again concludes that allowing discovery of surveillance materials after the deposition of the plaintiff, but before trial, best meets the ends of justice and the spirit of the discovery rules to avoid surprise at trial."
+```
+
+And here is the English-text summary:
+
+The tentative ruling states that the plaintiff's motion for discovery of surveillance materials will be granted, pending certain conditions. The plaintiff argues that the surveillance materials are not privileged communications, and the defendant did not object based on attorney-client privilege or privileged communications. The court cites a previous case, Ward v. [not specified], which held that allowing discovery of surveillance materials after the deposition of the plaintiff, but before trial, best meets the ends of justice and the spirit of the discovery rules to avoid surprise at trial. The defendant may take a video deposition of the plaintiff prior to disclosure of the surveillance materials, which can be used to impeach the plaintiff at trial. The court will issue a final ruling after considering the parties' responses to this tentative ruling.

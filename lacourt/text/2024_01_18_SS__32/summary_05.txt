@@ -1,0 +1,71 @@
+Here is the summary in YAML format:
+
+```
+case_number: 23STCV06720
+plaintiff_name: Amanda Alcala
+defendant_name: Los Angeles County Metropolitan Transportation Authority
+people_names:
+  - Amanda Alcala
+  - Uchenna Ikobi
+  - Melissa West
+company_names:
+  - Carl Warren & Company
+places:
+  - Los Angeles
+dates:
+  - March 28, 2023
+  - April 6, 2023
+  - July 25, 2023
+  - September 20, 2023
+  - November 8, 2023
+  - January 18, 2024
+events:
+  - Complaint filed
+  - Summons and complaint served
+  - Default entered
+  - Motion to set aside default filed
+  - Hearing scheduled
+money:
+  - $500 (penalty)
+  - $5,748.22 (attorney fees)
+intentions:
+  - Defendant seeks to set aside default
+  - Plaintiff opposes the motion
+facts:
+  - Defendant's claims adjuster did not receive the complaint and summons
+  - Plaintiff sent emails to Carl Warren, but they did not receive the documents
+  - Defendant argues excusable neglect due to lost documents
+disputes:
+  - Whether the defendant's claims adjuster received the complaint and summons
+  - Whether the defendant's excuse for default is reasonable
+acts:
+  - Defendant filed a motion to set aside default
+  - Plaintiff opposed the motion
+agreements:
+  - Code of Civil Procedure section 473(b)
+  - Code of Civil Procedure section 473.5
+laws:
+  - California Civil Procedure Code
+  - California Rules of Court
+case_citations:
+  - Credit Managers Association of California v. National Independent Business Alliance (1984)
+  - Davis v. Thayer (1980)
+  - Basinger v. Roger & Wells (1990)
+  - Rappleyea v. Campbell (1994)
+statutes:
+  - Code of Civil Procedure section 473(b)
+  - Code of Civil Procedure section 473.5
+roles:
+  - Plaintiff (Amanda Alcala)
+  - Defendant (Los Angeles County Metropolitan Transportation Authority)
+  - Claims adjuster (Melissa West)
+  - Judge
+significant_statements:
+  - The Court grants the defendant's motion to set aside default
+  - The defendant shall file and serve its proposed answer within 15 days
+  - The defendant shall pay $500 to counsel for plaintiff within 30 days
+```
+
+And here is the English-text summary:
+
+The Court's tentative ruling grants the defendant's motion to set aside the default entered against it. The defendant, Los Angeles County Metropolitan Transportation Authority, argues that its claims adjuster, Carl Warren & Company, did not receive the complaint and summons due to a lost document. The Court finds that the defendant has shown a reasonable excuse for the default and grants the motion. The Court also orders the defendant to pay $500 to the plaintiff's counsel within 30 days. The defendant is required to file and serve its proposed answer within 15 days.

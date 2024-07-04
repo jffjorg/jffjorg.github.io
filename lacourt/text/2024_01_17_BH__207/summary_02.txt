@@ -1,0 +1,60 @@
+Here is the summary in YAML format:
+
+```
+case_number: 22SMCV02765
+plaintiff_name: Anita Pourshalimy
+defendant_name: none
+people_names:
+  - Anita Pourshalimy
+  - Markel Insurance Company
+  - Markel
+company_names:
+  - Markel Insurance Company
+places:
+  - California
+dates:
+  - January 17, 2024
+events:
+  - Motion for a Protective Order
+  - Arbitration proceedings
+  - Defense Medical Examinations
+  - Service of papers
+money:
+  - Monetary sanctions
+intentions:
+  - Prevent additional Defense Medical Examinations
+  - Obtain monetary sanctions
+facts:
+  - Markel is a non-party to the action
+  - Markel has not appeared in or made any filing in this action
+  - There is no consent to electronic service on record with the Court
+disputes:
+  - Whether to grant a protective order
+  - Whether to consider late-filed papers
+  - Whether the Court has jurisdiction over the dispute
+acts:
+  - Service of papers
+  - Filing of opposition
+  - Conducting Defense Medical Examinations
+agreements:
+  - California Arbitration Act
+  - Code of Civil Procedure section 1005, subdivision (b)
+  - California Rules of Court, rule 3.1300(d)
+laws:
+  - California Arbitration Act
+  - Code of Civil Procedure
+statutes:
+  - California Rules of Court, rule 3.1300(d)
+roles:
+  - Plaintiff: Anita Pourshalimy
+  - Non-party: Markel Insurance Company
+  - Arbitrator: unknown
+significant_statements:
+  - The Court exercises its discretion and considers Markel's untimely opposition.
+  - The Court denies Plaintiff's motion for a protective order.
+  - Plaintiff's request should be brought before the arbitrator.
+```
+
+And here is a summary of the judge's tentative ruling in English text:
+
+The judge has issued a tentative ruling on a motion for a protective order brought by Anita Pourshalimy (Plaintiff) against Markel Insurance Company (Markel), which is a non-party to the action. The motion seeks to prevent Markel from conducting additional Defense Medical Examinations without leave of Court, as well as monetary sanctions. The Court notes that Markel was not properly served with the motion, but exercises its discretion and considers Markel's untimely opposition. The Court finds that the dispute between Plaintiff and Markel is currently in arbitration proceedings and that the Court does not have jurisdiction over the dispute. Therefore, the Court denies Plaintiff's motion for a protective order and directs Plaintiff to provide notice of the Court's order and file a proof of service of such.

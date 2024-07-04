@@ -1,0 +1,54 @@
+Here is the summary in YAML format:
+
+```
+case_number: 19STCV20062
+plaintiff_name: Jacob Reich
+defendant_name: Mansour Hashem
+people_names:
+  - Jacob Reich
+  - Mansour Hashem
+company_names: []
+places:
+  - California
+  - Los Angeles
+  - County of Los Angeles
+dates:
+  - June 7, 2019
+  - September 1, 2020
+  - January 17, 2024
+events:
+  - Complaint filed
+  - Second amended complaint filed
+  - Motion for order waiving appeal bond
+money:
+  - $24,978 (monthly rent)
+  - $299,736 (annual rent)
+intention:
+  - Defendant seeks to waive appeal bond
+facts:
+  - Defendant has failed to produce financial documents to support claimed financial situation
+  - Defendant has made contradictory claims about his financial situation
+  - Defendant receives $24,978 in monthly rent from investment properties
+  - Defendant's financial situation is not indigent
+disputes:
+  - Whether defendant is indigent and should have appeal bond waived
+acts:
+  - Defendant failed to produce financial documents
+  - Defendant made contradictory claims about his financial situation
+agreements: []
+laws:
+  - No specific laws mentioned
+case_citations: []
+statutes: []
+roles:
+  - Judge: Hon. Jon R. Takasugi
+  - Plaintiff: Jacob Reich
+  - Defendant: Mansour Hashem
+significant_statements:
+  - Defendant's motion for order waiving appeal bond is denied
+  - Defendant is not indigent and should not have appeal bond waived
+```
+
+And here is a summary of the judge's tentative ruling in English text:
+
+The judge has denied the defendant's motion to waive the appeal bond. The defendant claimed to be indigent and unable to pay the bond, but the court found that this claim was not supported by evidence. The defendant has failed to produce financial documents to support his claimed financial situation and has made contradictory claims about his financial situation. Additionally, the defendant receives $24,978 in monthly rent from investment properties, which suggests that he is not indigent. Therefore, the court has denied the defendant's motion and the appeal bond will not be waived.

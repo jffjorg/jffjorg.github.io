@@ -1,0 +1,61 @@
+Here is the summary in YAML format:
+
+```
+case_number: 20STCV43674
+plaintiff_name: Tricia Pride
+defendant_name: Mrs. Gooch's Natural Food Markets, Inc., dba Whole Foods Market
+people_names:
+  - Tricia Pride
+  - Mrs. Gooch
+company_names:
+  - Whole Foods Market California Inc.
+  - Mrs. Gooch's Natural Food Markets, Inc.
+places:
+  - California
+dates:
+  - November 13, 2020
+  - August 11, 2019
+  - July 18, 2023
+  - October 9, 2023
+  - January 16, 2024
+events:
+  - Slip and fall incident
+  - Demand for Production (Set Three)
+  - Motion to Compel Plaintiff's Responses to Demand for Production (Set Three)
+  - Motion to Compel
+money:
+  - Monetary sanctions
+intentions:
+  - To compel timely responses to discovery requests
+  - To deny sanctions
+facts:
+  - Plaintiff did not respond to discovery requests
+  - Defendant propounded Demand for Production (Set Three) on July 18, 2023
+  - No opposition was filed to the motion to compel
+disputes:
+  - Failure to respond to discovery requests
+acts:
+  - Propounding Demand for Production (Set Three)
+  - Failing to respond to discovery requests
+agreements:
+  - Code of Civil Procedure, § 2031.260, subd. (a)
+  - Code of Civil Procedure, § 2031.300, subd. (b)
+laws:
+  - Code of Civil Procedure, § 2031.260, subd. (a)
+  - Code of Civil Procedure, § 2031.300, subd. (b)
+  - Code of Civil Procedure, § 2023.010, subdivision (d)
+statutes:
+  - Code of Civil Procedure, § 2031.260, subd. (a)
+  - Code of Civil Procedure, § 2031.300, subd. (b)
+  - Code of Civil Procedure, § 2023.010, subdivision (d)
+roles:
+  - Plaintiff: Tricia Pride
+  - Defendant: Mrs. Gooch's Natural Food Markets, Inc., dba Whole Foods Market
+significant statements:
+  - "Defendant's motion to compel is GRANTED."
+  - "Defendant's request for sanctions is DENIED."
+```
+
+And here is a summary of the judge's tentative ruling in English text:
+
+The court has granted the defendant's motion to compel the plaintiff's responses to the demand for production (set three). The plaintiff failed to respond to the discovery requests, and the defendant has shown that it has a right to compel a timely response. The court has denied the defendant's request for monetary sanctions because the notice of motion and motion did not adequately identify the amount of sanctions sought or against whom they are sought. The court orders the plaintiff to serve code-compliant, verified, written responses to the defendant's demand for production (set three) within 21 days of notice of this ruling.

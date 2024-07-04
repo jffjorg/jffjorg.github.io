@@ -1,0 +1,106 @@
+Here is the summary of the tentative ruling in YAML format:
+
+```yaml
+Case:
+  Number: 20STCV11554
+  Hearing Date: January 16, 2024
+  Department: 26
+
+Parties:
+  - Plaintiff: DCR Mortgage 7 Sub 2, LLC
+  - Defendants: North American Title Insurance Company, North American Title Company
+
+People-Names:
+  - John Hosack
+
+Company-Names:
+  - State Bank of India (California)
+  - Spirit of Women of California, Inc.
+  - North American Title Insurance Company
+  - North American Title Company
+  - DCR Mortgage 7 Sub 2, LLC
+
+Places:
+  - California
+  - Fresno
+
+Dates:
+  - July 31, 2014
+  - August 14, 2017
+  - March 20, 2020
+  - October 7, 2020
+  - November 13, 2023
+  - November 20, 2023
+  - January 3, 2024
+  - January 10, 2024
+  - January 16, 2024
+
+Events:
+  - Loan funding
+  - Escrow closing
+  - Recordation of deed of trust
+  - Disbursement of loan proceeds
+  - Filing of first amended complaint
+  - Demurrer and motion to strike
+  - Opposition to demurrer and motion to strike
+
+Money:
+  - $1,753,383.00
+
+Intentions:
+  - To determine if the complaint states a cause of action
+
+Facts:
+  - The State Bank of India (California) made a loan to Spirit of Women of California, Inc.
+  - The loan was secured by a deed of trust to real property at 327 W. Belmont Avenue, Fresno, California 93728
+  - North American Title Insurance Company and North American Title Company were to record the deed of trust and distribute the loan proceeds
+  - The deed of trust was recorded, but the loan proceeds were not distributed as intended
+  - The borrower failed to make payments on the loan
+  - The plaintiff, DCR Mortgage 7 Sub 2, LLC, was assigned the loan and brought suit against the defendants
+
+Disputes:
+  - Whether the complaint states a cause of action for violation of Penal Code section 496
+
+Acts:
+  - Aiding and abetting the borrower's alleged theft of the loan proceeds
+
+Agreements:
+  - The escrow instructions required the defendants to record the deed of trust and distribute the loan proceeds
+
+Laws:
+  - Penal Code section 496
+  - Code of Civil Procedure section 430.41
+  - Code of Civil Procedure section 435
+  - Code of Civil Procedure section 437
+  - Code of Civil Procedure section 583.210
+
+Case Citations:
+  - Herrera v. Deutsche Bank National Trust Co.
+  - Ion Equipment Corp. v. Nelson
+  - Donabedian v. Mercury Ins. Co.
+  - Blank v. Kirwan
+  - Hahn v. Mirda
+  - Siry Investment, L.P. v. Farkhondehpour
+  - Cansino v. Bank of America
+  - Small v. Fritz Companies, Inc.
+  - Lewis v. YouTube, LLC
+  - Goodman v. Kennedy
+  - Doe v. City of Los Angeles
+  - Lopez v. Southern Cal. Rapid Transit Dist.
+
+Statutes:
+  - Penal Code section 496
+  - Code of Civil Procedure section 430.41
+  - Code of Civil Procedure section 435
+  - Code of Civil Procedure section 437
+  - Code of Civil Procedure section 583.210
+
+Roles:
+  - Judge: Elaine Lu
+
+Significant Statements:
+  - "To prove theft, a plaintiff must establish criminal intent on the part of the defendant beyond 'mere proof of nonperformance or actual falsity.'"
+  - "The particularity demands that a plaintiff plead facts which show how, when, where, to whom, and by what means the representations were tendered."
+  - "Plaintiff fails to show that the pleading can be successfully amended."
+  - "Defendants could not know that Borrower had stolen the loan proceeds."
+  - "Plaintiff must allege not only that Defendants aided in the Borrower's unspecified concealing, selling, or withholding of the loan proceeds, but also that Defendants had the requisite criminal intent."

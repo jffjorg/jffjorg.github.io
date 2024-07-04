@@ -1,0 +1,92 @@
+Here is the summary in YAML format:
+
+```
+case_number: 20STCV08390
+plaintiff_name: Jin Hong
+defendant_names:
+  - Michelle Kim
+  - Joseph Dinglasan
+  - Meein Medical Corporation dba Eben Ezer Medical Clinic
+people_names:
+  - Jin Hong
+  - Michelle Kim
+  - Joseph Dinglasan
+  - Douglas Borthwick
+company_names:
+  - Meein Medical Corporation
+  - Eben Ezer Medical Clinic
+places:
+  - Pomona Courthouse South
+dates:
+  - July 2018
+  - March 2, 2020
+  - July 13, 2020
+  - July 27, 2020
+  - February 22, 2021
+  - April 13, 2021
+  - April 29, 2021
+  - June 4, 2021
+  - June 7, 2021
+  - November 8, 2021
+  - November 17, 2021
+  - May 12, 2022
+  - March 15, 2023
+  - March 24, 2023
+  - August 22, 2023
+  - August 29, 2023
+  - November 29, 2023
+  - November 30, 2023
+events:
+  - Negligence treatment
+  - Demurrer
+  - Cross-complaint
+  - Order to Show Cause
+  - Default judgment
+  - Dismissal
+  - Substitution of attorney
+money:
+  - Punitive damages
+  - Damages
+intentions:
+  - Plaintiff seeks default judgment
+facts:
+  - Kim performed a laser treatment on Plaintiff's face
+  - Kim was unlicensed and unqualified to perform the treatment
+  - Plaintiff alleges negligence and other COAs
+  - Kim filed a demurrer and cross-complaint
+  - Default was entered against Dr. Dinglasan, Clinic, and Kim
+  - Plaintiff filed a substitution of attorney
+  - The court issued several minute orders and continuances
+disputes:
+  - Plaintiff's request for default judgment
+  - Defendant's demurrer and cross-complaint
+acts:
+  - Kim performed a laser treatment on Plaintiff's face
+  - Plaintiff filed a lawsuit
+  - Kim filed a demurrer and cross-complaint
+  - Default was entered against Dr. Dinglasan, Clinic, and Kim
+  - Plaintiff filed a substitution of attorney
+agreements:
+  - None specified
+laws:
+  - California Civil Procedure Code
+  - California Code of Civil Procedure
+  - California Rules of Court
+case_citations:
+  - None specified
+statutes:
+  - None specified
+roles:
+  - Judge
+  - Plaintiff
+  - Defendant
+  - Attorney
+  - Counsel
+significant_statements:
+  - The court cannot review the material submitted in support of Plaintiff's default judgment application as Plaintiff has not provided a JUD-100 form.
+  - The application is denied without prejudice.
+```
+
+And here is the English-text summary:
+
+The Court has issued a tentative ruling denying Plaintiff Jin Hong's request for entry of default judgment without prejudice. The Court cannot review the material submitted in support of the default judgment application as Plaintiff has not provided a JUD-100 form indicating who Plaintiff seeks default judgment against and for what amount. The Court has previously denied default judgment for several reasons, including the failure to notify the Court of related cases and the attempt to circumvent claim or issue preclusion defenses. The Court has also admonished Counsel to address the issues detailed in the previous ruling on the next court date.

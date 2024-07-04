@@ -1,0 +1,56 @@
+Here is a summary of the tentative ruling in YAML format:
+
+```
+case_number: 23STCP00757
+hearing_date: January 19, 2024
+dept: 86 ROJAS v. CITY OF LOS ANGELES
+
+people_names:
+  - Vincent Marc Rojas
+  - Michel Moore
+  - Jonathan Grube
+  - Paul Wellman
+  - Rebecca Goodrich
+  - Matthew Snyder
+  - Victoria Lim
+  - Dallreco Montgomery
+  - Teresa Jarrison
+  - Vertis Portis
+
+company_names:
+  - Los Angeles Police Department
+  - Department of Motor Vehicles
+
+places:
+  - 77th Street Station
+  - 77th Street Division
+  - Los Angeles
+  - 813 1/2 w 85th Street
+
+dates:
+  - July 3, 2019
+  - July 5, 2019
+  - July 31, 2019
+  - September 13, 2019
+  - September 27, 2019
+  - October 1, 2019
+  - October 2, 2019
+  - October 4, 2019
+  - October 11, 2019
+
+events:
+  - Petitioner's investigation into the ADW case
+  - Petitioner's failure to respond to DDA Goodrich's text messages and voicemails
+  - Petitioner's suspension and demotion by Chief Moore
+  - The Board of Rights hearing
+
+money:
+  - None
+
+intentions:
+  - To review the administrative decision and determine whether it is supported by the weight of the evidence
+
+facts:
+  - Petitioner was an investigating officer for the ADW case
+  - DDA Goodrich sent Petitioner text messages and voicemails regarding the case
+  - Petitioner did

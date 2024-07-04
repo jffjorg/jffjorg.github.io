@@ -1,0 +1,71 @@
+Here is the summary of the tentative ruling in YAML format:
+
+```
+case_number: 22STCV21371
+plaintiff_name: Roger Villalobos
+defendant_name: Polaris Industries, Inc.
+people_names:
+  - Roger Villalobos
+  - Jon R. Takasugi
+company_names:
+  - Polaris Industries, Inc.
+places:
+  - California
+  - Los Angeles
+  - Superior Court of California
+dates:
+  - June 30, 2022
+  - September 9, 2022
+  - November 4, 2022
+  - January 16, 2024
+events:
+  - Breach of express warranty (Song-Beverly)
+  - Breach of implied warranty
+  - Breach of express warranty (Commercial Code)
+  - Violation of the Federal Magnuson-Moss Warranty Act
+  - Violation of Business and Professions Code section 17200
+  - Deposition notice
+  - Objections
+  - Meeting and conferencing
+money:
+  - $1,400.00 (sanction)
+  - $350/hr (hourly rate)
+intentions:
+  - Compel deposition
+  - Produce PMK for deposition
+  - Produce documents
+facts:
+  - Plaintiff filed suit on June 30, 2022
+  - Defendant served objections on November 4, 2022
+  - Plaintiff attempted to meet and confer to find mutually available dates for deposition
+disputes:
+  - Defendant's unavailability for deposition
+acts:
+  - Defendant served objections
+  - Plaintiff moved to compel deposition
+agreements:
+  - Plaintiff and Defendant will meet and confer to find mutually available dates for deposition
+laws:
+  - Song-Beverly Act
+  - Commercial Code
+  - Federal Magnuson-Moss Warranty Act
+  - Business and Professions Code section 17200
+case_citations:
+  - [insert citations]
+statutes:
+  - Song-Beverly Act
+  - Commercial Code
+  - Federal Magnuson-Moss Warranty Act
+  - Business and Professions Code section 17200
+roles:
+  - Judge: Hon. Jon R. Takasugi
+  - Plaintiff: Roger Villalobos
+  - Defendant: Polaris Industries, Inc.
+significant_statements:
+  - Plaintiff's motion to compel deposition is GRANTED
+  - Defendant is sanctioned, jointly and severally with counsel, $1,400.00
+```
+
+And here is the English-text summary:
+
+A tentative ruling has been issued by Judge Jon R. Takasugi in the case of Roger Villalobos vs. Polaris Industries, Inc. (Case No. 22STCV21371). The Plaintiff, Roger Villalobos, has moved to compel the Defendant, Polaris Industries, Inc., to produce its Person Most Knowledgeable (PMK) for deposition and to produce documents. The motion is unopposed. The Judge has granted the motion, ordering the Defendant to respond within the next 10 days by providing three available dates for deposition. The Defendant is also sanctioned, jointly and severally with counsel, $1,400.00. The case involves allegations of breach of express warranty (Song-Beverly), breach of implied warranty, breach of express warranty (Commercial Code), violation of the Federal Magnuson-Moss Warranty Act, and violation of Business and Professions Code section 17200.

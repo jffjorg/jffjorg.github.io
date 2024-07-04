@@ -1,0 +1,64 @@
+Here is the summary in YAML format:
+
+```
+case_number: 23AHCV02031
+plaintiff_name: Manuel Lopez
+defendant_names:
+  - Javari Adderly
+  - Valentin Valdez
+  - DOES 1 through 10
+people_names:
+  - Manuel Lopez
+  - Javari Adderly
+  - Valentin Valdez
+company_names:
+  - County of Los Angeles
+places:
+  - Los Angeles
+dates:
+  - 2021-10-19 (motor vehicle collision)
+  - 2023-09-01 (plaintiff's complaint filed)
+  - 2024-01-02 (County's motion for leave to intervene served)
+  - 2024-01-16 (hearing date)
+events:
+  - Motor vehicle collision
+  - Plaintiff's complaint filed
+  - County's motion for leave to intervene
+money:
+  - Indemnity and medical expense
+intentions:
+  - County wants to intervene in the lawsuit
+facts:
+  - Plaintiff was injured in a motor vehicle collision
+  - Collision occurred within the scope of Plaintiff's employment with the County
+  - County has become obligated to pay or has paid Plaintiff for indemnity and medical expense
+disputes:
+  - None mentioned in the tentative ruling
+acts:
+  - Plaintiff filed a form complaint
+  - County moved for leave to intervene
+agreements:
+  - None mentioned in the tentative ruling
+laws:
+  - Code of Civil Procedure section 387, subdivision (a)
+  - Labor Code Section 3852
+  - Section 4706.5
+case_citations:
+  - None mentioned in the tentative ruling
+statutes:
+  - Code of Civil Procedure section 387, subdivision (a)
+  - Labor Code Section 3852
+  - Section 4706.5
+roles:
+  - Judge Joel L. Lofton
+  - County of Los Angeles (moving party)
+  - Manuel Lopez (plaintiff)
+  - Javari Adderly and Valentin Valdez (defendants)
+significant_statements:
+  - The County's motion for leave to intervene is GRANTED.
+  - The County has a claim for reimbursement.
+```
+
+And here is a summary of the judge's tentative ruling in English text:
+
+The County of Los Angeles has moved to intervene in a lawsuit filed by Manuel Lopez, alleging that he was injured in a motor vehicle collision caused by Javari Adderly and Valentin Valdez. The County claims that it has become obligated to pay or has paid Lopez for indemnity and medical expenses, and therefore has a claim for reimbursement. The judge has granted the County's motion to intervene, citing Code of Civil Procedure section 387, subdivision (a) and Labor Code Section 3852.

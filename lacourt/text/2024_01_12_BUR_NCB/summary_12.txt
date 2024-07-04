@@ -1,0 +1,84 @@
+Here is the summary in YAML format:
+
+```
+case_number: 23BBCV00801
+hearing_date: January 12, 2024
+dept: NCB
+court: Superior Court of California
+county: Los Angeles
+district: North Central District
+department: B
+
+parties:
+  - plaintiff: Stephanie Herrera
+  - plaintiff: Alejandro Herrera
+  - defendant: Carolyn Katz
+
+people_names:
+  - Stephanie Herrera
+  - Alejandro Herrera
+  - Carolyn Katz
+
+company_names: []
+
+places:
+  - Los Angeles
+  - Burbank
+
+dates:
+  - November 22, 2023
+  - August 18, 2023
+  - January 12, 2024
+
+events:
+  - Motion to compel initial responses
+  - Requests for sanctions
+  - Court hearing
+
+money:
+  - $2,936.50 (requested sanctions)
+  - $1,000 (granted attorney's fees)
+  - $61.50 (granted filing fees)
+  - $1,061.50 (granted sanctions)
+
+intentions:
+  - Plaintiffs intend to compel discovery responses
+  - Defendant intends to delay or refuse responses
+
+facts:
+  - Discovery requests were served on August 18, 2023
+  - Plaintiffs have not received responses from Defendant
+  - Defendant's counsel made several attempts to contact defense counsel
+
+disputes:
+  - Plaintiffs' dispute over delayed or refused discovery responses
+
+acts:
+  - Plaintiffs filed a motion to compel initial responses
+  - Defendant failed to respond to discovery requests
+  - Court granted motion to compel responses
+
+agreements:
+  - Plaintiffs and Defendant agreed to the terms of the order
+
+laws:
+  - CCP §§ 2030.290 and 2031.300
+
+case_citations: []
+
+statutes:
+  - CCP
+
+roles:
+  - Judge: John J. Kralik
+  - Plaintiffs' counsel
+  - Defendant's counsel
+
+significant_statements:
+  - "All software for remote or electronic appearances is subject to malfunction"
+  - "If you call the courtroom, please be respectful of the fact that a court hearing is going on"
+```
+
+And here is a summary in English text:
+
+The tentative ruling is regarding a motion to compel initial responses from Defendant Carolyn Katz to Plaintiffs Stephanie Herrera and Alejandro Herrera's discovery requests. The Plaintiffs had served the requests on August 18, 2023, and had made several attempts to contact defense counsel for responses, but had not received any. The Court granted the motion, ordering Defendant to provide verified responses to the discovery requests without objections within 20 days of notice. The Plaintiffs also requested sanctions against Defendant and her attorney in the amount of $2,936.50, which was reduced to $1,061.50. The Court granted the request for sanctions in the reasonable sum of $1,000 in attorney's fees and $61.50 in filing fees. The order also warns counsel about the potential for technical issues with electronic appearances.

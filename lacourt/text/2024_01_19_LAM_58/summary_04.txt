@@ -1,0 +1,80 @@
+Here is the summary of the judge's tentative ruling in YAML format:
+
+```
+case_number: [Insert case number]
+plaintiff_name: Jerome Fein
+defendant_name: Keyes European, LLC and Mercedes-Benz, USA, LLC
+people_names:
+  - Jerome Fein
+  - Keyes European, LLC
+  - Mercedes-Benz, USA, LLC
+company_names:
+  - Keyes European, LLC
+  - Mercedes-Benz, USA, LLC
+places:
+  - [Insert location]
+dates:
+  - 2017
+  - [Insert date of hearing]
+events:
+  - Alleged defects in a 2017 Mercedes S550
+  - Breach of express and implied warranties
+  - Litigation
+  - Settlement agreement
+  - Motion for attorneys' fees and costs
+money:
+  - $85,036 (lodestar amount for attorneys' fees)
+  - $42,518 (multiplier enhancement)
+  - $15,194.30 (costs)
+  - $142,748.30 (total requested in attorney fees and costs)
+  - $76,636 (reduced lodestar amount for attorneys' fees)
+  - $15,194.30 (granted costs)
+  - $91,830.30 (total amount to be paid by Defendant)
+intentions:
+  - To determine the reasonableness of the attorneys' fees and costs requested by Plaintiff
+facts:
+  - The case is an action under the Song-Beverly Act
+  - The Plaintiff alleged defects in a 2017 Mercedes S550
+  - The Defendant is Keyes European, LLC and Mercedes-Benz, USA, LLC
+disputes:
+  - Reasonableness of attorneys' fees and costs
+acts:
+  - Breach of express and implied warranties
+  - Litigation
+  - Settlement agreement
+  - Motion for attorneys' fees and costs
+agreements:
+  - Settlement agreement
+laws:
+  - California Civil Code section 1794
+  - California Code of Civil Procedure section 1033.5
+  - California Rules of Court
+case_citations:
+  - Robertson v. Fleetwood Travel Trailers of California Inc.
+  - Levy v. Toyota Motor Sales, USA, Inc.
+  - Nightingale v. Hyundai Motor America
+  - Morris v. Hyundai Motor America
+  - Kerkeles v. City of San Jose
+  - Warren v. Kia Motors America, Inc.
+  - Mikhaeilpoor v. BMW of North America, LLC
+  - Hensley v. Eckerhart
+  - Acevedo v. City of Los Angeles
+  - Maughan v. Google Technology
+  - Horsford v. Board of Trustees of California State University
+  - McGrath v. County of Nevada
+  - Blum v. Stenson
+  - Scalia v. County of Kern
+roles:
+  - Judge: [Insert judge's name]
+  - Plaintiff: Jerome Fein
+  - Defendant: Keyes European, LLC and Mercedes-Benz, USA, LLC
+significant_statements:
+  - The Court grants the motion for attorneys' fees in a reduced amount.
+  - The request for costs is granted.
+  - The Court reduces the lodestar amount for attorneys' fees by $8,400.
+  - The Court grants costs in the amount of $15,194.30.
+```
+
+And here is a brief summary in English text:
+
+The judge's tentative ruling grants the plaintiff's motion for attorneys' fees and costs in a reduced amount. The plaintiff is entitled to $76,636 in attorneys' fees, which is a reduction of the lodestar amount by $8,400. The request for costs is granted in the amount of $15,194.30. The total amount to be paid by the defendant is $91,830.30. The court's decision is based on its review of the evidence and the applicable laws and regulations.

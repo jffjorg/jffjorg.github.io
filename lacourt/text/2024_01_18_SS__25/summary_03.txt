@@ -1,0 +1,58 @@
+Here is the summary in YAML format:
+
+```
+Case Number: 2021-001-ABC
+Plaintiff's Name: Claudia Montes
+Defendant's Name: Marvin Carrera
+People-Names:
+  - Claudia Montes
+  - Marvin Carrera
+Company-Names: None
+Places: California, Nevada
+Dates:
+  - March 15, 2021
+  - October 11, 2023
+  - November 09, 2023
+  - November 17, 2021
+  - December 18, 2023
+  - January 11, 2024
+Events:
+  - Application for Entry of Judgment on Sister-State Judgment
+  - Writ of Execution issued
+  - Motion to Set Aside Default Judgment and Vacate Writ of Execution filed
+Money: $18,536.88
+Intentions:
+  - To enforce sister-state judgment
+  - To set aside default judgment and vacate writ of execution
+Facts:
+  - Sister-state judgment entered in favor of Petitioner on March 15, 2021
+  - Writ of execution issued on October 11, 2023
+  - Respondent filed motion to set aside default judgment and vacate writ of execution on November 09, 2023
+Disputes:
+  - Dispute over whether service of summons was made with actual notice to Respondent
+Acts:
+  - Entry of sister-state judgment
+  - Issuance of writ of execution
+  - Filing of motion to set aside default judgment and vacate writ of execution
+Agreements: None
+Laws:
+  - California Code of Civil Procedure (CCP) sections 12c, 1005(b), 1013, 1013a, 1710.10, 1710.25, 1710.30, 1710.40, 1710.40(a), 1710.40(b), 473, 473(b), 473.5, 86
+Statutes:
+  - California Code of Civil Procedure (CCP)
+Roles:
+  - Petitioner: Claudia Montes
+  - Respondent: Marvin Carrera
+  - Court: [Judge's name]
+Significant Statements:
+  - The Court will deny the motion to set aside default judgment and vacate writ of execution.
+```
+
+And here is the summary in English text:
+
+The Court has issued a tentative ruling regarding a motion to set aside a default judgment and vacate a writ of execution filed by Respondent Marvin Carrera. The Court entered a sister-state judgment in favor of Petitioner Claudia Montes on March 15, 2021, and issued a writ of execution on October 11, 2023.
+
+Respondent Carrera argues that he is entitled to relief under CCP § 473.5 and 86 because service of summons was not made with actual notice to him. However, the Court finds that CCP § 473.5 does not apply to sister-state judgments, and Respondent's arguments are improper under CCP § 1710.40(a) as they seek to relitigate matters already adjudicated in Nevada courts.
+
+The Court notes that while Respondent's moving papers do not provide evidence of extrinsic fraud, mistake, inadvertence, or excusable neglect, CCP § 86 would still not apply to this case as judgment was entered in Nevada and not in California.
+
+Therefore, the Court denies the motion to set aside the default judgment and vacate the writ of execution.

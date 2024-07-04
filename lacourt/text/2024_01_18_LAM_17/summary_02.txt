@@ -1,0 +1,63 @@
+Here is the summary in YAML format:
+
+```
+case_number: 21STCV10865
+plaintiff_names:
+  - Kristopher Maltes
+  - Carrie Maltes
+defendant_name: General Motors, LLC
+people_names:
+  - Kristopher Maltes
+  - Carrie Maltes
+  - Jon R. Takasugi
+company_names:
+  - General Motors, LLC
+places:
+  - Los Angeles
+  - California
+dates:
+  - March 19, 2021
+  - January 18, 2024
+events:
+  - Filing of suit
+  - Motion to tax costs
+  - Review of costs
+money:
+  - $1,841.40 (total costs)
+  - $681.35 (costs objected to by Defendant)
+intentions:
+  - Plaintiff's intention to recover costs
+  - Defendant's intention to tax costs
+facts:
+  - Plaintiff is the prevailing party
+  - Case did not go to trial, but Defendant made a 998 Offer on the day of trial
+  - Partially granted motions to compel and motions in limine
+  - Email costs were necessary for remote hearings
+disputes:
+  - Dispute over costs objected to by Defendant
+acts:
+  - Plaintiff filed suit against General Motors, LLC
+  - Defendant made a 998 Offer on the day of trial
+  - Defendant objected to certain costs
+agreements:
+  - Plaintiff is entitled to recover costs (Civ. Code § 1794(d))
+  - Defendant's motion to tax costs is denied
+laws:
+  - Civ. Code § 1794(d)
+  - Code of Civil Procedure
+case_citations:
+  - Civ. Code § 1794(d)
+statutes:
+  - Civ. Code § 1794(d)
+roles:
+  - Plaintiff
+  - Defendant
+  - Judge (Jon R. Takasugi)
+significant_statements:
+  - "Based on the foregoing, Defendant's motion to tax costs is denied."
+  - "It is so ordered."
+```
+
+And here is the English-text summary:
+
+This tentative ruling denies Defendant General Motors, LLC's motion to tax costs of $681.35, which was objected to by the Defendant. The Plaintiff, Kristopher Maltes and Carrie Maltes, are the prevailing party in this case and are entitled to recover costs. The Court disagrees with the Defendant's objections to certain costs, including jury fees, witness list costs, preparation for trial binder costs, motion fees, and email costs. The Court finds that these costs were necessary due to the timing of the case and the Defendant's 998 Offer on the day of trial. The Defendant's motion to tax costs is denied, and the Plaintiff is entitled to recover their total costs of $1,841.40.

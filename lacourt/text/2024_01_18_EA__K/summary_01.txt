@@ -1,0 +1,82 @@
+Here is the summary in YAML format:
+
+```
+case_number: 23PSCV02302
+hearing_date: January 18, 2024
+dept: K
+defendant: Christian Herrera
+
+people_names:
+  - Jackeline Perez
+  - Christian Herrera
+
+company_names: []
+places:
+  - Self Made Training Facility
+  - West Covina
+
+dates:
+  - July 8, 2023
+  - July 28, 2023
+  - January 18, 2024
+
+events:
+  - Consultation and posing session
+  - Filing of complaint
+  - Demurrer
+
+money: []
+
+intentions:
+  - Plaintiff alleges that Herrera touched her inappropriately during the posing session
+  - Herrera demurs to the third and fourth causes of action
+
+facts:
+  - Herrera touched Perez inappropriately during the posing session
+  - Perez filed a complaint against Herrera and Does 1-50
+  - Perez alleges causes of action for sexual assault and battery, assault and battery, sexual assault and intimidation by violence, and interference with rights by threat, intimidation, or coercion
+
+disputes:
+  - Herrera demurs to the third and fourth causes of action
+  - Perez alleges that Herrera's conduct constitutes violence or intimidation by threat of violence
+
+acts:
+  - Herrera touched Perez inappropriately during the posing session
+  - Perez filed a complaint against Herrera and Does 1-50
+
+agreements:
+  - None
+
+laws:
+  - Civ. Code § 1708.5
+  - Civ. Code § 51.7
+  - Civ. Code § 52.1
+  - Code Civ. Proc., § 430.10, subd. (e)
+
+case_citations:
+  - Donabedian v. Mercury Ins. Co. (2004) 116 Cal.App.4th 968, 994
+  - SKF Farms v. Superior Court (1984) 153 Cal.App.3d 902, 905
+  - Semole v. Sansoucie (1972) 28 Cal. App. 3rd 714, 721
+  - S. Shore Land Co. v. Petersen (1964) 226 Cal.App.2d 725, 732
+  - Austin B. v. Escondido Union School Dist. (2007) 149 Cal.App.4th 860, 880-881
+  - CACI Nos. 3063 and 3064
+
+statutes:
+  - Civ. Code § 1708.5
+  - Civ. Code § 51.7
+  - Civ. Code § 52.1
+  - Code Civ. Proc., § 430.10, subd. (e)
+
+roles:
+  - Judge
+  - Plaintiff
+  - Defendant
+
+significant_statements:
+  - The Judge has overruled Herrera's demurrer to the third cause of action
+  - The Judge has sustained Herrera's demurrer to the fourth cause of action with 20 days' leave to amend
+```
+
+And here is the English-text summary:
+
+The Judge has issued a tentative ruling on a demurrer filed by Christian Herrera, the defendant, to the third and fourth causes of action in the complaint filed by Jackeline Perez, the plaintiff. The Judge has overruled Herrera's demurrer to the third cause of action, which alleges sexual assault and intimidation by violence, and sustained it with 20 days' leave to amend the fourth cause of action, which alleges interference with rights by threat, intimidation, or coercion. The Judge has found that the allegations in the complaint constitute "violence or intimidation by threat of violence" sufficient to withstand demurrer.

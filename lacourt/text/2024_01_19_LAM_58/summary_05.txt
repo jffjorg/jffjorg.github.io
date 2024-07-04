@@ -1,0 +1,51 @@
+Here is the summary in YAML format:
+
+```
+case_number: [not specified]
+plaintiff_name: [not specified]
+defendant_name: [not specified]
+people_names:
+  - Plaintiff
+  - Defendant
+company_names: []
+places: []
+dates:
+  - January 3, 2024
+  - January 9, 2024
+  - January 10, 2024
+events:
+  - Notice of non-opposition filed
+  - Opposition filed
+  - Opposition due
+money: []
+intentions:
+  - To determine the issue on the merits
+  - To consider the opposition and reply
+facts:
+  - Opposition was late
+  - No explanation provided for untimeliness
+disputes:
+  - Timeliness of opposition
+acts:
+  - Plaintiff filed notice of non-opposition
+  - Defendant filed opposition
+  - Opposition was late
+agreements: []
+laws:
+  - Code Civ. Proc., § 1005, subd. (b)
+  - Cal. Rules of Court, rule 3.1300
+  - Rancho Mirage Country Club Homeowners Ass'n v. Hazelbaker (2016) 2 Cal.App.5th 252, 262
+statutes:
+  - Code Civ. Proc., § 1005, subd. (b)
+roles:
+  - Judge
+  - Plaintiff
+  - Defendant
+significant_statements:
+  - The Court prefers to determine this issue on the merits with the benefit of an opposition and reply.
+  - The Court cautions counsel to adhere to statutory time deadlines.
+```
+
+And here is the English-text summary:
+
+The Judge's tentative ruling addresses a late opposition filed by the Defendant to the Plaintiff's notice of non-opposition. The opposition was due on January 3, 2024, but was filed on January 10, 2024, without explanation. Although the Court has discretion to refuse to consider the late opposition, it prefers to determine the issue on the merits with the benefit of an opposition and reply. The Judge cautions counsel to adhere to statutory time deadlines in the future.

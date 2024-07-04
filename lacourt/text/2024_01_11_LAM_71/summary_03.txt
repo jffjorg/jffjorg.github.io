@@ -1,0 +1,65 @@
+Here is the summary in YAML format:
+
+```
+case_number: 23STCV14257
+plaintiff_name: Jonathan Neil & Associates, Inc.
+defendant_name: Machine Dynamics, Inc. et al
+people_names:
+  - Jonathan Neil
+  - Eric Rawa
+company_names:
+  - Jonathan Neil & Associates, Inc.
+  - Machine Dynamics, Inc.
+places:
+  - Los Angeles
+  - California
+dates:
+  - June 20, 2023
+  - September 11, 2023
+  - January 2, 2024
+  - January 11, 2024
+  - January 2024 (unspecified date)
+events:
+  - Filing of action
+  - Entry of default
+  - Request for default judgment
+  - Hearing on default judgment
+money:
+  - $73,024.52
+  - $6,222.09
+  - $572.02
+  - $2,350.50
+  - $82,169.13
+intentions:
+  - Request for default judgment
+  - Award of damages
+facts:
+  - Plaintiff filed action against defendants
+  - Defendants failed to respond
+  - Plaintiff submitted default judgment packet
+disputes:
+  - None mentioned
+acts:
+  - Filing of action
+  - Entry of default
+agreements:
+  - None mentioned
+laws:
+  - California Superior Court rules
+  - Statutes (unspecified)
+case_citations:
+  - None mentioned
+statutes:
+  - None mentioned
+roles:
+  - Judge
+  - Plaintiff
+  - Defendant
+significant_statements:
+  - The Court finds sufficient evidence to justify the requested award
+  - The application for default judgment is granted
+```
+
+And here is the English-text summary:
+
+The Judge's tentative ruling is that the application for default judgment filed by Jonathan Neil & Associates, Inc. against Machine Dynamics, Inc. et al is granted. The Plaintiff is seeking a default judgment of $82,169.13, which includes $73,024.52 as the demand of the complaint, $6,222.09 in prejudgment interest, $572.02 in costs, and $2,350.50 in attorneys' fees. The Court finds sufficient evidence to justify the requested award and grants the Plaintiff's request in full. The judgment is entered against the Defendants.

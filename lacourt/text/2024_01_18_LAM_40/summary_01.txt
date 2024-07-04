@@ -1,0 +1,105 @@
+Here is the summary in YAML format:
+
+```
+case_number: 19STCV02723
+hearing_date: 2024-01-18
+department: 40
+superior_court_of_california: Los Angeles County
+plaintiff:
+  name: FIRST AMERICAN PROPERTIES AND ACQUISITIONS, INC.
+  type: California corporation
+defendants:
+  - name: FORNIA HOSPITALITY GROUP, LLC
+    type: limited liability company
+  - name: FORNIA HOSPITALITY & INVESTMENTS, LLC
+    type: California limited liability company
+  - name: JATINDERK. SHANTE
+    type: individual
+  - name: SATWANT C. CHEHAL
+    type: individual
+  - name: BHUPINDER S. SHANTE
+    type: individual
+  - name: HARAN S. CHEHAL
+    type: individual
+  - name: DOES 1 through 25
+    type: unknown
+people:
+  - J. Shante
+  - Satwant C. Chethal
+  - Bhupinder S. Shante
+  - Harban S. Chehal
+companies:
+  - FIRST AMERICAN PROPERTIES AND ACQUISITIONS, INC.
+  - FORNIA HOSPITALITY GROUP, LLC
+  - FORNIA HOSPITALITY & INVESTMENTS, LLC
+places:
+  - Los Angeles County
+dates:
+  - 2019-01-25
+  - 2019-08-20
+  - 2020-10-16
+  - 2021-02-18
+  - 2021-02-22
+  - 2021-03-02
+  - 2021-03-04
+  - 2021-03-16
+  - 2021-03-24
+  - 2021-04-13
+  - 2021-04-27
+  - 2021-05-10
+  - 2021-07-08
+  - 2021-07-14
+  - 2021-07-21
+  - 2021-07-26
+  - 2021-10-05
+  - 2023-04-27
+  - 2023-07-08
+  - 2023-10-05
+  - 2023-11-14
+  - 2024-01-04
+  - 2024-01-10
+events:
+  - Judgment
+  - Appeal
+  - Remittitur
+  - Trial
+money:
+  - $1,347,000
+  - $48,385.62
+  - $540
+  - $41,779.12
+intentions:
+  - Award attorney fees and costs
+  - Prevail on appeal
+laws:
+  - California Rules of Court, rule 8.278
+  - California Rules of Court, rule 3.1700
+  - Code of Civil Procedure, § 1033.5
+  - Code of Civil Procedure, § 1032
+  - Civil Code, § 1717
+  - Code of Civil Procedure, § 1033
+statutes:
+  - California Rules of Court, rule 8.278
+  - California Rules of Court, rule 3.1700
+  - Code of Civil Procedure, § 1033.5
+  - Code of Civil Procedure, § 1032
+  - Civil Code, § 1717
+roles:
+  - Plaintiff: FIRST AMERICAN PROPERTIES AND ACQUISITIONS, INC.
+  - Defendant: FORNIA HOSPITALITY GROUP, LLC
+  - Defendant: JATINDERK. SHANTE
+  - Defendant: BHUPINDER S. SHANTE
+signifcant statements:
+  - The court granted the motion for attorney fees and costs in part, in the amount of $41,779.12.
+  - The court awarded costs on the appeal.
+  - The court found that most of the hours expended on the appeal and on this motion are reasonable.
+  - The court granted the motion for attorney fees and costs, in part, in the amount of $41,779.12.
+```
+
+Here is a summary in English text:
+
+The judge has issued a tentative ruling in the case of 19STCV02723, regarding a motion for attorney fees and costs filed by Defendant J. Shante. The case involves a loan agreement between Plaintiff First American Properties and Acquisitions, Inc. and the defendants, which was defaulted on by the defendants. The plaintiff filed a complaint alleging breach of contract, breach of guarantee, and other claims, and the defendants filed a motion for attorney fees and costs based on a contractual agreement.
+
+The judge found that the defendants are entitled to reasonable fees and costs as the prevailing party on appeal, based on the Enforcement Expenses clause in the loan agreement and the reciprocity of section 1717 of the Civil Code. The judge also found that most of the hours expended on the appeal and on this motion are reasonable.
+
+The judge granted the motion for attorney fees and costs in part, in the amount of $41,779.12, and awarded costs on the appeal. The judge also found that the hours expended on the appeal and on this motion are reasonable, but excluded certain hours for trial court proceedings.

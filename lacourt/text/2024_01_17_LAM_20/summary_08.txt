@@ -1,0 +1,72 @@
+Here is the summary in YAML format:
+
+```
+case_number: 21STCV-35677
+plaintiff: Rosa, Juan, and Andrew Mancillas
+defendant: Candelario Flores
+people_names:
+  - Rosa
+  - Juan
+  - Andrew Mancillas
+  - Kimberly Mancillas
+  - Tiffany Mancillas
+  - Jacob Partiyeli
+  - Armando Reyes
+company_names: []
+places: []
+dates:
+  - December 6, 2022
+  - May 22, 2023
+  - June 1, 2023
+  - June 23, 2023
+events:
+  - Settlement agreement
+  - Judgment lien
+  - Filing of lawsuit
+  - Motion to enforce settlement
+money:
+  - $67,500
+  - $26,575
+  - $35,052.18
+intentions:
+  - Enforce settlement agreement
+  - Obtain payment
+facts:
+  - Settlement agreement requires tender of $67,500
+  - Judgment lien filed by Flores
+  - Plaintiffs threatened separate legal actions if lien not released
+  - Same lawsuit filed against Flores
+disputes:
+  - Scope of Code Civ. Proc. § 664.6
+  - Mutual agreement to release all claims
+  - Breach of settlement agreement
+  - Application of judgment lien
+acts:
+  - Entry of judgment
+  - Filing of judgment lien
+  - Filing of lawsuit
+agreements:
+  - Settlement agreement
+  - Code Civ. Proc. § 664.6
+laws:
+  - Code Civ. Proc. § 664.6
+  - Code Civ. Proc. § 1542
+case_citations:
+  - Hines v. Lukes (2008) 167 Cal.App.4th 1174
+  - Osumi v. Sutton (2007) 151 Cal.App.4th 1355
+statutes:
+  - Code Civ. Proc. § 664.6
+  - Code Civ. Proc. § 1542
+roles:
+  - Judge
+  - Plaintiffs' counsel
+  - Defendant's counsel
+significant_statements:
+  - The Court will enter a judgment according to the parties' settlement agreement.
+  - The Court concludes that the parties entered into a valid settlement agreement.
+  - The Court will not include an offset/credit based on Flores' judgment lien.
+```
+
+And here is the English text to summarize this judge's tentative ruling:
+
+The judge has ruled that the settlement agreement between the plaintiffs and the defendant, Candelario Flores, is valid and enforceable. The agreement requires Flores to pay the plaintiffs $67,500. Flores has filed a judgment lien, but the court will not take this into account in calculating the payment. The court finds that the plaintiffs have a right to enforce the settlement agreement and will enter a judgment in their favor. The court will not award attorneys' fees to either side.

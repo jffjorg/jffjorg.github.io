@@ -1,0 +1,70 @@
+Here is a summary of the judge's tentative ruling in YAML format:
+
+```
+case_number: 21STCV43979
+hearing_date: 2024-01-11
+dept: 37
+moving_party: Defendant/Cross-Complainant
+opposing_party: Plaintiffs/Cross-Defendants
+trial_date: 2024-06-18
+proof_of_service: OK
+
+proceeding: Motion for a Preliminary Injunction
+opposition: 2023-12-28
+reply: 2024-01-03
+
+tentative: Cross-Complainant Ideal's Motion for a Preliminary Injunction is denied
+
+facts:
+  - Ideal International Investment, Inc. (Ideal) is a trucking and logistics business
+  - Plaintiffs Yue Ma, Lihong Zhao, Sunny West Coast Co., and Hua Ming Technology Co. (Plaintiffs) invested in Ideal
+  - Defendant Linghan "Hank" Cao (Cao) is the CEO, CFO, and secretary of Ideal
+  - Plaintiffs allege Ideal operates several undercapitalized subsidiaries and shells
+  - Cao offered to buy out Plaintiffs' shares at an unreasonable rate
+  - Cao allegedly threatened to kill Ma's husband and family
+  - Cao sold off Ideal's corporate assets into his own businesses
+  - Plaintiffs bring derivative claims as shareholders and individual causes of action
+
+disputes:
+  - Ideal seeks a preliminary injunction to freeze Cross-Defendants' assets and prevent them from diverting funds from the Bank Account
+  - Cross-Defendants argue that Ideal failed to show ownership interest in the Bank Account and that the funds were not diverted
+
+acts:
+  - Ideal filed a Cross-Complaint against Cross-Defendants
+  - Ideal filed a Motion for a Preliminary Injunction
+  - Cross-Defendants filed opposition to the Motion
+
+intentions:
+  - Ideal intends to preserve the status quo pending final resolution of the case
+
+laws:
+  - CCP § 527(a) provides that a preliminary injunction may be granted at any time before judgment upon a verified complaint
+  - CCP § 526(a)(4) provides that a plaintiff seeking injunctive relief must show the absence of an adequate damages remedy at law
+
+case_citations:
+  - Grothe v. Cortlandt Corp. (1992) 11 Cal.App.4th 1313
+  - Huong Que, Inc. v. Luu (2007) 150 Cal.App.4th 400
+  - Tahoe Keys Property Owners' Assn. v. State Water Resources Control Bd. (1994) 23 Cal.App.4th 1459
+  - Triple A Machine Shop, Inc. v. State of California (1989) 213 Cal.App.3d 131
+  - Department of Fish & Game v. Anderson-Cottonwood Irrigation Dist. (1992) 8 Cal.App.4th 1554
+  - Savage v. Trammell Crow Co. (1990) 223 Cal.App.3d 1562
+  - Weil & Brown, Civ. Proc. Before Trial (The Rutter Group 2016) ¶ 9:519
+  - Korean Philadelphia Presbyterian Church v. California Presbytery (2000) 77 Cal.App.4th 1069
+
+roles:
+  - Judge: [Name]
+  - Moving Party: Defendant/Cross-Complainant Ideal
+  - Opposing Party: Plaintiffs/Cross-Defendants
+  - Cross-Defendants: Yue Ma, Lihong Zhao, Sunny West Coast Co., Hua Ming Technology Co., Jiafeng Yuan, Jianhua Liu
+  - CEO/CFO/Secretary: Linghan "Hank" Cao
+  - Chief Operating Officer: Jiafeng Yuan
+
+significant_statements:
+  - Ideal failed to show ownership interest in the Bank Account
+  - Ideal failed to present evidence that LA GreenWheels is a wholly owned subsidiary of Ideal
+  - Ideal failed to show that LA GreenWheels has a continued obligation to send checks to Ideal
+```
+
+And here is a summary of the judge's tentative ruling in English text:
+
+The court denies Cross-Complainant Ideal's Motion for a Preliminary Injunction. Ideal sought to freeze Cross-Defendants' assets and prevent them from diverting funds from the Bank Account. However, Ideal failed to show ownership interest in the Bank Account and did not present evidence that LA GreenWheels, a company allegedly controlled by Cross-Defendants, is a wholly owned subsidiary of Ideal. Ideal also failed to show that LA GreenWheels has a continued obligation to send checks to Ideal. Without this evidence, the court cannot find that Cross-Defendants have diverted funds and that the damages they currently seek are inadequate to compensate Ideal.

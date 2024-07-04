@@ -1,0 +1,58 @@
+Here is the summary in YAML format:
+
+```
+case_number: 21STCV43439
+plaintiff: ALBERT COHEN
+defendant: CITY OF BEVERLY HILLS
+people:
+  - ALBERT COHEN
+  - SHAKIR SHATNAWI
+companies:
+  - CITY OF BEVERLY HILLS
+places:
+  - COLDWATER CANYON DRIVE
+  - BEVERLY HILLS
+dates:
+  - AUGUST 21, 2020
+  - JANUARY 10, 2024
+  - JANUARY 2018
+  - NOVEMBER 7, 2022
+events:
+  - BICYCLE ACCIDENT
+  - POthole/gap in the road
+money:
+  - None mentioned
+intentions:
+  - To determine whether the City of Beverly Hills is liable for the injuries sustained by Albert Cohen in a bicycle accident
+facts:
+  - Albert Cohen was riding his bicycle down Coldwater Canyon Drive when his bicycle ran into a pothole/gap in the road, causing him to crash and sustain injuries
+  - The pothole/gap was located in the southbound lane of Coldwater Canyon Drive and measured 1.3-1.5 inches in depth, 1.5-2.0 inches in width, and 16 inches in length
+  - The City of Beverly Hills had no prior complaints or accidents involving this section of the road
+  - The City of Beverly Hills did not inspect the road for more than four years
+disputes:
+  - Whether the City of Beverly Hills had constructive notice of the dangerous condition of the road
+  - Whether the City of Beverly Hills had a duty to maintain the road in a reasonably safe condition
+acts:
+  - The City of Beverly Hills is responsible for maintaining the road
+  - Albert Cohen was riding his bicycle on the road
+agreements:
+  - None mentioned
+laws:
+  - GOVERNMENT CODE SECTION 835
+  - GOVERNMENT CODE SECTION 835.2
+  - CODE CIVIL PROCEDURE SECTION 437C
+statutes:
+  - None mentioned
+roles:
+  - ALBERT COHEN: Plaintiff
+  - CITY OF BEVERLY HILLS: Defendant
+  - SHAKIR SHATNAWI: Expert witness
+significant statements:
+  - "The City's circular logic relying on a lack of prior incidents alone does not establish that there was no existence of a dangerous condition."
+  - "The City fails to demonstrate no dangerous condition existed when the measurement of the defect was not trivial."
+  - "Plaintiff's expert, civil engineer Shatnawi, inspected the spalling at issue on November 7, 2022, in which the dimension of this defect was measured at 1.3” to 1.5” in depth, 1.5” to 2.0” in width and 16” in length."
+```
+
+Summary:
+
+The City of Beverly Hills has moved for summary judgment, arguing that it had no constructive notice of the dangerous condition of the road and that it did not cause the injuries sustained by Albert Cohen in a bicycle accident. However, the court has denied the motion, finding that there are triable issues of fact regarding the period of time the spalling existed and whether a reasonably adequate inspection system would have discovered the condition. The court also found that the City's evidence was insufficient to meet its burden of showing that it did not have constructive notice of the condition.

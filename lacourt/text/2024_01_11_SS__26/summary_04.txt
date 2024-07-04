@@ -1,0 +1,68 @@
+Here is the summary in YAML format:
+
+```
+case_number: 23STLC03138
+plaintiff_name: Norma Jean Townsend
+defendant_name: Kenneth Terrell, Jr., Soria Carr, and Southern California Poop 911, LLC
+people_names:
+  - Norma Jean Townsend
+  - Kenneth Terrell, Jr.
+  - Soria Carr
+company_names:
+  - Southern California Poop 911, LLC
+  - SoCalPoop911, Inc.
+places: None
+dates:
+  - May 12, 2023
+  - August 21, 2023
+  - October 24, 2023
+  - January 11, 2024
+events:
+  - Motor vehicle negligence
+  - Filing of Cross-Complaint
+  - Filing of Motion to Reclassify
+money:
+  - $14,879.00
+  - $25,000.00
+intentions:
+  - Reclassification of the action
+  - Transfer to unlimited jurisdiction court
+facts:
+  - Plaintiff's medical bills show special damages of $14,879.00
+  - Cross-Complaint filed without leave of court
+  - Action was inadvertently filed in limited jurisdiction court
+disputes:
+  - Incorrect classification of the action
+  - Good cause for not seeking reclassification earlier
+acts:
+  - Filing of Motion to Reclassify
+  - Striking of Cross-Complaint
+agreements:
+  - Code of Civil Procedure section 403.040
+  - Code of Civil Procedure section 436
+  - Walker v. Superior Court (1991)
+  - Ytuarte v. Superior Court (2005)
+laws:
+  - Code of Civil Procedure section 403.040
+  - Code of Civil Procedure section 436
+  - Walker v. Superior Court (1991)
+  - Ytuarte v. Superior Court (2005)
+case_citations:
+  - Walker v. Superior Court (1991)
+  - Ytuarte v. Superior Court (2005)
+statutes:
+  - Code of Civil Procedure section 403.040
+  - Code of Civil Procedure section 436
+roles:
+  - Judge
+  - Plaintiff
+  - Defendant
+significant_statements:
+  - Plaintiff's Motion to Reclassify is GRANTED.
+  - The case is reclassified as an unlimited civil case and transferred to the unlimited jurisdiction court.
+  - Plaintiff is to pay the reclassification fee within ten days.
+```
+
+And here is the English-text summary:
+
+The Judge has issued a tentative ruling on the Motion to Reclassify filed by Plaintiff Norma Jean Townsend. The case, which involves a motor vehicle negligence claim, was initially filed in a limited jurisdiction court, but the Plaintiff has demonstrated that the damages may exceed the jurisdictional limit of $25,000.00. The Judge has struck the Cross-Complaint filed by the Defendant, as it was filed without leave of court. The Judge has granted the Plaintiff's Motion to Reclassify, and the case will be reclassified as an unlimited civil case and transferred to the unlimited jurisdiction court. The Plaintiff is required to pay the reclassification fee within ten days.

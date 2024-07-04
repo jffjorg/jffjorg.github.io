@@ -1,0 +1,67 @@
+Here is the summary in YAML format:
+
+```
+Case Number: 23STCP03563
+Plaintiff's Name: Tom Lehman
+Defendant's Name: Medialab.Ai Inc.
+People-Names:
+  - Tom Lehman
+  - Mr. Lehman
+  - Jacobs
+Company-Names:
+  - Medialab.Ai Inc.
+Places:
+  - Los Angeles
+  - California
+Dates:
+  - 9/28/2023
+  - 6/6/2023
+  - 6/22/2023
+  - 7/21/2023
+  - 7/25/2023
+  - 9/15/2023
+  - January 16, 2024
+Events:
+  - Petition to compel Respondent to arbitrate and pay Petitioner's reasonable attorneys fees and costs
+  - Demand for arbitration with JAMS
+  - Payment of arbitration fees
+  - Failure to pay arbitration fees
+  - Material breach of arbitration agreement
+Money:
+  - $6,736.70 (claimed fees and costs)
+Intentions:
+  - Petitioner seeks to compel Respondent to arbitrate and pay Petitioner's reasonable attorneys fees and costs
+Facts:
+  - Petitioner filed a demand for arbitration with JAMS on 6/6/2023
+  - JAMS sent an invoice for MediaLab's share of the case initiating fees on 6/22/2023
+  - MediaLab did not pay the invoice until 7/25/2023
+  - Petitioner submitted a heavily redacted billing statement
+Disputes:
+  - Whether MediaLab committed a material breach of the arbitration agreement
+  - Whether the fees and costs awarded are reasonable and related to the material breach
+Acts:
+  - Petitioner's counsel billed $90 to reserve a hearing date and $360 to calendar a hearing and prepare materials for notice and service
+  - MediaLab paid the arbitration fees on 7/25/2023
+  - JAMS sent an email to all counsel asking for an update on payment of the invoice on 7/21/2023
+Agreements:
+  - Arbitration agreement between Petitioner and Respondent
+  - CCP sections 1281.97 and 1281.99
+Laws:
+  - CCP sections 1281.97 and 1281.99
+Case Citations:
+  - None
+Statutes:
+  - CCP sections 1281.97 and 1281.99
+Roles:
+  - Petitioner: Tom Lehman
+  - Respondent: Medialab.Ai Inc.
+  - Judge: Hon. Jon R. Takasugi
+Significant Statements:
+  - "The Court disagrees with Respondent that it has not committed a material breach."
+  - "The Court agrees with Respondent that the fees and costs that are awarded for this material breach are only those fees and costs incurred as a result of the material breach."
+  - "Petitioner must either submit an unredacted version that allows the Court to assess the reasonableness of the hours billed, or allow the Court to review the unredacted version in camera."
+```
+
+And here is the English text summarizing the judge's tentative ruling:
+
+The Court has tentatively ruled that Petitioner Tom Lehman's petition to compel Respondent Medialab.Ai Inc. to arbitrate and pay Petitioner's reasonable attorneys fees and costs is continued to allow Petitioner to file an unredacted billing record for the Court's review. The Court finds that Respondent did commit a material breach of the arbitration agreement by failing to pay arbitration fees within 30 days of receipt of the invoice. However, the Court agrees with Respondent that the fees and costs awarded should only be those incurred as a result of the material breach. The Court notes that Petitioner's heavily redacted billing statement suggests padding, and therefore requires an unredacted version to assess the reasonableness of the hours billed.

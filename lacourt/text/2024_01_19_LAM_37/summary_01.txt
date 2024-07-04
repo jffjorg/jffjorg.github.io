@@ -1,0 +1,44 @@
+Here is a summary of the judge's tentative ruling in YAML format:
+
+```
+case:
+  number: 23STCV16022
+  name: Andrew Kipper v. Irwin Welker, et al.
+
+demurrers:
+  - cause: 2, 3, 7, 8, 9, 10, 14, 16
+    result:
+      - 2, 14, 16: sustained without leave to amend
+      - 7, 8, 9, 10: sustained with 10 days leave to amend
+    reasoning:
+      - 2, 14, 16: failed to plead facts sufficient to support the cause of action
+      - 7, 8, 9, 10: failed to plead facts sufficient to support the cause of action, but may be amended
+
+cases:
+  - cause: 3
+    result: overruled
+    reasoning: failure to plead facts sufficient to support the cause of action
+
+clauses:
+  - cause: 2
+    code: Bus. & Prof. Code §§ 7044 and 7028
+    reasoning: failed to plead facts sufficient to support the cause of action
+  - cause: 7, 8
+    code: Civ. Code § 895
+    reasoning: failed to plead facts sufficient to support the cause of action
+  - cause: 9, 10
+    code: Civ. Code § 895
+    reasoning: failed to plead facts sufficient to support the cause of action
+  - cause: 14
+    code: Civ. Code § 895
+    reasoning: failed to plead facts sufficient to support the cause of action
+
+dates:
+  - February 23, 2024: Case Management Conference and Non-Appearance OSC Re: Amended Complaint
+
+parties:
+  - Plaintiff: Andrew Kipper
+  - Defendant: Irwin Welker
+```
+
+The judge's tentative ruling sustains the demurrers to the second, fourteenth, and sixteenth causes of action without leave to amend, meaning that the plaintiff will need to re-file or re-plead these claims. The demurrers to the seventh, eighth, ninth, and tenth causes of action are sustained with 10 days leave to amend, meaning that the plaintiff has the opportunity to re-plead these claims. The demurrer to the third cause of action is overruled, meaning that the plaintiff's claim may proceed. The judge also sets a Case Management Conference and Non-Appearance OSC Re: Amended Complaint for February 23, 2024.

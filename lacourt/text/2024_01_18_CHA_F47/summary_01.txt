@@ -1,0 +1,72 @@
+Here is the summary in YAML format:
+
+```
+case_number: 23CHCP00158
+plaintiff_name: E.A., a minor, by and through her Guardian ad Litem, J.A.
+defendant_name: City of Los Angeles
+people_names:
+  - E.A.
+  - J.A.
+company_names:
+  - City of Los Angeles
+places:
+  - Los Angeles
+dates:
+  - 4/10/23
+  - 8/22/23
+  - 9/27/23
+  - 11/2/23
+  - 11/17/23
+  - 11/21/23
+  - 12/1/23
+  - 12/19/23
+  - 12/20/23
+  - 1/18/24
+events:
+  - Petition filed
+  - Hearing continued
+  - Proof of service filed
+  - Notice of continuance and order filed
+  - Request to dismiss County entered
+money:
+  - None mentioned
+intentions:
+  - Petitioner seeks relief from government claim filing requirements
+  - Alternatively, Petitioner seeks an order finding substantial compliance
+facts:
+  - Petitioner failed to provide proper notice of the hearing
+  - Proof of service filed only shows City was served with Notice of Ruling and Notice of Hearing, not the underlying petition
+  - Proof of service has not been filed showing Petitioner served City with notice of hearing continuance
+disputes:
+  - Petitioner's failure to provide proper notice
+acts:
+  - Petitioner filed petition
+  - Hearing continued multiple times
+  - Proof of service filed
+  - Notice of continuance and order filed
+agreements:
+  - None mentioned
+laws:
+  - Government Code 946.6
+  - Government Code 945.4
+case_citations:
+  - 8/22/23 Minute Order
+  - 9/27/23 Nunc Pro Tunc Minute Order
+  - 11/2/23 Minute Order
+  - 11/21/23 Proof of Service – City
+  - 12/1/23 Notice of Continuance and Order
+  - 12/20/23 Request to dismiss County
+statutes:
+  - Government Code 946.6
+  - Government Code 945.4
+roles:
+  - Petitioner (E.A.)
+  - Guardian ad Litem (J.A.)
+  - Respondent (City of Los Angeles)
+significant_statements:
+  - The petition is denied.
+```
+
+And here is the English-text summary:
+
+The judge has denied the petition filed by E.A., a minor, and her Guardian ad Litem, J.A., seeking relief from government claim filing requirements. The petition was filed on April 10, 2023, and has been continued multiple times due to issues with notice. Despite the continuances, the petitioner has failed to provide proper notice of the hearing dates, including the latest continuance from December 19, 2023, to January 18, 2024. The proof of service filed shows that the City of Los Angeles was served with the Notice of Ruling and Notice of Hearing, but not the underlying petition. The judge has denied the petition due to the petitioner's repeated failure to provide proper notice, citing Government Code 946.6 and 945.4.

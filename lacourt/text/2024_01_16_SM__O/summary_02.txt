@@ -1,0 +1,75 @@
+Here is the summary in YAML format:
+
+```
+case_number: 23SMCV02764
+plaintiff: Tensor Law P.C. and Aaron G. Filler
+defendant: Gerald I. Gillock and Gerald I. Gillock Associates
+people_names:
+  - Gerald I. Gillock
+  - Aaron G. Filler
+company_names:
+  - Tensor Law P.C.
+  - Gerald I. Gillock Associates
+  - Dunn DeSantis Walt & Kendrick LLP
+places:
+  - California
+dates:
+  - June 13, 2023 (Complaint Filed)
+  - January 16, 2024 (Hearing Date)
+events:
+  - Special Motion to Strike
+  - Anti-SLAPP motion
+  - Arbitration Award
+money: N/A
+intentions:
+  - To strike the 10th and 11th causes of action
+facts:
+  - The defendants filed a declaration in an underlying arbitration proceeding
+  - The declaration contained an arbitration award
+  - The plaintiff alleges the defendants engaged in extortionate conduct
+disputes:
+  - The defendants argue that the plaintiff's claims are without merit
+  - The plaintiff argues that the defendants' conduct was illegal and constitutes extortion
+acts:
+  - Filing a declaration in an underlying arbitration proceeding
+  - Sending text messages to the plaintiff regarding the arbitration proceeding
+agreements:
+  - LACBA Fee arbitration rules
+  - CCP § 425.16 (Anti-SLAPP statute)
+laws:
+  - CCP § 425.16 (Anti-SLAPP statute)
+  - Code Civ. Proc., § 425.16, subdivision (e)(2)
+  - LACBA Rule 44(d)
+case_citations:
+  - Bonni v. St. Joseph Health System (2021) 11 Cal.5th 995
+  - Ojjeh v. Brown (2019) 43 Cal.App.5th 1027
+  - Bel Air Internet, LLC v. Morales (2018) 20 Cal.App.5th 924
+  - Sprengel v. Zbylut (2015) 241 Cal.App.4th 140
+  - Navellier v. Sletten (2002) 29 Cal.4th 82
+  - Overstock.com, Inc. v. Gradient Analytics, Inc. (2007) 151 Cal.App.4th 688
+  - Ralphs Grocery Co. v. Victory Consultants, Inc. (2017) 17 Cal.App.5th 245
+  - Crossroads Investors, L.P. v. Federal National Mortgage Assn. (2017) 13 Cal.App.5th 757
+  - Taus v. Loftus (2007) 40 Cal.4th 683
+  - Klem v. Access Ins. Co. (2017) 17 Cal.App.5th 595
+  - Flatley v. Mauro (2006) 39 Cal.4th 299
+  - Feldman v. 1100 Park Lane Associates (2008) 160 Cal.App.4th 1467
+  - City of Hope Nat’l Med. Ctr. v. Genentech, Inc. (2008) 43 Cal.4th 375
+  - Malin v. Singer (2013) 217 Cal.App.4th 1283
+  - Optional Capital, Inc. v. Akin Gump Strauss, Hauer & Feld LLP (2017) 18 Cal.App.5th 95
+  - Bergstein v. Stroock & Stroock & Lavan LLP (2015) 236 Cal.App.4th 793
+  - Home Ins. Co. v. Zurich Ins. Co. (2002) 96 Cal.App.4th 17
+  - Mancini & Associates v. Schwetz (2019) 39 Cal.App.5th 656
+roles:
+  - Judge
+  - Plaintiff
+  - Defendant
+  - Attorney
+significant_statements:
+  - The defendants' Anti-SLAPP motion is GRANTED in full as to the 10th and 11th causes of action.
+  - The litigation privilege under CCP § 425.16(e)(2) effectively bars the plaintiff's claim.
+  - The plaintiff's claims are without merit.
+```
+
+Here is a brief English-text summary:
+
+The judge's tentative ruling grants the defendants' special motion to strike the 10th and 11th causes of action, which are claims of breach of fiduciary duty of confidentiality and attempted extortion. The judge finds that the defendants' conduct is protected under the Anti-SLAPP statute (CCP § 425.16) and that the plaintiff has failed to establish a probability of success on their claims. The judge also finds that the litigation privilege under CCP § 425.16(e)(2) bars the plaintiff's claim of attempted extortion.

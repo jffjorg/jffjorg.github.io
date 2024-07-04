@@ -1,0 +1,50 @@
+Here is the summary in YAML format:
+
+```
+case_number: "Not specified"
+plaintiff_name: "Maimon"
+defendant_name: ""
+people_names:
+  - Maimon
+places: ""
+dates:
+  - "Not specified"
+events:
+  - Claim of exemption
+  - Service of notice of claim
+  - Filing of notice of opposition and notice of motion
+  - Filing of copies with levying officer
+money: ""
+intentions:
+  - To determine the claim of exemption
+facts:
+  - Property is claimed to be exempt
+  - Equity in property exceeds amount provided in applicable exemption
+  - Notice of opposition and notice of motion must be filed
+  - Copies must be filed with levying officer
+disputes:
+  - Claim of exemption disputed
+  - Amount of exemption disputed
+acts:
+  - Filing of notice of claim
+  - Filing of notice of opposition and notice of motion
+  - Filing of copies with levying officer
+agreements: ""
+laws:
+  - Code of Civil Procedure, § 703.550
+  - Code of Civil Procedure, § 703.560
+case_citations: "Not specified"
+statutes:
+  - Code of Civil Procedure
+roles:
+  - Judge
+  - Judgment creditor
+  - Levying officer
+significant_statements:
+  - "Within 15 days after service of the notice of claim of exemption, a judgment creditor who opposes the claim of exemption shall file with the court a notice of opposition to the claim of exemption and a notice of motion for an order determining the claim of exemption and shall file with the levying officer a copy of the notice of opposition and a copy of the notice of motion."
+  - "The notice of opposition to the claim of exemption shall be executed under oath and shall include both of the following: an allegation either (1) that the property is not exempt under the provision of this chapter or other statute relied upon or (2) that the equity in the property claimed to be exempt is in excess of the amount provided in the applicable exemption."
+```
+
+And here is a summary of the judge's tentative ruling in English text:
+
+The judge is considering a motion to determine the claim of exemption. According to the Code of Civil Procedure, the judgment creditor who opposes the claim of exemption must file a notice of opposition and a notice of motion with the court and a copy of these documents with the levying officer within 15 days of service of the notice of claim. The notice of opposition must be executed under oath and must include allegations that the property is not exempt or that the equity in the property exceeds the amount provided in the applicable exemption, along with a statement of the facts supporting these allegations. Based on this, the court need not address the remaining arguments in the motion.

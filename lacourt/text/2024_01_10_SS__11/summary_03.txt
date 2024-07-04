@@ -1,0 +1,61 @@
+Here is the summary in YAML format:
+
+```
+case_number: unknown
+plaintiff_name: unknown
+defendant_name: unknown
+people_names:
+  - Kho
+company_names:
+  - OTO, LLC
+  - Luce, Forward, Hamilton & Scripps
+places:
+  - California
+dates:
+  - 1999
+  - 2019
+events:
+  - arbitration
+  - employment
+  - lawsuit
+money:
+  - fees
+  - arbitration costs
+intentions:
+  - enforce arbitration agreement
+  - recover fees
+facts:
+  - arbitration agreement imposed as condition of employment
+  - labor code provisions at issue
+  - defendant cannot recover fees
+  - defendant must pay arbitration costs
+disputes:
+  - validity of arbitration agreement
+  - enforceability of labor code provisions
+acts:
+  - employment
+  - lawsuit
+agreements:
+  - arbitration agreement
+  - labor code provisions
+laws:
+  - Private Attorneys General Act (PAGA)
+  - California Labor Code
+case_citations:
+  - OTO, LLC v. Kho (2019) 8 Cal.5th 111
+  - Lagatree v. Luce, Forward, Hamilton & Scripps (1999) 74 Cal.App.4th 1105
+  - Knight (supra) at ¶ 5:146
+statutes:
+  - California Labor Code
+roles:
+  - Judge
+  - Plaintiff
+  - Defendant
+significant_statements:
+  - An arbitration agreement is not invalid merely because it is imposed as a condition of employment.
+  - The mandatory nature of an arbitration agreement does not, by itself, render the agreement unenforceable.
+```
+
+And here is the English-text summary:
+
+This tentative ruling discusses the validity and enforceability of an arbitration agreement imposed as a condition of employment. The court notes that the arbitration agreement is not invalid merely because it is mandatory, citing Lagatree v. Luce, Forward, Hamilton & Scripps (1999) 74 Cal.App.4th 1105. The court also cites OTO, LLC v. Kho (2019) 8 Cal.5th 111, which is distinguishable. The defendant admits that it cannot recover fees under the Labor Code provisions at issue, and the court rules that the defendant must pay the arbitration costs.
