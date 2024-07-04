@@ -1,0 +1,62 @@
+Here is the summary of the judge's tentative ruling in YAML format:
+
+```
+case_number: 22STCV15320
+plaintiff: Cielo Guzman
+defendant: Dial Transport Inc. and Venerando Bautista
+people_names:
+  - Cielo Guzman
+  - Venerando Bautista
+company_names:
+  - Dial Transport Inc.
+places: None
+dates:
+  - May 9, 2022
+  - December 27, 2022
+  - August 7, 2023
+  - December 4, 2023
+  - January 4, 2024
+events:
+  - Motor vehicle accident
+  - Complaint filed
+  - Interrogatories propounded
+  - Responses served
+  - Motion to compel filed
+money: $765 (monetary sanctions)
+intentions:
+  - Compel further responses to interrogatories
+  - Compel initial responses to interrogatories
+facts:
+  - Plaintiff filed a complaint against defendants for damages related to a motor vehicle accident
+  - Defendants propounded interrogatories on Plaintiff
+  - Plaintiff served responses, but they were incomplete and did not comply with discovery rules
+  - Defendants move to compel further responses and initial responses
+disputes:
+  - Plaintiff's incomplete responses to interrogatories
+  - Failure to serve timely responses to interrogatories
+acts:
+  - Propounding interrogatories
+  - Serving responses
+  - Filing motion to compel
+agreements:
+  - None
+laws:
+  - Code of Civil Procedure sections 2030.300, 2030.290, 2030.220
+  - Leach v. Superior Court (1980) 111 Cal.App.3d 902
+statutes:
+  - California Code of Civil Procedure
+roles:
+  - Plaintiff: Cielo Guzman
+  - Defendant: Dial Transport Inc. and Venerando Bautista
+  - Counsel: Joseph and Hawatmeh
+significant statements:
+  - The Court grants defendants' motion to compel further responses to interrogatories
+  - The Court grants defendants' motion to compel initial responses to interrogatories
+  - The Court awards monetary sanctions against plaintiff and plaintiff's counsel in the amount of $765
+```
+
+And here is a summary of the judge's tentative ruling in English text:
+
+The Court grants defendants' motion to compel further responses to interrogatories propounded by defendant Bautista, including numbers 8.6-8.8, 11.1, 17.1, 20.3, 20.7, 20.8, and 20.11. The Court also grants defendants' motion to compel initial responses to interrogatories propounded by defendant Dial. Plaintiff is ordered to serve code-compliant responses to these interrogatories within 10 days.
+
+The Court awards monetary sanctions against plaintiff and plaintiff's counsel in the amount of $765, which is to be paid to counsel for defendants within 30 days of the date of this order.

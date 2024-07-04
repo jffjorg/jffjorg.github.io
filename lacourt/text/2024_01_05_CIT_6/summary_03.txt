@@ -1,0 +1,55 @@
+Here is the summary in YAML format:
+
+```
+case_number: 22PSCV01143
+hearing_date: January 5, 2024
+dept: 6
+case_name: Eva Lopez v. Toyota Motor Sales, U.S.A., Inc., et al.
+motion: Motion to Compel Binding Arbitration
+tentative_ruling:
+  grants: D. Longo, LLC
+  denies: Toyota Motor Sales, U.S.A., Inc.
+  stays: This action pending arbitration
+background: Lemon law case
+parties:
+  - Eva Lopez (plaintiff)
+  - Toyota Motor Sales, U.S.A., Inc. (defendant)
+  - D. Longo, LLC (defendant)
+legal_standard:
+  - California has a strong public policy in favor of arbitration
+  - Arbitration should be upheld unless it can be said with assurance that an arbitration clause is not susceptible to an interpretation covering the asserted dispute
+facts:
+  - Plaintiff Eva Lopez filed a lawsuit against defendants Toyota Motor Sales, U.S.A., Inc. and D. Longo, LLC
+  - Defendants filed a motion to compel binding arbitration
+  - Plaintiff opposes the motion
+  - Arbitration clause in the Retail Installment Sale Contract (Sale Contract) and Arbitration Agreement
+disputes:
+  - Whether the arbitration clause in the Sale Contract and Arbitration Agreement is valid and binding
+  - Whether Toyota Motor Sales, U.S.A., Inc. is entitled to enforce the arbitration clause as a third-party beneficiary
+  - Whether the motion to compel binding arbitration should be granted or denied
+acts:
+  - Plaintiff filed a lawsuit against defendants
+  - Defendants filed a motion to compel binding arbitration
+  - Plaintiff opposes the motion
+  - Court grants the motion to compel binding arbitration as to D. Longo, LLC and denies as to Toyota Motor Sales, U.S.A., Inc.
+  - Court stays the action pending arbitration
+laws:
+  - California Arbitration Act (CAA)
+  - Federal Arbitration Act (FAA)
+case_citations:
+  - Omar v. Ralphs Grocery Co. (2004) 118 Cal.App.4th 955
+  - Banner Entertainment, Inc. v. Superior Court (1998) 62 Cal.App.4th 348
+  - Espejo v. Southern California Permanente Medical Group (2016) 246 Cal.App.4th 1047
+  - Coast Plaza Doctors Hospital v. Blue Cross of California (2000) 83 Cal.App.4th 677
+roles:
+  - Judge
+  - Plaintiff (Eva Lopez)
+  - Defendant (Toyota Motor Sales, U.S.A., Inc.)
+  - Defendant (D. Longo, LLC)
+significant_statements:
+  - "California has a strong public policy in favor of arbitration"
+  - "Arbitration should be upheld unless it can be said with assurance that an arbitration clause is not susceptible to an interpretation covering the asserted dispute"
+  - "The parties to the contract must have intended the third party to benefit"
+```
+
+Note that this summary is not exhaustive, but rather highlights the main points and key information from the tentative ruling.

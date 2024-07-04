@@ -1,0 +1,102 @@
+Here is a summary of the tentative ruling in YAML format:
+
+```
+case_number: 22STCV13246
+hearing_date: 2024-01-10
+dept: 55
+
+parties:
+  - plaintiff: Theresa Montenegro
+  - plaintiff: Maria Cota
+  - plaintiff: Judi Dixon
+  - plaintiff: Linda Harbin
+  - defendant: ABC Unified School District
+
+people:
+  - Theresa Montenegro
+  - Maria Cota
+  - Judi Dixon
+  - Linda Harbin
+
+companies:
+  - ABC Unified School District
+
+places:
+
+dates:
+  - 2020-01-31
+  - 2020-06-23
+  - 2020-10-21
+  - 2021-09-21
+  - 2022-01-31
+  - 2022-04-22
+
+events:
+  - Complaint filed with Civil Rights Department
+  - "Right to sue" letters received
+  - Study commissioned by ABC School District
+  - Study outcome issued
+
+money:
+
+intensions:
+  - Grant judgment on pleadings for 1st cause of action
+  - Deny judgment on pleadings for 2nd and 8th causes of action
+  - Grant separate trial for Plaintiff Montenegro's Disability Claims
+
+facts:
+  - Plaintiffs did not file a claim with ABC School District before filing suit
+  - Plaintiffs' second and eighth causes of action are timely
+  - Equitable tolling may apply to some of the time period
+
+disputes:
+  - Defendant's motion for judgment on the pleadings
+  - Defendant's motion for separate trial of Plaintiff Montenegro's Disability Claims
+
+acts:
+  - Defendant's request for judicial notice
+  - Defendant's motion for judgment on the pleadings
+  - Defendant's motion for separate trial of Plaintiff Montenegro's Disability Claims
+
+agreements:
+  - Labor Code §1197.5
+  - Government Code §12940, et seq.
+  - Government Code §12960
+  - Government Code §12965
+  - CCP §1048(b)
+  - CCP §436
+
+laws:
+  - Labor Code §1197.5
+  - Government Code §12940, et seq.
+  - Government Code §12960
+  - Government Code §12965
+  - CCP §1048(b)
+  - CCP §436
+
+case_citations:
+  - Shea Homes Limited Partnership v. County of Alameda (2003) 110 Cal.App.4th 1246
+  - Johnson v. San Diego Unified Sch. Dist. (1990) 217 Cal.App.3d 692
+  - California School Employees Assn. v. Azusa Unified School Dist. (1984) 152 Cal.App.3d 580
+  - Loehr v. Ventura Cnty. Cmty. Coll. Dist., 147 Cal.App.3d 1071, 1080
+  - Gatto v. County of Sonoma (2002) 98 Cal.App.4th 744, 763
+  - Snipes v. City of Bakersfield (1983) 145 Cal.App.3d 861, 867
+  - Hendy v. Losse (1991) 54 Cal.3d 723, 742
+  - Roman v. County of Los Angeles (2000) 85 Cal.App.4th 316, 324-325
+  - Acuna v. San Diego Gas & Elec. Co. (2013) 217 Cal.App.4th 1402, 1413
+  - Richards v CH2M Hill, Inc. (2001) 26 Cal. 4th 798, 823
+  - Birchstein v. New United Motor Mfg. Inc. (2001) 92 Cal.App.4th 994, 1003
+  - Daniels v. Select Portfolio Servicing, Inc. (2016) 246 Cal.App.4th 1150, 1167
+  - Sheen v. Wells Fargo Bank, N.A. (2022) 12 Cal.5th 905, 948
+```
+
+And here is a summary of the tentative ruling in English:
+
+The Court has reviewed the motions filed by Defendant ABC Unified School District and has made the following tentative rulings:
+
+* Defendant's Motion for Judgment on the Pleadings is GRANTED as to the 1st cause of action for violation of Labor Code §1197.5 and DENIED as to the 2nd cause of action for sex status discrimination (in violation of Government Code §12940, et seq.) and the 8th cause of action for failure to prevent discrimination, harassment and retaliation in violation of Government Code §12940(k).
+* Defendant's Motion for Separate Trial of Plaintiff Montenegro's Fourth, Fifth, Sixth and Seventh Claims is GRANTED pursuant to CCP §1048(b).
+
+The Court finds that the 1st cause of action for violation of Labor Code §1197.5 is not timely because Plaintiffs did not file a claim with ABC School District before filing suit. The Court also finds that equitable tolling may apply to some of the time period. The Court denies the motion for judgment on the pleadings as to the 2nd and 8th causes of action because Plaintiffs' allegations are timely.
+
+The Court grants the motion for separate trial of Plaintiff Montenegro's Disability Claims because they are factually and legally distinct from the rest of the claims in the case. The Court finds that trying the Disability Claims separately will avoid confusion and ensure a fair trial.

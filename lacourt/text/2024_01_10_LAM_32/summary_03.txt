@@ -1,0 +1,71 @@
+Here is the summary in YAML format:
+
+```
+case_number: 23STCV19576
+plaintiff_name: Eugene Popok
+defendant_names:
+  - Mikhail Mekk
+  - Mission Organic Center Inc.
+people_names:
+  - Eugene Popok
+  - Mikhail Mekk
+  - Kamenetsky
+company_names:
+  - Mission Organic Center Inc.
+places:
+  - California
+dates:
+  - August 16, 2023
+  - August 2019
+  - October 3, 2023
+  - October 27, 2023
+  - December 1, 2023
+  - December 22, 2023
+  - January 3, 2024
+  - January 10, 2024
+events:
+  - Filing of complaint
+  - Settlement agreement
+  - Breach of contract
+  - Anti-SLAPP motion
+  - Filing of motion for attorneys' fees
+money:
+  - $750,000
+  - $526.26
+  - $8,626.26
+intentions:
+  - Plaintiff intends to recover damages for breach of contract and other claims
+  - Defendants intend to recover attorneys' fees
+facts:
+  - Plaintiff filed a complaint against Defendants in August 2023
+  - Defendants allegedly breached a settlement agreement in August 2019
+  - Plaintiff alleges that the breach cost him $750,000
+  - Defendants filed an anti-SLAPP motion and motion for attorneys' fees
+disputes:
+  - Dispute over whether Defendants breached the settlement agreement
+  - Dispute over whether Plaintiff is entitled to damages
+  - Dispute over whether Defendants are entitled to attorneys' fees
+acts:
+  - Plaintiff filed a complaint against Defendants
+  - Defendants allegedly breached the settlement agreement
+  - Defendants filed an anti-SLAPP motion and motion for attorneys' fees
+agreements:
+  - Settlement agreement between Plaintiff and Defendants
+  - Code of Civil Procedure, Section 425.16(c)(1)
+laws:
+  - Code of Civil Procedure, Section 425.16(c)(1)
+case_citations:
+  - LC107612
+statutes:
+  - Code of Civil Procedure, Section 425.16(c)(1)
+roles:
+  - Judge
+  - Plaintiff
+  - Defendant
+significant_statements:
+  - "A prevailing defendant on a special motion to strike shall be entitled to recover that defendant's attorney's fees and costs."
+```
+
+And here is a summary of the judge's tentative ruling in English text:
+
+The judge has issued a tentative ruling on the defendants' motion for attorneys' fees. The defendants, Mikhail Mekk and Mission Organic Center Inc., are seeking to recover fees associated with their anti-SLAPP motion and subsequent motion for attorneys' fees. The judge has found that the defendants are entitled to recover $8,626.26 in fees, which includes 18 hours of attorney time at a rate of $450 per hour and costs of $526.26. The judge has granted the defendants' motion for attorneys' fees.
