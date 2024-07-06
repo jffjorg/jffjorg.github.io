@@ -1,0 +1,56 @@
+Here is the summary in YAML format:
+
+```
+case_number: 21STCV47525
+plaintiff_name: Gerald Wachel
+defendant_name: Ty Labbe
+people_names:
+  - Gerald Wachel
+  - Ty Labbe
+  - Cesar Rodriguez
+company_names: []
+places:
+  - Los Angeles
+  - California
+  - District Attorney's office
+dates:
+  - January 25, 2024
+  - December 20, 2023
+events:
+  - Motion to compel further responses
+  - Request for sanctions
+  - Deposition
+money:
+  - $4,260
+intentions:
+  - Plaintiff: to compel defendant to produce all non-privileged responsive documents
+  - Defendant: to object to requests as "overbroad" and "vague"
+facts:
+  - Defendant has not produced all responsive non-privileged documents
+  - Defendant identified documents at deposition that were not produced
+  - Documents include email communications, release, and report
+disputes:
+  - Overbroad and vague objections
+acts:
+  - Defendant's deposition
+  - Plaintiff's motion to compel
+agreements: None
+laws:
+  - California law
+case_citations: None
+statutes: None
+roles:
+  - Judge: William A. Crowfoot
+  - Plaintiff: Gerald Wachel
+  - Defendant: Ty Labbe
+  - Counsel: (implied)
+significant_statements:
+  - Defendant's objections lack merit
+  - Plaintiff's motion to compel is granted
+  - Parties shall meet and confer to resolve disputes
+  - Request for sanctions is denied
+```
+
+And here is a summary of the judge's tentative ruling in English text:
+
+The judge has tentatively ruled in favor of the plaintiff, Gerald Wachel, in his motion to compel defendant Ty Labbe to produce all non-privileged responsive documents. The judge found that the defendant's objections to the requests were vague and lacked merit, and that the defendant had not produced all responsive documents despite identifying them at his deposition. The judge ordered the defendant to withdraw his objections and produce the requested documents. The judge also denied the plaintiff's request for sanctions against the defendant and his counsel. The parties are required to meet and confer to resolve any remaining disputes. The tentative ruling will be final unless the parties submit written objections or appear at the hearing on January 25, 2024.

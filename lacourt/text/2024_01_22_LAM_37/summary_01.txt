@@ -1,0 +1,44 @@
+Here is the summary in YAML format:
+
+```
+case_number: 21STCV43704
+hearing_date: January 22, 2024
+dept: 37
+moving_party: Defendant Granite Construction
+opposing_party: Plaintiff Joseph R.B. Hanson
+trial_date: March 20, 2024
+proof_of_service: OK
+
+proceeding: Motion for Summary Judgment or Summary Adjudication
+opposition: January 4, 2024
+reply: January 12, 2024
+
+facts:
+  - Plaintiff filed a complaint against Granite Construction on November 30, 2023
+  - Plaintiff alleges five causes of action: disability discrimination, breach of duty to prevent retaliation, retaliation, failure to accommodate disability, and failure to engage in interactive process
+  - Plaintiff suffered a facial injury on April 30, 2020, and continued to experience chronic pain and numbness
+  - Plaintiff asked to "step down" as foreman on November 2, 2021, but was terminated by Granite Construction
+
+people:
+  - Joseph R.B. Hanson: Plaintiff
+  - Granite Construction Company: Defendant
+  - Teresa Acuna: Defendant
+  - Albert Larios: Project Engineer
+  - Michael Vincent: Supervisor
+  - Mark McKane: Safety employee
+  - Dr. Steven Greene: Physician
+  - Dr. Jay Jurkowitz: Physician
+
+company_names:
+  - Granite Construction Company
+  - CNA: Workers' compensation insurer
+
+places:
+  - Highway 126
+  - California
+
+dates:
+  - November 30, 2023: Complaint filed
+  - April 30, 2020: Facial injury
+  - November 2, 2021: Plaintiff asked to "step down" as foreman
+  - January 22

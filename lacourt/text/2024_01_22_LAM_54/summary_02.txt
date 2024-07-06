@@ -1,0 +1,55 @@
+Here is the summary in YAML format:
+
+```
+case_number: 22STCV17343
+plaintiff: Andrew Edward Ezor
+defendant: Ellie Page, LLC, et al.
+people_names:
+  - Arthur Edward Ezor
+  - Koshki
+  - Harari
+company_names:
+  - P & J Labrea, LLC
+  - Ellie Page, LLC
+places:
+  - Los Angeles
+dates:
+  - January 22, 2024
+events:
+  - Motion to Strike Answer
+money:
+  - Not applicable
+intentions:
+  - To strike the answer of the defendants due to lack of verification
+facts:
+  - Verified complaints require verified answers (CCP § 446)
+  - The defendants failed to verify their answer
+disputes:
+  - The plaintiff's motion to strike the answer
+acts:
+  - The plaintiff moved to strike the answer of the defendants
+agreements:
+  - Not applicable
+laws:
+  - California Code of Civil Procedure (CCP) § 435(b)(1)
+  - California Code of Civil Procedure (CCP) § 436
+  - California Code of Civil Procedure (CCP) § 446
+case_citations:
+  - CCP § 435(b)(1)
+  - CCP § 436
+  - CCP § 446
+statutes:
+  - California Code of Civil Procedure (CCP)
+roles:
+  - Judge: Maurice A. Leiter
+  - Moving Party: Plaintiff Arthur Edward Ezor
+  - Responding Party: None
+significant_statements:
+  - The Court grants the plaintiff's motion to strike the answer
+  - The defendants are required to file and serve verification of their answer within 20 days of notice of the ruling
+  - The plaintiff is required to notice the ruling
+```
+
+And here is a summary of the judge's tentative ruling in English text:
+
+The judge has issued a tentative ruling granting the plaintiff's motion to strike the answer of the defendants due to their failure to verify their answer. The defendants, Ellie Page, LLC, et al., must file and serve verification of their answer within 20 days of notice of the ruling. The plaintiff, Andrew Edward Ezor, is required to notify the ruling. The judge's decision is based on California Code of Civil Procedure sections 435(b)(1), 436, and 446, which require verified complaints to be accompanied by verified answers. The hearing is scheduled for January 22, 2024, and parties may submit on the tentative ruling by emailing the courtroom before 8:00 am on the day of the hearing.

@@ -1,0 +1,92 @@
+Here is the summary in YAML format:
+
+```
+case_number: 23STCV17507
+hearing_date: January 25, 2024
+dept: 29
+moving_party: Defendant 815 Green, LLC
+
+defendant:
+  - 815 Green, LLC (Landlord)
+  - Julio Melendez-Rodriguez (Melendez)
+
+plaintiff: Suyapa Nunez Sanchez
+
+people_names:
+  - Suyapa Nunez Sanchez
+  - Julio Melendez-Rodriguez
+
+company_names:
+  - 815 Green, LLC
+
+places:
+
+dates:
+  - July 20, 2021
+  - July 28, 2021
+  - July 26, 2023
+  - December 20, 2023
+  - January 11, 2024
+  - January 18, 2024
+  - January 24, 2024
+
+events:
+  - Plaintiff files complaint
+  - Landlord files demurrer and motion to strike
+  - Plaintiff files opposition
+  - Landlord files reply
+  - Stipulation and Order filed
+
+money:
+
+intentions:
+  - Plaintiff seeks to recover punitive damages from Landlord
+
+facts:
+  - Plaintiff alleges Melendez was sent by Landlord to fix plumbing issues in her apartment
+  - Melendez allegedly grabbed, kissed, and committed sexual battery against Plaintiff
+  - Plaintiff seeks damages for negligent hiring, retention, and supervision, as well as assault, battery, and intentional infliction of emotional distress
+
+disputes:
+  - Landlord's demurrer and motion to strike
+  - Plaintiff's claims for punitive damages against Landlord
+
+acts:
+  - Landlord's alleged negligence and failure to supervise Melendez
+  - Melendez's alleged sexual battery against Plaintiff
+
+agreements:
+  - Stipulation and Order filed January 24, 2024
+
+laws:
+  - California Code of Civil Procedure section 436
+  - California Civil Code section 3294
+  - California Civil Code section 1708.5
+  - California Civil Code section 51.7
+  - California Civil Code section 52.1
+
+case_citations:
+  - Turman v. Turning Point of Central California, Inc. (2010) 191 Cal.App.4th 53
+  - Shade Foods, Inc. v. Innovative Products Sales & Marketing, Inc. (2000) 78 Cal. App. 4th 847
+  - College Hosp., Inc. v. Super. Ct. (1994) 8 Cal.4th 704
+  - Dawes v. Super. Ct. (1980) 111 Cal. App. 3d 82
+  - Anschutz Entertainment Group, Inc. v. Snepp (2009) 171 Cal.App.4th 598
+  - Mesler v. Bragg Management Co. (1985) 39 Cal.3d 290
+  - A.J. Fistes Corp. v. GDL Best Contractors, Inc. (2019) 38 Cal.App.5th 677
+  - Gopal v. Kaiser Foundation Health Plan (2016) 248 Cal.App.4th 425
+  - Automotriz Del Golfo de California SA de CV v. Resnick (1957) 47 Cal.2d 792
+
+roles:
+  - Judge: [insert name]
+  - Plaintiff: Suyapa Nunez Sanchez
+  - Defendant: 815 Green, LLC (Landlord)
+  - Defendant: Julio Melendez-Rodriguez (Melendez)
+  - Defendant: Does 1-20
+
+significant_statements:
+  - Plaintiff's claims for punitive damages against Landlord are insufficient
+  - Landlord's motion to strike is granted in part and denied in part
+  - Plaintiff is granted leave to amend within 21 days of notice
+```
+
+Note that this summary is a condensed version of the original document and may not include all the details.

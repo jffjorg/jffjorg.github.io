@@ -1,0 +1,69 @@
+Here is the summary in YAML format:
+
+```
+case_number: 22STCV30718
+plaintiff_name: Brett Gagnon
+defendant_name: Arsalan Hamidi
+people_names:
+  - Brett Gagnon
+  - Arsalan Hamidi
+company_names:
+  - Geminon Properties, LLC
+places:
+  - Los Angeles
+  - California
+dates:
+  - 9/20/2022
+  - 6/5/2023
+  - 9/13/2023
+  - 9/28/2023
+  - 10/3/2023
+  - January 24, 2024
+events:
+  - Breach of operating agreement
+  - Breach of fiduciary duties
+  - Constructive fraud
+  - Constructive trust
+  - Conversion
+  - Cessation
+  - Declaratory relief
+  - Demurrer
+  - Motion to strike
+money: None
+intentions:
+  - Defendant's motion to strike granted
+  - Plaintiff's SAC stricken
+facts:
+  - Plaintiff filed suit on 9/20/2022
+  - Plaintiff filed first amended complaint on 6/5/2023
+  - Defendant sustained demurrer to Plaintiff's First Amended Complaint on 9/13/2023
+  - Plaintiff filed SAC on 10/3/2023
+disputes:
+  - Timeliness of Plaintiff's SAC
+acts:
+  - Plaintiff filed suit
+  - Plaintiff filed first amended complaint
+  - Defendant sustained demurrer
+  - Plaintiff filed SAC
+  - Defendant moves to strike
+agreements:
+  - Court's order to file SAC
+laws:
+  - CCP section 472(a)
+  - Vaccaro v. Kaiman (1998) 63 Cal.App.4th 761, 768
+case_citations:
+  - Vaccaro v. Kaiman (1998) 63 Cal.App.4th 761, 768
+statutes:
+  - CCP section 472(a)
+roles:
+  - Judge: Hon. Jon R. Takasugi
+  - Plaintiff: Brett Gagnon
+  - Defendant: Arsalan Hamidi
+significant_statements:
+  - Defendant's motion to strike granted
+  - Plaintiff's SAC stricken
+```
+
+And here is a summary of the judge's tentative ruling in English text:
+
+The judge has issued a tentative ruling granting the defendant's motion to strike the plaintiff's second amended complaint (SAC). The plaintiff filed the SAC on October 3, 2023, after the court's deadline for filing on September 28, 2023. The judge finds that the plaintiff's failure to file on time is a curable defect, but the court has discretion to strike the SAC under Code of Civil Procedure section 472(a). The judge rules that the SAC must be stricken, but does so without prejudice, allowing the plaintiff to correct the defect. The ruling is effective January 24, 2024.

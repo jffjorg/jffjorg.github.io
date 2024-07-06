@@ -1,0 +1,75 @@
+Here is the summary in YAML format:
+
+```
+case_number: 22STCV32053
+plaintiff:
+  name: Carlos Segura
+defendant:
+  name: Hertz Global Holdings, Inc.
+people_names:
+  - Carlos Segura
+  - Nestor Vera
+  - Mark P. Nelson
+company_names:
+  - Hertz Global Holdings, Inc.
+  - Amazon Logistics, Inc.
+places:
+  - Spring Street Courthouse
+  - Department 29
+dates:
+  - September 30, 2022
+  - December 21, 2023
+  - January 15, 2025
+  - March 29, 2024
+  - January 25, 2024
+  - February 26, 2024
+  - March 11, 2024
+  - March 17, 2025
+events:
+  - Two-vehicle accident
+  - Filing of complaint
+  - Filing of motion to continue trial
+  - Filing of motion for summary judgment
+  - Continuance of trial
+  - Advance of hearing on motion for summary judgment
+money:
+  - None mentioned
+intentions:
+  - To continue trial
+  - To advance hearing on motion for summary judgment
+facts:
+  - Trial is currently scheduled for March 29, 2024
+  - Defendant's motion for summary judgment is currently scheduled for January 15, 2025
+  - No opposition has been filed by other parties
+  - Defendant was unable to schedule the motion for summary judgment for a hearing date at least 30 days prior to trial
+disputes:
+  - Continuance of trial
+  - Advance of hearing on motion for summary judgment
+acts:
+  - Filing of complaint
+  - Filing of motion to continue trial
+  - Filing of motion for summary judgment
+  - Continuance of trial
+agreements:
+  - None mentioned
+laws:
+  - California Rules of Court, rule 3.1332
+  - Hernandez v. Superior Court (2004)
+  - Wells Fargo Bank v. Superior Court (1988)
+statutes:
+  - California Rules of Court, rule 3.1332
+roles:
+  - Judge
+  - Plaintiff
+  - Defendant
+  - Trial counsel
+significant_statements:
+  - "Trial dates are firm to ensure prompt disposition of civil cases."
+  - "Continuances are thus generally disfavored."
+  - "The trial court has discretion to continue trial dates."
+  - "Each request for continuance must be considered on its own merits and is granted upon an affirmative showing of good cause."
+```
+
+And here is the English-text summary:
+
+The judge's tentative ruling grants Defendant Hertz Global Holdings, Inc.'s motion to continue trial or to advance its motion for summary judgment. The motion was filed on December 21, 2023, and the trial is currently scheduled for March 29, 2024. The judge finds good cause to continue the trial due to the Court's availability and the fact that the Defendant was unable to schedule the motion for summary judgment for a hearing date at least 30 days prior to trial. The judge also considers the proximity of the trial date, the length of the continuance requested, and the availability of alternative means to address the problem that gave rise to the motion. The judge concludes that the interests of justice are best served by a continuance, and trial is continued to a date in or after mid-March 2025.

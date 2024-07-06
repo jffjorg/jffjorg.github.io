@@ -1,0 +1,61 @@
+Here is the summary in YAML format:
+
+```
+case-number: 21STLC07319
+plaintiff: Cotton Blanks, Inc.
+defendant: Oceanaire Sportswear, Inc., et al
+people-names:
+  - Cotton Blanks, Inc.
+  - Oceanaire Sportswear, Inc.
+companies:
+  - Cotton Blanks, Inc.
+  - Oceanaire Sportswear, Inc.
+places:
+  - Spring Street Courthouse
+dates:
+  - October 7, 2021
+  - October 6, 2022
+  - July 12, 2023
+  - October 16, 2023
+  - January 22, 2024
+  - April 18, 2024
+events:
+  - Filing of complaint
+  - Filing of answer
+  - Continuation of trial date
+  - Dismissal of action
+  - Filing of motion to vacate dismissal
+money: None
+intensions:
+  - To reinstate the case
+  - To set a new trial date
+facts:
+  - Plaintiff failed to appear at trial
+  - Defendant filed a motion to dismiss
+  - Plaintiff filed a motion to vacate dismissal
+disputes:
+  - Dismissal of the action
+acts:
+  - Plaintiff failed to give notice of trial date
+  - Plaintiff failed to appear for trial
+agreements: None
+laws:
+  - Code of Civil Procedure, section 473, subdivision (b)
+  - English v. IKON Business Solutions (2001)
+  - Code Civ. Proc., § 473, subdivision (b)
+  - Code Civ. Proc., § 473, subdivision (b)
+statutes:
+  - Code of Civil Procedure, section 473, subdivision (b)
+roles:
+  - Plaintiff: Cotton Blanks, Inc.
+  - Defendant: Oceanaire Sportswear, Inc.
+  - Judge: [Undisclosed]
+significant-statements:
+  - The motion to vacate dismissal is granted
+  - The dismissal entered on July 12, 2023 is hereby vacated
+  - Trial is set for April 18, 2024 at 8:30 AM in Department 26 in the Spring Street Courthouse
+```
+
+And here is the English-text summary of the judge's tentative ruling:
+
+The judge has granted the motion filed by Cotton Blanks, Inc. (Plaintiff) to vacate the dismissal entered on July 12, 2023. The dismissal was entered when the Plaintiff failed to appear at trial, but the Plaintiff claims that their attorney failed to give notice of the trial date or appear for trial. The motion was filed within six months of the dismissal and is supported by an affidavit of attorney fault. As a result, the case is reinstated, and a new trial date is set for April 18, 2024 at 8:30 AM in Department 26 of the Spring Street Courthouse.

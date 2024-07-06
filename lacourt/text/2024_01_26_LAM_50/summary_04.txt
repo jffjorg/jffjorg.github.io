@@ -1,0 +1,18 @@
+Here is a simple summary in YAML format of the tentative ruling:
+
+```
+case_number: 22STCV07568
+hearing_date: January 26, 2024
+dept: 50
+judge: [Judge's Name]
+
+people:
+  - Brian Warner (Plaintiff)
+  - Evan Rachel Wood (Defendant)
+  - Michael J. Kump (Wood's counsel)
+  - Katherine Kleindienst (Wood's counsel)
+  - Allen Secretov (Wood's counsel)
+  - Linda Mason (Wood's paralegal)
+
+companies:
+ 

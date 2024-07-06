@@ -1,0 +1,48 @@
+Here is the summary in YAML format:
+
+```
+Case Number: 23STCV24593
+Hearing Date: January 23, 2024
+Dept: 85
+Plaintiff: Kevin Coronado
+Defendant: Yireh Holdings and Marvin Rodriguez
+
+People-Names:
+  - Kevin Coronado
+  - Marvin Rodriguez
+
+Company-Names:
+  - Yireh Holdings
+  - Fidelity National Title Insurance Company
+  - First American Title
+
+Places:
+  - Los Angeles
+  - Barstow
+  - Victorville
+  - Pico Rivera
+
+Dates:
+  - October 10, 2023
+  - December 1, 2021
+  - January 17, 2020
+  - May 2023
+  - October 2023
+  - November 14, 2021
+  - December 21, 2021
+  - January 5, 2024
+
+Events:
+  - Loan agreements
+  - Property sales
+  - Default notices
+
+Money:
+  - $180,000 (principal amount of the December 2021 Note)
+  - $33,000 (interest owed under the December 2021 Note)
+  - $3,300 (unpaid late fees)
+  - $435 (estimated costs)
+  - $225,000 (sale price of the Gambier Property)
+
+Intentions:
+  - To recover on the

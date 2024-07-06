@@ -1,0 +1,67 @@
+Here is a summary of the judge's tentative ruling in YAML format:
+
+```
+case_number: 19STCP01039
+plaintiff_name: Arden Silverman dba Capital Asset Protection
+defendant_name: Mahaffey Law Group, P.C.
+people_names:
+  - Yvonne B. Burke (arbitrator)
+  - Mark Wald (witness)
+company_names:
+  - Strategic Business Services, LLC
+  - SBS
+places:
+  - Los Angeles County
+  - Spring Street Courthouse
+dates:
+  - February 7, 2019 (award issued)
+  - March 25, 2019 (SBS assigned rights to award)
+  - April 2, 2019 (Petition to Confirm Arbitration Award filed)
+  - May 2, 2019 (Respondent's Motion to Vacate Arbitration Award filed)
+  - June 7, 2019 (Substitution of Attorney filed)
+  - June 27, 2019 (Opposition to Motion to Vacate Arbitration Award filed)
+  - October 8, 2019 (Court continued hearing on Petition and Motion to Vacate)
+  - October 18, 2023 (Fourth Petition to Confirm Arbitration Award filed)
+  - December 11, 2023 (Court continued hearing on Petition)
+events:
+  - Arbitration award issued
+  - Petition to Confirm Arbitration Award filed
+  - Motion to Vacate Arbitration Award filed
+  - Opposition to Motion to Vacate Arbitration Award filed
+  - Substitution of Attorney filed
+  - Fourth Petition to Confirm Arbitration Award filed
+money:
+  - $2,233 (award amount)
+  - $400 (attorney's fees and costs)
+intentions:
+  - Petitioner seeks to confirm arbitration award
+  - Respondent seeks to vacate arbitration award
+facts:
+  - Arbitration award was issued on February 7, 2019
+  - Petitioner is assignee of SBS
+  - Respondent is Mahaffey Law Group, P.C.
+disputes:
+  - Timeliness of petition to confirm arbitration award
+  - Proper service of arbitration award
+  - Applicability of Code of Civil Procedure sections 1283.6, 1288, and 1288.4
+acts:
+  - Petitioner filed Petition to Confirm Arbitration Award
+  - Respondent filed Motion to Vacate Arbitration Award
+  - Petitioner filed Opposition to Motion to Vacate Arbitration Award
+  - Respondent filed Reply to Opposition
+laws:
+  - California Code of Civil Procedure sections 1283.6, 1285, 1285.2, 1285.4, 1285.8, 1286.4, 1286.8, 1288, 1288.2, 1288.4
+  - California Rules of Court rule 3.1300, 3.300(a), 3.825(b)(1)
+statutes:
+  - California Code of Civil Procedure sections 1283.6, 1285, 1285.2, 1285.4, 1285.8, 1286.4, 1286.8, 1288, 1288.2, 1288.4
+roles:
+  - Petitioner: Arden Silverman dba Capital Asset Protection
+  - Respondent: Mahaffey Law Group, P.C.
+significant_statements:
+  - The Petition to Confirm Arbitration Award is denied due to lack of proper service of the arbitration award.
+  - The Court will not consider Respondent's arguments as they are not properly grounded in Code of Civil Procedure sections 1285.2 and 1285.8.
+```
+
+And here is a summary of the judge's tentative ruling in English text:
+
+The Petition to Confirm Arbitration Award filed by Petitioner Arden Silverman dba Capital Asset Protection is denied. The Court finds that the Petition is not timely filed, as the award was served more than 10 days prior to the filing of the Petition. Additionally, the Court notes that the Petitioner failed to provide sufficient proof of service of the arbitration award. The Court also finds that Respondent's response to the Petition is untimely and fails to provide proper grounds for challenging the award. Therefore, the Petition is denied.

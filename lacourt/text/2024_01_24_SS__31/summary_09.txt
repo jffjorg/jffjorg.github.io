@@ -1,0 +1,76 @@
+Here is a summary of the judge's tentative ruling in YAML format:
+
+```yaml
+Case Number: 22STCV21911
+Plaintiff's Name: Christine Kang
+Defendant's Name: Maxwell Cheng
+People-Names:
+  - Christine Kang
+  - Yung Soo Kang
+  - Lisa Sakamoto
+  - Al Oca
+  - Steve Mazza
+  - Brian Toppila
+  - Alina S. Vulic
+Company-Names:
+  - Interinsurance Exchange of the Automobile Club
+Places:
+  - Los Angeles
+Dates:
+  - June 10, 2022
+  - July 7, 2022
+  - July 25, 2022
+  - August 3, 2022
+  - August 4, 2022
+  - August 5, 2022
+  - January 24, 2024
+Events:
+  - Automobile v. pedestrian collision
+  - Policy limit demand letter
+  - Acceptance of policy limit demand letter
+  - Settlement draft
+  - Letter stating July 25, 2022 demand was issued in error
+Money:
+  - $100,000 (policy limit)
+Intentions:
+  - To settle the case for the policy limit
+Facts:
+  - Defendant moved for summary judgment, arguing that the parties entered into an enforceable settlement agreement to settle their claims for the policy limit.
+  - Plaintiffs opposed the motion, arguing that they did not authorize their counsel to settle for the policy limit.
+  - Defendant did not attach evidence of a settlement agreement signed by the parties.
+Disputes:
+  - Whether the parties entered into an enforceable settlement agreement
+  - Whether Plaintiffs authorized their counsel to settle for the policy limit
+Acts:
+  - Defendant's counsel accepted the policy limit demand letter
+  - Plaintiffs' counsel sent a letter stating the July 25, 2022 demand was issued in error
+Agreements:
+  - Policy limit demand letter
+  - Acceptance of policy limit demand letter
+Laws:
+  - CCP § 664.6
+  - CCP § 437c
+  - Evidence Code § 452(d)
+  - Code Civil Procedure section 664.6
+  - Code of Civil Procedure section 437c
+  - Civil Code section 1657
+Statutes:
+  - CCP § 664.6
+  - CCP § 437c
+Roles:
+  - Defendant (Maxwell Cheng)
+  - Plaintiff (Christine Kang)
+  - Plaintiff's counsel
+  - Defendant's counsel
+  - Court (Hon. Michelle C. Kim)
+Significant Statements:
+  - The Court is unable to find that Plaintiffs expressly consented to settle for the policy limit.
+  - Defendant has not met his burden establishing that a valid and enforceable contract was formed.
+  - There remains issues of material fact as to whether Plaintiffs authorized their counsel to settle when tender of the same policy limit by Exchange was previously rejected.
+  - The Court may not enforce a settlement under Section 664.6 where there is no "writing signed by the parties".
+  - The term "parties" under section 664.6 means the litigants themselves, not their attorneys.
+```
+
+And here is a summary of the judge's tentative ruling in English text:
+
+The Court has denied Defendant's motion for summary judgment, or in the alternative, to enforce a settlement agreement under CCP § 664.6. The Court found that Defendant has not met its burden of showing that a valid and enforceable contract was formed between the parties. Even if Defendant had met its burden, the Court would have found that there are issues of material fact as to whether Plaintiffs authorized their counsel to settle when tender of the same policy limit by Exchange was previously rejected. The Court also found that there is no evidence of a writing signed by the parties to enforce a settlement agreement under CCP § 664.6.

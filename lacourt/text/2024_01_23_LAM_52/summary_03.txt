@@ -1,0 +1,73 @@
+Here is the summary in YAML format:
+
+```
+case_number: 23STCV22893
+hearing_date: January 23, 2024
+dept: 52
+plaintiff:
+  name: FirstService Residential California, LLC
+  company: true
+defendant:
+  name: Dawn Suskin
+  company: false
+people:
+  - Dawn Suskin
+  - FirstService Residential California, LLC
+  - Seabreeze
+companies:
+  - FirstService Residential California, LLC
+  - Seabreeze
+places:
+  - Playa Vista
+dates:
+  - 2003
+  - 2010
+  - 2011
+  - 2013
+events:
+  - Injunctive relief
+  - Punitive damages
+money:
+  - None mentioned
+intentions:
+  - To harm FirstService
+  - To aid Seabreeze
+  - To cause irreparable injuries
+facts:
+  - Dawn Suskin shared FirstService's proprietary documentation
+  - Dawn Suskin obtained confidential information
+  - Dawn Suskin used confidential information to aid Seabreeze
+  - Dawn Suskin solicited FirstService's former employees
+  - Dawn Suskin disparaged FirstService
+disputes:
+  - Suskin's motion to strike portions of the first amended complaint
+acts:
+  - Sharing proprietary documentation
+  - Obtaining confidential information
+  - Using confidential information to aid Seabreeze
+  - Soliciting former employees
+  - Disparaging FirstService
+agreements:
+  - None mentioned
+laws:
+  - Code Civ. Proc., § 431.10, subd. (b)(3)
+  - Intel Corp. v. Hamidi (2003)
+  - Angelica Textile Services, Inc. v. Park (2013)
+  - Courtesy Temporary Service, Inc. v. Camacho (1990)
+  - Civil Code, § 3294(c)(1)
+  - Civ. Code, § 3294
+  - Gomes v. Countrywide Home Loans, Inc. (2011)
+  - Turman v. Turning Point of Central California, Inc. (2010)
+roles:
+  - Judge
+  - Plaintiff
+  - Defendant
+significant_statements:
+  - The first amended complaint alleges sufficient facts to obtain injunctive relief
+  - The court must accept as true the allegations showing defendant intended to cause injury to plaintiff
+  - The factual allegations constitute malicious conduct intended to cause injury to the plaintiff
+```
+
+And here is a summary of the judge's tentative ruling in English text:
+
+The defendant, Dawn Suskin, moves to strike portions of the plaintiff, FirstService Residential California, LLC's, first amended complaint. Suskin argues that the plaintiff's allegations regarding injunctive relief and punitive damages are improper. However, the court finds that the plaintiff has adequately alleged sufficient facts to obtain injunctive relief, including that Suskin shared FirstService's proprietary documentation and used confidential information to aid Seabreeze. The court also finds that the plaintiff has sufficiently alleged facts to constitute malice, including that Suskin intentionally caused injury to FirstService. Therefore, the defendant's motion to strike is denied, and the defendant is ordered to answer the first amended complaint within 20 days.

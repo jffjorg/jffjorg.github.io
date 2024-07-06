@@ -1,0 +1,54 @@
+Here is the summary in YAML format:
+```
+case_number: 23STCV08524
+plaintiff_name: Kyung Yoon Pak
+defendant_name: Ock J. Kim
+people_names:
+  - Kyung Yoon Pak
+  - Ock J. Kim
+company_names: []
+places: []
+dates:
+  - December 15, 2023
+  - January 24, 2024
+  - January 29, 2024
+events:
+  - Motion to compel responses to form interrogatories
+  - Demurrer without leave to amend
+  - Hearing date
+money: []
+intentions:
+  - Compel responses to form interrogatories
+  - Compel responses to requests for production of documents
+facts:
+  - Defendant Ock J. Kim is not the owner of the subject property
+  - Plaintiff's claims may not be asserted against Defendant Kim
+disputes:
+  - Plaintiff's entitlement to propound discovery
+acts:
+  - Sustaining Defendant Kim's demurrer without leave to amend
+  - Denying Plaintiff's motion in its entirety
+  - Advancing the hearing on Plaintiff's motion to compel responses
+    to requests for production of documents
+agreements: []
+laws:
+  - Code Civ. Proc. § 2030.010 (only parties may be served with
+    interrogatories)
+  - Code Civ. Proc. § 2030.010 (only parties may be served with
+    demands for production of documents under this Code provision)
+case_citations: []
+statutes: []
+roles:
+  - Plaintiff: Kyung Yoon Pak
+  - Defendant: Ock J. Kim
+  - Court: Before the Court is the motion to compel responses
+    to form interrogatories brought against Defendant Ock J. Kim
+significant_statements:
+  - Because Plaintiff is not entitled to propound discovery to a non-party,
+    the Court denies Plaintiff's motion in its entirety.
+  - The Court advances the hearing on Plaintiff's motion to compel
+    responses to requests for production of documents, set for January 29, 2024.
+```
+And here is the summary in English text:
+
+The Court is considering a motion to compel responses to form interrogatories brought by Plaintiff Kyung Yoon Pak against Defendant Ock J. Kim. The Court previously sustained Defendant Kim's demurrer without leave to amend, finding that Kim is not the owner of the subject property and therefore not a proper party against whom Plaintiff's claims may be asserted. As a result, the Court denies Plaintiff's motion in its entirety, as Plaintiff is not entitled to propound discovery to a non-party. The Court also advances the hearing on Plaintiff's motion to compel responses to requests for production of documents, set for January 29, 2024, for the same reason.

@@ -1,0 +1,70 @@
+Here is the summary in YAML format:
+
+```
+case_number: 19STCV23612
+hearing_date: 2024-01-24
+department: 55
+
+people:
+  - Lorenzo
+  - Randle
+  - Los Morales
+
+companies:
+  - Calex Engineering, Inc.
+
+places:
+  - Court of Appeal
+
+dates:
+  - 2024-01-24
+  - 2025-01-22
+
+events:
+  - Plaintiffs' Motion for an Order Staying Proceedings
+  - Appeal in Lorenzo v. Calex Engineering, Inc. et al.
+  - Status conference re: appeal and status of stay
+
+money: None
+
+intentions:
+  - Plaintiffs: seeking to stay proceedings pending appeal
+  - Court: agrees to grant stay
+
+facts:
+  - Remaining claims and defenses at issue in the case are embraced by the judgment appealed from in the Lorenzo case
+  - Stipulation of non-opposition to the stay was filed by some parties, but not all
+
+disputes:
+  - None
+
+acts:
+  - Plaintiffs filed a motion requesting a stay
+  - Court grants the motion for a stay
+
+agreements:
+  - Stipulation of non-opposition to the stay (not signed by all parties)
+  - Joint status report to be submitted by parties 5 calendar days before status conference
+
+laws:
+  - Court of Appeal Case No. B331177
+  - Appellate procedure
+
+case_citations:
+  - Lorenzo v. Calex Engineering, Inc. et al., Court of Appeal Case No. B331177
+
+statutes: None
+
+roles:
+  - Judge: issuing tentative ruling on stay of proceedings
+  - Plaintiffs: seeking to stay proceedings pending appeal
+  - Defendants: responding to motion for stay
+
+significant_statements:
+  - The Court agrees that a stay in this action is appropriate.
+  - The parties shall submit a joint status report 5 calendar days before the status conference informing the Court of the status of the appeal and the parties' positions on the stay of this action.
+```
+
+And here is a summary of the judge's tentative ruling in English text:
+
+The judge has issued a tentative ruling granting a stay of proceedings in this case pending the completion of the appeal in Lorenzo v. Calex Engineering, Inc. et al. The judge agrees that a stay is necessary because the remaining claims and defenses at issue in the case are affected by the judgment appealed from in the Lorenzo case. The judge notes that a stipulation of non-opposition to the stay was filed by some parties, but not all, but finds good cause to grant the motion for a stay anyway. A status conference is set for January 22, 2025, to discuss the appeal and the status of the stay. The parties are required to submit a joint status report 5 calendar days before the status conference.

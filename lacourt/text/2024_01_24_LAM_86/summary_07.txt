@@ -1,0 +1,97 @@
+Here is the summary in YAML format:
+
+```
+case_number: "22STCV33196"
+hearing_date: "January 24, 2024"
+dept: "86"
+plaintiff: "Access Road Capital, LLC"
+defendant: "Jonathan M. Kramer"
+people_names:
+  - Idan Shani
+  - Kramer
+  - Rive Gauche Television
+  - Aftershock Comics, LLC
+company_names:
+  - Access Road Capital, LLC
+  - Rive Gauche Television
+  - Aftershock Comics, LLC
+  - East West Bank
+places:
+  - Santa Monica
+dates:
+  - March 26, 2020
+  - March 23, 2020
+  - October 15, 2021
+  - December 19, 2023
+  - January 26, 2023
+  - May 5, 2022
+  - May 4, 2023
+events:
+  - Credit and Security Agreement
+  - Guaranty
+  - Bankruptcy filing
+  - Default on loan
+  - Attachment application
+money:
+  - $8,000,000
+  - $11,090,000
+  - $15,964,182
+  - $2,392,000
+  - $500
+  - $10 million
+intention:
+  - Grant writ of attachment
+facts:
+  - Plaintiff is seeking a writ of attachment against Defendant for breach of guaranty
+  - Defendant executed a guaranty for $8 million
+  - Borrowers defaulted on the loan
+  - Plaintiff has shown a probably valid claim against Defendant
+disputes:
+  - Defendant disputes the evidence submitted by Plaintiff
+  - Defendant claims the pledged assets have a value of $10 million
+acts:
+  - Plaintiff submitted a declaration and exhibits to support its claim
+  - Defendant filed an opposition and claimed a homestead exemption for the Residence
+agreements:
+  - Credit and Security Agreement
+  - Guaranty
+laws:
+  - Code of Civil Procedure section 484.010
+  - Code of Civil Procedure section 484.090
+  - Code of Civil Procedure section 482.040
+  - Code of Civil Procedure section 483.010
+  - Code of Civil Procedure section 487.010
+  - Code of Civil Procedure section 489.210
+  - Code of Civil Procedure section 489.220
+  - Code of Civil Procedure section 484.060
+  - Code of Civil Procedure section 484.070
+statutes:
+  - California Civil Code section 481.190
+  - California Civil Code section 484.030
+  - California Civil Code section 483.015
+case_citations:
+  - Hobbs v. Weiss (1999)
+  - Epstein v. Abrams (1997)
+  - Randone v. Appellate Department (1971)
+  - United Central Bank v. Superior Court (2009)
+  - Bank of America, N.A. v. Stonehaven Manor, LLC (2010)
+roles:
+  - Judge: Mitchell Beckloff
+  - Plaintiff: Access Road Capital, LLC
+  - Defendant: Jonathan M. Kramer
+  - Chief Operating Officer: Idan Shani
+significant_statements:
+  - The court grants the application for writ of attachment in the amount of $8 million.
+  - The claim of exemption for the Residence is granted, limiting the writ of attachment to $1,122,692.
+  - The Plaintiff is required to post an undertaking of $10,000.
+```
+
+And here is a summary of the judge's tentative ruling in English text:
+
+The court grants the application for a writ of attachment against defendant Jonathan M. Kramer in the amount of $8 million. The writ of attachment is based on a guaranty agreement executed by Kramer for $8 million, which is not secured by any collateral. The court finds that plaintiff Access Road Capital, LLC has shown a probably valid claim against Kramer for breach of the guaranty agreement.
+
+The court also grants the defendant's claim of exemption for the residence, limiting the writ of attachment to $1,122,692. The defendant had claimed a homestead exemption for the residence, which the court finds is valid.
+
+The court requires the plaintiff to post an undertaking of $10,000 before the writ of attachment is issued. The plaintiff is seeking a writ of attachment against the defendant's property, including the residence, which has a current market value of $4.6 million.
+
+The court notes that the plaintiff's application for a writ of attachment is based on a guaranty agreement, which is a separate and independent obligation from the primary loan. The court finds that the guaranty agreement is unsecured and that the plaintiff is entitled to attach the defendant's property, including the residence, up to the amount of the guaranty.

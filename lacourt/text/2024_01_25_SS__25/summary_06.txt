@@ -1,0 +1,82 @@
+Here is the summary of the judge's tentative ruling in YAML format:
+
+```
+case_number: XX-XXXXXXX
+plaintiff_name: Creditors Adjustment Bureau, Inc.
+defendant_name: Crow Design Build Inc.
+people_names:
+  - John Carney
+  - Sylvia Carney
+  - Kenneth J. Freed
+company_names:
+  - Creditors Adjustment Bureau, Inc.
+  - Crow Design Build Inc.
+places:
+  - Monrovia, CA
+  - California
+dates:
+  - June 22, 2023
+  - September 08, 2023
+  - October 06, 2023
+  - December 06, 2023
+  - July 18, 2023
+events:
+  - Breach of Contract
+  - Open Book Account
+  - Account Stated
+  - Reasonable Value
+  - Service of Summons and Complaint
+  - Default Judgment
+  - Motion to Set Aside/Vacate Default and Default Judgment
+money:
+  - $21,596.65
+intentions:
+  - To set aside/vacate default and default judgment
+facts:
+  - Defendant received service of Summons and Complaint at 433 Todd Ln, Monrovia, CA, 91016
+  - Defendant did not respond to the complaint within the time allowed
+  - Defendant filed a motion to set aside/vacate default and default judgment
+disputes:
+  - Whether service of Summons and Complaint was proper
+  - Whether Defendant had actual notice of the action
+acts:
+  - Service of Summons and Complaint
+  - Filing of motion to set aside/vacate default and default judgment
+agreements:
+  - Code of Civil Procedure, section 473
+  - Code of Civil Procedure, section 473.5
+  - Code of Civil Procedure, section 416.10(b)
+laws:
+  - California Code of Civil Procedure
+  - California Corporations Code
+case_citations:
+  - Weitz v. Yankosky (1966) 63 Cal.2d 849, 854-855
+  - English v. IKON Business Solutions (2001) 94 Cal.App.4th 130, 143
+  - McClain v. Kissler (2019) 39 Cal.App.5th 399, 414-415
+  - Hearn v. Howard (2009) 177 Cal.App.4th 1193, 1206
+  - Pulte Homes Corp. v. Williams Mechanical, Inc. (2016) 2 CA5th 267, 273
+statutes:
+  - California Code of Civil Procedure, section 473
+  - California Code of Civil Procedure, section 473.5
+  - California Code of Civil Procedure, section 416.10(b)
+roles:
+  - Judge
+  - Plaintiff
+  - Defendant
+  - Process Server
+  - Agent for Service
+  - CEO
+  - Chief Executive Officer
+  - Secretary of State
+  - Contractors State License Board
+significant_statements:
+  - The Court finds that service was proper in this case.
+  - The Court notes that the motion is timely.
+  - The Court finds that Defendant would not be entitled to mandatory relief as Defendant does not provide an attorney affidavit of fault.
+  - The Court does not find that neither argument supports finding Defendant's neglect to be excusable.
+  - The Court agrees with Plaintiff in that 473(b) motions should not be considered a get-out-of-jail-free card for parties who later come to regret past inaction or sitting on their rights.
+```
+
+And here is a summary of the judge's tentative ruling in English:
+
+The judge has issued a tentative ruling denying the defendant's motion to set aside or vacate the default and default judgment. The defendant, Crow Design Build Inc., claimed that the service of summons and complaint was defective and that they did not have actual notice of the action. However, the judge found that the service was proper and that the defendant had actual notice of the action. The judge also found that the defendant's neglect in not responding to the complaint within the time allowed was not excusable and that the defendant did not meet their burden to show that the default was due to mistake, inadvertence, surprise, or neglect. Therefore, the judge denied the defendant's motion.

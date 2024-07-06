@@ -1,0 +1,69 @@
+Here is the summary in YAML format:
+
+```
+case_number: 22STCV33901
+plaintiff_names:
+  - Elena Ayala
+  - Jose Ayala
+defendant_names:
+  - FCA US LLC
+people_names:
+  - Elena Ayala
+  - Jose Ayala
+  - Thomas D. Long
+company_names:
+  - FCA US LLC
+places:
+  - Los Angeles
+  - California
+dates:
+  - October 19, 2022
+  - August 24, 2023
+  - December 18, 2023
+  - January 19, 2024
+  - January 25, 2024
+  - January 25, 2025
+events:
+  - Vehicle purchase
+  - Defective vehicle
+  - Motion to compel further responses
+  - Failure to provide further responses
+  - Motion for sanctions
+money:
+  - $2,235.00
+intentions:
+  - Plaintiff seeks monetary sanctions
+facts:
+  - Defendant failed to provide further responses
+  - Defendant failed to comply with court order
+  - Plaintiff filed motion for sanctions
+disputes:
+  - Defendant's failure to comply with court order
+acts:
+  - Plaintiff filed motion for sanctions
+  - Defendant filed late opposition
+  - Defendant produced documents
+agreements:
+  - Defendant agrees to grant motion
+laws:
+  - California Rules of Court, rule 2.30
+  - Code Civ. Proc., § 2031.320, subd. (c)
+case_citations:
+  - California Rules of Court, rule 2.30
+  - Code Civ. Proc., § 2031.320, subd. (c)
+statutes:
+  - California Rules of Court, rule 2.30
+  - Code Civ. Proc., § 2031.320, subd. (c)
+roles:
+  - Judge: Hon. Thomas D. Long
+  - Plaintiff: Elena Ayala and Jose Ayala
+  - Defendant: FCA US LLC
+significant_statements:
+  - Defendant failed to comply with court order
+  - Plaintiff seeks monetary sanctions of $2,235.00
+  - Motion is granted and defendant's counsel is ordered to pay sanctions
+```
+
+Here is the English text summarizing the judge's tentative ruling:
+
+The judge has granted the plaintiff's motion for sanctions against the defendant, FCA US LLC, in the amount of $2,235.00. The defendant failed to comply with the court's order to provide further responses and documents, and as a result, the plaintiff filed a motion for sanctions. The defendant filed a late opposition, but agreed that the motion should be granted and asked for the monetary sanctions to be reduced. The judge ordered the defendant's counsel to pay the sanctions within 30 days.

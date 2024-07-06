@@ -1,0 +1,78 @@
+Here is the summary in YAML format:
+
+```
+case_number: 21STCV29970
+plaintiff_name: JOEY RESTAURANT (LOS ANGELES), INC.
+defendant_names:
+  - MARRIOTT INTERNATIONAL, INC.
+  - SHERATON LICENSE OPERATING COMPANY, LLC (Doe 1)
+  - UCLA HEALTH AUXILIARY
+people_names:
+  - Joey
+  - Marriott
+  - Sheraton
+  - UCLA Health Auxiliary
+company_names:
+  - JOEY RESTAURANT (LOS ANGELES), INC.
+  - MARRIOTT INTERNATIONAL, INC.
+  - SHERATON LICENSE OPERATING COMPANY, LLC
+places:
+  - Los Angeles
+  - California
+dates:
+  - February 28, 2022
+  - January 26, 2024
+  - December 28, 2023
+  - October 18, 2021
+events:
+  - Default judgment
+  - Order to Show Cause
+  - Good faith settlement
+  - Entry of default
+money:
+  - Amount paid in settlement
+  - Liability
+intentions:
+  - Obtain a default judgment
+  - File a motion for good faith settlement
+facts:
+  - Plaintiff secured entry of default against UCLA Health Auxiliary
+  - Plaintiff has not filed a default judgment package
+  - The only non-settling defendant is UCLA Health Auxiliary
+disputes:
+  - Good faith settlement
+acts:
+  - Request for entry of default
+  - Filing of a default judgment package
+  - Filing of a motion for good faith settlement
+agreements:
+  - Code Civ. Proc., § 877.6, subd. (a)(1)
+laws:
+  - Cal Rules of Court, rule 3.110, subd. (h)
+  - Code Civ. Proc., § 877.6, subd. (a)(1)
+case_citations:
+  - Rios v. Singh (2021) 65 Cal.App.5th 871, 887
+  - Garcia v. Politis (2011) 192 Cal.App.4th 1474, 1479
+  - One 1986 Toyota Pickup (1995) 31 Cal.App.4th 254, 259
+  - Devlin v. Kearny Mesa AMC/Jeep/Renault, Inc. (1984) 155 Cal.App.3d 381, 385-386
+  - Todd v. Everett (1966) 247 Cal.App.2d 209, 212
+  - Tech-Bilt, Inc. v. Woodward-Clyde & Assocs. (1985) 38 Cal.3d 488, 499-500
+roles:
+  - Plaintiff
+  - Defendant
+  - Judge
+significant_statements:
+  - The Court will continue the Order to Show Cause Re Default Judgment.
+  - The Court grants the unopposed motion for determination of good faith settlement.
+  - The Court determines that at least five of the factors listed in Tech-Bilt, Inc. v. Woodward-Clyde & Assocs. favor the settlement.
+```
+
+And here is a summary of the judge's tentative ruling in English text:
+
+The judge has reviewed the record and has made the following tentative ruling. The Order to Show Cause Re Default Judgment will be continued. The plaintiff has secured entry of default against UCLA Health Auxiliary, but has not filed a default judgment package. The judge reminds the plaintiff that they must obtain a default judgment against the defaulting party within 45 days after the default was entered.
+
+The judge has also granted the unopposed motion for determination of good faith settlement filed by Defendant Doe 1, Sheraton License Operating Company, LLC. The motion was brought pursuant to Code Civ. Proc., § 877.6, subd. (a)(1), which requires notice to all joint tortfeasors and the opportunity to be heard. However, since UCLA Health Auxiliary is in default, it was not served and could not have opposed the motion.
+
+The judge determines that at least five of the factors listed in Tech-Bilt, Inc. v. Woodward-Clyde & Assocs. favor the settlement, including a rough approximation of the parties' recovery and liability, the amount paid in settlement, the allocation of proceeds among a single plaintiff, recognition that Marriott is paying less in settlement than it would if it were found liable after a trial, and the lack of collusion, fraud, and tortious conduct aimed to injure the interests of the non-settling defendants.
+
+Accordingly, the judge will grant the motion for determination of good faith settlement and sign the proposed order lodged with the Court.

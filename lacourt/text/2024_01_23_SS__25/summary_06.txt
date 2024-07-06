@@ -1,0 +1,81 @@
+Here is the summary in YAML format:
+
+```
+case_number: 2020-000123
+plaintiff_name: State Farm Mutual Automobile Insurance Company
+defendant_name: Grace Villegas
+people_names:
+  - Grace Villegas
+  - Christofe Arnaud
+  - Bluela Carsharing LLC
+company_names:
+  - State Farm Mutual Automobile Insurance Company
+  - Blue La Car Sharing
+  - Bluela Carsharing LLC
+places:
+  - 
+dates:
+  - November 10, 2020
+  - June 23, 2021
+  - June 25, 2021
+  - August 10, 2021
+  - October 19, 2021
+  - December 23, 2021
+  - November 03, 2022
+  - December 13, 2022
+  - January 13, 2023
+  - January 24, 2023
+  - November 27, 2023
+events:
+  - Automobile collision
+  - Subrogation action
+  - Amended complaint
+  - Request for dismissal
+  - Default judgment
+  - Settlement agreement
+  - Motion to set aside dismissal and enter judgment
+money:
+  - $6,168.92
+  - $4,935.14
+  - $500.00
+  - $100.00
+  - $386.60
+  - $5,321.74
+intentions:
+  - To recover damages for an automobile collision
+  - To enforce a settlement agreement
+facts:
+  - Plaintiff filed an action against defendants for subrogation
+  - Defendants defaulted on payments under a settlement agreement
+  - Plaintiff sought to set aside dismissal and enter judgment
+disputes:
+  - Breach of settlement agreement
+  - Failure to make payments
+acts:
+  - Plaintiff filed a motion to set aside dismissal and enter judgment
+  - Defendant failed to make payments under a settlement agreement
+agreements:
+  - Settlement agreement between parties
+  - Stipulation for dismissal and retention of jurisdiction
+laws:
+  - California Code of Civil Procedure section 664.6
+  - California Code of Civil Procedure section 12c
+  - California Code of Civil Procedure section 1005(b)
+case_citations:
+  - Code Civ. Proc., § 664.6
+  - Code Civ. Proc., § 12c
+  - Code Civ. Proc., § 1005(b)
+statutes:
+  - California Code of Civil Procedure
+roles:
+  - Plaintiff: State Farm Mutual Automobile Insurance Company
+  - Defendant: Grace Villegas
+  - Judge: [Judge's name]
+significant_statements:
+  - The court finds that the settlement agreement is valid and enforceable under CCP § 664.6.
+  - The court grants the motion to set aside dismissal and enter judgment.
+```
+
+And here is the English text to summarize the judge's tentative ruling:
+
+The Court grants the Plaintiff's motion to set aside the dismissal and enter judgment against Defendant Villegas in the amount of $5,321.74. The Plaintiff filed an action against the defendants for subrogation stemming from an automobile collision. The parties entered into a settlement agreement, which provided for the payment of $4,935.14 by Defendant Villegas in installments. However, Defendant Villegas failed to make the payments as agreed, resulting in a breach of the settlement agreement. The Plaintiff sent a default letter to Defendant Villegas, but Defendant Villegas failed to cure the default. As a result, the Plaintiff is entitled to an entry of judgment against Defendant Villegas. The Court finds that the settlement agreement is valid and enforceable under CCP § 664.6, and grants the Plaintiff's motion to set aside the dismissal and enter judgment.

@@ -1,0 +1,83 @@
+Here is the summary in YAML format:
+
+```
+case_number: 2022-001234
+plaintiff_name: State Farm Mutual Automobile Insurance Company
+defendant_name: Manuel Barra aka Manuel Barra Jr.
+people_names:
+  - Manuel Barra aka Manuel Barra Jr.
+  - Jon E. Hellesen
+company_names:
+  - State Farm Mutual Automobile Insurance Company
+places:
+  - Spring Street Courthouse
+dates:
+  - March 18, 2022
+  - November 22, 2022
+  - March 29, 2023
+  - May 24, 2023
+  - August 07, 2023
+  - August 21, 2023
+  - December 15, 2023
+  - January 10, 2024
+  - January 12, 2024
+  - October 29, 2024
+events:
+  - Automobile accident
+  - Filing of complaint
+  - Filing of answer
+  - Motion to deem requests for admission admitted
+  - Motion for judgment on the pleadings
+  - Granting of motion for judgment on the pleadings
+  - Entry of judgment
+  - Filing of motion to vacate judgment
+  - Granting of motion for relief from deemed admissions
+money:
+  - $20,912.23
+  - $23,455.30
+intentions:
+  - Subrogation
+  - Seeking relief from judgment
+facts:
+  - Defendant's former attorney left the firm, leading to mistakes and neglect
+  - Defendant's counsel attempted to meet and confer with plaintiff's counsel
+  - Plaintiff compensated insured for claimed damages
+disputes:
+  - Dispute over deemed admissions
+  - Dispute over judgment
+acts:
+  - Filing of motion to vacate judgment
+  - Filing of motion for relief from deemed admissions
+agreements:
+  - Code of Civil Procedure § 473(b)
+  - Code of Civil Procedure § 2033.300
+  - Code of Civil Procedure § 128(a)(8)
+laws:
+  - California Code of Civil Procedure
+  - California Rules of Court
+case_citations:
+  - Rappleyea v. Campbell (1994) 8 Cal. 4th 975
+  - Deymer v. Costa Mesa Mobile Home Estates (1995) 36 Cal.App.4th 393
+  - Brigante v. Huang (1993) 20 Cal.App.4th 1569
+  - Huh v. Wang (2007) 158 Cal.App.4th 1406
+  - Olivera v. Grace, 122 P.2d 564
+  - Stiles v. Wallis (1983) 147 Cal.App.3d 1143
+  - County of San Diego v. Gorham (2010) 186 Cal.App.4th 1215
+  - R.C. 3.1300
+  - CCP § 1013
+  - CCP § 1013a
+  - CCP § 12c
+  - CCP § 1005(b)
+roles:
+  - Judge: [judge's name]
+  - Plaintiff: State Farm Mutual Automobile Insurance Company
+  - Defendant: Manuel Barra aka Manuel Barra Jr.
+  - Counsel: Jon E. Hellesen
+significant_statements:
+  - The Court grants Defendant's Motion to Be Relieved from Deemed Admissions.
+  - The Court grants Defendant's Motion to Vacate Judgment.
+```
+
+And here is a summary in English text:
+
+The Judge has issued a tentative ruling in a case involving a subrogation claim by State Farm Mutual Automobile Insurance Company against Manuel Barra aka Manuel Barra Jr. The case involves an automobile accident and a dispute over deemed admissions. The Defendant filed a motion to vacate judgment and for relief from deemed admissions, claiming that his former attorney's departure from the firm led to mistakes and neglect. The Court finds that the Defendant has demonstrated a meritorious case and has satisfied the three elements to set aside default judgment based on equitable grounds of extrinsic mistake. The Court grants the Defendant's motion to vacate judgment and for relief from deemed admissions, and resets the jury trial date for October 29, 2024.

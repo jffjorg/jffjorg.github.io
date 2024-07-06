@@ -1,0 +1,82 @@
+Here is the summary in YAML format:
+
+```
+case_number: 21STCV13210
+hearing_date: January 22, 2024
+dept: 32
+plaintiffs: 3D Clean, LLC, MediClean Linen & Laundry, Inc.
+defendant: Emerald Los Angeles, LLC
+people_names:
+  - PMQ
+  - Schaus
+  - Knudsen
+  - Maldonado
+company_names:
+  - 3D Clean, LLC
+  - MediClean Linen & Laundry, Inc.
+  - Emerald Los Angeles, LLC
+places:
+  - Los Angeles
+dates:
+  - April 7, 2021
+  - December 22, 2023
+  - January 8, 2024
+  - May 2, 2023
+  - June 9, 2023
+  - June 19, 2023
+  - July 14, 2023
+  - July 18, 2023
+  - July 19, 2023
+  - September 27, 2023
+events:
+  - Breach of the covenant of good faith and fair dealing
+  - Breach of contract
+  - Money due and owing
+  - Deposition notice
+  - Meet and confer
+  - Objections to deposition
+  - Production of documents
+money:
+  - None mentioned
+intentions:
+  - Plaintiffs intend to compel the deposition of the PMQ
+  - Defendant intends to designate a PMQ and produce responsive documents
+facts:
+  - Plaintiffs served the deposition notice on May 2, 2023
+  - Defendant timely served its objections on July 14, 2023
+  - Defendant produced all responsive documents in its possession
+  - Defendant conducted a further check for missed documents
+disputes:
+  - The parties have conflicting accounts of the meet and confer process
+  - Defendant argues that it has agreed to designate a PMQ and produced responsive documents
+  - Plaintiffs argue that Defendant failed to timely respond to the deposition notice and interposed belated objections
+acts:
+  - Plaintiffs served the deposition notice
+  - Defendant served its objections
+  - Defendant produced responsive documents
+  - Defendant conducted a further check for missed documents
+agreements:
+  - Defendant agreed to designate a PMQ
+laws:
+  - California Code of Civil Procedure, Section 2025.450
+  - California Code of Civil Procedure, Section 2025.410
+  - California Code of Civil Procedure, Section 2025.230
+case_citations:
+  - Maldonado v. Superior Court (2002) 94 Cal.App.4th 1390
+statutes:
+  - California Code of Civil Procedure, Section 2025.450
+  - California Code of Civil Procedure, Section 2025.410
+  - California Code of Civil Procedure, Section 2025.230
+roles:
+  - Judge
+  - Plaintiffs
+  - Defendant
+significant_statements:
+  - Defendant is obligated to produce the most knowledgeable person currently in its employ and making sure that that person has access to information and documents reasonably available within the corporation.
+  - The designated witness should make some effort to familiarize themselves with the areas of their supposed 'knowledge.'
+  - Defendant is not excused from producing a PMQ just because multiple employees may have knowledge, or because certain knowledgeable individuals no longer work for Defendant.
+```
+
+And here is a summary of the judge's tentative ruling in English text:
+
+The court has issued a tentative ruling granting the plaintiffs' motion to compel the deposition of the person most knowledgeable (PMQ) on the topics at issue. The defendant has produced all responsive documents in its possession and conducted a further check for missed documents. However, the defendant has not produced a PMQ who is adequately knowledgeable on the topics at issue. The court finds that the defendant's obligation is to produce the most knowledgeable person currently in its employ and making sure that that person has access to information and documents reasonably available within the corporation. The court also finds that the defendant is not excused from producing a PMQ just because multiple employees may have knowledge, or because certain knowledgeable individuals no longer work for the defendant. The court denies sanctions as the parties acted with substantial justification.

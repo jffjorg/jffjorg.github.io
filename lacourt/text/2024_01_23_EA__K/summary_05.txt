@@ -1,0 +1,51 @@
+Here is the summary in YAML format:
+
+```
+case_number: Not provided
+plaintiff_name: Savannah
+defendant_name: Petitioner (unnamed)
+people_names:
+  - Savannah
+  - Rosso
+  - Plaintiff's counsel
+company_names:
+  - Pomona Valley Hospital Medical Center (PVHMC)
+places:
+  - Pomona Valley Hospital Medical Center
+dates:
+  - July 1, 2021
+events:
+  - Reconstruction plastic surgery examination
+  - Medical treatment
+money: Not relevant
+intentions:
+  - To rule on the petition
+  - To address the defendant's error
+facts:
+  - Savannah's medical bills and reports were appended to the petition
+  - The defendant failed to provide Attachment 8
+  - The court reviewed the attached documents
+disputes:
+  - The defendant's error in completing the petition
+acts:
+  - The defendant's failure to provide Attachment 8
+  - The court's review of the attached documents
+agreements: None mentioned
+laws:
+  - Not specifically cited
+statutes:
+  - Not specifically cited
+roles:
+  - Judge: ruling on the petition
+  - Petitioner: filing the petition with errors
+  - Plaintiff's counsel: receiving a letter from Rosso
+  - Rosso: reporting on Savannah's examination
+  - PVHMC: providing medical treatment
+significant_statements:
+  - The court does not find the defendant's error fatal to its ruling
+  - The attached documents are sufficient to proceed with the petition
+```
+
+And here is the English-text summary:
+
+The judge has issued a tentative ruling on the petition, addressing the defendant's error in completing the petition. The defendant failed to provide Attachment 8, but appended medical bills and reports, including discharge instructions from the Pomona Valley Hospital Medical Center and a letter from Rosso reporting on Savannah's reconstructive plastic surgery examination. The judge finds that the attached documents are sufficient to proceed with the petition, and does not consider the defendant's error fatal to its ruling.

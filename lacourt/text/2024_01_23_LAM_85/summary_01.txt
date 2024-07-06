@@ -1,0 +1,63 @@
+Here is a summary of the case in YAML format:
+
+```
+Case Number: 23STCP01258
+Hearing Date: January 23, 2024
+Dept: 85
+
+People-Names:
+  - Thomas Gutierrez
+  - Michel Moore
+  - Ryan Ilagan
+  - Berger
+  - Rudolph Valadez
+  - Vivian Chester
+  - Michael Patriquin
+  - David Bluestein
+  - Kristine Salazar
+  - Allison Ashnault
+  - Robert Wu
+  - Ernest Fisco
+  - Brian Schmider
+  - Douglas Odom
+  - Leslie Rogers
+  - William Sexton
+  - Pierd Perez
+  - John Kong
+  - Robert Loya
+  - Owen Berger
+
+Company-Names:
+  - Los Angeles Police Department (LAPD)
+  - Internal Affairs Division (IA)
+  - Davis Training Facility (DTF)
+
+Places:
+  - Los Angeles
+
+Dates:
+  - September 2, 2020
+  - August 26, 2021
+  - April 27, 2023
+  - April 28, 2023
+  - January 17, 2023
+  - October 31, 2022
+  - July 29, 2021
+  - December 2020
+  - January 2021
+  - June 2021
+
+Events:
+  - Safety briefing
+  - Traffic stop testing
+  - Nighttime traffic stop
+  - Use of force test
+  - Scenario testing
+  - Mandate for writ of mandate
+
+Money:
+  - None
+
+Intentions:
+  - To determine whether the suspension of Thomas Gutierrez without pay is supported by the findings
+  - To determine whether the findings are

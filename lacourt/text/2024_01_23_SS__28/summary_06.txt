@@ -1,0 +1,72 @@
+Here is the summary in YAML format:
+
+```
+case_number: 22STCV16314
+plaintiff_name: David Aguilar
+defendant_name: New Legend Inc.
+people_names:
+  - David Aguilar
+  - Dejaun Jerel Williams
+company_names:
+  - New Legend Inc.
+places:
+  - California
+dates:
+  - May 17, 2022
+  - July 29, 2022
+  - September 28, 2023
+  - November 7, 2023
+  - January 23, 2024
+  - February 22, 2024
+  - April 16, 2024
+events:
+  - Filing of lawsuit
+  - Filing of answer
+  - Filing of motion to compel deposition
+  - Filing of motion for sanctions
+  - Failure to appear for deposition
+  - Request for sanctions
+money:
+  - $3,025.00
+  - $810.00
+intentions:
+  - To compel Plaintiff's deposition
+  - To impose sanctions on Plaintiff
+facts:
+  - Plaintiff failed to appear for two noticed depositions
+  - Plaintiff did not serve a valid objection
+  - New Legend requested sanctions based on 5.5 hours of attorney's work
+  - The Court granted the motion to compel deposition
+  - The Court awarded $810.00 in sanctions
+disputes:
+  - Failure to appear for deposition
+  - Failure to serve a valid objection
+  - Request for sanctions
+acts:
+  - Filing of lawsuit
+  - Filing of answer
+  - Filing of motion to compel deposition
+  - Filing of motion for sanctions
+agreements:
+  - None
+laws:
+  - California Code of Civil Procedure section 2025.450
+  - California Code of Civil Procedure section 2023.010
+case_citations:
+  - Code Civ. Proc., § 2025.450
+  - Code Civ. Proc., § 2023.010
+statutes:
+  - California Code of Civil Procedure
+roles:
+  - Judge
+  - Plaintiff
+  - Defendant
+  - Attorney
+significant_statements:
+  - The Court grants the motion to compel Plaintiff's deposition.
+  - The Court awards $810.00 in sanctions.
+```
+
+And here is the English text to summarize this judge's tentative ruling:
+
+The Court has considered the moving papers and rules as follows. The Plaintiff, David Aguilar, failed to appear for two noticed depositions without serving a valid objection. The Court grants the motion to compel the Plaintiff's deposition and orders the Plaintiff to attend his deposition by February 22, 2024. The Court also grants the request for sanctions and orders the Plaintiff to pay $810.00 to the Defendant, New Legend Inc., by February 22, 2024.

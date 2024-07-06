@@ -1,0 +1,46 @@
+Here is the summary in YAML format:
+```
+case_number: 22STCV33850
+plaintiff_name: Tamar Kaloustian
+defendant_name: Kehe Distributors, LLC
+people_names:
+  - David H. Kwasniewski
+  - Willis M. Wagner
+  - Kerry Bensinger
+company_names:
+  - Braunhagey & Borden LLP
+  - Arnold & Porter Kay Sholer LLP
+places: None
+dates:
+  - December 15, 2023
+  - January 17, 2024
+  - January 23, 2024
+  - April 29, 2024
+events:
+  - Motion to be Relieved as Counsel
+  - Substitution of Attorney
+money: None
+intentions: None
+facts:
+  - David H. Kwasniewski filed a Motion to be Relieved as Counsel on December 15, 2023
+  - Defendant filed a Substitution of Attorney on January 17, 2024
+disputes: None
+acts:
+  - Defendant's counsel filed a motion to be relieved
+  - Defendant filed a substitution of attorney
+agreements: None
+laws: None
+case_citations: None
+statutes: None
+roles:
+  - Judge: Kerry Bensinger
+  - Counsel: David H. Kwasniewski and Willis M. Wagner
+  - Plaintiff: Tamar Kaloustian
+  - Defendant: Kehe Distributors, LLC
+significant_statements:
+  - Mr. Kwasniewski's motion is MOOT
+  - The hearing for this motion will be taken off calendar
+```
+And here is the English text to summarize the judge's tentative ruling:
+
+The court has considered the motion filed by defendant Kehe Distributors, LLC, requesting to be relieved as counsel, and the subsequent substitution of attorney filed by the defendant on January 17, 2024. As a result, the motion to be relieved as counsel is now moot, and the hearing for this motion will be taken off calendar.

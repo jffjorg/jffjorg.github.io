@@ -1,0 +1,81 @@
+Here is the YAML summary of the tentative ruling:
+
+```
+case_number: 20STCV41059
+plaintiff: Angela Hsu
+defendant: Tsasu, LLC et al, Pichi Lin
+people: 
+  - Angela Hsu
+  - Pichi Lin
+  - Decedent (husband of Angela Hsu)
+companies: 
+  - Tsasu, LLC
+  - Hestter Investment, LLC
+  - JP Morgan Chase Bank, NA
+places: 
+  - Oceanside, California
+dates: 
+  - October 26, 2020
+  - May 2015
+  - October 2017
+  - August 2020
+  - March 4, 2021
+  - August 1, 2022
+  - February 17, 2023
+  - March 9, 2023
+  - May 8, 2023
+  - December 22, 2023
+  - January 8, 2024
+  - January 12, 2024
+  - January 22, 2024
+events: 
+  - Loan made by Decedent to Tsasu, LLC
+  - Loan made by Decedent to Hestter Investment, LLC
+  - Decedent's death
+  - Filing of cross-complaint by Tsasu, LLC and Hestter Investment, LLC
+  - Filing of First Amended Complaint by Angela Hsu
+  - Sustaining of Pichi Lin's demurrer to First Amended Complaint
+  - Filing of Second Amended Complaint by Angela Hsu
+  - Sustaining of Pichi Lin's demurrer to Second Amended Complaint
+  - Filing of motion to quash subpoena by Pichi Lin
+money: 
+  - $100,000
+  - $50,000
+intentions: 
+  - Plaintiff alleges that she wholly owns the Property without encumbrance
+  - Defendant argues that Plaintiff is responsible for the loans made to Decedent
+facts: 
+  - Decedent borrowed money from Tsasu, LLC and Hestter Investment, LLC
+  - Decedent passed away in August 2020
+  - Plaintiff alleges that Decedent and Pichi Lin made the loans together
+  - Pichi Lin denies receiving the loan funds
+disputes: 
+  - Plaintiff's claims against Tsasu, LLC and Hestter Investment, LLC
+  - Plaintiff's claims against Pichi Lin
+acts: 
+  - Loan made by Decedent to Tsasu, LLC
+  - Loan made by Decedent to Hestter Investment, LLC
+  - Decedent's death
+agreements: 
+  - None mentioned
+laws: 
+  - Code of Civil Procedure, section 1987.1
+  - Family Code, section 1100(b)
+case_citations: 
+  - Calcor Space Facility, Inc. v. Superior Court (1997) 53 Cal.App.4th 216
+  - Williams v. Superior Court (2017) 3 Cal.5th 531
+statutes: 
+  - Code of Civil Procedure, section 1987.1
+  - Family Code, section 1100(b)
+roles: 
+  - Plaintiff: Angela Hsu
+  - Defendant: Tsasu, LLC et al, Pichi Lin
+  - Judge: [Name]
+significant_statements: 
+  - The subpoena is overbroad on its face and will be limited to bank records pertaining to Account#8720579660
+  - The information is directly relevant and Plaintiff's need for the information outweighs Defendant's interest in privacy
+```
+
+And here is the English-text summary of the judge's tentative ruling:
+
+The judge is considering a motion to quash a subpoena issued by Plaintiff Angela Hsu to JP Morgan Chase Bank, NA, seeking bank records related to Account#8720579660, which is jointly held by Angela Hsu's deceased husband and the defendant Pichi Lin. The judge is granting the motion in part, limiting the subpoena to records pertaining only to Account#8720579660. The judge finds that the subpoena is overbroad and that the information sought is directly relevant to the case, but notes that Plaintiff's need for the information outweighs Defendant's interest in privacy. The judge is also denying sanctions as the parties have acted with substantial justification.

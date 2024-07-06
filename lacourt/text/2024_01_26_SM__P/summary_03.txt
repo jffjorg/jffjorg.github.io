@@ -1,0 +1,76 @@
+Here is the YAML summary of the tentative ruling:
+
+```
+case_number: 23SMCV02067
+plaintiff: Rahbar
+defendant: DW Investments, LLC, et al., Wong
+people_names:
+  - Rahbar
+  - Wong
+company_names:
+  - DW Investments, LLC
+places:
+  - Artesian Tract
+dates:
+  - January 26, 2024
+  - 1992
+  - 2014
+  - 2007
+events:
+  - Hearing
+  - Demurrer
+  - Judicial notice
+  - Deed notice
+  - Conferencing
+  - Amended complaint
+money: N/A
+intentions:
+  - Rule on demurrer
+  - Consider allegations in complaint
+  - Determine liability
+facts:
+  - Plaintiff alleges injuries due to defendants' failure to provide safe flooring
+  - Defendant Wong demurs
+  - Deed may be judicially noticed under Evid. Code § 452(c)
+disputes:
+  - Whether complaint states a cause of action
+  - Whether defendant Wong is liable for premises liability
+acts:
+  - Filing of demurrer
+  - Request for judicial notice of demurrer
+  - Request for deed notice
+  - Conferencing prior to filing demurrer
+agreements:
+  - CCP § 430.41(a)
+  - Evid. Code § 452(c)
+  - McIntyre v. Colonies-Pacific, LLC (2014)
+  - Aubry v. Tri-City Hosp. Dist. (1992)
+  - Doe v. City of Los Angeles (2007)
+laws:
+  - California Code of Civil Procedure (CCP)
+  - California Evidence Code (Evid. Code)
+  - McIntyre v. Colonies-Pacific, LLC (2014)
+  - Aubry v. Tri-City Hosp. Dist. (1992)
+  - Doe v. City of Los Angeles (2007)
+case_citations:
+  - McIntyre v. Colonies-Pacific, LLC (2014) 228 Cal.App.4th 664, 671
+  - Aubry v. Tri-City Hosp. Dist. (1992) 2 Cal.4th 962, 967
+  - Doe v. City of Los Angeles (2007) 42 Cal.4th 531, 549-550
+roles:
+  - Judge
+  - Plaintiff
+  - Defendant
+significant_statements:
+  - The complaint is insufficient to place Wong on notice of the issues and allegations against him.
+  - The deed may be judicially noticed under Evid. Code § 452(c).
+  - A defendant may be liable for premises liability even if there is no ownership interest in the premises, so long as there is control.
+  - The court may not consider declarations, matters not subject to judicial notice or documents not accepted for the truth of their contents.
+```
+
+And here is the English-text summary of the tentative ruling:
+
+The Judge's tentative ruling addresses the demurrer filed by defendant Wong to the complaint filed by plaintiff Rahbar. The complaint alleges that the defendants, DW Investments and Wong, failed to provide safe flooring, which led to Rahbar's injuries. Wong argues that the deed to the property is not in his name, but in the name of the corporate defendant DW, and that the complaint fails to state facts sufficient to constitute a cause of action.
+
+The Judge rules that the complaint is insufficient to place Wong on notice of the issues and allegations against him. The Judge also notes that the deed may be judicially noticed under California Evidence Code § 452(c) as it is a recorded document. However, the Judge concludes that the deed does not contain sufficient details to demonstrate that the plot of land described is the property at issue.
+
+The Judge sustains Wong's demurrer with 20 days leave to amend the complaint. The Judge's decision is based on the principles of California law, including the requirement that a complaint must allege facts sufficient to constitute a cause of action and that a court may not consider declarations, matters not subject to judicial notice or documents not accepted for the truth of their contents.

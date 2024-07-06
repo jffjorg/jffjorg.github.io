@@ -1,0 +1,62 @@
+Here is the summary in YAML format:
+
+```
+case_number: 22STCV34326
+hearing_date: 2024-01-23
+dept: 29
+plaintiff_name: Ahdrie Wright
+defendant_name: Kevin Tatanian
+people_names:
+  - Ahdrie Wright
+  - Kevin Tatanian
+company_names: []
+places:
+  - California
+dates:
+  - 2022-10-26
+  - 2023-03-30
+  - 2023-03-15
+events:
+  - Harassment
+  - Assault
+  - Battery
+  - Intentional and Negligent Infliction of Emotional Distress
+  - Negligence
+  - Motion to Quash filed by Defendant Kevin Tatanian
+money: []
+intentions:
+  - To quash service of summons
+facts:
+  - Plaintiff filed a complaint against Defendant on October 26, 2022
+  - Defendant filed a motion to quash service of summons on March 30, 2023
+  - Plaintiff has not filed a proof of service
+  - Defendant contends that he was not served with the Summons and Complaint
+disputes:
+  - Lack of jurisdiction over the Defendant
+  - Improper service of process
+acts:
+  - Filing of a complaint
+  - Filing of a motion to quash service of summons
+  - Attempted substituted service
+  - Failure to file a proof of service
+agreements: []
+laws:
+  - C.C.P. §415.10
+  - C.C.P. §418.10(a)(1)
+  - Evid. Code § 647
+  - Summers v. McClanahan (2006) 140 Cal.App.4th 403
+  - Fernandes v. Singh (2017) 16 Cal.App.5th 932
+  - Cnty. of San Diego v. Gorham (2010) 186 Cal.App.4th 1215
+  - C.C.P. §415.10
+roles:
+  - Judge
+  - Plaintiff (Ahdrie Wright)
+  - Defendant (Kevin Tatanian)
+significant_statements:
+  - The motion to quash service of summons is granted
+  - The Court lacks personal jurisdiction over the Defendant due to improper service of process
+```
+
+And here is a summary of the judge's tentative ruling in English text:
+
+The judge has issued a tentative ruling granting the defendant's motion to quash service of summons. The plaintiff filed a complaint against the defendant on October 26, 2022, alleging five causes of action, but has not filed a proof of service to demonstrate that the defendant was properly served. The defendant contends that he was not served with the summons and complaint, and that substituted service was attempted but failed. The court finds that the plaintiff has failed to establish proper service, and therefore lacks personal jurisdiction over the defendant. As a result, the motion to quash service of summons is granted.

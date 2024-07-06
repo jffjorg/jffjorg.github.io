@@ -1,0 +1,54 @@
+Here is the summary in YAML format:
+
+```
+case_number: Not specified
+plaintiff_name: Victor Saavdera
+defendant_name: Not specified
+people_names:
+  - Rex Heeseman
+  - Victor Saavdera
+company_names: None
+places:
+  - California
+dates:
+  - November 8, 2023
+events:
+  - Arbitration award issued
+  - Petition to confirm arbitration award filed
+money: None
+intentions:
+  - To confirm arbitration award
+facts:
+  - Arbitration award issued by Rex Heeseman on November 8, 2023
+  - Petitioner seeks to confirm arbitration award
+disputes:
+  - None (no opposition)
+acts:
+  - Petition filed
+  - Award and agreement to arbitrate attached
+agreements:
+  - Arbitration agreement
+  - Code Civ. Proc. § 1285
+  - Code Civ. Proc. § 1285.4
+  - Code Civ. Proc. § 1286
+laws:
+  - Code Civ. Proc. § 1285
+  - Code Civ. Proc. § 1285.4
+  - Code Civ. Proc. § 1286
+case_citations:
+  - United Bhd. of Carpenters etc., Loc. 642 v. Demello (1972) 22 Cal.App.3d 838, 840
+statutes:
+  - Code Civ. Proc. § 1285
+  - Code Civ. Proc. § 1285.4
+  - Code Civ. Proc. § 1286
+roles:
+  - Judge
+  - Victor Saavdera (Plaintiff)
+  - Rex Heeseman (Arbitrator)
+significant_statements:
+  - The Court will confirm the subject arbitration award because there is no opposition, the arbitrator's award is attached, and the underlying agreement to arbitrate is attached.
+```
+
+And here is the English-text summary:
+
+The Judge has issued a tentative ruling in the case of Victor Saavdera v. (defendant's name not specified), in which Saavdera seeks to confirm an arbitration award issued by arbitrator Rex Heeseman on November 8, 2023. The Court will confirm the award because there is no opposition, the arbitrator's award is attached to the petition, and the underlying agreement to arbitrate is also attached. The Judge notes that the trial court has four options when considering a petition to confirm an arbitration award: to confirm, to correct and confirm, to vacate, or to dismiss. In this case, the Court will exercise its discretion to confirm the award. The petition is granted, and Saavdera is ordered to give notice. Due to the COVID-19 pandemic, counsel are strongly encouraged to submit their submissions via LACourtConnect rather than appearing in person.
