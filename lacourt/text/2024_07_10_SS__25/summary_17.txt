@@ -1,0 +1,77 @@
+Here is the summary in YAML format:
+
+```
+case_number: unknown
+plaintiff: Covina Hills MHC
+defendant: Jermaine D. Souza
+people:
+  - Jermaine D. Souza
+  - Elias Elhayek
+  - Eugenia Souza
+  - Julio Javier Romo
+  - Francis Vinula
+company:
+  - Covina Hills MHC
+places:
+  - West Covina, CA 91792
+  - 3839 Amanda Street #105, West Covina, CA 91792
+  - 645 Eremland Street Unit #E, West Covina, CA 91792
+dates:
+  - January 30, 2024
+  - February 3, 2024
+  - February 13, 2024
+  - March 8, 2024
+  - May 20, 2024
+  - July 8, 2024
+events:
+  - Filing of complaint
+  - Service of summons
+  - Motion to quash summons
+  - Opposition to motion
+  - Reply brief
+  - Tentative ruling
+money: unknown
+intentions:
+  - To determine if service of summons was proper
+facts:
+  - Summons and complaint were mailed to Defendant Jermaine D. Souza
+  - Defendant was served by substituted service on February 3, 2024
+  - Defendant argues that service was defective and lacks jurisdiction
+  - Plaintiff argues that service was proper
+disputes:
+  - Whether service of summons was proper
+acts:
+  - Filing of complaint
+  - Service of summons
+  - Filing of motion to quash
+  - Filing of opposition
+  - Filing of reply brief
+agreements:
+  - Unknown
+laws:
+  - California Code of Civil Procedure
+  - California Civil Code
+case_citations:
+  - Coulston v. Cooper (1966) 245 Cal.App.2d 866, 868
+  - Dill v. Berquist Construction Co. (1994) 24 Cal.App.4th 1426, 1441
+  - American Express Centurion Bank v. Zara (2011) 199 Cal.App.4th 383, 390
+  - Rodriguez v. Cho (2015) 236 Cal.App.4th 742, 750
+statutes:
+  - California Code of Civil Procedure § 415.10
+  - California Code of Civil Procedure § 415.20
+  - California Code of Civil Procedure § 418.10
+roles:
+  - Judge
+  - Plaintiff (Covina Hills MHC)
+  - Defendant (Jermaine D. Souza)
+  - Process server (Elias Elhayek)
+significant_statements:
+  - The Court finds that service of summons was proper.
+  - Defendant has not provided any evidence rebutting the presumption that service was proper.
+  - The motion to quash summons is denied.
+  - Defendant is ordered to file an answer or responsive pleading to the complaint within 30 days.
+```
+
+And here is a summary of the judge's tentative ruling in English text:
+
+The judge's tentative ruling denies the motion to quash summons and complaint filed by Defendant Jermaine D. Souza. The defendant argues that the service of summons was defective and lacks jurisdiction, while the plaintiff argues that the service was proper. The judge finds that the service of summons was proper, citing the evidence presented by the process server and the lack of evidence provided by the defendant to rebut the presumption that service was proper. The judge orders the defendant to file an answer or responsive pleading to the complaint within 30 days.

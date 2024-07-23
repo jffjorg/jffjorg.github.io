@@ -1,0 +1,64 @@
+Here is the summary in YAML format:
+
+```
+case_number: 24VECV00405
+plaintiff_name: Shahrokh Mokhtarzadeh, a Professional Corporation
+defendant_name: Joseph Sherman and Sigal Sherman
+people_names:
+  - Shahrokh Mokhtarzadeh
+  - Joseph Sherman
+  - Sigal Sherman
+company_names:
+  - Shahrokh Mokhtarzadeh, a Professional Corporation
+places:
+  - None
+dates:
+  - January 30, 2024
+  - July 3, 2024
+events:
+  - Motion to compel arbitration, stay action, and for award of attorney fees and costs
+  - Plaintiff filing a complaint
+  - Defendant opposing motion
+money:
+  - $327,602 (balance on the account)
+  - $2,700.00 (attorney fees)
+  - $60 (costs)
+intentions:
+  - Plaintiff seeking to recover balance on the account
+  - Defendant seeking to compel arbitration and stay action
+  - Plaintiff opposing motion and seeking to proceed with litigation
+facts:
+  - Plaintiff and Defendant entered into a retainer agreement
+  - Plaintiff rendered services partially paid for
+  - Plaintiff alleges balance on the account
+disputes:
+  - Plaintiff and Defendant disagree on whether to proceed with arbitration
+  - Plaintiff and Defendant disagree on whether Defendant should pay attorney fees
+acts:
+  - Plaintiff filing a complaint
+  - Defendant opposing motion
+  - Plaintiff seeking to proceed with litigation
+agreements:
+  - Retainer agreement between Plaintiff and Defendant
+laws:
+  - California statute of limitations
+  - Benjamin, Weill & Mazer v. Kors (2011) 195 Cal.App.4th 40, 79
+  - Acosta, supra, 150 Cal.App.4th at p. 1132, 58 Cal.Rptr.3d 865
+case_citations:
+  - Benjamin, Weill & Mazer v. Kors (2011) 195 Cal.App.4th 40, 79
+  - Acosta, supra, 150 Cal.App.4th at p. 1132, 58 Cal.Rptr.3d 865
+statutes:
+  - California statute of limitations
+roles:
+  - Judge
+  - Plaintiff
+  - Defendant
+significant_statements:
+  - The court denies the request for attorney fees.
+  - The court finds Plaintiff’s position that it was defendant who made it difficult to go to arbitration supported by the record.
+  - The court denies the request for attorney fees and costs.
+```
+
+And here is the summary in English text:
+
+The tentative ruling in this case states that the defendants' motion to compel arbitration, stay action, and for award of attorney fees and costs is moot. The court finds that the defendants' request for attorney fees is not supported by the record, as the plaintiff's position that the defendants made it difficult to go to arbitration is supported by the record. The court also notes that the plaintiff was forced to bring this action before the four-year statute of limitations had run. The court denies the request for attorney fees and costs, and the motion is denied as moot.

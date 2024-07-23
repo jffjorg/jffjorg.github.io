@@ -1,0 +1,69 @@
+Here is the summary in YAML format:
+
+```
+case_number: unknown
+plaintiff_name: K2005, LLC
+defendant_name: Neta 38th, LLC, David Saidi, Trimax Realty & Loan
+people:
+  - Marizadeh, Tamara
+  - Saidi, David
+  - Davoodpour, Michael
+companies:
+  - K2005, LLC
+  - Neta 38th, LLC
+  - Trimax Realty & Loan
+places:
+  - Vernon, California
+  - 2306 East 38th Street
+dates:
+  - January 6, 2021
+  - March 3, 2024
+  - June 11, 2024
+  - June 12, 2024
+events:
+  - Real estate sale
+  - Breach of contract
+  - Fraud
+money:
+  - $600,000
+  - $50,000
+  - $137,000
+intentions:
+  - To sell real property
+  - To purchase real property
+  - To engage in fraudulent activities
+facts:
+  - K2005, LLC entered into a purchase agreement with Neta 38th, LLC
+  - Neta 38th, LLC failed to pay $50,000 as agreed
+  - Plaintiff alleged fraud and misrepresentation by defendants
+disputes:
+  - Dispute over payment of $50,000
+  - Dispute over alleged fraud and misrepresentation
+acts:
+  - Breach of contract
+  - Fraud
+agreements:
+  - Purchase Agreement
+  - Furniture Agreement
+laws:
+  - California Corporations Code
+  - California Civil Code
+  - California Code of Civil Procedure
+case_citations:
+  - Code Civ. Proc., § 430.30
+  - Code Civ. Proc., § 452
+  - Code Civ. Proc., § 2105
+  - Code Civ. Proc., § 2203
+  - Code Civ. Proc., § 436
+  - Civ. Code, § 3294
+roles:
+  - Judge
+  - Plaintiff
+  - Defendant
+significant_statements:
+  - The Court overruled the demurrer as to the first cause of action against Defendant Neta 38th only.
+  - The motion to strike is granted.
+  - The demurrer is sustained in its entirety as to all the remaining claims as to Defendants.
+```
+
+Note: Some information, such as the case number, may not be available or may be unknown.

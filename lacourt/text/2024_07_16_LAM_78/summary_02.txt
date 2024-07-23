@@ -1,0 +1,65 @@
+Here is the YAML output:
+
+```yaml
+Case Number: 23STCV05937
+Plaintiff's Name: Jose Hernandez
+Defendant's Name: Structural Concrete Group, Inc. et al.
+People-Names:
+  - Jose Hernandez
+  - Ismael Gutierrez
+Company-Names:
+  - Structural Concrete Group, Inc.
+Places:
+  - Los Angeles
+Dates:
+  - May 15, 2024
+  - May 29, 2024
+  - July 15, 2024
+  - July 16, 2024
+  - November 3, 2023
+  - October 21, 2024
+Events:
+  - Deemed admissions
+  - Motion to be relieved from deemed admissions
+  - May 15, 2024 hearing date
+  - July 3, 2024 calendar date
+Money:
+  - $1,660
+Intentions:
+  - To relieve SCG from deemed admissions
+Facts:
+  - SCG failed to serve code-compliant responses prior to May 15, 2024 hearing date
+  - Defense counsel mistakenly calendared all of Plaintiff's motions for July 3, 2024
+  - SCG served belated responses in the afternoon of the same day of the May 16, 2024 hearing date
+Disputes:
+  - Whether SCG's neglect was excusable
+  - Whether Plaintiff was prejudiced by SCG's delay
+Acts:
+  - SCG failed to serve responses in a timely manner
+  - Defense counsel mistakenly calendared motions
+  - SCG served belated responses
+  - Plaintiff sought relief by having the RFAs, set one, be deemed admitted against SCG
+Agreements:
+  - SCG and Plaintiff agreed to have the RFAs, set one, be deemed admitted
+Laws:
+  - Code of Civil Procedure sections 2033.300, 473(b), and 2033.280
+Case Citations:
+  - Wilcox v. Birthwhistle (1999) 21 Cal.4th 973
+  - Huh v. Wang (2007) 158 Cal. App. 4th 1406
+  - New Albertsons, Inc. v. Superior Court (2008) 168 Cal.App.4th 1403
+  - Comunidad en Accion v. Los Angeles City Council (2013) 219 Cal. App. 4th 1116
+Roles:
+  - Judge: Michelle C. Kim
+  - Plaintiff: Jose Hernandez
+  - Defendant: Structural Concrete Group, Inc.
+  - Defense counsel: Soleimanpour
+Significant Statements:
+  - The Court agrees that SCG should have served timely responses.
+  - The Court is not persuaded that Plaintiff has been greatly prejudiced by the lost time in receiving responses.
+  - A two-day delay is not prejudicial.
+  - The policy of the law is to have every litigated cause tried on its merits.
+```
+
+And here is a summary of the judge's tentative ruling in English text:
+
+The judge has issued a tentative ruling granting the motion of Structural Concrete Group, Inc. (SCG) to be relieved from deemed admissions. SCG failed to serve code-compliant responses prior to the May 15, 2024 hearing date, and defense counsel mistakenly calendared all of Plaintiff's motions for July 3, 2024. SCG served belated responses in the afternoon of the same day of the May 16, 2024 hearing date, with verifications following two days later. The judge finds that SCG's neglect was excusable, and that Plaintiff has not been prejudiced by SCG's delay. The judge resolves any doubts in favor of applying the relief and grants the motion.

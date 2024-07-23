@@ -1,0 +1,53 @@
+Here is the summary of the tentative ruling in YAML format:
+
+```
+case_number: 19STLC06704
+plaintiff_name: State Farm Mutual Automobile Insurance Company
+defendant_name: Kevin Lopez
+people_names:
+  - Kevin Lopez
+companies:
+  - State Farm Mutual Automobile Insurance Company
+places:
+  - None mentioned
+dates:
+  - 07-18-19 (complaint filed)
+  - 01-04-22 (dismissal entered)
+  - July 17, 2024 (hearing date)
+events:
+  - Motion to set aside dismissal and enter judgment
+  - Dismissal entered
+  - Judgment by court on stipulation
+money:
+  - $5,678.06 (judgment amount)
+  - $5,603.06 (principal amount)
+  - $75.00 (motion filing fees)
+intentions:
+  - Plaintiff seeks to set aside dismissal and enter judgment
+facts:
+  - Dismissal entered on January 4, 2022
+disputes:
+  - None mentioned
+acts:
+  - Plaintiff's motion to set aside dismissal and enter judgment
+agreements:
+  - Judgment by court on stipulation
+laws:
+  - CCP § 664.6
+case_citations:
+  - State Farm Mutual Automobile Insurance Co. v. Kevin Lopez
+statutes:
+  - CCP (California Code of Procedure) § 664.6
+roles:
+  - Plaintiff: State Farm Mutual Automobile Insurance Company
+  - Defendant: Kevin Lopez
+  - Judge: Mkrtchyan
+significant_statements:
+  - Plaintiff's motion to set aside dismissal and enter judgment is granted.
+  - Dismissal entered on January 4, 2022 is set aside and vacated.
+  - Judgment by court on stipulation is entered for plaintiff and against defendant.
+```
+
+And here is a summary of the tentative ruling in English text:
+
+The Plaintiff, State Farm Mutual Automobile Insurance Company, has filed a motion to set aside a dismissal and enter a judgment in the case against the Defendant, Kevin Lopez. The Court's tentative ruling grants the motion. The dismissal entered on January 4, 2022 is set aside and vacated, and a judgment by court on stipulation is entered for the Plaintiff and against the Defendant in the amount of $5,678.06. This amount includes a principal amount of $5,603.06 and $75.00 in motion filing fees.

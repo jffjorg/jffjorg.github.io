@@ -1,0 +1,86 @@
+Here is the summary in YAML format:
+
+```
+case_number: 23PSCP00435
+hearing_date: 2024-07-16
+dept: G
+defendant: City of Pomona
+plaintiff: Hillview MHC, LLC
+
+people:
+  - Hillview MHC, LLC
+  - City of Pomona
+
+companies:
+  - Hillview MHC, LLC
+
+places:
+  - Pomona
+  - Mountain View
+  - Alameda
+
+dates:
+  - 1978
+  - 2005
+  - 2019
+  - 2024-07-16
+
+events:
+  - Demurrer
+  - Motion to Strike
+  - Subdivision conversion application
+  - Permit Streamlining Act
+  - Declaratory relief
+  - Writ
+
+money:
+  - None
+
+intentions:
+  - Determine whether exhaustion of remedies doctrine applies
+  - Consider applicability of Government Code section 65943
+
+facts:
+  - Hillview MHC, LLC challenges City's failure to consider subdivision conversion application
+  - City notified Hillview MHC, LLC of incomplete application
+  - Hillview MHC, LLC argues notice was untimely
+  - Petitioner seeks declaratory relief or writ directing City to treat application as complete
+
+disputes:
+  - Whether exhaustion of remedies doctrine applies
+  - Whether City is required to deem application complete under Government Code section 65943
+
+acts:
+  - City's demurrer
+  - City's motion to strike
+  - Hillview MHC, LLC's application for subdivision conversion
+
+agreements:
+  - Permit Streamlining Act (PSA)
+  - Government Code section 65943
+
+laws:
+  - Government Code section 65943
+  - Mountain View Chamber of Commerce v. City of Mountain view (1978)
+  - County of Alameda v. Superior Court (2005)
+  - Plantier v. Ramona Municipal Water Dist. (2019)
+
+case_citations:
+  - Mountain View Chamber of Commerce v. City of Mountain view (1978) 77 Cal.App.3d 82, 93-94
+  - County of Alameda v. Superior Court (2005) 133 Cal.App.4th 558, 567-568
+  - Plantier v. Ramona Municipal Water Dist. (2019) 7 Cal.5th 372, 382
+
+roles:
+  - Judge
+  - Hillview MHC, LLC (plaintiff)
+  - City of Pomona (defendant)
+
+significant_statements:
+  - The court seeks additional briefing from the parties on whether exhaustion of remedies doctrine applies
+  - The court intends to set a briefing schedule and a new hearing date
+  - The parties do not specifically address the applicability of Government Code section 65943
+```
+
+And here is a summary of the judge's tentative ruling in English text:
+
+The judge is considering a demurrer and motion to strike filed by the City of Pomona against Hillview MHC, LLC. Hillview MHC, LLC is challenging the City's failure to consider its subdivision conversion application. The City argues that Hillview MHC, LLC failed to exhaust administrative remedies because it did not submit a formal application, pay the application fee, and apply for a variance and conditional use permit. The judge is seeking additional briefing from the parties on whether the exhaustion of remedies doctrine applies in this case. The doctrine requires a plaintiff to seek a variance and conditional use permit before challenging the City's ability to impose those requirements. The judge is also considering whether the City is required to deem the application complete under Government Code section 65943, which requires the City to deem a development project application complete if it fails to timely notify the applicant of any deficiencies. The judge intends to set a briefing schedule and a new hearing date to address these issues.

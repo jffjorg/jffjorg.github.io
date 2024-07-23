@@ -1,0 +1,56 @@
+Here is the summary in YAML format:
+
+```
+case_number: 23AHCV02285
+plaintiff_name: Peter Richards
+defendant_name: Veronica Morales Banta
+people_names:
+  - Peter Richards
+  - Veronica Morales Banta
+company_names:
+  - N/A
+places:
+  - Los Angeles
+  - California
+dates:
+  - March 29, 2024
+  - January 12, 2024
+  - July 19, 2024
+events:
+  - Motion to compel responses to demand for production and inspection of documents
+money:
+  - $1,811.65 (initial demand)
+  - $311.65 (imposed sanctions)
+intentions:
+  - Defendant seeks to compel plaintiff to serve verified responses to demand for production and inspection of documents
+  - Plaintiff failed to serve responses
+facts:
+  - Plaintiff did not serve responses to defendant's written discovery
+  - Defendant propounded on January 12, 2024
+disputes:
+  - None (motion unopposed)
+acts:
+  - Defendant filed motion to compel
+  - Plaintiff failed to serve responses
+  - Judge granted motion
+agreements:
+  - None
+laws:
+  - California Code of Civil Procedure, § 2031.300
+case_citations:
+  - N/A
+statutes:
+  - California Code of Civil Procedure, § 2031.300
+roles:
+  - Judge: William A. Crowfoot
+  - Plaintiff: Peter Richards
+  - Defendant: Veronica Morales Banta
+significant_statements:
+  - "Defendant's motion to compel is granted."
+  - "Plaintiff is ordered to serve verified responses, without objections, to Demand for Production and Inspection of Documents, Set One within 10 days of the date of this order."
+  - "Sanctions in the amount of $311.65 are imposed."
+```
+
+And here is the English-text summary of the judge's tentative ruling:
+
+The judge has tentatively ruled in favor of the defendant, Veronica Morales Banta, M.D., granting her motion to compel the plaintiff, Peter Richards, to serve verified responses to her demand for production and inspection of documents. The defendant had propounded on January 12, 2024, and the plaintiff failed to serve responses. As a result, the judge has ordered the plaintiff to serve the responses within 10 days of the date of the order. Additionally, the judge has imposed sanctions in the amount of $311.65, consisting of 1 hour of defense counsel's hourly rate and filing fees. The defendant is ordered to give notice of the ruling.

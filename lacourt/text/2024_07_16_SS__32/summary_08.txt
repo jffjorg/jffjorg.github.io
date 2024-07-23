@@ -1,0 +1,62 @@
+Here is the summary in YAML format:
+
+```
+case_number: 23STCV26448
+plaintiff_name: John Abante
+defendant_name: Kristopher Marquis
+people_names:
+  - John Abante
+  - Kristopher Marquis
+company_names: []
+places: []
+dates:
+  - February 29, 2024
+  - July 1, 2024
+  - July 16, 2024
+events:
+  - Service of Specially Prepared Interrogatories, Set One
+  - Failure to serve verified responses
+  - Motion to compel responses
+  - Granting of motion to compel
+  - Award of monetary sanctions
+money:
+  - $572 (requested)
+  - $239.50 (awarded)
+intention:
+  - To compel plaintiff to serve verified responses
+  - To seek monetary sanctions
+facts:
+  - Defendant served Specially Prepared Interrogatories, Set One, on February 29, 2024
+  - No responses were served despite defendant's attempts to contact plaintiff
+  - Counsel for plaintiff filed a declaration in opposition, stating that discovery requests were mailed but not returned
+disputes:
+  - Failure to serve verified responses
+  - Amount of monetary sanctions
+acts:
+  - Service of interrogatories
+  - Failure to serve responses
+  - Filing of motion to compel
+  - Award of monetary sanctions
+agreements: []
+laws:
+  - Code Civ. Proc. § 2030.290 (b)
+  - Code Civ. Proc. § 2030.290 (a)(1), (a)(2)
+  - Cal. Rules of Court, rule 3.1348(a)
+case_citations:
+  - Leach v. Superior Court (1980) 111 Cal.App.3d 902, 905-906
+statutes:
+  - Code Civ. Proc. § 2030.290
+roles:
+  - Judge
+  - Plaintiff
+  - Defendant
+  - Counsel for plaintiff
+  - Counsel for defendant
+significant_statements:
+  - The court finds that sanctions are warranted because plaintiff has failed to respond
+  - The amount requested for sanctions is excessive and reduced to $239.50
+```
+
+Here is a summary of the judge's tentative ruling in English text:
+
+The judge grants the defendant's motion to compel the plaintiff to serve verified responses to Specially Prepared Interrogatories, Set One. The plaintiff failed to serve responses despite being served the interrogatories on February 29, 2024. The judge awards monetary sanctions to the defendant in the amount of $239.50, which is reduced from the requested amount of $572. The sanctions are to be paid to the defendant's counsel within 30 days. The plaintiff is ordered to provide verified responses without objection within 30 days of the date of this order.

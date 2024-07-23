@@ -1,0 +1,68 @@
+Here is the summary in YAML format:
+
+```
+case_number: "TBD"
+plaintiff_names:
+  - David Reed
+  - Connie Reed
+defendant_names:
+  - Cal Homes Group, Inc.
+  - Eddie Salinas
+  - HVMJ, LLC
+people_names:
+  - David Reed
+  - Connie Reed
+  - Eddie Salinas
+company_names:
+  - Cal Homes Group, Inc.
+  - HVMJ, LLC
+places:
+  - California
+dates:
+  - July 1, 2020
+  - April 22, 2021
+  - August 31, 2021
+  - January 5, 2022
+  - January 6, 2022
+events:
+  - Filing of Complaint
+  - Default judgment
+  - Amendment of default judgment
+  - Filing of Answer
+  - Motion for Judgment on the Pleadings
+money:
+  - $15,000
+intentions:
+  - Plaintiffs: to obtain judgment on the pleadings
+  - Defendants: to defend against Plaintiffs' claims
+facts:
+  - Parties reached a written settlement agreement
+  - Defendants failed to pay agreed-upon amount
+  - Default judgment was entered and amended
+  - Default judgment was vacated
+disputes:
+  - Whether Defendants are alter egos
+  - Whether Salinas used HVMJ to avoid obligations
+acts:
+  - Filing of Complaint
+  - Filing of Answer
+  - Filing of Motion for Judgment on the Pleadings
+agreements:
+  - Written settlement agreement
+laws:
+  - Code Civ. Proc. § 473.5
+  - Templo v. State (2018)
+statutes:
+  - Code of Civil Procedure
+roles:
+  - Judge
+  - Plaintiffs
+  - Defendants
+significant_statements:
+  - "A defendant may move for judgment on the pleadings on the ground that the complaint does not state facts sufficient to state a cause of action against that defendant."
+  - "Leave to amend ‘is properly denied if the facts and nature of plaintiffs’ claims are clear and under the substantive law, no liability exists.’"
+```
+
+And here is the English-text summary:
+
+The Judge has issued a tentative ruling on a motion for judgment on the pleadings filed by the Plaintiffs, David Reed and Connie Reed, against the Defendants, Cal Homes Group, Inc., Eddie Salinas, and HVMJ, LLC. The Plaintiffs are seeking judgment on the pleadings based on the Defendants' Answer, which asserts general denials and 15 affirmative defenses. The Judge has denied the Motion for Judgment on the Pleadings, stating that the Court's previous rulings on the Plaintiffs' application for default judgment, motion for charging order, and motion to amend the default judgment cannot be used to defeat the Plaintiffs' breach of contract and fraud claims. The Judge noted that those rulings were made when the Defendants had defaulted and could not dispute the assertions made by the Plaintiffs, and therefore, those findings cannot now be used to defeat an operative pleading.

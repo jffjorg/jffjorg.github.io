@@ -1,0 +1,79 @@
+Here is the summary in YAML format:
+
+```
+case_number: 22STCV37586
+hearing_date: 2024-06-21
+dept: 29
+motion_to_quash: yes
+people:
+  - Deborah Joe
+  - Kenneth Mack
+  - Lillian Swanson
+  - Koy Saechao
+  - unknown (50 Does)
+companies:
+  - Honda Motor Company, Ltd
+  - American Honda Motor Company, Inc
+  - North American Honda
+places:
+  - California
+  - Japan
+  - United States
+dates:
+  - 2020-12-30
+  - 2022-11-30
+  - 2024-04-30
+  - 2024-05-23
+  - 2024-05-24
+  - 2024-05-31
+events:
+  - Automobile accident
+  - Service of summons
+  - Filing of motion to quash
+  - Filing of opposition to motion to quash
+  - Filing of answer to complaint
+  - Filing of amended answer
+money:
+  - Not specified
+intentions:
+  - To quash service of summons
+  - To prove proper service of summons
+facts:
+  - Service of summons on Honda Motor Company, Ltd
+  - Service of summons on American Honda Motor Company, Inc
+  - Service of summons on North American Honda
+  - Service of summons on Honda Motor Company, Ltd through service on American Honda Motor Company, Inc
+disputes:
+  - Proper service of summons on Honda Motor Company, Ltd
+acts:
+  - Filing of motion to quash
+  - Filing of opposition to motion to quash
+  - Filing of answer to complaint
+  - Filing of amended answer
+agreements:
+  - None specified
+laws:
+  - California Code of Civil Procedure
+  - Hague Service Convention
+  - California Civil Code
+  - Summers v. McClanahan (2006)
+  - Volkswagenwerk Aktiengesellschaft v. Schlunk (1988)
+  - Rockefeller Technology Investments (Asia) VII v. Changzhou Sinotype Technology Co. (2020)
+  - Cosper v. Smith & Wesson Arms Co. (1959)
+  - Yamaha Motor Co. v. Super. Ct. (2009)
+  - Falco v. Nissan North America (C.D. Cal. 2013)
+  - 1 Weil & Brown, California Practice Guide: Civil Procedure Before Trial (2023)
+roles:
+  - Judge
+  - Plaintiff
+  - Defendant
+  - Specially Appearing Defendant
+  - Service Agent
+significant_statements:
+  - The Court CONTINUES the hearing on this motion.
+  - Plaintiff is ordered to give notice.
+```
+
+And here is a summary of the judge's tentative ruling in English text:
+
+The judge has decided to continue the hearing on the motion to quash service of summons filed by Honda Motor Company, Ltd. The motion was filed on May 23, 2024, and the opposition was filed on May 31, 2024. The plaintiff, Deborah Joe and Kenneth Mack, argue that they properly served Honda Motor Company, Ltd through service on American Honda Motor Company, Inc, which is a wholly-owned subsidiary and distributor of Honda vehicles in the United States. However, the court finds that there is no evidence in the record to support this claim, and therefore cannot resolve the motion. The court orders the plaintiff to give notice of the continued hearing, at which the parties will be able to present evidence in support of or in rebuttal to the currently unsupported factual assertions in the opposition.

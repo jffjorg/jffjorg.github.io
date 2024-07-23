@@ -1,0 +1,65 @@
+Here is the summary in YAML format:
+
+```
+case_number: 23STCV31447
+hearing_date: 2024-06-26
+department: 14 #2
+people_names:
+  - Plaintiff
+  - Defendant
+  - State Compensation Insurance Fund (Assignor)
+company_names:
+  - One10 Solutions Inc
+places:
+  - None mentioned
+dates:
+  - 2023-12-26
+  - 2024-05-16
+  - 2024-06-26
+events:
+  - Breach of contract
+  - Failure to pay insurance premiums
+  - Filing of complaint
+  - Entry of default
+  - Request for entry of default judgment
+money:
+  - $289,097.62 (principal damages)
+  - $32,276.40 (interest)
+  - $1,200 (attorney's fees)
+  - $578.72 (costs)
+  - $323,152.74 (total damages)
+intentions:
+  - Plaintiff intends to recover damages from Defendant
+facts:
+  - Defendant allegedly failed to pay insurance premiums
+  - Plaintiff filed a complaint against Defendant
+  - Defendant did not file an answer to the complaint
+  - Default was entered against Defendant
+disputes:
+  - Breach of contract
+  - Failure to pay insurance premiums
+acts:
+  - Plaintiff filed a complaint
+  - Defendant failed to pay insurance premiums
+agreements:
+  - Agreement between Defendant and Assignor for provision of worker's compensation insurance
+laws:
+  - Breach of contract
+  - Open book account
+  - Account stated
+  - Reasonable value
+case_citations:
+  - None mentioned
+statutes:
+  - None mentioned
+roles:
+  - Plaintiff: assignee of State Compensation Insurance Fund
+  - Defendant: One10 Solutions Inc DBA One10 Solutions Inc
+  - State Compensation Insurance Fund: Assignor
+significant_statements:
+  - Plaintiff's Request for Entry of Default Judgment is granted
+```
+
+And here is the English text summary:
+
+The Judge has issued a tentative ruling granting Plaintiff's Request for Entry of Default Judgment against Defendant One10 Solutions Inc. DBA One10 Solutions Inc. The Plaintiff, as the assignee of State Compensation Insurance Fund, alleges that the Defendant failed to pay insurance premiums and breached their agreement for provision of worker's compensation insurance. The Plaintiff filed a complaint against the Defendant on December 26, 2023, but the Defendant did not file an answer. As a result, default was entered against the Defendant on May 16, 2024. The Plaintiff is seeking damages of $323,152.74, consisting of $289,097.62 in principal damages, $32,276.40 in interest, $1,200 in attorney's fees, and $578.72 in costs. The Judge has granted the Plaintiff's request for default judgment.

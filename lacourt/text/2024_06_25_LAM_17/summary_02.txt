@@ -1,0 +1,60 @@
+Here is the summary in YAML format:
+
+```
+case_number: 23STCV24878
+plaintiff_names:
+  - PROJECT 7 SECURITY GROUP
+  - BRANDON GATEWOOD
+defendant_name: MICHAEL JOHNSON
+people_names:
+  - Michael Johnson
+  - Brandon Gatewood
+company_names:
+  - PROJECT 7 SECURITY GROUP
+places:
+  - Los Angeles
+  - California
+dates:
+  - 10/9/2023
+  - 4/9/2023
+  - 12/29/2023
+  - June 25, 2024
+events:
+  - Plaintiffs filing suit
+  - Plaintiffs moving to compel initial responses
+  - Defendant failing to respond
+money:
+  - $700.00 (sanction)
+  - $350/hr (rate)
+intentions:
+  - Plaintiffs seeking to compel initial responses
+  - Defendant failing to respond
+facts:
+  - Plaintiffs served defendant with interrogatories and requests for documents
+  - No responses received from defendant
+disputes:
+  - Defendant's failure to respond
+acts:
+  - Plaintiffs moving to compel initial responses
+  - Defendant failing to respond
+agreements:
+  - None mentioned
+laws:
+  - None mentioned
+case_citations:
+  - None mentioned
+statutes:
+  - None mentioned
+roles:
+  - Judge: Hon. Jon R. Takasugi
+  - Plaintiffs: PROJECT 7 SECURITY GROUP and BRANDON GATEWOOD
+  - Defendant: MICHAEL JOHNSON
+significant_statements:
+  - Plaintiffs' motion to compel initial responses granted
+  - Defendant sanctioned $700.00
+  - Defendant failed to respond to interrogatories and requests for documents
+```
+
+And here is a summary of the judge's tentative ruling in English text:
+
+The judge has tentatively ruled in favor of the plaintiffs, granting their motion to compel initial responses from the defendant to their Form Interrogatories (Set One) and Requests for Identification and Production of Documents. The defendant, Michael Johnson, has failed to respond to these requests despite being served on December 29, 2023. As a result, the judge has sanctioned the defendant and his counsel jointly and severally in the amount of $700.00. The judge has also ordered that the defendant provide the requested responses.

@@ -1,0 +1,62 @@
+Here is the summary in YAML format:
+
+```
+case_number: 22STCV23481
+plaintiff_name: Estibi Fuentes Tamayo
+defendant_names:
+  - Virginia Toledo
+  - Ronnie Toledo
+  - Edward Toledo
+  - Guadalupe Toledo
+people_names:
+  - Estibi Fuentes Tamayo
+  - Jonathan P. Cyr
+  - Jacob O. Partiyeli
+company_names: []
+places: []
+dates:
+  - July 2, 2024
+events:
+  - Motion to Compel Deposition
+  - Deposition
+money:
+  - $800
+intentions:
+  - Compel plaintiff to appear for deposition
+  - Obtain sanctions
+facts:
+  - Plaintiff failed to appear for deposition
+  - Plaintiff objected to deposition notice
+  - Defendant served notice of deposition
+  - Defendant contacted plaintiff to inquire about nonappearance
+disputes:
+  - Plaintiff's failure to appear for deposition
+acts:
+  - Service of deposition notice
+  - Objection to deposition notice
+  - Contacting plaintiff to inquire about nonappearance
+agreements:
+  - Code of Civil Procedure, § 2025.450
+  - Code of Civil Procedure, § 2025.410
+  - Code of Civil Procedure, § 2025.450, subd. (g)
+laws:
+  - Code of Civil Procedure
+statutes:
+  - Code Civ. Proc., § 2025.450
+  - Code Civ. Proc., § 2025.410
+  - Code Civ. Proc., § 2025.450, subd. (b)(2)
+  - Code Civ. Proc., § 2025.450, subd. (g)
+roles:
+  - Judge
+  - Plaintiff
+  - Defendant
+  - Counsel
+significant_statements:
+  - Plaintiff's failure to appear for deposition is an abuse of the discovery process
+  - Plaintiff is to pay sanctions in the amount of $800
+  - The deposition is to be conducted within 30 days
+```
+
+And here is the summary in English text:
+
+The Judge has issued a tentative ruling regarding a motion to compel the plaintiff, Estibi Fuentes Tamayo, to appear for deposition. The defendants, Virginia Toledo, Ronnie Toledo, Edward Toledo, and Guadalupe Toledo, sought to compel the plaintiff to appear for deposition after the plaintiff failed to do so despite being served with a notice of deposition. The Judge found that the plaintiff's failure to appear was an abuse of the discovery process and granted the motion. The Judge also ordered the plaintiff to pay sanctions in the amount of $800 to the defendants. The deposition is to be conducted within 30 days, and the plaintiff and their counsel are jointly and severally responsible for paying the sanctions.

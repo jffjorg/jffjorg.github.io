@@ -1,0 +1,48 @@
+Here is the summary in YAML format:
+
+```
+case_number: 23STLC00357
+plaintiff_name: State Farm Mutual Automobile Insurance Company
+defendant_name: Antonio Hernandez Perez
+people_names:
+  - Antonio Hernandez Perez
+company_names:
+  - State Farm Mutual Automobile Insurance Company
+places: None
+dates:
+  - 01-18-23
+  - 06-17-24
+  - 07-02-24
+  - 07-14-24
+  - July 17, 2024
+events:
+  - Motion for Judgment on the Pleadings
+  - Trial
+money: None
+intentions: None
+facts:
+  - Plaintiff filed a motion for judgment on the pleadings
+  - Defendant has not responded to the motion
+disputes:
+  - Dispute over the merits of the case
+acts:
+  - Plaintiff filed a motion for judgment on the pleadings
+agreements: None
+laws:
+  - CCP § 438, et seq.
+citations:
+  - CCP § 438, et seq.
+statutes:
+  - CCP
+roles:
+  - Judge: Mkrtchyan
+  - Moving Party: Plaintiff
+  - Responding Party: None
+significant_statements:
+  - Plaintiff's motion for judgment on the pleadings is denied
+  - Trial continuance will be discussed at the hearing
+```
+
+And here is a summary of the judge's tentative ruling in English text:
+
+The judge has issued a tentative ruling on the motion for judgment on the pleadings filed by State Farm Mutual Automobile Insurance Company, the plaintiff in the case. The motion was filed against Antonio Hernandez Perez, one of the defendants. The judge has denied the motion, meaning that the case will proceed to trial. The judge will discuss the trial continuance at the upcoming hearing on July 17, 2024.

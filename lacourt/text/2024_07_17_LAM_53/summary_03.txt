@@ -1,0 +1,63 @@
+Here is the summary in YAML format:
+
+```
+case_number: 22STCV31468
+plaintiff_name: J Cellars Investments, LLC, d/b/a Joseph Cellars Winery
+defendant_name: HDI Global Insurance Company
+people_names: 
+  - J Cellars Investments, LLC
+  - HDI Global Insurance Company
+  - Robert B. Broadbelt III
+company_names: 
+  - J Cellars Investments, LLC
+  - Joseph Cellars Winery
+  - HDI Global Insurance Company
+places: 
+  - Los Angeles
+  - California
+  - Central District
+  - Department 53
+dates: 
+  - July 17, 2024
+events: 
+  - Motion to Compel Further Responses to Interrogatories
+money: 
+  - $14,420
+  - $8,470
+intentions: 
+  - To compel defendant to serve further responses to plaintiff's interrogatories
+  - To award monetary sanctions to plaintiff
+facts: 
+  - Defendant filed objections to certain interrogatories
+  - Plaintiff requested further responses to certain interrogatories
+disputes: 
+  - Plaintiff's motion to compel further responses to interrogatories
+acts: 
+  - Defendant filed opposition to plaintiff's motion
+  - Plaintiff filed reply to defendant's opposition
+agreements: 
+  - None mentioned
+laws: 
+  - California Code of Civil Procedure section 2030.300
+  - California Insurance Code sections 791.13 and 791.02
+case_citations: 
+  - Code Civ. Proc. section 2030.300
+  - Code Civ. Proc. section 2030.300, subd. (a)(1)
+  - Code Civ. Proc. section 2030.300, subd. (a)(3)
+  - Code Civ. Proc. section 2030.300, subd. (d)
+statutes: 
+  - California Code of Civil Procedure
+  - California Insurance Code
+roles: 
+  - Judge: Robert B. Broadbelt III
+  - Plaintiff: J Cellars Investments, LLC, d/b/a Joseph Cellars Winery
+  - Defendant: HDI Global Insurance Company
+significant_statements: 
+  - The court grants plaintiff's motion to compel defendant's further responses to certain interrogatories.
+  - The court awards monetary sanctions to plaintiff in the amount of $8,470.
+  - The court denies defendant's request for monetary sanctions against plaintiff.
+```
+
+And here is a summary of the judge's tentative ruling in English text:
+
+The judge has issued a tentative ruling on a motion to compel further responses to interrogatories filed by J Cellars Investments, LLC, d/b/a Joseph Cellars Winery (plaintiff) against HDI Global Insurance Company (defendant). The court grants the motion as to certain interrogatories, finding that the defendant's objections were without merit or that the answers were evasive or incomplete. The court also grants the plaintiff's request for monetary sanctions in the amount of $8,470. The defendant is ordered to serve further, full, and complete answers to the specified interrogatories within 20 days and to pay the sanctions within 30 days.

@@ -1,0 +1,37 @@
+Here is the summary of the Judge's tentative ruling in YAML format:
+
+```
+case_number: 21STCV40190
+hearing_date: 2024-07-10
+dept: 27
+judge: Hon. Lee S. Arian, Dept 27
+
+parties:
+  - plaintiff: Batool Saleki
+  - defendant: City of Los Angeles
+
+summary_judgment:
+  - granted: yes
+  - reasoning: the 1-inch displacement on the sidewalk was trivial as a matter of law, with no significant aggravating factors present.
+
+factual_dispute:
+  - no: the parties do not dispute the 1-inch height of the displacement, and the weather at the time of the incident was sunny and clear.
+
+statutes:
+  - Government Code section 835
+  - Government Code section 830.2
+
+laws:
+  - Zelig v. County of Los Angeles (2002)
+  - Fajardo v. Dailey (2022)
+  - Stathoulis v. City of Montebello (2008)
+  - Stack v. City of Lemoore (2023)
+
+ Intentions:
+  - The City of Los Angeles moves for summary judgment, arguing that the 1-inch sidewalk displacement was trivial and did not pose a substantial risk of injury.
+  - The Court grants the motion, finding that the displacement was trivial as a matter of law, with no significant aggravating factors present.
+```
+
+And here is a summary of the Judge's tentative ruling in English:
+
+The City of Los Angeles has moved for summary judgment, arguing that the 1-inch sidewalk displacement on Beverly Glen Blvd was trivial and did not pose a substantial risk of injury. The Court has reviewed the evidence and finds that the displacement was indeed trivial as a matter of law, with no significant aggravating factors present. The parties do not dispute the 1-inch height of the displacement, and the weather at the time of the incident was sunny and clear. The Court has considered the relevant statutes and case law, including Government Code sections 835 and 830.2, as well as cases such as Zelig v. County of Los Angeles, Fajardo v. Dailey, Stathoulis v. City of Montebello, and Stack v. City of Lemoore. Based on its review of the evidence and the law, the Court grants the City's motion for summary judgment.

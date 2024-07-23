@@ -1,0 +1,73 @@
+Here is the summary in YAML format:
+
+```
+case_number: 2023-001
+plaintiff_name: State Farm Automobile Insurance Company
+defendant_name:
+  - Everardo Navarro dba Navarro Trucking
+  - RG Transportation LLC
+  - Does 1 to 10
+people_names:
+  - Everardo Navarro
+  - Tristan P. Espinosa
+company_names:
+  - Navarro Trucking
+  - RG Transportation LLC
+  - State Farm Automobile Insurance Company
+places:
+  - None mentioned
+dates:
+  - January 31, 2023
+  - June 22, 2023
+  - April 10, 2024
+  - June 5, 2024
+  - July 2, 2024
+  - July 8, 2024
+events:
+  - Filing of Complaint
+  - Issuance of Summons
+  - Filing of First Amended Summons
+  - Service of Complaint and Summons
+  - Filing of Motion for Leave to File Second Amended Summons and First Amended Complaint
+  - Continued hearing on Motion
+  - Failure to provide notice of continued hearing date
+money: None mentioned
+intentions:
+  - Plaintiff intends to correct errors in spelling and naming of defendants
+facts:
+  - Plaintiff filed Complaint against defendants on January 31, 2023
+  - Plaintiff filed First Amended Summons on June 22, 2023
+  - Plaintiff served Complaint and Summons on Defendant RG
+  - Plaintiff filed Motion for Leave to File Second Amended Summons and First Amended Complaint on April 10, 2024
+  - Court continued hearing on Motion on June 5, 2024
+  - Plaintiff failed to provide notice of continued hearing date
+disputes:
+  - Plaintiff seeks permission to file second amended summons and first amended complaint
+  - Plaintiff failed to provide notice of continued hearing date
+acts:
+  - Plaintiff filed Complaint and Summons
+  - Plaintiff served Complaint and Summons on Defendant RG
+  - Plaintiff filed Motion for Leave to File Second Amended Summons and First Amended Complaint
+  - Court continued hearing on Motion
+  - Plaintiff failed to provide notice of continued hearing date
+agreements: None mentioned
+laws:
+  - California Civil Procedure Code section 473
+  - California Civil Procedure Code section 576
+  - California Rules of Court, rule 3.1324
+statutes:
+  - California Civil Procedure Code section 473
+  - California Civil Procedure Code section 576
+roles:
+  - Judge
+  - Plaintiff
+  - Defendant
+  - Judicial Assistant
+significant_statements:
+  - The Court finds that the Motion is procedurally deficient
+  - The Court denies Plaintiff's motion for leave to file second amended summons and first amended complaint without prejudice
+```
+
+And here is the summary in English text:
+
+A tentative ruling has been made by the Judge in the case of State Farm Automobile Insurance Company (Plaintiff) against Everardo Navarro dba Navarro Trucking, RG Transportation LLC, and Does 1 to 10 (Defendants). The Plaintiff originally filed a Complaint on January 31, 2023, and then filed a First Amended Summons on June 22, 2023. The Plaintiff served the Complaint and Summons on Defendant RG and then filed a Motion on April 10, 2024, seeking permission to file a second amended summons and first amended complaint. The Court continued the hearing on the Motion on June 5, 2024, but the Plaintiff failed to provide notice of the continued hearing date to the Defendants. The Court finds that the Motion is procedurally deficient and denies the motion without prejudice. The Plaintiff is ordered to give notice of this ruling and to attach a copy of the Court's tentative ruling as exhibit "A" to said notice.

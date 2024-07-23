@@ -1,0 +1,98 @@
+Here is a summary of the judge's tentative ruling in YAML format:
+
+```
+case_number: 23SMCV04014
+hearing_date: July 11, 2024
+dept: 205
+court: Superior Court of California
+county: Los Angeles
+district: West
+place: Beverly Hills Courthouse / Department 205
+
+plaintiff:
+  name: ADAM J. TENSER
+  occupation: Entertainment lawyer
+
+defendants:
+  - ROBERT JOSHUA RYAN
+  - CATHERINE TOWNSEND
+
+people:
+  - ADAM J. TENSER
+  - BLAKE LEIBEL
+  - JEREMY TENSER
+  - MARK WINDHAM
+
+companies:
+  - Hollywood Reporter
+  - National Post
+
+places:
+  - Beverly Hills Courthouse
+  - Department 205
+  - Los Angeles
+
+dates:
+  - November 3, 2022
+  - December 8, 2017
+  - June 18, 2018
+
+events:
+  - Murder trial of Blake Leibel
+  - Podcast "Blood Money" hosted by Catherine Townsend
+  - Interview of Adam Tenser to Hollywood Reporter
+  - Article published in National Post
+
+money: $ (amount not specified)
+
+intentions:
+  - Catherine Townsend's intention to report on the murder trial of Blake Leibel
+  - Adam Tenser's intention to sue Catherine Townsend for slander
+
+facts:
+  - Adam Tenser was accused of stalking a juror during the trial of Blake Leibel
+  - The juror was relieved of jury duty due to her allegations
+  - Catherine Townsend reported on the incident in her podcast "Blood Money"
+  - Adam Tenser sued Catherine Townsend for slander
+
+disputes:
+  - Whether Catherine Townsend's statements were protected by the anti-SLAPP statute
+  - Whether Adam Tenser's claims had minimal merit
+
+acts:
+  - Catherine Townsend's reporting on the murder trial of Blake Leibel
+  - Adam Tenser's allegations of slander against Catherine Townsend
+
+agreements:
+  - The fair report privilege
+  - The anti-SLAPP statute
+
+laws:
+  - Code of Civil Procedure section 425.16
+  - Civil Code section 47(d)
+
+case_citations:
+  - Bonni v. St. Joseph Health System (2021)
+  - Ojjeh v. Brown (2019)
+  - Nevallier v. Sletten (2002)
+  - FilmOn.com Inc. v. DoubleVerify Inc. (2019)
+  - D.C. v. R.R. (2010)
+  - Seelig v. Infinity Broadcasting Corp. (2002)
+  - ComputerXpress Inc. v. Jackson (2001)
+  - Barrett v. Rosenthal (2006)
+  - Traditional Cat Assn. Inc. v. Gilbreath (2004)
+  - Burrill v. Nair (2013)
+  - Sipple v. Foundation for Nat. Progress (1999)
+  - McClatchy Newsps. v. Superior Court (1987)
+  - Hayward v. Watsonville Register-Pajaronian and Sun (1968)
+  - Dorsey v. National Enquirer (1992)
+  - Balla v. Hall (2021)
+  - Gertz v. Robert Welch, Inc. (1974)
+  - Reader's Digest Assn. v. Superior Court (1984)
+  - Rosenaur v. Scherer (2001)
+  - Fletcher v. San Jose Mercury News (1989)
+```
+
+And here is a summary of the judge's tentative ruling in English text:
+
+The judge grants Catherine Townsend's special motion to strike Adam Tenser's first amended complaint, which alleges slander. The judge finds that Townsend's reporting on the murder trial of Blake Leibel, including her podcast "Blood Money", is protected by the fair report privilege. The judge also finds that Tenser, as a limited public figure, must plead and prove clear and convincing evidence of actual malice, which he has not done. Therefore, the judge concludes that Tenser's claims are without merit and grants the special motion to strike.

@@ -1,0 +1,70 @@
+Here is the summary in YAML format:
+
+```
+case_number: 19STCV25342
+plaintiff_name: Luis Manuel Zarate
+defendant_name: Joseph William Davison and Jennifer L. Davison
+people_names:
+  - Dr. Rami Hashish
+  - Emily T. Zinn
+company_names:
+  - (none)
+places:
+  - Spring Street Courthouse
+dates:
+  - July 19, 2019
+  - March 20, 2020
+  - November 24, 2020
+  - May 13, 2022
+  - January 22, 2024
+  - December 6, 2023
+  - May 6, 2024
+  - June 11, 2024
+  - July 3, 2024
+  - July 8, 2024
+events:
+  - Initial trial date set for January 15, 2021
+  - Trial continued to July 19, 2022
+  - Trial continued to January 23, 2023
+  - Trial continued to June 23, 2023
+  - Trial continued to January 22, 2024
+  - Ex parte application filed by Plaintiff
+  - Deposition of Dr. Hashish
+  - Motion to compel further responses to requests for production of documents
+  - Request to reopen discovery
+money:
+  - (none)
+intentions:
+  - To compel further responses to requests for production of documents
+  - To reopen discovery
+facts:
+  - Dr. Hashish's expert file did not contain the data used to make his calculations
+  - Plaintiff designated Dr. Hashish as an expert on April 2, 2024
+  - Dr. Hashish was deposed on May 2, 2024
+disputes:
+  - Whether Dr. Hashish produced the data used in his calculations
+acts:
+  - Plaintiff filed the instant motion to compel further documents on June 3, 2024
+  - Defendants moved to compel further responses to requests for production of documents
+agreements:
+  - (none)
+laws:
+  - Code of Civil Procedure section 2025.480
+  - Code of Civil Procedure section 2024.050
+  - (other citations)
+statutes:
+  - (none)
+roles:
+  - Judge
+  - Plaintiff
+  - Defendant
+  - Counsel
+significant_statements:
+  - The Court finds that Defendants acted diligently in bringing this motion.
+  - The discovery also appears important to Defendant's case and production will unlikely delay trial.
+  - The Court reopens discovery for the purpose of hearing the underlying motion.
+```
+
+And here is the English text summary:
+
+This tentative ruling is in regards to a motion to compel further responses to requests for production of documents and a request to reopen discovery. The defendants are seeking to compel further responses to requests for production of documents from the plaintiff's expert, Dr. Rami Hashish, which include data used in his calculations. The plaintiff opposes the motion, but the court finds that the defendants acted diligently in bringing the motion and that the discovery is important to their case. Therefore, the court reopens discovery for the purpose of hearing the underlying motion. The court grants the motion to compel further responses to requests for production of documents and orders the plaintiff to produce the data within 5 days.

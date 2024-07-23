@@ -1,0 +1,73 @@
+Here is the summary in YAML format:
+
+```
+case_number: 23STLC02523
+plaintiff_name: Valerie Hurtado
+defendant_names:
+  - Catarina Counts
+  - Los Angeles County Metropolitan Transportation Authority (Defendant Metro)
+people_names:
+  - Valerie Hurtado
+  - Catarina Counts
+  - Supervisor at Defendant Metro (name not specified)
+company_names:
+  - Los Angeles County Metropolitan Transportation Authority (Defendant Metro)
+places:
+  - Los Angeles County
+dates:
+  - April 18, 2023
+  - September 25, 2023
+  - November 17, 2023
+  - March 22, 2024
+  - April 22, 2024
+  - June 7, 2024
+  - June 11, 2024
+  - July 2, 2024
+events:
+  - Filing of Complaint
+  - Entry of Default
+  - Filing of answers to Complaint
+  - Motion to Vacate Entry of Default
+  - Hearing on Motion to Vacate Entry of Default
+money: $0 (no monetary amount specified)
+intentions:
+  - To vacate entry of default and allow defendant to file responsive pleading
+facts:
+  - Plaintiff filed Complaint on April 18, 2023
+  - Defendant Counts failed to file responsive pleading, leading to entry of default on September 25, 2023
+  - Defendant Metro was served with lawsuit on October 26, 2023
+  - Defendant Counts discovered entry of default on March 21, 2024
+disputes:
+  - Whether defendant's failure to timely respond to Complaint was due to mistake or neglect
+acts:
+  - Filing of Complaint
+  - Entry of default
+  - Filing of answers to Complaint
+  - Filing of Motion to Vacate Entry of Default
+  - Hearing on Motion to Vacate Entry of Default
+agreements:
+  - Code of Civil Procedure section 473(b)
+  - Code of Civil Procedure section 436, subdivision (b)
+laws:
+  - California Code of Civil Procedure
+case_citations:
+  - Sporn v. Home Depot USA, Inc. (2005)
+  - English v. IKON Business Solutions (2001)
+  - Carmel, Ltd. v. Tavoussi (2009)
+  - Caldwell v. Methodist Hospital (1994)
+  - Carrasco v. Craft (1985)
+statutes:
+  - Code of Civil Procedure section 473(b)
+  - Code of Civil Procedure section 436, subdivision (b)
+roles:
+  - Judge
+  - Plaintiff (Valerie Hurtado)
+  - Defendant (Catarina Counts)
+  - Defendant Metro (Los Angeles County Metropolitan Transportation Authority)
+significant_statements:
+  - The Court grants defendant's motion to vacate entry of default on condition that a copy of the proposed responsive pleading is filed by the time of the hearing.
+```
+
+And here is the summary in English text:
+
+The Judge's tentative ruling is to grant Defendant Catarina Counts' motion to vacate the entry of default on condition that a copy of her proposed responsive pleading is filed by the time of the hearing. The Judge considered the facts of the case, including the delay in serving Defendant Metro with the lawsuit and Defendant Counts' reasonable mistake in believing that Defendant Metro would handle the defense of the action. The Judge noted that the motion is brought under Code of Civil Procedure section 473(b), which allows for relief from an entry of default if the moving party can show that the default was caused by mistake, inadvertence, surprise, or neglect. The Judge also cited several case law precedents to support the decision.

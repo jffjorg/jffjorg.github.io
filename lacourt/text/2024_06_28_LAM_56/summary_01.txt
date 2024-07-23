@@ -1,0 +1,59 @@
+Here is the summary in YAML format:
+
+```
+case_number: 22STCV38516
+plaintiff: Roie Maor
+defendant: Eve M. Aron et al
+people_names:
+  - Roie Maor
+  - Eve M. Aron
+company_names: None
+places:
+  - Los Angeles
+  - California
+dates:
+  - December 9, 2022
+  - November 14, 2023
+  - January 10, 2024
+  - June 28, 2024
+events:
+  - Breach of contract
+  - Lending and reselling horses
+money: Lending and borrowing
+intentions:
+  - To deem facts admitted and genuineness of documents established
+facts:
+  - Defendant failed to respond to requests for admission
+  - Defendant failed to serve responses to requests for genuineness of documents
+disputes:
+  - Breach of contract
+acts:
+  - Lending and borrowing
+  - Reselling horses
+agreements:
+  - Contract between Plaintiff and Defendant
+laws:
+  - CCP § 2033.280
+  - CCP § 2033.280(b)
+  - Cal. Rules of Court R. 3.1348(a)
+  - CCP § 2033.280, subd. (c)
+case_citations:
+  - CCP § 2033.280
+  - CCP § 2033.280(b)
+  - CCP § 2033.280, subd. (c)
+  - Cal. Rules of Court R. 3.1348(a)
+statutes:
+  - CCP (California Code of Procedure)
+roles:
+  - Judge: Hon. Holly J. Fujie
+  - Plaintiff: Roie Maor
+  - Defendant: Eve M. Aron et al
+significant_statements:
+  - Defendant's failure to respond to requests for admission and genuineness of documents waived any objections
+  - The court shall issue an order deeming facts admitted and genuineness of documents established if no response is served prior to the hearing
+  - The court may impose monetary sanctions on parties who fail to serve timely responses to requests for admission
+```
+
+And here is the English-text summary:
+
+This tentative ruling addresses two motions filed by the Plaintiff, Roie Maor, to deem facts admitted and the genuineness of documents established. The motions are unopposed, and the Plaintiff served requests for admission and genuineness of documents on the Defendant, Eve M. Aron, but the Defendant failed to respond. Pursuant to California Code of Procedure § 2033.280, the court grants the motions and deems the truth of the matters specified in the requests for admission as admitted and the genuineness of the documents established. No sanctions are imposed since no request was made in the motions. The Plaintiff is ordered to give notice of this ruling.

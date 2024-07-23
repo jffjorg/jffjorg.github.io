@@ -1,0 +1,54 @@
+Here is the summary in YAML format:
+
+```
+case-number: unknown
+plaintiff-names: unknown
+defendant-name: City
+people-names: Weber, Judge
+company-names: Los Angeles Cnty. Ret. Ass'n
+places: Los Angeles
+dates:
+  - 1998
+events:
+  - administrative determination of an entitlement to benefits
+  - payment of retroactive benefit
+  - court action to recover benefits wrongfully withheld
+money:
+  - interest
+  - retroactive benefit payment
+  - pre-judgment interest
+intentions:
+  - to award pre-judgment interest
+  - to deny pre-judgment interest
+facts:
+  - petitioners seeking interest on retroactive benefit payment
+  - retroactive lump sum payments paid as promised
+  - petitioners not denied any benefits and did not suffer damage
+disputes:
+  - whether to award pre-judgment interest
+acts:
+  - payment of retroactive benefit
+  - court action to recover benefits wrongfully withheld
+agreements:
+  - none mentioned
+laws:
+  - California laws
+  - retirement board laws
+case-citations:
+  - Weber v. Bd. of Ret. of Los Angeles Cnty. Ret. Ass'n. (1998) 62 Cal.App.4th 1440
+statutes:
+  - none mentioned
+roles:
+  - Judge
+  - plaintiff
+  - defendant
+  - retirement board
+  - court
+significant-statements:
+  - "The Weber court held that a retirement board was not statutorily authorized to award pre-judgment interest when granting retroactive benefits."
+  - "Conversely, a trial court could award pre-judgment interest following a successful administrative mandamus action to recover benefits wrongfully withheld by the retirement board."
+```
+
+And here is a summary of the judge's tentative ruling in English text:
+
+The judge is considering a case where the City is arguing that it should not be required to pay pre-judgment interest on a retroactive benefit payment. The City is relying on a previous case, Weber v. Bd. of Ret. of Los Angeles Cnty. Ret. Ass'n., which held that a retirement board is not statutorily authorized to award pre-judgment interest when granting retroactive benefits. However, the judge finds this reliance misplaced, as the Weber court's ruling was specific to a retirement board, whereas the current case involves a trial court. The judge concludes that a trial court could award pre-judgment interest following a successful administrative mandamus action to recover benefits wrongfully withheld by the retirement board, which is the situation in this case.

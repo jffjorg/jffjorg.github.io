@@ -1,0 +1,60 @@
+Here is the summary in YAML format:
+
+```
+case_number: 20STCV13591
+plaintiff: RAOUL RENFROE, et al.
+defendant: GOLDEN MOTEL, et al.
+people:
+  - RAOUL RENFROE
+  - ILAN JANFAZA
+  - Lisa R. Jaskol
+  - Wang
+company:
+  - Golden Enterprises, Inc.
+  - Golden Motel
+places:
+  - Spring Street Courthouse
+  - Alhambra Courthouse
+dates:
+  - January 25, 2024
+  - February 23, 2024
+  - April 29, 2024
+  - May 9, 2024
+  - July 15, 2024
+events:
+  - Motion to enforce sanctions
+  - Discovery motion
+  - Order imposing sanctions
+  - Motion for terminating sanctions
+money:
+  - $1,120.00
+intentions:
+  - Enforce monetary sanctions
+facts:
+  - Plaintiff failed to pay sanctions as ordered
+  - Defendant filed motion to enforce sanctions
+disputes:
+  - Failure to pay sanctions
+acts:
+  - Defendant filed motion to enforce sanctions
+  - Plaintiff failed to pay sanctions
+agreements:
+  - None mentioned
+laws:
+  - Code of Civil Procedure section 128
+  - Newland v. Superior Court (1995) 40 Cal.App.4th 608
+statutes:
+  - Code of Civil Procedure section 128
+case_citations:
+  - Newland v. Superior Court (1995) 40 Cal.App.4th 608
+roles:
+  - Judge: William A. Crowfoot
+  - Plaintiff's counsel: Ilan Janfaza
+  - Defendant's counsel: unknown
+significant_statements:
+  - "Monetary sanction orders have the force and effect of a money judgment, and are immediately enforceable through execution, except to the extent the trial court may order a stay of the sanction."
+```
+
+And here is the English-text summary:
+
+This is a tentative ruling regarding a motion to enforce sanctions against the plaintiff, Raoul Renfroe, and his counsel, Ilan Janfaza. The defendant, Golden Motel, filed a motion to enforce the sanctions of $1,120.00, which were ordered by the Honorable Lisa R. Jaskol on January 25, 2024. The plaintiff failed to pay the sanctions as ordered and has not provided further responses to the defendant's discovery motions. The court finds that the sanctions are enforceable as a money judgment and denies the motion to enforce. The parties must email the court to indicate their intention to submit on this tentative ruling, and if they do not, they may still appear at the hearing to argue the matter.

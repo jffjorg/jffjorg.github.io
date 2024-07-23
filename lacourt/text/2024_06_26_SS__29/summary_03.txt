@@ -1,0 +1,52 @@
+Here is the summary in YAML format:
+
+```
+case_number: 21STCV35938
+plaintiff_name: Raquel Salomon
+defendant_name: City of Los Angeles, Arik Aharoni, 7353 Milwood Avenue
+people_names:
+  - Erick B. Novik
+  - Kevin Salute
+  - Raquel Salomon
+  - Arik Aharoni
+company_names:
+  - Novik Law Group
+places:
+  - Canoga Park
+  - Los Angeles
+dates:
+  - September 29, 2021
+  - October 19, 2020
+  - August 31, 2022
+  - February 2, 2023
+  - May 24, 2024
+  - June 26, 2024
+events:
+  - Trip and fall on the sidewalk
+  - Filing of complaint
+  - Filing of first amended complaint
+  - Filing of answer and cross-complaint
+  - Filing of motion to be relieved as counsel
+money:
+  - No amount specified
+intentions:
+  - To determine whether counsel should be relieved
+facts:
+  - Counsel has not served the client
+  - Client has not been notified of the motion
+  - Counsel has had no communication with the client for over two years
+disputes:
+  - Whether counsel should be relieved
+acts:
+  - Filing of motion to be relieved as counsel
+  - Failure to serve the client
+agreements:
+  - None specified
+laws:
+  - Code of Civ. Proc., § 284(b)
+  - Cal. Rules of Prof. Conduct 3-700(C)(1)
+  - Cal. Rules of Court, rule 3.1362(a), (c), (d), (e)
+  - Manfredi & Levine v. Superior Court (1998)
+significant_statements:
+  - The court may order that an attorney be changed or substituted at any time before or after judgment or final determination upon request by either client or attorney and after notice from one to the other.
+  - Both of these things cannot be true.

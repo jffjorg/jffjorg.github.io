@@ -1,0 +1,68 @@
+Here is the summary in YAML format:
+
+```
+case_number: 22STCV32266
+plaintiff_name: Larry Finley
+defendant_name: City of Carson
+people_names: 
+  - Larry Finley
+  - City of Carson
+company_names: 
+  - City of Carson
+places: 
+  - Carson
+dates: 
+  - January 3, 2024
+  - January 8, 2024
+  - June 28, 2024
+events: 
+  - Request for Admissions
+  - Monetary sanctions
+  - Motion for Additional Sanctions
+  - Payment of monetary sanctions
+money: 
+  - $337.50
+  - unspecified amount
+intentions: 
+  - To seek additional monetary sanctions
+  - To oppose motion for additional sanctions
+facts: 
+  - Defendant City of Carson served notice of the order on Plaintiff's counsel
+  - Plaintiff failed to pay monetary sanctions within 30 days
+  - Plaintiff contends that the monetary sanctions have since been paid
+disputes: 
+  - Dispute over payment of monetary sanctions
+  - Dispute over awarding additional monetary sanctions
+acts: 
+  - Defendant served notice of the order on Plaintiff's counsel
+  - Plaintiff failed to pay monetary sanctions
+  - Plaintiff contends that the monetary sanctions have since been paid
+agreements: 
+  - None mentioned
+laws: 
+  - Code of Civil Procedure section 128.7
+  - Code of Civil Procedure section 177.5
+  - Eichenbaum v. Alon (2003)
+  - In re Marriage of Reese & Guy (1999)
+  - Li v. Majestic Industry Hills LLC (2009)
+  - Galleria Plus, Inc. v. Hanmi Bank (2009)
+case_citations: 
+  - Eichenbaum v. Alon (2003)
+  - In re Marriage of Reese & Guy (1999)
+  - Li v. Majestic Industry Hills LLC (2009)
+  - Galleria Plus, Inc. v. Hanmi Bank (2009)
+statutes: 
+  - Code of Civil Procedure section 128.7
+  - Code of Civil Procedure section 177.5
+roles: 
+  - Judge
+  - Plaintiff (Larry Finley)
+  - Defendant (City of Carson)
+significant_statements: 
+  - The Court declines to award further monetary sanctions under section 177.5.
+  - Defendant City of Carson's motion for additional sanctions is DENIED.
+```
+
+And here is a summary of the Judge's tentative ruling in English text:
+
+The Court has issued a tentative ruling on a motion for additional sanctions filed by the Defendant City of Carson. The motion was opposed by the Plaintiff Larry Finley, who claims that the monetary sanctions imposed by the Court's previous order have since been paid. The Court finds that the Defendant has not complied with the safe harbor period required by Code of Civil Procedure section 128.7, and therefore, the motion for additional sanctions is denied. Additionally, the Court declines to award further monetary sanctions under Code of Civil Procedure section 177.5, as this was not included in the Notice of Motion. The Defendant is ordered to provide notice of the Court's ruling and file a proof of service of such.

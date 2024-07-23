@@ -1,0 +1,59 @@
+Here is the YAML summary of the tentative ruling:
+
+```
+case_number: 23NWCV02045
+hearing_date: 2024-07-09
+dept: C
+plaintiff: HERRERA
+defendant: BAGUES
+people_names:
+  - CUNNINGHAM
+  - GUERRA
+company_names:
+  - GUERRA ENTERPRISES, INC.
+places:
+  - None
+dates:
+  - 2024-06-24
+  - 2024-07-09
+events:
+  - Demurrer
+  - Motion to Strike
+  - Filing of Second Amended Complaint
+  - Rejection of Second Amended Complaint
+  - Order to File and Serve Second Amended Complaint
+money:
+  - None
+intentions:
+  - To resolve disputes and move forward with the case
+facts:
+  - Plaintiffs' First Amended Complaint is moot
+  - Joint Stipulation to File a Second Amended Complaint was received
+  - Second Amended Complaint was received but rejected
+disputes:
+  - Dispute over the merits of the case
+acts:
+  - Filing of demurrer and motion to strike
+  - Filing of Second Amended Complaint
+  - Rejection of Second Amended Complaint
+  - Order to File and Serve Second Amended Complaint
+agreements:
+  - Joint Stipulation to File a Second Amended Complaint
+laws:
+  - None specified
+case_citations:
+  - None specified
+statutes:
+  - None specified
+roles:
+  - Judge C
+  - Plaintiffs (HERRERA)
+  - Defendants (CUNNINGHAM, GUERRA ENTERPRISES, INC., BAGUES)
+significant_statements:
+  - The Second Amended Complaint is rejected
+  - Plaintiffs are ordered to file and serve a new complaint within 5 days
+```
+
+And here is the English-text summary:
+
+This tentative ruling addresses the motions filed by defendants CUNNINGHAM, GUERRA ENTERPRISES, INC., and BAGUES to dismiss the case. The motions are deemed MOOT due to a joint stipulation to file a second amended complaint, which was received by the court on June 24, 2024. However, the second amended complaint was rejected and the plaintiffs are ordered to file and serve a new complaint within 5 days.

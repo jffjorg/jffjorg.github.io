@@ -1,0 +1,53 @@
+Here is the summary in YAML format:
+
+```
+Case Number: 23STCV28569
+Plaintiff's Name: William Hoyman
+Defendant's Name: Michael Elliott Plotkin
+People-Names:
+  - William Hoyman
+  - Michael Elliott Plotkin
+Company-Names: None
+Places:
+  - Los Angeles
+  - California
+Dates:
+  - November 21, 2023
+  - May 17, 2024
+  - June 18, 2024
+  - June 27, 2024
+  - July 25, 2024
+Events:
+  - Plaintiff filed a motion to deem RFAs admitted
+  - Deadline for Defendant to respond to RFAs passed
+  - Plaintiff served RFAs on Defendant
+  - Defendant failed to respond to RFAs
+Money:
+  - $2,380.00 (sanctions)
+Intentions:
+  - Plaintiff intends to have RFAs deemed admitted
+  - Defendant failed to respond to RFAs
+Facts:
+  - Plaintiff served RFAs on Defendant on May 17, 2024
+  - Deadline for Defendant to respond was June 18, 2024
+  - Defendant failed to respond to RFAs
+Disputes:
+  - Defendant's failure to respond to RFAs
+Acts:
+  - Plaintiff served RFAs on Defendant
+  - Defendant failed to respond to RFAs
+  - Plaintiff filed a motion to deem RFAs admitted
+Agreements: None
+Laws:
+  - California Code of Civil Procedure, Section 2033.280
+  - California Code of Civil Procedure, Section 2033.220
+Case Citations: None
+Statutes:
+  - California Code of Civil Procedure, Section 2033.280
+  - California Code of Civil Procedure, Section 2033.220
+Roles:
+  - Judge: Hon. Thomas D. Long
+  - Plaintiff: William Hoyman
+  - Defendant: Michael Elliott Plotkin
+Significant Statements:
+  - "The court shall grant a motion to deem admitted requests for admissions, “unless it finds that the party to whom the requests for admission have been directed has served, before the hearing on the motion, a proposed response to the requests for admission that is in substantial compliance with Section 2033.220.”"

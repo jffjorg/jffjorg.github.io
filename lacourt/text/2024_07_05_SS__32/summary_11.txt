@@ -1,0 +1,63 @@
+Here is the summary in YAML format:
+
+```
+case_number: 23STCV22727
+plaintiff_name: Casey Grant
+defendant_name: Thomas Gerald Chu
+people_names:
+  - Casey Grant
+  - Thomas Gerald Chu
+company_names:
+  - None
+places:
+  - None
+dates:
+  - March 16, 2024
+  - April 16, 2024
+  - July 5, 2024
+events:
+  - Demand for Production of Documents, Set One
+  - Special Interrogatories, Set One
+  - Form Interrogatories, Set One
+  - Motion to Compel Responses
+  - Motion to Compel Demand for Inspection
+money:
+  - $1,192.50
+intentions:
+  - To compel responses to discovery requests
+  - To impose monetary sanctions
+facts:
+  - Plaintiff failed to serve responses to discovery requests
+  - Defendant served discovery requests on March 16, 2024
+  - Responses were due April 16, 2024
+  - No responses have been served
+disputes:
+  - Failure to respond to discovery requests
+  - Monetary sanctions
+acts:
+  - Serving discovery requests
+  - Failing to respond to discovery requests
+agreements:
+  - None
+laws:
+  - Code of Civil Procedure Section 2030.290
+  - Code of Civil Procedure Section 2031.300
+  - California Rules of Court, rule 3.1348(a)
+case_citations:
+  - Leach v. Superior Court (1980) 111 Cal.App.3d 902, 905-906
+statutes:
+  - Code of Civil Procedure Section 2030.290
+  - Code of Civil Procedure Section 2031.300
+roles:
+  - Judge
+  - Plaintiff
+  - Defendant
+  - Counsel
+significant_statements:
+  - The Court grants the defendant's motions to compel responses to discovery requests.
+  - The Court awards monetary sanctions against the plaintiff and counsel in the amount of $1,192.50.
+```
+
+And here is a summary of the judge's tentative ruling in English text:
+
+The defendant, Thomas Gerald Chu, moves to compel the plaintiff, Casey Grant, to serve verified responses to discovery requests. The defendant also requests monetary sanctions against the plaintiff and counsel. The court grants the motions to compel and awards sanctions in the amount of $1,192.50. The plaintiff must provide responses to the discovery requests within 30 days, and the sanctions must be paid within 30 days of the date of this order.

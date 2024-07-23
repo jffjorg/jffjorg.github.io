@@ -1,0 +1,67 @@
+Here is the summary in YAML format:
+
+```
+case_number: 2023-001
+plaintiff_name: State Farm General Insurance Company
+defendant_names: Jesus Lucas, Elizabeth Torres
+people_names:
+  - Jesus Lucas
+  - Elizabeth Torres
+  - Mary Sims
+company_names:
+  - State Farm General Insurance Company
+places:
+  - Brazil
+dates:
+  - February 1, 2023
+  - November 3, 2023
+  - May 8, 2024
+  - June 25, 2024
+  - July 5, 2024
+  - December 19, 2023
+  - January 22, 2024
+  - March 27, 2024
+events:
+  - Subrogation lawsuit
+  - Motion to deem requests for admission as admitted
+  - Failure to respond to requests for admission
+money:
+  - $200 per hour
+  - $60 filing fee
+  - $460 (monetary sanctions)
+intentions:
+  - To obtain discovery and establish the truth of the matters in the requests for admission
+facts:
+  - Plaintiff served requests for admission on Defendant Elizabeth Torres on December 19, 2023
+  - Defendant failed to respond to the requests
+  - Plaintiff moved for an order deeming the truth of the matters in the requests for admission admitted
+  - Defendant's counsel stated that Defendant moved to Brazil and has not been able to respond
+disputes:
+  - Failure to respond to requests for admission
+  - Failure to provide contact information
+acts:
+  - Service of requests for admission
+  - Failure to respond to requests for admission
+  - Motion to deem requests for admission as admitted
+  - Granting of the motion
+agreements:
+  - Code of Civil Procedure sections 2033.010, 2033.250(a), 2033.280(a), (b), and (c)
+  - Code of Civil Procedure section 2031.300(a) and (b)
+laws:
+  - California Code of Civil Procedure
+statutes:
+  - California Code of Civil Procedure sections 2033.010, 2033.250(a), 2033.280(a), (b), and (c)
+  - California Code of Civil Procedure sections 2031.300(a) and (b)
+roles:
+  - Plaintiff: State Farm General Insurance Company
+  - Defendant: Jesus Lucas and Elizabeth Torres
+  - Judge: [Judge's name]
+significant_statements:
+  - "Plaintiff is entitled to an order establishing the truth of the matters in the request for admission served on Defendant."
+  - "The Court finds that Plaintiff properly served the request for discovery, and Defendant has failed to provide responses."
+  - "The Court imposes monetary sanctions against Defendant in the amount of $460 to be paid within 20 days of this order."
+```
+
+Summary in English text:
+
+The Tentative Ruling grants Plaintiff State Farm General Insurance Company's motion to deem the truth of the matters in the requests for admission, set one, served on Defendant Elizabeth Torres as admitted. The Court finds that Plaintiff properly served the request for discovery, and Defendant has failed to provide responses. As a result, the Court grants the motion and orders the truth of the matters in the requests for admission admitted. Additionally, the Court grants Plaintiff's request for sanctions and imposes monetary sanctions against Defendant in the amount of $460 to be paid within 20 days of this order.

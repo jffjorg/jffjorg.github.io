@@ -1,0 +1,97 @@
+Here is the summary in YAML format:
+
+```
+case_number: 23AHCV02255
+plaintiff_name: Hether Flores
+defendant_name:
+  - Trader Joe's Company
+  - B-K La Canada Property, LLC
+  - Does 1 to 50, inclusive
+
+people_names:
+  - Hether Flores
+  - Amber Esposito
+  - Defense Counsel (unspecified)
+
+company_names:
+  - Trader Joe's Company
+  - B-K La Canada Property, LLC
+
+places:
+  - La Canada
+
+dates:
+  - September 29, 2023 (filing of action)
+  - September 26, 2022 (incident)
+  - February 5, 2024 (service of notice of deposition)
+  - February 28, 2024 (request for new deposition date)
+  - May 6, 2024 (email from defense counsel)
+  - May 7, 2024 (rescheduled deposition date)
+  - May 10 and 16, 2024 (meet and confer attempts)
+  - July 16, 2024 (hearing date)
+  - March 11, 2025 (trial date)
+
+events:
+  - Incident at Trader Joe's store
+  - Service of notice of deposition
+  - Request for new deposition date
+  - Rescheduling of deposition
+  - Failure to appear at deposition
+  - Attempt to meet and confer
+  - Filing of motion to compel deposition
+  - Hearing on motion to compel deposition
+
+money:
+  - $1,802.50 (amount of monetary sanctions)
+
+intentions:
+  - Plaintiff seeks to compel Defendant's Person Most Knowledgeable to appear for deposition and produce documents
+  - Plaintiff requests monetary sanctions
+
+facts:
+  - Plaintiff was injured at Trader Joe's store
+  - Plaintiff served notice of deposition on Defendant
+  - Defendant did not serve valid objections or appear at deposition
+  - Plaintiff's counsel attempted to discuss mutually convenient deposition dates
+
+disputes:
+  - Failure to comply with deposition notice
+
+acts:
+  - Service of notice of deposition
+  - Failure to appear at deposition
+  - Request for new deposition date
+  - Rescheduling of deposition
+  - Failure to produce documents
+
+agreements:
+  - Plaintiff's counsel and defense counsel discussed mutually convenient deposition dates
+
+laws:
+  - Code of Civil Procedure section 2025.450, subdivision (a)
+  - Code of Civil Procedure section 2023.030, subdivision (a)
+  - Code of Civil Procedure section 2025.450, subdivision (b)(2)
+
+statutes:
+  - Code of Civil Procedure section 2025.450, subdivision (a)
+  - Code of Civil Procedure section 2023.030, subdivision (a)
+  - Code of Civil Procedure section 2025.450, subdivision (g)(1)
+
+roles:
+  - Judge Joel L. Lofton
+  - Plaintiff Hether Flores
+  - Defendant B-K La Canada Property, LLC
+  - Defense Counsel
+
+significant statements:
+  - "Plaintiff moves for an order compelling Defendant B-K La Canada Property, LLC’s Person Most Knowledgeable to appear for a deposition and produce documents requested within ten days of the Court’s order."
+  - "Plaintiff also requests monetary sanctions in the amount of $1,802.50."
+  - "Plaintiff’s Motion is GRANTED."
+  - "The Court finds that Plaintiff is entitled to relief pursuant to Code of Civil Procedure section 2025.450, subdivision (a)."
+  - "The Court may also impose monetary sanctions."
+  - "The Court finds sanctions in the amount of $1,802.50 to be appropriate."
+```
+
+And here is a summary in English text:
+
+This is a tentative ruling by Judge Joel L. Lofton on a motion to compel deposition filed by Plaintiff Hether Flores against Defendants Trader Joe's Company and B-K La Canada Property, LLC. The Plaintiff seeks to compel Defendant B-K's Person Most Knowledgeable to appear for deposition and produce documents requested within ten days of the Court's order. The Plaintiff also requests monetary sanctions in the amount of $1,802.50. The Court grants the Plaintiff's motion and orders Defendant B-K to appear at a properly noticed deposition and produce the requested documents within ten days. The Court also grants the Plaintiff's request for monetary sanctions in the amount of $1,802.50, to be paid by Defendant B-K within thirty days of the Court's order. The Court finds that the Plaintiff is entitled to relief under Code of Civil Procedure section 2025.450, subdivision (a), and that the Defendant's failure to comply with the deposition notice constitutes a misuse of the discovery process.

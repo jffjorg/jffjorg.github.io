@@ -1,0 +1,52 @@
+Here is the summary in YAML format:
+
+```
+case_number: "22STCV11529"
+plaintiff_name: "Hiben Arches"
+defendant_name: "Diane Inha Lee and DOES 1 to 50"
+people_names:
+  - Hiben Arches
+  - Diane Inha Lee
+company_names: []
+places:
+  - Los Angeles
+  - California
+dates:
+  - April 5, 2022
+  - May 10, 2024
+  - May 20, 2024
+  - July 8, 2024
+  - August 19, 2024
+events:
+  - Filing of Complaint
+  - Motion to Continue Trial
+  - Continuation of trial date
+money: []
+intentions:
+  - To continue the trial
+facts:
+  - Plaintiff filed a Complaint on April 5, 2022
+  - Plaintiff moved to continue the trial on May 10, 2024
+  - Trial date was previously continued to August 19, 2024
+disputes:
+  - Dispute over the continuance of the trial
+acts:
+  - Plaintiff filed a Complaint
+  - Plaintiff moved to continue the trial
+agreements:
+  - Trial date was previously continued to August 19, 2024
+laws:
+  - Not specified
+case_citations: []
+statutes: []
+roles:
+  - Judge: Hon. Karen Moskowitz
+  - Plaintiff: Hiben Arches
+  - Defendant: Diane Inha Lee and DOES 1 to 50
+significant_statements:
+  - The motion is moot because the trial date was already continued to August 19, 2024
+```
+
+And here is the English-text summary:
+
+The Judge, Hon. Karen Moskowitz, has issued a tentative ruling on the motion to continue the trial in the case of Hiben Arches versus Diane Inha Lee and DOES 1 to 50. The Plaintiff, Hiben Arches, filed a Complaint on April 5, 2022, alleging causes of action for motor vehicle and general negligence. The Plaintiff then moved to continue the trial on May 10, 2024. However, the Court notes that the trial date was already continued to August 19, 2024, making the current motion moot. Therefore, the Judge is taking the motion off calendar and ordering the Plaintiff to give notice. The case is scheduled to be heard on August 19, 2024.

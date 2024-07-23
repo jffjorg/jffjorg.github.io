@@ -1,0 +1,49 @@
+Here is the summary in YAML format:
+
+```
+case_number: CIV-100
+plaintiff_name: Cross-Complainant(s)
+defendant_name: Cross-Defendant
+people_names:
+  - Blanca Schlup
+  - Martha Bautista
+company_names: []
+places: []
+dates: []
+events:
+  - Request for default judgment
+  - Filing of statement of damages
+  - Filing of declaration in support of judgment
+  - Entry of default
+  - Striking of entry of default
+money:
+  - $1,080
+  - $210
+intentions: 
+  - To correct defects in Cross-Complainant's request for default judgment
+facts:
+  - Only one Cross-Complainant has filed a statement of damages
+  - No statement of damages filed for Cross-Complainant Martha Bautista
+  - Cross-Complainant Bautista has not filed a declaration in support of judgment
+disputes:
+  - Dispute over completeness of Cross-Complainant's request for default judgment
+acts:
+  - Filing of request for default judgment
+  - Filing of statement of damages
+  - Filing of declaration in support of judgment
+agreements: []
+laws: []
+case_citations: []
+statutes: []
+roles:
+  - Judge
+  - Cross-Complainant(s)
+  - Cross-Defendant
+significant_statements:
+  - The Court has reviewed the request for default judgment against Cross-Defendant and is CONTINUING the matter...
+  - Cross-Complainant Bautista's entry of default against Cross-Defendant will need to be stricken.
+```
+
+And here is a summary of the judge's tentative ruling in English text:
+
+The judge is continuing the case until the Cross-Complainants can correct certain defects in their request for default judgment against the Cross-Defendant. Specifically, only one Cross-Complainant (Blanca Schlup) has filed a statement of damages, while the other Cross-Complainant (Martha Bautista) has not. Additionally, Cross-Complainant Bautista has not filed a declaration in support of the judgment sought. The judge also notes that there was a discrepancy between the filing fees listed on the request for default judgment ($1,080) and the declaration filed by counsel ($210), which should be corrected.

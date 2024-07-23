@@ -1,0 +1,85 @@
+Here is the summary in YAML format:
+
+```
+case_number: 22SCV12898
+hearing_date: 2024-06-25
+dept: 27
+judge: Hon. Lee S. Arian, Dept 27
+
+people_names:
+  - GEVORG BADALYAN
+  - Doe 1
+  - Doe 2-10
+  - Doe 12-100
+
+company_names:
+  - Brookfield Properties
+  - Helzberg's Diamond Shops, LLC
+  - Glendale Galleria
+  - Watch Zone
+
+places:
+  - Glendale
+
+dates:
+  - 2022-04-18
+  - 2024-03-01
+
+events:
+  - Plaintiff filed a complaint
+  - Defendant Watch Zone moves to strike
+  - Court hearing
+
+money:
+  - punitive damages
+
+intentions:
+  - Defendant Watch Zone seeks to strike punitive damages from plaintiff's complaint
+
+facts:
+  - Plaintiff was falsely accused of theft and detained
+  - Defendant Watch Zone allegedly reported to the police that plaintiff stole something
+  - Plaintiff's complaint contains allegations against named defendants, but not against Watch Zone
+  - Plaintiff failed to plead facts with specificity regarding Watch Zone's knowledge
+
+disputes:
+  - Defendant Watch Zone's involvement in the matter
+  - Plaintiff's ability to amend the complaint to allege punitive damages against Watch Zone
+
+acts:
+  - Plaintiff filed a complaint
+  - Defendant Watch Zone moved to strike
+  - Court considered the motion
+
+agreements:
+  - None
+
+laws:
+  - Code Civ. Proc. § 436(a)
+  - Code Civ. Proc. § 436(b)
+  - Civ. Code, § 3294(b)
+
+case_citations:
+  - Vaccaro v. Kaiman (1998) 63 Cal.App.4th 761
+  - Blank v. Kirwan (1985) 39 Cal.3d 311
+  - Smith v. Superior Court (1992) 10 Cal.App.4th 1033
+  - Today's IV, Inc. v. Los Angeles County Metropolitan Transportation Authority (2022) 83 Cal.App.5th 1137
+
+statutes:
+  - Civ. Code, § 3294(b)
+  - Code Civ. Proc. § 436(a)
+  - Code Civ. Proc. § 436(b)
+
+roles:
+  - Judge: Hon. Lee S. Arian, Dept 27
+  - Plaintiff: GEVORG BADALYAN
+  - Defendant: Watch Zone
+
+significant_statements:
+  - The court is not persuaded that the allegations are sufficient to sustain a prayer for punitive damages
+  - The present motion to strike is granted without leave to amend
+```
+
+And here is the English-text summary:
+
+The Judge has issued a tentative ruling in the case of GEVORG BADALYAN vs. BROOKFIELD PROPERTIES, granting the motion to strike the prayer for punitive damages against Defendant Watch Zone. The court finds that the allegations in the complaint are not specific enough to support a claim of punitive damages against Watch Zone, as they are general and apply to multiple other defendants. The court also notes that the complaint lacks specific allegations regarding Watch Zone's knowledge or involvement in the matter. As a result, the court strikes the prayer for punitive damages without leave to amend.

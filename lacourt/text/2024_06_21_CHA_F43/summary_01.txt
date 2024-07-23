@@ -1,0 +1,49 @@
+Here is the summary of the tentative ruling in YAML format:
+
+```
+case_number: 21CHCV00423
+plaintiff_name: Win Partners, LLC
+defendant_name: World Tech Toys, Inc., et al.
+people_names:
+  - Aaron M. McKown
+  - William P. Cassidy, Jr.
+  - Kevork Kouyoumjian
+company_names:
+  - Win Partners, LLC
+  - World Tech Toys, Inc.
+  - World Trading 23, Inc.
+places: California, Florida
+dates:
+  - 6-21-24 (Hearing Date)
+  - 5-5-25 (Trial Date)
+events:
+  - MOTION TO BE ADMITTED PRO HAC VICE
+  - Request for attorney to be admitted pro hac vice
+money: None
+intentions: To be admitted pro hac vice
+facts:
+  - Defendant's California counsel, Aaron M. McKown, has filed an application for pro hac vice status for Florida attorney William P. Cassidy, Jr.
+  - The declaration of Mr. Cassidy filed in support of his application mostly complies with the requirements of Cal. Rules of Court Rule 9.40, except for one issue.
+  - Mr. Cassidy's declaration does not state the date of his other applications for pro hac vice status and whether the application was granted.
+disputes:
+  - Procedural grounds
+acts:
+  - Filing an application for pro hac vice status
+agreements: None
+laws:
+  - Cal. Rules of Court Rule 9.40
+  - Cal. Rules of Court Rule 9.40(d)
+case_citations: None
+statutes: None
+roles:
+  - Judge
+  - Plaintiff
+  - Defendant
+  - Attorney
+significant_statements:
+  - The motion to be admitted pro hac vice is denied without prejudice on procedural grounds.
+```
+
+And here is the English-text summary:
+
+This tentative ruling denies the motion to admit William P. Cassidy, Jr., a Florida attorney, to appear as counsel pro hac vice in a case brought by Win Partners, LLC against World Tech Toys, Inc., et al. The motion was filed by the defendants, but no response was filed by the plaintiff. The judge denied the motion without prejudice on procedural grounds due to the application not conforming to the requirements of Cal. Rules of Court Rule 9.40, specifically the omission of the date of other applications for pro hac vice status and whether they were granted. The judge orders the moving party to give notice of this ruling.

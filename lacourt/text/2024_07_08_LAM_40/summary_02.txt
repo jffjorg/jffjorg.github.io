@@ -1,0 +1,65 @@
+Here is the summary in YAML format:
+
+```
+case_number: 22STCV21326
+plaintiff: Faramarz Nazmifar
+defendant: Behzad Ben Toubian, Brentanita Inc., a California Corporation, and Does 1 through 20
+people_names:
+  - Faramarz Nazmifar
+  - Behzad Ben Toubian
+  - JT Fox
+company_names:
+  - Law Offices of JT Fox, APC
+  - Brentanita Inc.
+places:
+  - Los Angeles
+  - California
+dates:
+  - April 16, 2024
+  - July 8, 2024
+  - April 29, 2025
+events:
+  - Motion to be Relieved as Counsel
+money:
+  - None
+intentions:
+  - Law Offices of JT Fox, APC's intention to withdraw as counsel for Brentanita Inc.
+facts:
+  - Law Offices of JT Fox, APC filed a motion to be relieved as counsel for Brentanita Inc. on April 16, 2024
+  - The motion is unopposed and now before the court
+disputes:
+  - None
+acts:
+  - Law Offices of JT Fox, APC filed Judicial Council forms MC-051 to MC-053 with the court
+  - The forms were served on Plaintiff Nazmifar, Defendant Toubian, and Defendant Brentanita
+agreements:
+  - None
+laws:
+  - Code of Civil Procedure, section 284, subdivision (2)
+  - California Rules of Court, rule 3.1362
+  - Ramirez v. Sturdevant (1994) 21 Cal.App.4th 904, 915
+  - Mandell v. Superior Court (1977) 67 Cal.App.3d 1, 4
+  - People v. Prince (1968) 268 Cal.App.2d 398, 406
+case_citations:
+  - Ramirez v. Sturdevant (1994) 21 Cal.App.4th 904, 915
+  - Mandell v. Superior Court (1977) 67 Cal.App.3d 1, 4
+  - People v. Prince (1968) 268 Cal.App.2d 398, 406
+statutes:
+  - Code of Civil Procedure, section 284
+  - California Rules of Court, rule 3.1362
+roles:
+  - Law Offices of JT Fox, APC (attorney)
+  - Faramarz Nazmifar (plaintiff)
+  - Behzad Ben Toubian (defendant)
+  - Brentanita Inc. (defendant)
+  - Judge (ruling)
+significant_statements:
+  - The court grants Law Offices of JT Fox, APC's motion to be relieved as counsel for Brentanita Inc.
+  - The attorney has complied with California Rules of Court, rule 3.1362
+  - There is a facially valid reason for withdrawal ("breakdown of attorney-client relationship")
+  - The motion is granted without prejudice to the client's interests
+```
+
+And here is a summary of the judge's tentative ruling in English text:
+
+The judge has granted a motion filed by Law Offices of JT Fox, APC to be relieved as counsel for Brentanita Inc. The motion is unopposed and the court has found that the attorney has complied with the requirements of California Rules of Court, rule 3.1362. The attorney has filed the required forms and served them on the parties involved. The court has also found that there is a facially valid reason for withdrawal, namely a breakdown of the attorney-client relationship. Since there is no opposition to the motion and no showing of prejudice or delay, the court has granted the motion without prejudice to the client's interests.

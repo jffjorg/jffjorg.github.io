@@ -1,0 +1,36 @@
+Here is a summary of the judge's tentative ruling in YAML format:
+
+```
+case_number: 21STCV13446
+hearing_date: June 25, 2024
+dept: 29
+
+people_names:
+  - Martha Fox
+  - Paige Smith Grunfeld
+  - Michael Benson
+
+company_names:
+  - Excel Paving Company
+  - Palp
+  - City of Beverly Hills
+
+places:
+  - Beverly Hills
+  - North Palm Drive
+  - Alleyway
+  - 404 North Palm Drive
+
+dates:
+  - March 8, 2020 (date of accident)
+  - April 8, 2021 (filing of complaint)
+  - May 13, 2021 (City's answer and cross-complaint)
+  - April 18, 2022 (Plaintiff's amended complaint)
+  - January 12, 2024 (Excel's motion for summary judgment)
+  - March 21, 2024 (hearing on City's motion for summary judgment)
+  - June 3, 2024 (denial of City's motion for summary judgment)
+
+events:
+  - Construction work in the alleyway
+  - Plaintiff's fall on March 8, 2020
+  - Plaintiff's filing of complaint on April 

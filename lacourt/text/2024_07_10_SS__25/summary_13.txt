@@ -1,0 +1,73 @@
+Here is the summary in YAML format:
+
+```
+case_number: [Not specified]
+plaintiff_name: Croft Plaza Apartments Homes LLC
+defendant_name: William Mochon
+people_names:
+  - Croft Plaza Apartments Homes LLC
+  - William Mochon
+company_names:
+  - Croft Plaza Apartments Homes LLC
+places:
+  - California
+dates:
+  - September 6, 2023
+  - October 6, 2023
+  - December 27, 2023
+  - June 17, 2024
+  - July 5, 2024
+events:
+  - Unlawful detainer action filed
+  - Answer filed
+  - Reassignment to Independent Calendar Court
+  - Motion for summary judgment filed
+money:
+  - Monthly rent owed
+  - Damages
+intentions:
+  - Plaintiff seeks summary judgment on rent owed
+  - Defendant seeks dismissal of action
+facts:
+  - Defendant vacated the property
+  - No opposition filed to motion for summary judgment
+disputes:
+  - Issue of possession has become moot
+  - Case is now an ordinary civil action
+acts:
+  - Plaintiff filed motion for summary judgment
+  - Defendant failed to file opposition
+agreements:
+  - None mentioned
+laws:
+  - Code of Civil Procedure § 1170.7
+  - Code of Civil Procedure § 437c(a)(2)
+  - Code of Civil Procedure § 1179a
+  - Code of Civil Procedure § 1952
+  - Fish Construction Co. v. Moselle Coach Works, Inc.
+  - Cuff v. Grossmont Union High School Dist.
+  - McMahon v. Superior Court
+  - Urshan v. Musicians’ Credit Union
+  - Hernandez v. Superior Court
+  - Credit Suisse First Boston Mortgage Capital v. Danning, Gill, Diamond & Kollitz
+  - Lyons v. Security Pacific National Bank
+case_citations:
+  - See above
+statutes:
+  - Code of Civil Procedure § 1170.7
+  - Code of Civil Procedure § 437c(a)(2)
+  - Code of Civil Procedure § 1179a
+  - Code of Civil Procedure § 1952
+roles:
+  - Judge
+  - Plaintiff
+  - Defendant
+significant_statements:
+  - The case is no longer an unlawful detainer action but an ordinary civil action.
+  - The notice period for a motion for summary judgment is insufficient.
+  - The Court lacks power to change the notice and filing periods of section 437c.
+```
+
+And here is the English text to summarize the judge's tentative ruling:
+
+The judge has denied the plaintiff's motion for summary judgment without prejudice. The case is no longer an unlawful detainer action, but an ordinary civil action for rent. The notice period for the motion was insufficient, as it was filed without giving the required 75 days' notice to the defendant. The judge notes that the case is now proceeding as an ordinary civil action, and the time period for a motion for summary judgment on the issue of rent owed would follow the ordinary civil time period rather than that of an unlawful detainer action. The moving party is ordered to give notice.

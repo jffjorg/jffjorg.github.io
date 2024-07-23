@@ -1,0 +1,66 @@
+Here is the summary of the judge's tentative ruling in YAML format:
+
+```
+case_number: 23NWCV01923
+hearing_date: 2024-06-27
+dept: C
+plaintiff: COOPER
+defendant: OCTAPHARMA PLASMA, INC., CAITLIN RYAN
+people_names:
+  - COOPER
+  - CAITLIN RYAN
+company_names:
+  - OCTAPHARMA PLASMA, INC.
+places:
+  - California
+dates:
+  - 2023-09-25
+  - 2023-10-27
+  - 2024-06-27
+  - 2024-07-11
+events:
+  - Motion to Compel
+  - Motion for Vexatious Litigant determination
+  - Order Requiring Plaintiff to Furnish Security
+money:
+  - $100.00
+intentions:
+  - To compel defendant's responses to special interrogatories
+  - To determine vexatious litigant status
+  - To require plaintiff to furnish security
+facts:
+  - Defendant CAITLIN RYAN failed to respond to special interrogatories
+  - Plaintiff COOPER moved to compel defendant's responses
+  - Defendant's responses were signed and verified
+disputes:
+  - Insufficient verification of responses
+  - Failure to respond to discovery requests
+acts:
+  - Service of special interrogatories
+  - Filing of motion to compel
+agreements:
+  - California Code of Civil Procedure (CCP) §2030.250(a)
+  - California Code of Civil Procedure (CCP) §2031.320, subd. (b)
+  - California Code of Civil Procedure (CCP) §2023.030, subd. (a)
+laws:
+  - California Code of Civil Procedure (CCP)
+  - California Rules of Court
+case_citations:
+  - Sinaiko Healthcare Consulting, Inc. v. Pac. Healthcare Consultants (2007) 148 Cal.App.4th 390, 404
+  - Wiel & Brown, Cal. Practice Guide: Civil Procedure Before Trial (The Rutter Group 2020)
+  - Cal. Judges Benchbook: Civil Proceedings – Discovery (CJER Sept. 2022)
+statutes:
+  - California Code of Civil Procedure (CCP)
+roles:
+  - Judge
+  - Plaintiff (COOPER)
+  - Defendant (OCTAPHARMA PLASMA, INC., CAITLIN RYAN)
+significant_statements:
+  - The Court finds the response is adequately signed and verified.
+  - The Court concludes that the Plaintiff has not acted with substantial justification.
+  - The Court GRANTS Defendant Ryan's Request for Sanctions.
+```
+
+And here is a summary of the judge's tentative ruling in English text:
+
+The judge has issued a tentative ruling on a hearing scheduled for June 27, 2024. The case involves a motion by the plaintiff, COOPER, to compel the defendant, CAITLIN RYAN, to respond to special interrogatories. The judge has denied this motion, finding that the defendant's responses were properly signed and verified. The judge also granted the defendant's request for sanctions against the plaintiff, imposing a fine of $100.00, due to the plaintiff's failure to act with substantial justification in bringing the motion. The judge has also continued the defendant's motion for vexatious litigant determination to July 11, 2024.

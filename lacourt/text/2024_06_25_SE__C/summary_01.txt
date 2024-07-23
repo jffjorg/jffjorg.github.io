@@ -1,0 +1,65 @@
+Here is the summary in YAML format:
+
+```
+case_number: 19NWCV00417
+plaintiff_name: Thee Aguila Inc.
+defendant_name: Blackwood, et al.
+people_names:
+  - Henry Aguila
+  - Mercury Bowl, LLC
+  - Green Rivera, LLC
+company_names:
+  - Thee Aguila Inc.
+  - Mercury Bowl, LLC
+  - Green Rivera, LLC
+  - Pico Rivera First Mortgage Investor, LP
+places:
+  - Norwalk Courthouse
+  - Santa Barbara
+  - Norwalk
+dates:
+  - September 29, 2023
+  - May 29, 2024
+  - February 20, 2024
+  - February 22, 2024
+  - June 25, 2024
+  - September 17, 2024
+events:
+  - Appeal resolution
+  - Hearing on Motion for Summary Judgment
+  - Status Hearing
+money: $0
+intentions:
+  - Schedule Motions for Summary Judgment
+  - Continue Hearing on Motion for Summary Judgment
+  - Determine status of related case
+facts:
+  - Court stayed case pending appeal resolution
+  - Appeal from related case has been resolved
+disputes:
+  - None specified
+acts:
+  - Court granted stay of case
+  - Court advanced and continued hearing on Motion for Summary Judgment
+agreements:
+  - None specified
+laws:
+  - None specified
+case_citations:
+  - 18CV04958
+  - B322020
+statutes:
+  - None specified
+roles:
+  - Judge
+  - Plaintiff (Thee Aguila Inc.)
+  - Defendant (Blackwood, et al.)
+  - Cross-Complainants (Mercury Bowl, LLC and Green Rivera, LLC)
+significant_statements:
+  - The Court finds that the Motions for Summary Judgment may be scheduled following the resolution of the appeal.
+  - The Hearing on Motion for Summary Judgment is advanced and continued to September 17, 2024.
+```
+
+And here is a summary of the judge's tentative ruling in English text:
+
+The judge's tentative ruling updates the status of a case that was previously stayed pending the resolution of an appeal from a related case. The appeal has been resolved, and the judge finds that the motions for summary judgment may now be scheduled. The hearing on the motion for summary judgment, which was previously scheduled for June 25, 2024, is advanced and continued to September 17, 2024.

@@ -1,0 +1,50 @@
+Here is the summary in YAML format:
+
+```
+Case Number: [insert case number]
+Plaintiff's Name: [insert plaintiff's name]
+Defendant's Name: [insert defendant's name]
+People-Names:
+  - Mr. Barry
+Company-Names: []
+Places: []
+Dates:
+  - January 13, 2022
+  - April 1, 2023
+  - March 31, 2023
+Events:
+  - Fee motion
+  - Motion to Tax Costs
+  - Services rendered
+Money:
+  - $600
+  - $625
+Intentions:
+  - Plaintiff seeks to have challenges to costs overruled
+  - Defendant failed to bring a Motion to Tax Costs
+Facts:
+  - Plaintiff did not file a separate memorandum of costs
+  - Costs were attached as an Exhibit to the fee motion
+  - Time to file a Motion to Tax Costs may not have commenced
+Disputes:
+  - Plaintiff vs. Defendant regarding costs
+Acts:
+  - Filing of fee motion
+  - Filing of costs as an Exhibit
+  - Failure to bring a Motion to Tax Costs
+Agreements: []
+Laws: []
+Case Citations: []
+Statutes: []
+Roles:
+  - Plaintiff
+  - Defendant
+  - Mr. Barry (as service provider)
+Significant Statements:
+  - Plaintiff's hourly rate request is higher in the motion than in the declaration
+  - Time to file a Motion to Tax Costs may not have commenced
+```
+
+And here is the English-text summary:
+
+The Court has issued a tentative ruling on a fee motion filed by Plaintiff. The ruling notes that Plaintiff's request for an hourly rate of $600 for services rendered after January 13, 2022, and $625 for services rendered after April 1, 2023, is higher than the rate requested in his declaration. The Court also points out that Plaintiff did not file a separate memorandum of costs, but rather attached it as an Exhibit to the fee motion, which may mean that the time to file a Motion to Tax Costs has not yet begun. The Court will consider these factors when making a final decision on the fee motion.

@@ -1,0 +1,54 @@
+Here is the summary in YAML format:
+
+```
+Case Number: [insert case number]
+Plaintiff's Name: Richter
+Defendant's Name: Respondents
+People-Names:
+  - Richter
+  - Respondents
+Company-Names: []
+Places: []
+Dates:
+  - May 9, 2024
+  - May 22, 2024
+Events:
+  - Demurrer filed
+  - Demurrer served
+  - Judicial notice requested
+  - Opposition filed
+Money: []
+Intentions:
+  - To address the demurrer
+  - To request judicial notice
+Facts:
+  - Richter filed an opposition and memorandum of points and authorities
+  - The opposition exceeds the 15-page limit
+  - The demurrer was filed and served within the 30-day deadline
+  - Individual Respondents have quasi-judicial immunity
+Disputes:
+  - Timeliness of the demurrer
+  - Immunity of individual Respondents
+Acts:
+  - Filing of opposition and memorandum
+  - Filing of demurrer
+Agreements: []
+Laws:
+  - California Rules of Court (CRC) 3.1113(d)
+  - Evidence Code §452(c)
+  - California Code of Civil Procedure (CCP) section 430.40(a)
+  - Falls v. Superior Court (1996)
+Statutes:
+  - CCP section 430.40(a)
+  - Evidence Code §452(c)
+Roles:
+  - Richter: plaintiff
+  - Respondents: defendants
+Significant Statements:
+  - The court will only consider the ten-page opposition
+  - The demurrer is sustained for individual Respondents sued in their personal capacity
+```
+
+And here is the English-text summary:
+
+This tentative ruling addresses the demurrer filed by Respondents against plaintiff Richter. The court notes that Richter's opposition and memorandum of points and authorities exceed the 15-page limit, and the court will only consider the ten-page opposition. Respondents' request for judicial notice of the ODA is granted. The demurrer is found to be timely, as it was filed and served within the 30-day deadline. The court also sustains the demurrer for individual Respondents sued in their personal capacity, as they have absolute quasi-judicial immunity.

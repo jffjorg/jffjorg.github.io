@@ -1,0 +1,55 @@
+Here is the summary in YAML format:
+
+```
+Case Number: [insert case number]
+Plaintiff's Name: [insert plaintiff's name]
+Defendant's Name: [insert defendant's name]
+People-Names:
+  - Huffman
+  - Judge Friedman
+  - James R. Boothe
+Company-Names:
+  - SBAM
+Places:
+  - None
+Dates:
+  - March 14
+Events:
+  - Meeting with Huffman
+  - Arbitration of claims
+  - Summary judgment
+Money: None
+Intentions:
+  - To resolve the case based on credibility of testimony
+  - To determine whether Plaintiff made a request to hire
+Facts:
+  - Plaintiff testified to making a request to hire at the March 14 meeting
+  - Plaintiff's testimony was supported by a declaration
+  - Plaintiff's declaration was considered self-serving by Defendants
+Disputes:
+  - Whether Plaintiff made a request to hire at the March 14 meeting
+  - Whether Plaintiff's testimony and declaration are credible
+Acts:
+  - Plaintiff's testimony and declaration
+  - Huffman's testimony
+Agreements: None
+Laws:
+  - None cited
+Case Citations:
+  - [insert case citations]
+Statutes:
+  - None cited
+Roles:
+  - Judge
+  - Plaintiff
+  - Defendant
+  - Arbitrator (Judge Friedman)
+  - Company executive (James R. Boothe)
+Significant Statements:
+  - "This case will turn on the credibility of Huffman's testimony and Plaintiff's testimony"
+  - "This is not a determination that can be made on summary judgment"
+```
+
+And here is the English-text summary:
+
+The Judge's tentative ruling states that the case will turn on the credibility of Huffman's testimony and Plaintiff's testimony. The Judge notes that the Defendants have selectively cited the evidence to omit the Plaintiff's testimony about whether he made a request to hire at the March 14 meeting with Huffman. The Judge also points out that the Defendants do not provide any authority to support their claim that testimony and a supporting declaration of an evidentiary fact cannot raise a triable issue. The Judge notes that the case will not be resolved through summary judgment and that the credibility of the testimony will be a key factor in the outcome.

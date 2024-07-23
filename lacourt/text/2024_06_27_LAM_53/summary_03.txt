@@ -1,0 +1,60 @@
+Here is the summary in YAML format:
+
+```
+case_number: BC724250
+plaintiff_name: Emilio Reyes
+defendant_name: Lorraine Ann Escobar, et al.
+people_names:
+  - Emilio Reyes
+  - Andrew Salas
+  - Lorraine Ann Escobar
+company_names:
+  - Los Indios de San Gabriel, Inc.
+places:
+  - Los Angeles
+  - California
+  - Central District
+dates:
+  - June 27, 2024
+  - May 15, 2024
+  - July 10, 2024
+  - March 6, 2023
+  - May 2, 2024
+  - April 30, 2024
+events:
+  - Trial
+  - Deposition
+  - Discovery motion
+money:
+  - $109.34
+intentions:
+  - Compel further responses to form interrogatories
+  - Award monetary sanctions
+facts:
+  - Discovery motion cutoff date has passed
+  - Plaintiff did not request extension of discovery motion cutoff date
+disputes:
+  - Plaintiff's motion to compel further responses to form interrogatories
+acts:
+  - Plaintiff noticed motion for hearing on June 27, 2024
+  - Defendant did not request monetary sanctions against Plaintiff
+agreements:
+  - Discovery motion cutoff date was April 30, 2024
+laws:
+  - California Code of Civil Procedure (Code Civ. Proc.)
+  - Pelton-Shepherd Industries, Inc. v. Delta Packaging Products, Inc.
+statutes:
+  - Code Civ. Proc., § 2024.020
+  - Code Civ. Proc., § 2024.050
+  - Code Civ. Proc., § 2030.300
+roles:
+  - Judge: Robert B. Broadbelt III
+significant statements:
+  - The court finds that the discovery motion cutoff date has passed and therefore denies Plaintiff's motion.
+  - The court denies Defendant's request for monetary sanctions against Plaintiff.
+  - The court orders defendant Andrew Salas to give notice of this ruling.
+```
+
+And here is the English-text summary:
+
+Judge Robert B. Broadbelt III has issued a tentative ruling on a motion filed by Plaintiff Emilio Reyes to compel further responses to form interrogatories. The motion was noticed for hearing on June 27, 2024, after the discovery motion cutoff date of April 30, 2024. The court finds that Plaintiff does not have a right to have the motion heard because it was noticed after the cutoff date, and therefore denies the motion. The court also denies Defendant Andrew Salas' request for monetary sanctions against Plaintiff in the amount of $109.34. The court orders Defendant Salas to give notice of this ruling.

@@ -1,0 +1,93 @@
+Here is the summary in YAML format:
+
+```
+case_number: 22PSCV01241
+plaintiff: American Contractors Indemnity Company
+defendant: Elias Castro, Enrique Lopez, E L Engineering Corp, Maria Rodriguez
+people_names:
+  - Enrique Lopez
+  - Maria Rodriguez
+  - Elias Castro
+  - Amber N. Kim
+company_names:
+  - American Contractors Indemnity Company
+  - E L Engineering Corp
+places:
+  - Ontario International Airport Administration Offices
+dates:
+  - December 11, 2014
+  - October 12, 2022
+  - December 13, 2022
+  - September 11, 2023
+  - November 20, 2023
+  - April 29, 2024
+  - June 6, 2024
+  - June 10, 2024
+  - June 13, 2024
+  - July 18, 2024
+events:
+  - Execution of general indemnity agreement
+  - Issuance of public works payment and performance surety bond
+  - Claims made on bond
+  - Payment of claims
+  - Filing of complaint
+  - Defaults entered
+  - Chapter 7 bankruptcy filing
+  - Dismissal of Rodriguez
+  - Entry of judgment
+  - Amended judgment
+money:
+  - $191,510.00 (amount of bond)
+  - $84,463.55 (amount of claims paid)
+  - $12,600.00 (amount of payments received)
+  - attorneys' and consultants' fees, costs and expenses
+intentions:
+  - Reimbursement from indemnitors
+facts:
+  - General indemnity agreement executed
+  - Bond issued
+  - Claims made and paid
+  - Defaults entered
+  - Chapter 7 bankruptcy filing
+  - Dismissal of Rodriguez
+  - Entry of judgment
+disputes:
+  - Breach of contract
+  - Statutory indemnity
+  - Declaratory relief
+acts:
+  - Execution of general indemnity agreement
+  - Issuance of public works payment and performance surety bond
+  - Claims made on bond
+  - Payment of claims
+  - Filing of complaint
+  - Defaults entered
+  - Chapter 7 bankruptcy filing
+  - Dismissal of Rodriguez
+  - Entry of judgment
+  - Amended judgment
+agreements:
+  - General indemnity agreement
+  - Stipulation for entry of judgment
+laws:
+  - California Code of Civil Procedure, Section 473
+  - California Code of Civil Procedure, Section 473, subdivision (a)(1)
+  - California Code of Civil Procedure, Section 473, subdivision (d)
+case_citations:
+  - Code Civ. Pro., § 473, subd. (a)(1)
+  - Code Civ. Pro., § 473, subd. (d)
+statutes:
+  - California Code of Civil Procedure, Section 473
+roles:
+  - Judge
+  - Plaintiff (American Contractors Indemnity Company)
+  - Defendant (Elias Castro, Enrique Lopez, E L Engineering Corp, Maria Rodriguez)
+  - Counsel (Amber N. Kim)
+significant_statements:
+  - The court may allow a party to amend any pleading or proceeding by adding or striking out the name of any party, or by correcting a mistake in the name of a party (Code Civ. Pro., § 473, subd. (a)(1)).
+  - The court may, upon motion of the injured party, or its own motion, correct clerical mistakes in its judgment or orders as entered, so as to conform to the judgment or order directed (Code Civ. Pro., § 473, subd. (d)).
+```
+
+And here is a summary of the judge's tentative ruling in English text:
+
+The judge grants the plaintiff's motion to amend the judgment due to a typographical error. The error occurred when the court entered an amended judgment on June 13, 2024, naming only Elias Castro and Enrique Lopez as defendants, while omitting E L Engineering Corp. The court finds that the error was clerical and that the court may correct it under California Code of Civil Procedure Section 473. The amended judgment will name all three defendants, E L Engineering Corp, Elias Castro, and Enrique Lopez, as judgment debtors.

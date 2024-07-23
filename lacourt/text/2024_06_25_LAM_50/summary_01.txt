@@ -1,0 +1,77 @@
+Here is the summary in YAML format:
+
+```
+Case Number: 19STCV46503
+Plaintiff's Name: Curtis R. Olson
+Defendant's Name: Vidala Aaronoff
+People-Names:
+  - Curtis R. Olson
+  - Vidala Aaronoff
+  - Gloria Martinez-Senftner
+Company-Names:
+  - ATW Trust
+Places:
+  - Los Angeles
+Dates:
+  - December 23, 2019
+  - August 29, 2023
+  - September 25, 2023
+  - October 16, 2023
+  - November 17, 2020
+  - November 1, 2023
+  - January 11, 2024
+  - February 21, 2024
+  - February 23, 2024
+  - March 22, 2024
+  - April 9, 2024
+  - April 11, 2024
+  - May 14, 2024
+  - May 21, 2024
+Events:
+  - Judgment Debtor Examination
+  - Motion to Quash
+  - Motion for Protective Order
+  - Objections to Subpoena
+  - Request for Attorney's Fees
+Money:
+  - $41,697.00 (attorney's fees)
+  - Judgment Amount (not specified)
+Intentions:
+  - Plaintiff seeks to collect on a judgment against Defendant
+  - Defendant seeks to quash a subpoena and obtain a protective order
+Facts:
+  - Subpoena duces tecum issued by Plaintiff
+  - Defendant served with subpoena and produced documents
+  - Defendant objects to subpoena and requests protective order
+Disputes:
+  - Whether the subpoena is overly broad and infringes on Defendant's right to privacy
+  - Whether the requests for production are relevant to the case
+Acts:
+  - Plaintiff filed a judgment and seeks to collect on it
+  - Defendant objects to the subpoena and requests a protective order
+Agreements:
+  - None specified
+Laws:
+  - California Code of Civil Procedure section 1987.1
+  - California Code of Civil Procedure section 1987.2
+  - California Constitution, Article I, section 1
+Case Citations:
+  - Lee v. Swansboro Country Property Owners Assn. (2007) 151 Cal.App.4th 575
+  - Davis v. Superior Court (1992) 7 Cal.App.4th 1008
+  - SCC Acquisitions, Inc. v. Superior Court (2015) 243 Cal.App.4th 741
+Statutes:
+  - California Code of Civil Procedure section 916
+  - California Code of Civil Procedure section 917.1
+  - California Code of Civil Procedure section 1987.1
+  - California Code of Civil Procedure section 1987.2
+Roles:
+  - Plaintiff: Curtis R. Olson
+  - Defendant: Vidala Aaronoff
+  - Judge: Hon. Teresa A. Beaudet
+Significant Statements:
+  - "The right of privacy is an inalienable right secured by article I, section 1 of the California Constitution."
+  - "Obtaining information to collect on a judgment is a valid significant interest."
+  - "The information sought by Western’s discovery is financial in nature and a protective order could be issued, if necessary, to safeguard privacy rights of third parties."
+```
+
+Note: Some information, such as the specific requests in the subpoena, is not included in the YAML format due to its lengthy and complex nature.

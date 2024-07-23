@@ -1,0 +1,62 @@
+Here is the summary in YAML format:
+
+```
+case_number: 21STCV34334
+plaintiff: Gilberto Vera
+defendant: Francisco Salas-Corona, Alfonso Del Real Montoya, Johnny Lobos, Does 1 to 10
+people_names:
+  - Gilberto Vera
+  - Francisco Salas-Corona
+  - Alfonso Del Real Montoya
+  - Johnny Lobos
+company_names: []
+places:
+  - California
+  - Sacramento
+  - Department of Motor Vehicles
+dates:
+  - January 31, 2021
+  - September 17, 2021
+  - March 8, 2024
+  - July 18, 2024
+events:
+  - Motor vehicle accident
+  - Service of summons and complaint
+  - Motion to quash service of summons
+money: []
+intentions:
+  - To quash service of summons
+  - To establish personal jurisdiction
+facts:
+  - Defendant Francisco Salas-Corona was personally served with summons and complaint at the DMV
+  - Proof of service shows service was made under Vehicle Code sections 17450 and 17454
+  - Plaintiff failed to show that notice of service was sent to Defendant by registered mail under Vehicle Code section 17455
+disputes:
+  - Defendant argues service was defective and the Court lacks personal jurisdiction
+  - Plaintiff failed to meet burden to show Defendant was a non-resident at the time of the accident
+acts:
+  - Plaintiff filed a complaint against Defendants
+  - Plaintiff filed a proof of service of summons and complaint
+  - Defendant moved to quash service of summons
+  - Court granted motion to quash service of summons
+agreements: []
+laws:
+  - California Vehicle Code
+  - California Code of Civil Procedure
+  - Code Civ. Proc., § 418.10(a)
+  - Vehicle Code sections 17450, 17454, 17455, 17456
+statutes:
+  - Vehicle Code sections 17450, 17454, 17455, 17456
+roles:
+  - Plaintiff: Gilberto Vera
+  - Defendant: Francisco Salas-Corona
+  - Judge: [Unknown]
+significant_statements:
+  - "Compliance with the statutory procedures for service of process is essential to establish personal jurisdiction."
+  - "The filing of a proof of service creates a rebuttable presumption that the service was proper."
+  - "A court lacks jurisdiction over a party if there has not been proper service of process."
+```
+
+And here is a summary of the judge's tentative ruling in English text:
+
+The judge has issued a tentative ruling granting the motion to quash service of summons filed by defendant Francisco Salas-Corona. The defendant argued that the service was defective and that the court lacked personal jurisdiction over him. The court found that the plaintiff failed to show that notice of service was sent to the defendant by registered mail as required by Vehicle Code section 17455. As a result, the court granted the motion to quash service of summons. The defendant is required to provide notice and file a proof of service of the quashment.

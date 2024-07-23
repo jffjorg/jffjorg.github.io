@@ -1,0 +1,66 @@
+Here is the summary in YAML format:
+
+```
+case_number: 22STCV14368
+plaintiff_name: Paul Falzon
+defendant_name: SMG Holdings, Inc., et al
+people_names:
+  - Patricio T.D. Barrera
+  - David Saldana
+company_names:
+  - SMG Holdings, Inc.
+places:
+  - California
+dates:
+  - April 29, 2022
+  - November 29, 2023
+  - July 8, 2024
+  - July 15, 2024
+events:
+  - Motion to Compel Responses from Defendant SMG Holdings, Inc. for Production of Documents to Set One
+  - Sanctions imposed against Defendant SMG Holdings, Inc.
+money:
+  - $2,610.00
+  - $7,165.00
+intentions:
+  - To compel responses from Defendant SMG Holdings, Inc.
+  - To impose sanctions against Defendant SMG Holdings, Inc.
+facts:
+  - Plaintiff served initial Request for Production of Documents, Set 1 on September 22, 2023
+  - Defendant SMG Holdings, Inc. delivered unverified responses on November 7, 2023
+  - Plaintiff's Motion to Compel Responses was filed on November 29, 2023
+  - No further responses were received from Defendant SMG Holdings, Inc.
+disputes:
+  - Plaintiff's contention that Defendant SMG Holdings, Inc. failed to provide sufficient responses
+  - Defendant SMG Holdings, Inc.'s failure to provide timely and sufficient responses
+acts:
+  - Plaintiff served initial Request for Production of Documents, Set 1
+  - Defendant SMG Holdings, Inc. delivered unverified responses
+  - Plaintiff filed Motion to Compel Responses
+agreements:
+  - None
+laws:
+  - California Code of Civil Procedure section 2031.300
+  - California Labor Code section 1102.5
+  - California Labor Code section 1198.5
+case_citations:
+  - California Code of Civil Procedure section 2031.300
+  - California Labor Code section 1102.5
+  - California Labor Code section 1198.5
+statutes:
+  - California Code of Civil Procedure section 2031.300
+  - California Labor Code section 1102.5
+  - California Labor Code section 1198.5
+roles:
+  - Judge: Rolf Treu
+  - Plaintiff: Paul Falzon
+  - Defendant: SMG Holdings, Inc.
+significant_statements:
+  - "The Court will impose sanctions against Defendant SMG Holdings, Inc. and award them to Plaintiff in the amount of $2,610.00."
+  - "Compliance within 20 days."
+  - "Responses and the monetary sanctions are due within 10 days of the date of this order."
+```
+
+And here is a summary of the judge's tentative ruling in English text:
+
+The judge has granted the plaintiff's motion to compel responses from the defendant, SMG Holdings, Inc. The plaintiff had initially served a request for production of documents, but the defendant only provided unverified responses. The plaintiff filed a motion to compel responses on November 29, 2023, and no further responses were received from the defendant. The judge has imposed sanctions against the defendant in the amount of $2,610.00 and has ordered compliance within 20 days. The responses and monetary sanctions are due within 10 days of the date of this order.

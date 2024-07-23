@@ -1,0 +1,65 @@
+Here is the summary in YAML format:
+
+```
+case_number: 23STCV03468
+hearing_date: July 17, 2024
+dept: 61
+plaintiff: IMMIGRANT RIGHTS DEFENSE COUNCIL, LLC
+defendant: JO BOG YOO
+people_names:
+  - JO BOG YOO
+  - Medvei
+company_names:
+  - IMMIGRANT RIGHTS DEFENSE COUNCIL, LLC
+places:
+  - California
+dates:
+  - June 8, 2023
+  - October 4, 2023
+  - February 15, 2024
+  - July 17, 2024
+events:
+  - Motion for Discovery Sanctions
+  - Failure to comply with court orders
+  - Monetary sanctions
+  - Terminating sanctions
+money:
+  - $1,578.35
+  - $3,310.00
+intentions:
+  - Plaintiff seeks terminating and monetary sanctions against Defendant
+  - Defendant failed to comply with court orders
+facts:
+  - Defendant failed to provide responses as ordered by the court
+  - Two court orders and one order of monetary sanctions were required to get Defendant to provide responses
+disputes:
+  - Failure to comply with discovery orders
+  - Terminating sanctions
+acts:
+  - Failure to provide responses to requests for production
+  - Providing terse declarations as responses
+  - Offering arguments related to the merits of the wider case
+agreements:
+  - Plaintiff's motion for discovery sanctions granted in part
+  - Monetary sanctions awarded against Defendant
+  - Terminating sanctions denied
+laws:
+  - California Code of Civil Procedure, § 2023.010
+  - California Code of Civil Procedure, § 2023.030
+  - Van Sickle v. Gilbert (2011)
+  - Link v. Cater (1998)
+  - Brown v. Sup. Ct. (1986)
+case_citations: Van Sickle v. Gilbert (2011), Link v. Cater (1998), Brown v. Sup. Ct. (1986)
+statutes: California Code of Civil Procedure, § 2023.010, California Code of Civil Procedure, § 2023.030
+roles:
+  - Plaintiff: IMMIGRANT RIGHTS DEFENSE COUNCIL, LLC
+  - Defendant: JO BOG YOO
+  - Judge: (name not specified)
+significant_statements:
+  - "Terminating sanctions are DENIED, but monetary sanctions are awarded against Defendant in the amount of $3,310.00."
+  - "Further failure by Defendant to obey this Court’s discovery orders may result in his answer being stricken and default being entered against him."
+```
+
+And here is the English-text summary:
+
+This tentative ruling grants in part the Plaintiff's Motion for Discovery Sanctions against Defendant Jo Bog Yoo. The Plaintiff, Immigrant Rights Defense Council, LLC, has been seeking sanctions due to Defendant's failure to comply with the court's orders and discovery requests. The Defendant failed to provide responses as ordered by the court, and this failure required two court orders and one order of monetary sanctions to obtain responses. The Court awards monetary sanctions against the Defendant in the amount of $3,310.00, payable to the Plaintiff within 30 days. Furthermore, the Court warns the Defendant that further failure to comply with the court's discovery orders may result in default being entered against him.

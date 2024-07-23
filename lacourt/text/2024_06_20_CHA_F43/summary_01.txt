@@ -1,0 +1,53 @@
+Here is the summary in YAML format:
+
+```
+case_number: 21STCV28908
+plaintiff_names:
+  - Rose Moroso
+  - et al.
+defendant_names:
+  - Newegg Business Inc.
+  - et al.
+people_names:
+  - Stephen Sanchez
+  - David Lederer
+  - Shawn Hakakian
+company_names:
+  - Lederer & Nojima, LLP
+  - Newegg Business Inc.
+places: []
+dates:
+  - June 20, 2024
+  - May 27, 2025
+events:
+  - Motion to be relieved as counsel
+money: []
+intentions:
+  - To be relieved as counsel
+facts:
+  - Breakdown in attorney-client relationship
+  - Counsel unable to work with and communicate with client
+disputes: []
+acts:
+  - Counsel filed motion with required forms
+  - Counsel's declaration states breakdown in attorney-client relationship
+agreements: []
+laws:
+  - People v. Prince (1968) 268 Cal.App.2d 398, 406
+  - California Rules of Court, Rule 3.1362
+statutes: []
+roles:
+  - Judge
+  - Attorney for Defendant
+  - Counsel of record for Defendant
+  - Defendant
+significant_statements:
+  - Counsel's motion complies with California Rules of Court, Rule 3.1362
+    and meets its requirements.
+  - Absent a showing of resulting prejudice, an attorney's request for
+    withdrawal should be granted.
+```
+
+And here is the English-text summary:
+
+The judge's tentative ruling grants the motion of attorneys David Lederer and Shawn Hakakian of Lederer & Nojima, LLP to be relieved as counsel for defendant Stephen Sanchez. The attorneys filed a motion stating that there has been a breakdown in the attorney-client relationship and that they are no longer able to work with and communicate with their client. The judge notes that there is no showing of resulting prejudice and that the motion complies with California Rules of Court, Rule 3.1362 and meets its requirements. The judge cites People v. Prince (1968) 268 Cal.App.2d 398, 406, which states that absent a showing of resulting prejudice, an attorney's request for withdrawal should be granted.

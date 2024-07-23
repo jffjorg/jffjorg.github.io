@@ -1,0 +1,80 @@
+Here is the summary in YAML format:
+
+```
+case_number: Not specified
+plaintiff_name: Not specified
+defendant_name: EMS Distributing LLC, Adrianna Jimenez, Esqueda, Ulloa, In and Out Tire, Affordable Wheel Repair
+people_names:
+  - Adrianna Jimenez
+  - Esqueda
+  - Ulloa
+  - Richard Stokes
+company_names:
+  - EMS Distributing LLC
+  - Lenso Wheels
+  - Axe Wheels
+  - In and Out Tire
+  - Affordable Wheel Repair
+places:
+  - California
+  - Arizona
+  - Florida
+dates:
+  - January 21, 2022
+events:
+  - Amended complaint
+  - Insurance payment
+  - Evidence collection
+  - Deposition and written discovery
+money: Not specified
+intentions:
+  - To determine jurisdiction
+  - To determine liability
+facts:
+  - Decedent is presumed to be a California resident
+  - EMS is the seller/distributor of the wheels
+  - The wheel was not purchased in California
+  - The defendants may have repaired, maintained, and/or installed the subject wheel
+disputes:
+  - Jurisdiction
+  - Liability
+  - Privity of contract
+acts:
+  - Selling wheels
+  - Repairing and maintaining wheels
+  - Installing wheels
+agreements:
+  - Not specified
+laws:
+  - International Shoe Co. v. Washington
+  - Daimler AG v. Bauman
+  - Snowney v. Harrah's Entertainment, Inc.
+  - Ford
+  - Lenso Wheels v. Mr. Esqueda
+case_citations:
+  - LG, infra, 80 Cal.App.4th at p. 365
+  - International Shoe Co. v. Washington, 326 U.S. 310, 318 (1945)
+  - Daimler AG v. Bauman (2014) 134 S.Ct. 746, 751, 754
+  - Snowney v. Harrah's Entertainment, Inc. (2005) 35 Cal.4th 1054, 1067
+  - Ford (cited but not fully specified)
+statutes:
+  - Not specified
+roles:
+  - Judge
+  - Plaintiff
+  - Defendant
+  - Defendant's insurance
+  - EMS Distributing LLC
+  - Adrianna Jimenez
+  - Esqueda
+  - Ulloa
+  - In and Out Tire
+  - Affordable Wheel Repair
+signifcant_statements:
+  - "As for general jurisdiction, a corporation's continuous activities within the state have been found 'so substantial and of such a nature as to justify suit against it on causes of action arising from dealings entirely distinct from those activities.'"
+  - "Purposeful availment exists whenever the defendant purposefully and voluntarily directs its activities toward the forum state in an effort to obtain a benefit from that state."
+```
+
+And here is the English-text summary:
+
+This is a tentative ruling by a judge regarding a future court hearing. The case involves a decedent who is presumed to be a California resident, and the plaintiffs have amended their complaint to include EMS Distributing LLC as a defendant. The plaintiffs allege various causes of action against EMS, including negligence and product liability. The judge is considering the issue of jurisdiction, specifically whether EMS is subject to general jurisdiction in California. The judge notes that EMS is a Florida-based corporation and may not be directing its activities towards California, which could affect its jurisdictional status. The judge also discusses the concept of purposeful availment, which requires that the defendant purposefully and voluntarily direct its activities towards the forum state. The judge will continue to consider these issues and may take the deposition of Richard Stokes and conduct written discovery to gather more information.

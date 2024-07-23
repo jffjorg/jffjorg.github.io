@@ -1,0 +1,70 @@
+Here is the summary in YAML format:
+
+```
+case_number: 23STCV04659
+plaintiff_name: Demesne Corporation
+defendant_name: Walgreen Co.
+people_names:
+  - Shanon J. McGinnis
+  - Taylor E. Pernini
+company_names:
+  - Walgreen Co.
+  - Demesne Corporation
+places:
+  - Los Angeles
+  - Georgia
+dates:
+  - March 13, 2024
+  - May 20
+  - July 11, 2024
+  - January 2024
+  - April 18, 2024
+events:
+  - Motion for Attorneys' Fees
+  - Application for Pro Hac Vice Admission
+  - Summary Judgment Motion
+money:
+  - $160,582.92
+  - $40,205.50
+  - $81,408.50
+  - $120,377.42
+  - $90,283.07
+intentions:
+  - To award attorney fees to the prevailing party
+  - To deny the application for pro hac vice admission
+facts:
+  - The court granted the defendant's motion for summary judgment
+  - The defendant seeks attorney fees
+  - The plaintiff opposes the motion
+  - The defendant's attorneys billed $160,582.92 in fees
+disputes:
+  - The reasonableness of the hourly rates of the attorneys
+  - The necessity of the duplication of effort between attorneys
+acts:
+  - The defendant's attorneys billed time for working on the summary judgment motion
+  - The defendant's attorneys spent 35.8 hours in connection with the summary judgment motion
+  - The plaintiff pointed out that the defendant's request for attorney fees is excessive
+agreements:
+  - None mentioned
+laws:
+  - Code Civ. Proc., § 1033.5, subd. (c)(5)(A)
+  - Cal. Rules of Court, rule 3.1700, subd. (a)
+  - Chacon v. Litke (2010) 181 Cal.App.4th 1234
+  - Stratton v. Beck (2017) 9 Cal.App.5th 483
+  - United States Golf Assn. v. Arroyo Software Corp. (1999) 69 Cal.App.4th 607
+  - Gorman v. Tassajara Development Corp. (2009) 178 Cal.App.4th 44
+roles:
+  - Judge
+  - Plaintiff
+  - Defendant
+  - Attorneys
+significant_statements:
+  - The court concludes these hourly rates are reasonable for attorneys and paralegals engaged in similar litigation in the Los Angeles area.
+  - The court denies the application for pro hac vice admission and declines to award Defendant the $40,205.50 in attorney fees Defendant asserts Pernini billed.
+  - The court adjusts the lodestar figure to $120,377.42.
+  - The court awards Defendant attorney fees in the amount of $90,283.07.
+```
+
+And here is the English-text summary:
+
+The judge has issued a tentative ruling on a motion for attorneys' fees and an application for pro hac vice admission. The defendant, Walgreen Co., seeks attorney fees of $160,582.92 for work done on the case, while the plaintiff, Demesne Corporation, opposes the motion. The court concludes that the hourly rates of the attorneys are reasonable, but denies the application for pro hac vice admission as there is no evidence of typical hourly rates for attorneys admitted to practice in Georgia. The court also adjusts the lodestar figure to $120,377.42 and awards the defendant attorney fees in the amount of $90,283.07. The court notes that the defendant's request for attorney fees is excessive and that there was duplication of effort between attorneys.

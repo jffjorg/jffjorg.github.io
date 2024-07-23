@@ -1,0 +1,55 @@
+Here is the summary in YAML format:
+
+```
+Case Number: 24SMCV00171
+Plaintiff's Name: Gibbs
+Defendant's Name: Beattie
+People-Names:
+  - Gibbs
+  - Beattie
+  - Lake
+Company-Names:
+  - None
+Places:
+  - None
+Dates:
+  - July 11, 2024
+Events:
+  - Automobile accident
+  - Filing of answer by Beattie
+  - Motion to withdraw answer by Beattie
+Money: None
+Intentions:
+  - Beattie seeks to withdraw improperly filed answer
+  - Gibbs may serve Beattie after answer is withdrawn
+Facts:
+  - Beattie was not served in the lawsuit
+  - Beattie's lawyer mistakenly thought she was an insured defendant
+  - Gibbs alleges injuries from the automobile accident
+Disputes:
+  - None (motion is unopposed)
+Acts:
+  - Beattie filed an answer without being served
+  - Beattie's lawyer sought to resolve the issue with Gibbs' counsel
+  - Gibbs has not opposed the motion
+Agreements:
+  - None
+Laws:
+  - California Civil Procedure Code (CCP) §473(b)
+  - CCP §128
+Statutes:
+  - CCP §473(b)
+  - CCP §128
+Roles:
+  - Judge: issuing tentative ruling
+  - Beattie: moving to withdraw answer
+  - Gibbs: plaintiff in the lawsuit
+  - Lake: attorney for Beattie
+Significant Statements:
+  - "The court may, upon any terms as may be just, relieve a party or his or her legal representative from a judgment, dismissal, order, or other proceeding taken against him or her through his or her mistake, inadvertence, surprise, or excusable neglect." (Code Civ. Proc., §473(b))
+  - "The court shall, whenever an application for relief is made no more than six months after entry of judgment, is in proper form, and is accompanied by an attorney's sworn affidavit attesting to his or her mistake, inadvertence, surprise, or neglect, vacate any (1) resulting default entered by the clerk against his or her client, and which will result in entry of a default judgment, or (2) resulting default judgment or dismissal entered against his or her client, unless the court finds that the default or dismissal was not in fact caused by the attorney's mistake, inadvertence, surprise, or neglect." (Code Civ. Proc., §473(b))
+```
+
+And here is the English-text summary:
+
+The Tentative Ruling grants Beattie's motion to withdraw her improperly filed answer in the lawsuit. Beattie was not served in the lawsuit and her lawyer mistakenly thought she was an insured defendant. Beattie's lawyer sought to resolve the issue with Gibbs' counsel, but a stipulation was not reached. Since the motion is unopposed, the court is exercising its discretion to allow Beattie to withdraw the answer. Gibbs will now be allowed to serve Beattie. The court notes that CCP §473(b) does not apply in this case, as it only applies to judgments and defaults, not improperly filed answers.

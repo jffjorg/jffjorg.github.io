@@ -1,0 +1,45 @@
+Here is a summary of the tentative ruling in YAML format:
+
+```
+case_number: 23PSCV02093
+hearing_date: July 15, 2024
+department: G
+parties:
+  - Plaintiffs: Anthony Duarte, Hacienda La Puente Unified School District
+  - Defendants: HLP ED Foundation, SVG Training Foundation, Inc., San Gabriel Career Foundation, Inc., Cynthia Parulan-Colfer
+facts:
+  - HLP ED Foundation was a non-profit public benefit corporation founded in 2008
+  - Parulan-Colfer served as a director and allegedly misused funds for personal gain
+  - HLP ED Foundation was dissolved and its remaining funds were transferred to other non-profits
+  - Duarte and HLPUSD filed a complaint alleging various causes of action, including breach of fiduciary duty, breach of contract, conversion, and accounting
+  - Parulan-Colfer and the Entity Defendants filed demurrers to the complaint
+  - The court previously sustained demurrers to several causes of action with leave to amend
+  - The parties have now filed motions to strike and respond to the demurrers
+
+disputes:
+  - Duarte and HLPUSD's claims for breach of fiduciary duty, breach of contract, conversion, and accounting
+  - Parulan-Colfer and the Entity Defendants' claims for demurrer and motion to strike
+
+acts:
+  - Demurrers filed by Parulan-Colfer and the Entity Defendants
+  - Motions to strike filed by Parulan-Colfer and the Entity Defendants
+  - Reponses to demurrers and motions to strike filed by Duarte and HLPUSD
+
+agreements:
+  - None
+
+laws:
+  - Code of Civil Procedure section 430.10
+  - Code of Civil Procedure section 436
+  - Code of Civil Procedure section 437
+  - Civil Code section 3294
+  - Business and Professions Code section 17510.8
+  - Corporations Code section 5142
+  - Corporations Code section 5710
+
+case_citations:
+  - Oasis West Realty, LLC v. Goldman (2011) 51 Cal.4th 811
+  - Hahn v. Mirda (2007) 147 Cal.App.4th 740
+  - Fox v. JAMDAT Mobile, Inc. (2010) 185 Cal.App.4th 1068
+  - Donabedian v. Mercury Ins. Co. (2004) 116 Cal.App.4th 968
+  - SKF Farms v. Superior Court (1984) 153 Cal.App.3d 902

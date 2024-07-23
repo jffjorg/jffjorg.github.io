@@ -1,0 +1,62 @@
+Here is the summary of the Judge's Tentative Ruling in YAML format:
+
+```yaml
+Case Number: 21BBCV00148
+Plaintiff's Name: Wells Fargo Equipment Finance, Inc.
+Defendant's Name: Capital Ready Mix, Inc.
+People-Names:
+  - F.M. Tavelman
+Company-Names:
+  - Wells Fargo Equipment Finance, Inc.
+  - Los Angeles County Sheriff
+  - Sacramento County Sheriff
+Places:
+  - Burbank
+  - Los Angeles
+  - Sacramento
+Dates:
+  - December 3, 2021
+  - June 1, 2023
+  - September 7, 2023
+  - June 28, 2024
+Events:
+  - Judgment entered on December 3, 2021
+  - Writ of Possession issued on June 1, 2023
+  - Writ of Execution expired on September 7, 2023
+  - Hearing on June 28, 2024
+Money: 
+  - Judgment for money and possession of six vehicles
+Intentions:
+  - Wells Fargo seeks an order to transfer possession of property
+  - Judgment Debtor has filed no opposition
+Facts:
+  - Judgment was entered in favor of Wells Fargo on December 3, 2021
+  - Judgment Debtor has not transferred possession of the property
+Disputes:
+  - Validity of the writ of execution
+  - Expiration of the writ of execution
+Acts:
+  - Wells Fargo obtained two writs of possession on June 1, 2023
+  - Judgment Debtor has not complied with the writs
+Agreements:
+  - None
+Laws:
+  - California Code of Civil Procedure (C.C.P.) § 699.040
+  - California Code of Civil Procedure (C.C.P.) § 699.560
+  - Evidence Code § 452
+Statutes:
+  - C.C.P. § 699.040
+  - C.C.P. § 699.560
+Roles:
+  - Judge: F.M. Tavelman
+  - Plaintiff: Wells Fargo Equipment Finance, Inc.
+  - Defendant: Capital Ready Mix, Inc.
+  - Levying Officer: Los Angeles County Sheriff and Sacramento County Sheriff
+Significant Statements:
+  - The Court finds that C.C.P. § 699.560(a)(4) applies to Wells Fargo's writ
+  - The writ has expired and cannot be the basis for a motion pursuant to C.C.P. § 699.040
+```
+
+And here is the English summary of the Judge's Tentative Ruling:
+
+The Judge has denied Wells Fargo's motion to transfer possession of property without prejudice. Wells Fargo seeks an order to transfer possession of property that is subject to levy as per a writ of execution filed in this matter. The Judge has concerns about the validity of the writ of execution given the time that has passed since its issuance. The writ of execution has expired, and the Judge finds that it cannot be the basis for a motion pursuant to C.C.P. § 699.040.

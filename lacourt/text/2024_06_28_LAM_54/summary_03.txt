@@ -1,0 +1,57 @@
+Here is the summary in YAML format:
+
+```
+case_number: 24STCP00682
+plaintiff_name: US Hybrid Corporation, et al.
+defendant_name: US Fuel Cell Corporation, et al.
+people_names:
+  - Abas Goodarzi
+company_names:
+  - US Hybrid Corporation
+  - US Fuel Cell Corporation
+places:
+  - Los Angeles
+  - California
+dates:
+  - June 28, 2024
+  - March 5, 2024
+  - May 17, 2024
+events:
+  - Petition to Confirm Arbitration Award
+  - Arbitration award
+  - Proof of service
+  - Court hearing
+money: N/A
+intentions:
+  - Confirm arbitration award
+  - Deny petition
+facts:
+  - None of the respondents have been served with the petition
+  - No proof of service filed with the Court
+disputes:
+  - Service of petition
+  - Confirmation of arbitration award
+acts:
+  - Filing of petition
+  - Failure to serve respondents
+  - Failure to file proof of service
+agreements:
+  - N/A
+laws:
+  - N/A
+case_citations:
+  - N/A
+statutes:
+  - N/A
+roles:
+  - Judge Maurice A. Leiter
+  - Petitioners (US Hybrid Corporation and Abas Goodarzi)
+  - Respondents (US Fuel Cell Corporation, et al.)
+significant_statements:
+  - The petition is DENIED without prejudice.
+  - The Court's records reflect that none of the respondents have been served with the petition.
+```
+
+And here is the English text summary:
+
+The tentative ruling is that the petition to confirm an arbitration award is denied without prejudice. The petitioners, US Hybrid Corporation and Abas Goodarzi, have not served any of the respondents, US Fuel Cell Corporation, et al., with the petition, and there is no proof of service filed with the Court. The Court's records show that none of the respondents have been served with the petition.

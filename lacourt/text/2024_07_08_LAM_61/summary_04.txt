@@ -1,0 +1,68 @@
+Here is the YAML summary of the tentative ruling:
+
+```
+case_number: 23STCV23457
+hearing_date: July 8, 2024
+dept: 61
+plaintiff_name: Neil Anenberg
+defendant_name: Antonette Isham, et al.
+people_names:
+  - Neil Anenberg
+  - Antonette Isham
+  - Scott Spicer
+company_names: []
+places: []
+dates:
+  - March 31, 2024
+  - April 29, 2024
+  - June 28, 2024
+  - February 16, 2024
+  - July 8, 2024
+events:
+  - Motion to Deem Matters Admitted
+  - Request for Admissions
+  - Failure to timely respond to requests for admissions
+  - Sanctions award
+money:
+  - $1,722.50
+  - $2,197.50
+  - $475 per hour
+  - $60 filing fee
+intentions:
+  - To deem matters admitted
+  - To obtain discovery
+  - To impose sanctions
+facts:
+  - Plaintiff served requests for admission on March 31, 2024
+  - No responses were served by April 29, 2024
+  - Defendants claim responses were served on June 28, 2024
+  - Plaintiff seeks $1,722.50 in sanctions
+  - Defendant's counsel attributes lack of timely responses to medical conditions
+disputes:
+  - Failure to timely respond to requests for admissions
+  - Unfairness of sanctions award
+acts:
+  - Propounding party demands production of documents
+  - Responding party fails to timely respond to production demand
+  - Propounding party moves for order compelling responses
+  - Requesting party moves for order deeming admissions
+agreements: []
+laws:
+  - Code of Civil Procedure
+  - California Code of Civil Procedure sections 2030.010, 2030.210, 2030.290, 2031.010, 2031.210, 2031.300, 2033.010, 2033.250, 2033.280
+  - California Rules of Court
+roles:
+  - Plaintiff: Neil Anenberg
+  - Defendant: Antonette Isham, et al.
+  - Judge: Neil Anenberg
+  - Lawyer: Nussbaum
+  - Lawyer: Tamer
+significant_statements:
+  - The motion is DENIED as moot, as responses have been served.
+  - Sanctions are awarded against Defendants in the amount of $1,722.50.
+  - The Court finds that the motions are fairly duplicative and not complicated, so the Court finds that $1,722.50 is reasonable.
+```
+
+And here is a summary of the judge's tentative ruling in English text:
+
+The judge has issued a tentative ruling on a motion to deem matters admitted against defendants Scott Spicer and Antonette Isham. The motion is DENIED as moot, as responses have been served. However, the judge has awarded sanctions against the defendants in the amount of $1,722.50, payable within 30 days. The judge finds that the motions are fairly duplicative and not complicated, and that the amount of sanctions is reasonable. The defendants' claim that their failure to timely respond was due to medical conditions is not sufficient to justify the lack of response. The plaintiff is ordered to give notice of the sanctions award.

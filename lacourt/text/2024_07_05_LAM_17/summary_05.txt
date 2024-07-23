@@ -1,0 +1,57 @@
+Here is the summary in YAML format:
+
+```
+case_number: 23STCV24878
+plaintiff_name: PROJECT 7 SECURITY GROUP, et al.
+defendant_name: MICHAEL JOHNSON
+people_names:
+  - Brandon Gatewood
+company_names:
+  - PROJECT 7 SECURITY GROUP
+places:
+  - Los Angeles
+  - California
+dates:
+  - 4/9/2023
+  - 10/9/2023
+  - 12/29/2023
+  - July 5, 2024
+events:
+  - Plaintiffs' motion to compel initial responses from Defendant to Form Interrogatories (Set One)
+  - Plaintiffs' motion to compel initial responses from Defendant to Requests for Identification and Production of Documents
+money:
+  - $700 (sanction)
+  - $350/hr (rate for calculation of sanction)
+intentions:
+  - Plaintiffs' intention to compel Defendant to respond to discovery requests
+facts:
+  - Defendant failed to respond to discovery requests despite being served
+  - Defendant did not oppose the motion
+disputes:
+  - Lack of personal jurisdiction
+  - Extrinsic fraud or mistake
+acts:
+  - Plaintiffs filed suit against Defendant
+  - Plaintiffs served Defendant with discovery requests
+  - Defendant failed to respond to discovery requests
+agreements:
+  - None mentioned
+laws:
+  - California laws governing civil procedure
+  - California laws governing discovery
+case_citations:
+  - None mentioned
+statutes:
+  - California Code of Civil Procedure
+roles:
+  - Judge: Hon. Jon R. Takasugi
+  - Plaintiffs: PROJECT 7 SECURITY GROUP, et al.
+  - Defendant: MICHAEL JOHNSON
+significant_statements:
+  - Defendant has failed to respond to discovery requests
+  - Defendant is sanctioned for failure to respond to discovery requests
+```
+
+And here is a summary of the judge's tentative ruling in English text:
+
+The judge grants the plaintiffs' motion to compel initial responses from the defendant to their Form Interrogatories (Set One) and Requests for Identification and Production of Documents. The defendant has failed to respond to these requests despite being served and did not oppose the motion. As a result, the defendant is sanctioned jointly and severally with counsel in the amount of $700 per motion. The judge also orders the defendant to pay this sanction within 30 days. The hearing is set for July 5, 2024.

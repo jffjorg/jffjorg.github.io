@@ -1,0 +1,85 @@
+Here is the summary in YAML format:
+
+```
+case_number: 21STCV04307
+hearing_date: 2024-07-17
+department: 28
+
+people_names:
+  - Hernan Vicente
+  - Ani Piliposian
+  - Nicholas Vicente
+
+company_names:
+  - City of Los Angeles
+
+places:
+  - Los Angeles
+  - Children's Hospital Los Angeles
+
+dates:
+  - 2021-02-03
+  - 2021-05-03
+  - 2021-05-24
+  - 2024-01-09
+  - 2024-02-05
+  - 2024-06-20
+
+events:
+  - Filing of complaint
+  - Appointment of guardian ad litem
+  - Filing of amended complaint
+  - Filing of answer
+  - Filing of notice of settlement
+  - Filing of petition for expedited approval of compromise
+
+money:
+  - $100.02 (Administrative/Misc. fee)
+  - (Medical expenses for treatment at Children's Hospital Los Angeles)
+
+intentions:
+  - To approve the compromise of minor Plaintiff Nicholas Vicente's claims
+  - To deny the petition without prejudice
+
+facts:
+  - Minor Plaintiff Nicholas Vicente received treatment at Children's Hospital Los Angeles
+  - The Department of Health Care Services' February 5, 2024 letter does not state that Medi-Cal paid for Children's Hospital Los Angeles' treatment
+  - The petition does not include medical expenses for this treatment or provide medical or billing records from Children's Hospital Los Angeles
+
+disputes:
+  - Whether the compromise will reimburse all of Plaintiff's medical expenses that have not been reduced or waived
+  - Whether the non-medical expenses (Administrative/Misc. fee) qualify as an allowable cost under Code of Civil Procedure section 1033.5
+
+acts:
+  - The Court will not approve the petition unless it shows that the minor's compromise will reimburse all of Plaintiff's medical expenses that have not been reduced or waived
+  - The Court will not award the non-medical expenses (Administrative/Misc. fee) without evidence that it qualifies as an allowable cost under Code of Civil Procedure section 1033.5
+
+agreements:
+  - None
+
+laws:
+  - Government Code section 815.2, subdivision (a)
+  - Code of Civil Procedure section 1033.5, subdivision (a) and (b)
+
+case_citations:
+  - None
+
+statutes:
+  - Government Code section 815.2
+  - Code of Civil Procedure section 1033.5
+
+roles:
+  - Judge
+  - Plaintiff (Hernan Vicente, Ani Piliposian, Nicholas Vicente)
+  - Defendant (City of Los Angeles)
+  - Guardian ad litem (Ani Piliposian)
+
+significant_statements:
+  - The Court DENIES without prejudice the petition to approve the compromise of minor Plaintiff Nicolas Vicente's action filed by Petitioner Ani Piliposian on June 20, 2024.
+  - Petitioner is ordered to give notice of this ruling.
+  - Petitioner is ordered to file the proof of service of this ruling with the Court within five days.
+```
+
+And here is a summary of the judge's tentative ruling in English text:
+
+The judge has denied the petition for expedited approval of the compromise of minor Plaintiff Nicholas Vicente's claims without prejudice. The court's denial is based on the lack of evidence to support the reimbursement of medical expenses for treatment at Children's Hospital Los Angeles, as well as the absence of proof that the non-medical expenses (Administrative/Misc. fee) qualify as an allowable cost under Code of Civil Procedure section 1033.5. The court has ordered the petitioner to provide additional information and evidence to support the petition and has given notice of the ruling.

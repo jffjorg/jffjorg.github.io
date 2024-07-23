@@ -1,0 +1,82 @@
+Here is a summary of the judge's tentative ruling in YAML format:
+
+```
+case_number: 22STCV14010
+hearing_date: June 27, 2024
+dept: 61
+plaintiff: THOMAS E. BELL
+defendants:
+  - STATE FARM GENERAL INSURANCE COMPANY
+  - CORBACHO APPRAISALS
+  - JAIME CORBACHO
+people_names:
+  - THOMAS E. BELL
+  - MICHELLE FISHER
+  - JAYME CORBACHO
+  - KEVIN STEWART
+company_names:
+  - STATE FARM GENERAL INSURANCE COMPANY
+  - CORBACHO APPRAISALS
+places:
+  - None
+dates:
+  - March 18, 2021
+  - April 15, 2021
+  - April 27, 2021
+  - July 20, 2021
+  - July 21, 2021
+  - October 1, 2021
+  - October 5, 2021
+events:
+  - Cargo trailer fire
+  - Insurance claim denial
+  - Appraisal investigation
+  - Request for additional documentation
+money:
+  - $8,429,150
+  - $469,499.75
+intention:
+  - To determine the merits of the insurance claim
+facts:
+  - The cargo trailer fire occurred in 2017
+  - The claimant, THOMAS E. BELL, submitted an inventory, appraisals, and letters to support his loss claim
+  - State Farm General Insurance Company hired Corbacho Appraisals to investigate the claim
+  - Corbacho's investigation found that one of the loss items was not destroyed in the fire
+disputes:
+  - The claimant's failure to provide sufficient documentation for the loss claim
+  - The reasonableness of the appraisals and the investigation
+acts:
+  - The claimant's submission of an inventory, appraisals, and letters to support his loss claim
+  - State Farm General Insurance Company's denial of the claim
+  - Corbacho Appraisals' investigation and appraisal of the loss
+laws:
+  - California Code of Civil Procedure §437c
+  - California Insurance Code §3294
+  - California Fish and Game Code §2022
+  - 50 C.F.R. §17.40e
+  - 16 U.S.C. §5305a
+citations:
+  - Adler v. Manor Healthcare Corp. (1992) 7 Cal.App.4th 1110
+  - Aguilar v. Atlantic Richfield Co. (2001) 25 Cal.4th 826
+  - Sangster v. Paetkau (1998) 68 Cal.App.4th 151
+  - Chateau Chamberay Homeowners Ass'n v. Associated Intern. Ins. Co. (2001) 90 Cal.App.4th 335
+  - Johnson & Johnson v. Superior Court (2011) 192 Cal.App.4th 757
+  - Fisher v. San Pedro Peninsula Hospital (1989) 214 Cal.App.3d 590
+  - College Hospital Inc. v. Superior Court (1994) 8 Cal. 4th 704
+  - C.R. v. Tenet Healthcare Corp. (2009) 169 Cal.App.4th 1094
+  - Schwartz v. Magyar House, Inc. (1959) 168 Cal.App.2d 182
+roles:
+  - Judge
+  - Plaintiff
+  - Defendant
+  - Insurance adjuster
+  - Appraiser
+significant_statements:
+  - The court finds that triable issues of fact remain as to the first cause of action for breach of contract against State Farm General Insurance Company.
+  - The court finds that triable issues of fact exist as to whether Defendant acted in bad faith.
+  - The court denies the motion for summary judgment or adjudication of the second cause of action for insurance bad faith.
+  - The court denies the motion for summary judgment or adjudication of the punitive damages claim.
+  - The court grants the motion to continue trial.
+```
+
+Note that this summary is not a complete and exhaustive representation of the judge's tentative ruling, but rather a condensed version of the main points and facts presented.

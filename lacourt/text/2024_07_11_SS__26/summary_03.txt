@@ -1,0 +1,61 @@
+Here is the summary in YAML format:
+
+```
+case_number: 23PSCV01807
+plaintiff_name: Bin Yang
+defendant_name: Interinsurance Exchange of the Automobile Club
+people_names:
+  - Bin Yang
+  - Vallone (defense counsel)
+company_names:
+  - Interinsurance Exchange of the Automobile Club
+places:
+  - None
+dates:
+  - January 9, 2024
+  - June 7, 2024
+  - July 11, 2024
+events:
+  - Request for Production of Documents, Set One
+  - Meet and confer effort
+  - Motion to Compel Responses to Request for Production of Documents
+  - Request for Sanctions
+money:
+  - $285.00
+  - $225.00 per hour (attorney time)
+  - $60.00 (costs)
+intentions:
+  - Defendant seeks to compel Plaintiff to serve verified responses to the discovery requests
+  - Defendant seeks sanctions against Plaintiff for misuse of the discovery process
+facts:
+  - Plaintiff failed to serve initial responses to the discovery requests
+  - Defendant filed the Motion to Compel Responses to Request for Production of Documents and Request for Sanctions
+  - No opposition was filed to date
+disputes:
+  - Plaintiff's failure to serve initial responses to the discovery requests
+acts:
+  - Defendant served Request for Production of Documents, Set One
+  - Plaintiff failed to serve responses to the discovery requests
+  - Defendant filed the Motion to Compel Responses to Request for Production of Documents and Request for Sanctions
+agreements:
+  - None
+laws:
+  - Code of Civil Procedure sections 2031.300, 2023.010, and 2023.030
+case_citations:
+  - None
+statutes:
+  - Code of Civil Procedure sections 2031.300, 2023.010, and 2023.030
+roles:
+  - Judge
+  - Plaintiff (Bin Yang)
+  - Defendant (Interinsurance Exchange of the Automobile Club)
+  - Defense counsel (Vallone)
+significant_statements:
+  - "Defendant is entitled to an order compelling Plaintiff to serve verified responses to the Request for Production of Documents, Set One, without objections."
+  - "Plaintiff's failure to timely respond constitutes a misuse of the discovery process."
+  - "Sanctions are appropriate under Code of Civil Procedure sections 2023.010 and 2023.030 and have been properly noticed."
+```
+
+And here is the English-text summary:
+
+The Judge has granted the Defendant's Motion to Compel Responses to Request for Production of Documents, Set One, and Request for Sanctions. The Plaintiff, Bin Yang, is ordered to serve verified responses to the discovery requests without objections within 20 days of service of this order. Additionally, the Plaintiff is ordered to pay sanctions of $285.00 to defense counsel within 20 days of service of this order. The Judge found that the Plaintiff's failure to serve initial responses to the discovery requests constitutes a misuse of the discovery process and that sanctions are appropriate under Code of Civil Procedure sections 2023.010 and 2023.030. The Judge based their decision on the Plaintiff's failure to timely respond to the discovery requests and the Defendant's proper notice of the motion.

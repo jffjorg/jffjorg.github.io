@@ -1,0 +1,83 @@
+Here is the summary in YAML format:
+
+```
+case_number: 22STCV21019
+plaintiff_names:
+  - Max Rahni
+  - Mahvash Abbas Rashidi
+defendant_names:
+  - Douglas Emmett 2007 LLC
+people_names:
+  - Greg J. Monfette
+  - Edward Donahue
+  - Sandi Winton
+  - Jeffrey Farless
+  - Armen Melkonians
+companies:
+  - Douglas Emmett 2007 LLC
+  - City of Los Angeles
+places:
+  - Los Angeles
+  - 1990 S. Bundy Drive
+dates:
+  - June 28, 2022
+  - June 24, 2021
+  - July 1, 2021
+  - April 11, 2024
+  - October 30, 2023
+  - November 16, 2023
+  - November 27, 2023
+events:
+  - Fall on uneven sidewalk
+  - Installation of curb drain pipe
+  - Inspection of sidewalk by expert
+  - Declaration of expert
+  - Motion for summary judgment
+money: $0
+intentions:
+  - To prove negligence and premises liability
+  - To deny summary judgment
+facts:
+  - Defendant did not plant the trees in the sidewalk
+  - Defendant did not own the property where the incident occurred
+  - Defendant did not maintain control over the area
+  - Curb drain pipe was installed for Defendant's benefit
+  - Curb drain pipe was located in a tree well near the raised sidewalk
+  - Water was seeping around the pipe and under the sidewalk
+  - Tree roots were pushing against the sidewalk and causing uplift
+disputes:
+  - Whether Defendant created or contributed to the sidewalk uplift
+acts:
+  - Installation of curb drain pipe
+  - Inspection of sidewalk by expert
+  - Declaration of expert
+agreements:
+  - None
+laws:
+  - Government Code section 815
+  - Evidence Code section 452
+  - Evidence Code section 452(d)
+citations:
+  - Aguilar v. Atlantic Richfield Co. (2001) 25 Cal.4th 826
+  - Smith v. Wells Fargo Bank, N.A. (2005) 135 Cal.App.4th 1463
+  - Fisherman's Wharf Bay Cruise Corp. v. Superior Court (2003) 114 Cal.App.4th 309
+  - Binder v. Aetna Life Ins. Co. (1999) 75 Cal.App.4th 832
+  - Lopez v. City of Los Angeles (2020) 55 Cal.App.5th 244
+  - Kesner v. Superior Court (2016) 1 Cal.5th 1132
+  - McIntyre v. The Colonies-Pacific, LLC (2014) 228 Cal.App.4th 664
+  - Rowland v. Christian (1968) 69 Cal.2d 108
+  - Columbus Line, Inc. v. Gray Line Sight-Seeing Companies Associated, Inc. (1981) 120 Cal.App.3d 622
+  - Contreras v. Anderson (1997) 59 Cal.App.4th 188
+  - Alcaraz v. Vece (1997) 14 Cal.4th 1149
+  - Barton v. Capitol Market (1943) 57 Cal.App.2d 516
+roles:
+  - Judge
+  - Plaintiff
+  - Defendant
+  - Expert
+  - Property manager
+significant statements:
+  - "A person who owns or occupies land will owe a duty to maintain abutting, publicly owned property in a reasonably safe condition if that person has 'exercised control over that property.'" (Lopez v. City of Los Angeles)
+  - "The purpose of a curb drain pipe is to convey surface drainage from a private property to the public street, out letting flows through the pipe from the private property to the adjacent street gutter at the curb face." (Armen Melkonians, expert declaration)
+  - "Good civil engineering design practice would require a curb drain pipe to be located a minimum of 6 ft away from a street tree to avoid sidewalk damage." (Armen Melkonians, expert declaration)
+```

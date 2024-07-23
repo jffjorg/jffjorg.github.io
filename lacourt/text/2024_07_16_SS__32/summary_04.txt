@@ -1,0 +1,65 @@
+Here is the summary of the judge's tentative ruling in YAML format:
+
+```
+case_number: 22STCV26196
+plaintiff_name:
+defendant_name: Foot Locker Retail, Inc.
+people_names:
+  - A.J. Molino & Associates, Inc.
+  - Tiffany E. Sohrabian
+  - Kim (counsel for Cross-Defendant)
+company_names:
+  - Foot Locker Retail, Inc.
+  - A.J. Molino & Associates, Inc.
+places:
+  - California
+dates:
+  - March 5, 2024
+  - April 5, 2024
+  - April 22, 2024
+  - May 31, 2024
+  - June 3, 2024
+  - June 5, 2024
+  - July 16, 2024
+events:
+  - Service of interrogatories
+  - Response to interrogatories
+  - Request for extension
+  - Technical issues with file
+  - Re-serving of discovery documents
+money:
+  - None
+intentions:
+  - Cross-Complainant seeks relief from waiver of objections to Form Interrogatories and Special Interrogatories (Set One)
+  - Cross-Defendant opposes the motion
+facts:
+  - Cross-Complainant changed representation and the case file was being transferred to current counsel
+  - Current counsel substituted into the case on April 22, 2024
+  - Technical issues with the file prevented Cross-Complainant from completing responses on time
+disputes:
+  - Whether Cross-Complainant's delay in responding to interrogatories was due to excusable neglect
+acts:
+  - Cross-Complainant served Form Interrogatories and Special Interrogatories on Cross-Defendant on March 5, 2024
+  - Cross-Defendant re-served the discovery documents on June 3, 2024
+agreements:
+  - Cross-Defendant granted extensions until Friday, May 31, 2024
+  - Cross-Defendant requested responses without objections by June 5, 2024
+laws:
+  - California Code of Civil Procedure § 2030.290(a)
+  - California Civil Discovery Act
+statutes:
+  - California Code of Civil Procedure § 473
+  - California Civil Discovery Act
+roles:
+  - Judge
+  - Cross-Complainant (Foot Locker Retail, Inc.)
+  - Cross-Defendant (A.J. Molino & Associates, Inc.)
+significant_statements:
+  - The court may not find that only some portions of a document containing responses are code-compliant, but must instead determine whether the document as a whole substantially complies.
+  - Substantial compliance means actual compliance with respect to the substance essential to every reasonable objective of the statute.
+  - Excusable neglect requires that the party demonstrate that the mistake, inadvertence, or neglect was due to circumstances beyond their control or that they acted with reasonable care.
+```
+
+And here is a summary of the judge's tentative ruling in English text:
+
+The judge has denied Cross-Complainant Foot Locker Retail, Inc.'s motion to be relieved from waiver of objections to Form Interrogatories and Special Interrogatories (Set One). The motion was opposed by Cross-Defendant A.J. Molino & Associates, Inc. Cross-Complainant had requested an extension to May 31, 2024, which was granted, but then requested another extension until June 5, 2024. However, Cross-Complainant did not complete the responses until June 5, 2024, and did not provide a sufficient explanation for the delay. The judge found that Cross-Complainant's delay was not due to excusable neglect and therefore denied the motion.

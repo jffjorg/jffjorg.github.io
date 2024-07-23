@@ -1,0 +1,56 @@
+Here is the summary in YAML format:
+
+```
+Case Number: 23STCP00500
+Plaintiff's Name: Walter Pearce
+Defendant's Name: Gardena Retirement Center, Inc. dba Gardena Retirement Center
+People-Names:
+  - Walter Pearce
+  - Jon R. Takasugi
+Company-Names:
+  - Gardena Retirement Center, Inc.
+Places:
+  - Los Angeles
+  - Gardena
+Dates:
+  - February 21, 2023
+  - May 16, 2024
+  - June 27, 2024
+Events:
+  - Plaintiff filing suit against Defendant
+  - Defendant moving for an order directing Plaintiff's compliance with a subpoena
+  - Plaintiff filing a limited opposition to the motion
+Money: None
+Intentions:
+  - Defendant seeking an order to produce Plaintiff's relevant phone records
+  - Plaintiff seeking to redact certain information from the phone records
+Facts:
+  - Plaintiff has complied with the subpoena by signing an Authorization of Release
+  - T-Mobile will not produce the records absent a Court order
+Disputes:
+  - Relevancy of certain phone records
+Acts:
+  - Plaintiff filing suit
+  - Defendant moving for an order
+  - Plaintiff filing a limited opposition
+  - Court ordering redaction of certain information
+Agreements:
+  - Plaintiff and Defendant agreeing to comply with the subpoena
+Laws:
+  - Code Civ. Proc. §2017.010
+Case Citations: None
+Statutes:
+  - Code Civ. Proc. §2017.010
+Roles:
+  - Judge: Hon. Jon R. Takasugi
+  - Plaintiff: Walter Pearce
+  - Defendant: Gardena Retirement Center, Inc. dba Gardena Retirement Center
+Significant Statements:
+  - Defendant's motion is GRANTED
+  - The Court orders redaction of all information regarding any other of Mr. Pearce's phone call conversations with anyone besides facility staff and his daughter
+  - The Court will adopt this tentative as the final order if all parties submit on it
+```
+
+And here is the English-text summary:
+
+The Judge's tentative ruling grants the defendant's motion for an order directing compliance with a subpoena. The defendant is seeking to produce Walter Pearce's relevant phone records, but T-Mobile will not release the records without a Court order. The plaintiff has complied with the subpoena by signing an Authorization of Release, but argues that certain phone records are not relevant. The Court orders the redaction of all information regarding any phone call conversations Walter Pearce had with anyone besides facility staff and his daughter. The Court will adopt this tentative as the final order if all parties submit on it.

@@ -1,0 +1,82 @@
+Here is the summary in YAML format:
+
+```
+case_number: 22STCV05360
+hearing_date: July 18, 2024
+department: N
+
+parties:
+  - plaintiff: Suzanne Swerner
+  - plaintiff: Hana Sabour
+  - defendant: Invasix, Inc. dba InMode
+  - defendant: Dr. Abedelmajid Sabour (aka Majid Sabour, M.D.)
+  - defendant: Claire Jimeno (agent for Invasix)
+
+people:
+  - Dr. Abedelmajid Sabour (aka Majid Sabour, M.D.)
+  - Claire Jimeno
+  - Suzanne Swerner
+  - Hana Sabour
+
+companies:
+  - Invasix, Inc. dba InMode
+
+places:
+  - court
+
+dates:
+  - July 18, 2024
+
+events:
+  - motion to stay entire action pending disposition of defendant's bankruptcy action
+  - bankruptcy proceeding of defendant Dr. Abedelmajid Sabour
+
+money:
+  - damages
+  - bankruptcy stay
+
+intentions:
+  - Defendant Invasix, Inc. dba InMode seeks to stay the entire action pending the disposition of defendant Dr. Abedelmajid Sabour's bankruptcy proceeding.
+  - Plaintiffs oppose the issuance of a stay.
+
+facts:
+  - Plaintiffs are seeking to hold non-debtor defendants liable for Dr. Sabour's conduct.
+  - Dr. Sabour's participation is necessary to allow Invasix to fully present its defenses.
+
+disputes:
+  - whether the automatic stay of judicial proceedings applies to non-debtor codefendants
+  - whether the Court should grant a stay of the entire action pending the disposition of defendant Dr. Abedelmajid Sabour's bankruptcy proceeding
+
+acts:
+  - Defendant Invasix, Inc. dba InMode moves to stay the entire action pending the disposition of defendant Dr. Abedelmajid Sabour's bankruptcy proceeding.
+  - Plaintiffs oppose the issuance of a stay.
+
+agreements:
+  - none
+
+laws:
+  - automatic stay of judicial proceedings
+  - collateral estoppel
+  - bankruptcy stay
+
+case_citations:
+  - Seiko Epson Corp. v. Nu-Kote International, Inc. (Fed.Cir. 1999)
+  - A.H. Robins Co. v. Piccinin (4th Cir. 1986)
+
+statutes:
+  - California Rules of Court, rule 2.109
+
+roles:
+  - Judge: presides over the case
+  - Plaintiff: brings the lawsuit
+  - Defendant: defends against the lawsuit
+  - Counsel: represents the parties in court
+
+significant_statements:
+  - The Court is not convinced that this case represents the sort of unusual situation requiring a stay of the entire action as to all defendants.
+  - The Court reminds Plaintiffs' counsel to include page numbers on all future filings in compliance with rule 2.109 of the California Rules of Court.
+```
+
+And here is the English-text summary:
+
+The court has issued a tentative ruling denying Defendant Invasix, Inc. dba InMode's motion to stay the entire action pending the disposition of defendant Dr. Abedelmajid Sabour's bankruptcy proceeding. The motion was based on the argument that Dr. Sabour is indispensable to the action because plaintiffs are seeking to hold non-debtor defendants liable for Dr. Sabour's conduct, and vice versa, plaintiffs' claims arise from the alleged joint conduct and concurrent representations of Dr. Sabour and defendant Claire Jimeno. The court found that the automatic stay of judicial proceedings does not apply to non-debtor codefendants, and that the narrow exceptions to this rule do not apply in this case. The court also noted that Dr. Sabour's participation is not necessary to allow Invasix to fully present its defenses, and that the claims are intertwined but not a reason in themselves to stay the action as to all defendants.

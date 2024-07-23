@@ -1,0 +1,73 @@
+Here is the summary in YAML format:
+
+```
+case_number: 23STCV19069
+hearing_date: July 5, 2024
+dept: 74
+
+people:
+  - Plaintiff: People of the State of California
+  - Defendant: Mokhtar Jabli
+
+company_names:
+  - Ultimate Host, LLC
+
+places:
+  - California
+
+dates:
+  - October 2023
+  - February 6, 2024
+  - March 22, 2024
+
+events:
+  - Request for Production of Documents (Set One)
+  - Email from Defendant Mokhtar Jabli
+  - Plaintiff's Motion to Compel Defendant Mokhtar Jabli's Responses
+  - Plaintiff's Motion to Compel Defendant Ultimate Host, LLC's Responses
+
+money:
+  - $360 (discovery sanctions)
+
+intentions:
+  - Plaintiff seeks to compel Defendant's responses to Request for Production of Documents (Set One)
+  - Defendant is ordered to serve verified, objection-free responses
+
+facts:
+  - Plaintiff served Defendant with Request for Production of Documents (Set One) in October 2023
+  - Defendant provided a link to a Google document with partial responses
+  - Document was unsigned, unverified, and contained no information identifying the responding party
+
+disputes:
+  - Plaintiff disputes the sufficiency of Defendant's responses
+
+acts:
+  - Plaintiff served Defendant with Request for Production of Documents (Set One)
+  - Defendant provided a link to a Google document with partial responses
+
+agreements:
+  - Defendant agreed to serve verified, objection-free responses
+
+laws:
+  - California law on discovery and civil procedure
+
+case_citations:
+  - None mentioned
+
+statutes:
+  - None mentioned
+
+roles:
+  - Judge
+  - Plaintiff (People of the State of California)
+  - Defendant (Mokhtar Jabli and Ultimate Host, LLC)
+  - Counsel (Plaintiff's counsel)
+
+significant_statements:
+  - The Court orders Defendant Mokhtar Jabli and Ultimate Host, LLC to serve verified, objection-free responses to Request for Production of Documents (Set One)
+  - The Court orders Defendant to pay Plaintiff's counsel $360 as discovery sanctions
+```
+
+And here is a summary in English text:
+
+The Court has issued a tentative ruling in the case of People of the State of California vs. Mokhtar Jabli and Ultimate Host, LLC. The case involves a motion to compel defendants to respond to a request for production of documents (Set One). The defendants had previously provided a link to a Google document with partial responses, but the document was unsigned, unverified, and contained no information identifying the responding party. The Court has ordered the defendants to serve verified, objection-free responses within 10 days and has also ordered them to pay the plaintiff's counsel $360 as discovery sanctions. The motion is unopposed, and the Court has given notice to the plaintiff to give notice of the ruling.

@@ -1,0 +1,63 @@
+Here is the summary in YAML format:
+
+```
+Case Number: 23VECV02176
+Plaintiff's Name: Gonzalez
+Defendant's Name: Montgomery
+People-Names:
+  - Gonzalez
+  - Montgomery
+Company-Names: None
+Places: None
+Dates:
+  - 6/8/2023 (personal service)
+  - 9/15/2023 (request for entry of default)
+  - 9/18/2023 (entry of default)
+  - 11/27/2023 (counsel for defendant in touch with plaintiff's counsel)
+  - 2024-07-02 (hearing date)
+  - 8/18/2023 (final extension of time to respond)
+  - September 2023 (default being requested)
+Events:
+  - Personal service of complaint
+  - Granting of extensions to respond
+  - Entry of default
+  - Request for entry of default
+  - Counsel for defendant in touch with plaintiff's counsel
+Money: None
+Intentions:
+  - Defendant's intention to set aside default
+Facts:
+  - Defendant was personally served with the complaint
+  - Defendant was granted two extensions to respond
+  - Default was entered on 9/18/2023
+  - Defendant's declaration ignores the warning given about no further extensions
+  - Request for entry of default was served on defendant on 9/15/2023
+  - No evidence that defendant was granted an extension beyond the final one
+  - Defendant acknowledges personal service, but sets forth no facts to constitute excusable neglect
+Disputes:
+  - Defendant's dispute of the default
+Acts:
+  - Entry of default
+  - Request for entry of default
+  - Defendant's failure to move for relief once advised of default
+  - Counsel for defendant's lack of diligence
+Agreements: None
+Laws:
+  - Duty to provide fair notice as to default (applicable when attorney knows there is an attorney representing the other side)
+Case Citations: None
+Statutes: None
+Roles:
+  - Judge
+  - Plaintiff (Gonzalez)
+  - Defendant (Montgomery)
+  - Counsel for defendant
+  - Counsel for plaintiff
+Significant Statements:
+  - "Defendant has failed to establish facts which would warrant the setting aside of the default and default judgment."
+  - "There is no evidence at all that he was granted an extension beyond the final one ending on August 18th."
+  - "Counsel for defendant was in touch with plaintiff's counsel on 11/27/2023 but then waited another 5 months before filing the motion to set aside."
+```
+
+And here is a summary in English text:
+
+This tentative ruling denies the defendant's motion to set aside the default and default judgment. The defendant failed to establish facts that would warrant setting aside the default. The defendant was personally served with the complaint on June 8, 2023, and was granted two extensions to respond. Despite being warned that there would be no further extensions after August 18, 2023, the default was not entered until September 18, 2023. The defendant's declaration ignores the warning and sets forth no facts to constitute excusable neglect. The defendant also failed to move for relief once advised of the default, and counsel for the defendant lacked diligence in filing the motion to set aside, waiting five months after contacting plaintiff's counsel. The judge finds that the duty to provide fair notice as to default does not apply between parties, only when an attorney knows there is an attorney representing the other side.

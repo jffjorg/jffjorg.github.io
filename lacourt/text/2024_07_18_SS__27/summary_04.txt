@@ -1,0 +1,72 @@
+Here is the summary in YAML format:
+
+```
+case_number: 23STCV12222
+plaintiff_name: Jermaine Sterling
+defendant_name: DeroosPro LLC and Bryon Deroos
+people_names:
+  - Jermaine Sterling
+  - Bryon Deroos
+company_names:
+  - DeroosPro LLC
+places:
+  - California
+dates:
+  - March 6, 2024
+  - March 27, 2024
+  - May 23, 2024
+  - July 18, 2024
+  - September 21, 2022
+events:
+  - Defendant served with summons and complaint
+  - Defendant filed answer
+  - Defendant filed motion to reclassify
+  - Plaintiff sent demand letter
+money:
+  - $25,000
+  - $8,819
+  - $63,000
+intentions:
+  - To reclassify the case to limited civil court
+facts:
+  - Plaintiff's alleged injuries include strain of the thoracic region, cervicalgia, lumbago, radiculopathy to the lumbar and cervical region, pain and strain to the lumbar and cervical spine, and protrusion of the lumbar disc
+  - Plaintiff has incurred $8,819 in medical expenses as of September 21, 2022
+  - Plaintiff anticipates incurring more than $63,000 in future medical expenses
+  - There is a possibility that Plaintiff's recovery could exceed $25,000
+  - Defendant failed to show good cause for not seeking reclassification earlier
+disputes:
+  - Whether the case should be reclassified to limited civil court
+acts:
+  - Defendant filed motion to reclassify
+  - Plaintiff sent demand letter
+  - Defendant failed to show good cause for not seeking reclassification earlier
+agreements:
+  - Code of Civil Procedure section 403.040
+  - Code of Civil Procedure section 430.40(a)
+  - Code of Civil Procedure section 412.20(a)(3)(b)
+  - Walker v. Superior Court (1991) 53 Cal.3d 257
+  - Ytuarte v. Superior Court (2005) 129 Cal.App.4th 266
+laws:
+  - Code of Civil Procedure
+  - Walker v. Superior Court (1991)
+  - Ytuarte v. Superior Court (2005)
+case_citations:
+  - Walker v. Superior Court (1991) 53 Cal.3d 257
+  - Ytuarte v. Superior Court (2005) 129 Cal.App.4th 266
+statutes:
+  - Code of Civil Procedure section 403.040
+  - Code of Civil Procedure section 430.40(a)
+  - Code of Civil Procedure section 412.20(a)(3)(b)
+roles:
+  - Judge: Hon. Lee S. Arian
+  - Plaintiff: Jermaine Sterling
+  - Defendant: DeroosPro LLC and Bryon Deroos
+significant_statements:
+  - The court finds that there is a possibility for recovery over $25,000.00 and denies the present motion.
+  - The court is inclined to grant general damages three times the amount of special damages.
+  - The court may take the motion off calendar or adopt the tentative ruling as the order of the Court if the parties neither submit nor appear at hearing.
+```
+
+And here is a summary of the judge's tentative ruling in English text:
+
+The judge has denied the defendant's motion to reclassify the case to limited civil court. The defendant filed the motion late, more than 30 days after being served with the summons and complaint, and failed to show good cause for the delay. The judge also found that there is a possibility that the plaintiff's recovery could exceed $25,000, which is the threshold for reclassification. The judge considered the plaintiff's alleged injuries, which include strain of the thoracic region, cervicalgia, lumbago, radiculopathy to the lumbar and cervical region, pain and strain to the lumbar and cervical spine, and protrusion of the lumbar disc, and determined that the plaintiff may have incurred additional medical expenses since the last medical records were produced. The judge also noted that the absence of current evidence regarding the actual cost of future treatments does not preclude the possibility that such evidence will be presented later during litigation.

@@ -1,0 +1,61 @@
+Here is the summary in YAML format:
+
+```
+case_number: 23STCV12862
+plaintiff: AND Asset Management, Inc.
+defendant: Gotham Insurance Company
+people_names:
+  - Thomas D. Jacobson
+company_names:
+  - AND Asset Management, Inc.
+  - Gotham Insurance Company
+places:
+  - Los Angeles
+  - California
+  - San Francisco
+dates:
+  - July 16, 2024
+  - July 16, 2025
+  - July 18, 2025
+events:
+  - Application for admission pro hac vice
+  - Annual pro hac vice renewal fee payment
+  - Non-Appearance Case Review Re: Annual Pro Hac Vice Renewal Fees
+money:
+  - $50.00
+  - $500.00
+intentions:
+  - Grant the application for admission pro hac vice
+facts:
+  - Thomas D. Jacobson is an attorney in good standing in another jurisdiction
+  - He is not a resident of California, regularly employed in California, or regularly engaged in substantial business, professional, or other activities in California
+  - He has paid the $500.00 application fee
+  - He has complied with the requirements of California Rules of Court, rule 9.40
+disputes:
+  - None mentioned
+acts:
+  - Filing of an application for admission pro hac vice
+  - Payment of the application fee
+  - Compliance with California Rules of Court, rule 9.40
+agreements:
+  - The applicant must pay the annual renewal fee of $500.00 on or before July 16, 2025
+laws:
+  - California Rules of Court, rule 9.40
+  - Government Code, § 70617
+case_citations:
+  - California Rules of Court, rule 9.40
+  - Government Code, § 70617
+statutes:
+  - California Rules of Court, rule 9.40
+  - Government Code, § 70617
+roles:
+  - Thomas D. Jacobson: applicant for admission pro hac vice
+  - Judge Thomas D. Long: presiding judge
+significant_statements:
+  - The amended application complies with the requirements and the $500.00 application fee has been paid.
+  - The annual renewal fee of $500.00 must be paid on or before July 16, 2025.
+```
+
+And here is the English-text summary:
+
+The tentative ruling grants the application of Thomas D. Jacobson to be admitted pro hac vice to represent Defendant Gotham Insurance Company in this action. The application complies with the requirements of California Rules of Court, rule 9.40, and the $500.00 application fee has been paid. The applicant must pay the annual renewal fee of $500.00 on or before July 16, 2025. A Non-Appearance Case Review Re: Annual Pro Hac Vice Renewal Fees is scheduled for July 18, 2025, at 9:00 AM in Department 48 at Stanley Mosk Courthouse.

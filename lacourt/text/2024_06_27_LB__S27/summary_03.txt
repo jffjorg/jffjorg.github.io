@@ -1,0 +1,82 @@
+Here is the summary in YAML format:
+
+```
+case_number: 23LBCV02156
+hearing_date: June 27, 2024
+dept: S27
+
+people_names:
+  - Tracy McCrackin
+  - William Doe
+
+company_names:
+  - Uber Technologies, Inc.
+
+places:
+  - Long Beach
+  - Carson
+  - Aquarium
+
+dates:
+  - 2016
+  - 2021
+
+events:
+  - Motion to Compel Arbitration
+
+money:
+
+intentions:
+  - Compel arbitration
+  - Enforce arbitration agreement
+
+facts:
+  - Plaintiff picked up by Uber driver William Doe
+  - Driver refused to take plaintiff to requested destination
+  - Plaintiff repeatedly asked driver to let her out, but he refused
+  - Driver dropped plaintiff off at Aquarium instead
+  - Plaintiff alleges kidnapping, IIED, NIED, negligent hiring, supervision, and retention, violation of Bane Act, and violation of Ralph Act
+
+disputes:
+  - Arbitration agreement
+  - Interpretation of arbitration agreement
+  - Enforceability of arbitration agreement
+
+acts:
+  - Plaintiff agreed to 2016 and 2021 terms of service
+  - Uber driver refused to take plaintiff to requested destination
+  - Plaintiff repeatedly asked driver to let her out, but he refused
+  - Driver dropped plaintiff off at Aquarium instead
+
+agreements:
+  - 2016 agreement
+  - 2021 agreement
+
+laws:
+  - Federal Arbitration Act (FAA)
+  - California Code of Civil Procedure §1281.2(c)
+  - Bane Act
+  - Ralph Act
+
+case_citations:
+  - Victrola 89, LLC v. Jaman Properties 8 LLC (2020)
+  - Rent-A-Center, West, Inc. v. Jackson (2010)
+  - B.D v. Blizzard Entertainment, Inc. (2022)
+
+statutes:
+  - California Code of Civil Procedure §1281.2(c)
+
+roles:
+  - Judge
+  - Plaintiff (Tracy McCrackin)
+  - Defendant (Uber Technologies, Inc. and William Doe)
+
+significant_statements:
+  - The Court finds the FAA, not state law, governs the parties' relationship.
+  - The arbitrator must determine arbitrability.
+  - The Court notes that Plaintiff's complaint does not appear to sound in sexual assault or sexual harassment, but instead in kidnapping.
+```
+
+And here is a summary in English text:
+
+The Judge's tentative ruling grants Uber's motion to compel arbitration in a case filed by Tracy McCrackin against Uber Technologies, Inc. and William Doe. The case involves allegations of negligence, intentional infliction of emotional distress, negligent hiring, supervision, and retention, violation of the Bane Act, and violation of the Ralph Act. The dispute centers on whether the arbitration agreement between McCrackin and Uber is enforceable. The Court finds that McCrackin agreed to the 2021 terms of service, which included an arbitration provision, and that the FAA governs the parties' relationship. The Court also finds that the arbitrator must determine arbitrability, and that the risk of inconsistent rulings is not a sufficient reason to deny the motion. The motion is therefore granted, and the action against Uber is stayed pending the outcome of arbitration.

@@ -1,0 +1,77 @@
+Here is the summary in YAML format:
+
+```
+case_number: 23BBCV03057
+plaintiff_name: Maryam Moghadam
+defendant_name: Tony & Mary Anne Abraham
+people_names:
+  - Maryam Moghadam
+  - Tony Abraham
+  - Mary Anne Abraham
+company_names: None
+places:
+  - Los Angeles
+  - Burbank
+dates:
+  - February 16, 2024
+  - March 12, 2024
+  - April 17, 2024
+  - April 23, 2024
+  - May 4, 2024
+  - July 12, 2024
+events:
+  - Motion to compel discovery responses
+  - Failure to respond to discovery requests
+  - Request for sanctions
+  - Court hearing
+money:
+  - $750 (requested sanctions)
+  - $1,560 (awarded sanctions)
+intentions:
+  - Plaintiff seeks to compel discovery responses from defendants
+  - Defendants seek to compel initial response to discovery requests
+  - Defendants seek sanctions for plaintiff's failure to respond
+facts:
+  - Plaintiff brought an action against defendants for claims arising out of a rental agreement
+  - Plaintiff alleged that the rental unit was kept in substandard conditions and that she was discriminated against on the basis of her Persian heritage
+  - Defendants propounded Form Interrogatories, Special Interrogatories, and Requests for Production of Documents (RFPD) on February 16, 2024
+  - Plaintiff failed to respond to discovery requests
+  - Defendants sent a meet and confer letter on April 23, 2024, requesting responses by May 4, 2024
+disputes:
+  - Plaintiff's failure to respond to discovery requests
+  - Defendants' motion to compel responses
+  - Request for sanctions
+acts:
+  - Plaintiff brought an action against defendants
+  - Defendants propounded discovery requests
+  - Plaintiff failed to respond to discovery requests
+  - Defendants sent a meet and confer letter
+agreements:
+  - None
+laws:
+  - California Code of Civil Procedure (C.C.P.)
+  - California Rules of Court (C.R.C.)
+  - California Statutes
+case_citations:
+  - C.C.P. § 2030.290(b)
+  - C.C.P. § 2031.300(b)
+  - C.C.P. § 2033.280(b)
+  - C.R.C. Rule 8.54(c)
+  - C.R.C. Rule 3.1308(a)(1)
+  - C.R.C. Rule 3.1348(a)
+  - C.C.P. § 2023.030(a)
+  - C.C.P. § 2033.220
+statutes:
+  - California Code of Civil Procedure (C.C.P.)
+roles:
+  - Judge
+  - Plaintiff
+  - Defendant
+signifcant_statements:
+  - "The Court awards sanctions in the amount of $1,560 as against Plaintiff and her counsel jointly and severally."
+  - "Defendants have drafted and filed three motions while Plaintiff has rendered no opposition."
+```
+
+Here is a summary of the judge's tentative ruling in English text:
+
+The judge has granted the defendants' unopposed motions to compel the plaintiff's initial responses to their Form Interrogatories, Special Interrogatories, and Requests for Production of Documents (RFPD). The plaintiff failed to respond to the discovery requests, and the defendants sent a meet and confer letter requesting responses by May 4, 2024. The court awards sanctions in the amount of $1,560 against the plaintiff and her counsel jointly and severally. The court also grants the defendants' request for sanctions in the amount of $750. The plaintiff is ordered to provide further responses to the discovery requests within 30 days.

@@ -1,0 +1,61 @@
+Here is the summary in YAML format:
+
+```
+case_number: 23STCV26302
+plaintiff_name: Zachary Brown
+defendant_name: Touchstone Golf, LLC
+people_names:
+  - Zachary Brown
+  - David S. Cunningham III
+company_names:
+  - Touchstone Golf, LLC
+places:
+  - California
+dates:
+  - May 23, 2024
+  - December 31, 2023
+  - January 1, 2024
+  - July 19, 2024
+events:
+  - Wage-and-hour violations
+  - Motion to compel arbitration
+  - Appeal
+  - Stay pending appeal
+money:
+  - None mentioned
+intentions:
+  - Prevent corporations from using a common delay tactic against workers
+facts:
+  - Touchstone Golf, LLC manages golf courses
+  - Zachary Brown used to work for Touchstone Golf, LLC
+  - Touchstone Golf, LLC is seeking to stay the case while appealing the denial of its motion to compel arbitration
+  - Senate Bill 365 eliminated the automatic stay for appeals of orders denying petitions to compel arbitration
+disputes:
+  - Whether the Federal Arbitration Act (FAA) applies
+  - Whether the FAA preempts California Code of Civil Procedure section 1294
+acts:
+  - Touchstone Golf, LLC's motion to stay pending appeal
+  - Zachary Brown's opposition to the motion
+agreements:
+  - None mentioned
+laws:
+  - Federal Arbitration Act (FAA)
+  - California Code of Civil Procedure section 1294
+  - Senate Bill 365
+case_citations:
+  - AT&T Mobility LLC v. Concepcion (2011) 563 U.S. 333
+  - Coinbase, Inc. v. Bielski (2023) 599 U.S. 736
+  - Muao v. Grosvenor Properties (2002) 99 Cal.App.4th 1085
+statutes:
+  - California Code of Civil Procedure section 1294
+roles:
+  - Judge: David S. Cunningham III
+  - Plaintiff: Zachary Brown
+  - Defendant: Touchstone Golf, LLC
+significant_statements:
+  - "The parties will simply be proceeding with discovery, which they have a right to do whether this case proceeds in court or in arbitration."
+```
+
+And here is a summary of the judge's tentative ruling in English text:
+
+The defendant, Touchstone Golf, LLC, has moved to stay the case while it appeals the denial of its motion to compel arbitration. The court has denied the motion, finding that the Federal Arbitration Act (FAA) does not apply to this case since the court previously found that an agreement to arbitrate does not exist. The court also found that the new rule eliminating the automatic stay for appeals of orders denying petitions to compel arbitration does not conflict with the purposes and objectives of the FAA. The court believes that denying the stay request will not create an obstacle to the FAA's purposes and objectives, and that the parties will simply proceed with discovery, which they have a right to do regardless of whether the case proceeds in court or in arbitration. The court also found that a discretionary stay would thwart the Legislature's stated purpose for amending the relevant statute, which was to prevent corporations from using a common delay tactic against workers.

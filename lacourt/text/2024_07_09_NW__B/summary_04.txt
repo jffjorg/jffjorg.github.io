@@ -1,0 +1,88 @@
+Here is the summary in YAML format:
+
+```
+case_number: 22STCV11951
+plaintiff_name: Byron Walker
+defendant_names:
+  - Sebastian Huesca
+  - Luis Daniel Huesca
+  - Uber Technologies, Inc.
+  - Rasier, LLC
+  - Rasier-CA, LLC
+  - Uber, Portier, LLC
+  - Uber Eats
+  - Postmates, Inc.
+  - Postmates, LLC
+  - City of Rancho Palos Verdes
+people_names:
+  - Byron Walker
+  - Sebastian Huesca
+  - Luis Daniel Huesca
+company_names:
+  - Uber Technologies, Inc.
+  - Rasier, LLC
+  - Rasier-CA, LLC
+  - Uber, Portier, LLC
+  - Postmates, Inc.
+  - Postmates, LLC
+places:
+  - Van Nuys Courthouse East (VNE)
+  - Rancho Palos Verdes
+dates:
+  - April 7, 2022
+  - July 25, 2023
+  - May 29, 2024
+  - June 6, 2024
+  - June 11, 2024
+  - June 25, 2024
+  - July 1, 2024
+  - July 2, 2024
+  - July 9, 2024
+  - August 12, 2024
+  - January 3, 2025
+  - January 13, 2025
+events:
+  - Alleged motor vehicle collision
+  - Filing of lawsuit
+  - Continuance of trial date
+  - Denial of motion to continue trial date
+money: $0
+intentions:
+  - To continue the trial date
+facts:
+  - Plaintiff was injured in a motor vehicle collision
+  - Defendants are seeking to continue the trial date due to ongoing discovery and depositions
+  - Plaintiff opposes the motion, arguing that Defendants have had sufficient time to prepare for trial
+disputes:
+  - Whether good cause exists to continue the trial date
+acts:
+  - Filing of motion to continue trial date
+  - Denial of motion to continue trial date
+  - Granting of motion to continue trial date
+agreements: None
+laws:
+  - California Rules of Court, rule 3.1332
+statutes: None
+case_citations: None
+roles:
+  - Judge: Moskowitz
+  - Plaintiff: Byron Walker
+  - Defendant: Sebastian Huesca
+  - Defendant: Luis Daniel Huesca
+  - Defendant: Uber Technologies, Inc.
+  - Defendant: Rasier, LLC
+  - Defendant: Rasier-CA, LLC
+  - Defendant: Uber, Portier, LLC
+  - Defendant: Postmates, Inc.
+  - Defendant: Postmates, LLC
+  - Defendant: City of Rancho Palos Verdes
+significant_statements:
+  - "Although continuances of trials are disfavored, each request for a continuance must be considered on its own merits."
+  - "The Court may grant a continuance only on an affirmative showing of good cause requiring the continuance."
+  - "The Court grants Defendants’ request to join the Motion to Continue Trial."
+  - "The Court finds that there is good cause to continue the trial."
+```
+
+And here is a summary of the judge's tentative ruling in English text:
+
+The judge has granted the defendants' motion to continue the trial date from August 12, 2024 to January 13, 2025. The defendants had requested a continuance due to ongoing discovery and depositions, while the plaintiff had opposed the motion, arguing that the defendants had had sufficient time to prepare for trial. The judge found that there was good cause to continue the trial, citing the proximity of the present trial date and the need for parties to complete discovery and prepare for trial. The judge also granted the defendants' request to join the motion, and ordered that the final status conference be continued to January 3, 2025.

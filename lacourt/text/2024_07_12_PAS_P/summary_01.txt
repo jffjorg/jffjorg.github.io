@@ -1,0 +1,97 @@
+Here is the summary in YAML format:
+
+```
+case_number: 23AHCV00735
+hearing_date: 2024-07-12
+department: P
+judge: Jared D. Moses
+
+plaintiff: Yervand Vardumyan
+defendants: Celeste C. Esguerra
+
+people:
+  - Yervand Vardumyan
+  - Celeste C. Esguerra
+  - Maro Burusuzyan
+  - Kristine Azatyan
+
+companies:
+  - Law Offices of Maro Burusuzyan
+
+places:
+  - California
+
+dates:
+  - 2023-10-06
+  - 2023-11-06
+  - 2023-11-14
+  - 2023-12-01
+  - 2024-01-12
+  - 2024-02-01
+  - 2024-02-28
+  - 2024-06-13
+  - 2024-06-20
+  - 2024-06-25
+  - 2024-06-27
+  - 2024-07-05
+  - 2024-07-12
+
+events:
+  - Dog bite incident
+  - Service of discovery requests
+  - Meet and confer efforts
+  - Filing of motions
+  - Hearings
+
+money:
+  - $1,000 (sanctions)
+
+intentions:
+  - To compel defendant to provide responses to discovery requests
+  - To impose sanctions on defendant for failure to provide responses
+
+facts:
+  - Plaintiff was bitten by a dog owned by defendant
+  - Defendant failed to provide timely and complete responses to discovery requests
+  - Plaintiff incurred costs in preparing a motion to compel further responses
+
+disputes:
+  - Dispute over the scope and timing of discovery requests
+  - Dispute over the sufficiency of defendant's responses
+
+acts:
+  - Service of discovery requests
+  - Failure to provide timely and complete responses
+  - Filing of motions to compel further responses
+  - Failure to oppose motions
+
+agreements:
+  - Meet and confer agreement
+  - Failure to agree on discovery requests
+
+laws:
+  - California Code of Civil Procedure sections 2030.300, 2030.310, 2030.290
+  - California Rules of Court 3.1020(a)(3)
+
+case_citations:
+  - Sperber v. Robinson (1994) 26 Cal. App. 4th 736, 745
+  - Sexton v. Superior Court (1997) 58 Cal. App. 4th 1403, 1410
+  - Deyo v. Kilbourne (1978) 84 Cal.App.3d 771, 783
+  - Fairmont Ins. Co. v. Superior Court (2000) 22 Cal.4th 245, 255
+  - Coy v. Superior Court (1962) 58 Cal.2d 210, 220-21
+
+statutes:
+  - California Code of Civil Procedure sections 2030.300, 2030.310, 2030.290
+  - California Rules of Court 3.1020(a)(3)
+
+roles:
+  - Judge: Jared D. Moses
+  - Plaintiff: Yervand Vardumyan
+  - Defendant: Celeste C. Esguerra
+  - Plaintiff's counsel: Kristine Azatyan, Esq.
+  - Defendant's counsel: Unnamed
+```
+
+English-text summary:
+
+The tentative ruling grants Plaintiff Yervand Vardumyan's motion to compel defendant Celeste C. Esguerra's responses to Form Interrogatories 16.2, 16.3, 16.4, and 16.5. The Court finds that defendant's lack of direct facts in its supplemental responses is delaying discovery and disagrees with defendant's objections. The Court orders defendant to comply with the requests without further delay or prejudice to Plaintiff. The Court also imposes sanctions of $1,000 on defendant and/or their counsel for defendant's alleged failure to provide the requested documents. The hearing is set for July 12, 2024.

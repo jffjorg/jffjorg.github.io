@@ -1,0 +1,57 @@
+Here is the summary in YAML format:
+
+```
+case_number: 24SMCV01272
+plaintiff_name: Danielle Druz
+defendant_name: James Green and Joyce Green
+people_names:
+  - Danielle Druz
+  - James Green
+  - Joyce Green
+company_names: []
+places: []
+dates:
+  - May 21, 2024
+  - July 2, 2024
+events:
+  - Motion to Strike
+  - Hearing Date
+money: []
+intentions:
+  - Dismiss punitive damages claim
+  - Allow amendment of complaint
+facts:
+  - Plaintiff's complaint does not plead sufficient facts to support a claim of punitive damages
+  - Defendant's motion to strike is granted with leave to amend
+  - The complaint generally alleges negligence and breach of warranty of habitability
+  - The complaint does not allege intentional or willful maintenance of unhabitable conditions
+disputes:
+  - Dispute over punitive damages claim
+  - Dispute over leave to amend complaint
+acts:
+  - Plaintiff's request for punitive damages
+  - Defendant's motion to strike
+  - Judge's ruling granting motion to strike with leave to amend
+agreements: []
+laws:
+  - California Code of Civil Procedure (CCP) § 435(b)(1) and § 436(a)-(b)
+  - California Rules of Court, Rule 3.1322(b)
+  - Civil Code section 3294
+  - Staffford v. Shultz (1954) 42 Cal.2d 767, 782
+  - Angie M. v. Superior Court (1995) 37 Cal.App.4th 1217, 1227
+  - Goodman v. Kennedy (1976) 18 Cal.3d 335, 349
+  - Coll. Hosp. v. Superior Ct. (1994) 9 Cal.4th 704, 726
+  - Stoiber v. Honeychuck (1980) 101 Cal.App.3d 903, 921
+  - Erlach v. Sierra Asset Servicing, LLC (2014) 226 Cal.App.4th 1281
+roles:
+  - Judge
+  - Plaintiff
+  - Defendant
+significant_statements:
+  - "Liberality in permitting amendment is the rule, if a fair opportunity to correct any defect has not been given."
+  - "The burden is on plaintiff to show¿in what manner¿plaintiff can amend the complaint, and¿how¿that amendment will change the legal effect of the pleading."
+```
+
+And here is the summary in English text:
+
+The judge has issued a tentative ruling on a motion to strike filed by defendants James Green and Joyce Green. The motion seeks to strike plaintiff Danielle Druz's request for punitive damages. The judge finds that the complaint does not plead sufficient facts to support a claim of punitive damages under Civil Code section 3294. The complaint generally alleges negligence and breach of warranty of habitability, but does not allege intentional or willful maintenance of unhabitable conditions. The judge grants the motion to strike with leave to amend, giving the plaintiff an opportunity to replead the claim. The judge's decision is based on the legal standards outlined in California Code of Civil Procedure and California Rules of Court, as well as relevant case law.

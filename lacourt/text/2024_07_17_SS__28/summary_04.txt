@@ -1,0 +1,60 @@
+Here is the summary in YAML format:
+
+```
+Case Number: 22STCV26120
+Plaintiff's Name: Jonathan Vargas, Ivan Vargas
+Defendant's Name: Lena Meyer, Mimi Meyer, Does 1-50
+People-Names:
+  - Jonathan Vargas
+  - Ivan Vargas
+  - Lena Meyer
+  - Mimi Meyer
+Company-Names: None
+Places:
+  - Spring Street Courthouse
+Dates:
+  - August 12, 2022
+  - December 18, 2023
+  - January 18, 2024
+  - January 26, 2024
+  - February 9, 2024
+  - June 12, 2024
+  - July 17, 2024
+  - August 20, 2024
+Events:
+  - Motor vehicle tort
+  - Final status conference
+  - Trial
+  - Motion to be relieved as counsel
+  - Substitution of new counsel
+  - Dismissal of the case
+  - Motion for relief from dismissal
+Money: None
+Intentions:
+  - Plaintiffs ask the Court to vacate the dismissal
+  - Court grants the motion and vacates the default
+Facts:
+  - Plaintiffs filed an action against Defendants
+  - Court granted Plaintiffs' counsel's motion to be relieved as counsel
+  - Plaintiffs substituted new counsel to represent them
+  - No parties or counsel appeared at the scheduled final status conference or trial
+Disputes:
+  - Dismissal of the case
+Acts:
+  - Plaintiffs filed a motion for relief from dismissal
+  - Court granted the motion
+Agreements:
+  - Code of Civil Procedure section 473, subdivision (b)
+Laws:
+  - Code of Civil Procedure section 473, subdivision (b)
+Statutes:
+  - Code of Civil Procedure section 473, subdivision (b)
+Roles:
+  - Judge
+Significant Statements:
+  - "Notwithstanding any other requirements of this section, the court shall, whenever an application for relief is made no more than six months after entry of judgment, is in proper form, and is accompanied by an attorney's sworn affidavit attesting to his or her mistake, inadvertence, surprise, or neglect, vacate any (1) resulting default entered by the clerk against his or her client, and which will result in entry of a default judgment, or (2) resulting default judgment or dismissal entered against his or her client, unless the court finds that the default or dismissal was not in fact caused by the attorney's mistake, inadvertence, surprise, or neglect."
+```
+
+And here is the English-text summary:
+
+The Court has ruled on the motion for relief from dismissal filed by Plaintiffs Jonathan Vargas and Ivan Vargas. The Plaintiffs are seeking to vacate the dismissal of their case, which was entered on February 9, 2024, due to their counsel's inadvertent failure to calendar the final status conference and trial. The Court has granted the motion and vacates the default. The Court sets an OSC re: dismissal for failure to file proof of service of the summons and complaint for August 20, 2024.

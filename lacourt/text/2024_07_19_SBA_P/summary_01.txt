@@ -1,0 +1,77 @@
+Here is the summary in YAML format:
+
+```
+case_number: 23TRCV00998
+plaintiff_names:
+  - Maribel Perez
+  - Jocelyn Mejia
+defendant_names:
+  - Active Security Solution Services, Inc.
+  - Patricia Donaldson
+people_names:
+  - Maribel Perez
+  - Jocelyn Mejia
+  - Patricia Donaldson
+  - Ronald F. Frank
+  - David K. Reinert
+company_names:
+  - Active Security Solution Services, Inc.
+places:
+  - Torrance Courthouse
+dates:
+  - April 4, 2023
+  - May 9, 2023
+  - July 13, 2023
+  - December 4, 2023
+  - December 18, 2023
+  - January 10, 2024
+  - January 24, 2024
+  - January 29, 2024
+  - July 19, 2024
+events:
+  - Default judgment application
+  - Service of summons and complaint
+  - Entry of default
+  - Order to submit supplemental declaration
+  - Reassignment of case
+money:
+  - $2,693.47
+  - $585.35
+  - $31,270.78
+  - $29,367.94
+intentions:
+  - To obtain default judgment against defendants
+facts:
+  - Defendants failed to provide uninterrupted meal and rest periods
+  - Defendants failed to pay plaintiffs all wages owed
+disputes:
+  - Failure to meet requirements for default judgment
+acts:
+  - Filing of default judgment application
+  - Filing of supplemental declaration
+agreements:
+  - None mentioned
+laws:
+  - California Rules of Court, Rule 3.1800
+  - Cal. Bus. & Prof. Code § 17200, et seq.
+  - Code of Civil Procedure section 579
+case_citations:
+  - California Rules of Court, Rule 3.1800
+  - Cal. Bus. & Prof. Code § 17200, et seq.
+  - Code of Civil Procedure section 579
+statutes:
+  - California Rules of Court, Rule 3.1800
+  - Cal. Bus. & Prof. Code § 17200, et seq.
+  - Code of Civil Procedure section 579
+roles:
+  - Judge
+  - Plaintiffs
+  - Defendants
+significant_statements:
+  - The default judgment application is denied without prejudice.
+  - Plaintiffs failed to meet the requirements for default judgment.
+```
+
+Here is the English summary of the judge's tentative ruling:
+
+The court denies the default judgment application without prejudice. The court finds that the plaintiffs have failed to meet the requirements for default judgment as set forth in California Rules of Court, Rule 3.1800. Specifically, the plaintiffs failed to provide a brief summary of the case, a signed memorandum of costs and disbursements, and dismissed the Doe defendants. Additionally, there is a discrepancy in the amount of interest requested. The court notes that the plaintiffs' failure to comply with the requirements is not sufficient to justify the entry of default judgment.

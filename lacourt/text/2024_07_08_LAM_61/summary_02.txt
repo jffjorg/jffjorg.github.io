@@ -1,0 +1,58 @@
+Here is the summary in YAML format:
+
+```
+case_number: 23STCV14890
+plaintiff_name: Stewart Lucas Murrey
+defendant_name: Kelly Gibbons, et al.
+people_names:
+  - Stewart Lucas Murrey
+  - Kelly Gibbons
+  - Michal Ofek
+  - Lena Vanderford
+  - Ainka Wiz
+  - Katherine Frame
+  - Wendy Wang
+  - Mark DeLisle
+company_names:
+  - Facebook
+places:
+  - Facebook
+dates:
+  - July 8, 2024
+  - September 28, 2023
+events:
+  - Anonymous speech
+  - Defamation
+  - Murder
+  - Wrongful conduct
+money: $0
+intentions:
+  - Identify defendants
+  - Conduct third-party discovery
+facts:
+  - Plaintiff seeks to identify defendants making defamatory comments about him on Facebook
+  - Plaintiff claims to have met or texted with several defendants
+  - Plaintiff has not shown that discovery is necessary to identify several defendants
+  - Plaintiff has not notified defendants of his attempts to secure their information
+disputes:
+  - Plaintiff's motion for leave to conduct third-party discovery
+acts:
+  - Plaintiff's motion
+  - Defendant's failure to provide notice
+agreements: None
+laws:
+  - Glassdoor, Inc. v. Superior Court (2017) 9 Cal.App.5th 623
+  - California State Bar rules
+statutes: None
+roles:
+  - Plaintiff: Stewart Lucas Murrey
+  - Defendant: Kelly Gibbons, et al.
+  - Judge: [Undisclosed]
+significant_statements:
+  - "In any action predicated on anonymous speech, regardless of legal theory, the plaintiff should not be able to discover the speaker's identity without first making a prima facie showing that the speech in question is actionable."
+  - "If the defendant has not received notice of the attempt to lift the shield of anonymity, the plaintiff must make reasonable efforts to provide such notice."
+```
+
+And here is the English-text summary:
+
+The Judge has issued a tentative ruling denying Plaintiff Stewart Lucas Murrey's motion for leave to conduct third-party discovery to identify defendants making defamatory comments about him on Facebook. The Plaintiff's motion is defective because he has not presented the court with a specific subpoena or discovery request, and has not shown that discovery is necessary to identify several of the defendants. Additionally, the Plaintiff has not made a prima facie showing that the speech in question is actionable, and has not notified the defendants of his attempts to secure their information. The Judge cites Glassdoor, Inc. v. Superior Court (2017) 9 Cal.App.5th 623, which holds that a plaintiff seeking to discover an anonymous defendant's identity must make "reasonable efforts" to provide notice to the defendant. The Judge has denied the Plaintiff's motion without prejudice, meaning the Plaintiff may re-file the motion with additional information and a clearer plan for discovery.

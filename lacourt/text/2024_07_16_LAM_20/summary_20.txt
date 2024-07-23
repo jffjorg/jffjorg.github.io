@@ -1,0 +1,61 @@
+Here is the YAML summary of the tentative ruling:
+
+```
+case_number: 2022-000123
+plaintiff_name: James River Insurance Company
+defendant_name: Imienfan Odigie
+people_names:
+  - James River Insurance Company
+  - Imienfan Odigie
+company_names:
+  - James River Insurance Company
+places:
+  - California (assuming LACourtConnect refers to Los Angeles County Court)
+dates:
+  - Code Civ. Proc. § 583.410 ( California Code of Civil Procedure section 583.410)
+  - COVID-19 pandemic (ongoing)
+events:
+  - Underinsured motorist claim
+  - Failure to retain counsel or take action in discovery or arbitration
+  - Motion to Dismiss
+  - Dismissal of suit
+money:
+  - (none mentioned)
+intentions:
+  - Petitioner seeks dismissal of suit
+  - Respondent has failed to prosecute its claim
+facts:
+  - Respondent has failed to retain counsel
+  - Respondent has failed to take action in discovery or arbitration
+  - No opposition to Motion to Dismiss
+disputes:
+  - Delay in prosecution
+acts:
+  - Petitioner filed Motion to Dismiss
+  - Respondent failed to respond or take action
+agreements:
+  - Code Civ. Proc. § 583.410
+  - LACourtConnect (remote appearance)
+laws:
+  - Code Civ. Proc. § 583.410 (California Code of Civil Procedure section 583.410)
+  - (other laws not mentioned)
+case_citations:
+  - Code Civ. Proc. § 583.410
+  - (other case citations not mentioned)
+statutes:
+  - Code Civ. Proc. § 583.410 (California Code of Civil Procedure section 583.410)
+  - (other statutes not mentioned)
+roles:
+  - Judge
+  - Petitioner (James River Insurance Company)
+  - Respondent (Imienfan Odigie)
+  - Counsel (optional)
+significant_statements:
+  - The Court may dismiss an action in its discretion in appropriate circumstances due to delay in prosecution.
+  - Respondent has failed to prosecute its claim.
+  - The Motion to Dismiss is granted.
+```
+
+And here is the English-text summary of the tentative ruling:
+
+The judge has issued a tentative ruling stating that James River Insurance Company's motion to dismiss Imienfan Odigie's underinsured motorist claim is granted. The claim was filed too long ago, and Odigie has failed to retain counsel or take any action in the discovery or arbitration proceedings. Due to the COVID-19 pandemic, counsel are encouraged to appear remotely through LACourtConnect rather than in person. The court has discretion to dismiss cases due to delay in prosecution under California Code of Civil Procedure section 583.410.

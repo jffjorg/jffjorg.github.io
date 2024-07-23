@@ -1,0 +1,62 @@
+Here is the summary in YAML format:
+
+```
+case_number: 20STCV33913
+plaintiff: Choi, Ik Hoon and Hannah
+defendant: Marchino, Filippo
+people_names:
+  - Choi, Ik Hoon
+  - Choi, Hannah
+  - Marchino, Filippo
+company_names: []
+places: []
+dates:
+  - September 4, 2020
+  - May 6, 2024
+  - June 6, 2024
+  - June 7, 2024
+  - June 21, 2024
+  - July 1, 2024
+  - July 9, 2024
+events:
+  - dog bite case
+  - trial
+  - verdict
+  - judgment
+  - motion to seal and/or redact records
+money: []
+intentions:
+  - seal and/or redact records
+facts:
+  - Defendant's dog did not bite plaintiff Ik Soon Choi
+  - Plaintiffs sued Defendant on September 4, 2020
+  - Defendant moved to seal or redact references to his address
+  - Plaintiffs opposed and Defendant replied
+  - Defendant claimed to have been harassed and stalked
+disputes:
+  - Defendant's right to privacy vs. public's right of access to Court records
+acts:
+  - filing a motion
+  - opposing a motion
+  - replying to a motion
+agreements: []
+laws:
+  - Cal. Rules of Court, rule 2.550(c)
+  - Cal. Rules of Court, rule 2.511(a), (b)(1)
+  - NBC Subsidiary (KNBC-TV), Inc. v. Superior Court (Locke) (1999)
+  - H.B. Fuller Co. v. Doe (2007)
+statutes:
+  - CCP 1010.6(a)(3)(B)
+roles:
+  - Judge Joel L. Lofton
+  - Defendant Filippo Marchino
+  - Plaintiffs Ik Hoon Choi and Hannah Choi
+significant_statements:
+  - Defendant has not made the showing necessary for the Court to order records sealed or redacted
+  - Defendant's right to privacy does not override the public's right of access to Court records
+  - Defendant's proposal is not narrowly tailored
+```
+
+And here is the English-text summary:
+
+The judge has issued a tentative ruling denying Defendant Filippo Marchino's motion to seal and/or redact records containing his personal address. The motion was filed after the verdict was returned, finding that Defendant's dog did not bite plaintiff Ik Soon Choi. The judge found that Defendant did not make the necessary showing to seal or redact the records, citing the legal standard that court records are presumed to be open to the public unless confidentiality is required by law. The judge also noted that Defendant's right to privacy does not override the public's right of access to Court records, and that Defendant's proposal to seal the entire trial transcript and multiple pages of filings was not narrowly tailored. Finally, the judge pointed out that Defendant had the opportunity to seek a protective order or to move for an order sealing this information from public view at a prior time.

@@ -1,0 +1,55 @@
+Here is the summary in YAML format:
+
+```
+caseNumber: 23BBCV02185
+plaintiff: Tania Guzman
+defendant: Shlomi Asiss
+peopleNames:
+  - Shlomi Asiss
+  - Fabiano Iha
+companyNames: []
+places:
+  - Los Angeles
+  - California
+dates:
+  - April 30, 2024
+  - March 25, 2024
+  - June 28, 2024
+events:
+  - Motion to deem facts admitted
+  - Service of discovery requests
+  - Failure to respond to discovery requests
+money: []
+intentions:
+  - To deem facts admitted
+facts:
+  - Defendant Asiss served discovery requests on Iha
+  - Iha did not respond to discovery requests
+  - Time to respond has expired
+  - Defendant Asiss has not received responses from Iha
+disputes:
+  - Whether Iha should be deemed in default for failing to respond to discovery requests
+acts:
+  - Service of discovery requests
+  - Failure to respond to discovery requests
+agreements:
+  - None
+laws:
+  - CCP § 2033.280
+  - California Code of Civil Procedure
+caseCitations: []
+statutes:
+  - CCP § 2033.280
+roles:
+  - Judge: John J. Kralik
+  - Plaintiff: Tania Guzman
+  - Defendant: Shlomi Asiss
+  - Defendant: Fabiano Iha
+significantStatements:
+  - Defendant Asiss's unopposed motion to deem facts admitted is granted.
+  - No sanctions were requested.
+```
+
+And here is the English-text summary:
+
+This is a tentative ruling by Judge John J. Kralik regarding a motion to deem facts admitted. The defendant, Shlomi Asiss, filed a motion on April 30, 2024, to have the requests for admissions (RFAs) served on the defendant Fabiano Iha deemed admitted. Asiss argues that the time to respond to the RFAs has expired and Iha did not request an extension. As of the filing of the motion, Asiss has not received responses from Iha. The judge grants Asiss's unopposed motion, deeming the RFAs admitted against Iha, pursuant to California Code of Civil Procedure § 2033.280. No sanctions were requested.

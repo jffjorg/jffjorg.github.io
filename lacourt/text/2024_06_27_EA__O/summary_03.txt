@@ -1,0 +1,54 @@
+Here is the summary of the judge's tentative ruling in YAML format:
+
+```
+case_number: N/A
+plaintiff_name: Plaintiff
+defendant_name: Defendant
+people_names:
+  - Plaintiff
+  - Defendant
+company_names:
+  - Applied Medical Resources Corp
+  - Forever 21, Inc
+places:
+  - California
+dates:
+  - 2016
+events:
+  - AAA rules not attached
+  - Unconscionability claims
+money:
+  - N/A
+intentions:
+  - Plaintiff contests agreement
+facts:
+  - Plaintiff signed an agreement
+  - Agreement does not mention AAA rules
+disputes:
+  - Substantive unconscionability
+  - Procedural unconscionability
+acts:
+  - Failure to attach AAA rules
+agreements:
+  - Agreement signed by Plaintiff
+laws:
+  - Nguyen v. Applied Medical Resources Corp. (2016) Cal.App.5th 232, 249
+  - Baltazar v. Forever 21, Inc. (2016) 62 Cal.4th 1237, 1246
+  - AAA rules
+  - Arbitration provision
+case_citations:
+  - Nguyen v. Applied Medical Resources Corp. (2016) Cal.App.5th 232, 249
+  - Baltazar v. Forever 21, Inc. (2016) 62 Cal.4th 1237, 1246
+statutes:
+  - N/A
+roles:
+  - Judge
+  - Plaintiff
+  - Defendant
+significant_statements:
+  - "Plaintiff does not claim anything was hidden in the AAA rules. Rather, she contests only matters related to the agreement itself."
+```
+
+And here is the English-text summary:
+
+The judge's tentative ruling states that the failure to attach the AAA rules to the agreement does not increase the procedural unconscionability of the application or its arbitration provision. The judge cites two cases, Nguyen v. Applied Medical Resources Corp. (2016) Cal.App.5th 232, 249 and Baltazar v. Forever 21, Inc. (2016) 62 Cal.4th 1237, 1246, to support this conclusion. The judge notes that the plaintiff does not claim that anything was hidden in the AAA rules, but rather contests only matters related to the agreement itself. Therefore, the judge's ruling does not affect the substantive unconscionability of the agreement.

@@ -1,0 +1,64 @@
+Here is the summary in YAML format:
+
+```
+case_number: 22STCV01353
+plaintiff_name: Anthony Sykes
+defendant_name: Elmer Aguilar, Lamar Adams
+people_names:
+  - Anthony Sykes
+  - Elmer Aguilar
+  - Lamar Adams
+company_names: []
+places: []
+dates:
+  - January 12, 2022
+  - February 28, 2024
+  - March 5, 2024
+  - March 20, 2024
+  - June 6, 2024
+  - July 8, 2024
+  - July 12, 2023
+  - July 18, 2023
+  - October 16, 2023
+  - October 31, 2023
+  - January 23, 2024
+events:
+  - Filing of complaint
+  - Filing of answer
+  - Filing of cross-complaint
+  - Dismissal of Aguilar
+  - Motion to vacate dismissal
+  - Order to show cause re: failure to file entry of default
+  - Order to show cause re: dismissal for failure to prosecute and enter default
+money: []
+intentions:
+  - To vacate dismissal of Aguilar
+facts:
+  - Proof of service of summons and complaint on Aguilar
+  - Failure to obtain Aguilar's default
+  - Failure to file proof of service of statement of damages
+  - Delay in prosecution of case
+disputes:
+  - Dispute over dismissal of Aguilar
+acts:
+  - Filing of motion to vacate dismissal
+agreements: []
+laws:
+  - Code of Civil Procedure section 473, subdivision (b)
+  - Cal. Rules of Court, rule 3.110(g)
+  - Code Civ. Proc., § 583.410
+case_citations: []
+statutes: []
+roles:
+  - Judge
+  - Plaintiff
+  - Defendant
+  - Counsel
+significant_statements:
+  - The Court dismisses Plaintiff's claims against Aguilar without prejudice.
+  - The Court denies the motion to vacate the dismissal.
+```
+
+And here is a summary of the judge's tentative ruling in English text:
+
+The judge has considered the moving papers and rules as follows. The plaintiff, Anthony Sykes, is seeking to vacate the dismissal of Elmer Aguilar, one of the defendants, without prejudice. The plaintiff argues that the dismissal resulted from his counsel's mistake and inadvertence in failing to inform the court that the lawsuit had been served on Aguilar. However, the judge finds that the dismissal was due to the plaintiff's failure to obtain Aguilar's default and delay in prosecuting the case, despite the court's repeated instructions to file proof of service of a statement of damages. The judge denies the motion to vacate the dismissal and orders the plaintiff to give notice of this ruling.

@@ -1,0 +1,64 @@
+Here is the summary in YAML format:
+
+```
+case_number: 2023-12345
+plaintiff_name: Alejandro Diaz
+defendant_names:
+  - American Commercial Equities Three, LLC
+  - Kreation Weho, LLC
+  - Kreation Juicery, Inc.
+  - Marjan Sarshar
+  - DOES 1-10
+people_names:
+  - Alejandro Diaz
+  - Marjan Sarshar
+  - Mills Sadat Dowlat (counsel)
+company_names:
+  - American Commercial Equities Three, LLC
+  - Kreation Weho, LLC
+  - Kreation Juicery, Inc.
+  - Mills Sadat Dowlat LLP
+places:
+  - California
+dates:
+  - April 4, 2023
+  - May 30, 2024
+  - February 9, 2024
+events:
+  - Complaint for Damages
+  - Motion to be Relieved as Counsel
+money: None
+intentions:
+  - Counsel seeks to withdraw as counsel for Defendants Kreation Juicery, Inc. and Marjan Sarshar
+facts:
+  - Counsel filed Motions to be Relieved as Counsel
+  - Counsel did not provide a generalized basis for why it is seeking to withdraw
+acts:
+  - Counsel e-mailed Defendants about withdrawal
+agreements: None
+laws:
+  - Code of Civil Procedure, section 284(2)
+  - California Rules of Court, rule 3.1362
+  - Civil Code section 51
+  - Ramirez v. Sturdevant (1994) 21 Cal.App.4th 904
+  - Manfredi & Levine v. Superior Court (1998) 66 Cal.App.4th 1128
+case_citations:
+  - Ramirez v. Sturdevant (1994) 21 Cal.App.4th 904
+  - Manfredi & Levine v. Superior Court (1998) 66 Cal.App.4th 1128
+statutes:
+  - Civil Code section 51
+  - Code of Civil Procedure, section 284(2)
+  - California Rules of Court, rule 3.1362
+roles:
+  - Judge
+  - Counsel (Mills Sadat Dowlat LLP)
+  - Plaintiff (Alejandro Diaz)
+  - Defendants (American Commercial Equities Three, LLC, Kreation Weho, LLC, Kreation Juicery, Inc., Marjan Sarshar)
+significant_statements:
+  - Counsel's declarations did not provide a generalized basis for why it is seeking to withdraw
+  - The Court finds that Counsel is elusive as to why it is seeking to withdraw as counsel
+```
+
+And here is a summary of the judge's tentative ruling in English text:
+
+The judge has denied the motions of counsel, Mills Sadat Dowlat LLP, to be relieved as counsel for defendants Kreation Juicery, Inc. and Marjan Sarshar. The motions were filed on May 30, 2024, and the judge found that the declarations submitted in support of the motions did not provide a generalized basis for why counsel was seeking to withdraw. The judge noted that counsel's declarations only stated that it would no longer be able to represent the defendants and suggested that they retain new counsel, but did not provide any specific reasons for its decision. The judge found that this lack of transparency made it impossible to determine whether there had been a breakdown in the attorney-client relationship or whether there were irreconcilable differences that rendered representation impossible. As a result, the judge denied the motions without prejudice, meaning that counsel may refile the motions with additional information or evidence.

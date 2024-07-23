@@ -1,0 +1,49 @@
+Here is the summary in YAML format:
+
+```
+case_number: 22STCV17484
+plaintiff_name: Andres Sijifredo Barajas
+defendant_name: Unopposed
+people_names:
+  - Andres Sijifredo Barajas
+  - Andres Julian Barajas
+company_names: none
+places: none
+dates:
+  - June 11, 2024
+  - July 11, 2024
+events:
+  - Petition for Minors Compromise
+  - Motor vehicle accident
+  - Request for attorney fees
+money: $333.33
+intentions:
+  - To deny petition without prejudice
+facts:
+  - Claimant has chest and back pain after the accident
+  - Petitioner provided medical records, but the Court requires further records
+  - Petitioner must provide attachment 11b(3)
+  - Petitioner's attorney declaration is insufficient
+disputes: none
+acts:
+  - The Court reviewed the petition and attachments
+  - The Court denied the petition without prejudice
+agreements: none
+laws:
+  - California Rules of Court, rule 7.955(b)
+  - Statute(s) not specified
+case_citations: none
+statutes: none
+roles:
+  - Judge
+  - Petitioner (Andres Sijifredo Barajas)
+  - Claimant (Andres Julian Barajas)
+significant_statements:
+  - The Court requires further medical records or a parent declaration
+  - The attorney declaration is insufficient
+  - The petition is denied without prejudice
+```
+
+And here is the English-text summary:
+
+The tentative ruling is for the case 22STCV17484, where the plaintiff Andres Sijifredo Barajas is seeking a petition for minors compromise on behalf of his 10-year-old son, Andres Julian Barajas. The petition was filed on June 11, 2024, and the court has reviewed the attachments and petition. The court denies the petition without prejudice for the following reasons: the provided medical records are insufficient, the court requires further records or a parent declaration attesting that the claimant is fully recovered from the chest and back pain; the petition lacks attachment 11b(3); the attorney declaration is insufficient; and attachment 17e must be provided. The court also requests that the petitioner provide a new attorney declaration discussing the factors in California Rules of Court, rule 7.955(b).

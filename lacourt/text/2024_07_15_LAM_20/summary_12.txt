@@ -1,0 +1,57 @@
+Here is the summary in YAML format:
+
+```
+case_number: [not provided]
+plaintiff_name: [not provided]
+defendant_name: Dash Radio, Inc. and Kevin Tsujihara, Matt Michelsen, Ron R. Goldie, Scott P. Keeney, and Michael Zeisser
+people_names:
+  - Kevin Tsujihara
+  - Matt Michelsen
+  - Ron R. Goldie
+  - Scott P. Keeney
+  - Michael Zeisser
+company_names:
+  - Dash Radio, Inc.
+places:
+  - California
+dates:
+  - July 1, 2024
+events:
+  - Filing of First Amended Complaint
+  - Filing of Motions to Quash Service of Summons
+  - Hearing on Demurrer
+money:
+  - [none]
+intentions:
+  - To determine jurisdiction and quash service of summons
+facts:
+  - Plaintiffs have not filed an opposition to Demurrer
+  - Plaintiffs have not demonstrated facts justifying exercise of jurisdiction in California
+disputes:
+  - Existence of personal jurisdiction over defendants
+acts:
+  - Filing of Demurrer
+  - Filing of Motions to Quash Service of Summons
+agreements:
+  - [none]
+laws:
+  - Code Civ. Proc. § 418.10(a)(1)
+  - In re Automobile Antitrust Cases I and II (2005) 135 Cal.App.4th 100, 110
+case_citations:
+  - In re Automobile Antitrust Cases I and II (2005) 135 Cal.App.4th 100, 110
+  - Code Civ. Proc. § 418.10(a)(1)
+statutes:
+  - Code of Civil Procedure
+roles:
+  - Judge
+  - Plaintiff
+  - Defendant
+  - Counsel
+significant_statements:
+  - Demurrer is overruled as moot
+  - Motions to Quash Service of Summons are granted
+```
+
+And here is a summary of the judge's tentative ruling in English text:
+
+The judge has ruled on several motions filed by the defendants. The demurrer filed by Dash Radio, Inc. and Kevin Tsujihara was found to be moot due to the filing of the First Amended Complaint. The defendants Matt Michelsen, Ron R. Goldie, Scott P. Keeney, and Michael Zeisser moved to quash service of summons, claiming that the court lacks personal jurisdiction over them. Since the plaintiffs did not file an opposition to this motion, the burden to demonstrate facts justifying jurisdiction in California was not met. Therefore, the motions to quash service of summons were granted. The judge encourages counsel to submit on the tentative or appear remotely via LACourtConnect instead of in person due to the COVID-19 pandemic.

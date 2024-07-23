@@ -1,0 +1,56 @@
+Here is the summary of the Judge's tentative ruling in YAML format:
+
+```
+case_number: 23STCV26448
+plaintiff_name: Marianne Leoner
+defendant_name: Kristopher Marquis
+people_names:
+  - Marianne Leoner
+  - Kristopher Marquis
+company_names: []
+places: []
+dates:
+  - February 29, 2024
+  - July 1, 2024
+events:
+  - Service of discovery requests
+  - Failure to respond to discovery requests
+  - Motion to compel discovery responses
+money:
+  - $572 (requested sanctions per motion)
+  - $718.50 (awarded sanctions)
+intentions:
+  - Defendant intends to compel discovery responses
+  - Defendant seeks monetary sanctions
+facts:
+  - Defendant served discovery requests on February 29, 2024
+  - No responses were served
+  - Defendant's counsel contacted Plaintiff's counsel regarding discovery requests
+  - Plaintiff's counsel claims to have mailed discovery requests but did not receive responses
+disputes:
+  - Defendant's motion to compel discovery responses
+  - Plaintiff's opposition to motion to compel
+acts:
+  - Service of discovery requests
+  - Failure to respond to discovery requests
+agreements:
+  - None
+laws:
+  - California Code of Civil Procedure Sections 2030.290, 2031.300
+  - California Rules of Court Rule 3.1348(a)
+statutes:
+  - Code Civ. Proc. § 2030.290
+  - Code Civ. Proc. § 2031.300
+roles:
+  - Judge
+  - Plaintiff's counsel
+  - Defendant's counsel
+significant_statements:
+  - The Court grants the motions to compel discovery responses
+  - The Court awards sanctions in the amount of $718.50
+  - The Court orders Plaintiff to provide verified responses to discovery requests
+```
+
+And here is the English-text summary:
+
+The Judge grants the Defendant's motions to compel discovery responses, including Demand for Identification and Inspection of Documents, Specially Prepared Interrogatories, and Form Interrogatories. The Defendant had served these requests on February 29, 2024, but the Plaintiff failed to respond. The Judge awards sanctions in the amount of $718.50 against the Plaintiff and her counsel for failing to respond to the discovery requests. The Judge orders the Plaintiff to provide verified responses to the discovery requests within 30 days.

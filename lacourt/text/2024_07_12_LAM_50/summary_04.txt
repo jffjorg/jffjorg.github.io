@@ -1,0 +1,70 @@
+Here is the summary in YAML format:
+
+```
+case_number: Not specified
+plaintiff_name: Carolyn Love
+defendant_names:
+  - County of Los Angeles
+  - City of Los Angeles
+  - Los Angeles Police Department
+  - Los Angeles Fire Department
+  - Department of Coroner
+people_names:
+  - Carolyn Love
+company_names:
+  - Los Angeles Police Department
+  - Los Angeles Fire Department
+places:
+  - Los Angeles
+  - County of Los Angeles
+  - City of Los Angeles
+dates:
+  - May 1, 2024
+  - June 20, 2024
+  - December 20, 2023
+events:
+  - Demurrer
+  - Judicial notice
+  - Filing of Fifth Amended Complaint
+  - Opposition to demurrer
+money:
+  - None mentioned
+intentions:
+  - Plaintiff's intentions unknown
+facts:
+  - Plaintiff's Fifth Amended Complaint was not filed
+  - Plaintiff's first cause of action does not identify a specific statute or regulation
+  - Eleventh cause of action is an added claim without authorization
+disputes:
+  - Whether the City's demurrer should be sustained
+acts:
+  - Plaintiff's failure to file the Fifth Amended Complaint
+  - City's assertion that the Eleventh cause of action is an added claim
+agreements:
+  - May 1, 2024 Order granting judicial notice
+  - Plaintiff's opposition to demurrer
+laws:
+  - Government Code section 815.6
+  - [Internal citations omitted]
+case_citations:
+  - Harris v. Wachovia Mortgage, FSB (2010) 185 Cal.App.4th 1018
+  - [Internal citations omitted]
+statutes:
+  - Government Code section 815.6
+roles:
+  - Judge
+  - Plaintiff
+  - City
+  - County
+  - Department of Coroner
+  - Los Angeles Police Department
+  - Los Angeles Fire Department
+significant_statements:
+  - Plaintiff's Fifth Amended Complaint was not filed
+  - City's demurrer to the eleventh cause of action is sustained
+  - Judge grants judicial notice
+```
+
+And here is the English-text summary:
+
+The Judge has issued a tentative ruling on the County's and City's demurrers to the TAC (Tentative Amended Complaint). The Judge notes that the Fifth Amended Complaint was submitted, but not filed, and that the docket does not show Plaintiff was authorized to file it. The Judge also notes that some causes of action in the FAC (First Amended Complaint) do not specify which defendants are being sued. The City asserts that the eleventh cause of action is an added claim without authorization, and the Judge agrees, sustaining the City's demurrer to this cause of action. The Judge also notes that the first cause of action does not identify a specific statute or regulation imposing a mandatory duty on the City. The Judge's ruling is based on Government Code section 815.6 and the case of Harris v. Wachovia Mortgage, FSB.

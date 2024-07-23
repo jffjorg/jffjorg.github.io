@@ -1,0 +1,49 @@
+Here is a summary of the judge's tentative ruling in YAML format:
+
+```
+case_number: 21STCV43732
+hearing_date: July 3, 2024
+dept: 32
+moving_party: Defendant The Vons Companies, Inc.
+opposing_party: Plaintiff Ryan Cain Newell
+background:
+  - Plaintiff filed a complaint against Defendant and others for injuries related to a stabbing at a Vons grocery store.
+  - Plaintiff alleges that the security guard, John Doe, physically assaulted him without warning.
+  - Defendant moves for summary adjudication, arguing that there are no facts that Defendant breached a duty of care and that there is no evidence Defendant knew the guard was unfit.
+
+legal_standard:
+  - A party may move for summary adjudication as to one or more causes of action if the party contends that the cause of action has no merit.
+  - The party moving for summary adjudication bears the burden of persuasion that there is no triable issue of material fact.
+
+discussion:
+  - Defendant argues that it did not hire the security guard, Phillip Wade, and thus is not liable for his actions.
+  - Even if Wade is considered an agent, Defendant argues there is no evidence it knew he was unfit.
+  - Plaintiff argues that Wade was an employee of GSSI, Inc. and that Defendant exercised sufficient control over him.
+  - The Court finds that there are triable issues of fact regarding the existence of a duty and whether Defendant breached its duty.
+  - The motion for summary adjudication of the negligence cause of action is denied.
+
+causes_of_action:
+  - Negligence
+    - The Court finds that there are triable issues of fact regarding the existence of a duty and whether Defendant breached its duty.
+    - The motion for summary adjudication of the negligence cause of action is denied.
+  - Negligent Hiring, Supervision, and Retention
+    - Defendant meets its initial burden since Wade was not employed by Defendant.
+    - Plaintiff fails to meet his burden to show a triable issue of fact surrounding the negligent hiring, supervision, and retention cause of action.
+    - The motion for summary adjudication as to the negligent hiring, supervision, and retention cause of action is granted.
+
+order:
+  - Defendant's Motion for Summary Adjudication of the negligence cause of action is DENIED.
+  - Defendant's motion for summary adjudication as to the negligent hiring, supervision, and retention cause of action is GRANTED.
+```
+
+And here is a summary of the judge's tentative ruling in English text:
+
+The judge has reviewed the motions for summary adjudication filed by Defendant The Vons Companies, Inc. and has issued a tentative ruling. The plaintiff, Ryan Cain Newell, filed a complaint against the defendant and others for injuries sustained during a physical altercation at a Vons grocery store.
+
+The defendant moves for summary adjudication, arguing that there is no evidence that it breached a duty of care and that it did not know that the security guard, Phillip Wade, was unfit. The plaintiff argues that Wade was an employee of GSSI, Inc. and that the defendant exercised sufficient control over him.
+
+The court finds that there are triable issues of fact regarding the existence of a duty and whether the defendant breached its duty. As a result, the motion for summary adjudication of the negligence cause of action is denied.
+
+The court also grants the defendant's motion for summary adjudication as to the negligent hiring, supervision, and retention cause of action, finding that the plaintiff fails to meet his burden to show a triable issue of fact in this regard.
+
+Accordingly, the court orders that the defendant's motion for summary adjudication of the negligence cause of action is denied, and the defendant's motion for summary adjudication as to the negligent hiring, supervision, and retention cause of action is granted.

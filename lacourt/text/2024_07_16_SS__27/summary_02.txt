@@ -1,0 +1,68 @@
+Here is the summary in YAML format:
+```
+case_number: 23STCV21640
+plaintiff_name: Neil Deepak Prasad
+defendant_names:
+  - Jose Silva Lopez
+  - Cordova Martir
+people_names:
+  - Neil Deepak Prasad
+  - Jose Silva Lopez
+  - Cordova Martir
+company_names: []
+places: []
+dates:
+  - January 29, 2024
+  - May 2, 2024
+  - May 31, 2024
+  - June 11, 2024
+  - July 16, 2024
+events:
+  - Motion to Compel Initial Responses to Special Interrogatories
+  - Requests for Sanctions
+  - Plaintiff's Special Interrogatories
+  - Plaintiff's motion to compel discovery responses
+  - Defendant's responses to discovery requests
+money:
+  - $1000 (sanctions)
+  - $1000 (joint and severally)
+intentions:
+  - Plaintiff's intention to file a motion to compel discovery responses
+  - Plaintiff's intention to notify defendants of the deadlines
+facts:
+  - Plaintiff sent special interrogatories to defendants on January 29, 2024
+  - Plaintiff gave defendants an extension to respond by May 2, 2024
+  - Plaintiff notified defendants that he would file a motion to compel discovery responses if no responses were received by May 31, 2024
+  - Plaintiff filed the motion on May 31, 2024
+  - Defendant's responses were served on June 11, 2024
+disputes:
+  - Dispute over discovery responses
+  - Dispute over deadlines
+acts:
+  - Plaintiff sent special interrogatories
+  - Plaintiff gave defendants an extension to respond
+  - Plaintiff notified defendants of the deadlines
+  - Plaintiff filed a motion to compel discovery responses
+  - Defendant's responded to discovery requests
+agreements:
+  - Plaintiff and defendants agreed to extensions to respond
+  - Plaintiff and defendants agreed to deadlines
+laws:
+  - California Code of Civil Procedure
+  - California Rules of Court
+case_citations: []
+statutes: []
+roles:
+  - Plaintiff: Neil Deepak Prasad
+  - Defendant: Jose Silva Lopez
+  - Defendant: Cordova Martir
+  - Judge: Hon. Lee S. Arian
+significant_statements:
+  - The motion to compel initial responses is moot
+  - Sanctions are imposed to compensate a party for the time and effort expended in filing a discovery motion
+  - The court reduces sanctions to $1000 for both motions
+  - The court orders defendants to pay $1000 in sanctions to plaintiff
+```
+And here is a summary of the judge's tentative ruling in English text:
+
+The judge has issued a tentative ruling in the case of Neil Deepak Prasad vs Jose Silva Lopez et al. The motion to compel initial responses to special interrogatories has been deemed moot since the plaintiff has already received responses from the defendants. However, the judge finds that sanctions are appropriate under the circumstances. The defendants failed to provide responses to the discovery requests despite being given extensions, and the plaintiff had notified them that he would file a motion to compel discovery responses if no responses were received by the specified date. The judge grants the requests for sanctions and orders the defendants to pay $1000 in sanctions to the plaintiff.

@@ -1,0 +1,49 @@
+Here is the summary in YAML format:
+
+```
+case_number: 23VECV00256
+plaintiff: Alvarez
+defendant: Nowaczyk
+people_names:
+  - Jennifer Nowaczyk
+company_names: []
+places: []
+dates:
+  - July 12, 2024
+events:
+  - Ex parte application to continue Trial, FSC, and discovery deadlines
+  - Depositions of designated experts
+  - Deposition of defendant Jennifer Nowaczyk
+  - Discovery motions on recent discovery responses and deposition notice for production of documents
+money: []
+intentions:
+  - Grant ex parte application for 75 days
+  - Allow limited discovery
+  - Discuss matters with counsel at hearing
+facts:
+  - Lack of cooperation between counsel
+disputes:
+  - Dispute over discovery deadlines
+  - Dispute over deposition procedures
+acts:
+  - Ex parte application to continue Trial, FSC, and discovery deadlines
+  - Depositions of designated experts
+  - Deposition of defendant Jennifer Nowaczyk
+  - Discovery motions on recent discovery responses and deposition notice for production of documents
+agreements: []
+laws:
+  - Code compliance for responses to request for production of documents
+case_citations: []
+statutes: []
+roles:
+  - Judge
+  - Counsel
+  - Defendant (Jennifer Nowaczyk)
+significant_statements:
+  - "The court is exceptionally disappointed to see the complete lack of cooperation between counsel."
+  - "The court would be inclined to order depositions to take place during normal business hours, by Zoom, and that the parties have up to 7 continuous hours to take the deposition."
+```
+
+And here is the English-text summary:
+
+The judge is considering a tentative ruling on an ex parte application to continue the trial, FSC, and discovery deadlines in the case of Alvarez vs. Nowaczyk. The judge is disappointed with the lack of cooperation between counsel and is inclined to grant the application for 75 days, allowing limited discovery to proceed. The limited discovery will include depositions of designated experts, the defendant Jennifer Nowaczyk, and discovery motions on recent discovery responses and deposition notices for production of documents. The judge also specifies that depositions must take place during normal business hours, via Zoom, and that parties have up to 7 continuous hours to take the deposition. Additionally, the judge reminds counsel that responses to requests for production of documents must comply with the Code. The judge will discuss these matters with counsel at the hearing on July 12, 2024.

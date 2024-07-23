@@ -1,0 +1,55 @@
+Here is the summary in YAML format:
+
+```
+case_number: 24CHCV00901
+plaintiff_name: Kemyia Thomas
+defendant_name: Bogardus Clewis
+people_names:
+  - Kemyia Thomas
+  - Bogardus Clewis
+places: []
+dates:
+  - March 18, 2024
+  - April 22, 2024
+  - May 6, 2024
+  - May 15, 2024
+  - July 12, 2024
+events:
+  - Filing of complaint
+  - Filing of answer
+  - Filing of demurrer
+  - Filing of amended answer
+  - Hearing
+money: []
+intentions:
+  - Plaintiff seeks to have demurrer to answer granted
+  - Defendant seeks to have demurrer denied
+facts:
+  - Plaintiff filed complaint on March 18, 2024
+  - Defendant filed answer on April 22, 2024
+  - Plaintiff filed demurrer on May 6, 2024
+  - Defendant filed amended answer on May 15, 2024
+disputes:
+  - Whether demurrer to answer should be granted
+acts:
+  - Filing of complaint
+  - Filing of answer
+  - Filing of demurrer
+  - Filing of amended answer
+agreements: []
+laws:
+  - CCP § 472
+case_citations: []
+statutes: []
+roles:
+  - Judge
+  - Plaintiff
+  - Defendant
+significant_statements:
+  - Demurrer is moot
+  - Amended answer filed timely
+```
+
+And here is the English-text summary:
+
+This is a tentative ruling by the judge in the case of Kemyia Thomas vs. Bogardus Clewis, case number 24CHCV00901. The plaintiff, Kemyia Thomas, filed a complaint on March 18, 2024, and the defendant, Bogardus Clewis, filed an answer on April 22, 2024. The plaintiff then filed a demurrer to the answer on May 6, 2024. However, instead of filing an opposition to the demurrer, the defendant timely filed an amended answer on May 15, 2024, pursuant to CCP § 472. As a result, the judge has ruled that the demurrer is moot and the case will proceed without further action.

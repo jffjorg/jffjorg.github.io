@@ -1,0 +1,61 @@
+Here is the summary in YAML format:
+
+```
+case_number: 19STCV28184
+plaintiff_name: Juan Ramon Fuentes Hernandez
+defendant_name: Manuel DeJesus Puga et al
+people_names:
+  - Juan Ramon Fuentes Hernandez
+  - Manuel DeJesus Puga
+company_names:
+  - DNELEVETS, INC.
+places:
+  - Van Nuys Courthouse East
+dates:
+  - August 9, 2019
+  - October 24, 2019
+  - May 23, 2024
+  - June 7, 2024
+  - June 18, 2024
+  - July 10, 2024
+  - July 12, 2024
+events:
+  - Motion for Leave to Amend to File First Amended Answer
+  - Filing of First Amended Answer
+money:
+  - None
+intentions:
+  - To allow Defendants to file a First Amended Answer
+facts:
+  - Plaintiff filed a lawsuit alleging causes of action for negligence and negligence per se
+  - Defendants filed their Answer on October 24, 2019
+  - Defendants filed a Motion for Leave to Amend to File First Amended Answer on May 23, 2024
+disputes:
+  - Whether Defendants should be allowed to file a First Amended Answer
+acts:
+  - Plaintiff filed a lawsuit
+  - Defendants filed their Answer and Motion for Leave to Amend
+agreements:
+  - Code Civ. Proc., § 473(a)(1)
+  - Code Civ. Proc., § 576
+  - Berman v. Bromberg (1997) 56 Cal.App.4th 936, 945
+laws:
+  - California Rules of Court, rule 3.1324(a)
+  - California Rules of Court, rule 3.1324(b)
+  - California Rules of Court, rule 3.1110 (b)(1)
+case_citations:
+  - Berman v. Bromberg (1997) 56 Cal.App.4th 936, 945
+statutes:
+  - Code Civ. Proc., § 473(a)(1)
+  - Code Civ. Proc., § 576
+roles:
+  - Judge Moskowitz
+significant_statements:
+  - The Court grants the motion for leave to amend to allow Defendants to file a First Amended Answer.
+  - Defendants failed to include the courthouse address in the Notice of Motion.
+  - The Court notes that Plaintiff has not filed an opposition showing that he would be prejudiced by the amendment.
+```
+
+And here is a summary of the judge's tentative ruling in English text:
+
+The court has granted the motion for leave to amend, allowing the defendants to file a first amended answer. The defendants are required to file the amended answer within 20 days of this order. The court notes that the defendants failed to include the courthouse address in the notice of motion, but since the case was reassigned and notice was sent to the plaintiff on multiple occasions, this error is not deemed prejudicial. The court also finds that the defendants have complied with the necessary procedural requirements and that the plaintiff has not shown that he would be prejudiced by the amendment. As a result, the court grants the motion and allows the defendants to file their first amended answer.

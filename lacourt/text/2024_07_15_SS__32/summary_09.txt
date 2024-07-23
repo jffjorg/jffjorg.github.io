@@ -1,0 +1,73 @@
+Here is the summary in YAML format:
+
+```
+case_number: "23STCV11541"
+plaintiff_name: "Tamera Pinelo"
+defendant_name: "Jorge Carlos Castro"
+people_names:
+  - Tamera Pinelo
+  - Jorge Carlos Castro
+company_names: []
+places: []
+dates:
+  - November 21, 2023
+  - December 15, 2023
+  - December 29, 2023
+  - February 23, 2024
+  - February 26, 2024
+  - March 4, 2024
+  - August 13, 2024
+  - July 15, 2024
+events:
+  - Motion to Compel Defendant's Deposition
+  - Production of documents
+  - Monetary sanctions
+money:
+  - Sanctions
+  - Costs
+intentions:
+  - Plaintiff seeks to compel Defendant's deposition
+  - Defendant opposes
+  - Defendant seeks monetary sanctions
+facts:
+  - Plaintiff served deposition notice on December 15, 2023
+  - Defendant objected to deposition notice on December 29, 2023
+  - Plaintiff served second deposition notice on February 23, 2024
+  - Defendant agreed to appear for in-person deposition on August 13, 2024
+disputes:
+  - Defendant's failure to appear for deposition
+  - Plaintiff's request for monetary sanctions
+acts:
+  - Plaintiff's efforts to coordinate Defendant's deposition
+  - Defendant's objections to deposition notices
+  - Defendant's agreement to appear for in-person deposition
+agreements:
+  - None
+laws:
+  - California Code of Civil Procedure (CCP) § 2025.450
+  - CCP § 2025.410
+  - CCP § 2016.040
+  - CCP § 2025.450(g)
+case_citations:
+  - CCP § 2025.450
+  - CCP § 2025.410
+  - CCP § 2016.040
+  - CCP § 2025.450(g)
+statutes:
+  - CCP § 2025.450
+  - CCP § 2025.410
+  - CCP § 2016.040
+  - CCP § 2025.450(g)
+roles:
+  - Judge
+  - Plaintiff
+  - Defendant
+significant_statements:
+  - Defendant's failure to appear for deposition
+  - Plaintiff's request for monetary sanctions
+  - Defendant's agreement to appear for in-person deposition
+```
+
+And here is the English text to summarize the judge's tentative ruling:
+
+The judge has issued a tentative ruling in the case of 23STCV11541, which concerns a motion to compel Defendant Jorge Carlos Castro's deposition and seek monetary sanctions. The judge has denied the motion to compel, finding that Defendant has served timely objections and has now agreed to appear for an in-person deposition on August 13, 2024. The judge has also declined to award monetary sanctions to Defendant, as he has not shown a statutory basis for the sanctions under California Code of Civil Procedure section 2025.450. The judge orders that Plaintiff shall provide notice of the ruling and file a proof of service of such.

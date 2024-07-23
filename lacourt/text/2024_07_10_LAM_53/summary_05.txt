@@ -1,0 +1,57 @@
+Here is the summary in YAML format:
+
+```
+Case Number: [unknown]
+Plaintiff's Name: [unknown]
+Defendant's Name: Kia America, Inc. and Kia of Carson
+People-Names:
+  - [unknown]
+  - Saeedian
+Company-Names:
+  - Kia America, Inc.
+  - Kia of Carson
+Places:
+  - Carson
+Dates:
+  - 4/14/2023
+  - 4/17/2023
+Events:
+  - Settlement agreement
+  - Drafting of Complaint
+  - Review of case management documents
+Money:
+  - Attorney's fees
+  - Costs
+Intentions:
+  - Plaintiffs: seek payment of attorney's fees and costs
+  - Defendant: disputes billing statement
+Facts:
+  - Defendant disputes hours expended to draft Complaint
+  - Plaintiffs' attorneys billed 1.3 hours to draft Complaint and 0.1 hours to review case management documents
+Disputes:
+  - Billing statement
+Acts:
+  - Execution of settlement agreement
+  - Drafting of Complaint
+  - Review of case management documents
+Agreements:
+  - Settlement agreement
+Laws:
+  - [unknown]
+Case Citations:
+  - [unknown]
+Statutes:
+  - [unknown]
+Roles:
+  - Judge
+  - Plaintiff
+  - Defendant
+  - Attorney
+Significant Statements:
+  - Defendant's assertion does not accurately reflect the billing statement
+  - Plaintiffs have only requested payment of attorney's fees and costs from Kia America, Inc.
+```
+
+And here is a summary of the judge's tentative ruling in English text:
+
+The court is considering a dispute between the plaintiff and defendant Kia America, Inc. regarding attorney's fees and costs. The plaintiff has requested payment from Kia America, Inc. only, despite naming Kia of Carson as a defendant as well. The court notes that the defendant's assertion about the hours expended to draft the complaint does not accurately reflect the billing statement, which shows that the plaintiff's attorneys only billed 1.3 hours to draft the complaint and 0.1 hours to review case management documents. The court will continue to review this matter before making a final ruling.

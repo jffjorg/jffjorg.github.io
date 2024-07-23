@@ -1,0 +1,76 @@
+Here is the summary in YAML format:
+
+```
+case_number: 23STCV20168
+plaintiff_name: ATLAS CAPITAL, INC.
+defendant_name: TEMPLE POTEAT
+people_names:
+  - Joshua Shoumer (Shoumer Law Office)
+  - Temple Poteat
+company_names:
+  - ATLAS CAPITAL, INC.
+  - Shoumer Law Office
+places:
+  - California (no specific location mentioned)
+dates:
+  - August 23, 2023
+  - September 29, 2023
+  - December 13, 2023
+  - January 17, 2024
+  - April 25, 2024
+  - June 25, 2024
+events:
+  - Breach of contract action
+  - Loan agreements
+  - Chapter 13 Bankruptcy
+  - Motion to Deem Request for Admissions, Set One, Admitted
+  - Request for Sanctions
+  - Failure to respond to request for admission
+money:
+  - $1,335.00 (monetary sanctions)
+intention:
+  - To deem the truth of the matters specified in Request for Admissions, Set One, admitted
+  - To impose monetary sanctions on Defendant
+facts:
+  - Plaintiff brought breach of contract action against Defendant
+  - Defendant defaulted on loan agreements
+  - Defendant filed for Chapter 13 Bankruptcy, which was dismissed
+  - Plaintiff filed motion to deem request for admissions admitted
+  - Defendant failed to respond to request for admission
+disputes:
+  - Breach of contract
+  - Failure to respond to request for admission
+acts:
+  - Plaintiff served request for admission on Defendant
+  - Defendant failed to respond to request for admission
+  - Plaintiff filed motion to deem request for admissions admitted
+  - Plaintiff requested monetary sanctions
+agreements:
+  - Loan agreements between Plaintiff and Defendant
+  - Request for Admissions, Set One
+  - Motion to Deem Request for Admissions, Set One, Admitted
+laws:
+  - California Code of Civil Procedure, Section 2033.280
+  - California Code of Civil Procedure, Section 2033.220
+  - California Code of Civil Procedure, Section 2033.280, subdivision (c)
+case_citations: 
+  - Code Civ. Proc., § 2033.280, subd. (b)
+  - Code Civ. Proc., § 2033.280, subd. (a)
+  - Code Civ. Proc., § 2033.280, subd. (c)
+statutes: 
+  - California Code of Civil Procedure, Section 2033.280
+  - California Code of Civil Procedure, Section 2033.220
+roles:
+  - Judge: Hon. Rolf Treu
+  - Plaintiff: ATLAS CAPITAL, INC.
+  - Defendant: TEMPLE POTEAT
+  - Counsel for Plaintiff: Joshua Shoumer (Shoumer Law Office)
+  - Counsel for Defendant: Temple Poteat (Pro Per)
+significant_statements:
+  - The truth of the matters specified in Request for Admissions, Set One, are hereby deemed admitted.
+  - The Court awards Plaintiff’s request for sanctions in the total amount of $1,335.00.
+```
+
+And here is the English text summary:
+
+The tentative ruling grants Plaintiff's motion to deem Request for Admissions, Set One, admitted. The truth of the matters specified in the request is hereby deemed admitted. The Court also grants Plaintiff's request for monetary sanctions against Defendant in the amount of $1,335.00. This amount represents the time spent by Plaintiff's counsel on the motion and the hearing, as well as a filing fee. The Court finds that Defendant's failure to respond to the request for admission warrants the imposition of sanctions. The Court orders that the sanctions be paid to Plaintiff's counsel within 30 days of the date of this order.

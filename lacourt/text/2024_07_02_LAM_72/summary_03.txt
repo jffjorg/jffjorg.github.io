@@ -1,0 +1,95 @@
+Here is the summary of the judge's tentative ruling in YAML format:
+
+```
+case_number: 22STCV38057
+hearing_date: July 2, 2024
+dept: 72
+
+people_names:
+  - New General Market Partners, LLC (Plaintiff)
+  - BeautyCon Media ABC Trust (Defendant)
+  - Moj Mahdara (Defendant)
+  - Elastic Ventures, Inc. (Defendant)
+
+company_names:
+  - New General Market Partners, LLC
+  - BeautyCon Media ABC Trust
+  - Elastic Ventures, Inc.
+  - Saccullo Business Consulting, LLC
+
+places:
+  - Los Angeles
+  - Delaware
+
+dates:
+  - April 26, 2021
+  - April 28, 2021
+  - June 4, 2021
+  - June 9, 2021
+  - July 1, 2021
+  - October 1, 2021
+  - November 4, 2021
+  - November 10, 2021
+  - December 6, 2022
+  - December 13, 2022
+  - May 9, 2023
+  - May 23, 2023
+  - April 12, 2023
+  - April 20, 2023
+  - May 31, 2024
+  - August 11, 2023
+
+events:
+  - Foreclosure auction of BeautyCon's assets
+  - Petition filed in the Delaware Court of Chancery
+  - Motion to compel filed by Plaintiff
+
+money:
+  - $8,650.00 (amount requested by Plaintiff for monetary sanctions)
+  - $5,190.00 (amount granted by Court for attorney's fees)
+  - $2,595.00 (amount each of Elastic and Mahdara shall pay to Plaintiff's counsel)
+
+intentions:
+  - Plaintiff seeks to compel Defendants to verify their responses to Form Interrogatories-General and produce documents responsive to Requests for Production of Documents
+
+facts:
+  - BeautyCon Media ABC Trust currently administers BeautyCon's estate on behalf of BeautyCon's creditors
+  - Plaintiff and its assignee, NGM1, LLC, foreclosed on the loans and acquired title to BeautyCon's assets
+  - Plaintiff seeks possession of BeautyCon's assets in this action
+
+disputes:
+  - Dispute over the adequacy of Defendants' responses to Plaintiff's discovery requests
+  - Dispute over the relevance and specificity of Plaintiff's discovery requests
+
+acts:
+  - Plaintiff served Form Interrogatories-General and Requests for Production of Documents on Defendants
+  - Defendants provided incomplete and inadequate responses to discovery requests
+  - Plaintiff filed a motion to compel Defendants to verify their responses and produce additional documents
+
+agreements:
+  - ABC Agreement: BeautyCon and Saccullo Business Consulting, LLC entered into a Trust Agreement and Assignment for the Benefit of Creditors
+  - Secured Loans: Plaintiff provided business loans to BeautyCon, secured by BeautyCon's assets
+
+laws:
+  - California Code of Civil Procedure sections 2030.220, 2030.300, 2031.220, 2031.230, 2031.310
+  - California Rules of Court
+
+case_citations:
+  - BeautyCon Media ABC Trust Through Saccullo Business Consulting, LLC v. New General Market Partners, LLC (Del. Super. Ct., Aug. 11, 2023, No. N22C-12-143 MAA CCLD) 2023 WL 5164148, at *1 fn. 1, *19.
+
+statutes:
+  - California Code of Civil Procedure sections 2023.010, 2030.220, 2030.300, 2031.220, 2031.230, 2031.310
+
+roles:
+  - Judge: [name of judge]
+  - Plaintiff: New General Market Partners, LLC
+  - Defendant: BeautyCon Media ABC Trust, Moj Mahdara, Elastic Ventures, Inc.
+
+significant_statements:
+  - The Court grants Plaintiff's motion to compel verification of the FROG responses by both Responding Defendants.
+  - The Court grants Plaintiff's request for sanctions in the amount of $5,190.00 in total.
+  - Elastic has waived its objections, including based on privilege.
+  - Mahdara shall produce complete responses to the following RFPs: 1, 2, 3, 4, 5, 6, 7, 8, 9, 11, 12, 13, 15, 18, 19, 20, 21, 23, 24, 26, 27, 28, 29, 30, 32, 33, 34, 35, 36, 38, 39, 40, 41, 42, 43, 44, 45, 46, 47, 49, 50, 51, 52, 53, 54, 55, 56, 58, 59, 61, 62, 63, 67, 68, 69, 70, 71, 72, 73, 74, 75, 76, 77, 78, 79, 80, 81, 82, 85.
+```
+
+Note that some information, such as the names of the parties and the dates, are repeated in the YAML format. This is because the YAML format is designed to be human-readable and easy to edit, rather than optimized for storage space.

@@ -1,0 +1,77 @@
+Here is the summary in YAML format:
+
+```
+Case Number: 23STCV30316
+Hearing Date: July 17, 2024
+Department: 50
+Court: Superior Court of California, County of Los Angeles
+
+People-Names:
+  - Hills One, LLC
+  - Hills Group, LLC
+  - Alex Reyter
+  - Jay Rifkin
+  - Paul Fiore
+  - Opera Bright, LLC
+  - Key Compounds, LLC
+
+Company-Names:
+  - Hills One, LLC
+  - Hills Group, LLC
+  - Opera Bright, LLC
+  - Key Compounds, LLC
+  - Primus Trust Corp.
+
+Places:
+  - Los Angeles
+  - Budapest, Hungary
+  - Hawaiian Gardens
+
+Dates:
+  - July 2019
+  - October 2019
+  - August 2020
+  - November 2020
+  - April 2021
+  - December 22, 2022
+  - July 17, 2024
+
+Events:
+  - Loans taken by Hills One
+  - Execution of loan documents
+  - Foreclosure on equipment
+  - Sale of equipment at auction
+  - Filing of judicial complaint in Oregon
+  - Demurrer by Hills One and Hills Group
+
+Money:
+  - Amounts borrowed by Hills One (varies from $5,000 to $250,000)
+
+Intentions:
+  - To resolve the dispute through demurrer
+  - To determine the sufficiency of the plaintiff's claims
+
+Facts:
+  - Hills One took loans from predecessors-in-interest of Opera Bright
+  - Hills One executed loan documents with lenders
+  - Hills One defaulted on loans
+  - Opera Bright filed judicial complaint in Oregon
+
+Disputes:
+  - Hills One's demurrer to plaintiff's causes of action
+  - Hills Group's demurrer to plaintiff's causes of action
+
+Acts:
+  - Execution of loan documents
+  - Foreclosure on equipment
+  - Sale of equipment at auction
+  - Filing of judicial complaint in Oregon
+
+Agreements:
+  - Loan agreements
+  - Security agreements
+  - Pledge agreements
+  - Corporate guaranties
+
+Laws:
+  - California Civil

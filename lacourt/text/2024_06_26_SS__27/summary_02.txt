@@ -1,0 +1,50 @@
+Here is the summary in YAML format:
+
+```
+case_number: 22STCV18845
+plaintiff_name: David Seif
+defendant_name: John Doe
+people_names:
+  - Daniel Moossai
+  - Hon. Lee S. Arian
+company_names: []
+places: []
+dates:
+  - June 26, 2024
+  - September 19, 2024
+events:
+  - Motion to be relieved as counsel
+  - Hearing on June 26, 2024
+  - OSC Re: Dismissal on September 19, 2024
+money: []
+intentions:
+  - Plaintiff's counsel seeks to be relieved due to an irremediable breakdown in the attorney-client relationship
+facts:
+  - The attorney-client relationship has broken down
+  - No opposition has been filed to the motion
+disputes: []
+acts:
+  - The Court has discretion to allow an attorney to withdraw
+  - The attorney must file the required forms and serve them on the client and parties
+agreements: []
+laws:
+  - Ramirez v. Sturdevant (1994) 21 Cal.App.4th 904, 915
+  - People v. Prince (1968) 268 Cal.App.2d 398, 403-407
+  - Cal. Rules of Court, rule 3.1362
+  - Estate of Falco (1987) 188 Cal.App.3d 1004, 1014
+case_citations: []
+statutes: []
+roles:
+  - Judge: Hon. Lee S. Arian
+  - Plaintiff's counsel: Daniel Moossai
+  - Plaintiff: David Seif
+  - Defendant: John Doe
+significant_statements:
+  - The Court grants the motion to be relieved as counsel.
+  - The Court finds that the breakdown in the attorney-client relationship is proper grounds for withdrawal.
+  - The next hearing is an OSC Re: Dismissal on September 19, 2024, which should be sufficient time for the Plaintiff to retain new counsel.
+```
+
+And here is the English-text summary:
+
+The Judge, Hon. Lee S. Arian, has issued a tentative ruling granting the Motion to be Relieved as Counsel filed by Plaintiff's counsel, Daniel Moossai. Moossai seeks to be relieved due to an irremediable breakdown in the attorney-client relationship. The Court finds that this is proper grounds for withdrawal, citing relevant case law and California Rules of Court. The Court notes that the next hearing is an OSC Re: Dismissal on September 19, 2024, which should be sufficient time for the Plaintiff to retain new counsel. The motion is granted effective upon service on the Plaintiff.

@@ -1,0 +1,68 @@
+Here is the summary in YAML format:
+
+```
+Case Number: 24NWCV00798
+Plaintiff's Name: Global Enterprise, Inc.
+Defendant's Name: Everytable, PBC
+People-Names:
+  - MJ Global
+  - Vernon-B
+  - Apex Funding
+Company-Names:
+  - Global Enterprise, Inc.
+  - Everytable, PBC
+  - Apex Funding
+Places: None
+Dates:
+  - June 7, 2024
+  - August 1, 2024
+  - August 2, 2024
+  - July 8, 2024
+  - July 24, 2024
+Events:
+  - Failure to pay rent
+  - Complaint in interpleader
+  - Demurrer
+  - Discovery motions
+  - Trial
+  - Ex parte application
+Money:
+  - Rent
+Intentions:
+  - Everytable: to deposit rent with the court pending a ruling
+  - MJ Global: to advance hearing dates and set a trial date within 20 days
+Facts:
+  - Everytable subleases commercial space from MJ Global
+  - MJ Global filed a UD action against Everytable for failure to pay rent
+  - Everytable has received competing demands for rent from MJ Global and Apex Funding
+  - Everytable has deposited the amount of outstanding rent with the court
+Disputes:
+  - MJ Global vs. Everytable (UD action)
+  - Everytable vs. MJ Global (interpleader)
+Acts:
+  - MJ Global filed a UD action
+  - Everytable filed a complaint in interpleader
+  - Court continued demurrer and discovery motions
+Agreements:
+  - None
+Laws:
+  - California Code of Civil Procedure
+  - California Rules of Court
+  - California Civil Code
+Case Citations:
+  - 24STCV02343
+  - D19 (Mosk)
+Statutes:
+  - California Code of Civil Procedure § 418.10
+Roles:
+  - Judge: ruling on ex parte application
+  - MJ Global: plaintiff and applicant
+  - Everytable: defendant and respondent
+Significant Statements:
+  - "MJ Global has not demonstrated irreparable harm or any other grounds for ex parte relief."
+  - "Everytable's rent has been deposited with the court in connection with its Complaint in Interpleader."
+```
+
+Here is a summary of the judge's tentative ruling in English text:
+
+The judge has denied an ex parte application by MJ Global to advance the hearing dates for the demurrer and discovery motions, and to set a trial date within 20 days. MJ Global claims it cannot afford to pay its rent to the "master landlord" due to Everytable's failure to pay rent, but the court is unclear how evicting Everytable would help MJ Global obtain the funds it needs. The court notes that Everytable has deposited the outstanding rent with the court pending a ruling on who should receive the rent. The judge concludes that MJ Global has not demonstrated irreparable harm or any other grounds for ex parte relief, and therefore the application is denied.

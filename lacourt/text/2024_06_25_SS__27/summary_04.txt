@@ -1,0 +1,71 @@
+Here is the summary of the judge's tentative ruling in YAML format:
+
+```
+case_number: 22STCV14827
+plaintiff_name: Freda Porter
+defendant_name: Estrella 1980 LLC
+people_names:
+  - Freda Porter
+  - Estrella 1980 LLC
+company_names:
+  - Estrella 1980 LLC
+  - California Castle Properties
+places:
+  - California
+  - premises (subject)
+dates:
+  - May 4, 2022
+  - June 25, 2024
+events:
+  - Trip and fall case
+  - Discovery
+  - Motion for leave to file cross complaint
+  - Trial date
+money:
+  - Indemnity
+intentions:
+  - Defendant Estrella 1980 LLC seeks permission to file a cross complaint against California Castle Properties
+facts:
+  - Defendant Estrella 1980 LLC learned through discovery that California Castle Properties was responsible for maintaining the subject premises
+  - Defendant's cross complaint is mandatory as it arises out of the same transaction as the original claim
+disputes:
+  - None mentioned
+acts:
+  - Defendant Estrella 1980 LLC filed a motion for leave to file a cross complaint
+agreements:
+  - California Rules of Court, Rule 3.1324
+  - Code of Civil Procedure (CCP) §§ 412.20(a)(3), 428.50(a), 432.10
+  - CCP §§ 426.50, 428.50(c)
+  - Silver Organizations, Ltd. v. Frank (1990)
+  - Kolani v. Gluska (1998)
+  - Time for Living, Inc. v. Guy Hatfield Homes/All American Develop. Co. (1991)
+laws:
+  - CCP § 426.50
+  - CCP § 428.50(b)
+  - CCP § 428.50(c)
+  - Code Civ. Proc., § 426.50
+  - California Rules of Court, Rule 3.1324
+case_citations:
+  - Silver Organizations, Ltd. v. Frank (1990)
+  - Kolani v. Gluska (1998)
+  - Time for Living, Inc. v. Guy Hatfield Homes/All American Develop. Co. (1991)
+statutes:
+  - CCP § 412.20(a)(3)
+  - CCP § 428.50(a)
+  - CCP § 432.10
+  - CCP § 426.50
+  - CCP § 428.50(b)
+  - CCP § 428.50(c)
+roles:
+  - Judge: Hon. Lee S. Arian
+  - Moving Party: Defendant Estrella 1980 LLC
+  - Responding Party: Plaintiff
+significant_statements:
+  - The Court grants the motion for leave to file a cross complaint against California Castle Properties.
+  - The proposed cross complaint is mandatory as it arises out of the same transaction as the original claim.
+  - Leave to file a permissive cross complaint need only be granted in the interest of justice.
+```
+
+And here is a summary of the judge's tentative ruling in English text:
+
+"The defendant, Estrella 1980 LLC, moves the court for permission to file a cross complaint against California Castle Properties for indemnity. The defendant's cross complaint is mandatory because it arises out of the same transaction as the original claim. The court finds that all requirements for leave have been met, including the attachment of a copy of the proposed cross complaint. Therefore, the court grants the motion for leave to file a cross complaint. The parties are advised to submit to this tentative ruling by email or appear remotely or in person for oral argument on June 25, 2024."

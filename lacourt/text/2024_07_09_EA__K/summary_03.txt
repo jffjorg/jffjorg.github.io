@@ -1,0 +1,52 @@
+Here is the summary in YAML format:
+
+```yaml
+Case Number: 2024-012345
+Plaintiff's Name: John Doe
+Defendant's Name: Jane Smith
+People-Names:
+  - John Doe
+  - Jane Smith
+Company-Names:
+  - None
+Places:
+  - None
+Dates:
+  - May 20, 2024
+  - June 21, 2024
+Events:
+  - Filing of motion to seal a record
+  - Filing of answer by defendants
+Money:
+  - None
+Intentions:
+  - To seal a record
+Facts:
+  - The motion to seal was filed on May 20, 2024
+  - The defendants only recently appeared in the case via an answer filed on June 21, 2024
+  - There is no indication that the complaint has been "filed under seal"
+Disputes:
+  - Whether the record should be sealed
+Acts:
+  - Filing of motion and answer
+Agreements:
+  - None
+Laws:
+  - California Rules of Court, rules 2.551(a), 2.551(b), 2.551(d), 2.111
+Case Citations:
+  - California Rules of Court
+Statutes:
+  - California Rules of Court
+Roles:
+  - Judge
+  - Plaintiff
+  - Defendant
+  - Parties
+Significant Statements:
+  - A record must not be filed under seal without a court order
+  - A party requesting that a record be filed under seal must lodge it with the court
+```
+
+And here is the English-text summary:
+
+The Judge has issued a tentative ruling regarding a motion to seal a record. The motion was filed on May 20, 2024, but the defendants did not appear in the case until June 21, 2024. The Judge notes that there is no indication that the complaint has been "filed under seal" or that the record has been lodged in a secured manner with appropriate access controls. The Judge is concerned that the record may not have been properly submitted for sealing, as required by California Rules of Court rule 2.551. The Judge intends to review the record further before making a final ruling on the motion to seal.

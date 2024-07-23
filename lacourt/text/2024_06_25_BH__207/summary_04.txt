@@ -1,0 +1,40 @@
+Here is the summary of the tentative ruling in YAML format:
+
+```
+Case Number: 123456
+Plaintiff's Name: John Doe
+Defendant's Name: Jane Smith
+People-Names:
+  - John Doe
+  - Jane Smith
+Company-Names: None
+Places: None
+Dates:
+  - Future Court Hearing (TBD)
+Events: Future Court Hearing
+Money: None
+Intentions: Determine justiciability of the case
+Facts:
+  - The case is not founded on an actual controversy between the parties
+  - The plaintiff lacks standing because it does not have an actual and substantial interest in the outcome
+  - The controversy is not ripe because the facts have not sufficiently congealed to permit an intelligent and useful decision
+Disputes: Standing and ripeness of the case
+Acts: None
+Agreements: None
+Laws:
+  - Standing is a function not just of a party's stake in a case, but the degree of vigor or intensity with which the presents its arguments
+  - A controversy becomes ripe once it reaches, but has not passed, the point that the facts have sufficiently congealed to permit an intelligent and useful decision to be made
+  - (City of Santa Monica v. Stewart (2005) 126 Cal.App.4th 43, 59)
+Statutes: None
+Roles:
+  - Judge: Determining justiciability of the case
+  - Plaintiff: Lacking standing and ripeness of the case
+  - Defendant: None
+Significant Statements:
+  - "The concept of justiciability involves the intertwined criteria of ripeness and standing."
+  - "A party lacks standing if it does not have an actual and substantial interest in, or would not be benefited or harmed by, the ultimate outcome of an action."
+```
+
+And here is the summary in English text:
+
+This tentative ruling addresses the issue of justiciability in a case between John Doe, the plaintiff, and Jane Smith, the defendant. The Judge finds that the case is not founded on an actual controversy between the parties and therefore lacks standing. Furthermore, the Judge determines that the controversy is not ripe because the facts have not sufficiently congealed to permit an intelligent and useful decision. The Judge cites the Supreme Court's decision in City of Santa Monica v. Stewart (2005) 126 Cal.App.4th 43, 59, which holds that a controversy becomes ripe once it reaches, but has not passed, the point that the facts have sufficiently congealed to permit an intelligent and useful decision.

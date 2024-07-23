@@ -1,0 +1,65 @@
+Here is the summary in YAML format:
+
+```
+case_number: 21STCV43201
+hearing_date: July 12, 2024
+dept: 61
+plaintiff_name: Jill Greenberg 2019 Trust
+defendant_name: Ernest Financial, LLC, et al.
+people_names:
+  - David Bogner
+  - Brandon C. Murphy
+company_names:
+  - Bice Murphy Law
+  - Ernest Financial, LLC
+places:
+  - 9800 Wilshire Boulevard
+  - Spring Place
+dates:
+  - June 3, 2024
+  - June 10, 2024
+  - April 2026
+events:
+  - Motion to be Relieved as Counsel
+  - Trial set for April 2026
+  - Service by mail
+  - Personal service
+  - Email service
+money: N/A
+intentions:
+  - To relieve Brandon C. Murphy as counsel for David Bogner
+  - To ensure proper service of motions and notices
+facts:
+  - Breakdown of attorney-client relationship
+  - Refusal of client to participate in litigation
+  - Previous denials of motion to be relieved as counsel
+disputes:
+  - Plaintiff's objection to service of motion by mail
+  - Whether Bogner has been served at his current or last known address
+acts:
+  - Service of motion by mail
+  - Failure to provide notice of all upcoming hearings
+  - Refusal of client to participate in litigation
+agreements:
+  - None
+laws:
+  - California Code of Civil Procedure (CCP) section 284
+  - California Rules of Court (CRC) Rule 3.1362
+  - CCP section 284
+statutes:
+  - N/A
+roles:
+  - Judge
+  - Attorney
+  - Client
+  - Plaintiff
+  - Defendant
+significant_statements:
+  - The motion is defective because it was served by mail without assurance that the service was upon the current or last known "residence or business address."
+  - In any future motion to be relieved, if service upon Bogner is made by mail, Murphy shall declare that the address is Bogner's current or last known business or residence address.
+  - Alternatively, Murphy may serve Bogner by personal service or email, in the latter case providing the court with a proof of service.
+```
+
+And here is a summary of the judge's tentative ruling in English text:
+
+The judge has denied the third motion of Brandon C. Murphy, counsel for defendant and cross-complainant David Bogner, to be relieved as counsel. The motion was defective because it was served by mail without assurance that the service was upon Bogner's current or last known business or residence address. The court had previously denied two previous motions by Murphy due to similar issues. In any future motion to be relieved, Murphy must declare that the address is Bogner's current or last known business or residence address if service is made by mail, or serve Bogner by personal service or email with proof of service.

@@ -1,0 +1,76 @@
+Here is the summary in YAML format:
+
+```
+case_number: 21STCV09378
+hearing_date: June 20, 2024
+dept: 28
+parties:
+  - Jacqueline Hurwitz (Plaintiff)
+  - City of Los Angeles (Defendant)
+  - Oceanwide Plaza LLC (Defendant)
+  - Swinerton Incorporated (Defendant)
+  - Swinerton Management and Consulting (Defendant)
+  - Lend Lease (U.S.) Construction, Inc. (Defendant)
+  - Webcor Construction LP (Defendant)
+  - Does 1-100 (Defendants)
+  - Roes 1-200 (Defendants)
+places:
+  - Los Angeles
+dates:
+  - March 10, 2021
+  - August 13, 2021
+  - November 24, 2021
+  - February 4, 2022
+  - February 9, 2022
+  - March 17, 2022
+  - April 15, 2022
+  - December 13, 2022
+  - December 22, 2022
+  - March 6, 2023
+  - March 24, 2023
+  - April 21, 2023
+  - September 18, 2023
+  - February 14, 2024
+  - February 27, 2025
+events:
+  - Trial scheduled for February 27, 2025
+money:
+  - Defense costs and fees of attorneys, consultants, and experts
+facts:
+  - Plaintiff filed a complaint alleging negligence of Oceanwide, the City, and Does 1-100
+  - LL was hired as the contractor for a mixed-use project in Los Angeles
+  - SB was the project's construction manager
+  - The Agreement between Oceanwide and LL obligates LL to indemnify and defend SB
+  - The Agreement does not exclude claims arising from passive negligence
+  - LL has not presented evidence negating the possibility of LL's or its subcontractors' liability to Plaintiff
+disputes:
+  - Whether LL is obligated to defend SB
+  - Whether the Agreement's indemnification and defense obligations apply to claims arising from passive negligence
+acts:
+  - LL's alleged breach of contract (express duty to defend)
+  - SB's alleged breach of contract (defense obligation)
+agreements:
+  - The Agreement between Oceanwide and LL
+laws:
+  - California Civil Code section 2778
+  - California Civil Code section 2782.05
+  - California Code of Civil Procedure section 437c
+case_citations:
+  - Crawford v. Weather Shield Mfg., Inc. (2008) 44 Cal.4th 541
+  - Aguilar v. Atlantic Richfield Co. (2001) 25 Cal.4th 826
+  - Oltmans Construction Co. v. Bayside Interiors, Inc. (2017) 10 Cal.App.5th 355
+  - Parkview Villas Assn. v. State Farm Fire & Casualty Co. (2006) 133 Cal.App.4th 1197
+  - Hayman v. Block (1986) 176 Cal.App.3d 629
+roles:
+  - Judge
+  - Plaintiff
+  - Defendant
+  - Cross-Complainant
+  - Cross-Defendant
+significant_statements:
+  - The Agreement obligates LL to defend SB from claims arising from passive negligence
+  - LL is obligated to provide a defense to SB in the underlying case
+  - The Court grants SB's motion for summary adjudication
+```
+
+Note: This summary is a condensed version of the original document and may not include all the details and nuances of the case.

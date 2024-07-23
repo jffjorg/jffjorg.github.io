@@ -1,0 +1,82 @@
+Here is the summary in YAML format:
+
+```
+case_number: 2022-001
+plaintiff_name: Diego Mejia Duarte
+defendant_name: Apple, Inc.
+people_names:
+  - Diego Mejia Duarte
+  - Apple, Inc. (representative not specified)
+company_names:
+  - Apple, Inc.
+places:
+  - California
+dates:
+  - June 1, 2022
+  - 2001
+  - 2005
+  - 2006
+events:
+  - Plaintiff filed complaint
+  - Defendant moves for summary judgment
+  - Plaintiff requests continuance
+  - Defendant opposes continuance
+  - Court hears arguments
+money:
+  - COVID-19 bonus
+  - Apply Pay
+  - Apple iCloud service
+  - Apple Music service
+  - Gym membership reimbursement
+  - Shutdown pay
+  - Overtime pay
+intentions:
+  - Defendant seeks summary judgment
+  - Plaintiff seeks continuance
+  - Plaintiff seeks to include COVID-19 bonus in regular rate of pay
+facts:
+  - Plaintiff claims COVID-19 bonus should be included in regular rate of pay
+  - Defendant argues bonus is excludable from regular rate of pay
+  - U.S. Department of Labor states COVID-19 hazard pay and bonuses are non-discretionary pay
+  - Plaintiff delayed discovery
+  - Defendant contends it was Plaintiff who delayed discovery
+disputes:
+  - Standing of Plaintiff
+  - Inclusion of COVID-19 bonus in regular rate of pay
+  - Defendant's request for summary judgment
+acts:
+  - Plaintiff filed complaint
+  - Defendant moved for summary judgment
+  - Plaintiff requested continuance
+  - Defendant opposed continuance
+agreements:
+  - U.S. Department of Labor guidance on COVID-19 hazard pay and bonuses
+  - California Labor Code
+  - Code of Civil Procedure
+laws:
+  - California Labor Code
+  - Code of Civil Procedure
+  - Federal labor laws (not specified)
+case_citations:
+  - Aguilar v. Atlantic Richfield Co. (2001) 25 Cal.4th 826
+  - Hinesley v. Oakshade Town Center (2005) 135 Cal.App.4th 289
+  - Dore v. Arnold Worldwide, Inc. (2006) 39 Cal.4th 384
+  - 28 No. 1 Fair Lab. Standards Handbook for States, Loc. Gov't & Sch. Newsl. 4
+statutes:
+  - California Labor Code
+  - Code of Civil Procedure
+  - Federal labor laws (not specified)
+roles:
+  - Judge
+  - Plaintiff (Diego Mejia Duarte)
+  - Defendant (Apple, Inc.)
+significant_statements:
+  - The Court finds triable issues for the matter of standing.
+  - The Motion for Summary Judgment is denied.
+  - The objections are overruled.
+  - The Requests for Judicial Notice are granted.
+```
+
+And here is a summary of the judge's tentative ruling in English text:
+
+The judge has issued a tentative ruling on the motion for summary judgment filed by Apple, Inc. The motion argues that plaintiff Diego Mejia Duarte does not have standing because he did not suffer any Labor Code violations. Specifically, Apple argues that the items identified by Duarte as not being included in his regular rate of pay are excludable as a matter of law. Duarte has filed a separate application to continue the instant motion to conduct further discovery on the issue of whether the COVID-19 bonus was non-discretionary and thus needed to be included in his regular rate. Apple opposes the request for a continuance, contending that Duarte delayed the propounding of relevant discovery. The court finds that there are triable issues for the matter of standing and therefore denies the motion for summary judgment. The court also overrules the objections and grants the requests for judicial notice.

@@ -1,0 +1,83 @@
+Here is the summary in YAML format:
+
+```
+case_number: 23STCV11064
+plaintiff: Pinnacle Appliance Distributors, Inc.
+defendant: Webcor Construction, LP, et al.
+people_names:
+  - Pinnacle Appliance Distributors, Inc.
+  - Webcor Construction, LP
+  - Maguire Properties – 775 South Figueroa, LLC
+  - Pan-Pacific Mechanical, LLC
+  - G&M Appliance Supply, Inc.
+company_names:
+  - Pinnacle Appliance Distributors, Inc.
+  - Webcor Construction, LP
+  - Maguire Properties – 775 South Figueroa, LLC
+  - Pan-Pacific Mechanical, LLC
+  - G&M Appliance Supply, Inc.
+places:
+  - 775 South Figueroa
+dates:
+  - May 16, 2023
+  - August 29, 2023
+  - October 2, 2023
+  - October 31, 2023
+  - June 11, 2024
+  - July 5, 2024
+events:
+  - Breach of contract
+  - Intentional interference with prospective economic advantage
+  - Trade libel
+  - Recovery on mechanics lien release bond
+  - Filing of cross-complaint
+  - Filing of amended cross-complaint
+money:
+  - Unpaid amount
+  - Damages
+  - Indemnity
+intentions:
+  - Pinnacle seeks to recover the unpaid amount and other damages caused by Webcor's alleged actions
+  - Pinnacle seeks to recover on a mechanics lien attached to the subject property
+  - Webcor seeks to recover damages for Pinnacle's alleged breach of contract and for indemnity
+  - Pinnacle seeks indemnity against Pan-Pacific for the damages asserted by Webcor against Pinnacle
+  - Pinnacle seeks indemnity against G&M for the damages asserted by Webcor against Pinnacle
+facts:
+  - Pinnacle entered into a contract with Webcor to serve as the subcontractor on a project
+  - Webcor allegedly refused to pay Pinnacle for the work that Pinnacle performed
+  - Pan-Pacific was a plumbing subcontractor hired by Webcor for the project
+  - Pan-Pacific improperly installed certain gas lines, which caused the delays and damages claimed in Webcor's cross-complaint
+  - Pinnacle entered into a purchase order agreement with G&M for the installation of certain appliances
+disputes:
+  - Breach of contract
+  - Intentional interference with prospective economic advantage
+  - Trade libel
+  - Recovery on mechanics lien release bond
+  - Indemnity
+acts:
+  - Filing of complaint
+  - Filing of cross-complaint
+  - Filing of amended cross-complaint
+agreements:
+  - Purchase order agreement between Pinnacle and G&M
+  - Contract between Pinnacle and Webcor
+  - Mechanics lien release bond
+laws:
+  - California Civil Procedure Code, § 473(a)
+  - California Civil Procedure Code, § 576
+  - California Rules of Court, Rule 3.1324(b)
+statutes:
+  - None
+roles:
+  - Plaintiff: Pinnacle Appliance Distributors, Inc.
+  - Defendant: Webcor Construction, LP
+  - Cross-complainant: Pinnacle Appliance Distributors, Inc.
+  - Cross-defendant: Pan-Pacific Mechanical, LLC, G&M Appliance Supply, Inc.
+significant statements:
+  - The court may allow a party to amend any pleading in furtherance of justice and on such terms as may be proper.
+  - Courts must apply a policy of liberality in permitting amendments at any stage of the proceeding, including during trial, when no prejudice to the opposing party is shown.
+```
+
+And here is the English text to summarize the judge's tentative ruling:
+
+"The court has tentatively ruled in favor of Pinnacle Appliance Distributors, Inc. (Pinnacle) in its motion for leave to file an amended cross-complaint. Pinnacle seeks to add a new cross-defendant, G&M Appliance Supply, Inc. (G&M), to its cross-complaint. The proposed amended cross-complaint alleges that Pinnacle entered into a purchase order agreement with G&M for the installation of certain appliances and seeks indemnity from G&M as well as from Pan-Pacific Mechanical, LLC and Webcor Construction, LP. There is no opposition to the motion and no claim of any prejudice. Therefore, the court grants Pinnacle's motion and allows it to file the amended cross-complaint within 10 days of this order."

@@ -1,0 +1,78 @@
+Here is the summary in YAML format:
+
+```
+Case:
+  Number: 24SMCV01251
+  Name: Blake v. Langer, et al
+
+Parties:
+  Plaintiff:
+    Name: Meredith Blake
+  Defendant:
+    Name: Jeremiah Michael Langer
+
+People:
+  - Jeremiah Michael Langer
+  - Meredith Blake
+
+Company:
+  - None
+
+Places:
+  - California
+
+Dates:
+  - 3-18-14 (Complaint Filed)
+  - 3-30-24 (Demurrer Filed)
+  - 3-31-24 (FAC Served)
+  - 6-25-24 (Hearing Date)
+
+Events:
+  - Demurrer without Motion to Strike
+  - Service of FAC
+
+Money:
+  - None
+
+Intentions:
+  - OVERRULED (Demurrer)
+  - GRANTED (RJN)
+
+Facts:
+  - Non-operative original complaint
+  - FAC served on Defendant a day after demurrer was filed
+
+Disputes:
+  - Insufficient notice
+  - Merit of demurrer
+
+Acts:
+  - Filing of demurrer
+  - Service of FAC
+
+Agreements:
+  - CCP §§ 1005, 1010.6
+
+Laws:
+  - CCP (California Code of Civil Procedure)
+  - Glaski v. Bank of America (2013) 218 Cal.App.4th 1079, 1090
+
+Case Citations:
+  - Glaski v. Bank of America (2013) 218 Cal.App.4th 1079, 1090
+  - CCP §§ 1005, 1010.6
+
+Statutes:
+  - CCP §§ 1005, 1010.6
+
+Roles:
+  - Judge: [Judge's Name]
+  - Plaintiff: Meredith Blake
+  - Defendant: Jeremiah Michael Langer
+
+Significant Statements:
+  - "Courts can take judicial notice of the existence, content and authenticity of public records and other specified documents, but do not take judicial notice of the truth of the factual matters asserted in those documents." (Glaski v. Bank of America (2013) 218 Cal.App.4th 1079, 1090.)
+```
+
+And here is a summary of the tentative ruling in English text:
+
+In the case of Blake v. Langer, et al., the defendant Jeremiah Michael Langer filed a demurrer without motion to strike, which has been tentatively ruled as OVERRULED. The demurrer was insufficiently noticed and attacked the non-operative original complaint, which was served on the defendant a day after the demurrer was filed. Furthermore, the defendant's substantive arguments lack merit. The judge also granted the defendant's request for judicial notice, citing the case Glaski v. Bank of America (2013) 218 Cal.App.4th 1079, 1090, which states that courts can take judicial notice of the existence, content, and authenticity of public records, but not the truth of the factual matters asserted in those documents.

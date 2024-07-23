@@ -1,0 +1,66 @@
+Here is the summary in YAML format:
+
+```
+case_number: 22STCV21799A
+plaintiff_name: 3800 West Sixth Street, LLC
+defendant_name: Steven C. Kim
+people_names:
+  - Steven C. Kim
+  - Unknown (Plaintiff)
+company_names:
+  - 3800 West Sixth Street, LLC
+places:
+  - Unknown (location)
+dates:
+  - December 13, 2023
+  - March 5, 2024
+  - June 28, 2024
+events:
+  - Motion to Compel Further Discovery Responses
+  - Special Interrogatories
+  - Filing of separate statement
+  - Reviewing documents
+  - Providing responses
+money:
+  - Unknown (amount)
+intentions:
+  - Compel further responses from Plaintiff
+  - Oppose motion to compel
+facts:
+  - Plaintiff's responses to Special Interrogatories are unsatisfactory
+  - Defendant cannot compel Plaintiff to state certain facts
+  - Plaintiff has not completed reviewing documents to permit responses
+disputes:
+  - Whether Plaintiff's responses to Special Interrogatories are sufficient
+  - Whether Defendant can compel Plaintiff to state certain facts
+acts:
+  - Filing of motion to compel
+  - Filing of separate statement
+  - Reviewing documents
+  - Providing responses
+agreements:
+  - None
+laws:
+  - Code of Civil Procedure, § 2030.300
+  - Code of Civil Procedure, § 2030.220
+  - Wimberly v. Derby Cycle Corp. (1997)
+  - Mitchell v. Superior Court (2015)
+  - Deyo v. Kilbourne (1978)
+case_citations:
+  - Code Civ. Proc., § 2030.300
+  - Code Civ. Proc., § 2030.220
+  - Wimberly v. Derby Cycle Corp. (1997)
+  - Mitchell v. Superior Court (2015)
+  - Deyo v. Kilbourne (1978)
+roles:
+  - Judge
+  - Plaintiff
+  - Defendant
+significant_statements:
+  - The court grants the motion to compel further responses to SROG Nos. 2, 5, 11, 14, 17, 20, 26, 41, 44, 47, 50 and 53.
+  - The court declines to award sanctions to Defendant.
+```
+
+And here is the English-text summary:
+
+The tentative ruling is in response to Defendant Steven C. Kim's motion to compel further discovery responses from Plaintiff 3800 West Sixth Street, LLC. Plaintiff opposes the motion. The court finds that Plaintiff's responses to Special Interrogatories are unsatisfactory and grants the motion to compel further responses to SROG Nos. 2, 5, 11, 14, 17, 20, 26, 41, 44, 47, 50 and 53. The court orders Plaintiff to serve the further responses within 30 days. The court declines to award sanctions to Defendant, finding that under the circumstances, an award of sanctions would be unjust.

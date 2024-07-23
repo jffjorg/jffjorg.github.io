@@ -1,0 +1,67 @@
+Here is the summary in YAML format:
+
+```
+Case Number: 23STCP00080
+Plaintiff's Name: 101 Pine Street, LLC
+Defendant's Name: Jeroen Bik, Miray Bik, et al.
+People-Names:
+  - Jeroen Bik
+  - Miray Bik
+  - Robert Radnoti
+  - Noelle Radnoti
+  - Hermine Kafardian
+Company-Names:
+  - KEP MTM 1 LLC
+  - KEP MTM II LLC
+  - KEP Fortune, LLC
+  - Fretca LLC
+Places:
+  - Los Angeles
+Dates:
+  - January 12, 2023
+  - June 25, 2024
+Events:
+  - Judgment entered in favor of Judgment Creditor against Judgment Debtors
+  - Motion for charging order and foreclosure
+Money:
+  - $140,547.08 (judgment amount)
+  - $138,473.17 (sister state judgment)
+  - $1,638.91 (accrued interest on sister state judgment)
+  - $435 (filing fees)
+Intentions:
+  - Judgment Creditor seeks to charge Judgment Debtors' membership interest in limited liability companies
+  - Judgment Creditor seeks to foreclose and sell Judgment Debtors' transferable interests
+Facts:
+  - Judgment Debtors are members of limited liability companies
+  - Judgment Creditor has not collected any amount due under its judgment
+Disputes:
+  - None
+Acts:
+  - Judgment Creditor filed motion for charging order and foreclosure
+  - Judgment Debtors did not file opposition
+Agreements:
+  - Corporations Code section 17705.03
+Laws:
+  - Corporations Code section 17705.03
+  - Code of Civil Procedure section 708.310
+  - Code of Civil Procedure section 1710.25
+  - Corporations Code section 17705.02
+Case Citations:
+  - Curci Investments, LLC v. Baldwin (2017)
+Statutes:
+  - Corporations Code section 17705.03
+  - Corporations Code section 17705.02
+  - Code of Civil Procedure section 708.310
+  - Code of Civil Procedure section 1710.25
+Roles:
+  - Judgment Creditor: 101 Pine Street, LLC
+  - Judgment Debtors: Jeroen Bik, Miray Bik, et al.
+  - Judge: Robert B. Broadbelt III
+Significant Statements:
+  - "If a money judgment is rendered against a partner or member but not against the partnership or limited liability company, the judgment debtor's interest in the partnership or limited liability company may be applied toward the satisfaction of the judgment by an order charging the judgment debtor's interest."
+  - "On application by a judgment creditor of a member or transferee, a court may enter a charging order against the transferable interest of the judgment debtor for the unsatisfied amount of the judgment."
+```
+
+Here is a summary of the judge's tentative ruling in English text:
+
+The judge grants in part and denies in part the plaintiff's motion for a charging order and foreclosure against the defendants' membership interests in several limited liability companies. The judge orders that the defendants' membership interests be charged with the unpaid balance of the judgment, and that any distributions made to the defendants be paid directly to the plaintiff until the judgment is satisfied. The judge also denies the plaintiff's request for foreclosure and sale of the transferable interests, finding that the plaintiff has not shown that distributions under the charging order will not pay the judgment debt within a reasonable time.

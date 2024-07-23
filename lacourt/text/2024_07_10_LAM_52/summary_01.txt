@@ -1,0 +1,90 @@
+Here is a summary of the Judge's tentative ruling in YAML format:
+
+```
+case_number: 22STCV02823
+hearing_date: July 10, 2024
+dept: 52
+
+people_names:
+  - Maneesh Bansal
+  - Michael W. Caspino
+  - Arunpal Sehgal
+  - Paramjot Mann
+  - Gaurang Patel
+  - Nishant Karod
+
+company_names:
+  - Forward Counsel LLP
+  - Shelby Hospitality, LLC
+  - Fine Hospitality
+  - Eurocan
+  - Bhuvneshwari Corp
+
+places: null
+
+dates:
+  - 2018 (execution of Shelby's operating agreement)
+  - 2021 (Bansal brought demand for arbitration)
+  - 2022 (initial case management statement)
+  - 2023 (defendants' motion to compel arbitration)
+
+events:
+  - Maneesh Bansal's motion to disqualify counsel
+  - Defendants' motion to compel arbitration
+
+money:
+  - $300,000 (attorneys' fees incurred by plaintiff)
+
+intentions:
+  - Plaintiff: to disqualify Forward Counsel LLP from representing defendants
+  - Defendants: to compel arbitration of the entire action
+
+facts:
+  - Forward Counsel LLP represents Shelby Hospitality, LLC
+  - Maneesh Bansal is one of the three managing members of Shelby Hospitality, LLC
+  - The operating agreement of Shelby Hospitality, LLC does not mention individual interests
+  - Forward Counsel LLP does not represent individual members of Shelby Hospitality, LLC
+  - Plaintiff had extensive communication with Forward Counsel LLP, but only as a representative of Shelby Hospitality, LLC
+
+disputes:
+  - Plaintiff disputes Forward Counsel LLP's representation of defendants
+  - Defendants dispute plaintiff's right to disqualify Forward Counsel LLP
+
+acts:
+  - Plaintiff brought demand for arbitration against Sehgal in 2021
+  - Sehgal demurred to the demand and the parties agreed to dismiss the demand and refile in state court
+  - Forward Counsel LLP represents Shelby Hospitality, LLC and does not represent individual members of the LLC
+
+agreements:
+  - Operating agreement of Shelby Hospitality, LLC
+  - Retainer agreement between Forward Counsel LLP and Shelby Hospitality, LLC
+
+laws:
+  - California Code of Civil Procedure section 1281.2(a)
+  - California Corporations Code section 17703.04(a)(1)
+
+case_citations:
+  - M'Guinness v. Johnson (2015) 243 Cal.App.4th 602, 625
+  - Sprengel v. Zbylut (2019) 40 Cal.App.5th 1028, 1042
+  - Responsible Citizens v. Superior Court (1993) 16 Cal.App.4th 1717, 1733
+  - St. Agnes Medical Center v. PacifiCare of California (2003) 31 Cal.4th 1187, 1203
+
+statutes:
+  - California Code of Civil Procedure section 1281.2(a)
+  - California Corporations Code section 17703.04(a)(1)
+
+roles:
+  - Plaintiff: Maneesh Bansal
+  - Defendant: Arunpal Sehgal, Paramjot Mann
+  - Counsel: Forward Counsel LLP
+  - Court: Superior Court of California, County of [county]
+
+significant_statements:
+  - The court finds that Forward Counsel LLP does not represent plaintiff's individual interests.
+  - The court denies plaintiff's motion to disqualify Forward Counsel LLP.
+  - The court denies defendants' motion to compel arbitration.
+```
+
+English-text summary:
+
+The Judge's tentative ruling denies Maneesh Bansal's motion to disqualify Forward Counsel LLP from representing defendants Arunpal Sehgal and Paramjot Mann. The Judge finds that Forward Counsel LLP does not represent plaintiff's individual interests, despite plaintiff's extensive communication with the firm. The Judge also denies defendants' motion to compel arbitration, finding that they waived their right to arbitrate by substantially invoking the litigation machinery and failing to seek arbitration earlier in the proceedings.

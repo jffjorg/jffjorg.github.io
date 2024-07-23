@@ -1,0 +1,44 @@
+Here is a summary of the judge's tentative ruling in YAML format:
+
+```
+case_number: [not specified]
+plaintiff_name: David Peter Cwiklo
+defendant_name: Douglas Emmett, Inc., Douglas Emmett 2000 LLC, Douglas Emmett Management, Inc., Douglas Emmett Management LLC, Douglas Emmett Properties, LP, Douglas Emmett Builders f/k/a P.L.E Builders, Inc., and Dianne Walton
+people_names:
+  - David Peter Cwiklo
+  - Douglas Emmett
+  - Dianne Walton
+  - Marc Riches
+companies:
+  - Douglas Emmett, Inc.
+  - Douglas Emmett 2000 LLC
+  - Douglas Emmett Management, Inc.
+  - Douglas Emmett Management LLC
+  - Douglas Emmett Properties, LP
+  - Douglas Emmett Builders f/k/a P.L.E Builders, Inc.
+places: [not specified]
+dates:
+  - March 12, 2024
+  - May 29, 2024
+  - June 18, 2024
+  - June 25, 2024
+events:
+  - Demurrer filing
+  - Opposition filing
+  - Reply filing
+money: [not specified]
+intentions:
+  - To sustain or overrule the demurrer
+facts:
+  - Plaintiff leased office space from defendants
+  - Defendants allegedly committed fraud and breach of fiduciary duty
+  - Plaintiff suffered damages as a result
+disputes:
+  - Over the interpretation of the complaint and the legal theories raised
+acts:
+  - Filing of the complaint
+  - Filing of the demurrer
+  - Filing of the opposition
+  - Filing of the reply
+laws:
+  -

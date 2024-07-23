@@ -1,0 +1,74 @@
+Here is the summary of the judge's tentative ruling in YAML format:
+
+```
+case_number: BC695225
+plaintiff: JOHN ROBERT KOCHAKJI
+defendant: CAPRI COAST CAPITAL, INC, et al.
+people_names:
+  - JOHN ROBERT KOCHAKJI
+  - Erika Rice
+  - Mary Guidry
+  - Loyst P. Fletcher
+  - Mel Red Recana
+company_names:
+  - CAPRI COAST CAPITAL, INC
+  - Law Offices of Loyst P. Fletcher
+places:
+  - Los Angeles
+  - California
+  - Superior Court of California
+dates:
+  - Action Filed: 02/23/18
+  - Trial Date: 08/26/24
+  - Hearing Date: July 16, 2024
+  - July 9, 2024
+  - July 10, 2024
+  - July 26, 2024
+  - July 29, 2024
+events:
+  - Motion to be Relieved as Counsel
+  - Objection to the Third Amended Notice of Deposition of Mary Guidry
+  - Request for Production of Documents
+money: $0
+intentions:
+  - Counsel's motion to be relieved as counsel for Erika Rice
+  - Plaintiff's opposition to Counsel's motion
+facts:
+  - Counsel has been unable to contact his clients for over 2 years
+  - Counsel has been unable to verify whether his clients are still alive or have passed away
+  - There is a breakdown of the working relationship between Counsel and the client
+disputes:
+  - Counsel's motion to be relieved as counsel
+  - Plaintiff's opposition to Counsel's motion
+acts:
+  - Counsel filed the required forms and declaration
+  - Counsel submitted a combined MC-052 for all three defendants
+  - Plaintiff did not file an amended signed declaration
+agreements:
+  - CRC, Rule 3.1362
+  - CCP § 284(1)
+  - CCP § 284(2)
+laws:
+  - Ramirez v. Sturdevant (1994) 21 Cal. App. 4th 904, 915
+  - People v. Prince (1968) 268 Cal.App.2d 398
+  - CRC, Rule 3.1362
+  - CCP § 284
+case_citations:
+  - Ramirez v. Sturdevant (1994) 21 Cal. App. 4th 904, 915
+  - People v. Prince (1968) 268 Cal.App.2d 398
+statutes:
+  - CCP § 284(1)
+  - CCP § 284(2)
+roles:
+  - Judge: Mel Red Recana
+  - Counsel: Loyst P. Fletcher
+  - Plaintiff: JOHN ROBERT KOCHAKJI
+  - Defendant: CAPRI COAST CAPITAL, INC, et al.
+significant_statements:
+  - Counsel's motion to be relieved as counsel is continued to allow Counsel to fix the discrepancies
+  - The Court encourages Counsel to review CRC, Rule 3.1362 prior to filing the amended documents
+```
+
+And here is a summary of the judge's tentative ruling in English text:
+
+The court has considered the motion brought by Counsel, Loyst P. Fletcher, to be relieved as counsel for defendant Erika Rice. Counsel has substantially complied with the California Rules of Court, Rule 3.1362, by filing the required forms and declaration. However, there are some discrepancies in the forms, including an incorrect hearing date listed in the proposed order. Additionally, Plaintiff has not filed an amended signed declaration in opposition to Counsel's motion. The court continues Counsel's motion to be relieved as counsel to allow Counsel to fix the discrepancies. The court encourages Counsel to review the applicable rules prior to filing the amended documents.

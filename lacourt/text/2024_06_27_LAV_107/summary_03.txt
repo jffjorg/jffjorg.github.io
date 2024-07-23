@@ -1,0 +1,94 @@
+Here is a summary of the judge's tentative ruling in YAML format:
+
+```
+case_number: 24VECV01544
+hearing_date: June 27, 2024
+dept: 107
+
+parties:
+  - Walter Morales (Plaintiff)
+  - American Honda Motor Co., Inc. (Defendant)
+
+dates:
+  - June 27, 2022 (purchase of vehicle)
+  - April 5, 2024 (filing of complaint)
+  - April 11, 2024 (service of complaint)
+  - May 28, 2024 (filing of demurrer and motion to strike)
+  - June 13, 2024 (filing of oppositions)
+  - June 20, 2024 (filing of replies)
+  - June 27, 2024 (hearing date)
+
+events:
+  - Purchase of vehicle with sensor safety defect
+  - Filing of complaint
+  - Service of complaint
+  - Filing of demurrer and motion to strike
+  - Filing of oppositions
+  - Filing of replies
+  - Hearing on demurrer and motion to strike
+
+money:
+  - None mentioned
+
+intentions:
+  - Defendant's intention to conceal the sensor safety defect from Plaintiff
+  - Plaintiff's intention to purchase a safe vehicle
+
+facts:
+  - Defendant manufactured and sold a vehicle with a sensor safety defect
+  - Defendant possessed exclusive knowledge of the defect
+  - Defendant concealed the defect from Plaintiff despite knowing its safety risk
+  - Plaintiff purchased the vehicle based on Defendant's representations
+  - Plaintiff was injured as a result of the defect
+
+disputes:
+  - Demurrer and motion to strike filed by Defendant
+  - Oppositions filed by Plaintiff
+  - Reply to oppositions filed by Defendant
+
+acts:
+  - Defendant's concealment of the sensor safety defect
+  - Plaintiff's purchase of the vehicle based on Defendant's representations
+
+agreements:
+  - None mentioned
+
+laws:
+  - California Code of Civil Procedure
+  - California Civil Code
+  - Federal law (National Highway Traffic Safety Administration regulations)
+
+case_citations:
+  - Capital Research & Management Co. v. Brown (2007)
+  - CSX Transp., Inc. v. Easterwood (1993)
+  - McAllister v. County of Monterey (2007)
+  - Tuck v. Thuesen (1970)
+  - Neel v. Magana, Olney, Levy, Cathcart & Gelfand (1971)
+  - Credit Managers Ass'n of California v. Countrywide Home Loans, Inc. (2006)
+  - Washington Mutual Bank v. Superior Court (2002)
+  - Bigler-Engler v. Breg, Inc. (2017)
+  - Dhital v. Nissan North America, Inc. (2022)
+  - Clausen v. Superior Court (1998)
+  - Monge v. Superior Court (1986)
+  - Turman v. Turning Point of Central California, Inc. (2010)
+  - Silberg v. California Life Ins. Co. (1974)
+  - Spinks v. Equity Residential Briarwood Apartments (2009)
+  - Angie M. v. Superior Court (1995)
+  - Taylor v. Superior Court (1979)
+  - Today’s IV, Inc. v. Los Angeles County Metropolitan Transportation Authority (2022)
+  - Grieves v. Superior Court (1984)
+  - Brousseau v. Jarrett (1977)
+  - White v. Ultramar, Inc. (1999)
+  - Davis v. Kiewit Pacific Co. (2013)
+  - Weeks v. Baker & McKenzie (1998)
+
+roles:
+  - Judge: Hon. Eric Harmon
+  - Plaintiff: Walter Morales
+  - Defendant: American Honda Motor Co., Inc.
+
+significant_statements:
+  - The judge finds that Defendant's concealment of the sensor safety defect from Plaintiff was oppressive, fraudulent, or malicious.
+  - The judge denies the motion to strike the complaint's prayer for punitive damages.
+  - The judge rules that the complaint adequately pleads the elements of a cause of action for fraudulent concealment.
+  - The judge finds that Defendant failed to meet its burden of showing Congress' intent that NHTSA's regulations should preempt state law.

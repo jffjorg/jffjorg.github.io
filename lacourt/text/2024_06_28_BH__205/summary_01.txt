@@ -1,0 +1,80 @@
+Here is a summary of the legal document in YAML format:
+
+```
+case_number: 23SMCV02781
+plaintiff: 3Gen Net Lease, LP
+defendant: Roem Automotive Inc., Jeffrey Atkins, Caren Atkins
+people:
+  - Jordan Geller
+  - Faith Pearlman
+  - Jerome Pearlman
+  - Glen R. Segal
+companies:
+  - 3Gen Net Lease, LP
+  - Roem Automotive Inc.
+  - Jerome H. and Faith Pearlman Trust No. 2
+places:
+  - Santa Monica, California
+  - Beverly Hills Courthouse
+  - West District
+dates:
+  - September 16, 2016
+  - April 12, 2017
+  - June 30, 2017
+  - July 2017
+  - August 8, 2020
+  - August 2019
+  - June 28, 2024
+events:
+  - Breach of contract
+  - Failure to pay rent
+  - Failure to pay property taxes
+  - Abandonment of premises
+money:
+  - $1,255,504.08 (total damages claimed by Plaintiff)
+  - $273,956.90 (Base Rent)
+  - $284,641.10 (Real Property Taxes)
+  - $15,578.42 (Operational Expenses)
+  - $41,164.50 (Expenditures to re-let Premises)
+  - $176,298.73 (Attorneys' Fees)
+  - $902.65 (Legal Costs)
+  - $271,619.37 (Shortfall)
+intensions:
+  - Plaintiff seeks to recover damages for breach of contract and account stated
+  - Defendant seeks to compel production of tax returns and to recover damages for fraud and misrepresentation
+facts:
+  - The parties entered into a written commercial lease agreement in September 2016
+  - The lease was modified by several amendments
+  - The defendant failed to pay rent and property taxes
+  - The defendant abandoned the premises
+  - The plaintiff claims it suffered damages as a result of the defendant's breaches
+disputes:
+  - Whether the defendant reasonably relied on the plaintiff's representation about the property taxes
+  - Whether the plaintiff disclosed all material facts to the defendant
+  - Whether the defendant's breaches were justified
+acts:
+  - The parties entered into a written commercial lease agreement
+  - The defendant failed to pay rent and property taxes
+  - The defendant abandoned the premises
+agreements:
+  - The parties agreed to the terms of the lease
+laws:
+  - California Code of Civil Procedure
+  - California Civil Code
+  - California Rules of Court
+case_citations:
+  - Code Civ. Proc. § 2031.310
+  - Code Civ. Proc. § 437c
+  - Code Civ. Proc. § 437c(c)
+  - Code Civ. Proc. § 437c(o)
+  - Code Civ. Proc. § 437c(p)
+  - Code Civ. Proc. § 437c(p)(1)
+  - Code Civ. Proc. § 437c(p)(2)
+  - Code Civ. Proc. § 437c(p)(3)
+  - Code Civ. Proc. § 437c(p)(4)
+  - Code Civ. Proc. § 437c(p)(5)
+  - Code Civ. Proc. § 437c(p)(6)
+  - Code Civ. Proc. § 437c(p)(7)
+  - Code Civ. Proc. § 437c(p)(8)
+  - Code Civ. Proc. § 437c(p)(9)
+  - Code Civ. Proc. § 437c(p)(10)

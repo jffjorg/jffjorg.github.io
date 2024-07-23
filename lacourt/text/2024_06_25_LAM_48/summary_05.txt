@@ -1,0 +1,65 @@
+Here is the summary in YAML format:
+
+```
+case_number: 23STCV01149
+plaintiff_name: Peter Bachmann
+defendant_name: Rock Assets LLC et al.
+people_names:
+  - Peter Bachmann
+  - Thomas D. Long
+company_names:
+  - Rock Assets LLC
+places:
+  - Los Angeles
+  - California
+dates:
+  - January 18, 2023
+  - May 29, 2024
+  - June 25, 2024
+  - July 2023
+  - December 2023
+  - October 2023
+  - January 2024
+  - December 2, 2024
+events:
+  - Motion for leave to file first amended complaint
+money:
+  - dollar amounts
+intentions:
+  - to file a first amended complaint
+facts:
+  - Plaintiff filed this action
+  - Plaintiff filed a motion for leave to file a first amended complaint
+  - Plaintiff's current counsel substituted into the case in July 2023
+  - Counsel underwent several health issues from October 2023 through at least January 2024
+disputes:
+  - None mentioned
+acts:
+  - Plaintiff filed a motion for leave to file a first amended complaint
+  - Counsel is ordered to file and serve the first amended complaint within 10 days
+agreements:
+  - The motion for leave to file an amended complaint is GRANTED
+laws:
+  - Code Civ. Proc., § 473, subdiv. (a)(1)
+  - California Rules of Court, rule 3.1324(a) and (b)
+case_citations:
+  - Code Civ. Proc., § 473, subdiv. (a)(1)
+  - California Rules of Court, rule 3.1324(a) and (b)
+statutes:
+  - Code Civ. Proc., § 473
+  - California Rules of Court, rule 3.1324
+roles:
+  - Judge: Thomas D. Long
+  - Plaintiff: Peter Bachmann
+  - Defendant: Rock Assets LLC et al.
+  - Counsel: (name not specified)
+significant_statements:
+  - The motion for leave to file an amended complaint is GRANTED
+  - Plaintiff is ordered to file and serve the first amended complaint within 10 days
+  - No oppositions were filed
+  - Trial is not until December 2, 2024
+```
+
+And here is a summary of the judge's tentative ruling in English text:
+
+The judge has issued a tentative ruling granting the plaintiff's motion for leave to file a first amended complaint. The plaintiff, Peter Bachmann, filed his original complaint on January 18, 2023, and filed the motion for leave to amend on May 29, 2024. The proposed amendments correct dates and allege specific dollar amounts. The plaintiff's current counsel substituted into the case in July 2023 and received discovery responses in December 2023, but did not file the motion sooner due to health issues. The judge has ordered the plaintiff to file and serve the first amended complaint within 10 days. Since no oppositions were filed, the motion is granted.

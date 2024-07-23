@@ -1,0 +1,62 @@
+Here is the summary of the Tentative Ruling in YAML format:
+
+```
+case_number: 22STCV18964
+plaintiff_names:
+  - RICHARD GALVAN
+  - et al.
+defendant_names:
+  - THOMAS EDWARD WALJESKI
+  - et al.
+people_names:
+  - RICHARD GALVAN
+  - THOMAS EDWARD WALJESKI
+  - HON. HOLLY J. FUJIE
+company_names:
+  - none
+places:
+  - Los Angeles
+  - California
+dates:
+  - July 12, 2024
+  - April 2, 2024
+events:
+  - Motion for Reconsideration
+  - Motion to Compel
+  - Hearing
+money:
+  - $2,998.08
+  - $5,372.08
+intentions:
+  - Reconsideration of sanctions
+  - Relief from default
+facts:
+  - Invoices for additional deposition costs were not included in the moving papers
+  - Original Motion to Compel was granted with sanctions of $2,998.08
+disputes:
+  - Dispute over the amount of sanctions
+acts:
+  - Filing of a motion for reconsideration
+  - Failure to include invoices in moving papers
+agreements:
+  - None mentioned
+laws:
+  - Code Civ. Proc., § 1008, subd. (a)
+  - Code Civ. Proc., §473(a)(1)
+case_citations:
+  - None mentioned
+statutes:
+  - Code Civ. Proc., § 1008, subd. (a)
+  - Code Civ. Proc., §473(a)(1)
+roles:
+  - Judge: HON. HOLLY J. FUJIE
+  - Defendant: THOMAS EDWARD WALJESKI
+  - Plaintiffs: RICHARD GALVAN et al.
+significant_statements:
+  - The Court finds that there is no good cause for reconsideration of the order.
+  - The Court used its own discretion to determine the reasonable amount of sanctions to be awarded.
+```
+
+And here is a summary of the Tentative Ruling in English text:
+
+The Judge has issued a tentative ruling on a motion for reconsideration filed by the defendant, Thomas Edward Waljeski. The motion seeks to increase the amount of sanctions ordered from $2,998.08 to $5,372.08, citing additional deposition costs that were not included in the original moving papers. However, the Judge finds that there is no good cause for reconsideration, as there are no new or different facts, circumstances, or law that were not available to the moving party at the time of the hearing on the original motion. The Judge also finds that the relief requested is not supported by the facts or the law. Therefore, the motion is denied.

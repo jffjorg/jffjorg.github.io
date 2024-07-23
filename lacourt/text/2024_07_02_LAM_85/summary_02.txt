@@ -1,0 +1,57 @@
+Here is the summary in YAML format:
+
+```
+case_number: unspecified
+plaintiff_name: Lee
+defendant_name: FAP, LACEC
+people_names:
+  - Lee
+  - Beckloff
+  - Cameron
+company_names:
+  - LAAC
+  - LACEC
+places: none
+dates:
+  - April 5, 2024
+  - November 8, 2023
+  - May 24, 2024
+events:
+  - Demurrer to FAP
+  - Judicial notice of LAAC sections and meeting minutes
+  - Telephonic conference between counsel
+money: none
+intentions:
+  - LACEC seeks to use judicially noticed exhibits for all purposes
+  - Lee seeks injunctive relief
+  - FAP seeks to have demurrer granted
+facts:
+  - LACEC believes judicially noticed exhibits can be used for all purposes
+  - Lee and LACEC have disagreeing viewpoints on underlying law
+  - Demurrer cannot be made to relief sought
+disputes:
+  - LACEC's use of judicially noticed exhibits
+  - Granting of injunctive relief to Lee
+acts:
+  - LACEC's argument for using judicially noticed exhibits
+  - Lee's point about proper remedy for relief sought
+agreements:
+  - None
+laws:
+  - CCP section 430.31(a)
+  - None
+case_citations:
+  - None
+statutes:
+  - LAAC sections 24.21-24.29
+roles:
+  - Judge: Beckloff
+  - Counsel: Lee and LACEC
+significant_statements:
+  - LACEC believes judicially noticed exhibits can be used for all purposes (incorrect)
+  - Demurrer cannot be made to relief sought
+```
+
+And here is the English-text summary:
+
+The Judge's tentative ruling addresses the demurrer to the FAP and the use of judicially noticed exhibits by LACEC. The Judge notes that LACEC believes that once a matter has been judicially noticed, it can be used for all purposes, which is incorrect. The Judge also points out that LACEC should have re-presented the exhibits to the court for the instant demurrer. The Judge does not object to this procedure, however. The Judge also discusses the disagreement between counsel for Lee and LACEC regarding the underlying law. Additionally, the Judge notes that a demurrer cannot be made to the relief sought and that the proper remedy would have been a motion to strike. The Judge concludes that LACEC has satisfied the requirements of CCP section 430.31(a) but that the court should not grant Lee injunctive relief as he has failed to establish that such a remedy is necessary.

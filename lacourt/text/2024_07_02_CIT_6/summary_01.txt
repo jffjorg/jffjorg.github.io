@@ -1,0 +1,80 @@
+Here is the summary in YAML format:
+
+```
+case_number: 22PSCV02862
+hearing_date: 2024-07-02
+dept: 6
+case_name: Lightking America Technology (L.A.) LTD. v. Arbor CPA, APC, et al.
+motion: Motion to Quash Subpoena, and/or for Protective Order
+
+people:
+  - Zeming Qi
+  - Hui Heidi Liu, CPA
+
+company_names:
+  - Lightking America Technology (L.A.) LTD.
+  - Arbor CPA, APC
+  - East West Bank
+
+places:
+  - California
+
+dates:
+  - 2022-12-13
+  - 2023-05-09
+  - 2024-04-29
+  - 2024-06-25
+
+events:
+  - Breach of contract action
+  - Deposition subpoena
+  - Motion to quash subpoena
+
+money:
+  - None
+
+intentions:
+  - To protect the privacy and interests of non-party Zeming Qi
+
+facts:
+  - Non-party Zeming Qi moved to quash a deposition subpoena and/or for a protective order
+  - Plaintiff Lightking America Technology (L.A.) LTD. opposed the motion
+  - The Subpoena seeks various banking records and documents from East West Bank
+
+disputes:
+  - Whether the Subpoena should be quashed
+  - Whether the Subpoena complies with California Rules of Court, rule 1.201, subdivision (a)(2)
+
+acts:
+  - The Court GRANTS non-party Zeming Qi's motion to quash subpoena, and/or for protective order, but only as to records sought for non-party Zeming Qi's account
+
+agreements:
+  - Code Civ. Proc., § 1987.1
+  - Cal. Rules of Court, rule 1.201, subdivision (a)(2)
+  - Code Civ. Proc., § 1985.3
+
+laws:
+  - California Rules of Court
+  - California Code of Civil Procedure
+
+case_citations:
+  - Facebook, Inc. v. Superior Court of San Diego County (2020) 10 Cal.5th 329
+  - Williams v. Superior Ct. (2017) 3 Cal.5th 531
+  - Sexton v. Superior Court (1997) 58 Cal.App.4th 1403
+
+statutes:
+  - Code Civ. Proc., § 1987.1
+  - Cal. Rules of Court, rule 1.201, subdivision (a)(2)
+  - Code Civ. Proc., § 1985.3
+
+roles:
+  - Judge
+
+significant_statements:
+  - The Court GRANTS non-party Zeming Qi's motion to quash subpoena, and/or for protective order, but only as to records sought for non-party Zeming Qi's account
+  - The motion is DENIED as to records sought for Lightking America Technology, LTD.
+```
+
+And here is the summary in English text:
+
+The Court's tentative ruling grants non-party Zeming Qi's motion to quash a deposition subpoena and/or for a protective order, but only as to records sought for Qi's account. The motion is denied as to records sought for Lightking America Technology, LTD. The Court finds that Qi has an objectively reasonable expectation of privacy in his bank records and that the lack of notice to consumer is sufficient grounds for quashing the subpoena. However, the Court notes that the Subpoena also seeks documents other than Qi's bank records, namely, those of Plaintiff Lightking America Technology (L.A.) LTD., and therefore will only grant the motion to quash as to Qi. Non-party Zeming Qi is ordered to give notice of the Court's ruling within five calendar days of this order.

@@ -1,0 +1,69 @@
+Here is the summary in YAML format:
+
+```
+--- 
+case_number: 23STLC01016
+hearing_date: 2024-07-18
+dept: 26 Koury
+plaintiff_name: Ken Koury
+defendant_names:
+  - FB Insure Select, LLC
+  - Janessa Rodriguez
+people_names:
+  - Ken Koury
+  - Janessa Rodriguez
+company_names:
+  - FB Insure Select, LLC
+places:
+  - Spring Street Courthouse
+dates:
+  - 2023-02-08
+  - 2023-03-15
+  - 2023-03-29
+  - 2023-07-10
+  - 2024-07-18
+events:
+  - Demurrer filed
+  - Default entered against Defendant FB Insure
+  - Motion to Compel Responses to Form Interrogatories granted
+  - Demurrer to be heard
+money: 
+intentions: 
+facts: 
+  - Complaint filed
+  - Demurrer filed
+  - Default entered
+  - Motion to Compel granted
+disputes: 
+  - Lack of facts sufficient to state a cause of action
+acts: 
+  - Failure to give notice of demurrer
+  - Representing a corporation by an unauthorized person
+agreements: 
+  - Code of Civil Procedure section 430.10, et seq.
+laws: 
+  - Code of Civil Procedure section 430.10, et seq.
+  - Code of Civil Procedure section 430.30
+  - Code of Civil Procedure section 430.41
+  - Code of Civil Procedure section 1005
+statutes: 
+  - 47 United States Code, section 227
+  - 47 C.F.R. § 64.1200
+  - Consumer Legal Remedies Act
+case_citations: 
+  - Jones v. Otero (1984) 156 Cal.App.3d 754, 757
+  - Clean Air Transport Systems v. San Mateo County Transit Dist. (1988) 198 Cal.App.3d 576, 578
+  - Merco Constr. Engineers, Inc. v. Municipal Court (1978) 21 Cal.3d 724, 729-730
+  - Blank v. Kirwan (1985) 39 Cal.3d 311, 318
+roles: 
+  - Judge
+  - Plaintiff
+  - Defendant
+significant_statements: 
+  - The Demurrer is overruled
+  - Defendant Rodriguez is to file and serve an answer to the Complaint within 20 days
+```
+
+And here is the English-text summary:
+
+The judge's tentative ruling is that the demurrer filed by Defendant Janessa Rodriguez is overruled. The demurrer was filed on behalf of both Defendant Rodriguez and Defendant FB Insure Select, LLC, but the notice page indicates the wrong date and time, and refers to two different departments in the Spring Street Courthouse, violating the statutory requirements and due process. Additionally, Defendant Rodriguez cannot represent Defendant FB Insure, which is a corporation that must be represented by an attorney licensed to practice law in the State of California. The demurrer does not indicate what facts are missing from the Complaint, and the memorandum in support of the demurrer does not address the allegations made in the Complaint. Therefore, the demurrer is overruled, and Defendant Rodriguez is to file and serve an answer to the Complaint within 20 days.

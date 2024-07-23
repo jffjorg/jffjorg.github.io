@@ -1,0 +1,78 @@
+Here is the summary in YAML format:
+
+```
+case_number: 23PSCV02585
+hearing_date: 2024-06-26
+department: G
+plaintiff: Orlando Garcia
+defendant: Hideco Investment LLC and Country Liquor Market 2, Inc.
+people:
+  - Orlando Garcia
+  - Judge (unnamed)
+companies:
+  - Hideco Investment LLC
+  - Country Liquor Market 2, Inc.
+places:
+  - Covina
+  - Long Beach
+dates:
+  - 2023-06-00
+  - 2023-08-23
+  - 2023-09-05
+  - 2023-09-11
+  - 2024-03-04
+  - 2024-04-16
+  - 2024-06-26
+events:
+  - Disability access testing at Country Liquor
+  - Filing of complaint against Hideco, Country Liquor, and Does 1-50
+  - Service of Country Liquor with substitute service
+  - Service of Hideco with substitute service
+  - Dismissal of Hideco from the present action
+  - Entry of default against Country Liquor
+  - Submission of application for default judgment
+money:
+  - $5,353.59
+  - $4,000
+  - $330
+  - $1,023.59
+  - $9,313.69
+intentions:
+  - Plaintiff seeks default judgment against Country Liquor
+facts:
+  - Plaintiff Orlando Garcia is physically disabled and relies on mobility devices
+  - Defendant Country Liquor allegedly owns a property in Covina with barriers to access
+  - Plaintiff visited Country Liquor for disability access testing
+disputes:
+  - Alleged violation of Unruh Civil Rights Act and California Disabled Persons Act
+acts:
+  - Plaintiff filed a complaint against Hideco, Country Liquor, and Does 1-50
+  - Plaintiff served Country Liquor with substitute service
+  - Plaintiff served Hideco with substitute service
+  - Country Liquor failed to file an answer
+  - Hideco was dismissed from the present action
+agreements:
+  - Unruh Civil Rights Act (UCRA)
+  - California Disabled Persons Act (DPA)
+laws:
+  - California Code of Civil Procedure section 585
+  - California Rules of Court 3.1800
+  - Local Rule 3.214
+case_citations:
+  - Cal. Rules of Court 3.1800
+  - CCP § 579
+  - CCP § 585
+statutes:
+  - Unruh Civil Rights Act (UCRA)
+  - California Disabled Persons Act (DPA)
+roles:
+  - Judge (ruling on tentative ruling)
+  - Plaintiff (Orlando Garcia)
+  - Defendant (Hideco Investment LLC and Country Liquor Market 2, Inc.)
+significant_statements:
+  - The Court grants plaintiff's application for default judgment in the reduced amount of $5,353.59.
+```
+
+And here is the summary in English text:
+
+This tentative ruling grants Orlando Garcia's application for default judgment against Country Liquor Market 2, Inc. in the reduced amount of $5,353.59. The case involves a disability rights action, with Garcia alleging that Country Liquor's property in Covina has barriers to access. Garcia visited the property for disability access testing and filed a complaint against Hideco Investment LLC, Country Liquor, and Does 1-50 alleging violations of the Unruh Civil Rights Act and the California Disabled Persons Act. Country Liquor failed to file an answer, and the Court entered default against them. The Court finds that Garcia has submitted sufficient evidence and grants his application for default judgment with modifications, reducing the amount of attorney fees and costs requested.

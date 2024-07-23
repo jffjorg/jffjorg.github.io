@@ -1,0 +1,59 @@
+Here is the summary in YAML format:
+
+```
+caseNumber: 21TRCV00786
+plaintiff: MILESTONE EQUIPMENT COMPANY LLC, et al.
+defendant: NEXXGEN ENTERPRISES, INC., et al.
+peopleNames:
+  - Nexgen (Defendant)
+  - 3 Ocelots (Defendant)
+companyNames:
+  - MILESTONE EQUIPMENT COMPANY LLC
+  - NEXXGEN ENTERPRISES, INC.
+  - 3 Ocelots, Incorporated
+places:
+  - Court
+dates:
+  - July 2, 2024
+  - March 22, 2024
+events:
+  - Order to Show Cause re Entry of Default Judgment
+  - Entry of Default Judgment
+  - Service of summons and complaint
+money:
+  - Attorneys fees
+intentions:
+  - Entry of default judgment against Nexgen and 3 Ocelots
+  - Modification of Proposed Judgment
+facts:
+  - Nexgen and 3 Ocelots failed to answer the complaint or appear and defend the action
+  - Plaintiff requested judgment against Nexgen and 3 Ocelots
+  - Attorneys fees are reasonable
+disputes:
+  - None mentioned
+acts:
+  - Service of summons and complaint
+  - Entry of default judgment by the clerk
+  - Plaintiff's application for default judgment
+agreements:
+  - None mentioned
+laws:
+  - JUD-100 (language to be added to Proposed Judgment)
+  - Laws regarding service of summons and complaint
+  - Laws regarding default judgment
+caseCitations:
+  - None mentioned
+statutes:
+  - None mentioned
+roles:
+  - Plaintiff: MILESTONE EQUIPMENT COMPANY LLC, et al.
+  - Defendant: NEXXGEN ENTERPRISES, INC., et al.
+  - Judge: issuing the tentative ruling
+significantStatements:
+  - "The Court shall enter judgment as to Defendant Nexgen and 3 Ocelots with certain additional corrections to the proposed Judgment."
+  - "The Court also finds that the attorneys fees requested, while substantial, are reasonable given the totality of the facts surrounding this case."
+```
+
+And here is a summary of the judge's tentative ruling in English text:
+
+The judge is issuing a tentative ruling in a case where the plaintiff, Milestone Equipment Company LLC, is seeking a default judgment against two remaining defendants, Nexgen Enterprises, Inc. and 3 Ocelots, Incorporated. The court has reviewed the materials submitted by the plaintiff and finds that the defendants failed to answer the complaint or appear and defend the action, resulting in their defaults being entered by the clerk. The court will enter a default judgment against Nexgen and 3 Ocelots, with certain corrections to the proposed judgment. The court also finds the attorneys fees requested by the plaintiff to be reasonable. The plaintiff is ordered to modify the proposed judgment as noted and resubmit it within 10 days.

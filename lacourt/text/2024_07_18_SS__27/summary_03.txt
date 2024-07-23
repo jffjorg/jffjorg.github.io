@@ -1,0 +1,54 @@
+Here is the summary in YAML format:
+
+```
+case_number: 23STCV01479
+plaintiff_name: Gail Bleckman
+defendant_name: The Kroger Co et al
+people_names:
+  - Sahm Manouchehri
+  - Hon. Lee S. Arian
+company_names:
+  - The Kroger Co
+places: none
+dates:
+  - July 18, 2024
+  - November 5, 2024
+events:
+  - Motion to be relieved as counsel
+  - Hearing on July 18, 2024
+money: none
+intentions:
+  - Sahm Manouchehri seeks to withdraw as counsel
+facts:
+  - Irremediable breakdown in attorney-client relationship
+  - No opposition has been filed
+  - Plaintiff's email and mailing address are current
+disputes:
+  - None
+acts:
+  - Sahm Manouchehri files motion to be relieved as counsel
+  - Plaintiff's email and mailing address are confirmed
+agreements:
+  - Plaintiff has 30 days to retain new counsel
+laws:
+  - Ramirez v. Sturdevant (1994)
+  - People v. Prince (1968)
+  - Cal. Rules of Court, rule 3.1362
+  - Estate of Falco (1987)
+case_citations:
+  - Ramirez v. Sturdevant (1994) 21 Cal.App.4th 904, 915
+  - People v. Prince (1968) 268 Cal.App.2d 398, 403-407
+  - Estate of Falco (1987) 188 Cal.App.3d 1004, 1014
+statutes:
+  - Cal. Rules of Court, rule 3.1362
+roles:
+  - Sahm Manouchehri: Plaintiff's Counsel
+  - Hon. Lee S. Arian: Judge
+significant_statements:
+  - The Court has discretion to allow an attorney to withdraw
+  - The present motion to be relieved as counsel is GRANTED effective upon service on Plaintiff
+```
+
+And here is the English-text summary:
+
+The Court has issued a tentative ruling granting the motion to be relieved as counsel filed by Sahm Manouchehri, Plaintiff's Counsel. Manouchehri seeks to withdraw due to an irremediable breakdown in the attorney-client relationship, and no opposition has been filed. The Court finds this to be proper grounds for withdrawal, citing case law and court rules. The next hearing is set for November 5, 2024, which should be sufficient time for Plaintiff to retain new counsel. The motion is granted effective upon service on Plaintiff.
