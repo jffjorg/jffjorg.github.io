@@ -1,0 +1,70 @@
+Here is a summary of the judge's tentative ruling in YAML format:
+
+```
+case_number: 24STCV00648
+plaintiff: Tisgar Haroun
+defendant: HOCB Retail LLC, House of CB USA, LLC, Sirens Design LLC, Egyptsia Nevers, and DOES 1-100
+people_names:
+  - Tisgar Haroun
+  - Calvin House
+company_names:
+  - HOCB Retail LLC
+  - House of CB USA, LLC
+  - Sirens Design LLC
+places: Los Angeles
+dates:
+  - January 10, 2024
+  - May 21, 2024
+  - May 17, 2024
+  - May 31, 2024
+  - July 8, 2024
+  - July 30, 2024
+events:
+  - Employment dispute
+  - Wrongful termination
+  - Discrimination
+  - Retaliation
+  - Motion to compel responses
+  - Request for monetary sanctions
+money:
+  - $1,050
+  - $700
+  - $180
+intentions:
+  - Plaintiff seeks to compel defendants to respond to discovery requests
+  - Plaintiff seeks monetary sanctions for defendants' delayed responses
+facts:
+  - Plaintiff served defendants with discovery requests on February 19, 2024
+  - Defendants did not provide responses until May 31, 2024
+disputes:
+  - Dispute over defendants' delayed responses to discovery requests
+acts:
+  - Plaintiff served discovery requests
+  - Defendants failed to respond
+  - Plaintiff moved to compel responses
+  - Plaintiff requested monetary sanctions
+agreements:
+  - Plaintiff agreed to pay additional filing fees
+laws:
+  - Code of Civil Procedure (CCP) section 2030.290
+  - Code of Civil Procedure (CCP) section 2031.300
+  - Government Code section 70617(a)(4)
+  - California Rules of Court, rule 3.1348, subdivision (a)
+  - California Practice Guide: Civil Procedure Before Trial, Chapter 8F-7
+statutes:
+  - CCP section 2030.290
+  - CCP section 2031.300
+  - Government Code section 70617(a)(4)
+roles:
+  - Judge: Holly J. Fujie
+  - Plaintiff: Tisgar Haroun
+  - Defendant: HOCB Retail LLC, House of CB USA, LLC, Sirens Design LLC, Egyptsia Nevers, and DOES 1-100
+significant_statements:
+  - The motion is MOOT
+  - Plaintiff is granted monetary sanctions in the amount of $700
+  - Plaintiff is ordered to pay $180 in previously unpaid filing fees
+```
+
+English-text summary:
+
+The judge's tentative ruling is a response to a motion filed by Plaintiff Tisgar Haroun to compel defendants HOCB Retail LLC, House of CB USA, LLC, Sirens Design LLC, Egyptsia Nevers, and DOES 1-100 to respond to discovery requests. The judge finds that the motion is MOOT because verified responses to the discovery requests were served by defendants. However, the judge awards monetary sanctions in the amount of $700 to Plaintiff due to defendants' delayed responses. The judge also orders Plaintiff to pay $180 in previously unpaid filing fees and orders Plaintiff to pay three additional $60 filing fees as a condition to the granting of the motion.

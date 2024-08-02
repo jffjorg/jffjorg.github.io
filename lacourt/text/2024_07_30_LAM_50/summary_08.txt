@@ -1,0 +1,70 @@
+Here is the summary in YAML format:
+
+```
+case_number: 23STCV24386
+plaintiff_names:
+  - Hilda Bennett
+  - Hilda Bennett, Trustee of the B and H Family Trust
+  - Yolanda Tellez
+  - Gustavo Rodriguez
+defendant_names:
+  - Hugo Rodriguez
+  - Hugo A. Rodriguez aka Antonio H. Rodriguez as Trustee of the Hugo A. Rodriguez aka Antonio H. Rodriguez and Antonio H. Rodriguez Trust
+people_names:
+  - Hilda Bennett
+  - Yolanda Tellez
+  - Gustavo Rodriguez
+  - Hugo Rodriguez
+  - Hugo A. Rodriguez aka Antonio H. Rodriguez
+company_names: []
+places:
+  - Los Angeles
+  - California
+dates:
+  - October 5, 2023
+  - April 3, 2024
+  - May 6, 2024
+  - July 30, 2024
+events:
+  - Filing of Complaint
+  - Filing of First Amended Cross-Complaint
+  - Filing of Verified Answer
+  - Demurrer to Answer
+money: []
+intentions:
+  - Partition of real property
+  - Conversion
+  - Negligence
+facts:
+  - Plaintiffs filed an action against Defendant Hugo Rodriguez
+  - Defendant Hugo Rodriguez filed a cross-complaint against Cross-Defendants
+  - Cross-Defendants filed an answer to the cross-complaint
+  - Defendant Hugo Rodriguez demurred to the answer
+disputes:
+  - Conversion and negligence
+  - Partition of real property
+acts:
+  - Filing of pleadings
+  - Meeting and conferring
+  - Demurrer
+agreements:
+  - None
+laws:
+  - Code of Civil Procedure section 430.41, subdivision (a)
+  - Code of Civil Procedure section 430.41, subdivision (a)(3)
+case_citations: []
+statutes: []
+roles:
+  - Judge: Hon. Teresa A. Beaudet
+  - Plaintiff: Hilda Bennett, Hilda Bennett, Trustee of the B and H Family Trust, Yolanda Tellez, Gustavo Rodriguez
+  - Defendant: Hugo Rodriguez
+  - Cross-Defendant: Hilda Bennett, Yolanda Tellez, Gustavo Rodriguez
+significant_statements:
+  - Defendant Rodriguez failed to file a declaration in support of the demurrer
+  - Meeting and conferring is required before filing a demurrer
+  - The hearing on the demurrer is continued to a later date
+```
+
+And here is a summary of the judge's tentative ruling in English text:
+
+The judge has issued a tentative ruling in a case involving a demurrer to the answer of cross-defendants Hilda Bennett, Yolanda Tellez, and Gustavo Rodriguez. The case concerns a dispute over a partition of real property and allegations of conversion and negligence. The judge notes that the defendant, Hugo Rodriguez, failed to file a declaration in support of his demurrer, as required by law. As a result, the judge has ordered Rodriguez to meet and confer with the cross-defendants within 10 days and to file a declaration setting forth his efforts to meet and confer within 15 days. The hearing on the demurrer has been continued to a later date.

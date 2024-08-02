@@ -1,0 +1,44 @@
+Here is the summary in YAML format:
+
+case_number: 23SMCV03661
+plaintiff_name: none
+defendant_name: ADT LLC and Sharnee L'Jonique Crout-Prudie
+people_names:
+  - Julius W. Gernes, Esq.
+  - Michael E. Whitaker
+company_names:
+  - ADT LLC
+places:
+  - California
+  - San Francisco
+dates:
+  - July 30, 2024
+events:
+  - Motion to Be Admitted Pro Hac Vice
+money:
+  - $50.00
+intentions:
+  - To appear as counsel pro hac vice in the State of California
+facts:
+  - Julius W. Gernes, Esq. has filed a motion to appear as counsel pro hac vice
+    for Defendants ADT LLC and Sharnee L'Jonique Crout-Prudie
+disputes:
+  - None
+acts:
+  - Counsel has provided a declaration with most of the required information
+    but missing dates and outcomes of previous pro hac vice applications
+agreements:
+  - California Rules of Court rule 9.40
+laws:
+  - California Rules of Court rule 9.40
+  - California Rules of Court, rule 9.40(d)
+case_citations:
+  - California Rules of Court rule 9.40
+  - California Rules of Court, rule 9.40(d)
+statutes:
+  - California Rules of Court rule 9.40
+roles:
+  - Judge: Michael E. Whitaker
+  - Counsel: Julius W. Gernes, Esq.
+significant_statements:
+  - The Court denies Counsel's Application without prejudice.

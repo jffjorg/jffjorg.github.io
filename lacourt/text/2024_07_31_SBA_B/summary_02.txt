@@ -1,0 +1,101 @@
+Here is the summary of the judge's tentative ruling in YAML format:
+
+```
+case_number: 22TRCV00096
+hearing_date: 2024-08-31
+dept: B
+judge: [not specified]
+parties:
+  - The Roosk Group Inc. (plaintiff)
+  - Jamie McDaniel, et al. (defendants)
+  - Friendly Llama, Inc.
+  - Diane Zane
+  - Zane Consulting, Inc.
+  - TelcoLynx, LLC
+people:
+  - Jamie McDaniel
+  - Diane Zane
+  - Friendly Llama (organization)
+  - The Roosk Group Inc.
+  - Zane Consulting, Inc.
+  - TelcoLynx, LLC
+companies:
+  - The Roosk Group Inc.
+  - Friendly Llama, Inc.
+  - Zane Consulting, Inc.
+  - TelcoLynx, LLC
+places:
+  - Los Angeles
+  - Torrance
+  - California
+dates:
+  - 2022-02-09
+  - 2022-06-28
+  - 2022-08-12
+  - 2023-01-12
+  - 2023-01-17
+  - 2023-05-24
+  - 2023-09-29
+  - 2023-10-19
+  - 2023-11-16
+  - 2024-02-01
+  - 2024-03-01
+  - 2024-06-24
+  - 2024-07-31
+events:
+  - Breach of contract
+  - Breach of covenant of good faith and fair dealing
+  - Breach of fiduciary duties
+  - Fraud
+  - Rescission of contract
+  - Unjust enrichment
+  - Motion to compel discovery
+  - Motion to strike
+  - Motion to compel further responses
+  - Summary judgment
+money:
+  - Not mentioned
+intentions:
+  - Plaintiff seeks to compel defendants to provide complete responses to their second set of discovery requests.
+facts:
+  - The motion was filed on June 27, 2024.
+  - The respondents served responses on November 14, 2023.
+  - The parties continued to meet and confer, with the last conference call on June 5, 2024.
+disputes:
+  - The motion is procedurally improper.
+  - The motion is untimely as to several of the requests.
+  - The respondents served proper code-compliant responses.
+acts:
+  - The respondents served responses on November 14, 2023.
+  - The parties continued to meet and confer.
+  - The motion was filed on June 27, 2024.
+agreements:
+  - The parties agreed to an extension to November 14, 2023 for defendants to respond.
+  - The parties agreed to meet and confer.
+laws:
+  - CCP §2031.310
+  - CCP §2031.310(h)
+  - CCP §2030.300
+  - CCP §2031.230
+  - CCP §2031.310(c)
+  - CCP §2030.220
+  - CCP §2023.030(a)
+  - CCP §2023.010
+  - Cal. Rules of Court, Rule 3.1348(a)
+case_citations:
+  - Sperber v. Robinson (1994) 26 Cal. App. 4th 736, 745
+  - Sexton v. Superior Court (1997) 58 Cal. App. 4th 1403, 1410
+roles:
+  - Judge: [not specified]
+  - Plaintiff: The Roosk Group Inc.
+  - Defendant: Jamie McDaniel, et al.
+significant_statements:
+  - The motion is procedurally improper.
+  - The motion is untimely as to several of the requests.
+  - The respondents served proper code-compliant responses.
+  - The Court denies each party's request for sanctions.
+```
+
+Here is a summary of the judge's tentative ruling in English text:
+
+The judge has denied the plaintiff's motion to compel defendants to provide complete responses to their second set of discovery requests. The motion is procedurally improper because it does not identify the specific requests at issue and combines six sets of discovery as to three different defendants. Additionally, the motion is untimely as to several of the requests. The respondents have served proper code-compliant responses, and the Court finds that the plaintiff has failed to show good cause to compel further responses. The Court also denies each party's request for sanctions.

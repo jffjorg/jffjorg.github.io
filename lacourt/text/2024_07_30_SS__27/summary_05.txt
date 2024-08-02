@@ -1,0 +1,61 @@
+Here is the summary in YAML format:
+
+```
+case_number: 22STCV29393
+plaintiff_name: Roberto Corona
+defendant_name: Compton Unified School District
+people_names:
+  - Yair Morales
+company_names:
+  - Compton Unified School District
+places:
+  - Compton
+dates:
+  - May 7, 2024
+  - May 13, 2024
+  - May 20, 2024
+  - July 30, 2024
+events:
+  - Deposition subpoena served
+  - Deposition scheduled
+  - Attempt to contact witness
+  - Motion to compel compliance with subpoena
+money:
+  - Not applicable
+intentions:
+  - Defendant seeks to compel witness to comply with deposition subpoena
+facts:
+  - Subpoena was personally served on witness
+  - Witness confirmed attendance for deposition
+  - Witness failed to attend deposition
+  - Defendant attempted to contact witness
+disputes:
+  - Whether defendant properly served notice and motion
+acts:
+  - Service of subpoena
+  - Confirmation of attendance
+  - Failure to attend deposition
+  - Attempt to contact witness
+agreements:
+  - None mentioned
+laws:
+  - CCP § 2020.220
+  - California Rules of Court Rule 3.1346
+case_citations:
+  - Not applicable
+statutes:
+  - CCP § 2020.220
+  - California Rules of Court Rule 3.1346
+roles:
+  - Judge: Hon. Lee S. Arian
+  - Plaintiff: Roberto Corona
+  - Defendant: Compton Unified School District
+  - Witness: Yair Morales
+significant_statements:
+  - The motion to compel compliance with subpoena is denied without prejudice
+  - The defendant did not properly serve notice and motion on the witness
+```
+
+And here is the English-text summary:
+
+The tentative ruling denies the defendant's motion to compel compliance with a deposition subpoena without prejudice. The defendant served the subpoena on witness Yair Morales on May 7, 2024, and confirmed his attendance for the scheduled deposition on May 13, 2024. However, Morales failed to attend the deposition and the defendant did not receive any responses to its attempts to contact him. The Court finds that the defendant did not properly serve notice and motion on Morales, as required by California Rules of Court Rule 3.1346, and therefore denies the motion. The parties must submit to this tentative ruling by email or appear remotely or in person for oral argument on July 30, 2024.

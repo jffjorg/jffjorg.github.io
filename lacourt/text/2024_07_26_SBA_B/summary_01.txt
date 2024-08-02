@@ -1,0 +1,74 @@
+Here is the summary in YAML format:
+
+```yaml
+case_number: 23TRCV01212
+plaintiff: Martin Hutto
+defendant: City of Torrance
+people_names:
+  - Martin Hutto
+  - Chief Hart
+company_names: []
+places:
+  - Torrance
+  - Los Angeles
+  - California
+dates:
+  - April 19, 2023
+  - April 25, 2023
+  - September 15, 2023
+  - December 19, 2023
+  - February 12, 2024
+  - July 1, 2024
+  - July 26, 2024
+events:
+  - Complaint filed
+  - TRO issued
+  - Preliminary injunction issued
+  - Discovery requests served
+  - Responses and objections filed
+  - Hearing
+money:
+  - None mentioned
+intentions:
+  - Plaintiff seeks to compel further responses to special interrogatories and requests for production of documents
+  - Defendant seeks to compel plaintiff to respond further to discovery requests
+facts:
+  - Plaintiff was investigated and given educational reminders for two arrests
+  - Plaintiff used force during an arrest and was investigated for his use of force
+  - Plaintiff filed a personnel complaint against Chief Hart
+disputes:
+  - Plaintiff's objections to discovery requests
+  - Defendant's allegations of POBRA violations
+acts:
+  - Plaintiff's arrests and use of force
+  - Defendant's investigations and disciplinary actions
+agreements:
+  - None mentioned
+laws:
+  - Public Safety Officers Procedural Bill of Rights Act (POBRA)
+  - Meyers-Milias Brown Act
+  - California Civil Procedure Code (CCP)
+  - California Rules of Court (CRC)
+statutes:
+  - CCP §2030.300
+  - CCP §2030.220
+  - CCP §2030.230
+  - CCP §2031.310
+  - CCP §2031.240
+  - CCP §2031.010
+  - CCP §2023.030
+  - CCP §2023.010
+roles:
+  - Judge Frank
+  - City of Torrance
+  - Torrance Police Department
+  - Martin Hutto
+significant_statements:
+  - The motions are GRANTED.
+  - Plaintiff is ordered to serve further responses to defendant's discovery requests within twenty days.
+  - Defendant is ordered to give notice of ruling.
+```
+
+And here is the summary in English text:
+
+This is a tentative ruling on a motion to compel further responses to special interrogatories and requests for production of documents. The plaintiff, Martin Hutto, filed a complaint against the City of Torrance and Torrance Police Department alleging violations of the Public Safety Officers Procedural Bill of Rights Act (POBRA) and seeking declaratory relief and Labor Code §1102.5 relief. The defendant, City of Torrance, served discovery requests and plaintiff responded with objections. The defendant moved to compel further responses to the discovery requests, which the court granted. The court ordered plaintiff to serve further responses to the discovery requests within twenty days. The defendant is also ordered to give notice of the ruling.

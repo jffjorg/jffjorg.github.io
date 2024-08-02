@@ -1,0 +1,76 @@
+Here is the summary in YAML format:
+
+```
+case_number: 24PSCV00222
+plaintiff_names:
+  - Javier Hernandez
+  - Alicia B. Hernandez
+defendant_name: Jose Juan Gutierrez
+people_names:
+  - Javier Hernandez
+  - Alicia B. Hernandez
+  - Jose Juan Gutierrez
+  - Luis Gutierrez
+  - Refugio Reyes-Mireles
+company_names:
+  - Reyes Pools
+places:
+  - California
+dates:
+  - January 22, 2024
+  - April 2, 2024
+  - May 29, 2024
+  - June 10, 2024
+  - July 30, 2024
+events:
+  - Construction contract dispute
+  - Default entered against Jose
+  - Plaintiffs dismissed Luis Gutierrez, Refugio Reyes-Mireles, and Does 1 to 20
+  - Plaintiffs requested entry of default judgment against Jose
+money:
+  - $88,013.47 (total amount)
+    - $81,770.00 (damages)
+    - $3,136.00 (interest)
+    - $2,525.40 (attorney fees)
+    - $582.07 (costs)
+intentions:
+  - Plaintiffs seek default judgment against Defendant Jose
+facts:
+  - Plaintiffs filed action against Jose, Luis Gutierrez, Refugio Reyes-Mireles, and Does 1 to 20
+  - Default was entered against Jose
+  - Plaintiffs dismissed Luis Gutierrez, Refugio Reyes-Mireles, and Does 1 to 20
+  - Plaintiffs requested entry of default judgment against Jose
+disputes:
+  - Breach of written contract
+  - Common count
+  - Rescission & restitution
+  - Unfair business practices (B&P 17200)
+  - Negligence
+  - Breach of implied warranty
+acts:
+  - Failure to answer complaint
+  - Entry of default
+  - Dismissal of parties
+agreements:
+  - Construction service agreement between Plaintiffs and Jose
+laws:
+  - Code of Civil Procedure section 585
+  - California Rules of Court, rule 3.1800
+  - Code of Civil Procedure section 579
+statutes:
+  - B&P 17200
+case_citations:
+  - Carlsen v. Koivumaki (2014) 227 Cal.App.4th 879
+roles:
+  - Judge
+  - Plaintiffs
+  - Defendant
+  - Attorney
+significant_statements:
+  - "The request for entry of default judgment is defective, as it is not supported by any documentary evidence of damages suffered."
+  - "Plaintiffs must provide documentary evidence or at least more details in their declarations to support the amount of damages they seek here."
+```
+
+Summary in English text:
+
+The Judge has issued a tentative ruling denying the Plaintiff's request for entry of default judgment against Defendant Jose Juan Gutierrez without prejudice. The Plaintiff's request is defective because it lacks documentary evidence to support the amount of damages claimed. The Judge finds that the Plaintiff's declaration alone is not sufficient to prove damages, and that the Plaintiff must provide more details or documentary evidence to support the amount of damages sought. The case involves a construction contract dispute, and the Plaintiff seeks damages in the amount of $81,770.00, interest in the amount of $3,136.00, attorney fees in the amount of $2,525.40, and costs in the amount of $582.07. The Judge requires the Plaintiff to provide more evidence to support their claim for damages before considering a default judgment.

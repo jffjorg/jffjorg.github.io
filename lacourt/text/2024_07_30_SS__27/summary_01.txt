@@ -1,0 +1,65 @@
+Here is the summary in YAML format:
+
+```
+case_number: 22STCV03142
+plaintiff_name: Jimmy Martell
+defendant_name: Zenesys Logistics, Inc. et al
+people_names:
+  - Jimmy Martell
+  - Bo Wu
+  - Ji
+company_names:
+  - Zenesys Logistics, Inc.
+places:
+  - California
+dates:
+  - April 9, 2024
+  - May 13, 2024
+  - June 17, 2024
+  - June 24, 2024
+  - June 28, 2024
+  - July 30, 2024
+events:
+  - Service of Requests for Admissions
+  - Failure to provide discovery responses
+  - Motion to deem RFA admitted and requests for sanctions
+  - Email to Defendant
+money:
+  - $1,110
+  - $500
+intentions:
+  - Plaintiff: to compel initial responses and seek sanctions
+  - Defendant: to avoid providing discovery responses
+facts:
+  - Plaintiff served Defendant with Requests for Admissions, Set One
+  - Defendant failed to provide responses by statutory due date
+  - Defendant's counsel made efforts to engage Defendant Wu
+disputes:
+  - Plaintiff's motion to compel initial responses
+  - Defendant's opposition to motion
+acts:
+  - Plaintiff served Defendant with Requests for Admissions, Set One
+  - Defendant failed to provide responses
+  - Defendant's counsel made efforts to engage Defendant Wu
+agreements:
+  - None
+laws:
+  - California Rules of Procedure
+  - Code of Civil Procedure
+case_citations:
+  - Nwosu v. Uba (2004) 122 Cal.App.4th 1229, 1246–1247
+  - Stebley v. Litton Loan Servicing, LLP (2011) 202 Cal.App.4th 522, 524
+roles:
+  - Plaintiff: Jimmy Martell
+  - Defendant: Zenesys Logistics, Inc. et al
+  - Defendant's counsel: Ji
+  - Judge: Hon. Lee S. Arian
+significant_statements:
+  - "A Pro Per litigant is to be treated like any other party and is entitled to the same, but no greater consideration than other litigants and attorneys."
+  - "Sanctions are intended to compensate Plaintiff's attorney for the time and effort expended to file the present motions to seek compliance."
+  - "Defendant has been purposefully refusing to participate in litigation and evading discovery."
+```
+
+And here is a summary of the Judge's tentative ruling in English text:
+
+The Judge has granted the Plaintiff's motion to deem the Requests for Admissions, Set One, as admitted against the Defendant, Bo Wu. The Defendant failed to provide responses to the requests by the statutory due date, despite being given an opportunity to do so. The Judge finds that the Defendant has been purposefully evading discovery and refusing to participate in the litigation. As a result, the Judge has ordered the Defendant to pay $500 in sanctions to the Plaintiff within 30 days. The Judge notes that sanctions are intended to compensate the Plaintiff's attorney for the time and effort expended to file the motion to seek compliance.

@@ -1,0 +1,60 @@
+Here is the summary in YAML format:
+
+```
+case_number: 23CHCV00319
+plaintiff_names:
+  - Michele Temm
+  - Peyton Temm
+defendant_name: Andriy Ishuninov
+people_names:
+  - Michele Temm
+  - Peyton Temm
+  - Andriy Ishuninov
+company_names: []
+places:
+  - Los Angeles
+  - North Valley
+  - Department F49
+dates:
+  - July 31, 2024
+  - February 3, 2023
+  - May 29, 2024
+  - July 18, 2024
+events:
+  - Demurrer
+  - Motion to Strike
+  - Filing of Complaint
+  - Filing of Amended Complaint
+  - Hearing
+money: []
+intentions:
+  - To sustain Demurrer and grant Motion to Strike
+facts:
+  - Plaintiff's Complaint filed on February 3, 2023
+  - Defendant's Demurrer and Motion to Strike filed on May 29, 2024
+  - Plaintiff's First Amended Complaint filed on July 18, 2024
+disputes:
+  - Plaintiff's Complaint validity
+acts:
+  - Filing of pleadings
+agreements: []
+laws:
+  - Code of Civil Procedure (CCP)
+  - CCP § 128
+  - CCP § 472, subdivision (a)
+case_citations: []
+statutes:
+  - CCP § 128
+  - CCP § 472, subdivision (a)
+roles:
+  - Judge
+  - Plaintiff (Michele Temm and Peyton Temm)
+  - Defendant (Andriy Ishuninov)
+significant_statements:
+  - The Demurrer and Motion to Strike are taken off calendar as moot.
+  - Plaintiffs timely filed a First Amended Complaint, making the Demurrer moot.
+```
+
+And here is the English-text summary:
+
+The tentative ruling from Judge [Judge's Name] is that the Demurrer and Motion to Strike filed by Defendant Andriy Ishuninov are taken off calendar as moot. The motion was filed on May 29, 2024, in response to the Plaintiff's Complaint filed on February 3, 2023. However, the Plaintiff timely filed a First Amended Complaint on July 18, 2024, which rendered the Demurrer moot. The Judge relied on Code of Civil Procedure (CCP) sections 128 and 472, subdivision (a), which provide that a party is entitled to amend its pleading at least once without leave of the court before the answer, demurrer, or motion to strike is filed. The Judge ordered the moving party to give notice of the ruling.

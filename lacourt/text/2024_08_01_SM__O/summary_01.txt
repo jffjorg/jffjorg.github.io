@@ -1,0 +1,69 @@
+Here is the summary in YAML format:
+
+```
+Case Number: 24SMCV01585
+Plaintiff's Name: Aspiration Partners, Inc.
+Defendant's Name: Socure, Inc.
+People-Names:
+  - None
+Company-Names:
+  - Aspiration Partners, Inc.
+  - Socure, Inc.
+Places:
+  - New York
+  - California
+  - Los Angeles
+Dates:
+  - 11-2-23
+  - 4-3-24
+  - 11-15-18
+  - 12-17-21
+Events:
+  - Motion to Dismiss for Inconvenient Forum
+  - Forum Selection Clause
+  - Contractual Agreement
+  - Litigation
+Money:
+  - None
+Intentions:
+  - Enforcement of Forum Selection Clause
+  - Dismissal of Action
+Facts:
+  - Defendant Socure, Inc. filed a motion to dismiss the action for inconvenient forum
+  - The parties agreed to a forum selection clause in the 11-15-18 Software License Agreement
+  - The clause designates New York as the exclusive forum for resolving disputes
+  - Plaintiff Aspiration Partners, Inc. argues that the forum selection clause is not broad enough to cover tort claims
+  - The Court agrees with Socure that the forum selection clause encompasses all of API's claims
+Disputes:
+  - Dispute over forum selection clause
+  - Dispute over applicability of forum selection clause to tort claims
+Acts:
+  - Execution of Software License Agreement
+  - Execution of Amendment to Software License Agreement
+  - Filing of motion to dismiss for inconvenient forum
+Agreements:
+  - Software License Agreement
+  - Amendment to Software License Agreement
+Laws:
+  - Code of Civil Procedure sections 410.30 and 418.10
+  - California Civil Code section 1717
+Case Citations:
+  - Berg v. MTC Electronics Technologies (1998)
+  - Quanta Computer Inc. v. Japan Communications Inc. (2018)
+  - Korman v. Princess Cruise Lines, Ltd. (2019)
+  - Cal-State Business Products & Services, Inc. v. Ricoh (1993)
+  - Valentino & Smith, Inc. v. Superior Court (1976)
+  - Verdugo v. Alliantgroup, L.P. (2015)
+  - Intershop Communications v. Superior Court (2002)
+Roles:
+  - Judge: [Name]
+  - Plaintiff: Aspiration Partners, Inc.
+  - Defendant: Socure, Inc.
+Significant Statements:
+  - "The existence of a contractual forum selection clause requires a court to decline jurisdiction under Code of Civil Procedure section 410.30, absent a showing that enforcement would be unfair or unreasonable."
+  - "A forum selection clause is reasonable, and, therefore, enforceable, if it: (1) 'has a logical connection with at least one of the parties or their transaction,' and (2) the selected forum is not 'unavailable to [the plaintiff] or unable to accomplish substantial justice.'"
+```
+
+And here is a summary of the judge's tentative ruling in English text:
+
+The judge has tentatively ruled that Defendant Socure, Inc.'s motion to dismiss the action for inconvenient forum is granted. The parties had agreed to a forum selection clause in the 11-15-18 Software License Agreement, which designates New York as the exclusive forum for resolving disputes. The judge finds that the forum selection clause is reasonable and enforceable, and that it encompasses all of Plaintiff Aspiration Partners, Inc.'s claims, including tort claims. The judge has rejected Plaintiff's arguments that the forum selection clause is not broad enough to cover tort claims and that it would be unfair to require Plaintiff to litigate the breach of contract cause of action in New York, while litigating the tort causes of action in California. The judge has also rejected Plaintiff's argument that the enforcement of the forum selection clause would diminish the right to reciprocal attorneys' fees under California Civil Code section 1717.

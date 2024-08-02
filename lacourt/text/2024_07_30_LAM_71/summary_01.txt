@@ -1,0 +1,94 @@
+Here is the summary in YAML format:
+
+```
+case_number: 21STCP03351
+hearing_date: 2024-07-30
+dept: 71
+judge: (name not specified)
+petitioners:
+  - Jesse Rios
+  - Lydia Rodriguez
+respondent: Liberty Mutual Insurance
+people_names:
+  - Jesse Rios
+  - Lydia Rodriguez
+  - Joseph M. Kar
+  - Darrell A. Forgey
+  - Brown (driver of other vehicle)
+company_names:
+  - Liberty Mutual Insurance
+places:
+  - West Los Angeles
+  - Sawtelle Avenue
+dates:
+  - 2021-01-22
+  - 2021-10-14
+  - 2022-11-28
+  - 2024-02-14
+  - 2024-02-15
+  - 2024-05-23
+  - 2024-06-10
+  - 2024-06-24
+  - 2024-06-27
+  - 2024-07-01
+  - 2024-07-30
+events:
+  - Motor vehicle accident
+  - Bifurcated arbitration
+  - First phase of arbitration (liability)
+  - Second phase of arbitration (damages)
+money:
+  - $250,000 (UIM benefits)
+  - $235,000 (available to each Petitioner)
+  - $100,000 (Rodriguez's claimed damages)
+  - $75,000 (Rios's claimed damages)
+  - $15,000 (paid to each by the motorist, Brown)
+  - $53,281.66 (costs)
+  - $42,000 (attorneys' fees)
+  - $45,000 (Rodriguez's awarded damages)
+  - $60,000 (Rios's awarded damages)
+intentions:
+  - Petitioners seek to confirm the arbitration award and enter judgment against Respondent
+  - Respondent objects to the petition
+facts:
+  - Rodriguez and Rios were involved in a motor vehicle accident on January 22, 2021
+  - The accident was caused by the fault of both parties
+  - The Arbitrator determined the motorist, Brown, was 60% responsible, Rodriguez was 40% responsible, and Rios bore no responsibility
+  - Petitioners sought damages for their alleged injuries
+disputes:
+  - Petitioners' petition to confirm the arbitration award
+  - Respondent's objections to the petition
+acts:
+  - Arbitration award
+  - Petition to confirm the arbitration award
+  - Respondent's opposition to the petition
+agreements:
+  - Arbitration agreement between the parties (Insurance policy)
+laws:
+  - California Code of Civil Procedure (C.C.P.) §1286.2
+  - California Code of Civil Procedure (C.C.P.) §998
+  - California Code of Civil Procedure (C.C.P.) §1021
+  - California Insurance Code (Ins. Code) §11580.2
+  - California Insurance Code (Ins. Code) §11580.26(b)
+  - California Civil Code (C.C.) §3287
+  - California Civil Code (C.C.) §3291
+case_citations:
+  - Toal v. Tardif (2009) 178 Cal.App.4th 1208
+  - Moncharsh v. Heily & Blase (1992) 3 Cal.4th 1
+  - Morris v. Zuckerman (1968) 69 Cal.2d 686
+  - Glassman v. Safeco Insurance Co. of America (2023) 90 Cal.App.5th 1281
+  - Sagadin v. Ripper (1985) 175 Cal.App.3d 1141
+  - Pilimai v. Farmers Insurance Exchange Co. (2006) 39 Cal.4th 133
+  - Storm v. Standard Fire Insurance Co. (2020) 52 Cal.App.5th 636
+  - Austin v. Allstate Insurance Co. (1993) 16 Cal.App.4th 1812
+roles:
+  - Judge
+  - Petitioners (Jesse Rios and Lydia Rodriguez)
+  - Respondent (Liberty Mutual Insurance)
+significant_statements:
+  - The party seeking judicial enforcement of a private arbitration award has the burden of proving the award as well as the existence of a valid arbitration agreement.
+  - Courts cannot pass upon the validity of the arbitrator's reasoning and cannot substitute its judgment for that of the arbitrator.
+  - The sufficiency of the evidence is immaterial in reviewing an arbitration award.
+```
+
+Note that some information, such as the judge's name, is not present in the text and therefore is not included in the YAML summary.

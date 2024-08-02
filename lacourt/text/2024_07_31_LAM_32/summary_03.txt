@@ -1,0 +1,59 @@
+Here is the summary in YAML format:
+
+```
+case_number: 24STCV09555
+plaintiff: Lincoln Alline
+defendant: Windsor Gardens Convalescent Hospital, Inc., et al.
+people_names:
+  - Lincoln Alline
+  - Kathryn Higgins
+company_names:
+  - Windsor Gardens Convalescent Hospital, Inc.
+  - SNF Management, Inc.
+  - Antelope Holdings II, LLC
+  - Antelope Holdings III, LLC
+places:
+  - California
+dates:
+  - April 16, 2024
+  - May 13, 2024
+  - July 31, 2024
+events:
+  - Plaintiff filed a negligence, elder abuse, and Patient Bill of Rights violation lawsuit
+  - Plaintiff filed a motion for trial preference
+money: $0
+intentions:
+  - Plaintiff seeks a trial preference due to age and health conditions
+facts:
+  - Plaintiff is 91 years old
+  - Plaintiff suffers from multiple debilitating conditions, including Parkinson's disease
+  - Plaintiff's health is such that a trial preference is necessary to prevent prejudicing his interest in the litigation
+disputes:
+  - Plaintiff's motion for trial preference
+acts:
+  - Plaintiff filed a lawsuit
+  - Plaintiff filed a motion for trial preference
+agreements: None
+laws:
+  - California Code of Civil Procedure, Section 36(a)
+  - California Code of Civil Procedure, Section 36(f)
+  - California Code of Civil Procedure, Section 36.5
+case_citations:
+  - Swaithes v. Superior Court (1989) 212 Cal.App.3d 1082
+  - Fox v. Superior Court (2018) 21 Cal.App.5th 529
+statutes:
+  - California Code of Civil Procedure, Section 36(a)
+  - California Code of Civil Procedure, Section 36(f)
+  - California Code of Civil Procedure, Section 36.5
+roles:
+  - Judge: presiding over the case
+  - Plaintiff: seeking a trial preference
+  - Defendant: opposing the plaintiff's motion
+significant_statements:
+  - "The issue under [section 36] subdivision (a) is not whether an elderly litigant might die before trial or become so disabled that she might as well be absent when trial is called." (Fox v. Superior Court (2018) 21 Cal.App.5th 529, 534)
+  - "Elderly litigants are clearly entitled to have their case effectively tried and to the opportunity to enjoy during their own lifetime any benefits received." (Swaithes v. Superior Court (1989) 212 Cal.App.3d 1082, 1086)
+```
+
+English-text summary of the judge's tentative ruling:
+
+The judge is considering the plaintiff's motion for trial preference due to his age and health conditions. The plaintiff, Lincoln Alline, is 91 years old and suffers from multiple debilitating conditions, including Parkinson's disease. The judge notes that the issue is not whether the plaintiff might die before trial or become so disabled that he might as well be absent when trial is called, but rather whether the plaintiff's health is such that a trial preference is necessary to prevent prejudicing his interest in the litigation. The judge concludes that the plaintiff has made a sufficient showing to support his motion, and therefore grants the motion. The judge sets the matter for trial not more than 120 days from the date of the order.

@@ -1,0 +1,51 @@
+Here is the summary in YAML format:
+
+```
+case_number: 22STCV32689
+case_name: Sergio Camacho O, et al. vs William Sydney "Trey" Prevost, III
+moving_party: Defendant William Sydney "Trey" Prevost
+opposing_party: Plaintiffs Sergio Camacho, Phillip Saada, Esther Cohen, on behalf of and as Administrator for the Estate of Jack Cohen, and Ralph Cohen on behalf of and as Representative of the Estate of Jack Cohen, and Tower 26, Inc.
+trial_date: Not Set
+proof_of_service: OK
+
+proceeding: Demurrer to First Amended Complaint
+opposition: July 17, 2024
+reply: July 23, 2024
+
+tentative_ruling: Defendant's demurrer is sustained with leave to amend
+
+background:
+  - On October 3, 2022, plaintiffs filed a complaint against the defendant.
+  - On April 9, 2024, plaintiffs filed the operative First Amended Complaint (FAC) against the defendant.
+  - The FAC alleges five causes of action: breach of fiduciary duty, fraud, conversion, unjust enrichment, and breach of contract.
+
+demurrer:
+  - Defendant demurs to all five causes of action in the FAC.
+  - Defendant argues that plaintiffs lack proper standing to bring claims for breach of fiduciary duty, conversion, and breach of contract.
+  - Defendant argues that plaintiffs failed to plead their claim for fraud with proper specificity and that plaintiffs' claims for breach of fiduciary duty, fraud, conversion, and unjust enrichment are barred by the statute of limitations.
+
+causes_of_action:
+  - Breach of Fiduciary Duty
+  - Fraud
+  - Conversion
+  - Unjust Enrichment
+  - Breach of Contract
+
+elements:
+  - Fiduciary duty: existence of a fiduciary relationship, breach, and damage proximately caused by that breach.
+  - Fraud: misrepresentation, knowledge of falsity, intent to defraud, justifiable reliance, and resulting damage.
+  - Conversion: plaintiff's ownership or right to possession of personal property, defendant's disposition of the property inconsistent with plaintiff's rights, and resulting damage.
+  - Unjust Enrichment: plaintiff must plead facts showing that the defendant obtained a benefit from the plaintiff by fraud, duress, conversion, or similar conduct.
+  - Breach of Contract: existence of the contract, plaintiff's performance or excuse for nonperformance, defendant's breach, and resulting damages to the plaintiff.
+
+statute_of_limitations:
+  - Defendant contends that the statute of limitations bars some or all of the alleged conversions because they occurred prior to the fall of 2017.
+  - The FAC alleges that marijuana cultivation began in the fall of 2019 and that plaintiff Camacho did not uncover defendant's conduct until March 2020.
+
+disputes:
+  - Plaintiff Camacho's standing to bring claims for breach of fiduciary duty, conversion, and breach of contract.
+  - Plaintiff Saada and Cohen's standing to bring claims for conversion and unjust enrichment.
+  - Whether plaintiffs should have known about defendant's conduct prior to the fall of 2017.
+
+acts:
+  - Defendant's alleged breach

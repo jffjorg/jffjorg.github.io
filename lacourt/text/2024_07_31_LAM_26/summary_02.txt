@@ -1,0 +1,71 @@
+Here is the summary in YAML format:
+
+```
+case_number: 23STCV06306
+hearing_date: July 31, 2024
+dept: 26
+judge: Hon. Rolf Treu
+parties:
+  - Plaintiff: Nestor Manrique
+  - Defendant: Peggi Carbonel
+  - Defendant: Catherine Palomino
+  - Defendant: Mildred Barberena
+people:
+  - Nestor Manrique
+  - Peggi Carbonel
+  - Catherine Palomino
+  - Mildred Barberena
+companies:
+  - None
+places:
+  - None
+dates:
+  - March 22, 2023
+  - November 27, 2023
+  - January 8, 2024
+events:
+  - Filing of complaint
+  - Filing of motion for reconsideration
+  - Filing of motion to set aside default
+money:
+  - Damages
+  - Prejudgment interest
+intentions:
+  - Plaintiff seeks to cancel transfers of real property and vehicle
+  - Defendant seeks to set aside default
+facts:
+  - Plaintiff filed complaint on March 22, 2023
+  - Defendant failed to file answer
+  - Plaintiff moved for default judgment on October 24, 2023
+  - Default judgment denied on November 20, 2023
+disputes:
+  - Plaintiff's motion for reconsideration
+  - Defendant's motion to set aside default
+acts:
+  - Filing of complaint
+  - Filing of motion for reconsideration
+  - Filing of motion to set aside default
+agreements:
+  - None
+laws:
+  - California Code of Civil Procedure sections 1008, 473, 473.5, 585
+  - California Corporations Code sections 25401, 25501
+statutes:
+  - Code of Civil Procedure sections 1008, 473, 473.5, 585
+  - Corporations Code sections 25401, 25501
+roles:
+  - Judge: Hon. Rolf Treu
+  - Plaintiff: Nestor Manrique
+  - Defendant: Peggi Carbonel
+significant_statements:
+  - The Court DENIES Plaintiff's motion for reconsideration.
+  - The Court DENIES Defendant's motion to set aside default.
+```
+
+And here is a summary of the judge's tentative ruling in English text:
+
+The judge has issued a tentative ruling on the motions for reconsideration and to set aside default. The plaintiff, Nestor Manrique, moves to reconsider the court's denial of his request for default judgment, which was denied on November 20, 2023, because he failed to complete a CIV-100 form and did not provide allegations of damages. The judge finds that the court's order was not based on legal error and that the plaintiff has not presented new facts or evidence that would justify reconsideration. Therefore, the motion for reconsideration is denied.
+
+The defendant, Peggi Carbonel, moves to set aside the default entered against her, alleging that she did not receive actual notice of the action and that her failure to answer was due to excusable neglect. However, the judge finds that the defendant did not provide a declaration attesting to her lack of notice and did not argue that she was not aware of the action. Therefore, the motion to set aside default is denied.
+
+The judge concludes that the motions for reconsideration and to set aside default are denied, and the case will proceed as scheduled.

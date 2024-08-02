@@ -1,0 +1,78 @@
+Here is the summary in YAML format:
+
+```
+case_number: 23STCV26420
+plaintiff: CIRCA 1200, LLC
+defendant: TRETYAKOV
+people_names:
+  - Richard Scott (The Molino Firm)
+  - Gabriel Tretyakov
+  - Kevin Garner
+company_names:
+  - CIRCA 1200, LLC
+  - The Molino Firm
+places:
+  - 1200 S. Figueroa St.# 3403
+  - Los Angeles
+  - CA 90015
+dates:
+  - December 30, 2023
+  - May 29, 2020
+  - April 27, 2022
+  - April 29, 2024
+  - May 8, 2024
+  - May 6, 2024
+events:
+  - Breach of contract
+  - Common counts
+  - Default judgment
+  - Entry of default
+  - Eviction
+  - Judgment on default
+  - Request for entry of default judgment
+money:
+  - $229,962.83
+  - $277,785.43
+  - $46,622.60
+  - $564.25
+  - $635.75
+intentions:
+  - Request for default judgment
+  - Entry of default judgment
+facts:
+  - Plaintiff filed a complaint against defendant
+  - Defendant failed to answer the complaint
+  - Plaintiff filed a request for entry of default judgment
+  - Plaintiff provided declarations and evidence in support of the judgment
+disputes:
+  - Plaintiff seeks default judgment against defendant for breach of contract and common counts
+acts:
+  - Plaintiff filed a complaint against defendant
+  - Defendant failed to answer the complaint
+  - Plaintiff filed a request for entry of default judgment
+agreements:
+  - Residential lease agreement
+laws:
+  - CCP § 585
+  - CRC Rule 3.1800
+  - Los Angeles County Superior Court Rule 3.214(a)
+case_citations:
+  - CCP § 585
+  - CRC Rule 3.1800
+  - Los Angeles County Superior Court Rule 3.214(a)
+statutes:
+  - CCP § 585
+  - CRC Rule 3.1800
+  - Los Angeles County Superior Court Rule 3.214(a)
+roles:
+  - Judge: Hon. Rolf Treu
+  - Plaintiff: Richard Scott (The Molino Firm)
+  - Defendant: Gabriel Tretyakov
+significant_statements:
+  - Plaintiff's request for default judgment is GRANTED.
+  - Plaintiff has complied with all requirements for a default judgment.
+```
+
+And here is a summary of the judge's tentative ruling in English text:
+
+The judge rules that the plaintiff, Circa 1200, LLC, is entitled to a default judgment against the defendant, Gabriel Tretyakov, in the amount of $277,785.43. This amount includes the principal sum of $229,962.83, plus interest, attorneys' fees, and costs. The plaintiff has complied with all requirements for a default judgment, including submitting a declaration and evidence in support of the judgment. The judge grants the plaintiff's request for default judgment and orders entry of default judgment against the defendant.

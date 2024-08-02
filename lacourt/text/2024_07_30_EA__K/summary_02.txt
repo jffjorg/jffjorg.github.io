@@ -1,0 +1,59 @@
+Here is the summary in YAML format:
+
+```
+case_number: 23PSCV03430
+hearing_date: July 30, 2024
+dept: K
+plaintiff: C&M Logistics Services, Inc.
+defendant: LJ Supply Chain Inc.
+people_names:
+  - Plaintiff
+  - Defendant
+company_names:
+  - C&M Logistics Services, Inc.
+  - LJ Supply Chain Inc.
+places:
+  - warehouse
+dates:
+  - February 1, 2023
+  - November 3, 2023
+  - January 9, 2024
+  - July 30, 2024
+events:
+  - Breach of Contract
+  - Common Counts
+  - Default Judgment
+money:
+  - $2,000.00
+  - $1,256.08
+intentions:
+  - Grant Plaintiff's Application for Default Judgment
+facts:
+  - Plaintiff provided Defendant with lumpers and sent invoices
+  - Defendant failed to pay invoices
+  - Plaintiff filed a complaint
+  - Defendant's default was entered
+disputes:
+  - Breach of Contract
+  - Failure to pay invoices
+acts:
+  - Providing lumpers
+  - Sending invoices
+  - Filing a complaint
+  - Entering default
+agreements:
+  - General Service Agreement
+laws:
+  - Local Rule 3.214(a)
+case_citations: []
+statutes: []
+roles:
+  - Plaintiff
+  - Defendant
+significant_statements:
+  - "Plaintiff's Application for Default Judgment is granted; however, attorney's fees are reduced from $2,000.00 to $1,256.08, pursuant to Local Rule 3.214(a)."
+```
+
+And here is the English-text summary:
+
+This tentative ruling grants Plaintiff C&M Logistics Services, Inc.'s application for default judgment against Defendant LJ Supply Chain Inc. The case arises from a breach of contract, where Defendant failed to pay invoices for temporary workers provided by Plaintiff. Despite this, the Court reduces the amount of attorney's fees from $2,000.00 to $1,256.08, in accordance with Local Rule 3.214(a). The next hearing is scheduled for July 30, 2024, to consider the Order to Show Cause Re: Default Judgment.

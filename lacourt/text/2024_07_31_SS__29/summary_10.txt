@@ -1,0 +1,55 @@
+Here is the summary in YAML format:
+
+```
+case_number: 23STCV07677
+plaintiff_name: Marco Antonio Torres
+defendant_name: MV Transportation, Inc.
+people_names:
+  - Lillian Sedaghat
+  - Marco Antonio Torres
+company_names:
+  - MV Transportation, Inc.
+places:
+  - California
+dates:
+  - April 7, 2023
+  - May 12, 2023
+  - May 9, 2024
+  - July 31, 2024
+events:
+  - Automobile accident
+  - Filing of complaint
+  - Filing of answer
+  - Filing of motion to be relieved as counsel
+money: None
+intentions:
+  - To be relieved as counsel
+facts:
+  - Plaintiff filed a complaint against defendant
+  - Defendant filed an answer
+  - Counsel filed a motion to be relieved as counsel
+disputes:
+  - None mentioned
+acts:
+  - Filing of documents
+  - Service of documents
+agreements: None mentioned
+laws:
+  - Code of Civil Procedure, § 284(b)
+  - California Rules of Professional Conduct 3-700(C)(1)
+  - California Rules of Court, rule 3.1362(a), (c), (d), (e)
+statutes:
+  - None mentioned
+roles:
+  - Plaintiff
+  - Defendant
+  - Counsel
+significant_statements:
+  - The court may order a change in counsel at any time
+  - An attorney may withdraw where conflicts arise
+  - The decision to grant or deny a motion to withdraw as counsel lies within the court's discretion
+```
+
+And here is a summary of the judge's tentative ruling in English text:
+
+The plaintiff's counsel, Lillian Sedaghat, has filed a motion to be relieved as counsel. However, the motion is denied without prejudice due to incomplete proof of service of the necessary documents on the client and defendant. The court notes that the requisite forms must be served on the client and all other parties who have appeared in the case, and that the proof of service is unclear. The motion is denied without prejudice, meaning that counsel can refile the motion with the necessary corrections.

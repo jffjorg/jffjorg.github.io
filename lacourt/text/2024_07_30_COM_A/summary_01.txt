@@ -1,0 +1,87 @@
+Here is the summary in YAML format:
+
+```
+case_number: 20STCV00967
+plaintiff_names:
+  - Salvardor Garcia
+  - Ana Maria Garcia
+  - Ana Morales
+defendant_names:
+  - County of Los Angeles
+  - Brian Ciscel
+  - Christian Hernandez
+people_names:
+  - Salvardor Garcia
+  - Ana Maria Garcia
+  - Ana Morales
+  - Brian Ciscel
+  - Christian Hernandez
+  - Thomas Long
+  - Michael Shultz
+  - Trudy Desbiens
+  - Nicole Stauss
+  - Rebecca Vant
+company_names:
+  - Sedgwick
+places:
+  - Los Angeles
+  - Sacramento
+dates:
+  - January 9, 2020
+  - May 21, 2019
+  - July 29, 2021
+  - November 17, 2022
+  - August 12, 2021
+  - December 1, 2020
+  - January 6, 2023
+  - June 21, 2024
+  - July 30, 2024
+  - August 23, 2024
+events:
+  - Filing of complaint
+  - Granting of Pitchess motion
+  - Discovery of personnel and administrative records
+  - Failure to comply with deposition subpoena
+  - Service of subpoena on Sedgwick
+  - Objection to subpoena
+  - Hearing on contempt
+money:
+  - None mentioned
+intentions:
+  - To obtain production of business records
+facts:
+  - Sedgwick failed to comply with deposition subpoena
+  - Plaintiffs served subpoena on Sedgwick's authorized process server
+  - Sedgwick contends subpoena is defective
+disputes:
+  - Sedgwick's failure to comply with subpoena
+  - Validity of subpoena
+acts:
+  - Filing of motion for contempt
+  - Service of subpoena
+  - Objection to subpoena
+  - Failure to comply with subpoena
+agreements:
+  - None mentioned
+laws:
+  - California Code of Civil Procedure § 1987.1
+  - California Civil Code § 52.1
+case_citations:
+  - None mentioned
+statutes:
+  - California Code of Civil Procedure § 1987.1
+  - California Civil Code § 52.1
+roles:
+  - Judge
+  - Plaintiff
+  - Defendant
+  - Witness
+  - Authorized process server
+significant_statements:
+  - The court can compel a witness' compliance with a subpoena for the production of documents.
+  - Plaintiffs' motion is GRANTED.
+```
+
+And here is the English-text summary:
+
+The Honorable Judge has issued a tentative ruling granting the plaintiff's motion for an order to show cause re contempt against third-party witness Sedgwick for failure to comply with a deposition subpoena for production of worker's compensation records. The case involves the death of Pablo Garcia, who was fatally shot by defendants on May 21, 2019. The plaintiffs filed their complaint on January 9, 2020, and have been seeking discovery of records related to the defendants' personnel and administrative records. The court has previously ordered Sedgwick to produce the records, but Sedgwick has failed to do so despite multiple attempts by the plaintiffs to serve the subpoena. The court has determined that the subpoena is valid and that Sedgwick's failure to comply is improper. The court has set an order to show cause re contempt for August 23, 2024, and has ordered Sedgwick to submit briefing explaining why it will not comply with the lawfully served subpoenas 10 days before the contempt hearing.

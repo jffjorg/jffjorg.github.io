@@ -1,0 +1,78 @@
+Here is the summary of the judge's tentative ruling in YAML format:
+
+```
+case_number: 23CHCV01444
+plaintiffs: Juan Mendoza and Elizabeth Iniguez Marquez
+defendants: FCA USA LLC, San Fernando Motor Company, and Does 1 through 10
+people:
+  - Juan Mendoza
+  - Elizabeth Iniguez Marquez
+  - FCA USA LLC
+  - San Fernando Motor Company
+company:
+  - FCA USA LLC
+  - San Fernando Motor Company
+places:
+  - California
+  - Los Angeles
+dates:
+  - March 12, 2022
+  - May 16, 2023
+  - June 21, 2023
+  - January 8, 2024
+  - January 19, 2024
+  - March 6, 2024
+  - July 10, 2024
+  - July 16, 2024
+events:
+  - Filing of complaint
+  - Filing of answers
+  - Filing of motion to compel further responses
+  - Filing of opposition
+  - Filing of reply
+money:
+  - $2,620.00 (amount of monetary sanctions requested)
+intentions:
+  - To compel FCA to produce supplemental responses to special interrogatories
+facts:
+  - The plaintiffs purchased a 2020 Jeep Gladiator with VIN: 1C6JJTEG1LL208648
+  - The plaintiffs alleged defects in the vehicle
+  - FCA manufactured the vehicle
+disputes:
+  - Over the relevance and scope of the special interrogatories
+acts:
+  - FCA's failure to produce supplemental responses to special interrogatories
+agreements:
+  - None mentioned
+laws:
+  - Song-Beverly Consumer Warranty Act (SBA)
+  - California Civil Code section 2030.300
+  - California Rules of Court rule 3.1345
+  - Code of Civil Procedure section 1010.6
+  - Code of Civil Procedure section 2016.040
+  - Code of Civil Procedure section 2030.300
+case_citations:
+  - Sexton v. Superior Court (1997) 58 Cal.App.4th 1403
+  - Golf & Tennis Pro Shop, Inc. v. Superior Court (2022) 84 Cal.App.5th 127
+  - Williams v. Superior Court (2017) 3 Cal.5th 531
+  - West Pico Furniture Co. v. Superior Court (1961) 56 Cal.2d 407
+  - Jensen v. BMW of North America, LLC (S.D. Cal. 2019) 328 F.R.D. 557
+  - Donlen v. Ford Motor Co. (2013) 217 Cal.App.4th 138
+roles:
+  - Judge
+  - Plaintiff
+  - Defendant
+  - Moving party
+  - Responding party
+significant_statements:
+  - The motion is DENIED.
+  - The request for monetary sanctions is DENIED.
+```
+
+Here is a summary of the judge's tentative ruling in English text:
+
+The judge has denied the motion to compel further responses to special interrogatories filed by the plaintiffs. The motion sought to compel FCA to produce supplemental responses to special interrogatories Nos. 45-48, which seek information on FCA's anticipated range for repairs per thousand vehicles sold, as well as the top five symptoms and components with the highest repairs per thousand for 2020 Jeep Gladiator vehicles.
+
+The judge found that the interrogatories were irrelevant and overbroad, and that FCA's objections were sustained on these grounds. The judge also found that FCA's supplemental responses were sufficient, as they stated that FCA does not track R/1000 data and will conduct a diligent search and reasonably inquiry to produce any responsive documents found related to warranty claims and failure rates data.
+
+The judge denied the motion to compel further responses and the request for monetary sanctions, as the moving party did not establish good cause for the relief sought.
