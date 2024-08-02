@@ -1,0 +1,109 @@
+Here is a summary of the judge's tentative ruling in YAML format:
+
+```
+case_number: 20STCV11485
+hearing_date: 2024-08-01
+dept: 27
+judge: Hon. Lee S. Arian
+```
+
+```
+people_names:
+  - Kelly Duangrudeeswat
+  - Rodney Jones
+```
+
+```
+company_names:
+  - Long Beach Transit
+```
+
+```
+places:
+  - Long Beach
+```
+
+```
+dates:
+  - 2020-03-23
+  - 2022-10-07
+```
+
+```
+events:
+  - Bus accident
+```
+
+```
+money:
+  - None
+```
+
+```
+intentions:
+  - To grant summary judgment to the defendants
+```
+
+```
+facts:
+  - The plaintiff was injured in a bus accident
+  - The plaintiff claims that the bus hit her from behind
+  - The defendants claim that the bus did not make contact with the plaintiff
+  - The plaintiff's expert declarations are speculative and contradictory to her prior discovery responses
+```
+
+```
+disputes:
+  - The existence of triable issues of material fact
+  - The causation of the plaintiff's injuries
+  - The defendant's alleged negligence
+```
+
+```
+acts:
+  - The plaintiff filed a lawsuit against the defendants
+  - The defendants moved for summary judgment
+  - The plaintiff's expert declarations were deemed speculative and contradictory
+```
+
+```
+agreements:
+  - The parties' prior discovery responses
+  - The expert declarations
+```
+
+```
+laws:
+  - California Code of Civil Procedure, Section 437c
+  - California Civil Jury Instructions, Section 100
+```
+
+```
+case_citations:
+  - Hinesley v. Oakshade Town Center (2005)
+  - Scalf v. D. B. Log Homes, Inc. (2005)
+  - Aguilar v. Atlantic Richfield Co. (2001)
+  - Code Civ. Proc., § 437c, subd. (p)(2)
+```
+
+```
+statutes:
+  - California Civil Procedure Code, Section 437c
+```
+
+```
+roles:
+  - Judge: Hon. Lee S. Arian
+  - Plaintiff: Kelly Duangrudeeswat
+  - Defendant: Rodney Jones
+  - Defendant: Long Beach Transit
+```
+
+```
+significant_statements:
+  - The court finds that the plaintiff's expert declarations are speculative and contradictory to her prior discovery responses
+  - The court grants summary judgment to the defendants
+  - The court finds that the plaintiff did not provide sufficient evidence to raise a triable issue of fact
+```
+
+Please note that this summary is based on the provided text and may not be exhaustive or accurate.

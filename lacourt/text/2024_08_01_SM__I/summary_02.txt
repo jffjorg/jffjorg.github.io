@@ -1,0 +1,85 @@
+Here is the summary in YAML format:
+
+```
+case_number: 23SMCV03186
+hearing_date: 2024-08-01
+dept: I
+
+people:
+  - Plaintiff
+  - Defendant (Fisher)
+  - Washington (defendant in settlement)
+
+companies:
+  - Plaintiff's counsel (firm)
+
+places:
+  - Court
+
+dates:
+  - Unknown (date of dismissal)
+  - Unknown (date of settlement with Washington)
+  - 2024-08-01 (hearing date)
+
+events:
+  - Dismissal of plaintiff's case
+  - Settlement with Washington
+  - Attempt to vacate dismissal as to Fisher
+  - Opposition by Fisher to motion to vacate
+
+money:
+  - Fees and costs incurred by defense counsel
+  - Potential payment obligation for plaintiff or counsel
+
+intentions:
+  - Plaintiff: to set aside dismissal and continue case
+  - Defendant: to deny motion to vacate and require payment
+
+facts:
+  - Plaintiff sued different defendants, including Washington and Fisher
+  - Plaintiff reached settlement with Washington
+  - Plaintiff's counsel intended to dismiss Washington, but dismissed everyone instead
+  - Plaintiff discovered error and sought to vacate dismissal as to Fisher
+  - Motion to vacate was initially denied on an ex parte basis
+  - Briefing is now complete
+
+disputes:
+  - Dispute over whether dismissal was an error or a deliberate decision
+  - Dispute over whether plaintiff unreasonably delayed
+
+acts:
+  - Plaintiff's counsel dismissed case instead of intended defendant
+  - Defendant did not respond to outstanding discovery
+  - Plaintiff did not respond to discovery
+
+agreements:
+  - Settlement between plaintiff and Washington
+
+laws:
+  - CCP section 473(b) (default judgment)
+  - Unknown (rule regarding unreasonable delay)
+
+case_citations:
+  - Unknown
+
+statutes:
+  - CCP section 473(b)
+
+roles:
+  - Judge
+  - Plaintiff
+  - Plaintiff's counsel
+  - Defendant
+  - Fisher
+
+significant_statements:
+  - "The court must credit plaintiff here."
+  - "This smacks much more of error than a nefarious plot of some kind."
+  - "Defending the case is not the kind of cognizable prejudice that will defeat this kind of motion."
+  - "The court believes that the dismissal was the result of an honest error."
+  - "The court believes that the ends of justice are better served by not imposing any payment obligation on plaintiff or plaintiff's counsel."
+```
+
+Summary in English text:
+
+This tentative ruling addresses a motion to set aside a dismissal of a case. The plaintiff asserts that they intended to dismiss one defendant (Washington) due to a settlement, but instead dismissed everyone, including the remaining defendant (Fisher). The court finds that the dismissal was likely an honest error, rather than a deliberate decision. The court grants the motion, reinstating the case to the active docket. The court will discuss with counsel a date for a case management conference. The court also orders the plaintiff to pay any fees and costs incurred by defense counsel as a result of the erroneous dismissal, but notes that no such fees or costs have been identified.

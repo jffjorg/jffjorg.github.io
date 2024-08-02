@@ -1,0 +1,71 @@
+Here is the summary in YAML format:
+
+```
+Case Number: 24SMCV01585
+Case Name: Aspiration Partners, Inc. v. Socure Inc., et al.
+Plaintiff's Name: Aspiration Partners, Inc.
+Defendant's Name: Socure Inc.
+People: Taketa
+Company: Socure Inc., Aspiration Partners, Inc.
+Places: New York, California, Los Angeles, Hamburg
+Dates:
+	- 4-3-24 (Complaint Filed)
+	- 11-2-23 (Hearing Date)
+	- 11-15-18 (Software License Agreement)
+	- 12-17-21 (Amendment No. 1 to the SLA)
+Events:
+	- Motion to Dismiss for Inconvenient Forum
+	- Enforcement of Forum Selection Clause
+Money:
+	- None mentioned
+Intentions:
+	- Defendant Socure Inc. seeks to dismiss the action based on the forum selection clause
+	- Plaintiff Aspiration Partners, Inc. opposes the motion
+Facts:
+	- The parties agreed to a forum selection clause in the 11-15-18 Software License Agreement
+	- The clause specifies that any disputes arising out of the agreement must be brought exclusively in the federal or state courts having jurisdiction in New York, New York
+	- The 12-17-21 Amendment No. 1 to the SLA incorporated the forum selection provision from the SLA
+Disputes:
+	- Whether the forum selection clause is enforceable
+	- Whether the clause covers all of API's claims, including tort claims
+Acts:
+	- Enforcement of the forum selection clause
+	- Litigation of the action in California or New York
+Agreements:
+	- 11-15-18 Software License Agreement
+	- 12-17-21 Amendment No. 1 to the SLA
+Laws:
+	- California Code of Civil Procedure sections 410.30 and 418.10
+	- California Commercial Code section 1717
+	- Federal and state court jurisdiction laws
+Case Citations:
+	- Berg v. MTC Electronics Technologies (1998)
+	- Quanta Computer Inc. v. Japan Communications Inc. (2018)
+	- Furda v. Superior Court (1984)
+	- Korman v. Princess Cruise Lines, Ltd. (2019)
+	- Cal-State Business Products & Services, Inc. v. Ricoh (1993)
+	- Valentino & Smith, Inc. v. Superior Court (1976)
+	- Verdugo v. Alliantgroup, L.P. (2015)
+	- Intershop Communications v. Superior Court (2002)
+Statutes:
+	- California Code of Civil Procedure sections 410.30 and 418.10
+ Roles:
+	- Defendant Socure Inc.
+	- Plaintiff Aspiration Partners, Inc.
+Significant Statements:
+	- The forum selection clause is enforceable and covers all of API's claims
+	- The selected forum of New York has a logical connection with Socure because of its principle place of business
+	- The parties selected New York to apply by agreeing to the SLA and the Amendment which incorporated the SLA forum selection clause
+	- The court agrees with Socure that the forum selection clause is reasonable and enforceable
+	- The court grants the motion to dismiss for inconvenient forum
+```
+
+And here is a summary of the judge's tentative ruling in English text:
+
+The defendant, Socure Inc., has moved to dismiss the action against it based on the forum selection clause in the 11-15-18 Software License Agreement (SLA). The clause requires that any disputes arising out of the agreement be brought exclusively in the federal or state courts having jurisdiction in New York, New York.
+
+The court finds that the forum selection clause is enforceable and covers all of the plaintiff's claims, including tort claims for fraudulent inducement and negligent misrepresentation. The court also finds that the selected forum of New York has a logical connection with Socure because of its principle place of business.
+
+The court rejects the plaintiff's argument that the forum selection clause is unreasonable and unfair because it would require it to litigate the breach of contract cause of action in New York and the tort causes of action in California. The court also finds that the plaintiff's argument that it would lose its right to reciprocal attorneys' fees under California Civil Code § 1717 is unfounded.
+
+Therefore, the court grants the motion to dismiss for inconvenient forum and dismisses the action.

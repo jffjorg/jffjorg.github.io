@@ -1,0 +1,67 @@
+Here is the summary in YAML format:
+
+```
+Case Number: 23SMCV04596
+Plaintiff's Name: 
+Defendant's Name: 601 Fremont
+People-Names:
+  - RMD (manager of defendant)
+Company-Names:
+  - 601 Fremont (defendant LLC)
+  - RMD (manager of defendant LLC)
+Places:
+  - California
+  - Nevada
+Dates:
+  - August 1, 2024 (Hearing Date)
+  - (Contract date)
+  - (Operating Agreement date)
+Events:
+  - Motion to quash
+  - Contract signing
+  - Operating Agreement signing
+Money:
+  - $25,000 (Operating Agreement limit)
+Intentions:
+  - Defendant's intention to challenge jurisdiction
+  - Plaintiff's intention to enforce jurisdiction
+Facts:
+  - Defendant is an LLC organized in Nevada
+  - Defendant has no meaningful contacts with California
+  - Contract contains consent to jurisdiction clause
+  - Operating Agreement has section 7.5 that allows third parties to rely on manager's apparent authority
+Disputes:
+  - Defendant disputes jurisdiction due to lack of contacts with California
+  - Defendant disputes RMD's authority to sign the contract
+Acts:
+  - Defendant signed the contract through RMD
+  - Plaintiff relied on RMD's apparent authority to sign the contract
+Agreements:
+  - Consent to jurisdiction clause in the contract
+  - Operating Agreement's section 7.5
+Laws:
+  - California law
+  - LLC law
+Case Citations:
+  - Muckle v. Superior Court (2002) 102 Cal.App.4th 218
+  - J.L. v. Children’s Institute, Inc. (2009) 177 Cal.App.4th 388
+  - Van Den Eikhof v. Hocker (1978) 87 Cal.App.3d 900
+Statutes:
+  - (not specified)
+Roles:
+  - Judge
+  - Plaintiff
+  - Defendant
+  - RMD (manager of defendant LLC)
+Significant Statements:
+  - "This is a speaking motion and evidence is appropriate."
+  - "The court will assume for purposes of this motion that there was no actual authority."
+  - "But there still seems to be ostensible authority."
+  - "The principal must have done something to cloak the agent with apparent authority for the doctrine to apply."
+  - "The motion is therefore DENIED."
+  - "The court will, however, STAY the action for 15 days."
+```
+
+And here is the English-text summary:
+
+The Judge's tentative ruling denies the defendant's motion to quash the jurisdiction of the court. The defendant, an LLC organized in Nevada, argues that it has no meaningful contacts with California and therefore the court lacks jurisdiction. However, the court finds that the defendant's manager, RMD, had ostensible authority to sign the contract, despite lacking actual authority. The Operating Agreement of the defendant LLC explicitly states that third parties can rely on the manager's apparent authority to enter into contracts without inquiring further. The court concludes that the defendant failed to present evidence to challenge jurisdiction and therefore the motion is denied. The court will stay the action for 15 days, during which time the defendant can seek writ review.

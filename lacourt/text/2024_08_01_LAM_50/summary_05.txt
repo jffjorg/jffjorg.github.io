@@ -1,0 +1,57 @@
+Here is the summary in YAML format:
+
+```
+case_number: [not specified]
+plaintiffs:
+  - name: Roey Marzwell
+  - name: Annette Marzwell
+  - name: Leo Marzwell
+defendants:
+  - name: Tony Ramirez
+  - name: Leslie Herrera
+  - name: Guillermo Garcia
+people:
+  - name: Roey Marzwell
+  - name: Annette Marzwell
+  - name: Leo Marzwell
+  - name: Tony Ramirez
+  - name: Leslie Herrera
+  - name: Guillermo Garcia
+companies: []
+places:
+  - place: February 20, 2021
+dates:
+  - date: February 20, 2021
+events:
+  - event: protest
+money: []
+intentions:
+  - intention: seek summary judgment
+facts:
+  - fact: Roey Marzwell, Annette Marzwell, and Leo Marzwell referred to collectively as "Minors"
+  - fact: Leslie Herrera and Guillermo Garcia did not participate in the protest
+  - fact: Plaintiffs did not define the acronym "LATU"
+disputes:
+  - dispute: summary judgment
+acts:
+  - act: protest
+  - act: motion
+agreements: []
+laws: []
+case_citations: []
+statutes: []
+roles:
+  - role: Judge
+  - role: Plaintiff
+  - role: Defendant
+significant_statements:
+  - "The names Roey Marzwell, Annette Marzwell, and Leo Marzwell appear to be misspelled in certain parts of the FAC."
+  - "Defendants state that 'this motion does not seek summary judgment on behalf of the remaining Defendant, Tony Ramirez.'"
+  - "Plaintiffs refer to Roey Marzwell, Annette Marzwell, and Leo Marzwell collectively as the 'Minors'."
+  - "Leslie Herrera and Guillermo Garcia state that they 'did not participate in the protest that took place on February 20, 2021'."
+  - "Plaintiffs do not appear to define the acronym 'LATU'."
+```
+
+And here is a summary of the judge's tentative ruling in English text:
+
+The judge is considering a motion for summary judgment. The judge notes that the names of the minors (Roey Marzwell, Annette Marzwell, and Leo Marzwell) appear to be misspelled in certain parts of the complaint. The defendants state that the motion does not seek summary judgment on behalf of the remaining defendant, Tony Ramirez. The judge also notes that the plaintiffs refer to the minors collectively as the "Minors" and that Leslie Herrera and Guillermo Garcia state that they did not participate in the protest on February 20, 2021. The judge further notes that the plaintiffs did not define the acronym "LATU" in their memorandum of points and authorities. The judge's tentative ruling is based on the information presented before today and will be finalized after considering additional evidence and arguments at the upcoming court hearing.

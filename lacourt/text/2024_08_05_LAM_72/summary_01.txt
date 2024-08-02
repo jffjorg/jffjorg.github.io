@@ -1,0 +1,72 @@
+Here is the summary in YAML format:
+
+```
+Case Number: 23STCV11090
+Heating Date: August 5, 2024
+Dept: 72
+Tentative Ruling:
+Judge's Name: [Not specified]
+Plaintiff: Antonio Gallegos
+Defendant: Emanate Queen of the Valley Hospital (doing business as Queen of the Valley Hospital)
+People-Named:
+  - Antonio Gallegos (Plaintiff)
+  - Emanate Queen of the Valley Hospital (Defendant)
+Company-Named:
+  - Emanate Health Medical Center
+  - Queen of the Valley Hospital
+Places:
+  - Los Angeles County
+  - California
+Dates:
+  - May 28, 2024 (judgment entered)
+  - August 6, 2024 (amended judgment due)
+Events:
+  - Trial
+  - Jury verdict
+  - Post-trial motions (motion for judgment notwithstanding the verdict, motion for new trial)
+  - Reconsideration of judgment
+Money:
+  - $1,835,688.41 (damages awarded by jury)
+  - $1,400,000 (non-economic damages)
+  - $390,000 (MICRA cap on non-economic damages)
+Intentions:
+  - Plaintiff sought to recover damages for elder abuse and professional negligence
+  - Defendant sought to reduce non-economic damages to $390,000 under MICRA
+Facts:
+  - Plaintiff alleged elder neglect and professional negligence against Defendant
+  - Jury found Defendant not liable for recklessness, malice, oppression, or fraud
+Disputes:
+  - Recklessness as an element of elder abuse claim
+Acts:
+  - Elder neglect and professional negligence
+  - Jury instructions on recklessness
+Agreements:
+  - None specified
+Laws:
+  - Welfare and Institutions Code, § 15610.57
+  - Welfare and Institutions Code, § 15657
+  - Code of Civil Procedure, § 629
+  - Code of Civil Procedure, § 659
+  - Code of Civil Procedure, § 660(c)
+  - Civil Code, § 333.2
+  - Civil Code, § 3333.2
+Case Citations:
+  - Delaney v. Baker (1999)
+  - Covenant Care, Inc. v. Superior Court (2004)
+  - Carter v. Prime Healthcare Paradise Valley, LLC (2011)
+  - Sababin v. Superior Court (2006)
+  - Conservatorship of Gregory (2000)
+  - Bickel v. Sunrise Assisted Living (2012)
+  - Stevens v. Owens-Corning Fiberglas Corp. (1996)
+  - Hauter v. Zogarts (1975)
+  - Rollenhagen v. City of Orange (1981)
+  - Brown v. Kelly Broadcasting Co. (1989)
+Roles:
+  - Plaintiff: Antonio Gallegos
+  - Defendant: Emanate Queen of the Valley Hospital
+Significant Statements:
+  - "The court, before the expiration of its power to rule on a motion for a new trial, either of its own motion, after five days' notice, or on motion of a party against whom a verdict has been rendered, shall render judgment in favor of the aggrieved party notwithstanding the verdict whenever a motion for a directed verdict for the aggrieved party should have been granted had a previous motion been made." (Code Civ. Proc. § 629)
+  - "The court may not weigh evidence, draw inferences contrary to the verdict, or assess the credibility of witnesses. The court must deny the motion if there is any substantial evidence to support the verdict." (Begnal v. Canfield & Assocs., Inc. (2000))
+```
+
+Note that some information, such as the judge's name and the specific CACI jury instructions used, is not included in the YAML summary.
