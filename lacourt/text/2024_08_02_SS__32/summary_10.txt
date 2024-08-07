@@ -1,0 +1,76 @@
+Here is the summary in YAML format:
+
+`case_number`: 22STCV15798
+`hearing_date`: August 2, 2024
+`dept`: 32
+
+`people_names`:
+  - Panditha Sarathchandra (Defendant)
+  - Farid Yadegar (Plaintiff)
+
+`company_names`:
+  - None
+
+`places`:
+  - None
+
+`dates`:
+  - March 6, 2024
+  - April 9, 2024
+  - August 2, 2024
+
+`events`:
+  - Request for Production of Documents, Set One
+  - Special Interrogatories, Set One
+  - Form Interrogatories, Set One
+  - Motion to Compel Responses
+  - Request for Monetary Sanctions
+
+`money`:
+  - $600 (requested sanction)
+  - $990 (awarded sanction)
+
+`intentions`:
+  - Defendant seeks to compel Plaintiff to serve verified responses to discovery requests
+  - Defendant seeks monetary sanctions against Plaintiff and counsel
+
+`facts`:
+  - Defendant served discovery requests on March 6, 2024
+  - Responses were due April 9, 2024
+  - No responses have been served
+  - No opposition has been filed
+
+`disputes`:
+  - Dispute over failure to serve timely responses to discovery requests
+
+`acts`:
+  - Defendant served discovery requests
+  - Plaintiff failed to serve timely responses
+  - Defendant filed motions to compel responses and request sanctions
+
+`agreements`:
+  - None
+
+`laws`:
+  - Code of Civil Procedure Section 2030.290
+  - Code of Civil Procedure Section 2031.300
+  - California Rules of Court, rule 3.1348(a)
+
+`case_citations`:
+  - Leach v. Superior Court (1980) 111 Cal.App.3d 902, 905-906
+
+`statutes`:
+  - Code of Civil Procedure Section 2030.290
+  - Code of Civil Procedure Section 2031.300
+
+`roles`:
+  - Judge: author of the tentative ruling
+  - Defendant: moving party
+  - Plaintiff: opposing party
+  - Counsel: attorney for Defendant
+
+`significant_statements`:
+  - The Court finds that the motions to compel are granted.
+  - The Court awards sanctions in the total amount of $990.
+  - The Court orders Plaintiff to provide verified responses within 30 days.
+  - The Court orders Defendant to provide notice of the Court's order and file a proof of service.

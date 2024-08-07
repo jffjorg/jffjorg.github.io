@@ -1,0 +1,63 @@
+Here is the summary in YAML format:
+
+```
+case_number: 22NWCV01016
+plaintiff: Kramer
+defendant: Martinez, et al.
+people_names:
+  - Marcus Martinez
+  - Doreen M. Esparza
+company_names: []
+places: []
+dates:
+  - August 2, 2024
+  - August 5, 2024
+  - April 14, 2025
+events:
+  - Partition action
+  - Trial
+  - Continuance of trial
+money: []
+intentions:
+  - To continue trial
+  - To conduct discovery
+  - To prepare evidence
+facts:
+  - Defendant Marcus Martinez moves to continue trial
+  - Trial is currently scheduled for August 5, 2024
+  - Defendant needs more time to conduct discovery and prepare evidence
+  - Doe defendant Doreen M. Esparza has recently been added to the case
+disputes:
+  - Dispute over trial date
+  - Dispute over need for continuance
+acts:
+  - Defendant's motion to continue trial
+  - Granting of motion
+agreements: []
+laws:
+  - California Rules of Court, rule 3.1332, subdivision (c)
+  - California Rules of Court, rule 3.1332 (c)
+  - (Other laws relevant to the case)
+case_citations:
+  - California Rules of Court, rule 3.1332, subdivision (c)
+  - California Rules of Court, rule 3.1332 (c)
+  - (Other relevant case citations)
+statutes:
+  - California Rules of Court, rule 3.1332, subdivision (c)
+  - California Rules of Court, rule 3.1332 (c)
+  - (Other relevant statutes)
+roles:
+  - Judge
+  - Plaintiff
+  - Defendant
+  - Trial counsel
+  - Witnesses
+  - Doe defendant
+significant_statements:
+  - "Although disfavored, the trial date may be continued for 'good cause'"
+  - "The court's calendar and the impact of granting a continuance on other pending trials"
+```
+
+And here is the English-text summary of the judge's tentative ruling:
+
+The defendant, Marcus Martinez, has moved to continue the trial, which is currently scheduled for August 5, 2024. The judge has considered the California Rules of Court, rule 3.1332, subdivision (c), which allows for continuance of the trial for "good cause." The defendant has stated that the recent addition of a doe defendant, Doreen M. Esparza, will require more time to conduct discovery and prepare evidence. The judge has granted the motion and continued the trial to April 14, 2025.

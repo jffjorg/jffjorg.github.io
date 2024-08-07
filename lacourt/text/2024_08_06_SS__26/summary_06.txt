@@ -1,0 +1,71 @@
+Here is the summary in YAML format:
+
+```
+case_number: 24STLC00616
+plaintiff: Interinsurance Exchange of the Automobile Club
+defendant: Sebastian Ortega, et al
+people:
+  - Sebastian Ortega
+  - Alfonso "John Doe"
+  - Unknown co-occupant at 20117 Bedford Canyon Rd., Corona, CA
+companies:
+  - Interinsurance Exchange of the Automobile Club
+places:
+  - 20117 Bedford Canyon Rd., Corona, CA
+dates:
+  - January 29, 2024
+  - March 12, 2024
+  - May 9, 2024
+  - May 30, 2024
+  - May 31, 2024
+  - June 11, 2024
+  - July 10, 2024
+  - August 6, 2024
+events:
+  - Filing of Complaint
+  - Proof of substitute service
+  - Grant of Motion to Quash Service
+  - Filing of new Motion to Quash Service
+  - Lack of opposition
+money: N/A
+intentions:
+  - Defendant to quash service of summons and complaint
+  - Plaintiff to prove effective service
+facts:
+  - Service challenged
+  - Burden on plaintiff to prove effective service
+  - Proof of service containing declaration from registered process server invokes presumption
+  - Defendant's declaration stating lack of receipt of court papers
+  - Plaintiff's lack of knowledge of "Alfonso" or matching description
+disputes:
+  - Lack of jurisdiction
+  - Improper service of process
+acts:
+  - Filing of Motion to Quash Service
+  - Filing of proof of service
+  - Grant of Motion to Quash Service
+agreements:
+  - Code of Civil Procedure section 418.10
+  - California Evidence Code section 647
+laws:
+  - Code of Civil Procedure
+  - California Evidence Code
+case_citations:
+  - Summers v. McClanahan (2006) 140 Cal.App.4th 403
+  - Lebel v. Mai (2012) 210 Cal.App.4th 1154
+  - American Express Centurion Bank v. Zara (2011) 199 Cal.App.4th 383
+statutes:
+  - Code of Civil Procedure section 418.10
+  - California Evidence Code section 647
+roles:
+  - Plaintiff: Interinsurance Exchange of the Automobile Club
+  - Defendant: Sebastian Ortega
+significant_statements:
+  - Defendant's Motion to Quash Service is GRANTED.
+  - Proof of service containing declaration from registered process server invokes presumption.
+  - Defendant has demonstrated grounds to quash service of the Summons and Complaint.
+```
+
+And here is the English text summarizing the judge's tentative ruling:
+
+The judge has granted Defendant Sebastian Ortega's Motion to Quash Service of the Summons and Complaint. The motion is timely and brought pursuant to Code of Civil Procedure section 418.10, which allows a defendant to quash service of summons on the ground of lack of jurisdiction of the court over the defendant. The burden is on the plaintiff to prove the facts requisite to an effective service, and a proof of service containing a declaration from a registered process server invokes a rebuttable presumption affecting the burden of producing evidence of the facts stated in the return. In this case, the proof of substitute service was attested to by a registered process server, but Defendant's declaration stating that he did not receive any court papers at his residence is sufficient to overcome the presumption of truth in the proof of service and place the burden on the plaintiff to demonstrate that service occurred as stated. Since no opposition has been filed, Defendant has demonstrated grounds to quash service of the Summons and Complaint as attempted on May 31, 2024.

@@ -1,0 +1,95 @@
+Here is a summary of the tentative ruling in YAML format:
+
+```
+case_number: 23STCV06935
+hearing_date: August 2, 2024
+department: 37
+
+moving_party: Jorge Fuentes, Philip Hyden
+opposing_party: Omar Penny
+
+trials_date: December 10, 2024
+
+proof_of_service: OK
+
+proceeding: Motion for Judgment on the Pleadings
+
+opposition: June 14, 2024
+supplemental_opposition: July 19, 2024
+reply: June 20, 2024
+supplemental_reply: July 26, 2024
+
+tentative_ruling:
+  - Granted in part and denied in part
+  - Defendant Hyden:
+    - Granted MJOP on first, second, and fourteenth causes of action with leave to amend
+  - Defendant Fuentes:
+    - Denied MJOP on first cause of action for sex and gender discrimination and fourteenth cause of action for IIED
+    - Granted MJOP on second and third causes of action for harassment with leave to amend
+    - Granted MJOP on twelfth cause of action for aiding and abetting discrimination without leave to amend
+
+facts:
+  - Omar Penny filed a FEHA action against the County of Los Angeles, LAC+USC Medical Center, and others on March 29, 2023
+  - The Complaint alleges 14 causes of action, including harassment, discrimination, and IIED
+  - Defendant Fuentes is alleged to have harassed and discriminated against Plaintiff Penny based on his sex and gender
+  - Defendant Hyden is not implicated in the alleged harassment and discrimination
+
+parties:
+  - Omar Penny (Plaintiff)
+  - Jorge Fuentes (Defendant)
+  - Philip Hyden (Defendant)
+  - County of Los Angeles (Defendant)
+  - LAC+USC Medical Center (Defendant)
+
+dates:
+  - March 29, 2023: Plaintiff files FEHA action
+  - August 1, 2022: Plaintiff files EEOC charge
+  - December 3, 2021: Plaintiff files EEOC charge
+  - April 7, 2023: Plaintiff files DFEH charge
+  - June 14, 2024: Opposition to motion for judgment on the pleadings
+  - July 12, 2024: Hearing on motion for judgment on the pleadings
+  - July 19, 2024: Supplemental opposition to motion for judgment on the pleadings
+  - July 26, 2024: Supplemental reply to motion for judgment on the pleadings
+
+money: None mentioned
+
+intention: To grant or deny the motion for judgment on the pleadings
+
+disputes:
+  - Whether Plaintiff Penny exhausted his administrative remedies with respect to the harassment claims
+  - Whether Defendant Fuentes engaged in extreme or outrageous conduct
+
+acts:
+  - Plaintiff Penny files FEHA action
+  - Defendant Fuentes allegedly harasses and discriminates against Plaintiff Penny
+  - Plaintiff Penny files EEOC and DFEH charges
+  - Defendant Fuentes allegedly engages in aiding and abetting discrimination
+
+agreements:
+  - FEHA (Fair Employment and Housing Act)
+  - EEOC (Equal Employment Opportunity Commission)
+  - DFEH (California Department of Fair Employment and Housing)
+
+laws:
+  - Cal. Gov't Code § 12940
+  - Cal. Gov't Code § 12965
+  - Cal. Evid. Code § 452
+
+case_citations:
+  - Burnett v. Chimney Sweep (2004) 123 Cal.App.4th 1057
+  - Fire Ins. Exchange v. Superior Court (2004) 116 Cal.App.4th 446
+  - Wilson v. Transit Authority of City of Sacramento (1962) 199 Cal.App.2d 716
+  - Romano v. Rockwell Internat., Inc. (1996) 14 Cal.4th 479
+  - Janken v. GM Hughes Electronics (1996) 46 Cal.App.4th 55
+  - Roby v. McKesson Corp. (2009) 47 Cal.4th 686
+  - Miller v. Department of Corrections (2005) 36 Cal.4th 446
+  - Smith v. BP Lubricants USA Inc. (2021) 64 Cal.App.5th 138
+  - Haligowski v. Superior Court (2011) 200 Cal.App.4th 983
+  - Reno v. Baird (1998) 18 Cal.4th 640
+  - Raines v. U.S. Healthworks Medical Group (2023) 15 Cal.5th 268
+  - Peterson v. State of California Dept. of Corrections and Rehabilitation (E.D. Cal. 2006) 451 F.Supp.2d 1092
+  - Belen v. Ryan Seacrest Productions, LLC (2021) 65 Cal.App.5th 1145
+  - Alcorn v. Anbro Engineering, Inc. (1970) 2 Cal.3d 493
+```
+
+Please note that this summary is not a legal document and is intended to provide a general overview of the tentative ruling. It is not a substitute for the actual ruling or any official court documents.

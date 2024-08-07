@@ -1,0 +1,59 @@
+Here is the summary in YAML format:
+
+```
+case_number: 23STCV24849
+plaintiff_name: Black Brewed Coffee LLC
+defendant_name: Berkshire Hathaway Direct Insurance Company
+people_names:
+  - David Kroeger
+company_names:
+  - Jenner & Block LLP
+  - Berkshire Hathaway Direct Insurance Company
+places:
+  - California
+dates:
+  - October 11, 2023
+  - February 25, 2025
+  - March 10, 2025
+  - August 6, 2024
+  - August 14, 2024
+events:
+  - Final Status Conference
+  - Jury Trial
+  - Motion to be Relieved as Counsel
+money: None
+intentions:
+  - Relief from counsel
+facts:
+  - Plaintiff alleges denied insurance coverage
+  - Plaintiff filed complaint with causes of action against Defendant
+disputes:
+  - Insurance bad faith
+acts:
+  - Plaintiff's attorneys made attempts to contact Plaintiff
+agreements: None
+laws:
+  - California Rules of Court
+  - Code of Civil Procedure
+  - Ramirez v. Sturdevant
+  - People v. Prince
+case_citations:
+  - Ramirez v. Sturdevant (1994) 21 Cal.App.4th 904, 915
+  - People v. Prince (1968) 268 Cal.App.2d 398
+statutes:
+  - Code of Civil Procedure § 284
+  - California Rules of Court Rule 3.1362
+roles:
+  - Judge
+  - Plaintiff
+  - Defendant
+  - Attorney (David Kroeger)
+  - Client (Black Brewed Coffee LLC)
+significant_statements:
+  - The court grants the motion to be relieved as counsel
+  - The matter is continued to August 14, 2024
+```
+
+And here is a summary in English text:
+
+The judge's tentative ruling grants the motion of Jenner & Block LLP (counsel for Black Brewed Coffee LLC) to be relieved as counsel, effective upon the filing of a proof of service showing service of the signed order upon the Client at the Client's last known address. The motion is granted due to the lack of prejudice to the Client and the orderly process of justice. However, the matter is continued to August 14, 2024, due to the notice issue. The Client has ceased communicating with their attorneys, and Plaintiff's attorneys have made numerous attempts to contact the Client, including sending email correspondence and calling the Client's last known phone number. The court determines that the requirements of California Rules of Court Rule 3.1362 have been sufficiently met.
