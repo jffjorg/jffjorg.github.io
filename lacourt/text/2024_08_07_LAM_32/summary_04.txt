@@ -1,0 +1,89 @@
+Here is the summary in YAML format:
+
+```
+case_number: 23STCV01764
+plaintiffs_name: Cornelia Rosales, Jose Juventino Rosales, Jose Alfredo Rosales
+defendant_name: Vermont City Lights LP
+people_names:
+  - Cornelia Rosales
+  - Jose Juventino Rosales
+  - Jose Alfredo Rosales
+  - Guhan Subramanian
+  - Amy Chua
+  - Carol Brown
+  - Dr. Gladys Frankel
+  - Dr. Jeffery Alan Sugar
+  - Mark R. Levitt
+  - Eric Garcia
+  - Joseph Palanca
+company_names:
+  - Vermont City Lights LP
+places:
+  - California (assumed, no specific place mentioned in the document)
+dates:
+  - January 17, 2023
+  - July 12, 2024
+  - July 23, 2024
+  - August 7, 2024
+events:
+  - Landlord-tenant action
+  - Expert designation
+  - Depositions
+  - Motion to preclude improperly designated experts
+  - Motion to set expert fees
+  - Motion to extend time for expert discovery
+money:
+  - Expert witness fees
+  - Deposition costs
+intentions:
+  - To exclude improperly designated experts
+  - To set expert fees
+  - To extend time for expert discovery
+facts:
+  - Plaintiffs failed to include expert witness declarations for nine witnesses
+  - Defendant did not receive notice of the motion to set expert fees
+  - Defendant did not argue for an extension of time for expert discovery
+disputes:
+  - Improperly designated experts
+  - Expert fees
+  - Expert discovery
+acts:
+  - Expert designation
+  - Depositions
+  - Filings of opposition and motions
+agreements:
+  - Code of Civil Procedure, Section 2034.210
+  - Code of Civil Procedure, Section 2034.260
+  - Code of Civil Procedure, Section 2034.300
+  - Code of Civil Procedure, Section 2034.470
+laws:
+  - California Code of Civil Procedure, Section 2034.210
+  - California Code of Civil Procedure, Section 2034.260
+  - California Code of Civil Procedure, Section 2034.300
+  - California Code of Civil Procedure, Section 2034.470
+case_citations:
+  - Code Civ. Proc., § 2034.210
+  - Code Civ. Proc., § 2034.260
+  - Code Civ. Proc., § 2034.300
+  - Code Civ. Proc., § 2034.470
+statutes:
+  - California Code of Civil Procedure, Sections 2034.210-2034.470
+roles:
+  - Judge
+  - Plaintiffs
+  - Defendant
+  - Expert witnesses
+significant_statements:
+  - The Court grants Defendant's motion to exclude improperly designated experts.
+  - The Court denies Defendant's motion to set expert fees and extend time for expert discovery without prejudice.
+```
+
+And here is a summary of the judge's tentative ruling in English text:
+
+The Court has reviewed the motions filed by the Defendant, Vermont City Lights LP, regarding expert designations, fees, and discovery. The Court finds that the Plaintiffs failed to include expert witness declarations for nine witnesses, which renders those witnesses unavailable for testimony at trial. The Court grants the Defendant's motion to exclude these improperly designated experts.
+
+Regarding the motion to set expert fees, the Court denies it due to procedural defects, as the experts were not properly noticed of the motion. However, the Court notes that the fees appear to be excessive on their face.
+
+The Court also denies the motion to extend time for expert discovery without prejudice, as the Defendant failed to provide any argument or analysis on this point.
+
+In conclusion, the Court grants the Defendant's motion to exclude improperly designated experts and denies the motion to set expert fees and extend time for expert discovery without prejudice.

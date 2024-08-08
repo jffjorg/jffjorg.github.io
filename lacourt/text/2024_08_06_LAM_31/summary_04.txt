@@ -1,0 +1,96 @@
+Here is a summary of the judge's tentative ruling in YAML format:
+
+```
+case_number: 23STCV21321
+hearing_date: 2024-08-06
+dept: 31
+
+people:
+  - Rajan Garg
+  - Andres Peraza
+  - Daniel Peraza
+
+companies:
+  - San Andres Medical Clinic, Inc. (SAMC)
+  - Trustee
+  - JPMorgan Chase Bank
+
+places:
+  - California
+
+dates:
+  - 2017-01-01
+  - 2022-07-01
+  - 2022-11-01
+  - 2023-02-01
+  - 2023-09-05
+  - 2024-03-06
+  - 2024-08-06
+
+events:
+  - Agreement between Garg and Peraza to share settlement payments
+  - Failure of Peraza to pay settlement payments
+  - Filing of Complaint by Garg against Peraza
+  - Filing of Demurrer and Motion to Strike by Peraza
+  - Opposition to Demurrer and Motion to Strike by Garg
+  - Reply to Opposition by Peraza
+
+money:
+  - $250,000 (settlement amount)
+  - $60,000 (initial payment)
+  - $10,000 (monthly payment)
+
+intentions:
+  - Intent to perform agreement
+  - Intent not to perform agreement
+
+facts:
+  - Garg and Peraza agreed to share settlement payments
+  - Peraza failed to pay settlement payments
+  - Garg paid entire settlement payment
+
+disputes:
+  - Statute of Frauds bars breach of contract claim
+  - Lack of specificity in intentional misrepresentation claim
+
+acts:
+  - Breach of contract by Peraza
+  - Intentional misrepresentation by Peraza
+
+agreements:
+  - Oral agreement between Garg and Peraza to share settlement payments
+
+laws:
+  - California Code of Civil Procedure (CCP) section 430.10
+  - California Civil Code (Civ. Code) section 1624
+  - CACI No. 303
+  - CACI No. 1900
+
+case_citations:
+  - Harris v. City of Santa Monica
+  - Ivanoff v. Bank of America, N.A.
+  - West v. JPMorgan Chase Bank
+  - Lazar v. Superior Court
+  - Daniels v. Select Portfolio Servicing, Inc.
+  - Manderville v. PCG & S Group, Inc.
+  - Magpali v. Farmers Group, Inc.
+
+statutes:
+  - California Code of Civil Procedure (CCP) section 430.10
+  - California Civil Code (Civ. Code) section 1624
+
+roles:
+  - Judge: Kerry Bensinger
+  - Plaintiff: Rajan Garg
+  - Defendant: Andres Peraza
+  - Trustee: (unnamed)
+
+significant_statements:
+  - The Statute of Frauds bars the breach of contract claim.
+  - The intentional misrepresentation claim lacks specificity.
+  - Leave to amend is granted.
+```
+
+And here is a summary of the judge's tentative ruling in English text:
+
+The judge has issued a tentative ruling on a demurrer and motion to strike filed by Defendant Andres Peraza. The Plaintiff, Rajan Garg, claims that Peraza breached an oral agreement to share settlement payments and made intentional misrepresentations. The judge has sustained the demurrer and motion to strike, holding that the breach of contract claim is barred by the Statute of Frauds and that the intentional misrepresentation claim lacks specificity. The judge has granted leave to amend the complaint and ordered the Plaintiff to file a first amended complaint within 30 days.

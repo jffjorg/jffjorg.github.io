@@ -1,0 +1,65 @@
+Here is the summary in YAML format:
+
+```
+case_number: 24NWCV01598
+plaintiff_name: Jose Villalobos
+defendant_name: Rosario Pasillas
+people_names:
+  - Jose Villalobos
+  - Rosario Pasillas
+company_names: []
+places: []
+dates:
+  - May 22, 2024
+  - June 3, 2024
+  - June 20, 2024
+  - July 23, 2024
+  - August 6, 2024
+events:
+  - Unlawful detainer lawsuit filed
+  - Requests for admissions served
+  - Motion to deem matters admitted filed
+  - Responses to requests for admissions served
+  - Hearing date set
+money:
+  - $400 (sanctions)
+intentions:
+  - Grant the defendant's motion to deem matters admitted
+  - Impose sanctions on the plaintiff and their counsel
+facts:
+  - Plaintiff filed a complaint for unlawful detainer
+  - Defendant served requests for admissions on the plaintiff
+  - Plaintiff failed to respond to the requests for admissions
+  - Defendant filed a motion to deem matters admitted
+  - Plaintiff's responses to requests for admissions were served late
+disputes:
+  - Plaintiff disputes the importance of timely responses to requests for admissions
+acts:
+  - Plaintiff filed a complaint
+  - Defendant served requests for admissions
+  - Defendant filed a motion to deem matters admitted
+  - Plaintiff served responses to requests for admissions late
+agreements:
+  - Defendant's motion to deem matters admitted is granted
+laws:
+  - California Code of Civil Procedure (CCP) § 2033.250
+  - CCP § 2033.280
+  - CCP § 2023.010
+case_citations:
+  - CCP § 2033.250
+  - CCP § 2033.280
+  - CCP § 2023.010
+statutes:
+  - California Code of Civil Procedure (CCP)
+roles:
+  - Plaintiff (Jose Villalobos)
+  - Defendant (Rosario Pasillas)
+  - Plaintiff's counsel
+  - Defendant's counsel
+significant_statements:
+  - "Where there has been no timely response to requests for admissions, a 'requesting party may move for an order that the genuineness of any documents and the truth of any matters specified in the requests be deemed admitted, as well as for a monetary sanction under Chapter 7 (commencing with section 2023.010)'".
+```
+
+And here is a summary of the judge's tentative ruling in English text:
+
+The court has granted the defendant's unopposed motion to deem matters admitted in this unlawful detainer lawsuit. The defendant had served requests for admissions on the plaintiff, but the plaintiff failed to respond in a timely manner. As a result, the court has deemed the matters admitted and has granted sanctions of $400, payable within 60 days by the plaintiff and their counsel, jointly and severally. The court has also noted that the plaintiff's responses to the requests for admissions were served late, despite the shorter deadline for unlawful detainer actions.

@@ -1,0 +1,57 @@
+Here is the summary in YAML format:
+
+```
+case_number: 22STCV04206
+plaintiff_names:
+  - Konstantin Chevalkov
+  - Oleh Stepanenko
+defendant_names:
+  - Yan Li
+  - Does 1-10
+people_names:
+  - Olga N. Troshchiy, Esq.
+company_names: []
+places: []
+dates:
+  - February 3, 2022
+  - June 28, 2024
+  - August 6, 2024
+events:
+  - Filing of motion to be relieved as counsel
+  - Hearing on motion to be relieved as counsel
+money: []
+intentions:
+  - Olga N. Troshchiy, Esq. asks to be relieved as counsel for Plaintiffs
+  - Court grants motion to be relieved as counsel
+facts:
+  - Plaintiffs filed an action against Defendants Yan Li and Does 1-10
+  - Olga N. Troshchiy, Esq. filed motions to be relieved as counsel for Plaintiffs
+disputes:
+  - None
+acts:
+  - Filing of required paperwork and providing necessary information
+agreements:
+  - California Rules of Court, rule 3.1362
+laws:
+  - California Rules of Court, rule 3.1362
+  - Code of Civil Procedure sections 284(1), 284(2), and 1010.6
+  - Code of Civil Procedure section 1011(b)
+case_citations:
+  - California Rules of Court, rule 3.1362
+statutes:
+  - California Rules of Court, rule 3.1362
+  - Code of Civil Procedure sections 284(1), 284(2), and 1010.6
+roles:
+  - Olga N. Troshchiy, Esq. (counsel)
+  - Konstantin Chevalkov (client)
+  - Oleh Stepanenko (client)
+  - Yan Li (defendant)
+  - Does 1-10 (defendants)
+significant_statements:
+  - The Court grants the motions to be relieved as counsel
+  - Counsel will be relieved upon filing proof of service on the clients
+```
+
+And here is the English-text summary:
+
+The Judge's tentative ruling grants Olga N. Troshchiy, Esq.'s motion to be relieved as counsel for Plaintiffs Konstantin Chevalkov and Oleh Stepanenko. The motion was filed on June 28, 2024, and set for hearing on August 6, 2024. The Court has considered the required paperwork and necessary information provided by counsel. The California Rules of Court, rule 3.1362, provides the standard for motions to be relieved as counsel. The Court finds that counsel has complied with the requirements and grants the motions. Counsel will be relieved as counsel once proof of service on the clients is filed with the Court.

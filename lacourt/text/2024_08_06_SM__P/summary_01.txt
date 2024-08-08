@@ -1,0 +1,67 @@
+Here is the summary in YAML format:
+
+```
+case_number: 22SMCV01932
+plaintiff_name: Chun
+defendant_name: Smith
+people_names:
+  - Chun
+  - Smith
+company_names: []
+places: []
+dates:
+  - August 6, 2024
+events:
+  - Hearing
+  - Demurrer
+  - Cross-complaint
+  - Amended Cross-Complaint
+money: []
+intentions:
+  - Intentional tort
+  - Fraud
+  - Punitive damages
+facts:
+  - Smith swung his hand at Chun's face
+  - Smith cross-complained
+  - Chun demurred to the amended cross-complaint
+disputes:
+  - Intentional tort
+  - Fraud
+acts:
+  - Demurrer
+  - Cross-complaint
+  - Amended Cross-Complaint
+agreements: []
+laws:
+  - Code of Civil Procedure §47(2)
+  - Odorizzi v. Bloomfield School Dist. (1966)
+  - Wilhelm v. Pray, Price, Williams & Russell (1986)
+  - Committee on Children’s Television, Inc. v. General Foods Corp. (1983)
+case_citations:
+  - 246 Cal.App.2d 123
+  - 186 Cal.App.3d 1324
+  - 35 Cal.3d 197
+roles:
+  - Judge
+  - Plaintiff (Chun)
+  - Defendant (Smith)
+significant_statements:
+  - The court sustained Chun's demurrer to the cross-complaint with leave to amend.
+  - The amended cross-complaint does not make it clear whether Smith's claims are based on Chun's civil or criminal complaints.
+  - Smith's claims are protected by Code of Civil Procedure §47(2) regarding reporting wrongdoing to law enforcement.
+  - The demurrer to the fraud cause of action is sustained without leave to amend.
+  - The demurrer to the punitive damages allegations is moot since the causes of action are both sustained without leave to amend.
+```
+
+And here is a summary of the judge's tentative ruling in English text:
+
+The court has reviewed the amended cross-complaint (ACC) filed by defendant Smith in response to plaintiff Chun's demurrer. Chun has demurred to the ACC, arguing that it fails to state facts that constitute a cause of action for intentional tort and fraud.
+
+The court has sustained Chun's demurrer to the intentional tort cause of action, finding that Smith has failed to provide sufficient facts to support his claim. Smith has had two prior opportunities to amend the pleadings, but has not done so successfully.
+
+The court has also sustained Chun's demurrer to the fraud cause of action, finding that Smith's allegations are conclusory and do not meet the requirements for pleading fraud. Smith has referred to video evidence without providing specific facts regarding the contents of the evidence, and has made conclusory allegations without providing facts to support a cause of action for fraud.
+
+Finally, the court has found that the demurrer to the punitive damages allegations is moot since the causes of action are both sustained without leave to amend.
+
+The court's tentative ruling is that the demurrer to the amended cross-complaint is sustained without leave to amend.

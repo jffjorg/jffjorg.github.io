@@ -1,0 +1,70 @@
+Here is the summary in YAML format:
+
+```
+case_number: 24AHCV00342
+plaintiff_name: Mariposa Landscapes, Inc.
+defendant_name: Norton Simon Museum of Art at Pasadena
+people_names:
+  - Mariposa Landscapes, Inc.
+  - Norton Simon Museum of Art at Pasadena
+  - DOES 1-25
+company_names:
+  - Mariposa Landscapes, Inc.
+  - Norton Simon Museum of Art at Pasadena
+places:
+  - Pasadena
+  - Los Angeles
+  - California
+dates:
+  - 2024-02-20
+  - 2024-04-26
+  - 2024-08-06
+events:
+  - Filing of complaint
+  - Motion to compel arbitration and stay of proceedings
+  - Petition to reclassify case
+money:
+  - $12,501.77 per month
+  - $25,003.43
+  - $4,972.93
+  - $35,000
+intentions:
+  - Plaintiff seeks to recover owed amount
+  - Defendant seeks to compel arbitration and stay proceedings
+facts:
+  - Dispute over landscape maintenance contract
+  - Plaintiff alleges owed amount for invoices
+  - Defendant alleges damage to bollards
+disputes:
+  - Amount owed
+  - Responsibility for damage
+acts:
+  - Filing of complaint
+  - Issue of check for $4,972.93
+agreements:
+  - Landscape maintenance contract
+laws:
+  - Code of Civil Procedure, § 403.040(a)
+  - Walker v. Superior Court (1992)
+  - Stern v. Superior Court (2003)
+  - Kent v. Superior Court (1992)
+case_citations:
+  - Walker v. Superior Court (1992)
+  - Stern v. Superior Court (2003)
+  - Kent v. Superior Court (1992)
+statutes:
+  - Code of Civil Procedure, § 403.040(a)
+roles:
+  - Plaintiff: Mariposa Landscapes, Inc.
+  - Defendant: Norton Simon Museum of Art at Pasadena
+  - Court: Superior Court of California, County of Los Angeles
+significant_statements:
+  - Court finds case has been classified in an incorrect jurisdictional classification
+  - Case warrants reclassification to limited civil jurisdiction
+  - Court sets status conference to determine whether reclassification is necessary
+  - Motion to compel arbitration continued to _________
+```
+
+And here is a summary of the judge's tentative ruling in English text:
+
+The court has considered the motion to compel arbitration and stay of proceedings filed by the defendant, Norton Simon Museum of Art at Pasadena. The plaintiff, Mariposa Landscapes, Inc., alleges that the defendant owes it an amount of $25,003.43 for invoices dated December 31, 2022, and January 30, 2023. The defendant alleges that it issued a check for $4,972.93 with a deduction for damaged bollards, which the plaintiff denies. The court finds that the case has been classified in an incorrect jurisdictional classification and warrants reclassification to limited civil jurisdiction. The court sets a status conference to determine whether reclassification is necessary and continues the motion to compel arbitration to a later date.

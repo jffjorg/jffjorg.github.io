@@ -1,0 +1,48 @@
+Here is the summary in YAML format:
+
+```yaml
+case_number: "22STCV24782"
+plaintiff: "DANIEL CHU"
+defendant: "GRCA2 DEVELOPMENT, LLC, et al."
+people_names:
+  - DANIEL CHU
+  - Hon. Michelle C. Kim
+company_names:
+  - GRCA2 DEVELOPMENT, LLC
+places:
+  - Stanley Mosk Courthouse
+  - Los Angeles
+dates:
+  - August 6, 2024
+  - August 7, 2024
+events:
+  - Hearing on Motion for Summary Judgment
+  - Tentative Ruling
+money: null
+intentions:
+  - To review and consider the briefs
+  - To give parties time to meet and confer
+facts:
+  - The Court's own motion to continue the hearing
+  - The parties' briefs require more time for review
+disputes:
+  - None mentioned
+acts:
+  - The Court's order to continue the hearing
+  - The Court's requirement to review the briefs
+agreements: null
+laws:
+  - None mentioned
+case_citations: null
+statutes: null
+roles:
+  - Judge: Hon. Michelle C. Kim
+significant_statements:
+  - The Court requires more time to review and consider the briefs.
+  - The parties are encouraged to meet and confer.
+  - The parties must submit by email or appear at the hearing.
+```
+
+And here is the English-text summary:
+
+The Judge, Hon. Michelle C. Kim, has issued a tentative ruling continuing the hearing on the defendants' motion for summary judgment. The hearing, originally scheduled for August 7, 2024, is now continued to a later date to be determined. The Court needs more time to review and consider the parties' briefs. The parties are encouraged to meet and confer to see if they can reach an agreement. If a party intends to submit on the tentative ruling, they must send an email to the court with the subject line "SUBMIT" followed by the case number. If no party submits, the parties should arrange to appear remotely or in person for oral argument.

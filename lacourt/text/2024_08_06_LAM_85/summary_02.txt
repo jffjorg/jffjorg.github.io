@@ -1,0 +1,93 @@
+Here is the summary in YAML format:
+
+```
+---
+case_number: 23STCP3011
+hearing_date: August 6, 2024
+dept: 85
+plaintiff_name: Cynthia Mabus
+defendant_name: Culver City and Culver City Council
+people_names:
+  - Cynthia Mabus
+  - Jablin
+company_names:
+  - Culver City Public Works Department-Maintenance Operations Division
+  - Southern California Gas Company
+places:
+  - Culver City
+  - Northgate Street
+dates:
+  - August 18, 2023
+  - October 1, 2019
+  - February 25, 2020
+  - March 2, 2020
+  - August 10, 2020
+  - October 11, 2021
+  - December 10, 2021
+  - April 13, 2023
+  - May 8, 2023
+  - May 22, 2023
+  - July 3, 2024
+events:
+  - Tree removal request submitted
+  - Public Works decision to remove trees
+  - Jablin's appeal
+  - City Council decision to delay appeal
+  - City Council decision to grant Jablin's appeal
+  - Mabus I petition filed
+  - Galvin Street Parkway Project approved
+  - May 8, 2023 hearing
+  - May 22, 2023 hearing
+money:
+  - $108,000 (construction contract)
+intention:
+  - Remove two problem species trees
+facts:
+  - Trees are causing damage to Petitioner's property
+  - Petitioner submitted a request to remove trees
+  - Public Works approved request
+  - Jablin appealed decision
+  - City Council granted Jablin's appeal
+  - Petitioner filed a petition challenging City Council's decision
+disputes:
+  - Petitioner vs. City Council
+  - Jablin vs. City Council
+acts:
+  - Tree removal request submitted
+  - Public Works decision to remove trees
+  - Jablin's appeal
+  - City Council decision to delay appeal
+  - City Council decision to grant Jablin's appeal
+  - Mabus I petition filed
+  - Galvin Street Parkway Project approved
+  - May 8, 2023 hearing
+  - May 22, 2023 hearing
+agreements:
+  - CCMC section 9.08.210
+laws:
+  - CCMC section 9.08.210
+  - CCP section 1094.5
+  - CCP section 1094.6
+  - CCP section 1085
+  - Evid. Code section 664
+citations:
+  - Topanga Ass'n for a Scenic Community v. County of Los Angeles
+  - Fukuda v. City of Angels
+  - California Youth Authority v. State Personnel Board
+  - Martori Brothers Distributors v. Agricultural Labor Relations Bd.
+  - Gerawan Farming, Inc. v. Agric. Labor Relations Bd.
+  - Bixby v. Pierno
+roles:
+  - City Council
+  - Public Works Director
+  - City Arborist
+  - Petitioner
+  - Real Party
+significant_statements:
+  - "The court has read and considered the moving papers, oppositions, and reply, and renders the following tentative decision."
+  - "The decision of the City Council on an appeal shall be final."
+  - "The court exercises independent judgment on the evidence."
+  - "The burden of proof falls upon the party attacking the administrative decision."
+```
+
+Please note that this summary is based on the provided text and may not be exhaustive or accurate. If you have any further questions or need additional clarification, feel free to ask!

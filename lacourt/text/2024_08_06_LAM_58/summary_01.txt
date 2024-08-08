@@ -1,0 +1,88 @@
+Here is the summary in YAML format:
+
+```
+case_number: 22STCV07064
+plaintiff: Nataly Consuelo
+defendant: Lyneer Staffing Solutions, LLC, Franco Vago SpA, Nippon Express Italia SpA, Employers HR LLC, Fashion Logistics, Inc., Franco Vago L.A. INC, Joseph Lopez, Jose Arciega, DOES 1-2000
+people:
+  - Nataly Consuelo
+  - Franco Vago
+  - Joseph Lopez
+  - Jose Arciega
+  - Davide Gori
+  - John C. McCarty
+companies:
+  - Lyneer Staffing Solutions, LLC
+  - Franco Vago SpA
+  - Nippon Express Italia SpA
+  - Employers HR LLC
+  - Fashion Logistics, Inc.
+  - Franco Vago L.A. INC
+places:
+  - California
+  - Italy
+  - Badia a Settimo
+  - Scandicci
+  - Firenze
+dates:
+  - February 25, 2022
+  - June 6, 2024
+  - July 23, 2024
+  - July 30, 2024
+  - August 6, 2024
+events:
+  - Motion to quash service of summons
+  - Wrongful termination action
+  - Service of summons
+  - Opposition
+  - Reply
+money: None
+intentions:
+  - To quash service of summons
+  - To establish personal jurisdiction
+facts:
+  - Italian Defendants are based entirely in Italy
+  - Italian Defendants have no minimum contacts with California
+  - Italian Defendants have not purposefully availed themselves to California
+disputes:
+  - Lack of personal jurisdiction
+acts:
+  - Service of summons
+  - Motion to quash
+  - Opposition
+  - Reply
+agreements:
+  - None
+laws:
+  - Due Process clause of the Fourteenth Amendment
+  - Personal jurisdiction
+  - General jurisdiction
+  - Specific jurisdiction
+  - Representative Services Doctrine
+  - Alter Ego Doctrine
+  - Single Enterprise Doctrine
+case_citations:
+  - Walden v. Fiore (2014) 571 U.S. 277
+  - Daimler AG v. Bauman (2014) 571 U.S. 117
+  - David L. v. Superior Court (2018) 29 Cal.App.5th 359
+  - Zehia v. Superior Court (2020) 45 Cal.App.5th 543
+  - HealthMarkets, Inc. v. Superior Court (2009) 171 Cal.App.4th 1160
+  - Ming-Hsiang Kao v. Holiday (2020) 58 Cal.App.5th 199
+  - Associated Vendors, Inc. v. Oakland Meat Co. (1962) 210 Cal.App.2d 825
+  - Young v. Daimler AG (2014) 228 Cal.App.4th 855
+  - Tran v. Farmers Group, Inc. (2002) 104 Cal.App.4th 1202
+roles:
+  - Judge: Bruce G. Iwasaki
+  - Plaintiff: Nataly Consuelo
+  - Defendant: Lyneer Staffing Solutions, LLC, Franco Vago SpA, Nippon Express Italia SpA
+significant_statements:
+  - The motion to quash service of summons is granted.
+  - The Court lacks personal jurisdiction over the Italian Defendants.
+  - The representative services doctrine is no longer a valid basis for general jurisdiction.
+  - The alter ego doctrine is not applicable in this case.
+  - The single enterprise doctrine is also not applicable in this case.
+```
+
+And here is a summary of the judge's tentative ruling in English:
+
+The judge has granted the motion to quash service of summons filed by the specially appearing defendants, Franco Vago SpA and Nippon Express Italia SpA. The judge found that the court lacks personal jurisdiction over the Italian defendants, as they are based entirely in Italy and have no minimum contacts with California. The judge also rejected the plaintiff's arguments that general or specific jurisdiction can be established through the representative services doctrine, alter ego doctrine, or single enterprise doctrine. The judge noted that the plaintiff failed to provide any evidence to support these theories, and that the Italian defendants have not purposefully availed themselves to California. The judge concluded that the court lacks jurisdiction over the Italian defendants and dismissed them from the case.

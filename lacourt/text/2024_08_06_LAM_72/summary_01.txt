@@ -1,0 +1,104 @@
+Here is the summary of the judge's tentative ruling in YAML format:
+
+```
+Case Number: 23STCV10395
+Judge's Name: [Not specified]
+Case Type: Securities Fraud
+Plaintiffs:
+  - Sunwoo Lee
+  - Myunga Cho
+Defendants:
+  - Com2us Holdings
+  - Com2us USA
+  - Kyu Chang Lee
+Court: Superior Court of California, County of Los Angeles, Department 72
+Hearing Date: August 6, 2024
+
+People-Names:
+  - Sunwoo Lee
+  - Myunga Cho
+  - Kyu Chang Lee
+
+Company-Names:
+  - Com2us Holdings
+  - Com2us USA
+  - FTX
+
+Places:
+  - California
+  - Korea
+
+Dates:
+  - March 18, 2022
+  - April 2, 2024
+  - May 9, 2022
+  - May 9, 2023
+  - November 20, 2023
+  - October 21, 2022
+  - November 8, 2022
+
+Events:
+  - Initial Exchange Offering (IEO) of C2X tokens
+  - Retweeting of C2X Whitepaper on Twitter
+  - Cessation of withdrawals on FTX
+
+Money:
+  - Unspecified amount of economic losses
+
+Intentions:
+  - To sell securities in violation of laws
+  - To misrepresent facts to investors
+
+Facts:
+  - Com2us Holdings developed C2X tokens
+  - C2X tokens were sold through FTX exchange
+  - Plaintiffs purchased C2X tokens in California
+  - Defendants made misrepresentations about C2X tokens
+
+Disputes:
+  - Demurrer to the Second Amended Complaint (SAC)
+  - Liability for securities fraud and other claims
+
+Acts:
+  - Offering and selling securities without registration
+  - Making misrepresentations to investors
+  - Wrongfully withholding access to C2X tokens
+
+Agreements:
+  - None specified
+
+Laws:
+  - Securities Act of 1933
+  - Corporations Code of California
+  - California Civil Code
+
+Case Citations:
+  - 15 U.S.C. § 77l
+  - 15 U.S.C. § 77m
+  - Corp. Code, § 25110
+  - Corp. Code, § 25120
+  - Corp. Code, § 25401
+  - Corp. Code, § 25503
+  - Corp. Code, § 25504
+  - Corp. Code, § 25504.1
+
+Statutes:
+  - Securities Act of 1933
+  - Corporations Code of California
+
+Roles:
+  - Judge: [Not specified]
+  - Plaintiffs: Sunwoo Lee and Myunga Cho
+  - Defendants: Com2us Holdings, Com2us USA, and Kyu Chang Lee
+
+Significant Statements:
+  - The Court overrules the demurrer to the SAC.
+  - Plaintiffs have adequately alleged that Defendants sold C2X tokens to them.
+  - Plaintiffs have adequately alleged that they purchased C2X tokens in California.
+  - The Court strikes Plaintiffs' claims under the First Cause of Action relating to purchases prior to May 9, 2022.
+  - The Court finds that Plaintiffs have adequately alleged privity with the defendants.
+  - The Court finds that Plaintiffs have adequately alleged material assistance by the defendants.
+  - The Court finds that Plaintiffs have adequately alleged control-person liability as to the defendants.
+```
+
+The summary is based on the provided text, and it extracts the relevant information into a YAML format. The output is a concise summary of the judge's tentative ruling, including the case details, parties involved, and the key points of the ruling.
