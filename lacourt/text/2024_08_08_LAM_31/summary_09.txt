@@ -1,0 +1,60 @@
+Here is the summary in YAML format:
+
+```
+case_number: N/A (not specified)
+plaintiff_name: Plaintiffs
+defendant_name: Defendant
+people_names: 
+  - Tate
+  - Murray
+company_names: 
+  - Alliance Bank
+places: 
+  - California
+dates: 
+  - 1975
+  - 1984
+events: 
+  - Hearing
+  - Appeal
+  - Opposition
+money: 
+  - Attorney's fees
+intentions: 
+  - To obtain attorney's fees
+  - To challenge the Petition
+facts: 
+  - Plaintiffs filed an opposition to the Petition
+  - The notice of the Petition did not include a request for attorney's fees
+  - Civil Code section 3115 has been repealed
+disputes: 
+  - Waiver of defects or irregularities in the notice of motion
+  - Sufficiency of notice of motion
+  - Request for attorney's fees
+acts: 
+  - Appearance of a party at the hearing of a motion
+  - Opposition to the motion on its merits
+agreements: 
+  - No agreements mentioned
+laws: 
+  - Civil Code section 3115
+  - Civil Code section 8414
+  - N/A (no other laws mentioned)
+case_citations: 
+  - Tate v. Superior Court (1975) 45 Cal.App.3d 925, 930
+  - Alliance Bank v. Murray (1984) 161 Cal.App.3d 1, 7–8
+statutes: 
+  - Civil Code section 3115
+  - Civil Code section 8414
+roles: 
+  - Judge
+  - Plaintiffs
+  - Defendant
+significant_statements: 
+  - "It is well settled that the appearance of a party at the hearing of a motion and his or her opposition to the motion on its merits is a waiver of any defects or irregularities in the notice of motion."
+  - "A party who appears and contests a motion in the court below cannot object on appeal or by seeking extraordinary relief in the appellate court that he had no notice of the motion or that the notice was insufficient or defective."
+```
+
+And here is the English-text summary:
+
+This tentative ruling addresses several issues related to a petition for a mechanics lien. The judge notes that the plaintiff's notice of motion is defective, but since the plaintiff appeared and contested the motion, they have waived any defects or irregularities in the notice. The judge also finds that the defendant's petition for release of the second mechanics lien is similarly defective. Additionally, the judge notes that the plaintiff's opposition to the petition for the second mechanics lien raises an issue about the sufficiency of notice, but finds that the plaintiff has waived this objection as well. The judge points out that the plaintiff's request for attorney's fees was not included in the notice of the petition, and that the defendant's petition for release of the second mechanics lien also fails to include such a request.

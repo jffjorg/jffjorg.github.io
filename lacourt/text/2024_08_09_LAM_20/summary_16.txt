@@ -1,0 +1,69 @@
+Here is the summary in YAML format:
+
+```
+case_number: 2024-001234
+plaintiff_name: Olivier Demussat
+defendant_name: Stassia Stakis
+people_names:
+  - Olivier Demussat
+  - Stassia Stakis
+  - Susan Edwards Driskel
+company_names:
+  - COUNTS LAW FIRM, PC
+places:
+  - California
+dates:
+  - February 14, 2024
+  - May 10, 2024
+  - May 13, 2024
+  - July 2, 2024
+  - July 3, 2024
+events:
+  - Complaint filed
+  - Default judgment entered
+  - Motion to Set Aside Default/Default Judgment filed
+money:
+  - $60,067.61
+intensions:
+  - Stakis seeks to set aside default and default judgment
+facts:
+  - Stakis believed she did not need to file an answer
+  - Stakis retained counsel in June 2024
+  - Default judgment was entered on May 10, 2024
+  - Stakis' agent left a voicemail on May 13, 2024
+disputes:
+  - Stakis' negligence in not retaining counsel sooner
+  - Stakis' lack of diligence in filing the motion
+acts:
+  - Stakis filed a Motion to Set Aside Default/Default Judgment
+  - Plaintiff filed a Complaint
+  - Default judgment was entered
+agreements:
+  - None
+laws:
+  - Code Civ. Proc. § 473(b)
+  - Hopkins & Carley v. Gens (2011)
+  - Hearn v. Howard (2009)
+  - Henderson v. Pac. Gas & Elec. Co. (2010)
+  - Younessi v. Woolf (2016)
+case_citations:
+  - Code Civ. Proc. § 473(b)
+  - Hopkins & Carley v. Gens (2011)
+  - Hearn v. Howard (2009)
+  - Henderson v. Pac. Gas & Elec. Co. (2010)
+  - Younessi v. Woolf (2016)
+statutes:
+  - Code Civ. Proc. § 473(b)
+roles:
+  - Judge
+  - Olivier Demussat (Plaintiff)
+  - Stassia Stakis (Defendant)
+  - Susan Edwards Driskel (Agent)
+significant_statements:
+  - The court finds that Stakis' mistake was inexcusable
+  - Stakis' negligence in not retaining counsel sooner and lack of diligence in filing the motion warrants denial of the motion
+```
+
+And here is the English summary:
+
+The Judge has issued a tentative ruling denying Stassia Stakis' Motion to Set Aside Default/Default Judgment. Stakis alleged that she mistakenly believed she did not need to file an answer and only retained counsel in June 2024, after a default judgment was entered. However, the court finds that Stakis' mistake was inexcusable, as she had an obligation to file a responsive pleading. Furthermore, Stakis' agent left a voicemail in May 2024, indicating that she was aware of the possibility of a default judgment, which raises questions about her credibility and diligence in filing the motion. The court concludes that the motion is denied, and Stakis must give notice.

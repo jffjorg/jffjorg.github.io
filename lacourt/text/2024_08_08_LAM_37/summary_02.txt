@@ -1,0 +1,69 @@
+Here is a summary of the tentative ruling in YAML format:
+
+```
+Case Number: 22STCV32363
+Plaintiff's Name: Boyle Flats Food & Beverage, Inc., et al.
+Defendant's Name: Alex Koons, Daleyn Accountancy, Inc.
+People-Names:
+  - Ted Yenawine
+  - Alex Koons
+Companies:
+  - Boyle Flats Food & Beverage, Inc.
+  - Daleyn Accountancy, Inc.
+Places:
+  - California
+Dates:
+  - July 22, 2024
+  - August 8, 2024
+  - June 23, 2021
+  - October 23, 2023
+  - February 28, 2024
+  - May 28, 2024
+Events:
+  - Demurrer with Motion to Strike Third Amended Complaint
+  - Motion to Strike
+  - Demurrer
+  - Leave to Amend
+Money:
+  - $949,000
+  - $479,900
+  - $150,000
+Intentions:
+  - To sustain the demurrer with leave to amend
+  - To deny the motion to strike
+Facts:
+  - Boyle Flats Food & Beverage, Inc. was formed by Ted Yenawine and Alex Koons
+  - Koons took money from BFFB's bank accounts for his own use
+  - Koons applied for an Emergency Incident Disaster Loan (EIDL) in BFFB's name
+  - Daleyn Accountancy, Inc. was the accounting firm for BFFB
+Disputes:
+  - Whether Yenawine had standing to bring the action on behalf of BFFB
+  - Whether Daleyn had a fiduciary duty to BFFB
+  - Whether Daleyn's actions were fraudulent
+Acts:
+  - Koons taking money from BFFB's bank accounts
+  - Koons applying for an EIDL in BFFB's name
+  - Daleyn assisting Koons in these actions
+Agreements:
+  - Daleyn Contract between BFFB and Daleyn Accountancy, Inc.
+Laws:
+  - California Code of Regulations 16:56-56.3 and 16.57
+  - California Civil Code 207, 312, 315, and 316(c)
+Case Citations:
+  - Anmaco, Inc. v. Bohlken (1993)
+  - Leader v. Health Industries of America, Inc. (2001)
+  - Icon Internet Media, Inc. v. Johnson (C.D. Cal., Oct. 22, 2021)
+  - Sealand Inv. Corp. v. Emprise Inc. (1961)
+  - O'Flaherty v. Belgum (2004)
+  - Del E. Webb Corp. v. Structural Materials Co. (1981)
+  - City of Hope National Medical Center v. Genentech, Inc. (2008)
+  - Fremont Indemnity Co. v. Fremont General Corp. (2007)
+Roles:
+  - Judge: The judge is reviewing the demurrer and motion to strike
+  - Plaintiff: Boyle Flats Food & Beverage, Inc. and Ted Yenawine
+  - Defendant: Alex Koons and Daleyn Accountancy, Inc.
+Significant Statements:
+  - The judge sustains the demurrer with leave to amend
+  - The motion to strike is denied
+  - The court sets the OSC RE: Amended Complaint for August 30, 2024
+```

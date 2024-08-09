@@ -1,0 +1,59 @@
+Here is the summary in YAML format:
+
+```
+case_number: 23STCV20322
+plaintiff: Insurance Company of the West
+defendant: Cold Systems, Inc. (dba Super-Cool Refrigeration)
+people_names:
+  - Judge Kerry Bensinger
+company_names:
+  - Insurance Company of the West
+  - Cold Systems, Inc.
+places:
+  - Superior Court
+dates:
+  - August 24, 2023
+  - December 27, 2023
+  - June 5, 2024
+  - August 8, 2024
+events:
+  - Breach of contract
+  - Failure to pay premiums
+  - Default judgment
+  - Dismissal of Doe Defendants
+money:
+  - $32,361.88
+  - $2,490.32
+  - $34,852.20
+intentions:
+  - Plaintiff seeks default judgment against Defendant
+facts:
+  - Plaintiff issued insurance policy to Defendant
+  - Defendant failed to pay premiums
+  - Default entered against Defendant
+  - Doe Defendants were dismissed
+disputes:
+  - Breach of contract dispute between Plaintiff and Defendant
+acts:
+  - Plaintiff filed Complaint
+  - Clerk of the court entered default against Defendant
+  - Doe Defendants were dismissed
+  - Plaintiff seeks default judgment
+agreements:
+  - Insurance policy between Plaintiff and Defendant
+laws:
+  - California laws regarding breach of contract and default judgments
+case_citations: N/A
+statutes: N/A
+roles:
+  - Judge Kerry Bensinger: presiding judge
+  - Insurance Company of the West: plaintiff
+  - Cold Systems, Inc.: defendant
+significant_statements:
+  - "Upon review, the court finds Plaintiff substantiates the judgment sought."
+    "The application for default judgment filed on June 5, 2024, is GRANTED."
+```
+
+And here is the English-text summary:
+
+Judge Kerry Bensinger issued a tentative ruling in the case of Insurance Company of the West v. Cold Systems, Inc. (23STCV20322). The case involves a breach of contract dispute, where the plaintiff, Insurance Company of the West, is seeking a default judgment against the defendant, Cold Systems, Inc., for failing to pay premiums owed under an insurance policy. The plaintiff filed a complaint on August 24, 2023, and the clerk of the court entered default against the defendant on December 27, 2023. The Doe defendants were dismissed on June 5, 2024. The plaintiff is seeking a default judgment in the amount of $34,852.20, consisting of $32,361.88 in damages and $2,490.32 in costs. The court has granted the plaintiff's application for default judgment and vacated the order to show cause.

@@ -1,0 +1,62 @@
+Here is the summary in YAML format:
+```
+case_number: 23VECV00991
+plaintiff_name: Fatemeh Kazemi
+defendant_names:
+  - Michael Alan Jack
+  - Kimberly Renee Gordon
+people_names:
+  - Fatemeh Kazemi
+  - Michael Alan Jack
+  - Kimberly Renee Gordon
+company_names:
+  - CITY OF LOS ANGELES
+places:
+  - Los Angeles
+dates:
+  - August 7, 2024
+  - July 25, 2024
+  - 1985
+  - 1987
+events:
+  - Settlement agreement
+  - Motion for determination of good faith settlement
+  - Cross-complaint
+money:
+  - $25,000.00
+intentions:
+  - Show good faith
+  - Oppose good faith
+facts:
+  - Settlement agreement between Plaintiff and Defendants
+  - Non-settling defendants did not oppose the motion
+  - Deadline to file opposition passed
+disputes:
+  - Good faith of settlement agreement
+acts:
+  - Settlement agreement
+  - Motion for determination of good faith settlement
+  - Filing opposition
+agreements:
+  - Settlement agreement between Plaintiff and Defendants
+laws:
+  - Code Civ. Proc. § 877.6
+  - City of Grand Terrace v. Superior Court (1987)
+  - Tech-Bilt, Inc. v. Woodward-Clyde & Associates (1985)
+case_citations:
+  - City of Grand Terrace v. Superior Court (1987)
+  - Tech-Bilt, Inc. v. Woodward-Clyde & Associates (1985)
+statutes:
+  - Code Civ. Proc. § 877.6
+roles:
+  - Judge
+  - Plaintiff (Fatemeh Kazemi)
+  - Defendants (Michael Alan Jack and Kimberly Renee Gordon)
+  - Cross-complainant (CITY OF LOS ANGELES)
+significant_statements:
+  - "Without an opposition, there is no showing that the settlement agreement lacks good faith."
+  - "The motion is persuasive."
+```
+And here is the English-text summary:
+
+This tentative ruling grants the motion for determination of good faith settlement filed by defendants Michael Alan Jack and Kimberly Renee Gordon regarding the settlement agreement with plaintiff Fatemeh Kazemi. The settlement amount is $25,000.00. The defendants have satisfied the Tech-Bilt Factors and the non-settling defendants did not oppose the motion. As a result, the court finds that the settlement agreement lacks good faith and grants the motion. The cross-complaint against the defendants is dismissed with prejudice and all further cross-complaints are barred.

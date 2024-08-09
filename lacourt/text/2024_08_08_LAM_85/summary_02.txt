@@ -1,0 +1,56 @@
+Here is the summary in YAML format:
+
+```
+case_number: " unknown "
+plaintiff_name: " unknown "
+defendant_name: " unknown "
+people_names:
+  - GS
+  - Diehl
+  - Forman
+company_names:
+  - GSS
+  - GST
+places: []
+dates:
+  - " unknown "
+events:
+  - " ISO hearing "
+  - " patrol "
+  - " advertisement "
+money: []
+intentions:
+  - " discipline of GS's licensure "
+  - " verified by the court "
+facts:
+  - " Petitioners used the term 'ranger' on uniforms or patches "
+  - " Petitioners used 'ranger patrol' on All Terrain Vehicles "
+  - " No discipline was imposed against GSS and GST "
+disputes:
+  - " Issue with Diehl's declaration "
+  - " First cause "
+acts:
+  - " Opening brief "
+  - " Joint appendix "
+  - " BSIS's Decision "
+  - " ALJ's Proposed Decision "
+  - " Reply "
+agreements: []
+laws:
+  - " unknown "
+case_citations: []
+statutes: []
+roles:
+  - " Judge "
+  - " Petitioners "
+  - " Complainant "
+  - " ALJ "
+  - " BSIS "
+significant_statements:
+  - " Petition does not refer to discipline of GS's licensure "
+  - " Petitioners' opening brief mostly cites their own evidence "
+```
+
+And here is the English-text summary:
+
+The Judge's tentative ruling addresses several points related to the case. Although the petition does not mention discipline of GS's licensure, the petitioners' opening brief does refer to discipline of GS's licensure. The petitioners admitted to using the term "ranger" on uniforms and patches for advertisement purposes and on All Terrain Vehicles used for patrol. The Judge notes that some citations referred to in the petitioners' opening brief were not verified by the court. The petitioners argue that their opening brief cites the Administrative Record 35 times, but the Judge points out that most of these citations refer to their own evidence or the ALJ's findings. The Judge also addresses issues with Diehl's declaration and the first cause of the case.

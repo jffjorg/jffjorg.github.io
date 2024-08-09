@@ -1,0 +1,51 @@
+Here is the summary in YAML format:
+
+```
+case_number: 23NWCV01400
+plaintiff_name: Ernesto Escobar Chavez
+defendant_name: Arce
+people_names:
+  - Ernesto Escobar Chavez
+  - Arce
+company_names: []
+places: []
+dates:
+  - 08/08/24
+  - 09/25/2023
+  - 07/10/2024
+  - 08/06/2024
+events:
+  - Motion to Compel
+  - Failure to respond to discovery
+money:
+  - $705.00
+intentions:
+  - Compel plaintiff to respond to discovery
+facts:
+  - Discovery was properly served on plaintiff
+  - Deadlines to respond have expired
+  - No responses of any kind have been provided
+disputes:
+  - Plaintiff's failure to respond to discovery
+acts:
+  - Defendant filed motion to compel
+  - Plaintiff failed to respond to discovery
+agreements: []
+laws:
+  - CCP §§ 2030.290, 2031.300
+  - Sinaiko Healthcare Consulting, Inc. v. Pac. Healthcare Consultants (2007) 148 Cal.App.4th 390, 404
+case_citations: []
+statutes:
+  - CCP
+roles:
+  - Judge
+  - Plaintiff
+  - Defendant
+significant_statements:
+  - The failure to timely respond also waives all objections.
+  - If any objections are asserted, it will be tantamount to no response at all and will be deemed a violation of this Court's order.
+```
+
+And here is the English-text summary:
+
+The Judge has issued a tentative ruling on the motions filed by the defendant, Arce, to compel the plaintiff, Ernesto Escobar Chavez, to respond to discovery requests. The motions were unopposed and the Judge has granted them. The plaintiff failed to respond to the discovery requests, which were properly served on September 25, 2023, and the deadlines to respond have expired. The Judge has ordered the plaintiff to provide verified responses and documents within 30 days, and has also granted reasonable sanctions in the amount of $705.00 to be paid by the plaintiff and their counsel. The Judge notes that the failure to timely respond to discovery waives all objections and that any further objections will be deemed a violation of the Court's order.

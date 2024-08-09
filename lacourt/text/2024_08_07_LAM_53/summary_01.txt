@@ -1,0 +1,55 @@
+Here is the summary of the tentative ruling in YAML format:
+
+```
+case_number: 21STCV10823
+hearing_date: 2024-08-07
+department: 53
+county: Los Angeles
+district: Central
+
+parties:
+  - Plaintiff: John Christian Lukes
+  - Defendant: Wells Fargo Bank, N.A.
+  - Defendant: Wells Fargo & Company
+  - Defendant: Stephen R. Silk
+  - Defendant: Timothy J. Sloan
+  - Defendant: John R. Lukes
+  - Defendant: Jay Wm. Cervenka
+  - Defendant: Cervenka & Lukes Mortgage Broker (CLMB)
+
+facts:
+  - Plaintiff alleged that Wells Fargo Defendants and CLMB entered into an oral finder's fee agreement
+  - Plaintiff claimed that Wells Fargo Defendants breached the agreement by failing to pay the finder's fee
+  - Wells Fargo Defendants argued that the statute of limitations bars the claim
+  - Wells Fargo Defendants argued that the oral agreement was barred by the statute of frauds
+  - Plaintiff claimed that he did not discover the breach until March 2020
+
+issues:
+  - Statute of Limitations
+  - Statute of Frauds
+  - Existence of a Contract
+
+disputes:
+  - Whether the statute of limitations bars the claim
+  - Whether the oral agreement was barred by the statute of frauds
+  - Whether the existence of a contract can be established
+
+acts:
+  - Plaintiff alleged that Wells Fargo Defendants and CLMB entered into an oral finder's fee agreement
+  - Wells Fargo Defendants alleged that the agreement was breached
+  - Wells Fargo Defendants argued that the statute of limitations and statute of frauds bars the claim
+
+agreements:
+  - Oral finder's fee agreement between Wells Fargo Defendants and CLMB
+  - No written agreement was executed
+
+laws:
+  - California Code of Civil Procedure, Section 437c
+  - California Civil Code, Section 1624
+  - Evidence Code, Section 452
+
+citations:
+  - Aguilar v. Atlantic Richfield Co. (2001) 25 Cal.4th 826
+  - Adler v. Manor Healthcare Corp. (1992) 7 Cal.App.4th 1110
+  - Scalf v. D.B. Log Homes, Inc. (2005) 128 Cal.App.4th 1510
+  - Piedmont Capital Management, LLC v. Mc

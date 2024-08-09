@@ -1,0 +1,70 @@
+Here is the summary in YAML format:
+
+```
+case_number: 2021-001-XYZ
+plaintiff_name: Christopher Brown
+defendant_name: City of Compton, Compton Housing Authority, Delmonsha Green
+people_names:
+  - Christopher Brown
+  - Darren Richie
+  - Valdez
+  - Castillo
+company_names:
+  - Dre Law
+places:
+  - Santa Ana
+  - Beverly Hills
+  - Compton
+dates:
+  - October 18, 2021
+  - November 28, 2023
+  - December 20, 2023
+  - February 27, 2024
+events:
+  - Filing of First Amended Complaint
+  - Grant of summary judgment motion
+  - Entry of judgment
+  - Denial of motion for new trial
+  - Filing of motion to set aside dismissal
+money:
+  - None mentioned
+intentions:
+  - Plaintiff seeks to set aside dismissal
+facts:
+  - Plaintiff's attorney of record, Darren Richie, was not served with summary judgment motion
+  - Defense counsel communicated with Beverly Hills office, leading to service at that location only
+  - Plaintiff seeks mandatory relief under CCP § 473(b)
+disputes:
+  - Dispute over service of summary judgment motion
+  - Dispute over applicability of CCP § 473(b)
+acts:
+  - Filing of First Amended Complaint
+  - Grant of summary judgment motion
+  - Entry of judgment
+  - Denial of motion for new trial
+  - Filing of motion to set aside dismissal
+agreements:
+  - None mentioned
+laws:
+  - Unruh Act
+  - CCP § 473(b)
+  - CCP § 473(b) (mandatory relief provision)
+  - CCP § 473(b) (discretionary relief provision)
+statutes:
+  - CCP § 473(b)
+roles:
+  - Judge
+  - Plaintiff
+  - Defendant
+  - Attorney (Darren Richie)
+  - Attorney (Valdez)
+significant_statements:
+  - "it is true that the attorney of record information as to Richie has never changed"
+  - "it is not clear how Richie was involved thereafter"
+  - "the Court concludes that Dre Law's actions and omissions led Defendants to believe that service was proper at the Beverly Hills office"
+  - "the result might be different if a motion were filed under the mandatory provision of Code Civ. Proc. § 473(b)"
+```
+
+And here is the English-text summary:
+
+The judge has issued a tentative ruling on a motion to set aside a dismissal filed by the plaintiff, Christopher Brown. The plaintiff is seeking to set aside the dismissal based on the mandatory relief provision of CCP § 473(b), which allows for relief when an attorney's mistake, inadvertence, surprise, or neglect results in a default or dismissal. The judge has denied the motion, finding that the dismissal was not the procedural equivalent of a default and that the attorney's conduct was inexcusable. The judge has also incorporated the previous order denying the motion for new trial into this ruling.

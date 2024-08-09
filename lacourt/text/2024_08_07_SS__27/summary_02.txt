@@ -1,0 +1,97 @@
+Here is a summary of the judge's tentative ruling in YAML format:
+
+```
+case_number: 20STCV43198
+hearing_date: 2024-08-07
+dept: 27
+judge: Hon. Lee S. Arian
+
+parties:
+  - Plaintiff: Lisa Wiltrout
+  - Defendant: City of Alhambra
+
+people_names:
+  - Chris Kustra
+  - Kip Su
+  - Rick Vergara
+  - Luis Hernandez
+  - Tracy Hughley
+  - Brad Avrit
+
+company_names:
+  - City of Alhambra
+  - Road to Seoul Restaurant
+
+places:
+  - Alhambra
+  - Breezeway
+  - Garfield Avenue
+  - Parking garage
+
+dates:
+  - 2019-05-23
+  - 2019-02-19
+  - 2019-06-05
+  - 2019-09-05
+
+events:
+  - Plaintiff fell and fractured her ankle
+  - Inspection of the Breezeway
+  - Request for service
+  - Repairs to the Breezeway
+
+money:
+  - None
+
+intentions:
+  - Defendant City of Alhambra moved for summary judgment
+  - Plaintiff seeks to recover damages for injuries
+
+facts:
+  - Plaintiff fell on a sunken paver in the Breezeway
+  - Defendant City of Alhambra claims it had no notice of the alleged dangerous condition
+  - Inspectors did not observe any sunken pavers or other signs of a dangerous condition
+
+disputes:
+  - Whether the City of Alhambra had notice of the alleged dangerous condition
+  - Whether the City of Alhambra had a reasonable inspection program in place
+
+acts:
+  - Defendant City of Alhambra submitted a declaration from Chris Kustra
+  - Plaintiff submitted a declaration from Brad Avrit
+
+agreements:
+  - None
+
+laws:
+  - Government Code § 835
+  - Government Code § 835.2
+  - Code of Civil Procedure § 437c
+
+case_citations:
+  - Hinesley v. Oakshade Town Center (2005) 135 Cal.App.4th 289
+  - Scalf v. D. B. Log Homes, Inc. (2005) 128 Cal.App.4th 1510
+  - Consumer Cause, Inc. v. SmileCare (2001) 91 Cal.App.4th 454
+  - Aguilar v. Atlantic Richfield Co. (2001) 25 Cal.4th 826
+  - Gaggero v. Yura (2003) 108 Cal.App.4th 884
+  - Binder v. Aetna Life Ins. Co. (1999) 75 Cal.App.4th 832
+  - Weiss v. People ex rel. Department of Transportation (2020) 9 Cal.5th 840
+
+statutes:
+  - Government Code § 835
+  - Government Code § 835.2
+
+roles:
+  - Judge: Hon. Lee S. Arian
+  - Moving party: Defendant City of Alhambra
+  - Responding party: Plaintiffs
+
+significant_statements:
+  - Defendant City of Alhambra met its burden of showing it had no notice of the alleged dangerous condition
+  - Plaintiff failed to raise a triable issue of fact that the City had notice of the alleged dangerous condition
+  - The City's motion for summary judgment is granted
+```
+
+English-text summary:
+
+The judge granted the City of Alhambra's motion for summary judgment, ruling that the City had no notice of the alleged dangerous condition of the Breezeway, which caused the plaintiff, Lisa Wiltrout, to fall and fracture her ankle. The City submitted evidence that it did not have actual or constructive notice of the condition, including a declaration from Chris Kustra, the claim director, and testimony from Rick Vergara, a public works inspector. The plaintiff failed to raise a triable issue of fact that the City had notice of the condition, and the judge found that the City's inspection program was reasonable.
