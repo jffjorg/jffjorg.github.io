@@ -1,0 +1,71 @@
+Here is the summary in YAML format:
+
+```
+case_number: 19STCV18324
+plaintiff_name: Jose Valenzuela et al.
+defendant_name: A & E Alliance Repair, Arthur Hovsepyan, Five Star Appliance Repair Inc., Five Star Service Company, Mikhail Moiseyevich Khanukhov
+people_names: Jose Valenzuela, Arthur Hovsepyan, Mikhail Moiseyevich Khanukhov, Emily Manninger
+company_names: A & E Alliance Repair, Five Star Appliance Repair Inc., Five Star Service Company
+places: None
+dates:
+  - May 24, 2019
+  - June 2023
+  - August 1, 2023
+  - June 17, 2024
+  - October 20, 2023
+  - November 24, 2024
+events:
+  - Plaintiff files the present action
+  - Complaint is amended
+  - Court dismisses Five Star Appliance Repair Inc. from the action
+  - Defendant Khanukhov is served
+  - Defendant Five Star Service Company is not served
+money: None
+intentions:
+  - Defendant Khanukhov moves to dismiss the action against him
+  - Defendant Five Star Service Company moves to dismiss the action against it
+  - Plaintiff seeks to continue the action
+facts:
+  - Plaintiff has not served Defendant Five Star Service Company
+  - Defendant Khanukhov was served on October 20, 2023
+  - The five-year deadline for bringing the action to trial has been extended by six months
+  - The three-year deadline for serving the defendant has passed
+disputes:
+  - Whether the three-year deadline for serving the defendant has been waived
+  - Whether the five-year deadline for bringing the action to trial has been extended
+acts:
+  - Plaintiff files the present action
+  - Defendant Khanukhov is served
+  - Defendant Five Star Service Company is not served
+agreements:
+  - None
+laws:
+  - Code of Civil Procedure section 583.310
+  - Code of Civil Procedure section 583.210
+  - Code of Civil Procedure section 583.240
+  - Code of Civil Procedure section 583.250
+  - Code of Civil Procedure section 583.340
+case_citations:
+  - Higgins v. Superior Court (2017) 15 Cal.App.5th 973
+  - Lesko v. Superior Court (1982) 127 Cal.App.3d 476
+  - Watts v. Crawford (1995) 42 Cal.Rptr.2d 81
+  - Crane v. Dolihite (2021) 70 Cal.App.5th 772
+  - Shipley v. Sugita (1996) 50 Cal.App.4th 320
+statutes:
+  - Code of Civil Procedure section 583.310
+  - Code of Civil Procedure section 583.210
+  - Code of Civil Procedure section 583.240
+  - Code of Civil Procedure section 583.250
+roles:
+  - Judge: Hon. Lee S. Arian
+  - Plaintiff: Jose Valenzuela et al.
+  - Defendant: A & E Alliance Repair, Arthur Hovsepyan, Five Star Appliance Repair Inc., Five Star Service Company, Mikhail Moiseyevich Khanukhov
+significant_statements:
+  - The five-year deadline for bringing the action to trial has been extended by six months
+  - The three-year deadline for serving the defendant has passed
+  - The Court declines to toll the three-year deadline
+```
+
+And here is a summary of the judge's tentative ruling in English text:
+
+The defendant, Mikhail Moiseyevich Khanukhov, and Five Star Service Company, move to dismiss the action against them on the basis that the five-year deadline for bringing the action to trial has passed, and the three-year deadline for serving the defendant has also passed. The plaintiff argues that the deadlines should be tolled due to various reasons, including a stay of service caused by the defendant's bankruptcy and a delay in service due to the plaintiff's failure to discover relevant facts. However, the court finds that the plaintiff's arguments are unpersuasive and that the deadlines are not subject to tolling or extension. Therefore, the court grants the motion to dismiss the action against Khanukhov and Five Star Service Company, and the motion to quash service is moot.

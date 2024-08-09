@@ -1,0 +1,74 @@
+Here is the summary in YAML format:
+
+```
+case_number: 23STCV22032
+plaintiff_name: SHEILA ELIZABETH MERRILL
+defendant_name: KKR INVESTMENT PROPERTIES
+people_names:
+  - Sheila Elizabeth Merrill
+  - Michelle C. Kim
+company_names:
+  - KKR Investment Properties
+places:
+  - Los Angeles
+  - California
+dates:
+  - May 28, 2024
+  - April 2024
+  - April 22, 2024
+  - June 7, 2024
+  - June 10, 2024
+  - August 8, 2024
+  - August 9, 2024
+events:
+  - Filing of motion to compel deposition
+  - Failure to appear for deposition
+  - Granting of motion to be relieved as counsel
+  - Change in representation to pro per
+money: None
+intention: To deny the motion to compel deposition without prejudice
+facts:
+  - Defendant served a notice of deposition on Plaintiff
+  - Plaintiff's counsel did not provide alternative dates for deposition
+  - Defendant proceeded with the deposition date as noticed
+  - Plaintiff failed to appear for deposition
+  - Defendant seeks to compel Plaintiff to appear for deposition
+  - Plaintiff's counsel was relieved as counsel
+  - Plaintiff is now in pro per
+disputes:
+  - Dispute over failure to appear for deposition
+  - Dispute over requirement for meet and confer declaration
+acts:
+  - Filing of motion
+  - Service of notice of deposition
+  - Failure to appear for deposition
+  - Granting of motion to be relieved as counsel
+  - Change in representation to pro per
+agreements:
+  - Meet and confer declaration required for motion to compel deposition
+  - Parties encouraged to meet and confer before hearing
+laws:
+  - CCP § 2016.040
+  - CCP § 2025.450(b)(2)
+  - CCP § 2025.450(b)(1)
+case_citations:
+  - CCP § 2016.040
+  - CCP § 2025.450(b)(2)
+  - CCP § 2025.450(b)(1)
+statutes:
+  - CCP
+roles:
+  - Judge: Michelle C. Kim
+  - Plaintiff: SHEILA ELIZABETH MERRILL
+  - Defendant: KKR INVESTMENT PROPERTIES
+  - Counsel: Defendant's counsel
+  - Counsel: Plaintiff's former counsel
+  - Counsel: Plaintiff's current counsel (pro per)
+significant_statements:
+  - "The Court will not grant the motion until the requirement of Section 2025.450(b)(2) has been met, especially as Plaintiff is now in pro per."
+  - "The denial is without prejudice as to Defendant re-filing the motion with the required meet and confer declaration."
+```
+
+And here is the English summary:
+
+The Judge, Michelle C. Kim, has issued a tentative ruling denying without prejudice the motion to compel the deposition of Plaintiff Sheila Elizabeth Merrill. The Defendant, KKR Investment Properties, filed the motion after Plaintiff failed to appear for a deposition. Although Defendant served a notice of deposition on Plaintiff, Plaintiff's counsel did not provide alternative dates for the deposition. The Court finds that the Defendant did not meet the requirement of Section 2025.450(b)(2) of the California Code of Civil Procedure, which requires a meet and confer declaration before filing a motion to compel deposition. The Court will not grant the motion until this requirement is met, especially since Plaintiff is now representing herself in the case. The denial is without prejudice, meaning that Defendant can re-file the motion with the required meet and confer declaration.
