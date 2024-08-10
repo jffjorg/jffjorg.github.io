@@ -1,0 +1,62 @@
+Here is the summary in YAML format:
+
+```
+case_number: 23VECV00924
+hearing_date: August 13, 2024
+dept: 26
+parties:
+  - plaintiff: Hassan Aminghazaei
+  - defendant: Discover Bank
+people:
+  - Hassan Aminghazaei
+  - Armstrong (defense counsel)
+companies:
+  - Discover Bank
+places:
+  - None
+dates:
+  - September 18, 2023
+  - January 2, 2024
+  - June 25, 2024
+events:
+  - Service of Requests for Admission
+  - Filing of Motion to Deem Requests for Admission Admitted
+  - Continued hearing
+  - Award of sanctions
+money:
+  - $592.50 (amount of sanctions)
+intention:
+  - To deem Requests for Admission admitted and award sanctions
+facts:
+  - Defendant served Requests for Admission on September 18, 2023
+  - Plaintiff failed to timely serve verified responses
+  - No opposition was filed to the motion
+disputes:
+  - Plaintiff's failure to timely serve verified responses
+acts:
+  - Service of Requests for Admission
+  - Filing of Motion to Deem Requests for Admission Admitted
+  - Failure to timely serve verified responses
+agreements:
+  - None
+laws:
+  - California Code of Civil Procedure (CCP) § 2033.280
+  - California Code of Civil Procedure (CCP) § 2033.280, subd. (c)
+case_citations:
+  - None
+statutes:
+  - California Code of Civil Procedure (CCP) § 2033.280
+  - California Code of Civil Procedure (CCP) § 2033.280, subd. (c)
+roles:
+  - Judge
+  - Plaintiff (Hassan Aminghazaei)
+  - Defendant (Discover Bank)
+  - Defense counsel (Armstrong)
+significant_statements:
+  - Defendant's motion is granted
+  - Plaintiff is ordered to pay sanctions of $592.50
+```
+
+And here is a summary of the judge's tentative ruling in English text:
+
+The judge has granted the defendant's motion to deem the requests for admission admitted and to award sanctions. The plaintiff, Hassan Aminghazaei, has failed to timely serve verified responses to the requests for admission, which waived any objections he may have had. The judge has ordered the plaintiff to pay sanctions of $592.50 to the defense counsel, Armstrong, within 20 days of service of this order. The judge has also noted that the sanctions sought by the defendant are excessive, but has awarded the amount of $592.50 based on a lodestar calculation.

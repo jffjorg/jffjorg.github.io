@@ -1,0 +1,100 @@
+Here is the summary in YAML format:
+
+```
+case_number: 19LBCV00725
+hearing_date: 2024-08-13
+dept: S27
+
+people_names:
+  - ACMC Finance and Trade, LLC (Plaintiff)
+  - Energy Trading Company, LLC (Defendant)
+  - Petro Diamond, Inc. (Defendant)
+  - Jack Khachatryan (Defendant)
+  - Sona Apikian (Defendant)
+  - Sargis Khachatryan (Defendant)
+  - Gianni Saryan (Defendant)
+  - John Davids (Defendant)
+  - Dennis Rogers, Jr. (Defendant)
+  - John Gessin aka John Davis (Defaulted Defendant)
+  - Defense Counsel (unspecified)
+
+company_names:
+  - ACMC Finance and Trade, LLC
+  - Energy Trading Company, LLC
+  - Petro Diamond, Inc.
+
+places:
+  - Los Angeles County
+
+dates:
+  - 12/20/19 (filing date)
+  - 10/01/21 (default judgment prove-up hearing)
+  - 10/20/21 (default judgment entered)
+  - 10/21/21 (notice given)
+  - 3/24/22 (hearing and denial of motion to vacate default and default judgment)
+  - 6/21/22 (hearing and denial of motion for reconsideration)
+  - 3/15/24 (COA decision)
+  - 2024-08-13 (hearing date)
+
+events:
+  - Filing of complaint
+  - Default judgment prove-up hearing
+  - Entry of default judgment
+  - Notice given
+  - Motions to vacate default and default judgment
+  - Motion for reconsideration
+  - Appeal and denial by COA
+  - Threats by Defense Counsel
+
+money:
+  - $2,450,000 (amount of default judgment)
+
+intentions:
+  - Plaintiff seeks sanctions order against Defense Counsel
+  - Plaintiff seeks to have Defense Counsel cease threatening litigation
+
+facts:
+  - Plaintiff filed complaint against Defendants
+  - Default judgment entered against some Defendants
+  - Others moved to vacate default and default judgment, which was denied
+  - COA denied appeal and affirmed default judgment
+  - Defense Counsel threatened litigation against Plaintiff and its attorney
+
+disputes:
+  - Plaintiff's motion for sanctions against Defense Counsel
+
+acts:
+  - Filing of complaint
+  - Entry of default judgment
+  - Notice given
+  - Threats by Defense Counsel
+
+agreements:
+  - None
+
+laws:
+  - First Amendment (Constitutional law)
+  - Fair Debt Collection Practices Act (FDCPA)
+
+case_citations:
+  - None
+
+statutes:
+  - None
+
+roles:
+  - Plaintiff (ACMC Finance and Trade, LLC)
+  - Defendant (Energy Trading Company, LLC, Petro Diamond, Inc., etc.)
+  - Defense Counsel (unspecified)
+  - Court (Judge)
+
+significant_statements:
+  - The Court is not inclined to issue the order sought by Plaintiff
+  - Prior restraints on speech are reserved for the most serious of situations
+  - Plaintiff and its attorney have sufficient recourse if Defendants continue to act inappropriately
+  - The Court is not holding that Defense Counsel's communications are appropriate
+```
+
+And here is a summary of the judge's tentative ruling in English text:
+
+The judge is considering a motion for sanctions against Defense Counsel, who has been sending threatening emails to Plaintiff's attorney. The judge is not inclined to issue the order sought by Plaintiff, as Defense Counsel's threats are protected by the First Amendment. The judge notes that Plaintiff and its attorney have sufficient recourse if Defendants continue to act inappropriately, such as filing a lawsuit, filing an anti-SLAPP motion, demurring to the lawsuit, and suing for abuse of process and/or malicious prosecution. Therefore, the motion for sanctions is denied. The judge orders Plaintiff to give notice.

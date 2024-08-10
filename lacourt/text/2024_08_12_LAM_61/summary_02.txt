@@ -1,0 +1,57 @@
+Here is the summary in YAML format:
+
+```
+case_number: 24STCV07320
+plaintiff: ROSS LEVINSOHN, AN INDIVIDUAL
+defendant: THE ARENA GROUP HOLDINGS, INC., A DELAWARE CORPORATION, et al.
+people:
+  - Carlo Zola
+  - Laura Lee
+  - Christopher Petzel
+  - H. Hunt Allred
+  - Cavitt Randall
+  - Chris Fowler
+  - Adam M. Meehan
+  - Kerstin Miller
+company:
+  - THE ARENA GROUP HOLDINGS, INC.
+places:
+  - California
+  - Maryland
+  - District of Columbia
+  - Georgia
+dates:
+  - August 12, 2024
+events:
+  - Granting of pro hac vice application
+money: None
+intentions:
+  - To admit attorneys Adam M. Meehan and Kerstin Miller as counsel pro hac vice
+facts:
+  - Adam M. Meehan and Kerstin Miller are residents of Maryland
+  - Adam M. Meehan is admitted to practice in the State of Georgia
+  - Kerstin Miller is admitted to practice in the District of Columbia
+  - Neither has been suspended or disbarred by any court
+  - Neither has filed any pro hac vice application in California in the prior two years
+disputes:
+  - None
+acts:
+  - Notification of State Bar of these applications
+agreements:
+  - None
+laws:
+  - California laws
+case_citations: None
+statutes: None
+roles:
+  - Judge
+  - Plaintiffs
+  - Defendants
+  - Attorneys
+significant_statements:
+  - Applications are GRANTED
+```
+
+And here is the English-text summary:
+
+The Judge has issued a tentative ruling in the case of Ross Levisohn vs The Arena Group Holdings, Inc. et al. The defendants have applied to admit attorneys Adam M. Meehan and Kerstin Miller as counsel pro hac vice. The Judge has granted these applications, finding that Meehan and Miller are qualified to practice law in California and have paid the requisite fee to the State Bar. The moving party is required to give notice of this decision.

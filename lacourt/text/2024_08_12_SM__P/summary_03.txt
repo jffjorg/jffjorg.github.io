@@ -1,0 +1,69 @@
+Here is the summary in YAML format:
+
+```
+case_number: 23SMCV03130
+plaintiff_name: Ryder
+defendant_name: Karakashian
+people_names:
+  - Ryder
+  - Karakashian
+company_names: []
+places:
+  - California
+dates:
+  - January 17, 2024
+  - February 7, 2024
+  - July 9, 2024
+  - August 12, 2024
+events:
+  - Motor vehicle accident
+  - Deposition
+  - Motion for leave to take subsequent deposition
+  - Completion of deposition transcript
+money:
+  - $60,000 (loss of earnings claim)
+intentions:
+  - To seek leave to take a subsequent deposition
+  - To contend that good cause exists for a second deposition
+  - To argue that the motion is untimely
+facts:
+  - The deposition was scheduled for January 17, 2024
+  - The deposition lasted from 1:13 pm to around 6:13 pm
+  - The transcript was completed on February 7, 2024
+  - The motion was filed July 9, 2024
+disputes:
+  - Whether good cause exists for a second deposition
+  - Whether the motion is untimely
+acts:
+  - Deposition of Ryder on January 17, 2024
+  - Filing of motion for leave to take subsequent deposition on July 9, 2024
+  - Completion of deposition transcript on February 7, 2024
+agreements:
+  - Code Civ. Proc. section 2025.610
+  - Code Civ. Proc. section 2025.480
+  - Code Civ. Proc. section 2025.290
+laws:
+  - California Code of Civil Procedure
+  - Weinstein v. Blumberg (2018) 25 Cal.App.5th 316
+case_citations:
+  - Code Civ. Proc. section 2025.610
+  - Code Civ. Proc. section 2025.480
+  - Code Civ. Proc. section 2025.290
+  - Weinstein v. Blumberg (2018) 25 Cal.App.5th 316
+statutes:
+  - Code Civ. Proc. section 2025.610
+  - Code Civ. Proc. section 2025.480
+  - Code Civ. Proc. section 2025.290
+roles:
+  - Judge
+  - Plaintiff (Ryder)
+  - Defendant (Karakashian)
+  - Defense counsel
+significant_statements:
+  - "Notwithstanding subdivision (a), for good cause shown, the court may grant leave to take a subsequent deposition..."
+  - "The court agrees the issues about which defendant wishes to inquire are indeed relevant, but defendant fails to explain why the deposition was scheduled in the afternoon and why, in five hours and 121 pages of testimony, counsel did not have time to inquire about the issues raised."
+```
+
+And the English-text summary of the Judge's tentative ruling is:
+
+The defendant, Karakashian, moves for leave to take a subsequent deposition of the plaintiff, Ryder, citing good cause due to the court reporter's inability to complete the deposition and lack of time to inquire about Ryder's loss of earnings claim and prior and subsequent incidents. However, the Judge rules that the motion is untimely, as it was filed five months after the completion of the deposition transcript, and that Karakashian failed to establish good cause for a second deposition. The Judge notes that Karakashian did not explain why, in five hours, they were unable to inquire about the loss of earnings claim and other incidents, and that the defendant's failure to provide portions of the transcript where Ryder allegedly failed to answer questions is not sufficient to demonstrate good cause. The motion is therefore denied.

@@ -1,0 +1,55 @@
+Here is the summary in YAML format:
+
+```yaml
+Case Number: BS171465
+Plaintiff's Name: National Pacific Corporation
+Defendant's Name: Wayne Himselsein
+People-Names:
+  - Wayne Himselsein
+  - Judgment Creditor National Pacific Corporation
+Company-Names:
+  - National Pacific Corporation
+  - Innovation Advisory Group, Inc.
+Places:
+  - None
+Dates:
+  - August 12, 2024
+Events:
+  - Motion to Quash
+  - Notice of Judgment Debtor Examination
+  - Service of Process
+Money:
+  - $250
+Intentions:
+  - Compel judgment debtor examination
+Facts:
+  - National Pacific has a judgment against Innovation Advisory Group, Inc.
+  - Wayne Himselsein is a corporate officer of Innovation Advisory Group, Inc.
+  - Himselsein refused to accept notice of judgment debtor examination
+Disputes:
+  - Whether National Pacific has good cause to conduct a judgment debtor examination
+Acts:
+  - Service of process on Himselsein's steps
+Agreements:
+  - Code of Civil Procedure, § 708.120, subdivision (a)
+  - Code of Civil Procedure, § 708.150, subdivision (c)(3)
+  - Code of Civil Procedure, § 416.10, subdivision (b)
+Laws:
+  - California Code of Civil Procedure
+Statutes:
+  - California Code of Civil Procedure, § 708.120
+  - California Code of Civil Procedure, § 708.150
+  - California Code of Civil Procedure, § 416.10
+Roles:
+  - Wayne Himselsein (Third Party)
+  - National Pacific Corporation (Judgment Creditor)
+Significant Statements:
+  - The court may order a third party to appear for examination if the judgment creditor has made an adequate showing the third party is in possession or control of property in which the judgment debtor has an interest or the third party is indebted to the debtor for more than $250.
+  - National Pacific is authorized to serve Innovation Advisory by way of service on Himselsein.
+  - Service on Himselsein's steps constitutes valid service on Innovation Advisory.
+  - National Pacific is entitled to conduct a judgment debtor examination as it has a judgment against Innovation Advisory.
+```
+
+And here is the English text to summarize the judge's tentative ruling:
+
+The court denies the motion to quash filed by Wayne Himselsein, a third party, to block a notice of judgment debtor examination served on him by National Pacific Corporation, the judgment creditor. The court finds that National Pacific is entitled to conduct a judgment debtor examination on Innovation Advisory Group, Inc., which is owned and/or controlled by Himselsein, as it has a judgment against Innovation Advisory. The court also finds that National Pacific properly served Innovation Advisory by serving Himselsein, who refused to accept the notice of judgment debtor examination.

@@ -1,0 +1,71 @@
+Here is the summary in YAML format:
+
+```
+case_number: 24PSCV01022
+plaintiff: Madelynn Carranza
+defendant: Bell's Lashes, Steven Zou
+people_names:
+  - Madelynn Carranza
+  - Steven Zou
+company_names:
+  - Bell's Lashes
+  - Lash Stuff LLC
+places:
+  - None
+dates:
+  - April 2, 2024
+  - May 6, 2024
+  - May 7, 2024
+  - June 25, 2024
+  - July 4, 2024
+  - July 8, 2024
+  - July 9, 2024
+  - August 14, 2024
+events:
+  - Brow lamination procedure
+  - Filing of complaint
+  - Filing of cross-complaint
+  - Filing of demurrer
+  - Filing of amended cross-complaint
+  - Case Management Conference
+money:
+  - None
+intentions:
+  - To resolve disputes between parties
+facts:
+  - Plaintiff suffered injuries due to defective product
+  - Defendant demurred to third cause of action in cross-complaint
+  - Plaintiff filed timely amended cross-complaint
+disputes:
+  - Demurrer to cross-complaint
+acts:
+  - Bell's Lashes and Zou filed demurrer
+  - Lash Stuff LLC filed amended cross-complaint
+  - Plaintiff filed amendment to complaint
+agreements:
+  - Code of Civil Procedure § 430.10
+  - Code of Civil Procedure § 472
+  - Code of Civil Procedure § 1005
+  - Code of Civil Procedure § 1010.6
+laws:
+  - California Code of Civil Procedure
+case_citations:
+  - Code of Civil Procedure § 430.10
+  - Code of Civil Procedure § 472
+  - Code of Civil Procedure § 1005
+  - Code of Civil Procedure § 1010.6
+statutes:
+  - None
+roles:
+  - Judge
+  - Plaintiff (Madelynn Carranza)
+  - Defendant (Bell's Lashes and Steven Zou)
+  - Lash Stuff LLC
+significant_statements:
+  - The Court takes the demurrer hearing off calendar based on its conclusion that Lash Stuff LLC filed a timely amended cross-complaint.
+  - The Court observes that the demurrer was filed and electronically served on June 25, 2024, but should have been electronically served by June 21, 2024.
+```
+
+And here is a summary of the judge's tentative ruling in English text:
+
+The Court has issued a tentative ruling regarding the demurrer filed by Bell's Lashes and Steven Zou to the third cause of action in Lash Stuff LLC's cross-complaint. The Court finds that Lash Stuff LLC filed a timely amended cross-complaint, therefore, the demurrer hearing is taken off calendar. The Court notes that the demurrer was filed and electronically served on June 25, 2024, but should have been electronically served by June 21, 2024, to provide the requisite notice. Despite this, the amended cross-complaint was filed and electronically served on July 8, 2024, within the time set forth in Code of Civil Procedure § 472. As a result, the Court vacates the hearing on the demurrer and the Case Management Conference remains scheduled for August 14, 2024.
