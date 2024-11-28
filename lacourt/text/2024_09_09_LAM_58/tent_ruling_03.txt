@@ -1,0 +1,67 @@
+
+
+
+[1]
+            A
+leading case explains the function of the IP address.  “A computer attached to the Internet uses a
+unique numerical address called an Internet Protocol address, or IP address, to
+identify itself to other computers. Nat'l Cable & Telecomm. Ass'n v.
+Brand X Internet Svcs., 545 U.S. 967, 987 n. 1 (2005) (“IP addresses
+identify computers on the Internet, enabling data packets transmitted from
+other computers to reach them.”); United States v. Yu, 411 Fed.Appx.
+559, 560 n. 1 (4th Cir. 2010) (“Each computer connected to the Internet is
+assigned a unique numerical address, otherwise known as an Internet protocol or
+IP address, to identify itself and facilitate the orderly flow of electronic
+traffic”) (quoting Peterson v. Nat'l Telecomm'ns & Info. Admin., 478
+F.3d 626, 629 (4th Cir.2007)). In computer terms, an IP address is a 32–bit
+integer that can be stamped on network communications or translated into
+human-readable format. The most basic communication standard underlying the
+Internet, called the Internet Protocol, uses IP addresses to transmit bundles
+of data, called “packets,” through the network. [Citation.] …Each packet is
+stamped with a source IP address and a destination IP address, and every time a
+router receives a packet, it examines the destination address, looks up routing
+information for that address in the database, and forwards the packet toward
+the right network. [Citation.] This process is repeated until the packet
+reaches a router that can transmit directly to the destination IP address. Clearly,
+correct IP addressing information is essential to Internet technology.
+“A human user may not know the specific IP address
+assigned to her network connection, or the IP address of a remote computer or
+website, even though the computer must know those addresses as a prerequisite
+to Internet communications…. Thus, when a person attempts to access a named
+computer, the person's computer finds the IP address of the remote site by
+matching, or “resolving,” the name to the proper IP address, then contacts the
+website over the Internet using that IP address.
+“From the perspective of the destination computer, it
+is an extraordinarily simple task to determine the IP address of the computer
+seeking to access it…. Most websites maintain standard logs of connecting IP
+addresses, along with date and time information, and may even include
+information about the user associated with the connection. [Citation.] Such
+information is routinely gathered to evaluate usage patterns, engage in site
+marketing analysis, troubleshoot problems, or to gather feedback.. . . .
+“IP address information, by itself, cannot identify a
+particular person.” 
+(In re Application of the U.S. for an Order Pursuant to 18 U.S.C.
+sec. 2703(d) (E.D. Va. 2011) 830 F.Supp.2d 114, 119-120.)
+
+
+[2]       “Electronic
+communication” is broadly defined to include “any transfer of signs, signals,
+writing, images, sounds, data, or intelligence of any nature in whole or in
+part by a wire, radio, electromagnetic, photoelectric or photo-optical system.”
+(Pen. Code, § 629.51, subd. (a)(2).)  The broad definition of “electronic
+communications” reasonably indicates that an electronic communications service
+provider includes website operators. 
+Plaintiff’s argument that Defendant is not an electronic communications
+service provider lacks support. Her argument that Defendant as a website
+operator is not an internet service provider or a wireless telephone company
+are irrelevant. The text of the pen register statute does not impose liability
+on website operators that obtain IP addresses as a matter of course when users
+access their site.
+
+
+[3]
+            Despite
+Plaintiff’s murky allusions to an unnamed “developer” of the purported
+“beacon,” she nowhere alleges that Defendant shared Plaintiff’s computer’s IP
+address with anyone else without Plaintiff’s consent.
+

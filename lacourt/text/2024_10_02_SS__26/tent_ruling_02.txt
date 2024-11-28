@@ -1,0 +1,129 @@
+ Case Number:  24STCV08972    Hearing Date:   October 2, 2024    Dept:  26 Rodriguez
+v. Plivo, Inc., et al.DEMURRER(CCP § 430.10, et seq.)
+TENTATIVE RULING:
+ 
+Defendant
+Plivo, Inc. dba www.plivo.com’s Demurrer to the First Amended Complaint is
+SUSTAINED WITHOUT LEAVE TO AMEND.
+ 
+ 
+ANALYSIS: 
+ 
+On April 10, 2024, Plaintiff Rebeka Rodriguez (“Plaintiff”) filed the Complaint in this action against
+Defendant Plivo, Inc. dba www.plivo.com (“Defendant”). Following the filing of
+Defendant’s demurrer to the Complaint, Plaintiff filed the First Amended
+Complaint on June 24, 2024. 
+ 
+Defendant
+filed the instant Demurrer to the First Amended
+Complaint on August 26, 2024. No opposition has been filed to date. 
+ 
+Discussion
+
+ 
+Allegations in the First Amended Complaint
+ 
+The First Amended Complaint alleges a single cause of action
+for violation of the California Invasion of Privacy Act (“CIPA”) at Penal Code section
+638.51(a). Plaintiff alleges that Defendant secretly deployed spyware at its
+website, www.plivo.com/ (the “Website”) that accesses visitors’ devices and
+installed tracking spyware before obtaining consent to do so, and then monitors
+and reports visitors’ online habits after they leave the Website. (FAC, p. 2:2-3.)
+Plaintiff recently visited Defendant’s Website and without Plaintiff’s
+knowledge or consent, Defendant secretly accessed Plaintiff’s device and
+installed “pen register” and “trap and trace” tracking software in violation of
+California law. (Id. at p. 2:5-7.) Cal. Penal Code section 638.51(a) prohibits
+any “person” from “install[ing] or us[ing] a pen register or a trap and trace
+device without first obtaining a court order.” (Id. at ¶10.) Defendant
+installs the pen register or trap and trace device (“PR/TT”) beacon on the
+user’s browser, and such PR/TT beacon collects users’ IP addresses. (Id.
+at ¶37.) Defendant uses the PR/TT beacon to “digitally fingerprint” each
+visitor but at no time prior to use of the PR/TT beacon obtained users’ consent
+or a court order. (Id. at ¶¶52-53.) As a result, Plaintiff had her
+privacy invaded by Defendant’s violations of Penal Code section 638.51(a). (Id.
+at ¶¶75.)
+ 
+Demurrer
+ 
+Defendant demurs to the First
+Amended Complaint for failure to allege facts sufficient to state a cause of
+action. (Citing Code Civ. Proc., § 430.10, subd. (e).) The demurrer is
+accompanied by a meet and confer declaration as required by Code of Civil Procedure
+section 430.41. (Motion, Pearson Decl., ¶3.) 
+ 
+The demurrer is brought on the grounds that section 638.51
+of the CIPA does not prohibit the used of technology on a website to collect
+visitors’ IP addresses and the First Amended Complaint does not allege facts
+that plausibly establish the use of a pen register. Penal Code section 638.51
+subdivision (a) states in relevant part: “Except as provided in subdivision
+(b), a person may not install or use a pen register or a trap and trace device
+without first obtaining a court order pursuant to Section
+638.52 or 638.53.”
+(Pen. Code, § 638.51, subd. (a).) A pen register is defined as “a device or
+process that records or decodes dialing, routing, addressing, or signaling
+information transmitted by an instrument or facility from which a wire or
+electronic communication is transmitted, but not the contents of a
+communication.” (Pen. Code, § 638.50, subd. (b).) 
+ 
+As there are no controlling state law cases on this statute,
+the Court must look to federal court rulings for guidance. In determining
+whether a device is a pen register, courts must look to the type of information
+being collected and not the device or process. (Greenley v. Kochava, Inc.
+(S.D. Cal. 2023) 684 F.Supp.3d 1024, 1050.) This is because what constitutes a
+pen register has changed as technology has shifted from telephone communication
+to internet-based communications. (In re Application of U.S. for an Ord.
+Authorizing use of A Pen Reg. & Trap On (XXX) Internet Serv. Acct./User
+Name, (xxxxxxxx@xxx.com) (D. Mass. 2005) 396 F. Supp. 2d 45, 47; Greenley,
+supra, 684 F.Supp.3d at 1050.) 
+ 
+Defendant argues that Plaintiff’s IP address is not the type
+of information that parties are prohibited from collecting by CIPA. First,
+because Plaintiff voluntarily provided the information and could have no
+expectation of privacy in it. (See Smith v. Maryland (1979) 442 U.S.
+735, 744.) This is implicit in the allegations explaining “the IP address enables
+a device to communicate with another device—such as a computer’s browser
+communicating with a server.” (FAC, ¶35.) Plaintiff’s computer could not have
+accessed Defendant’s website unless it provided her IP address. 
+ 
+Second, Plaintiff’s IP address is not the type of
+information collected by pen registers. Pen registers collect outgoing
+information, such as outgoing telephone numbers, outgoing email addresses, IP
+addresses of websites visited, location data that reveals sensitive
+information, and cell site information. (In re Application of U.S. for an
+Ord. Authorizing use of A Pen Reg. & Trap, supra, 396 F. Supp. 2d at 48;
+Greenley, supra, 684 F.Supp.3d at 1047; (In re Application of U.S.
+for an Ord. for Disclosure of Telecommunications Recs. & Authorizing the
+Use of a Pen Reg. & Trap & Trace (S.D.N.Y. 2005) 405 F. Supp. 2d
+435, 441; United States v. Forrester (9th Cir. 2008) 512 F.3d 500, 510.)
+Although Plaintiff alleges that the IP address could reveal the device’s state,
+city, and zip code, this is not the type of sensitive data to which the Greenley
+court referred. (Greenley, supra, 684 F.Supp.3d at 1047 [“the Amended
+Complaint outlines a data collection system that compiles “rich personal data,”
+including the “[i]dentification of sensitive and private characteristics of
+consumers from the location data sold.”].) Plaintiff’s device’s city and zip
+code information is not analogous to this type of information, which included “a
+person's religious affiliation, sexual orientation, and medical condition.” (Ibid.)
+Indeed, a federal district court asked to deny a plaintiff’s discovery request
+that the defendants produce incoming IP addresses on the grounds that the
+discovery request violated the federal pen-register statute, refused to do so.
+(Columbia Pictures Indus. v. Bunnell (C.D. Cal. May 29, 2007) No. CV
+06-1093FMCJCX, 2007 WL 2080419, at *11 [“the collection of incoming IP
+addresses by defendants is exempt from this prohibition pursuant to 18 U.S.C. §
+3121(b)(1) because defendants already and necessarily capture such data in
+their RAM (or Panther’s RAM) to operate the website.”].) 
+ 
+Based on the foregoing, Defendant has demonstrated that the
+First Amended Complaint fails to allege facts showing that it violated CIPA at Penal
+Code section 638.51, subdivision (a). Nor has Plaintiff filed any opposition to
+the instant Demurrer demonstrating what facts could be alleged to support this
+cause of action, as is Plaintiff’s burden if seeking leave to amend. (Goodman
+v. Kennedy (1976) 18 Cal.3d 335, 348.) Leave to amend is denied.
+ 
+Conclusion
+ 
+Defendant
+Plivo, Inc. dba www.plivo.com’s Demurrer to the First Amended Complaint is
+SUSTAINED WITHOUT LEAVE TO AMEND.
+ 
+ 
+Moving party to give notice. 
