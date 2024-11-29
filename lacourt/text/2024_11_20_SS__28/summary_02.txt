@@ -1,0 +1,62 @@
+Here is the summary in YAML format:
+
+```
+case_number: 22STCV00828
+plaintiff_names:
+  - Marisela Irepan
+  - Jesus Espinoza
+defendant_names:
+  - Irma Leticia Sanchez
+  - Does 1-50
+people_names:
+  - Marisela Irepan
+  - Jesus Espinoza
+  - Irma Leticia Sanchez
+company_names: []
+places:
+  - California
+dates:
+  - January 7, 2022
+  - July 7, 2023
+  - October 2, 2024
+  - November 20, 2024
+events:
+  - Motor vehicle tort
+  - Dismissal of case
+money: []
+intentions:
+  - Plaintiffs seek to vacate dismissal
+  - Court seeks to relieve plaintiffs from mistake or neglect
+facts:
+  - Case was dismissed without prejudice
+  - Plaintiffs filed motion to vacate dismissal
+  - Dismissal was under Code of Civil Procedure section 581, subdivision (b)(3)
+disputes:
+  - Plaintiffs' mistake or neglect
+  - Reasonableness of delay in filing motion
+acts:
+  - Dismissal of case
+  - Filing of motion to vacate dismissal
+  - Failure to serve order on plaintiffs' counsel
+agreements: []
+laws:
+  - Code of Civil Procedure section 473, subdivision (b)
+  - Code of Civil Procedure section 581, subdivision (b)(3)
+case_citations:
+  - Code Civ. Proc., § 473, subdivision (b)
+  - Code Civ. Proc., § 581, subdivision (b)(3)
+statutes:
+  - Code of Civil Procedure
+roles:
+  - Judge
+  - Plaintiffs
+  - Defendants
+  - Counsel
+significant_statements:
+  - The Court denies the motion to vacate the dismissal.
+  - The Court finds that the delay in filing the motion was unreasonable.
+```
+
+And here is a summary of the judge's tentative ruling in English text:
+
+The court has considered the motion filed by Plaintiffs Marisela Irepan and Jesus Espinoza to vacate the dismissal of their case. The case was originally dismissed on July 7, 2023, without prejudice, and the plaintiffs filed the current motion to vacate the dismissal on October 2, 2024. However, the court finds that the plaintiffs' motion is untimely, as it was filed more than six months after the dismissal, and therefore denies the motion. The court relies on California Code of Civil Procedure section 473, subdivision (b), which provides that a party may not be relieved from a judgment or dismissal more than six months after the judgment or dismissal was entered. The court also notes that the plaintiffs did not establish that their failure to timely file the motion was due to mistake, inadvertence, surprise, or excusable neglect. As a result, the court denies the motion and orders the moving parties to give notice of this ruling and to file proof of service with the court within five days.

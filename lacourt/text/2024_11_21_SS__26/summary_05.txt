@@ -1,0 +1,48 @@
+Here is the summary in YAML format:
+
+```
+case_number: 24STLC00069
+plaintiff_name: Unify Financial Federal Credit Union
+defendant_name: Guillermo Gutierrez
+people_names:
+  - Guillermo Gutierrez
+company_names:
+  - Unify Financial Federal Credit Union
+places: null
+dates:
+  - August 16, 2024
+  - October 16, 2024
+  - November 21, 2024
+events:
+  - Service of Requests for Admissions
+  - Filing of Motion to Deem Requests for Admission Admitted
+  - Failure to serve verified responses
+money: null
+intentions:
+  - To deem requests for admission admitted
+facts:
+  - Plaintiff served Requests for Admissions on August 16, 2024
+  - Defendant failed to serve verified responses to Requests for Admissions
+  - Plaintiff filed Motion to Deem Requests for Admission Admitted on October 16, 2024
+disputes:
+  - Defendant's failure to respond to Requests for Admissions
+acts:
+  - Service of Requests for Admissions
+  - Filing of Motion to Deem Requests for Admission Admitted
+agreements: null
+laws:
+  - Code of Civil Procedure, § 2033.280
+case_citations: null
+statutes:
+  - CCP § 2033.280
+roles:
+  - Plaintiff: Unify Financial Federal Credit Union
+  - Defendant: Guillermo Gutierrez
+significant_statements:
+  - Plaintiff is entitled to an order deeming the Requests for Admission admitted due to Defendant's failure to timely serve verified responses
+  - There is no requirement for a prior meet and confer effort before a motion to deem requests for admission can be filed
+```
+
+And here is a summary of the Judge's tentative ruling in English text:
+
+The Judge has granted the motion filed by Unify Financial Federal Credit Union to deem requests for admission admitted. The requests for admission were served on Guillermo Gutierrez on August 16, 2024, but he has failed to serve verified responses to date. The plaintiff filed the motion on October 16, 2024, and no opposition has been filed. The Judge noted that there is no requirement for a prior meet and confer effort before a motion to deem requests for admission can be filed, and that the motion can be brought at any time after the responding party fails to provide the responses. As a result, the Judge has granted the motion and deemed the requests for admission admitted.

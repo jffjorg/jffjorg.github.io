@@ -1,0 +1,78 @@
+Here is the YAML summary:
+
+```
+case_number: 24STLC04522
+plaintiff: Daimler Truck Financial Services (DTFS)
+defendant: Alex Truck Company (ATC) and Alejandro Lopez
+people_names:
+  - Williams
+  - Lopez
+companies:
+  - Daimler Truck Financial Services (DTFS)
+  - Mercedes-Benz Financial Services USA LLC (MBFS)
+  - The Around The Clock Freightliner Group, LLC (Seller)
+places:
+  - Fort Worth, Texas
+  - Los Angeles, CA 90022
+dates:
+  - June 21, 2021
+  - August 5, 2021
+  - November 30, 2021
+  - May 5, 2023
+  - January 24, 2024
+  - June 24, 2024
+  - September 4, 2024
+  - September 9, 2024
+  - September 19, 2024
+events:
+  - Agreement and Guaranty
+  - Default
+  - Repossession
+  - Application for Writ of Possession
+  - Hearing
+money:
+  - $37,161.88
+  - $862.65
+  - $28,931.60
+  - $30,325.00
+  - $3,000.00
+intentions:
+  - Plaintiff seeks a writ of possession against Defendants for the Trailer
+facts:
+  - The Agreement was entered into on June 21, 2021
+  - The Trailer was purchased using funds borrowed from Seller
+  - ATC and Lopez defaulted on the Agreement and Guaranty on May 5, 2023
+  - Plaintiff declared all unpaid sums immediately due and payable
+disputes:
+  - Standing: MBFS sold to DTFS its rights to a claim against Defendants, but Plaintiff fails to show that Seller assigned its rights to MBFS
+  - Calculation of damages: Plaintiff failed to support its calculation of damages by a ledger or other calculation
+acts:
+  - Plaintiff elected to declare all unpaid sums immediately due and payable
+  - Plaintiff filed the Complaint on June 24, 2024
+agreements:
+  - Agreement and Guaranty
+  - Transaction between MBFS and DTFS
+laws:
+  - California Civil Procedure Code (CCP)
+  - California Rules of Court
+case_citations:
+  - Pillsbury, Madison & Sutro v. Schectman (1997)
+  - RCA Service Co. v. Superior Court (1982)
+  - Edwards v Superior Court (1991)
+  - Rodes v Shannon (1961)
+  - Schessler v Keck (1956)
+statutes:
+  - CCP §512.010(a)(b)
+  - CCP §512.030(a)(b)
+  - CCP §512.050
+  - CCP §512.060(a)(b)
+  - CCP §513.010(c)
+  - CCP §515.010(a)(b)
+  - CCP §515.020(a)
+roles:
+  - Plaintiff: Daimler Truck Financial Services (DTFS)
+  - Defendant: Alex Truck Company (ATC) and Alejandro Lopez
+significant_statements:
+  - DTFS has established the probable validity of its claim to possession of the Trailer
+  - The undertaking required by CCP section 515.010(a) is an amount not less than twice the value of the defendant's interest in the property or in a greater amount
+  - The value of the defendant's interest in the property is determined by the market value of the property less the amount due and owing on any conditional sales contract or security agreement and all liens and encumbrances on the property

@@ -1,0 +1,87 @@
+Here is a summary of the tentative ruling in YAML format:
+
+```
+---
+case_number: 21SMCV00487
+plaintiff_name: Hooman M. Melamed, MD
+defendant_name: The Ridge Condominium Association
+people_names:
+  - Hooman M. Melamed, MD
+  - The Ridge Condominium Association
+company_names:
+  - The Ridge Condominium Association
+  - CT Prop Management, LLC
+  - David R. Townley Company dba Olympic Roofing Company, Inc.
+  - The Blackpointe Group
+  - Blackpointe Group Construction & Management Inc.
+places:
+  - The Ridge Condominium
+dates:
+  - January 26, 2017
+  - October 23, 2018
+  - March 12, 2021
+  - July 7, 2017
+  - June 27, 2024
+events:
+  - Jury trial
+  - Motion for attorney fees
+  - Motion to tax costs
+money:
+  - $212,379.54
+  - $3,004,626
+  - $648,048
+  - $2,124,896.60
+  - $2,028,437
+  - $976,189
+  - $594,920.50
+  - $400,000
+  - $495 per hour
+  - $400 per hour
+intention:
+  - The Association seeks its reasonable attorneys' fees incurred
+  - The plaintiff opposes the Association's motion for attorney fees
+facts:
+  - The Association is the prevailing party in Case 1
+  - The plaintiff is the prevailing party in Case 2
+  - The Association is the prevailing party in Case 3
+disputes:
+  - The Association disputes the plaintiff's claims
+  - The plaintiff disputes the Association's claims
+acts:
+  - The Association cross-complained against the plaintiff
+  - The plaintiff moved to tax the Association's costs
+agreements:
+  - Civil Code section 5975
+  - Code of Civil Procedure section 1033.5
+  - Code of Civil Procedure section 1021
+  - Civil Code section 1717
+laws:
+  - Code of Civil Procedure
+  - Civil Code
+  - Fair Housing Act
+  - California Fair Employment and Housing Act
+  - California Unruh Civil Rights Act
+  - Title VII
+  - Federal Rule of Civil Procedure
+case_citations:
+  - Rancho Mirage Country Club Homeowners Assn. v. Hazelbaker (2016)
+  - Ibanez v. Westside Union School Dist. (2014)
+  - Chacon v. Litke (2010)
+  - Christiansburg Garment Co. v. Equal Employment Opportunity Commission (1978)
+  - Huerta v. Kava Holdings, Inc. (2018)
+  - Beliveau v. Caras (1995)
+  - Brown v. Smith (1997)
+roles:
+  - Judge
+  - Plaintiff
+  - Defendant
+  - Counsel
+significant_statements:
+  - The Court agrees with the Association that it is the "prevailing party" in the first action
+  - The Court disagrees with Jardini's characterization of this case as "a simple uncomplicated construction defect case"
+  - The Court finds the following reductions warranted: 6.2 hours, 3.9 hours, 9.8 hours, and 2.6 hours
+  - The Court denies Plaintiff's request to reduce attorneys' fees by the amounts it labeled "Non Compensable"
+  - The Court reduces the attorneys' fees requested by 5.4 hours
+```
+
+Note: This summary is based on the provided text and may not be exhaustive or accurate.

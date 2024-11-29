@@ -1,0 +1,60 @@
+Here is the summary in YAML format:
+
+```
+case_number: 23CHCV02153
+plaintiff_name: Cynthia Stoddart
+defendant_name: Alix A. Gutierrez
+people_names:
+  - Cynthia Stoddart
+  - Alix A. Gutierrez
+company_names: []
+places:
+  - 12325 Kagel Canyon Rd. Sylmar, California, 91342
+dates:
+  - 07/20/2023
+  - 08/22/2024
+  - 11/21/2024
+events:
+  - Construction of a staircase
+  - Default judgment
+  - Motion for summary judgment
+  - Opposition to motion for summary judgment
+money:
+  - $1,200 (cost of survey report)
+  - $2,700 (cost of removal and cleanup of staircase)
+  - $700 (estimated cost of stabilizing hillsides)
+intentions:
+  - Intent to install stairs on own property
+  - Intent to cause harm or damage to plaintiff's property
+facts:
+  - Defendant constructed a staircase on plaintiff's property
+  - Defendant removed the staircase after plaintiff objected
+  - Plaintiff suffered damages as a result of the staircase's presence
+disputes:
+  - Intent of defendant in constructing the staircase
+  - Extent of damages caused by the staircase
+acts:
+  - Construction of a staircase on plaintiff's property
+  - Removal of the staircase after plaintiff objected
+agreements: []
+laws:
+  - California Civil Code Section 3479
+  - California Civil Code Section 3375
+  - Code of Civil Procedure Section 437c
+  - Code of Civil Procedure Section 760.020 et seq.
+  - Code of Civil Procedure Section 2033.300
+statutes:
+  - California Civil Code
+  - Code of Civil Procedure
+roles:
+  - Judge
+  - Plaintiff (Cynthia Stoddart)
+  - Defendant (Alix A. Gutierrez)
+significant_statements:
+  - Defendant's intent in constructing the staircase was disputed
+  - The staircase caused actual harm and damage to plaintiff's property
+  - Plaintiff failed to show the absence of triable issues of material fact regarding damages
+  - The Court denied the motion for summary judgment on all causes of action
+```
+
+Please note that the summary is based on the provided text and may not be exhaustive or accurate.

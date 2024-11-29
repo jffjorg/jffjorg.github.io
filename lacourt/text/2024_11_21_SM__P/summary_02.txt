@@ -1,0 +1,78 @@
+Here is the summary in YAML format:
+
+```
+case_number: 24SMCV01101
+plaintiff_name: Halimi
+defendant_name: Jaisinghani
+people_names:
+  - Halimi
+  - Jaisinghani
+  - Azrin
+company_names: []
+places: []
+dates:
+  - November 21, 2024
+  - 2004
+  - 2007
+  - 2005
+  - 2014
+events:
+  - Demurrer to the Complaint
+  - Failure to pay for legal services
+  - Breach of contract
+  - Demurrer to the Complaint
+money:
+  - $324,000
+intentions:
+  - To test the sufficiency of the complaint as a matter of law
+  - To establish existence of a contract
+  - To establish performance and damages
+facts:
+  - Plaintiff and defendant entered into a written agreement for legal services
+  - Plaintiff and defendant entered into an oral agreement regarding Azrin's services
+  - Plaintiff provided services worth $324,000
+  - Defendant failed to pay for the services
+disputes:
+  - Failure to state a cause of action
+  - Failure to allege existence of a contract
+  - Failure to allege offer and acceptance
+  - Failure to substantiate the claim for $324,000
+acts:
+  - Demurrer to the Complaint
+  - Providing services
+  - Failing to pay for services
+agreements:
+  - Written agreement for legal services
+  - Oral agreement regarding Azrin's services
+laws:
+  - Holiday Matinee, Inc. v. Rambus, Inc. (2004)
+  - Doe v. City of Los Angeles (2007)
+  - Doheny Park Terrace Homeowners Ass'n., Inc. v. Truck Ins. Exchange (2005)
+  - Richman v. Hartley (2014)
+  - California Civil Jury Instructions (CACI) 300, et seq.
+case_citations:
+  - Richman v. Hartley (2014)
+  - Holiday Matinee, Inc. v. Rambus, Inc. (2004)
+  - Doe v. City of Los Angeles (2007)
+  - Doheny Park Terrace Homeowners Ass'n., Inc. v. Truck Ins. Exchange (2005)
+statutes: []
+roles:
+  - Judge
+  - Plaintiff
+  - Defendant
+  - Attorney Azrin
+significant_statements:
+  - "The function of a demurrer is to test the sufficiency of the complaint as a matter of law."
+  - "A complaint is sufficient if it alleges ultimate rather than evidentiary facts."
+  - "Plaintiff must allege essential facts with reasonable precision and with particularity sufficient to acquaint [the] defendant with the nature, source and extent" of the plaintiff's claim.
+  - "A valid contract consists of an offer and an acceptance."
+  - "Absent any of these elements, a breach of contract claim fails."
+```
+
+Here is a summary of the Judge's tentative ruling in English text:
+
+The Judge has issued a tentative ruling in the case of Halimi v. Jaisinghani, Case No. 24SMCV01101. The Defendant, Jaisinghani, has filed a demurrer to the Complaint, arguing that the Plaintiff, Halimi, fails to state a cause of action. The Judge has reviewed the Complaint and finds that it is sufficient to establish a breach of contract claim. The Plaintiff alleges that the Defendant failed to pay for legal services, which were valued at $324,000. The Judge finds that the Plaintiff has provided sufficient evidence to establish the existence of a contract, performance, and damages.
+
+However, the Judge notes that the Plaintiff failed to allege offer and acceptance regarding the oral agreement to associate in counsel Azrin. The Judge grants the Defendant 15 days to amend the demurrer to address this issue.
+
+In summary, the Judge has sustained the demurrer with leave to amend as to the offer and acceptance regarding the oral contract regarding the association of Azrin.
