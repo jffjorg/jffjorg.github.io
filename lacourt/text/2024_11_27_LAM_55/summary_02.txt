@@ -1,0 +1,116 @@
+Here is the summary in YAML format:
+
+```yaml
+case_number: 21STCV45457
+hearing_date: November 27, 2024
+dept: 55
+
+people_names:
+  - Jerry Sorrentino
+  - Doe defendants 1-10
+  - Precision Construction Group, Inc. (Plaintiff)
+  - Onni Contracting, Inc. (Defendant)
+  - SureTec Insurance Company
+  - Roe defendants 2-200
+  - Cross-Defendants (Jerry Sorrentino, SureTec Insurance Company, and roe defendants 2-200)
+
+company_names:
+  - Precision Construction Group, Inc.
+  - Onni Contracting, Inc.
+  - SureTec Insurance Company
+
+places:
+
+dates:
+
+events:
+  - Hearing on Jerry Sorrentino's Demurrer
+  - Cross-Complainant filed a First Amended Cross-Complaint (FACC)
+  - Cross-Defendants filed a Demurrer - with Motion to Strike
+
+money:
+  - $860,001.28
+
+intentions:
+  - To induce reliance
+  - To defraud
+  - To conceal or suppress material facts
+
+facts:
+  - Precision Construction Group, Inc. (Plaintiff) filed an action against Onni Contracting, Inc. (Defendant) and doe defendants 1-10
+  - Defendant filed a First Amended Cross-Complaint (FACC) against Plaintiff, Jerry Sorrentino, SureTec Insurance Company, and roe defendants 2-200
+  - Jerry Sorrentino filed a Demurrer - with Motion to Strike
+  - Cross-Complainant alleged that Precision issued pay application number eight to Cross-Complainant
+  - Precision and Sorrentino represented that they would use funds paid to Precision by Cross-Complainant to pay subcontractors and material suppliers
+
+disputes:
+  - Fraud and fraudulent concealment
+  - Tort claims (breach of contract, negligence, conversion, and breach of fiduciary duty)
+
+acts:
+  - Precision Construction Group, Inc. (Plaintiff) issued pay application number eight to Cross-Complainant
+  - Precision and Sorrentino breached their duty to pay subcontractors and material suppliers
+
+agreements:
+  - Contract between Precision Construction Group, Inc. and Onni Contracting, Inc.
+  - Pay application number eight
+
+laws:
+  - California Civil Code Section 436
+  - California Civil Code Section 437
+  - California Civil Code Section 432.10
+  - Robinson Helicopter Co., Inc. v. Dana Corp. (2004) 34 Cal.4th 979
+  - McIntyre v. Colonies-Pacific, LLC (2014) 228 Cal.App.4th 664
+  - Wendling Lumber Co. v. Glenwood Lumber Co. (1908) 153 Cal. 411
+  - Chang v. Redding Bank of Commerce (1994) 29 Cal.App.4th 673
+
+case_citations:
+  - Wilson v. Transit Authority of City of Sacramento (1962) 199 Cal.App.2d 716
+  - Donabedian v. Mercury Ins. Co. (2004) 116 Cal.App.4th 968
+  - E-Fab, Inc. v. Accountants, Inc. Servs. (2007) 153 Cal.App.4th 1308
+  - Stonehouse Homes LLC v. City of Sierra Madre (2008) 167 Cal.App.4th 531
+  - Charnay v. Cobert (2006) 145 Cal.App.4th 170
+  - Tindell v. Murphy (2018) 22 Cal.App.5th 1239
+  - Graham v. Bank of America, N.A. (2014) 226 Cal.App.4th 594
+  - Rattagan v. Uber Technologies, Inc., 17 Cal. 5th 1
+  - Magpali v. Farmers Group (1996) 48 Cal.App.4th 471
+  - Tenzer v. Superscope (1985) 39 Cal.3d 18
+  - Sheen v. Wells Fargo Bank, N.A. (2022) 12 Cal.5th 905
+  - Robinson Helicopter Co., Inc. v. Dana Corp. (2004) 34 Cal.4th 979
+  - McIntyre v. Colonies-Pacific, LLC (2014) 228 Cal.App.4th 664
+  - Kim v. Westmoore Partners, Inc. (2011) 201 Cal.App.4th 267
+  - Voris v. Lampert (2019) 7 Cal.5th 1141
+  - Sanowicz v. Bacal (2015) 234 Cal.App.4th 1027
+  - Del E. Webb Corp. v. Structural Materials Co. (1981) 123 Cal.App.3d 593
+  - Chang v. Redding Bank of Commerce (1994) 29 Cal.App.4th 673
+
+statutes:
+  - Code of Civil Procedure Section 436(a)
+  - Code of Civil Procedure Section 436(b)
+  - Code of Civil Procedure Section 437
+
+roles:
+  - Judge: [Name]
+  - Plaintiff: Precision Construction Group, Inc.
+  - Defendant: Onni Contracting, Inc.
+  - Cross-Complainant: Onni Contracting, Inc.
+  - Cross-Defendants: Jerry Sorrentino, SureTec Insurance Company, and roe defendants 2-200
+
+significant_statements:
+  - Cross-Complainant fails to properly allege any affirmative misrepresentation with sufficient particularity.
+  - The economic loss rule provides that “in general, there is no recovery in tort for negligently inflicted ‘purely economic losses.’”
+  - Conversion is the wrongful exercise of dominion over the property of another.
+  - A cause of action for conversion of money can be stated only where a defendant interferes with the plaintiff's possessory interest in a specific, identifiable sum.
+  - A contractual obligation to pay money is insufficient to establish a conversion claim.
+  - Cross-Complainant lacked title to or possession of those funds when they were allegedly converted.
+  - The demurrer is sustained with leave to amend as to the tenth and eleventh causes of action.
+  - The demurrer is sustained with leave to amend as to the negligence claim.
+  - The demurrer is sustained with leave to amend as to the conversion claim.
+  - The demurrer is sustained with leave to amend as to the breach of fiduciary duty claim.
+```
+
+Here is a summary of the judge's tentative ruling:
+
+The judge has sustained Jerry Sorrentino's demurrer to the tenth and eleventh causes of action, which alleged fraud and fraudulent concealment. The judge found that Cross-Complainant failed to properly allege any affirmative misrepresentation with sufficient particularity. The judge also sustained the demurrer to the negligence, conversion, and breach of fiduciary duty claims, finding that Cross-Complainant failed to state a claim.
+
+The judge gave Cross-Complainant 20 days to amend its complaint. The judge also denied the motion to strike punitive damages as moot, since all the tort claims were dismissed.

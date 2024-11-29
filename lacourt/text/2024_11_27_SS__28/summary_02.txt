@@ -1,0 +1,66 @@
+Here is the summary in YAML format:
+
+```
+case_number: 22STCV28600
+plaintiff: Maria Palencia
+defendant: County of Los Angeles
+people_names:
+  - Maria Palencia
+  - County of Los Angeles
+company_names:
+  - City of Los Angeles
+  - County of Los Angeles Department of Parks & Recreation
+places:
+  - Los Angeles
+dates:
+  - September 1, 2022
+  - March 15, 2024
+  - April 2, 2024
+  - September 4, 2024
+  - November 4, 2024
+  - November 27, 2024
+  - December 27, 2024
+  - July 21, 2025
+events:
+  - Filing of complaint
+  - Granting of motion to be relieved as counsel
+  - Filing of answer
+  - Filing of motions to compel
+  - Hearing on motions to compel
+money:
+  - Sanctions
+intention:
+  - Compel responses to discovery requests
+facts:
+  - Plaintiff failed to serve timely responses to discovery requests
+  - County filed motions to compel responses
+  - Court granted motions to compel responses
+disputes:
+  - None
+acts:
+  - Filing of motions to compel
+  - Granting of motions to compel
+agreements:
+  - None
+laws:
+  - California Code of Civil Procedure sections 2030.290, 2031.300, 2033.280
+  - California Supreme Court case City of Los Angeles v. Pricewaterhousecoopers, LLP
+  - California Civil Discovery Act
+  - Code of Civil Procedure sections 2023.010, 2023.030
+  - Code of Civil Procedure sections 2030.290, subdivision (c), and 2031.300, subdivision (c)
+  - Code of Civil Procedure section 2033.280, subdivision (c)
+roles:
+  - Judge
+  - Plaintiff
+  - Defendant
+  - County of Los Angeles
+significant_statements:
+  - The Court grants the County's motion to compel Plaintiff's responses to request for production of documents, set one.
+  - The Court grants the County's motions to compel Plaintiff's responses to special interrogatories, set one, and form interrogatories, set one.
+  - The Court grants the County's motion to deem admitted matters specified in requests for admission, set one.
+  - The Court denies the County's requests for sanctions on its motions to compel responses.
+```
+
+And here is a brief summary of the judge's tentative ruling in English text:
+
+The judge has issued a tentative ruling on a motion filed by the County of Los Angeles to compel the plaintiff, Maria Palencia, to respond to certain discovery requests. The plaintiff failed to serve timely responses to the requests, and the County filed motions to compel responses. The judge granted the County's motions, ordering the plaintiff to serve verified code-compliant responses to the requests and to produce the requested documents by December 27, 2024. The judge also deemed certain matters specified in requests for admission to be admitted. However, the judge denied the County's requests for sanctions on its motions to compel responses.

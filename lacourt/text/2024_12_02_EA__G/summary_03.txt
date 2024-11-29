@@ -1,0 +1,78 @@
+Here is the summary in YAML format:
+
+```
+case_number: 24PSCV02308
+plaintiff_name: U.S. Bank National Association
+defendant_name: Seahawk Transit Inc. and Shuli Guo
+people_names:
+  - Shuli Guo
+company_names:
+  - U.S. Bank National Association
+  - Seahawk Transit Inc.
+  - Kenworth
+places:
+  - Baldwin Park
+dates:
+  - October 2022
+  - January 2024
+  - July 18, 2024
+  - August 5, 2024
+  - September 17, 2024
+  - September 20, 2024
+  - December 2, 2024
+events:
+  - Equipment finance agreement
+  - Failure to make monthly payments
+  - Filing of complaint
+  - Service of process
+  - Entry of default
+  - Application for default judgment
+money:
+  - $143,633.00 (total requested judgment)
+  - $129,300.10 (damages)
+  - $10,584.90 (interest)
+  - $3,183.00 (attorney fees)
+  - $565.00 (costs)
+intentions:
+  - To grant default judgment to U.S. Bank
+facts:
+  - U.S. Bank and Seahawk Transit entered into an equipment finance agreement
+  - Seahawk Transit and Guo failed to make monthly payments
+  - U.S. Bank filed a complaint and obtained default judgment
+disputes:
+  - Breach of contract
+acts:
+  - Execution of personal guaranty
+  - Failure to make monthly payments
+  - Filing of complaint
+  - Service of process
+  - Entry of default
+  - Application for default judgment
+agreements:
+  - Equipment finance agreement
+  - Personal guaranty
+laws:
+  - California Code of Civil Procedure section 585
+  - California Rules of Court 3.1800
+case_citations:
+  - California Code of Civil Procedure section 585
+  - California Rules of Court 3.1800
+statutes:
+  - California Code of Civil Procedure section 585
+  - California Rules of Court 3.1800
+roles:
+  - Judge
+  - U.S. Bank National Association (Plaintiff)
+  - Seahawk Transit Inc. (Defendant)
+  - Shuli Guo (Defendant)
+  - Process server
+  - Attorneys
+significant_statements:
+  - The court grants U.S. Bank's application for default judgment
+  - The total requested judgment is $143,633.00
+  - The proposed judgment lists the correct total, but the CIV-100 form lists an incorrect total
+```
+
+And here is a summary of the judge's tentative ruling in English text:
+
+The judge has granted U.S. Bank's application for default judgment against Seahawk Transit Inc. and Shuli Guo. The default judgment is in the amount of $143,633.00, including $129,300.10 in damages, $10,584.90 in interest, $3,183.00 in attorney fees, and $565.00 in costs. The court found that U.S. Bank has submitted sufficient evidence to support the default judgment. The judge notes that the CIV-100 form filed by U.S. Bank contains an incorrect total judgment amount, but the proposed judgment lists the correct total. The court orders U.S. Bank's counsel to file an amended CIV-100 form with the correct total judgment amount.
