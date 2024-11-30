@@ -1,0 +1,62 @@
+Here is the summary in YAML format:
+
+```
+case_number: 23STCV06530
+plaintiff_name: T'yan Bernard
+defendant_name: Derek Wong and Teagardin's
+people_names:
+  - T'yan Bernard
+  - Derek Wong
+  - Teagardin's
+company_names: []
+places:
+  - State of California
+  - County of Los Angeles
+  - Central District
+  - Department 48
+dates:
+  - July 26, 2024
+  - August 9, 2024
+  - October 28, 2024
+  - November 26, 2024
+events:
+  - Notice of Settlement of Entire Case
+  - Stipulated Judgment
+  - Motion to Enforce Settlement
+money:
+  - $23,250.00
+intentions:
+  - Plaintiff intends to enforce settlement agreement
+  - Plaintiff claims Defendants breached settlement agreement
+facts:
+  - Settlement agreement was entered on August 9, 2024
+  - Judgment was entered in favor of Plaintiff
+  - Defendants failed to satisfy stipulated judgment within 15 days
+disputes:
+  - Plaintiff claims Defendants breached settlement agreement
+acts:
+  - Plaintiff filed Notice of Settlement
+  - Plaintiff filed Motion to Enforce Settlement
+  - Judgment was entered
+  - Plaintiff claims Defendants failed to satisfy stipulated judgment
+agreements:
+  - Settlement agreement
+  - Stipulated Judgment
+laws:
+  - California Superior Court rules
+  - California statutes
+case_citations: []
+statutes: []
+roles:
+  - Judge: Hon. Thomas D. Long
+  - Plaintiff: T'yan Bernard
+  - Defendant: Derek Wong and Teagardin's
+significant_statements:
+  - "There is nothing additional for the Court to enforce. Judgment has already been entered."
+  - "The Court cannot enter a second judgment for the same amount."
+  - "Plaintiff's remedy lies with post-judgment enforcement proceedings, not a motion to enforce a settlement that has already been rendered to a final judgment."
+```
+
+And here is the English-text summary:
+
+The judge has issued a tentative ruling denying the plaintiff's motion to enforce a settlement agreement. The agreement was entered on August 9, 2024, and the judgment was entered in favor of the plaintiff for $23,250.00. The plaintiff claims that the defendants breached the settlement agreement by failing to satisfy the stipulated judgment within 15 days. The judge states that there is nothing additional for the court to enforce, as the judgment has already been entered, and the court cannot enter a second judgment for the same amount. The plaintiff's remedy lies with post-judgment enforcement proceedings, not a motion to enforce a settlement that has already been rendered to a final judgment.

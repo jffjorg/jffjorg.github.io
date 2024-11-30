@@ -1,0 +1,73 @@
+Here is the summary of the tentative ruling in YAML format:
+
+```
+case_number: 23STCV29730
+plaintiff_name: Cistian Martinez
+defendant_name: EAN Holdings, LLC, et al.
+people_names:
+  - Hansa Senturk
+companies:
+  - Michi Floor Co.
+places: None
+dates:
+  - August 21, 2024
+  - September 9, 2024
+  - November 22, 2024
+events:
+  - Motor vehicle collision
+  - Deposition subpoena for production of employment records
+  - Failure to produce requested documents
+  - Motion to compel compliance
+money:
+  - $45,500 (past lost income)
+  - Unspecified claim for future lost earnings
+  - Less than $5,000 (2023 wages)
+  - Less than $10,000 (2022 wages)
+intensions:
+  - Defendant Hansa Senturk seeks to compel production of employment records to evaluate Plaintiff's lost earnings claim
+facts:
+  - Plaintiff identified only one prior employer, Michi Floor Co., during discovery
+  - Plaintiff produced only two W-2 forms from Michi Floor Co.
+  - Michi Floor Co. failed to produce requested documents by deadline
+  - Defendant made multiple meet-and-confer attempts
+disputes:
+  - Discrepancy between Plaintiff's claim for lost wages and income reflected in produced documents
+acts:
+  - Service of deposition subpoena on Michi Floor Co.
+  - Failure to produce requested documents
+  - Motion to compel compliance
+agreements:
+  - Meet-and-confer requirement
+  - Notice of motion to be given to all parties and deponent
+laws:
+  - CCP § 2020.010
+  - CCP § 2020.020
+  - CCP § 1985.3
+  - CCP § 1987.1
+  - CCP § 2025.480
+  - CCP § 2016.040
+case_citations:
+  - Hawkins v. TACA International Airlines, S.A. (2014) 223 Cal.App.4th 466, 476
+statutes:
+  - CCP § 2020.010
+  - CCP § 2020.020
+  - CCP § 1985.3
+  - CCP § 1987.1
+  - CCP § 2025.480
+  - CCP § 2016.040
+roles:
+  - Judge: Hon. Lee S. Arian
+  - Plaintiff: Cistian Martinez
+  - Defendant: Hansa Senturk
+  - Defendant's counsel: None mentioned
+  - Michi Floor Co.: Deponent
+significant_statements:
+  - The Court finds good cause to compel production of the employment records.
+  - Defendant is entitled to Plaintiff's employment records to evaluate Plaintiff's claims.
+  - Defendant satisfied the meet-and-confer requirement.
+  - Notice of the motion has been properly served on all parties and the deponent.
+```
+
+And here is a summary of the tentative ruling in English text:
+
+The tentative ruling grants the motion to compel compliance with a deposition subpoena served on Michi Floor Co. for production of employment records. The subpoena was served on August 21, 2024, and the deadline for production was September 9, 2024. Despite multiple meet-and-confer attempts, Michi Floor Co. failed to produce the requested documents. The Court finds good cause to compel production of the employment records because there is a significant discrepancy between the Plaintiff's claim for lost wages and the income reflected in the limited documents produced. The Court also notes that the Defendant satisfied the meet-and-confer requirement and provided proper notice of the motion to all parties and the deponent. As a result, Michi Floor Co. is ordered to comply with the subpoena and produce the requested employment records within 15 days of this Order.

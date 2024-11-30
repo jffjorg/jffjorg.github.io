@@ -1,0 +1,75 @@
+Here is the summary in YAML format:
+
+```
+case_number: 22STCV26004
+plaintiff_name: ana gomez
+defendant_name: department of motor vehicles
+people_names:
+  - ana gomez
+  - robert b. broadbelt iii
+company_names:
+  - department of motor vehicles
+  - veritext
+places:
+  - los angeles
+  - california
+dates:
+  - november 26, 2024
+  - april 5, 2024
+  - april 17, 2024
+  - march 4-6, 2024
+  - october 17 and 18, 2023
+events:
+  - motion to compel plaintiff's deposition
+  - motion for sanctions
+  - deposition notice
+  - deposition
+  - service of deposition notice
+money:
+  - $5,199.85 (amount of sanctions requested)
+  - $3,603.85 (amount of sanctions granted)
+intents:
+  - compel plaintiff's deposition
+  - award monetary sanctions
+facts:
+  - defendant served deposition notices on plaintiff
+  - plaintiff did not serve objections to deposition notices
+  - plaintiff did not effectively appear for deposition
+  - defendant attempted to communicate with plaintiff regarding availability and suggested dates for deposition
+disputes:
+  - defendant's motion to compel plaintiff's deposition and for sanctions
+acts:
+  - service of deposition notice
+  - failure of plaintiff to appear for deposition
+  - failure of plaintiff to serve objections to deposition notice
+  - attempts by defendant to communicate with plaintiff regarding availability and suggested dates for deposition
+agreements:
+  - code of civil procedure, section 2025.450
+laws:
+  - code of civil procedure, section 2025.450
+  - code of civil procedure, section 2025.410
+  - code of civil procedure, section 2025.450, subdivision (a)
+  - code of civil procedure, section 2025.450, subdivision (g)(1)
+case_citations:
+  - code of civil procedure, section 2025.410
+  - code of civil procedure, section 2025.450
+  - code of civil procedure, section 2025.450, subdivision (a)
+  - code of civil procedure, section 2025.450, subdivision (g)(1)
+stats:
+  - $5,199.85 (amount of sanctions requested)
+  - $3,603.85 (amount of sanctions granted)
+  - 5 hours (time spent by Fong)
+  - $228 (hourly rate of Fong)
+roles:
+  - judge: robert b. broadbelt iii
+  - plaintiff: ana gomez
+  - defendant: department of motor vehicles
+significant_statements:
+  - the court grants defendant's motion to compel plaintiff's deposition
+  - the court grants defendant's request for monetary sanctions
+  - the court finds that $3,603.85 is a reasonable amount of sanctions to impose against plaintiff
+```
+
+And here is a summary of the judge's tentative ruling in English text:
+
+The judge has issued a tentative ruling in the case of Ana Gomez v. Department of Motor Vehicles. The defendant has moved to compel the plaintiff's deposition and for sanctions after the plaintiff failed to appear for a scheduled deposition and did not serve objections to the deposition notice. The court has found that the defendant has shown that it served the plaintiff with multiple deposition notices, including one on April 5, 2024, to which the plaintiff did not respond with objections. The court has also found that the plaintiff did not effectively appear for the deposition on April 17, 2024, and that the defendant attempted to communicate with the plaintiff regarding her availability and suggested dates for the deposition. As a result, the court has granted the defendant's motion to compel the plaintiff's deposition and has awarded monetary sanctions against the plaintiff in the amount of $3,603.85.

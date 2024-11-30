@@ -1,0 +1,73 @@
+Here is the summary in YAML format:
+
+```
+case_number: 19STCV30239
+plaintiff: The Wonderful Company
+defendant: Anthem Blue Cross Life and Health Insurance Company, et al.
+people_names:
+  - Anthem
+  - LPCH
+  - Ashely Milnes
+  - Georgann Edford
+company_names:
+  - The Wonderful Company
+  - Anthem Blue Cross Life and Health Insurance Company
+  - LPCH
+places:
+  - California
+dates:
+  - August 26, 2024
+  - November 25, 2024
+events:
+  - Contract dispute
+  - Motion to seal
+  - Opposition to defendant LPCH's Motion for Summary Judgement
+money:
+  - Sensitive financial information
+  - Proprietary business information
+intentions:
+  - To protect confidential and proprietary business information
+  - To protect personally identifiable health information of non-party minors
+facts:
+  - California law recognizes a constitutional right of access to court proceedings and court documents
+  - The public has an interest in observing and assessing the performance of the judicial system
+disputes:
+  - Overriding interest in privacy and confidentiality
+  - Right of public access to court records
+acts:
+  - Anthem filed a motion to seal portions of TWC's opposition
+  - TWC filed an opposition to LPCH's Motion for Summary Judgement
+agreements:
+  - California Rules of Court, Rule 2.550
+  - California Rules of Court, Rule 2.551
+  - Overstock.com, Inc. v. Goldman Sachs Group, Inc. (2014)
+  - In Re Marriage of Tamir (2021)
+  - McNair v. NCAA (2015)
+  - McGaun v. Endovascular Technologies, Inc. (2010)
+  - Ruiz v. Podolsky (2010)
+laws:
+  - California Rules of Court, Rule 2.550
+  - California Rules of Court, Rule 2.551
+  - California Constitution
+case_citations:
+  - Cal. Rules of Court, rule 2.550, subd. (c)
+  - Cal. Rules of Court, rule 2.551, subd. (a)
+  - Cal. Rules of Court, Rule 2.550(d)
+  - Overstock.com, Inc. v. Goldman Sachs Group, Inc. (2014) 231 Cal.App.4th 471, 487
+  - In Re Marriage of Tamir (2021) 72 Cal.App.5th 1068, 1078
+  - McNair v. NCAA (2015) 234 Cal.App.4th 25, 31
+  - McGaun v. Endovascular Technologies, Inc. (2010) 182 Cal.App.4th 974, 988-989
+  - Ruiz v. Podolsky (2010) 50 Cal.4th 838, 850
+roles:
+  - Judge
+  - Plaintiff (The Wonderful Company)
+  - Defendant (Anthem Blue Cross Life and Health Insurance Company, et al.)
+significant_statements:
+  - "Unless confidentiality is required by law, court records are presumed to be open to the public."
+  - "The public has an interest in observing and assessing the performance of the judicial system."
+  - "The proposed sealing includes portions of the Exhibits in the Ashely Milnes and Georgann Edford's Declarations, portions of Georgann's Declaration, portions of TWC's separate statement, portions of TWC's evidentiary objections, and portions of TWC's evidence in support of the Opposition of LPCH's Motion for Summary Judgement."
+```
+
+And here is a summary of the judge's tentative ruling in English text:
+
+The court has reviewed the defendant's motion to seal portions of the plaintiff's opposition to the defendant LPCH's Motion for Summary Judgement. The court finds that the defendant has identified three categories of confidential information: sensitive financial information and proprietary business information related to the plaintiff's services agreement with the defendant, sensitive financial information related to the Anthem CME Agreement with LPCH, and personally identifiable health information of non-party minors. The court agrees that the defendant's privacy interest in confidential and proprietary business information and the minor patients' interest in personal health information overrides the public right of access. The court grants the motion to seal and orders that the proposed sealing order be signed without modification.

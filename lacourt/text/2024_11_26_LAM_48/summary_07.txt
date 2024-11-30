@@ -1,0 +1,68 @@
+Here is the summary in YAML format:
+
+```
+case_number: 24STCV07468
+plaintiff_names:
+  - Amran Noorzay
+  - Ahmad Ibrahimi
+defendant_name: Kia America, Inc.
+people_names:
+  - Amran Noorzay
+  - Ahmad Ibrahimi
+  - Judge Thomas D. Long
+company_names:
+  - Kia America, Inc.
+places:
+  - Los Angeles, California
+dates:
+  - March 25, 2024
+  - September 20, 2024
+  - October 30, 2024
+  - November 7, 2024
+  - November 8, 2024
+  - November 26, 2024
+events:
+  - Filing of lawsuit
+  - Service of special interrogatories
+  - Failure to respond to discovery requests
+  - Filing of motions to compel
+  - Granting of motions to compel
+money: $0
+intentions:
+  - To compel responses to special interrogatories
+facts:
+  - Plaintiffs did not serve responses to special interrogatories
+  - Defendant filed motions to compel responses
+  - Plaintiffs agreed to a two-week extension on filing deadline
+  - Defendant granted responses but they are not verified
+disputes:
+  - Failure to respond to discovery requests
+acts:
+  - Filing of lawsuit
+  - Service of special interrogatories
+  - Failure to respond to discovery requests
+  - Filing of motions to compel
+agreements:
+  - Two-week extension on filing deadline
+laws:
+  - California Code of Civil Procedure (CCP)
+  - Appleton v. Superior Court (1988)
+  - Healthcare Consulting, Inc. v. Pacific Healthcare Consultants (2007)
+case_citations:
+  - CCP, §§ 2030.290, 2031.300
+  - CCP, §§ 2030.290, subd. (a), 2031.300, subd. (a)
+  - Appleton v. Superior Court (1988) 206 Cal.App.3d 632, 636
+  - Healthcare Consulting, Inc. v. Pacific Healthcare Consultants (2007) 148 Cal.App.4th 390, 403
+statutes:
+  - CCP, §§ 2030.290, 2031.300
+roles:
+  - Judge: Hon. Thomas D. Long
+  - Plaintiffs: Amran Noorzay and Ahmad Ibrahimi
+  - Defendant: Kia America, Inc.
+significant_statements:
+  - "Unsworn responses are tantamount to no responses at all."
+```
+
+And here is a summary of the judge's tentative ruling in English text:
+
+The judge has granted the defendant's motions to compel responses to special interrogatories, set two. The plaintiffs, Amran Noorzay and Ahmad Ibrahimi, failed to serve timely responses to the interrogatories, despite agreeing to a two-week extension on the filing deadline. The defendant, Kia America, Inc., filed motions to compel responses, which the court has granted. The judge has ordered the plaintiffs to provide verified responses, without objections, to the interrogatories within 30 days. The request for sanctions is denied.
