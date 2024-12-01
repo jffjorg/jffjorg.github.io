@@ -1,0 +1,61 @@
+Here is the summary in YAML format:
+
+```
+case_number: 24STCV10056
+plaintiff_name: N/A
+defendant_name: N/A
+people_names:
+  - N/A
+company_names:
+  - N/A
+places:
+  - N/A
+dates:
+  - November 14, 2024
+events:
+  - Review of default judgment package
+  - Request for damages in excess of $100,000
+  - Reduction of proposed judgment
+  - Reduction of costs
+money:
+  - $100,000 (damages alleged in Complaint)
+  - $9,800 (unrecoverable fees)
+  - $156,400 (unrecoverable fees)
+  - $535 (reduced costs)
+  - $435 (clerk's filing fees)
+  - $100 (process server fees)
+intentions:
+  - To review default judgment package
+  - To reduce proposed judgment to include only alleged damages
+  - To reduce costs to recoverable amounts
+facts:
+  - Plaintiff requests damages in excess of $100,000
+  - Memorandum of costs includes unrecoverable fees
+  - Court has reviewed default judgment package
+disputes:
+  - Unresolved disputes on damages and costs
+acts:
+  - Review of default judgment package
+  - Request for damages in excess of $100,000
+  - Reduction of proposed judgment
+  - Reduction of costs
+agreements:
+  - None
+laws:
+  - N/A
+case_citations:
+  - N/A
+statutes:
+  - N/A
+roles:
+  - Judge
+  - Plaintiff
+  - Defendant
+significant_statements:
+  - "The proposed judgment must be reduced to include only the amount of damages alleged in the Complaint."
+  - "Costs should be reduced to $535, which includes the clerk's filing fees ($435) and process server fees ($100)."
+```
+
+And here is the English-text summary:
+
+The Court has reviewed the default judgment package and has made a tentative ruling regarding the proposed judgment and costs. The Plaintiff has requested damages in excess of $100,000, which is in excess of the amount alleged in the Complaint. Therefore, the proposed judgment must be reduced to include only the amount of damages alleged in the Complaint. Additionally, the Court has identified unrecoverable fees in the memorandum of costs, including $9,800 for "fees paid to defendant" and $156,400 for "attorney's fees due to others due to defendant." These fees are not recoverable as costs and are actually damages. As a result, the costs should be reduced to $535, which includes the clerk's filing fees ($435) and process server fees ($100). The Plaintiff will need to file a new default judgment package and the Court will continue the OSC (Order to Show Cause).
