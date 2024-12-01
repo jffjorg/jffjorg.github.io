@@ -1,0 +1,59 @@
+Here is the summary in YAML format:
+
+```
+case_number: 23STCV20370
+plaintiff_name: JEFFREY SWAN
+defendant_name: STATE OF CALIFORNIA, and DOES ONE through 35
+people_names:
+  - JEFFREY SWAN
+  - GURPREET SANDHU
+company_names: none
+places:
+  - Lancaster
+  - California
+dates:
+  - August 8, 2023
+  - August 24, 2023
+  - October 26, 2023
+  - November 14, 2024
+events:
+  - Filing of lawsuit
+  - Demurrer filed by Defendant
+money: none
+intentions:
+  - To determine the sufficiency of the allegations in the complaint
+  - To determine whether the Defendant is immune from liability
+facts:
+  - Plaintiff is an inmate at a California State Prison
+  - Plaintiff complained of severe and unrelenting leg pain
+  - Medical care was not timely given
+  - Plaintiff's leg was amputated
+disputes:
+  - Whether the claim is insufficiently plead
+  - Whether the Defendant is immune from liability
+acts:
+  - Plaintiff filed a lawsuit
+  - Defendant filed a demurrer
+  - Plaintiff and Defendant met and conferred
+agreements:
+  - None mentioned
+laws:
+  - Government Code section 845.6
+  - Government Code section 856.4
+  - Code of Civil Procedure section 430.41
+statutes:
+  - California Code of Civil Procedure (CCP) section 430.41
+roles:
+  - Judge: MEL RED RECANA
+  - Plaintiff: JEFFREY SWAN
+  - Defendant: STATE OF CALIFORNIA
+  - Counsel: GURPREET SANDHU
+significant_statements:
+  - The court sustained the demurrer with leave to amend
+  - Plaintiff has 30 days to file an amended complaint
+  - Defendant must give notice
+```
+
+And here is a summary of the Judge's tentative ruling in English text:
+
+The Judge has considered the demurrer filed by the State of California and the opposition filed by plaintiff Jeffrey Swan. The demurrer is sustained with leave to amend, meaning that the plaintiff has 30 days to file an amended complaint. The Judge found that the plaintiff's original complaint did not sufficiently plead the necessary facts to support a claim under Government Code section 845.6, which provides liability for a public employee who fails to summon medical care for a prisoner. The Judge also found that the plaintiff's allegations did not demonstrate how the public employees knew or had reason to know that the plaintiff needed immediate medical care. The Judge did not sustain the demurrer on the ground that the claim is akin to a claim for negligent provision of care, but rather found that the claim is insufficiently pled. The Judge also found that Government Code section 856.4, which provides immunity for a public entity or employee who fails to admit a person to a public medical facility, is inapplicable to this case.
