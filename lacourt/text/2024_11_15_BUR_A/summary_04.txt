@@ -1,0 +1,81 @@
+Here is the summary in YAML format:
+
+```
+case_number: 23BBCV00088
+plaintiff_name: Mary Baghikian & the Estate of Sarkis Baghikian
+defendant_name:
+  - Steven Taback M.D.
+  - Erik Sitker M.D.
+  - Providence Saint Joseph Medical Center
+  - Vanessa Nicole Ybarra, R.N.
+  - Jarod Michael Keller, M.D.
+  - Jilbert Issai, M.D.
+  - Dr. Conrad
+  - Dr. Harris
+  - Gilead Sciences, Inc.
+  - Veklury
+  - Genentech Inc.
+people_names:
+  - Mary Baghikian
+  - Sarkis Baghikian
+  - Steven Taback
+  - Erik Sitker
+  - Vanessa Nicole Ybarra
+  - Jarod Michael Keller
+  - Jilbert Issai
+  - Dr. Conrad
+  - Dr. Harris
+company_names:
+  - Providence Saint Joseph Medical Center
+  - Gilead Sciences, Inc.
+  - Veklury
+  - Genentech Inc.
+places:
+  - Burbank
+  - Los Angeles
+dates:
+  - November 15, 2024
+  - November 8, 2024
+  - June 14, 2024
+  - March 17, 2020
+events:
+  - Demurrer
+  - Tentative Ruling
+money: None
+intentions:
+  - To sustain demurrers without leave to amend
+facts:
+  - Sarkis Baghikian was a patient at Providence Saint Joseph Medical Center
+  - He was treated for Covid-19
+  - He received medication and was intubated against his will
+  - He died as a result of the treatment
+disputes:
+  - Whether the PREP Act provides immunity to the defendants
+  - Whether the plaintiffs' claims are barred by the PREP Act
+acts:
+  - Administration of Remdesivir and Dexamethasone
+  - Intubation of Sarkis Baghikian
+  - Failure to disclose risks of treatment
+laws:
+  - Federal Public Readiness and Emergency Preparedness Act (PREP Act)
+  - California Code of Civil Procedure (C.C.P.)
+  - California Government Code (Cal. Gov. Code)
+statutes:
+  - 42 U.S.C. § 247d-6d
+  - 42 U.S.C. § 247d-6e
+  - C.C.P. § 430.10(a)
+  - C.C.P. § 430.30(a)
+  - Cal. Gov. Code § 8659
+roles:
+  - Judge
+  - Plaintiffs
+  - Defendants
+significant_statements:
+  - The PREP Act provides immunity to covered persons for claims arising from the administration of covered countermeasures
+  - The plaintiffs' claims are barred by the PREP Act because they arise from the administration of Remdesivir and Dexamethasone, which are covered countermeasures
+  - The plaintiffs' allegations do not establish a reasonable probability that their claims do not arise from or relate to the administration of a covered countermeasure
+```
+
+And here is a summary in English text:
+
+This is a tentative ruling by Judge F.M. Tavelman in a case involving the death of Sarkis Baghikian, who was treated for Covid-19 at Providence Saint Joseph Medical Center. The defendants, including the medical center and several physicians, demurred to the plaintiffs' claims, alleging that they are barred by the Federal Public Readiness and Emergency Preparedness Act (PREP Act). The judge sustained the demurrers, finding that the plaintiffs' claims arise from the administration of Remdesivir and Dexamethasone, which are covered countermeasures under the PREP Act. The judge concluded that the PREP Act provides immunity to the defendants and that the plaintiffs' claims are barred by the Act.

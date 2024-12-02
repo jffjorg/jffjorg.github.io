@@ -1,0 +1,64 @@
+Here is the summary in YAML format:
+
+```
+case_number: 24STCV20259
+plaintiff: Amphilous Jackson
+defendant: Jennifer Jones Phillips, et al.
+people_names:
+  - Amphilous Jackson
+  - Jennifer Jones Phillips
+  - Toni Rainey
+  - Melissa Owens
+  - Kiara Williams
+  - Hon. Jon R. Takasugi
+company_names: []
+places:
+  - Los Angeles
+  - California
+  - South Broadway
+  - 1933 South Broadway
+dates:
+  - August 12, 2024
+  - October 7, 2024
+  - August 20, 2024
+  - September 6, 2024
+  - November 18, 2024
+events:
+  - Filing of complaint
+  - Motion to quash service of complaint
+  - Service of process
+  - Hearing
+money: []
+intentions:
+  - To quash service of complaint
+facts:
+  - Plaintiff initiated action against defendants on August 12, 2024
+  - Defendants moved to quash service of complaint on October 7, 2024
+  - Plaintiff did not oppose the motion
+  - Defendants contend that the proofs of service are defective
+disputes:
+  - Plaintiff's purported proofs of service are defective
+  - Defendant Jones-Phillips was not personally served
+acts:
+  - Plaintiff initiated action
+  - Defendants moved to quash service of complaint
+  - Plaintiff did not oppose the motion
+agreements: []
+laws:
+  - CCP § 414.10
+case_citations: []
+statutes:
+  - CCP
+roles:
+  - Judge: Hon. Jon R. Takasugi
+  - Plaintiff: Amphilous Jackson
+  - Defendant: Jennifer Jones Phillips, et al.
+significant_statements:
+  - Specially appearing Defendants' motion to quash is GRANTED.
+  - Plaintiff may not serve process in her own case.
+  - The purported service of Jones-Phillips is defective.
+```
+
+And here is a summary of the judge's tentative ruling in English text:
+
+The judge has granted the specially appearing defendants' motion to quash the service of complaint. The plaintiff, Amphilous Jackson, initiated the action against Jennifer Jones Phillips, Toni Rainey, and Melissa Owens on August 12, 2024. The defendants moved to quash the service of complaint on October 7, 2024, arguing that the proofs of service are defective. The plaintiff did not oppose the motion, and the judge found that the purported proofs of service are defective. Specifically, the judge found that the plaintiff may not serve process in her own case, and that the purported service of Jones-Phillips is defective. As a result, the judge granted the defendants' motion to quash the service of complaint.

@@ -1,0 +1,63 @@
+Here is the summary in YAML format:
+
+```
+case_number: 20STCV37782
+plaintiff_name: Buil Samgye Tang, Inc.
+defendant_name: In Ae Park
+people_names:
+  - In Ae Park
+  - Hon. Lee S. Arian
+company_names:
+  - Buil Samgye Tang, Inc.
+places:
+  - Los Angeles
+dates:
+  - October 1, 2020
+  - November 14, 2023
+  - December 19, 2023
+  - November 14, 2024
+  - November 15, 2024
+events:
+  - Plaintiff filed the present case
+  - Defendant propounded discovery requests
+  - Plaintiff failed to respond to discovery requests
+  - Hearing on Motion to Compel Initial Responses and Requests for Sanctions
+money:
+  - $1,540 in sanctions (requested)
+  - $1,500 in sanctions (awarded)
+intentions:
+  - Defendant intends to compel initial responses from Plaintiff
+  - Plaintiff intends to avoid providing responses
+facts:
+  - Plaintiff filed the present case on October 1, 2020
+  - Defendant propounded discovery requests on November 14, 2023
+  - Responses were due on December 19, 2023, but none were provided
+  - Defendant is seeking sanctions for Plaintiff's failure to respond
+disputes:
+  - Plaintiff's failure to respond to discovery requests
+  - Defendant's request for sanctions
+acts:
+  - Defendant propounded discovery requests
+  - Plaintiff failed to respond to discovery requests
+  - Defendant is seeking sanctions
+agreements:
+  - None
+laws:
+  - California Civil Procedure Code
+  - California Rules of Court
+case_citations:
+  - None
+statutes:
+  - California Rule of Court 3.1300
+roles:
+  - Judge: Hon. Lee S. Arian
+  - Plaintiff: Buil Samgye Tang, Inc.
+  - Defendant: In Ae Park
+significant_statements:
+  - "The Court did not find Plaintiff to have acted with substantial justification."
+  - "The Court reduces the sanctions to $1,500 for both motions."
+```
+
+And here is the English-text summary:
+
+Judge Hon. Lee S. Arian has issued a tentative ruling on the motion to compel initial responses and requests for sanctions in the case of Buil Samgye Tang, Inc. v. In Ae Park. The case involves defendant In Ae Park's propounded discovery requests, including form interrogatories and requests for production of documents, which were due on December 19, 2023, but plaintiff failed to respond. The court has granted the motion and ordered plaintiff to provide complete and verified responses to the discovery requests without objections within 20 days. The court has also awarded defendant $1,500 in sanctions, payable to defendant within 20 days.
