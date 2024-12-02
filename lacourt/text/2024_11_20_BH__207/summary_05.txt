@@ -1,0 +1,64 @@
+Here is the summary in YAML format:
+
+```
+case_number: 23SMCV03128
+plaintiff_name: Precise General Contractor, Inc.
+defendant_name: Chapter 4 Corp., JRM Construction West, LLC
+people_names:
+  - Christopher Smith
+  - Michael E. Whitaker
+company_names:
+  - Chapter 4 Corp.
+  - JRM Construction West, LLC
+  - Precise General Contractor, Inc.
+places:
+  - Los Angeles County
+  - New York
+dates:
+  - August 29, 2023
+  - October 27, 2023
+  - November 20, 2024
+events:
+  - Motion to Enforce Settlement
+  - Default judgment against JRM Construction West, LLC
+  - Filing of First Amended Complaint
+  - Execution of settlement agreement
+money:
+  - $102,500
+  - $97,887.65
+intentions:
+  - Enforce settlement agreement
+  - Dismiss action against JRM Construction West, LLC
+  - Release claims against Chapter 4 Corp.
+facts:
+  - Settlement agreement between Precise General Contractor, Inc. and JRM Construction West, LLC
+  - Chapter 4 Corp. was not a party to the settlement agreement
+  - Chapter 4 Corp. seeks to enforce the settlement agreement
+disputes:
+  - Whether the settlement agreement is binding on Chapter 4 Corp.
+  - Whether Chapter 4 Corp. is a third-party beneficiary of the settlement agreement
+  - Whether the settlement agreement was executed for the benefit of Chapter 4 Corp.
+acts:
+  - Filing of motion to enforce settlement agreement
+  - Filing of opposition to motion
+  - Filing of reply to opposition
+laws:
+  - Code of Civil Procedure section 664.6
+  - Spinks v. Equity Residential Briarwood Apartments (2009)
+statutes:
+  - California Civil Code
+roles:
+  - Judge: Michael E. Whitaker
+  - Moving party: Chapter 4 Corp.
+  - Opposing party: Precise General Contractor, Inc.
+  - Plaintiff: Precise General Contractor, Inc.
+  - Defendant: Chapter 4 Corp., JRM Construction West, LLC
+significant statements:
+  - "The Court does not find that Chapter 4 was an intended beneficiary of the settlement agreement."
+  - "The Court does not read this general release language as evidencing a specific intent to dismiss claims brought against Chapter 4 or otherwise made for the specific benefit of Chapter 4."
+  - "As such, the Court denies Channel 4's motion to enforce the settlement agreement."
+```
+
+And here is a brief summary of the judge's tentative ruling:
+
+This is a tentative ruling on a motion to enforce a settlement agreement between Precise General Contractor, Inc. and JRM Construction West, LLC. The settlement agreement was executed on August 29, 2023, and provides for the payment of $102,500 to Precise General Contractor, Inc. in exchange for dismissing the action against JRM Construction West, LLC. Chapter 4 Corp., a non-party to the settlement agreement, is seeking to enforce the agreement and have the action against it dismissed. The court finds that Chapter 4 Corp. is not a party to the settlement agreement and does not have standing to enforce it. The court also finds that the language in the settlement agreement does not evidence an intent to benefit Chapter 4 Corp. or release claims against it. Therefore, the court denies Chapter 4 Corp.'s motion to enforce the settlement agreement.

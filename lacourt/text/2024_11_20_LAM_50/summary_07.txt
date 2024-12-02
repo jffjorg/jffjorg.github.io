@@ -1,0 +1,57 @@
+Here is the summary in YAML format:
+
+```
+case_number: [ omitted ]
+plaintiff_name: [ omitted ]
+defendant_name: [ omitted ]
+people_names:
+  - [ omitted ]
+  - [ omitted ]
+company_names:
+  - [ omitted ]
+places:
+  - [ omitted ]
+dates:
+  - [ omitted ]
+events:
+  - Notice of motion filed
+  - Reply brief filed
+  - Court hearing scheduled
+money:
+  - [ omitted ]
+intentions:
+  - Determine the nature of the order being sought
+  - Address defendant's arguments
+  - Decline to consider new points raised in reply brief
+facts:
+  - Notice of motion must state nature of order being sought
+  - Points raised for first time in reply brief may not be considered
+disputes:
+  - Nature of the order being sought
+  - Whether certain points can be considered
+acts:
+  - Defendant filed reply brief
+  - Plaintiff filed notice of motion
+agreements:
+  - [ omitted ]
+laws:
+  - California Rules of Court, rule 3.1110, subdivision (a)
+  - American Drug Stores, Inc. v. Stroh (1992)
+  - Civil Code section 1782
+  - Civil Code section 3294
+case_citations:
+  - [ omitted ]
+  - American Drug Stores, Inc. v. Stroh (1992)
+  - California Rules of Court, rule 3.1110, subdivision (a)
+statutes:
+  - California Rules of Court, rule 3.1110, subdivision (a)
+  - Civil Code section 1782
+  - Civil Code section 3294
+roles:
+  - Judge
+  - Plaintiff
+  - Defendant
+significant_statements:
+  - The court need not address defendant's remaining arguments
+  - Points raised for the first time in a reply brief will not be considered
+  - The court declines to consider the arguments raised for the first time in the reply.

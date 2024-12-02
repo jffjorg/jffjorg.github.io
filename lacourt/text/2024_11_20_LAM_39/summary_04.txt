@@ -1,0 +1,59 @@
+Here is the summary in YAML format:
+
+```
+case_number: 24STCV18165
+plaintiff_name: Cypress Escrow and Settlement Services, Inc.
+defendant_name: None
+people_names:
+  - Courtney L. Puritsky
+company_names:
+  - Cypress Escrow and Settlement Services, Inc.
+  - Pacific Loan Management Corp.
+places:
+  - California
+dates:
+  - August 20, 2024
+  - November 20, 2024
+events:
+  - Real property sale dispute
+  - Interpleader complaint filed
+  - Funds deposited with the Court
+  - Attorney fees and costs incurred
+money:
+  - $50,000
+  - $8,562
+intentions:
+  - Discharge of Plaintiff from the action
+  - Reimbursement of attorney fees and costs
+facts:
+  - Plaintiff held $50,000 in escrow
+  - Dispute arose between parties regarding fund disposition
+  - Plaintiff filed interpleader complaint
+  - Funds deposited with the Court
+disputes:
+  - Dispute between parties regarding fund disposition
+acts:
+  - Plaintiff deposited funds with the Court
+  - Plaintiff seeks attorney fees and costs
+  - Court grants attorney fees and costs
+agreements:
+  - Code Civ. Proc., § 386.5
+  - Code Civ. Proc., § 386.6
+laws:
+  - California Code of Civil Procedure
+case_citations:
+  - Pacific Loan Management Corp. v. Superior Court (1987) 196 Cal.App.3d 1485, 1489-1490
+statutes:
+  - California Code of Civil Procedure, § 386.5
+  - California Code of Civil Procedure, § 386.6
+roles:
+  - Plaintiff: Cypress Escrow and Settlement Services, Inc.
+  - Counsel: Courtney L. Puritsky
+significant_statements:
+  - The Court grants Plaintiff's motion for discharge from the action.
+  - The Court grants Plaintiff's request for attorney fees and costs in the amount of $8,562.
+```
+
+And here is a summary of the judge's tentative ruling in English text:
+
+The Court is considering a motion for an order of discharge filed by Cypress Escrow and Settlement Services, Inc. (Plaintiff) from this action. The Plaintiff held $50,000 in escrow in connection with a real property sale, but a dispute arose between the parties regarding the disposition of the funds. The Plaintiff filed an interpleader complaint and deposited the funds with the Court. The Court finds that, under these circumstances, the discharge of the Plaintiff is warranted. The Plaintiff is also entitled to reimbursement of attorney fees and costs incurred in litigating this action, which the Court grants in the amount of $8,562. The Plaintiff is ordered to provide notice of this order and to file proof of service of same.
