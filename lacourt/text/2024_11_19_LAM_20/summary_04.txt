@@ -1,0 +1,66 @@
+Here is the summary in YAML format:
+
+```
+case_number: 2022-123456
+plaintiff_names:
+  - 321 Properties, Inc.
+  - Sung Won Yi
+defendant_names:
+  - Belmont One Investment Holdings, LLC
+  - Belmont Two Investment Holdings, LLC
+people_names:
+  - Sung Won Yi
+  - Sam Yi
+company_names:
+  - 321 Properties, Inc.
+  - One Properties, Inc.
+  - Belmont One Investment Holdings, LLC
+  - Belmont Two Investment Holdings, LLC
+places: None
+dates:
+  - October 3, 2022
+  - July 2015
+  - October 2022
+events:
+  - Cross-Complaint filed
+  - Motion for Summary Adjudication filed
+  - Trial is in fact necessary to resolve the dispute
+money:
+  - $4,000.00 per month
+intentions:
+  - Seeking summary adjudication on Cross-Complaint
+facts:
+  - 321 Properties, Inc. and Sung Won Yi managed Cross-Defendants Belmont One Investment Holdings, LLC and Belmont Two Investment Holdings, LLC
+  - Cross-Defendants failed to compensate 321 Properties, Inc. and Sung Won Yi for their services
+  - A meeting to approve LLC manager compensation never occurred
+  - Sam Yi acted as Manager of Belmont One and Two for years without complaint
+disputes:
+  - Whether full compensation was provided for Yi's services
+acts:
+  - Filing of Cross-Complaint and Motion for Summary Adjudication
+agreements: None
+laws:
+  - Code Civ. Proc. § 437c(p)(2)
+  - Aguilar v. Atlantic Richfield Co. (2001) 25 Cal.4th 826
+  - Hinesley v. Oakshade Town Center (2005) 135 Cal.App.4th 289
+  - Dore v. Arnold Worldwide, Inc. (2006) 39 Cal.4th 384
+case_citations:
+  - Aguilar v. Atlantic Richfield Co. (2001) 25 Cal.4th 826
+  - Hinesley v. Oakshade Town Center (2005) 135 Cal.App.4th 289
+  - Dore v. Arnold Worldwide, Inc. (2006) 39 Cal.4th 384
+statutes:
+  - Code Civ. Proc. § 437c(p)(2)
+roles:
+  - Judge
+  - Plaintiff
+  - Defendant
+  - Cross-Complainant
+  - Cross-Defendant
+significant_statements:
+  - The moving party bears the initial burden of production to make a prima facie showing of the nonexistence of any triable issue
+  - Courts liberally construe the evidence in support of the party opposing summary judgment and resolve doubts concerning the evidence in favor of that party
+```
+
+Here is a summary of the judge's tentative ruling in English text:
+
+The judge has denied the motion for summary adjudication filed by Belmont One Investment Holdings, LLC and Belmont Two Investment Holdings, LLC. The Cross-Complainants, 321 Properties, Inc. and Sung Won Yi, had filed a Cross-Complaint alleging breach of implied contract, quantum meruit, and declaratory relief, claiming they were not compensated for their services as managers of the Cross-Defendants. The Cross-Defendants argued that they had paid 321 Properties, Inc. a monthly fee of $4,000.00 for their services, which rendered any claims for compensation by Sung Won Yi moot. The Cross-Complainants countered that the payment to 321 Properties, Inc. was irrelevant to their claims and that the Cross-Defendants had waived any argument that Sung Won Yi should not be compensated for his services by allowing him to act as manager for years without complaint. The judge found that there are triable issues as to whether full compensation was provided for Sung Won Yi's services and therefore denied the motion for summary adjudication.
