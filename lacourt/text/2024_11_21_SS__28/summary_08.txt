@@ -1,0 +1,92 @@
+Here is the summary in YAML format:
+
+```
+case_number: 23STCV29690
+hearing_date: November 21, 2024
+dept: 28
+judge: [Not specified]
+
+parties:
+  - Ivan Johnson (Plaintiff)
+  - Prudent Security Solutions, McDonald's, Does 1-10 (Defendants)
+  - Defendant Laddaran Management Corporation, doing business as McDonald's (McDonald's)
+
+people:
+  - Ivan Johnson
+  - McDonald's
+
+companies:
+  - Prudent Security Solutions, Inc.
+  - McDonald's USA, LLC
+  - Laddaran Management Corporation
+
+places:
+  - California
+
+dates:
+  - December 5, 2023
+  - May 13, 2024
+  - July 7, 2024
+  - September 23, 2024
+  - October 7, 2024
+  - November 14, 2024
+  - June 3, 2025
+
+events:
+  - Filing of complaint
+  - Amendment of complaint
+  - Filing of answer and cross-complaint
+  - Filing of motions to compel responses to discovery requests
+  - Filing of opposition and reply
+
+money:
+  - $800.00 in sanctions requested by McDonald's
+  - $200.00 in sanctions granted by the Court
+  - $400.00 in sanctions granted by the Court
+
+intentions:
+  - Plaintiff's intention to deny the motions and sanctions requests
+  - McDonald's intention to compel responses to discovery requests and impose sanctions
+
+facts:
+  - Plaintiff failed to serve timely responses to discovery requests
+  - McDonald's served requests for production of documents, special interrogatories, form interrogatories, and requests for admission
+  - Plaintiff admits to failing to provide timely responses
+
+disputes:
+  - Dispute over Plaintiff's failure to serve timely responses to discovery requests
+  - Dispute over the amount of sanctions to be imposed
+
+acts:
+  - Filing of motions to compel responses to discovery requests
+  - Filing of opposition and reply
+  - Granting of sanctions by the Court
+
+agreements:
+  - None specified
+
+laws:
+  - California Code of Civil Procedure sections 2031.300, 2030.290, and 2033.280
+  - California Rules of Court, rule 3.1348(a)
+
+case_citations:
+  - Sinaiko Healthcare Consulting, Inc. v. Pacific Healthcare Consultants (2007) 148 Cal.App.4th 390
+
+statutes:
+  - California Code of Civil Procedure sections 2031.300, 2030.290, and 2033.280
+
+roles:
+  - Judge: [Not specified]
+  - Plaintiff: Ivan Johnson
+  - Defendant: Laddaran Management Corporation, doing business as McDonald's
+
+significant_statements:
+  - The Court grants $200.00 in sanctions on the motion to compel responses to the special and form interrogatories
+  - The Court grants $200.00 in sanctions on the motion to compel responses to the request for production of documents
+  - The Court grants $400.00 in sanctions on the motion to deem admitted matters specified in requests for admission
+  - The Court orders Plaintiff and his counsel to pay the sanctions
+```
+
+And here is a summary of the judge's tentative ruling in English text:
+
+The Court has considered the moving, opposition, and reply papers and rules as follows. The motion to compel responses to the request for production of documents, set one, is denied as moot. The Court grants the request for sanctions of $200.00 on the motion to compel responses to special interrogatories, set one, and form interrogatories, set one. The motion to deem admitted matters specified in requests for admission, set one, is denied as moot. The Court grants the request for sanctions of $400.00 on this motion. The total sanctions award is $800.00.
