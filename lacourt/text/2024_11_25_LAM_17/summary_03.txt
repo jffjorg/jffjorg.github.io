@@ -1,0 +1,68 @@
+Here is the summary in YAML format:
+
+```
+Case Number: 24STCV14117
+Plaintiff's Name: Gurmit Deol
+Defendant's Name: Safelite Group, Inc.
+People-Names:
+  - Gurmit Deol
+  - Judge: Jon R. Takasugi
+Company-Names:
+  - TikTok
+  - Safelite Group, Inc.
+Places:
+  - Los Angeles
+  - California
+Dates:
+  - June 5, 2024
+  - August 7, 2024
+  - November 25, 2024
+Events:
+  - Plaintiff filing suit
+  - Defendant demurring
+  - Court hearing
+Money:
+  - None mentioned
+Intentions:
+  - Plaintiff to state a claim for violation of California Trap and Trace Law
+Disputes:
+  - Defendant argues that Plaintiff has failed to state a claim
+Acts:
+  - Plaintiff alleges that the TikTok Software gathered device and browser information
+    during his visit to the website
+    - Defendant argues that Plaintiff has not alleged use of a pen register or trap and
+      trace device
+    - Defendant argues that Safelite is exempted from liability because it is a provider
+      of an electronic communication service
+    - Plaintiff has not alleged use of the required "device or process" under CIPA
+Facts:
+  - Plaintiff alleges that the TikTok Software gathers device and browser information,
+    geographic information, referral tracking, and URL tracking by running code or
+    "scripts" on the website to send user details to TikTok
+  - Defendant argues that Plaintiff has failed to state a claim for violation of
+    California Penal Code section 638.51
+  - Court agrees with Defendant that Plaintiff has failed to state a claim
+Laws:
+  - California Trap and Trace Law (Penal Code section 638.51)
+  - California Penal Code sections 638.50 and 638.52-53
+  - CIPA (Communications Act of 1934)
+Case Citations:
+  - Hartley v. Urban Outfitters, Inc., No. 23-4891, 2024 WL 3445004, at *7 (E.D. Pa. July 17, 2024)
+  - Lightoller v. Jetblue Airways Corp., No. 23-cv-361-H, 2023 WL 3963823, at *4 (S.D. Cal. June 12, 2023)
+  - Cellular Tel. Digital Analyzer, 885 F. Supp. 197, 199-200 (C.D. Cal. 1995)
+  - Doe v. Microsoft, No. C23-0718-JCC, 2023 WL 8780879, at *8 (W.D. Wash. Dec. 19, 2023)
+  - In re Google Location Hist. Litig., 428 F. Supp. 3d 185, 193 (N.D. Cal. 2019)
+  - Moreno v. San Francisco Bay Area Rapid Transit Dist., No.17-CV02911-JSC, 2017 WL 6387764, at *4-5 (N.D. Cal. Dec. 14, 2017)
+Roles:
+  - Judge: Jon R. Takasugi
+  - Plaintiff: Gurmit Deol
+  - Defendant: Safelite Group, Inc.
+Significant Statements:
+  - "A person may not install or use a pen register or a trap and trace device without first obtaining a court order pursuant to Section 638.52 or 638.53." (Cal. Penal Code § 638.51(a))
+  - "A 'pen register' is a 'device or process that records or decodes dialing, routing, addressing, or signaling information transmitted by an instrument or facility from which a wire or electronic communication is transmitted, but not the contents of a communication.'" (Id. § 638.50(b))
+  - "Courts interpreting other sections of CIPA have consistently found that 'software' does not constitute a 'device' within the meaning of the statute." (See, e.g., Doe v. Microsoft, No. C23-0718-JCC, 2023 WL 8780879, at *8 (W.D. Wash. Dec. 19, 2023))
+```
+
+Here is a summary of the judge's tentative ruling in English text:
+
+The judge has issued a tentative ruling in the case Gurmit Deol v. Safelite Group, Inc. The case concerns allegations by Deol that Safelite Group, Inc. violated the California Trap and Trace Law (Penal Code section 638.51) by using a software called TikTok on its website to gather personal information. The judge has sustained Safelite Group's demurrer, which means that Deol's complaint has been dismissed, and has given Deol 20 days to amend his complaint. The judge's ruling is based on the argument that Deol has failed to state a claim for violation of the law because he has not alleged that his personal information was actually collected, and because he has not alleged use of a pen register or trap and trace device. The judge also ruled that software does not constitute a "device" or "process" within the meaning of the law, and that Safelite Group is exempt from liability as a provider of an electronic communication service.
