@@ -1,0 +1,61 @@
+Here is the summary in YAML format:
+
+```
+case_number: 23SMCV06002
+plaintiff_name: Adrienne Edelstein
+defendant_name: Xirou Zhang
+people_names:
+  - Adrienne Edelstein
+  - Xirou Zhang
+  - Greyson Goody
+company_names:
+  - An Apple a Day, LLC
+places:
+  - California
+dates:
+  - 12-26-23 (Complaint Filed)
+  - 11-5-24 (Hearing Date)
+events:
+  - Motion for Trial Preference
+money:
+  - None
+intentions:
+  - Plaintiff seeks trial preference under CCP § 36(a)
+facts:
+  - Plaintiff is 90 years old and over the age of 70
+  - Plaintiff is sole Plaintiff in the matter
+  - Plaintiff's counsel, Greyson Goody, submits a declaration with the motion
+  - Goody's declaration does not meet the statutory requirements under CCP § 36(a)
+disputes:
+  - Whether Plaintiff's health is an issue that warrants trial preference
+acts:
+  - Plaintiff files Motion for Trial Preference
+  - Defendant responds to the motion
+agreements:
+  - None
+laws:
+  - CCP § 35(a)
+  - CCP § 36(a)
+  - CCP § 36.5
+  - CCP § 36, subdivision (f)
+case_citations:
+  - Fox v. Superior Court (2018) 21 Cal.App.5th 529
+statutes:
+  - CCP § 35(a)
+  - CCP § 36(a)
+  - CCP § 36.5
+  - CCP § 36, subdivision (f)
+roles:
+  - Judge
+  - Plaintiff (Adrienne Edelstein)
+  - Defendant (Xirou Zhang)
+  - Plaintiff's counsel (Greyson Goody)
+significant_statements:
+  - Plaintiff's motion for trial preference is denied without prejudice
+  - The court finds that Plaintiff's counsel does not provide a declaration satisfying the statutory requirement of CCP § 35(a)
+  - The court explains the requirements for trial preference under CCP § 36(a)
+```
+
+And here is a summary of the judge's tentative ruling in English text:
+
+The plaintiff, Adrienne Edelstein, has filed a motion for trial preference under CCP § 36(a) due to her age and alleged health issues. However, the court finds that the plaintiff's counsel, Greyson Goody, does not provide a declaration satisfying the statutory requirement of CCP § 35(a). Specifically, Goody's declaration does not directly state the impact of the plaintiff's health on her interest in the litigation. The court notes that CCP § 36(a) requires a showing that the party's health is such that a preference is necessary to prevent prejudicing the party's interest in the litigation. The court denies the plaintiff's motion for trial preference without prejudice, citing the lack of a sufficient declaration and the need for a more specific showing of the impact of the plaintiff's health on her interest in the litigation.

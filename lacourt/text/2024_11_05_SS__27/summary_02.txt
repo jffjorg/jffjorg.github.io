@@ -1,0 +1,78 @@
+Here is the summary in YAML format:
+
+```
+case_number: 22STCV04390
+plaintiff_names:
+  - Antonio Rodriguez Bautista
+  - Christobal Rodriguez Bautista
+defendant_name: Taylor Colton Kent
+people_names:
+  - Judge Lee S. Arian
+company_names:
+  - Truck Insurance Exchange
+places:
+  - California
+dates:
+  - December 17, 2020
+  - April 22, 2022
+  - November 28, 2023
+  - August 2, 2024
+  - November 5, 2024
+events:
+  - Automobile accident
+  - Workers' Compensation benefits
+  - Settlement agreement
+  - Motion to enforce settlement
+  - Hearing
+money:
+  - $40,500.00
+  - $9,500.00
+intentions:
+  - To enforce settlement agreement
+  - To deny motion to enforce settlement
+facts:
+  - Plaintiffs sustained injuries in an automobile accident
+  - Plaintiffs received Workers' Compensation benefits
+  - Defendant moves to enforce settlement agreement
+  - Settlement agreement is not signed by all parties
+disputes:
+  - Dispute over signing of settlement agreement
+  - Dispute over enforcement of settlement agreement
+acts:
+  - Signing of settlement agreement
+  - Filing of motion to enforce settlement
+  - Failure to sign settlement agreement
+agreements:
+  - Settlement agreement between Plaintiffs and Defendant
+  - Settlement agreement between Defendant and Truck Insurance Exchange
+laws:
+  - California Code of Civil Procedure § 664.6
+  - Weddington Productions, Inc. v. Flick (1998)
+  - J.B.B. Investment Partners, Ltd. v. Fair (2014)
+  - Harris v. Rudin, Richman & Appel (1999)
+  - Sully-Miller Contracting Co. v. Gledson/Cashman Const., Inc. (2002)
+  - Robertson v. Chen (1996)
+  - Levy v. Superior Court (1995)
+case_citations:
+  - Weddington Productions, Inc. v. Flick (1998) 60 Cal.App.4th 793, 797-98
+  - J.B.B. Investment Partners, Ltd. v. Fair (2014) 232 Cal.App.4th 974, 985
+  - Harris v. Rudin, Richman & Appel (1999) 74 Cal.App.4th 299, 306
+  - Sully-Miller Contracting Co. v. Gledson/Cashman Const., Inc. (2002) 103 Cal.App.4th 30, 35-37
+  - Robertson v. Chen (1996) 44 Cal.App.4th 1290, 1293
+  - Levy v. Superior Court (1995) 10 Cal.4th 578, 581
+statutes:
+  - Code of Civil Procedure § 664.6
+roles:
+  - Judge
+  - Plaintiff
+  - Defendant
+  - Counsel
+significant_statements:
+  - Defendant failed to satisfy the statutory requirements of § 664.6.
+  - The settlement agreement is not signed by all parties.
+  - The court will deny the motion to enforce the settlement agreement.
+```
+
+And here is a summary of the judge's tentative ruling:
+
+The judge is considering a motion to enforce a settlement agreement between the parties in a lawsuit arising from an automobile accident. The settlement agreement is not signed by all parties, which is a requirement for enforcement under California Code of Civil Procedure § 664.6. The judge finds that the Defendant has failed to satisfy this requirement and therefore denies the motion to enforce the settlement agreement. The judge also notes that the parties may pursue alternative relief, such as a motion for summary judgment or a separate suit in equity.

@@ -1,0 +1,90 @@
+Here is the summary in YAML format:
+
+```
+case_number: 24STCV04515
+plaintiff_name: Natalia Lianova
+defendant_name: Red Dragon Investment (RDI), Guy Zarfati, LA Development Properties LLC, Lion Servicing, GSA Management Limited Liability Company, Orange Coast Title Company, Lawyers Title Company, Shery Katz, and Does 1-10
+people_names:
+  - Natalia Lianova
+  - David Bartelstone
+  - Guy Zarfati
+  - Andrey Lizikhin
+  - Shery Katz
+  - Kyle Marks
+company_names:
+  - Red Dragon Investment (RDI)
+  - LA Development Properties LLC
+  - Lion Servicing
+  - GSA Management Limited Liability Company
+  - Orange Coast Title Company
+  - Lawyers Title Company
+places:
+  - Los Angeles County
+  - Calabasas, CA
+dates:
+  - July 18, 2024
+  - July 26, 2024
+  - August 9, 2024
+  - September 15, 2023
+  - December 20, 2023
+  - November 3, 2011
+  - November 9, 2011
+  - March 14, 2023
+  - March 22, 2023
+events:
+  - Demurrer
+  - Motion to Expunge Notice of Pendency of Action
+  - Foreclosure
+money:
+  - $1,522.50 (monetary sanctions)
+  - $2,762.50 (attorney's fees)
+  - $60 (filing fee)
+intentions:
+  - To quiet title to the Subject Property
+  - To cancel the RDI Deed of Trust
+  - To cancel the GSA Deed of Trust
+  - To cancel the Katz Deed of Trust
+facts:
+  - Plaintiff obtained title to the Subject Property on November 3, 2011
+  - Plaintiff executed a Quitclaim Deed on March 14, 2023
+  - RDI filed a Demurrer to the Complaint on October 8, 2024
+  - RDI filed a Motion to Expunge Notice of Pendency of Action on October 8, 2024
+disputes:
+  - Plaintiff's claims against RDI
+  - RDI's claim to be a bona fide encumbrancer
+acts:
+  - Execution of the Quitclaim Deed
+  - Recording of the RDI Deed of Trust
+  - Foreclosure of the RDI Deed of Trust
+agreements:
+  - None
+laws:
+  - California Civil Procedure Code (C.C.P.)
+  - California Evidence Code (E.C.)
+  - California Code of Civil Procedure (C.C.P.) - 405.1, 405.2, 405.30, 405.31, 405.32, 405.38
+  - First Fidelity Thirty & Loan Ass'n v. Alliance Bank (1998) 60 Cal.App.4th 1433
+  - Brock v. First South Savings Assn. (1992) 8 Cal.App.4th 661
+  - Schiavon v. Arnaudo Brothers (2000) 84 Cal.App.4th 374
+  - Park 100 Investment Group II, LLC v. Ryan (2009) 180 Cal.App.4th 795
+  - Hunting World, Inc. v. Superior Court (1994) 22 Cal.App.4th 67
+  - Burger v. Superior Court (1984) 151 Cal.App.3d 1013
+case_citations:
+  - First Fidelity Thirty & Loan Ass'n v. Alliance Bank (1998) 60 Cal.App.4th 1433
+  - Brock v. First South Savings Assn. (1992) 8 Cal.App.4th 661
+  - Schiavon v. Arnaudo Brothers (2000) 84 Cal.App.4th 374
+  - Park 100 Investment Group II, LLC v. Ryan (2009) 180 Cal.App.4th 795
+  - Hunting World, Inc. v. Superior Court (1994) 22 Cal.App.4th 67
+  - Burger v. Superior Court (1984) 151 Cal.App.3d 1013
+statutes:
+  - California Civil Procedure Code (C.C.P.) - 405.1, 405.2, 405.30, 405.31, 405.32, 405.38
+roles:
+  - Judge: Hon. Rolf Treu
+  - Plaintiff's counsel: Natalia Lianova (pro per) and Kyle Marks
+  - Defendant's counsel: David Bartelstone (Cunningham, Treadwell & Bartelstone)
+significant_statements:
+  - The Court finds that RDI was a bona fide encumbrancer and that Plaintiff's claims against RDI fail.
+  - The motion to expunge the Notice of Pendency of Action is GRANTED.
+  - The Court awards attorney's fees and costs in the total amount of $1,522.50.
+```
+
+Please note that this summary is based on the provided text and may not be exhaustive or accurate in all aspects.

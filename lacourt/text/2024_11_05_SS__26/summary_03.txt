@@ -1,0 +1,67 @@
+Here is the summary in YAML format:
+
+```
+case_number: 23STLC06528
+plaintiff_name: Jose Avilez
+defendant_name: The Guarantee Company of North America USA, et al.
+people_names:
+  - Jose R. Avilez
+  - Raymond Sharifpour
+company_names:
+  - The Guarantee Company of North America USA
+  - White Diamond Auto Sales
+places:
+  - California
+dates:
+  - October 11, 2023
+  - December 12, 2023
+  - June 26, 2024
+  - June 27, 2024
+  - August 30, 2024
+  - October 23, 2024
+  - October 31, 2024
+events:
+  - Filing of motion for terminating sanctions
+  - Granting of motions to compel responses
+  - Failure to serve verified responses and pay sanctions
+  - Service of verified responses
+money:
+  - Sanctions
+  - Monetary sanctions
+intentions:
+  - To obtain terminating sanctions against Defendant Sharifpour
+facts:
+  - Plaintiff filed a motion for terminating sanctions
+  - Defendant Sharifpour failed to serve verified responses and pay sanctions
+  - The Court granted motions to compel responses
+  - Defendant Sharifpour served verified responses after the motion was filed
+disputes:
+  - Whether terminating sanctions are warranted
+acts:
+  - Filing of motion for terminating sanctions
+  - Failure to serve verified responses and pay sanctions
+  - Service of verified responses
+agreements:
+  - Code of Civil Procedure section 2023.010
+  - Code of Civil Procedure section 2023.030
+laws:
+  - Code of Civil Procedure section 2023.010
+  - Code of Civil Procedure section 2023.030
+case_citations:
+  - R.S. Creative, Inc. v. Creative Cotton, Ltd. (1999) 75 Cal.App.4th 486, 495
+  - Lang v. Hochman (2000) 77 Cal.App.4th 1225, 1246
+  - Van Sickle v. Gilbert (2011) 196 Cal.App.4th 1495, 1516
+  - Brown v. Sup. Ct. (1986) 180 Cal.App.3d 701, 707
+roles:
+  - Judge
+  - Plaintiff
+  - Defendant
+significant_statements:
+  - The Court finds that terminating sanctions are not warranted for Defendant's non-compliance with the discovery order at this time.
+  - The Court exercises its discretion to deny the Motion now that responses have been served.
+  - The threat of terminating sanctions has been sufficient to ensure Defendant Sharifpour's compliance.
+```
+
+And here is a summary of the tentative ruling in English text:
+
+The Judge has denied the Plaintiff's motion for terminating sanctions against Defendant Sharifpour. The Plaintiff had requested that the Defendant's answer be struck and a default judgment be entered against him due to his failure to serve verified responses and pay sanctions as ordered by the Court. The Court found that although the Defendant failed to comply with the discovery order, he ultimately served the required responses, and the threat of terminating sanctions was sufficient to ensure compliance. Therefore, the Court denied the motion and did not impose terminating sanctions.

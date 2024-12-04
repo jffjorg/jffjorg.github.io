@@ -1,0 +1,60 @@
+Here is the summary in YAML format:
+
+```
+case_number: 21STCV01774
+plaintiff_name: Bertha Valdez
+defendant_name:
+  - O'Reilly Automotive Inc.
+  - Storopack, Inc.
+  - Thana Vong
+people_names:
+  - Bertha Valdez
+  - Thana Vong
+companies_names:
+  - O'Reilly Automotive Inc.
+  - Storopack, Inc.
+places:
+  - California
+dates:
+  - November 5, 2024
+  - July 2025
+events:
+  - Motor vehicle accident
+  - Discovery phase
+  - Trial
+money:
+  - Not mentioned
+intentions:
+  - Defendants seek to amend their answers to include the affirmative defense of "Sudden Emergency Doctrine"
+facts:
+  - Plaintiff was a pedestrian and was allegedly struck by a tire following a collision of two vehicles
+  - Defendant Thana Vong was driving one of the two vehicles involved in the collision and was in the course and scope of her employment with Storopack, Inc.
+  - Discovery in the case has revealed new facts relating to the case
+disputes:
+  - Whether Defendants should be allowed to amend their answers to include the Sudden Emergency Doctrine
+acts:
+  - Plaintiff was struck by a tire following a collision of two vehicles
+  - Defendant Thana Vong was driving one of the two vehicles involved in the collision
+agreements:
+  - CCP §473(a)(1) allows for amendments to pleadings or proceedings
+  - Judicial policy favors resolution of all disputed matters between the parties
+  - Granting leave to amend is appropriate in this case
+laws:
+  - CCP §473(a)(1)
+  - Mesler v. Bragg Management Co. (1985) 39 Cal.3d 290
+  - Ventura v. ABM Industries, Inc. (2013) 212 Cal.App.4th 258
+  - Morgan v. Superior Court (1959) 172 Cal.App.2d 527
+  - Kittredge Sports Co. v. Superior Court (1989) 213 Cal.App.3d 1045
+roles:
+  - Judge: Granting leave to amend is appropriate in this case
+  - Plaintiff: Has not opposed the motion for leave to amend
+  - Defendants: Seek to amend their answers to include the affirmative defense of "Sudden Emergency Doctrine"
+significant_statements:
+  - Judicial policy strongly favors granting leave to amend, absent exceptional circumstances not present in this case
+  - Granting leave to amend will not significantly prejudice remaining parties to this action
+  - Denying the motion may deprive Defendants of the right to assert a meritorious affirmative defense under the Sudden Emergency Doctrine
+```
+
+And here is the summary in English text:
+
+The Judge has issued a tentative ruling granting the motion for leave to amend the answers of the defendants, Storopack, Inc. and Thana Vong, to include the affirmative defense of "Sudden Emergency Doctrine". The defendants argue that new facts revealed during the discovery phase of the case necessitate the amendment. The Judge finds that granting leave to amend is appropriate in this case, citing judicial policy in favor of resolving all disputed matters between the parties. The Judge notes that granting leave to amend will not significantly prejudice the remaining parties to the action, whereas denying the motion may deprive the defendants of the right to assert a meritorious affirmative defense under the Sudden Emergency Doctrine. The defendants are ordered to file their amended answers within seven days.

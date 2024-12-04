@@ -1,0 +1,72 @@
+Here is the summary of the judge's tentative ruling in YAML format:
+
+```
+Case Number: 22STCP03332
+Plaintiff's Name: Porch.com, Inc. and Matthew Ehrlichman
+Defendant's Name: Kandela, LLC
+People-Names:
+  - Daniel M. Hayes
+  - Matthew Ehrlichman
+  - Scottsdale Indemnity Company
+Company-Names:
+  - Porch.com, Inc.
+  - Kandela, LLC
+  - Scottsdale Indemnity Company
+Places: Los Angeles
+Dates:
+  - October 12, 2022
+  - November 16, 2023
+  - September 12, 2024
+  - October 29, 2024
+  - November 5, 2024
+Events:
+  - Arbitration of claims
+  - Entry of judgment
+  - Assignment of judgment
+  - Demand for satisfaction of judgment
+  - Failure to file acknowledgment of satisfaction of judgment
+Money:
+  - $1,401,814
+  - $93,875.50
+  - Defense costs
+Intentions:
+  - Motion for entry of satisfaction of judgment
+  - Opposition to motion
+Facts:
+  - Judgment entered against Kandela, LLC
+  - Judgment creditor has not filed acknowledgment of satisfaction of judgment
+  - Respondent claims contractual offset applies
+Disputes:
+  - Whether judgment is satisfied
+  - Whether contractual offset applies
+Acts:
+  - Filing of motion for entry of satisfaction of judgment
+  - Filing of opposition to motion
+  - Filing of demand for satisfaction of judgment
+  - Failure to file acknowledgment of satisfaction of judgment
+Agreements:
+  - March 22, 2019 Asset Purchase Agreement (APA)
+Laws:
+  - Code of Civil Procedure, section 724.010
+  - Code of Civil Procedure, section 724.050
+  - Code of Civil Procedure, section 724.100
+Case Citations:
+  - Rossmoor Sanitation, Inc. v. Pylon, Inc. (1975) 13 Cal.3d 622
+  - Jackson v. County of Los Angeles (1997) 60 Cal.App.4th 171
+  - Jay v. Mahaffey (2013) 219 Cal.App.4th 1522
+Statutes:
+  - Code of Civil Procedure, section 724.010
+  - Code of Civil Procedure, section 724.050
+  - Code of Civil Procedure, section 724.100
+Roles:
+  - Respondent: Kandela, LLC
+  - Judgment Creditor: Scottsdale Indemnity Company
+  - Petitioners: Porch.com, Inc. and Matthew Ehrlichman
+Significant Statements:
+  - "A money judgment may be satisfied by payment of the full amount required to satisfy the judgment or by acceptance by the judgment creditor of a lesser sum in full satisfaction of the judgment."
+  - "If the judgment creditor fails to file an acknowledgement of satisfaction of the judgment upon payment in full, the judgment debtor may file a written demand that the judgment creditor file such acknowledgment with the Court."
+```
+
+And here is a summary of the judge's tentative ruling in English text:
+
+The judge has denied Respondent Kandela, LLC's motion for an order for entry of satisfaction of judgment. Respondent had argued that the judgment was satisfied due to a contractual offset, but the judge found that Respondent failed to show how this offset applies to the judgment that has been entered against it. The judge also denied Respondent's request for judicial notice, as Respondent raised this issue for the first time in its reply brief and Judgment Creditor had not had the opportunity to respond. Finally, the judge found that Respondent's argument that Judgment Creditor is estopped from arguing that the APA does not apply was unsupported, as Respondent failed to show that the Court in case No. 23STCV01162 accepted Judgment Creditor's position.
