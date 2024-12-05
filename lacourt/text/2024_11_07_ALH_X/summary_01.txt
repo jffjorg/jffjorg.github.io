@@ -1,0 +1,67 @@
+Here is the summary in YAML format:
+
+```
+case_number: 22AHCV01208
+hearing_date: November 7, 2024
+dept: X
+
+people_names:
+  - Plaintiff's Name: unknown
+  - Defendant's Name: unknown
+
+company_names: []
+places: []
+dates:
+  - November 7, 2024
+events:
+  - Plaintiff's Motion for Attorney Fees
+money:
+  - Attorney fees: $38,430.00
+  - Recoverable costs: $9,276.13
+
+intentions:
+  - Grant Plaintiff's Motion for Attorney Fees
+  - Award attorney fees and costs
+
+facts:
+  - The Court determines the reasonableness of attorney fees using the lodestar method
+  - The lodestar is calculated by multiplying the number of hours reasonably expended by the reasonable hourly rate
+  - The Court adjusts the lodestar based on factors specific to the case, including novelty, difficulty, skill, and contingent nature
+
+disputes:
+  - None mentioned
+
+acts:
+  - Plaintiff's attorneys expended hours on the case
+  - Plaintiff's attorneys claimed attorney fees and costs
+
+agreements:
+  - The parties agreed to the Plaintiff's Motion for Attorney Fees
+
+laws:
+  - California Civil Procedure Code
+  - Warren v. Kia Motors America, Inc. (2018) 30 Cal.App.5th 24
+  - Heritage Pacific Financial, LLC v. Monroy (2013) 215 Cal.App.4th 972
+  - Ketchum v. Moses (2001) 24 Cal.4th 1122
+
+case_citations:
+  - Warren v. Kia Motors America, Inc. (2018) 30 Cal.App.5th 24
+  - Heritage Pacific Financial, LLC v. Monroy (2013) 215 Cal.App.4th 972
+  - Ketchum v. Moses (2001) 24 Cal.4th 1122
+
+statutes: []
+roles:
+  - Judge
+  - Plaintiff
+  - Defendant
+  - Attorneys
+
+significant_statements:
+  - "The Court finds that a rate of $450.00 per hour is reasonable for the attorneys working on this matter."
+  - "The Court determines that 85.4 hours is reasonable."
+  - "The Court declines to apply a multiplier, as the total fee amount is determined to be reasonable and the lodestar factors were considered in determining the lodestar amount."
+```
+
+And here is a summary of the judge's tentative ruling in English text:
+
+The judge has granted the plaintiff's motion for attorney fees and costs. The judge has awarded attorney fees in the amount of $38,430.00, which is calculated by multiplying the number of hours reasonably expended by the reasonable hourly rate. The hourly rate is determined to be $450.00 per hour, which is reasonable based on market rates in the relevant community. The judge has adjusted the lodestar amount by considering factors specific to the case, such as the novelty and difficulty of the questions involved, the skill displayed in presenting them, and the contingent nature of the fee award. The judge has reduced the claimed costs by $498.45, the amount of the Statement of Non-Appearance. The judge's decision is based on the court's discretion to determine a reasonable attorney fee and its authority to award costs.
