@@ -1,0 +1,57 @@
+Here is the summary in YAML format:
+
+```
+case_number: 24STCV03123
+plaintiff_name: E on Los Angeles, LLC
+defendant_name: Narinder Pallan
+people_names:
+  - Narinder Pallan
+  - Theresa M. Traber
+company_names:
+  - E on Los Angeles, LLC
+places:
+  - Los Angeles
+dates:
+  - February 6, 2024
+  - June 18, 2024
+  - December 2023
+  - November 7, 2024
+events:
+  - Complaint filed
+  - First Amended Complaint filed
+  - Motion for leave to file cross-complaint
+money: None
+intentions:
+  - To grant Defendant's motion for leave to file a cross-complaint
+facts:
+  - Defendant failed to pay rent owed on a commercial lease
+  - Defendant left the premises in disrepair
+  - Plaintiff allowed Defendant's property to sustain water damage during heavy rains in December 2023
+disputes:
+  - Whether Defendant is entitled to leave to assert a belated crossclaim
+acts:
+  - Defendant's failure to pay rent
+  - Defendant's failure to make repairs to the roof of the premises
+  - Plaintiff's alleged failure to make repairs to the roof of the premises
+agreements:
+  - None
+laws:
+  - California Code of Civil Procedure sections 426.50, 426.10(c), and 428.50(a)
+  - Silver Organizations Ltd. v. Frank (1990) 217 Cal.App.3d 94
+  - Foot's Transfer & Storage Co. v. Superior Court (1980) 114 Cal.App.3d 897
+  - Align Technology, Inc. v. Tran (2009) 179 Cal.App.4th 949
+statutes:
+  - California Code of Civil Procedure sections 426.50, 426.10(c), and 428.50(a)
+roles:
+  - Judge: Theresa M. Traber
+  - Plaintiff: E on Los Angeles, LLC
+  - Defendant: Narinder Pallan
+significant_statements:
+  - Judge Traber grants Defendant's motion for leave to file a cross-complaint
+  - Defendant's failure to pay rent and failure to make repairs to the roof of the premises are compulsory crossclaims
+  - Plaintiff's alleged failure to make repairs to the roof of the premises is a factor in the decision to grant the motion
+```
+
+And here is the summary in English text:
+
+This tentative ruling addresses a motion by Defendant Narinder Pallan, acting in pro per, to file a compulsory cross-complaint against Plaintiff E on Los Angeles, LLC. The case involves a breach of lease, with Defendant alleging that Plaintiff failed to pay rent and left the premises in disrepair. Defendant claims that Plaintiff allowed Defendant's property to sustain water damage during heavy rains in December 2023 by failing to make repairs to the roof of the premises. The court grants Defendant's motion, holding that the proposed crossclaims are compulsory crossclaims and that Defendant acted in good faith in seeking leave to file the cross-complaint. The court orders Defendant to serve and file a clean standalone copy of the proposed cross-complaint within 10 days of the order.

@@ -1,0 +1,104 @@
+Here is the summary in YAML format:
+
+```
+case_number: Unknown
+plaintiffs:
+  - Morad Ben Neman
+  - Lancaster Eagle, LLC
+defendants:
+  - Payam Bahari
+  - Freydoon "Fred" Bahari Moghadam
+  - Haim Bahari
+  - Tal Bahari
+  - 114 Grand Cypress, LLC
+  - Cavalini, Inc.
+  - Caster Modelo, LLC
+people_names:
+  - Morad Ben Neman
+  - Payam Bahari
+  - Freydoon "Fred" Bahari Moghadam
+  - Haim Bahari
+  - Tal Bahari
+companies:
+  - Lancaster Eagle, LLC
+  - Caster Modelo, LLC
+  - Cavalini, Inc.
+  - 114 Grand Cypress, LLC
+places:
+  - Lancaster
+dates:
+  - December 16, 2022
+  - February 9, 2024
+  - April 19, 2024
+  - May 3, 2024
+  - June 5, 2024
+  - July 17, 2024
+  - July 23, 2024
+  - July 30, 2024
+  - August 12, 2024
+  - August 1, 2023
+events:
+  - Filing of the second amended complaint (SAC)
+  - Filing of the first amended cross-complaint (FAXC)
+  - Special motion to strike
+  - Opposition to the special motion to strike
+  - Reply to the opposition
+  - Denial of the special motion to strike
+  - New special motion to strike
+money:
+  - $25,000
+intentions:
+  - To prevent the lawsuit from proceeding
+facts:
+  - The plaintiffs and defendants entered into a joint venture agreement
+  - The defendants allegedly exploited the venture's investment leads and invested in properties for their own gain
+  - The plaintiffs sued the defendants for breach of the joint venture agreement and other claims
+  - The defendants cross-complained against the plaintiffs and Vivoli Saccuzo, LLP
+  - Vivoli Saccuzo, LLP allegedly received $25,000 from the bank account owned jointly by Lancaster Eagle and Caster Modelo
+disputes:
+  - The dispute is over whether the plaintiffs and defendants had a joint venture agreement
+  - The dispute is over whether the defendants breached the joint venture agreement
+  - The dispute is over whether Vivoli Saccuzo, LLP received the $25,000 in an improper manner
+acts:
+  - Breach of the joint venture agreement
+  - Aiding and abetting
+  - Fraudulent conveyances
+  - Conversion
+  - Receipt of stolen property
+agreements:
+  - Joint venture agreement
+  - Tenancy-in-common agreement (TIC)
+laws:
+  - California Code of Civil Procedure section 425.16
+  - California Penal Code section 496
+citations:
+  - Code Civ. Proc. § 425.16
+  - Code Civ. Proc. § 425.16, subd. (b)(1)
+  - Code Civ. Proc. § 425.16, subd. (e)
+  - Code Civ. Proc. § 425.16, subd. (b)(2)
+  - Park v. Board of Trustees of California State University (2017) 2 Cal.5th 1057
+  - Optional Capital, Inc. v. DAS Corp. (2014) 222 Cal.App.4th 1388
+  - Callanan v. Grizzly Designs, LLC (2022) 81 Cal.App.5th 517
+  - Rusheen v. Cohen (2006) 37 Cal.4th 1048
+  - Greco v. Greco (2016) 2 Cal.App.5th 810
+  - Switzer v. Wood (2019) 35 Cal.App.5th 116
+  - Oakdale Village Group v. Fong (1996) 43 Cal.App.4th 539
+  - Moore v. Regents of University of California (1990) 51 Cal.3d 120
+  - Henderson v. Security Nat. Bank (1977) 72 Cal.App.3d 764
+roles:
+  - Judge
+  - Plaintiff
+  - Defendant
+  - Cross-defendant
+  - Claimant
+  - Defendant's counsel
+significant_statements:
+  - The special motion to strike is denied.
+  - The claims do not arise from protected activity.
+  - The conversion cause of action does not "arise from" protected activity within the meaning of section 425.16.
+  - The cause of action for receiving stolen property does not arise from protected activity.
+```
+
+And here is a summary of the judge's tentative ruling:
+
+The judge has denied the special motion to strike filed by Cross-Defendant Vivoli Saccuzo, LLC. The motion was filed under California Code of Civil Procedure section 425.16, which allows for the dismissal of lawsuits that arise from protected activity. However, the judge found that the claims brought by Cross-Complainant Caster Modelo, LLC do not arise from protected activity. Specifically, the judge found that the conversion cause of action and the cause of action for receiving stolen property do not arise from protected activity because they are based on the receipt of stolen property and not on protected speech or petitioning activity. The judge also found that the claims do not meet the first prong of the anti-SLAPP statute, which requires a showing that the claims arise from protected activity.

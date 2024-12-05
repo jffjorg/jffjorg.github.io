@@ -1,0 +1,54 @@
+Here is the summary in YAML format:
+
+```
+Case Number: 2023-000123
+Plaintiff's Name: Corbel Architects, Inc. and David Seong Bae Kim
+Defendant's Name: Hot Hand Corporation and Hyo Suk Kim
+People-Names:
+  - David Seong Bae Kim
+  - Hyo Suk Kim
+Company-Names:
+  - Corbel Architects, Inc.
+  - Hot Hand Corporation
+Places:
+  - Los Angeles County
+Dates:
+  - August 31, 2023
+  - September 16, 2024
+  - October 10, 2024
+Events:
+  - Breach of contract
+  - Performance of architectural services
+  - Failure to pay outstanding balance
+Money:
+  - $1,678,000 (amount of services to be paid)
+  - $721,916.43 (outstanding balance)
+  - $809,833.63 (amount of default judgment)
+  - $80,104.95 (prejudgment interest)
+  - $1,076.75 (costs)
+  - $6,735.50 (attorney fees)
+Intentions:
+  - Plaintiffs to recover outstanding balance and damages
+  - Defendants to pay outstanding balance
+Facts:
+  - Plaintiffs performed all professional service obligations
+  - Defendants failed to pay outstanding balance
+Disputes:
+  - Breach of contract
+Acts:
+  - Performance of architectural services
+  - Failure to pay outstanding balance
+Agreements:
+  - Contract between Plaintiffs and Defendants
+Laws:
+  - California Civil Code
+  - Los Angeles County Court Rule 3.214
+Case Citations:
+  - Kim v. Westmoore Partners, Inc. (2011) 201 Cal.App.4th 267
+Statutes:
+  - None specified
+Roles:
+  - Judge: [Name]
+Significant Statements:
+  - "Plaintiffs in a default judgment proceeding must prove they are entitled to the damages claimed" (Kim v. Westmoore Partners, Inc.)
+  - "This amount is within the amount permitted by Los Angeles County Court rule 3.214 and is granted."
