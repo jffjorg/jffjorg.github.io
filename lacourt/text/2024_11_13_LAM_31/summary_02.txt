@@ -1,0 +1,77 @@
+Here is the summary in YAML format:
+
+```
+case_number: 22STCV09188
+plaintiff_name: Maria Hernandez
+defendant_name: Kia America, Inc.
+people_names:
+  - Maria Hernandez
+  - Kerry Bensinger
+company_names:
+  - Kia America, Inc.
+places:
+  - California
+dates:
+  - December 29, 2023
+  - May 22, 2024
+  - August 8, 2024
+  - October 30, 2024
+  - November 5, 2024
+  - November 13, 2024
+  - March 24, 2025
+events:
+  - Plaintiff's motion to compel compliance with court's discovery order
+  - Defendant's opposition
+  - Plaintiff's reply
+  - Service of further responses
+money:
+  - $510 (sanctions)
+  - $60 (filing fees)
+  - Plaintiff's counsel's hourly rate
+intentions:
+  - Plaintiff seeks to compel compliance with court's discovery order
+  - Defendant seeks to avoid sanctions
+facts:
+  - Plaintiff filed motion to compel compliance
+  - Defendant failed to provide further responses
+  - Defendant served further responses on October 29, 2024
+  - Plaintiff received responses
+disputes:
+  - Failure to comply with discovery order
+  - Request for sanctions
+acts:
+  - Motion to compel compliance
+  - Opposition
+  - Reply
+  - Service of further responses
+agreements:
+  - Court's discovery order dated May 22, 2024
+laws:
+  - Code of Civil Procedure section 2023.030
+  - Code of Civil Procedure section 2023.040
+  - Kwan Software Engineering, Inc. v. Hennings (2020)
+case_citations:
+  - 22STCV09188
+  - Kwan Software Engineering, Inc. v. Hennings (2020) 58 Cal.App.5th 57, 81
+statutes:
+  - Code of Civil Procedure section 2023.030
+  - Code of Civil Procedure section 2023.040
+roles:
+  - Judge: Kerry Bensinger
+  - Plaintiff: Maria Hernandez
+  - Defendant: Kia America, Inc.
+  - Plaintiff's counsel
+  - Defendant's counsel
+significant_statements:
+  - "The motion to compel compliance is DENIED as moot."
+  - "The request for sanctions is GRANTED in part."
+  - "Sanctions are imposed against Defendant Kia America, Inc. in the sum of $510..."
+```
+
+And here is a summary of the tentative ruling in English text:
+
+The court has issued a tentative ruling on a motion to compel compliance with a discovery order and a request for monetary sanctions. The case is a Song-Beverly action between Maria Hernandez (plaintiff) and Kia America, Inc. (defendant). The plaintiff had filed a motion to compel the defendant to provide further responses to a request for production of documents, and the court had granted the motion in part on May 22, 2024. The defendant failed to provide the further responses, and the plaintiff filed a new motion to compel compliance on August 8, 2024.
+
+The court finds that the defendant's failure to comply with the discovery order is justified, but the defendant waited until the day before its opposition was due to serve the further responses. The court imposes sanctions of $510 on the defendant, consisting of one hour of the plaintiff's counsel's hourly rate and $60 in filing fees. However, the court declines to impose sanctions on the defendant's counsel.
+
+The motion to compel compliance is denied as moot, and the request for sanctions is granted in part. The plaintiff is entitled to receive the sanctions of $510 within 30 days of the order.

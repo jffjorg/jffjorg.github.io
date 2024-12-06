@@ -1,0 +1,46 @@
+Here is the summary in YAML format:
+
+```
+case_number: 23STCV06911
+plaintiff_name: Rodrigo Orozco
+defendant_name: Top USA Properties, LLC
+people_names:
+  - Rodrigo Orozco
+  - Top USA Properties, LLC
+company_names:
+  - Top USA Properties, LLC
+places: None
+dates:
+  - October 18, 2024
+  - October 17, 2024
+  - November 11, 2024
+  - November 13, 2024
+events:
+  - Motion to Compel Deposition
+money: None
+intentions:
+  - Compel Defendant to produce its person most knowledgeable for deposition
+facts:
+  - Plaintiff served the motion on Defendant by electronic service on October 18, 2024
+  - The motion was required to be served electronically on Defendant no later than October 17, 2024
+disputes:
+  - Insufficient notice given by Plaintiff to Defendant
+acts:
+  - Plaintiff served the motion on Defendant by electronic service
+  - Plaintiff failed to meet the deadline for serving the motion
+agreements: None
+laws:
+  - Code Civil Procedure section 1005
+  - Code Civil Procedure section 1010.6(a)(3)(B)
+case_citations: None
+statutes: None
+roles:
+  - Plaintiff: Rodrigo Orozco
+  - Defendant: Top USA Properties, LLC
+significant_statements:
+  - The motion is denied due to insufficient notice given by Plaintiff to Defendant
+```
+
+And here is a summary in English text:
+
+This is a tentative ruling by a judge regarding a motion to compel deposition filed by Plaintiff Rodrigo Orozco. The motion was served on Defendant Top USA Properties, LLC by electronic service on October 18, 2024, but this is not sufficient notice under California Code of Civil Procedure. The notice period should have been at least 16 court days before the hearing, and since the court was closed on November 11, 2024, the motion should have been served electronically no later than October 17, 2024. Therefore, the motion is denied, and Plaintiff is ordered to provide notice of this order and file proof of service.

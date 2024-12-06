@@ -1,0 +1,64 @@
+Here is the summary in YAML format:
+
+```
+case_number: 23STCV14815
+plaintiff_name: Glenda Ganis, et al.
+defendant_name: City of Los Angeles, et al.
+people_names:
+  - Glenda Ganis
+  - City of Los Angeles
+company_names: []
+places:
+  - Los Angeles
+dates:
+  - June 23, 2023
+  - August 22, 2024
+  - September 17, 2024
+  - September 20, 2024
+  - November 12, 2024
+  - March 2025
+  - April 2025
+events:
+  - Trip and fall case
+  - Notice of Taking PMK Depositions
+  - Request for Production of Documents
+  - Deposition
+  - Objections to deposition
+  - Motion to compel deposition
+money:
+  - $600 (sanctions)
+intentions:
+  - Plaintiff: to compel the deposition of City's PMK
+  - Defendant: to delay the deposition until April 2025
+facts:
+  - Plaintiff filed the case on June 23, 2023
+  - Defendant served objections to the deposition on September 17, 2024
+  - Defendant's PMK is unavailable due to prior deposition commitments
+  - Objections served electronically, not personally
+disputes:
+  - Reasonableness of the PMK's deposition timeline
+  - Broadness of Plaintiffs' Requests for Production of Documents
+acts:
+  - Plaintiff filed the motion to compel deposition
+  - Defendant served objections to the deposition
+  - Defendant will produce its PMK for deposition within 60 days
+agreements:
+  - Limited temporal scope of RFP Nos. 1, 3, 5, and 16 to the five years preceding the date of the accident
+laws:
+  - California Code of Civil Procedure section 2025.410(b)
+  - California Rules of Court, Rule 3.714
+case_citations: []
+statutes: []
+roles:
+  - Judge: Hon. Lee S. Arian
+  - Plaintiff's counsel
+  - Defendant's counsel
+significant_statements:
+  - Defendant's objection is untimely
+  - Waiting until April 2025 would create an unreasonable delay in the discovery process
+  - The Court will order Defendant to pay sanctions in the reasonable amount of $600
+```
+
+And here is a summary of the judge's tentative ruling in English text:
+
+The court has ruled that the plaintiff's motion to compel the deposition of the City of Los Angeles' person most knowledgeable (PMK) on sidewalk issues is granted. The defendant's objection to the deposition was untimely and served electronically, rather than personally, as required by law. The court has also limited the scope of certain requests for production of documents related to the deposition. The defendant will be required to produce its PMK for deposition within 60 days of the order. The court has also ordered the defendant to pay sanctions in the amount of $600.
