@@ -1,0 +1,61 @@
+Here is the summary in YAML format:
+
+```
+case_number: 23STCV07959
+plaintiff: Ivan Salzar Villa et al.
+defendant: LAD-V LLC et al.
+people_names:
+  - Ivan Salzar Villa
+  - Everardo Rodriguez
+  - Thomas D. Long
+company_names:
+  - Volkswagen Group of America, Inc.
+  - FCA US, LLC
+  - LAD-V LLC
+places:
+  - Los Angeles
+  - California
+dates:
+  - October 11, 2024
+  - October 31, 2024
+  - November 12, 2024
+events:
+  - Motion to stay filed
+  - Supreme Court opinion issued
+  - Motion to stay denied
+money: None
+intentions:
+  - Defendant seeks to stay proceedings pending Supreme Court decision
+  - Defendant acknowledges motion is moot
+  - Court denies motion as moot
+facts:
+  - Defendant filed motion to stay on October 11, 2024
+  - Court issued opinion on October 31, 2024
+  - Defendant requests trial continuance
+disputes:
+  - None
+acts:
+  - Defendant filed motion to stay
+  - Court issued opinion
+  - Defendant acknowledges motion is moot
+agreements:
+  - None
+laws:
+  - California court procedures
+  - Supreme Court decisions
+case_citations:
+  - Everardo Rodriguez et al., v. FCA US, LLC
+statutes: None
+roles:
+  - Judge: Hon. Thomas D. Long
+  - Plaintiff: Ivan Salzar Villa et al.
+  - Defendant: LAD-V LLC et al.
+significant_statements:
+  - Motion to stay denied as moot
+  - Defendant's request for trial continuance is improper
+  - Parties must give notice of intention to submit on tentative ruling
+```
+
+And here is a summary of the judge's tentative ruling in English text:
+
+This is a tentative ruling denying a motion to stay all proceedings pending the Supreme Court's decision in Everardo Rodriguez et al. v. FCA US, LLC. The motion was filed by the defendant, Volkswagen Group of America, Inc., on October 11, 2024. On October 31, 2024, the Supreme Court issued its opinion, making the request for a stay moot. The defendant acknowledged the motion is moot and requested a trial continuance to file a dispositive motion, which is an improper new request. The court denies the motion to stay as moot and orders the parties to give notice of their intention to submit on this tentative ruling.

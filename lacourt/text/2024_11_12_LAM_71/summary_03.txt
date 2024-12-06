@@ -1,0 +1,67 @@
+Here is the summary in YAML format:
+
+```
+case-number: 24STCV12262
+plaintiff-name: Downtown Qof II, LLC
+defendant-name: Gerardo Friend
+people-names:
+  - Gerardo Friend
+company-names:
+  - Downtown Qof II, LLC
+places:
+  - 1348 South Flower St., Los Angeles, CA 90015
+dates:
+  - May 15, 2024
+  - August 19, 2024
+  - August 20, 2024
+  - October 2, 2024
+  - November 5, 2024
+  - November 12, 2024
+events:
+  - Unlawful detainer action
+  - Service of summons
+  - Motion to quash service of summons
+  - First amended complaint filed
+money: None listed
+intentions:
+  - Plaintiff: to evict defendant from rental property
+  - Defendant: to challenge service of summons
+facts:
+  - Defendant was served with summons on November 5, 2024
+  - Defendant filed motion to quash service of summons on August 20, 2024
+  - Plaintiff filed first amended complaint on October 2, 2024
+disputes:
+  - Validity of service of summons
+  - Sufficiency of complaint
+acts:
+  - Service of summons
+  - Filing of motion to quash service of summons
+  - Filing of first amended complaint
+agreements:
+  - None listed
+laws:
+  - California Code of Civil Procedure
+  - California Supreme Court cases (Delta Imports, Inc. v. Municipal Court, Stancil v. Superior Court, Borsuk v. Appellate Division of Superior Court)
+  - Hedwall v. PCMV, LLC, Woo v. Superior Court
+case-citations:
+  - Delta Imports, Inc. v. Municipal Court (1983) 146 Cal.App.3d 1033
+  - Stancil v. Superior Court (2021) 11 Cal.5th 381
+  - Borsuk v. Appellate Division of Superior Court (2015) 242 Cal.App.4th 607
+  - Hedwall v. PCMV, LLC (2018) 22 Cal.App.5th 564
+  - Woo v. Superior Court (1999) 75 Cal.App.4th 169
+statutes:
+  - California Code of Civil Procedure (C.C.P.) section 1166
+  - California Code of Civil Procedure (C.C.P.) section 418.10(a)(1)
+  - California Code of Civil Procedure (C.C.P.) section 472
+roles:
+  - Judge: presiding over the case
+  - Plaintiff: Downtown Qof II, LLC
+  - Defendant: Gerardo Friend
+significant-statements:
+  - The motion to quash service of summons is denied as moot.
+  - The plaintiff's first amended complaint corrected the errors and deficiencies of the original pleading.
+```
+
+And here is a summary of the judge's tentative ruling in English text:
+
+The judge denies the defendant's unopposed motion to quash the service of summons on the plaintiff's complaint. The motion is denied as moot because the plaintiff has filed a first amended complaint that corrects the errors and deficiencies of the original pleading. The defendant had previously accepted service of the amended complaint and acknowledged receipt of the summons. Therefore, the judge finds that the service of summons is valid and the motion to quash is denied.

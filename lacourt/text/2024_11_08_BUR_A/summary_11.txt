@@ -1,0 +1,64 @@
+Here is the summary in YAML format:
+
+```
+case_number: GC049942
+plaintiff_name: Douglas Villalpando
+defendant_name: Ramsey S. Mora
+people_names:
+  - Douglas Villalpando
+  - Ramsey S. Mora
+  - P.C. Liang
+company_names:
+  - P.C. Liang
+places:
+  - Los Angeles
+  - Burbank
+dates:
+  - November 8, 2024
+  - December 10, 2023
+  - March 13, 2024
+events:
+  - Renewal of Judgment
+  - Motion to Correct Clerical Error
+money:
+  - Post-judgment interest rates
+  - Principal amount remaining unsatisfied
+intentions:
+  - To correct a clerical error in the judgment
+facts:
+  - Judgment Creditor's previous attorney filed a Renewal of Judgment with an incorrect designation
+  - Judgment Creditor's cause of action is for fraud
+disputes:
+  - Whether the judgment is for a personal debt or not
+acts:
+  - Filing of the Renewal of Judgment
+  - Filing of the Motion to Correct Clerical Error
+agreements:
+  - California Rules of Court, Rule 3.1308(a)(1)
+  - C.C.P. § 473(d)
+  - C.C.P. § 685.010(a)(1) & (a)(2)
+  - C.C.P. § 685.010(c)(ii) & (c)(iii)
+laws:
+  - California Rules of Court, Rule 3.1308(a)(1)
+  - California Code of Civil Procedure (C.C.P.)
+  - California Code of Civil Procedure, section 473(d)
+  - California Code of Civil Procedure, section 685.010(a)(1) & (a)(2)
+  - California Code of Civil Procedure, section 685.010(c)(ii) & (c)(iii)
+case_citations:
+  - Nunn v. JPMorgan Chase Bank, N.A. (2021) 64 Cal.App.5th 346, 360
+roles:
+  - Judge: F.M. Tavelman
+  - Judgment Creditor: Douglas Villalpando
+  - Judgment Debtor: Ramsey S. Mora
+  - Assignee: P.C. Liang
+significant_statements:
+  - The Court finds Judgment Creditor's arguments as to the clerical error are persuasive.
+  - The Motion to Amend Judgment to Correct Clerical Error is GRANTED.
+  - Judgment Creditor is to file a proposed order within the next 15 calendar days.
+```
+
+And here is a summary of the judge's tentative ruling in English text:
+
+The judge has issued a tentative ruling on a motion to correct a clerical error in a judgment held by Douglas Villalpando (Judgment Creditor) against Ramsey S. Mora (Judgment Debtor). The error occurred when Judgment Creditor's previous attorney filed a Renewal of Judgment on December 10, 2023, incorrectly designating the judgment as being related to a personal debt. Judgment Creditor argues that this error is significant because judgments related to personal debt are subject to a 5% annual interest rate, while judgments not related to personal debt are subject to a 10% annual interest rate.
+
+The judge finds Judgment Creditor's arguments persuasive and grants the motion to correct the clerical error. The judge rules that the judgment is not for a personal debt because it includes a cause of action for fraud, which is not related to personal debt. The judge orders Judgment Creditor to file a proposed order within the next 15 calendar days.
