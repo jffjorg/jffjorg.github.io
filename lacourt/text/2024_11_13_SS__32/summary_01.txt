@@ -1,0 +1,68 @@
+Here is the summary in YAML format:
+
+```
+case_number: 20STCV00145
+plaintiff_name: Matthew Morgan
+defendant_name: None
+people_names:
+  - Matthew Morgan
+company_names: []
+places: []
+dates:
+  - January 2, 2020
+  - January 21, 2020
+  - July 1, 2021
+  - January 5, 2022
+  - August 15, 2022
+  - December 28, 2022
+  - April 11, 2023
+  - September 19, 2023
+  - October 6, 2023
+  - January 22, 2024
+  - April 18, 2024
+  - June 25, 2024
+  - August 5, 2024
+  - October 25, 2024
+  - August 8, 2024
+  - December 9, 2024
+events:
+  - Motor vehicle accident
+  - Trial continued
+  - Default entered
+  - Default judgment granted
+  - Default set aside
+  - Answer filed
+  - Trial scheduled
+  - Trial continued
+  - Discovery closed
+money: []
+intentions: []
+facts:
+  - Plaintiff failed to appear at trial and failed to serve the complaint
+  - Plaintiff's motion to set aside the dismissal was granted
+  - Default was entered against Defendant
+  - Default judgment was granted against Defendant
+  - Defendant's motion to set aside the default and default judgment was granted
+  - Plaintiff represented that publication started on July 21, 2022, and would run for 30 days
+  - Trial was placed off calendar
+  - Plaintiff's motion to continue trial was denied
+disputes: []
+acts:
+  - Plaintiff moved to continue trial
+  - Defendant did not file opposition
+agreements: []
+laws:
+  - California Rules of Court, rule 3.1332
+  - In re Marriage of Falcone & Fyke (2008) 164 Cal.App.4th 814, 823
+  - Pham v. Nguyen (1997) 54 Cal.App.4th 11, 13-18
+statutes: []
+roles: []
+significant_statements:
+  - "Continuances are granted only on an affirmative showing of good cause requiring a continuance."
+  - "A trial court has broad discretion in considering a request for a trial continuance."
+  - "Discovery is to remain closed absent a stipulation or an order from the Court pursuant to the filing of a Motion to Reopen Discovery."
+```
+
+And here is a summary of the judge's tentative ruling in English text:
+
+The judge has tentatively denied Plaintiff Matthew Morgan's motion to continue trial, which was filed on August 2, 2024. The motion appears to be moot, as trial has already been continued to December 9, 2024. The judge notes that Plaintiff's previous motion to continue trial was denied, and that the Court has previously granted continuances based on good cause. The judge cites California Rules of Court, rule 3.1332, which sets forth the factors to consider in ruling on a motion to continue trial. The judge finds that Plaintiff has not provided sufficient good cause to justify another continuance, and therefore denies the motion.
