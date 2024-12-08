@@ -1,0 +1,52 @@
+Here is the summary in YAML format:
+
+```
+case_number: 23NWCV01259
+plaintiff: Brian Phapornchai, et al.
+defendant: Ensign Whittier West, LLC, et al.
+people_names:
+  - Brian Phapornchai
+  - Ensign
+  - Whittier West
+company_names:
+  - PIH Health Whittier Hospital
+  - Ensign Whittier West, LLC
+places:
+  - Whittier
+dates:
+  - October 18, 2024
+  - May 14, 2025
+  - March 12, 2025
+events:
+  - Demurrer
+  - Motion to Strike Portions of Plaintiff’s Second Amended Complaint
+  - Hearing
+money: None
+intentions:
+  - Advance the hearing for the demurrer and motion to strike
+  - Continue the hearing to a later date
+facts:
+  - The case is a personal injury action
+  - The demurrer and motion to strike are currently scheduled for May 14, 2025
+  - The defendant has not demonstrated irreparable harm
+disputes:
+  - Plaintiff’s second amended complaint
+acts:
+  - The defendant applies ex parte for an order to advance the hearing
+  - The court grants the defendant's request
+agreements: None
+laws:
+  - California law
+case_citations: None
+statutes: None
+roles:
+  - Judge
+  - Plaintiff
+  - Defendant
+significant_statements:
+  - "Although Defendant has not demonstrated irreparable harm, in the exercise of the Court's discretion, the Demurrer and Motion to Strike are ADVANCED from May 14, 2025 to today's date and CONTINUED to March 12, 2025 at 9:30 a.m. in Dept. SE-C."
+```
+
+And here is a summary of the judge's tentative ruling in English text:
+
+The judge has granted the defendant's request to advance the hearing for its demurrer and motion to strike portions of the plaintiff's second amended complaint. The hearing was originally set for May 14, 2025, but the judge has moved it to today's date and continued it to March 12, 2025. Although the defendant did not demonstrate irreparable harm, the judge has exercised its discretion to grant the request. The judge has instructed the moving party to give notice of the new hearing date and time.
