@@ -1,0 +1,56 @@
+Here is the summary in YAML format:
+
+```
+case_number: 22STCV16156
+plaintiff_name: Alonso Ramiro
+defendant_name: Downey GAS’N’GO, INC
+people_names:
+  - Alonso Ramiro
+  - Downey GAS’N’GO, INC
+company_names:
+  - Downey GAS’N’GO, INC
+places: None
+dates:
+  - February 21, 2024
+  - October 21, 2024
+events:
+  - Demand for Production of Documents
+  - Form Interrogatories
+  - Special Interrogatories
+money:
+  - $1,110.00
+  - $555.00
+intentions:
+  - Compel Plaintiff's Responses
+  - Seek Monetary Sanctions
+facts:
+  - Plaintiff failed to respond to discovery requests
+  - Defendant served demand for production of documents, form interrogatories, and special interrogatories
+  - Plaintiff received extensions to respond but still failed to respond
+disputes:
+  - Failure to respond to discovery requests
+acts:
+  - Service of discovery requests
+  - Failure to respond to discovery requests
+agreements:
+  - None
+laws:
+  - California Code of Civil Procedure
+  - California Rules of Court
+  - Leach v. Superior Court
+statutes:
+  - Code Civ. Proc. § 2030.290
+  - Code Civ. Proc. § 2031.300
+  - Cal. Rules of Court, rule 3.1348(a)
+roles:
+  - Plaintiff
+  - Defendant
+  - Counsel for Defendant
+significant_statements:
+  - The Court grants the motions to compel and orders Plaintiff to provide verified responses without objection
+  - The Court awards reduced monetary sanctions in the amount of $555.00
+```
+
+And here is a summary of the tentative ruling in English text:
+
+The tentative ruling grants the defendant's motions to compel the plaintiff's responses to the demand for production of documents, form interrogatories, and special interrogatories. The plaintiff failed to respond to these discovery requests, despite receiving extensions. The court also awards reduced monetary sanctions in the amount of $555.00 to the defendant for the plaintiff's failure to respond. The plaintiff is ordered to provide verified responses without objection within 20 days, and the defendant is ordered to provide notice of the court's order and file a proof of service.
