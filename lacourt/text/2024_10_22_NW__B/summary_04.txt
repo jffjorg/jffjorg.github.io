@@ -1,0 +1,81 @@
+Here is the summary in YAML format:
+
+```
+case_number: 21STCV29627
+hearing_date: October 22, 2024
+dept: B
+plaintiffs:
+  - name: Jonathan Sims
+  - name: Natalie Sanaee
+defendant: Ovita Alexis Hines
+people:
+  - Sims, Jonathan
+  - Sanaee, Natalie
+  - Hines, Ovita Alexis
+companies:
+  - None mentioned
+places:
+  - Van Nuys Courthouse East
+  - California
+dates:
+  - August 12, 2019
+  - August 11, 2021
+  - October 30, 2023
+  - June 5, 2024
+  - June 24, 2024
+  - July 1, 2024
+  - October 22, 2024
+events:
+  - Motor vehicle accident
+  - Filing of complaint
+  - Entry of default
+  - Reassignment of case
+  - Request for default judgment
+  - OSC re Sanctions
+money:
+  - $38,521.41 (Sims' damages)
+  - $12,275.00 (Sanaee's damages)
+  - $250 (OSC re Sanctions)
+intentions:
+  - Sims seeks default judgment
+  - Sanaee seeks default judgment
+facts:
+  - Defendant failed to timely respond or appear
+  - Sims' default packet meets statutory requirements
+  - Sanaee served Statement of Damages after default was entered
+  - Sanaee failed to file proof of service for Statement of Damages
+disputes:
+  - Negligence of defendants
+acts:
+  - Filing of complaint
+  - Entry of default
+  - Request for default judgment
+agreements:
+  - None mentioned
+laws:
+  - Code of Civil Procedure section 585
+  - California Rules of Court, rule 3.1800
+  - CCP § 579
+  - CCP § 583.410
+  - CRC 3.110(h)
+case_citations:
+  - Cal. Code of Civ. Proc. § 585
+  - Cal. Rules of Court, rule 3.1800
+  - CCP § 579
+  - CCP § 583.410
+  - CRC 3.110(h)
+statutes:
+  - California Code of Civil Procedure
+  - California Rules of Court
+roles:
+  - Judge: Karen Moskowitz
+  - Plaintiff's counsel: [Unknown]
+significant_statements:
+  - Sims' request for default judgment is GRANTED
+  - Sanaee's request for default judgment is DENIED
+  - Court sets OSC re Sanctions against Plaintiff's counsel in the amount of $250
+```
+
+And here is a summary of the judge's tentative ruling in English text:
+
+The judge's tentative ruling grants the request for default judgment filed by plaintiff Jonathan Sims against defendant Ovita Alexis Hines, awarding Sims damages in the amount of $38,521.41. The ruling denies the request for default judgment filed by plaintiff Natalie Sanaee against the same defendant, citing deficiencies in Sanaee's filing, including serving the Statement of Damages after default was entered and failing to file proof of service. The court also sets an Order to Show Cause (OSC) re Sanctions against Sanaee's counsel, requiring the counselor to correct identified deficiencies and comply with court rules, and warns that further deficient filings may result in dismissal without prejudice.
