@@ -1,0 +1,65 @@
+Here is the summary in YAML format:
+
+```
+case_number: 24VECV02137
+plaintiff_name: Chernega, Boris and Janetta
+defendant_name: Gasparian, Armen and Karine
+people_names:
+  - Chernega, Boris
+  - Chernega, Janetta
+  - Gasparian, Armen
+  - Gasparian, Karine
+company_names:
+  - Los Angeles County Department of Building and Safety (LADBS)
+places:
+  - Los Angeles County
+dates:
+  - October 22, 2024
+events:
+  - Motion to strike request for punitive/exemplary damages and treble damages
+  - Request for judicial notice
+  - Investigation by LADBS
+money:
+  - Punitive damages
+  - Treble damages
+intents:
+  - To vex, harass, or annoy or injure the plaintiff
+  - To act willfully or maliciously
+facts:
+  - Neighbors had concerns about lack of professional construction presence
+  - Continuous hauling of dirt by various people
+  - Defendants obtained necessary permits
+  - LADBS confirmed permit was for decorative block wall, not retaining wall
+  - Plaintiffs' contention is based on inference, not specific fact pleading
+disputes:
+  - Whether punitive and treble damages should be awarded
+acts:
+  - Excavation of the base of the hill
+  - Attempted investigation by LADBS
+agreements:
+  - Civil Code, section 3346
+  - Salazar v. Matejcek (2016)
+  - Baker v. Ramirez (1987)
+laws:
+  - Civil Code, section 3346
+  - Salazar v. Matejcek (2016)
+  - Baker v. Ramirez (1987)
+case_citations:
+  - Salazar v. Matejcek (2016)
+  - Baker v. Ramirez (1987)
+statutes:
+  - Civil Code, section 3346
+roles:
+  - Judge
+  - Plaintiff (Chernega, Boris and Janetta)
+  - Defendant (Gasparian, Armen and Karine)
+  - LADBS
+  - Clerk
+significant_statements:
+  - The motion to strike punitive damages is GRANTED WITH LEAVE TO AMEND.
+  - The motion to strike treble damages under Civil Code section 3346 is DENIED.
+```
+
+And here is a summary of the judge's tentative ruling in English text:
+
+The judge has made a tentative ruling on the motion to strike the request for punitive/exemplary damages and treble damages under Civil Code section 3346 from the complaint filed by Plaintiffs Boris and Janetta Chernega against Defendants Armen and Karine Gasparian. The judge has granted the motion in part, striking the request for punitive damages, but denied it in part, allowing the Plaintiffs to plead treble damages. The judge found that the complaint failed to allege specific facts to support the elements of punitive damages, and that the Plaintiffs' contention is based on inference, not specific fact pleading. The judge also found that the Defendants failed to provide legal authority to support their contention that intent is a pleading element of treble damages under Civil Code section 3346.

@@ -1,0 +1,65 @@
+Here is the summary in YAML format:
+
+```
+case_number: 22STCV19126
+plaintiff: FIREFLY TRANSPORTATION, LLC
+defendant: CARDINOL TRANSPORTATION, INC.
+people_names:
+  - Firefly
+  - Cardinol
+company_names:
+  - FIREFLY TRANSPORTATION, LLC
+  - CARDINOL TRANSPORTATION, INC.
+places:
+  - Los Angeles
+  - California
+dates:
+  - August 6, 2024
+  - September 30, 2024
+  - October 9, 2024
+  - October 23, 2024
+events:
+  - Settlement Agreement
+  - Motion to Enforce Settlement Agreement
+  - Opposition to Motion
+money:
+  - $50,000.00
+  - $17,500.00
+  - $4,648.86
+  - $842.00
+  - $1,600.00
+intentions:
+  - Enforce Settlement Agreement
+  - Deny Motion to Enforce Settlement Agreement
+facts:
+  - Settlement Agreement was entered into on August 6, 2024
+  - Cardinol filed motion to enforce settlement agreement on September 30, 2024
+  - Firefly made three installment payments with less than agreed-upon amount
+  - Credit card fees may have contributed to shortfalls
+disputes:
+  - Dispute over payment amounts
+  - Dispute over credit card fees
+acts:
+  - Parties entered into Settlement Agreement
+  - Cardinol filed motion to enforce settlement agreement
+  - Firefly filed opposition
+agreements:
+  - Settlement Agreement
+  - Code of Civil Procedure § 664.6
+laws:
+  - Code of Civil Procedure § 664.6
+statutes:
+  - Code of Civil Procedure § 664.6
+roles:
+  - Judge
+  - Plaintiff (FIREFLY TRANSPORTATION, LLC)
+  - Defendant (CARDINOL TRANSPORTATION, INC.)
+significant_statements:
+  - "The motion to enforce the settlement agreement is DENIED."
+```
+
+And here is a summary of the tentative ruling in English text:
+
+The judge has issued a tentative ruling on a motion to enforce a settlement agreement between Firefly Transportation, LLC (the plaintiff) and Cardinol Transportation, Inc. (the defendant). The settlement agreement was entered into on August 6, 2024, and required Firefly to pay Cardinol $50,000.00 in installments. Cardinol filed the motion to enforce the agreement on September 30, 2024, claiming that Firefly has not made the agreed-upon payments and is in breach of the agreement. Firefly filed an opposition, arguing that it has made timely payments and that credit card fees may have contributed to any shortfalls.
+
+The judge has denied the motion, finding that the settlement agreement does not specify which party is responsible for credit card fees. The agreement states that each party is responsible for its own attorney's fees and costs, and does not authorize Cardinol to impose an additional fee on Firefly. The judge has thus denied the motion to enforce the settlement agreement.
