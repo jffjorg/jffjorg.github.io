@@ -1,0 +1,68 @@
+Here is the summary in YAML format:
+
+```
+case_number: 23STLC01105
+plaintiff_name: Giselle Rodriguez
+defendant_name: Tuyen Kim Nguyen
+people_names:
+  - Giselle Rodriguez
+  - Tuyen Kim Nguyen
+company_names:
+  - Inails & Spa
+places:
+  - Los Angeles
+  - California
+dates:
+  - January 5, 2024
+  - February 9, 2024
+  - September 16, 2024
+  - October 25, 2024
+events:
+  - Motion to Deem Requests for Admission Admitted
+  - Motion to Compel Responses to Discovery
+  - Filing of motions
+  - Service of discovery requests
+  - Service of responses
+money:
+  - None
+intentions:
+  - Cross-Defendant Giselle Rodriguez seeks to compel responses to discovery requests
+  - Cross-Complainant Tuyen Kim Nguyen did not respond to discovery requests
+facts:
+  - Cross-Defendant served discovery requests on January 5, 2024
+  - Responses were due on February 9, 2024
+  - Cross-Defendant had not received responses as of the filing of the motions
+  - Cross-Complainant claimed not to have knowledge of Cross-Defendant's underlying claims
+  - Cross-Defendant declared that responses were served on September 16, 2024
+disputes:
+  - Failure to respond to discovery requests
+  - Adequacy of responses
+acts:
+  - Serving of discovery requests
+  - Service of responses
+agreements:
+  - None
+laws:
+  - California Code of Civil Procedure (CCP) § 2030.290(b)
+  - CCP § 2031.300(a)-(b)
+  - CCP § 2033.280(a)
+  - CCP § 2033.280(b)
+case_citations:
+  - None
+statutes:
+  - California Code of Civil Procedure (CCP)
+roles:
+  - Judge: Maurice A. Leiter
+  - Plaintiff: Giselle Rodriguez
+  - Defendant: Tuyen Kim Nguyen
+  - Cross-Defendant: Giselle Rodriguez
+  - Cross-Complainant: Tuyen Kim Nguyen
+significant_statements:
+  - "If a party fails to provide a timely response to a request for admission, the party waives any objection to the requests."
+  - "The requesting party may move for an order that the genuineness of any documents and the truth of any matters specified in the requests be deemed admitted, as well as for a monetary sanction..."
+  - "If a party to whom a demand for inspection, copying, testing, or sampling is directed fails to serve a timely response to it... the party to whom the demand is directed waives any objection to the demand..."
+```
+
+And here is a summary of the judge's tentative ruling in English text:
+
+The judge has denied the motion to deem the requests for admission (RFAs) admitted against the defendant, Cross-Complainant Tuyen Kim Nguyen. The cross-defendant, Giselle Rodriguez, had served the RFAs on January 5, 2024, and responses were due on February 9, 2024. However, as of the filing of the motion, Rodriguez had not received responses. The cross-complainant claimed not to have knowledge of Rodriguez's underlying claims and did not receive the RFAs. The judge continued the motion to allow the cross-complainant to serve responses. Rodriguez later declared that responses were served on September 16, 2024, but many responses were inadequate. Since responses have been served, the motion is denied. The judge notes that the adequacy of responses is not at issue in a motion to compel initial responses.

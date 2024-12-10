@@ -1,0 +1,67 @@
+Here is the summary in YAML format:
+
+```
+case_number: 24SMCV00902
+plaintiff: Lyuda Ksenych
+defendant: Vahid Zand, Niyousha Eternadieh
+people_names:
+  - Lyuda Ksenych
+  - Vahid Zand
+  - Niyousha Eternadieh
+company_names:
+  - Calcons, Inc.
+places:
+  - Beverly Hills Courthouse
+  - Department 205
+  - Los Angeles
+  - California
+dates:
+  - March 17, 2024
+  - August 23, 2024
+  - September 11, 2024
+  - October 25, 2024
+events:
+  - Construction defect case
+  - Breach of contract
+  - Negligence
+  - Default judgment
+  - Motion to set aside default
+money:
+  - None mentioned
+intentions:
+  - Plaintiff seeks to recover damages for breach of contract and negligence
+  - Defendants seek to set aside default judgment
+facts:
+  - Plaintiff entered into a contract with Defendants
+  - Work was not completed on time
+  - Flooring, stone, and cabinets were damaged during installation
+disputes:
+  - Whether Defendants had an understanding with Plaintiff's former counsel to be dismissed from the Complaint
+acts:
+  - Plaintiff served the Complaint on Defendant Eternadieh by personal service and on Defendant Zand by substitute service
+  - Default was entered on August 23, 2024
+  - Defendnants filed motions to set aside default
+agreements:
+  - Code of Civil Procedure §473
+laws:
+  - Code of Civil Procedure §473
+  - Code of Civil Procedure §473.5(b)
+case_citations:
+  - Leader v. Health Industries of America, Inc. (2001) 89 Cal.App.4th 603, 615-616
+  - Bonzer v. City of Huntington Park (1993) 20 Cal.App.4th 1474, 1477
+statutes:
+  - Code of Civil Procedure §473
+  - Code of Civil Procedure §473.5(b)
+roles:
+  - Lyuda Ksenych: Plaintiff
+  - Vahid Zand: Defendant
+  - Niyousha Eternadieh: Defendant
+  - Calcons, Inc.: Defendant
+  - Edward B. Moreton, Jr.: Judge
+significant_statements:
+  - The Court denies the motions to set aside default without prejudice to Moving Defendants renewing their motions with the proper submissions.
+```
+
+And here is a summary of the judge's tentative ruling in English text:
+
+The judge has denied the motions of defendants Vahid Zand and Niyousha Eternadieh (Moving Defendants) to set aside the default judgment entered on August 23, 2024. The Moving Defendants argued that they did not file a response to the complaint because they had an understanding with Plaintiff's former counsel that they would be dismissed from the complaint. However, the judge found that the Moving Defendants failed to attach a copy of the proposed responsive pleading with their motions, as required by Code of Civil Procedure §473.5(b). The judge denied the motions without prejudice, allowing Moving Defendants to renew their motions with the proper submissions.

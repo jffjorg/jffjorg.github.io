@@ -1,0 +1,77 @@
+Here is the summary in YAML format:
+
+```
+case_number: BC632829
+plaintiff_name: Donna Mori-Campbell
+defendant_name: AMC Entertainment Inc et al
+people_names:
+  - Donna Mori-Campbell
+  - Judge H. Chester Horn
+  - Judge Lee S. Arian
+company_names:
+  - AMC Entertainment Inc
+places:
+  - California
+dates:
+  - September 1, 2016
+  - March 14, 2022
+  - July 8, 2024
+  - October 3, 2024
+  - October 24, 2024
+  - May 24, 2024
+  - March 1, 2022
+  - April 1, 2022
+  - November 24, 2024
+events:
+  - Filing of lawsuit
+  - Dismissal of lawsuit
+  - Appeal of dismissal
+  - Remand of case
+  - Filing of motion to dismiss
+  - Opposition to motion to dismiss
+  - Request for further briefing
+money: $0
+intentions:
+  - To dismiss the lawsuit
+  - To continue the case
+facts:
+  - The lawsuit was filed in 2016
+  - The lawsuit was dismissed in 2022
+  - The plaintiff appealed the dismissal
+  - The appellate court remanded the case
+  - The defendant filed a motion to dismiss in 2024
+  - The motion was denied
+  - The defendant renewed the motion
+  - The plaintiff opposed the motion
+  - The court is considering CCP § 583.350
+disputes:
+  - Timeliness of the lawsuit
+  - Dismissal of the lawsuit
+acts:
+  - Filing of lawsuit
+  - Dismissal of lawsuit
+  - Appeal of dismissal
+  - Remand of case
+  - Filing of motion to dismiss
+  - Opposition to motion to dismiss
+agreements:
+  - CCP § 583.350
+laws:
+  - CCP § 583.350
+  - Him v. Superior Court (1986)
+  - Code of Civil Procedure
+case_citations:
+  - Him v. Superior Court (1986)
+statutes:
+  - CCP § 583.350
+roles:
+  - Judge Lee S. Arian
+  - Plaintiff Donna Mori-Campbell
+  - Defendant AMC Entertainment Inc et al
+significant_statements:
+  - The court is inclined to provide both parties with an opportunity to brief this issue and very briefly continue the FSC and trial dates for that purpose.
+```
+
+And here is a summary of the judge's tentative ruling in English text:
+
+The judge is considering a motion to dismiss a lawsuit filed by plaintiff Donna Mori-Campbell against AMC Entertainment Inc et al. The lawsuit was initially filed in 2016 and was dismissed in 2022. The plaintiff appealed the dismissal, and the appellate court remanded the case. The defendant filed a motion to dismiss in 2024, which was denied. The defendant has now renewed the motion, arguing that the five-year deadline to bring the case to trial has expired. The court is considering whether this deadline was tolled due to the COVID-19 extension and whether CCP § 583.350 applies. The court is inclined to provide both parties with an opportunity to brief this issue and briefly continue the FSC and trial dates for that purpose.
