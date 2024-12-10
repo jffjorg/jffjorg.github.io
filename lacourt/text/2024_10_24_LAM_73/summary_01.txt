@@ -1,0 +1,82 @@
+Here is the summary in YAML format:
+
+```
+case_number: 21STCV17952
+plaintiff_names: Encinas, Laurie; Encinas, Jesus; Chey, Priscilla Pamela; Encinas, Jesus Jr.; Encinas, Crystal Laurie; Encinas, Jennifer Rose
+defendant_names: Hikari Japanese Restaurant; Montebello Town Center Investors, LLC
+people_names:
+  - Laurie Encinas
+  - Jesus Encinas
+  - Priscilla Pamela Chey
+  - Jesus Encinas Jr.
+  - Crystal Laurie Encinas
+  - Jennifer Rose Encinas
+  - Andrew Adame
+company_names:
+  - Law Office of Marc P. Grismer
+  - Horton, Oberrecht & Kirkpatrick
+places:
+  - Montebello
+  - California
+  - Hikari Japanese Restaurant
+dates:
+  - May 13, 2021
+  - June 15, 2021
+  - September 7, 2023
+  - November 30, 2023
+  - March 7, 2021
+  - April 20, 2013
+  - October 24, 2024
+events:
+  - Trip and fall incident
+  - Notice of Death of Plaintiff Laurie Encinas
+  - Filing of a First Amended Complaint
+  - Motion for summary judgment
+  - Hearing on the motion for summary judgment
+money:
+  - Amounts not specified in the document
+intentions:
+  - To determine whether Defendant Montebello Town Center Investors, LLC's motion for summary judgment should be granted
+facts:
+  - Laurie Encinas tripped and fell on March 7, 2021, due to a height differential at the intersection of the patio concrete flooring and the concrete walkway outside the patio
+  - The height differential was between approximately 15/16th of an inch (toward right side) and 1 inch (toward left side)
+  - Other customers had previously caught their foot on the threshold
+  - The patio opening was considered an entrance to the restaurant
+  - The subject entryway did not comply with relevant building codes
+disputes:
+  - Whether the height differential was a trivial defect
+  - Whether the Defendant owed a duty of care to the Plaintiff
+  - Whether the Plaintiff's injuries were caused by the Defendant's violation of building codes
+acts:
+  - Trip and fall incident
+  - Failure to repair or warn about the height differential
+agreements:
+  - Lease agreement between MTCI and Jhoon, Inc. dba Hikari Japanese Restaurant
+laws:
+  - California Building Code
+  - Americans with Disabilities Act
+  - ASTM 1637-19
+case_citations:
+  - Fajardo v. Dailey
+  - Fielder v. City of Glendale
+  - Huckey v. City of Temecula
+  - Kesner v. Superior Court
+  - Nunez v. City of Redondo Beach
+  - Ojavan Investors, Inc. v. Cal. Coastal Comm.
+  - Rosas v. BASF Corp.
+  - Sangster v. Paetkau
+  - Stathoulis v. City of Montebello
+  - Stack v. City of Lemoore
+  - Unilab Corp. v. Angeles-IPA
+  - Whitemire v. Ingersoll-Rand Co.
+roles:
+  - Judge: Hon. Rolf Treu
+  - Plaintiff: Encinas, Laurie; Encinas, Jesus; Chey, Priscilla Pamela; Encinas, Jesus Jr.; Encinas, Crystal Laurie; Encinas, Jennifer Rose
+  - Defendant: Hikari Japanese Restaurant; Montebello Town Center Investors, LLC
+  - Counsel for Plaintiffs: Marc Grismer
+  - Counsel for Defendant: Fang Li
+significant_statements:
+  - The Court finds that Plaintiffs have carried their burden and that there are triable issues of material fact over whether MTCI violated the relevant building codes for doorways and whether Plaintiff's injuries were caused by Defendants' violation.
+```
+
+Please note that the summary is not an exhaustive representation of the entire document, but rather a selection of the most important points.
