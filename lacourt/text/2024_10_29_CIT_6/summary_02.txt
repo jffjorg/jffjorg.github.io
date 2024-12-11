@@ -1,0 +1,62 @@
+Here is the summary in YAML format:
+
+```
+case_number: 23PSCV03064
+plaintiff: Yuzheng Chen
+defendant: Longji Guan, Xiuhua Liang
+people_names:
+  - Yuzheng Chen
+  - Longji Guan
+  - Xiuhua Liang
+company_names: []
+places: []
+dates:
+  - October 6, 2023
+  - March 11, 2024
+  - May 7, 2024
+  - August 5, 2024
+  - September 25, 2024
+  - September 30, 2024
+  - October 29, 2024
+events:
+  - Demurrer of Defendants Longji Guan and Xiuhua Liang to Plaintiff's Second Amended Complaint
+  - Motion to Strike
+  - Filing of Second Amended Complaint
+  - Orders to give notice of the Court's ruling
+money: []
+intentions:
+  - Plaintiff intends to file the Second Amended Complaint
+  - Defendant intends to challenge the complaint
+  - Court intends to deny demurrer and motion to strike without prejudice
+facts:
+  - Plaintiff filed the Second Amended Complaint
+  - Defendant demurred to the Second Amended Complaint
+  - Defendant moved to strike the Second Amended Complaint
+disputes: []
+acts:
+  - Filing of pleadings
+  - Demurrer and motion to strike
+  - Orders to file and give notice
+agreements: []
+laws:
+  - Code of Civil Procedure, § 422.10
+  - Code of Civil Procedure, § 430.41
+  - Code of Civil Procedure, § 435
+  - Code of Civil Procedure, § 435.5
+  - Code of Civil Procedure, § 436
+  - Code of Civil Procedure, § 3.1320
+statutes: []
+roles:
+  - Judge
+  - Plaintiff
+  - Defendant
+  - Court
+significant_statements:
+  - The Court denies the demurrer and motion to strike without prejudice to refiling after Plaintiff files the Second Amended Complaint.
+  - Plaintiff is ordered to file the Second Amended Complaint within 5 court days.
+  - Defendants are ordered to give notice of the Court's ruling within 5 calendar days.
+```
+
+And here is a summary in English text:
+
+The Court has issued a tentative ruling on the demurrer and motion to strike filed by Defendants Longji Guan and Xiuhua Liang against Plaintiff Yuzheng Chen. The Court finds that the Plaintiff has not yet filed the Second Amended Complaint, and therefore, the Court is unable to review its allegations and determine whether it is subject to demurrer or motion to strike. As a result, the Court denies the demurrer and motion to strike without prejudice to refiling after the Plaintiff files the Second Amended Complaint. The Court orders the Plaintiff to file the Second Amended Complaint within 5 court days and the Defendants to give notice of the Court's ruling within 5 calendar days.
