@@ -1,0 +1,63 @@
+Here is the tentative ruling in YAML format:
+
+```yaml
+Case Number: 24SMCP00418
+Plaintiff's Name: Gursey Schneider, LLP
+Defendant's Name: Aslin
+People-Names:
+  - Kramer
+Company-Names:
+  - Gursey Schneider, LLP
+  - AAA (American Arbitration Association)
+Places:
+  - California
+Dates:
+  - 9/20/2023
+  - 9/21/2023
+  - 8/2/2024
+  - October 30, 2024
+Events:
+  - Dissolution of marriage proceedings
+  - Arbitration proceedings
+  - Failure to make payments
+  - Petition for confirmation of arbitration award
+Money:
+  - $21,004.86
+  - Interest (10% per annum)
+Intentions:
+  - Confirm the arbitration award
+  - Award attorney's fees and costs
+Facts:
+  - Plaintiff and defendant executed a litigation consulting services engagement agreement with a binding arbitration provision
+  - Plaintiff initiated arbitration proceedings for unpaid accounting services
+  - The arbitrator awarded plaintiff $21,004.86 plus interest
+  - Defendant failed to make payments as agreed
+Disputes:
+  - None (defendant does not oppose the petition)
+Acts:
+  - Plaintiff served and filed the petition
+  - Defendant failed to make payments
+Agreements:
+  - Litigation consulting services engagement agreement
+  - AAA Consumer Rules 44(a)
+Laws:
+  - Cal. Code Civ. Proc. §1285
+  - Cal. Code Civ. Proc. §1286
+Case Citations:
+  - Decl. Kramer para. 5
+  - Decl. Kramer para. 6
+Statutes:
+  - Cal. Code Civ. Proc. §1285
+  - Cal. Code Civ. Proc. §1286
+Roles:
+  - Judge
+  - Plaintiff (Gursey Schneider, LLP)
+  - Defendant (Aslin)
+Significant Statements:
+  - "Any party to an arbitration in which an award has been made may petition the court to confirm, correct or vacate the award." - Cal. Code Civ. Proc. §1285
+  - "If a petition or response under this chapter is duly served and filed, the court shall confirm the award as made." - Cal. Code Civ. Proc. §1286
+```
+
+And here is a summary of the judge's tentative ruling in English text:
+
+The court has reviewed the petition to confirm an arbitration award in the amount of $21,004.86 plus interest. The arbitrator awarded this amount to the plaintiff, Gursey Schneider, LLP, for unpaid accounting services. The defendant, Aslin, failed to make payments as agreed. The court finds that confirmation of the award is appropriate. The plaintiff is also awarded 6 hours of attorney's fees at $395/hour, plus $370 in costs. The defendant does not oppose the petition, and the court grants the petition as modified.

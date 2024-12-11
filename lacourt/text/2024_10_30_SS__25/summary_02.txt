@@ -1,0 +1,72 @@
+Here is the summary of the tentative ruling in YAML format:
+
+```
+Case Number: 23STLC00201
+Plaintiff's Name: Salisbury Group, Inc.
+Defendant's Name: Natale Mercuri
+People-Names:
+  - Natale Mercuri
+  - Salisbury Group, Inc.
+Company-Names:
+  - Salisbury Group, Inc.
+Places:
+  - California
+  - St. Louis
+Dates:
+  - January 11, 2023
+  - August 22, 2024
+  - September 24, 2024
+  - October 1, 2024
+  - October 17, 2024
+  - October 23, 2024
+  - October 30, 2024
+  - February 10, 2025
+Events:
+  - Breach of attorney-client retainer agreement
+  - Request for Admissions (RFA)
+  - Opposition to RFA
+  - Reply to opposition
+  - Motion to Deem Admitted RFAs
+Money:
+  - $60.00 (filing fee)
+  - $10.50 (e-filing costs for motion)
+  - $4.50 (EFM filing fee for motion)
+  - $1.00 (e-service costs for motion)
+  - $10.50 (e-filing costs for reply)
+  - $4.50 (EFM filing fee for reply)
+  - $1.00 (e-service costs for reply)
+  - $92.00 (total costs incurred)
+Intentions:
+  - Plaintiff seeks to deem admitted RFAs
+  - Plaintiff seeks monetary sanctions
+  - Plaintiff seeks costs incurred
+Facts:
+  - Plaintiff served RFA on Defendant via email
+  - Defendant failed to timely respond to RFA
+  - Defendant provides that failure was due to counsel's inadvertence
+  - Defendant filed responses to RFA after discovering mistake
+Disputes:
+  - Whether Defendant properly served with RFA
+  - Whether Defendant's failure to respond was due to mistake or intentional
+Acts:
+  - Plaintiff served RFA on Defendant
+  - Defendant failed to respond to RFA
+  - Defendant filed responses to RFA after discovering mistake
+Agreements:
+  - None
+Laws:
+  - California Code of Civil Procedure sections 2033.010, 2033.250(a), 2033.280(a), 2033.280(b), 2033.280(c)
+Statutes:
+  - California Code of Civil Procedure
+Case Citations:
+  - Kravitz v. Superior Court (2001) 91 Cal.App.4th 1015
+Roles:
+  - Judge: Mkrtchyan
+  - Plaintiff: Salisbury Group, Inc.
+  - Defendant: Natale Mercuri
+  - Counsel: Sanders (defendant's counsel)
+  - Pro se litigant: Plaintiff (representing own law firm)
+Significant Statements:
+  - "Any party may obtain discovery . . . by a written request that any other party to the action admit the genuineness of specified documents, or the truth of specified matters of fact, opinion relating to fact, or application of law to fact." (Code Civ. Proc., § 2033.010)
+  - "Within 30 days after service of requests for admission, the party to whom the requests are directed shall serve the original of the response to them on the requesting party, and a copy of the response on all other parties who have appeared . . . ." (Code Civ. Proc., § 2033.250(a))
+  - "It is mandatory that the court impose a monetary . . . on the party or attorney, or both, whose failure to serve a timely response to requests for admission necessitated this motion." (Code Civ. Proc., § 2033.280(c))
