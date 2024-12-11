@@ -1,0 +1,77 @@
+Here is the summary in YAML format:
+
+```
+case_number: 24STCV19119
+plaintiff_names:
+  - HERBERT MAZOROW
+  - CARMEN MAZOROW
+defendant_names:
+  - ALVIN SMITH, JR.
+  - JAMAL KEVELL PARKER
+  - DOES 1 TO 10
+people_names:
+  - HERBERT MAZOROW
+  - CARMEN MAZOROW
+  - ALVIN SMITH, JR.
+  - JAMAL KEVELL PARKER
+company_names: []
+places:
+  - Los Angeles
+  - California
+dates:
+  - July 31, 2024
+  - August 14, 2024
+  - September 18, 2024
+  - October 4, 2024
+  - October 23, 2024
+  - October 30, 2024
+  - October 29, 2024
+events:
+  - Unlawful detainer action
+  - Motion to quash service of summons
+  - Service of summons and complaint
+money: []
+intentions:
+  - To deny the motion to quash service of summons
+facts:
+  - Plaintiffs initiated an unlawful detainer action against defendants on July 31, 2024
+  - Defendant Smith filed a motion to quash service of summons on August 14, 2024
+  - Plaintiffs filed an opposition on October 30, 2024
+  - Smith was not personally served with the summons and complaint, but found them on the floor outside the premises
+  - Plaintiffs contend that they do not assert that the summons and complaint were served prior to the Court signing the order to post
+disputes:
+  - Whether service of summons and complaint was proper
+  - Whether the Court has personal jurisdiction over the defendant
+acts:
+  - Filing of motion to quash service of summons
+  - Filing of opposition
+  - Granting of application to serve summons and complaint by posting
+  - Filing of proof of service
+agreements:
+  - Order to post the summons and complaint
+laws:
+  - California Code of Civil Procedure
+  - California Rules of Court
+case_citations:
+  - Dill v. Berquist Construction Co. (1994)
+  - Summers v. McClanahan (2006)
+  - Floveyor Internat., Ltd. v. Superior Court (1997)
+  - Brown v. Garcia (2017)
+  - Sheard v. Superior Court (1974)
+  - Espindola v. Nunez (1988)
+  - Ellard v. Conway (2001)
+statutes:
+  - California Code of Civil Procedure § 415.10
+roles:
+  - Judge: Michelle C. Kim
+  - Plaintiff: Herbert Mazorow and Carmen Mazorow
+  - Defendant: Alvin Smith, Jr. and Jamal Kevell Parker
+significant_statements:
+  - "Compliance with the statutory procedures for service of process is essential to establish personal jurisdiction."
+  - "The filing of a proof of service creates a rebuttable presumption that the service was proper."
+  - "On a motion to quash service of summons, the plaintiff bears the burden of proving by a preponderance of the evidence that all jurisdictional criteria are met."
+```
+
+And here is the summary in English text:
+
+The Court has issued a tentative ruling denying the motion to quash service of summons filed by defendant Alvin Smith, Jr. The motion was filed on August 14, 2024, and the Court granted the application to serve the summons and complaint by posting on September 18, 2024. On October 4, 2024, the plaintiffs filed proof of service that the summons and complaint were served in accordance with the approved application by posting, which creates a rebuttable presumption that service was proper. Despite Smith's claim that he was not personally served with the summons and complaint because he found them on the floor outside the premises, the Court finds that Smith has actual notice of the action. The Court concludes that the motion to quash service of summons is denied.

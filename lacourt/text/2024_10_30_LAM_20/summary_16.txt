@@ -1,0 +1,79 @@
+Here is the summary in YAML format:
+
+```
+case_number: 2024-02-029
+plaintiff_name: Elat Properties, Inc.
+defendant_names:
+  - 801 SOUTH GRAND AVENUE (LA), INC.
+  - 801 SOUTH GRAND AVENUE (LA) HOLDINGS, LLC
+  - 801 SOUTH GRAND AVENUE (LA) OWNER, LLC
+  - CIM GROUP, L.P.
+  - JONATHAN TAO
+  - CIM SMA I INVESTMENTS, LLC
+people_names:
+  - Jonathan Tao
+companies:
+  - Elat Properties, Inc.
+  - 801 SOUTH GRAND AVENUE (LA), INC.
+  - 801 SOUTH GRAND AVENUE (LA) HOLDINGS, LLC
+  - 801 SOUTH GRAND AVENUE (LA) OWNER, LLC
+  - CIM GROUP, L.P.
+  - CIM SMA I INVESTMENTS, LLC
+places:
+  - 801 South Grand Avenue (LA)
+dates:
+  - February 29, 2024
+events:
+  - Purchase of a building
+  - Demurrer
+  - Motion to strike
+money:
+  - $250,000 (obligation amount for future tenant improvements)
+  - Threshold (amount not specified)
+intentions:
+  - To purchase a building
+  - To avoid paying the "mansion tax"
+  - To rely on Defendants' representations
+facts:
+  - Plaintiff purchased a building from Defendants
+  - Plaintiff relied on a spreadsheet presented by Defendants
+  - Spreadsheet stated obligation amount for future tenant improvements was $0 when it was actually $250,000
+  - Plaintiff would have negotiated the purchase price down if it had known about the improvements
+disputes:
+  - Uncertainty and failure to state sufficient facts
+  - Waiver of claims via purchase agreement provision
+acts:
+  - Purchase of a building
+  - Presentation of a spreadsheet
+  - Alleged breach of representations and warranties
+agreements:
+  - Purchase agreement
+  - Written notice delivered to Defendants
+laws:
+  - California Code of Civil Procedure
+  - California statutes (not specified)
+case_citations:
+  - Serrano v. Priest (1971) 5 Cal.3d 584, 591
+  - Hahn v. Mirda¿(2007) 147 Cal.App.4th 740, 747
+  - Aubry v. Tri-City Hospital Dist.¿(1992) 2 Cal.4th 962, 967
+statutes:
+  - Code Civ. Proc. § 435(b)(1)
+  - Code Civ. Proc. § 437(a)
+  - Code Civ. Proc. § 436
+roles:
+  - Judge: reviewing demurrer and motion to strike
+  - Plaintiff: Elat Properties, Inc.
+  - Defendants: 801 SOUTH GRAND AVENUE (LA), INC., et al.
+significant_statements:
+  - The Court declines to take judicial notice of the estoppel certificates provided to Plaintiff.
+  - The Demurrer is overruled. An answer is to be filed within 20 days.
+  - The Motion to Strike is denied.
+```
+
+And here is a summary of the Judge's tentative ruling in English text:
+
+The Judge has reviewed the demurrer and motion to strike filed by the Defendants, 801 SOUTH GRAND AVENUE (LA), INC., et al., in response to the Complaint filed by Plaintiff, Elat Properties, Inc. The Plaintiff alleges that it purchased a building from the Defendants on a short timeline so as not to pay the "mansion tax" and that during the transaction, the Plaintiff relied on a spreadsheet presented by the Defendants that falsely stated that the obligation amount for future tenant improvements for two units was $0 when it was actually $250,000.
+
+The Judge has overruled the demurrer, finding that the Complaint adequately alleges that the Plaintiff relied on the statements in the spreadsheet and that the Defendants were aware that some improvements could not be reasonably discovered. The Judge has also denied the motion to strike the Complaint's references to punitive damages, finding that the motion is premature and that the fraud claim has survived.
+
+The Judge has granted the Plaintiff 20 days to file an answer to the Complaint. The Judge has also declined to take judicial notice of the estoppel certificates provided to the Plaintiff, finding that the matter is disputed and that the Court should not take notice of the certificates without objection.

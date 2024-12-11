@@ -1,0 +1,50 @@
+Here is the YAML summary of the tentative ruling:
+
+```
+case_number: "Unknown"
+plaintiff_name: Unknown
+defendant_name: Unknown
+people_names:
+  - Judge
+  - Plaintiff
+  - Defendant
+  - Stewart
+company_names: []
+places:
+  - California
+  - Santa Monica
+dates:
+  - 2005
+events:
+  - City of Santa Monica v. Stewart
+money: []
+intentions:
+  - Determine the concept of justiciability
+facts:
+  - Every action must be prosecuted in the name of the real party in interest
+  - Standing requires an actual and substantial interest in the outcome
+  - Ripeness requires a current controversy
+  - A controversy becomes ripe when facts have sufficiently congealed to permit an intelligent and useful decision
+disputes:
+  - Lack of standing
+  - Lack of ripeness
+acts:
+  - Bringing an action without a current controversy
+agreements: []
+laws:
+  - City of Santa Monica v. Stewart (2005)
+  - California Supreme Court
+statutes: []
+roles:
+  - Judge: reviewing the concept of justiciability
+  - Plaintiff: bringing an action
+  - Defendant: responding to the action
+significant_statements:
+  - "The concept of justiciability involves the intertwined criteria of ripeness and standing."
+  - "A party lacks standing if it does not have an actual and substantial interest in, or would not be benefited or harmed by, the ultimate outcome of an action."
+  - "A controversy becomes ripe once it reaches, but has not passed, the point that the facts have sufficiently congealed to permit an intelligent and useful decision to be made."
+```
+
+And here is a summary of the tentative ruling in English text:
+
+The judge is considering the concept of justiciability, which involves the intertwined criteria of ripeness and standing. Standing requires that a party have an actual and substantial interest in the outcome of the case, and that they would be benefited or harmed by the result. Ripeness, on the other hand, refers to the requirement that there be a current controversy between the parties. The judge notes that a controversy becomes ripe when the facts have sufficiently congealed to permit an intelligent and useful decision to be made. The judge is reviewing these concepts in the context of an action brought by the plaintiff, and is considering whether the plaintiff has standing to bring the action and whether the controversy is ripe for adjudication.

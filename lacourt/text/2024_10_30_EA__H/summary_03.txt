@@ -1,0 +1,49 @@
+Here is the summary in YAML format:
+
+```
+Case Number: [not specified]
+Plaintiff's Name: [not specified]
+Defendant's Name: UTN
+People-Names:
+  - Dr. Lim
+  - Dr. Miller
+Company-Names: UTN
+Places: [not specified]
+Dates: [not specified]
+Events: [not specified]
+Money: [not specified]
+Intentions:
+  - Court grants UTN's request to take judicial notice of dictionary definition of "diagnosis"
+  - Court acknowledges Dr. Lim not qualified to render medical diagnoses as physical therapist
+  - Court overrules UTN's evidentiary objections
+Facts:
+  - Plaintiff experienced pain after using massage gun
+  - Dr. Lim opined use of massage gun caused Plaintiff's injuries
+  - Dr. Miller opined pain was due to postoperative changes and neuropathic pain condition
+Disputes:
+  - UTN's objection to Dr. Lim as expert on medical causation
+  - UTN's request to take judicial notice of dictionary definition of "diagnosis"
+Acts:
+  - Use of massage gun by Plaintiff
+  - Opinions rendered by Dr. Lim and Dr. Miller
+  - Court's review of evidence and granting of requests
+Agreements: [not specified]
+Laws:
+  - Evidence Code section 452, subdivision (h)
+  - Cal. Bus. & Prof. Code section 2052(a)
+Case Citations: [not specified]
+Statutes: [not specified]
+Roles:
+  - Judge
+  - UTN (defendant)
+  - Plaintiff
+  - Dr. Lim (expert witness)
+  - Dr. Miller (expert witness)
+Significant Statements:
+  - "The Court grants UTN’s request to take judicial notice of the dictionary definition of “diagnosis,” pursuant to Evidence Code section 452, subdivision (h)."
+  - "Even so, the Court need not decide whether Dr. Lim is qualified to opine as to medical causation, because, as explained in more detail below, his proffered opinion fails to establish that the massage gun (as opposed to Plaintiff’s underlying medical condition) caused Plaintiff’s injuries."
+```
+
+And here is a summary of the judge's tentative ruling in English text:
+
+The court has made a preliminary ruling on the case between UTN (the defendant) and the plaintiff. The court grants UTN's request to take judicial notice of the dictionary definition of "diagnosis". The court also acknowledges that Dr. Lim, an expert witness for the defendant, is not qualified to render medical diagnoses as a physical therapist. However, the court does not need to decide whether Dr. Lim is qualified to testify on medical causation because his opinion does not establish that the massage gun caused the plaintiff's injuries. The court also overrules UTN's evidentiary objections. The court's ruling is based on the expert opinions of Dr. Lim and Dr. Miller, who both agree that the use of the massage gun may have caused pain, but Dr. Miller attributes the pain to postoperative changes and neuropathic pain condition rather than the massage gun itself.

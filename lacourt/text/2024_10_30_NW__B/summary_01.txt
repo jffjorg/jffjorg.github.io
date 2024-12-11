@@ -1,0 +1,67 @@
+Here is the summary in YAML format:
+
+```yaml
+case_number: 20STCV45380
+plaintiff: Chad Tewsberry
+defendant: TJX INC. et al.
+people_names:
+  - Chad Tewsberry
+  - Sharifan (defense counsel)
+companies:
+  - TJX INC.
+  - Marshalls of California, LLC
+places:
+  - California
+dates:
+  - March 28, 2024
+  - April 27, 2024
+  - May 31, 2024
+  - October 29, 2024
+  - October 30, 2024
+events:
+  - Defendant's Motion to Compel Plaintiff's Responses to Form Interrogatories, Set Three
+  - Plaintiff's failure to provide discovery responses
+  - Meet and confer letter sent by defense counsel
+money:
+  - $540.00 (sanctions)
+  - $1,815.00 (proposed sanctions)
+intents:
+  - To compel plaintiff's responses to discovery requests
+  - To impose sanctions for plaintiff's failure to provide discovery responses
+facts:
+  - Plaintiff failed to provide any responses to discovery requests
+  - Defendant propounded discovery requests on March 28, 2024
+  - Responses were due on April 27, 2024
+  - Plaintiff did not respond
+  - Defense counsel sent a meet and confer letter on May 31, 2024
+  - Plaintiff never responded or provided discovery responses
+disputes:
+  - Plaintiff's failure to comply with discovery obligations
+acts:
+  - Defendant's motion to compel plaintiff's responses
+  - Plaintiff's failure to provide discovery responses
+agreements:
+  - None mentioned
+laws:
+  - California Code of Civil Procedure (CCP) § 2030.290(b)
+  - California Code of Civil Procedure (CCP) § 2030.290(c)
+  - California Code of Civil Procedure (CCP) § 2031.300(a)
+  - California Code of Civil Procedure (CCP) § 2031.300(b)
+  - California Code of Civil Procedure (CCP) § 2023.010(d)
+  - California Code of Civil Procedure (CCP) § 2023.010(g)
+  - California Code of Civil Procedure (CCP) § 2023.030(a)
+case_citations:
+  - Leach v. Superior Court (1980) 111 Cal.App.3d 902, 905-906
+roles:
+  - Judge: Hon. Karen Moskowitz
+  - Plaintiff: Chad Tewsberry
+  - Defendant: TJX INC. et al.
+  - Defense counsel: Sharifan
+significant_statements:
+  - Plaintiff is ordered to serve defendant with verified, objection-free responses to Form Interrogatories, Set Three, within 10 days.
+  - Plaintiff is also ordered to pay $540.00 in sanctions within 10 days.
+```
+
+Here is a summary of the judge's tentative ruling in English text:
+
+The judge has tentatively ruled that the defendant's motion to compel the plaintiff's responses to Form Interrogatories, Set Three, is granted. The plaintiff failed to provide any responses to the discovery requests, despite being served with the requests on March 28, 2024, and having until April 27, 2024, to respond. The defendant has sought sanctions in the amount of $1,815.00, but the judge has ordered the plaintiff to pay only $540.00 in sanctions. The plaintiff is ordered to serve the defendant with verified, objection-free responses to the Form Interrogatories, Set Three, within 10 days.
