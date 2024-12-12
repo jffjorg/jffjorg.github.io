@@ -1,0 +1,71 @@
+Here is the summary of the tentative ruling in YAML format:
+
+```
+case_number: 24STLC04511
+hearing_date: November 7, 2024
+dept: 85
+plaintiff: John Deere Construction and Forestry Company
+defendant: LFG Arbor Care, Inc. and Luis Fernando Garcia
+people:
+  - John Deere
+  - Luis Fernando Garcia
+companies:
+  - John Deere Construction and Forestry Company
+  - LFG Arbor Care, Inc.
+places:
+  - Canoga Park, CA 91304
+dates:
+  - April 25, 2022
+  - April 25, 2023
+events:
+  - Execution of Retail Installment Contract
+  - Default on payment obligations
+  - Declaration of entire unpaid balance due and payable
+  - Plaintiff's attempts to regain possession of Equipment
+money:
+  - $38,825.97 (financed amount)
+  - $33,466.72 (unpaid balance)
+  - $28,284.00 (estimated market value of Equipment)
+intentions:
+  - To recover Equipment and collect unpaid balance
+facts:
+  - Equipment was purchased and financed by Defendants
+  - Defendants defaulted on payment obligations
+  - Plaintiff declared entire unpaid balance due and payable
+  - Plaintiff has a security interest in the Equipment
+disputes:
+  - Plaintiff seeks writ of possession to recover Equipment
+acts:
+  - Execution of Retail Installment Contract
+  - Default on payment obligations
+  - Declaration of entire unpaid balance due and payable
+  - Plaintiff's attempts to regain possession of Equipment
+agreements:
+  - Retail Installment Contract
+laws:
+  - CCP §512.010(a), (b)
+  - CCP §512.060(a), (b)
+  - CCP §515.010(a), (b)
+  - CCP §516.030
+  - CCP §511.090
+  - CCP §513.010(c)
+  - CCP §512.070
+  - CCP §515.020(a)
+case_citations:
+  - Pillsbury, Madison & Sutro v. Schectman, (1997) 55 Cal.App.4th 1279
+  - RCA Service Co. v. Superior Court, (1982) 137 Cal.App.3d 1
+  - Edwards v Superior Court, (1991) 230 Cal.App.3d 173
+  - Snider v. Snider, (1962) 200 Cal.App.2d 741
+  - Rodes v. Shannon, (1961) 194 Cal.App.2d 743
+  - Schessler v. Keck, (1956) 138 Cal.App.2d 663
+roles:
+  - Judge
+significant_statements:
+  - The court grants the application for an order for a writ of possession of the Equipment against Defendants Arbor and Garcia.
+  - No undertaking is required.
+  - The re-delivery bond shall be $33,466.72.
+```
+
+Here is a summary of the tentative ruling in English text:
+
+The court grants the plaintiff's application for a writ of possession to recover a VERMEER SC-382 STUMP CHIPPERS (Equipment) from the defendants, LFG Arbor Care, Inc. and Luis Fernando Garcia. The plaintiff, John Deere Construction and Forestry Company, seeks to recover the Equipment and collect the unpaid balance of $33,466.72. The court finds that the plaintiff has established the probable validity of its claim to possession of the Equipment and that no undertaking is required. The re-delivery bond shall be set at $33,466.72. The court orders that the levying officer may enter the location of the Equipment at 8526 International Avenue, Apt 62, Canoga Park, CA 91304 to recover the Equipment.
