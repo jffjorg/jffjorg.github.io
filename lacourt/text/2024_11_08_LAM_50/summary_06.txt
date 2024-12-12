@@ -1,0 +1,60 @@
+Here is the summary in YAML format:
+
+```
+---
+case_number: 24STCV03875
+plaintiff_name: Christopher Rosales
+defendant_name: Los Angeles County Metropolitan Transportation Authority et al.
+people_names:
+  - John Doe
+company_names:
+  - Los Angeles County Metropolitan Transportation Authority
+  - City of Los Angeles
+  - County of Los Angeles
+  - State of California
+  - California Department of Transportation
+places:
+  - Pico/Aliso Station
+  - Los Angeles
+  - California
+dates:
+  - February 15, 2024
+  - March 3, 2023
+  - November 8, 2024
+events:
+  - Assault
+  - Battery
+  - Intentional infliction of emotional distress
+  - Negligent hiring, supervision, and retention
+  - Negligence
+money:
+  - Damages
+intentions:
+  - To state a cause of action for negligent hiring, supervision, and retention
+factual_disputes:
+  - Whether Defendant John Doe was incompetent and unfit
+  - Whether Defendant Los Angeles County Metropolitan Transportation Authority was liable for the acts of its employee
+acts:
+  - Demurrer
+  - Motion to strike
+laws:
+  - Government Code section 815
+  - Government Code section 815.2
+  - Government Code section 815.4
+  - Code of Civil Procedure section 436
+statutes:
+  - Government Code section 815
+  - Government Code section 815.2
+  - Government Code section 815.4
+roles:
+  - Plaintiff
+  - Defendant
+  - Judge
+significant_statements:
+  - "A public entity is not liable for an injury, whether such injury arises out of an act or omission of the public entity or a public employee or any other person." (Government Code section 815)
+  - "A public entity is liable for injury proximately caused by an act or omission of an employee of the public entity within the scope of his employment if the act or omission would, apart from this section, have given rise to a cause of action against that employee or his personal representative." (Government Code section 815.2)
+```
+
+And here is a brief summary of the judge's tentative ruling:
+
+The judge has ruled on a demurrer and a motion to strike in a case involving a plaintiff who was allegedly assaulted and injured by a train operator, Defendant John Doe, while attempting to board a train. The demurrer was filed by Defendant Los Angeles County Metropolitan Transportation Authority, arguing that the complaint fails to state a cause of action against a public entity for negligent hiring, supervision, and retention. The judge has overruled the demurrer, finding that the complaint adequately states a cause of action under Government Code section 815.2. The motion to strike was also filed by the defendant, seeking to strike the fourth cause of action alleging negligent hiring, supervision, and retention. The judge has denied the motion to strike, finding that the allegations are relevant and properly pleaded.
