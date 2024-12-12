@@ -1,0 +1,53 @@
+Here is the summary in YAML format:
+
+```
+Case Number: [insert case number]
+Plaintiff's Name: [insert plaintiff's name]
+Defendant's Name: [insert defendant's name]
+People-Names:
+  - Salma
+  - Capon
+  - Morales
+Company-Names: [insert company names, if any]
+Places: [insert places, if any]
+Dates:
+  - 2008
+  - 2018
+Events:
+  - Anti-SLAPP motion
+  - Motion to specially strike
+  - First-step assessment
+Money: [insert amount, if any]
+Intentions:
+  - Intent to move to strike
+  - Mistake in citing cause of action
+Facts:
+  - Third and fourth causes of action challenged
+  - Third and fifth causes of action addressed
+  - Fourth cause of action mistakenly cited
+Disputes:
+  - Dispute over cause of action
+  - Dispute over intention
+Acts:
+  - Filing of anti-SLAPP motion
+  - Filing of cross-complaint
+  - Filing of reply
+Agreements: [insert agreements, if any]
+Laws:
+  - [insert relevant laws]
+Case Citations:
+  - Salma v. Capon (2008) 161 Cal.App.4th 1275
+  - Bel Air Internet, LLC v. Morales (2018) 20 Cal.App.5th 924
+Statutes: [insert relevant statutes]
+Roles:
+  - Judge
+  - Plaintiff
+  - Defendant
+  - Cross-Complaint
+Significant Statements:
+  - Court will treat anti-SLAPP motion as a motion to specially strike the third and fifth causes of action
+```
+
+And here is a summary of the judge's tentative ruling in English text:
+
+The judge is considering an anti-SLAPP motion, which challenges the third and fourth causes of action. The cross-complaint claims that the defendant intended to move to strike the third and fifth causes of action, but mistakenly cited the fourth cause of action. The reply only addresses the third and fifth causes of action. The court will treat the anti-SLAPP motion as a motion to specially strike the third and fifth causes of action. The judge's decision is based on case law, specifically Salma v. Capon (2008) and Bel Air Internet, LLC v. Morales (2018), which explain that courts can examine declarations when making a first-step assessment.
