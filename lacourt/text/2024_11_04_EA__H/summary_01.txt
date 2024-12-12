@@ -1,0 +1,81 @@
+Here is the summary in YAML format:
+
+```
+case_number: 20PSCV00849
+plaintiff_name: Miller Liu
+defendant_name: Lanterprise, Inc. dba Lanterprise Corporation dba Lanterprise Construction, Waiming Li, and Weiheng Zhen
+people_names:
+  - Miller Liu
+  - Waiming Li
+  - Weiheng Zhen
+company_names:
+  - Lanterprise, Inc.
+places:
+  - backyard
+  - California
+dates:
+  - September 2018
+  - August 15, 2019
+  - December 7, 2020
+  - April 11, 2023
+  - May 4, 2023
+  - June 28, 2023
+  - August 7, 2024
+  - November 4, 2024
+events:
+  - Contract signing
+  - Construction
+  - Dispute over additional costs
+  - Sabotage of construction
+  - Filing of complaint
+  - Judgment on the pleadings
+  - Notice of appeal
+  - Remittitur
+  - Motion for damages
+money:
+  - $170,000.00
+  - $180,000.00
+  - $21,965.00
+  - $41,705.44
+  - $42,559.67
+intentions:
+  - Plaintiff's intention to move into ADU
+  - Defendant's intention to finish construction
+facts:
+  - Li prepared a change order for additional costs
+  - Plaintiff disputed paying the additional costs
+  - Construction was sabotaged before leaving the premises
+  - Plaintiff filed a complaint
+  - Judgment was entered
+  - Notice of appeal was filed
+  - Remittitur was issued
+disputes:
+  - Breach of written agreement
+  - Intentional destruction of property
+acts:
+  - Signing of contract
+  - Construction of ADU
+  - Preparation of change order
+  - Dispute over additional costs
+  - Sabotage of construction
+agreements:
+  - Written agreement between Plaintiff and Defendants
+laws:
+  - Code of Civil Procedure Section 907
+  - Cal. Rules Ct., rule 8.276(a)
+case_citations:
+  - Bucur v. Ahmad (2016) 244 Cal.App.4th 175
+statutes:
+  - Code of Civil Procedure Section 907
+roles:
+  - Plaintiff: Miller Liu
+  - Defendant: Lanterprise, Inc. dba Lanterprise Corporation dba Lanterprise Construction, Waiming Li, and Weiheng Zhen
+  - Judge: H
+significant_statements:
+  - The motion for damages is denied.
+  - The reviewing court does not have the authority to impose such damages.
+```
+
+And here is a summary of the judge's tentative ruling in English text:
+
+The Court has denied the motion of Lanterprise, Inc. dba Lanterprise Corporation dba Lanterprise Construction, Waiming Li, and Weiheng Zhen (collectively, "Defendants") for damages in the amount of $42,559.67 under Code of Civil Procedure section 907. The Defendants argued that the appeal was frivolous and taken solely for harassment and to attempt to exact revenge. However, the Court found that the reviewing court (the Second District, Division 7 Court of Appeal) does not have the authority to impose such damages under Code of Civil Procedure section 907, as cited in Bucur v. Ahmad (2016) 244 Cal.App.4th 175.
