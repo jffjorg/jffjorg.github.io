@@ -1,0 +1,61 @@
+Here is the summary in YAML format:
+
+```
+case_number: 24STCV13222
+plaintiff_name: Felipe Chavez
+defendant_name: SoCal Deliveries LLC
+people_names:
+  - Felipe Chavez
+  - Maurice A. Leiter (Judge)
+company_names:
+  - SoCal Deliveries LLC
+  - Amazon
+places:
+  - Los Angeles
+  - Santa Clarita
+  - San Fernando Valley
+  - Lexington, KS
+dates:
+  - June 16, 2022
+  - June 21, 2024
+  - November 18, 2024
+events:
+  - Arbitration agreement execution
+  - Arbitration motion
+  - Court hearing
+money: None
+intentions:
+  - To compel arbitration
+facts:
+  - Plaintiff executed an arbitration agreement on June 16, 2022
+  - Plaintiff was a delivery driver who transported packages originating from out of state
+  - Defendant relied on Bissonnette v. Le Page Bakeries Park St., LLC to argue Plaintiff was not a transportation worker
+disputes:
+  - Existence of arbitration agreement
+  - Enforceability of arbitration agreement
+  - Plaintiff's employment status under the FAA
+acts:
+  - Plaintiff filed the operative first amended complaint
+  - Defendant moved to compel arbitration
+  - Judge issued a tentative ruling
+agreements:
+  - Arbitration agreement executed by Plaintiff on June 16, 2022
+laws:
+  - California Code of Civil Procedure (CCP) § 1281.2
+  - Federal Arbitration Act (FAA) § 1
+  - 9 U.S.C. §1
+statutes:
+  - CCP § 1281.2(a)-(c)
+  - FAA § 1
+roles:
+  - Judge: Maurice A. Leiter
+  - Moving party: Defendant SoCal Deliveries LLC
+  - Responding party: Plaintiff Felipe Chavez
+significant_statements:
+  - "The party seeking arbitration bears the burden of proving the existence of an arbitration agreement, and the party opposing arbitration bears the burden of proving any defense, such as unconscionability." (Pinnacle Museum Tower Assn. v. Pinnacle Market Development (US), LLC (2012) 55 Cal.4th 223, 236)
+  - "The Court finds that Plaintiff falls within the transportation worker exemption. Plaintiff was a delivery driver who was actively engaged in transporting goods originating from out of state."
+```
+
+And here is a summary of the judge's tentative ruling in English text:
+
+The judge has issued a tentative ruling on the defendant's motion to compel arbitration. The defendant argues that the plaintiff, Felipe Chavez, executed an arbitration agreement on June 16, 2022, and that the court should order the parties to arbitrate the dispute. The plaintiff argues that the motion should be denied because he was employed as an exempt transportation worker under the Federal Arbitration Act (FAA). The judge finds that the plaintiff falls within the transportation worker exemption and that he was actively engaged in transporting goods originating from out of state. Therefore, the judge denies the defendant's motion to compel arbitration.

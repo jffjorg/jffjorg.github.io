@@ -1,0 +1,102 @@
+Here is the summary in YAML format:
+
+```
+Case Number: 23STCV08230
+Plaintiff's Name: Broadband Service Group, Inc.
+Defendant's Name: Legacy Communications, LLC
+People-Names:
+  - Christopher M. Sandu
+  - Dennis Phan
+  - Eddie Alcaraz Nava
+  - Cesar Solorzano
+  - William Young
+  - Sofina Preap
+  - Tony Bushala
+  - Daniel Agullar Becerril
+  - Tyrol M. Mitchell
+Company-Names:
+  - Broadband Service Group, Inc.
+  - Legacy Communications, LLC
+  - Cable Brothers, Inc.
+  - L&G Cable Construction Company, Inc.
+  - CSP Fiber Services
+  - Panoramavision Inc.
+  - Performance Auto
+  - Firstline Capital
+  - Capitalplus Construction Services, LLC
+Places:
+  - California
+  - Governor George Deukmejian Courthouse
+Dates:
+  - June 16, 2021
+  - August 31, 2021
+  - November 12, 2021
+  - December 3, 2021
+  - April 12, 2022
+  - April 14, 2022
+  - December 6, 2022
+  - April 13, 2023
+  - July 20, 2023
+  - March 21, 2024
+  - April 29, 2024
+  - May 9, 2024
+  - May 20, 2024
+  - June 4, 2024
+  - June 25, 2024
+  - July 8, 2024
+  - July 15, 2024
+  - July 16, 2024
+  - July 18, 2024
+  - August 31, 2024
+  - October 31, 2024
+  - November 7, 2024
+Events:
+  - Breach of contract
+  - Fraud
+  - Default judgment
+  - Non-jury trial
+  - Demurrer
+  - Motion to tax costs
+  - Motion for attorneys' fees
+  - Notice of settlement
+Money:
+  - $954,247.91
+  - $590,000.00
+  - $95,000.00
+  - $98,000.00
+Intentions:
+  - To enforce interlocutory judgment
+  - To determine good faith settlement
+Facts:
+  - Judgment entered in 21LBCV00329
+  - Defaults entered against Sandu, Phan, and Legacy Communications, LLC
+  - Non-jury trial in 21LBCV00329
+  - Settlement agreement between Plaintiff and Settling Defendants
+Disputes:
+  - Res judicata
+  - Claim preclusion (collateral estoppel)
+  - Single judgment rule
+  - Prohibition of Plaintiff's splitting of a cause of action
+Acts:
+  - Filing of complaint
+  - Filing of proof of service
+  - Filing of default
+  - Filing of demurrer
+  - Filing of motion to tax costs
+  - Filing of motion for attorneys' fees
+  - Filing of notice of settlement
+Laws:
+  - Code of Civil Procedure
+  - Evidence Code
+Roles:
+  - Judge
+  - Plaintiff (Broadband Service Group, Inc.)
+  - Defendant (Legacy Communications, LLC)
+Significant Statements:
+  - "The pendency of another action growing out of the same transaction is ground for abatement of the second action."
+  - "The purpose of [an] interlocutory judgment ... is to permit the trial court to retain jurisdiction over the subsequent action so that when a final determination is had in the prior pending action the court will be empowered to determine the issues in the subsequent suit."
+  - "A determination by the court that the settlement was made in good faith shall bar any other joint tortfeasor or co-obligor from any further claims against the settling tortfeasor or co-obligor for equitable comparative contribution, or partial or comparative indemnity, based on comparative negligence or comparative fault."
+  - "The ultimate determinant of good faith is whether the settlement is grossly disproportionate to what a reasonable person at the time of settlement would estimate the settlor's liability to be."
+```
+
+Note: There are several instances where the text uses abbreviations such as "LBCV" and "STCV", which are likely abbreviations for court case numbers. I did not include these in the YAML summary as they are not explicitly stated as part of the case details.
