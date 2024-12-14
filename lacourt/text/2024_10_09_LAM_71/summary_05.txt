@@ -1,0 +1,58 @@
+Here is the summary in YAML format:
+
+```
+case_number: 24STCP01101
+plaintiff: Blue Bear Waste Services, LLC
+defendant: Bond Enterprises, Inc.
+people_names:
+  - Bruce E. Rhode
+  - Muse-Fisher
+company_names:
+  - Blue Bear Waste Services, LLC
+  - Bond Enterprises, Inc.
+places:
+  - Los Angeles
+  - California
+  - Colorado
+dates:
+  - July 2, 2024
+  - October 9, 2024
+events:
+  - Application for pro hac vice admission
+  - Hearing
+money:
+  - $50.00
+intentions:
+  - Admit Bruce E. Rhode to appear pro hac vice
+facts:
+  - Petitioner Blue Bear Waste Services, LLC filed an unopposed application
+    for Rhode to be admitted pro hac vice
+  - Rhode has not provided his Colorado bar number
+disputes:
+  - None mentioned
+acts:
+  - Petitioner submitted proof of service of the application on the State Bar
+    of California
+  - Petitioner submitted proof of payment of the $50.00 fee to the State Bar
+    of California
+agreements:
+  - C.R.C., Rule 9.40(d) and (e)
+laws:
+  - California Rules of Court, Rule 9.40(d) and (e)
+case_citations:
+  - None mentioned
+statutes:
+  - None mentioned
+roles:
+  - Judge
+  - Petitioner (Blue Bear Waste Services, LLC)
+  - Applicant (Bruce E. Rhode)
+significant_statements:
+  - The Court needs Rhode's Colorado bar number to enter his application into
+    the Court's system
+  - The instant motion is granted pending receipt of Rhode's Colorado bar number
+```
+
+And here is a summary of the judge's tentative ruling in English text:
+
+The judge is considering an unopposed application by Blue Bear Waste Services, LLC to admit Bruce E. Rhode to appear pro hac vice on its behalf. Rhode has not provided his Colorado bar number, which the court needs to enter his application into its system. Despite this omission, the judge is granting the application pending receipt of Rhode's Colorado bar number at the upcoming hearing. If the bar number is not received, the motion will be denied.
