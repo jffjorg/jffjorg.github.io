@@ -1,0 +1,63 @@
+Here is the summary in YAML format:
+
+```
+case_number: 23STCV30345
+hearing_date: October 7, 2024
+dept: 52
+plaintiff_names:
+  - Jane Doe D.R.
+defendant_names:
+  - Universal Protection Service, LP (doing business as Allied Universal Security Services)
+  - Jamison Services, Inc.
+  - Jamison Properties, Inc.
+people_names:
+  - Jane Doe D.R.
+company_names:
+  - Universal Protection Service, LP
+  - Allied Universal Security Services
+  - Jamison Services, Inc.
+  - Jamison Properties, Inc.
+places:
+  - (location of sexual assault)
+dates:
+  - (no specific dates mentioned)
+events:
+  - Sexual assault at a property
+  - Contract between Jamison Services, Inc. and Universal's predecessor
+  - Allegations of negligence by Universal
+money:
+  - Incurred costs and expenses associated with the resolution of plaintiff's claims against Jamison
+intentions:
+  - Universal demurs to Jamison's sixth cause of action for negligence
+facts:
+  - Jane Doe D.R. suffered sexual assault at a property where Jamison and Universal provided security or other services
+  - Jamison and Universal entered into a contractual agreement
+  - Jamison alleges Universal negligently performed the services
+  - Jamison did not suffer physical damage or property damage
+  - Only plaintiff Jane Doe D.R. alleges physical injury
+disputes:
+  - Whether Universal owed a duty of care to Jamison
+acts:
+  - Universal's alleged negligence in performing services
+  - Jamison's alleged failure to perform its contractual obligations
+agreements:
+  - Contract between Jamison Services, Inc. and Universal's predecessor
+  - Express and/or implied agreements between Universal and Jamison
+laws:
+  - Economic loss rule
+  - Sheen v. Wells Fargo Bank, N.A. (2022)
+  - Rattagan v. Uber Technologies, Inc. (2024)
+statutes:
+  - None mentioned
+roles:
+  - Judge: [Name]
+  - Plaintiff: Jane Doe D.R.
+  - Defendant: Universal Protection Service, LP, Jamison Services, Inc., and Jamison Properties, Inc.
+significant statements:
+  - "In general, there is no recovery in tort for negligently inflicted 'purely economic losses,' meaning financial harm unaccompanied by physical or property damage." (Sheen v. Wells Fargo Bank, N.A. (2022))
+  - "The economic loss doctrine applies when the parties have entered into a contract; the plaintiff sues for tort damages, alleging the defendant failed to perform as the contract requires; and negligently caused economic losses flowing from the breach." (Rattagan v. Uber Technologies, Inc. (2024))
+```
+
+And here is a summary of the judge's tentative ruling in English text:
+
+The judge has issued a tentative ruling on the demurrer to the first amended cross-complaint filed by Jamison Services, Inc. and Jamison Properties, Inc. against Universal Protection Service, LP (doing business as Allied Universal Security Services). Universal demurs only to Jamison's sixth cause of action for negligence, alleging that Jamison does not have sufficient facts to constitute a cause of action for negligence. The judge agrees, ruling that the economic loss rule bars this claim. The economic loss rule states that there is no recovery in tort for negligently inflicted purely economic losses, and that parties must recover in contract for such losses unless they can demonstrate harm above and beyond a broken contractual promise. In this case, Jamison's allegations of negligent performance of services by Universal do not allege physical damage or property damage, and therefore are barred by the economic loss rule. The judge gives Jamison 20 days to amend its cross-complaint.

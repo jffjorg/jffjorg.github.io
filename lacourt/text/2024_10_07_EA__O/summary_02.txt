@@ -1,0 +1,59 @@
+Here is the summary in YAML format:
+
+```
+Case Number: [insert case number]
+Plaintiff's Name: P&K
+Defendant's Name: Retail Ventures
+People-Names:
+  - Rosa Santillana
+Company-Names:
+  - SQS Construction
+  - P&K
+  - Retail Ventures
+Places:
+  - California
+  - Property (unspecified location)
+Dates:
+  - 12/6/2022
+Events:
+  - Preliminary construction work
+  - Change orders
+  - Payment of $3,595,233.70
+Money:
+  - $3,595,233.70
+Intentions:
+  - P&K intends to prevail in the trial
+  - Retail Ventures intends to show there is no reasonable possibility of P&K's prevailing
+Facts:
+  - P&K entered an agreement to perform preliminary construction work
+  - P&K does not have a valid California contractor's license
+  - Retail paid P&K $3,595,233.70 for unlicensed work
+Disputes:
+  - P&K's lawsuit against Retail
+  - Retail's motion to remove mechanic's lien
+Acts:
+  - Issuance of change orders
+  - Payment of funds
+  - Performance of preliminary construction work
+Agreements:
+  - Written contract between P&K and Retail
+Laws:
+  - Code of Civil Procedure
+  - Evidence Code
+Statutes:
+  - California Code of Civil Procedure
+  - Evidence Code section 353
+Roles:
+  - P&K: plaintiff
+  - Retail Ventures: defendant
+  - SQS Construction: not a named defendant
+  - Rosa Santillana: witness
+Significant Statements:
+  - "The 'reasonable possibility' standard is relatively low."
+  - "A defendant need not show there is no reasonable possibility that the plaintiff will prevail at trial, but only that it is reasonably possible that the defendant will prevail."
+  - "The court agrees with Retail that their CC claims are inherently intertwined with P&K's complaint."
+```
+
+And here is a summary in English text:
+
+This tentative ruling addresses a dispute between P&K, a plaintiff, and Retail Ventures, a defendant, over a mechanic's lien. P&K, which does not have a valid California contractor's license, entered an agreement to perform preliminary construction work on a property and was paid $3,595,233.70. Retail moves to remove the mechanic's lien, arguing that P&K's lawsuit has no reasonable possibility of prevailing at trial. The court agrees with Retail, finding that P&K's claims are intertwined with its own complaint and that P&K has not offered any evidence to support its position. The court notes that the "reasonable possibility" standard is relatively low, and Retail need only show that it is reasonably possible that it will prevail at trial.
