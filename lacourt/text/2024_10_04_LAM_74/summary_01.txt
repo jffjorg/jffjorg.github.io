@@ -1,0 +1,45 @@
+Here is the summary in YAML format:
+
+```
+case_number: 22STCV17079
+plaintiff: Almost Nothing, Inc.
+defendant: Omid Reyhanian, Peyman Balakhane, Peyman Balakhaneh
+people_names:
+  - Omid Reyhanian
+  - Peyman Balakhane
+  - Peyman Balakhaneh
+company_names:
+  - Almost Nothing, Inc.
+places:
+  - None
+dates:
+  - October 4, 2024
+events:
+  - Demurrer and Motion to Strike
+money:
+  - None
+intention: Overrule demurrers, sustain cause of action for conversion, deny motion to strike, and deny motion to strike request for punitive damages and attorney's fees
+fact: Allegations of conspiracy to defraud and negligence are sufficient to withstand demurrer, conversion applies to personal property but not intangible property like debt
+dispute: Cause of action for conversion, motion to strike request for punitive damages and attorney's fees
+acts:
+  - Allegations of conspiracy to defraud and negligence
+  - Claim of conversion
+agreements:
+  - Lease allowing recovery of attorney's fees
+laws:
+  - California statutes (not specified)
+case_citations:
+  - None
+statutes:
+  - California statutes (not specified)
+roles:
+  - Judge, plaintiff, defendant
+significant_statements:
+  - "The court overrules the demurrers to the causes of action alleging conspiracy to defraud and negligence because the allegations are sufficient to withstand demurrer."
+  - "The court sustains without leave to amend the cause of action for conversion because conversion applies to personal property, but a debt is intangible property not subject to conversion."
+  - "The court denies the motion to strike the request for punitive damages (because plaintiff states a cause of action for fraud) and attorney's fees (because the lease allows for their recovery.)"
+```
+
+And here is a summary of the judge's tentative ruling in English text:
+
+The judge has issued a tentative ruling in the case of Almost Nothing, Inc. v. Omid Reyhanian et al. The defendants, Omid Reyhanian, Peyman Balakhane, and Peyman Balakhaneh, had filed a demurrer and motion to strike certain claims made by the plaintiff. The judge has overruled the demurrers to the claims of conspiracy to defraud and negligence, finding that the allegations are sufficient to withstand demurrer. However, the judge has sustained the cause of action for conversion, finding that it only applies to personal property and not to intangible property like debt. The judge has also denied the motion to strike the request for punitive damages (because the plaintiff has stated a cause of action for fraud) and attorney's fees (because the lease allows for their recovery). The defendants are required to file their answer within 20 days and provide notice to the plaintiff.
