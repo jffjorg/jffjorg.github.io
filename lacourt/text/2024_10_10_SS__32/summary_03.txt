@@ -1,0 +1,64 @@
+Here is the summary in YAML format:
+
+```
+case_number: 21STCV36211
+plaintiff_name: Xochitl Alvarez Espindola
+defendant_name: Luke Mitchell Crawford
+people_names:
+  - Xochitl Alvarez Espindola
+  - Luke Mitchell Crawford
+company_names: []
+places:
+  - Los Angeles
+dates:
+  - June 6, 2024
+  - June 17, 2024
+  - July 5, 2024
+  - July 9, 2024
+  - July 17, 2024
+  - October 10, 2024
+events:
+  - Deposition notice
+  - Deposition held
+  - Motion to compel
+  - Request for sanctions
+money:
+  - $676.60
+intentions:
+  - To compel defendant to appear for deposition
+  - To impose sanctions
+facts:
+  - Defendant failed to appear for deposition
+  - Defendant did not provide alternative dates
+  - Plaintiff served amended notice of deposition
+  - Defendant's counsel did not respond to attempts to schedule deposition
+disputes:
+  - Defendant's opposition to motion to compel
+acts:
+  - Service of deposition notice
+  - Failure to appear for deposition
+  - Failure to provide alternative dates
+  - Failure to respond to attempts to schedule deposition
+agreements:
+  - None
+laws:
+  - Code Civil Procedure section 2025.450(a)
+  - Code Civil Procedure section 2025.450(b)
+  - Code Civil Procedure section 2025.270
+  - Code Civil Procedure section 1010.6(a)(3)(B)
+  - Code of Civil Procedure section 2025.410
+statutes:
+  - None
+roles:
+  - Plaintiff
+  - Defendant
+  - Judge
+significant_statements:
+  - The court grants Plaintiff's motion to compel Defendant to appear for deposition.
+  - Defendant's failure to appear for deposition and failure to provide alternative dates justifies the court's decision.
+  - Sanctions will be imposed on Defendant for failing to respond to discovery.
+```
+
+And here is a summary of the judge's tentative ruling in English text:
+
+The judge has issued a tentative ruling on a motion to compel the deposition of Defendant Luke Mitchell Crawford and request for sanctions. The court finds that the amended notice of deposition was not defective and that the Defendant failed to appear for the deposition without providing alternative dates. The court grants the motion to compel the deposition and orders the Defendant to appear for deposition within 60 days. The court also imposes sanctions on the Defendant in the amount of $676.60 for failing to respond to discovery. The Plaintiff is ordered to provide notice of this order and file proof of service.
