@@ -1,0 +1,64 @@
+Here is the summary of the tentative ruling in YAML format:
+
+```
+case_number: 20SMCV01909
+hearing_date: 2024-10-11
+dept: I
+plaintiff: 
+defendant: 
+people:
+  - DBH
+  - Taite
+  - DPM
+company:
+  - Discovery Practice Management (DPM)
+places: 
+dates:
+  - 10/8/24
+  - 12/22/24
+  - 2023-06
+  - 2024-07
+  - 2024-09-23
+  - 2018
+events:
+  - Motion filed and served
+  - Discovery served
+  - Motion to compel heard and granted
+  - Responses served
+  - Trial scheduled
+money: 
+intentions:
+  - To hear the motion for summary judgment
+  - To avoid a trial if the motion is granted
+facts:
+  - Defendant was brought into the case in June 2023
+  - Discovery was not served until July 2024
+  - Responses were not timely served
+  - Motion to compel was heard and granted
+disputes:
+  - Defendant's untimely filing of the motion
+  - Applicability of Sentry to this case
+acts:
+  - Defendant's inaction for over a year
+  - Filing of the motion on the last possible day
+  - Calendaring error by counsel
+agreements: 
+laws:
+  - California Code of Civil Procedure § 437c
+  - Sentry v. [Undisclosed]
+statutes: 
+case_citations: 
+roles:
+  - Judge
+  - Plaintiff's counsel
+  - Defendant's counsel
+significant_statements:
+  - The court is not inclined to continue the trial.
+  - The court will keep the current hearing date.
+  - Defense counsel is admonished for its conduct in this matter.
+  - The court warns the parties that they ought to assume that the motion will be denied.
+```
+
+And here is a summary of the judge's tentative ruling in English text:
+
+The judge has issued a tentative ruling on a motion for summary judgment filed by the defendant. The defendant claims that DBH has no connection to the underlying lease and therefore should not be liable. The judge notes that the motion was filed and served on October 8, 2024, which is later than the statutory minimum timeframe of 75 days. The judge finds that the defendant's delay in filing the motion is the real problem, not the court's congested calendar. Despite the untimeliness of the motion, the judge is willing to hear it because it raises a potentially important issue. The judge warns the defense counsel that its conduct in this matter leaves much to be desired and could be sanctionable. The judge grants the motion to hear the summary judgment motion less than 30 days before trial, but notes that this is not a guarantee of a favorable outcome.
