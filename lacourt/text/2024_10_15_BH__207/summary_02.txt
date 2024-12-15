@@ -1,0 +1,53 @@
+Here is the summary in YAML format:
+
+```
+case_number: 22SMCV02568
+plaintiff_name: Seth E. Darmstadter
+defendant_name: None
+people_names:
+  - Seth E. Darmstadter
+  - Adam Bold
+  - Morris Sarafian
+company_names: None
+places:
+  - California
+  - San Francisco
+dates:
+  - October 15, 2024
+  - November 12, 2024
+  - November 19, 2024
+events:
+  - Application to appear as counsel pro hac vice
+  - Hearing on the application
+money: None
+intentions:
+  - To allow Seth E. Darmstadter to appear as counsel pro hac vice
+facts:
+  - Seth E. Darmstadter filed an application to appear as counsel pro hac vice
+  - The application is unopposed
+  - The application does not demonstrate proof of service by mail to the State Bar of California
+disputes: None
+acts:
+  - Plaintiff filed an application
+  - Local counsel provided proof of payment of the application fee
+agreements: None
+laws:
+  - California Rules of Court rule 9.40
+  - Code of Civil Procedure section 1013a
+  - Code of Civil Procedure section 1005
+case_citations: None
+statutes: None
+roles:
+  - Judge: Michael E. Whitaker
+  - Counsel: Seth E. Darmstadter
+  - Local counsel: Morris Sarafian
+  - Plaintiff: Adam Bold
+significant_statements:
+  - The Court continues the hearing on the application to November 19, 2024.
+  - Counsel shall file a supplemental declaration with proof of service by November 12, 2024.
+  - The Court's ruling shall be noticed to all parties.
+```
+
+And here is a summary in English text:
+
+The tentative ruling is regarding an application by Seth E. Darmstadter to appear as counsel pro hac vice for plaintiff Adam Bold. The application is unopposed, but it lacks proof of service by mail to the State Bar of California. The Court continues the hearing to November 19, 2024, and orders counsel to file a supplemental declaration with proof of service by November 12, 2024. The Court's ruling will be noticed to all parties.
