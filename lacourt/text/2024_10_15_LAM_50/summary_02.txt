@@ -1,0 +1,56 @@
+Here is the summary in YAML format:
+
+```
+case_number: not specified
+plaintiff_name: not specified
+defendant_name: MAI
+people_names:
+  - not specified
+  - MAI (party, not a person)
+company_names:
+  - MAI
+places:
+  - not specified
+dates:
+  - March 6, 2019
+  - March 7, 2019
+  - September 2023
+  - end of 2023
+events:
+  - filing of complaint
+  - period of leave
+  - motion
+  - reply
+money:
+  - not mentioned
+intentions:
+  - MAI seeks an undetermined order (but the specific order is not stated)
+facts:
+  - complaint filed on March 7, 2019 (not March 6, 2019)
+  - period of leave took place between September 2023 to the end of 2023
+disputes:
+  - MAI's motion does not comply with California Rules of Court
+acts:
+  - MAI filed a motion and reply
+  - MAI incorrectly stated the date of complaint filing
+agreements:
+  - not mentioned
+laws:
+  - California Rules of Court, rule 3.1110, subdivision (a)
+  - California Rules of Court, rule 3.1112, subdivision (a)
+case_citations:
+  - not specified
+statutes:
+  - not mentioned
+roles:
+  - Judge
+  - MAI (party)
+  - Plaintiff (not specified)
+significant_statements:
+  - MAI's motion does not comply with California Rules of Court
+  - MAI incorrectly stated the date of complaint filing
+```
+
+And here is a summary of the judge's tentative ruling in English text:
+
+The judge notes that MAI's motion does not comply with California Rules of Court, specifically in terms of including a notice of motion and a memorandum in support of the motion. Additionally, MAI incorrectly stated the date of the complaint filing, which was actually March 7, 2019. The judge also notes that MAI acknowledged this mistake in its reply. The judge does not specify what order MAI is seeking, but notes that MAI does not dispute that the period of leave took place between September 2023 and the end of 2023.
