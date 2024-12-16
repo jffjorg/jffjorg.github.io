@@ -1,0 +1,61 @@
+Here is the summary in YAML format:
+
+```
+case_number: 24STLC01028
+plaintiff_name: Robert Hawes
+defendant_name: Budget Truck Rental, LLC
+people_names:
+  - Robert Hawes
+  - Defendant's counsel (Bergerson)
+  - Plaintiff's counsel ( Bergerman)
+company_names:
+  - Budget Truck Rental, LLC
+places: None
+dates:
+  - March 13, 2024
+  - September 6, 2024
+  - October 7, 2024
+  - October 16, 2024
+events:
+  - Service of Form Interrogatories, Set One and Special Interrogatories, Set One
+  - Meet and confer effort
+  - Filing of motions to compel and request for sanctions
+  - Opposition declarations filed
+  - Service of verified responses to discovery requests
+money: $460.00
+intentions:
+  - To compel plaintiff to serve verified responses to discovery requests
+  - To impose sanctions on plaintiff for misuse of discovery process
+facts:
+  - Plaintiff failed to serve initial responses to discovery requests
+  - Defendant served motions to compel and request for sanctions
+  - Plaintiff's counsel filed opposition declarations
+disputes:
+  - Plaintiff's failure to serve initial responses to discovery requests
+acts:
+  - Service of discovery requests
+  - Failure to serve initial responses
+  - Filing of motions to compel and request for sanctions
+  - Opposition declarations filed
+agreements: None
+laws:
+  - California Code of Civil Procedure § 2030.290
+  - California Code of Civil Procedure § 2023.010
+  - California Code of Civil Procedure § 2023.030
+case_citations: None
+statutes: None
+roles:
+  - Judge
+  - Plaintiff (Robert Hawes)
+  - Defendant (Budget Truck Rental, LLC)
+  - Plaintiff's counsel ( Bergerman)
+  - Defendant's counsel (Bergerson)
+significant_statements:
+  - Defendant's motions to compel are granted.
+  - Plaintiff is ordered to serve verified responses to discovery requests without objections.
+  - Plaintiff is ordered to pay sanctions of $460.00 to defense counsel.
+```
+
+And here is a summary of the judge's tentative ruling in English text:
+
+The judge has granted the defendant's motion to compel responses to form interrogatories and special interrogatories, as well as the request for sanctions. The plaintiff, Robert Hawes, is required to serve verified responses to the discovery requests without objections within 20 days of the order. Additionally, the plaintiff is ordered to pay sanctions of $460.00 to defense counsel. The judge found that the plaintiff's failure to serve initial responses to the discovery requests constitutes a misuse of the discovery process and warrants sanctions.

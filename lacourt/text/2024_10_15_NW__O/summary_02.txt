@@ -1,0 +1,49 @@
+Here is the summary in YAML format:
+
+```
+case_number: [insert case number]
+plaintiff_name: [insert plaintiff's name]
+defendant_name: [insert defendant's name]
+people_names:
+  - [insert relevant people names]
+company_names:
+  - [insert relevant company names]
+places:
+  - [insert relevant places]
+dates:
+  - [insert relevant dates]
+events:
+  - motion for summary judgment
+  - trial of the action
+money:
+  - [insert relevant monetary amounts or damages]
+intentions:
+  - to determine whether there are triable issues of material fact
+  - to grant summary judgment if moving party is entitled to judgment as a matter of law
+facts:
+  - papers submitted show no triable issue as to any material fact
+disputes:
+  - [insert relevant disputes or issues]
+acts:
+  - submission of papers in support of motion for summary judgment
+  - establishment of causes of action, affirmative defenses, or claims for damages
+agreements:
+  - none mentioned
+laws:
+  - California Code of Civil Procedure § 437c(c), (n)(1)
+case_citations:
+  - California Code of Civil Procedure
+statutes:
+  - Code Civ. Proc. § 437c(c), (n)(1)
+roles:
+  - Judge
+  - Moving party (presumably the defendant)
+  - Plaintiff
+significant_statements:
+  - "[t]he motion for summary judgment shall be granted if all the papers submitted show that there is no triable issue as to any material fact and that the moving party is entitled to a judgment as a matter of law"
+  - "[i]f a motion for summary adjudication is granted, at the trial of the action, the cause or causes of action within the action, affirmative defense or defenses, claim for damages, or issue or issues of duty as to the motion that has been granted shall be deemed to be established and the action shall proceed as to the cause or causes of action, affirmative defense or defenses, claim for damages, or issue or issues of duty remaining"
+```
+
+And here is a summary of the judge's tentative ruling in English text:
+
+The judge's tentative ruling addresses a motion for summary judgment brought by the defendant. The judge will grant the motion if the papers submitted show that there are no triable issues of material fact and that the defendant is entitled to a judgment as a matter of law. If the motion is granted, the causes of action, affirmative defenses, or claims for damages will be deemed established and the action will proceed as to the remaining issues. The judge is relying on California Code of Civil Procedure § 437c(c), (n)(1) in making this determination.

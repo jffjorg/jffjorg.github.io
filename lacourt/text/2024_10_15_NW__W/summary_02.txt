@@ -1,0 +1,72 @@
+Here is the summary in YAML format:
+
+```
+case_number: 24VECV02366
+plaintiff_name: Brian Whitaker
+defendant_names:
+  - Suzanne Thomas
+  - Michael Wolner
+people_names:
+  - Brian Whitaker
+  - Suzanne Thomas
+  - Michael Wolner
+  - Jin Soo Kim
+company_names:
+  - Happy Dogs
+places:
+  - 6235 Van Nuys Blvd
+  - Van Nuys, California
+dates:
+  - July 1, 2023
+  - July 1, 2024
+  - July 18, 2024
+  - October 15, 2024
+events:
+  - Plaintiff intended to visit restaurant Happy Dogs
+  - Default entered against defendants
+money:
+  - $4,000.00 (damages)
+  - $2,730.00 (attorney fees)
+  - $870.17 (costs)
+  - $7,600.17 (total)
+  - $330.00 (local rule attorney fees)
+  - $130.00 (process server fees)
+  - $634.93 (total costs)
+intentions:
+  - Plaintiff intended to avail himself of the restaurant
+  - Plaintiff sought to file a lawsuit under the Unruh Civil Rights Act and the California Disabled Persons Act
+facts:
+  - Plaintiff is a quadriplegic who uses a wheelchair
+  - Plaintiff is an ADA tester
+  - Plaintiff has filed thousands of similar lawsuits
+disputes:
+  - Unruh Civil Rights Act violations
+  - California Disabled Persons Act violations
+acts:
+  - Plaintiff intended to visit restaurant Happy Dogs
+  - Default entered against defendants
+agreements:
+  - Unruh Civil Rights Act
+  - California Disabled Persons Act
+laws:
+  - Unruh Civil Rights Act
+  - California Disabled Persons Act
+case_citations:
+  - None mentioned
+statutes:
+  - Unruh Civil Rights Act
+  - California Disabled Persons Act
+roles:
+  - Judge: granting default judgment
+  - Plaintiff: seeking relief
+  - Defendant: defaulting
+significant_statements:
+  - Plaintiff has provided sufficient evidentiary and factual support for the requested relief
+  - The court declines to increase attorney's fees beyond those provided by the local rules
+  - The court will not award investigator's charges
+  - The court only awards $130 in process server fees
+```
+
+And here is a summary of the judge's tentative ruling in English text:
+
+The court has issued a tentative ruling granting a default judgment in favor of the plaintiff, Brian Whitaker. The plaintiff, a quadriplegic and ADA tester, alleged that the defendants, Suzanne Thomas and Michael Wolner, violated the Unruh Civil Rights Act and the California Disabled Persons Act by failing to provide access to the restaurant Happy Dogs. The court found that the plaintiff provided sufficient evidence to support his claims and has granted the requested relief. However, the court has reduced the amount of attorney fees and costs awarded to the plaintiff, as some of these expenses were not supported by the record or are not regularly recoverable. The total amount of damages and costs awarded is $7,600.17. The court has scheduled a hearing for October 15, 2024, to confirm the default judgment.
