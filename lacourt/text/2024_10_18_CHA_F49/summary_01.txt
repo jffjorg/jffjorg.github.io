@@ -1,0 +1,75 @@
+Here is the summary in YAML format:
+
+```
+case_number: 22STCV04656
+plaintiff_names:
+  - Keidre Wilson
+  - Rhyot Manor
+defendant_name: Westcreek Properties, LTD
+people_names:
+  - Keidre Wilson
+  - Rhyot Manor
+  - Kamyar Amini
+company_names:
+  - Westcreek Properties, LTD
+  - Citibank
+places:
+  - Los Angeles
+dates:
+  - February 7, 2022
+  - May 5, 2022
+  - September 24, 2024
+  - October 18, 2024
+events:
+  - Petition for Approval of Minor's Compromise filed
+  - Settlement reached between Rhyot Manor and Westcreek Properties, LTD
+  - Court hearing scheduled
+money:
+  - $3,000.00 (settlement amount)
+  - $2,215.04 (medical expenses incurred)
+  - $1,821.68 (medical expenses to be paid to medical liens)
+  - $578.41 (negotiated lien reduction)
+  - $750.00 (attorney fees)
+  - $149.72 (litigation costs)
+  - $278.60 (total to be paid to minor)
+  - $918.28 (Medi-Cal lien satisfaction)
+  - $903.40 (Kamyar Amini lien satisfaction)
+intentions:
+  - Approval of compromise of claim for minor Rhyot Manor
+  - Distribution of settlement funds
+facts:
+  - Rhyot Manor suffered allergic reactions, nose bleeds, and sore throat due to mold exposure in her apartment
+  - Rhyot Manor received medical treatment from her primary physician and an allergist and ENT
+  - Rhyot Manor is completely healed of her injuries
+  - Medical expenses incurred totaled $2,215.04
+  - Medical bills (documentation) are not included
+  - Outstanding medical payments owed from proceeds are $0.00
+  - Provider liens (documentation) are not included
+  - Negotiated lien reductions totaled $578.41
+  - Declaration of fees and copy of retainer are included
+  - Litigation costs are $149.72
+disputes:
+  - None
+acts:
+  - Petitioner Keidre Wilson filed the petition
+  - Responding party (none) has not filed opposing or replying papers
+agreements:
+  - Settlement agreement between Rhyot Manor and Westcreek Properties, LTD
+laws:
+  - California Rules of Court, rule 7.955(b)
+  - Medi-Cal demand letter
+statutes:
+  - None
+roles:
+  - Petitioner: Keidre Wilson
+  - Guardian ad litem: Keidre Wilson
+  - Claimant: Rhyot Manor
+  - Defendant: Westcreek Properties, LTD
+  - Court: Los Angeles Superior Court
+significant statements:
+  - The petition is CONTINUED to address or clarify the deficiencies listed in the tentative ruling.
+```
+
+And here is a summary of the judge's tentative ruling in English text:
+
+The court has reviewed the petition for approval of compromise of claim for minor Rhyot Manor, who sustained personal injuries due to mold exposure in her apartment. The settlement amount is $3,000.00, and the court finds the amount for attorney's fees ($750.00) and litigation costs ($149.72) to be reasonable. However, the court notes several deficiencies in the petition, including the lack of a copy of the final Medi-Cal demand letter or letter agreement, a copy of the retainer agreement, and duplicated payments listed for Medi-Cal lien satisfaction. Therefore, the court has continued the petition to address or clarify these issues.
