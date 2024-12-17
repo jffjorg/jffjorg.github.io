@@ -1,0 +1,59 @@
+Here is the summary in YAML format:
+
+```yaml
+Case Number: 24AHCV00190
+Plaintiff's Name: Cynthia Ricks
+Defendant's Name: L.A. Downtown Medical Center, Inc. and Does 1 to 10
+People-Names:
+  - Cynthia Ricks
+  - Unknown (Does 1 to 10)
+Company-Names:
+  - L.A. Downtown Medical Center, Inc.
+Places:
+  - California
+  - L.A. Downtown Medical Center facility
+Dates:
+  - April 7, 2023
+  - August 2, 2024
+  - September 2, 2024
+  - September 6, 2024
+  - September 13, 2024
+  - September 23, 2024
+  - October 16, 2024
+  - October 23, 2024
+Events:
+  - Plaintiff filed a lawsuit against Defendant
+  - Defendant moved to compel Plaintiff's deposition
+  - Defendant sent Requests for Admissions, Set Two, to Plaintiff
+  - Plaintiff failed to respond to Requests for Admissions, Set Two
+  - Defendant extended the deadline for responses
+  - Plaintiff eventually served responses to Requests for Admissions, Set Two
+Money: None mentioned
+Intentions:
+  - Defendant wants to deem Requests for Admissions, Set Two, admitted
+  - Plaintiff opposes this motion
+Facts:
+  - Plaintiff slipped and fell on a foreign substance in the cafeteria while a patient at Defendant's facility
+  - Plaintiff claims Defendant breached its duty of care
+  - Defendant claims Plaintiff failed to respond to Requests for Admissions, Set Two
+Disputes:
+  - Defendant's motion to deem Requests for Admissions, Set Two, admitted
+Acts:
+  - Defendant sent Requests for Admissions, Set Two, to Plaintiff
+  - Plaintiff failed to respond to Requests for Admissions, Set Two
+  - Plaintiff eventually served responses to Requests for Admissions, Set Two
+Agreements:
+  - Defendant extended the deadline for responses to Requests for Admissions, Set Two
+Laws:
+  - California Code of Civil Procedure (CCP) sections 2033.010, 2033.250(a), 2033.280(a), 2033.280(b), 2033.280(c)
+Case Citations:
+  - California Code of Civil Procedure (CCP) sections 2033.010, 2033.250(a), 2033.280(a), 2033.280(b), 2033.280(c)
+Statutes:
+  - California Code of Civil Procedure (CCP) sections 2033.010, 2033.250(a), 2033.280(a), 2033.280(b), 2033.280(c)
+Roles:
+  - Judge: Jared D. Moses
+  - Plaintiff: Cynthia Ricks
+  - Defendant: L.A. Downtown Medical Center, Inc. and Does 1 to 10
+Significant Statements:
+  - "The court shall issue this order unless the party to whom the request was made serves a response in substantial compliance prior to the hearing on the motion." (CCP section 2033.280(c))
+  - "Because Plaintiff served responses before the hearing, Defendant's motion to deem the RFAs admitted is rendered moot."

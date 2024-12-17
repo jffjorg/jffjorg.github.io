@@ -1,0 +1,85 @@
+Here is the summary in YAML format:
+
+```
+case_number: 21STCV19018
+plaintiff_name: Cally Williams Caiozzo
+defendant_name: 2672 to 2674 North Beachwood Drive, LLC
+people_names:
+  - Cally Williams Caiozzo
+  - Caiozzo
+  - Judge Kerry Bensinger
+company_names:
+  - 2672 to 2674 North Beachwood Drive, LLC
+places:
+  - Los Angeles
+  - California
+  - North Beachwood Drive
+dates:
+  - May 20, 2021
+  - June 21, 2021
+  - July 15, 2022
+  - September 5, 2024
+  - September 9, 2024
+  - October 10, 2024
+  - October 16, 2024
+  - October 23, 2024
+  - November 4, 2024
+events:
+  - Filing of complaint
+  - Filing of cross-complaint
+  - Demurrer filed
+  - Opposition filed
+  - Reply filed
+money:
+  - None
+intentions:
+  - To determine the validity of the cross-complaint
+  - To determine the existence of a fiduciary relationship
+  - To determine the applicability of the delayed discovery rule
+facts:
+  - Cally Williams Caiozzo filed a complaint against 2672 to 2674 North Beachwood Drive, LLC
+  - The cross-complaint asserts causes of action for breach of fiduciary duty, conversion, and fraud
+  - Caiozzo demurred to the cross-complaint
+  - The court sustained the demurrer
+disputes:
+  - Existence of a fiduciary relationship
+  - Applicability of the delayed discovery rule
+  - Validity of the cross-complaint
+acts:
+  - Filing of the complaint
+  - Filing of the cross-complaint
+  - Demurrer filed
+  - Opposition filed
+  - Reply filed
+agreements:
+  - None
+laws:
+  - California Code of Civil Procedure
+  - California Civil Code
+case_citations:
+  - Hahn v. Mirda (2007)
+  - Nolte v. Cedars-Sinai Medical Center (2015)
+  - Arce ex rel. Arce v. Kaiser Found. Health Plan, Inc. (2010)
+  - Knox v. Dean (2012)
+  - Code Civ. Proc., § 343
+  - Code Civ. Proc., § 312
+  - Wilson v. S.L. Rey, Inc. (2008)
+  - Hasso v. Hapke (2014)
+  - Richelle L. v. Roman Catholic Archbishop (2003)
+  - Lee v. Hanley (2015)
+  - Regus v. Schartkoff (1957)
+statutes:
+  - California Code of Civil Procedure
+  - California Civil Code
+roles:
+  - Judge: Kerry Bensinger
+  - Plaintiff: Cally Williams Caiozzo
+  - Defendant: 2672 to 2674 North Beachwood Drive, LLC
+significant_statements:
+  - The court is not persuaded by Beachwood's allegations of a fiduciary relationship or delayed discovery
+  - The court finds that Beachwood does not state a claim for fraud
+```
+
+English-text summary:
+
+The tentative ruling by Judge Kerry Bensinger addresses the demurrer filed by Cally Williams Caiozzo, as Trustee of the Harry A. Williams Family Trust, to the Third Amended Cross-Complaint (TAXC) filed by 2672 to 2674 North Beachwood Drive, LLC. The court sustains the demurrer to the first cause of action for breach of fiduciary duty, finding that Beachwood does not present any new factual allegations to show a fiduciary duty existed or that the delayed discovery applies. The court also sustains the demurrer to the second cause of action for conversion, as Beachwood admits that no rent was collected for the 2674 Unit. The demurrer to the third cause of action for fraud is sustained, as Beachwood's allegations lack the required specificity. Leave to amend is granted as to the third cause of action only. The defendant is to serve and file the Fourth Amended Cross-Complaint within 15 days of the order.
