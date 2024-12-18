@@ -1,0 +1,85 @@
+Here is the summary in YAML format:
+
+```
+Case Number: 24STCP03341
+Hearing Date: November 12, 2024
+Dept: 86
+
+People-Names:
+  - BI Incorporated
+  - California Department of Technology
+  - Curtis A. Kin
+
+Company-Names:
+  - BI Incorporated
+  - California Department of Technology
+
+Places:
+  - California
+
+Dates:
+  - September 5, 2024
+  - October 11, 2024
+  - October 17, 2024
+  - October 28, 2024
+  - November 12, 2024
+  - November 20, 2024
+
+Events:
+  - Request for Proposal No. C5611414
+  - Review of petitioner's response to RFP
+  - Ex parte application seeking to stay release of petitioner's response to RFP
+  - Order to Show Cause re: why the court should not order non-disclosure of subject material
+  - Motion to file records under seal
+
+Money:
+  - None mentioned
+
+Intentions:
+  - To determine whether a preliminary injunction should be granted to prevent disclosure of certain information in petitioner's response to RFP
+
+Facts:
+  - Petitioner BI Incorporated submitted a response to Request for Proposal No. C5611414
+  - Respondent California Department of Technology notified petitioner that it received a California Public Records Act request for documents submitted by petitioner
+  - Petitioner sought to redact certain information in its response to RFP
+  - Respondent opposed some of petitioner's proposed redactions
+
+Disputes:
+  - Whether certain information in petitioner's response to RFP should be disclosed under the California Public Records Act
+
+Acts:
+  - Filing of ex parte application seeking to stay release of petitioner's response to RFP
+  - Filing of motion to file records under seal
+  - Issuance of temporary restraining order and order to show cause re: preliminary injunction
+
+Agreements:
+  - None mentioned
+
+Laws:
+  - California Public Records Act (Gov. Code § 7922.000 et seq.)
+  - Evidence Code § 1060
+  - Code Civ. Proc. § 3426.1(d)
+  - Rule of Court 2.550(c)
+
+Case Citations:
+  - White v. Davis (2003) 30 Cal.4th 528
+  - Marken v. Santa Monica-Malibu Unified School Dist. (2012) 202 Cal.App.4th 1250
+  - Humane Society of U.S. v. Superior Court (2013) 214 Cal.App.4th 1233
+  - NBC Subsidiary (KNBC-TV), Inc. v. Superior Court (1999) 20 Cal.4th 1178
+  - Overstock.com, Inc. v. Goldman Sachs Group, Inc. (2014) 231 Cal.App.4th 471
+
+Statutes:
+  - California Public Records Act (Gov. Code § 7922.000 et seq.)
+
+Roles:
+  - Judge: Curtis A. Kin
+  - Petitioner: BI Incorporated
+  - Respondent: California Department of Technology
+
+Significant Statements:
+  - "The question whether a preliminary injunction should be granted involves two interrelated factors: (1) the likelihood that the plaintiff will prevail on the merits, and (2) the relative balance of harms that is likely to result from the granting or denial of interim injunctive relief." (White v. Davis (2003) 30 Cal.4th 528, 554)
+  - "The party claiming the [trade secret] privilege has the burden of establishing its existence." (Bridgestone/Firestone, Inc. v. Superior Court (1992) 7 Cal.App.4th 1384, 1393)
+  - "The public has an interest, in all civil cases, in observing and assessing the performance of its public judicial system, and that interest strongly supports a general right of access in ordinary civil cases." (NBC Subsidiary (KNBC-TV), Inc. v. Superior Court (1999) 20 Cal.4th 1178, 1210)
+```
+
+Note: The YAML format is used to organize and format the information in a way that is easy to read and understand. The keys in the YAML file correspond to the categories listed above, and the values are the specific information that falls under each category.
