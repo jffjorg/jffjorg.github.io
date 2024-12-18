@@ -1,0 +1,59 @@
+Here is the summary in YAML format:
+
+```
+Case Number: [Case Number not specified]
+Plaintiff's Name: [Plaintiff's Name not specified]
+Defendant's Name: [Defendant's Name not specified]
+People-Names:
+  - Plaintiff
+  - Defense Counsel
+  - People of the State of California
+Company-Names: [None specified]
+Places: [None specified]
+Dates:
+  - November 13, 2023
+Events:
+  - Filing of opposition to motion to compel
+  - Preparation of discovery responses
+Money:
+  - Civil penalties
+Intentions:
+  - To compel inspection demands
+  - To clarify qui tam action status
+Facts:
+  - Defendant did not serve responses with the court
+  - Defendant's opposition does not indicate responses were served
+  - ICA is not a qui tam action
+Disputes:
+  - Plaintiff's contention that ICA is a qui tam action
+Acts:
+  - Filing of opposition to motion to compel
+  - Preparation of discovery responses
+  - Service of responses (alleged)
+Agreements: [None specified]
+Laws:
+  - California Business and Professions Code, § 22446.5
+  - Government Code, § 12652
+  - Labor Code, § 2699
+  - Insurance Code, § 1871.1
+  - Health and Safety Code, § 25249.12
+Case Citations:
+  - People ex rel. Allstate Ins. Co. v. Weitzman (2003) 107 Cal.App.4th 534
+  - People ex rel. Strathmann v. Acacia Rsch. Corp. (2012) 210 Cal.App.4th 487
+Statutes:
+  - False Claims Act
+  - PAGA
+  - Insurance Frauds Prevention Act
+  - Proposition 65
+Roles:
+  - Plaintiff
+  - Defense Counsel
+  - People of the State of California
+Significant Statements:
+  - "Prepared", without more, does not mean "served".
+  - An ICA plaintiff, if aggrieved, may keep all the civil penalties.
+```
+
+And here is a summary of the judge's tentative ruling in English text:
+
+The plaintiff argues that the defendant's opposition to the motion to compel discovery demands indicates that the defendant has served responses. However, the court finds that the defendant's opposition to the court does not indicate that responses were served, and that the defendant may have served two different oppositions. The court also rejects the plaintiff's contention that the ICA is a qui tam action, as qui tam actions require a private individual to share a portion of any recovered civil penalty with the government, which is not the case here. The court will not grant the requested discovery on other grounds.

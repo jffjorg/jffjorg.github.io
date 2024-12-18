@@ -1,0 +1,70 @@
+Here is a summary of the tentative ruling in YAML format:
+
+```
+case_number: 23SMCV02118
+hearing_date: November 4, 2024
+dept: 205
+court: Superior Court of California
+county: Los Angeles
+district: West District
+judicial_officer: Edward B. Moreton, Jr.
+plaintiff: Camilo Collassos Vallecilla
+defendants: Toyota Motor Sales U.S.A., Inc., et al.
+people_names:
+  - Camilo Collassos Vallecilla
+  - Thomas (author of a declaration)
+company_names:
+  - Toyota Motor Sales U.S.A., Inc.
+places:
+  - Beverly Hills
+  - California
+  - Los Angeles
+dates:
+  - October 24, 2023
+  - December 27, 2023
+  - November 4, 2024
+events:
+  - Plaintiff served his First Set of Requests for Production of Documents (RFPs)
+  - Defendant served its unverified responses to the RFPs
+  - Plaintiff's motion to compel further responses to the RFPs
+money: $2,310 (amount requested in sanctions)
+intentions:
+  - To compel Defendant to produce further documents in response to Plaintiff's RFPs
+facts:
+  - Plaintiff purchased a 2018 Lexus IS 300 (the "Subject Vehicle")
+  - The Subject Vehicle was manufactured, distributed, and warranted by Defendant
+  - Plaintiff presented the Subject Vehicle for repairs for engine and other defects, but none of the repair attempts worked
+  - Plaintiff alleges Defendant refused to repurchase or replace the Subject Vehicle as required under the Song-Beverly Act
+disputes:
+  - The dispute is about whether Defendant must produce further documents in response to Plaintiff's RFPs
+acts:
+  - Plaintiff's motion to compel further responses to the RFPs
+agreements:
+  - Defendant's unverified responses to the RFPs
+laws:
+  - California Code of Civil Procedure (CCP) § 2031.310
+  - CCP § 2016.040
+  - CCP § 2031.030
+  - Song-Beverly Act
+case_citations:
+  - Zoriall LLC v. Starr Indem. & Liab. Co. (2022) 2022 Cal. Super. LEXIS 37561
+  - Excelsior at the Americana at Brand Homeowners' Ass'n v. Van Richter (2023) 223 Cal. Super. LEXIS 21383
+  - Oregel v. American Isuzu Motors, Inc. (1995) 90 CalApp.4th 1094
+  - Johnson v. Ford Motor Company (2005) 35 Cal.4th 1191
+  - Donlen v. Ford Motor Co. (2013) 217 Cal.App.4th 138
+  - Doppes v. Bentley Motors, Inc. (2009) 174 Cal.App.4th 967
+  - Santana v. FCA US LLC (2020) 56 Cal. App.4th 334
+  - Jensen v. BMW of North America, LLC (S.D. Cal. 2019) 328 F.R.D. 557
+  - Elsworth v. Beech Aircraft Corp. (1984) 37 Cal.3d 540
+  - Moore v. American United Life Ins. Co. (1984) 150 Cal.App.3d 610
+roles:
+  - Judge: Edward B. Moreton, Jr.
+  - Plaintiff: Camilo Collassos Vallecilla
+  - Defendant: Toyota Motor Sales U.S.A., Inc., et al.
+significant_statements:
+  - The Court concludes that Plaintiff has satisfied his meet and confer requirements
+  - The Court will compel production of RFP No. 45, but denies the motion to compel as to RFP No. 46
+  - The Court declines to award any sanctions
+```
+
+Note that this summary is based on the provided text and may not capture every detail or nuance of the tentative ruling.

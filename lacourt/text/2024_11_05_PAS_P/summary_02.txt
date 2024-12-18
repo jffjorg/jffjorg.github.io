@@ -1,0 +1,74 @@
+Here is a summary of the judge's tentative ruling in YAML format:
+
+```
+case_number: 23AHCV01804
+hearing_date: November 5, 2024
+dept: P
+tentative_ruling:
+  - SUSTAINING DEFENDANTS' DEMURRER TO THE FAC
+  - GRANTING DEFENDANTS' MOTION TO STRIKE IN PART
+  - DENYING IN PART
+
+parties:
+  - plaintiff: Kim Carlton and Frederick Carlton
+  - defendant: Gladys Fung and James Tam
+
+causes_of_action:
+  - breach of contract
+  - nuisance under Civil Code § 3479
+  - intentional infliction of emotional distress
+  - breach of covenant of quiet enjoyment under Civil Code § 1972
+  - breach of implied warranty of habitability under Civil Code § 1942.4
+  - constructive eviction under Civil Code § 1946.2
+  - negligence
+
+facts:
+  - Plaintiffs alleged that Defendants failed to maintain the rental property in a safe and habitable condition, despite repeated notifications of significant issues.
+  - Plaintiffs argued that Defendants' conduct was intentional and reckless.
+  - Defendants argued that Plaintiffs failed to allege sufficient facts to support their claims.
+
+disputes:
+  - Demurrer to the second and third causes of action (nuisance and intentional infliction of emotional distress)
+  - Motion to strike paragraphs 51 and 57, and the prayer for relief under the fifth and sixth causes of action.
+
+acts:
+  - Demurrer filed by Defendants
+  - Motion to strike filed by Defendants
+  - Opposition to demurrer filed by Plaintiffs
+  - Reply filed by Defendants
+
+interventions:
+  - Meet and confer required under Code of Civil Procedure section 430.41
+  - Court finds that Defendants satisfied the meet and confer requirement
+
+intentions:
+  - Plaintiffs sought to hold Defendants liable for damages, including punitive damages
+  - Defendants sought to strike certain paragraphs and prayers for relief as unsupported by the factual allegations
+
+laws:
+  - Civil Code § 3479
+  - Civil Code § 1972
+  - Civil Code § 1942.4
+  - Civil Code § 1946.2
+  - Code of Civil Procedure § 430.41
+  - Code of Civil Procedure § 435.5
+  - Code of Civil Procedure § 436
+
+citations:
+  - Tindell v. Murphy (2018) 22 Cal.App.5th 1239
+  - Donabedian v. Mercury Ins. Co. (2004) 116 Cal.App.4th 968
+  - Hughes v. Pair (2009) 46 Cal.4th 1035
+  - Lackner v. North (2006) 135 Cal.App.4th 1188
+  - Tomaselli v. Transamerica Ins. Co. (1994) 25 Cal.App.4th 1269
+  - College Hospital Inc. v. Superior Court (1994) 8 Cal.4th 704
+  - Angie M. v. Superior Court (1995) 37 Cal.App.4th 1217
+  - Flyer's Body Shop Profit Sharing Plan v. Ticor Title Ins. Co. (1986) 185 Cal. App. 3d 1149
+
+significant_statements:
+  - The Court SUSTAINS Defendants' demurrer to the second and third causes of action, with leave to amend.
+  - The Court GRANTS Defendants' motion to strike paragraphs 51 and 57, as well as the prayer for relief under the fifth and sixth causes of action.
+  - The Court DENIES Defendants' motion to strike paragraphs 34 and 36.
+```
+
+Summary:
+The judge's tentative ruling sustains Defendants' demurrer to the second and third causes of action (nuisance and intentional infliction of emotional distress) and grants their motion to strike paragraphs 51 and 57, as well as the prayer for relief under the fifth and sixth causes of action. The judge finds that the allegations in the FAC are insufficient to support claims for punitive damages under Civil Code § 3294. The Court also denies Defendants' motion to strike paragraphs 34 and 36.
