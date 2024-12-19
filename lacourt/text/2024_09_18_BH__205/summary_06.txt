@@ -1,0 +1,64 @@
+Here is the summary in YAML format:
+
+```
+case_number: 24SMCV00933
+plaintiff: RAR2-Marina Marketplace LLC
+defendant: PHENIX SALON SUITES, et al., Joseph Hallberg
+people:
+  - Joseph Hallberg
+  - Linda Adams
+  - Michael Brown
+companies:
+  - RAR2-Marina Marketplace LLC
+  - PHENIX SALON SUITES, Marina Del Rey, LLC
+places:
+  - 13455 Maxella Avenue, Space No. 206-260
+  - Marina Del Rey
+  - Los Angeles
+  - Beverly Hills
+dates:
+  - February 29, 2024
+  - May 2, 2024
+  - May 23, 2024
+  - May 29, 2024
+  - July 5, 2024
+  - July 14, 2024
+  - July 24, 2024
+  - September 18, 2024
+events:
+  - Unlawful detainer action
+  - Motion to quash
+  - Demurrer
+  - Motion to vacate default
+money: None
+intentions:
+  - Defendant Joseph Hallberg intends to vacate default
+facts:
+  - Lease expired on April 30, 2024
+  - Plaintiff initiated an unlawful detainer action on February 29, 2024
+  - Default was entered on May 23, 2024
+  - Hallberg filed a demurrer on May 29, 2024, which was overruled on July 5, 2024
+  - Hallberg attempted to file an answer on July 14, 2024, but it was rejected because of the default
+disputes:
+  - Defendant Joseph Hallberg disputes the entry of default
+acts:
+  - Plaintiff leased the premises to Phenix Salon Suites, Marina Del Rey, LLC
+  - Phenix sublet the premises to Joseph Hallberg, Linda Adams, and Michael Brown
+  - Plaintiff initiated an unlawful detainer action against Phenix and all occupants
+agreements:
+  - Written commercial lease agreement (Lease)
+laws:
+  - None cited
+case_citations: None
+statutes: None
+roles:
+  - Judge: Edward B. Moreton, Jr.
+significant_statements:
+  - "The lease naturally expired on April 30, 2024, so setting aside the judgment would make no difference."
+  - "When a tenant's lease expires and the tenant presents no basis for claiming a right to possession after the date the lease expired, there is no longer a live controversy between the parties as to the right of current possession."
+  - "If there is no live controversy between the parties, then the motion is moot."
+```
+
+And here is a summary in English text:
+
+This is a tentative ruling on a motion to vacate default filed by Defendant Joseph Hallberg in an unlawful detainer action. The Plaintiff, RAR2-Marina Marketplace LLC, leased the premises to Phenix Salon Suites, Marina Del Rey, LLC, which then sublet the space to Hallberg and others. The Plaintiff initiated an unlawful detainer action against Phenix and all occupants, including Hallberg, on February 29, 2024. Hallberg filed a motion to quash, which was denied as untimely, and then filed a demurrer, which was overruled on July 5, 2024. Hallberg then attempted to file an answer, but it was rejected because of the default. Hallberg argues that the default is void because it was entered while his time to file a responsive pleading had not yet passed. However, the Court finds that the lease expired on April 30, 2024, and there is no live controversy between the parties as to the right of current possession. Therefore, the Court denies the motion to vacate default as moot.
