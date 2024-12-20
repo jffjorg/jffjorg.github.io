@@ -1,0 +1,72 @@
+Here is the summary in YAML format:
+
+```
+case_number: 23AHCV00593
+plaintiff_names:
+  - Jose Iniestra
+  - Silvia Garcia
+defendant_name: unknown (not specified)
+people_names:
+  - Jose Iniestra
+  - Silvia Garcia
+  - Sargsyan (likely a witness or expert)
+company_names: unknown (not specified)
+places: unknown (not specified)
+dates:
+  - January 2024
+  - February 20, 2024
+  - March 7, 2024
+  - March 27, 2024
+  - September 19, 2024
+events:
+  - Motor vehicle personal injury claim
+  - Defendant's motion for terminating sanctions
+  - Case Management Conference
+  - Discovery requests
+  - Failure to comply with discovery requests
+  - Order compelling compliance with discovery requests
+  - Failure to pay monetary sanctions
+money:
+  - $993.20 (amount of monetary sanctions)
+  - unknown (amount of additional monetary sanctions)
+intentions:
+  - Defendant's intention to impose terminating sanctions
+  - Court's intention to dismiss the action
+facts:
+  - Plaintiffs failed to respond to discovery requests
+  - Plaintiffs failed to pay monetary sanctions
+  - Defendant filed motions to compel Plaintiffs' responses to interrogatories, requests for admission, and requests for production of documents
+  - Court ordered Plaintiffs to provide responses and pay sanctions
+disputes:
+  - Dispute over Plaintiffs' failure to comply with discovery requests
+acts:
+  - Defendant filed and served motions to compel Plaintiffs' responses to discovery requests
+  - Court ordered Plaintiffs to provide responses and pay sanctions
+  - Plaintiffs failed to comply with the court's order
+agreements:
+  - unknown (no agreements mentioned in the document)
+laws:
+  - Code of Civil Procedure section 2023.030, subdivision (d)(3)
+  - Ruvalcaba v. Government Employees Ins. Co. (1990)
+  - Todd v. Thrifty Corp. (1995)
+  - Deyo v. Kilbourne (1978)
+case_citations:
+  - Code Civ. Proc., § 2023.030, subd. (a)-(d)
+  - Ruvalcaba v. Government Employees Ins. Co. (1990) 222 Cal.App.3d 1579, 1581
+  - Todd v. Thrifty Corp. (1995) 34 Cal.App.4th 986
+  - Deyo v. Kilbourne (1978) 84 Cal.App.3d 771, 793
+statutes:
+  - Code of Civil Procedure section 2023.030, subdivision (d)(3)
+roles:
+  - Judge (issuing the tentative ruling)
+  - Plaintiffs (Jose Iniestra and Silvia Garcia)
+  - Defendant (unnamed)
+significant_statements:
+  - The Court orders this action dismissed pursuant to Code of Civil Procedure section 2023.030, subdivision (d)(3).
+  - The imposition of terminating sanctions is a drastic consequence, one that should not lightly be imposed, or requested.
+  - A terminating sanction is appropriate to the dereliction and does not exceed that which is required to protect the interests of the party entitled to but denied discovery.
+```
+
+As for the summary, here is a brief summary of the judge's tentative ruling:
+
+The judge grants the defendant's motion for terminating sanctions and dismisses the plaintiffs' action without prejudice. The plaintiffs failed to comply with discovery requests, including failing to respond to interrogatories, requests for admission, and requests for production of documents. The court previously ordered the plaintiffs to provide responses and pay monetary sanctions, but they did not comply. The judge finds that the plaintiffs' conduct was a misuse of the discovery process and that a terminating sanction is appropriate to protect the interests of the party entitled to but denied discovery.
