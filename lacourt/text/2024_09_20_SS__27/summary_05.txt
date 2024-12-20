@@ -1,0 +1,60 @@
+Here is the summary in YAML format:
+
+```
+case_number: 22STCV28713
+plaintiff_names:
+  - LUIS ANTONIO GUDINO
+  - et al.
+defendant_names:
+  - EDNA MORALES
+  - et al.
+people_names:
+  - Barry Plotkin, Esq.
+company_names: []
+places: []
+dates:
+  - September 2, 2022
+  - October 10, 2022
+  - October 28, 2022
+  - November 28, 2024
+  - December 18, 2024
+  - December ___, 2024 (TBD)
+events:
+  - Filing of complaint
+  - Filing of answer
+  - Trial setting
+  - Motion to continue trial
+money: []
+intentions:
+  - Continue the trial for 60 days to allow for mediation
+facts:
+  - Parties have a scheduled mediation on November 28, 2024
+  - All parties stipulate to the continuance of the trial
+disputes: []
+acts:
+  - Filing of complaint and answer
+  - Motion to continue trial
+  - Granting of motion
+agreements:
+  - Parties' stipulation to continuance
+  - New trial date set for December 18, 2024
+laws:
+  - CCP section 2024.050
+  - (no other laws mentioned)
+case_citations: []
+statutes:
+  - CCP section 2024.050
+roles:
+  - Judge: Hon. Lee S. Arian
+  - Moving Party: Defendants
+  - Responding Party: Unopposed
+  - Counsel: Barry Plotkin, Esq.
+significant_statements:
+  - The court grants the continuance so the parties' mediation can take place
+  - The court does not find good cause to reopen discovery
+  - The new trial date is set for December 18, 2024
+```
+
+And here is a summary of the judge's tentative ruling in English text:
+
+The defendants, who are unopposed, have moved to continue the trial for 60 days to allow for a scheduled mediation on November 28, 2024. The parties have stipulated to the continuance, and the court grants the motion. The trial date is continued to December 18, 2024, and the final status conference is continued to December ___, 2024. The court does not find good cause to reopen discovery.
