@@ -1,0 +1,82 @@
+Here is the summary in YAML format:
+
+```
+case_number: 22CHLC23808
+plaintiff_name: Kinecta Federal Credit Union
+defendant_name: Rachael Hooker-Saran and The Estate of Gurdip Saran
+people_names:
+  - Matthew Marquez
+  - Karel Rocha
+  - Gurdip Saran
+  - Rachael Hooker-Saran
+company_names:
+  - Kinecta Federal Credit Union
+places:
+  - Los Angeles
+  - North Valley
+dates:
+  - 6/24/21
+  - 7/8/22
+  - 10/28/22
+  - 1/5/23
+  - 2/10/23
+  - 7/20/23
+  - 4/9/24
+  - 4/22/24
+  - 4/30/24
+  - 9/24/24
+events:
+  - Loan agreement executed
+  - Default on loan agreement
+  - Original complaint filed
+  - First amended complaint filed
+  - Answer filed
+  - Defendant dismissed
+  - Motion for summary judgment granted
+  - Judgment entered
+  - Motion for attorney fees filed
+money:
+  - $9,727.00 (attorney fees)
+  - $20,000.00 (loan amount)
+  - $411.58 (monthly installment payments)
+  - $411.18 (final payment)
+intentions:
+  - Recovery of attorney fees as prevailing party
+facts:
+  - Plaintiff alleges breach of unsecured written agreement and common count
+  - Defendant defaulted on loan agreement
+  - Plaintiff filed original complaint and first amended complaint
+  - Defendant filed answer and was dismissed
+  - Plaintiff was granted summary judgment and judgment was entered
+disputes:
+  - None (unopposed motion)
+acts:
+  - Execution of loan agreement
+  - Default on loan agreement
+  - Filing of complaints and answer
+  - Dismissal of defendant
+  - Grant of summary judgment and entry of judgment
+agreements:
+  - Loan agreement
+  - Contract between parties
+laws:
+  - California Code of Civil Procedure section 1717
+  - California Rules of Court, Rule 3.1308(a)(1)
+case_citations:
+  - Karton v. Ari Design & Construction, Inc. (2021) 61 Cal.App.5th 734, 744
+  - PLCM Group, Inc. v. Drexler (2000) 22 Cal.4th 1084, 1095–1096
+statutes:
+  - California Code of Civil Procedure section 1717
+roles:
+  - Plaintiff (Kinecta Federal Credit Union)
+  - Defendant (Rachael Hooker-Saran and The Estate of Gurdip Saran)
+  - Moving party (Plaintiff)
+  - Responding party (None)
+  - Judge (F-51 Dept. F-51)
+significant_statements:
+  - "In any action on a contract, where the contract specifically provides that attorney's fees and costs, which are incurred to enforce that contract, shall be awarded either to one of the parties or to the prevailing party, then the party who is determined to be the party prevailing on the contract, whether he or she is the party specified in the contract or not, shall be entitled to reasonable attorney's fees in addition to other costs." (Civ. Code § 1717, subd. (a))
+```
+
+And here is a summary of the judge's tentative ruling in English text:
+
+The judge has issued a tentative ruling in a motion for attorney fees filed by Kinecta Federal Credit Union, the plaintiff in a collections action. The plaintiff is seeking to recover $9,727.00 in attorney fees as the prevailing party in the action. The court finds that the plaintiff is entitled to reasonable attorney fees as the prevailing party, as provided in the contract between the parties. The court uses the lodestar method to calculate the reasonable fee award, which is based on the number of hours reasonably expended by the plaintiff's attorneys multiplied by the reasonable hourly rate. The court notes that the defendant has failed to file any opposition to the motion, and therefore does not challenge the reasonableness of the plaintiff's attorney fees incurred. The court grants the plaintiff's motion and awards $9,727.00 in reasonable attorney fees.
