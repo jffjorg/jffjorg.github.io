@@ -1,0 +1,55 @@
+Here is the summary in YAML format:
+
+```
+Case Number: unknown
+Plaintiff's Name: Brown
+Defendant's Name: unknown
+People-Names:
+  - Brown
+  - Barnes
+Company-Names: unknown
+Places: unknown
+Dates:
+  - unknown
+Events:
+  - filing of the action
+  - submission of declaration and time entries
+  - calculation of lodestar amount
+  - settlement of $193,750
+Money:
+  - $600,000 (fee agreement threshold)
+  - $193,750 (settlement amount)
+  - $63,937.50 (calculated amount due to counsel)
+  - $51,009.70 (requested amount due to counsel)
+Intentions:
+  - to award counsel a certain amount based on fee agreement
+  - to calculate lodestar amount based on hours expended
+Facts:
+  - 11 hours incurred by Brown
+  - 288.3 hours incurred by counsel Barnes
+  - 304 hours, 21 minutes incurred by legal staff (according to time entries)
+  - additional 40.60 hours incurred by counsel in this action (according to second timesheet entry)
+Disputes:
+  - over amount due to counsel
+Acts:
+  - filing of declaration and time entries
+  - calculation of lodestar amount
+  - award of settlement amount
+Agreements:
+  - fee agreement between counsel and Brown
+Laws: unknown
+Case Citations: unknown
+Statutes: unknown
+Roles:
+  - Judge
+  - Brown (Plaintiff)
+  - Barnes (counsel for Plaintiff)
+Significant Statements:
+  - "33% of the first $600,000 recovered"
+  - "approximately $63,937.50"
+  - "awarded that amount" ($51,009.70)
+```
+
+And here is a summary of the judge's tentative ruling in English text:
+
+The judge notes that Brown has declared that he and his counsel incurred a total of 11 hours and 288.3 hours, respectively, in connection with bringing this action. However, the time entries submitted by the legal staff show a total of 304 hours, 21 minutes, and an additional 40.60 hours incurred by counsel. Despite this discrepancy, the court has used the 299 hours argued by the parties to calculate the lodestar amount. The judge also notes that the fee agreement between counsel and Brown awards 33% of the first $600,000 recovered, which would amount to approximately $63,937.50. However, the parties have requested only $51,009.70, and the court has therefore awarded that amount.
