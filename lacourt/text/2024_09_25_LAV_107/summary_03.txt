@@ -1,0 +1,73 @@
+Here is the summary in YAML format:
+
+```
+Case Number: 23VECV03021
+Plaintiff's Name: Kasower Properties, LLC
+Defendant's Name: Boris Dobrin, et al., The Testing Company, LLC
+People-Names:
+  - Boris Dobrin
+  - Isiah Z.
+Company-Names:
+  - Kasower Properties, LLC
+  - The Testing Company, LLC
+  - BusinessRocket, Inc.
+  - Registered Agents Inc.
+Places:
+  - California
+  - Wyoming
+  - Los Angeles
+  - Northwest District
+Dates:
+  - November 11, 2022
+  - July 10, 2023
+  - May 17, 2024
+  - May 29, 2024
+  - June 24, 2024
+  - July 8, 2024
+  - July 12, 2024
+  - September 25, 2024
+Events:
+  - Commercial lease agreement
+  - Guaranty of Lease agreement
+  - Default on lease
+  - Filing of complaint
+  - Filing of first amended complaint
+  - Service of summons
+  - Motion to quash service of summons
+Money:
+  - None mentioned
+Intentions:
+  - Plaintiff seeks to enforce commercial lease agreement
+  - Defendant seeks to quash service of summons
+Facts:
+  - Defendant The Testing Company, LLC is a Wyoming limited liability company
+  - Defendant is registered in California as "The Testing Co LLC"
+  - Plaintiff served Defendant using its California registered agent for service of process
+Disputes:
+  - Whether service of summons was properly effectuated
+  - Whether the Court has personal jurisdiction over Defendant
+Acts:
+  - Plaintiff entered into commercial lease agreement with Defendant
+  - Defendant defaulted on lease
+  - Plaintiff filed complaint and first amended complaint
+  - Defendant filed motion to quash service of summons
+Agreements:
+  - Commercial lease agreement
+  - Guaranty of Lease agreement
+Laws:
+  - Code of Civil Procedure, section 415.10(a)
+  - Code of Civil Procedure, section 418.10, subdivision (a)(1)
+  - Evidence Code, section 452(c), (g), (h)
+  - Evidence Code, section 647
+  - Business and Professions Code (process server registration)
+Statutes:
+  - None mentioned
+Roles:
+  - Judge: Hon. Eric Harmon
+  - Plaintiff: Kasower Properties, LLC
+  - Defendant: Boris Dobrin, et al., The Testing Company, LLC
+Significant Statements:
+  - "A summons may be served on a corporation by delivering a copy of the summons and the complaint . . . [t]o the person designated as agent for service of process[.]" (Code Civ. Proc., § 415.10(a))
+  - "Actual notice of the action alone . . . is not a substitute for proper service and is not sufficient to confer jurisdiction." (American Express Centurion Bank v. Zara, supra, 199 Cal.App.4th at p. 392)
+  - "The Court grants Defendant the Testing Company LLC’s requests for judicial notice Nos. 1-5." (Evid. Code, § 452(c), (g), (h))
+  - "Defendant’s motion to quash is denied."
