@@ -1,0 +1,78 @@
+Here is the summary in YAML format:
+
+```
+case_number: 24STCV02932
+plaintiff_name: Sanjay Kalra
+defendant_name: Apro, LLC, CF United LLC, Joseph Juliano
+people_names:
+  - Sanjay Kalra
+  - Garren Hines
+  - Sahil Kalra
+  - Judy Chu
+  - Willie Green
+  - Ian Raynor
+  - Mr. Green
+company_names:
+  - Apro, LLC
+  - CF United LLC
+  - TalentReef
+places:
+  - San Diego
+  - Unified Pacific
+dates:
+  - February 5, 2024
+  - January 16, 2019
+  - January 3, 2019
+  - September 3, 2024
+  - September 9, 2024
+events:
+  - Onboarding process
+  - Electronic signature
+  - Job interview
+money: None mentioned
+intentions:
+  - To compel arbitration
+  - To deny arbitration
+facts:
+  - Plaintiff filed a complaint against defendants
+  - Plaintiff alleges 12 causes of action
+  - Plaintiff disputes electronic signature
+  - Plaintiff says he did not use a computer to access onboarding documents
+disputes:
+  - Existence of electronic signature
+  - Attribution of electronic signature
+  - Plaintiff's knowledge of arbitration agreement
+acts:
+  - Electronic signature
+  - Onboarding process
+  - Job interview
+agreements:
+  - Arbitration agreement
+  - Onboarding documents
+laws:
+  - California Code of Civil Procedure section 1281.2
+  - California Government Code sections 12940(a), 12940(j), 12940(m)(2)
+  - Labor Code sections 226.7, 512, 8 CCR § 11040
+  - Labor Code sections 510, 1194, 8 CCR § 11040
+  - Business and Professions Code section 17200, et seq.
+  - Civil Code section 1633.9
+case_citations:
+  - Acquire II, Ltd. v. Colton Real Estate Group (2013) 213 Cal.App.4th 959
+  - AT&T Mobility LLC v. Concepcion (2011) 563 U.S. 333
+  - Engalla v. Permanente Medical Group, Inc. (1997) 15 Cal.4th 951
+  - Espejo v. Southern California Permanente Medical Group (2016) 246 Cal.App.4th 1047
+  - Pinnacle Museum Tower Assn. v. Pinnacle Market Development (US), LLC (2012) 55 Cal.4th 223
+roles:
+  - Judge
+  - Plaintiff
+  - Defendants
+significant_statements:
+  - The judge denies the defendants' motion to compel arbitration without prejudice.
+  - The plaintiff disputes the electronic signature and says he did not use a computer to access onboarding documents.
+  - The defendants failed to show that the electronic signature is attributable only to the plaintiff.
+  - The plaintiff did not have knowledge of the arbitration agreement, and therefore, did not impliedly consent to it.
+```
+
+Here is a summary of the judge's tentative ruling in English text:
+
+The judge has denied the defendants' motion to compel arbitration without prejudice. The plaintiff, Sanjay Kalra, disputes the electronic signature and claims that he did not use a computer to access the onboarding documents. The defendants failed to show that the electronic signature is attributable only to the plaintiff, and the plaintiff did not have knowledge of the arbitration agreement. Therefore, the plaintiff did not impliedly consent to the agreement. The judge found that the defendants did not meet their burden of showing that the plaintiff electronically signed the arbitration agreement, and therefore, the motion to compel arbitration is denied.
