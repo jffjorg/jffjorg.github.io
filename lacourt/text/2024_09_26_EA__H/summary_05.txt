@@ -1,0 +1,41 @@
+Here is the tentative ruling in YAML format:
+
+```
+Case Number: Not specified
+Plaintiff's Name: Not specified
+Defendant's Name: Panzarello, Elliott
+People-Names:
+  - Panzarello
+  - Elliott
+Company-Names: None
+Places: None
+Dates:
+  - Same date (not specified)
+  - To date
+Events:
+  - Plaintiff served Panzarello with discovery requests
+  - Plaintiff served Elliott with discovery requests
+  - Panzarello and Elliott failed to respond to discovery requests
+Money: None
+Intentions: Plaintiff intends to proceed with discovery
+Facts:
+  - Plaintiff served Panzarello and Elliott with discovery requests
+  - Panzarello and Elliott failed to respond to discovery requests
+Disputes: None
+Acts:
+  - Plaintiff served discovery requests
+  - Panzarello and Elliott failed to respond
+Agreements: None
+Laws: None
+Case Citations: None
+Statutes: None
+Roles: Judge, Plaintiff, Panzarello, Elliott
+Significant Statements:
+  - Plaintiff served multiple discovery requests
+  - Panzarello and Elliott failed to respond
+  - Plaintiff intends to proceed with discovery
+```
+
+And here is a summary of the tentative ruling in English text:
+
+The court has reviewed the discovery requests served by the plaintiff on Panzarello and Elliott, and has determined that both defendants have failed to respond to these requests. The plaintiff served multiple discovery requests, including Form Interrogatories, Special Interrogatories, and Requests for Production of Documents, on the same date. Despite this, both Panzarello and Elliott have not provided any responses to these requests. The court intends to proceed with discovery and will likely take further action if the defendants do not comply with their discovery obligations.
