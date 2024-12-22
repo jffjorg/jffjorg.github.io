@@ -1,0 +1,55 @@
+Here is the summary in YAML format:
+
+```
+Case Number: unknown
+Plaintiff's Name: unknown
+Defendant's Name: unknown
+People-Names:
+  - Richard Pearl
+  - Counsel Nourmand
+  - Counsel De Sario
+Company-Names: none
+Places:
+  - Los Angeles
+  - San Francisco
+  - San Diego
+Dates:
+  - 2011
+  - 2001
+Events:
+  - Court Hearing
+  - Use of Lodestar method
+  - Calculation of attorney fees
+Money:
+  - $750 (hourly fee for Counsel Nourmand)
+  - $500 (hourly fee for Counsel De Sario)
+Intentions:
+  - To determine the reasonableness of attorney fees
+  - To apply the Lodestar method
+Facts:
+  - Plaintiff cited cases [1] and [2]
+  - Richard Pearl's declaration is from 2011 and not relevant
+  - Attorney fees are based on those in the same community
+Disputes:
+  - Reasonableness of attorney fees
+  - Applicability of Lodestar method
+Acts:
+  - Use of Lodestar method (if applied)
+Agreements: none
+Laws:
+  - California law
+  - Ketchum v. Moses (2001)
+Statutes: none
+Roles:
+  - Judge
+  - Plaintiff's Counsel
+  - Counsel Nourmand
+  - Counsel De Sario
+Significant Statements:
+  - "It is well established that attorney fees are based upon those in the same community."
+  - "Plaintiff's Counsel has not met its burden to show how Counsel Nourmand's hourly fee of $750 and Counsel De Sario's hourly fee $500 are reasonable."
+```
+
+And here is a text summary of the judge's tentative ruling:
+
+The judge is considering a court hearing where the plaintiff's attorney fees will be determined. The plaintiff has cited certain cases, but the judge finds that one of the cases cited, a declaration from Richard Pearl, is irrelevant because it is from a different case and based on fees in San Francisco and San Diego, not Los Angeles. The judge notes that attorney fees are based on those in the same community. As a result, the judge concludes that the plaintiff's counsel has not met its burden to show that the hourly fees charged by Counsel Nourmand ($750) and Counsel De Sario ($500) are reasonable.
