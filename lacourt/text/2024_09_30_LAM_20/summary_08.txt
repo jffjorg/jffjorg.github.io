@@ -1,0 +1,58 @@
+Here is the summary of the tentative ruling in YAML format:
+
+```
+case_number: 2024-XXXX
+plaintiff_name: 
+defendant_name: Shah Mukesh Chhotalal
+people_names:
+  - Shah Mukesh Chhotalal
+  - defense counsel
+  - plaintiff
+company_names: 
+places: 
+dates:
+  - February 26, 2024
+  - June 26, 2024
+  - (Cal. Code Civ. Proc. § 473(b))
+events:
+  - default entered
+  - default judgment entered
+  - motion to set aside default/default judgment
+  - attorney affidavit of fault provided
+  - compensatory legal fees and costs awarded
+money:
+  - $1,000
+intentions:
+  - to set aside default/default judgment
+  - to award compensatory legal fees and costs
+facts:
+  - default was entered for Defendant Shah Mukesh Chhotalal
+  - default judgment was entered against Defendant
+  - defense counsel's calendaring error caused failure to file timely answer
+  - plaintiff argues counsel's mistake was not excusable or intentional
+disputes:
+  - whether defense counsel's mistake was excusable or intentional
+acts:
+  - filing of motion to set aside default/default judgment
+  - submission of attorney affidavit of fault
+  - award of compensatory legal fees and costs
+agreements:
+  - Mandatory provision of Code Civ. Proc. § 473(b)
+laws:
+  - Cal. Code Civ. Proc. § 473(b)-(c)
+  - Martin Potts & Assocs., Inc. v. Corsair, LLC (2016) 244 Cal. App. 4th 432, 443
+statutes:
+  - Cal. Code Civ. Proc. § 473(b)-(c)
+roles:
+  - Judge
+  - defense counsel
+  - plaintiff
+significant_statements:
+  - "an attorney affidavit of fault under the mandatory relief provisions of section 473, subdivision (b) need not include an explanation of the reasons for the attorney's mistake, inadvertence, surprise, or neglect"
+  - "it does not matter whether [counsel's] neglect was excusable or inexcusable"
+  - "the Court awards Plaintiff $1,000 in compensation and/or sanctions"
+```
+
+And here is the English-text summary:
+
+The Judge has issued a tentative ruling on Defendant Shah Mukesh Chhotalal's motion to set aside the default/default judgment entered against him. The default was entered on February 26, 2024, and the default judgment was entered on June 26, 2024. The Defendant argues that his attorney's calendaring error caused the failure to file a timely answer, and that the affidavit of fault provided by his attorney is sufficient to meet the requirements of Code Civ. Proc. § 473(b). The Judge agrees and grants the motion, awarding the Plaintiff $1,000 in compensatory legal fees and costs. The Judge also notes that the Plaintiff's arguments that the attorney's mistake was not excusable or intentional are not sufficient to overcome the mandatory relief provisions of the Code.
