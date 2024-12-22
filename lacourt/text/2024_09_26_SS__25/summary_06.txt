@@ -1,0 +1,59 @@
+Here is the summary in YAML format:
+
+```
+case_number: 24STLC02343
+plaintiff_name: Ian Wallach
+defendant_name: Andrew John Marton
+people_names:
+  - Ian Wallach
+  - Andrew John Marton
+company_names:
+  - Child & Marton, LLP
+places:
+  - St. Louis
+dates:
+  - 03/29/2024
+  - 09/12/2025
+  - 09/19/2025
+  - 09/26/2024
+  - 09/29/2025
+  - 07/29/2024
+events:
+  - Hearing on Motion for Leave to File an Amended Complaint
+  - Filing of Motion for Leave to File an Amended Complaint
+  - Filing of First Amended Complaint
+money:
+  - None mentioned
+intentions:
+  - Plaintiff seeks to file an amended complaint
+facts:
+  - Plaintiff filed a motion to file an amended complaint
+  - Defendants requested a response period
+disputes:
+  - None mentioned
+acts:
+  - Plaintiff filed a motion
+  - Plaintiff proposed an amended complaint
+  - Defendants requested a response period
+agreements:
+  - Plaintiff is allowed to file an amended complaint
+  - Plaintiff must file the amended complaint within 5 days
+  - Defendants have 10 days to respond to the amended complaint
+laws:
+  - CCP (California Civil Procedure) §§ 473, 576
+case_citations:
+  - None mentioned
+statutes:
+  - CCP (California Civil Procedure) §§ 473, 576
+roles:
+  - Judge: Mkrtchyan
+  - Plaintiff: Ian Wallach
+  - Defendant: Andrew John Marton
+  - Defendant's counsel: Child & Marton, LLP
+significant_statements:
+  - The Motion for Leave to File an Amended Complaint is GRANTED.
+```
+
+And here is a summary of the judge's tentative ruling in English text:
+
+The judge has issued a tentative ruling on a motion filed by plaintiff Ian Wallach to file an amended complaint. The judge has granted the motion, allowing the plaintiff to file the amended complaint within five days of the order. The proposed amended complaint filed on July 29, 2024, will not be deemed filed. The defendants have ten days from the date the first amended complaint is filed to file and serve their response.
