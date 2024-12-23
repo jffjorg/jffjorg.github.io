@@ -1,0 +1,57 @@
+Here is the summary of the tentative ruling in YAML format:
+
+```
+case_number: 24STLC03828
+hearing_date: October 1, 2024
+dept: 26
+people:
+  - Zhiwei Chen (Plaintiff)
+  - IDD (Int'l) Investment, Inc. (Defendant)
+company_names:
+  - IDD (Int'l) Investment, Inc.
+places:
+  - Spring Street Courthouse
+dates:
+  - May 29, 2024
+  - July 8, 2024
+  - December 10, 2024
+  - January 7, 2025
+events:
+  - Plaintiff filed the instant Motion for Order Authorizing Service on Secretary of State
+  - Plaintiff seeks to serve Defendant through the Secretary of State
+money: none
+intentions:
+  - Plaintiff intends to serve Defendant through the Secretary of State
+facts:
+  - Plaintiff filed the action for property damage, fraud, and money laundering
+  - Defendant is a corporation, not a limited liability company
+  - Plaintiff must move for the requested relief pursuant to provisions of law that apply to corporations
+disputes:
+  - Plaintiff's motion for order authorizing service on Secretary of State
+  - Correct authority for service on Defendant
+acts:
+  - Plaintiff filed the instant motion
+  - Defendant has not filed an opposition
+agreements:
+  - Corporations Code section 17701.16
+  - Code of Civil Procedure
+laws:
+  - Corporations Code section 17701.16
+  - Code of Civil Procedure
+case_citations:
+  - Corporations Code, § 17701.16, subd. (c)
+  - Code of Civil Procedure, § 415.10, § 415.20, § 415.30
+statutes:
+  - Corporations Code section 17701.16
+  - Code of Civil Procedure sections 415.10, 415.20, 415.30
+roles:
+  - Plaintiff: Zhiwei Chen
+  - Defendant: IDD (Int'l) Investment, Inc.
+significant_statements:
+  - Plaintiff's motion is continued to January 7, 2025
+  - Plaintiff must file a supplemental brief addressing the correct authority by December 10, 2024
+```
+
+And here is a summary of the tentative ruling in English text:
+
+The judge has tentatively ruled that the plaintiff's motion for an order authorizing service on the Secretary of State is continued to January 7, 2025, at 10:00 am in Department 26 of the Spring Street Courthouse. The plaintiff must file a supplemental brief addressing the correct authority by December 10, 2024. Failure to do so may result in the motion being denied. The judge notes that the statute cited by the plaintiff, Corporations Code section 17701.16, applies to limited liability companies, but the defendant is a corporation and not subject to that statute. Therefore, the plaintiff must move for the requested relief pursuant to provisions of law that apply to corporations.
