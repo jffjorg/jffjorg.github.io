@@ -1,0 +1,76 @@
+Here is the summary in YAML format:
+
+```
+case_number: 23TRCV03316
+plaintiff_name: American Express National Bank
+defendant_name: Dominic Kennedy
+people_names:
+  - Dominic Kennedy
+  - Scott Dyle
+company_names:
+  - American Express National Bank
+places:
+  - Los Angeles
+  - Torrance
+dates:
+  - October 10, 2023
+  - March 7, 2024
+  - February 23, 2024
+  - March 29, 2024
+  - June 25, 2024
+  - October 1, 2024
+events:
+  - Filing of complaint
+  - Stipulation and dismissal of case
+  - Failure to make payments
+  - Notice of default
+money:
+  - $65,958.90
+  - $65,395.90
+  - $563
+  - $70,400
+  - $5005.10
+intentions:
+  - To vacate the conditional dismissal and enter judgment
+  - To enforce the settlement agreement
+facts:
+  - The parties stipulated and the case was dismissed
+  - The defendant failed to make payments consistent with the agreement
+  - The defendant has not cured the default
+disputes:
+  - Dispute over the settlement agreement
+  - Dispute over the amount of judgment
+acts:
+  - The case was dismissed
+  - The parties entered into a stipulation
+  - The defendant failed to make payments
+  - A notice of default was sent
+agreements:
+  - Settlement agreement
+  - Stipulation
+laws:
+  - CCP §664.6
+  - CCP §664.6 was enacted to provide a summary procedure for specifically enforcing a settlement contract
+  - Chan v. Lund (2010)
+  - Weddington Productions, Inc. v. Flick (1998)
+  - Fiore v. Alvord (1985)
+case_citations:
+  - CCP §664.6
+  - Chan v. Lund (2010)
+  - Weddington Productions, Inc. v. Flick (1998)
+  - Fiore v. Alvord (1985)
+statutes:
+  - CCP §664.6
+roles:
+  - Plaintiff: American Express National Bank
+  - Defendant: Dominic Kennedy
+  - Judge: [Name]
+significant_statements:
+  - The motion is GRANTED.
+  - The dismissal entered on March 7, 2024 is set aside and vacated.
+  - Judgment is entered in the amount of $65,958.90 in favor of plaintiff and against defendant.
+```
+
+And here is a summary of the judge's tentative ruling in English text:
+
+The plaintiff, American Express National Bank, filed a motion to vacate the conditional dismissal and enter judgment against the defendant, Dominic Kennedy, in the amount of $65,958.90. The case was previously dismissed on March 7, 2024, with the court retaining jurisdiction under CCP §664.6. The plaintiff asserts that the defendant failed to make payments consistent with a stipulation entered into on February 23, 2024, and that the defendant has not made a payment since March 29, 2024. The court granted the motion, setting aside and vacating the dismissal and entering judgment in favor of the plaintiff and against the defendant.
