@@ -1,0 +1,68 @@
+Here is the summary in YAML format:
+
+```
+case_number: [Unknown]
+plaintiff_name: Plaintiff
+defendant_name: Moving Party
+people_names:
+  - Plaintiff
+  - Moving Party
+  - WeWork
+  - Gupta
+company_names:
+  - WeWork
+  - LoginRadius USA, Inc.
+places:
+  - California
+  - United States
+dates:
+  - [Unknown]
+events:
+  - Plaintiff's immigration to the United States
+  - Plaintiff's marriage
+  - Moving Party's contracting with WeWork
+  - Plaintiff's relocation to California
+  - LoginRadius USA, Inc.'s filing of taxes in California
+  - LoginRadius USA, Inc.'s holding a bank account in California
+  - Moving Party's alleged assistance in Plaintiff's relocation to California
+  - Plaintiff's offer of employment with LoginRadius USA, Inc.
+money: [None]
+intentions:
+  - Moving Party's intention to allow employees to work at WeWork offices
+  - Plaintiff's intention to relocate to California
+  - Plaintiff's intention to work for LoginRadius USA, Inc.
+facts:
+  - Plaintiff immigrated to the United States and settled in California
+  - Moving Party contracts with WeWork
+  - Plaintiff's claim is unrelated to Moving Party's contacts in California
+  - Plaintiff's relocation to California was initiated by Plaintiff, not Moving Party
+  - Plaintiff provides an unsigned "offer of employment" with LoginRadius USA, Inc.
+disputes:
+  - Whether Moving Party has purposeful availment of California's jurisdiction
+  - Whether Moving Party has sufficient contacts with California to establish jurisdiction
+acts:
+  - Moving Party's contracting with WeWork
+  - Plaintiff's relocation to California
+  - LoginRadius USA, Inc.'s filing of taxes in California
+  - LoginRadius USA, Inc.'s holding a bank account in California
+  - Plaintiff's offer of employment with LoginRadius USA, Inc.
+agreements:
+  - Contract between Moving Party and WeWork
+  - Unsigned "offer of employment" with LoginRadius USA, Inc.
+laws:
+  - Sonora Diamond Corp. v. Superior Court (2000) 83 Cal.App.4th 523
+  - Empire Steel Corp. of Texas, Inc. v. Superior Court (1961) 56 Cal.2d 823
+statutes: [None]
+roles:
+  - Moving Party: defendant
+  - Plaintiff: plaintiff
+  - WeWork: party to contract with Moving Party
+  - LoginRadius USA, Inc.: party to contract with Moving Party
+significant statements:
+  - "traditional notions of fair play and substantial justice"
+  - "sporadic connections, rather than the 'systematic' and 'continuous' connections"
+```
+
+And here is a summary of the judge's tentative ruling in English text:
+
+The judge is considering whether the defendant, Moving Party, has purposeful availment of California's jurisdiction. The judge notes that Moving Party contracts with WeWork, which has offices in California, but this is not enough to establish jurisdiction. The judge also notes that Plaintiff's claim is unrelated to Moving Party's contacts in California. The judge is not persuaded that Moving Party's alleged assistance in Plaintiff's relocation to California, or its filing of taxes and holding a bank account in California, is sufficient to establish purposeful availment. The judge is also skeptical of Plaintiff's unsigned "offer of employment" with LoginRadius USA, Inc., which includes an arbitration clause. The judge suggests that it may be inequitable to hail Moving Party to this forum because its employee, Plaintiff, moved to California and it accommodated his request, but ultimately decides not to analyze agency between the two corporations.

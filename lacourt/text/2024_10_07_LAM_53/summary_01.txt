@@ -1,0 +1,69 @@
+Here is the summary in YAML format:
+
+```
+case_number: 22STCV34489
+plaintiff_name: Simon Property Group, L.P.
+defendant_names:
+  - RWF Holdings, Inc.
+  - Meir Levin
+  - Mark Mintz
+  - L&M Footwear Inc. (a/k/a Robert Wayne Footwear, a/k/a Shoeprint, a/k/a Shoeteria)
+people_names:
+  - Robert Wayne
+  - Meir Levin
+  - Mark Mintz
+  - Robert B. Broadbelt III
+company_names:
+  - Simon Property Group, L.P.
+  - RWF Holdings, Inc.
+  - U.S. Bank National Association
+  - L&M Footwear Inc.
+places:
+  - Los Angeles
+  - California
+dates:
+  - October 7, 2024
+  - August 1, 2021
+events:
+  - Motion to quash amended deposition subpoena
+  - Deposition subpoena for production of business records
+  - Production of documents
+money:
+  - None specified
+intentions:
+  - To quash amended deposition subpoena
+  - To produce business records
+facts:
+  - Plaintiff issued deposition subpoena to U.S. Bank National Association
+  - Defendant RWF Holdings, Inc. moves to quash subpoena
+  - Plaintiff did not file separate statement
+  - Defendant did not file separate statement
+disputes:
+  - Overbreadth of document demands
+  - Failure to file separate statement
+acts:
+  - Issuance of deposition subpoena
+  - Filing of motion to quash
+agreements:
+  - Limitation of document demands to August 1, 2021 to present
+laws:
+  - California Rules of Court, Rule 3.1345
+  - California Code of Civil Procedure, Section 1987.1
+case_citations:
+  - Weiss Decl., Ex. 1 to Ex. D, Subpoena
+  - Weiss Decl., Ex. 1 to Ex. D, Subpoena, Attachment 3
+  - Compl., ¶ 38, subd. (f)
+statutes:
+  - California Code of Civil Procedure, Section 1987.1
+roles:
+  - Judge: Robert B. Broadbelt III
+  - Plaintiff: Simon Property Group, L.P.
+  - Defendant: RWF Holdings, Inc., Meir Levin, Mark Mintz
+significant_statements:
+  - The court grants in part and denies in part defendants' motion to quash amended deposition subpoena.
+  - The court orders modification of the deposition subpoena to request production of documents specified in document demands numbers 1 and 2 from August 1, 2021 to the present.
+```
+
+Here is a summary of the judge's tentative ruling in English text:
+
+The judge issued a tentative ruling on October 7, 2024, regarding the motion to quash an amended deposition subpoena filed by defendants RWF Holdings, Inc., Meir Levin, and Mark Mintz. The defendants sought to quash the subpoena, which was issued to U.S. Bank National Association by plaintiff Simon Property Group, L.P. The court agreed that a separate statement was not required, as no response was served. The court also found that document demands numbers 1 and 2 were overbroad as to time and limited the demands to the time period of August 1, 2021, to the present. The court granted in part and denied in part the defendants' motion, modifying the deposition subpoena to request production of documents specified in document demands numbers 1 and 2 from August 1, 2021, to the present. The court ordered the defendants to give notice of this ruling.
