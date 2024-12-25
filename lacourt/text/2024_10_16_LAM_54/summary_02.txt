@@ -1,0 +1,76 @@
+Here is the summary in YAML format:
+
+```
+case_number: 23STCV03405
+plaintiff_names:
+  - Dr. Nayyer Ali, M.D.
+  - Dr. Mauricio Heilbron, M.D.
+defendant_names:
+  - Dignity Health dba St. Mary Medical Center
+  - Carolyn Caldwell
+  - Charles Anderson
+  - Christopher Pook
+people_names:
+  - Dr. Nayyer Ali, M.D.
+  - Dr. Mauricio Heilbron, M.D.
+  - Carolyn Caldwell
+  - Charles Anderson
+  - Christopher Pook
+  - Maurice A. Leiter
+company_names:
+  - Dignity Health
+places:
+  - Los Angeles
+  - St. Mary Medical Center
+  - Mission Viejo
+dates:
+  - February 16, 2023
+  - June 15, 2023
+  - October 5, 2023
+  - March 22, 2024
+  - June 17, 2024
+  - October 16, 2024
+  - February 10, 2025
+events:
+  - Filing of complaint
+  - Anti-SLAPP motion
+  - Denial of motion to compel arbitration
+  - Filing of amended complaints
+  - Motion to stay
+money:
+  - None mentioned
+intentions:
+  - To stay the litigation pending appeal
+facts:
+  - Plaintiffs sued Defendants for intentional interference with prospective economic relations and retaliation
+  - Defendants moved for an order staying the litigation pending appeal
+  - The Court denied the motion to stay
+disputes:
+  - Whether the Court should stay the litigation pending appeal
+acts:
+  - Filing of complaint and amended complaints
+  - Denial of anti-SLAPP motion
+  - Denial of motion to compel arbitration
+  - Motion to stay
+agreements:
+  - Residency Agreement
+laws:
+  - California Code of Civil Procedure § 1294(a)
+  - Federal Arbitration Act (FAA)
+  - Griggs v. Provident Consumer Discount Co.
+case_citations:
+  - Freiberg v. City of Mission Viejo (1995) 33 Cal.App.4th 1484, 1489
+  - Coinbase v. Bielski (2023) 599 U.S. 736, 745
+statutes:
+  - California Code of Civil Procedure § 1294(a)
+roles:
+  - Judge Maurice A. Leiter
+  - Dr. Nayyer Ali, M.D. (Plaintiff)
+  - Dignity Health dba St. Mary Medical Center (Defendant)
+significant_statements:
+  - "Trial courts generally have the inherent power to stay proceedings in the interests of justice and to promote judicial efficiency." (Freiberg v. City of Mission Viejo)
+```
+
+And here is a summary of the tentative ruling in English text:
+
+The Judge has denied the defendants' motion to stay the litigation pending appeal. The defendants, Dignity Health dba St. Mary Medical Center, Carolyn Caldwell, Charles Anderson, and Christopher Pook, had moved to stay the litigation of Dr. Nayyer Ali's claims based on the alleged termination/non-renewal of his Residency Agreement, pending the resolution of their appeal of the Court's order denying their motion to arbitrate those claims. The Judge found that Code of Civil Procedure § 1294(a) did not require a stay, and that delaying discovery would prejudice the plaintiffs. The Judge also noted that the defendants had not shown that the agreement at issue was governed by the Federal Arbitration Act (FAA), and that the principle in Griggs v. Provident Consumer Discount Co. does not apply in California state court. As a result, the Court denied the motion to stay the litigation.
