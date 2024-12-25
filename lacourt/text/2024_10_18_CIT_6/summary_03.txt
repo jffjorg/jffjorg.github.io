@@ -1,0 +1,64 @@
+Here is the summary in YAML format:
+
+```
+case_number: 24PSCV00853
+plaintiff_name: Cadet Partners LP
+defendant_name: Kan Hu
+people_names:
+  - Kan Hu
+company_names:
+  - Cadet Partners LP
+places:
+  - California
+dates:
+  - March 18, 2024
+  - April 25, 2024
+  - April 30, 2024
+  - October 2, 2024
+  - October 18, 2024
+events:
+  - Unlawful detainer action
+  - Default judgment
+  - Request for entry of default judgment
+money:
+  - $132,464.25 (past-due rent)
+  - $31,839.60 (holdover damages)
+  - $9,948.23 (attorney fees)
+  - $788.09 (costs)
+  - $3,528.14 (reduced attorney fees)
+  - $168,131.14 (total reduced judgment)
+intentions:
+  - Plaintiff seeks default judgment against defendant
+facts:
+  - Plaintiff filed the action on March 18, 2024
+  - Default was entered on April 25, 2024
+  - Judgment for possession was awarded by the clerk on April 30, 2024
+  - Plaintiff submitted a default judgment package on October 2, 2024
+disputes:
+  - Amount of holdover damages
+  - Amount of attorney fees
+acts:
+  - Request for entry of default judgment
+  - Submission of default judgment package
+agreements:
+  - None mentioned
+laws:
+  - Code of Civil Procedure section 585
+  - Code of Civil Procedure section 579
+  - California Rules of Court, rule 3.1800
+  - Local Rule 3.214
+statutes:
+  - None mentioned
+roles:
+  - Judge
+  - Plaintiff (Cadet Partners LP)
+  - Defendant (Kan Hu)
+significant statements:
+  - The Court finds Plaintiff's default judgment package is largely in order
+  - The Court will reduce the attorney fee award to $3,528.14
+  - The Court will GRANT Plaintiff's request in the reduced amount of $168,131.14
+```
+
+And here is a summary of the judge's tentative ruling in English text:
+
+The judge has tentatively ruled that the plaintiff, Cadet Partners LP, is granted a default judgment against the defendant, Kan Hu, in the reduced amount of $168,131.14. The judgment includes $132,464.25 in past-due rent, $31,349.76 in holdover damages, and $3,528.14 in reduced attorney fees. The court reduced the total amount of the judgment because the plaintiff's calculation of holdover damages was incorrect and because the plaintiff did not provide a declaration or itemized statement to support the amount of attorney fees requested. The court will modify and sign the proposed judgment or the plaintiff can submit a new proposed judgment prior to the hearing on October 18, 2024.
