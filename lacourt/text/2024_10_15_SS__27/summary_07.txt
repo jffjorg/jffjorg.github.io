@@ -1,0 +1,65 @@
+Here is the summary in YAML format:
+
+```
+case_number: 23STCV10388
+plaintiff_name: Eliseo Escoto
+defendant_name: Melvin William Martinez Quijano et al.
+people_names:
+  - Eliseo Escoto
+  - Melvin William Martinez Quijano
+  - Alfredo Perez
+company_names: []
+places:
+  - Omelveny Ave
+  - Pacoima, CA 91331-3712
+dates:
+  - May 9, 2023
+  - June 9, 2024
+  - August 1, 2024
+  - October 15, 2024
+events:
+  - Filing of the present case
+  - Service of the summons and complaint
+  - Entry of default
+  - Motion to quash service and set aside default
+money: []
+intentions:
+  - To challenge the court's personal jurisdiction
+  - To quash service of the summons and complaint
+  - To set aside the default
+facts:
+  - Plaintiff filed the present case against Defendant
+  - Defendant was allegedly served by substitute service
+  - Default was entered against Defendant
+  - Defendant moved to quash service and set aside default
+disputes:
+  - Impropriety of substitute service
+  - Lack of jurisdiction
+acts:
+  - Service of the summons and complaint
+  - Entry of default
+  - Filing of the motion to quash service and set aside default
+agreements: []
+laws:
+  - California Code of Civil Procedure (CCP) § 415.20(b)
+  - AO Alfa-Bank v. Yakovlev (2018) 21 Cal.App.5th 189, 202
+  - Kremerman v. White (2021) 71 Cal.App.5th 358, 371
+  - Kappel v. Bartlett (1988) 200 Cal.App.3d 1457, 1466
+  - Summers v. McClanahan (2006) 140 Cal.App.4th 403, 413
+  - Am. Express Centurion Bank v. Zara (2011) 199 Cal.App.4th 383, 390
+roles:
+  - Plaintiff: Eliseo Escoto
+  - Defendant: Melvin William Martinez Quijano
+  - Judge: Hon. Lee S. Arian, Dept 27
+significant_statements:
+  - "Service of process, under longstanding tradition in our system of justice, is fundamental to any procedural imposition on a named defendant."
+  - "To establish personal jurisdiction, compliance with statutory procedures for service of process is essential."
+  - "Defendant's knowledge of the action does not dispense with statutory requirements for service of summons."
+  - "The burden is on the plaintiff to prove the existence of jurisdiction by proving, inter alia, the facts requisite to an effective service."
+  - "Filing of proof of service that complies with the applicable statutory requirements creates a rebuttable presumption of proper service."
+  - "The moving party may then introduce evidence to rebut this presumption."
+```
+
+And here is a summary of the judge's tentative ruling in English text:
+
+The judge has issued a tentative ruling granting the motion to quash service and set aside the default filed by Defendant Melvin Quijano. The motion was filed in response to the plaintiff's failure to properly serve the summons and complaint. The judge found that the substitute service was flawed because the person served, Alfredo Perez, was not a competent member of the household and was not authorized to accept service on behalf of the defendant. As a result, the judge concluded that the court lacked personal jurisdiction over the defendant and granted the motion to quash service. Additionally, the judge granted the motion to set aside the default because the defendant did not receive proper service of the summons and complaint.
