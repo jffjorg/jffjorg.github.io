@@ -1,0 +1,60 @@
+Here is the summary in YAML format:
+
+```yaml
+Case Number: 24STCV42255
+Plaintiff's Name: Jason Casasola
+Defendant's Name: Chloe's Apartments, LLC, et al.
+People-Names:
+  - Jason Casasola
+  - Shawnqa Edwards
+  - Adrian Malin
+  - Dan Zuckerman
+  - Eloise Williams
+Company-Names:
+  - Chloe's Apartments, LLC
+  - Apartment Management Group, LLC
+  - Malin Asset Management, Inc.
+Places:
+  - None
+Dates:
+  - November 4, 2020
+  - September 16, 2024
+  - February 13, 2024
+  - August 16, 2024
+  - August 30, 2024
+  - October 11, 2024
+Events:
+  - Filing of lawsuit
+  - Filing of motion to compel deposition
+  - Deposition of Plaintiff Shawnqa Edwards
+Money:
+  - $810
+Intentions:
+  - Defendants seek to compel deposition of Plaintiff Shawnqa Edwards
+  - Plaintiff's counsel is sanctioned for failing to comply with discovery
+Facts:
+  - Plaintiff Shawnqa Edwards failed to appear for deposition despite a duly issued notice
+  - Plaintiff suspended deposition to take child to doctor
+  - No alternative dates were provided
+Disputes:
+  - Plaintiff's failure to comply with discovery
+Acts:
+  - Filing of lawsuit
+  - Filing of motion to compel deposition
+  - Issuance of deposition notice
+Agreements:
+  - None
+Laws:
+  - California Code of Civil Procedure, Section 2025.410
+  - California Code of Civil Procedure, Section 2025.450(a)
+Case Citations:
+  - None
+Statutes:
+  - California Code of Civil Procedure
+Roles:
+  - Judge
+  - Plaintiff
+  - Defendant
+  - Counsel
+Significant Statements:
+  - "If, after service of a deposition notice, a party to the action ... without having served a valid objection under Section 2025.410, fails to appear for examination ... or to produce for inspection any document, electronically stored information, or tangible thing described in the deposition notice, the party giving the notice may move for an order compelling the deponent's attendance and testimony, and the production for inspection of any document ... described in the deposition notice."

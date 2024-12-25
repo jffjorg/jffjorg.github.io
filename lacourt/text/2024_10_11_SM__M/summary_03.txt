@@ -1,0 +1,72 @@
+Here is the summary in YAML format:
+
+```
+case_number: 23SMCV05655
+plaintiff_name: Payam Y. Poursalimi
+defendant_name: The Williams Law Group, Andrew Williams
+people_names:
+  - Payam Y. Poursalimi
+  - Andrew Williams
+company_names:
+  - The Williams Law Group
+places:
+  - California
+dates:
+  - June 24, 2024
+  - October 11, 2024
+events:
+  - Default entered against defendants
+  - Motion to Quash denied
+  - Motion for Reconsideration filed
+  - Motion to Set Aside/Vacate Default filed
+money:
+  - $1,000 (statutory limit for monetary sanctions)
+  - reasonable compensatory legal fees and costs (to be determined)
+intentions:
+  - To set aside or vacate the default entered against the defendants
+  - To demonstrate mistake, inadvertence, surprise, or excusable neglect by the attorney
+facts:
+  - The defendants mistakenly believed that submitting a motion for reconsideration would result in an extension of time to plead
+  - The court clerk entered default despite the submission of the motion for reconsideration
+  - The defendants do not supply any responsive pleading required for section 473(b) relief
+disputes:
+  - Whether the default was caused by the attorney's mistake, inadvertence, surprise, or neglect
+  - Whether the defendants substantially complied with the requirement for section 473(b) relief
+acts:
+  - The defendants filed a motion for reconsideration
+  - The court clerk entered default
+  - The defendants filed a motion to set aside/vacate the default
+agreements:
+  - California Code of Civil Procedure (CCP) section 473(b)
+  - CCP section 585(b)
+  - CCP section 1008
+laws:
+  - CCP section 473(b)
+  - CCP section 585(b)
+  - CCP section 1008
+case_citations:
+  - State Farm Fire & Casualty Co. v. Pietak (2001)
+  - Martin Potts & Assocs., Inc. v. Corsair, LLC (2016)
+  - Carmel, Ltd. v. Tavoussi (2009)
+  - Janssen v. Luu (1997)
+  - Rios v. Singh (2021)
+  - Wisdom v. Ramirez (1985)
+statutes:
+  - CCP section 473(b)
+  - CCP section 585(b)
+  - CCP section 1008
+roles:
+  - Judge
+  - Plaintiff (Payam Y. Poursalimi)
+  - Defendant (The Williams Law Group, Andrew Williams)
+  - Attorney (Williams)
+significant_statements:
+  - The court clerk is entitled to rely on a document's title in determining whether it is one of the permitted responses listed.
+  - Entry of default by the clerk is a ministerial duty and that he has no authority whatever to determine the sufficiency, either as to the substance or form, of a pleading on file.
+  - The court must direct the attorney to pay reasonable compensatory legal fees and costs to the opposing counsel or parties if mandatory relief is granted.
+  - The court may order the moving party to pay the costs, including attorney fees, incurred in obtaining the default if discretionary relief is granted.
+```
+
+And here is a summary of the judge's tentative ruling in English text:
+
+The judge has tentatively granted the defendants' motion to set aside or vacate the default entered against them. The defendants' attorney, Williams, mistakenly believed that submitting a motion for reconsideration would result in an extension of time to plead, which led to the default. The court clerk is entitled to rely on a document's title in determining whether it is one of the permitted responses listed, and in this case, the motion for reconsideration was not one of the permitted responses. The defendants must substantially comply with the requirement for section 473(b) relief by proffering a proposed answer before the motion can be granted. If the defendants comply, the court would grant the motion.

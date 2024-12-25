@@ -1,0 +1,59 @@
+Here is the summary in YAML format:
+
+```
+case_number: 24SMCV00099
+plaintiff_name: Fanfixapp LLC
+defendant_name: Passes Inc., et al.
+people_names:
+  - Hurley (Defense counsel)
+  - Wang (Author of Declaration in Support of Passes' Reply)
+company_names:
+  - Fanfixapp LLC
+  - Passes Inc.
+places:
+  - California
+dates:
+  - October 10, 2024
+events:
+  - Motion to Seal
+  - Hearing on Motion to Seal
+  - Sealing of trial court records
+  - Filing of pleadings, motions, and discovery documents
+money: None
+intentions:
+  - To seal portions of a reply and a declaration to protect trade secret information
+facts:
+  - Portions of the reply quote from confidentially marked materials under the Parties' protective order
+  - Redactions are necessary to prevent competitive harm to Plaintiffs
+disputes:
+  - Whether the requested sealing is necessary to protect trade secret information
+acts:
+  - Filing of a motion to seal
+  - Service of a copy of the motion on all parties who have appeared in the case
+  - Lodging of the sealed record with the court
+agreements:
+  - Parties' protective order
+laws:
+  - California Rules of Court (CRC) rules 2.550 and 2.551
+  - California Civil Code section 3426.5
+  - Uniform Trade Secrets Act
+case_citations:
+  - Mercury Interactive Corp. v. Klein (2007) 158 Cal.App.4th 60, 68
+  - H.B. Fuller Co. v. Doe (2007) 151 Cal.App.4th 879, 888
+  - NBC Subsidiary (KNBC-TV), Inc. v. Superior Court (1999) 20 Cal.4th 1178, 1217-1218
+statutes:
+  - California Code of Civil Procedure
+roles:
+  - Judge
+  - Plaintiff (Fanfixapp LLC)
+  - Defendant (Passes Inc., et al.)
+  - Defense counsel (Hurley)
+significant_statements:
+  - The sealing of trial court records is governed by California Rules of Court rules 2.550 and 2.551.
+  - To seal a record, a party must file a motion or application, accompanied by a memorandum and a declaration, and serve a copy of the motion on all parties who have appeared in the case.
+  - The Court must make express factual findings to seal records, including the existence of an overriding interest that overcomes the right of public access to the record.
+```
+
+Here is a summary of the judge's tentative ruling in English text:
+
+The judge has issued a tentative ruling on a motion to seal portions of a reply and a declaration in support of a motion to compel further responses to a special interrogatory. The defendant, Passes Inc., moves to seal the requested portions to protect trade secret information. The judge finds that the parties' protective order requires confidentiality, and that public disclosure of the redacted portions could cause competitive harm to the plaintiff. The judge grants the motion, finding that the proposed sealing is narrowly tailored and that no less restrictive means exist to achieve the overriding interest in protecting the trade secret information. The judge requires the defendant to lodge the sealed record with the court and to refrain from filing anything that would disclose the sealed matter.
