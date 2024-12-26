@@ -1,0 +1,80 @@
+Here is a summary of the tentative ruling in YAML format:
+
+```
+case_number: 21STCV27304
+hearing_date: November 13, 2024
+dept: 45
+plaintiff: Blanca Calderon
+defendants: Regents of the University of California, et al.
+people_names:
+  - Blanca Calderon
+  - Kupetz
+  - Kahn
+company_names:
+  - Regents of the University of California
+  - UCLA Santa Monica Medical Center
+  - UCLA Health
+  - Sedgwick
+places:
+  - Los Angeles
+  - California
+dates:
+  - July 26, 2021
+  - August 20, 2023
+  - October 10, 2023
+  - November 20, 2023
+  - December 8, 2023
+  - January 17, 2024
+  - November 13, 2024
+events:
+  - Motion to Compel Further Responses to Special Interrogatories, Set Three
+  - Motion to Compel Further Responses to Requests for Admission, Set Two
+  - Motion to Compel Further Responses to Requests for Production of Documents and Things, Set Two
+money:
+  - $2,495.00
+  - $1,812.00
+  - $7,403.34
+  - $60
+intentions:
+  - Compel defendant to provide further responses to special interrogatories, requests for admission, and requests for production of documents
+  - Seek monetary sanctions against defendant
+  - Request attorney's fees and costs for misuse of discovery
+facts:
+  - Plaintiff Blanca Calderon was terminated from her job at UCLA Santa Monica Medical Center on May 13, 2019
+  - Plaintiff suffered injuries while working at the medical center from 2009 to 2019
+  - Defendant failed to provide timely and code-compliant responses to plaintiff's discovery requests
+  - Plaintiff's counsel's hourly rate is $950 per hour
+disputes:
+  - Defendant's objections to plaintiff's motion to compel further responses
+  - Defendant's failure to provide privilege log
+  - Plaintiff's request for monetary sanctions
+acts:
+  - Defendant served responses and objections to plaintiff's special interrogatories, requests for admission, and requests for production of documents
+  - Plaintiff filed motions to compel further responses
+  - Defendant failed to provide timely and code-compliant responses to plaintiff's discovery requests
+agreements:
+  - Plaintiff and defendant agreed to engage in meet and confer efforts
+laws:
+  - California Code of Civil Procedure § 2030.300
+  - California Code of Civil Procedure § 2031.310
+  - California Code of Civil Procedure § 2033.290
+  - California Rules of Court Rule 3.1345
+  - California Rules of Court Rule 2.30
+case_citations:
+  - Volkswagenwerk Aktiengesellschaft v. Superior Ct. (1981) 122 Cal.App.3d 326
+  - Clement v. Alegre (2009) 177 Cal.App.4th 1277
+statutes:
+  - Government Code § 12940
+  - Government Code § 12940 (m)
+  - Government Code § 12940 (n)
+  - Government Code § 12940 (k)
+  - FEHA
+roles:
+  - Judge: Mel Red Recana
+  - Plaintiff: Blanca Calderon
+  - Defendant: Regents of the University of California
+significant_statements:
+  - The court reminds parties that civil discovery is intended to be a self-executing system with minimal judicial intervention.
+```
+
+Please note that this summary is based on the provided text and may not be exhaustive or accurate. It is recommended to review the original document for further details.
