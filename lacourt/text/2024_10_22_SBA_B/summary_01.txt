@@ -1,0 +1,84 @@
+Here is the summary of the Judge's Tentative Ruling in YAML format:
+
+```
+case_number: 23TRCV03586
+plaintiff: THEODORE J. COHEN, as trustee of the TJC Law Group, LLP Profit Sharing Plan
+defendant: LESTER PIOCH, et al.
+people:
+  - THEODORE J. COHEN
+  - LESTER PIOCH
+  - MICHAEL PRIOR
+company:
+  - FSC Group, LLC
+  - TJC Law Group, LLP
+  - SCM Trust
+  - TJC Trust
+places:
+  - California
+  - Los Angeles
+  - Torrance
+dates:
+  - October 27, 2023
+  - July 1, 2024
+  - May 5, 2015
+  - May 6, 2016
+  - April 16, 2019
+  - May 5, 2021
+  - May 25, 2022
+  - September 26, 2023
+events:
+  - FSC Group's default on the FSC Group Note
+  - Plaintiff's demand for payment
+  - Pioch's partial payments to plaintiff
+  - Conveyance of Collateral Agreement
+money:
+  - $400,000
+  - $500,000
+  - $583,977.74
+  - $910,000
+intention:
+  - Plaintiff seeks summary judgment for breach of promissory note
+  - Plaintiff argues that defendants have no defense to the claim
+facts:
+  - FSC Group entered into a promissory note with plaintiff
+  - FSC Group defaulted on the note
+  - Pioch and Prior are obligated on the Pioch/Prior Note
+  - Plaintiff demanded payment from Pioch and Prior
+  - Pioch made partial payments to plaintiff
+disputes:
+  - Statute of limitations defense
+  - Usury defense
+acts:
+  - FSC Group's default on the FSC Group Note
+  - Plaintiff's demand for payment
+  - Pioch's partial payments to plaintiff
+agreements:
+  - Pledge and Security Agreement
+  - Conveyance of Collateral Agreement
+laws:
+  - California Civil Code
+  - California Code of Civil Procedure
+  - California Corporations Code
+case_citations:
+  - Aguilar v. Atlantic Richfield Co.
+  - Adler v. Manor Healthcare Corp.
+  - Scalf v. D. B. Log Homes, Inc.
+  - Durell v. Sharp Healthcare
+  - Martindell v. Bodrero
+statutes:
+  - CCP § 360
+  - CCP § 437c
+  - CCP § 337
+  - Comm. Code § 9607
+  - Corp. Code § 25118(b)
+roles:
+  - Judge
+  - Plaintiff
+  - Defendant
+significant_statements:
+  - "The Court finds that plaintiff has met its burden of showing that defendants have no defense, including statute of limitations, to the sole cause of action for breach of promissory note."
+  - "The Court also finds that defendants have failed to show substantial evidence to raise a triable issue of material fact."
+  - "The application of CCP § 360 does not turn on the claimed subjective intent of the payor when making payment, but instead turns on the objective fact of the payment."
+```
+
+Please note that this is a summary of the Judge's Tentative Ruling, and it may not capture all the nuances and details of the original document.
