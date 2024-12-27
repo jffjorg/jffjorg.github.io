@@ -1,0 +1,93 @@
+Here is the summary of the judge's tentative ruling in YAML format:
+
+```
+case_number: 24CHCV01544
+plaintiff_name: Arlene Aleman
+defendant_names:
+  - Audley Osbourne, M.D.
+  - Andrew Behesnilian, M.D.
+  - John Hawkins, M.D.
+  - Brian Lee, M.D.
+  - Henry Shih, M.D.
+people_names:
+  - Arlene Aleman
+  - Audley Osbourne, M.D.
+  - Andrew Behesnilian, M.D.
+  - John Hawkins, M.D.
+  - Brian Lee, M.D.
+  - Henry Shih, M.D.
+company_names:
+  - Providence Holy Cross Medical Center
+places:
+  - Los Angeles
+  - North Valley District
+dates:
+  - April 25, 2024
+  - August 23, 2024
+  - October 9, 2024
+  - October 17, 2024
+  - November 5, 2024
+  - November 12, 2024
+  - November 19, 2024
+  - April 20, 2023
+  - April 22, 2024
+  - April 23, 2024
+  - April 24, 2024
+events:
+  - Demurrer filed
+  - Opposition filed
+  - Reply filed
+  - Statute of limitations
+  - Electronic filing
+  - Rejection of filing
+  - Confirmation of filing
+money: N/A
+intentions:
+  - To determine the sufficiency of the plaintiff's complaint
+  - To address the defendants' demurrer
+facts:
+  - Plaintiff filed a complaint alleging medical malpractice and medical battery
+  - Defendants filed a demurrer alleging that the complaint is insufficiently stated
+  - Plaintiff submitted amendments to the complaint
+  - Plaintiff's initial filing was rejected due to clerical errors
+  - Statutory tolling applies to the filing deadline
+disputes:
+  - Sufficiency of the complaint
+  - Statute of limitations
+acts:
+  - Filing of the complaint
+  - Demurrer filed
+  - Opposition filed
+  - Reply filed
+  - Electronic filing
+agreements: N/A
+laws:
+  - Code of Civil Procedure
+  - California Rules of Court
+  - Evidence Code
+  - Statute of Limitations
+  - Tort law
+case_citations:
+  - Code Civ. Proc. § 430.30
+  - Code Civ. Proc. § 452
+  - Code Civ. Proc. § 430.41
+  - Code Civ. Proc. § 12
+  - Code Civ. Proc. § 340.15
+  - Cal. Rules of Court, rule 1.10(a)
+  - Cal. Rules of Court, rule 2.253(b)(6)
+  - Code Civ. Proc. § 1010.6
+  - Conte v. Girard Orthopedic Surgeons Medical Group, Inc. (2003) 107 Cal.App.4th 1260
+  - Cobbs v. Grant (1972) 8 Cal.3d 229
+roles:
+  - Judge
+  - Plaintiff
+  - Defendant
+  - Demurring Defendants
+significant_statements:
+  - The Court finds that the Demurrer is OVERRULED.
+  - The Court concludes that the plaintiff's initial filing on April 22, 2024, met the filing deadline.
+  - The Court finds that the defendants have failed to meet their required burden to show that the Second Cause of Action is insufficiently stated.
+```
+
+Summary:
+The judge's tentative ruling denies the demurrer filed by defendants Audley Osbourne, M.D. and Andrew Behesnilian, M.D. The demurrer alleged that the plaintiff's complaint is insufficiently stated and that the statute of limitations has expired. The court finds that the plaintiff's initial filing on April 22, 2024, met the filing deadline and that statutory tolling applies to the filing deadline. The court also finds that the defendants have failed to meet their required burden to show that the Second Cause of Action is insufficiently stated.
