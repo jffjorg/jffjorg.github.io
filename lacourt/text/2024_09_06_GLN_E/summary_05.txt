@@ -1,0 +1,72 @@
+Here is the summary of the tentative ruling in YAML format:
+
+```
+Case Number:  24NNCV00062
+Plaintiff's Name: Andrew Trevino
+Defendant's Name: Uber Technologies, et al.
+People-Names: Andrew Trevino, Chenshan Yu
+Company-Names: Uber Technologies
+Places: California
+Dates:
+  - March 5, 2024 (filing date)
+  - March 17, 2021 (registration date)
+  - December 20, 2021 (updated terms date)
+  - January 1, 2023 (updated terms date)
+  - June 1, 2022 (accident date)
+  - September 6, 2024 (hearing date)
+Events:
+  - Filing of lawsuit
+  - Registration for Uber account
+  - Update of terms of service
+  - Accident involving Uber vehicle
+Money: None mentioned
+Intentions: To compel arbitration
+Facts:
+  - Plaintiff was a passenger in an Uber vehicle
+  - Accident occurred on June 1, 2022
+  - Plaintiff alleges motor vehicle negligence and general negligence
+Disputes:
+  - Arbitrability of the dispute
+Acts:
+  - Plaintiff filed lawsuit
+  - Defendant Uber Technologies moved to compel arbitration
+  - Plaintiff did not oppose the motion
+Agreements:
+  - Terms of Use of Uber application
+  - Arbitration Agreement
+Laws:
+  - California Code of Civil Procedure section 1281.2
+  - California Rules of Court, rule 3.1330
+  - Code of Civil Procedure section 1005
+  - Code of Civil Procedure section 1013
+  - Code of Civil Procedure section 1013(a)
+Case Citations:
+  - Avery v. Integrated Healthcare Holdings, Inc. (2013) 218 Cal.App.4th 50
+  - Gamboa v. Northeast Community Clinic (2021) 72 Cal.App.5th 158
+  - Henry Schein, Inc. v. Archer & White Sales, Inc. (2019) 139 S.Ct. 524
+Statutes:
+  - California Code of Civil Procedure section 1281.2
+  - California Code of Civil Procedure section 1005
+  - California Code of Civil Procedure section 1013
+  - California Code of Civil Procedure section 1013(a)
+Roles:
+  - Judge: [Name]
+  - Plaintiff: Andrew Trevino
+  - Defendant: Uber Technologies, et al.
+  - Data Scientist: Chenshan Yu
+Significant Statements:
+  - "Code of Civil Procedure section 1281.2 requires a trial court to grant a petition to compel arbitration ‘if the court determines that an agreement to arbitrate the controversy exists.’" (Avery v. Integrated Healthcare Holdings, Inc.)
+  - "If the moving party meets its initial prima facie burden and the opposing party disputes the agreement, then in the second step, the opposing party bears the burden of producing evidence to challenge the authenticity of the agreement." (Gamboa v. Northeast Community Clinic)
+  - "If the opposing party meets its burden of producing evidence, then in the third step, the moving party must establish with admissible evidence a valid arbitration agreement between the parties." (Gamboa v. Northeast Community Clinic)
+  - "Only an arbitrator, and not any federal, state, or local court or agency, shall have exclusive authority to resolve any dispute arising out of or relating to the interpretation, applicability, enforceability, or formation of this Arbitration Agreement..." (Uber Technologies' Arbitration Agreement)
+```
+
+And here is a summary of the tentative ruling in English text:
+
+The court is issuing a tentative ruling in the case of Andrew Trevino vs. Uber Technologies, et al. Uber Technologies has moved to compel arbitration, and since the plaintiff does not oppose the motion, the court grants the motion.
+
+The court finds that Uber has met its initial burden of producing evidence of a written agreement to arbitrate the controversy. The evidence presented by Uber's data scientist, Chenshan Yu, shows that Andrew Trevino registered for an Uber account and agreed to the Terms of Use, which included an arbitration agreement.
+
+The court notes that the arbitration agreement is clear and provides for the exclusive authority of the arbitrator to resolve any disputes arising out of or relating to the interpretation, applicability, enforceability, or formation of the arbitration agreement. Therefore, the court orders the arbitrator to decide the issue of arbitrability and proceed accordingly.
+
+The case against Uber Technologies is stayed pending arbitration.
