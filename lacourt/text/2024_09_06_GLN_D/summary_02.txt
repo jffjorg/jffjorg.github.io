@@ -1,0 +1,62 @@
+Here is the summary of the tentative ruling in YAML format:
+
+```
+case_number: 23GDCV00934
+plaintiff_name: Keith Fearnside
+defendant_name: General Motors LLC
+people_names:
+  - Keith Fearnside
+  - Brian Thompson
+company_names:
+  - General Motors LLC
+places:
+  - Los Angeles County
+dates:
+  - January 2021
+  - September 6, 2024
+  - February 10, 2025
+  - October 4, 2024
+events:
+  - Deposition
+  - Motion to Compel
+  - Trial
+money:
+  - $3,150.00 (sanctions)
+  - $3,675.00 (total expenses)
+intentions:
+  - To compel General Motors LLC's Person Most Qualified (PMQ) to answer deposition questions
+  - To seek sanctions for defendant's unsuccessful opposition to the motion
+facts:
+  - Plaintiff purchased a new 2021 Chevrolet Suburban from General Motors LLC
+  - Plaintiff alleged that the vehicle had nonconformities to warranty
+  - Plaintiff presented the vehicle to General Motors LLC's authorized facilities for repair, but the issues remained unrepaired
+  - General Motors LLC objected to the deposition questions, claiming they were outside the scope and purview of the witness
+  - The court found that the questions were relevant and discoverable, and that General Motors LLC's objections were without merit
+disputes:
+  - Whether General Motors LLC's PMQ was qualified to answer the deposition questions
+  - Whether the deposition questions were outside the scope and purview of the witness
+acts:
+  - General Motors LLC objected to the deposition questions
+  - The court granted the motion to compel General Motors LLC's PMQ to answer the deposition questions
+  - Sanctions were awarded against General Motors LLC
+agreements:
+  - The Song-Beverly Act (California Civil Code Section 1793.2)
+  - Los Angeles County Local Rules, Appendix 3.A, Guidelines for Civility in Litigation
+laws:
+  - California Code of Civil Procedure (CCP) Section 2025.480
+  - California Code of Civil Procedure (CCP) Section 2025.230
+  - California Code of Civil Procedure (CCP) Section 2023.010
+statutes:
+  - California Civil Code Section 1793.2
+  - California Civil Code Section 1794
+roles:
+  - Plaintiff: Keith Fearnside
+  - Defendant: General Motors LLC
+  - Witness: Brian Thompson (General Motors LLC's PMQ)
+significant_statements:
+  - The court found that the deposition questions were relevant and discoverable, and that General Motors LLC's objections were without merit.
+  - The court granted the motion to compel General Motors LLC's PMQ to answer the deposition questions.
+  - Sanctions were awarded against General Motors LLC in the amount of $3,150.00.
+```
+
+Note: The summary is limited to the main points of the tentative ruling and may not include all the details and citations from the original document.
