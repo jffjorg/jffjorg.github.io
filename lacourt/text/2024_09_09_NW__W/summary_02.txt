@@ -1,0 +1,68 @@
+Here is the summary in YAML format:
+
+```
+Case Number: 23VECV04892
+Plaintiff's Name: Michael Pinson
+Defendant's Name: LOANDEPOT.COM, LLC
+People-Names:
+  - Michael Pinson
+Company-Names:
+  - LOANDEPOT.COM, LLC
+Places:
+  - 21551 Burbank Blvd, #99, Woodland Hills, California 91367
+Dates:
+  - March 7, 2024
+  - June 7, 2024
+  - June 11, 2024
+  - July 18, 2024
+  - August 7, 2024
+  - December 14, 2023
+  - April 14, 2025
+Events:
+  - Breach of Contract
+  - Breach of the Covenant of Good Faith and Fair Dealing
+  - Violations of California Civil Code Section 2923.7
+  - Violations of California Civil Code Section 2924.11
+  - Violation of Cal. Business & Professions Code section 17200, et seq.
+  - COVID-19 forbearance agreement
+  - Trial payment plan (TPP 1)
+  - Loan modification
+  - Foreclosure
+  - Notice of Trustee's Sale
+Money:
+  - $386,000.00
+  - $117,373.27
+  - $501.30
+Intentions:
+  - Plaintiff seeks to stop Loan Depot from foreclosing on the property
+  - Defendant seeks to dissolve the preliminary injunction
+Facts:
+  - Plaintiff obtained a first-position refinance mortgage from Defendant
+  - Plaintiff entered into a COVID-19 forbearance agreement with Defendant
+  - Plaintiff stopped making payments, and Defendant did not withdraw payments from Plaintiff's account
+  - Defendant revoked the trial payment plan (TPP 1) and recorded a Notice of Trustee's Sale
+Disputes:
+  - Plaintiff's failure to post a bond in the sum of $117,373.27
+  - Plaintiff's failure to make monthly impounded escrow payments of $501.30
+Acts:
+  - Granting of preliminary injunction
+  - Issuance of Notice of Trustee's Sale
+  - Revocation of TPP 1
+  - Posting of bond
+Agreements:
+  - COVID-19 forbearance agreement
+  - Trial payment plan (TPP 1)
+Laws:
+  - California Civil Code Section 2923.7
+  - California Civil Code Section 2924.11
+  - Cal. Business & Professions Code section 17200, et seq.
+  - CCP § 529(a)
+  - CCP § 533
+Case Citations:
+  - Griffin v. Lima (1954) 124 Cal. App. 2d 697, 699
+Roles:
+  - Plaintiff: Michael Pinson
+  - Defendant: LOANDEPOT.COM, LLC
+Significant Statements:
+  - "It is very clear from the authorities that a preliminary injunction does not become operative until a bond is furnished, and that such a bond is expressly required." (Griffin v. Lima)
+  - "If the court determines that the applicant's undertaking is insufficient and a sufficient undertaking is not filed within the time required by the statute, the order granting the injunction must be dissolved." (CCP § 529(a))
