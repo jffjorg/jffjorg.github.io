@@ -1,0 +1,56 @@
+Here is the summary in YAML format:
+
+```
+case_number: 23STCV29404
+plaintiff_name: Law Office of London & Le
+defendant_name: Minh Thuy Co Hoang
+people_names:
+  - Trong B. Nguyen, M.D.
+  - Minh Thuy Co Hoang
+  - Judge (unspecified)
+company_names:
+  - Rejuvenate Surgical Center, LLC
+  - Inc.
+places:
+  - California (state)
+dates:
+  - September 10, 2024
+events:
+  - Motion for Interpleader
+  - Cross-complaint
+money:
+  - Settlement funds
+intentions:
+  - To restrain and stay the cross-complaint pending determination of Plaintiff's interpleader complaint
+facts:
+  - Defendant entered into medical lien contracts with Cross-Complainants for medical services
+  - Cross-Complainants filed cross-complaints against Plaintiff and Defendant
+  - Plaintiff filed an interpleader action to compel claimants to interplead and litigate their claims
+disputes:
+  - Dispute over the distribution of settlement funds
+acts:
+  - Defendant's motion for an order under Code of Civil Procedure section 386, subdivision (f)
+  - Cross-Complainants' filing of cross-complaints against Plaintiff and Defendant
+agreements:
+  - Medical lien contracts between Defendant and Cross-Complainants
+  - Interpleader action filed by Plaintiff
+laws:
+  - Code of Civil Procedure section 386, subdivisions (a), (b), and (f)
+  - California Procedure (6th ed. 2021) Pleadings, § 246
+  - State Farm Fire & Casualty Co. v. Pietak (2001) 90 Cal.App.4th 600
+statutes:
+  - Code of Civil Procedure section 386
+roles:
+  - Judge
+  - Plaintiff
+  - Defendant
+  - Cross-Complainants
+significant_statements:
+  - This Court has the authority to restrain other proceedings that would impact the interpleader action.
+  - A defendant in an interpleader action cannot, by cross-complaint, change the character of the action by setting up a new and distinct claim against the plaintiff.
+  - As against the stakeholder, claimants may raise only matters which go to whether the suit is properly one for interpleader.
+```
+
+And here is the English-text summary:
+
+The Judge's tentative ruling is in response to a motion filed by Defendant Minh Thuy Co Hoang to enjoin the cross-complaint of Cross-Complainants Trong B. Nguyen, M.D., Inc., and Rejuvenate Surgical Center, LLC. The motion is granted, and the cross-complaint is restrained and stayed pending determination of the interpleader complaint filed by Plaintiff Law Office of London & Le. The Court finds that the cross-complaint is duplicative of the interpleader action and that the Defendant is entitled to an order under Code of Civil Procedure section 386, subdivision (f) to restrain other proceedings that would impact the interpleader action. The Court also notes that a defendant in an interpleader action cannot, by cross-complaint, change the character of the action by setting up a new and distinct claim against the plaintiff.

@@ -1,0 +1,58 @@
+Here is the summary of the judge's tentative ruling in YAML format:
+
+```yaml
+case_number: 24STCV13447
+plaintiff_name: Nivo 1, LLC
+defendant_name: Eric Keillor, et al.
+people_names:
+  - Frank Revere
+  - Eric Keillor
+company_names:
+  - Nivo 1, LLC
+  - Revere & Wallace
+places: None
+dates:
+  - August 1, 2024
+  - September 10, 2024
+  - October 11, 2024
+events:
+  - Motion to Be Relieved as Counsel filed
+  - Status Conference set
+money: None
+intentions:
+  - Frank Revere seeks to withdraw as counsel for Nivo 1, LLC
+facts:
+  - Nivo 1, LLC's counsel, Frank Revere, has filed a Motion to Be Relieved as Counsel
+  - The motion is unopposed
+  - The court has discretion to allow an attorney to withdraw
+  - The court must consider whether withdrawal would cause prejudice to the client or disrupt the orderly process of justice
+disputes:
+  - Nivo 1, LLC vs. Eric Keillor, et al.
+acts:
+  - Frank Revere filed a Motion to Be Relieved as Counsel
+  - The court reviewed the motion
+agreements: None
+laws:
+  - California Rules of Court, rule 3.1362
+  - Code of Civil Procedure section 284(1) and section 284(2)
+  - Ramirez v. Sturdevant (1994) 21 Cal.App.4th 904, 915
+  - People v. Prince (1968) 268 Cal.App.2d 398, 406
+case_citations:
+  - Ramirez v. Sturdevant (1994) 21 Cal.App.4th 904, 915
+  - People v. Prince (1968) 268 Cal.App.2d 398, 406
+statutes:
+  - California Rules of Court, rule 3.1362
+  - Code of Civil Procedure section 284(1) and section 284(2)
+roles:
+  - Judge: Kerry Bensinger
+  - Counsel: Frank Revere
+  - Plaintiff: Nivo 1, LLC
+  - Defendant: Eric Keillor, et al.
+significant_statements:
+  - The court finds that the Motion complies with California Rules of Court, rule 3.1362
+  - The court finds no prejudice will result from the granting of plaintiff's counsel's request to withdraw
+```
+
+And here is a summary of the judge's tentative ruling in English text:
+
+The court has granted the Motion to Be Relieved as Counsel filed by Frank Revere, counsel for plaintiff Nivo 1, LLC. The motion was unopposed, and the court found that it complies with California Rules of Court, rule 3.1362. The court also found that there would be no prejudice to the client or disruption to the orderly process of justice if Frank Revere were to withdraw as counsel. The court sets a status conference for October 11, 2024, to discuss counsel for the plaintiff.

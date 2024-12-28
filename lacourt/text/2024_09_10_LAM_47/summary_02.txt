@@ -1,0 +1,77 @@
+Here is a summary of the judge's tentative ruling in YAML format:
+
+```
+case_number: 22STCV12388
+plaintiff_names:
+  - Renee Lotenero
+  - Steve Siegrist
+defendant_name: BMW of North America, LLC
+people_names:
+  - Judge Theresa M. Traber
+  - Jeffrey Mukai
+  - Scott D. Sharp
+company_names:
+  - BMW of North America, LLC
+places:
+  - California
+dates:
+  - April 12, 2022
+  - July 3, 2024
+  - July 25, 2024
+  - September 10, 2024
+events:
+  - Jury verdict rendered
+  - Judgment on special verdict
+  - Prejudgment interest motion filed
+money:
+  - $28,319.60 (purchase price of the vehicle)
+  - $24,191.00 (sale price of the vehicle)
+  - $1,822.09 (finance charges)
+  - $2,306.51 (taxes and fees)
+  - $4,830.14 (awarded prejudgment interest)
+  - $7,681.11 (calculated prejudgment interest under section 3287(a))
+  - $6,315.58 (calculated prejudgment interest under section 3287(b))
+intentions:
+  - Plaintiff seeks an award of prejudgment interest
+  - Defendant argues that prejudgment interest is not available due to disputed damages
+facts:
+  - Plaintiffs entered into a Retail Installment Sales Contract for a 2017 BMW i3
+  - The vehicle developed electrical system defects
+  - A jury verdict was rendered in favor of Plaintiffs and against Defendant
+  - Defendant argues that damages were not certain or capable of being made certain until a judicial determination was made
+disputes:
+  - Dispute over the amount of damages
+  - Dispute over the application of civil penalties
+acts:
+  - Plaintiffs filed a complaint
+  - Defendant filed a motion to compel arbitration
+  - Plaintiffs filed a motion for prejudgment interest
+agreements:
+  - Song-Beverly Act
+  - Uniform Commercial Code
+  - Civil Code section 3287
+  - Civil Code section 3289
+  - California Constitution, Article XV, Section 1
+laws:
+  - Civil Code section 3287
+  - Civil Code section 3289
+  - California Constitution, Article XV, Section 1
+case_citations:
+  - Duale v. Mercedes Benz USA, LLC (2007)
+  - Warren v. Kia Motors America, Inc. (2018)
+  - Doppes v. Bentley Motors, Inc. (2009)
+  - Lukather v. General Motors, LLC (2010)
+  - Bishop v. Hyundai (1996)
+roles:
+  - Judge: Theresa M. Traber
+  - Moving parties: Plaintiffs (Renee Lotenero and Steve Siegrist)
+  - Responding party: Defendant (BMW of North America, LLC)
+significant_statements:
+  - The Court grants Plaintiffs' motion for prejudgment interest in the amount of $4,830.14
+  - The Court finds that the potential damages were certain insofar as they could be computed under the contract based on the state of the vehicle
+  - The Court declines to address the issue of whether interest should be awarded under section 3287(b)
+```
+
+And here is a summary of the judge's tentative ruling in English text:
+
+The judge grants the plaintiffs' motion for prejudgment interest in the amount of $4,830.14. The court finds that the potential damages were certain insofar as they could be computed under the contract based on the state of the vehicle. The court declines to address the issue of whether interest should be awarded under section 3287(b). The court also applies a mileage offset for value of use of $2,951.46, and calculates the correct interest rate as 7% per annum, pursuant to Article XV, section 1 of the California Constitution. The court concludes that the defendant is not entitled to prejudgment interest because the defendant's damages were not certain or capable of being made certain until a judicial determination was made.

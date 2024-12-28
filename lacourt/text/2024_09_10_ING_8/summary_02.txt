@@ -1,0 +1,80 @@
+Here is a summary of the judge's tentative ruling in YAML format:
+
+```
+case_number: 22TRCV00563
+plaintiff_name: Ocean Recovery, LLC
+defendant_name: Sullivan Curtis Monroe Insurance Services, LLC, Scottsdale Indemnity Company, Nationwide Mutual Insurance Company, Scottsdale Insurance Company
+people_names:
+  - Scottsdale
+  - Nationwide
+  - Sullivan Curtis Monroe Insurance Services, LLC
+  - Ocean Recovery, LLC
+company_names:
+  - Sullivan Curtis Monroe Insurance Services, LLC
+  - Scottsdale Indemnity Company
+  - Nationwide Mutual Insurance Company
+  - Scottsdale Insurance Company
+places: None
+dates:
+  - July 8, 2022
+  - July 13, 2022
+  - February 22, 2023
+  - July 31, 2023
+  - February 21, 2024
+  - April 18, 2024
+  - June 13, 2024
+  - July 12, 2024
+  - September 4, 2024
+  - September 3, 2024
+events:
+  - Filing of complaint
+  - Amended complaints
+  - Motion to seal and/or redact
+  - Summary judgment
+  - Motion for sanctions
+money: None
+intentions:
+  - To impose sanctions on the plaintiff
+  - To dismiss the plaintiff's claims
+facts:
+  - Plaintiff filed multiple amended complaints
+  - Plaintiff named the wrong defendants
+  - Plaintiff failed to comply with court orders
+disputes:
+  - Dispute over the correctness of the plaintiff's claims
+  - Dispute over the imposition of sanctions
+acts:
+  - Filing of complaints and amended complaints
+  - Filing of motions
+  - Failure to comply with court orders
+agreements: None
+laws:
+  - California Code of Civil Procedure section 128.5
+  - California Code of Civil Procedure section 128.7
+  - California Code of Civil Procedure section 128.5(f)(1)(D)(1)
+  - California Code of Civil Procedure section 128.5(f)(1)(D)(2)
+  - California Code of Civil Procedure section 128.7(d)
+case_citations:
+  - Code Civ. Proc., § 128.5
+  - Code Civ. Proc., § 128.7
+  - Code Civ. Proc., § 128.5, subd. (a)
+  - Code Civ. Proc., § 128.5, subd. (b)
+  - Code Civ. Proc., § 128.5, subd. (c)
+  - Code Civ. Proc., § 128.5, subd. (f)(1)(D)(1)
+  - Code Civ. Proc., § 128.5, subd. (f)(1)(D)(2)
+statutes:
+  - California Code of Civil Procedure section 128.5
+  - California Code of Civil Procedure section 128.7
+roles:
+  - Plaintiff
+  - Defendant
+  - Judge
+significant_statements:
+  - The Court found that the plaintiff did not have a colorable legal or factual argument to support the merits of its claims against the defendants.
+  - The Court denied the motion for sanctions under Code of Civil Procedure section 128.7.
+  - The Court denied the motion for sanctions under Code of Civil Procedure section 128.5.
+```
+
+And here is a summary of the judge's tentative ruling in English text:
+
+The judge has denied the motion for sanctions brought by Nationwide Mutual Insurance Company and Scottsdale Insurance Company against Ocean Recovery, LLC. The defendants argued that the plaintiff had acted in bad faith by naming the wrong defendants in multiple amended complaints and by failing to comply with court orders. The judge found that the plaintiff had made a colorable legal and factual argument in its claims against the defendants and that the defendants had failed to show that the plaintiff's actions were taken in bad faith. The judge also noted that the plaintiff had not been given a reasonable opportunity to respond to the defendants' claims and that the sanctions statute must not be construed so as to conflict with the primary duty of an attorney to represent his or her client zealously.
