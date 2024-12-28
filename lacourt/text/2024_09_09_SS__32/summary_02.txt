@@ -1,0 +1,49 @@
+Here is the summary in YAML format:
+
+```
+case_number: [not specified]
+plaintiff_name: [not specified]
+defendant_name: Cartage
+people_names:
+  - Plaintiff
+  - Cartage
+company_names:
+  - Cartage
+  - Difko
+places: [not specified]
+dates:
+  - [not specified]
+events:
+  - Motion for leave to file a cross-complaint
+  - Filing of a cross-complaint
+money: [not specified]
+intentions:
+  - To determine whether to grant leave to file a cross-complaint
+  - To consider the sufficiency of the cross-complaint
+facts:
+  - Cartage's motion for leave to file a cross-complaint
+  - Standard regarding the filing of cross-complaints
+disputes:
+  - Plaintiff opposes Cartage's motion for leave to file a cross-complaint
+acts:
+  - Cartage's motion for leave to file a cross-complaint
+  - Plaintiff's opposition to Cartage's motion
+agreements: [not specified]
+laws:
+  - Standard regarding the filing of cross-complaints
+case_citations:
+  - Difko case
+  - [other relevant cases, but not specified]
+statutes: [not specified]
+roles:
+  - Judge
+  - Plaintiff
+  - Cartage
+significant_statements:
+  - Cartage should be afforded the opportunity to distinguish the Difko case from this case
+  - The sufficiency of the cross-complaint is not a factor to be considered in granting leave to file a permissive cross-complaint
+```
+
+And here is a summary of the judge's tentative ruling in English text:
+
+The judge is considering Cartage's motion to file a cross-complaint and has determined that the standard regarding the filing of cross-complaints should be applied, not the standard regarding motions for judgment on the pleadings. The judge notes that Cartage itself has argued that the sufficiency of the cross-complaint is not a relevant factor in granting leave to file a permissive cross-complaint, and that Cartage should be given the opportunity to distinguish the Difko case from this case. The plaintiff has not provided any binding, applicable authority to refute this argument. The judge's tentative ruling suggests that Cartage's motion for leave to file a cross-complaint may be granted.
