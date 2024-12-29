@@ -1,0 +1,72 @@
+Here is the summary in YAML format:
+
+```
+case_number: 22VECV02435
+plaintiff: Marco Lopez
+defendant: Kevin Jon Gallo, Mauricio Antonio Siguenza
+people:
+  - Marco Lopez
+  - Kevin Jon Gallo
+  - Mauricio Antonio Siguenza
+companies:
+  - Macabi Builders, Inc.
+places:
+  - Los Angeles
+dates:
+  - December 16, 2022
+  - February 8, 2024
+  - June 3, 2024
+  - October 21, 2022
+events:
+  - Premises liability case
+  - Plaintiff's complaint filed
+  - Defendant's motion for judgment on the pleadings
+  - Request for admissions
+money:
+  - None
+intentions:
+  - Defendant seeks judgment on the pleadings
+facts:
+  - Plaintiff was injured while performing contractor services on the roof
+  - Plaintiff alleges Defendant's premises were liable for the injury
+  - Defendant denies liability and asserts it did not exercise control over the work being done
+  - Plaintiff's complaint fails to state a cause of action against Defendant
+disputes:
+  - Plaintiff's allegations of liability vs. Defendant's denials of liability
+acts:
+  - Plaintiff's filing of complaint
+  - Defendant's motion for judgment on the pleadings
+  - Request for admissions
+agreements:
+  - None
+laws:
+  - California Code of Civil Procedure section 438(c)(1)(B)
+  - Evidence Code §452(d)
+  - Civil Code §1714(a)
+  - Ortega v. Kmart Corp. (2001) 26 Cal.4th 1200
+  - Castellon v. U.S. Bancorp (2013) 220 Cal.App.4th 994
+  - Bounds v. Superior Court (2014) 229 Cal.App.4th 468
+  - Wise v. Pacific Gas & Electric Co. (2005) 132 Cal.App.4th 725
+  - Edwards v. Centex Real Estate Corp. (1997) 53 Cal.App.4th 15
+  - Burnett v. Chimney Sweep (2004) 123 Cal.App.4th 1057
+statutes:
+  - California Code of Civil Procedure section 438(c)(1)(B)
+  - Evidence Code §452(d)
+  - Civil Code §1714(a)
+roles:
+  - Judge
+  - Plaintiff
+  - Defendant
+significant statements:
+  - Defendant's motion for judgment on the pleadings is granted without leave to amend.
+  - Plaintiff's complaint fails to state a cause of action against Defendant.
+  - The Request for Admissions deemed admitted negate the elements of Plaintiff's premises liability and general negligence allegations.
+```
+
+And here is a summary of the judge's tentative ruling in English text:
+
+"This is a premises liability case in which the plaintiff, Marco Lopez, claims he was injured while performing contractor services on the roof of the defendants' property. The defendants, Kevin Jon Gallo and Mauricio Antonio Siguenza, have moved for judgment on the pleadings, arguing that the plaintiff's complaint does not state facts sufficient to constitute a cause of action against them.
+
+The court grants the defendants' motion, finding that the plaintiff's complaint fails to state a cause of action against the defendants for premises liability or general negligence. The court also notes that the plaintiff has not responded to the defendants' requests for admissions, which deem admitted certain facts that negate the elements of the plaintiff's claims.
+
+As a result, the court grants the defendants' motion for judgment on the pleadings without leave to amend. This means that the defendants will be dismissed from the case, and the plaintiff will not be able to proceed with his claims against them."
