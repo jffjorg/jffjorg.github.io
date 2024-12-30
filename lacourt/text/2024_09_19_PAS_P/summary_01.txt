@@ -1,0 +1,84 @@
+Here is the summary in YAML format:
+
+```
+case_number: 22AHCV01198
+plaintiff_name: Franses Rodriguez
+defendant_name: City of Pasadena
+people_names:
+  - Franses Rodriguez
+  - Jared D. Moses
+company_names:
+  - City of Pasadena
+places:
+  - Pasadena, CA
+dates:
+  - December 1, 2022
+  - July 11, 2024
+  - July 18, 2024
+  - July 24, 2024
+  - August 2, 2024
+  - August 12, 2024
+  - August 26, 2024
+  - September 3, 2024
+  - September 19, 2024
+events:
+  - Plaintiff filed lawsuit against Defendant
+  - Plaintiff filed Motion for New Trial
+  - Defendant filed opposition to Motion for New Trial
+  - Plaintiff filed reply to opposition
+money: $0
+intentions:
+  - Plaintiff seeks new trial based on irregularity in proceedings, accident or surprise, and newly discovered evidence
+  - Defendant opposes new trial
+  - Judge must decide whether to grant new trial
+facts:
+  - Plaintiff was injured while riding e-scooter on November 15, 2021
+  - Plaintiff claims Defendant was responsible for the defect in the roadway
+disputes:
+  - Whether Defendant is responsible for the defect in the roadway
+  - Whether the Court's order granting summary judgment was correct
+acts:
+  - Plaintiff filed lawsuit against Defendant
+  - Defendant filed motion for summary judgment
+  - Court granted summary judgment
+  - Plaintiff filed Motion for New Trial
+agreements:
+  - Code of Civil Procedure §657
+  - Code of Civil Procedure §658
+  - Code of Civil Procedure §660
+  - Code of Civil Procedure §662.5
+  - California Rules of Court, Rule 3.1600
+laws:
+  - Code of Civil Procedure §657
+  - Code of Civil Procedure §658
+  - Code of Civil Procedure §660
+  - Code of Civil Procedure §662.5
+  - California Rules of Court, Rule 3.1600
+case_citations:
+  - Schelbaurer v Butler Mfg. Co (1984) 35 Cal3d 442, 452
+  - Jacoby v Feldman (1978) 81 Cal App 3d 432, 446
+  - Code Civ. Proc., §656, 657
+  - Code Civ. Proc., §657, subd. (1)
+  - Code Civ. Proc., §657, subd. (3)
+  - Code Civ. Proc., §657, subd. (4)
+  - Code Civ. Proc., §660, subd. (c)
+  - Code Civ. Proc., §662.5, subd. (b)
+  - Code Civ. Proc., §658
+  - Nichols v. Hast (1965) 62 Cal.2d 598, 601
+  - Brewer v. Remington (2020) 46 Cal.App.5th 14, 23
+  - Linhart v. Nelson (1976) 18 Cal.3d 641, 645
+  - Santa Barbara Pistachio Ranch v. Chowchilla Water Dist. (2001) 88 Cal.App.4th 439, 448-449
+  - W.F. Hayward Co. v. Transamerica Ins. Co. 1993) 16 Cal.App.4th 1101, 1111
+  - Goldrich v. Natural Y Surgical Specialties, Inc. (1994) 25 Cal.App.4th 772, 782
+  - Bristow v. Ferguson (1981) 121 Cal.App.3d 823, 826
+roles:
+  - Judge: Jared D. Moses
+  - Plaintiff: Franses Rodriguez
+  - Defendant: City of Pasadena
+significant_statements:
+  - "A new trial shall not be granted upon the ground of excessive or inadequate damages, unless after weighing the evidence the court is convinced from the entire record, including reasonable inferences therefrom, that the court or jury clearly should have reached a different verdict or decision."
+  - "Implicit in the statement of the grounds of the motion whether it will be made upon affidavits or the minutes of the court, or both."
+  - "An order granting summary judgment is properly challenged by a motion for a new trial. This is so, even though, strictly speaking, summary judgment is a determination that there shall be no trial at all."
+```
+
+Please note that this summary is based on the provided text and may not be exhaustive or entirely accurate.
