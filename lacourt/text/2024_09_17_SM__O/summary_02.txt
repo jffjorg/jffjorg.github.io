@@ -1,0 +1,85 @@
+Here is the summary in YAML format:
+
+```
+case_number: 24SMCV03137
+plaintiff_name: Ronald W. Burkle
+defendant_name: Lubov Azria
+people_names:
+  - Lubov Azria
+  - Ronald W. Burkle
+  - Aaron Gordon
+  - Mr. Casparian
+  - Ms. Suchard
+  - Mr. Posivak
+company_names:
+  - Concierge Auctions, LLC
+places:
+  - 10250 West Sunset Boulevard, Los Angeles, CA
+dates:
+  - 5-9-24
+  - 5-3-24
+  - 6-27-24
+  - 6-19-24
+  - 9-17-24
+events:
+  - Auction
+  - Contract signing
+  - Earnest money deposit
+  - Failure to execute PSA
+  - Failure to remit earnest money deposit
+  - Motion to expunge lis pendens
+money:
+  - $30,000,000
+  - $53,590.00
+  - $6,700
+  - $1,720
+  - $860
+  - $525.00
+  - $435
+intentions:
+  - Expunge lis pendens
+  - Award attorney's fees
+facts:
+  - Plaintiff submitted an irrevocable bid for $30,000,000 to purchase the Property
+  - Plaintiff placed the bid on the Property via Concierge Auctions, LLC
+  - Plaintiff failed to sign the PSA or remit the earnest money deposit within the T&C allotted time
+  - Defendant showed that Plaintiff breached the T&C
+disputes:
+  - Breach of contract
+  - Specific performance
+acts:
+  - Auction House required Plaintiff to execute a copy of the T&C in order to bid on the property
+  - Defendant showed that Plaintiff failed to execute the PSA or remit the earnest money deposit
+  - Plaintiff argued that the intent of the parties was for an immediately enforceable contract for the purchase and sale of the Property
+agreements:
+  - Terms and Conditions (T&C)
+  - Purchase and Sale Contract (PSA)
+laws:
+  - California Commercial Code
+  - Code of Civil Procedure
+  - California Civil Code
+case_citations:
+  - CCP § 405.30
+  - CCP § 405.31
+  - CCP § 405.32
+  - Cal. U. Com. Code, § 2328
+  - Cal. U. Com. Code, § 1302
+  - Reeder v. Specialized Loan Servicing LLC
+  - Hester v. Public Storage
+  - Mikhaeilpoor v. BMW of North America, LLC
+  - Concepcion v. Amscan Holdings, Inc.
+  - Chavez v. City of Los Angeles
+roles:
+  - Judge
+  - Plaintiff
+  - Defendant
+  - Auction House
+significant_statements:
+  - "Plaintiff fails to reach their burden of proving by a preponderance of evidence that there is a probable validity to their claims."
+  - "The Motion To Expunge Lis Pendens is GRANTED."
+  - "The Court finds Azria has failed to meet its burden and the Court finds the total time expended is not reasonable under the circumstances."
+```
+
+Here is a summary of the judge's tentative ruling:
+
+The judge grants the motion to expunge the lis pendens, ruling that the plaintiff has failed to meet their burden of proving by a preponderance of evidence that there is a probable validity to their claims. The plaintiff's complaint alleges a breach of contract and seeks specific performance, but the judge finds that the plaintiff has not shown that the parties entered into a binding contract. The judge also awards defendant attorney's fees in the amount of $_____________, to be paid by the plaintiff within 20 days.
