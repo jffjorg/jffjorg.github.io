@@ -1,0 +1,79 @@
+Here is the summary in YAML format:
+
+```
+case_number: 23PSCV01695
+plaintiff: Puente Hills Business Center, L.P.
+defendant: Xu Fan
+people_names:
+  - Sherman Liu
+  - Connie Sheng
+  - Xu Yan Sherry Fan
+  - Feng
+company_names:
+  - FCC Group International (U.S.A.), Inc.
+  - M Capital Global California
+  - Domain Technology & Economy Development, Inc.
+places:
+  - City of Industry
+  - 17870 Castleton Street, Suite 126
+  - 17870 Castleton Street, Suite 132
+  - 17870 Castleton Street, Suite 134
+dates:
+  - December 5, 2012
+  - January 18, 2013
+  - January 31, 2017
+  - March 31, 2019
+  - March 31, 2022
+  - June 6, 2023
+  - March 14, 2024
+  - April 11, 2024
+  - September 1, 2022
+  - September 26, 2024
+events:
+  - Lease agreement
+  - Guaranty of Lease
+  - Sublease or assignment of Lease
+  - Failure to pay rent
+  - Filing of complaint
+  - Filing of cross-complaint
+  - Filing of demurrer
+money:
+  - $30,000.00
+intentions:
+  - To determine whether Liu and Sheng's cross-complaint states a cause of action for breach of contract
+facts:
+  - Puente Hills and FCC entered into a lease agreement in 2012
+  - Fan executed a Guaranty of Lease
+  - The lease was extended through 2022
+  - FCC subleased or assigned the Lease without Puente Hills' knowledge or consent
+  - FCC failed to pay all rent due
+  - Liu and Sheng loaned Fan $30,000.00 in 2019
+  - Fan failed to pay back the loan despite numerous requests
+disputes:
+  - Plaintiff's breach of written guaranty and common count
+  - Cross-defendant's indemnity, fraud, negligence, appropriation of name and likeness, and identity theft
+acts:
+  - Breach of written guaranty
+  - Breach of contract
+  - Failure to pay rent
+agreements:
+  - Lease agreement
+  - Guaranty of Lease
+  - Loan agreement
+laws:
+  - Code of Civil Procedure § 430.10
+  - Code of Civil Procedure § 430.10, subdivisions (e) and (f)
+statutes:
+  - None
+roles:
+  - Judge: H. Puente
+  - Plaintiff: Puente Hills Business Center, L.P.
+  - Defendant: Xu Fan
+  - Cross-defendants: Sherman Liu and Connie Sheng
+significant_statements:
+  - The Court sustains Fan's demurrer to Liu and Sheng's cross-complaint with 20 days' leave to amend
+```
+
+And here is a summary of the judge's tentative ruling in English text:
+
+The Court rules that Xu Fan's demurrer to Sherman Liu and Connie Sheng's cross-complaint is sustained, with 20 days' leave to amend. The cross-complaint alleges a cause of action for breach of contract, but fails to state facts sufficient to constitute a cause of action and is uncertain. Specifically, the cross-complaint does not identify whether the loan was oral or written, the parties' respective obligations, and the terms of repayment. The Court orders Liu and Sheng to amend their cross-complaint to cure these defects.

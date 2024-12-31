@@ -1,0 +1,100 @@
+Here is the summary in YAML format:
+
+```yaml
+Case Number: 19STCV01640
+Plaintiff's Name: Antonio Leon, et al.
+Defendant's Name: James Jaber, M.D., et al.
+People-Names:
+  - Antonio Leon
+  - Blanca Leon
+  - James Jaber, M.D.
+  - Georgia Bode, M.D.
+Company-Names:
+  - Los Angeles Community Hospital
+  - Chase Bank
+  - Citibank
+Places:
+  - Los Angeles
+Dates:
+  - January 22, 2019
+  - May 8, 2019
+  - January 29, 2024
+  - February 9, 2024
+  - March 21, 2024
+  - August 8, 2024
+  - August 27, 2024
+  - August 30, 2024
+  - September 13, 2024
+  - September 16, 2024
+  - September 20, 2024
+  - September 30, 2024
+Events:
+  - Trial
+  - Judgment
+  - Levy
+  - Claim of exemption
+Money:
+  - $12,478,222.95
+  - $1,227,657.16
+  - $97,915.03
+  - $122,309
+  - $261,834.02
+  - $9,000
+  - $384,143.02
+Intentions:
+  - Plaintiff seeks to recover a money judgment from Defendant
+  - Defendant claims exemption over levied funds
+Facts:
+  - Plaintiff Antonio Leon filed a lawsuit against Defendant James Jaber, M.D., et al.
+  - The jury returned a verdict for Plaintiff against Defendant Bode
+  - Defendant claims that the levied funds are retirement funds
+  - Defendant's declaration avers that her bank accounts consist of social security payments, pension benefits, retirement plans, and earnings
+  - Plaintiff has identified the Social Security deposits that can be ascertained from Defendant's evidence
+  - Defendant's LACERA distributions constitute a pension benefit from a public entity that cannot be levied to satisfy a judgment
+Acts:
+  - Levy
+  - Claim of exemption
+  - Opposition to claim of exemption
+  - Reply to opposition
+Agreements:
+  - Code of Civil Procedure
+Laws:
+  - Code of Civil Procedure, § 695.010(a)
+  - Code of Civil Procedure, § 699.510(a)
+  - Code of Civil Procedure, § 703.510(a)
+  - Code of Civil Procedure, § 703.520(a)
+  - Code of Civil Procedure, § 703.540
+  - Code of Civil Procedure, § 703.550(a)
+  - Code of Civil Procedure, § 703.570(a)
+  - Code of Civil Procedure, § 703.580(a)
+  - Code of Civil Procedure, § 703.580(b)
+  - Code of Civil Procedure, § 703.580(d)
+  - Code of Civil Procedure, § 704.080(a)(1), (b)
+  - Code of Civil Procedure, § 704.110(b)
+  - Code of Civil Procedure, § 704.070(b)
+  - Code of Civil Procedure, § 706.011(b)
+  - Code of Civil Procedure, § 706.011(e)
+Case Citations:
+  - Kilker v. Stillman (2015) 233 Cal.App.4th 320
+  - Krolikowski v. San Diego City Employees' Retirement System (2018) 24 Cal.App.5th 537
+Statutes:
+  - Code of Civil Procedure
+Roles:
+  - Plaintiff: Antonio Leon
+  - Defendant: James Jaber, M.D., et al.
+  - Judgment Creditor: Antonio Leon
+Significant Statements:
+  - "Except as otherwise provided by law, all property of the judgment debtor is subject to enforcement of a money judgment."
+  - "The exemption claimant has the burden of proof."
+  - "At the conclusion of the hearing, the court shall determine by order whether or not the property is exempt in whole or in part."
+```
+
+And here is a summary of the judge's tentative ruling:
+
+The court has considered the claim of exemption filed by Defendant James Jaber, M.D., et al. regarding the levied funds from Citibank. The court has determined that Defendant's claim of exemption is GRANTED in the amount of $384,143.02. This amount includes:
+
+* $122,309 in Social Security deposits that can be ascertained from Defendant's evidence
+* $261,834.02 in LACERA distributions that constitute a pension benefit from a public entity
+* $9,000 in wages that are exempt under the wage exemption statute
+
+The court has denied Defendant's claim of exemption regarding the remaining levied funds from Chase Bank, finding that Defendant failed to trace any portion of the levied $97,915.03 to IRA funds and failed to prove that all other funds from Chase constitute IRA funds.
