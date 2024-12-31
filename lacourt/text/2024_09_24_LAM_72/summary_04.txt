@@ -1,0 +1,75 @@
+Here is a YAML summary of the tentative ruling:
+
+```
+Case Number: 24STCV11264
+Plaintiff's Name: Marielita Palacios
+Defendant's Name: Fandom, Inc.
+People-Names: None
+Company-Names: Fandom, Inc.
+Places: None
+Dates:
+  - May 6, 2024 (filing date)
+  - February 2024 ( Plaintiff's visit to the website)
+  - September 24, 2024 (hearing date)
+Events:
+  - Plaintiff visited the website Fandom.com
+  - Plaintiff's IP address was collected by the Accused Code
+  - Plaintiff filed a complaint against Fandom, Inc.
+  - Fandom, Inc. demurred to the complaint and moved to strike certain portions
+Money:
+  - $5,000.00 (minimum amount of damages)
+  - Three times the amount of actual damages (maximum amount of damages)
+Intentions:
+  - Plaintiff intends to bring an action against Fandom, Inc. for violation of CIPA
+Facts:
+  - The Accused Code collects IP addresses of website visitors
+  - The Accused Code is not a pen register because it does not collect destination information
+  - The Court assumes the truth of the complaint's properly pleaded or implied factual allegations
+Disputes:
+  - The meaning of "pen register" and "trap and trace device" under CIPA
+  - The extent of Fandom, Inc.'s liability for violating CIPA
+Acts:
+  - Fandom, Inc. installed and used the Accused Code on its website
+  - Plaintiff visited the website and her IP address was collected
+  - Plaintiff filed a complaint against Fandom, Inc.
+Agreements:
+  - None mentioned
+Laws:
+  - California Invasion of Privacy Act (CIPA)
+  - Penal Code section 638.51
+  - Penal Code section 638.50
+  - Code of Civil Procedure section 436
+  - Code of Civil Procedure section 437
+Case Citations:
+  - Donabedian v. Mercury Ins. Co. (2004) 116 Cal.App.4th 968
+  - E-Fab, Inc. v. Accountants, Inc. Servs. (2007) 153 Cal.App.4th 1308
+  - Hahn v. Mirda (2007) 147 Cal.App.4th 740
+  - Youngman v. Nevada Irrigation Dist. (1969) 70 Cal.2d 240
+  - Lewis v. YouTube, LLC (2015) 244 Cal.App.4th 118
+  - Goodman v. Kennedy (1976) 18 Cal.3d 335
+  - People v. Blair (1979) 25 Cal.3d 640
+Statutes:
+  - California Invasion of Privacy Act (CIPA)
+  - Penal Code section 638.51
+  - Penal Code section 638.50
+  - Code of Civil Procedure section 436
+  - Code of Civil Procedure section 437
+Roles:
+  - Judge: determines the legal issues and makes a tentative ruling
+  - Plaintiff: brings the action against Fandom, Inc. and alleges violations of CIPA
+  - Defendant: demurs to the complaint and moves to strike certain portions
+Significant Statements:
+  - The Accused Code is not a pen register because it does not collect destination information
+  - The Court sustains the demurrer with leave to amend
+  - The Court denies the motion to strike as moot
+```
+
+And here is a summary of the judge's tentative ruling in English text:
+
+The judge has issued a tentative ruling in the case of Marielita Palacios v. Fandom, Inc. The plaintiff alleges that Fandom, Inc. violated the California Invasion of Privacy Act (CIPA) by installing and using a code on its website that collected the plaintiff's IP address. The defendant demurred to the complaint and moved to strike certain portions of it.
+
+The judge sustains the demurrer with leave to amend, meaning that the plaintiff has 15 days to amend its complaint to cure the defects identified by the court. The judge also denies the motion to strike as moot, since the demurrer has been sustained.
+
+The judge concludes that the Accused Code is not a pen register because it does not collect destination information, but rather collects IP addresses of website visitors. The judge also notes that the plaintiff has not alleged that the Accused Code collects incoming information directed toward the plaintiff's computer, and therefore the court does not find that the code constitutes a trap and trace device.
+
+The judge grants the parties' requests for judicial notice and takes notice of the submitted legislative materials as public records. The judge also cites various California court cases and statutes in its ruling.

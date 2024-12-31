@@ -1,0 +1,55 @@
+Here is the summary in YAML format:
+
+```
+case_number: "23STCV23614"
+plaintiff_name: "John Merriett"
+defendant_name: "Uber Technologies, Inc., et al."
+people_names:
+  - John Merriett
+  - Vincent Mack Jr.
+company_names:
+  - Uber Technologies, Inc.
+places: []
+dates:
+  - May 23, 2024
+  - September 24, 2024
+events:
+  - Motion for Protective Order
+  - Meet and Confer
+money: []
+intentions:
+  - To protect Uber's trade secrets
+facts:
+  - Uber operates in a highly competitive environment
+  - Uber's business methodologies are of significant interest to its competitors
+  - Uber gains economic value from the confidentiality of its information
+  - Uber requires employees and independent contractors to sign confidentiality agreements
+disputes:
+  - Plaintiff seeks production of documents related to Uber's relationships with third-party drivers and the utilization of Uber's software application
+  - Uber contends that the information sought is trade secrets
+acts:
+  - Uber submitted a motion for protective order
+  - Plaintiff responded to the motion
+agreements:
+  - Confidential Information and Invention Assignment Agreement
+  - Non-Disclosure Agreement
+  - Employment agreements
+laws:
+  - Code Civ. Proc., § 2031.060
+  - Civ. Code, § 3426.1
+  - Assembly Bill 5
+case_citations: []
+statutes: []
+roles:
+  - Judge: Hon. Lee S. Arian
+  - Plaintiff: John Merriett
+  - Defendant: Uber Technologies, Inc.
+significant_statements:
+  - The Court grants Uber's motion for protective order in part
+  - The Court modifies the scope of the protective order to cover only the relationship between Uber and its third-party drivers, as well as how Uber's third-party drivers are able to access and use Uber's software application
+  - The Court declines to impose a protective order concerning Defendant Mack's alleged private information
+```
+
+And here is a summary of the judge's tentative ruling in English text:
+
+The judge has granted Uber's motion for a protective order in part. The motion was filed to protect Uber's trade secrets related to its relationships with third-party drivers and the utilization of its software application. The judge found that Uber has demonstrated that the information sought by the plaintiff is trade secrets and that the plaintiff's discovery requests would require the disclosure of such information. The judge modified the scope of the protective order to cover only the relationship between Uber and its third-party drivers, as well as how Uber's third-party drivers are able to access and use Uber's software application. The judge also declined to impose a protective order concerning Defendant Mack's alleged private information.
