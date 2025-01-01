@@ -1,0 +1,71 @@
+Here is the summary in YAML format:
+
+```
+case_number: 23PSCV03267
+plaintiff_name: Bankers Healthcare Group, LLC
+defendant_name: Jessi P Changala
+people_names:
+  - Jessi P Changala
+company_names:
+  - Bankers Healthcare Group, LLC
+places:
+  - California
+dates:
+  - October 23, 2023
+  - September 12, 2024
+  - October 3, 2024
+events:
+  - Breach of contract
+  - Request for entry of default judgment
+  - Default judgment
+money:
+  - $37,794.37
+  - $38,119.38
+  - $35,750.63
+  - $1,787.53
+  - $581.22
+  - $1,462.52
+  - $690.00
+  - $10,000
+intentions:
+  - Grant default judgment
+facts:
+  - Plaintiff filed action against defendant
+  - Defendant failed to respond or appear
+  - Plaintiff filed request for entry of default and default judgment package
+disputes:
+  - Attorney fees calculation
+  - Proposed judgment form
+acts:
+  - Plaintiff seeks default judgment
+  - Plaintiff submits revised proposed judgment
+agreements:
+  - Code of Civil Procedure section 585
+  - Code of Civil Procedure section 579
+  - Local Rule 3.214
+laws:
+  - Code of Civil Procedure
+  - Code of Civil Procedure section 585
+  - Code of Civil Procedure section 579
+  - California Rules of Court
+  - Local Rule 3.214
+case_citations:
+  - Code Civ. Proc., § 585
+  - Code Civ. Proc., § 579
+  - Cal. Rules of Court, rule 3.1800
+  - Local Rule 3.214
+statutes:
+  - Code of Civil Procedure section 585
+  - Code of Civil Procedure section 579
+roles:
+  - Judge
+  - Plaintiff
+  - Defendant
+significant_statements:
+  - Plaintiff's request for entry of default judgment is GRANTED in the reduced amount of $37,794.37.
+  - The Court directs Plaintiff to submit a revised proposed judgment correcting the defects identified herein for the Court's review and signature.
+```
+
+And here is a summary of the judge's tentative ruling in English text:
+
+The judge has granted the plaintiff's request for entry of default judgment against the defendant, but with a reduced amount of $37,794.37. The plaintiff had sought default judgment in the amount of $38,119.38. The judge noted that the plaintiff's default judgment package corrected some defects, but the attorney fees calculation was overstated by $325.01. The judge directed the plaintiff to submit a revised proposed judgment with the correct attorney fees amount for review and signature.
