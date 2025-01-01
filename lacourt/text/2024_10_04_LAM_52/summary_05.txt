@@ -1,0 +1,59 @@
+Here is the summary in YAML format:
+
+```
+case_number: 24STCV19760
+hearing_date: 2024-10-04
+department: 52
+tentative_ruling:
+  description: Denial of defendants' motion to strike portions of the complaint
+  defendants: Robert Artura, Building Worx, Inc., Luxe Home Design, Inc.
+  plaintiffs: Danny Izumi, Mariko Izumi
+  people:
+    - Robert Artura
+    - Danny Izumi
+    - Mariko Izumi
+  companies:
+    - Building Worx, Inc.
+    - Luxe Home Design, Inc.
+  places: N/A
+  dates:
+    - N/A
+  events:
+    - Home improvement project
+  money:
+    - Contractor's Fee
+  intentions:
+    - Fraudulent billing
+    - Induce reliance
+  facts:
+    - Plaintiffs hired Building Worx, Inc. for a home improvement project
+    - Plaintiffs agreed to pay a percentage of the project's cost as a Contractor's Fee
+    - Artura allegedly inflated subcontractors' bills to increase his company's profit
+    - Plaintiffs relied on the fraudulent billing
+  disputes:
+    - Whether plaintiffs alleged sufficient facts to support punitive damages
+  acts:
+    - Fraudulent billing
+    - Inflating subcontractors' bills
+  agreements:
+    - Contract between plaintiffs and Building Worx, Inc.
+  laws:
+    - California Civil Code section 3294
+  case_citations:
+    - Turman v. Turning Point of Central California, Inc. (2010) 191 Cal.App.4th 53
+    - C. W. Johnson & Sons, Inc. v. Carpenter (2020) 53 Cal.App.5th 165
+    - Perkins v. Superior Court (1981) 117 Cal.App.3d 1
+    - Rosin v. Superior Court (1960) 181 Cal.App.2d 486
+    - Lovejoy v. AT&T Corp. (2001) 92 Cal.App.4th 85
+  statutes:
+    - California Civil Code section 3294
+  roles:
+    - Judge
+  significant_statements:
+    - "A reasonable trier of fact could conclude these facts constitute fraud as required for punitive damages under California Civil Code section 3294."
+    - "The plaintiff is required to plead only ultimate facts, not evidentiary facts."
+```
+
+And here is a summary of the judge's tentative ruling in English text:
+
+The defendants, Robert Artura, Building Worx, Inc., and Luxe Home Design, Inc., have moved to strike several portions of the complaint filed by plaintiffs Danny Izumi and Mariko Izumi. The defendants argue that the plaintiffs do not allege sufficient facts to support punitive damages. However, the court finds that the plaintiffs have alleged sufficient facts to support punitive damages, including allegations of fraudulent billing and intent to defraud. The court concludes that a reasonable trier of fact could conclude that these facts constitute fraud as required for punitive damages under California Civil Code section 3294. Therefore, the defendants' motion to strike is denied, and they are ordered to answer within 20 days.
