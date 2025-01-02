@@ -1,0 +1,97 @@
+Here is the summary in YAML format:
+
+```
+case_number: 21STCV45088
+plaintiff:
+  name: People of the State of California, ex rel., Allstate Insurance Company
+  role: Plaintiff
+defendants:
+  - name: Adam Avelardo Perez
+    role: Defendant
+  - name: ROAR Management Company, Inc.
+    role: Defendant
+  - name: 11 Funding, LLC
+    role: Defendant
+  - name: Ari Scott Resnik
+    role: Defendant
+people:
+  - name: Alan Todd Turner, M.D.
+  - name: George Mednik, M.D.
+  - name: Mary Aviles
+  - name: Adam Avelardo Perez
+companies:
+  - name: Allstate Insurance Company
+  - name: New Hope Imaging Services, LLC
+  - name: Healthcare Financial Solutions, LLC
+  - name: Healthcare Management Associates
+  - name: ROAR Management Company, Inc.
+  - name: 11 Funding, LLC
+places:
+  - Los Angeles
+dates:
+  - December 10, 2021
+  - October 21, 2022
+  - September 18, 2023
+  - June 20, 2024
+  - October 3, 2024
+  - October 10, 2024
+  - July 30, 2024
+events:
+  - Filing of complaint
+  - Demurrer
+  - Opposition
+  - Reply
+money:
+  - $1,990,000
+  - $4,200,000
+  - $5,000
+  - $10,000
+intentions:
+  - To defraud insurance companies
+  - To perpetuate a scheme to defraud
+facts:
+  - Defendants submitted fraudulent claims to Allstate
+  - Defendants carried out a scheme to defraud insurance companies
+disputes:
+  - Demurrer
+  - Failure to state a cause of action
+acts:
+  - Submitting fraudulent claims
+  - Carrying out a scheme to defraud
+  - Perpetuating a scheme to defraud
+agreements:
+  - Referral agreement between HFS and New Hope
+laws:
+  - California False Claims Act
+  - Insurance Code §1871.7
+  - Unfair Competition Law (Business & Professions Code §17200 et seq.)
+case_citations:
+  - Lewis v. Safeway, Inc.
+  - Donabedian v. Mercury Insurance Co.
+  - Aubry v. Tri-City Hospital District
+  - People v. Blick
+  - Zhang v. Superior Court
+  - Berryman v. Merit Property Management, Inc.
+  - Aleksick v. 7-Eleven, Inc.
+roles:
+  - Alter ego
+  - Agent
+  - Conduit
+  - Owner
+  - Principal
+  - Manager
+significant_statements:
+  - The Court will consider the instant demurrer.
+  - Plaintiff sufficiently alleges a cause of action against ROAR under CIFPA.
+  - Plaintiff sufficiently alleges a cause of action against 11 Funding Defendants under CIFPA.
+  - Plaintiff sufficiently alleges a UCL cause of action against ROAR.
+  - Plaintiff sufficiently alleges a UCL cause of action against 11 Funding Defendants.
+```
+
+And here is a summary in English text:
+
+The tentative ruling addresses the demurrers filed by ROAR Management Company, Inc. and 11 Funding, LLC to the third amended complaint filed by Allstate Insurance Company. The demurrers argue that the complaint does not state facts sufficient to constitute causes of action against the defendants. The court finds that the demurrers are without merit and overrules them.
+
+The complaint alleges that the defendants carried out a scheme to defraud insurance companies by submitting fraudulent claims. The court finds that the complaint sufficiently alleges a cause of action against ROAR under the California False Claims Act and against 11 Funding Defendants under the same act. The court also finds that the complaint sufficiently alleges a cause of action under the Unfair Competition Law against both ROAR and 11 Funding Defendants.
+
+The court notes that the defendants had an opportunity to meet and confer with the plaintiff before filing their demurrers, but were unable to resolve the issues through this process. The court will consider the instant demurrers and will issue a final ruling after reviewing the parties' arguments.
