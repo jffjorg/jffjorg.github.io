@@ -1,0 +1,83 @@
+Here is a summary of the judge's tentative ruling in YAML format:
+
+```
+case_number: 21STCP03001
+plaintiff_name: Sarah Key
+defendant_name: Hidden Hills Community Association (HHCA)
+people_names:
+  - Sarah Key
+  - Cary Brackett (General Manager of HHCA)
+  - Eric P. Harmon (Judge in Department 107)
+  - Virginia Keeny (Judge in Department W)
+company_names:
+  - SoCalGas (Southern California Gas Company)
+  - Land Mark Electric, Inc.
+  - Hidden Hills Corporation
+places:
+  - Hidden Hills
+  - California
+  - Van Nuys
+  - Los Angeles
+dates:
+  - September 13, 2021
+  - April 14, 2022
+  - May 14, 2024
+  - August 2, 2024
+  - August 23, 2024
+  - September 24, 2024
+  - October 22, 2024
+events:
+  - Service of court order
+  - Motion to quash
+  - Debtor examination
+  - Judgment
+  - Appeal
+money:
+  - $254,815.53 (attorneys' fees and costs)
+  - $278,606.81 (judgment amount)
+intentions:
+  - To quash service of court order
+  - To proceed with debtor examination
+  - To enforce judgment
+facts:
+  - Key owns the real property located at 24835 Eldorado Meadow Road, Hidden Hills, California
+  - HHCA is a common interest development
+  - Land Mark proposes to cut and fill 1,880 cubic yards of dirt on its property
+  - HHCA failed to inform Land Mark of the potential trespass on Key's property
+  - Key sought a writ of mandamus and declaratory relief
+disputes:
+  - Whether service of court order was proper
+  - Whether enforcement of judgment is stayed pending appeal
+  - Whether Key must appear for debtor examination
+acts:
+  - Service of court order
+  - Motion to quash
+  - Debtor examination
+  - Judgment
+agreements:
+  - Civil Code sections 4160, 4800 et seq., 4360, 4925(b), 5000(b), and 5200-5240
+  - CCP sections 708.110, 708.120, 708.130, and 415.10
+  - LASC Rule 3.22l(a)(4) and 3.221(b)(1)
+laws:
+  - Civil Code
+  - Code of Civil Procedure (CCP)
+  - Los Angeles Superior Court (LASC) Rules
+case_citations:
+  - Civil Code sections 4160, 4800 et seq., 4360, 4925(b), 5000(b), and 5200-5240
+  - CCP sections 708.110, 708.120, 708.130, and 415.10
+  - LASC Rule 3.22l(a)(4) and 3.221(b)(1)
+statistics:
+  - None
+roles:
+  - Judge: Eric P. Harmon (Department 107)
+  - Judge: Virginia Keeny (Department W)
+  - General Manager: Cary Brackett (HHCA)
+significant_statements:
+  - "Personal service of the order on the judgment debtor is required." (CCP §708.110(d))
+  - "The law does not require idle acts." (Civil Code §3532)
+  - "Failure to file proof of service will result in the proceeding being taken off calendar without costs awarded to the applicant." (LASC Rule 3.221(b)(1))
+```
+
+As for the summary in English text:
+
+The judge's tentative ruling denies the motion to quash the service of the court order by the Hidden Hills Community Association (HHCA) to Sarah Key. Key argues that the enforcement of the judgment against her is stayed pending appeal and that personal service of the order was required. However, the court finds that the order was properly served on Key's attorney, and Key has received actual notice of the debtor examination. The court also finds that the HHCA complied with the Los Angeles Superior Court (LASC) Rules and that the motion to quash is denied.

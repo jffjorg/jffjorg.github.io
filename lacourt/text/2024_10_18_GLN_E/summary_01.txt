@@ -1,0 +1,52 @@
+Here is a summary of the Judge's tentative ruling in YAML format:
+
+```
+case_number: 19BBCV00276
+hearing_date: October 18, 2024
+department: E
+case_name: GARY LEFKOWITZ v. KHALED A. TAWNSEY, et al.
+```
+
+```
+demurrer:
+  - sufficiency: OVERRULED
+    causes_of_action:
+      - breach_of_oral_contract: OVERRULED
+        arguments:
+          - existence_of_contract: OVERRULED
+          - consideration: OVERRULED
+          - privity_of_contract: OVERRULED
+          - statute_of_limitations: OVERRULED
+      - breach_of_implied_in_fact_contract: OVERRULED
+      - breach_of_implied_in_law_contract: OVERRULED
+      - breach_of_fiduciary_duty: OVERRULED
+      - conversion: OVERRULED
+      - accounting: OVERRULED
+```
+
+```
+procedural_analysis:
+  - meet_and_confer: OVERRULED
+    opposition: OVERRULED
+    reply: OVERRULED
+    proof_of_service: OVERRULED
+    court_days_lapsed: OVERRULED
+    proper_address: OVERRULED
+```
+
+```
+legal_standards:
+  - demurrer: sufficiency
+    uncertainty: disfavored
+```
+
+```
+analysis:
+  - preliminary_matters: OVERRULED
+  - privity_of_contract: OVERRULED
+  - statute_of_limitations: OVERRULED
+  - unjust_enrichment: OVERRULED
+  - quantum_meruit: OVERRULED
+```
+
+Please note that this summary is based on the text you provided and may not be a complete or accurate representation of the Judge's ruling.

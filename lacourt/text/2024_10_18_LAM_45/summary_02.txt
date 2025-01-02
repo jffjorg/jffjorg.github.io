@@ -1,0 +1,74 @@
+Here is the YAML summary of the tentative ruling:
+
+```
+case_number: 23STCV19810
+plaintiff_name: Ih Heen Chang, aka Bess Chang
+defendant_name: Aegis Asset Backed Security, LLC, et al.
+people_names:
+  - Ih Heen Chang, aka Bess Chang
+  - Jason Moore
+  - Carrie Patrick
+  - Grace M. Chien
+  - Doe 1-25
+company_names:
+  - Aegis Asset Backed Security, LLC
+  - Aegis Funding, Inc.
+  - Los Angeles County Recorder's Office
+  - United States Bankruptcy Court, Central District of California
+places:
+  - Los Angeles County
+  - California
+dates:
+  - August 18, 2023
+  - August 19, 2024
+  - September 3, 2024
+  - October 4, 2024
+  - October 7, 2024
+  - October 10, 2024
+  - October 11, 2024
+  - October 18, 2024
+events:
+  - Demurrer filed by Defendants
+  - Meet and confer hearing
+  - Request for continuance filed by Plaintiff
+  - Reply in support of demurrer filed by Defendants
+  - Opposition to demurrer (none filed by Plaintiff)
+money:
+  - No specific amount mentioned
+intention:
+  - The Court intends to sustain the demurrer without leave to amend
+facts:
+  - Plaintiff filed a complaint against Defendants alleging breach of contract, fraud, and breach of fiduciary duties
+  - The complaint was demurred to by Defendants
+  - Plaintiff failed to file opposition to the demurrer
+disputes:
+  - Whether the complaint states a cause of action for breach of contract, fraud, and breach of fiduciary duties
+acts:
+  - Plaintiff filed the complaint
+  - Defendants filed the demurrer
+  - Plaintiff failed to file opposition to the demurrer
+agreements:
+  - Adequate Protection Payment Plan
+  - Note Secured by Deed of Trust
+laws:
+  - California Code of Civil Procedure (CCP) §430.10(c)
+  - California Code of Civil Procedure (CCP) §430.41(a)
+  - California Evidence Code (CEC) sections 451 and 452
+case_citations:
+  - Maxwell v. Dolezal (2014) 231 Cal.App.4th 93
+  - Lazar v. Superior Court (1996) 12 Cal. 4th 631
+  - Wald v. TruSpeed Motorcars, LLC (2010) 184 Cal.App.4th 378
+  - Gutierrez v. Girardi (2011) 194 Cal. App. 4th 925
+  - Wolf v. Superior Court (2003) 107 Cal.App.4th 25
+statutes:
+  - California Code of Civil Procedure (CCP) §430.10(c)
+  - California Code of Civil Procedure (CCP) §430.41(a)
+  - California Evidence Code (CEC) sections 451 and 452
+roles:
+  - Judge: Mel Red Recana
+  - Plaintiff: Ih Heen Chang, aka Bess Chang
+  - Defendant: Aegis Asset Backed Security, LLC, et al.
+significant_statements:
+  - The Court sustains the demurrer without leave to amend
+  - The complaint fails to state a cause of action for breach of contract, fraud, and breach of fiduciary duties
+  - Plaintiff failed to file opposition to the demurrer
