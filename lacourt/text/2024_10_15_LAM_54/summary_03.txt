@@ -1,0 +1,64 @@
+Here is the summary in YAML format:
+
+```
+Case Number: 24STCV10555
+Plaintiff's Name: Sara Keller
+Defendant's Name: Anthem Blue Cross Life and Health Insurance Company, et al.
+People-Names:
+  - Robinson
+  - Maurice A. Leiter
+Company-Names:
+  - Elevance Health
+  - Elevance Health, Inc.
+  - Anthem Blue Cross Life and Health Insurance Company
+Places:
+  - Los Angeles
+  - California
+Dates:
+  - April 26, 2024
+  - June 30, 2005
+  - July 25, 2005
+  - October 8, 2024
+  - October 15, 2024
+Events:
+  - Motion to Compel Arbitration
+  - Hearing Date
+  - Filing of Joinder
+Money: None
+Intentions:
+  - Compel arbitration
+  - Stay action
+  - Deny joinder
+Facts:
+  - Plaintiff filed a complaint against defendants asserting 8 causes of action
+  - Defendants move to compel arbitration based on arbitration agreements
+  - Plaintiff argues agreement is unconscionable
+  - Defendants argue delegation clause reserves issues of arbitrability for arbitrator
+Disputes:
+  - Existence of arbitration agreement
+  - Enforceability of agreement
+  - Gateway questions of arbitrability
+Acts:
+  - Execution of arbitration agreements
+  - Filing of motion to compel arbitration
+  - Filing of joinder
+Agreements:
+  - Arbitration agreements in employment application and New Associate Acknowledgment form
+  - Delegation clause in agreement
+Laws:
+  - California Code of Civil Procedure (CCP) § 1281.2
+  - California Code of Civil Procedure (CCP) § 1005
+  - Pinnacle Museum Tower Assn. v. Pinnacle Market Development (US), LLC (2012) 55 Cal.4th 223, 236
+Statutes:
+  - California Code of Civil Procedure (CCP) § 1281.2
+  - California Code of Civil Procedure (CCP) § 1005
+Roles:
+  - Judge: Maurice A. Leiter
+  - Plaintiff: Sara Keller
+  - Defendant: Anthem Blue Cross Life and Health Insurance Company, et al.
+  - Moving Party: Defendants The Elevance Health Companies of California and Elevance Health, Inc.
+  - Responding Party: Plaintiff Sara Keller
+Significant Statements:
+  - "To establish this exception, it must be shown by 'clear and unmistakable' evidence that the parties intended to delegate the issue to the arbitrator." (Ajamian, supra, 203 Cal.App.4th at 781)
+  - "The party seeking arbitration bears the burden of proving the existence of an arbitration agreement, and the party opposing arbitration bears the burden of proving any defense, such as unconscionability." (Pinnacle Museum Tower Assn. v. Pinnacle Market Development (US), LLC (2012) 55 Cal.4th 223, 236)
+  - "The right to compel arbitration exists unless the court finds that the right has been waived by a party's conduct, other grounds exist for revocation of the agreement, or where a pending court action arising out of the same transaction creates the possibility of conflicting rulings on a common issue of law or fact." (CCP § 1281.2(a)-(c))
