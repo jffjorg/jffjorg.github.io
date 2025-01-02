@@ -1,0 +1,88 @@
+Here is a summary of the tentative ruling in YAML format:
+
+```
+case_number: 20STCV12995
+plaintiff_name: Mason Breaux
+defendant_name: Carminita Corporation, et al.
+people_names:
+  - Mason Breaux
+  - Gore Bros
+  - 4301 Beverly
+  - Astromic, LLC
+  - Weinstock
+  - Hughes
+company_names:
+  - Gore Bros
+  - 4301 Beverly
+  - Astromic, LLC
+  - BB&H Engineering
+places:
+  - 4317 Beverly Boulevard, Los Angeles, California
+  - 4315 Beverly Boulevard (also known as 4317 Beverly Boulevard)
+  - 4305 and 4311-4325 and 4327 Beverly Boulevard, Los Angeles, California
+dates:
+  - May 1, 2018
+  - July 15, 2016
+  - December 22, 2017
+  - November 2017
+  - March 2018
+  - January 15, 2018
+  - January 15, 2018 (final walk-through)
+events:
+  - Accident involving Mason Breaux
+  - Pre-lease inspections
+  - Sublease agreement
+  - Inspections conducted by 4301 Beverly and Astromic
+  - Final walk-through inspection
+money: N/A
+intentions:
+  - To determine whether the defendants conducted a reasonable inspection
+  - To determine whether the defendants breached their duty to the plaintiff
+  - To determine whether the defendants contributed to the subject incident
+facts:
+  - Plaintiff was struck by a piece of concrete that fell from the ceiling of a basement
+  - The basement was located at 4317 Beverly Boulevard, Los Angeles, California
+  - The defendants conducted pre-lease inspections in 2016 and found no defects
+  - The defendants conducted multiple inspections in 2017-2018 and found no dangerous conditions
+  - The plaintiff's expert opines that the condition depicted in the photograph would not have developed over a period of only four months
+  - The defendants did not detect the defective condition during the final walk-through
+disputes:
+  - Whether the defendants conducted a reasonable inspection
+  - Whether the defendants breached their duty to the plaintiff
+  - Whether the defendants contributed to the subject incident
+acts:
+  - Conducting pre-lease inspections
+  - Conducting multiple inspections in 2017-2018
+  - Final walk-through inspection
+  - Failure to detect the defective condition
+agreements:
+  - Sublease agreement between 4301 Beverly and Astromic, LLC
+laws:
+  - California Civil Code
+  - California Code of Civil Procedure
+  - Stone v. Center Trust Retail Properties, Inc. (2018) 163 Cal.App.4th 608
+  - Becker v. IRM Corp. (1985) 38 Cal.3d 454
+  - Garcia v. Holt (2015) 242 Cal.App.4th 600
+statutes:
+  - California Civil Code
+  - California Code of Civil Procedure
+roles:
+  - Judge: Hon. Lee S. Arian
+  - Plaintiff: Mason Breaux
+  - Defendant: Carminita Corporation, et al.
+  - Expert: Hughes
+  - Witness: Weinstock
+significant_statements:
+  - The court grants summary judgment as to Defendant Gore Bros.
+  - The court denies summary judgment and summary adjudication as to Defendant 4301 Beverly
+  - The court finds that the defendants conducted a thorough inspection in 2016 and found no defects
+  - The court finds that the defendants failed to detect the defective condition during the final walk-through
+```
+
+And here is a summary of the tentative ruling in English text:
+
+The tentative ruling grants summary judgment as to Defendant Gore Bros, finding that they conducted a reasonable inspection in 2016 and found no defects. The court denies summary judgment and summary adjudication as to Defendant 4301 Beverly, finding that they failed to detect the defective condition during the final walk-through inspection.
+
+The court finds that the defendants conducted thorough inspections in 2016 and 2017-2018, and found no dangerous conditions. The court also finds that the plaintiff's expert, Hughes, opines that the condition depicted in the photograph would not have developed over a period of only four months, and that the defendants failed to detect the defective condition during the final walk-through inspection.
+
+The court concludes that the defendants breached their duty to the plaintiff by failing to detect the defective condition, and that they contributed to the subject incident. The court grants summary judgment as to Defendant Gore Bros, and denies summary judgment and summary adjudication as to Defendant 4301 Beverly.
