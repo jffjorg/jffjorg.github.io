@@ -1,0 +1,61 @@
+Here is a summary of the tentative ruling in YAML format:
+
+```
+case_number: 23STCV19730
+plaintiff: Alexander Montoya
+defendant: MNE Conglomerate, Inc. et al.
+people: Alexander Montoya, Roman Otkupman
+company: MNE Conglomerate, Inc., ENW Trucking, LLC
+places: California, Los Angeles, Wilmington
+dates:
+  - August 17, 2023
+  - March 5, 2024
+  - June 26, 2024
+  - September 18, 2024
+  - November 4, 2024
+  - November 19, 2024
+events:
+  - Filing of complaint
+  - Mandatory Settlement Conference
+  - Submission of proposed settlement agreement
+money:
+  - $200,000 (Gross Settlement Amount)
+  - $7,500 (Individual PAGA Payments)
+  - $22,500 (LWDA PAGA Payment)
+  - $66,600 (Class Counsel Fees Payment)
+  - $15,000 (Class Counsel Litigation Expenses Payment)
+  - $10,000 (Administration Expenses Payment)
+  - $10,000 (enhancement award)
+intentions:
+  - To approve the proposed settlement agreement
+  - To ensure the fairness and reasonableness of the settlement
+facts:
+  - Plaintiff was employed by Defendants as a non-exempt, hourly employee
+  - Plaintiff alleges that Defendants failed to comply with labor laws and regulations
+  - The parties negotiated a proposed settlement agreement
+disputes:
+  - None mentioned in the ruling
+acts:
+  - Submission of proposed settlement agreement
+  - Mandatory Settlement Conference
+  - Filing of motion for preliminary approval of class and representative action settlement
+agreements:
+  - Class Action and PAGA Settlement Agreement
+laws:
+  - Labor Code § 226(a), (e), 1174(d), 201-203, 204(a)(b), 2802
+  - Labor Code § 2699, subd. (l)
+  - Civil Code section 1542
+roles:
+  - Judge: Mel Red Recana
+  - Plaintiff: Alexander Montoya
+  - Defendant: MNE Conglomerate, Inc. et al.
+  - Class Counsel: Otkupman Law Firm, ALC
+significant statements:
+  - The Court grants the motion for preliminary approval of class and representative action settlement
+  - The settlement is entitled to a presumption of fairness
+  - The Court will decide the issue of the enhancement awards at the time of final approval
+```
+
+Summary:
+
+The Court grants the motion for preliminary approval of the proposed settlement agreement between Plaintiff Alexander Montoya and Defendants MNE Conglomerate, Inc. et al. The settlement agreement provides for a gross settlement amount of $200,000, with individual class payments calculated based on the number of workweeks worked by each class member. The agreement also provides for attorney fees and litigation expenses, as well as an enhancement award of up to $10,000 to the named plaintiff. The Court finds that the settlement is entitled to a presumption of fairness and will decide the issue of the enhancement awards at the time of final approval.

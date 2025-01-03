@@ -1,0 +1,87 @@
+Here is a summary of the tentative ruling in YAML format:
+
+```
+case_number: 21STCV27870
+hearing_date: November 15, 2024
+plaintiff: Comerica Bank
+defendant: Video Tech Services, Inc. and John Manzano
+people_names:
+  - Kerry Bensinger
+  - Barry J. Cohen
+  - John Manzano
+company_names:
+  - Comerica Bank
+  - Video Tech Services, Inc.
+places:
+  - California
+dates:
+  - November 29, 2018
+  - June 30, 2021
+  - July 29, 2021
+  - June 28, 2023
+  - September 18, 2023
+  - July 10, 2024
+  - October 31, 2024
+  - November 8, 2024
+  - November 15, 2024
+events:
+  - Execution of Master Revolving Note
+  - Default on payment
+  - Filing of UCC Financing Statement
+  - Acceleration of sums due
+  - Oral modification of Note
+  - Acceptance of interest-only payments
+money:
+  - $250,000
+intention:
+  - To seek summary judgment or summary adjudication
+facts:
+  - Comerica Bank is a banking institution
+  - Video Tech Services, Inc. provides audio and visual services
+  - John Manzano guaranteed the Note
+  - The parties executed a Master Revolving Note
+  - Comerica Bank accelerated all sums due
+  - The parties orally modified the Note
+disputes:
+  - Modification of the Note
+  - Breach of contract
+  - Waiver of enforcement of contract provision
+acts:
+  - Execution of Master Revolving Note
+  - Filing of UCC Financing Statement
+  - Acceleration of sums due
+  - Oral modification of Note
+  - Acceptance of interest-only payments
+agreements:
+  - Master Revolving Note
+  - Security Agreement
+  - Oral modification of Note
+laws:
+  - California Civil Code
+  - California Code of Civil Procedure
+  - Uniform Commercial Code
+citations:
+  - Code Civ. Proc., § 437c
+  - Code Civ. Proc., § 473c
+  - Code Civ. Proc., § 1008
+  - Kumaraperu v. Feldsted (2015) 237 Cal.App.4th 60
+  - Wind Dancer Production Group v. Walt Disney Pictures (2017) 10 Cal.App.5th 56
+  - Zinn v. Fred R. Bright Co. (1969) 271 Cal.App.2d 597
+  - FPI Dev., Inc. v. Nakashima (1991) 231 Cal.App.3d 367
+  - California Bank & Trust v. Lawlor (2013) 222 Cal.App.4th 625
+statutes:
+  - Code Civ. Proc., § 437c
+  - Code Civ. Proc., § 473c
+  - Code Civ. Proc., § 1008
+roles:
+  - Judge: Kerry Bensinger
+significant_statements:
+  - The court must liberally construe the evidence in support of the party opposing summary judgment
+  - The court must consider all of the evidence set forth in the papers, except the evidence to which objections have been made and sustained by the court
+  - The burden of showing a cause of action cannot be established is on the defendant
+  - The burden shifts to the plaintiff to show that a triable issue of one or more material facts exists as to the cause of action or a defense thereto
+```
+
+And here is a summary of the tentative ruling in English text:
+
+The court has denied Comerica Bank's motion for summary judgment or summary adjudication as to the first and third causes of action (breach of promissory note and breach of personal guaranty) because there are triable issues of material fact with respect to modification of the note. The court has also denied the motion as to the second cause of action (foreclosure of security agreement and possession of collateral) because the parties orally modified the note and the court finds that the defendants have presented evidence sufficient to show that the plaintiff waived enforcement of the contract provision requiring amendment or modification to be in writing. The motion is also denied as to the fifth cause of action (account stated) because the plaintiff did not plead the claim and the evidence offered in support of the claim is irrelevant.
