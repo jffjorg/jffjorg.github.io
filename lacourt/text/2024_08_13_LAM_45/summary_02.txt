@@ -1,0 +1,54 @@
+Here is the summary of the tentative ruling in YAML format:
+
+```
+Case Number: 23STCV12218
+Plaintiff's Name: Annie Lin
+Defendant's Name: Fabian Ponce, Debbie Fernandez, Paul Fernandez, Miroslava Rubio
+People-Names:
+  - Annie Lin (Plaintiff)
+  - Fabian Ponce (Defendant)
+  - Debbie Fernandez (Defendant)
+  - Paul Fernandez (Defendant)
+  - Miroslava Rubio (Defendant)
+Company-Names: None
+Places: None
+Dates:
+  - 05/30/2023 (Action Filed)
+  - 08/13/2024 (Hearing Date)
+Events:
+  - Default Judgment
+  - OSC (Order to Show Cause)
+Money:
+  - $54,430.45 (total judgment)
+    - $33,000.00 (damages)
+    - $14,275.89 (prejudgment interest)
+    - $6,200.00 (attorney's fees)
+    - $954.56 (costs)
+Intentions:
+  - Plaintiff seeks to enforce default judgment
+  - Court denies judgment without prejudice
+Facts:
+  - Plaintiff failed to comply with Rule 3.1800
+  - Plaintiff failed to dismiss Does 1 through 10
+Disputes:
+  - Plaintiff's failure to comply with Rule 3.1800
+Acts:
+  - Plaintiff filed action
+  - Plaintiff failed to dismiss Does 1 through 10
+  - Court considered moving papers
+Agreements: None
+Laws:
+  - Rule 3.1800
+Case Citations: None
+Statutes: None
+Roles:
+  - Judge: Mel Red Recana
+  - Plaintiff: Annie Lin
+  - Defendant: Fabian Ponce, Debbie Fernandez, Paul Fernandez, Miroslava Rubio
+Significant Statements:
+  - "The Court denies without prejudice the judgment against Defendants Fabian Ponce, Debbie Fernandez, Paul Fernandez, and Miroslava Rubio jointly or severally..."
+```
+
+And here is a summary of the judge's tentative ruling in English text:
+
+The court has considered the moving papers and has denied the plaintiff's request for a default judgment against defendants Fabian Ponce, Debbie Fernandez, Paul Fernandez, and Miroslava Rubio. The plaintiff failed to comply with Rule 3.1800 by not dismissing Does 1 through 10. As a result, the court has denied the judgment without prejudice. The judgment sought was for $54,430.45, consisting of $33,000.00 in damages, $14,275.89 in prejudgment interest, $6,200.00 in attorney's fees, and $954.56 in costs.
