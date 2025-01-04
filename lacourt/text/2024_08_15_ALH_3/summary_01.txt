@@ -1,0 +1,62 @@
+Here is the summary of the Tentative Ruling in YAML format:
+
+```yaml
+Case Number: 22AHCV00114
+Plaintiff's Name: Violeta Martin
+Defendant's Name: Welch Law Firm
+People-Names:
+  - Chris Prussak
+  - William A. Crowfoot
+Company-Names:
+  - Prussak, Welch, & Avila
+  - Welch Law & Associates
+Places:
+  - Los Angeles
+  - California
+Dates:
+  - December 14, 2023
+  - January 24, 2024
+  - August 15, 2024
+Events:
+  - Motion to be Relieved as Counsel
+  - Motion to Compel Responses to Discovery
+Money:
+  - $143.91 (monetary sanction)
+Intentions:
+  - Motion to be Relieved as Counsel: to relieve Chris Prussak of representation
+    for Welch Law & Associates
+  - Motion to Compel Responses to Discovery: to compel Welch Law Firm to provide
+    responses to discovery requests
+Facts:
+  - Chris Prussak of Prussak, Welch, & Avila filed an answer on behalf of
+    Welch Law & Associates, allegedly without authorization
+  - Welch Law Firm failed to serve timely responses to discovery requests
+Disputes:
+  - None mentioned
+Acts:
+  - Chris Prussak filed a motion to be relieved as counsel
+  - Plaintiff filed a motion to compel responses to discovery
+  - Court granted both motions
+Agreements:
+  - None mentioned
+Laws:
+  - Code of Civil Procedure, sections 2030.290, 2031.300
+  - People v. Prince (1968) 268 Cal.App.2d 398, 406
+Case Citations:
+  - People v. Prince (1968) 268 Cal.App.2d 398, 406
+  - Healthcare Consulting, Inc. v. Pacific Healthcare Consultants (2007) 148 Cal.App.4th 390, 403
+Statutes:
+  - Code of Civil Procedure, sections 2030.290, 2031.300
+Roles:
+  - Judge: William A. Crowfoot
+  - Plaintiff: Violeta Martin
+  - Defendant: Welch Law Firm
+  - Attorney: Chris Prussak
+Significant Statements:
+  - "Absent showing of prejudice, attorney's motion for withdrawal should be granted."
+  - "The court may make an order compelling responses where a party fails to serve timely responses to discovery requests."
+```
+
+And here is a summary of the Tentative Ruling in English text:
+
+This Tentative Ruling addresses two motions: a motion to be relieved as counsel filed by Chris Prussak of Prussak, Welch, & Avila, and a motion to compel responses to discovery filed by Plaintiff Violeta Martin. The Court grants both motions. The motion to be relieved as counsel is granted because Prussak was not authorized to file an answer on behalf of Welch Law & Associates, and there is no prejudice to the defendant. The motion to compel responses to discovery is granted because Welch Law Firm failed to serve timely responses to discovery requests. The Court also imposes a monetary sanction of $143.91 on Welch Law Firm, payable within 20 days, for failing to serve timely responses to discovery requests.
