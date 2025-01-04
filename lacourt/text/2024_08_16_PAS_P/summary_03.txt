@@ -1,0 +1,48 @@
+Here is the summary in YAML format:
+
+```
+Case Number: ???
+Plaintiff's Name: ???
+Defendant's Name: Wennberg
+People-Names:
+  - Jay
+  - Mahaffey
+Company-Names: []
+Places: []
+Dates:
+  - 2013
+Events:
+  - Demurrer
+  - Reply
+Money: []
+Intentions:
+  - Comply with California Rules of Court
+  - Decline to consider new argument
+Facts:
+  - Demurrer combines grounds for demurrer into same paragraphs
+  - Rule 3.1320(a) requires separate paragraphs for each ground
+  - Argument raised for first time on reply
+Disputes:
+  - Sufficiency of facts in second cause of action
+Acts:
+  - Filing demurrer
+  - Filing reply
+  - Admonishing defendant to comply with California Rules of Court
+Agreements: []
+Laws:
+  - California Rules of Court (CRC 3.1320(a))
+  - Jay v. Mahaffey (2013) 218 Cal.App.4th 1522, 1537-1538
+Statutes: []
+Roles:
+  - Judge
+  - Plaintiff
+  - Defendant
+Significant Statements:
+  - The Court notes that Defendant Wennberg's demurrer combines the grounds for demurrer to the first and second causes of action into the same paragraphs.
+  - The Court admonishes Defendant Wennberg to comply with the requirements of the California Rules of Court going forward.
+  - The Court declines to consider the argument raised in the reply because it was raised for the first time.
+```
+
+And here is a summary of the judge's tentative ruling in English text:
+
+The judge has issued a tentative ruling regarding a demurrer filed by the defendant, Wennberg. The judge notes that the demurrer combines two separate grounds for demurrer into the same paragraphs, which violates a California rule of court. The judge admonishes Wennberg to comply with this rule going forward. The judge also declines to consider an argument raised by Wennberg in their reply because it was raised for the first time and is not permitted.
