@@ -1,0 +1,58 @@
+Here is the summary in YAML format:
+
+```
+case_number: "TBD"
+plaintiff's_name: "TBD"
+defendant's_name: "TBD"
+people_names:
+  - Bielski
+company_names:
+  - Coinbase, Inc.
+places:
+  - Los Angeles
+dates:
+  - August 21, 2024
+  - 2023
+  - TBD
+events:
+  - Arbitration
+  - Appeal
+  - Stay pending appeal
+money: "TBD"
+intentions:
+  - Denial of motion to compel arbitration
+  - Preemption by the FAA
+  - Waiver
+facts:
+  - Related case concerns employment relationship
+  - Parties submitted related case to arbitration
+  - Same Agreement at issue in this case
+disputes:
+  - Preemption by the FAA
+  - Choice-of-law provision in the Agreement
+  - Waiver
+acts:
+  - Denial of motion to compel arbitration
+  - Submission of related case to arbitration
+  - Stipulation to Arbitration
+agreements:
+  - Arbitration Agreement
+  - Choice-of-law provision in the Agreement
+laws:
+  - Federal Arbitration Act (FAA)
+  - California Code of Civil Procedure (CCP)
+  - 9 U.S.C. § 16(a)
+  - Coinbase, Inc. v. Bielski (2023) 599 U.S. 736
+statutes:
+  - 9 U.S.C. § 16(a)
+  - CCP § 1294(a)
+roles:
+  - Judge
+significant_statements:
+  - The court declines to develop the arguments concerning preemption by the FAA
+  - The court notes that the related case concerns the employment relationship
+```
+
+And here is a summary of the judge's tentative ruling in English text:
+
+The judge has issued a tentative ruling on a motion to compel arbitration. The court notes that the related case, which concerns the employment relationship, has been submitted to arbitration and that the parties have agreed to arbitrate. The judge declines to develop arguments concerning preemption by the Federal Arbitration Act (FAA) and the choice-of-law provision in the Agreement. The court also notes that if it did apply, it would be obligated to issue a stay pending appeal pursuant to Coinbase, Inc. v. Bielski (2023) 599 U.S. 736. The judge will issue a final ruling after considering the parties' arguments and evidence.
