@@ -1,0 +1,59 @@
+Here is a summary of the Judge's tentative ruling in YAML format:
+
+```
+case_number: 24STCV08721
+hearing_date: September 4, 2024
+department: 54
+judge: Maurice A. Leiter
+parties:
+  - plaintiff: Andrew Luber
+  - defendants:
+      - Quixote Studios LLC
+      - Sunset Quixote Holdings, LLC
+      - Joseph Williams
+      - Does 1-100
+
+motion: Motion to Compel Arbitration and Stay Proceedings
+moving_parties: Quixote Studios LLC, Sunset Quixote Holdings, LLC
+responding_party: Andrew Luber
+
+ruling:
+  - grants: motion to compel arbitration as to second, third, fourth, and sixth causes of action
+  - denies: motion as to first and fifth causes of action
+  - stays: case pending completion of arbitration
+
+background:
+  - adverse employment action filed by Andrew Luber against Quixote Studios, LLC, Sunset Quixote Holdings, LLC, and Joseph Williams
+  - causes of action: discrimination, harassment, failure to prevent discrimination, retaliation, violation of Labor Code, and violation of public policy
+
+evidentiary_matters:
+  - defendants ask court to take judicial notice of exhibits (1)-(4), which are California Superior Court orders concerning various motions to compel arbitration
+
+analysis:
+  - CCP § 1281.2: court shall order parties to arbitrate if it determines that an agreement to arbitrate exists
+  - CCP § 1281.2(a)-(c): court shall not compel arbitration if the right has been waived by a party's conduct, or where a pending court action creates the possibility of conflicting rulings on a common issue of law or fact
+  - Pinnacle Museum Tower Assn. v. Pinnacle Market Development (US), LLC (2012) 55 Cal.4th 223, 236: party seeking arbitration bears burden of proving existence of arbitration agreement, and opposing party bears burden of proving any defense
+
+arbitration_agreement:
+  - entered between plaintiff and defendants on May 15, 2023
+  - provides for arbitration of claims arising out of plaintiff's employment
+  - governed by rules of JAMS, ADR Services, or other reputable dispute resolution organization
+  - parties entitled to all discovery to which they would have been entitled had the controversy been filed in court
+  - arbitrator must issue written opinion stating essential findings of fact and conclusions of law
+
+efa_and_effa:
+  - Ending Forced Arbitration of Sexual Assault and Sexual Harassment Act of 2021: no pre-dispute arbitration agreement enforceable with respect to a case filed under federal, tribal, or state law and relates to sexual harassment dispute
+  - EFAA applies to plaintiff's second cause of action for harassment in violation of Government Code § 12940 et seq.
+  - defendants argue that plaintiff's other causes of action are not related to sexual harassment dispute and must be arbitrated
+  - court agrees that EFAA intends only that claims "related to" the sexual harassment dispute be adjudicated together in court
+  - court concludes that some claims may be arbitrated, while others may be litigated in court
+
+significant_statements:
+  - court notes that federal trial court decisions and Superior Court rulings are not binding on this court
+  - court agrees that FAA commonly permits claim splitting
+  - court concludes that EFAA intends only that claims "related to" the sexual harassment dispute be adjudicated together in court
+```
+
+Here is a summary of the Judge's tentative ruling in English text:
+
+The Judge grants the motion to compel arbitration as to the second, third, fourth, and sixth causes of action, and denies the motion as to the first and fifth causes of action. The case is stayed pending completion of the arbitration. The Judge finds that the Ending Forced Arbitration of Sexual Assault and Sexual Harassment Act of 2021 (EFAA) applies to the second cause of action for harassment in violation of Government Code § 12940 et seq. The Judge concludes that some claims may be arbitrated, while others may be litigated in court. The Judge notes that federal trial court decisions and Superior Court rulings are not binding on this court, and that the court agrees that the Federal Arbitration Act (FAA) commonly permits claim splitting.
