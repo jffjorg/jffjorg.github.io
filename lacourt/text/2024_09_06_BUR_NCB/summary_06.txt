@@ -1,0 +1,106 @@
+Here is the summary in YAML format:
+
+```
+case:
+  number: 22BBCV00980
+  hearing_date: 2024-09-06
+  department: NCB
+  superior_court: Los Angeles County
+  county: Los Angeles
+  district: North Central
+
+parties:
+  plaintiff: John Doe
+  defendants:
+    - City of Los Angeles
+    - August Weidmen
+    - Prime Healthcare Services – Sherman Oaks, LLC dba Sherman Oaks Hospital
+
+people:
+  - John Doe
+  - Jeffrey Blake
+  - August Weidman
+
+companies:
+  - Bank of America
+  - Prime Healthcare Services – Sherman Oaks, LLC
+  - Sherman Oaks Hospital
+
+places:
+  - North Hollywood
+  - USC Verdugo Hills Hospital
+  - Sherman Oaks Hospital
+
+dates:
+  - 2021-11-15
+  - 2022-11-16
+  - 2023-12-21
+  - 2024-01-26
+  - 2024-02-21
+  - 2024-02-27
+  - 2024-03-05
+  - 2024-03-08
+  - 2024-05-16
+  - 2024-08-13
+  - 2024-08-23
+  - 2024-09-06
+  - 2025-03-05
+
+events:
+  - Demurrer hearing
+  - Motion to set aside and vacate order
+
+money:
+  - None
+
+intentions:
+  - Plaintiff is seeking to set aside and vacate the Court's order dismissing City and Weidmen and sustaining their demurrers without leave to amend.
+  - Plaintiff is also seeking to amend the complaint to allege facts against Sherman Oaks Hospital that support each cause of action's distinct elements.
+
+facts:
+  - Plaintiff alleges that he went to the Bank of America branch on November 15, 2021, and began feeling Covid-like symptoms.
+  - Plaintiff alleges that he informed the bank manager of his health concerns and was taken to the hospital by paramedics from the Los Angeles Fire Department.
+  - Plaintiff alleges that he was injected with Versed without his consent and suffered from rhabdomyolysis and a heart attack during his stay at the hospital.
+
+disputes:
+  - City and Weidmen demurred to the complaint, arguing that it failed to state a cause of action.
+  - Sherman Oaks Hospital demurred to the complaint, arguing that it failed to allege sufficient facts to constitute a cause of action.
+
+acts:
+  - Plaintiff filed a complaint on November 16, 2022, alleging causes of action against City, Weidmen, and Sherman Oaks Hospital.
+  - City and Weidmen filed a demurrer to the complaint on January 26, 2024.
+  - Sherman Oaks Hospital filed a demurrer to the complaint on May 16, 2024.
+  - Plaintiff filed a motion to set aside and vacate the Court's order dismissing City and Weidmen and sustaining their demurrers without leave to amend on August 13, 2024.
+
+agreements:
+  - None
+
+laws:
+  - California Code of Civil Procedure (CCP) § 472(a)
+  - California Code of Civil Procedure (CCP) § 473(b)
+  - 42 U.S.C. § 1983
+
+case_citations:
+  - None
+
+statutes:
+  - California Code of Civil Procedure (CCP) § 472(a)
+  - California Code of Civil Procedure (CCP) § 473(b)
+
+roles:
+  - Judge: John Kralik
+  - Plaintiff: John Doe
+  - Defendants: City of Los Angeles, August Weidmen, and Prime Healthcare Services – Sherman Oaks, LLC dba Sherman Oaks Hospital
+
+significant_statements:
+  - The Court will not grant the motion to set aside and vacate the order dismissing City and Weidmen and sustaining their demurrers without leave to amend.
+  - The Court will allow Plaintiff leave to amend the complaint to allege facts against Sherman Oaks Hospital that support each cause of action's distinct elements.
+```
+
+Here is a summary of the judge's tentative ruling in English text:
+
+The court has denied Plaintiff John Doe's motion to set aside and vacate the order dismissing City of Los Angeles and August Weidmen's demurrers without leave to amend. The court finds that Plaintiff's attempts to blame the court's online system for his failure to attend the demurrer hearing are not valid, as the demurrer was actually taken off-calendar at the request of the defendants. Additionally, the court finds that Plaintiff's failure to file an amended complaint after City and Weidmen's demurrer was filed is not a valid reason to grant the motion.
+
+As for Sherman Oaks Hospital's demurrer, the court has sustained it, finding that the complaint fails to allege sufficient facts to constitute a cause of action against the hospital. However, the court has given Plaintiff 20 days to amend the complaint to allege facts that support each cause of action's distinct elements.
+
+The court has also set a case management conference for March 5, 2025, at 8:30 a.m., and has ordered each party to provide notice of their respective orders.
