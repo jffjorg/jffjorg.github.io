@@ -1,0 +1,72 @@
+Here is the summary in YAML format:
+
+```
+case_number: 24STCV05284
+plaintiff_name: Deying Chen Sheng
+defendant_names:
+  - Cetera Investment Services, LLC
+  - Leo Li-Yuan Chien
+  - Ka Anson Cheong
+people_names:
+  - Deying Chen Sheng
+  - Leo Li-Yuan Chien
+  - Ka Anson Cheong
+company_names:
+  - Cetera Investment Services, LLC
+places:
+  - Los Angeles
+dates:
+  - July 17, 2024
+  - May 10, 2017
+  - September 16, 2024
+events:
+  - Filing of operative first amended complaint
+  - Execution of New Account Application
+  - Execution of Language Acknowledgement
+  - Arbitration motion
+money:
+  - $1 million dollars
+intentions:
+  - Compel arbitration
+facts:
+  - Plaintiff alleges fraud, breach of fiduciary duty, breach of contract, negligence, conversion, unjust enrichment, and financial elder abuse
+  - Defendants moved to compel arbitration based on arbitration provision in New Account Application
+  - Plaintiff executed New Account Application and Language Acknowledgement
+  - Plaintiff does not recall being provided with forms, but admits to signing them
+disputes:
+  - Existence of arbitration agreement
+  - Enforceability of arbitration agreement
+acts:
+  - Execution of New Account Application
+  - Execution of Language Acknowledgement
+  - Filing of operative first amended complaint
+  - Motion to compel arbitration
+agreements:
+  - New Account Application
+  - Language Acknowledgement
+laws:
+  - California Code of Civil Procedure § 1281.2
+  - California Civil Code § 1670.5
+  - Financial Industry Regulatory Authority (FINRA) Code of Arbitration Procedure
+case_citations:
+  - Pinnacle Museum Tower Assn. v. Pinnacle Market Development (US), LLC (2012) 55 Cal.4th 223
+  - Carboni v. Arrospide (1991) 2 Cal.App.4th 76
+  - Crippen v. Central Valley RV Outlet. Inc. (2004) 124 Cal.App.4th 1159
+  - Stirlen v. Supercuts, Inc. (1997) 51 Cal.App.4th 1519
+  - McManus v. CIBC World Markets Corp. (2003) 109 Cal.App.4th 76
+statutes:
+  - California Code of Civil Procedure § 1281.2
+  - California Civil Code § 1670.5
+roles:
+  - Judge Maurice A. Leiter
+  - Plaintiff Deying Chen Sheng
+  - Defendants Cetera Investment Services, LLC, Leo Li-Yuan Chien, and Ka Anson Cheong
+significant_statements:
+  - "DEFENDANTS' MOTION TO COMPEL ARBITRATION IS GRANTED."
+  - "THE ACTION IS STAYED."
+  - "DEFENDANTS TO NOTICE."
+```
+
+English-text summary:
+
+The Judge's tentative ruling grants the defendants' motion to compel arbitration in the case of Deying Chen Sheng v. Cetera Investment Services, LLC, Leo Li-Yuan Chien, and Ka Anson Cheong. The defendants moved to compel arbitration based on the arbitration provision in the New Account Application executed by the plaintiff on May 10, 2017. The plaintiff alleges fraud, breach of fiduciary duty, breach of contract, negligence, conversion, unjust enrichment, and financial elder abuse, claiming that the defendants stole almost $1 million dollars from his investment account. The Judge finds that the defendants have met their burden to establish the existence of an agreement to arbitrate, and that the plaintiff has failed to establish any defenses to enforcement. The Judge also finds that the agreement to arbitrate is not unconscionable, as the plaintiff acknowledged the agreement and acknowledged that translation might be necessary to understand it. As a result, the action is stayed, and the defendants are notified to proceed with arbitration.
