@@ -1,0 +1,73 @@
+Here is the summary in YAML format:
+
+```
+case_number: 23STCV29157
+hearing_date: September 23, 2024
+dept: 74 Bespoke
+plaintiff_name: Bespoke Financial, Inc.
+defendant_name: Trus, LLC, et al.
+people_names:
+  - Adam Troy
+  - Ian Walters
+  - Marlon Bills
+  - Wolfgang Kovach
+  - David Welch
+company_names:
+  - Bespoke Financial, Inc.
+  - Trus, LLC
+  - Lucky 13 Ventures, LLC
+places:
+  - California
+  - United States
+dates:
+  - January 2024
+  - February 2024
+  - March 2024
+  - December 2023
+events:
+  - Cross-complaint
+  - Motion to serve defendant
+  - Service of process
+money: $0
+intentions:
+  - To authorize service of process on Trus, LLC
+  - To deny motion to serve defendant via Secretary of State
+facts:
+  - Cross-complainant attempted to personally serve Trus' registered agent Adam Troy five times
+  - Cross-complainant showed reasonable diligence in effectuating personal service of Troy and Trus
+  - Plaintiff attempted to personally serve Trus' registered agent Adam Troy four times
+  - Plaintiff showed reasonable diligence in effectuating personal service of Troy and Trus
+  - Plaintiff failed to exercise reasonable diligence in attempting to serve Trus by mail
+disputes:
+  - Breach of settlement agreement
+  - Failure to serve defendant
+acts:
+  - Cross-complainant's motion for authorization of service of process
+  - Plaintiff's motion for authorization of service of process
+agreements:
+  - Settlement agreement
+laws:
+  - Corporations Code section 17701.16(c)
+  - Code of Civil Procedure sections 415.10, 415.20, and 415.30
+case_citations:
+  - Corporations Code section 17701.16(c)
+  - Code of Civil Procedure sections 415.10, 415.20, and 415.30
+statutes:
+  - Corporations Code section 17701.16(c)
+  - Code of Civil Procedure sections 415.10, 415.20, and 415.30
+roles:
+  - Judge
+  - Cross-complainant
+  - Plaintiff
+  - Defendant
+significant_statements:
+  - Cross-complainant has shown reasonable diligence in attempting to serve Trus
+  - Plaintiff has shown reasonable diligence in attempting to serve Trus
+  - Plaintiff failed to exercise reasonable diligence in attempting to serve Trus by mail
+```
+
+And here is a summary of the judge's tentative ruling in English text:
+
+The judge has issued a tentative ruling in this case, which concerns a motion to serve defendant Trus, LLC via the California Secretary of State. The cross-complainant, Lucky 13 Ventures, LLC, has moved for an order authorizing service of process on Trus by the Secretary of State, citing Corporations Code section 17701.16(c). The judge has found that the cross-complainant has shown reasonable diligence in attempting to serve Trus, including attempting to personally serve Trus' registered agent Adam Troy five times and attempting to serve Trus by substitution and mail. Therefore, the judge grants the cross-complainant's motion and authorizes service of process on Trus by the Secretary of State.
+
+On the other hand, the plaintiff, Bespoke Financial, Inc., has also moved for an order authorizing service of process on Trus via the Secretary of State. However, the judge has found that the plaintiff has failed to exercise reasonable diligence in attempting to serve Trus by mail, as it has not provided proof of efforts to mail the requisite documents to Trus' registered agent or any of the other officers or directors of Trus. Therefore, the judge denies the plaintiff's motion and does not authorize service of process on Trus by the Secretary of State.
