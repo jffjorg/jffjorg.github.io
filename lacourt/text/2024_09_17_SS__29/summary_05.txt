@@ -1,0 +1,77 @@
+Here is the summary in YAML format:
+
+```
+case_number: 22STCV17999
+plaintiff_name: Michele Glenn
+defendant_name: C&D Rentals, LLC and Kevin Caira
+people_names:
+  - Michele Glenn
+  - Kevin Caira
+company_names:
+  - C&D Rentals, LLC
+places:
+  - California
+dates:
+  - June 1, 2022
+  - July 20, 2020
+  - December 9, 2022
+  - December 30, 2022
+  - January 4, 2024
+  - August 16, 2024
+  - August 12, 2024
+events:
+  - Vehicle accident
+  - Filing of complaint
+  - Amendment of complaint
+  - Filing of answer
+  - Relief of counsel
+  - Filing of motion to compel
+money:
+  - None mentioned
+intentions:
+  - To compel inspection of plaintiff's vehicle
+facts:
+  - Plaintiff filed a complaint against defendants
+  - Plaintiff amended complaint to name defendants
+  - Defendants filed an answer
+  - Plaintiff's counsel was relieved
+  - Plaintiff is now representing herself
+  - Defendants filed a motion to compel
+disputes:
+  - Dispute over inspection of plaintiff's vehicle
+acts:
+  - Filing of complaint
+  - Amendment of complaint
+  - Filing of answer
+  - Relief of counsel
+  - Filing of motion to compel
+agreements:
+  - None mentioned
+laws:
+  - California Code of Civil Procedure
+  - California Rules of Court
+  - Civil Discovery Act
+case_citations:
+  - Sinaiko Healthcare Consulting, Inc. v. Pacific Healthcare Consultants (2007)
+  - Code Civ. Proc., § 2031.260
+  - Code Civ. Proc., § 2031.300
+  - Code Civ. Proc., § 2031.310
+  - Code Civ. Proc., § 2031.320
+  - Cal. Rules of Court, rule 3.1345(b)(1)
+statutes:
+  - Code Civ. Proc., § 2031.260
+  - Code Civ. Proc., § 2031.300
+  - Code Civ. Proc., § 2031.310
+  - Code Civ. Proc., § 2031.320
+roles:
+  - Judge
+  - Plaintiff
+  - Defendant
+significant_statements:
+  - The motion is denied.
+  - The Court DENIES Defendants' motion for an order compelling Plaintiff to produce a vehicle for inspection.
+```
+
+And here is a summary of the judge's tentative ruling in English text:
+
+The judge has denied the defendants' motion to compel the inspection of the plaintiff's vehicle. The defendants had requested an oral inspection of the 2009 Smart Fortwo, one of the vehicles involved in an accident on July 20, 2020. However, the defendants failed to provide a written demand for inspection as required by the California Code of Civil Procedure. The judge noted that the defendants did not comply with the requirements of the Civil Discovery Act and therefore did not have a valid basis for the motion. The judge also stated that the defendants may have a reasonable argument for the inspection, but they must comply with the requirements of the Civil Discovery Act to obtain a court order compelling the inspection.
