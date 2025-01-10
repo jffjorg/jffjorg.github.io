@@ -1,0 +1,61 @@
+Here is the summary in YAML format:
+
+```
+Case Number: 24VECV00600
+Plaintiff's Name: Xavier Pereira
+Defendant's Name: Jennifer Jeann Parker, EAN Holdings, LLC, Enterprise Rent-A-Car Company of Los Angeles, LLC
+People-Names:
+  - Xavier Pereira
+  - Jennifer Jeann Parker
+Company-Names:
+  - EAN Holdings, LLC
+  - Enterprise Rent-A-Car Company of Los Angeles, LLC
+Places:
+  - California
+  - Los Angeles
+Dates:
+  - February 13, 2024
+  - April 23, 2024
+  - August 15, 2024
+Events:
+  - Motor vehicle collision
+  - Filing of complaint
+  - Request for entry of default
+  - Demurrer to complaint
+Money:
+  - None mentioned
+Intentions:
+  - Plaintiff seeks to hold Defendants liable for the motor vehicle collision
+Facts:
+  - Plaintiff's vehicle was parked outside his residence
+  - Defendant Jennifer Jeann Parker crashed into the vehicle without insurance
+  - Defendants EAN Holdings, LLC and Enterprise Rent-A-Car Company of Los Angeles, LLC rented a vehicle to Parker without insurance
+Disputes:
+  - Whether Plaintiff's complaint sufficiently states a cause of action against the Defendants
+  - Whether the Graves Amendment applies to the facts of the case
+  - Whether the complaint is uncertain
+Acts:
+  - Demurrer to the complaint
+  - Request for judicial notice
+  - Request for entry of default
+Agreements:
+  - None mentioned
+Laws:
+  - California Evidence Code §452(c)
+  - 49 U.S.C. § 30106(a)
+  - Hahn v. Mirda (2007) 147 Cal.App.4th 740
+  - Khoury v. Maly's of Calif., Inc. (1993) 14 Cal.App.4th 612
+Case Citations:
+  - Hahn v. Mirda (2007) 147 Cal.App.4th 740
+  - Khoury v. Maly's of Calif., Inc. (1993) 14 Cal.App.4th 612
+Statutes:
+  - California Evidence Code §452(c)
+  - 49 U.S.C. § 30106(a)
+Roles:
+  - Judge: W Xavier Pereira
+  - Plaintiff: Xavier Pereira
+  - Defendant: Jennifer Jeann Parker, EAN Holdings, LLC, Enterprise Rent-A-Car Company of Los Angeles, LLC
+Significant Statements:
+  - The court disagrees with the Defendants' argument that Plaintiff's complaint fails to state facts sufficient to constitute a cause of action against the Enterprise Entities.
+  - The court finds that Plaintiff has sufficiently alleged the required elements of negligence for the purposes of a demurrer.
+  - The court declines to take judicial notice of the fact that Enterprise Entities are in the business of renting and/or leasing vehicles or the relationship between EAN and Enterprise.
