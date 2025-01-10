@@ -1,0 +1,105 @@
+Here is the summary of the tentative ruling in YAML format:
+
+```yaml
+Case Number: 20STCV41811
+Case Name: Lakeside Medical Organization, A Medical Group, Inc. v. Jonathan Nissanoff, M.D., et al.
+Heating Date: August 13, 2024
+Department: 72
+Tentative Ruling:
+  - Grant the anti-SLAPP motion with respect to certain allegations of the Second Amended Complaint (SAC)
+  - Strike the following allegations from the SAC:
+    - Paragraph 11 (except for the portions that state "despite the lack of any legitimate health care or business justification for doing so" and "drafted entirely by Defendants or their attorneys, containing outright misrepresentations and falsehoods about AOC's business practices")
+    - The first sentence of paragraph 91
+    - Paragraphs 94, 95, 115(g) and (h), 118, 119, and subparagraph 4(e) of AOC's declaratory relief claim
+  - Deny AOC's declaratory relief claim as to the protected portion of paragraph 4(e)
+  - Find that AOC has not shown a reasonable probability of prevailing on its unfair competition claim as to these allegations of protected comments
+  - Find that AOC has not shown a reasonable probability of prevailing on its declaratory relief claim as to the protected portion of paragraph 4(e)
+
+People-Names:
+  - Jonathan Nissanoff, M.D.
+  - Mary Coash
+  - Michael Amir
+
+Company-Names:
+  - Lakeside Medical Organization
+  - Regal Medical Group
+  - Advanced Orthopedic Center, Inc.
+
+Places:
+  - Los Angeles
+  - California
+
+Dates:
+  - October 3, 2019
+  - January 24, 2022
+  - February 3, 2022
+  - February 9, 2022
+  - February 11, 2022
+  - March 7, 2022
+  - May 9, 2022
+  - May 30, 2024
+  - June 20, 2022
+  - June 28, 2024
+  - July 29, 2024
+  - August 2, 2022
+  - August 6, 2024
+  - August 13, 2024
+
+Events:
+  - AOC filed a small claims lawsuit against Regal
+  - Regal filed an appeal and obtained a de novo trial
+  - Regal paid Patient 5 $500.00
+  - Patient 5 signed a declaration
+
+Money:
+  - $500.00
+  - $150.33
+  - $1,716.00
+
+Intentions:
+  - Regal's intention to influence Patient 5's testimony
+  - AOC's intention to recover the full fee that it billed to Regal
+
+Facts:
+  - Regal paid Patient 5 $500.00 to influence his testimony
+  - Patient 5 signed a declaration
+  - AOC recovered the full fee that it billed to Regal in the small claims action
+
+Disputes:
+  - AOC's claims of unfair competition and declaratory relief
+  - Regal's anti-SLAPP motion
+
+Acts:
+  - Regal's payment of $500.00 to Patient 5
+  - Patient 5's signing of a declaration
+  - AOC's filing of a small claims lawsuit against Regal
+
+Agreements:
+  - None
+
+Laws:
+  - California Penal Code section 137
+  - California Busines and Professions Code section 17200
+  - 18 U.S.C. section 201(c)(2)
+
+Case Citations:
+  - Baral v. Schnitt (2016) 1 Cal.5th 376
+  - Peterson v. Cellco Partnership (2008) 164 Cal.App.4th 1583
+  - Jolley v. Chase Home Finance, LLC (2013) 213 Cal.App.4th 872
+  - General of America Insurance Co. v. Lilly (1968) 258 Cal.App.2d 465
+  - Palm Springs Villas II Homeowners Association, Inc. v. Parth (2016) 248 Cal.App.4th 268
+  - Osseous Technologies of America, Inc. v. DiscoveryOrtho Partners LLC (2010) 191 Cal.App.4th 357
+
+Statutes:
+  - Code of Civil Procedure section 425.16
+  - California Civil Code section 47
+  - California Business and Professions Code section 17200
+
+Roles:
+  - Plaintiff: Lakeside Medical Organization, A Medical Group, Inc.
+  - Defendant: Jonathan Nissanoff, M.D., et al.
+
+Significant Statements:
+  - "An anti-SLAPP motion, like a conventional motion to strike, may be used to attack parts of a count as pleaded."
+  - "Claims for relief that are based on allegations of protected activity may be stricken only if they lack any merit."
+  - "A plaintiff may not avoid the bar of section 47(b) by pleading a claim as one for injunctive relief under the unfair competition statute."

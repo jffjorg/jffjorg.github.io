@@ -1,0 +1,65 @@
+Here is the summary in YAML format:
+
+```
+Case Number: 23TRCV03110
+Plaintiff's Name: PEOPLE OF THE STATE OF CALIFORNIA ex rel. WILLIAM WYNDER, City Attorney for the City of Rancho Palos Verdes, and CITY OF RANCHOS PALOS VERDES, a general law city
+Defendant's Name: JOHN STEPHEN RICO, an individual, and DOES 1-10, inclusive
+People-Names:
+  - WILLIAM WYNDER
+  - ROBERT MORGAN
+Company-Names:
+  - COMMUNITY MORTGAGE FUNDING, LLC
+  - FANNIE MAE
+  - CALIFORNIA RECEIVERSHIP GROUP, INC.
+Places:
+  - Rancho Palos Verdes
+  - 2105 Noble View Dr.
+Dates:
+  - January 26, 2024
+  - April 17, 2024
+  - May 23, 2024
+  - July 25, 2024
+Events:
+  - Abatement of public health and safety nuisance
+  - Appointment of Receiver
+  - Request for increase in super-priority lien
+Money:
+  - $252,600 (face amount of loan)
+  - $194,496.67 (reduced debt balance as of April 2022)
+  - $220,000 (estimated outstanding debt balance)
+  - $674,712 (total super-priority lien requested)
+Intentions:
+  - To abate public health and safety nuisance
+  - To remediate property deficiencies
+  - To protect property interest of FHFA
+Facts:
+  - 2105 Noble View is a health and safety hazard
+  - Defendant Rico is the owner of the property
+  - FHFA is the conservator for Fannie Mae
+Disputes:
+  - Whether the Court can grant a super-priority lien
+  - Whether FHFA has waived its right to assert the statutes
+  - Whether the objection is untimely
+Acts:
+  - Appointment of Receiver
+  - Granting of super-priority lien
+  - Request to increase super-priority lien
+Agreements:
+  - None
+Laws:
+  - California Health and Safety Code §§ 17980 et seq.
+  - 12 USC §4617(f)
+  - 12 USC §4617(j)(3)
+Case Citations:
+  - Perry Capital LLC v. Mnuchin, 864 F.3d 591, 604-606 (D.C. Cir. 2017)
+Statutes:
+  - 12 USC §4617(f)
+  - 12 USC §4617(j)(3)
+Roles:
+  - Judge: [Judge's name]
+  - Receiver: California Receivership Group, Inc. and Mark Adams
+  - Conservator: Federal Housing Finance Agency (FHFA)
+  - Lender: Fannie Mae
+Significant Statements:
+  - "The rationale of those decisions applies with equal force to Section 4617(f)’s indistinguishable operative language. The plain statutory text draws a sharp line in the sand against litigative interference—through judicial injunctions, declaratory judgments, or other equitable relief—with FHFA's statutorily permitted actions as conservator or receiver." (Perry Capital LLC v. Mnuchin, 864 F.3d 591, 606)
+  - "The prohibition created by the cited statutes makes such inquiry improper. Congress has chosen to insulate FHFA from interference by the Court."

@@ -1,0 +1,91 @@
+**Case Summary in YAML format:**
+
+```
+case_number: 23STCP00869
+hearing_date: 2024-08-14
+department: 82
+judge: Stephen I. Goorvitch
+parties:
+  - Keep Bel-Air Beautiful (Petitioner)
+  - Los Angeles County Metropolitan Transportation Authority (Respondent/Metro)
+people:
+  - David Lor (Metro's Senior Manager for Information Governance)
+  - Carolina Coppolo (Metro's Senior Director in Countywide Planning & Development)
+  - Peter Carter (Metro's Senior Director in Countywide Planning & Development)
+  - Maya Hamouie (litigation counsel)
+  - Sid Scott (outside consultant)
+company:
+  - Los Angeles County Metropolitan Transportation Authority (Metro)
+  - HTA Partners
+  - LA SkyRail Express
+  - Sepulveda Transit Corridor Partners
+places:
+  - Bel-Air
+  - Los Angeles County
+  - Stanley Mosk Courthouse
+dates:
+  - 2012-11-30 (Notice of Preparation of a Draft Environmental Impact Report)
+  - 2021-12-02 (Metro informed Petitioner of need for additional time to respond to CPRA request)
+  - 2022-11-22 (Petitioner submitted CPRA request)
+  - 2023-01-13 (Metro produced first set of responsive documents)
+  - 2023-03-20 (Petitioner filed writ petition)
+  - 2023-12-15 (Metro informed Petitioner of withholding/redacting records based on self-critical analysis privilege)
+  - 2024-02-02 (Metro's letter to Petitioner's counsel arguing for withholding/redacting records)
+  - 2024-04-15 (Petitioner's opening writ brief)
+  - 2024-06-15 (Metro informed Petitioner of claiming self-critical analysis privilege)
+  - 2024-07-27 (Petitioner responded to Metro's request for clarification)
+events:
+  - CPRA request
+  - Environmental review
+  - Pre-development agreements
+  - Public outreach
+  - Record production
+  - Writ petition
+money:
+  - $5.7 billion (funding for Sepulveda Transit Corridor project)
+  - $3.8 billion (funding for future extension to LAX)
+intention:
+  - Petitioner seeks public records related to Sepulveda Transit Corridor project
+  - Metro seeks to withhold/redact records based on various exemptions
+facts:
+  - Sepulveda Transit Corridor project is a planned rail transit service
+  - Project includes tunneling under Bel-Air
+  - Metro released a Notice of Preparation of a Draft Environmental Impact Report in 2021
+  - Petitioner submitted a CPRA request in 2022
+disputes:
+  - Petitioner disputes Metro's withholding/redacting of records
+  - Metro asserts various exemptions to justify withholding/redacting records
+acts:
+  - Metro produced records in response to CPRA request
+  - Metro withheld/redacted records based on various exemptions
+agreements:
+  - Pre-development agreements between Metro and private sector proposers
+laws:
+  - California Public Records Act (CPRA)
+  - Government Code sections 7921.000, et seq.
+  - Government Code sections 7922.000, et seq.
+  - Government Code sections 7927.500, et seq.
+  - Government Code section 7928.705
+case_citations:
+  - Citizens for Open Government v. City of Lodi (2012) 205 Cal.App.4th 296
+  - Golden Door Properties, LLC v. Sup. Ct. (2020) 53 Cal.App.5th 733
+  - Haynie v. Superior Court (2001) 26 Cal.4th 1061
+  - Michaelis, Montanari & Johnson v. Superior Court (2006) 38 Cal.4th 1065
+  - United States v. Dunkel (1991) 927 F.2d 955
+statutes:
+  - California Public Records Act (CPRA)
+  - Government Code sections 7921.000, et seq.
+  - Government Code sections 7922.000, et seq.
+  - Government Code sections 7927.500, et seq.
+  - Government Code section 7928.705
+roles:
+  - Judge: Stephen I. Goorvitch
+  - Attorneys: David Lor, Carolina Coppolo, Peter Carter, Maya Hamouie, Sid Scott
+  - Parties: Keep Bel-Air Beautiful, Los Angeles County Metropolitan Transportation Authority
+significant_statements:
+  - The court agrees with Petitioner that some of the PDA deliverables are likely exempt, but Metro has not provided sufficient information for the court to evaluate its claims of exemption.
+  - Metro must provide more detailed declarations or other evidence to justify withholding public records under the CPRA.
+  - The court cannot balance the interests for and against disclosure in the abstract and without more specific information concerning each of the withheld records.
+```
+
+Please note that this summary is based on the provided text and may not be exhaustive or accurate.
