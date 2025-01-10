@@ -1,0 +1,68 @@
+Here is the summary in YAML format:
+
+```
+case_number: 24PSCV00041
+plaintiff_name: Adam Latawiec
+defendant_names:
+  - 168 US Trucking, Inc.
+  - Haibin Hu
+people_names:
+  - Adam Latawiec
+  - Haibin Hu
+company_names:
+  - 168 US Trucking, Inc.
+places:
+  - Oklahoma City
+  - Interstate 40
+dates:
+  - October 2023
+  - January 4, 2024
+  - June 14, 2024
+  - September 4, 2024
+events:
+  - Motor vehicle collision
+  - Filing of complaint
+  - Filing of motions to strike
+  - Meet and confer efforts
+money:
+  - Punitive damages
+  - Attorney fees
+intentions:
+  - To strike portions of the plaintiff's complaint
+  - To require the parties to meet and confer
+facts:
+  - The plaintiff was involved in a motor vehicle collision with the defendant
+  - The plaintiff filed a complaint against the defendants alleging causes of action
+  - The defendants filed motions to strike portions of the plaintiff's complaint
+disputes:
+  - Whether the plaintiff's request for punitive damages and attorney fees should be struck
+acts:
+  - The filing of the complaint and the motions to strike
+  - The meet and confer efforts
+agreements:
+  - The parties are required to meet and confer regarding the motions to strike
+laws:
+  - California Code of Civil Procedure section 436
+  - California Code of Civil Procedure section 437
+  - California Code of Civil Procedure section 435.5
+case_citations:
+  - Code Civ. Proc., § 436, subd. (a)
+  - Code Civ. Proc., § 436, subd. (b)
+  - Code Civ. Proc., § 437, subd. (a)
+  - Code Civ. Proc., § 435.5, subd. (a)
+  - Code Civ. Proc., § 435.5, subd. (a)(1)
+  - Code Civ. Proc., § 435.5, subd. (a)(4)
+roles:
+  - Judge
+  - Plaintiff (Adam Latawiec)
+  - Defendant (168 US Trucking, Inc. and Haibin Hu)
+  - Counsel for the parties
+significant_statements:
+  - The court will continue the hearing on the defendants' motions to strike
+  - The parties are required to meet and confer regarding the motions to strike
+  - The court finds that the parties have failed to adequately meet and confer
+```
+
+And here is a summary of the judge's tentative ruling in English text:
+
+The court has tentatively ruled that the motions to strike portions of the plaintiff's complaint filed by the defendants, 168 US Trucking, Inc. and Haibin Hu, are continued to a date to be determined at the hearing set in Department G (Pomona). The court finds that the parties have failed to adequately meet and confer in person or by telephone as required by California Code of Civil Procedure section 435.5. As a result, the court orders the parties to meet and confer regarding the motions to strike and file a supplemental declaration describing such meet and confer efforts at least nine (9) court days before the next scheduled hearing on the present motion.
