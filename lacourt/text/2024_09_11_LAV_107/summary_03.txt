@@ -1,0 +1,70 @@
+Here is the summary of the Judge's Tentative Ruling in YAML format:
+
+```yaml
+Case Number: 24VECV00072
+Plaintiffs: Robert W. Brown, Patricia Brown
+Defendants: NewRez LLC, et al.
+People-Names: Robert W. Brown, Patricia Brown, Ronald A. Rosenblum, Jacqueline D. Rosenblum
+Company-Names: NewRez LLC, New Penn Financial LLC, Bayview Loan Servicing LLC, The Bank of New York Mellon, CWALT, Inc.
+Places: Calabasas, Los Angeles
+Dates:
+  - May 20, 2016: Trustee's Deed Upon Sale
+  - May 25, 2016: Recording of Trustee's Deed Upon Sale
+  - January 5, 2024: Filing of lawsuit
+  - February 2016: State court lawsuit
+  - February 2019: Federal lawsuit
+  - July 23, 2020: Grant Deed issued
+  - August 2, 2024: Filing of demurrer
+  - August 21, 2024: Notice of Non-Opposition
+  - August 27, 2024: Hearing on demurrer
+  - August 30, 2024: Filing of Opposition
+  - September 4, 2024: Filing of Reply
+  - September 11, 2024: Hearing on demurrer
+Events:
+  - Foreclosure of property
+  - Trustee's Deed Upon Sale
+  - Grant Deed issued
+Money:
+  - $10,287.85: Amount of escrow money disbursements
+Intentions:
+  - Plaintiffs seek to contest the foreclosure on their home
+Facts:
+  - The property was sold at a trustee's sale in May 2016
+  - The Trustee's Deed Upon Sale was recorded in May 2016
+  - Plaintiffs had previously filed lawsuits in state and federal court challenging the foreclosure
+Disputes:
+  - Claim preclusion
+  - Res judicata
+  - Fraud
+  - Unfair business practices
+Acts:
+  - Issuance of IRS 1098 Form
+  - Preparation and issuance of grant deed
+Laws:
+  - California Code of Civil Procedure (CCP)
+  - California Civil Code
+  - Dodd-Frank Wall Street Reform Act
+  - Evidence Code
+Statutes:
+  - CCP §430.10(e)
+  - CCP §430.30
+  - CCP §430.70
+  - Code Civ. Proc., §§ 430.30, 430.70
+  - Evidence Code §452(c) and (d)
+Roles:
+  - Judge Eric Harmon
+  - Plaintiffs: Robert W. Brown, Patricia Brown
+  - Defendants: NewRez LLC, et al.
+Significant Statements:
+  - The demurrer is sustained as to all seven causes of action
+  - The Court finds that the FAC does not state a cause of action as to any of the seven causes of action
+  - The Court notes that Plaintiffs do not establish a cause of action as to unfair business practices concerning licensure
+  - The Court sustains the demurrer to the second cause of action for Dodd-Frank Act and IRS violations
+  - The Court sustains the demurrer to the third cause of action for fraud
+  - The Court sustains the demurrer to the fourth cause of action for vacate of ruling and res judicata
+  - The Court sustains the demurrer to the fifth cause of action for fraud-conveyance
+  - The Court sustains the demurrer to the sixth cause of action for void grant deed
+  - The Court sustains the demurrer to the seventh cause of action for business practices/pooling and service agreements
+```
+
+Please note that the YAML format is not fully supported, and some formatting may not be preserved.

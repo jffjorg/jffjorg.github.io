@@ -1,0 +1,101 @@
+Here is the summary of the tentative ruling in YAML format:
+
+```
+case_number: 23STCV03310
+hearing_date: September 13, 2024
+department: 40
+court: Superior Court of California
+county: Los Angeles
+
+plaintiffs:
+  - name: Josh Coffman
+  - name: Sunnybyte, LLC
+
+defendants:
+  - name: Ross Legal Corporation, Inc.
+  - name: Polina L. Ross
+  - name: DOES 1 through 20
+
+people:
+  - name: Josh Coffman
+  - name: Polina L. Ross
+
+companies:
+  - name: Sunnybyte, LLC
+  - name: Ross Legal Corporation, Inc.
+
+places:
+  - name: Los Angeles
+
+dates:
+  - May 4, 2024
+  - May 8, 2021
+  - December 12, 2021
+  - February 7, 2022
+  - February 14, 2023
+
+events:
+  - Court hearing on September 13, 2024
+  - Settlement of Shor Litigation
+  - Settlement of Kindra Litigation
+  - Dispute over legal fees
+
+money:
+  - $4,779.84 (check sent by Defendants)
+  - $13,146.83 (outstanding fees incurred prior to Additional Fees)
+  - $27,073.33 (Additional Fees)
+
+intentions:
+  - Defendants advised Plaintiffs to settle Shor Litigation and Kindra Litigation
+  - Plaintiffs disputed Additional Fees
+
+facts:
+  - Plaintiffs filed a Second Amended Complaint (SAC) alleging claims of legal malpractice, breach of contract, breach of fiduciary duty, fraud, conversion, and unfair competition
+  - SAC alleges that Defendants concealed intent to bill Additional Fees
+  - SAC alleges that Plaintiffs suffered substantial damages due to Defendants' fraudulent conduct
+
+disputes:
+  - Dispute over legal fees
+  - Dispute over settlement funds
+
+acts:
+  - Ross Legal Corporation, Inc. advised Plaintiffs to settle Shor Litigation and Kindra Litigation
+  - Plaintiffs entered settlements in Shor Litigation and Kindra Litigation
+  - Plaintiffs disputed Additional Fees with Defendants
+  - Defendants terminated representation of Plaintiffs
+
+agreements:
+  - July 30, 2018 legal agreement between Plaintiffs and Defendants
+
+laws:
+  - California Civil Code section 1770(a)(5)
+  - California Business and Professions Code section 17200
+  - California Code of Civil Procedure section 340.6
+  - California Code of Civil Procedure section 338
+  - California Code of Civil Procedure section 1021.5
+
+case citations:
+  - Hahn v. Mirda (2007) 147 Cal.App.4th 740
+  - Blank v. Kirwan (1985) 39 Cal.3d 311
+  - C.A. v. William S. Hart Union High School Dist. (2012) 53 Cal.4th 861
+  - Aubry v. Tri-City Hospital Dist. (1992) 2 Cal.4th 962
+  - Daar v. Yellow Cab Co. (1967) 67 Cal.2d 695
+  - Lockley v. Law Office of Cantrell, Green, Pekich, Cruz & McCort (2001) 91 Cal.App.4th 875
+  - Roman v. County of Los Angeles (2000) 85 Cal.App.4th 316
+  - Doe v. Roman Catholic Archbishop of Los Angeles (2016) 247 Cal.App.4th 953
+  - Quintilliani v. Mannerino (1998) 62 Cal.App.4th 54
+  - Service by Medallion, Inc. v. Clorox Co. (1996) 44 Cal.App.4th 1807
+  - Apollo Capital Fund, LLC v. Roth Capital Partners, LLC (2007) 158 Cal.App.4th 226
+  - Committee on Children’s Television, Inc. v. General Foods Corp. (1983) 35 Cal.3d 197
+  - Lazar v. Superior Court (1996) 12 Cal.4th 631
+  - Small v. Fritz Cos., Inc. (2003) 30 Cal.4th 167
+  - College Hospital Inc. v. Superior Court (1994) 8 Cal.4th 704
+  - Wilson v. Southern California Edison Co. (2015) 234 Cal.App.4th 123
+  - Turman v. Turning Point of Cent. California, Inc. (2010) 191 Cal.App.4th 53
+  - Grieves v. Superior Court (1984) 157 Cal.App.3d 159
+  - Blegen v. Superior Court (1981) 125 Cal.App.3d 959
+  - Zhang v. Superior Court (2013) 57 Cal.4th 364
+  - Camenisch v. Superior Court (1996) 44 Cal.App.4th 1689
+```
+
+Note that the court's ruling is tentative, meaning it is subject to change after further argument and consideration.
