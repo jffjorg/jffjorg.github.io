@@ -1,0 +1,83 @@
+Here is a summary of the Judge's tentative ruling in YAML format:
+
+```
+case_number: 23CHCV03291
+plaintiff_name: Rodolfo Arreola
+defendant_name: The Matt Horn Group
+people_names:
+  - Rodolfo Arreola
+  - Gonzalo Landaverde
+companies:
+  - The Matt Horn Group
+places:
+  - 9862 Rincon Avenue, Pacoima, California 91311
+dates:
+  - October 30, 2023
+  - May 2, 2024
+  - June 10, 2024
+  - July 10, 2024
+  - September 24, 2024
+events:
+  - Demurrer filed by Defendant
+  - Meet and confer attempts by Defendant
+  - First Amended Complaint filed by Plaintiff
+intents:
+  - To sustain or overrule the demurrer
+  - To grant or deny leave to amend
+facts:
+  - Plaintiff initiated this action on October 30, 2023
+  - Defendant filed a demurrer on July 10, 2024
+  - Plaintiff's First Amended Complaint failed to allege a cause of action for negligence
+  - Plaintiff's First Amended Complaint failed to allege a cause of action for conversion
+  - Plaintiff's First Amended Complaint alleged a cause of action for misrepresentation
+money:
+  - Funds deposited in an escrow account
+disputes:
+  - Negligence
+  - Conversion
+  - Misrepresentation
+acts:
+  - Defendant's alleged breach of implied duty of performance
+  - Defendant's alleged conversion of funds
+  - Defendant's alleged misrepresentation
+agreements:
+  - None mentioned
+laws:
+  - California Code of Civil Procedure section 430.10
+  - California Civil Code section 1710
+  - California Civil Code section 1712
+case_citations:
+  - Lewis v. Safeway, Inc. (2015) 235 Cal.App.4th 385
+  - Code Civ. Proc., § 430.10, subd. (e)
+  - Aubry v. TriCity Hospital Dist. (1992) 2 Cal 4th 962
+  - Arroyo v. Plosay, 225 Cal. App. 4th 279
+  - George v. Automobile Club of Southern California (2011) 201 Cal.App.4th 1112
+  - Evans v. City of Berkeley (2006) 38 Cal.4th 1
+  - Barquis v. Merchants Collection Assn. (1972) 7 Cal.3d 94
+  - Blank v. Kirwan (1985) 39 Cal.3d 311
+  - Berkley v. Dowds (2007) 152 Cal.App.4th 518
+  - Hahn v. Mirda (2007) 147 Cal.App.4th 740
+  - Greif v. Sanin (2022) 74 Cal.App.5th 412
+  - Weiss v. Marcus (1975) 51 Cal.App.3d 590
+  - Melican v. Regents of Univ. of Cal. (2007) 151 Cal.App.4th 168
+  - Lazar v. Superior Court (1996) 12 Cal.4th 631
+  - Charnay v. Cobert (2006) 145 Cal.App.4th 170
+  - Byrum v. Brand (1990) 219 Cal.App.3d 926
+roles:
+  - Judge
+  - Plaintiff
+  - Defendant
+  - Counsel
+significant_statements:
+  - The demurrer tests the legal sufficiency of the allegations in a complaint
+  - A general demurrer is proper where the plaintiff fails to allege facts sufficient to constitute a cause of action
+  - The Court will give the complaint a reasonable interpretation, reading it as a whole and its parts in their context
+```
+
+And here is a summary of the Judge's tentative ruling in English text:
+
+The Court has reviewed the demurrer filed by Defendant The Matt Horn Group to the First Amended Complaint and has issued a tentative ruling. The demurrer was sustained without leave to amend as to the First and Second Causes of Action, alleging negligence and conversion, respectively. These causes of action failed to adequately allege the required elements.
+
+The Court did, however, sustain the demurrer with leave to amend as to the Third Cause of Action, alleging misrepresentation. While the allegations of misrepresentation were sufficient to plead the required elements, they failed to adequately allege that Defendant had knowledge of the falsity of the representation.
+
+The Court granted Plaintiff leave to amend the Third Cause of Action within 30 days.
