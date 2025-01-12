@@ -1,0 +1,72 @@
+Here is the summary in YAML format:
+
+```
+Case Number: 21STCV29882
+Plaintiff's Name: Darryl Lyons
+Defendant's Name: Transdev Services, Inc., Transdev North America, Inc., Timothy Grensavitch
+People-Names:
+  - Darryl Lyons
+  - William Jackson
+  - Timothy Grensavitch
+Company-Names:
+  - Transdev Services, Inc.
+  - Transdev North America, Inc.
+Places:
+  - Arcadia
+  - Southern California
+Dates:
+  - August 12, 2021
+  - March 30, 2023
+  - 2015
+  - 2016
+  - 2018
+  - 2019
+  - April 1, 2021
+Events:
+  - Plaintiff's employment termination
+  - Alleged racial harassment and discrimination
+  - Administrative and civil complaints filed
+  - Investigation and termination of Plaintiff
+  - Testimony by Plaintiff in support of another employee
+Money:
+  - None mentioned
+Intentions:
+  - Plaintiff seeks to establish discrimination, harassment, and retaliation claims
+  - Defendants seek to dismiss plaintiff's claims
+Facts:
+  - Plaintiff worked for Transdev and TNAI from 2005 to 2021
+  - Plaintiff alleges racial harassment and discrimination by Jackson and Grensavitch
+  - Plaintiff filed administrative and civil complaints in 2021
+  - Plaintiff was terminated in 2021
+Disputes:
+  - Whether Plaintiff can establish a prima facie case of discrimination
+  - Whether the alleged harassment was severe or pervasive
+  - Whether the alleged retaliation was motivated by Plaintiff's protected activity
+Acts:
+  - Defendants moved for summary judgment and summary adjudication
+  - Plaintiff opposed the motion
+Laws:
+  - Government Code section 12940(a)
+  - Government Code section 12940(h)
+  - Government Code section 12940(j)
+  - Labor Code section 1102.5
+  - Civil Code section 43
+Case Citations:
+  - McDonnell Douglas Corp. v. Green (1973)
+  - Caldwell v. Paramount Unified Sch. Dist. (1995)
+  - Yanowitz v. L'Oreal USA, Inc. (2005)
+  - Mokler v. County of Orange (2007)
+  - Harris v. Forklift Sys., Inc. (1993)
+  - Lawson v. PPG Architectural Finishes, Inc. (2022)
+  - Fretland v. County of Humboldt (1999)
+  - Cervantez v. J. C. Penney Co. (1979)
+Roles:
+  - Judge
+  - Plaintiff
+  - Defendants
+Significant Statements:
+  - The court finds that Defendants have met their initial burden of showing that they have legitimate, nondiscriminatory reasons for Plaintiff's termination.
+  - The court finds that Plaintiff has shown the existence of one or more triable issues of material fact regarding each element of his IIED claims.
+```
+
+Please note that YAML is a human-readable serialization format and is often used for configuration files, data exchange between web servers, or as a data format for data storage. In this case, I've used YAML to summarize the information from the judge's tentative ruling in a structured and easy-to-read format.

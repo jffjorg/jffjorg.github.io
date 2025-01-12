@@ -1,0 +1,112 @@
+Here is the summary in YAML format:
+
+```
+Case:
+  Number: 24CHCV00153
+  Hearing Date: October 2, 2024
+  Dept: F43
+
+Plaintiff:
+  Name: JP Morgan Chase Bank, N.A.
+
+Defendant:
+  Name: Scrap Solutions, Inc.
+  Name: Amit Syal
+  Name: Reena N. Mistry
+
+People:
+  - Amit Syal
+  - Reena N. Mistry
+
+Company:
+  - JP Morgan Chase Bank, N.A.
+  - Scrap Solutions, Inc.
+
+Places:
+
+Dates:
+  - October 28, 2016
+  - December 1, 2016
+  - August 1, 2023
+  - October 19, 2023
+  - May 28, 2024
+  - June 18, 2024
+  - September 18, 2024
+  - October 2, 2024
+
+Events:
+  - Loan made by JP Morgan Chase Bank, N.A. to Scrap Solutions, Inc.
+  - Default by Scrap Solutions, Inc. under the loan agreement
+  - Notification of default to Scrap Solutions, Inc.
+  - Failure of Scrap Solutions, Inc. to pay outstanding amounts
+  - Notification of default to Amit Syal and Reena N. Mistry
+  - Failure of Amit Syal and Reena N. Mistry to pay outstanding amounts
+
+Money:
+  - $230,000.00 (principal amount of the loan)
+  - $229,927.80 (outstanding principal amount)
+  - $844.02 (late fees and costs)
+  - $8,236.74 (attorney fees and costs)
+  - $239,008.56 (total damages)
+
+Intentions:
+  - JP Morgan Chase Bank, N.A. intends to collect outstanding principal, late fees and costs, and attorney fees and costs
+  - Scrap Solutions, Inc. intends to dispute the allegations and avoid payment
+  - Amit Syal and Reena N. Mistry intend to dispute the allegations and avoid payment
+
+Facts:
+  - The loan was made on October 28, 2016
+  - The loan agreement required monthly payments of accrued interest beginning on December 1, 2016
+  - Scrap Solutions, Inc. defaulted under the loan agreement on August 1, 2023
+  - JP Morgan Chase Bank, N.A. notified Scrap Solutions, Inc. of the default on October 19, 2023
+  - Amit Syal and Reena N. Mistry executed continuing guaranties for Scrap Solutions, Inc.
+  - JP Morgan Chase Bank, N.A. notified Amit Syal and Reena N. Mistry of the default on October 19, 2023
+
+Disputes:
+  - Whether Scrap Solutions, Inc. breached the loan agreement
+  - Whether Amit Syal and Reena N. Mistry breached their guaranties
+  - Whether waiver and estoppel apply
+
+Acts:
+  - Loan made by JP Morgan Chase Bank, N.A. to Scrap Solutions, Inc.
+  - Default by Scrap Solutions, Inc. under the loan agreement
+  - Notification of default to Scrap Solutions, Inc.
+  - Failure of Scrap Solutions, Inc. to pay outstanding amounts
+  - Notification of default to Amit Syal and Reena N. Mistry
+  - Failure of Amit Syal and Reena N. Mistry to pay outstanding amounts
+
+Agreements:
+  - Loan agreement between JP Morgan Chase Bank, N.A. and Scrap Solutions, Inc.
+  - Credit agreement between JP Morgan Chase Bank, N.A. and Scrap Solutions, Inc.
+  - Continuing guaranties between Amit Syal and Reena N. Mistry and JP Morgan Chase Bank, N.A.
+
+Laws:
+  - California Code of Civil Procedure section 437c
+  - California Code of Civil Procedure section 1638
+  - California Code of Civil Procedure section 1856(a)
+  - Heller v. Pillsbury Madison & Sutro (1996) 50 Cal.App.4th 1367, 1382, fn. 4
+
+Case Citations:
+  - Aguilar v. Atl. Richfield Co. (2001) 25 Cal.4th 826, 843
+  - Adler v. Manor Healthcare Corp. (1992) 7 Cal.App.4th 1110, 1119
+  - Scolinos v. Kolts (1995) 37 Cal. App. 4th 635, 640-641
+  - FPI Development, Inc. v. Nakashima (1991) 231 Cal.App.3d 367, 382-383
+  - Jordan-Lyon Prods., LTD. v. Cineplex Odeon Corp. (1994) 29 Cal.App.4th 1459, 1472
+  - Scalf v. D.B. Log Homes, Inc. (2005) 128 Cal.App.4th 1510, 1519
+
+Statutes:
+  - California Code of Civil Procedure section 437c
+  - California Code of Civil Procedure section 1638
+  - California Code of Civil Procedure section 1856(a)
+
+Roles:
+  - JP Morgan Chase Bank, N.A. (Plaintiff)
+  - Scrap Solutions, Inc. (Defendant)
+  - Amit Syal (Defendant)
+  - Reena N. Mistry (Defendant)
+
+Significant Statements:
+  - The purpose of a motion for summary judgment is to provide courts with a mechanism to cut through the parties’ pleadings in order to determine whether, despite their allegations, trial is in fact necessary to resolve their dispute.
+  - The Court will grant summary judgment if all the evidence submitted, and all inferences reasonably deducible from the evidence, show that there is no triable issue as to any material fact and that the moving party is entitled to judgment as a matter of law.
+  - The Court will not deny Plaintiff’s request for attorney fees.
+```
