@@ -1,0 +1,73 @@
+Here is the summary in YAML format:
+
+```
+case_number: 22STCV37039
+plaintiff_names:
+  - Alejandro Chavez
+  - Marcela Munoz
+defendant_name: Rodney Dewayne Marshall
+people_names:
+  - Rodney Dewayne Marshall
+  - Alejandro Chavez
+  - Marcela Munoz
+company_names: []
+places: []
+dates:
+  - May 7, 2024
+  - June 11, 2024
+  - August 27, 2024
+  - September 26, 2024
+events:
+  - Requests for Admission served
+  - Failure to respond to requests
+  - Motion to deem RFA admitted and requests for sanctions
+money:
+  - $869
+  - $1000
+intentions:
+  - To deem RFA admitted against plaintiffs
+  - To impose sanctions on plaintiffs
+facts:
+  - Requests for Admission were served on May 7, 2024
+  - Plaintiffs failed to respond by the statutory deadline
+  - No opposition was filed to the motion
+disputes:
+  - Lack of response to requests for admission
+  - Failure to comply with discovery deadlines
+acts:
+  - Serving requests for admission
+  - Failing to respond to requests for admission
+  - Filing a motion to deem RFA admitted and requests for sanctions
+agreements:
+  - CCP § 2033.010
+  - CCP § 2033.250(a)
+  - CCP § 2033.280(a)
+  - CCP § 2033.280(b)
+  - CCP § 2033.280(c)
+laws:
+  - California Code of Civil Procedure (CCP)
+  - CCP § 2033.010
+  - CCP § 2033.250(a)
+  - CCP § 2033.280(a)
+  - CCP § 2033.280(b)
+  - CCP § 2033.280(c)
+case_citations: []
+statutes:
+  - CCP § 2033.010
+  - CCP § 2033.250(a)
+  - CCP § 2033.280(a)
+  - CCP § 2033.280(b)
+  - CCP § 2033.280(c)
+roles:
+  - Judge: Hon. Lee S. Arian
+  - Defendant: Rodney Dewayne Marshall
+  - Plaintiffs: Alejandro Chavez and Marcela Munoz
+significant_statements:
+  - The court grants the motion to deem RFA admitted against plaintiffs.
+  - Sanctions are granted in the amount of $1000 for both motions.
+  - Plaintiffs and their attorney are jointly and severally liable for the sanctions.
+```
+
+And here is a summary in English text:
+
+This is a tentative ruling on a motion to deem requests for admission (RFA) admitted and requests for sanctions. The defendant, Rodney Dewayne Marshall, served the plaintiffs, Alejandro Chavez and Marcela Munoz, with requests for admission on May 7, 2024. The responses were due on June 11, 2024, but the plaintiffs did not respond by the statutory deadline. The court finds that the plaintiffs did not act with substantial justification and grants the motion to deem the RFA admitted against the plaintiffs. The court also grants sanctions in the amount of $1000 for both motions, making the plaintiffs and their attorney jointly and severally liable. The court reduces the sanctions from the original amount of $869 due to the simplicity of the issues and the absence of any opposition.
