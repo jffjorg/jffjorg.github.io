@@ -1,0 +1,109 @@
+Here is the summary of the tentative ruling in YAML format:
+
+```
+case_number: 23AHCV02482
+hearing_date: October 17, 2024
+dept: X DEMURRER
+
+people_names:
+  - Kato
+  - Tamara Kato
+
+company_names:
+  - JP Morgan Chase Bank, N.A.
+  - Bayview Loan Servicing, LLC
+  - Nationstar Mortgage, LLC
+  - VMRTG DEFENDANT
+
+places:
+  - Los Angeles County
+
+dates:
+  - July 15, 2016
+  - August 5, 2020
+  - August 16, 2022
+  - March 22, 2023
+  - May 30, 2023
+  - August 30, 2023
+  - October 5, 2023
+
+events:
+  - Recording of Notice of Default
+  - Recording of Notice of Trustee's Sale
+  - Foreclosure of property
+  - Demurrer
+
+money:
+  - $477,367 (mortgage loan amount)
+
+intentions:
+  - Plaintiff's intention to use property as senior assisted living home
+  - Defendant's intention to foreclose on property
+
+facts:
+  - Plaintiff obtained a mortgage loan from JP Morgan Chase Bank, N.A.
+  - The deed of trust was assigned three times
+  - Notice of Default and Notice of Trustee's Sale were recorded
+  - Plaintiff claims he did not receive notice of foreclosure
+
+disputes:
+  - Dispute over whether Plaintiff was a "borrower" under HBOR
+  - Dispute over whether foreclosure was wrongful
+
+acts:
+  - Plaintiff's failure to receive notice of foreclosure
+  - Defendant's alleged failure to comply with HBOR requirements
+
+agreements:
+  - Civil Code section 2923.5
+  - Civil Code section 2924(a)(1)
+  - Civil Code section 2924.9
+  - Business and Professions Code section 17200 et seq.
+  - Civil Code section 3412
+
+laws:
+  - Homeowner Bill of Rights (HBOR)
+  - California Civil Code
+
+case_citations:
+  - Holiday Matinee, Inc. v. Rambus, Inc. (2004) 118 Cal.App.4th 1413
+  - Doe v. City of Los Angeles (2007) 42 Cal.4th 531
+  - Doheny Park Terrace Homeowners Assn., Inc. v. Truck Ins. Exchange (2005) 132 Cal.App.4th 1076
+  - California Logistics, Inc. v. State of California (2008) 161 Cal.App.4th 242
+  - Mabry v. Superior Court (2010) 185 Cal.App.4th 208
+  - Sciarratta v. U.S. Bank Nat'l Ass'n (2016) 247 Cal. App. 4th 552
+  - Jenkins v. JP Morgan Chase Bank, N.A. (2013) 216 Cal.App.4th 497
+  - Kroeker v. Hurlbert (1940) 38 Cal.App.2d 261
+  - Deutsche Bank Nat'l Tr. Co. v. Pyle (2017) 13 Cal. App. 5th 513
+  - Santana v. BSI Fin. Servs., Inc. (S.D. Cal. 2020) 495 F.Supp.3d 926
+  - Ephraim v. Metropolitan Trust Co. of California (1946) 28 Cal.2d 824
+
+roles:
+  - Judge
+  - Plaintiff (David Kato)
+  - Defendant (VMRTG DEFENDANT)
+
+significant_statements:
+  - The function of a demurrer is to test the sufficiency of the complaint as a matter of law.
+  - The Court notes that page 2 of RJN, Exhibit A (the Deed of Trust recorded on July 15, 2016), lists under “Definitions” that “Borrower” is David Kato and Tamara Kato.
+  - Plaintiff lacks standing to assert HBOR claims because the property was not owner-occupied and the loan was commercial.
+  - The Court deems Plaintiff to be a borrower because of his designation as a “Borrower” in the Deed of Trust.
+```
+
+And here is a summary of the tentative ruling in English text:
+
+The Judge has issued a tentative ruling on the demurrer filed by the Defendant to the Plaintiff's complaint. The Plaintiff, David Kato, alleges that the Defendant's foreclosure of his property was wrongful and violates various California laws, including the Homeowner Bill of Rights (HBOR).
+
+The Judge has found that the Plaintiff lacks standing to assert HBOR claims because the property was not owner-occupied and the loan was commercial. The Judge has also deemed the Plaintiff to be a borrower because of his designation as a “Borrower” in the Deed of Trust.
+
+The Judge has sustained the demurrer to the first cause of action, which alleges violations of Civil Code section 2923.5, because the Plaintiff lacks standing to assert HBOR claims. The Judge has also sustained the demurrer to the second cause of action, which alleges violations of Civil Code section 2924(a)(1), because the Plaintiff failed to plead facts sufficient to show an illegal, fraudulent, or willfully oppressive sale.
+
+The Judge has overruled the demurrer to the third cause of action, which alleges violations of Civil Code section 2924.9, because the Plaintiff has adequately pled a violation of this code section.
+
+The Judge has sustained the demurrer to the fourth cause of action, which alleges wrongful foreclosure, because the Plaintiff failed to plead facts sufficient to show an illegal, fraudulent, or willfully oppressive sale.
+
+The Judge has sustained the demurrer to the fifth cause of action, which alleges violations of California Business and Professions Code section 17200 et seq., because the Plaintiff lacks standing to maintain a UCL claim based on the alleged unlawful, unfair, or fraudulent business acts.
+
+The Judge has sustained the demurrer to the sixth cause of action, which seeks cancellation of the recorded Notice of Default, Notice of Trustee's Sale, and Trustee's Deed Upon Sale, because the Plaintiff failed to plead facts sufficient to show the apparent validity of the instruments designated and the reason for asserting that they are actually invalid.
+
+The Judge has given the Plaintiff leave to amend the complaint to plead additional facts and allegations to support the causes of action that were sustained.
