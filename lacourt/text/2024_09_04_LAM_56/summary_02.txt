@@ -1,0 +1,66 @@
+Here is the summary in YAML format:
+
+```
+case_number: 23STCV08989
+plaintiff: Carla Abedian
+defendant: FCA US LLC
+people_names:
+  - Carla Abedian
+  - Nadine Bedwan
+company_names:
+  - FCA US LLC
+places:
+  - Los Angeles County
+  - California
+dates:
+  - April 29, 2024
+  - May 20, 2024
+  - June 3, 2024
+  - June 24, 2024
+  - September 4, 2024
+events:
+  - Motion to Compel Further Responses to Requests for Production of Documents
+  - Service of Discovery Responses
+  - Filing of Compliance Motion
+  - Order to Compel Compliance with Discovery Order
+  - Award of Monetary Sanctions
+money:
+  - $1,250
+intentions:
+  - To compel Defendant to comply with the Court's April 29, 2024 Discovery Order
+  - To award monetary sanctions to Plaintiff
+facts:
+  - Defendant failed to provide a Code-compliant, verified written response to the RFPs
+  - Defendant served discovery responses containing objections without any discovery production
+  - Plaintiff filed the Compliance Motion on June 24, 2024
+  - The Court granted the Compliance Motion on September 4, 2024
+disputes:
+  - Defendant's failure to comply with the Court's April 29, 2024 Discovery Order
+acts:
+  - Defendant's failure to provide a Code-compliant, verified written response to the RFPs
+  - Defendant's failure to produce all additional responsive documents within twenty business days
+agreements:
+  - The Court's April 29, 2024 Discovery Order
+  - The parties' agreements regarding the production of documents
+laws:
+  - Code of Civil Procedure, Section 1005, subdivision (b)
+  - California Lemon Law
+case_citations:
+  - Code Civ. Proc., § 1005, subd. (b)
+  - California Lemon Law
+statutes:
+  - California Code of Civil Procedure
+  - California Lemon Law
+roles:
+  - Judge: Hon. Holly J. Fujie
+  - Plaintiff: Carla Abedian
+  - Defendant: FCA US LLC
+  - Counsel: Nadine Bedwan
+significant_statements:
+  - The Court grants the Compliance Motion and orders Defendant to produce all responsive documents.
+  - The Court awards monetary sanctions to Plaintiff in the amount of $1,250.
+```
+
+And here is a summary in English text:
+
+The Court has considered the Plaintiff's motion to compel compliance with the Court's April 29, 2024 Discovery Order and for sanctions. The motion was unopposed, and the Court granted the motion. The Court ordered the Defendant to produce all documents responsive to the Requests for Production of Documents (RFPs), even if allegedly privileged, within 20 days of the date of this Order. The Court also awarded monetary sanctions to the Defendant and its counsel, jointly and severally, in the amount of $1,250.

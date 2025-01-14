@@ -1,0 +1,112 @@
+Here is the summary in YAML format:
+
+```
+case_number: 21STCV15600
+plaintiff_names:
+  - Michael Corominas
+  - Lisa Corominas
+defendant_names:
+  - Jessica Thomas, M.D.
+  - West Hills Hospital and Medical Center
+  - Martin M. Mortazavi, M.D.
+  - Paul Diehl, M.D.
+  - Dean Wilson, Jr., P.A.
+  - Specialty Imagining Center
+  - Tejpal Singh, M.D.
+  - Providence Cedars-Sina Tarzana Medical Center
+  - Chris Y. Wang, M.D.
+  - Jamie Soo Moi Eng, M.D.
+  - Exer Urgent Care
+  - Michael H. Lee, M.D.
+  - California Institute of Neuroscience
+people_names:
+  - Michael Corominas
+  - Lisa Corominas
+  - Jessica Thomas, M.D.
+  - Martin M. Mortazavi, M.D.
+  - Paul Diehl, M.D.
+  - Dean Wilson, Jr., P.A.
+  - Tejpal Singh, M.D.
+  - Chris Y. Wang, M.D.
+  - Jamie Soo Moi Eng, M.D.
+  - Michael H. Lee, M.D.
+  - Roy Antelyes, M.D.
+  - Michel S. Ritter, M.D.
+company_names:
+  - West Hills Hospital and Medical Center
+  - Specialty Imagining Center
+  - Exer Urgent Care
+  - California Institute of Neuroscience
+places:
+  - West Hills Hospital
+  - Huntington Memorial Hospital
+  - UCLA Medical Center
+  - Mission Hospital
+  - Regional Medical Center
+  - Children's Hospital in Mission Viejo, California
+dates:
+  - April 26, 2023
+  - February 21, 2020
+  - January 30, 2020
+  - February 8, 2024
+  - March 22, 2024
+  - April 4, 2024
+  - May 7, 2024
+  - August 18, 2021
+  - April 26, 2021
+  - October 1, 2020
+  - April 6, 2020
+events:
+  - ER visit
+  - Admission to hospital
+  - MRI
+  - Surgery
+  - Discharge
+money:
+  - None specified
+intentions:
+  - Dr. Thomas seeks summary judgment on grounds of time-barred complaint, breach of standard of care, and lack of causation
+  - Plaintiffs argue that the complaint is timely and that Dr. Thomas breached the standard of care
+facts:
+  - Dr. Thomas saw Mr. Corominas for complaints of back pain and admitted him to the hospital for further care
+  - Dr. Thomas did not order additional testing for signs of infection despite elevated white blood cell count
+  - Mr. Corominas was diagnosed with sepsis and acute kidney injury
+  - Dr. Thomas did not consult with a radiologist regarding an MRI report
+disputes:
+  - Whether the complaint is time-barred
+  - Whether Dr. Thomas breached the standard of care
+  - Whether Dr. Thomas' conduct caused Mr. Corominas' injuries
+acts:
+  - Dr. Thomas' failure to order additional testing for signs of infection
+  - Dr. Thomas' failure to consult with a radiologist regarding an MRI report
+  - Dr. Thomas' breach of the standard of care
+agreements:
+  - Code of Civil Procedure section 364
+  - Code of Civil Procedure section 365
+  - Code of Civil Procedure section 437c
+laws:
+  - California Civil Code
+  - California Code of Civil Procedure
+  - Other applicable California laws and regulations
+case_citations:
+  - Simmons v. West Covina Medical Clinic (1989) 212 Cal.App.3d 696
+  - Avivi v. Centro Medico Urgente Medical Center (2008) 159 Cal.App.4th 463
+  - Munro v. Regents of University of California (1989) 215 Cal.App.3d 977
+  - Starr v. Mooslin (1971) 14 Cal.App.3d 988
+  - Hanooka v. Pivko (1994) 22 Cal.App.4th 1553
+  - Woods v. Young (1991) 53 Cal.3d 315
+  - Toigo v. Hayashida (1980) 103 Cal.App.3d 267
+  - Ables v. A. Ghazale Brothers, Inc. (2022) 74 Cal.App.5th 823
+  - Fernandez v. Alexander (2019) 31 Cal.App.5th 770
+roles:
+  - Judge: W. Michael Corominas
+  - Plaintiff: Michael Corominas and Lisa Corominas
+  - Defendant: Jessica Thomas, M.D.
+  - Expert witnesses: Roy Antelyes, M.D. and Michel S. Ritter, M.D.
+significant_statements:
+  - The court finds that Plaintiffs have met their burden in establishing a triable issue of material fact.
+  - The court disagrees with Dr. Thomas' argument that Dr. Ritter's declaration is inadmissible as unsupported speculation.
+  - The court finds that Dr. Ritter's declaration is supported by a reasoned explanation of the underlying facts.
+```
+
+Please note that this is a summary of the judge's tentative ruling and may not capture every detail or nuance of the document.

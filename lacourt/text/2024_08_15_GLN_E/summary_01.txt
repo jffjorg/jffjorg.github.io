@@ -1,0 +1,119 @@
+Here is the summary of the judge's tentative ruling in YAML format:
+
+```
+case_number: 24NNCV02064
+hearing_date: 2024-08-15
+dept: E
+trial_date: unset
+case_name: Andreh Hakoopian, Yeros Hakopian, and Nvart Issaian v. Rosette V. Haratoonian, The Western Prelacy of the Armenian Apostolic Church of America
+```
+
+```
+people_names:
+  - Andreh Hakoopian
+  - Yeros Hakopian
+  - Nvart Issaian
+  - Rosette V. Haratoonian
+  - Michael Shaar Inc.
+  - S.I.G. Property Management
+  - S.I.G. Management
+  - Defendant Haratoonian
+  - Defendant Western Prelacy
+```
+
+```
+company_names:
+  - S.I.G. Property Management
+  - S.I.G. Management
+  - Michael Shaar Inc.
+  - The Western Prelacy of the Armenian Apostolic Church of America
+```
+
+```
+places:
+  - Western Prelacy
+  - Armenia
+```
+
+```
+dates:
+  - 2007-02-01
+  - 2007-09-30
+  - 2024-08-15
+```
+
+```
+events:
+  - unlawful detainer action
+  - eviction proceedings
+  - filing of complaints
+  - collection of rent
+```
+
+```
+money:
+  - rent payments
+  - attorney's fees
+  - costs
+```
+
+```
+intention:
+  - to strike the sixth cause of action
+  - to recover attorney's fees and costs
+```
+
+```
+facts:
+  - Defendant Haratoonian collected rent payments despite not being the owner
+  - Defendant Western Prelacy knew or should have known about Haratoonian's conduct
+  - S.I.G. Management did not take measures to ensure rent payments were sent to the rightful owner
+```
+
+```
+disputes:
+  - whether the sixth cause of action arises from protected activity
+  - whether the outrageous conduct complained of is protected by the anti-SLAPP statute
+```
+
+```
+acts:
+  - filing of an unlawful detainer action
+  - collection of rent payments
+  - eviction proceedings
+  - failure to take measures to ensure rent payments were sent to the rightful owner
+```
+
+```
+agreements:
+  - CCP § 425.16
+  - CCP § 1005(b)
+  - CCP § 1013, §1013a, §1013b
+```
+
+```
+laws:
+  - CCP § 425.16
+  - CCP § 425.16(b)(1)
+  - CCP § 425.16(c)(1)
+  - CCP § 1005(b)
+  - CCP § 1013, §1013a, §1013b
+  - Section 128.5
+```
+
+```
+case_citations:
+  - Birkner v. Lam (2007) 156 Cal.App.4th 275
+  - Jarrow Formulas, Inc. v. LaMarche (2003) 31 Cal.4th 728
+  - Navellier, supra, 29 Cal.4th at p. 90
+  - Chavez v. Mendoza (2001) 94 Cal.App.4th 1083
+  - Ludwig v. Superior Court (1995) 37 Cal.App.4th 8
+  - California Motor Transport v. Trucking Unlimited (1972) 404 U.S. 508
+  - City of Cotati v. Cashman (2002) 29 Cal.4th 69
+  - Martinez v. Metabolife Internat, Inc. (2003) 113 Cal.App.4th 181
+  - Peregrine Funding, Inc. v. Sheppard Mullin Richter & Hampton LLP (2005) 133 Cal.App.4th 658
+  - Simmons v. Allstate Ins. Co. (2001) 92 Cal.App.4th 1068
+```
+
+```
+roles

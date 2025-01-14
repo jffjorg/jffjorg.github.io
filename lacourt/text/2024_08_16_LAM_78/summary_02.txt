@@ -1,0 +1,75 @@
+Here is the summary in YAML format:
+
+```
+case_number: 24STCP01404
+plaintiff: J.G. Wentworth Originations, LLC
+defendant: C.T. (Real Party-In-Interest/Transferor)
+people_names:
+  - J.G. Wentworth Originations, LLC
+  - C.T.
+company_names:
+  - J.G. Wentworth Originations, LLC
+  - Omaha Life Insurance Company
+places:
+  - Los Angeles, California
+  - Nevada
+dates:
+  - May 2, 2024
+  - May 3, 2024
+  - June 17, 2024
+  - June 26, 2024
+  - July 5, 2024
+  - July 15, 2024
+  - July 17, 2024
+  - July 24, 2024
+  - July 30, 2024
+  - August 14, 2024
+  - August 16, 2024
+events:
+  - Petition for approval of transfer of structured settlement payment rights
+  - Transfer of structured settlement payment rights
+  - Hearing on petition
+money:
+  - $28,386.36
+  - $13,102.90
+  - $154,066
+intentions:
+  - To approve the transfer of structured settlement payment rights
+  - To deny the petition for approval of transfer
+facts:
+  - Payee C.T. received a structured settlement annuity in 2019
+  - Payee transferred portions of his original structured settlement and received a total of $154,066
+  - Payee is experiencing financial hardship and would use the money from the proposed assignment to fix the engine on his vehicle and pay rent
+disputes:
+  - Whether the transfer of structured settlement payment rights is in the best interest of the payee
+  - Whether the payee has received independent professional advice regarding the transfer
+acts:
+  - Petitioner filed a petition for approval of transfer of structured settlement payment rights
+  - Payee filed a supplemental declaration
+  - Petitioner filed a belated second supplemental declaration of Payee
+agreements:
+  - Purchase Agreement between Payee and Petitioner
+laws:
+  - Insurance Code section 10136
+  - Insurance Code section 10138
+  - Insurance Code section 10139.5
+case_citations:
+  - Insurance Code section 10136
+  - Insurance Code section 10138
+  - Insurance Code section 10139.5
+statutes:
+  - Insurance Code section 10136
+  - Insurance Code section 10138
+  - Insurance Code section 10139.5
+roles:
+  - Judge: Hon. Michelle C. Kim
+  - Petitioner: J.G. Wentworth Originations, LLC
+  - Payee: C.T.
+significant_statements:
+  - The Court finds that the transfer agreement complies with Insurance Code sections 10136 and 10138
+  - The Court finds that the transfer is not in the best interest of the payee
+```
+
+And here is a brief summary in English text:
+
+The tentative ruling denies the petition for approval of transfer of structured settlement payment rights. The court finds that the transfer agreement complies with Insurance Code sections 10136 and 10138, but the transfer is not in the best interest of the payee. The court notes that the payee has transferred portions of his original structured settlement and received a total of $154,066, but is still experiencing financial hardship. The court also finds that the payee has not provided sufficient information regarding his financial situation and has not received independent professional advice regarding the transfer. The court requires the payee to file a supplemental declaration explaining how the $154,066 was spent, why he requires more money, and how much of the annuity this proposed transfer will leave him with.
