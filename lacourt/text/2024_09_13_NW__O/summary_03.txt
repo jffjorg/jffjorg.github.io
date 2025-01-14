@@ -1,0 +1,77 @@
+Here is the summary in YAML format:
+
+```
+case_number: 23VECV02287
+plaintiff: Evan Jehle, Trustee of the 17100 Rancho Trust
+defendant: Rancho Villa, LLC, David Zemach, CW General Construction, Inc., JR Pool & Spa Services, Inc., Hudson Insurance Company, Hartford Insurance Company, J.T. Eden, and others
+people_names:
+  - Evan Jehle
+  - David Zemach
+  - Yoram David Najum
+companies:
+  - Rancho Villa, LLC
+  - CW General Construction, Inc.
+  - JR Pool & Spa Services, Inc.
+  - Hudson Insurance Company
+  - Hartford Insurance Company
+  - J.T. Eden
+places:
+  - 17100 Rancho Street, Encino, California
+  - Los Angeles, California
+dates:
+  - May 24, 2023
+  - June 30, 2023
+  - July 31, 2023
+  - August 30, 2023
+  - September 21, 2023
+  - September 25, 2023
+  - September 28, 2023
+  - November 3, 2023
+  - November 7, 2023
+  - December 20, 2023
+  - January 9, 2024
+  - January 12, 2024
+  - January 16, 2024
+  - February 16, 2024
+  - September 13, 2024
+events:
+  - Construction defects
+  - Fraudulent transfer
+  - Recission
+  - Demurrer
+  - Cross-Complaint
+  - Answer
+money:
+  - None
+intentions:
+  - To resolve disputes between parties
+facts:
+  - Plaintiff purchased a residence with alleged construction defects
+  - Defendants are involved in the construction of the residence
+  - Plaintiff filed a complaint for construction defects, fraudulent transfer, and recission
+  - Defendants filed cross-complaints for equitable indemnity, apportionment, contribution, and declaratory relief
+disputes:
+  - Disputes between parties regarding responsibility for construction defects
+  - Disputes regarding the enforceability of an indemnity provision
+acts:
+  - Filing of complaints and cross-complaints
+  - Demurrer filed by NJJ
+  - Opposition filed by Riehl
+  - Reply filed by NJJ
+agreements:
+  - Service Agreement between Riehl and NJJ
+  - Indemnity provision in the Service Agreement
+laws:
+  - California Civil Code Section 2782(a)
+  - California Code of Civil Procedure Section 430.10
+  - California Code of Civil Procedure Section 430.41(a)
+  - California Code of Civil Procedure Section 430.41(a)(3)
+  - California Code of Civil Procedure Section 430.10(e)
+  - California Code of Civil Procedure Section 875(a)
+  - California Code of Civil Procedure Section 1060
+case_citations:
+  - Donabedian v. Mercury Ins. Co. (2004) 116 Cal.App.4th 968
+  - Del E. Webb Corp. v. Structural Materials Co. (1981) 123 Cal.App.3d 593
+  - Durell v. Sharp Healthcare (2010) 183 Cal.App.4th 1350
+  - Blank v. Kirwan (1985) 39 Cal.3d 311
+  - Ion Equip. Corp. v. Nelson (1980) 110 Cal

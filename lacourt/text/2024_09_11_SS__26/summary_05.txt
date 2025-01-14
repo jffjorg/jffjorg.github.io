@@ -1,0 +1,66 @@
+Here is the summary of the Judge's tentative ruling in YAML format:
+
+```
+Case Number: 24STLC00831
+Plaintiff's Name: Tommie Jimenez
+Defendant's Name: Lending Club Corp., et al.
+People-Names:
+  - Tommie Jimenez
+  - Lending Club Corp.
+Company-Names:
+  - Lending Club Corp.
+Places:
+  - California
+Dates:
+  - February 5, 2024
+  - April 23, 2024
+  - May 23, 2024
+  - July 3, 2024
+  - July 11, 2024
+  - August 14, 2023
+  - September 2023
+  - September 11, 2024
+Events:
+  - Demurrer filed by Defendant
+  - Opposition filed by Plaintiff
+  - Reply filed by Defendant
+Money:
+  - None mentioned
+Intentions:
+  - Defendant's intention to invade Plaintiff's privacy
+Facts:
+  - Plaintiff is a natural person obligated to pay a consumer debt to Defendant
+  - Plaintiff sent a letter to Defendant requesting to cease communication and direct future communications to Plaintiff's counsel
+  - Defendant telephoned Plaintiff several times for the purpose of collecting the debt despite the letter
+Disputes:
+  - Defendant's demurrer to the First Amended Complaint
+  - Plaintiff's standing to assert a claim under the RFDCPA
+Acts:
+  - Defendant's repeated communications with Plaintiff after being notified of Plaintiff's representation
+Laws:
+  - Rosenthal Fair Debt Collection Practices Act (RFDCPA)
+  - Fair Debt Collection Practices Act (FDCPA)
+  - Code of Civil Procedure section 430.10
+  - Code of Civil Procedure section 430.41
+  - Code of Civil Procedure section 1788.14
+  - Code of Civil Procedure section 1788.18
+Case Citations:
+  - Limon v. Circle K Stores Inc. (2022) 84 Cal. App. 5th 671
+  - Pennell v. Global Trust Management, LLC (7th Cir. 2021) 990 F.3d 1041
+  - Medicredit v. Lupia (D. Colo. 2020) 445 F.Supp.3d 1271
+  - Spokeo, Inc. v. Robins (2016) 578 U.S. 330
+  - TransUnion LLC v. Ramirez (2021) 594 U.S. 413
+  - Simpson v. Revco Solutions, Inc. (S.D. Ill. 2022) 2022 WL 17582742
+  - Gadelhak v. AT&T Services, Inc. (7th Cir. 2018) 950 F.3d 459
+  - Gunn v. Thrasher, Buschmann & Voelkel, P.C. (7th Cir. 2020) 982 F.3d 1069
+Roles:
+  - Judge: issued tentative ruling
+  - Plaintiff: Tommie Jimenez
+  - Defendant: Lending Club Corp.
+Significant Statements:
+  - Defendant's demurrer to the First Amended Complaint is sustained without leave to amend
+  - Plaintiff's allegations of emotional effects, such as stress, anxiety, and confusion, are not sufficient for standing
+  - Actual harm to a common law analogue, such as intrusion upon seclusion, is sufficient to confer standing under the RFDCPA
+```
+
+Note: The YAML format is used to organize the information in a structured and machine-readable way. The fields are inspired by the court document's content and are not exhaustive.

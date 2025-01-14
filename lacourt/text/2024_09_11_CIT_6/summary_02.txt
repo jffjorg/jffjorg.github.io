@@ -1,0 +1,65 @@
+Here is the YAML summary of the tentative ruling:
+
+```
+case_number: 23PSCV02476
+plaintiff: Weijun Zhang
+defendants: Bolun Zhang, Taikoo Supply Chain Inc., All Good Escrow Inc.
+people_names:
+  - Weijun Zhang
+  - Bolun Zhang
+  - Jinghan Zhang
+  - All Good Escrow Inc.
+company_names:
+  - All Good Escrow Inc.
+  - Taikoo Supply Chain Inc.
+places:
+  - None
+dates:
+  - August 14, 2023
+  - March 21, 2024
+  - July 26, 2024
+  - July 30, 2024
+  - September 4, 2024
+  - September 11, 2024
+events:
+  - Demurrer
+  - Motion to strike
+  - Meeting and confer
+money:
+  - $0
+intentions:
+  - To determine the legal sufficiency of the pleadings
+facts:
+  - The case involves a real property dispute
+  - The plaintiff filed a complaint on August 14, 2023
+  - The defendants filed demurrers and motions to strike on July 26, 2024
+  - The court sustained some demurrers and granted some motions to strike
+disputes:
+  - The existence of a contract between the parties
+  - The validity of the escrow instructions
+  - The ownership of the subject property
+acts:
+  - Demurrer
+  - Motion to strike
+  - Meeting and confer
+agreements:
+  - None
+laws:
+  - California Civil Code
+  - California Code of Civil Procedure
+  - California Rules of Court
+case_citations:
+  - Nakash v. Superior Ct. (1987) 196 Cal.App.3d 59
+  - Careau & Co. v. Sec. Pac. Bus. Credit, Inc. (1990) 222 Cal.App.3d 1371
+  - Regent All. Ltd. v. Rabizadeh (2014) 231 Cal.App.4th 1177
+  - Nautilus, Inc. v. Yang (2017) 11 Cal.App.5th 33
+  - O'Neal v. Stanislaus Cnty. Employees' Ret. Assn. (2017) 8 Cal.App.5th 1184
+  - Tribeca Companies, LLC v. First Am. Title Ins. Co. (2015) 239 Cal.App.4th 1088
+roles:
+  - Judge
+  - Plaintiff
+  - Defendants
+significant_statements:
+  - Rescission is not a cause of action; it is a remedy.
+  - A demurrer can only be sustained when it disposes of an entire pleading, cause of action, or affirmative defense.
+  - A motion to

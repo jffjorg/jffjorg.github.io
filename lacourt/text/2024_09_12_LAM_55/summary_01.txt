@@ -1,0 +1,78 @@
+Here is a summary of the tentative ruling in YAML format:
+
+```
+Case Number: 24STCV04096
+Plaintiff's Name: Truconnect Communications, Inc. (TCI)
+Defendant's Name: The Sanford Firm, Regie Salgado, Melinda Zambrano
+People-Names:
+  - Brian Sanford
+  - Rick Burgar
+  - Regie Salgado
+  - Melinda Zambrano
+  - Nathan Johnson
+Company-Names:
+  - Truconnect Communications, Inc. (TCI)
+  - The Sanford Firm
+  - Sage Telecom
+Places:
+  - California
+  - Federal court
+  - Texas
+Dates:
+  - March 2015
+  - April 2015
+  - June 2015
+  - September 12, 2024
+Events:
+  - Filing of complaint by TCI
+  - Filing of qui tam action by Salgado and Zambrano
+  - Dismissal of false claims causes of action
+  - Grant of summary judgment in favor of TCI
+  - Appeal to the Ninth Circuit
+  - Denial of TCI's request for attorneys' fees
+Money:
+  - None mentioned
+Intentions:
+  - TCI: to seek damages for malicious prosecution and civil conspiracy
+  - Salgado and Zambrano: to bring qui tam action and seek damages for whistleblower retaliation
+Facts:
+  - Salgado and Zambrano were employed by Sage Telecom, not TCI
+  - TCI hired Salgado and Zambrano as employees in March and April 2015, respectively
+  - Salgado and Zambrano discovered suspicious activity suggesting overcharging by TCI
+  - They reported their concerns to upper management, but were terminated
+  - They brought a qui tam action against TCI, alleging fraud against the government
+Disputes:
+  - Whether TCI was the employer of Salgado and Zambrano
+  - Whether Salgado and Zambrano acted with malice in bringing the qui tam action
+  - Whether TCI had probable cause to bring its malicious prosecution and civil conspiracy claims
+Acts:
+  - Filing of complaint by TCI
+  - Filing of qui tam action by Salgado and Zambrano
+  - Dismissal of false claims causes of action
+  - Grant of summary judgment in favor of TCI
+  - Appeal to the Ninth Circuit
+Agreements:
+  - None mentioned
+Laws:
+  - California Code of Civil Procedure Section 425.16 (anti-SLAPP statute)
+  - 47 U.S.C. § 254(b)(1), (b)(3)
+  - 47 C.F.R. § 54.401(a)
+  - National Labor Relations Act
+  - False Claims Act
+Case Citations:
+  - Laker v. Board of Trustees of California State University (2019) 32 Cal.App.5th 745
+  - Wilson v. Cable News Network, Inc. (2019) 7 Cal.5th 871
+  - Briggs v. Eden Council for Hope & Opportunity (1999) 19 Cal.4th 1106
+  - Ludwig v. Superior Court (1995) 37 Cal.App.4th 8
+  - Jarrow Formulas, Inc. v. LaMarche (2003) 31 Cal.4th 728
+  - Moreau v. Air France (9th Cir. 2004) 356 F.3d 942
+  - United States ex rel. Rubar v. HaynerHoyt Corp. (N.D.N.Y. 2018) 306 F.Supp.3d 478
+Roles:
+  - Judge: [not specified]
+Significant Statements:
+  - "The Court finds that the claims in this action fall within the protections of the anti-SLAPP statute, as they arise from Defendants' petitioning activities, specifically the filing and maintenance of the prior action."
+  - "The Court concludes that Plaintiff has not met its burden of demonstrating a probability of success in proving that Defendants brought and maintained the Prior Action without probable cause."
+  - "The Court finds that Plaintiff has not met its burden of proving that Defendants acted with malice in bringing the prior action."
+```
+
+Note that the YAML format is not suitable for complex legal documents, as it may not be able to capture all the nuances and subtleties of the law.
