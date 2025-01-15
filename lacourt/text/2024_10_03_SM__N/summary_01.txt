@@ -1,0 +1,102 @@
+Here is the summary in YAML format:
+
+```
+case_number: 23SMCV03595
+hearing_date: October 3, 2024
+dept: N
+
+people_names:
+  - Carlos Lopez
+  - Beverly Management (property manager)
+  - Torres (Bristol's representative)
+  - King (Plaintiff's counsel)
+  - unknown (GSWC's representative)
+
+company_names:
+  - Bristol Capital Ventures LLC
+  - Golden State Water Company
+  - Travelers (insurance carrier)
+  - Beverly Management (affiliate of Bristol)
+
+places:
+  - unknown
+
+dates:
+  - November 27, 2023 (service of process)
+  - November 29, 2023 (proof of service)
+  - April 30, 2024 (default entered)
+  - May 6, 2024 (claim forwarded to Travelers)
+  - June 21, 2024 (motion filed)
+  - September 23, 2024 (supplemental declaration filed)
+  - November 23, 2023 (service of process on Beverly Management)
+
+events:
+  - Service of process on November 27, 2023
+  - Proof of service filed on November 29, 2023
+  - Default entered on April 30, 2024
+  - Claim forwarded to Travelers on May 6, 2024
+  - Motion filed on June 21, 2024
+  - Supplemental declaration filed on September 23, 2024
+
+money:
+  - unknown
+
+intentions:
+  - Bristol: to set aside default due to mistake, inadvertence, or excusable neglect
+  - GSWC: to compel further deposition answers from Plaintiff Carlos Lopez
+
+facts:
+  - Bristol was served by substituted service on November 27, 2023
+  - Default was entered on April 30, 2024
+  - Plaintiff admitted to having been convicted of felony forgery
+  - Defense counsel asked Plaintiff about the conviction at his deposition
+
+disputes:
+  - Bristol's motion to set aside default
+  - GSWC's motion to compel further deposition answers
+
+acts:
+  - Bristol's failure to timely respond to the pleading
+  - Plaintiff's refusal to respond to questions regarding his prior felony conviction
+
+agreements:
+  - Code of Civil Procedure section 473, subdivision (b)
+  - Code of Civil Procedure section 2025.480, subdivision (a)
+  - Evidence Code section 788
+
+laws:
+  - Code of Civil Procedure section 473, subdivision (b)
+  - Code of Civil Procedure section 2025.480, subdivision (a)
+  - Evidence Code section 788
+
+case_citations:
+  - Hopkins & Carley v. Gens (2011) 200 Cal.App.4th 1401, 1410
+  - Lasalle v. Vogel (2019) 36 Cal.App.5th 127, 134
+  - People v. Dalton (2019) 7 Cal.5th 166, 214
+
+statutes:
+  - Code of Civil Procedure section 473, subdivision (b)
+  - Code of Civil Procedure section 2025.480, subdivision (a)
+  - Evidence Code section 788
+
+roles:
+  - Judge: making tentative ruling
+  - Plaintiff: Carlos Lopez
+  - Defendant: Bristol Capital Ventures LLC and Golden State Water Company
+  - GSWC: moving party
+  - Bristol: moving party
+  - Torres: Bristol's representative
+  - King: Plaintiff's counsel
+
+significant_statements:
+  - Bristol's motion to set aside default is GRANTED
+  - Defendant Golden State Water Company's Motion to Compel Further Deposition Answers by Plaintiff Carlos Lopez is GRANTED
+  - The Court finds that policy favors judgments on the merits, and "doubts must be resolved in favor of relief."
+  - The Court notes that this does not relieve GWSC of a duty to show that the evidence has a tendency to disprove Plaintiff's credibility, i.e., the evidence must be connected to Plaintiff's credibility in some way, or it will not be admitted at trial.
+```
+
+And here is a summary of the judge's tentative ruling in English text:
+
+The judge has issued a tentative ruling on two motions. The first motion is from Bristol Capital Ventures LLC, which seeks to set aside a default judgment entered against it due to a mistake, inadvertence, or excusable neglect. The judge has granted this motion, finding that Bristol's representations that the complaint was overlooked due to a property manager's departure sufficiently state excusable neglect.
+
+The second motion is from Golden State Water Company, which seeks to compel further deposition answers from Plaintiff Carlos Lopez regarding his prior felony conviction for forgery. The judge has granted this motion, finding that the evidence sought is likely admissible to impeach Plaintiff's credibility and that the probative value of this evidence outweighs the potential prejudice. The judge notes that this does not relieve Golden State Water Company of a duty to show that the evidence has a tendency to disprove Plaintiff's credibility, and that the evidence must be connected to Plaintiff's credibility in some way, or it will not be admitted at trial.
