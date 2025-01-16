@@ -1,0 +1,92 @@
+Here is the summary in YAML format:
+
+```
+case_number: 23STCV08344
+plaintiff_name: Quetzal Salcido, et al
+defendant_name: Eric Martirosyan, et al
+people_names:
+  - Quetzal Salcido
+  - Patricia Salcido-Alvonistis
+  - Eric Martirosyan
+  - RoseAnn Frazee
+  - Mitilian
+  - Upinder S. Kalra
+company_names:
+  - E&E Ristorante Group, Inc.
+places:
+  - Los Angeles
+  - 2861 W. Sunset Boulevard
+dates:
+  - April 14, 2023
+  - August 8, 2023
+  - September 26, 2023
+  - November 8, 2023
+  - November 22, 2023
+  - January 19, 2024
+  - January 31, 2024
+  - February 5, 2024
+  - April 23, 2024
+  - May 10, 2024
+  - May 24, 2024
+  - June 4, 2024
+  - August 16, 2024
+events:
+  - Demurrer to First Amended Cross-Complaint
+  - Filing of First Amended Cross-Complaint
+  - Request for Entry of Default
+  - Opposition to Demurrer
+  - Filing of supplemental opposition
+  - Filing of declaration in support of demurrer
+  - Filing of reply in support of demurrer
+  - Meet and Confer
+  - Hearing on Demurrer
+money:
+  - None mentioned
+intentions:
+  - Cross-Defendant seeks to sustain the demurrer to the First Amended Cross-Complaint
+  - Cross-Complainants seek to argue that the demurrer should be overruled
+facts:
+  - The parties entered into a lease agreement
+  - The parties failed to perform their obligations under the lease
+  - Cross-Complainants allege that they relied on oral representations made by Patricia before entering into the lease
+disputes:
+  - The parties dispute the existence and enforceability of the oral representations
+  - The parties dispute the applicability of the Statute of Frauds
+  - The parties dispute the sufficiency of the pleading in the First Amended Cross-Complaint
+acts:
+  - Demurrer to First Amended Cross-Complaint
+  - Filing of opposition to demurrer
+  - Filing of supplemental opposition
+  - Filing of declaration in support of demurrer
+  - Filing of reply in support of demurrer
+agreements:
+  - Lease agreement
+  - Oral representations made by Patricia
+laws:
+  - California Civil Procedure Code
+  - California Code of Civil Procedure
+  - California Civil Code
+  - Statute of Frauds
+case_citations:
+  - Hahn v. Mirda
+  - Donabedian v. Mercury Ins. Co.
+  - Maxwell v. Dolezal
+  - Heritage Pacific Financial, LLC v. Monroy
+  - Stockton Mortgage, Inc. v. Tope
+  - Plumlee v. Poag
+  - Reeder v. Cobert
+  - Cansino v. Bank of America
+  - Perlas v. GMAC Mort., LLC
+  - Wilhelm v. Pray, Price, Williams & Russell
+  - Riverisland Cold Storage, Inc. v. Fresno-Madera Production Credit Assn.
+  - Goodman v. Kennedy
+roles:
+  - Judge: Upinder S. Kalra
+  - Cross-Defendant: Quetzal Salcido, individually and as Administrator of Patricia Salcido-Alvonistis' estate
+  - Cross-Complainants: Erik Martirosyan and E&E Ristorante Group, Inc.
+significant_statements:
+  - The Demurrer to the First Amended Cross-Complaint is SUSTAINED in its entirety
+  - Cross-Complainants shall have an opportunity to argue reasonable possibility to amend the FACC to correct the identified deficiencies
+```
+
+Please note that some information may not be included in the YAML summary as it is not relevant to the legal document or may not be extractable in a structured format.
