@@ -1,0 +1,92 @@
+Here is a summary of the judge's tentative ruling in YAML format:
+
+```
+---
+case_number: 23STCV29944
+plaintiff_name: Abraham Ghorbanian DDS MS and Ghorbanian, Saifee DDS, Inc.
+defendant_name: Namazikhah DMD, Inc. and Robert M. Hindin
+people_names:
+  - Abraham Ghorbanian
+  - Saifee Ghorbanian
+  - Namazikhah
+  - Robert M. Hindin
+company_names:
+  - Ghorbanian, Saifee DDS, Inc.
+  - Namazikhah DMD, Inc.
+  - Essential Endodontics, Inc.
+places:
+  - California
+  - Los Angeles
+  - Pacific Palisades
+dates:
+  - December 7, 2023
+  - June 4, 2024
+  - June 24, 2024
+  - July 6, 2017
+  - May 21, 2021
+events:
+  - Demurrer
+  - Motion to strike
+  - Bankruptcy filing
+  - Sale of assets
+  - Judgment lien
+  - Collection efforts
+money:
+  - $600,000
+  - $7,500
+  - $400,000
+  - $100,000
+intention:
+  - To hinder, delay, and defraud Plaintiffs
+  - To avoid liability to Plaintiffs
+  - To defeat the Judgment Lien and the BC516805 Action claims
+facts:
+  - PC1 transferred assets to GC3 without fair consideration
+  - Namizikhah and Moving Defendant formed GC3 to facilitate the transfer
+  - The transfer was intended to hinder, delay, and defraud Plaintiffs
+  - The transfer resulted in a loss of $400,000 to Plaintiffs
+  - Plaintiffs have a right to an accounting of the transactions
+disputes:
+  - Whether the transfer was fraudulent
+  - Whether the transfer was intended to hinder, delay, and defraud Plaintiffs
+  - Whether the transfer resulted in a loss to Plaintiffs
+acts:
+  - Demurrer
+  - Motion to strike
+  - Bankruptcy filing
+  - Sale of assets
+  - Judgment lien
+  - Collection efforts
+agreements:
+  - Agreement of Purchase and Sale of Business and Assets
+  - Asset Purchase Agreement
+laws:
+  - Uniform Voidable Transactions Act (UVTA)
+  - Uniform Fraudulent Transfer Act (UFTA)
+  - Civil Code §3439.04(a)
+  - Civil Code §3439.05
+  - Civil Code §1714.10
+case_citations:
+  - Lewis v. Safeway, Inc.
+  - Donabedian v. Mercury Insurance Co.
+  - Aubry v. Tri-City Hospital District
+  - AREI II Cases
+  - IIG Wireless, Inc. v. Yi
+  - Monastra v. Konica Business Machines, U.S.A., Inc.
+  - Berger v. Varum
+  - Teselle v. McLoughlin
+roles:
+  - Judge
+  - Plaintiff
+  - Defendant
+  - Attorney
+  - Corporate officer
+  - Bankruptcy trustee
+signifcant_statements:
+  - The Court will consider the instant demurrer.
+  - The demurrer is sustained with 20 days leave to amend as to the 6th cause of action.
+  - The demurrer is overruled as to the 1st and 2nd causes of action.
+  - Moving Defendant's motion to strike is denied as moot.
+```
+
+I hope this helps! Let me know if you have any further questions.
