@@ -1,0 +1,66 @@
+Here is the summary in YAML format:
+
+```
+Case Number: 23AHCV01347
+Plaintiff's Name: A&B Plumbing Solutions, Inc.
+Defendant's Name: Landwin DMV LLC, AYS Hospitality, Sonny Chen, Jason Chen, Johnny Chen
+People-Names:
+  - William Dodds
+  - Sonny Chen
+  - Jason Chen
+  - Johnny Chen
+Company-Names:
+  - A&B Plumbing Solutions, Inc.
+  - Landwin DMV LLC
+  - AYS Hospitality
+Places: None
+Dates:
+  - February 8, 2024
+  - June 3, 2024
+  - October 21, 2024
+  - October 25, 2024
+  - November 1, 2024
+Events:
+  - Cross-complaint filed
+  - Demurrer filed
+  - Opposition filed
+  - Reply filed
+Money:
+  - $43,000
+  - $61,113.88
+  - $65,181.59
+Intentions:
+  - To resolve disputes between parties
+Facts:
+  - Cross-complainants alleged breach of contract
+  - Cross-defendants demurred to the cross-complaint
+  - Meet and confer efforts were not successful
+Disputes:
+  - Breach of contract
+  - Unjust enrichment
+  - Declaratory relief
+  - Assault
+  - Implied indemnity
+  - Equitable contribution
+Acts:
+  - Filing of cross-complaint
+  - Filing of demurrer
+  - Filing of opposition
+  - Filing of reply
+Laws:
+  - California Code of Civil Procedure section 430.41
+  - California Code of Civil Procedure section 435.5
+  - California Code of Civil Procedure section 452
+  - California Code of Civil Procedure section 1060
+Statutes:
+  - California Civil Code section 3301
+Roles:
+  - Judge: Jared D. Moses
+Significant Statements:
+  - The Court finds that Cross-Complainants have sufficiently pled breach of contract against all Cross-Defendants in their first and second causes of action.
+  - The Court sustains the demurrer as to the third cause of action for Unjust Enrichment without leave to amend.
+  - The Court sustains the demurrer as to the fifth cause of action for Assault, with 20 days leave to amend.
+  - The Court sustains the demurrer as to the seventh cause of action for equitable contribution, with 20 days leave to amend.
+```
+
+Note that some of the information in the original document is not included in the YAML summary, such as the specific legal citations and the detailed analysis of the alter ego doctrine.
