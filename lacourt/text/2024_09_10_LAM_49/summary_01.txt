@@ -1,0 +1,63 @@
+Here is a summary of the tentative ruling in YAML format:
+
+```
+case_number: 24STCV16578
+hearing_date: September 10, 2024
+department: 49
+plaintiff: Vladimir Shagramanov, et al.
+defendant: Aleksey Pak, et al.
+motion: Defendant's Special Motion to Strike the Complaint
+responding_party: Plaintiffs Vladimir Shagramanov and SP Law Group, APC
+
+objections_to_evidence:
+  - OVERRULED (per Sweetwater Union High School Dist. v. Gilbane Building Co.)
+
+statutes:
+  - CCP section 425.16
+  - CCP section 47, subdivision (b)
+
+laws:
+  - California Constitution
+  - California Code of Civil Procedure
+
+citations:
+  - Sweetwater Union High School Dist. v. Gilbane Building Co. (2019) 6 Cal.5th 931
+  - Baral v. Schnitt (2016) 1 Cal.5th 376
+  - ComputerXpress, Inc. v. Jackson (2001) 93 Cal. App. 4th 993
+  - Neville v. Chudacoff (2008) 160 Cal. App. 4th 1255
+  - Wong v. Jing (2010) 189 Cal. App. 4th 1354
+  - Katz v. Rosen (1975) 48 Cal. App. 3d 1032
+  - Kenne v. Stennis (2014) 230 Cal. App. 4th 953
+  - Finton Constr., Inc. v. Bidna & Keys, APLC (2015) 238 Cal. App. 4th 200
+  - Issa v. Applegate (2019) 31 Cal. App. 5th 689
+  - Overhill Farms, Inc. v. Lopez (2010) 190 Cal. App. 4th 1248
+  - James v. San Jose Mercury News, Inc. (1993) 17 Cal.App.4th 1
+
+facts:
+  - Defendant Pak's truck was involved in an accident in Missouri in 2017
+  - Defendant Pak hired Plaintiff Shagramanov and his law firm, SP Law Group, to help him with his case
+  - Defendant Pak made complaints to the state bar and posted a review on Yelp, accusing Plaintiff Shagramanov of defrauding him
+  - Plaintiff Shagramanov fired Defendant Galay, a former employee, from his law firm in January 2024
+  - Defendant Pak and Defendant Galay allegedly conspired to make false statements about Plaintiff Shagramanov
+
+causes_of_action:
+  - defamation-libel
+  - defamation-libel per se
+  - false light
+  - fraud
+  - misrepresentation
+  - intentional infliction of emotional distress
+  - negligent infliction of emotional distress
+  - intentional interference with prospective economic advantage
+  - negligent interference with prospective economic advantage
+
+ruling:
+  - Defendant Pak's Special Motion to Strike is GRANTED IN PART and DENIED IN PART
+  - Plaintiffs' Fourth, Fifth, Sixth, Seventh, Eighth, and Ninth Causes of Action are ordered stricken in their entirety
+  - Plaintiff's First, Second, and Third Causes of Action are ordered stricken, as to Defendant Pak, only to the extent they are predicated on the State Bar Complaint
+  - Defendant Pak may file a noticed motion for attorney's fees if he elects to do so
+  - Defendant Pak is ordered to file an Answer to the remaining causes of action as it pertains to him, within 21 days, if he hasn't already done so
+  - Defendant Pak is ordered to give notice to all interested parties
+```
+
+Please note that this summary is based on the provided text and may not be a comprehensive or accurate representation of the entire document.
