@@ -1,0 +1,93 @@
+Here is the summary of the tentative ruling in YAML format:
+
+```
+case_number: 24STCV18667
+hearing_date: October 31, 2024
+dept: 40 Superior Court of California
+county: Los Angeles
+department: 40
+
+plaintiff:
+  - name: Milliecent Powell
+  - role: Plaintiff
+
+defendants:
+  - name: KPL Select Property Management, Inc.
+  - role: Defendant
+  - type: Corporation
+  - doing_business_in: California
+  - does: 1-10
+
+dates:
+  - July 29, 2024: Complaint filed
+  - April 28, 2024: Three-day notice to pay or quit served
+  - April 29, 2024: Cashier's check paid
+  - May 7, 2024: Unlawful detainer action filed
+  - July 18, 2024: Unlawful detainer action voluntarily dismissed
+  - October 4, 2024: Anti-SLAPP motion filed
+  - October 18, 2024: Opposition to anti-SLAPP motion filed
+  - October 24, 2024: Reply to opposition filed
+  - October 25, 2024: Supplemental declaration filed
+
+events:
+  - Unlawful detainer action filed
+  - Anti-SLAPP motion filed
+  - Opposition to anti-SLAPP motion filed
+  - Reply to opposition filed
+  - Supplemental declaration filed
+
+money:
+  - $6,984.36: Amount paid in rent
+  - $15,282.46: Amount allegedly still owed and due
+
+intention:
+  - KPL Select Property Management, Inc. intends to strike the first cause of action for malicious prosecution, the fourth and fifth causes of action for violations of LAMC sections 8.52.140 subdivisions (B)(4) and (B)(7), and the sixth cause of action for violation of the Beverly Hills Municipal Code Just Cause Ordinance
+
+facts:
+  - KPL Select Property Management, Inc. served Milliecent Powell with a three-day notice to pay or quit for $6,984.36 in unpaid rent
+  - Powell paid the amount with a cashier's check on April 29, 2024
+  - KPL Select Property Management, Inc. filed an unlawful detainer action on May 7, 2024
+  - The unlawful detainer action was voluntarily dismissed on July 18, 2024
+  - KPL Select Property Management, Inc. believed, albeit mistakenly, that the unlawful detainer action was filed for Powell's unpaid rent of $15,282.46 which accrued in 2022 and 2023
+
+dispute:
+  - Whether KPL Select Property Management, Inc. brought the unlawful detainer action without probable cause and with malice
+
+acts:
+  - Serving a three-day notice to pay or quit
+  - Filing an unlawful detainer action
+  - Voluntarily dismissing the unlawful detainer action
+
+agreements:
+  - LAMC section 8.52.140 subdivisions (B)(4) and (B)(7)
+  - Beverly Hills Municipal Code Just Cause Ordinance
+
+laws:
+  - California Code of Civil Procedure section 425.16
+  - Code of Civil Procedure section 425.16, subdivision (e)
+
+case_citations:
+  - Barry v. State Bar of California (2017) 2 Cal.5th 318
+  - Park v. Board of Trustees of California State University (2017) 2 Cal.5th 1057
+  - Navellier v. Sletten (2002) 29 Cal.4th 82
+  - Area 51 Productions, Inc. v. City of Alameda (2018) 20 Cal.App.5th 581
+  - Varian Medical Systems, Inc. v. Delfino (2005) 35 Cal.4th 180
+  - Martinez v. Metabolife Internat., Inc. (2003) 113 Cal.App.4th 181
+  - Jarrow Formulas, Inc. v. LaMarche (2003) 31 Cal.4th 728
+  - Flatley v. Mauro (2006) 39 Cal.4th 299
+  - Sheldon Appel Co. v. Albert & Oliker (1989) 47 Cal.3d 863
+  - Beverly Hills Municipal Codes §§ 4-5-502, 4-6-6 (A)
+
+roles:
+  - Judge: [Name]
+  - Plaintiff: Milliecent Powell
+  - Defendant: KPL Select Property Management, Inc.
+  - Corporation: KPL Select Property Management, Inc.
+  - Does: 1-10
+
+significant_statements:
+  - The court finds that KPL Select Property Management, Inc. has met its burden of showing that the conduct alleged in Milliecent Powell's Complaint arises from protected activity.
+  - The court grants KPL Select Property Management, Inc.'s Special Motion to Strike the first cause of action for malicious prosecution, the fourth and fifth causes of action for violations of LAMC sections 8.52.140 subdivisions (B)(4) and (B)(7), and the sixth cause of action for violation of the Beverly Hills Municipal Code Just Cause Ordinance.
+```
+
+Note: The YAML format is used to represent the data in a structured and machine-readable way. The indentation and line breaks are used to denote the hierarchical structure of the data.
