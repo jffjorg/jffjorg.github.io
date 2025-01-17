@@ -1,0 +1,92 @@
+Here is the summary of the legal document in YAML format:
+
+```
+case_number: 24GDCV00391
+plaintiff_name: Hermelinda Martinez
+defendant_name: Lakeside Medical Organization, A Medical Group, Inc., ADOC Acquisition Co., A Medical Group, Inc., Regal Medical Group, Inc., Heritage Provider Network, Inc.
+people_names:
+  - Hermelinda Martinez
+  - Ijeoma Ekwunife
+  - Regina Agopian
+  - Christina Mirzaie
+company_names:
+  - Lakeside Medical Organization
+  - ADOC Acquisition Co.
+  - Regal Medical Group, Inc.
+  - Heritage Provider Network, Inc.
+  - Lakeside Community Healthcare
+  - ADOC Medical Group
+places:
+  - California
+dates:
+  - March 1, 2024
+  - May 1, 2024
+  - May 21, 2024
+  - October 17, 2024
+events:
+  - Filing of original complaint
+  - Contact between plaintiff's and defendant's counsel
+  - Filing of first amended complaint
+  - Motion to compel arbitration
+  - Hearing on motion to compel arbitration
+money:
+  - Penalties under PAGA
+  - Statutory attorneys' fees and costs
+  - Costs of suit
+intentions:
+  - To compel arbitration of individual PAGA claim
+  - To stay representative/non-individual PAGA claim pending arbitration
+facts:
+  - Plaintiff signed an arbitration agreement with defendants
+  - The agreement covers claims under the California Labor Code
+  - Plaintiff allege that she is an "aggrieved employee"
+  - Defendants contest whether or not plaintiff is an "aggrieved employee"
+disputes:
+  - Whether or not plaintiff is an "aggrieved employee"
+  - Whether or not plaintiff is bringing an individual PAGA claim
+acts:
+  - Filing of motion to compel arbitration
+  - Filing of opposition to motion to compel arbitration
+  - Filing of reply to opposition
+  - Filing of supplemental brief
+agreements:
+  - Mutual Arbitration Agreement
+laws:
+  - Federal Arbitration Act (FAA)
+  - California Labor Code
+  - California Code of Civil Procedure
+case_citations:
+  - Pinnacle Museum Tower Assn. v. Pinnacle Market Development (US), LLC
+  - Victoria v. Superior Court
+  - Hotels Nevada, LLC v. Bridge Banc, LLC
+  - Omar v. Ralphs Grocery
+  - Balderas v. Fresh Start Harvesting, Inc.
+  - Adolph v. Uber Technologies, Inc.
+  - Viking River Cruises, Inc. v. Moriana
+  - AT&T Mobility LLC v. Concepcion
+  - Cronus Invs., Inc. v. Concierge Servs.
+  - Carboni v. Arrospide
+  - A & M Produce Co. v. FMC Corp.
+  - Stirlen v. Supercuts, Inc.
+  - Crippen v. Central Valley RV Outlet, Inc.
+  - CCP § 1
+  - CCP § 2
+  - CCP § 1005(b)
+  - CCP § 1013
+  - CCP § 1013a
+  - CCP § 1013b
+  - CCP § 1021.5
+  - CCP § 1281.4
+roles:
+  - Judge
+  - Plaintiff
+  - Defendant
+  - Arbitrator
+significant_statements:
+  - "The party seeking arbitration bears the initial burden of demonstrating the existence of an arbitration agreement."
+  - "The Federal Arbitration Act (FAA) applies to contracts that involve interstate commerce."
+  - "The arbitrator must determine the preliminary issue of whether or not Plaintiff is in fact an 'aggrieved employee'."
+  - "If a court of competent jurisdiction, whether in this State or not, has ordered arbitration of a controversy which is an issue involved in an action or proceeding pending before a court of this State, the court in which such action or proceeding is pending shall, upon motion of a party to such action or proceeding, stay the action or proceeding until an arbitration is had in accordance with the order to arbitrate or until such earlier time as the court specifies."
+```
+
+Note that some of the information in the YAML summary may not be explicitly stated in the original legal document, but rather inferred or summarized by the assistant.

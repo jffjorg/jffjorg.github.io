@@ -1,0 +1,94 @@
+Here is the summary in YAML format:
+
+```
+case_number: 19STCV09932
+plaintiff: Junnie Verceles
+defendant: Los Angeles Unified School District, et al.
+people_names:
+  - Junnie Verceles
+  - Los Angeles Unified School District
+company_names:
+  - Los Angeles Unified School District
+places: Los Angeles
+dates:
+  - March 21, 2019
+  - June 4, 2019
+  - June 29, 2019
+  - July 16, 2021
+  - November 3, 2021
+  - December 20, 2023
+  - February 9, 2024
+  - February 28, 2024
+  - May 13, 2024
+  - July 8, 2024
+  - July 30, 2024
+events:
+  - Defendant's Motion for Attorney's Fees or Cost of Proof Sanctions
+  - Plaintiff's deposition
+  - Defendant's request for admissions
+  - Defendant's motion for summary judgment
+  - Plaintiff's opposition to defendant's motion for summary judgment
+money:
+  - $94,411 (amount of attorney's fees and costs awarded to defendant)
+  - $89,832 (attorney's fees)
+  - $4,579 (costs associated with taking Plaintiff's deposition)
+intentions:
+  - Defendant seeks to recover attorney's fees and costs associated with proving the truth of its requests for admissions.
+  - Plaintiff opposes the motion, arguing that the requests for admissions were improper and that he is not responsible for the costs of proof.
+facts:
+  - Defendant filed requests for admissions in February 2024.
+  - Plaintiff denied most of the requests, but later testified in deposition that he did not know or could not remember if anyone involved in the decision to terminate him even knew that he had filed a complaint with the DFEH.
+  - The Court granted summary judgment on plaintiff's retaliation claim.
+  - The parties exchanged information and documents in connection with plaintiff's Skelly hearing that predated the filing of the lawsuit.
+  - Plaintiff was deposed on February 28, 2024.
+  - Plaintiff applied ex parte for a continuance of the hearing on the motion for summary judgment on July 8, 2024.
+disputes:
+  - Defendant seeks to recover attorney's fees and costs associated with proving the truth of its requests for admissions.
+  - Plaintiff opposes the motion, arguing that the requests for admissions were improper and that he is not responsible for the costs of proof.
+acts:
+  - Defendant filed requests for admissions in February 2024.
+  - Plaintiff denied most of the requests.
+  - The Court granted summary judgment on plaintiff's retaliation claim.
+  - The parties exchanged information and documents in connection with plaintiff's Skelly hearing that predated the filing of the lawsuit.
+  - Plaintiff was deposed on February 28, 2024.
+  - Plaintiff applied ex parte for a continuance of the hearing on the motion for summary judgment on July 8, 2024.
+agreements:
+  - None
+laws:
+  - Government Code section 12965, subdivision (c)(6)
+  - Code of Civil Procedure section 2033.420, subdivision (a)
+  - Code of Civil Procedure section 437c(h)
+citations:
+  - People ex rel. Dept. of Corporations v. Speedee Oil Change Systems, Inc. (2007) 147 Cal.App.4th 424
+  - Cummings v. Benco Bldg. Services (1992) 11 Cal.App.4th 1383
+  - Code Civ. Proc., 2033.420, subd. (a)
+  - Code Civ. Proc., 2033.420, subds. (b)(2)-(4)
+  - Code Civ. Proc., § 1033.5, subd. (c)(5)
+  - Martino v. Denevi (1986) 182 Cal.App.3d 553
+  - Hadley v. Krepel (1985) 167 Cal.App.3d 677
+  - Lunada Biomedical v. Nunez (2014) 230 Cal.App.4th 459
+  - Premier Medical Management Systems, Inc. v. California Ins. Guarantee Assn. (2008) 163 Cal.App.4th 550
+  - Gorman v. Tassajara Development Corp. (2008) 162 Cal.App.4th 770
+  - EnPalm LLC v. Teitler (2008) 162 Cal.App.4th 770
+  - PLCM Group, Inc. v. Drexler (2000) 22 Cal.4th 1084
+  - Robert v. Stanford University (2014) 224 Cal.App.4th 67
+  - Samsky v. State Farm Mutual Automobile Ins. Co. (2019) 37 Cal.App.5th 517
+  - Frazee v. Seeley (2002) 95 Cal.App.4th 627
+  - Bahl v. Bank of America (2001) 89 Cal.App.4th 389
+  - Johnson v. Alameda County Med. Ctr. (2012) 205 Cal.App.4th 521
+  - Rodriquez v. Oto (2013) 212 Cal.App.4th 1020
+  - Cooksey v. Alexakis (2004) 123 Cal.App.4th 246
+  - Bushling v. Fremont Med. Ctr. (2004) 117 Cal.App.4th 493
+  - Universal Home Improvement, Inc. v. Robertson (2020) 51 Cal.App.5th 116
+  - Pappas v. Carolyn Chang (2022) 75 Cal.App.5th 975
+  - 569 East County Boulevard LLC v. Backcountry Against the Dump, Inc. (2016) 6 Cal.App.5th 426
+roles:
+  - Judge: The judge has the role of determining whether the defendant is entitled to attorney's fees and costs associated with proving the truth of its requests for admissions.
+  - Plaintiff: The plaintiff is the party who is opposing the defendant's motion for attorney's fees and costs.
+  - Defendant: The defendant is the party who is seeking to recover attorney's fees and costs associated with proving the truth of its requests for admissions.
+significant statements:
+  - "As a general rule, attorney fees are not recoverable as costs unless they are authorized by statute or agreement."
+  - "A prevailing defendant may successfully recover attorney's fees if it can show that the action was frivolous when brought."
+  - "The party seeking to avoid sanctions has the burden of showing an exception applies."
+  - "A good faith showing that further discovery is needed to oppose summary judgment requires some justification as to why this discovery was not completed sooner."
+  - "Absent a showing by plaintiff of an applicable exception, defendant is entitled to fees."
