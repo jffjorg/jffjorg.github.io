@@ -1,0 +1,72 @@
+Here is the summary in YAML format:
+
+```
+case_number: 23BBCV00117
+plaintiff_name: Jonathan Lee
+defendant_name: Zane and Gina Cazares
+people_names:
+  - Jonathan Lee
+  - Zane Cazares
+  - Gina Cazares
+company_names:
+  - Orthopedic Surgery Specialists
+  - Providence Saint Joseph Medical Center
+places:
+  - Burbank
+dates:
+  - May 24, 2023
+  - June 27, 2023
+  - May 31, 2024
+  - April 12, 2024
+  - May 10, 2024
+  - May 23, 2024
+  - June 4, 2024
+  - September 6, 2024
+events:
+  - Motion to compel further responses
+  - Deposition
+money: None
+intentions:
+  - To compel further responses to discovery demands
+  - To resolve discovery disputes
+facts:
+  - Plaintiff was injured in a motor vehicle accident
+  - Defendant Cazares operated the motor vehicle
+  - Plaintiff provided supplemental responses to SPROG Set One
+  - Plaintiff sought further production of photos/videos and metadata
+disputes:
+  - Discovery disputes over SPROG and RFPD
+acts:
+  - Plaintiff served SPROG and RFPD
+  - Defendant Cazares responded with objections only
+  - Plaintiff sought further production of photos/videos and metadata
+agreements:
+  - California Rules of Court, Rule 3.1308(a)(1)
+  - California Code of Civil Procedure, Section 2030.300(a)
+  - California Code of Civil Procedure, Section 2031.310(b)(1)
+  - California Code of Civil Procedure, Section 2031.310(c)
+laws:
+  - California Rules of Court, Rule 3.1345(c)(2)
+  - California Code of Civil Procedure, Section 2030.300(a)
+  - California Code of Civil Procedure, Section 2031.310(b)(1)
+  - California Code of Civil Procedure, Section 2031.310(c)
+case_citations:
+  - Coy v. Sup.Ct. (1962) 58 Cal.2d 210
+  - Digital Music News LLC v Superior Court (2014) 226 Cal.App.4th 216
+  - Kirkland v. Sup.Ct (2002) 95 Cal. App.4th 92
+  - Prof'l Career Colleges, Magna Inst. v. Superior Court (1989) 207 Cal.App.3d 490
+  - Suezaki v. Superior Court of Santa Clara County (1962) 58 Cal.2d 166
+  - People v. Gillard (1997) 57 Cal.App.4th 136
+roles:
+  - Judge: F.M. Tavelman
+  - Plaintiff: Jonathan Lee
+  - Defendant: Zane and Gina Cazares
+significant_statements:
+  - The Court finds that Plaintiff has demonstrated good cause for further production of photos/videos and metadata.
+  - The Court denies Defendant's motion to compel further responses to SPROG Set Two.
+  - The Court grants Plaintiff's motion to compel further responses to RFPD Set Four in part and denies it in part.
+```
+
+And here is a summary of the judge's tentative ruling in English text:
+
+The judge has issued a tentative ruling on the motions to compel further responses to discovery demands. The motion to compel further responses to SPROG Set Two is denied because it is an attempt to "restart the clock" on discovery after failing to compel further responses to SPROG Set One. The motion to compel further responses to RFPD Set Four is granted in part and denied in part. The judge finds that Plaintiff has demonstrated good cause for further production of photos/videos and metadata, but denies the request for inspection of cameras and production of documents reflecting the amount paid to independent investigators. The judge also imposes sanctions on any party, person, or attorney who unsuccessfully makes or opposes a motion to compel a further response, unless they acted with substantial justification.
