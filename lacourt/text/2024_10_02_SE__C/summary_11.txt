@@ -1,0 +1,84 @@
+Here is a summary of the tentative ruling in YAML format:
+
+```
+case_number: 23NWCV03987
+hearing_date: October 2, 2024
+dept: C
+plaintiff: Sandra Lucia Tebache
+defendant: Jesus Ramirez
+people:
+  - Sandra Lucia Tebache
+  - Jesus Ramirez
+  - Andrew De La Rosa
+  - Saul De La Rosa
+companies:
+  - Farmers Insurance
+places:
+  - California
+dates:
+  - December 8, 2023
+  - December 19, 2021
+  - March 5, 2024
+  - June 13, 2024
+  - July 12, 2024
+  - September 13, 2024
+  - September 24, 2024
+  - October 2, 2024
+  - October 26, 2023
+  - December 20, 2023
+  - April 22, 2024
+events:
+  - Motor vehicle accident
+  - Demand letter
+  - Response to demand letter
+  - Filing of complaint
+  - Answer to complaint
+  - Motion for leave to file first amended complaint
+  - Opposition to motion
+  - Reply to opposition
+money:
+  - None mentioned
+intentions:
+  - Plaintiff seeks to add fictitiously named parties to the complaint
+facts:
+  - Plaintiff was involved in a motor vehicle accident on December 19, 2021
+  - Plaintiff initially believed Jesus Ramirez was the driver of the vehicle
+  - Plaintiff filed a complaint against Ramirez on December 8, 2023
+  - Defendant filed an answer denying all allegations in the complaint
+  - Plaintiff seeks to amend the complaint to substitute Andrew De La Rosa as the driver of the vehicle
+disputes:
+  - Plaintiff's ignorance of the driver's identity
+  - Defendant's argument that the statute of limitations has lapsed
+  - Defendant's argument that Plaintiff has not demonstrated good cause for the amendment
+acts:
+  - Plaintiff filed a motion for leave to file a first amended complaint
+  - Defendant filed an opposition to the motion
+  - Plaintiff filed a reply to the opposition
+agreements:
+  - Code of Civil Procedure sections 473, 474, 576
+  - California Rules of Court, Rule 3.1324
+laws:
+  - Code of Civil Procedure section 473
+  - Code of Civil Procedure section 474
+  - Code of Civil Procedure section 576
+  - California Rules of Court, Rule 3.1324
+case_citations:
+  - Howard v. County of San Diego (2010) 184 Cal.App.4th 1422
+  - Magpali v. Farmers Group (1996) 48 Cal.App.4th 471
+  - Woo v. Superior Court (1999) 75 Cal.App.4th 169
+  - Balon v Drost (1993) 20 Cal.App.4th 483
+  - San Diego Navy Broadway Complex Coalition v. California Coastal Com. (2019) 40 Cal.App.5th 563
+  - A.N., a Minor v. County of Los Angeles (2009) 171 Cal.App.4th 1058
+roles:
+  - Plaintiff: Sandra Lucia Tebache
+  - Defendant: Jesus Ramirez
+  - Counsel: Michael Hernandez
+  - Insurance company: Farmers Insurance
+significant_statements:
+  - The Court finds that Plaintiff has not demonstrated that she was ignorant of the driver's identity
+  - The Court denies the Motion for Leave to File First Amended Complaint and to Add Fictitiously Named Parties
+```
+
+And here is a summary of the tentative ruling in English text:
+
+The Court has denied the Plaintiff's Motion for Leave to File a First Amended Complaint and to Add Fictitiously Named Parties. The Plaintiff, Sandra Lucia Tebache, had initially believed that Jesus Ramirez was the driver of the vehicle involved in a motor vehicle accident on December 19, 2021. However, the Court found that the Plaintiff was not ignorant of the driver's identity, as she had received a copy of Andrew De La Rosa's driver's license immediately following the accident and had taken a photograph of it. The Court also found that the Plaintiff had unreasonably delayed in filing the motion, as she had learned of the driver's identity in April 2022 but did not file the motion until June 2024. As a result, the Court denied the motion, citing the statute of limitations and the lack of good cause for the amendment.
