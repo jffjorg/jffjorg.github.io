@@ -1,0 +1,87 @@
+Here is a summary of the judge's tentative ruling in YAML format:
+
+```yaml
+case_number: 22STCV3488
+hearing_date: September 10, 2024
+dept: 48
+judge: Hon. Thomas D. Long
+
+people_names:
+  - Daniel Husband
+  - Daniel Abts
+  - Ja'Mesha L. Morgan
+  - Hillary Gonsior
+  - Alfredo Cantu
+  - Emma Cade
+  - Nadine Wishart
+
+company_names:
+  - Target Corporation
+
+places:
+  - Los Angeles
+
+dates:
+  - 2020-10-13
+  - 2022-06-09
+  - 2022-07-07
+  - 2022-07-08
+  - 2022-07-09
+  - 2022-07-10
+  - 2022-07-11
+  - 2022-07-29
+  - 2022-07-31
+  - 2022-08-01
+
+events:
+  - Plaintiff submitted an electronic application for employment with Defendant
+  - Defendant hired Plaintiff and Plaintiff participated in Defendant's New-Hire Orientation
+  - Plaintiff's employment was terminated
+  - Plaintiff returned to the store and met with Abts, providing a Work Status Report
+  - Plaintiff's Work Status Report note did not identify any disability, condition, or need for accommodation
+
+money:
+
+acts:
+  - Plaintiff did not disclose a disability or need for accommodation during his employment
+  - Plaintiff did not request an accommodation for his disability
+  - Defendant terminated Plaintiff's employment due to repeated violations of company policies
+  - Plaintiff's misconduct included threats or violence against coworkers
+
+agreements:
+  - Plaintiff agreed to follow Defendant's policies, including its Violence-Free Workplace policy
+
+laws:
+  - California Fair Employment and Housing Act (FEHA)
+  - California Code of Civil Procedure (CCP)
+  - California Rules of Court (CRC)
+
+case_citations:
+  - United Community Church v. Garcin (1991) 231 Cal.App.3d 327
+  - Nazir v. United Airlines, Inc. (2009) 178 Cal.App.4th 243
+  - Reeves v. Safeway Stores, Inc. (2004) 121 Cal.App.4th 95
+  - Scalf v. D. B. Log Homes, Inc. (2005) 128 Cal.App.4th 1510
+  - Sangster v. Paetkau (1998) 68 Cal.App.4th 151
+  - King v. United Parcel Service, Inc. (2007) 152 Cal.App.4th 426
+  - Jenkins v. Wells Fargo Bank (2000) 85 Cal.App.4th 245
+  - Featherstone v. Southern California Permanente Medical Group (2017) 10 Cal.App.5th 1150
+  - Wills v. Superior Court (2011) 195 Cal.App.4th 143
+
+statutes:
+  - California Code of Civil Procedure (CCP) Section 437c
+  - California Rules of Court (CRC) Rule 3.1350
+  - California Fair Employment and Housing Act (FEHA)
+
+roles:
+  - Plaintiff: Daniel Husband
+  - Defendant: Target Corporation
+  - Judge: Hon. Thomas D. Long
+
+significant_statements:
+  - The Court has granted Defendant's motion for summary judgment.
+  - Plaintiff did not disclose a disability or need for accommodation during his employment.
+  - Defendant terminated Plaintiff's employment due to repeated violations of company policies.
+  - Plaintiff's misconduct included threats or violence against coworkers.
+```
+
+Please note that this summary is based on the provided text and may not be exhaustive or entirely accurate.
