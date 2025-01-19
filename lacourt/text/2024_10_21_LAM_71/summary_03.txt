@@ -1,0 +1,60 @@
+Here is the summary of the tentative ruling in YAML format:
+
+```
+case_number: 22STCV15728
+plaintiff: Husam Asi
+defendant: Hollywood Foreign Press Association
+people_names:
+  - Husam Asi
+  - Gabriel Lerman
+  - Robert Ellison
+  - Marvin
+  - Ralph Ellison
+  - Greg Goeckner
+company_names:
+  - Latham & Watkins LLP
+  - Hollywood Foreign Press Association
+places:
+  - Los Angeles
+dates:
+  - July 8, 2024
+  - October 21, 2024
+events:
+  - Motion to disqualify Latham & Watkins LLP
+  - Motion to compel further responses
+  - Motion for protective order
+money:
+  - $4,000.00
+  - $3,000.00
+intentions:
+  - To disqualify Latham & Watkins LLP
+  - To compel further responses
+  - To impose a protective order
+facts:
+  - Plaintiff filed a motion to disqualify Latham & Watkins LLP
+  - Defendant produced a privilege log for RFP 1
+  - Plaintiff attempted to contact Lerman directly
+disputes:
+  - Dispute over the existence of an attorney-client relationship
+  - Dispute over the need for further responses
+  - Dispute over the imposition of a protective order
+acts:
+  - Plaintiff's motion to disqualify Latham & Watkins LLP
+  - Defendant's production of a privilege log
+  - Plaintiff's attempts to contact Lerman directly
+agreements:
+  - None
+laws:
+  - California Rules of Professional Conduct
+  - California Code of Civil Procedure
+  - California Constitution
+case_citations:
+  - Shen v. Miller (2012) 212 Cal.App.4th 48
+  - Koo v. Rubio's Restaurants, Inc. (2003) 109 Cal.App.4th 719
+  - Zimmerman v. Superior Court (1993) 16 Cal.App.4th 556
+  - Costco Wholesale Corp. v. Superior Court (2009) 219 Cal.4th 725
+  - Best Products, Inc. v. Superior Court (2004) 119 Cal.App.4th 1181
+  - Holmes v. Petrovich Development Co. (2011) 191 Cal.App.4th 1047
+  - Rappleyea v. Campbell (1994) 8 Cal.4th 975
+  - Kobayashi v. Superior Court (2009) 175 Cal.App.4th 536
+  - Jackson v. Ingersoll-Rand Co. (1996) 42 Cal.App.4th

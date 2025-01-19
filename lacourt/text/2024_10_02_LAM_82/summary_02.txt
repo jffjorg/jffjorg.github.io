@@ -1,0 +1,83 @@
+Here is a summary of the tentative ruling in YAML format:
+
+```
+case_number: 24STCP00615
+hearing_date: 2024-10-02
+dept: 82
+judge: Stephen I. Goorvitch
+
+people_names:
+  - Gabriela Barrios
+  - Lieutenant Jose N. Aguirre Jr.
+  - Stephen I. Goorvitch
+
+company_names:
+  - Los Angeles County Sheriff's Department (LASD)
+  - Antelope Valley Chevrolet
+  - County of Los Angeles
+
+places:
+  - Stanley Mosk Courthouse
+  - Antelope Valley
+
+dates:
+  - 2022-11-03 (arrest date)
+  - 2023-09-29 (filing of civil lawsuit)
+  - 2023-12-11 (CPRA request)
+  - 2024-01-11 (response to CPRA request)
+  - 2024-04- (production of records in federal action)
+  - 2024-06-07 (trial setting conference)
+  - 2024-10-02 (hearing date)
+
+events:
+  - Arrest
+  - CPRA request
+  - Response to CPRA request
+  - Production of records in federal action
+  - Trial setting conference
+  - Hearing
+
+money:
+  - None
+
+intentions:
+  - To determine whether the County must produce additional records under the California Public Records Act (CPRA)
+
+facts:
+  - Gabriela Barrios was arrested and detained by the LASD for driving a stolen vehicle
+  - Barrios filed a CPRA request for various records related to her arrest
+  - The LASD responded to the CPRA request, citing exemptions under Government Code section 7923.600
+
+disputes:
+  - Whether the County must produce additional records under the CPRA
+
+acts:
+  - The LASD's response to the CPRA request
+  - The production of records in federal action
+
+agreements:
+  - None
+
+laws:
+  - California Public Records Act (CPRA)
+  - Government Code section 7923.600
+  - Government Code section 7923.605
+
+case_citations:
+  - Anderson-Barker v. Superior Court (2019) 31 Cal.App.5th 528
+  - Fairley v. Superior Court (1998) 66 Cal.App.4th 1414
+  - Haynie v. Superior Court (2001) 26 Cal.4th 1061
+  - Rivero v. Superior Court (1997) 54 Cal.App.4th 1048
+
+roles:
+  - Judge: Stephen I. Goorvitch
+  - Petitioner: Gabriela Barrios
+  - Respondent: County of Los Angeles
+
+significant_statements:
+  - The court finds that the petition is not moot because the County has not demonstrated that it has produced all responsive records.
+  - The court denies the petition because the County has complied with the CPRA and the requested records are exempt under Government Code section 7923.600.
+  - The court declines to issue a declaratory judgment because Petitioner has an adequate remedy in the writ cause of action.
+```
+
+Note that this summary is based on the provided text and may not include all relevant information.
