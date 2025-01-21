@@ -1,0 +1,61 @@
+Here is the summary in YAML format:
+
+```
+case_number: 23STCV00319
+hearing_date: 2024-09-24
+dept: 73
+judge: Hon. Rolf Treu
+parties:
+  - Plaintiff: Joseph F. Farivar Investment Group, Inc.
+  - Plaintiff: Bordan Shoe Company, Inc.
+  - Defendant: HPC Vineburn, LLC
+  - Defendant: Meruelo Maddux Properties
+  - Defendant: Benedetta Nardon
+  - Defendant: Marylin Knoop
+people_names:
+  - Joseph F. Farivar
+  - Rolf Treu
+  - Brian Ledger
+  - Bradley E. Lofgren
+  - Sean A. McCormick
+  - Adam Love
+companies:
+  - HPC Vineburn, LLC
+  - Meruelo Maddux Properties
+  - Bordan Shoe Company, Inc.
+  - Joseph F. Farivar Investment Group, Inc.
+  - Alba Industries
+  - Smith-Emery Company
+places:
+  - 4335 Valley Boulevard, Los Angeles, California 90032
+  - 1919 Vineburn Avenue, Los Angeles, California 90032
+dates:
+  - January 6, 2023
+  - June 28, 2024
+  - September 3, 2024
+  - September 24, 2024
+events:
+  - Cross-complaint
+  - Demurrer
+  - Motion for summary adjudication
+money:
+  - $11,779,000
+intention:
+  - To recover damages and other appropriate relief resulting from the migration of contamination from the Nardon Facility to the Farivar Property
+facts:
+  - Hazardous substance contamination at the Nardon Facility
+  - Migration of contaminated groundwater to the Farivar Property
+disputes:
+  - Continuing Nuisance and Trespass
+acts:
+  - Ownership and operation of the Nardon Facility
+agreements:
+  - Settlement and dismissal of claims against Benedetta Nardon and Marylin Knoop
+laws:
+  - California Civil Code § 3479
+  - California Water Code § 13350
+  - California Health & Safety Code § 5411
+  - California Health & Safety Code § 25249.5
+case_citations:
+  - Mendez v. Rancho Valencia Resort Partners, LLC (2016) 3 Cal.App.5th 248
+  - Ralphs Grocery Co. v. Victory Consultants, Inc. (2017) 17 Cal.App

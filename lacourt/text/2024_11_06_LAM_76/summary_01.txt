@@ -1,0 +1,69 @@
+Here is a summary of the Judge's tentative ruling in YAML format:
+
+```
+case_number: 23STCV11902
+hearing_date: November 6, 2024
+dept: 76
+plaintiff:
+  name: Tenants
+  role: Tenant
+defendant:
+  name: Westmoreland Los Angeles, LLC
+  role: Landlord
+  company: Westmoreland Los Angeles, LLC
+  individual: Kap Pong Kim
+  individual: Chung Suk Kim
+  individual: Jamie Jiyoon Kim
+  trustee: Kim Kap Pon and Chung Suk Kim Trust
+people:
+  - Jeanie Lee
+  - Kap Pong Kim
+  - Chung Suk Kim
+  - Jamie Jiyoon Kim
+places:
+  - Property (unspecified)
+dates:
+  - June 2022
+events:
+  - Tenants reported habitability problems to Defendant
+    Jeanie Lee
+  - Defendant failed to correct defects
+  - Tenants were evicted
+  - Defendant allowed workers to tear down units and discard personal belongings
+money:
+  - Rent
+  - Relocation benefits
+  - Unpaid damages
+intentions:
+  - Defendant allegedly intended to harm Tenants
+facts:
+  - Tenants reported habitability problems to Defendant Jeanie Lee
+  - Defendant failed to correct defects
+  - Tenants were evicted
+  - Defendant allowed workers to tear down units and discard personal belongings
+disputes:
+  - Defendant demurred to Second Amended Complaint
+  - Plaintiffs alleged Defendant breached implied warranty of habitability
+  - Plaintiffs alleged Defendant engaged in unfair business practices
+laws:
+  - Civil Code § 1941-1941.1
+  - Civil Code § 1940.2(a)(3)
+  - Civil Code § 1942.5
+  - Business and Professions Code § 17200
+  - Health and Safety Code § 17920.9
+  - Los Angeles Municipal Code § 45.33
+  - Los Angeles Municipal Code § 161.701.1
+  - Los Angeles Municipal Code § 163.00
+case_citations:
+  - Green v. Superior Court (1980) 101 Cal.App.3d 903
+  - Stoiber v. Honeychuck (1980) 101 Cal.App.3d 903
+  - Landeros v. Pankey (1995) 39 Cal.App.4th 1167
+  - Erlach v. Sierra Asset Servicing, LLC (2014) 226 Cal.App.4th 1281
+  - Kesner v. Superior Court (2016) 1 Cal.5th 1132
+  - Sprecher v. Adamson Companies (1981) 30 Cal.3d 358
+  - Rowland v. Christian (1968) 69 Cal.2d 108
+  - Thai v. Stang (1989) 214 Cal.App.3d 1264
+  - Glaser v. Meyers (1982) 137 Cal. App. 3d 770
+  - Aweeka v. Bonds (1971) 20 Cal. App. 3d 278
+  - Civ. Code, § 1714
+  - Civ. Code, § 

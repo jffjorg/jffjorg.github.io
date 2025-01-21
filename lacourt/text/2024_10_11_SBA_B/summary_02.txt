@@ -1,0 +1,115 @@
+Here is the summary in YAML format:
+
+```
+case:
+  number: 23TRCV01911
+  hearing date: October 11, 2024
+  department: B
+
+parties:
+  plaintiff:
+    - Victor O'Mara
+    - Jonathan Nguyen
+    - JN Builds, Inc.
+    - Best Equipment Services, LLC
+  defendant:
+    - Scott Pace
+    - Christian Surrett
+    - S&P Fabrication/Services
+    - The Steel Erection Company
+    - Larry Rick Torgerson, Jr.
+
+people:
+  - Victor O'Mara
+  - Jonathan Nguyen
+  - Scott Pace
+  - Christian Surrett
+  - Larry Rick Torgerson, Jr.
+
+companies:
+  - Best Equipment Services, LLC
+  - JN Builds, Inc.
+  - S&P Fabrication/Services
+  - The Steel Erection Company
+
+places:
+  - Los Angeles
+  - Torrance
+
+dates:
+  - June 13, 2023
+  - June 15, 2023
+  - September 15, 2023
+  - October 3, 2023
+  - December 13, 2023
+  - December 26, 2023
+  - July 24, 2024
+
+events:
+  - Breach of contract
+  - Breach of fiduciary duty
+  - Conversion
+  - Expulsion of LLC member
+  - Intentional interference with contractual relationships
+  - Intentional interference with prospective economic relations
+  - Negligent interference with prospective economic relations
+  - Violation of Business and Professions Code §17200, et seq.
+
+money:
+  - None mentioned
+
+intentions:
+  - Cross-defendants' intentions to deceive and mislead plaintiff
+
+facts:
+  - Cross-defendants made false representations to plaintiff
+  - Plaintiff relied on these representations
+  - Cross-defendants failed to perform their obligations under the operating agreement
+  - Cross-defendants engaged in "bad acts" (e.g. borrowing money, selling equipment, poaching employees)
+
+disputes:
+  - Dispute over whether the operating agreement is integrated and precludes claims for breach of contract, intentional misrepresentation, and breach of fiduciary duty
+
+acts:
+  - Cross-defendants' actions in making false representations and failing to perform their obligations under the operating agreement
+
+agreements:
+  - Operating agreement between Best Equipment Services, LLC and the cross-defendants
+
+laws:
+  - California Civil Code §1856(a)
+  - California Civil Code §1709
+  - California Code of Civil Procedure §431.10
+  - California Code of Civil Procedure §436(b)
+  - California Code of Civil Procedure §340.6
+  - California Code of Civil Procedure §437
+  - Business and Professions Code §17200, et seq.
+
+case citations:
+  - Taylor v. City of Los Angeles Dept. of Water and Power (2006) 144 Cal. App. 4th 1216
+  - SKF Farms v. Superior Court (1984) 153 Cal. App. 3d 902
+  - Hahn v. Mirda (2007) 147 Cal. App. 4th 740
+  - Alling v. Universal Manufacturing Corp. (1992) 5 Cal. App. 4th 1412
+  - Haggard v. Kimberly Quality Care, Inc. (1995) 39 Cal. App. 4th 508
+  - Kanno v. Marwit Capital Partners II, L.P. (2017) 18 Cal.App.5th 987
+  - Charnay v. Cobert (2006) 145 Cal. App. 4th 170
+  - Wolf v. Superior Court (2003) 106 Cal. App. 4th 625
+  - Nichols v. Keller (1993) 15 Cal. App. 4th 1672
+  - Budd v. Nixen (1971) 6 Cal.3d 195
+  - Fox v. Ethicon Endo-Surgery, Inc. (2005) 35 Cal.4th 797
+  - Smith v. Superior Court (1992) 10 Cal. App. 4th 1033
+  - Dawes v. Superior Court (1980) 111 Cal. App. 3d 82
+  - College Hospital v. Superior Court (1994) 8 Cal.4th 704
+
+roles:
+  - Judge
+  - Plaintiff
+  - Defendant
+
+significant statements:
+  - The Court finds that the allegations are insufficient to meet the elements of a cause of action for breach of contract.
+  - The Court finds that the allegations are insufficient to support a claim for punitive damages.
+  - The Court grants the motion to strike "punitive damages against Mr. Nguyen for willfully providing false advice."
+```
+
+Please note that this summary is based on the provided text and may not be exhaustive or accurate. It is recommended to review the original document for any errors or omissions.

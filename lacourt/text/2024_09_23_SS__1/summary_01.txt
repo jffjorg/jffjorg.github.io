@@ -1,0 +1,110 @@
+Here is a summary of the tentative ruling in YAML format:
+
+```
+case_number: 21STCV09412
+hearing_date: September 23, 2024
+department: 1 Final
+approval_of_class_action_settlement: true
+
+parties:
+  - Moya
+  - Valassis Direct Mail, Inc.
+  - et al.
+
+people:
+  - Elaine Lu
+  - Vedang J. Patel
+  - David D. Bibiyan
+  - Jeffrey D. Klein
+  - Brandon M. Chang
+  - Jeffrey Bils
+  - Joshua Shirian
+  - Iona Levin
+  - Amanda Fazio
+
+companies:
+  - Valassis Direct Mail, Inc.
+  - Phoenix Settlement Administrators
+  - Bibiyan Law Group
+  - Legal Aid at Work
+
+places:
+  - California
+  - Los Angeles County
+  - San Francisco
+
+dates:
+  - March 10, 2021
+  - March 2, 2023
+  - April 26, 2024
+  - September 20, 2024
+  - October 7, 2024
+  - November 25, 2024
+  - March 25, 2025
+  - April 1, 2025
+
+events:
+  - Preliminary approval of settlement
+  - Notice given to class members and LWDA
+  - Final fairness hearing
+
+money:
+  - Gross Settlement Amount: $1,575,000
+  - Net Settlement Amount: $884,650
+  - Attorney fees: $525,000 (33 1/3%)
+  - Costs: $21,760.15
+  - Enhancement payment: $7,500
+  - Settlement administration costs: $14,100
+
+intentions:
+  - Approval of class action settlement
+  - Fairness and reasonableness of settlement
+
+facts:
+  - 745 Class Members did not submit timely and valid Requests for Exclusion
+  - 0 opt-outs represented
+  - 282 class members
+  - 499 Aggrieved Employees
+
+disputes:
+  - None
+
+acts:
+  - Class Members did not object to the settlement
+
+agreements:
+  - Settlement Agreement
+  - Preliminary Approval Order
+  - Final Judgment
+
+laws:
+  - California Labor Code
+  - California Business and Professions Code
+  - Private Attorneys' General Act (PAGA)
+
+case_citations:
+  - Wershba v. Apple Computer, Inc. (2001) 91 Cal.App.4th 224
+  - Laffitte v. Robert Half Int'l, Inc. (2016) 1 Cal.5th 480
+  - In re Consumer Privacy Cases (2009) 175 Cal.App.4th 545
+  - Clark v. American Residential Services LLC (2009) 175 Cal.App.4th 785
+
+statutes:
+  - Labor Code sections 96, 98.6, 200, 201, 202, 203, 204, 210, 226, 226.3, 226.7, 227.3, 232, 232.5, 246 et seq., 404, 432, 510, 512, 558, 1102.5, 1174, 1174.5, 1194, 1194.2, 1197, 1197.1, 1197.5, 1198.5, 2699, 2802, 2810.5
+  - California Business and Professions Code sections 16600 et seq., 16700 et seq., 17200 et seq.
+
+roles:
+  - Judge: Elaine Lu
+  - Class Counsel: David D. Bibiyan, Jeffrey D. Klein, Vedang J. Patel, Brandon M. Chang, Jeffrey Bils, Joshua Shirian, Iona Levin, Amanda Fazio
+  - Settlement Administrator: Phoenix Settlement Administrators
+  - LWDA: Labor and Workforce Development Agency
+
+significant_statements:
+  - The settlement is fair, adequate, and reasonable
+  - The Court grants the parties' motion for final approval of the class action settlement
+  - The Court awards attorney fees in the amount of $525,000 (33 1/3%)
+  - The Court awards costs in the amount of $21,760.15
+  - The Court grants the enhancement payment to the class representative in the amount of $7,500
+  - The Court awards settlement administration costs in the amount of $14,100
+```
+
+Note that this summary is not a verbatim transcription of the tentative ruling, but rather an attempt to distill the essential information into a concise YAML format.

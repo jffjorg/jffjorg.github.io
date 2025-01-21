@@ -1,0 +1,33 @@
+Here is a summary of the tentative ruling in YAML format:
+
+```
+case_number: 24VECV01280
+plaintiff: JSL Real Estate Group, LLC and Americas Servicing Group, LLC
+defendants: Westcor Land Title Insurance Company, Southwest Escrow Corporation, Latanya J. Townsend, Arusyak Verdiyan, Ronald P. Dahl, and Does 1-100
+people:
+  - Tracey Hom (counsel for Southwest Escrow Corporation)
+  - Morgan Halford (counsel for Dahl)
+  - Marsha Berkowitz (counsel for Plaintiff)
+  - Erika Prager (counsel for Westcor Land Title Insurance Company)
+  - Mr. Oknyansky (former counsel for Plaintiff)
+companies:
+  - JSL Real Estate Group, LLC
+  - Americas Servicing Group, LLC
+  - Westcor Land Title Insurance Company
+  - Southwest Escrow Corporation
+  - Corinthian Title Company, Inc. (formerly Doe 1)
+places:
+  - Canoga Park, CA
+  - Los Angeles, CA
+dates:
+  - March 21, 2024
+  - June 18, 2024
+  - July 30, 2024
+  - August 22, 2024
+  - August 23, 2024
+  - August 29, 2024
+  - September 4, 2024
+  - September 16, 2024
+  - September 17, 2024
+  - September 18, 2024
+  - September 20, 202
