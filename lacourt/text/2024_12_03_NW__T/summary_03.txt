@@ -1,0 +1,51 @@
+Here is the summary in YAML format:
+
+```
+case_number: 24VECV01457
+plaintiff_name: T Brown
+defendant_name: Kranzler
+people_names:
+  - T Brown
+  - Kranzler
+company_names: []
+places: []
+dates:
+  - December 3, 2024
+  - December 13, 2024
+  - __________________ (OSC date)
+events:
+  - Motion to compel plaintiff to answer interrogatories
+  - Failure to respond to discovery
+  - Failure to respond to meet and confer email
+  - Failure to file opposition or response
+  - OSC (Order to Show Cause)
+money: []
+intentions:
+  - Compel plaintiff to answer interrogatories
+  - Determine if plaintiff's counsel has abandoned the case
+facts:
+  - Plaintiff's counsel failed to respond to discovery
+  - Plaintiff's counsel failed to respond to meet and confer email
+  - Plaintiff's counsel failed to file opposition or response
+disputes:
+  - Plaintiff's counsel's lack of response to discovery
+acts:
+  - Granting motion to compel plaintiff to answer interrogatories
+  - Setting OSC to determine if plaintiff's counsel has abandoned the case
+agreements: []
+laws: []
+case_citations: []
+statutes: []
+roles:
+  - Judge
+  - Plaintiff's counsel
+  - Defendant
+significant_statements:
+  - The absence of responses indicates to the court that plaintiff's counsel may have abandoned the case.
+```
+
+And here is a summary of the judge's tentative ruling in English text:
+
+The judge has issued a tentative ruling on a motion to compel the plaintiff to answer interrogatories. Since no opposition was filed in a timely manner, the court grants the motion. The plaintiff's counsel is now required to provide verified answers without objections by December 13, 2024.
+
+Additionally, the court has set an Order to Show Cause (OSC) to determine if the plaintiff's counsel has abandoned the case. The court's concerns arise from the counsel's failure to respond to discovery, meet and confer email, and file an opposition or response. The judge believes that the absence of responses may indicate that the counsel has abandoned the case. A personal appearance is required at the OSC, which is set for a date yet to be determined.

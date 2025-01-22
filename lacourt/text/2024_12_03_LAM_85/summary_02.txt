@@ -1,0 +1,97 @@
+Here is the summary of the judge's tentative ruling in YAML format:
+
+```
+case_number: [unknown]
+plaintiff_name: New Village
+defendant_name: CDE (California Department of Education)
+people_names:
+  - Quiñones
+  - Park
+  - Heredia
+company_names:
+  - CDE
+  - LAUSD (Los Angeles Unified School District)
+places:
+  - California
+  - School site
+dates:
+  - 2020
+  - 2021-22
+  - 2022-23
+events:
+  - Senate Bill 98
+  - Senate Bill 820
+  - Assembly Bill 181
+  - COVID-19 pandemic
+  - Funding determination requests
+  - Certification of P-2 ADA numbers
+  - Material revision to charter
+money:
+  - Funding
+  - Supplemental Funding
+  - Nonclassroom-based funding determination
+intentions:
+  - CDE's intention to classify New Village as a nonclassroom-based charter school
+  - New Village's intention to seek a nonclassroom-based funding determination
+facts:
+  - New Village sought a nonclassroom-based funding determination from CDE
+  - New Village provided less than 80% of instruction offered at the school site
+  - CDE calculated New Village's ADA using a method that compounds the rounding differential
+  - New Village's nonclassroom-based ADA rounds up because it is just barely above 11.49
+disputes:
+  - CDE's classification of New Village as a nonclassroom-based charter school
+  - CDE's calculation of New Village's ADA
+  - New Village's intention to seek a nonclassroom-based funding determination
+acts:
+  - CDE's notification of New Village regarding nonclassroom-based instruction
+  - New Village's request for funding determination
+  - CDE's calculation of New Village's ADA
+agreements:
+  - Section 47612.5
+  - Section 47634.2
+  - Title 5 California Code of Regulations sections 11963 through 11963.6
+laws:
+  - Education Code §452(b)
+  - Education Code §46303(b)
+  - California statutes (Senate Bill 98, Senate Bill 820, Assembly Bill 181)
+case_citations:
+  - (RJN Ex.1)
+  - (RJN Ex.2)
+  - (RJN Ex.3)
+  - (Ex. A)
+  - (Ex. B)
+  - (Ex. G)
+  - (JSF ¶¶ 2-7)
+  - (JSF ¶¶ 17-24)
+  - (Quiñones Decl., ¶5)
+  - (Quiñones Decl., ¶¶ 8-11)
+  - (Reply at 5)
+  - (Opp. at 6)
+  - (Pet. Op. Br. at 12, n.2)
+statutes:
+  - Education Code §452(b)
+  - Education Code §46303(b)
+  - Section 47612.5
+  - Section 47634.2
+  - Title 5 California Code of Regulations sections 11963 through 11963.6
+roles:
+  - Judge
+  - CDE (California Department of Education)
+  - New Village
+  - LAUSD (Los Angeles Unified School District)
+significant_statements:
+  - CDE suggests that New Village has admitted that it was properly classified as a nonclassroom-based charter school
+  - New Village rebuts this argument, stating that it made the request solely as a precaution against loss of funding
+```
+
+And here is a summary of the judge's tentative ruling in English text:
+
+The judge is considering a request by the California Department of Education (CDE) to take judicial notice of three California legislative bills: Senate Bill 98, Senate Bill 820, and Assembly Bill 181. The CDE is seeking to classify a charter school, New Village, as a nonclassroom-based charter school and is disputing New Village's claim that it is a classroom-based charter school entitled to supplemental funding.
+
+The judge notes that CDE's calculation of New Village's Average Daily Attendance (ADA) is influenced by New Village's nonclassroom-based ADA, which rounds up because it is just barely above 11.49. The CDE's calculation compounds the rounding differential, which could disproportionately affect New Village's funding.
+
+New Village argues that it is immaterial when the necessary rounding should occur, and that whether the reported ADAs are rounded before or after division, or both, its percent of instruction time offered at the school site was at least 80%.
+
+The judge also notes that CDE's notification of New Village regarding nonclassroom-based instruction is not relevant, as LAUSD (Los Angeles Unified School District) does not make classifications or computations for funding determination requests or pursuant to the relevant statutes; CDE does.
+
+The judge concludes that the parties do not address section 46303(b), which provides that whenever a reference is made to a specific whole number of units of average daily attendance, it shall include any fraction above said number which is less than one-half a unit, and any fraction of one-half or more above a unit above the next lowest whole number. The judge is unclear what this provision means or when it applies.

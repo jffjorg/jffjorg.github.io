@@ -1,0 +1,42 @@
+Here is the summary of the judge's tentative ruling in YAML format:
+
+```yaml
+Case Number: unknown
+Plaintiff's Name: unknown
+Defendant's Name: unknown
+People-Names:
+  - Croitoru
+  - Rayburn
+Company-Names:
+  - OZ
+  - FMB entities
+Places: none
+Dates: none
+Events: none
+Money: none
+Intentions: to address issues with the format of the FAC
+Facts:
+  - The FAC is misnumbered
+  - The FAC jumps between paragraphs
+  - The paragraphs are not properly separated
+  - The exhibits are not electronically bookmarked
+Disputes: none
+Acts: none
+Agreements: none
+Laws:
+  - California Rules of Court, rule 2.112
+  - Campbell v. Rayburn (1954) 129 Cal.App.2d 232
+Statutes: California codes
+Case Citations: none
+Roles:
+  - Plaintiff
+  - Defendant
+Significant Statements:
+  - The Court will refer to paragraphs as they are misnumbered
+  - The Court will organize its analysis by cause of action
+  - The Plaintiff has not properly electronically bookmarked each exhibit separately
+```
+
+And here is a summary of the judge's tentative ruling in English text:
+
+The judge is reminding the plaintiff to properly format their complaint (FAC) to ensure that each cause of action is separately stated, numbered, and identifies the parties involved. The judge notes that the FAC is misnumbered, jumping between paragraphs in a way that makes it difficult to track. The judge will refer to the paragraphs as they are misnumbered and will organize their analysis by cause of action. Additionally, the judge notes that the plaintiff has not properly electronically bookmarked each exhibit separately, which is a minor issue given the length of the FAC and the number of exhibits attached.

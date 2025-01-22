@@ -1,0 +1,61 @@
+Here is the summary in YAML format:
+
+```
+Case Number: 24SMCV01889
+Plaintiff's Name: Not specified
+Defendant's Name: Not specified
+People-Names:
+  - Defendant (individual)
+Company-Names:
+  - None
+Places:
+  - Plaintiff's home
+  - Defendant's unit
+Dates:
+  - May 31, 2024 (default entered)
+  - June 3, 2024 (dismissal of UD case)
+  - July 24, 2024 (counsel's statement to defendant)
+  - October 2, 2024 (judgment in UD case)
+  - October 18, 2024 (motion to vacate default filed)
+  - December 3, 2024 (hearing date)
+Events:
+  - Breach of contract
+  - Default entered
+  - Motion to vacate default
+  - Dismissal of UD case
+  - Judgment in UD case
+Money:
+  - $2500 (amount plaintiff's counsel seeks to be reimbursed)
+Intentions:
+  - Defendant: to vacate default
+  - Plaintiff: to enforce breach of contract claim
+Facts:
+  - Defendant's security cameras focused on plaintiff's home
+  - Defendant claimed excusable neglect to vacate default
+  - Defendant's lawyer told defendant that the instant case was still pending
+  - Defendant did not file motion to vacate default until October 18, 2024
+Disputes:
+  - Defendant's honesty
+  - Plaintiff's alleged delay in resolving case
+Acts:
+  - Plaintiff filed breach of contract case
+  - Defendant's default was entered
+  - Defendant moved to vacate default
+  - Plaintiff opposed motion
+Agreements:
+  - None
+Laws:
+  - California Rules of Court
+  - California law (strongly favors granting relief from default where there is no prejudice to the plaintiff)
+Case Citations:
+  - None
+Statutes:
+  - None
+Roles:
+  - Judge: made tentative ruling
+  - Plaintiff: filed breach of contract case
+  - Defendant: moved to vacate default
+Significant Statements:
+  - "The court will overlook it this time, but in the future, if it is worth doing, it is worth doing right. If it is not worth doing right, don't bother." (regarding defendant's lawyer's formatting of pleading)
+  - "The whole thing just smells bad." (regarding defendant's story)
+  - "The court remains bound by the notion that the law strongly supports adjudication on the merits."

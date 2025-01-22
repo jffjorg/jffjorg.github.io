@@ -1,0 +1,60 @@
+Here is the summary in YAML format:
+
+```
+Case Number: 23SMCV00591
+Plaintiff's Name: Doe
+Defendant's Name: Weinstein
+People-Names:
+  - Doe
+  - Weinstein
+  - Bonjean (counsel)
+Company-Names: None
+Places:
+  - New York
+Dates:
+  - December 19, 2022
+  - December 3, 2024
+Events:
+  - Criminal conviction of Weinstein for raping Doe
+  - Defendant's motion for trial preference
+  - Defendant's opposition to motion
+  - Plaintiff's opposition to motion
+Money: None
+Intentions:
+  - Defendant's intention to request trial preference
+  - Plaintiff's intention to oppose motion
+Facts:
+  - Defendant is 72 years old
+  - Defendant is imprisoned in New York
+  - Defendant suffers from various medical conditions
+  - Defendant is the sole defendant in the action
+  - Plaintiff seeks damages for the assault
+Disputes:
+  - Dispute over whether defendant should receive trial preference
+Acts:
+  - Defendant's motion for trial preference
+  - Plaintiff's opposition to motion
+  - Defendant's declaration regarding medical condition
+  - Code citations (Cal. Code Civ. Proc. §36, §36.5)
+Agreements:
+  - Code citations (Cal. Code Civ. Proc. §36, §36.5)
+Laws:
+  - Cal. Code Civ. Proc. §36
+  - Cal. Code Civ. Proc. §36.5
+Case Citations: None
+Statutes:
+  - Cal. Code Civ. Proc. §36
+  - Cal. Code Civ. Proc. §36.5
+Roles:
+  - Judge: ruling on defendant's motion for trial preference
+  - Plaintiff: opposing motion
+  - Defendant: requesting trial preference
+  - Counsel Bonjean: declaring defendant's medical condition
+Significant Statements:
+  - Defendant's health is such that preference is necessary to prevent prejudice.
+  - The court shall grant the motion if the requisite findings are made.
+```
+
+And here is the summary in English text:
+
+This is a tentative ruling on a motion for trial preference filed by defendant Weinstein. Weinstein was criminally convicted of raping plaintiff Doe on December 19, 2022. He is now 72 years old, imprisoned in New York, and suffers from various medical conditions. Weinstein argues that he needs trial preference to prevent prejudice due to his age and health. Plaintiff Doe opposes the motion, claiming that Weinstein has not requested preference in other pending matters and that this is an attempt to avoid potential collateral estoppel arising from his ongoing criminal cases. The court finds that Weinstein has a substantial interest in the action as the sole defendant, and his health is such that preference is necessary to prevent prejudice. Therefore, the motion is granted.

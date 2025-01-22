@@ -1,0 +1,59 @@
+Here is the summary in YAML format:
+
+```
+case_number: unknown
+plaintiff_name: unknown
+defendant_name: unknown
+people_names:
+  - OC Sheriff
+  - Los Angeles Sheriff
+company_names: []
+places:
+  - OC
+  - Los Angeles
+dates:
+  - November 4, 2024
+  - October 31, 2024
+events:
+  - Filing of motion
+  - Service of summons
+  - Request for evidentiary hearing
+money: []
+intentions:
+  - To determine the validity of service of summons
+facts:
+  - Plaintiff did not timely file opposition
+  - Defendant served motion by mail
+  - Proof of service was completed by deputies
+disputes:
+  - Validity of service of summons
+acts:
+  - Filing of motion
+  - Service of summons
+  - Request for evidentiary hearing
+agreements:
+  - None
+laws:
+  - Cal. Rules of Court, rule 3.1300(d)
+  - Code Civ. Proc., § 1013, subd. (a)
+  - Code Civ. Proc., § 415.10
+  - Code Civ. Proc., § 415.30, subd. (b)
+case_citations: []
+statutes:
+  - Cal. Rules of Court, rule 3.1300(d)
+  - Code Civ. Proc., § 1013, subd. (a)
+  - Code Civ. Proc., § 415.10
+  - Code Civ. Proc., § 415.30, subd. (b)
+roles:
+  - Judge
+  - Plaintiff
+  - Defendant
+significant_statements:
+  - The court exercises its discretion to consider the filing despite the plaintiff's failure to timely file opposition.
+  - The defendant should have served the motion by mail no later than October 31, 2024.
+  - The request for an evidentiary hearing is denied as moot.
+```
+
+And here is a summary of the judge's tentative ruling in English text:
+
+The judge has reviewed the case and has made some tentative decisions. Although the plaintiff did not file their opposition in a timely manner, the court will still consider the case. The defendant served the motion by mail on November 4, 2024, which means they should have done so by October 31, 2024. The plaintiff requested an evidentiary hearing to call the deputies who completed proof of service, but this request is denied as it is now moot. Instead, the plaintiff is directed to file the proof of service and declarations of diligence along with the required Judicial Council form in the future. Additionally, if the plaintiff wishes to serve the defendant by registered agent, they must do so by personal service or comply with the statute governing service by mail.
