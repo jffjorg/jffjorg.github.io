@@ -1,0 +1,56 @@
+Here is the summary in YAML format:
+
+```
+case_number: Not specified
+plaintiff: Not specified
+defendant: Not specified
+people_names:
+  - Pineda
+  - Hillary Williams
+company_names: Not specified
+places: Not specified
+dates:
+  - November 13, 2024
+  - November 18, 2024
+  - November 22, 2024
+  - November 28, 2024
+events:
+  - Motion filed
+  - Opposition filed
+  - Reply filed
+  - Proof of service attached
+money: Not specified
+intentions:
+  - To consider arguments raised in motion and opposition
+  - To decline to consider new arguments raised in reply
+facts:
+  - Plaintiffs filed a motion
+  - Opposition was filed by defendants
+  - Reply was filed by plaintiffs
+disputes:
+  - Over the consideration of new arguments raised in reply
+acts:
+  - Filing of motion, opposition, and reply
+  - Service of opposition
+  - Attachment of proof of service
+agreements: Not specified
+laws:
+  - Code of Civil Procedure section 659a
+  - American Drug Stores, Inc. v. Stroh (1992)
+  - ¿[p]oints raised for the first time in a reply brief will ordinarily not be considered¿
+  - ¿because such consideration would deprive the respondent of an opportunity to counter the argument.¿
+case_citations:
+  - American Drug Stores, Inc. v. Stroh (1992)
+statutes:
+  - Code of Civil Procedure section 659a
+roles:
+  - Judge
+  - Plaintiffs
+  - Defendants
+significant_statements:
+  - The Court declines to consider the arguments raised for the first time by Plaintiffs in the reply.
+```
+
+And here is a summary of the judge's tentative ruling:
+
+The judge is considering a motion filed by the plaintiffs and an opposition filed by the defendants. The judge notes that the defendants' opposition was served on November 13, 2024, and the plaintiffs' reply was filed before the deadline. However, the judge also notes that the plaintiffs raised new arguments for the first time in their reply, which will not be considered because they deprive the defendants of an opportunity to counter the arguments. Specifically, the judge cites the California case of American Drug Stores, Inc. v. Stroh (1992), which states that points raised for the first time in a reply brief will not be considered.

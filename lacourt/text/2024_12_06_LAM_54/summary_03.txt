@@ -1,0 +1,68 @@
+Here is the summary of the Judge's tentative ruling in YAML format:
+
+```
+case_number: 24STCV20244
+plaintiff_name: CEP America-California dba Vituity
+defendant_name: Kaiser Foundation Health Plan, Inc., Kaiser Permanente Insurance Company, and Kaiser Foundation Hospitals
+people_names:
+  - Maurice Leiter (Judge)
+  - CEP America-California (Plaintiff)
+  - Kaiser Foundation Health Plan, Inc., Kaiser Permanente Insurance Company, and Kaiser Foundation Hospitals (Defendants)
+company_names:
+  - CEP America-California
+  - Kaiser Foundation Health Plan, Inc.
+  - Kaiser Permanente Insurance Company
+  - Kaiser Foundation Hospitals
+places:
+  - Los Angeles
+  - California
+dates:
+  - August 9, 2024
+  - December 6, 2024
+events:
+  - Demurrer to Complaint
+  - Motion to Strike
+money: None
+intentions:
+  - Plaintiff seeks to recover for quantum meruit and UCL violations
+facts:
+  - Plaintiff is a medical group of physicians who provided emergency medical services for Defendants
+  - Defendants allegedly failed to pay the reasonable and customary value of services under the Knox-Keene Act
+  - Plaintiff alleges Defendants engaged in unfair competition and ignored California regulations on reasonable and customary value
+disputes:
+  - Demurrer to the second cause of action for UCL violations
+  - Motion to strike Plaintiff's claim for injunctive relief under the UCL
+acts:
+  - Plaintiff filed a complaint against Defendants
+  - Defendants demurred to the complaint and moved to strike
+agreements: None
+laws:
+  - California Business and Professions Code section 17200
+  - California Health & Safety Code section 1371.4
+  - California Code of Civil Procedure section 430.50
+  - California Code of Civil Procedure section 435
+  - California Code of Civil Procedure section 436
+case_citations:
+  - Picton v. Anderson Union High Sch. Dist. (1996) 50 Cal. App. 4th 726, 732
+  - Clark v. Superior Court (2010) 50 Cal.4th 605, 610
+  - Bell v. Blue Cross of California (2005) 131 Cal.App.4th 211, 215
+  - Coast Plaza Doctors Hospital v. UHP Healthcare (2002) 105 Cal.App.4th 639, 651, 657-658
+statutes:
+  - California Business and Professions Code section 17200
+  - California Health & Safety Code section 1371.4
+roles:
+  - Judge: Maurice Leiter
+  - Plaintiff: CEP America-California dba Vituity
+  - Defendant: Kaiser Foundation Health Plan, Inc., Kaiser Permanente Insurance Company, and Kaiser Foundation Hospitals
+significant_statements:
+  - The demurrer to the second cause of action for UCL violations is OVERRULED.
+  - The motion to strike is DENIED.
+```
+
+And here is a summary of the Judge's tentative ruling in English text:
+
+The Judge has issued a tentative ruling on the demurrer to the complaint and the motion to strike. The demurrer to the second cause of action for UCL violations has been OVERRULED. The Plaintiff has sufficiently alleged a claim for UCL violations, and the relief sought is not duplicative of the relief sought for quantum meruit. The demurrer to the claim against Defendants KPIC and KFH has also been OVERRULED, as the Plaintiff has alleged claims against all Defendants.
+
+The motion to strike the Plaintiff's claim for injunctive relief under the UCL has been DENIED. The Plaintiff may seek injunctive relief under the statutory scheme. The Court has also denied the motion to strike the complaint, as the Plaintiff has sufficiently alleged claims against all Defendants.
+
+The Judge has ordered the Defendants to file and serve answers to the complaint within 30 days of notice of the ruling.
