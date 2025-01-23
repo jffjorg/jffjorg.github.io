@@ -1,0 +1,71 @@
+Here is the summary in YAML format:
+
+```
+case_number: 23STLC08034
+hearing_date: 2024-12-05
+dept: 26
+plaintiffs:
+  - name: Rita Cuadros
+  - name: Nancy Cuadros
+  - name: Veronica O'Hacer
+defendants:
+  - name: Martha Tonkins (erroneously sued as Martha Tompkins)
+  - name: Kimberly Stoll (erroneously sued as Kimberly Cuadros)
+  - name: Miguel Cuadros (erroneously sued as Defendant Cuadros)
+  - name: SCI California Funeral Services, Inc. dba Oakdale Memorial Park (erroneously sued as Oakdale Cemetery)
+  - name: Dignity Memorial (erroneously sued as Defendant Dignity)
+people:
+  - name: Rita Cuadros
+  - name: Nancy Cuadros
+  - name: Veronica O'Hacer
+  - name: Martha Tonkins
+  - name: Kimberly Stoll
+  - name: Miguel Cuadros
+companies:
+  - name: SCI California Funeral Services, Inc.
+  - name: Dignity Memorial
+places:
+  - name: Spring Street Courthouse
+dates:
+  - 2023-12-19
+  - 2024-04-25
+  - 2024-06-00
+  - 2024-10-03
+  - 2025-02-05
+events:
+  - breach of contract
+  - declaratory relief
+  - injunctive relief
+  - fraud
+  - negligent infliction of emotional distress
+money: None
+intentions:
+  - Plaintiff's Motion to Reclassify is denied
+  - Order to show cause regarding reclassification to an unlimited jurisdiction court
+facts:
+  - Plaintiffs filed a First Amended Complaint adding causes of action for fraud and negligent infliction of emotional distress
+  - No opposition has been filed to date
+disputes:
+  - Reclassification of the action to an unlimited jurisdiction court
+acts:
+  - Plaintiffs filed a Motion to Reclassify
+agreements: None
+laws:
+  - Code Civ. Proc., § 1005
+  - Code Civ. Proc., § 85
+  - Code Civ. Proc., § 86
+  - Jones v. Otero (1984) 156 Cal.App.3d 754, 757
+roles:
+  - Judge
+  - Plaintiff
+  - Defendant
+significant_statements:
+  - "The Motion is not accompanied by a proof of service showing service of the moving papers or of the notice of the motion and hearing date on Defendants."
+  - "Failure to give notice of a motion is not only a violation of the statutory requirements but of due process."
+  - "The Court finds this action should be reclassified to an unlimited jurisdiction court."
+  - "An order to show cause regarding why this action should not be reclassified to an unlimited jurisdiction court is set."
+```
+
+And here is a summary of the Judge's tentative ruling in English text:
+
+The Judge has denied the Plaintiffs' Motion to Reclassify the action to a limited jurisdiction court. However, the Judge has set an Order to Show Cause regarding why the action should not be reclassified to an unlimited jurisdiction court, citing the need to determine the parties' rights and the placement of a headstone ordered for the Plaintiffs' mother. The Order to Show Cause is set for February 5, 2025, at 9:30 AM in Department 26 of the Spring Street Courthouse.
