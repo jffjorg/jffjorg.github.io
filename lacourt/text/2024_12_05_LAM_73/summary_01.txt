@@ -1,0 +1,65 @@
+Here is the summary in YAML format:
+
+```
+case_number: 20STCV41875
+plaintiff_name: Herschell Duerson
+defendant_name: Timothy Carter, et al.
+people_names:
+  - Herschell Duerson
+  - Timothy Carter
+  - Marjorie Hubbard
+  - Bradley Michael Staple
+  - Jess Staple
+company_names:
+  - Gomez Law, APC
+  - Staple's Building Solutions
+places:
+  - California
+dates:
+  - November 2, 2024
+  - February 1, 2022
+  - October 30, 2024
+  - August 12, 2024
+  - February 2019
+events:
+  - Breach of Contract
+  - Promissory Estoppel
+  - Fraud
+  - Unjust Enrichment
+  - Violation of Business and Professions Code Section 7159.5(a)
+money:
+  - $351,000.00
+  - $156,289.04
+intentions:
+  - Plaintiff seeks to recover attorney's fees incurred in this action
+  - Plaintiff argues that under California Civil Code § 3336, a person defrauded is entitled to compensation
+disputes:
+  - Plaintiff's motion for attorneys' fees
+acts:
+  - Plaintiff filed a First Amended Complaint (FAC) alleging the following causes of action
+  - Defendants failed to perform under the terms of the Agreement
+  - Plaintiff filed a motion for attorneys' fees
+agreements:
+  - Written contract to reconstruct Marjorie Hubbard's home
+laws:
+  - California Civil Code § 3336
+  - California Code of Civil Procedure §1033.5 (a)(10)
+  - Business and Professions Code Section 7159.5(a)
+case_citations:
+  - Gray v. Don Miller & Assocs., Inc. (1984) 35 Cal. 3d 498
+statutes:
+  - California Civil Code § 3336
+  - California Code of Civil Procedure §1033.5 (a)(10)
+roles:
+  - Plaintiff (Herschell Duerson)
+  - Defendant (Timothy Carter, et al.)
+  - Judge (Hon. Rolf Treu)
+significant_statements:
+  - The Court does not find that Plaintiff's cited authority allows an award of attorney's fees related to the instant motion.
+  - California Civil Code § 3336 allows the recovery of damages for the money expended in pursuit of converted property, but does not mention recovery of attorney's fees incurred due to fraud.
+  - The Gray court did not hold that attorney's fees are recoverable in cases involving fraud or deceit.
+```
+
+And here is a summary of the judge's tentative ruling in English text:
+
+The judge has denied the plaintiff's motion for attorneys' fees. The plaintiff, Herschell Duerson, brought this action against defendants Timothy Carter and others for breach of contract, promissory estoppel, fraud, and unjust enrichment. Duerson argues that he is entitled to recover attorney's fees incurred in this action because he prevailed on his claims and defendants committed fraud. However, the court finds that California Civil Code Section 3336, which allows recovery of damages for money expended in pursuit of converted property, does not mention recovery of attorney's fees incurred due to fraud. The court also finds that Gray v. Don Miller & Assocs., Inc. (1984) 35 Cal. 3d 498 does not support the plaintiff's assertion that attorney's fees are recoverable in cases involving fraud or deceit. Therefore, the plaintiff's motion for attorneys' fees is denied.

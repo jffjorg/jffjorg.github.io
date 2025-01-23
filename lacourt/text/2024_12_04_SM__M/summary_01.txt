@@ -1,0 +1,65 @@
+Here is the summary in YAML format:
+
+```
+case_number: 22SMCV00063
+plaintiff_name: Cienega Ventures LLC
+defendant_name: 730 N. La Cienega LLC, et al.
+people_names:
+  - Hossain Motamedi
+  - Danny Shuster
+company_names:
+  - Cienega Ventures LLC
+  - 730 N. La Cienega LLC
+  - Koi LP
+places:
+  - La Cienega
+dates:
+  - August 2024
+  - October 24, 2024
+  - December 4, 2024
+events:
+  - Motion for Leave to Augment Expert Witness Disclosure
+  - Motion to Strike Expert Witness
+  - Deposition
+  - Renovations
+  - Hiring of expert witness
+money:
+  - Costs to perform renovations
+intentions:
+  - To amend expert witness list
+  - To strike expert witness
+facts:
+  - Hossain Motamedi gained percipient knowledge of the premises at issue
+  - Danny Shuster was a construction expert who testified regarding the nature and cost of renovations
+  - Plaintiff hired Mr. Motamedi in mid-August 2024
+  - Plaintiff's expert witness deadline had passed
+disputes:
+  - Plaintiff's failure to disclose and depose expert witness
+  - Defendant's motion to strike expert witness
+acts:
+  - Plaintiff's motion to augment expert witness list
+  - Defendant's motion to strike expert witness
+agreements:
+  - Meet and confer declaration
+  - Leave to augment or amend expert witness list
+laws:
+  - CCP § 2034.610(a)
+  - CCP § 2034.610(b)
+  - CCP § 2034.610(c)
+  - CCP § 2034.620
+  - CCP § 2034.260
+statutes:
+  - CCP (California Civil Procedure)
+roles:
+  - Judge
+  - Plaintiff
+  - Defendant
+significant_statements:
+  - Plaintiff failed to show good cause for leave
+  - There are no exceptional circumstances present that justify Plaintiff's failure to disclose and depose expert witness
+  - Plaintiff's motion is DENIED and Defendant's motion is GRANTED
+```
+
+And here is a summary of the tentative ruling in English text:
+
+The judge is ruling on two motions related to expert witnesses. The plaintiff, Cienega Ventures LLC, is seeking to add an expert witness, Hossain Motamedi, to their list of witnesses. The defendants, 730 North La Cienega, LLC and Koi LP, are moving to strike the plaintiff's late addition to the witness list. The judge finds that the plaintiff failed to show good cause for leave and that there are no exceptional circumstances that justify their failure to disclose and depose the expert witness in advance. The judge denies the plaintiff's motion and grants the defendant's motion to strike the expert witness.
