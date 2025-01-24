@@ -1,0 +1,60 @@
+Here is the summary in YAML format:
+
+```
+Case Number: BC522931
+Plaintiff's Name: NATIONAL COLLEGIATE STUDENT LOAN TRUST
+Defendant's Name: MARIA TORABZADEH, et al.
+People-Names:
+  - MARIA TORABZADEH
+  - IAN SUTTON
+Company-Names:
+  - NATIONAL COLLEGIATE STUDENT LOAN TRUST
+Places:
+  - Los Angeles
+Dates:
+  - 9/27/2013
+  - 8/20/2014
+  - 7/3/2024
+  - 1/21/2020
+  - December 10, 2024
+Events:
+  - Breach of contract
+  - Common counts
+  - Bankruptcy discharge
+  - Renewal of judgment
+  - Motion to vacate renewal of judgment
+Money:
+  - Student loan debt
+Intentions:
+  - Plaintiff seeks to enforce judgment
+  - Defendant seeks to vacate renewal of judgment
+Facts:
+  - Judgment obtained by Plaintiff on 8/20/2014
+  - Renewal of judgment granted on 7/3/2024
+  - Defendant received standard discharge of debts on 1/21/2020
+Disputes:
+  - Whether underlying student loan was discharged
+  - Whether renewal of judgment can be vacated
+Acts:
+  - Plaintiff filed suit on 9/27/2013
+  - Plaintiff obtained judgment on 8/20/2014
+  - Defendant moved to vacate renewal of judgment
+Agreements:
+  - CCP section 683.170
+Laws:
+  - CCP section 683.170
+  - 11 U.S.C. §727
+Statutes:
+  - 11 U.S.C. §727
+Roles:
+  - Plaintiff: NATIONAL COLLEGIATE STUDENT LOAN TRUST
+  - Defendant: MARIA TORABZADEH, et al.
+Significant Statements:
+  - "Defendant fails to make a showing that she obtained a hardship discharge on the underlying student loan..."
+  - "The Court finds an insufficient basis to conclude that the underlying student loan at issue was discharged as part of the 1/21/2020 Order."
+  - "Defendant's motion to vacate the renewal of judgment is denied."
+```
+
+And here is a summary of the judge's tentative ruling in English text:
+
+The judge has issued a tentative ruling on the defendant's motion to vacate the renewal of judgment. The defendant, Maria Torabzadeh, argues that the renewal of judgment must be set aside because she received a bankruptcy discharge on January 21, 2020, which discharged her debts. However, the judge finds that the defendant did not obtain a hardship discharge on the underlying student loan, which is not discharged by a standard bankruptcy discharge. Therefore, the judge denies the defendant's motion to vacate the renewal of judgment.
