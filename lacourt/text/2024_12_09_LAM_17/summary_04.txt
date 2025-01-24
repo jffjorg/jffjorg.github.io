@@ -1,0 +1,49 @@
+Here is the summary of the legal document in YAML format:
+
+```
+case_number: 24STCV00611
+plaintiff_name: Gyoo Kim
+defendant_name: Reginald Marshall
+people_names:
+  - Joshua C. Cohen
+company_names: []
+places:
+  - Los Angeles
+  - Superior Court of California, County of Los Angeles
+dates:
+  - December 9, 2024
+  - December (no specific date), 2024
+events:
+  - Motion to be relieved as counsel
+  - Hearing
+money: []
+intentions:
+  - To grant the motion to withdraw as counsel
+facts:
+  - Joshua C. Cohen brought a motion to be relieved as counsel
+  - Proper notice and documentation were submitted
+  - The motion is granted
+disputes: []
+acts:
+  - Joshua C. Cohen submitted documents (MC-051, MC-052, MC-053)
+  - The court granted the motion
+agreements:
+  - Code Civ. Proc., § 284(2)
+  - Civil Form MC-051, MC-052, MC-053
+laws:
+  - Code of Civil Procedure
+statutes:
+  - Code Civ. Proc., § 284(2)
+roles:
+  - Judge: Hon. Jon R. Takasugi
+  - Attorney: Joshua C. Cohen
+  - Client: Gyoo Kim
+  - Defendant: Reginald Marshall
+significant_statements:
+  - The court may issue an order allowing an attorney to withdraw from representation, after notice to the client.
+  - The motion is GRANTED.
+```
+
+And here is a summary of the judge's tentative ruling in English text:
+
+The court has issued a tentative ruling granting Joshua C. Cohen's motion to be relieved as counsel for plaintiff Gyoo Kim. The court follows the standard procedure for granting such motions, which is to grant them if made in the proper form and presented with proper notice. Cohen submitted the required documents, including a notice of motion, a declaration in support, and an order granting attorney's motion to be relieved as counsel. The court is granting the motion, effective upon filing proof of service of the court's order.

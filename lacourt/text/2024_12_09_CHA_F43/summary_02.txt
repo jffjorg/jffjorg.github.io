@@ -1,0 +1,72 @@
+Here is the summary in YAML format:
+
+```
+case_number: 24CHCV02221
+plaintiff_names:
+  - Enrique Gomez
+  - Marcy Linares
+defendant_name: Alejandra Gomez
+people_names:
+  - Michael J. Lowell
+  - Meredith J. Norris
+company_names: []
+places:
+  - California
+dates:
+  - July 1, 2023
+  - June 17, 2024
+  - July 29, 2024
+  - August 30, 2024
+  - October 1, 2024
+  - October 15, 2024
+  - October 31, 2024
+  - December 9, 2024
+events:
+  - Vehicle collision
+  - Filing of complaint
+  - Propounding of Form Interrogatories
+  - Filing of motion to compel responses
+  - Meeting and conferring
+money:
+  - $1,135.00 (sanctions)
+  - $250.00 (hourly rate)
+  - $225.00 (hourly rate)
+  - $60.00 (filing fee)
+  - $535.00 (reduced sanctions amount)
+intentions:
+  - To compel responses to Form Interrogatories
+  - To impose sanctions
+facts:
+  - Plaintiffs were involved in a vehicle collision with Defendant on July 1, 2023
+  - Plaintiffs suffered damages and serious injuries
+  - Defendant propounded Form Interrogatories, Set One on July 29, 2024
+  - No response was served by the original deadline or subsequent extensions
+disputes:
+  - Whether Defendant's Form Interrogatories, Set One should be compelled
+acts:
+  - Propounding of Form Interrogatories
+  - Filing of motion to compel responses
+  - Meeting and conferring
+  - Failure to serve responses
+agreements:
+  - None
+laws:
+  - California Code of Civil Procedure
+statutes:
+  - Code Civ. Proc., § 2030.300, subd. (b)(1)
+  - Code Civ. Proc., § 2030.290, subd. (a)
+  - Code Civ. Proc., § 2030.290, subd. (b)
+  - Code Civ. Proc., § 2030.290, subd. (c)
+roles:
+  - Plaintiff
+  - Defendant
+  - Counsel
+significant_statements:
+  - Defendant's counsel made a reasonable and good faith attempt to meet and confer with Plaintiff's counsel
+  - The Court finds that the time spent on this motion is unreasonable
+  - The Court grants Defendant's request for sanctions in the reduced amount of $535.00
+```
+
+And here is a summary of the judge's tentative ruling:
+
+The judge has ruled in favor of the defendant's motion to compel responses to Form Interrogatories, Set One. The defendant propounded the interrogatories on July 29, 2024, and the plaintiff's responses were due by August 30, 2024. Despite two deadline extensions, the plaintiff's failed to serve responses. The judge finds that the plaintiff's failure to respond was unreasonable and grants the defendant's motion to compel responses. Additionally, the judge imposes sanctions on the plaintiff's in the amount of $535.00, which is reduced from the original request of $1,135.00.

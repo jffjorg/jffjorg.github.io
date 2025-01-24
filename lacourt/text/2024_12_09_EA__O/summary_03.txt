@@ -1,0 +1,72 @@
+Here is the summary in YAML format:
+
+```
+case_number: Not specified
+plaintiff_name: Not specified
+defendant_name: Not specified
+people_names:
+  - Decedent
+  - Plaintiffs
+  - Defendant
+  - Mofid
+  - Gutierrez
+  - Greninger
+  - Fischer
+company_names:
+  - None
+places:
+  - None
+dates:
+  - 1983
+  - 1985
+events:
+  - Death of Decedent
+  - Medical negligence
+  - Filing of complaint
+  - Service of notice of intent to sue
+money:
+  - None
+intentions:
+  - To determine the validity of the complaint
+  - To clarify the statute of limitations
+  - To consider the request for judicial notice
+facts:
+  - Decedent's death was due to natural causes
+  - Plaintiffs acknowledge Decedent's death was due to natural causes
+  - Defendant did not provide a citation for Plaintiffs' acknowledgement
+  - A claim for wrongful death based on medical negligence must be brought within one year of the complained of conduct
+  - The one-year limitations period begins to run when a plaintiff discovers or suspects that his or her injury was caused by wrongdoing
+  - A complaint is not subject to demurrer for violation of the statute of limitations unless the complaint unequivocally shows on its face that it is time-barred
+disputes:
+  - Whether the complaint is time-barred
+  - Whether the request for judicial notice should be granted
+acts:
+  - Filing of demurrer
+  - Filing of opposition
+  - Service of notice of intent to sue
+agreements:
+  - California Code of Civil Procedure section 364(d)
+  - California Code of Civil Procedure section 452
+  - Civil Code § 1714.8
+laws:
+  - California Code of Civil Procedure section 340.5
+  - California Code of Civil Procedure section 452
+  - Civil Code § 1714.8
+  - Code Civ. Proc. § 340.5
+  - C.C.P. § 452
+case_citations:
+  - Greninger v. Fischer (1983) 81 Cal.App.2d 549, 553
+  - Gutierrez v. Mofid (1985) 39 Cal.3d 892
+roles:
+  - Plaintiff
+  - Defendant
+  - Judge
+significant_statements:
+  - "Defendant does not provide a citation as to where Plaintiffs make such an acknowledgement."
+  - "A complaint is not subject to demurrer for violation of the statute of limitations unless the complaint unequivocally shows on its face that it is time-barred."
+  - "The one-year limitations period begins to run when a plaintiff discovers or suspects that his or her injury was caused by wrongdoing."
+```
+
+And here is a summary of the judge's tentative ruling in English text:
+
+The judge has granted the request for judicial notice, but denied the request for non-binding authority. The defendant argued that since the plaintiffs acknowledge the decedent's death was due to natural causes, the decedent could never be liable for his death. However, the defendant failed to provide a citation for this acknowledgement. The judge noted that a claim for wrongful death based on medical negligence must be brought within one year of the complained of conduct, and that the one-year limitations period begins to run when a plaintiff discovers or suspects that their injury was caused by wrongdoing. The judge also ruled that a complaint is not subject to demurrer for violation of the statute of limitations unless the complaint unequivocally shows on its face that it is time-barred. Additionally, the judge noted that California Code of Civil Procedure section 364(d) provides that when a notice of intent to sue is served within 90 days of the expiration of the applicable statute of limitations, the time for the commencement of the action is extended 90 days from the service of the notice.
