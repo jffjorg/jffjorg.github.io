@@ -1,0 +1,76 @@
+Here is the summary of the judge's tentative ruling in YAML format:
+
+```yaml
+case_number: BC550144
+plaintiff_names:
+  - Arman Yegiyants
+  - 10415 Commerce, LLC
+defendant_names:
+  - HAGOP BARDAKJIAN
+  - HRATCHIA BARDAKJIAN
+  - JOHN M. DAVID
+  - JAMAL N. DAWOOD
+  - 703 E. Angeleno, LLC
+  - 707 E. Angeleno, LLC
+  - Commercial Funding, LLC
+  - Fares Abassi
+people_names:
+  - Arman Yegiyants
+  - Hratchia Bardakjian
+  - Hagop Bardakjian
+  - Jamal Dawood
+  - Fares Abassi
+company_names:
+  - 703 E. Angeleno, LLC
+  - 707 E. Angeleno, LLC
+  - Commercial Funding, LLC
+  - 10415 Commerce, LLC
+places:
+  - Burbank, California
+  - Wyoming
+  - Federal District Court
+dates:
+  - 2/18/2022
+  - 4/7/2023
+  - 11/17/2023
+  - 12/22/2023
+  - 12/26/2023
+  - 3/22/2024
+  - 5/8/2024
+  - 9/6/2024
+  - 11/1/2024
+  - 10/30/2024
+events:
+  - Motion to Stay Discovery
+  - Motion for Summary Judgment
+  - Demurrer
+  - Cross-Complaint
+  - Deposition
+  - Leave to Amend
+laws:
+  - California Code of Civil Procedure
+  - California Evidence Code
+  - Pacers, Inc. v. Superior Court
+statutes:
+  - Cal. Code Civ. Proc. § 430.10
+  - Cal. Code Civ. Proc. § 436
+  - Cal. Code Civ. Proc. § 583.010
+  - Cal. Evid. Code § 350
+  - Cal. Evid. Code § 352
+roles:
+  - Judge
+  - Plaintiff
+  - Defendant
+  - Moving Party
+  - Opposing Party
+significant_statements:
+  - The Court will hear argument from the parties because all parties' submitted papers are, ultimately, incomprehensible.
+  - The parties' papers continue to be somewhat incomprehensible.
+  - It appears, based on the eCourt, that there are two related cases – (1) 22GDCV00535 and (2) 23BBCV01829.
+  - The parties should be prepared to address if all three cases have been consolidated or if just BC550144 and 23BBCV01829 have been consolidated.
+  - The parties should also be prepared to address which causes of action are the operative pleadings in all three cases.
+```
+
+Summary:
+
+The judge's tentative ruling is regarding a motion to stay discovery and a request for a protective order. The moving parties, Jamal Dawood and his related entities, are seeking to stay discovery and limit inquiry into certain facts previously dismissed by the court. The judge notes that the parties' papers are incomprehensible and that the case has a history of confusion. The judge will hear argument from the parties and will consider the following issues: whether the stay of discovery is warranted, what specific relief is being sought, and whether the parties are aware of the operative pleadings in the case.

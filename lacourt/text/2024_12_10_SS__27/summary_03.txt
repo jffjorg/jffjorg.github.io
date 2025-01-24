@@ -1,0 +1,88 @@
+Here is the summary of the tentative ruling in YAML format:
+
+```
+case_number: 22STCV06897
+hearing_date: 12/10/24
+dept: 27
+judge: Hon. Lee S. Arian
+
+plaintiff: Jesus Romero
+defendant: Intex Realty Corp.
+
+people_names:
+  - Jesus Romero
+  - Martin Verma
+  - Jeffrey Pierson
+
+company_names:
+  - Intex Realty Corp
+  - California Cartage Company, LLC
+  - AMS Paving
+  - Anacapa Lighting
+
+places:
+  - 13060 Temple Avenue, City of Industry, CA 91746
+
+dates:
+  - August 1, 2012
+  - February 25, 2020
+  - August 31, 2021
+
+events:
+  - Trip-and-fall incident
+  - Lease agreement between Intex and Cal Cartage
+  - Paving contract between Cal Cartage and AMS Paving
+  - Lighting contract between Cal Cartage and Anacapa Lighting
+
+money:
+  - Amount of damages sought by plaintiff (not specified)
+
+intentions:
+  - Intex Realty Corp. intends to be relieved of liability for the trip-and-fall incident
+  - California Cartage Company, LLC intends to maintain the parking lot
+
+facts:
+  - The parking lot is owned by Intex Realty Corp.
+  - The lease agreement between Intex and Cal Cartage assigns responsibility for the parking lot to the lessor (Intex)
+  - The lease agreement does not assign exclusive control over the premises to Cal Cartage
+
+disputes:
+  - Whether Intex Realty Corp. has a duty of care to the plaintiff regarding the alleged dangerous condition
+
+acts:
+  - Plaintiff tripped and fell on hollow asphalt in the parking lot
+  - Defendant Intex Realty Corp. moves for summary judgment
+
+agreements:
+  - Lease agreement between Intex and Cal Cartage
+  - Paving contract between Cal Cartage and AMS Paving
+  - Lighting contract between Cal Cartage and Anacapa Lighting
+
+laws:
+  - California Civil Code §§ 1638 and 1639
+
+case_citations:
+  - Hinesley v. Oakshade Town Center (2005) 135 Cal.App.4th 289
+  - Scalf v. D. B. Log Homes, Inc. (2005) 128 Cal.App.4th 1510
+  - Code Civ. Proc., § 437c, subd. (p)(2)
+  - Aguilar v. Atlantic Richfield Co. (2001) 25 Cal.4th 826
+  - Gaggero v. Yura (2003) 108 Cal.App.4th 884
+  - Binder v. Aetna Life Ins. Co. (1999) 75 Cal.App.4th 832
+  - Weiss v. People ex rel. Department of Transportation (2020) 9 Cal.5th 840
+
+roles:
+  - Judge: Hon. Lee S. Arian
+  - Plaintiff: Jesus Romero
+  - Defendant: Intex Realty Corp.
+  - Lessor: Intex Realty Corp.
+  - Lessee: California Cartage Company, LLC
+
+significant_statements:
+  - The Court finds that the lease agreement explicitly assigns responsibility for the parking lot to the lessor (Intex)
+  - The Court denies the defendant's motion for summary judgment
+  - The Court concludes that the plain and unambiguous language of the contract governs interpretation
+```
+
+Here is a summary of the tentative ruling in English text:
+
+The Court has issued a tentative ruling denying the defendant's motion for summary judgment. The defendant, Intex Realty Corp., argued that it was not liable for the trip-and-fall incident that occurred on its property because California Cartage Company, LLC, the lessee, had exclusive control over the premises. The Court found that the lease agreement between Intex and Cal Cartage assigns responsibility for the parking lot to the lessor (Intex), and that the language of the contract is clear and unambiguous. The Court also rejected the defendant's argument that the parties' intent, as evidenced by extrinsic evidence and performance under the contract, demonstrates otherwise. The Court concluded that the defendant failed to meet its initial burden and that the motion for summary judgment is denied.

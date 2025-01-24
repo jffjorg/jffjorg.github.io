@@ -1,0 +1,64 @@
+Here is the summary in YAML format:
+
+```
+case_number: 23STCV11757
+plaintiff_name: Juana Ramirez
+defendant_name: Nissan North America, Inc.
+people_names:
+  - Juana Ramirez
+  - David N. Barry
+company_names:
+  - Nissan North America, Inc.
+places:
+  - California (Superior Court)
+dates:
+  - May 24, 2023 (filing date)
+  - August 1, 2024 (settlement agreement date)
+  - December 11, 2024 (hearing date)
+events:
+  - Lemon law action filed
+  - Settlement agreement entered into
+  - Motion for sanctions filed
+  - Hearing held
+money:
+  - Attorney's fees
+  - Costs
+  - Reasonable expenses
+intentions:
+  - Plaintiff seeks monetary sanctions against defendant
+  - Defendant seeks to defend against plaintiff's motion
+facts:
+  - Plaintiff purchased a 2019 Nissan Murano with serious transmission defects
+  - Plaintiff and defendant entered into a settlement agreement
+  - Defendant failed to comply with settlement agreement
+  - Defendant claims delay was due to need for updated registration
+disputes:
+  - Plaintiff claims defendant's actions were frivolous or in bad faith
+  - Defendant claims delay was reasonable and not in bad faith
+acts:
+  - Plaintiff filed motion for sanctions
+  - Defendant responded to motion
+  - Court reviewed evidence and made tentative ruling
+agreements:
+  - Settlement agreement between plaintiff and defendant
+laws:
+  - Code of Civil Procedure section 128.5
+  - Code of Civil Procedure section 998
+case_citations:
+  - Code Civ. Proc. § 128.5(a)
+  - Code Civ. Proc. § 998
+statutes:
+  - California Code of Civil Procedure
+roles:
+  - Judge Theresa M. Traber (Department 47)
+  - Plaintiff Juana Ramirez
+  - Defendant Nissan North America, Inc.
+  - Attorneys (David N. Barry)
+significant_statements:
+  - The Court cannot find defendant's actions were utterly frivolous or in bad faith
+  - Plaintiff's motion for sanctions is denied
+```
+
+And here is a summary of the judge's tentative ruling in English text:
+
+The judge has denied the plaintiff's motion for monetary sanctions against the defendant. The plaintiff had claimed that the defendant failed to comply with a settlement agreement entered into on August 1, 2024, and that the defendant's actions were frivolous or in bad faith. However, the court found that the defendant had provided evidence of its processing of the settlement and a delay caused by the need for an updated registration, which took several weeks to obtain from the plaintiff. Based on this record, the court could not find that the defendant's actions were frivolous or in bad faith. The court therefore denied the plaintiff's motion for sanctions.
