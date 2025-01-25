@@ -1,0 +1,44 @@
+Here is the summary in YAML format:
+
+```
+case_number: 24STCP03238
+plaintiff: Petitioner
+defendant: None (no defendant listed)
+people_names:
+  - Petitioner
+company_names: None
+places:
+  - Clerk's Office
+  - Room 112
+dates:
+  - December 16, 2024
+events:
+  - Hearing
+money: None
+intentions:
+  - Grant the petition
+  - Sign the decree
+facts:
+  - Petitioner must check spelling and legibility of new name on proposed decree
+  - Petitioner must appear at hearing if new name is not correctly spelled and legible
+disputes:
+  - None (no disputes listed)
+acts:
+  - Petitioner must submit corrected proposed decree
+agreements:
+  - Petitioner agrees to abide by the decree
+laws:
+  - Not specified
+case_citations: None
+statutes: None
+roles:
+  - Judge
+  - Petitioner
+significant_statements:
+  - "NO APPEARANCE IS NECESSARY" if new name is correctly spelled and legible
+  - "Petitioner must appear at the hearing to submit a corrected proposed decree" if new name is not correctly spelled and legible
+```
+
+And here is a summary of the judge's tentative ruling in English text:
+
+The judge has granted the petition and will sign the decree. However, the judge requires the petitioner to double-check the spelling and legibility of the new name on the proposed decree. If the new name is correctly spelled and legible, the petitioner does not need to appear at the hearing. If the new name is not clearly written and correctly spelled, the petitioner must appear at the hearing to submit a corrected proposed decree. A copy of the signed decree will be available in Room 112 of the Clerk's Office seven days after the hearing date.
