@@ -1,0 +1,66 @@
+Here is the summary in YAML format:
+
+```
+case_number: 23STLC05961
+plaintiff: California Automobile Insurance Company
+defendant: David Allen Benson dba Benson Crane
+people_names:
+  - David Allen Benson
+company_names:
+  - California Automobile Insurance Company
+  - Benson Crane, Inc.
+places:
+  - California
+dates:
+  - September 15, 2023
+  - January 24, 2024
+  - August 14, 2024
+  - September 9, 2024
+  - December 12, 2024
+events:
+  - Automobile subrogation
+  - Filing of complaint
+  - Filing of answer
+  - Motion to Deem Requests for Admission Admitted
+  - Request for Monetary Sanctions
+  - Motion for Judgment on the Pleadings
+money:
+  - $11,888.23
+intentions:
+  - To obtain judgment on the pleadings
+facts:
+  - Defendant caused an electrical surge on the property of Plaintiff's insured
+  - Defendant failed to act with reasonable care in the operation of the crane
+  - Defendant's negligence caused damage to a power line and property
+  - Defendant admitted that the affirmative defenses asserted in the Answer lack merit and evidentiary support
+disputes:
+  - Failure to act with reasonable care
+  - Negligence
+  - Damage to property
+acts:
+  - Operation of a crane
+  - Failure to act with reasonable care
+  - Causing damage to property
+agreements:
+  - Requests for Admission
+  - Code of Civil Procedure section 438, et seq.
+  - Cal. Evid. Code section 452, subdivision (d)
+laws:
+  - California Evidence Code
+  - California Civil Procedure Code
+  - Barker v. Hull (1987)
+  - Bezirdjian v. O'Reilly (2010)
+  - Schabarum v. California Legislature (1998)
+  - Code Civ. Proc., § 439
+  - Cal. Evid. Code, § 452, subd. (d)
+roles:
+  - Plaintiff: California Automobile Insurance Company
+  - Defendant: David Allen Benson dba Benson Crane
+significant_statements:
+  - Plaintiff's Motion for Judgment on the Pleadings is GRANTED
+  - Defendant is to file and serve a proposed judgment within 20 days of this order
+```
+
+And here is the English-text summary:
+
+The Judge has issued a tentative ruling in favor of the Plaintiff, California Automobile Insurance Company, granting their Motion for Judgment on the Pleadings against the Defendant, David Allen Benson dba Benson Crane. The Plaintiff had filed a complaint for automobile subrogation, alleging that the Defendant's negligence caused an electrical surge on the property of the Plaintiff's insured, resulting in damage to the property. The Defendant filed an answer, but the Plaintiff's Motion for Judgment on the Pleadings was granted due to the Defendant's admissions in response to the Plaintiff's Requests for Admission. These admissions contradict the Defendant's general denial and affirmative defenses, and establish the facts upon which the Plaintiff's Complaint is based. As a result, the Judge has determined that the Plaintiff is entitled to judgment as a matter of law, and the Defendant is ordered to file and serve a proposed judgment within 20 days of this order.
