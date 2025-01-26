@@ -1,0 +1,78 @@
+Here is the summary in YAML format:
+
+```
+case_number: 23STCV01333
+plaintiff_names:
+  - Cassandra Catapia
+  - Sergio Velasquez
+defendant_names:
+  - 2471 Whittier, LLC
+  - Ron Cholo Enterprise, LLC
+  - David Kiralla
+  - Alen Aivazian
+  - Ryan Sweeney
+people_names:
+  - Drew Martinez
+  - Javier Jamarilo
+  - Victor Lares
+company_names:
+  - 2471 Whittier, LLC
+  - Ron Cholo Enterprise, LLC
+places:
+  - Whittier
+  - Los Angeles
+dates:
+  - January 22, 2024
+  - December 4, 2024
+events:
+  - Shooting at a bar
+  - Deposition notices
+  - Motions to compel deposition
+  - Meet and confer
+money:
+  - None mentioned
+intentions:
+  - To compel depositions of third-party witnesses
+  - To obtain documents and electronically stored information
+facts:
+  - Plaintiffs were shot by a fellow patron at a bar owned and operated by Defendants
+  - Defendants have refused to make third-party witnesses available for deposition
+  - Plaintiffs failed to provide notice of depositions to each party
+  - The deponents have not been served with the motions nor the notices of deposition
+disputes:
+  - Plaintiffs' motions to compel deposition vs. Defendants' objections
+  - Failure to provide notice of depositions to each party
+acts:
+  - Filing of a complaint
+  - Service of a deposition notice
+  - Failure to appear for examination
+agreements:
+  - Meet and confer declaration
+laws:
+  - California Code of Civil Procedure (CCP) § 2025.450(a)
+  - California Code of Civil Procedure (CCP) § 2025.450(b)(2)
+  - California Code of Civil Procedure (CCP) § 2025.410
+  - California Code of Civil Procedure (CCP) § 2016.040
+  - California Code of Civil Procedure (CCP) § 2025.230
+case_citations:
+  - 23STCV01333
+  - 24STCV08690
+statutes:
+  - CCP § 2025.450(a)
+  - CCP § 2025.450(b)(2)
+  - CCP § 2025.410
+  - CCP § 2016.040
+  - CCP § 2025.230
+roles:
+  - Judge Maurice Leiter
+  - Plaintiffs Cassandra Catapia and Sergio Velasquez
+  - Defendants 2471 Whittier, LLC, Ron Cholo Enterprise, LLC, David Kiralla, Alen Aivazian, and Ryan Sweeney
+  - Drew Martinez, Javier Jamarilo, and Victor Lares (third-party witnesses)
+  - Parties (Plaintiffs and Defendants)
+significant_statements:
+  - "If, after service of a deposition notice, a party to the action or an officer, director, managing agent, or employee of a party, or a person designated by an organization that is a party under Section 2025.230, without having served a valid objection under Section 2025.410, fails to appear for examination, or to proceed with it, or to produce for inspection any document, electronically stored information, or tangible thing described in the deposition notice, the party giving the notice may move for an order compelling the deponent's attendance and testimony, and the production for inspection of any document, electronically stored information, or tangible thing described in the deposition notice." (CCP § 2025.450(a))
+```
+
+As for the summary in English text:
+
+The tentative ruling grants the motions to compel deposition of third-party witnesses Drew Martinez, Javier Jamarilo, and Victor Lares. The witnesses are ordered to appear for deposition within 45 days of notice of ruling, and the parties are ordered to meet and confer regarding dates. The Court declines to award sanctions because the papers do not state how the deponents are related to this action and because Defendants' objections to the production of documents are substantially justified.
