@@ -1,0 +1,62 @@
+Here is the YAML summary of the tentative ruling:
+
+```
+case_number: 20STCV30564
+plaintiff: Jane Doe L.P.
+defendant: Downey Unified School District
+people_names:
+  - Jane Doe L.P.
+  - Tim Bovey
+  - McCune
+company_names:
+  - Downey Unified School District
+places:
+  - Los Angeles
+  - California
+dates:
+  - August 12, 2020
+  - November 7, 2024
+  - December 17, 2024
+  - December 29, 2023
+  - January 21, 2025
+events:
+  - Filing of lawsuit
+  - Deposition attempts
+  - Motion for sanctions
+  - Jury trial
+money:
+  - None mentioned
+intentions:
+  - Defendant seeks to impose sanctions on Plaintiff for misuse of discovery process
+  - Plaintiff argues that Defendant's motion is an attempt to silence her and exclude necessary evidence
+facts:
+  - Plaintiff refused to be sworn in as a witness for deposition
+  - Plaintiff became aggressive and refused to answer questions during deposition
+  - Defendant seeks to preclude Plaintiff from testifying at trial
+  - Plaintiff argues that she has cognitive impairments that hinder her ability to provide clear testimony
+disputes:
+  - Misuse of discovery process
+  - Right to depose Plaintiff
+  - Exclusion of evidence
+  - Preclusion of testimony
+acts:
+  - Defendant's motion for sanctions
+  - Plaintiff's refusal to be sworn in for deposition
+  - Plaintiff's aggressive behavior during deposition
+agreements:
+  - None mentioned
+laws:
+  - California Code of Civil Procedure § 2023.030
+  - Peat, Marwick, Mitchell & Co. v. Superior Court (1988)
+case_citations:
+  - California Code of Civil Procedure § 2023.030
+  - Peat, Marwick, Mitchell & Co. v. Superior Court (1988)
+statutes:
+  - California Code of Civil Procedure § 2023.030
+roles:
+  - Judge: Hon. Thomas D. Long
+  - Plaintiff: Jane Doe L.P.
+  - Defendant: Downey Unified School District
+significant_statements:
+  - "The court may impose an issue sanction by an order prohibiting any party engaging in the misuse of the discovery process from supporting or opposing designated claims or defenses." (Code Civ. Proc., § 2023.030, subds. (a)-(b).)
+  - "Plaintiff's inability to complete her deposition prejudices Defendant's preparation for trial testimony."

@@ -1,0 +1,57 @@
+Here is the summary in YAML format:
+
+```
+Case Number: not specified
+Plaintiff's Name: Luis and Maria Caceres
+Defendant's Name: Joe Nishanian
+People-Names:
+  - Luis Caceres
+  - Maria Caceres
+  - Joe Nishanian
+Company-Names: none
+Places: none
+Dates:
+  - unspecified
+Events:
+  - Breach of warranty of habitability
+Money:
+  - $100,000 (requested damages)
+  - $25,001 (jurisdictional minimum)
+  - $25,000 (default judgment amount)
+Intentions:
+  - Seek default judgment
+  - Dispute damages
+Facts:
+  - Complaint fails to specify damages
+  - Default judgment application denied without prejudice
+Disputes:
+  - Damages amount
+Acts:
+  - Breach of warranty of habitability
+  - Failure to specify damages
+Agreements: none
+Laws:
+  - Code Civ. Proc. § 580
+  - Electronic Funds Solutions, LLC v. Murphy (2005)
+  - Cole v. Roebling Const. Co. (1909)
+  - Leo v. Dunlap (1968)
+Case Citations:
+  - Code Civ. Proc. § 580
+  - Electronic Funds Solutions, LLC v. Murphy (2005)
+  - Cole v. Roebling Const. Co. (1909)
+  - Leo v. Dunlap (1968)
+Statutes:
+  - Code Civ. Proc. § 580
+Roles:
+  - Judge
+  - Plaintiffs (Luis and Maria Caceres)
+  - Defendant (Joe Nishanian)
+  - Doe Defendants
+Significant Statements:
+  - The relief granted to the plaintiff, if there is no answer, cannot exceed that demanded in the complaint.
+  - The Court will enter a default judgment in the amount of $25,000.
+```
+
+And here is the English-text summary:
+
+This tentative ruling is in response to a breach of warranty of habitability case involving Plaintiffs Luis and Maria Caceres and Defendant Joe Nishanian. The Plaintiffs had sought default judgment against the Defendant, but the Court denied their application due to several errors. Specifically, the Complaint failed to specify the amount of damages, which is problematic under Code Civ. Proc. § 580. The Plaintiffs were ordered to either accept the jurisdictional minimum of $25,001 or amend the Complaint to specify damages. The Plaintiffs failed to remedy these errors and the Court will enter a default judgment in the amount of $25,000. The Doe Defendants are hereby dismissed.
