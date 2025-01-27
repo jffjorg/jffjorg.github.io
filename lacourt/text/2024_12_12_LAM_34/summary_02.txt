@@ -1,0 +1,108 @@
+Here is a summary of the judge's tentative ruling in YAML format:
+
+```
+case_number: BC694779
+hearing_date: December 12, 2024
+dept: 34
+
+people_names:
+  - Elinton Gramajo
+  - Joe's Pizza On Sunset Inc.
+  - Giuseppe Vitale
+  - Alfredo Nava
+
+company_names:
+  - Joe's Pizza On Sunset Inc.
+
+places:
+
+dates:
+  - February 20, 2018
+  - March 23, 2018
+  - June 17, 2019
+  - November 1, 2019
+  - January 21, 2020
+  - October 12, 2021
+  - October 19, 2021
+  - February 22, 2022
+  - April 29, 2022
+  - May 10, 2022
+  - May 12, 2022
+  - June 28, 2022
+  - July 7, 2022
+  - July 16, 2024
+  - August 19, 2024
+  - August 28, 2024
+  - September 6, 2024
+  - November 18, 2024
+  - December 4, 2024
+  - December 5, 2024
+
+events:
+  - Plaintiff filed a complaint against his former employer
+  - Joe's Pizza filed an answer to the complaint
+  - Plaintiff filed a First Amended Complaint
+  - Joe's Pizza and Vitale filed an answer to the FAC
+  - Defendants filed an amended answer
+  - Jury trial held from October 12, 2021 to October 19, 2021
+  - Judgment entered on February 22, 2022
+  - Defendants filed an appeal on April 29, 2022
+  - Court denied Plaintiff's Motion for Attorney's Fees on May 10, 2022
+  - Defendants abandoned their appeal on May 12, 2022
+  - Court granted Defendants' Motion to Tax Costs on June 28, 2022
+  - Plaintiff filed a second Motion for Attorney's Fees and Costs
+
+money:
+  - $106,872.84 (total award of attorney's fees and costs)
+  - $79,940.00 (attorney's fees)
+  - $26,932.84 (costs and expenses)
+
+intentions:
+  - Plaintiff seeks to recover attorney's fees and costs
+
+facts:
+  - Plaintiff prevailed in his claims for wage and hour violations
+  - Plaintiff's counsel spent 228.40 hours litigating the case
+  - Plaintiff's counsel's hourly rate is $350.00 per hour
+
+disputes:
+  - Defendant's objection to Plaintiff's counsel's billing entries
+  - Defendant's argument that Plaintiff's counsel's hours are excessive
+
+acts:
+  - Plaintiff filed a motion for attorney's fees and costs
+  - Defendant filed an opposition to the motion
+  - Plaintiff filed a reply to the opposition
+
+agreements:
+  - Labor Code section 1194(a) provides that prevailing parties are entitled to recover attorney's fees and costs
+  - CCP § 1033.5(a)(10) provides that prevailing parties are entitled to recover attorney's fees
+
+laws:
+  - Labor Code section 1194(a)
+  - CCP § 1033.5(a)(10)
+  - Civ. Code § 1717(a)
+
+case_citations:
+  - Benson v. Greitzer (1990) 220 Cal.App.3d 11
+  - Auto Equity Sales, Inc. v. Superior Court (1962) 57 Cal.2d 450
+  - Bach v. County of Butte (1989) 215 Cal.App.3d 294
+  - Bowman v. City of Berkeley (2005) 131 Cal.App.4th 173
+  - Mikhaeilpoor v. BMW of N. Am., LLC (2020) 48 Cal.App.5th 240
+  - Horsford v. Board of Trustees of California State University (2005) 132 Cal.App.4th 359
+  - Robertson v. Fleetwood Travel Trailers of California Inc. (2006) 144 Cal.App.4th 785
+  - Lunada Biomedical v. Nunez (2014) 230 Cal.App.4th 459
+  - Ketchum v. Moses (2001) 24 Cal.4th 1122
+
+roles:
+  - Judge: determines the award of attorney's fees and costs
+  - Plaintiff: seeks to recover attorney's fees and costs
+  - Defendant: opposes Plaintiff's motion for attorney's fees and costs
+
+significant_statements:
+  - The court grants Plaintiff's Motion To Set Hearing On Plaintiff's Motion For Attorney's Fees And Costs
+  - The court grants Plaintiff's Motion for Attorney's Fees and Costs in part
+  - The court awards attorney's fees and costs in the reduced amount of $106,872.84
+```
+
+Note that some of the information in the YAML file is redundant or unnecessary, but I included it to maintain the structure and organization of the original text.
