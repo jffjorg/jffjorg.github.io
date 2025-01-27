@@ -1,0 +1,81 @@
+Here is the summary in YAML format:
+
+```
+case_number: 23STCV22301
+plaintiff: Curbio, Inc.
+defendant: Winston O’Mally
+people_names:
+  - Curbio, Inc. (Plaintiff)
+  - Winston O’Mally (Defendant)
+  - Williams (Curbio's counsel)
+company_names:
+  - Curbio, Inc.
+  - O’Mally
+places:
+  - California
+dates:
+  - September 15, 2023
+  - January 16, 2024
+  - April 24, 2024
+  - May 20, 2024
+  - June 24, 2024
+  - October 4, 2024
+  - November 25, 2024
+  - December 3, 2024
+  - December 10, 2024
+  - January 13, 2025
+  - January 15, 2025
+events:
+  - Breach of Contract
+  - Foreclosure of Lien
+  - Cross-complaint
+  - Answer to Complaint
+  - Stipulation and Order for Leave to Amend Complaint
+  - Filing of First Amended Complaint
+  - Answer to First Amended Complaint
+  - Motion to Enforce Settlement
+  - Opposition to Motion to Enforce Settlement
+  - Reply to Opposition
+money:
+  - $141,356.44
+  - $162,500.00
+intentions:
+  - Enforce settlement
+  - Request attorney's fees
+facts:
+  - Parties entered into a settlement agreement on September 4, 2024
+  - Settlement agreement provides for payment of $162,500.00 within three days
+  - O'Mally has not fulfilled its obligations under the settlement agreement
+  - Curbio's counsel declares that O'Mally has engaged in a campaign to avoid its obligations
+disputes:
+  - O'Mally claims that it believed it had obtained a loan to pay the settlement amount
+  - O'Mally requires time to complete loan documents and open escrow
+acts:
+  - Filing of motion to enforce settlement
+  - Filing of opposition to motion to enforce settlement
+  - Filing of reply to opposition
+agreements:
+  - Settlement agreement
+laws:
+  - California Code of Civil Procedure, Section 664.6
+  - Weddington Prod., Inc. v. Flick (1998)
+  - Kohn v. Jaymar-Ruby (1994)
+case_citations:
+  - Weddington Prod., Inc. v. Flick (1998) 60 Cal.App.4th 793, 809
+  - Kohn v. Jaymar-Ruby (1994) 23 Cal.App.4th 1530, 1533
+statutes:
+  - California Code of Civil Procedure, Section 664.6
+roles:
+  - Judge
+  - Curbio, Inc. (Plaintiff)
+  - Winston O’Mally (Defendant)
+  - Williams (Curbio's counsel)
+significant_statements:
+  - The court continues the hearing on this motion to January 15, 2025
+  - The parties are to file declarations on or before January 10, 2025
+  - If performance under the Settlement Agreement has not been completed by January 10, 2025, the court is inclined to grant the motion.
+```
+
+Summary in English text:
+
+This is a tentative ruling by a judge on a motion to enforce a settlement agreement between Curbio, Inc. (Plaintiff) and Winston O'Mally (Defendant). The parties entered into a settlement agreement on September 4, 2024, under which O'Mally was to pay Curbio $162,500.00 within three days. However, O'Mally has not fulfilled its obligations under the settlement agreement, and Curbio is seeking to enforce the agreement. The judge has continued the hearing on this motion to January 15, 2025, and ordered the parties to file declarations on or before January 10, 2025, informing the court whether O'Mally has obtained a loan to pay the settlement amount and/or has fulfilled its terms. If performance under the settlement agreement has not been completed by January 10, 2025, the court is inclined to grant the motion.
