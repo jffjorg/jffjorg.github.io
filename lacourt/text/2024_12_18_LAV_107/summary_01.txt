@@ -1,0 +1,70 @@
+Here is the summary in YAML format:
+
+```
+case_number: 24VECV04017
+plaintiff_name: Tammy Annette Gillispie
+defendant_name: Lyft, Inc., et al.
+people_names:
+  - John Doe
+  - Gabriela Angeles
+  - Paul McCachern
+company_names:
+  - Lyft, Inc.
+places:
+  - Los Angeles
+  - Delaware
+dates:
+  - September 16, 2022
+  - August 21, 2024
+  - October 25, 2024
+  - December 3, 2024
+  - December 9, 2020
+  - December 12, 2022
+  - January 5, 2021
+  - December 18, 2024
+events:
+  - Vehicle collision
+  - Filing of complaint
+  - Filing of motion to compel arbitration
+  - Notice of non-opposition to motion
+  - Hearing on motion
+money: None mentioned
+intentions:
+  - To compel arbitration
+  - To stay litigation pending arbitration
+facts:
+  - Plaintiff was riding in a Lyft vehicle when it was involved in a collision
+  - The Lyft vehicle was operated by John Doe, who was acting as an agent for Lyft
+  - Plaintiff accepted Lyft's Terms of Service, including an arbitration provision
+disputes:
+  - Whether the arbitration agreement is valid and enforceable
+acts:
+  - Plaintiff filed a complaint against Lyft and others
+  - Lyft filed a motion to compel arbitration
+  - Plaintiff filed a notice of non-opposition to the motion
+agreements:
+  - Arbitration agreement between Lyft and its users
+  - Terms of Service agreement between Lyft and its users
+laws:
+  - Federal Arbitration Act (FAA)
+  - California Code of Civil Procedure section 1281.2
+  - Delaware law
+case_citations:
+  - Ramirez v. Charter Communications, Inc. (2024) 16 Cal.5th 478
+  - Marcus & Millichap Real Estate Inv. Brokerage Co. v. Hock Inv. Co. (1998) 68 Cal.App.4th 83
+  - Villareal v. LAD-T, LLC (2022) 84 Cal.App.5th 446
+  - Engalla v. Permanente Medical Group, Inc. (1997) 15 Cal.4th 951
+  - AT & T Technologies, Inc. v. Communications Workers of America (1986) 475 U.S. 643
+  - Sonic-Calabasas A, Inc. v. Moreno (2013) 57 Cal.4th 1109
+roles:
+  - Judge Eric Harmon
+  - Paul McCachern (Safety Program Lead for Lyft)
+significant_statements:
+  - The court grants Defendant's Motion to Compel Arbitration
+  - The arbitration agreement between Lyft and its users is valid and enforceable
+  - The court stays litigation pending arbitration
+```
+
+And here is a summary of the judge's tentative ruling in English text:
+
+The court has granted Lyft's motion to compel arbitration in this case. The court found that Lyft has met its burden of proving a valid arbitration agreement exists between itself and the plaintiff, Tammy Annette Gillispie. The arbitration agreement was presented to the plaintiff when she accepted Lyft's Terms of Service, and she was required to click to demonstrate consent and agreement to be bound by the Terms of Service before continuing to use the Lyft app. The court noted that the arbitration agreement is governed by the Federal Arbitration Act (FAA) and Delaware law, and that it is valid and enforceable. As a result, the court has stayed litigation pending arbitration.
