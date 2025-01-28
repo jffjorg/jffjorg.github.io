@@ -1,0 +1,53 @@
+Here is the summary in YAML format:
+
+```
+Case Number: 123456
+Plaintiff's Name: John Doe
+Defendant's Name: Jane Smith
+People-Names:
+  - John Doe
+  - Jane Smith
+Company-Names: None
+Places: None
+Dates:
+  - 2022-02-01 (hearing date)
+  - 2020-01-01 (start of representation)
+Events:
+  - Representation agreement
+  - Attorneys' fees dispute
+Money:
+  - Attorney's fees (amount not specified)
+  - Costs advanced by attorney (amount not specified)
+Intentions:
+  - Determine reasonable attorney's fees
+  - Consider factors in California Rules of Court, rule 7.955(b)
+Facts:
+  - John Doe was represented by Jane Smith in a legal matter
+  - Jane Smith seeks payment for attorneys' fees
+  - The representation agreement has ended
+Disputes:
+  - Reasonableness of attorneys' fees
+  - Amount of costs advanced by attorney
+Acts:
+  - Representation of John Doe by Jane Smith
+  - Dispute over attorneys' fees
+Agreements:
+  - Representation agreement between John Doe and Jane Smith
+Laws:
+  - California Rules of Court, rule 7.955(b)
+  - Statutory requirements for representation agreements
+Case Citations: None
+Statutes: None
+Roles:
+  - Judge: [Your Name]
+  - Plaintiff: John Doe
+  - Defendant: Jane Smith
+  - Attorney: Jane Smith
+Significant Statements:
+  - The court will consider the factors in California Rules of Court, rule 7.955(b) when determining reasonable attorneys' fees.
+  - The court will consider the amount of costs advanced by the attorney and the delay in payment of fees.
+```
+
+And here is a summary of the judge's tentative ruling in English text:
+
+Based on the information presented, the court will consider the factors in California Rules of Court, rule 7.955(b) when determining reasonable attorneys' fees for Jane Smith, the attorney who represented John Doe in a legal matter. The court will consider the amount of the fee in proportion to the value of the services performed, the novelty and difficulty of the questions involved, and the amount involved and the results obtained, among other factors. The court will also consider the amount of costs advanced by the attorney and the delay in payment of fees. The court's goal is to determine a reasonable and fair attorneys' fee for Jane Smith's services.
