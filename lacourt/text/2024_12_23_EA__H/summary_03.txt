@@ -1,0 +1,81 @@
+Here is the summary in YAML format:
+
+```
+Case Number: 24PSCV03718
+Plaintiff's Name: Blue Sky Utility 2021 XIII LLC and Blue Sky Utility LLC
+Defendant's Name: Bright Power, Inc.
+People-Names:
+  - Martin Glickfeld
+  - Brian Peterson
+  - Allon Raveh
+  - Michael Medina
+  - Deborah Wilson
+Company-Names:
+  - Blue Sky Utility 2021 XIII LLC
+  - Blue Sky Utility LLC
+  - Bright Power, Inc.
+  - ROIC Diamond Hills Plaza, LLC
+Places:
+  - Diamond Hills Plaza
+  - Diamond Bar
+  - Los Angeles
+  - California
+Dates:
+  - May 6, 2021
+  - March 10, 2022
+  - September 23, 2024
+  - October 10, 2024
+  - October 21, 2024
+  - November 8, 2024
+  - November 14, 2024
+  - November 15, 2024
+  - December 23, 2024
+  - April 16, 2025
+Events:
+  - Recording of Claim of Lien
+  - Execution of Form of Final Completion Certificate
+  - Sending of correspondence
+  - Recordation of Mechanic's Lien Release
+  - Recordation of Amended Release
+Money:
+  - $1,862,616.25 (amount of Claim of Lien)
+Intentions:
+  - Plaintiffs seek to expunge mechanic's lien and obtain declaratory relief
+Facts:
+  - Blue Sky Utility 2021 XIII LLC and Blue Sky Utility LLC leased premises at Diamond Hills Plaza from ROIC Diamond Hills Plaza, LLC
+  - Blue Sky Utility 2021 XIII LLC and Bright Power, Inc. entered into a contract for engineering, design, construction, and installation of a solar voltaic facility at Diamond Hills Plaza
+  - The contract was modified and reduced by 55.6%
+  - BPI recorded a Claim of Lien on September 23, 2024
+  - BPI refused to release the Claim of Lien, which placed Plaintiffs at risk of an Event of Default under the Lease
+Disputes:
+  - Plaintiffs dispute the validity and enforceability of the Claim of Lien
+  - BPI disputes the claim that the Claim of Lien is untimely and invalid
+Acts:
+  - Recording of Claim of Lien
+  - Execution of Form of Final Completion Certificate
+  - Sending of correspondence
+  - Recordation of Mechanic's Lien Release
+  - Recordation of Amended Release
+Agreements:
+  - Site Lease Agreement between Blue Sky Utility 2021 XIII LLC, Blue Sky Utility LLC, and ROIC Diamond Hills Plaza, LLC
+  - Contract between Blue Sky Utility 2021 XIII LLC and Bright Power, Inc.
+Laws:
+  - California Code of Civil Procedure section 526
+  - California Civil Code section 8412
+  - California Civil Code section 8180
+  - Solit v. Tokai Bank, Ltd. New York Branch (1999) 68 Cal.App.4th 1435, 1444
+Statutes:
+  - California Code of Civil Procedure section 526
+  - California Civil Code section 8412
+  - California Civil Code section 8180
+Roles:
+  - Judge: presiding over the court case
+  - Plaintiff: represented by Blue Sky Utility 2021 XIII LLC and Blue Sky Utility LLC
+  - Defendant: represented by Bright Power, Inc.
+Significant Statements:
+  - The Court agrees that the November 15, 2024 Claim of Lien is untimely and invalid
+  - The Court finds that Plaintiffs have suffered and will continue to suffer irreparable harm and are under imminent risk of default on the Lease
+  - The Court is inclined to impose a permanent injunction restraining BPI from recording a claim of mechanic's lien on the subject property
+```
+
+Please note that the YAML format is used to represent the summary in a structured and machine-readable way.
