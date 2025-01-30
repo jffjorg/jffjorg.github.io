@@ -1,0 +1,63 @@
+Here is the summary in YAML format:
+
+```
+case_number: 22STCV17576
+plaintiff: EFT Global Holdings dba Sentar Pharmaceuticals
+defendant: Alternate Health Inc.
+people_names:
+  - Elizabeth Read
+  - Judge Rolf Treu
+places:
+  - California
+dates:
+  - May 27, 2022
+  - September 21, 2016
+  - October 12, 2017
+  - July 12, 2024
+  - December 2, 2024
+  - January 7, 2025
+  - January 17, 2025
+events:
+  - License Agreement
+  - Claim filed by Defendant
+  - Termination of License Agreement
+  - Motion to be Relieved as Counsel filed by Defendant
+money: None mentioned
+intentions:
+  - Defendant seeks to be relieved as counsel
+  - Plaintiff opposes motion
+facts:
+  - Defendant did not uphold its part of the License Agreement
+  - Defendant asserts that the Patent Rights are invalid or unenforceable
+  - License Agreement terminated on October 12, 2017
+  - Defendant's counsel passed away on July 12, 2024
+  - Defendant is unable to pay fees and costs for trial or travel expenses
+disputes:
+  - Prejudice to the client
+  - Disruption of the orderly process of justice
+acts:
+  - Counsel for Defendant filed a Motion to Be Relieved as Counsel
+  - No opposition or other response has been filed
+agreements:
+  - License Agreement between Plaintiff and Defendant
+laws:
+  - California Rules of Court, rule 3.1362
+  - Code of Civil Procedure section 284(1) and section 284(2)
+  - Cal. Rules Court, rule 3.1362, subds. (a) & (c)
+case_citations:
+  - Ramirez v. Sturdevant (1994) 21 Cal.App.4th 904, 915
+  - Caressa Camille, Inc. v. Alcoholic Beverage Control Appeals Bd. (2002) 99 Cal.App.4th 1094, 1101
+statutes:
+  - Code of Civil Procedure section 284(1)
+  - Code of Civil Procedure section 284(2)
+roles:
+  - Judge Rolf Treu (presiding judge)
+  - Elizabeth Read (counsel for Defendant)
+  - Counsel for Plaintiff (no appearance)
+significant_statements:
+  - Motion to be Relieved as Counsel is denied without prejudice
+```
+
+And here is a summary of the judge's tentative ruling in English text:
+
+The court has considered the Motion to be Relieved as Counsel filed by the Defendant's counsel, Elizabeth Read. The motion is denied without prejudice. The court finds that the defendant would be prejudiced by the withdrawal of counsel, as the trial is set for January 17, 2025, and the defendant does not have a reasonable time to obtain new counsel. Additionally, the court notes that a corporation cannot represent itself in a court of record, and therefore, the defendant needs to have counsel to represent it. The motion is denied without prejudice, which means that the defendant can refile the motion if it can provide a new counsel and show that it is not prejudiced by the withdrawal of its current counsel.

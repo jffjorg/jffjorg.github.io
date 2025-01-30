@@ -1,0 +1,72 @@
+Here is the summary in YAML format:
+
+```
+case_number: 2024-000001
+plaintiff_name: Tigran Galstyan
+defendant_name:
+  - Wing Lai
+  - Chi Man Wong
+  - Allstate Insurance Company
+people_names:
+  - Tigran Galstyan
+  - Wing Lai
+  - Chi Man Wong
+company_names:
+  - Allstate Insurance Company
+places:
+  - California
+dates:
+  - August 26, 2024
+events:
+  - Fire
+  - Demurrer
+  - Motion to Strike
+money:
+  - Subrogation claim
+intention:
+  - To assert a subrogation claim
+facts:
+  - Allstate lied about not pursuing a subrogation claim
+  - Plaintiff's real property was destroyed by a fire
+  - Defendant Lai's property was the origin of the fire
+disputes:
+  - Negligence
+  - Trespass
+  - Private nuisance
+  - Violation of Health & Safety Code § 13007, et seq.
+  - Promissory estoppel/fraud
+  - Negligent misrepresentation
+  - Concealment
+  - Violation of UCL
+acts:
+  - Allstate's alleged fraudulent and negligent statements
+  - Plaintiff's failure to obtain an investigator at an earlier time
+agreements:
+  - None mentioned
+laws:
+  - California Health & Safety Code § 13007, et seq.
+  - California Code of Civil Procedure
+  - California Evidence Code
+case_citations:
+  - Serrano v. Priest (1971) 5 Cal.3d 584, 591
+  - Hahn v. Mirda¿(2007) 147 Cal.App.4th 740, 747
+  - Aubry v. Tri-City Hospital Dist.¿(1992) 2 Cal.4th 962, 967
+  - Lazar v. Superior Court (1996) 12 Cal. 4th 631, 638
+  - Tarmann v. State Farm Mutual Auto. Ins. Co. (1991) 2 Cal.App.4th 153, 157
+  - Fox v. Pollack (1986) 181 Cal. App. 3rd 954, 962
+  - Charnay v. Cobert (2006) 145 Cal.App.4th 170, 185, fn. 14
+  - RSB Vineyards, LLC v. Orsi (2017) 15 Cal.App.5th 1089, 1102
+statutes:
+  - California Health & Safety Code § 13007, et seq.
+roles:
+  - Judge
+  - Plaintiff
+  - Defendant
+significant_statements:
+  - The demurrer is sustained, without leave to amend, particularly as the TAC is the fourth iteration of the complaint.
+  - The fifth and seventh causes of action for fraud/concealment are deficient because Plaintiff failed to specifically plead facts indicating fraudulent intent.
+```
+
+And here is a summary in English text:
+
+This is a tentative ruling by a judge on a demurrer filed by Allstate Insurance Company against the Third Amended Complaint (TAC) filed by Plaintiff Tigran Galstyan. The Plaintiff alleges that his real property was destroyed by a fire originating from Defendant Lai's property and that Allstate lied about not pursuing a subrogation claim. The judge has ruled that the fifth through eighth causes of action, which allege fraud, concealment, and negligent misrepresentation by Allstate, are deficient because they fail to specifically plead facts indicating fraudulent intent. Additionally, the judge has ruled that the sixth cause of action for negligent misrepresentation is defective because it is not an actionable form of deceit. The judge has also ruled that the UCL claim is merely derivative of the other unsuccessful claims and that the "tort of another" claim is not a "cause of action", but rather a theory to support a request for attorneys' fees. Therefore, the demurrer is sustained, without leave to amend, and Allstate's Motion to Strike is denied as moot.

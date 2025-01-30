@@ -1,0 +1,71 @@
+Here is the summary in YAML format:
+
+```
+case_number: 24PSCV01674
+plaintiff_name: James Rutherford
+defendant_names: Cisneros Mariscos Bar & Grill LLC, Xuedong Wang, Lan Shen, Does 1-10
+people_names:
+  - James Rutherford
+  - Xuedong Wang
+  - Lan Shen
+  - Cisneros
+  - Does 1-10 (anonymous defendants)
+company_names:
+  - Cisneros Mariscos Bar & Grill LLC
+  - Xuedong Wang, MD, PHD, a Prof. Corp. Defined Benefit Pension Plan
+  - Lan Shen, as trustee of the Xuedong Wang, MD, PHD, a Prof. Corp. Defined Benefit Pension Plan
+places:
+  - El Marisquero (Restaurant)
+  - 4136 Peck Rd, El Monte, CA 91732 (Restaurant location)
+  - Xuedong Wang, MD, PHD, a Prof. Corp. Defined Benefit Pension Plan (company)
+  - Lan Shen, as trustee of the Xuedong Wang, MD, PHD, a Prof. Corp. Defined Benefit Pension Plan (company)
+dates:
+  - April 14, 2024
+  - May 23, 2024
+  - July 16, 2024
+  - July 30, 2024
+  - January 7, 2025 (Hearing Date)
+events:
+  - Plaintiff visits the Restaurant
+  - Plaintiff files a complaint
+  - Clerk enters default against Xuedong Wang and Lan Shen
+  - Clerk enters default against Cisneros
+  - Plaintiff submits an application for default judgment
+money:
+  - Actual damages
+  - Deterrence damages
+  - Attorneys' fees
+  - Reasonable litigation costs
+intentions:
+  - Plaintiff seeks to enforce compliance with the ADA and Unruh Civil Rights Act
+  - Plaintiff seeks compensation for damages and relief
+facts:
+  - Plaintiff has multiple disabilities and relies on a wheelchair
+  - The Restaurant failed to comply with ADA Standards for Accessible Design
+  - Plaintiff alleges that the barriers deny him his right to enjoy accessible conditions
+disputes:
+  - Plaintiff vs. Cisneros Mariscos Bar & Grill LLC et al. on alleged violations of the Unruh Civil Rights Act
+acts:
+  - Plaintiff visits the Restaurant
+  - Plaintiff files a complaint
+  - Clerk enters default against defendants
+agreements:
+  - None
+laws:
+  - Unruh Civil Rights Act, California Civil Code § 51, et seq.
+  - Americans with Disabilities Act (ADA)
+  - Code of Civil Procedure § 579
+  - California Rules of Court, CRC 3.18000(a)(1) and (a)(2)
+case_citations:
+  - Greenup v. Rodman (1986) 42 Cal.3d 822, 824
+statutes:
+  - Unruh Civil Rights Act, California Civil Code § 51, et seq.
+  - Americans with Disabilities Act (ADA)
+  - Code of Civil Procedure § 579
+roles:
+  - Plaintiff: James Rutherford
+  - Defendant: Cisneros Mariscos Bar & Grill LLC et al.
+  - Judge: H James Rutherford
+significant_statements:
+  - The application for default judgment is denied without prejudice due to defects in the application
+  - Plaintiff is directed to submit a full and complete default judgment application addressing the issues noted.

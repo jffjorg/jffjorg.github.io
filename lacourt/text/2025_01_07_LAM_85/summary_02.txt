@@ -1,0 +1,56 @@
+Here is the summary in YAML format:
+
+```
+case_number: 21STCP04028
+plaintiff: Jablin
+defendant: Mabus
+people_names:
+  - Jablin
+  - Mabus
+  - Culver City
+company_names:
+  - None
+places:
+  - Culver City
+dates:
+  - Mabus v. Culver City ("Mabus I")
+events:
+  - Motion for attorney fees
+  - Untimeliness and procedural failure
+money:
+  - Attorney fees
+intentions:
+  - To request judicial notice of Mabus' motion for attorney fees
+  - To argue that Mabus is estopped from denying certain facts
+facts:
+  - Mabus failed to provide a courtesy copy of her opposition
+  - Jablin requests judicial notice of Mabus' motion for attorney fees
+disputes:
+  - Whether Jablin meets the elements of section 1021.5
+  - Whether Mabus is estopped from denying certain facts
+acts:
+  - Mabus' opposition was untimely and procedurally failed
+  - Jablin requests judicial notice of Mabus' motion for attorney fees
+agreements:
+  - None
+laws:
+  - Evidence Code §452(d)
+  - Section 1021.5
+case_citations:
+  - Mabus v. Culver City, et al.
+  - Jablin v. Mabus (this case)
+statutes:
+  - California Evidence Code §452(d)
+  - California Code of Civil Procedure §1021.5
+roles:
+  - Judge: reviewing the case and making a tentative ruling
+  - Jablin: plaintiff, requesting judicial notice and arguing the case
+  - Mabus: defendant, opposing Jablin's requests
+significant_statements:
+  - Jablin argues that the court should not consider Mabus' opposition due to untimeliness and procedural failure
+  - Jablin requests judicial notice of Mabus' motion for attorney fees in Mabus v. Culver City
+```
+
+And here is a summary of the judge's tentative ruling in English text:
+
+The judge is considering a case brought by Jablin against Mabus. Jablin argues that Mabus' opposition was filed late and failed to follow proper procedures, and therefore should not be considered by the court. Jablin also requests that the court take judicial notice of Mabus' motion for attorney fees in a related case, Mabus v. Culver City. The judge grants this request. The judge does not need to decide whether Jablin meets the requirements of California Code of Civil Procedure section 1021.5, which allows for attorney fees in certain cases, because Mabus has not met the requirements for filing an opposition.
