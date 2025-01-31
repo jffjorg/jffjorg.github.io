@@ -1,0 +1,63 @@
+Here is the summary in YAML format:
+
+```
+---
+Case Number: 24STCV15076
+Plaintiff's Name: Farhad Yaghoubi
+Defendant's Name: Clarence Tate
+People-Names:
+  - Farhad Yaghoubi
+  - Clarence Tate
+Company-Names: None
+Places: None
+Dates:
+  - June 17, 2024
+  - August 14, 2024
+  - December 4, 2024
+  - December 5, 2024
+  - December 10, 2024
+  - January 13, 2025
+  - February 10, 2025
+Events:
+  - Oral month-to-month tenancy terminated for at-fault just cause
+  - Plaintiff files Complaint
+  - Defendant files notice of stay of proceedings
+  - Defendant files demurrer
+  - Plaintiff files opposition
+  - Court advances hearing date on demurrer
+  - Defendant files for bankruptcy
+Money: None
+Intentions:
+  - Defendant intends to challenge Plaintiff's Complaint
+  - Court intends to continue demurrer due to automatic stay
+Facts:
+  - Plaintiff and Defendant entered into oral month-to-month tenancy
+  - Tenancy was terminated for at-fault just cause
+  - Defendant filed for bankruptcy
+Disputes:
+  - Dispute over validity of Plaintiff's Complaint
+Acts:
+  - Plaintiff filed Complaint
+  - Defendant filed notice of stay of proceedings and demurrer
+  - Plaintiff filed opposition
+  - Defendant filed for bankruptcy
+  - Court advanced hearing date on demurrer
+Agreements:
+  - Oral month-to-month tenancy
+Laws:
+  - 11 U.S.C. section 362(a)
+Case Citations: None
+Statutes:
+  - 11 U.S.C.
+Roles:
+  - Judge
+  - Plaintiff (Farhad Yaghoubi)
+  - Defendant (Clarence Tate)
+Significant Statements:
+  - "Defendant filed for bankruptcy and this matter is subject to the automatic stay."
+  - "On the Court's own motion, the demurrer scheduled for January 13, 2025, is continued to February 10, 2025."
+```
+
+And here is a summary in English text:
+
+This tentative ruling addresses the demurrer filed by Defendant Clarence Tate to Plaintiff Farhad Yaghoubi's Complaint. The Complaint alleges an unlawful detainer due to a terminated oral month-to-month tenancy. The Defendant filed a notice of stay of proceedings due to an automatic stay caused by his bankruptcy filing, which automatically stays all state and federal proceedings outside of bankruptcy court against the debtor and their property. The Court has continued the demurrer scheduled for January 13, 2025, to February 10, 2025, due to the automatic stay.
