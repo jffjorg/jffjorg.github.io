@@ -1,0 +1,43 @@
+Here is the summary in YAML format:
+
+```
+Case Number: not specified
+Plaintiff's Name: not specified
+Defendant's Name: not specified
+People-Names:
+  - Ferreira
+  - Protic
+Company-Names: none
+Places: none
+Dates: none
+Events:
+  - Notice of Restitution hearing
+  - Statements made in the police report
+Money: not specified
+Intentions:
+  - Moving Parties to reference matters regarding the underlying incident
+  - Plaintiff to reference matters regarding the underlying incident
+Facts:
+  - Plaintiff did not allege certain matters in the FAC
+  - Moving Parties referenced these matters in their motion
+Disputes:
+  - Whether the Court can consider certain arguments on a motion to strike
+Acts:
+  - Plaintiff references matters not alleged in the FAC
+  - Moving Parties references matters not alleged in the FAC
+Agreements: none
+Laws:
+  - Code Civ. Proc., § 437, subd. (a)
+Statutes:
+  - Code Civ. Proc., § 437
+Roles:
+  - Judge
+  - Moving Parties
+  - Plaintiff
+Significant Statements:
+  - The Court may not consider certain arguments on a motion to strike
+```
+
+And here is a summary of the judge's tentative ruling in English text:
+
+The judge is considering a motion to strike and has reviewed the information presented by both parties. The judge notes that the plaintiff has referenced matters not alleged in the original complaint (FAC) and that the moving parties have done the same. The judge rules that the court cannot consider these arguments on a motion to strike, as they do not appear on the face of the pleading or are not subject to judicial notice. Specifically, the judge cannot consider statements made in the police report, a Notice of Restitution hearing, or other matters not alleged in the FAC.
