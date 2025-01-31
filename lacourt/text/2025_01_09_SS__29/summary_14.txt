@@ -1,0 +1,56 @@
+Here is a summary of the tentative ruling in YAML format:
+
+```
+case_number: 24STCV00120
+plaintiff_name: Panning
+defendant_name: Plascencia
+people_names:
+  - Juan Plascencia
+companies_names: []
+places:
+  - California (Dept 29)
+dates:
+  - December 6, 2024
+  - December 26, 2024
+  - January 9, 2025
+events:
+  - IDC (discovery conference) on December 6, 2024
+  - Service of verified responses on December 26, 2024
+  - Hearing on January 9, 2025
+money: []
+intentions:
+  - Compel further responses to discovery requests
+  - Deem defendant to have admitted specified matters
+  - Award sanctions to plaintiff
+facts:
+  - Defendant did not attend IDC on December 6, 2024
+  - Defendant served verified responses on December 26, 2024
+  - Plaintiff has suspicions about verifications
+  - Plaintiff properly served discovery on September 2, 2024
+disputes:
+  - Failure to serve timely responses
+  - Failure to verify responses
+  - Failure to attend IDC
+  - Request for deemed-admitted order
+acts:
+  - Filing of motions to compel (Set One)
+  - Service of verified responses on December 26, 2024
+  - Filing of opposition to motion to compel
+agreements: []
+laws:
+  - Civil Procedure Code (code-compliant responses)
+  - Rules of Civil Procedure (IDC)
+case_citations: []
+statutes: []
+roles:
+  - Plaintiff
+  - Defendant
+  - Judge
+significant_statements:
+  - "Most if not all of the issues raised by these motions could have been resolved through the IDC process."
+  - "Insisting on verified, code-compliant responses to discovery is not a misuse of the discovery process."
+```
+
+And here is a summary of the tentative ruling in English text:
+
+The court will consider the plaintiff's motion to compel further responses to discovery requests (Set One) and will ask counsel to discuss several issues. The court is concerned about the defendant's failure to attend the discovery conference (IDC) on December 6, 2024, and believes that most issues could have been resolved through the IDC process. The court also wants to know if the defendant served verified responses to the discovery requests on December 26, 2024, and if there are any issues with these responses. The court notes that plaintiff has suspicions about the verifications and suggests that any issues regarding the verifications could be addressed through the deposition of the defendant. The court also wants to know if the defendant plans to bring a motion to relieve the waiver of objections and why it hasn't been filed yet. Finally, the court is unsure about the basis for awarding sanctions to the plaintiff if the defendant resolves all or most of the issues before the hearing.
