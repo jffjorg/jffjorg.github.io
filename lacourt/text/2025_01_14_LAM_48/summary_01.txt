@@ -1,0 +1,66 @@
+Here is the summary in YAML format:
+
+```
+case_number: 22STCV34888
+plaintiff_name: Daniel Husband
+defendant_name: Target Corporation, et al.
+people_names:
+  - Daniel Husband
+  - Thomas D. Long
+company_names:
+  - Target Corporation
+places:
+  - Los Angeles
+  - California
+dates:
+  - October 14, 2024
+  - October 28, 2024
+  - November 12, 2024
+  - January 14, 2025
+events:
+  - Judgment entered in favor of Target Corporation
+  - Defendant filed memorandum of costs
+  - Plaintiff filed motion to tax costs
+  - Court hearing on January 14, 2025
+money:
+  - Costs
+intention:
+  - To tax costs
+facts:
+  - Target Corporation was awarded judgment in favor
+  - Plaintiff filed motion to tax costs
+  - Defendant filed memorandum of costs
+disputes:
+  - Whether Target Corporation should recover costs
+  - Whether plaintiff's action was frivolous, unreasonable, or groundless
+acts:
+  - Plaintiff filed motion to tax costs
+  - Defendant filed memorandum of costs
+agreements:
+  - Government Code, Section 12965
+  - Code of Civil Procedure Section 1032
+  - Code of Civil Procedure Section 998
+laws:
+  - Government Code, Section 12965
+  - Code of Civil Procedure Section 1032
+  - Code of Civil Procedure Section 998
+case_citations:
+  - Williams v. Chino Valley Independent Fire Dist. (2015)
+  - Neeble-Diamond v. Hotel California By the Sea, LLC (2024)
+statutes:
+  - Government Code, Section 12965
+  - Code of Civil Procedure Section 1032
+  - Code of Civil Procedure Section 998
+roles:
+  - Judge: Hon. Thomas D. Long
+  - Plaintiff: Daniel Husband
+  - Defendant: Target Corporation, et al.
+significant_statements:
+  - The motion to tax costs is GRANTED.
+  - Defendant shall not recover its costs in this action.
+  - The prohibition on recovery of fees and costs applies to FEHA actions.
+```
+
+And here is a summary of the judge's tentative ruling in English text:
+
+The judge has ruled that the plaintiff's motion to tax costs is granted. As a result, the defendant, Target Corporation, shall not recover its costs in this action. The ruling is based on the fact that the defendant's costs were filed in an ineffective manner, as a cost memorandum is not a valid means of seeking costs in a Fair Employment and Housing Act (FEHA) case. The judge also noted that the defendant's failure to file a motion for discretionary costs, as required by law, has forfeited its claim for costs.
