@@ -1,0 +1,71 @@
+Here is the summary in YAML format:
+
+```
+case_number: 22CHCV01116
+plaintiff_names:
+  - Anderson Boyce
+  - Rosie Boyce
+defendant_names:
+  - Jason McCune
+  - Andrea McCune
+people_names:
+  - Jason McCune
+  - Andrea McCune
+  - Anderson Boyce
+  - Rosie Boyce
+  - Jessica Skinfield
+company_names: []
+places:
+  - neighboring properties
+  - adjacent properties
+  - court
+dates:
+  - 1/17/25
+  - 1/27/25
+  - 1/31/25
+  - 10/21/24
+  - 10/14/24
+  - 12/9/24
+  - 12/2/24
+  - 12/18/24
+events:
+  - Motion to Continue Trial
+  - Trial date set
+  - Continuance of trial date
+  - FSC (Final Status Conference)
+  - Work schedule conflicts
+money: []
+intentions:
+  - To continue the trial date
+  - To resolve the dispute
+  - To find a suitable trial date
+facts:
+  - Dispute between neighboring property owners
+  - Trial originally scheduled for 10/21/24
+  - Trial continued to 12/9/24 and then 1/27/25
+  - McCunes unavailable on 1/27/25 due to work schedule conflicts
+disputes:
+  - Dispute between neighboring property owners
+acts:
+  - Filed and served the instant motion
+  - Continued the trial date
+  - Opposed the motion
+agreements:
+  - None mentioned
+laws:
+  - CRC 3.1332(c)(2), (d)
+case_citations: []
+statutes: []
+roles:
+  - Judge
+  - Plaintiff
+  - Defendant
+significant_statements:
+  - The Court finds that the McCunes have shown good cause for a continuance of the trial date.
+  - The motion is granted.
+  - The trial date will be continued to the Court's next available date after 1/31/25.
+```
+
+And here is a summary of the judge's tentative ruling in English text:
+
+The judge has granted the motion filed by the defendants, Jason and Andrea McCune, to continue the trial date from January 27, 2025, to the court's next available date after January 31, 2025. The motion was filed on December 18, 2024, due to the defendants' unavailability on the current trial date due to work schedule conflicts. The plaintiffs, Anderson and Rosie Boyce, do not oppose a one to two week continuance of the trial date. The judge finds that the defendants have shown good cause for a continuance of the trial date and grants the motion.
