@@ -1,0 +1,59 @@
+Here is the summary of the tentative ruling in YAML format:
+
+```
+Case Number: 20STCV49467
+Plaintiff's Name: Westside Contractors, Inc.
+Defendant's Name: Regency Plastering, Inc. (Gelt Brian Nicholas et al.)
+People-Names:
+  - Westside Contractors, Inc.
+  - Regency Plastering, Inc.
+  - Gelt Brian Nicholas
+Company-Names:
+  - Westside Contractors, Inc.
+  - Regency Plastering, Inc.
+Places:
+  - Los Angeles
+  - California
+Dates:
+  - January 21, 2025
+Events:
+  - Cross-complainant's request for entry of court judgment by default
+  - Hearing date: January 21, 2025
+Money:
+  - $3,341,307.66 (requested amount)
+  - $500,000 (prayed for in Cross-Complaint)
+  - $2,757,208.75 (damages)
+  - $528,024.36 (interest)
+  - $3,414.55 (costs)
+  - $52,660 (attorney's fees)
+Intentions:
+  - Westside Contractors, Inc. requests default judgment against Regency Plastering, Inc.
+Facts:
+  - Cross-complainant Westside Contractors, Inc. requests default judgment against cross-defendant Regency Plastering, Inc.
+  - The court finds that it cannot enter default judgment in the amount requested by Westside.
+Disputes:
+  - Amount of damages and interest requested by Westside
+Acts:
+  - Request for default judgment
+  - Prayer for damages in Cross-Complaint
+  - Revised interest computations
+Agreements:
+  - None mentioned
+Laws:
+  - California Code of Civil Procedure § 580
+  - Sass v. Cohen (2020) 10 Cal.5th 861
+  - Greenup v. Rodman (1986) 42 Cal.3d 822
+Statutes:
+  - California Code of Civil Procedure § 580
+Roles:
+  - Judge: Robert B. Broadbelt III
+  - Moving Party: Westside Contractors, Inc.
+  - Responding Party: n/a
+Significant Statements:
+  - "The relief granted to the plaintiff, if there is no answer, cannot exceed that demanded in the complaint . . . ."
+  - "Thus, 'in all default judgments, the demand sets a ceiling on recovery,' and a judgment purporting to grant relief beyond that ceiling is void for being in excess of jurisdiction."
+```
+
+And here is a summary of the judge's tentative ruling in English text:
+
+The court has denied Westside Contractors, Inc.'s request for default judgment against Regency Plastering, Inc. in the amount of $3,341,307.66. The court found that the requested amount exceeds the demand set forth in the complaint, which is limited to $500,000. The court notes that the demand sets a ceiling on recovery and a judgment purporting to grant relief beyond that ceiling is void for being in excess of jurisdiction. The court has denied the request without prejudice, allowing Westside to file new default judgment documents that request damages in an amount equal to or less than $500,000 and are supported by revised interest computations.
