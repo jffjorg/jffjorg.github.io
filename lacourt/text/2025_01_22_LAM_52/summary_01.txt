@@ -1,0 +1,59 @@
+Here is the summary in YAML format:
+
+```
+case_number: 22STCV28415
+plaintiff_name: Gail Wiggan
+defendant_name: Interinsurance Exchange of the Automobile Club
+people_names:
+  - Gail Wiggan
+  - Defendant's counsel (Bhatia)
+company_names:
+  - Interinsurance Exchange of the Automobile Club
+places:
+  - None
+dates:
+  - July 15, 2024
+  - December 2, 2024
+  - January 22, 2025
+events:
+  - Service of requests for admission
+  - Failure to serve timely response
+  - Motion to deem matters admitted
+  - Hearing
+money:
+  - $1,740 (sanctions)
+intentions:
+  - To deem admitted the truth of the matters specified in Interinsurance's requests for admission
+  - To impose sanctions on plaintiff for failure to serve timely response
+facts:
+  - Plaintiff failed to serve a timely response to Interinsurance's requests for admission
+  - Interinsurance served its requests for admission on July 15, 2024
+  - Plaintiff had not served any responses as of December 2, 2024
+disputes:
+  - None
+acts:
+  - Service of requests for admission
+  - Failure to serve timely response
+  - Execution of declaration in support of motion
+agreements:
+  - None
+laws:
+  - CCP § 2033.280(b)
+  - CCP § 2033.280(c)
+case_citations:
+  - None
+statutes:
+  - CCP § 2033.280
+roles:
+  - Judge
+  - Plaintiff (Gail Wiggan)
+  - Defendant (Interinsurance Exchange of the Automobile Club)
+  - Counsel (Bhatia)
+significant_statements:
+  - Plaintiff's failure to serve a timely response necessitated the motion
+  - The court must impose sanctions for failure to serve timely response
+```
+
+And here is the English-text summary of the judge's tentative ruling:
+
+The defendant Interinsurance Exchange of the Automobile Club is granted its motion to deem admitted the truth of the matters specified in its requests for admission, set one, to plaintiff Gail Wiggan. This is because plaintiff failed to serve a timely response to the requests, which Interinsurance served on July 15, 2024. As a result, Interinsurance is entitled to an order deeming admitted the truth of the matters specified in the requests. Additionally, the court must impose sanctions against plaintiff for her failure to serve a timely response. The sanctions will be in the amount of $1,740, which plaintiff must pay within 30 days.

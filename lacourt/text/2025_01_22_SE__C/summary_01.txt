@@ -1,0 +1,74 @@
+Here is the summary in YAML format:
+
+```
+case_number: 21STCV29691
+plaintiff_name: Eduardo Hernandez
+defendant_names:
+  - Simplified Labor Staffing Solutions, Inc.
+  - ET AL
+  - Econo Door Repair Services
+  - Damco Distribution Services, Inc.
+people_names:
+  - Eduardo Hernandez
+  - Judge (no name mentioned)
+company_names:
+  - MAERSK
+  - MAERSK, Inc.
+  - MAERSK Line Limited
+  - MAERSK Agency, Inc.
+  - Simplified Labor Staffing Solutions, Inc.
+  - Econo Door Repair Services
+  - Damco Distribution Services, Inc.
+places: None mentioned
+dates:
+  - August 11, 2021
+  - April 10, 2024
+  - September 23, 2024
+  - December 4, 2024
+  - December 10, 2024
+  - February 19, 2025
+  - January 22, 2025
+events:
+  - Filing of personal injury action
+  - Discovery responses
+  - Amendment of complaint
+  - Motion to dismiss for lack of prosecution
+  - Motion for relief to file late opposition
+money: None mentioned
+intentions:
+  - To file a late opposition to the motion to dismiss for lack of prosecution
+facts:
+  - Plaintiff filed a personal injury action on August 11, 2021
+  - Plaintiff's counsel did not calendar the correct deadline to file an opposition
+  - Plaintiff filed a motion for relief to file a late opposition on December 4, 2024
+  - The opposition was filed on December 10, 2024
+disputes:
+  - Plaintiff's motion to file a late opposition to the motion to dismiss for lack of prosecution
+acts:
+  - Filing of the motion to dismiss for lack of prosecution by Econo Door Repair Services
+  - Filing of the motion for relief to file a late opposition by Plaintiff
+agreements:
+  - Code of Civil Procedure section 473
+  - Code of Civil Procedure section 1005
+  - Cal. Rules of Court, rule 3.1242(b)
+laws:
+  - Code of Civil Procedure section 473
+  - Code of Civil Procedure section 1005
+  - Cal. Rules of Court, rule 3.1242(b)
+case_citations: None mentioned
+statutes:
+  - Code of Civil Procedure section 473
+  - Code of Civil Procedure section 1005
+roles:
+  - Plaintiff: Eduardo Hernandez
+  - Defendant: Econo Door Repair Services
+  - Judge: (no name mentioned)
+significant_statements:
+  - Plaintiff's counsel did not calendar the correct deadline to file an opposition
+  - The Court finds Plaintiff's counsel has demonstrated mistake, inadvertence, or excusable neglect within the meaning of Code of Civil Procedure section 473.
+  - Plaintiff's motion for relief to file a late opposition is GRANTED.
+```
+
+And here is a summary of the judge's tentative ruling in English text:
+
+The Court has granted Plaintiff Eduardo Hernandez's motion to file a late opposition to Defendant Econo Door Repair Services' motion to dismiss for lack of prosecution. The Court found that Plaintiff's counsel demonstrated mistake, inadvertence, or excusable neglect in not calendaring the correct deadline to file an opposition. Despite this error, Plaintiff filed its opposition to Econo's motion to dismiss soon after realizing the mistake. The Court determined that Plaintiff's counsel's mistake was excusable and that Econo will not be prejudiced by a late-filed opposition. Therefore, the Court granted Plaintiff's motion for relief under Code of Civil Procedure section 473 to file a late opposition to Econo's motion to dismiss.
