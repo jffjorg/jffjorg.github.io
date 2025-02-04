@@ -51,3 +51,153 @@ Significant Statements:
 And here is the English-text summary:
 
 The tentative ruling sets aside the scheduled hearing on a motion to vacate the default and case management conference due to lack of filed papers by the defendant. The default prove-up hearing remains scheduled for September 29, 2023. The plaintiff is ordered to give notice. Parties intending to submit on this tentative must email the court by the specified instructions. If no email is received and there are no appearances at the hearing, the motion may be placed off calendar.
+..................... .....................
+On 2025-02-04_12:30:03.149587
+The summary displayed below was created by an LLM named:  "gemma2-9b-it":
+## Tentative Ruling Summary in YAML
+
+**Case Number:** 23LBCV00301
+**Plaintiff's Name:** Not provided
+**Defendant's Name:** Not provided
+**People-Names:** Cheri Hernandez
+**Company-Names:** Not provided
+**Places:** Los Angeles 
+**Dates:** 
+    * 7/24/23: Initial hearing scheduled for default judgment prove-up
+    * 9/19/23: Hearing on motion to vacate default (originally scheduled)
+    * 9/29/23: Default prove-up hearing remains scheduled
+**Events:**
+    * Defendant appeared in court on 7/24/23 and expressed intent to retain an attorney and vacate the default.
+    * Court specially set a hearing on the motion to vacate for 9/19/23.
+    * Defendant failed to file any moving papers by 9/19/23.
+    * Court took the motion and case management conference off calendar due to lack of filed papers.
+**Money:** Not mentioned
+**Intentions:**
+    * Defendant intends to retain an attorney and vacate the default.
+    * Plaintiff intends to proceed with the default judgment prove-up.
+**Facts:** 
+    * Default judgment was entered against Defendant.
+**Disputes:**
+    * Whether the default judgment should be vacated.
+**Acts:**
+    * Defendant appeared in court on 7/24/23.
+    * Court scheduled a hearing on the motion to vacate default.
+    * Defendant failed to file any moving papers.
+    * Court took the motion and case management conference off calendar.
+**Agreements:** None mentioned
+**Laws:** Not specified
+**Case Citations:** Not provided
+**Statutes:** Not provided
+**Roles:**
+    * Judge: Presiding over the case and issuing tentative rulings.
+    * Plaintiff: Party who filed the lawsuit.
+    * Defendant: Party being sued.
+    * Cheri Hernandez: Representative of Defendant.
+**Significant Statements:**
+    * "Defendant, through its representative, Cheri Hernandez, appeared in court and indicated an intention to retain an attorney and move to vacate the default."
+
+
+
+## English Summary 
+
+The Judge's tentative ruling states that a hearing scheduled for September 19th, 2023, on a motion to vacate a default judgment against the Defendant has been taken off calendar. This is because the Defendant, despite being ordered to do so, failed to file any necessary documents to support their motion. 
+
+The default judgment prove-up hearing, originally scheduled for July 24th, 2023 and then continued to September 29th, 2023, remains on schedule. The Plaintiff is responsible for notifying all parties involved. 
+
+
+
+..................... .....................
+On 2025-02-04_12:30:28.962499
+The summary displayed below was created by an LLM named:  "llama3-8b-8192":
+Here is the summary of the Tentative Ruling in YAML format:
+
+```
+Case Number: 23LBCV00301
+Plaintiff's Name: None specified
+Defendant's Name: None specified
+People-Names:
+  - Cheri Hernandez (Defendant's representative)
+Company-Names: None
+Places: Los Angeles County
+Dates:
+  - July 24, 2023
+  - September 19, 2023
+  - September 29, 2023
+Events:
+  - Default judgment prove-up scheduled
+  - Defendant's representative appears in court
+  - Motion to vacate default filed
+  - Case management conference scheduled
+  - Default prove-up hearing remains scheduled
+Money: None
+Intentions:
+  - Defendant intends to retain an attorney and move to vacate default
+  - Parties intend to submit on tentative ruling
+Facts:
+  - No moving papers filed by Defendant
+  - Court sets hearing on motion to vacate default
+  - Default prove-up hearing remains scheduled
+Disputes:
+  - Dispute over default judgment
+Acts:
+  - Defendant's representative appears in court
+  - Court sets hearing on motion to vacate default
+  - Plaintiff is ordered to give notice
+Agreements: None
+Laws: None specified
+Case Citations: None
+Statutes: None
+Roles:
+  - Judge
+  - Plaintiff
+  - Defendant
+  - Defendant's representative (Cheri Hernandez)
+Significant Statements:
+  - The Court is taking today's motion and case management conference off calendar
+  - Parties who intend to submit on the tentative must send an email to the court
+  - If a party submits on the tentative, the party's email must include the case number and must identify the party submitting on the tentative
+```
+
+And here is a summary of the Tentative Ruling in English text:
+
+The Court has issued a Tentative Ruling in a case where a default judgment was entered. The Defendant's representative, Cheri Hernandez, appeared in court on July 24, 2023, and indicated an intention to retain an attorney and move to vacate the default. The Court set a hearing on the motion to vacate the default for September 19, 2023. However, to date, the Defendant has not filed any moving papers. As a result, the Court is taking today's motion and case management conference off calendar. The default prove-up hearing remains scheduled for September 29, 2023. The Plaintiff is ordered to give notice. The Court also requires parties who intend to submit on the tentative ruling to send an email to the court indicating their intention to submit as directed by the court's website.
+..................... .....................
+On 2025-02-04_12:30:54.203136
+The summary displayed below was created by an LLM named:  "llama-3.3-70b-specdec":
+Exception:
+Error code: 429 - {'error': {'message': 'Rate limit reached for model `llama-3.3-70b-specdec` in organization `org_01hw84cjv0f12v63qt47723ar2` service tier `on_demand` on : Limit 100000, Used 100147, Requested 480. Please try again in 9m1.943s. Visit https://console.groq.com/docs/rate-limits for more information.', 'type': '', 'code': 'rate_limit_exceeded'}}
+..................... .....................
+On 2025-02-04_12:40:55.480523
+The summary displayed below was created by an LLM named:  "mixtral-8x7b-32768":
+case\_number: 23LBCV00301
+hearing\_date: September 19, 2023
+dept: S27
+people:
+- name: Cheri Hernandez
+events:
+- date: July 24, 2023
+description: Court was scheduled to hear a default judgment prove-up
+- date: September 19, 2023
+description: Hearing on a motion to vacate the default
+disputes:
+- defendant's intention to retain an attorney and move to vacate the default
+acts:
+- defendant's appearance in court on July 24, 2023
+- court's special setting of a hearing on motion to vacate the default for September 19, 2023
+- court's taking of the motion and case management conference off calendar due to lack of filed papers
+- court's order for plaintiff to give notice
+agreements: None
+laws: None
+case\_citations: None
+statutes: None
+roles:
+- plaintiff
+- defendant
+significant\_statements:
+- "Defendant has not filed any moving papers."
+- "The default prove-up hearing remains scheduled for 9/29/23."
+- "Parties who intend to submit on this tentative must send an email to the court..."
+
+---
+
+On July 24, 2023, the court was scheduled to hear a default judgment prove-up. Defendant, represented by Cheri Hernandez, appeared in court and indicated an intention to retain an attorney and move to vacate the default. The court specially set a hearing on a motion to vacate the default for September 19, 2023. However, as of the date of the tentative ruling, defendant has not filed any moving papers. Therefore, the court is taking the motion and case management conference off calendar. The default prove-up hearing remains scheduled for September 29, 2023. Plaintiff is ordered to give notice. Parties who intend to submit on this tentative must send an email to the court. If the department does not receive an email indicating the parties are submitting on the tentative and there are no appearances at the hearing, the motion may be placed off calendar.

@@ -244,3 +244,65 @@ On 2025-02-04_11:40:19.077222
 The summary displayed below was created by an LLM named:  "llama-3.3-70b-specdec":
 Exception:
 Error code: 429 - {'error': {'message': 'Rate limit reached for model `llama-3.3-70b-specdec` in organization `org_01hw84cjv0f12v63qt47723ar2` service tier `on_demand` on : Limit 100000, Used 98790, Requested 2638. Please try again in 20m33.023s. Visit https://console.groq.com/docs/rate-limits for more information.', 'type': '', 'code': 'rate_limit_exceeded'}}
+..................... .....................
+On 2025-02-04_11:50:21.147667
+The summary displayed below was created by an LLM named:  "mixtral-8x7b-32768":
+case\_number: 21STCV24488
+hearing\_date: September 19, 2023
+dept: 56
+plaintiff: Kyle Madison
+defendants:
+  - Michael Theodore
+  - Casa Theodore, Inc.
+people:
+  - Kyle Madison
+  - Michael Theodore
+places:
+  - State of California
+  - County of Los Angeles
+  - Central District
+dates:
+  - March 10, 2023
+  - April 5, 2023
+  - April 7, 2023
+  - June 22, 2023
+  - July 7, 2023
+events:
+  - Granting of motion to compel responses to Requests for Production
+  - Denial of motion for protective order
+  - Filing of motion for relief from waiver of objections
+  - Filing of motion to compel further responses
+  - Hearing of both motions and issuance of minute order
+  - Filing of motion to compel further responses
+  - Consideration of the merits of the instant Motion
+  - Granting of the Motion
+money:
+  - $4,061 requested by Plaintiff in monetary sanctions
+  - $1,561.65 awarded by the Court to Plaintiff in monetary sanctions
+intentions:
+  - Enforcement of a previously issued judgment
+  - Compelling further responses to Requests for Production
+facts:
+  - Dispute over the enforcement of a previously issued judgment
+  - Allegations of statutory voidable transfers and common law voidable transfers
+disputes:
+  - Incomplete statements of compliance
+  - Inadequate, evasive or incomplete claims of inability to comply
+  - Unmerited or overly generalized objections
+agreements:
+  - Meet and confer requirement satisfied
+laws:
+  - California Code of Civil Procedure (CCP) section 2031.310
+roles:
+  - Moving Party: Plaintiff
+  - Responding Party: Defendants Michael Theodore and Casa Theodore, Inc.
+significant\_statements:
+  - "The Court has considered the moving, opposition and reply papers."
+  - "Based on the finding that Defendants were relieved of their waiver of the right to assert objections to the RFPs, the Court determined that the Plaintiff’s motion to compel further was moot and did not consider its arguments on the merits of Defendants’ asserted objections."
+  - "The Court will therefore consider the merits of the instant Motion."
+  - "Judgment debtor examinations serve an important function in our judicial system that may serve as a predicate for a court requiring the disclosure of tax records."
+  - "The Court GRANTS the Motion. Defendants are ordered to submit supplemental responses to the RFPs detailed in the Separate Statement filed in support of the instant Motion within 20 days of the date of this order."
+  - "The Court exercises its discretion and awards Plaintiff monetary sanctions in the reasonable amount of $1,561.65, which represents three hours preparing the Motion at a rate of $500 per hour and $61.65 in filing fees."
+
+English summary:
+The tentative ruling is for a case (21STCV24488) scheduled for a hearing on September 19, 2023, in Department 56 of the Superior Court of the State of California for the County of Los Angeles - Central District. The plaintiff, Kyle Madison, is in a dispute with the defendants, Michael Theodore and Casa Theodore, Inc., over the enforcement of a previously issued judgment. The plaintiff has filed a motion to compel further responses to Requests for Production, which the court has granted. The court has considered the moving, opposition, and reply papers and found that the defendants were relieved of their waiver of the right to assert objections to the RFPs. The plaintiff's motion to compel further was moot, but the court will consider the merits of the instant Motion. The court grants the motion and orders the defendants to submit supplemental responses to the RFPs within 20 days of the date of the order. The court also awards the plaintiff monetary sanctions in the amount of $1,561.65.
