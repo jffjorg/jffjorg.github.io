@@ -244,3 +244,53 @@ On 2025-02-04_11:04:33.969152
 The summary displayed below was created by an LLM named:  "llama-3.3-70b-specdec":
 Exception:
 Error code: 429 - {'error': {'message': 'Rate limit reached for model `llama-3.3-70b-specdec` in organization `org_01hw84cjv0f12v63qt47723ar2` service tier `on_demand` on : Limit 100000, Used 99738, Requested 1742. Please try again in 21m18.39s. Visit https://console.groq.com/docs/rate-limits for more information.', 'type': '', 'code': 'rate_limit_exceeded'}}
+..................... .....................
+On 2025-02-04_11:14:35.819163
+The summary displayed below was created by an LLM named:  "mixtral-8x7b-32768":
+case\_number: 22STCV21658
+hearing\_date: September 19, 2023
+dept: 48
+plaintiff: Commercial Waste Services Inc. (CWS)
+defendant: IPL Inc.
+people:
+- Thomas D. Long (Judge)
+places:
+- Superior Court of the State of California, Central District, Los Angeles County
+- United States District Court for the Central District of California
+events:
+- CWS filed a complaint against IPL for breach of contract and breach of implied warranty on July 5, 2022
+- IPL filed a demurrer on June 15, 2023
+- IPL argues that the action is barred by res judicata and the parties' settlement agreement
+- CWS argues that IPL cannot defend itself due to its forfeited status with the California Secretary of State
+- The Court will not make findings on CWS's request for judicial notice and IPL's supplemental request for judicial notice
+money:
+- IPL's dismissal of claims for unpaid invoices in a previous case is not a final decision on the merits of CWS's claims
+- CWS seeks general and consequential damages due to defective recycling and trash bins
+intentions:
+- IPL seeks to adjudicate issues on demurrer that are better suited for summary judgment or trial
+disputes:
+- Breach of contract and breach of implied warranty
+agreements:
+- Transfer and Settlement Agreement between CWS, IPL, and Universal Waste Systems, Inc.
+laws:
+- Res judicata
+case\_citations:
+- Hahn v. Mirda (2007) 147 Cal.App.4th 740, 747
+- Nolte v. Cedars-Sinai Medical Center (2015) 236 Cal.App.4th 1401, 1406
+- Arce ex rel. Arce v. Kaiser Found. Health Plan, Inc. (2010) 181 Cal.App.4th 471, 556
+- Frommhagen v. Board of Supervisors (1987) 197 Cal.App.3d 1292, 1299
+- Federation of Hillside & Canyon Assns. v. City of Los Angeles (2004) 126 Cal.App.4th 1180, 1202
+roles:
+- IPL: Defendant
+- CWS: Plaintiff
+significant\_statements:
+- The demurrer is overruled
+- IPL is ordered to file an answer within 10 days
+
+---
+
+This tentative ruling by Judge Thomas D. Long concerns the case 22STCV21658 between Commercial Waste Services Inc. (CWS) and IPL Inc. IPL filed a demurrer, arguing that the action is barred by res judicata and the parties' settlement agreement. However, CWS disputes IPL's ability to defend itself due to its forfeited status with the California Secretary of State.
+
+The court rules that the demurrer is overruled and IPL must file an answer within 10 days. IPL's request for judicial notice and CWS's request for judicial notice are denied as irrelevant. Res judicata does not bar this action, as the dismissal of IPL's claims for unpaid invoices in a previous case is not a final decision on the merits of CWS's claims. The court cannot take judicial notice of the settlement agreement as it is not mentioned in the complaint.
+
+The ruling also mentions that IPL is seeking to adjudicate issues on demurrer that are better suited for summary judgment or trial. If all parties submit on the tentative ruling, no appearances before the court are required unless a companion hearing is on the calendar.
