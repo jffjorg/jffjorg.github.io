@@ -54,3 +54,205 @@ Significant Statements:
 And here is the English-text summary:
 
 The tentative ruling grants Plaintiff Selective Way Insurance Company's Motion to Compel Answers to Form Interrogatories, Set One, and for Monetary Sanctions; and Motion Deeming Requests for Admission, Set One, Admitted and for Monetary Sanctions. The Defendant, Maria Ramos, is ordered to serve verified responses to the interrogatories without objection within 20 days of service of this order. The Defendant is also ordered to pay sanctions of $530.00 to Plaintiff's counsel within 20 days of service of this order. The Court finds that the Defendant's failure to respond to discovery requests constitutes a misuse of the discovery process, and the Plaintiff is entitled to an order compelling the Defendant to serve verified responses to the interrogatories and deeming the Requests for Admission admitted. The Court awards the Plaintiff monetary sanctions in the amount of $530.00.
+..................... .....................
+On 2025-02-04_03:38:39.954430
+The summary displayed below was created by an LLM named:  "gemma2-9b-it":
+## Tentative Ruling Summary in YAML
+
+```yaml
+Case Number: 22STLC03722
+Hearing Date: September 18, 2023
+Dept: 26 
+
+Plaintiff: Selective Way Insurance Company
+Defendant: Maria Ramos
+
+People-Names:
+  - Maria Ramos 
+  - Tapper (likely the attorney for Plaintiff)
+
+Company-Names:
+  - Selective Way Insurance Company
+
+Places: Not specified
+
+Dates:
+  - March 6, 2023 (discovery served)
+  - August 18, 2023 (motions filed)
+  - 20 days after service of this order (for responses and sanctions payment)
+
+Events:
+  - Plaintiff served Defendant with Form Interrogatories, Set One, and Requests for Admission, Set One.
+  - Defendant failed to respond to the discovery requests.
+  - Plaintiff filed motions to compel responses and deem admissions admitted.
+  - No opposition was filed to the motions.
+
+Money:
+  - $530.00 (sanctions awarded to Plaintiff)
+
+Intentions:
+  - Plaintiff seeks to compel Defendant to answer discovery requests and deem admissions admitted.
+  - Defendant intended to remain non-responsive to discovery.
+
+Facts:
+  - Defendant failed to respond to Plaintiff's discovery requests.
+
+Disputes:
+  - Dispute over Defendant's failure to respond to discovery.
+
+Acts:
+  - Plaintiff served discovery requests.
+  - Defendant failed to respond to discovery requests.
+  - Plaintiff filed motions to compel responses and deem admissions admitted.
+
+Agreements: Not specified
+
+Laws:
+  - Code of Civil Procedure §§ 2030.290, 2033.280, 2023.010, 2023.030
+
+Case Citations: Not specified
+
+Statutes:
+  - Code of Civil Procedure Sections 2030.290, 2033.280, 2023.010, 2023.030
+
+Roles:
+  - Plaintiff: Selective Way Insurance Company
+  - Defendant: Maria Ramos
+
+Significant Statements:
+  - "Defendant’s failure to timely respond to the requests also constitutes a misuse of the discovery process."
+  - "Plaintiff is entitled to an order compelling Defendant to serve verified responses to the interrogatories without objections."
+
+
+
+```
+
+## English Summary
+
+The judge has issued a tentative ruling in the case of *Selective Way Insurance Company v. Ramos*. 
+
+The plaintiff, Selective Way Insurance Company, filed motions to compel answers to discovery requests and to deem certain admissions admitted because the defendant, Maria Ramos, failed to respond.  Since no opposition was filed, the judge granted both motions.
+
+The judge also awarded  Plaintiff $530.00 in sanctions against Defendant for misuse of the discovery process. Defendant must respond to the discovery requests within 20 days of being served with this order, and must pay the sanctions within the same timeframe.
+
+
+
+
+..................... .....................
+On 2025-02-04_03:39:05.854500
+The summary displayed below was created by an LLM named:  "llama3-8b-8192":
+Here is the summary in YAML format:
+
+```
+Case Number: 22STLC03722
+Plaintiff's Name: Selective Way Insurance Company
+Defendant's Name: Maria Ramos
+People-Names:
+  - Maria Ramos
+Company-Names:
+  - Selective Way Insurance Company
+Places:
+  - None specified
+Dates:
+  - March 6, 2023
+  - August 18, 2023
+  - September 18, 2023
+Events:
+  - Motion to Compel Answers to Form Interrogatories
+  - Motion to Deem Requests for Admission Admitted
+  - Request for Sanctions
+  - Meet and Confer Effort
+  - Failure to Serve Initial Responses
+Money:
+  - $530.00 (sanctions)
+Intentions:
+  - Plaintiff seeks to compel Defendant to serve verified responses to interrogatories
+  - Plaintiff seeks to deem Defendant's admissions admitted
+  - Plaintiff seeks sanctions against Defendant for failure to respond
+Facts:
+  - Plaintiff propounded Form Interrogatories and Requests for Admission on March 6, 2023
+  - Defendant failed to serve initial responses
+  - Plaintiff filed motions to compel and deem admissions admitted on August 18, 2023
+  - No opposition was filed
+Disputes:
+  - Defendant's failure to respond to discovery requests
+Acts:
+  - Plaintiff filed motions to compel and deem admissions admitted
+  - Defendant failed to serve initial responses
+  - Court granted motions and ordered sanctions
+Agreements:
+  - Code of Civil Procedure sections 2030.290, 2033.280, and 2023.010
+Laws:
+  - Code of Civil Procedure sections 2030.290, 2033.280, and 2023.010
+Case Citations:
+  - Code Civ. Proc., §§ 2030.290; 2033.280
+Statutes:
+  - Code of Civil Procedure sections 2030.290, 2033.280, and 2023.010
+Roles:
+  - Plaintiff: Selective Way Insurance Company
+  - Defendant: Maria Ramos
+  - Plaintiff's Counsel
+Significant Statements:
+  - "Plaintiff is entitled to an order compelling Defendant to serve verified responses to the interrogatories without objections."
+  - "Sanctions are appropriate under Code of Civil Procedure sections 2033.280, 2023.010 and 2023.030 and have been properly noticed."
+```
+
+And here is a summary of the judge's tentative ruling in English text:
+
+The judge has granted Plaintiff Selective Way Insurance Company's motions to compel Defendant Maria Ramos to serve verified responses to Form Interrogatories and to deem Defendant's admissions admitted. The judge has also ordered Defendant to pay sanctions of $530.00 to Plaintiff's counsel within 20 days of service of the order. The judge's decision is based on Defendant's failure to serve initial responses to the discovery requests and to engage in a meet and confer effort before filing the motions. The judge has also deemed Defendant's failure to respond a misuse of the discovery process.
+..................... .....................
+On 2025-02-04_03:39:31.068345
+The summary displayed below was created by an LLM named:  "llama-3.3-70b-specdec":
+Exception:
+Error code: 429 - {'error': {'message': 'Rate limit reached for model `llama-3.3-70b-specdec` in organization `org_01hw84cjv0f12v63qt47723ar2` service tier `on_demand` on : Limit 100000, Used 100340, Requested 1009. Please try again in 19m25.963s. Visit https://console.groq.com/docs/rate-limits for more information.', 'type': '', 'code': 'rate_limit_exceeded'}}
+..................... .....................
+On 2025-02-04_03:49:32.502231
+The summary displayed below was created by an LLM named:  "mixtral-8x7b-32768":
+case\_number: 22STLC03722
+hearing\_date: September 18, 2023
+dept: 26
+plaintiff\_name: Selective Way Insurance Company
+defendant\_name: Maria Ramos
+people\_names:
+- Maria Ramos
+company\_names:
+- Selective Way Insurance Company
+places:
+dates:
+- March 6, 2023
+- August 18, 2023
+events:
+- Plaintiff propounded Form Interrogatories, Set One, and Requests for Admission, Set One, on Defendant
+- Plaintiff filed Motions to compel answers to interrogatories and to deem admissions admitted
+- No opposition has been filed
+money:
+- Sanctions of $530.00
+intentions:
+- Plaintiff seeks to compel Defendant to serve verified responses to interrogatories
+- Plaintiff seeks to deem requests for admission admitted
+- Plaintiff seeks monetary sanctions
+facts:
+- Defendant failed to serve initial responses to discovery
+disputes:
+- Failure to respond to discovery
+acts:
+- Plaintiff filed Motions to compel answers to interrogatories and to deem admissions admitted
+agreements:
+- None mentioned in the document
+laws:
+- Code Civ. Proc., §§ 2030.290; 2033.280
+- Code Civ. Proc., § 2023.010
+case\_citations:
+- None mentioned in the document
+statutes:
+- Code Civ. Proc., §§ 2030.290; 2033.280
+- Code Civ. Proc., § 2023.010
+roles:
+- Plaintiff
+- Defendant
+significant\_statements:
+- Plaintiff's Motions to compel responses to interrogatories and to deem admissions admitted are granted
+- Defendant's failure to timely respond to requests for admission constitutes a misuse of the discovery process
+- Sanctions of $530.00 are granted against Defendant
+
+The Judge's tentative ruling grants Plaintiff Selective Way Insurance Company's Motions to compel answers to interrogatories and to deem admissions admitted against Defendant Maria Ramos. Defendant is ordered to serve verified responses without objection to the interrogatories within 20 days of service of this order, and pay sanctions of $530.00 to Plaintiff's counsel within 20 days of service of this order. The ruling is based on Defendant's failure to serve initial responses to discovery, which constitutes a misuse of the discovery process. The requested sanctions are excessive and reduced to $530.00 based on two hours of attorney time billed at $225.00 an hour, plus $80.00 in costs.

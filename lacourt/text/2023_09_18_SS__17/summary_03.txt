@@ -55,3 +55,163 @@ Significant Statements:
 And here is the English-text summary:
 
 The tentative ruling denies Attorney Jae Kim's motions to be relieved as counsel for Defendant Janet Lynne Saffari and Cross-Complainant Richard Saffari. Kim claims that there have been ongoing conflicts and disagreements with his clients regarding legal issues and case direction, but provides no explanation for his delayed motion to be relieved. The court finds that the risk of prejudice if Kim were relieved outweighs any potential prejudice if Kim is not relieved, and therefore denies the motions. The trial is set for October 2, 2023.
+..................... .....................
+The summary displayed below was created by an LLM named:  "gemma2-9b-it":
+## Tentative Ruling Summary: Case 22STCV14367
+
+**YAML Format:**
+
+```yaml
+Case Number: 22STCV14367
+Hearing Date: September 18, 2023
+Dept: 17
+Plaintiff's Name: KAREN JEAN ZIEGENBEIN
+Defendant's Name: JANET LYNNE SAFFARI
+People-Names: 
+  - Karen Jean Ziegenbein
+  - Janet Lynne Saffari
+  - Jae Kim
+  - Richard Saffari
+  - Jon R. Takasugi
+Company-Names: 
+  - None 
+Places: Los Angeles, California 
+Dates: September 18, 2023, October 2, 2023
+Events: 
+  - Hearing scheduled for September 18, 2023
+  - Trial set for October 2, 2023
+  - Motion to be relieved as counsel filed by Jae Kim
+Money: None
+Intentions: 
+  - Jae Kim intends to withdraw as counsel
+Facts: 
+  - Jae Kim has been representing Janet Lynne Saffari and Richard Saffari
+  - Jae Kim claims there have been "conflicts and disagreements" with clients
+Disputes: 
+  - Disagreement between Jae Kim and his clients regarding legal issues
+Acts: 
+  - Jae Kim filed a motion to be relieved as counsel
+Agreements: None
+Laws: 
+  - Code Civ. Proc., § 284(2)
+Case Citations: None
+Statutes: Code of Civil Procedure section 284(2)
+Roles: 
+  - Judge: Hon. Jon R. Takasugi
+  - Plaintiff: Karen Jean Ziegenbein
+  - Defendant: Janet Lynne Saffari
+  - Attorney: Jae Kim
+Significant Statements: 
+  - "The court may issue an order allowing an attorney to withdraw from representation, after notice to the client." (Code Civ. Proc., § 284(2).)
+  - "In light of these facts, the risk of prejudice if Kim were relieved outweighs any potential prejudice if Kim is not relieved."
+
+
+
+```
+
+**English Text Summary:**
+
+This tentative ruling addresses Attorney Jae Kim's motion to be relieved as counsel for Defendant Janet Lynne Saffari and Cross-Complainant Richard Saffari. 
+
+The judge denies the motion, citing a lack of justification for the timing of the request, particularly given that the trial is set for October 2nd.  The judge states that while conflicts between attorneys and clients are common, the current situation doesn't demonstrate an irreparable breakdown in the attorney-client relationship.  
+
+The judge ultimately finds that the potential harm to the case from relieving counsel at this late stage outweighs any potential harm from keeping Kim as counsel.  
+
+
+
+
+..................... .....................
+The summary displayed below was created by an LLM named:  "llama3-8b-8192":
+Here is the summary in YAML format:
+
+```
+Case Number: 22STCV14367
+Plaintiff's Name: Karen Jean Ziegenbein
+Defendant's Name: Janet Lynne Saffari
+People Names:
+  - Jae Kim
+  - Richard Saffari
+  - Janet Lynne Saffari
+Company Names: None
+Places:
+  - Los Angeles
+  - Superior Court of California
+  - County of Los Angeles
+Dates:
+  - September 18, 2023
+  - October 2, 2023
+  - September [blank], 2023 (date is not specified)
+Events:
+  - Trial set for October 2, 2023
+  - Motions to be relieved as counsel by Attorney Jae Kim
+Money: None mentioned
+Intentions:
+  - Judge's intention to deny Attorney Jae Kim's motions to be relieved as counsel
+Facts:
+  - Attorney Jae Kim has brought two motions for relief as counsel
+  - Conflicts and disagreements between Kim and his clients
+  - Kim has only just now, on the eve of trial, moved to be relieved
+Disputes:
+  - Disagreements between Attorney Jae Kim and his clients
+  - Risk of prejudice if Kim were relieved
+Acts:
+  - Attorney Jae Kim's motions to be relieved as counsel
+  - Judge's denial of Kim's motions
+Agreements: None mentioned
+Laws:
+  - Code Civ. Proc., § 284(2)
+Statutes:
+  - Code of Civil Procedure
+Roles:
+  - Judge: Hon. Jon R. Takasugi
+  - Attorney: Jae Kim
+  - Parties: Karen Jean Ziegenbein, Janet Lynne Saffari, and Richard Saffari
+Significant Statements:
+  - "The motions are DENIED."
+  - "The risk of prejudice if Kim were relieved outweighs any potential prejudice if Kim is not relieved."
+```
+
+And here is the summary in English text:
+
+The tentative ruling denies Attorney Jae Kim's motions to be relieved as counsel for Defendant Janet Lynne Saffari and Cross-Complainant Richard Saffari. Kim has brought two motions, citing conflicts and disagreements with his clients, but the judge finds that Kim's declaration does not explain why he has only just now sought relief, on the eve of trial. The judge also finds that the disagreements between Kim and his clients do not amount to an irreparable breakdown in the attorney-client relationship. As a result, the risk of prejudice if Kim were relieved outweighs any potential prejudice if Kim is not relieved, and the motions are denied.
+..................... .....................
+The summary displayed below was created by an LLM named:  "llama-3.3-70b-specdec":
+Exception:
+Error code: 429 - {'error': {'message': 'Rate limit reached for model `llama-3.3-70b-specdec` in organization `org_01hw84cjv0f12v63qt47723ar2` service tier `on_demand` on : Limit 100000, Used 99354, Requested 871. Please try again in 3m14.076999999s. Visit https://console.groq.com/docs/rate-limits for more information.', 'type': '', 'code': 'rate_limit_exceeded'}}
+..................... .....................
+The summary displayed below was created by an LLM named:  "mixtral-8x7b-32768":
+case\_number: 22STCV14367
+hearing\_date: September 18, 2023
+dept: 17
+superior\_court: Superior Court of California, County of Los Angeles
+
+plaintiff:
+name: Karen Jean Ziegenbein
+
+defendant:
+name: Janet Lynne Saffari
+
+attorney:
+name: Jae Kim
+motion\_to\_relieve: denied
+
+trial\_date: October 2, 2023
+
+dispute:
+conflicts and disagreements related to legal issues and the direction of the case
+
+potential\_prejudice: outweighs any potential prejudice if Kim is not relieved
+
+judge:
+name: Jon R. Takasugi
+
+order:
+it\_is\_so\_ordered
+
+email\_notification:
+required\_by: 4 p.m. the day prior
+email\_content: case number and party name
+consequences\_of\_non\_submission: motion may be placed off calendar
+contact\_information: (213) 633-0517
+
+The tentative ruling by Judge Jon R. Takasugi denies attorney Jae Kim's motion to be relieved as counsel for defendant Janet Lynne Saffari and cross-complainant Richard Saffari. Despite the claimed ongoing conflicts and disagreements, Kim's motion was submitted on the eve of trial without a valid explanation. The potential prejudice of relieving Kim outweighs any potential prejudice if he is not relieved. The ruling will be adopted as the final order if all parties submit.

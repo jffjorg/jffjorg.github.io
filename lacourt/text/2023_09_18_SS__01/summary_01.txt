@@ -51,3 +51,166 @@ Significant Statements:
 And here is a summary of the judge's tentative ruling in English text:
 
 The judge has issued a tentative ruling on the defendant's motion to stay the action. The defendant argues that the case should be stayed because nineteen other overlapping class actions are pending in the Southern District of Florida as part of a consolidated proceeding. The motion is unopposed, and the judge agrees that the case should be heard in the Southern District of Florida. However, the judge is not yet convinced that the appropriate course is to stay the action, and instead plans to consider dismissing it. Both parties are ordered to appear at the hearing on September 18, 2023, to discuss why the court should not dismiss the case.
+..................... .....................
+The summary displayed below was created by an LLM named:  "gemma2-9b-it":
+## Tentative Ruling Summary in YAML
+
+```yaml
+Case Number: 23STCV06489
+Hearing Date: September 18, 2023
+Dept: 01 
+
+People-Names: 
+- Judge (implied)
+
+Company-Names: 
+- Independent Living Systems, LLC
+
+Places: 
+- Southern District of Florida
+
+Events: 
+- Defendant filed a motion to stay the action
+- Motion is unopposed
+- Court intends to stay or dismiss the action
+
+Money: 
+- No mention
+
+Intentions: 
+- Court intends to hear the case in Southern District of Florida
+- Court intends to stay or dismiss the case
+
+Facts: 
+- Nineteen other class actions related to Independent Living Systems are pending in Southern District of Florida
+
+Disputes: 
+- None explicitly stated
+
+Acts: 
+- Defendant filed a motion to stay
+
+Agreements: 
+- None explicitly stated
+
+Laws: 
+- Code Civ. Proc. § 410.30(a)
+
+Case Citations: 
+- In re Independent Living Systems Data Breach Litigation (1:23-cv-21060)
+
+Statutes: 
+- Code Civ. Proc. § 410.30(a)
+
+Roles: 
+- Judge: Deciding on the motion to stay or dismiss
+- Defendant: Movants to stay the action
+
+Significant Statements: 
+- "in the interest of substantial justice this action should be heard in the Southern District of Florida."
+- "Both parties are ordered to appear at the September 18, 2023 hearing and discuss why the Court should not dismiss this case."
+
+
+
+
+```
+
+## English Summary
+
+The judge in this case is considering whether to stay the action or dismiss it based on a motion filed by the defendant, Independent Living Systems, LLC. 
+
+The defendant argues that nineteen other class actions related to the same data breach are pending in the Southern District of Florida, and consolidating this case with those others would be in the interest of substantial justice. The judge agrees that the case should ideally be heard in Florida but is not yet convinced that staying this action is the best course of action.
+
+The judge intends to either stay or dismiss the case, but wants to hear from both parties at the September 18th hearing before making a final decision. 
+
+
+
+Let me know if you have any other documents you'd like summarized!
+
+..................... .....................
+The summary displayed below was created by an LLM named:  "llama3-8b-8192":
+Here is the summary in YAML format:
+
+```
+Case Number: 23STCV06489
+Plaintiff's Name: Not mentioned
+Defendant's Name: Independent Living Systems, LLC
+People-Names:
+  - None mentioned
+Company-Names:
+  - Independent Living Systems, LLC
+Places:
+  - Southern District of Florida
+Dates:
+  - September 18, 2023
+Events:
+  - Motion to stay action
+  - Hearing scheduled
+Money: Not mentioned
+Intentions:
+  - To stay the action
+  - To dismiss the action
+Facts:
+  - Nineteen overlapping class actions pending in the Southern District of Florida
+Disputes:
+  - Overlapping class actions
+Acts:
+  - Defendant's motion to stay action
+Agreements:
+  - Unopposed motion
+Laws:
+  - Code Civ. Proc. § 410.30(a)
+Case Citations:
+  - In re Independent Living Systems Data Breach Litigation (1:23-cv-21060)
+Statutes:
+  - Code Civ. Proc.
+Roles:
+  - Judge
+  - Plaintiff (not named)
+  - Defendant (Independent Living Systems, LLC)
+Significant Statements:
+  - The Court finds that in the interest of substantial justice this action should be heard in the Southern District of Florida
+  - The Court intends to stay or dismiss the action
+```
+
+And here is a summary of the judge's tentative ruling in English text:
+
+The judge has considered a motion from Independent Living Systems, LLC to stay a class action lawsuit. The motion is unopposed, but the judge is not convinced that staying the action is the best course of action. Instead, the judge intends to either stay or dismiss the case. The judge has scheduled a hearing for September 18, 2023, and has ordered both parties to attend and discuss why the case should not be dismissed. The judge's decision is based on the fact that there are already 19 other overlapping class actions pending in the Southern District of Florida as part of a consolidated proceeding.
+..................... .....................
+The summary displayed below was created by an LLM named:  "mixtral-8x7b-32768":
+case\_number: 23STCV06489
+hearing\_date: September 18, 2023
+dept: 01
+parties:
+  plaintiff:
+    name: Not specified
+  defendant:
+    name: Independent Living Systems, LLC
+people: []
+companies:
+  - name: Independent Living Systems, LLC
+places:
+  - Southern District of Florida
+events:
+  - A motion for a stay of the action by the defendant
+  - A hearing on September 18, 2023
+money: Not specified
+intentions:
+  - The court's intention to dismiss or stay the case
+facts:
+  - Nineteen other overlapping class actions are pending in the Southern District of Florida
+disputes:
+  - Whether the case should be stayed or dismissed
+acts:
+  - The defendant's motion for a stay of the action
+agreements: Not specified
+laws:
+  - Code Civ. Proc. § 410.30(a)
+case\_citations: Not specified
+statutes: Not specified
+roles:
+  - Plaintiff
+  - Defendant
+significant\_statements:
+  - "Having considered the motion, the Court finds that in the interest of substantial justice this action should be heard in the Southern District of Florida."
+  - "The Court intends to do one or the other. Both parties are ordered to appear at the September 18, 2023 hearing and discuss why the Court should not dismiss this case."

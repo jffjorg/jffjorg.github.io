@@ -95,3 +95,154 @@ The judge has denied the plaintiff's application for default judgment against th
 Secondly, the plaintiff has not filed adequate evidence to support default judgment. The plaintiff has not filed a request for court judgment, which requires a brief summary of the case, declarations or other admissible evidence, interest computations, and a proposed form of judgment. The plaintiff has only filed an authenticated lease and eviction notice, which is insufficient to support default judgment.
 
 Therefore, the application for default judgment is denied without prejudice. The plaintiff may refile the application with proper service and evidence to support default judgment.
+..................... .....................
+On 2025-02-04_10:38:18.806141
+The summary displayed below was created by an LLM named:  "gemma2-9b-it":
+## Tentative Ruling Summary: Case 23PSCV00895
+
+**Case Number:** 23PSCV00895
+**Hearing Date:** September 19, 2023
+**Dept:** O
+
+**People-Names:**
+* Heidi Gao
+
+**Company-Names:**
+* 9920 Management LLC
+* GV Yummy Inc.
+
+**Places:**
+* Restaurant (implied)
+
+**Dates:**
+* March 24, 2023: Suit filed
+* April 28, 2023: Default entered
+* May 12, 2023: Declaration for Default Judgment filed
+
+**Events:**
+* Unlawful detainer (UD) lawsuit filed
+* Default entered against Defendant
+* Plaintiff's application for default judgment denied
+
+**Money:**
+* $71,047.50: Sought by Plaintiff (past-due rent, holdover damages, attorney fees, costs)
+
+**Intentions:**
+* Plaintiff seeks default judgment against Defendant
+
+**Facts:**
+* Plaintiff served Heidi Gao, an employee of Defendant, instead of a designated individual.
+
+**Disputes:**
+* Whether service of process was proper
+
+**Acts:**
+* Plaintiff filed suit
+* Defendant failed to answer
+* Default entered against Defendant
+* Plaintiff filed application for default judgment
+
+**Agreements:**
+* None mentioned
+
+**Laws:**
+* California Code of Civil Procedure sections 416.10, 585
+* California Rules of Court Rule 3.1800
+
+**Case Citations:**
+* Ramos v. Homeward Residential, Inc. (2014) 223 Cal.App.4th 1434
+
+**Statutes:**
+* California Code of Civil Procedure sections 416.10, 585
+* California Rules of Court Rule 3.1800
+
+**Roles:**
+* Plaintiff: 9920 Management LLC
+* Defendant: GV Yummy Inc.
+
+**Significant Statements:**
+* Service on an employee of a corporation does not constitute proper service.
+* Plaintiff must comply with all requirements of CCP section 585 to obtain default judgment.
+
+
+
+**English Summary:**
+
+The judge's tentative ruling denies Plaintiff's application for default judgment against Defendant. 
+
+The primary reason for denial is that Plaintiff failed to properly serve Defendant. Service was attempted on an employee, Heidi Gao, rather than one of the designated individuals listed in California law.  
+
+Additionally, the judge found that Plaintiff did not provide sufficient evidence to support the requested judgment, particularly regarding damages and attorney fees.
+
+The application is denied without prejudice, meaning Plaintiff can refile with corrected service and complete evidence. 
+
+..................... .....................
+On 2025-02-04_10:38:44.832355
+The summary displayed below was created by an LLM named:  "llama3-8b-8192":
+Here is the summary in YAML format:
+
+```
+Case Number: 23PSCV00895
+Plaintiff's Name: 9920 Management LLC
+Defendant's Name: GV Yummy Inc.
+People-Names:
+  - Hiedi Gao
+Company-Names:
+  - 9920 Management LLC
+  - GV Yummy Inc.
+Places: None
+Dates:
+  - March 24, 2023
+  - April 28, 2023
+  - May 12, 2023
+  - September 19, 2023
+Events:
+  - Unlawful detainer (UD) case
+  - Service of summons and complaint
+  - Default judgment
+  - Request for court judgment
+Money:
+  - $71,047.50 (calculated as follows: $60,000 in past-due rent, $9,500 in holdover damages, $1,000 in attorney fees, and $547.50 in costs)
+Intentions:
+  - Plaintiff seeks default judgment against Defendant
+Facts:
+  - Plaintiff filed suit against Defendant on March 24, 2023
+  - Default was entered against Defendant on April 28, 2023
+  - Plaintiff filed a Declaration for Default Judgment by Court on May 12, 2023
+Disputes:
+  - Improper service of summons and complaint
+  - Lack of adequate evidence for default judgment
+Acts:
+  - Service of summons and complaint on Hiedi Gao, an employee of Defendant
+  - Filing of Declaration for Default Judgment by Court
+  - Request for court judgment
+Agreements: None
+Laws:
+  - California Code of Civil Procedure section 416.10
+  - California Code of Civil Procedure section 585
+  - California Rules of Court, Rule 3.1800
+  - Corporations Code (not specified)
+Case Citations:
+  - Ramos v. Homeward Residential, Inc. (2014) 223 Cal.App.4th 1434, 1443
+Statutes:
+  - California Code of Civil Procedure section 416.10
+  - California Code of Civil Procedure section 585
+  - California Rules of Court, Rule 3.1800
+Roles:
+  - Plaintiff: 9920 Management LLC
+  - Defendant: GV Yummy Inc.
+  - Judge: (not specified)
+Significant Statements:
+  - Service on an employee of a corporation does not effectuate service of summons and complaint
+  - Default was improperly entered due to improper service
+  - Plaintiff has not filed all necessary material for a Request for Court Judgment
+```
+
+And here is a summary of the judge's tentative ruling in English text:
+
+The judge has denied the plaintiff's application for default judgment without prejudice for two reasons. First, the service of the summons and complaint on the defendant corporation was improper. According to the California Code of Civil Procedure section 416.10, service on a corporation must be made on a designated person, such as an agent for service of process, an officer, or a person authorized by the corporation to receive service. However, the plaintiff served an employee of the corporation, which does not comply with the statute. Second, the plaintiff has not filed all necessary material for a Request for Court Judgment, including evidence of damages and a computation of attorney fees. The plaintiff's Declaration for Default Judgment by Court was inadequate and did not comply with the requirements of California Code of Civil Procedure section 585. Therefore, the application for default judgment is denied without prejudice.
+..................... .....................
+On 2025-02-04_10:39:10.068714
+The summary displayed below was created by an LLM named:  "llama-3.3-70b-specdec":
+Exception:
+Error code: 429 - {'error': {'message': 'Rate limit reached for model `llama-3.3-70b-specdec` in organization `org_01hw84cjv0f12v63qt47723ar2` service tier `on_demand` on : Limit 100000, Used 99725, Requested 1369. Please try again in 15m45.084999999s. Visit https://console.groq.com/docs/rate-limits for more information.', 'type': '', 'code': 'rate_limit_exceeded'}}

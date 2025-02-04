@@ -46,3 +46,223 @@ Significant Statements:
 And here is a summary in English text:
 
 The Judge has issued a tentative ruling dismissing the case without prejudice. The case has been ongoing since October 20, 2022, and the plaintiff has attempted to serve the defendant 12-13 times, but has been unsuccessful. Despite repeated warnings, the plaintiff has made no attempts to serve the defendant in almost three months. The Judge has previously stated that if the plaintiff fails to serve the case by the hearing date, the case will be dismissed. Since no attempts have been made to serve the defendant, the Judge has decided to dismiss the case without prejudice.
+..................... .....................
+The summary displayed below was created by an LLM named:  "gemma2-9b-it":
+## Tentative Ruling Summary in YAML
+
+```yaml
+Case Number: 22STCV33955
+Hearing Date: September 18, 2023
+Dept: 34
+
+People-Names:
+- Plaintiff
+- Defendant
+
+Company-Names: 
+
+Places: 
+
+Dates:
+- Oct. 20, 2022: Case filed
+- May 16, 2023: First CMC
+- July 17, 2023: Second CMC
+- September 18, 2023: Third CMC
+
+Events:
+- Multiple unsuccessful attempts to serve Defendant (13+)
+
+Money: 
+
+Intentions: 
+- Plaintiff: To serve Defendant and proceed with the case
+
+Facts:
+- Plaintiff has been unable to serve Defendant despite numerous attempts.
+
+Disputes:
+- Plaintiff's inability to serve Defendant
+
+Acts:
+- Plaintiff attempted to serve Defendant on multiple occasions.
+- Court warned Plaintiff of potential dismissal if service wasn't achieved by July 17, 2023.
+
+Agreements: 
+
+Laws: 
+
+Case Citations: 
+
+Statutes: 
+
+Roles:
+- Judge: Presiding over the case, issuing tentative ruling.
+- Plaintiff: Initiated the lawsuit.
+- Defendant: Being sued.
+
+Significant Statements:
+- "If Plaintiff fails to serve the case by the above-mentioned hearing date, the Court will dismiss the case." (July 17, 2023, Minutes Order)
+
+
+
+```
+
+## English Summary
+
+The Judge issued a tentative ruling to dismiss the case without prejudice due to the Plaintiff's repeated failure to serve the Defendant. 
+
+The case was filed in October 2022. Despite multiple attempts, the Plaintiff has been unable to serve the Defendant.  The Court warned the Plaintiff at a previous hearing that if service was not achieved by July 17, 2023, the case would be dismissed.  As no service has been made and no attempts have been made in the last three months, the Judge is dismissing the case.
+
+
+Dismissal without prejudice means the Plaintiff can refile the case in the future. 
+
+..................... .....................
+The summary displayed below was created by an LLM named:  "llama3-8b-8192":
+Here is the summary in YAML format:
+
+```
+Case Number: 22STCV33955
+Plaintiff's Name: Not specified
+Defendant's Name: Not specified
+People-Names:
+  - Plaintiff
+  - Defendant
+Company-Names: None
+Places: None
+Dates:
+  - Oct. 20, 2022
+  - May 16, 2023
+  - July 17, 2023
+  - Sept. 18, 2023
+Events:
+  - Case filing
+  - Case Management Conferences (CMCs)
+  - Service attempts
+  - Dismissal
+Money: None
+Intentions:
+  - Plaintiff's attempt to serve Defendant
+  - Defendant's lack of service
+Facts:
+  - Plaintiff has attempted service 13 times
+  - No attempts to serve Defendant in the past two months
+  - Defendant remains unserved
+Disputes:
+  - Lack of service
+Acts:
+  - Plaintiff's attempts to serve Defendant
+  - Defendant's failure to be served
+Agreements: None
+Laws: None
+Case Citations: None
+Statutes: None
+Roles:
+  - Judge
+  - Plaintiff
+  - Defendant
+Significant Statements:
+  - "If Plaintiff fails to serve the case by the above-mentioned hearing date, the Court will dismiss the case."
+```
+
+And here is a summary of the judge's tentative ruling in English text:
+
+The judge has tentatively ruled to dismiss the case without prejudice. The case was filed on October 20, 2022, and this is the fourth Case Management Conference held. The plaintiff has attempted to serve the defendant 13 times, but has been unsuccessful. Despite the plaintiff's repeated attempts, no attempts have been made to serve the defendant in the past two months. The court previously stated that if the plaintiff fails to serve the case by the hearing date, the case would be dismissed. Since the plaintiff has failed to serve the defendant and no attempts have been made in the past two months, the court is dismissing the case without prejudice.
+..................... .....................
+The summary displayed below was created by an LLM named:  "llama-3.3-70b-specdec":
+Here is the summary of the tentative ruling in YAML format:
+
+```yml
+Case Number: 22STCV33955
+Plaintiff's Name: Not specified
+Defendant's Name: Not specified
+People-Names: 
+  - Plaintiff
+  - Defendant
+Company-Names: None
+Places: 
+  - Court
+Dates: 
+  - October 20, 2022: Case filed
+  - May 16, 2023: Case Management Conference (CMC)
+  - May 1, 2023: Plaintiff's Case Management Statement (CMS) filed
+  - July 17, 2023: CMC
+  - June 27, 2023: Plaintiff's CMS filed
+  - September 18, 2023: CMC and hearing date
+Events: 
+  - Unsuccessful attempts to serve Defendant (13 times)
+  - Case Management Conferences (4)
+Money: None
+Intentions: 
+  - Plaintiff's intention to serve Defendant
+  - Court's intention to dismiss the case if Plaintiff fails to serve Defendant
+Facts: 
+  - Plaintiff has unsuccessfully attempted to serve Defendant 13 times
+  - No attempts to serve Defendant have been made in almost three months
+Disputes: 
+  - Dispute over service of Defendant
+Acts: 
+  - Plaintiff's attempts to serve Defendant
+  - Court's order to dismiss the case
+Agreements: None
+Laws: None
+Case Citations: None
+Statutes: None
+Roles: 
+  - Plaintiff
+  - Defendant
+  - Judge
+Significant Statements: 
+  - "If Plaintiff fails to serve the case by the above-mentioned hearing date, the Court will dismiss the case."
+  - "The case is dismissed without prejudice."
+```
+
+And here is a summary of the tentative ruling in English text:
+
+The Judge has issued a tentative ruling in the case numbered 22STCV33955, which was filed on October 20, 2022. The Plaintiff has attempted to serve the Defendant 13 times, but has been unsuccessful. Despite the Court's previous warnings, no attempts to serve the Defendant have been made in almost three months. At the previous Case Management Conference on July 17, 2023, the Court stated that if the Plaintiff failed to serve the case by the hearing date, the case would be dismissed. Since the Defendant has not been served, the Court has dismissed the case without prejudice. The Judge's ruling is based on the Plaintiff's failure to serve the Defendant, despite multiple opportunities to do so. The case is now dismissed, but the Plaintiff may be able to refile the case in the future.
+..................... .....................
+The summary displayed below was created by an LLM named:  "mixtral-8x7b-32768":
+case\_number: 22STCV33955
+hearing\_date: September 18, 2023
+dept: 34
+filing\_date: October 20, 2022
+
+plaintiff:
+name: Not specified
+
+defendant:
+name: Not served
+
+people:
+- plaintiff
+- defendant
+
+events:
+- case\_management\_conference on May 16, 2023
+- case\_management\_conference on July 17, 2023
+- case\_management\_conference on September 18, 2023
+
+facts:
+- plaintiff attempted service on defendant 12 times
+- plaintiff attempted service on defendant 13 times
+- no attempts to serve defendant in the past two months
+
+disputes:
+- plaintiff's inability to serve defendant
+
+acts:
+- court warning for dismissal if defendant is not served
+- case dismissed without prejudice
+
+laws: Not specified
+
+case\_citations: Not specified
+
+statutes: Not specified
+
+roles:
+- plaintiff
+- defendant
+- judge
+
+summary:
+The judge's tentative ruling is a dismissal of the case without prejudice, as the plaintiff was unable to serve the defendant. The plaintiff attempted service 12 times in May 2023 and 13 times in June 2023, but no attempts were made in the past two months. The court previously warned that failure to serve the defendant by the hearing date would result in dismissal, which occurred on September 18, 2023.
