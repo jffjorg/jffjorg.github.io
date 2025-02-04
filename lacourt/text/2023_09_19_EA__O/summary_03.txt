@@ -246,3 +246,61 @@ On 2025-02-04_10:39:10.068714
 The summary displayed below was created by an LLM named:  "llama-3.3-70b-specdec":
 Exception:
 Error code: 429 - {'error': {'message': 'Rate limit reached for model `llama-3.3-70b-specdec` in organization `org_01hw84cjv0f12v63qt47723ar2` service tier `on_demand` on : Limit 100000, Used 99725, Requested 1369. Please try again in 15m45.084999999s. Visit https://console.groq.com/docs/rate-limits for more information.', 'type': '', 'code': 'rate_limit_exceeded'}}
+..................... .....................
+On 2025-02-04_10:49:11.452535
+The summary displayed below was created by an LLM named:  "mixtral-8x7b-32768":
+case\_number: 23PSCV00895
+hearing\_date: September 19, 2023
+dept: O
+tentative\_ruling: Plaintiff's Application for Default Judgment is Denied
+plaintiff:
+  - name: 9920 Management LLC
+defendant:
+  - name: GV Yummy Inc
+people:
+  - name: Hiedi Gao
+places:
+  - name: restaurant
+events:
+  - name: filing of the suit
+    date: March 24, 2023
+  - name: entry of default
+    date: April 28, 2023
+  - name: filing of Declaration for Default Judgment by Court
+    date: May 12, 2023
+money:
+  - name: past-due rent
+    amount: 60000
+  - name: holdover damages
+    amount: 9500
+  - name: attorney fees
+    amount: 1000
+  - name: costs
+    amount: 547.50
+intentions:
+  - name: Plaintiff seeks default judgment
+    amount: 71047.50
+facts:
+  - name: Service on an employee of a corporation does not effectuate service
+  - name: Service on one of the officers or managers of the corporation is required
+disputes:
+  - name: Improper service
+acts:
+  - name: Filing of the suit
+  - name: Entry of default
+  - name: Filing of Declaration for Default Judgment by Court
+agreements:
+  - name: None mentioned
+laws:
+  - name: Code Civ. Proc., § 416.10(a), (b)
+  - name: California Code of Civil Procedure section 585
+case\_citations:
+  - name: Ramos v. Homeward Residential, Inc. (2014) 223 Cal.App.4th 1434
+statutes:
+  - name: Cal. Rules of Court, Rule 3.1800
+roles:
+  - name: Plaintiff
+  - name: Defendant
+significant\_statements:
+  - name: Service upon the Defendant corporation is not statutorily compliant
+  - name: Plaintiff has not complied with the requirements for a default judgment
