@@ -225,3 +225,78 @@ On 2025-02-04_13:54:03.979066
 The summary displayed below was created by an LLM named:  "llama-3.3-70b-specdec":
 Exception:
 Error code: 429 - {'error': {'message': 'Rate limit reached for model `llama-3.3-70b-specdec` in organization `org_01hw84cjv0f12v63qt47723ar2` service tier `on_demand` on : Limit 100000, Used 98856, Requested 1891. Please try again in 10m45.221s. Visit https://console.groq.com/docs/rate-limits for more information.', 'type': '', 'code': 'rate_limit_exceeded'}}
+..................... .....................
+On 2025-02-04_14:04:05.527335
+The summary displayed below was created by an LLM named:  "mixtral-8x7b-32768":
+case\_number: 23STCV08092
+hearing\_date: September 19, 2023
+dept: 17
+superior\_court: California, Los Angeles County
+
+parties:
+plaintiff:
+name: Navid Keshavarz-Nia
+
+defendants:
+- name: Raytheon (CA) Technologies Corporation
+- name: Raytheon Technologies, Inc.
+
+people:
+- name: Jon R. Takasugi
+role: Judge of the Superior Court
+
+places:
+- name: Arlington, Virginia
+- name: Dulles, Virginia
+- name: California
+- name: Vienna, Virginia
+
+dates:
+- 2023-01-01: Plaintiff became a resident of Virginia
+- 2023-04-12: Plaintiff filed the lawsuit
+- 2023-09-19: Hearing date
+
+events:
+- Plaintiff filed a suit against Defendants alleging discrimination, retaliation, failure to investigate and prevent violations of FEHA, and Labor Code section 1102.5.
+- Defendants moved to dismiss or stay the action based on forum non conveniens.
+- The Court granted Defendants' motion to dismiss.
+
+facts:
+- None of the parties are residents of California.
+- Defendant is headquartered in Arlington, Virginia.
+- Plaintiff performed work for a division of Raytheon located in Dulles, Virginia.
+- Plaintiff was hired and onboarded in Virginia.
+- All documents, information, and witnesses involved in the alleged conduct are in Virginia.
+- Plaintiff's employment and associated claims are based in Virginia.
+
+disputes:
+- Defendants argued that the case has a tenuous connection to California and should be heard in Virginia.
+- Plaintiff is temporarily relocated to California, but all the projects and employees he worked with are located in Dulles, Virginia or outside of California.
+
+acts:
+- Defendants submitted evidence supporting their motion to dismiss.
+- The Court reviewed the evidence and agreed with Defendants.
+
+agreements:
+- None mentioned in the document.
+
+laws:
+- Stangvik v. Shiley Inc. (1991) 54 Cal.3d 744
+- CCP § 410.30(a)
+
+case\_citations:
+- None mentioned in the document.
+
+statutes:
+- None mentioned in the document.
+
+roles:
+- Plaintiff: initiates the lawsuit
+- Defendants: respond to the lawsuit
+- Judge: evaluates the case and makes a ruling
+
+significant\_statements:
+- "Defendants’ motion to dismiss forum non conveniens is GRANTED."
+- "The balance of private and public interest factors makes it ‘just’ that the litigation proceed in the alternative forum."
+- "Virginia has a greater interest in resolving its residents’ claims, implementing its laws and regulating its business practices that directly affect Virginia."
+- "The impact of his work and effects of the allegations alleged were all felt in Virginia – not California."
