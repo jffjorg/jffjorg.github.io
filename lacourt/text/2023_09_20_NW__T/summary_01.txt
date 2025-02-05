@@ -50,3 +50,168 @@ Significant Statements:
 And here is the English-text summary:
 
 The Judge has issued a tentative ruling on the Defendant's motion to strike the Plaintiff's request for punitive damages. The Judge grants the motion, but with 20 days' leave for the Plaintiff to amend the pleading. The Judge finds that while the Plaintiff has alleged sufficient facts to show malice and/or reckless disregard for their rights or safety, the pleading is deficient in that it fails to specify that the misconduct was authorized or ratified by a director, officer, or managing agent of the Defendant. The Judge holds that being a managing agent of the property is not the same as a corporate director, officer, or managing agent. The Plaintiff will have the opportunity to correct the pleading deficiency, but not to add new causes of action.
+..................... .....................
+On 2025-02-05_10:55:41.976278
+The summary displayed below was created by an LLM named:  "gemma2-9b-it":
+## Tentative Ruling Summary (YAML)
+
+**Case Number:** 22STCV26908
+**Hearing Date:** September 20, 2023
+**Dept:** T
+
+**People-Names:**
+* Kinda Fouad (Plaintiff)
+* Jones (Defendant)
+
+**Company-Names:**
+* Jones & Jones Management Group, Inc. (Defendant)
+
+**Places:** N/A
+**Dates:** N/A
+**Events:**
+* Motion to Strike Punitive Damages filed by Defendant.
+* Tentative Ruling issued by Judge.
+
+**Money:** N/A
+**Intentions:**
+* Plaintiff seeks punitive damages.
+* Defendant seeks to strike the punitive damages claim.
+
+**Facts:**
+* Plaintiff alleges uninhabitable conditions in a property managed by Defendant.
+* Plaintiff notified Defendant about the conditions over two years ago.
+* Defendant failed to remedy the conditions.
+
+**Disputes:**
+* Whether Plaintiff adequately alleged facts to support a punitive damages claim.
+
+**Acts:**
+* Plaintiff filed a Complaint.
+* Defendant filed a Motion to Strike Punitive Damages.
+* Judge issued a Tentative Ruling.
+
+**Agreements:** N/A
+**Laws:**
+* California Civil Code (potentially, regarding punitive damages)
+
+**Case Citations:** N/A
+**Statutes:** N/A
+**Roles:**
+* Judge: Presides over the case and issues rulings.
+* Plaintiff: Files a lawsuit seeking damages.
+* Defendant: Responds to the lawsuit and defends against the claims.
+
+**Significant Statements:**
+* "Plaintiffs alleged that they notified Defendant about the uninhabitable conditions and Defendant failed to remedy the conditions for over two years."
+* "The facts are insufficiently alleged to show that the reckless disregard was by a director, officer, or managing agent or was ratified by such a person."
+* "Being a managing agent of the property is not the same as a corporate director, officer, or managing agent."
+
+
+
+## English Summary
+
+The Judge has issued a tentative ruling in the case of *Fouad v Jones*.  The Defendant, Jones & Jones Management Group, Inc., moved to strike the Plaintiff's request for punitive damages. The Judge found that the Plaintiff's complaint adequately alleged facts showing malice on the part of the Defendant due to their failure to remedy known uninhabitable conditions for over two years. However, the complaint was lacking in demonstrating that this recklessness was specifically attributable to a director, officer, or managing agent of the company. Therefore, the Judge granted the motion to strike the punitive damages claim but gave the Plaintiff 20 days to amend their complaint and correct this pleading deficiency. The amendment should only address the existing claim and not introduce new causes of action. 
+
+
+
+
+..................... .....................
+On 2025-02-05_10:56:07.721975
+The summary displayed below was created by an LLM named:  "llama3-8b-8192":
+Here is the summary in YAML format:
+
+```
+Case Number: 22STCV26908
+Plaintiff's Name: Kinda Fouad
+Defendant's Name: Jones & Jones Management Group, Inc
+People-Names:
+  - Kinda Fouad
+  - Jones
+Firm-Names:
+  - Jones & Jones Management Group, Inc
+Places: None
+Dates:
+  - September 20, 2023
+Events:
+  - Motion to strike punitive damages
+  - Allegations of uninhabitable conditions
+  - Failure to remedy conditions
+Money: None
+Intentions:
+  - Defendant seeks to strike request for punitive damages
+  - Plaintiff seeks to maintain request for punitive damages
+Facts:
+  - Plaintiff notified Defendant about uninhabitable conditions
+  - Defendant failed to remedy conditions for over two years
+  - Complaint paragraph 14 alleges sufficient facts to support element of malice
+  - Complaint paragraph 2 insufficient to show misconduct was attributed to or ratified by director, officer, or managing agent
+Disputes:
+  - Whether request for punitive damages should be struck
+Acts:
+  - Defendant's motion to strike
+  - Plaintiff's failure to allege sufficient facts
+Agreements: None
+Laws:
+  - None cited
+Case Citations: None
+Statutes: None
+Roles:
+  - Judge: reviewing tentative ruling
+  - Plaintiff: seeking punitive damages
+  - Defendant: seeking to strike request for punitive damages
+Significant Statements:
+  - "Leave to amend is to correct the pleading deficiency and not to add any new causes of action."
+  - "The motion to strike is GRANTED WITH LEAVE TO AMEND."
+```
+
+And here is a text summary of the Judge's tentative ruling:
+
+The Judge has tentatively ruled that the Defendant's motion to strike the Plaintiff's request for punitive damages is granted with 20 days' leave to amend. The Judge found that while the Plaintiff's allegations of uninhabitable conditions and failure to remedy them for over two years are sufficient to support the element of malice, the allegations are insufficient to show that the reckless disregard was by a director, officer, or managing agent of the Defendant company. The Judge granted the motion with leave to amend, allowing the Plaintiff to correct the pleading deficiency, but not to add any new causes of action.
+..................... .....................
+On 2025-02-05_10:56:32.953700
+The summary displayed below was created by an LLM named:  "llama-3.3-70b-specdec":
+Exception:
+Error code: 429 - {'error': {'message': 'Rate limit reached for model `llama-3.3-70b-specdec` in organization `org_01hw84cjv0f12v63qt47723ar2` service tier `on_demand` on : Limit 100000, Used 99707, Requested 622. Please try again in 4m43.674s. Visit https://console.groq.com/docs/rate-limits for more information.', 'type': '', 'code': 'rate_limit_exceeded'}}
+..................... .....................
+On 2025-02-05_11:06:34.388680
+The summary displayed below was created by an LLM named:  "mixtral-8x7b-32768":
+case\_number: 22STCV26908
+hearing\_date: September 20, 2023
+dept: T
+parties:
+  - name: Fouad
+    role: Plaintiff
+  - name: Jones & Jones Management Group, Inc.
+    role: Defendant
+people: []
+companies:
+  - name: Jones & Jones Management Group, Inc.
+locations: []
+dates:
+  - two\_years\_ago: "Two years ago"
+events:
+  - uninhabitable\_conditions: "Uninhabitable conditions"
+money:
+  punitive\_damages: "Punitive damages"
+intentions:
+  - malice: "Malice"
+  - reckless\_disregard: "Reckless disregard"
+facts:
+  - notification: "Plaintiff notified Defendant about uninhabitable conditions"
+  - failure\_to\_remedy: "Defendant failed to remedy conditions for over two years"
+  - managing\_agent: "Plaintiff alleges Defendant was managing agent of the property"
+disputes:
+  - punitive\_damages\_facts: "Dispute over the sufficiency of facts supporting punitive damages"
+acts:
+  - motion\_to\_strike: "Defendant's motion to strike Plaintiff's request for punitive damages"
+agreements: []
+laws: []
+case\_citations: []
+statutes: []
+significant\_statements:
+  - "Defendant's motion to strike Plaintiff's request for punitive damages is granted with 20 days leave to amend"
+  - "Leave to amend is to correct the pleading deficiency and not to add any new causes of action"
+
+---
+
+The Judge grants Defendant Jones & Jones Management Group, Inc.'s motion to strike Plaintiff Kinda Fouad's request for punitive damages with a 20-day leave to amend. The Judge finds that the Plaintiff's request for punitive damages fails to allege specific facts to show malice and fails to allege specific facts to show that the misconduct was authorized or ratified by an officer, director, or managing agent or that there was prior knowledge. However, the Judge acknowledges that there are sufficient facts pleaded to support the element of malice and/or reckless disregard for Plaintiffs’ rights or safety. However, the facts are insufficiently alleged to show that the reckless disregard was by a director, officer, or managing agent or was ratified by such a person. Plaintiffs’ reliance upon Complaint paragraph 2 alleging that Defendant was the managing agent of the property is insufficient. Sufficient pleading requires that the misconduct was either attributed to or ratified by Defendant's director, officer, or managing agent. Being a managing agent of the property is not the same as a corporate director, officer, or managing agent. The order is to correct the pleading deficiency and not to add any new causes of action.

@@ -55,3 +55,188 @@ Significant Statements:
 And here is the English-text summary of the tentative ruling:
 
 The Labor Commissioner, State of California (Plaintiff) is seeking to amend a judgment to correct a clerical error in the amount awarded to Elissa Brassfield, et al. (Defendants). The error occurred when the wrong amount was entered on the Request for Judgment documents due to an administrative mistake. The correct amount, as determined by the Findings and Order issued after the Defendants' appeal, is $189,594.19. The Court grants the Plaintiff's motion to amend the judgment to correct this error, and the correct judgment amount is now $189,594.19.
+..................... .....................
+On 2025-02-05_09:35:21.921837
+The summary displayed below was created by an LLM named:  "gemma2-9b-it":
+## Tentative Ruling Summary:
+
+```yaml
+Case Number: 23STCP01654
+Hearing Date: September 20, 2023
+Dept: 68
+Motion: Motion to Amend Judgment to Correct a Clerical Error
+
+Plaintiff: Labor Commissioner, State of California
+Defendants: Elissa Brassfield, et al.
+
+People-Names:
+- Elissa Brassfield
+
+Company-Names:  
+- Labor Commissioner, State of California
+
+Places: N/A
+Dates:
+- March 4, 2023 (Judgment Filed)
+- September 20, 2023 (Hearing Date)
+
+Events:
+- Defendants appealed a citation.
+- An administrative hearing officer issued Findings and Order modifying the amount.
+- Plaintiff filed a motion to amend judgment due to a clerical error.
+
+Money:
+- Incorrect Judgment Amount: $596.102.13
+- Correct Judgment Amount: $189,594.19
+
+Intentions:
+- Plaintiff intends to correct the clerical error in the judgment.
+
+Facts:
+- An error by a Plaintiff's Officer Technician resulted in an incorrect judgment amount being filed.
+- Defendants' counsel reported the error to Plaintiff.
+
+Disputes:
+- N/A
+
+Acts:
+- Defendants appealed a citation.
+- Administrative hearing officer issued Findings and Order.
+- Plaintiff filed a motion to amend judgment.
+
+Agreements: N/A
+
+Laws:
+- CCP § 473(d)
+
+Case Citations: N/A
+
+Statutes:
+- CCP § 473(d)
+
+Roles:
+- Plaintiff: Labor Commissioner, State of California
+- Defendants: Elissa Brassfield, et al.
+- Administrative Hearing Officer: Issued Findings and Order
+
+Significant Statements:
+- "The court may, upon motion of the injured party, or its own motion, correct clerical mistakes in its judgment or orders as entered..." (CCP § 473(d))
+
+
+```
+
+## English Summary:
+
+This is a tentative ruling by the Judge in the case of *Labor Commissioner, State of California v. Elissa Brassfield et al.* The Judge is granting the Plaintiff's motion to amend the judgment.  
+
+The original judgment incorrectly stated the total amount owed was $596.102.13. This error stemmed from a clerical mistake made by a Plaintiff's staff member when preparing the initial judgment documents. The correct amount, as determined by an administrative hearing officer following an appeal by the Defendants, is $189,594.19.
+
+The Judge cites California Code of Civil Procedure Section 473(d), which authorizes courts to correct clerical errors in judgments. 
+
+
+
+..................... .....................
+On 2025-02-05_09:35:47.773989
+The summary displayed below was created by an LLM named:  "llama3-8b-8192":
+Here is the summary in YAML format:
+
+```
+Case Number: 23STCP01654
+Plaintiff's Name: Labor Commissioner, State of California
+Defendant's Name: Elissa Brassfield, et al.
+People-Names:
+  - Labor Commissioner, State of California
+  - Elissa Brassfield
+Company-Names:
+  - None
+Places:
+  - California
+Dates:
+  - March 4, 2023
+  - September 20, 2023
+Events:
+  - Motion to Amend Judgment to Correct a Clerical Error
+  - Request for Judgment
+  - Appeal of citation
+  - Findings and Order issued by administrative hearing officer
+Money:
+  - $596.102.13 (incorrect judgment amount)
+  - $189,594.19 (correct judgment amount)
+Intentions:
+  - Plaintiff (Labor Commissioner, State of California) seeks to correct clerical error in judgment
+Facts:
+  - Labor Commissioner's clerical error resulted in incorrect judgment amount
+  - Defendants appealed citation and modified amount
+  - Officer Technician's error led to wrong amount on Request for Judgment documents
+Disputes:
+  - None
+Acts:
+  - Plaintiff filed motion to amend judgment
+  - Defendant became aware of error and reported it
+  - Court grants motion to amend judgment
+Agreements:
+  - CCP § 473(d) authorizes court to amend judgments to correct clerical mistakes
+Laws:
+  - CCP § 473(d)
+Statutes:
+  - California Code of Civil Procedure (CCP)
+Roles:
+  - Plaintiff: Labor Commissioner, State of California
+  - Defendant: Elissa Brassfield, et al.
+Significant Statements:
+  - "The court may, upon motion of the injured party, or its own motion, correct clerical mistakes in its judgment or orders as entered, so as to conform to the judgment or order directed..."
+  - "The correct judgment amount is $189,594.19."
+```
+
+And here is the English-text summary:
+
+The Labor Commissioner, State of California (Plaintiff) has filed a motion to amend the judgment to correct a clerical error. The error resulted in an incorrect total judgment amount of $596.102.13 being included on the Request for Judgment and Judgment documents, which was based on the original citation issued to the defendants. However, the defendants appealed the citation and the Findings and Order issued by the administrative hearing officer modified the amount to $189,594.19. Due to an error by an officer technician, the wrong amount was put on the Request for Judgment documents. The court has granted the motion to amend the judgment to correct this error and has set the correct judgment amount to $189,594.19.
+..................... .....................
+On 2025-02-05_09:36:12.992828
+The summary displayed below was created by an LLM named:  "llama-3.3-70b-specdec":
+Exception:
+Error code: 429 - {'error': {'message': 'Rate limit reached for model `llama-3.3-70b-specdec` in organization `org_01hw84cjv0f12v63qt47723ar2` service tier `on_demand` on : Limit 100000, Used 99945, Requested 751. Please try again in 10m0.606s. Visit https://console.groq.com/docs/rate-limits for more information.', 'type': '', 'code': 'rate_limit_exceeded'}}
+..................... .....................
+On 2025-02-05_09:46:14.200827
+The summary displayed below was created by an LLM named:  "mixtral-8x7b-32768":
+case\_number: 23STCP01654
+hearing\_date: September 20, 2023
+dept: 68
+motion\_to: Amend Judgment to Correct a Clerical Error
+plaintiff:
+name: Labor Commissioner, State of California
+defendant:
+- name: Elissa Brassfield
+people\_names:
+- Elissa Brassfield
+places:
+- State of California
+dates:
+- March 4, 2023
+- September 20, 2023
+events:
+- Plaintiff filed a motion to amend judgment to correct a clerical error
+- Plaintiff discovered a clerical error in the total judgment amount
+- Defendants appealed the citation, leading to a modified amount
+intentions:
+- Plaintiff seeks to correct the judgment to reflect the correct amount
+facts:
+- Plaintiff filed a motion to amend judgment to correct a clerical error
+- Plaintiff made a clerical error in the total judgment amount
+- Defendants appealed the citation, leading to a modified amount
+disputes:
+- The total judgment amount
+acts:
+- Plaintiff's error in the total judgment amount
+agreements:
+- None mentioned
+laws:
+- CCP § 473(d)
+case\_citations: None mentioned
+statutes:
+- CCP § 473(d)
+roles:
+- Plaintiff: moving party
+- Defendant: responding party
+significant\_statements:
+- "The court grants Plaintiff’s motion to amend the judgment to correct this error."

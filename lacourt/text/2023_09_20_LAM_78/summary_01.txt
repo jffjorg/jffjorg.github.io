@@ -65,3 +65,181 @@ Significant Statements:
 And here is the English-text summary of the judge's tentative ruling:
 
 The judge has granted the motion to continue the trial. As a result, the trial has been rescheduled to January 29, 2024, at 9:30 a.m. The Factual Summary Conference (FSC) has also been rescheduled to January 17, 2024, at 8:30 a.m. The discovery and motion cutoff dates will be adjusted based on the new trial date, except for the cutoff date for filing dispositive motions, which will remain October 10, 2023. Additionally, the hearing date for Defendant Cha Hollywood's motion for summary judgment has been advanced to December 21, 2023, at 8:30 a.m. The moving party is required to provide notice and file proof of service of such notice within five court days after the date of this order.
+..................... .....................
+On 2025-02-05_10:44:23.498741
+The summary displayed below was created by an LLM named:  "gemma2-9b-it":
+## Tentative Ruling Summary in YAML
+
+```yaml
+Case Number: 20STCV33839
+Hearing Date: September 20, 2023
+Dept: 78
+
+People-Names:
+- Cha Hollywood
+
+Company-Names: 
+-  (None listed)
+
+Places:
+-  (None listed)
+
+Dates:
+- Hearing Date: September 20, 2023
+- New Trial Date: 1/29/2024
+- FSC Date: 1/17/2024
+- Original Summary Judgment Hearing Date: 5/1/2024
+- Advanced Summary Judgment Hearing Date: 12/21/2023
+- Original Trial Date: October 10, 2023
+
+Events:
+- Motion to continue trial granted
+- Trial continued to 1/29/2024
+- FSC continued to 1/17/2024
+-  Hearing date for Defendant Cha Hollywood's motion for summary judgment advanced to 12/21/2023
+
+Money: 
+- (None listed)
+
+Intentions:
+-  Continue trial and FSC
+
+Facts:
+- (None listed)
+
+Disputes:
+- (None listed)
+
+Acts:
+-  Motion to continue trial filed
+
+Agreements:
+- (None listed)
+
+Laws:
+- (None listed)
+
+Case Citations:
+- (None listed)
+
+Statutes:
+- (None listed)
+
+Roles:
+- Judge: Presiding
+- Plaintiff: (Name not listed)
+- Defendant: Cha Hollywood
+- Moving Party: (Not specified)
+
+Significant Statements:
+- "The motion to continue trial is granted."
+- "Trial is continued to 1/29/2024 at 9:30 a.m." 
+- "The FSC is continued to 1/17/2024 at 8:30 a.m."
+- "All discovery and motion cutoff dates will be based on the new trial date, except that the cutoff date for the filing of any dispositive motions ... remains based on the October 10, 2023 trial date."
+- "The hearing date for the motion for summary judgment reserved by Defendant Cha Hollywood is advanced from 5/1/2024 to 12/21/2023 at 8:30 a.m."
+
+
+
+```
+
+## English Summary
+
+The judge has granted the motion to continue the trial in case 20STCV33839. The trial is now scheduled for January 29, 2024, at 9:30 am. The firm status conference (FSC) is also continued to January 17, 2024, at 8:30 am. 
+
+All discovery and motion deadlines will be adjusted based on the new trial date, except for the deadline for Defendant Cha Hollywood to file any dispositive motions (like a motion for summary judgment), which remains October 10, 2023.
+
+Additionally, the hearing date for Defendant Cha Hollywood's reserved motion for summary judgment has been moved up from May 1, 2024, to December 21, 2023, at 8:30 am. 
+
+
+The moving party is required to provide notice and proof of service of this notice to all parties within five court days. 
+
+..................... .....................
+On 2025-02-05_10:44:49.264379
+The summary displayed below was created by an LLM named:  "llama3-8b-8192":
+Here is the YAML summary of the "Tentative Ruling" in the format you requested:
+
+```
+Case Number: 20STCV33839
+Plaintiff's Name: Not specified
+Defendant's Name: Cha Hollywood
+People-Names:
+  - Cha Hollywood
+Places: Not specified
+Dates:
+  - September 20, 2023
+  - October 10, 2023
+  - January 17, 2024
+  - January 29, 2024
+  - December 21, 2023
+  - May 1, 2024
+Events:
+  - Motion to continue trial
+  - Continuation of FSC
+  - Cutoff dates for discovery and motion
+  - Advance of hearing date for motion for summary judgment
+Money: Not specified
+Intentions:
+  - To grant motion to continue trial
+  - To set new trial date
+Facts:
+  - Information presented before the Judge
+Disputes:
+  - Not specified
+Acts:
+  - Granting motion to continue trial
+  - Setting new trial date
+Agreements:
+  - Not specified
+Laws: Not specified
+Case Citations: Not specified
+Statutes: Not specified
+Roles:
+  - Judge
+  - Moving party
+Significant Statements:
+  - "The motion to continue trial is granted."
+  - "Trial is continued to 1/29/2024 at 9:30 a.m."
+```
+
+And here is the English-text summary:
+
+The Judge has issued a tentative ruling on a motion to continue the trial. The motion is granted, and the new trial date is set for January 29, 2024, at 9:30 a.m. The Fact-Specific Conference (FSC) is continued to January 17, 2024, at 8:30 a.m. All discovery and motion cutoff dates will be based on the new trial date, except that the cutoff date for filing dispositive motions other than one already reserved by Defendant Cha Hollywood will remain based on the original October 10, 2023, trial date. The hearing date for Defendant Cha Hollywood's motion for summary judgment is advanced from May 1, 2024, to December 21, 2023, at 8:30 a.m. The moving party is required to provide notice and file proof of service within five court days after the date of this order.
+..................... .....................
+On 2025-02-05_10:45:14.467175
+The summary displayed below was created by an LLM named:  "llama-3.3-70b-specdec":
+Exception:
+Error code: 429 - {'error': {'message': 'Rate limit reached for model `llama-3.3-70b-specdec` in organization `org_01hw84cjv0f12v63qt47723ar2` service tier `on_demand` on : Limit 100000, Used 100491, Requested 366. Please try again in 12m20.972s. Visit https://console.groq.com/docs/rate-limits for more information.', 'type': '', 'code': 'rate_limit_exceeded'}}
+..................... .....................
+On 2025-02-05_10:55:15.617989
+The summary displayed below was created by an LLM named:  "mixtral-8x7b-32768":
+case\_number: 20STCV33839
+hearing\_date: September 20, 2023
+dept: 78
+parties:
+plaintiff: null
+defendant:
+- Cha Hollywood
+people: null
+companies: null
+places: null
+events:
+- motion\_to\_continue\_trial: granted
+- trial\_continued: "1/29/2024 at 9:30 a.m."
+- fsc: "1/17/2024 at 8:30 a.m."
+- discovery\_and\_motion\_cutoff\_dates: based on new trial date
+- filing\_dispositive\_motions\_cutoff\_date: October 10, 2023
+- hearing\_date\_for\_motion\_for\_summary\_judgment\_reserved\_by\_defendant: "12/21/2023 at 8:30 a.m."
+money: null
+intentions:
+- moving\_party\_to\_provide\_notice: true
+facts: null
+disputes: null
+acts: null
+agreements: null
+laws: null
+case\_citations: null
+statutes: null
+roles:
+- moving\_party: null
+significant\_statements:
+- "The motion to continue trial is granted. Trial is continued to 1/29/2024 at 9:30 a.m. The FSC is continued to 1/17/2024 at 8:30 a.m. All discovery and motion cutoff dates will be based on the new trial date, except that the cutoff date for the filing of any dispositive motions (such as a motion for summary judgment/summary adjudication/judgment on the pleadings) other than the one already reserved by Defendant Cha Hollywood remains based on the October 10, 2023 trial date. The hearing date for the motion for summary judgment reserved by Defendant Cha Hollywood is advanced from 5/1/2024 to 12/21/2023 at 8:30 a.m. Moving party to provide notice and to file proof of service of such notice within five court days after the date of this order."
