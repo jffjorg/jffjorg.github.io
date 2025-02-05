@@ -53,3 +53,213 @@ Significant Statements:
 And here is the English-text summary:
 
 The Judge has granted the Plaintiff's ex parte application for an extension of time to serve the pleading and to continue the case management conference. The Complaint was filed on July 21, 2023, and the time for service would have elapsed on September 19, 2023, but the application was timely filed on the same day and accompanied by a declaration in compliance with Court Rules. The Judge notes that the complaint must be served on all named defendants and proof of service must be filed with the court within 60 days of the filing of the complaint.
+..................... .....................
+On 2025-02-05_12:42:52.874121
+The summary displayed below was created by an LLM named:  "gemma2-9b-it":
+## Tentative Ruling Summary in YAML
+
+```yaml
+Case Number: 23NWCV02278
+Plaintiff's Name: Fernandez
+Defendant's Name: Kang
+People-Names: Fernandez, Kang, Counsel
+Company-Names: 
+Places: 
+Dates:
+  - July 21, 2023: Complaint filed
+  - September 19, 2023: Time for service would have elapsed
+  - September 19, 2023: Ex parte application filed
+Events:
+  - Complaint filed
+  - Ex parte application for extension of time to serve pleading filed
+Money: 
+Intentions: Plaintiff seeks an extension of time to serve pleadings.
+Facts: 
+  - Complaint was filed on July 21, 2023.
+  - Time for service was 60 days after filing, expiring on September 19, 2023.
+  - Ex parte application was filed on September 19, 2023.
+Disputes: None explicitly stated.
+Acts:
+  - Filing of Complaint
+  - Filing of Ex parte application
+Agreements: None explicitly stated.
+Laws:
+  - CRC Rule 3.110(b)
+  - CRC Rule 3.110(e)
+Case Citations: 
+Statutes: 
+Roles:
+  - Judge: Deciding on the ex parte application
+  - Plaintiff: Fernandez
+  - Defendant: Kang
+Significant Statements:
+  - "The complaint must be served on all named defendants and proofs of service on those defendants must be filed with the court with 60 days after the filing of the complaint." (CRC Rule 3.110(b).)
+  - "An application for a court order extending the time to serve a pleading must be filed before the time for service has elapsed. The application must be accompanied by a declaration showing why service has not been completed, documenting the efforts that have been made to complete service, and specifying the date by which service is proposed to be completed." (CRC Rule 3.110(e).)
+
+```
+
+## English Summary
+
+The judge has granted the plaintiff's request for an extension of time to serve the defendant with the complaint in this case. 
+
+The plaintiff's application was filed on time, just before the deadline for serving the complaint, and included a declaration explaining why service had not yet been completed.  The judge based their decision on the rules of civil procedure (CRC Rule 3.110(b) and (e)) which govern the timeframe for serving complaints and the process for requesting extensions. 
+
+
+
+..................... .....................
+On 2025-02-05_12:43:18.638405
+The summary displayed below was created by an LLM named:  "llama3-8b-8192":
+Here is the summary in YAML format:
+
+```
+Case Number: 23NWCV02278
+Plaintiff's Name: Fernandez
+Defendant's Name: Kang
+People-Names:
+  - Fernandez
+  - Kang
+Company-Names: None
+Places: None
+Dates:
+  - July 21, 2023
+  - September 19, 2023
+  - September 20, 2023
+Events:
+  - Complaint filed
+  - Time for service elapsed
+  - Ex parte application filed
+Money: None
+Intentions:
+  - To extend time to serve pleading
+  - To continue case management conference
+Facts:
+  - Complaint filed on July 21, 2023
+  - Time for service would have elapsed on September 19, 2023
+  - Ex parte application filed on September 19, 2023
+Disputes: None
+Acts:
+  - Filing of complaint
+  - Filing of ex parte application
+  - Filing of declaration with application
+Agreements: None
+Laws:
+  - CRC Rule 3.110(b)
+  - CRC Rule 3.110(e)
+Case Citations: None
+Statutes: None
+Roles:
+  - Plaintiff: Fernandez
+  - Defendant: Kang
+  - Counsel: (unspecified)
+Significant Statements:
+  - "The complaint must be served on all named defendants and proofs of service on those defendants must be filed with the court with 60 days after the filing of the complaint." (CRC Rule 3.110(b))
+  - "An application for a court order extending the time to serve a pleading must be filed before the time for service has elapsed... accompanied by a declaration showing why service has not been completed, documenting the efforts that have been made to complete service, and specifying the date by which service is proposed to be completed." (CRC Rule 3.110(e))
+```
+
+And here is a summary of the judge's tentative ruling in English text:
+
+The plaintiff, Fernandez, filed a complaint on July 21, 2023, and the time for service would have elapsed on September 19, 2023. However, the plaintiff filed an ex parte application on September 19, 2023, to extend the time to serve the pleading and to continue the case management conference. The application is accompanied by a declaration from Counsel, as required by California Rules of Court (CRC) Rule 3.110(e). The judge grants the application and orders the plaintiff to give notice. The plaintiff must serve the complaint on all named defendants and file proof of service with the court within 60 days of the filing of the complaint, as required by CRC Rule 3.110(b).
+..................... .....................
+On 2025-02-05_12:43:44.189099
+The summary displayed below was created by an LLM named:  "llama-3.3-70b-specdec":
+Here is the summary of the tentative ruling in YAML format:
+
+```yml
+Case Number: 23NWCV02278
+Plaintiff's Name: Fernandez
+Defendant's Name: Kang
+People-Names:
+  - Fernandez
+  - Kang
+Company-Names: []
+Places: []
+Dates:
+  - July 21, 2023
+  - September 19, 2023
+  - September 20, 2023
+Events:
+  - Filing of complaint
+  - Ex parte application for extension of time to serve pleading
+  - Case Management Conference
+Money: []
+Intentions:
+  - To extend time to serve pleading
+  - To continue Case Management Conference
+Facts:
+  - Complaint was filed on July 21, 2023
+  - Time for service would have elapsed on September 19, 2023
+  - Ex parte application was timely filed on September 19, 2023
+Disputes: []
+Acts:
+  - Filing of complaint
+  - Filing of ex parte application
+Agreements: []
+Laws:
+  - CRC Rule 3.110(b)
+  - CRC Rule 3.110(e)
+Case Citations: []
+Statutes: []
+Roles:
+  - Judge
+  - Plaintiff (Fernandez)
+  - Defendant (Kang)
+  - Counsel
+Significant Statements:
+  - "The complaint must be served on all named defendants and proofs of service on those defendants must be filed with the court within 60 days after the filing of the complaint."
+  - "An application for a court order extending the time to serve a pleading must be filed before the time for service has elapsed."
+```
+
+And here is a summary of the judge's tentative ruling in English text:
+
+The judge has granted the plaintiff's ex parte application for an extension of time to serve the pleading and to continue the Case Management Conference. The complaint was filed on July 21, 2023, and the time for service would have elapsed on September 19, 2023. However, the plaintiff timely filed the ex parte application on September 19, 2023, along with a declaration showing why service had not been completed and proposing a new date for completion. The judge found that the application was in compliance with CRC Rule 3.110(e) and granted the extension. The plaintiff must now serve the complaint on all named defendants and file proofs of service with the court within the extended timeframe.
+..................... .....................
+On 2025-02-05_12:44:10.553705
+The summary displayed below was created by an LLM named:  "mixtral-8x7b-32768":
+case\_number: 23NWCV02278
+hearing\_date: September 20, 2023
+dept: C Fernandez
+plaintiff: C Fernandez
+defendant: Kang
+people:
+- C Fernandez
+- Kang
+places:
+- Court
+dates:
+- July 21, 2023 (Complaint filed)
+- September 19, 2023 (Time for service elapsed)
+- September 20, 2023 (Hearing date)
+events:
+- Filing of the complaint
+- Request for extension of time to serve the pleading
+- Continuance of the case management conference
+money: N/A
+intentions:
+- Plaintiff's intention to serve the defendant with the complaint
+facts:
+- The complaint was filed on July 21, 2023
+- The time for service would have elapsed on September 19, 2023
+- The ex parte application was filed on September 19, 2023 before the time for service elapsed
+- The application is accompanied by a declaration from Counsel
+disputes:
+- None mentioned in the document
+acts:
+- Filing of the complaint
+- Request for extension of time to serve the pleading
+- Continuance of the case management conference
+agreements:
+- None mentioned in the document
+laws:
+- CRC Rule 3.110(b) (complaint must be served on all named defendants and proofs of service must be filed with the court within 60 days after the filing of the complaint)
+- CRC Rule 3.110(e) (application for a court order extending the time to serve a pleading must be filed before the time for service has elapsed, accompanied by a declaration showing why service has not been completed, documenting the efforts that have been made to complete service, and specifying the date by which service is proposed to be completed)
+case\_citations: N/A
+statutes: N/A
+roles:
+- Judge (author of the tentative ruling)
+- Plaintiff (C Fernandez)
+- Defendant (Kang)
+- Counsel (filed the declaration)
+significant\_statements:
+- The plaintiff's ex parte application for extension of time to serve the pleading and for an order continuing the case management conference is granted.
+- The plaintiff must serve the defendant with the complaint within 60 days after the filing of the complaint.
+- The plaintiff's application was filed before the time for service elapsed, and it was accompanied by a declaration from Counsel in compliance with CRC Rule 3.110(e).

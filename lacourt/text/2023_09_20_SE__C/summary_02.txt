@@ -222,3 +222,31 @@ On 2025-02-05_12:08:01.708484
 The summary displayed below was created by an LLM named:  "llama-3.3-70b-specdec":
 Exception:
 Error code: 429 - {'error': {'message': 'Rate limit reached for model `llama-3.3-70b-specdec` in organization `org_01hw84cjv0f12v63qt47723ar2` service tier `on_demand` on : Limit 100000, Used 99029, Requested 1493. Please try again in 7m30.988s. Visit https://console.groq.com/docs/rate-limits for more information.', 'type': '', 'code': 'rate_limit_exceeded'}}
+..................... .....................
+On 2025-02-05_12:18:03.616968
+The summary displayed below was created by an LLM named:  "mixtral-8x7b-32768":
+summary:
+  Case_Number: 20STCV38744
+  Hearing_Date: September 20, 2023
+  Dept: C
+  Plaintiff: Miguel Pena
+  Defendants: La Noria Entertainment, Total Production Group
+  People_Names: Dr. Stephanie Lopez
+  Company_Names: La Noria Entertainment, Total Production Group, City of Pico Rivera
+  Places: Not specified
+  Dates: October 4, 2019 to present
+  Events: Plaintiff filed a Complaint against Defendants and the City of Pico Rivera alleging Battery, Negligence, Intentional Infliction of Emotion Distress, and Negligent Hiring for an alleged incident involving a security guard injuring Plaintiff. Plaintiff has since added numerous parties by way of Doe Amendments. Defendants issued three subpoenas to Plaintiff’s primary care physician, Dr. Stephanie Lopez.
+  Money: Not specified
+  Intentions: Defendants seek to obtain medical records of Plaintiff from Dr. Stephanie Lopez.
+  Facts: Plaintiff has continuing headaches, blurry vision, dizziness, decreased hearing acuity, right ear tinnitus, neck pain, insomnia, sadness, concentration, word finding difficulties, and PTSD.
+  Disputes: Plaintiff objected to the subpoenas on the grounds that they were overbroad as to scope and time.
+  Acts: The court quashes Defendants’ subpoenas and orders them to reissue the subpoenas with the limitation as to injuries identified in Plaintiff’s response to Form Interrogatory 6.3 within the past five years.
+  Agreements: The parties agree that Plaintiff waived his privacy rights as to the complaints and conditions found within Plaintiff’s response to Form Interrogatory 6.3.
+  Laws: CCP § 1987.1
+  Case_Citations: Vinson v. Superior Court (1987) 43 Cal.3d 833
+  Statutes: Not specified
+  Roles: Plaintiff is the person who filed a Complaint against Defendants. Defendants are the parties being sued by Plaintiff.
+  Significant_Statements: The court finds that Plaintiff’s request for sanctions is procedurally defective and denies it.
+
+English text:
+The tentative ruling for Case No. 20STCV38744 grants Plaintiff Miguel Pena’s motion to quash Defendants La Noria Entertainment, Inc and Total Production Group, Inc’s subpoenas. The subpoenas, which sought medical records from Plaintiff’s primary care physician, Dr. Stephanie Lopez, were found to be overbroad as to scope and time. The subpoenas sought medical records from October 4, 2009 to the present, but the court limited the scope to injuries identified in Plaintiff’s response to Form Interrogatory 6.3 within the past five years. Plaintiff’s request for sanctions was denied as it was procedurally defective.
