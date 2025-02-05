@@ -47,3 +47,182 @@ Significant Statements:
 And here is the English-text summary:
 
 The Judge's tentative ruling is based on the information presented before the hearing. The opposition to the Defendant's motion is lacking in analysis and is largely a recitation of various laws. The Defendant notes that the Plaintiff has added new allegations and pleads inconsistent allegations, but the Court finds that these allegations do not amount to sham pleadings. The Plaintiff's opposition also takes issue with the Defendant's citations, claiming they are inapposite, but the Defendant's motion has provided definitions of malice, oppression, and fraud that undermine the Plaintiff's conclusory allegations of fraud. The Court will not elaborate on the inconsistencies in the Plaintiff's allegations. The Judge intends to dismiss or strike certain allegations and to analyze the opposition.
+..................... .....................
+On 2025-02-05_03:22:19.342358
+The summary displayed below was created by an LLM named:  "gemma2-9b-it":
+## Tentative Ruling Summary in YAML
+
+```yaml
+Case Number:  
+Plaintiff's Name: 
+Defendant's Name: 
+People-Names: 
+Company-Names: 
+Places: 
+Dates: 
+Events: 
+Money: 
+Intentions: 
+Facts: 
+Disputes: 
+    - Defendant argues Plaintiff's allegations are inconsistent and amount to "sham pleadings".
+    - Plaintiff argues Defendant's cited cases are inapposite.
+Acts:  
+Agreements: 
+Laws: 
+Case Citations: 
+Statutes: 
+Roles: 
+    - Plaintiff: Seeking to oppose Defendant's motion.
+    - Defendant: Moving to dismiss Plaintiff's claims.
+Significant Statements: 
+    - Judge finds Defendant's argument regarding "sham pleadings" lacks analysis.
+    - Judge finds Defendant's provided definitions of malice, oppression, and fraud undermine Plaintiff's conclusory allegations. 
+```
+
+## English Summary
+
+The judge has issued a tentative ruling regarding a motion filed by the Defendant to dismiss the Plaintiff's claims. The judge finds that the Defendant's argument that Plaintiff's allegations are inconsistent and constitute "sham pleadings" is not well-supported. The judge also notes that the Defendant provided definitions of legal terms (malice, oppression, fraud) which, according to the judge, weaken the Plaintiff's allegations of fraud.  
+
+
+The judge does not elaborate further on these points, suggesting they will be addressed in more detail at the upcoming hearing. 
+
+..................... .....................
+On 2025-02-05_03:22:44.965463
+The summary displayed below was created by an LLM named:  "llama3-8b-8192":
+Here is the summary in YAML format:
+```
+Case Number: (Not specified)
+Plaintiff's Name: (Not specified)
+Defendant's Name: (Not specified)
+People-Names:
+  - Plaintiff
+  - Defendant
+Company-Names: (None)
+Places: (None)
+Dates: (None)
+Events:
+  - Motion
+  - Opposition
+  - Leave to amend
+Money: (None)
+Intentions:
+  - To analyze the opposition
+  - To address inconsistencies in pleadings
+  - To undermine conclusory allegations of fraud
+Facts:
+  - Plaintiff added new allegations
+  - Defendant provided definitions of malice, oppression, and fraud
+Disputes:
+  - Sham pleadings
+  - Inconsistencies in pleadings
+  - Inapposite cases
+Acts:
+  - Plaintiff's opposition
+  - Defendant's motion
+Agreements: (None)
+Laws:
+  - Malice
+  - Oppression
+  - Fraud
+  - Leave to amend
+Case Citations: (None)
+Statutes: (None)
+Roles:
+  - Judge
+  - Plaintiff
+  - Defendant
+Significant Statements:
+  - Opposition is largely a recitation of various law without an adequate analysis
+  - Defining malice, oppression, and fraud undermines conclusory allegations of fraud
+```
+And here is a summary of the judge's tentative ruling in English text:
+
+The judge has reviewed the opposition to the defendant's motion and finds that it is largely a recitation of various laws without adequate analysis. The defendant has also pointed out inconsistencies in the plaintiff's pleadings, but has not provided sufficient explanation for why these inconsistencies amount to "sham pleadings" that would require the court to consider the plaintiff's prior pleadings. The judge notes that the defendant's motion provided definitions of malice, oppression, and fraud, which undermine the plaintiff's conclusory allegations of fraud. The judge will not elaborate on the issue of sham pleadings, but will consider the defendant's motion based on the definitions provided.
+..................... .....................
+On 2025-02-05_03:23:10.579456
+The summary displayed below was created by an LLM named:  "llama-3.3-70b-specdec":
+Here is a YAML summary of the tentative ruling:
+
+```yml
+Case Number: Not specified
+Plaintiff's Name: Plaintiff
+Defendant's Name: Defendant
+People-Names: None
+Company-Names: None
+Places: None
+Dates: None
+Events: 
+  - Filing of opposition by Plaintiff
+  - Filing of motion by Defendant
+Money: None
+Intentions: 
+  - Plaintiff intends to prove allegations of fraud
+  - Defendant intends to undermine Plaintiff's allegations
+Facts: 
+  - Plaintiff has added new allegations
+  - Plaintiff's allegations are inconsistent
+  - Defendant's motion provides definitions of malice, oppression, and fraud
+Disputes: 
+  - Plaintiff disputes Defendant's citations
+  - Defendant disputes Plaintiff's allegations of fraud
+Acts: 
+  - Plaintiff filed opposition
+  - Defendant filed motion
+Agreements: None
+Laws: 
+  - Definitions of malice, oppression, and fraud
+Case Citations: 
+  - Defendant's citations (found to be inapposite by Plaintiff)
+Statutes: None
+Roles: 
+  - Judge: author of tentative ruling
+  - Plaintiff: opposing party
+  - Defendant: moving party
+Significant Statements: 
+  - "The opposition is largely a recitation of various law without an adequate analysis."
+  - "The definitions in and of themselves undermine Plaintiff's conclusory allegations of fraud."
+```
+
+And here is a summary of the tentative ruling in English text:
+
+The Judge has issued a tentative ruling on a motion filed by the Defendant. The Judge finds that the Plaintiff's opposition to the motion is largely a recitation of law without adequate analysis. The Defendant had noted that the Plaintiff has added new allegations and pleaded inconsistent allegations, but the Judge does not find that these allegations amount to "sham pleadings". The Plaintiff takes issue with the Defendant's citations, but the Judge notes that the Defendant's motion provides definitions of malice, oppression, and fraud that undermine the Plaintiff's allegations of fraud. The Judge does not find the Defendant's citations to be persuasive, but rather finds that the definitions provided by the Defendant are sufficient to undermine the Plaintiff's allegations. Overall, the Judge's tentative ruling suggests that the Plaintiff's opposition is not well-supported and that the Defendant's motion has raised significant doubts about the Plaintiff's allegations of fraud.
+..................... .....................
+On 2025-02-05_03:23:36.689454
+The summary displayed below was created by an LLM named:  "mixtral-8x7b-32768":
+case\_number: "TBD"
+plaintiff\_name: "Plaintiff"
+defendant\_name: "Defendant"
+people\_names: []
+company\_names: []
+places: []
+dates:
+  - "TBD"
+events:
+  - "Opposition filed by Defendant"
+  - "Court review of Defendant's motion and Plaintiff's opposition"
+money: []
+intentions:
+  - "Defendant's intention to challenge Plaintiff's allegations"
+facts:
+  - "Plaintiff added new allegations and pleaded inconsistent allegations"
+  - "Defendant provided definitions of malice, oppression, and fraud"
+disputes:
+  - "Defendant's motion cites inapposite cases"
+  - "Plaintiff's allegations of fraud are not supported by evidence"
+acts:
+  - "Defendant's opposition is largely a recitation of various law without adequate analysis"
+  - "Plaintiff's opposition takes issue with Defendant's citations"
+agreements: []
+laws:
+  - "Law of malice, oppression, and fraud"
+case\_citations: []
+statutes: []
+roles:
+  - "Judge reviewing Defendant's motion and Plaintiff's opposition"
+significant\_statements:
+  - "The court will not consider sham pleadings or exceed scope of leave to amend"
+  - "Defendant's definitions of malice, oppression, and fraud undermine Plaintiff's allegations of fraud"
+
+English text:
+The Judge has reviewed the Defendant's opposition to the Plaintiff's allegations and found that it is largely a recitation of various law without an adequate analysis. The Defendant has noted that the Plaintiff has added new allegations and pleaded inconsistent allegations, but the court does not find these to be sham pleadings or exceed the scope of leave to amend. The Plaintiff's opposition takes issue with the Defendant's citations, but the court finds that the definitions of malice, oppression, and fraud provided by the Defendant undermine the Plaintiff's allegations of fraud. Therefore, the court will not consider the sham pleadings or exceed scope of leave to amend, and the Defendant's definitions of malice, oppression, and fraud undermine the Plaintiff's allegations of fraud.
