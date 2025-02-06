@@ -45,3 +45,164 @@ Significant Statements:
 And here is a summary of the judge's tentative ruling in English text:
 
 The judge has issued a tentative ruling on a motion to deem matters admitted. The plaintiff, James Dutton, moved for an order deeming the truth of certain facts and the genuineness of certain documents admitted. The defendant, Robert Ouriel, did not respond to the motion until he requested it via email, but did not rebut the presumption of service in light of facially valid proof of service. Additionally, Ouriel provided proof of service of substantially compliant responses to the requests for admission prior to the hearing. The judge has denied the motion as moot, as the responses to the requests for admission were served prior to the hearing. The judge also notes that sanctions are still mandatory, but since the plaintiff failed to notice any sanctions against the defendant, sanctions cannot be granted.
+..................... .....................
+On 2025-02-06_10:15:25.885137
+The summary displayed below was created by an LLM named:  "gemma2-9b-it":
+## Tentative Ruling Summary in YAML Format:
+
+```yaml
+Case Number: 19SMCV00329
+Hearing Date: September 21, 2023
+Plaintiff's Name: James Dutton
+Defendant's Name: Robert Ouriel
+People-Names: James Dutton, Robert Ouriel
+Company-Names: 
+Places: 
+Dates: August 25, 2023, September 21, 2023
+Events: 
+    - Plaintiff filed a Motion to Deem Matters Admitted
+    - Defendant served substantially compliant responses to the Requests for Admission prior to the hearing
+Intentions: Plaintiff sought to deem certain facts and documents as admitted by the Defendant.
+Facts: 
+    - Defendant did not receive the motion until requested via email.
+    - Defendant served substantially compliant responses to the RFAs prior to the hearing.
+Disputes: Defendant argued he did not receive the motion in time.
+Acts: Plaintiff propounded Requests for Admission, Set Two. Defendant served responses to the RFAs.
+Agreements: 
+Laws: Code of Civil Procedure section 2033.280(b), Code of Civil Procedure section 2033.220, Code of Civil Procedure section 2023.010 et seq.
+Case Citations: 
+Statutes: 
+Roles: 
+    - Plaintiff: James Dutton
+    - Defendant: Robert Ouriel
+Significant Statements: 
+    - "Failure to timely respond to RFA does not result in automatic admissions."
+    - "The court “shall” grant the motion to deem RFA admitted, “unless it finds that the party to whom the requests for admission have been directed has served, before the hearing on the motion, a proposed response to the requests for admission that is in substantial compliance with Section 2033.220.”
+
+
+
+```
+
+## English Summary:
+
+In this case, Plaintiff James Dutton filed a motion to deem certain facts and documents admitted by Defendant Robert Ouriel.  
+
+The court determined that the motion was moot because Defendant Ouriel served substantially compliant responses to the Requests for Admission prior to the hearing. Although sanctions are generally mandatory for failure to respond to RFAs, the Plaintiff did not request any sanctions in this instance, so the court could not grant them. 
+
+As a result, the court denied the Plaintiff's motion as moot. 
+
+
+
+..................... .....................
+On 2025-02-06_10:15:51.837973
+The summary displayed below was created by an LLM named:  "llama3-8b-8192":
+Here is the summary of the judge's tentative ruling in YAML format:
+
+```
+Case Number: 19SMCV00329
+Plaintiff's Name: James Dutton
+Defendant's Name: Robert Ouriel
+People-Names:
+  - James Dutton
+  - Robert Ouriel
+Company-Names:
+Places:
+Dates:
+  - September 21, 2023
+  - August 25, 2023
+Events:
+  - Motion to Deem Matters Admitted
+  - Service of responses to RFAs
+  - Failure to respond to RFAs
+Money:
+  - Monetary sanctions
+Intentions:
+  - Deem truth of facts and genuineness of documents
+  - Grant or deny motion
+Facts:
+  - Plaintiff propounded RFAs to defendant
+  - Defendant did not respond to RFAs
+  - Defendant served responses to RFAs before hearing
+Disputes:
+  - Whether defendant received motion
+  - Whether responses to RFAs were timely
+  - Whether sanctions should be granted
+Acts:
+  - Propounding RFAs
+  - Serving responses to RFAs
+  - Moving for order to deem matters admitted
+Agreements:
+  - None mentioned
+Laws:
+  - Code of Civil Procedure section 2033.280(b)
+  - Code of Civil Procedure section 2033.280(c)
+  - Code of Civil Procedure section 2023.010
+Statutes:
+  - California Code of Civil Procedure
+Roles:
+  - Plaintiff: James Dutton
+  - Defendant: Robert Ouriel
+  - Judge: (unspecified)
+Significant Statements:
+  - "Failure to timely respond to RFA does not result in automatic admissions."
+  - "The court shall grant the motion to deem RFA admitted, unless it finds that the party to whom the requests for admission have been directed has served, before the hearing on the motion, a proposed response to the requests for admission that is in substantial compliance with Section 2033.220."
+```
+
+And here is a summary of the judge's tentative ruling in English text:
+
+The judge's tentative ruling addresses a motion filed by Plaintiff James Dutton seeking an order to deem the truth of certain facts and the genuineness of documents admitted. The motion was propounded to Defendant Robert Ouriel in the form of Requests for Admission (RFAs). Mr. Ouriel did not respond to the RFAs, but subsequently served responses to the RFAs before the hearing on the motion. The judge finds that the motion is moot because the defendant has already provided substantially compliant responses to the RFAs. As a result, the judge denies the motion as moot. The judge also notes that sanctions are still mandatory, but since the plaintiff did not request sanctions, they cannot be granted.
+..................... .....................
+On 2025-02-06_10:16:17.069248
+The summary displayed below was created by an LLM named:  "llama-3.3-70b-specdec":
+Exception:
+Error code: 429 - {'error': {'message': 'Rate limit reached for model `llama-3.3-70b-specdec` in organization `org_01hw84cjv0f12v63qt47723ar2` service tier `on_demand` on : Limit 100000, Used 100649, Requested 727. Please try again in 19m48.918999999s. Visit https://console.groq.com/docs/rate-limits for more information.', 'type': '', 'code': 'rate_limit_exceeded'}}
+..................... .....................
+On 2025-02-06_10:26:18.313800
+The summary displayed below was created by an LLM named:  "mixtral-8x7b-32768":
+case\_number: 19SMCV00329
+hearing\_date: September 21, 2023
+case\_name: Dutton, et al., v. Domanavski, et al.
+plaintiff: James Dutton
+defendants:
+- Robert Ouriel
+people\_names:
+- Dutton
+- Domanavski
+- Ouriel
+places:
+- M Department
+dates:
+- August 25, 2023
+- September 21, 2023
+events:
+- Plaintiff served Requests for Admission (RFA) to Defendant
+- Defendant did not receive the motion
+- Defendant served substantially compliant responses to RFA
+- Plaintiff failed to notice any sanctions against Defendant
+money: N/A
+intentions:
+- Plaintiff seeks an order deeming the truth of the facts and genuineness of documents
+- Defendant opposed the motion due to lack of receipt
+facts:
+- Plaintiff served RFA to Defendant
+- Defendant served substantially compliant responses before the hearing
+disputes:
+- Defendant's claim of not receiving the motion
+acts:
+- Service of RFA
+- Opposition of the motion
+- Service of substantially compliant responses
+agreements: N/A
+laws:
+- Code of Civil Procedure section 2033.280(b)
+- Chapter 7 (commencing with Section 2023.010)
+case\_citations: N/A
+statutes: N/A
+roles:
+- Plaintiff: moving party
+- Defendant: opposing party
+significant\_statements:
+- The court shall grant the motion to deem RFA admitted, unless the party served with the requests has served a proposed response prior to the hearing.
+- Defendant served substantially compliant responses before the hearing, making the motion moot.
+- Plaintiff failed to notice any sanctions against Defendant, therefore sanctions cannot be granted.
+- The motion is denied as moot.
