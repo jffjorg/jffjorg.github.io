@@ -162,3 +162,45 @@ On 2025-02-06_00:55:57.216719
 The summary displayed below was created by an LLM named:  "llama-3.3-70b-specdec":
 Exception:
 Error code: 429 - {'error': {'message': 'Rate limit reached for model `llama-3.3-70b-specdec` in organization `org_01hw84cjv0f12v63qt47723ar2` service tier `on_demand` on : Limit 100000, Used 99963, Requested 362. Please try again in 4m40.344s. Visit https://console.groq.com/docs/rate-limits for more information.', 'type': '', 'code': 'rate_limit_exceeded'}}
+..................... .....................
+On 2025-02-06_01:05:58.488879
+The summary displayed below was created by an LLM named:  "mixtral-8x7b-32768":
+case\_number: 21STCV11608
+hearing\_date: September 21, 2023
+dept: 39
+plaintiff\_names:
+- Katherine Rickey
+defendant\_name: Nissan North America, Inc.
+people\_names: []
+company\_names:
+- Nissan North America, Inc.
+places: []
+dates:
+- November 9, 2023
+events:
+- Order to Show Cause re: Dismissal continued to November 9, 2023
+- Hearing for any motion for attorney's fees
+- Notice of dismissal with prejudice if plaintiff's counsel does not appear
+money: []
+intentions:
+- The court advances and continues the Order to Show Cause re: Dismissal
+- The court shall hear any motion for attorney's fees on November 9, 2023
+- The court orders plaintiff's counsel to file any motion for attorney's fees in advance
+facts:
+- Plaintiff's counsel did not provide sufficient notice for a motion for attorney's fees
+disputes:
+- The dismissal of the case
+acts:
+- The court orders plaintiff's counsel to file any motion for attorney's fees sufficiently in advance
+agreements: []
+laws: []
+case\_citations: []
+statutes: []
+roles:
+- Plaintiff: Katherine Rickey
+- Defendant: Nissan North America, Inc.
+significant\_statements:
+- The court will dismiss the case with prejudice if plaintiff's counsel does not appear on November 9, 2023.
+
+English summary:
+Judge Rickey has issued a tentative ruling for the case of Katherine Rickey v. Nissan North America, Inc. (Case No. 21STCV11608) for a hearing on September 21, 2023 in Dept. 39. The judge has continued the Order to Show Cause re: Dismissal to November 9, 2023, where they will hear any motion for attorney's fees. Plaintiff's counsel is ordered to file any motion for attorney's fees sufficiently in advance of November 9, 2023 to afford statutory notice. The judge has provided notice that if plaintiff's counsel does not appear, either remotely or in-person, without good cause, the case will be dismissed with prejudice at the upcoming hearing. Plaintiff's counsel is required to provide notice and file proof of such with the court.
