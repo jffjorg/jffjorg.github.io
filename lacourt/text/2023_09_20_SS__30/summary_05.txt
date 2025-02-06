@@ -51,3 +51,207 @@ significant_statements:
 And here is a summary of the judge's tentative ruling in English text:
 
 The judge is granting the motion of Charles E. Smith, the plaintiff's counsel, to be relieved from representing the plaintiff. The motion was filed with necessary documents, including a notice of motion, an order granting attorney's motion to be relieved, and a declaration in support. The judge is satisfied that the counsel has a compelling reason to withdraw. The next hearing in the case is a final conference on December 22, 2023, and trial is set to begin on January 5, 2024. The judge is requiring the counsel to serve a copy of the signed order on the client and all parties that have appeared in the case, and the effective date of the order relieving counsel is delayed until proof of service has been filed with the court.
+..................... .....................
+On 2025-02-05_18:44:19.088666
+The summary displayed below was created by an LLM named:  "gemma2-9b-it":
+## Tentative Ruling Summary in YAML
+
+```yaml
+Case Number: 22STCV22226
+Hearing Date: September 20, 2023
+Dept: 30
+Plaintiff's Name: Charles Smith
+Defendant's Name: Richard Poe Suaava, et al.
+People-Names: 
+  - Charles Smith
+  - Richard Poe Suaava
+Company-Names: 
+Places: 
+Dates: 
+  - September 20, 2023
+  - December 22, 2023
+  - January 5, 2024
+Events:
+  - Motion to be Relieved as Counsel for Plaintiff filed
+  - Hearing on Motion to be Relieved as Counsel
+  - Tentative Ruling granting Motion to be Relieved as Counsel
+Money: 
+Intentions:
+  - Counsel seeks to be relieved as Plaintiff's attorney
+Facts: 
+  - Plaintiff is represented by counsel.
+  - Counsel has filed a motion to withdraw.
+Disputes: 
+Acts:
+  - Counsel filed a Notice of Motion and Motion to Be Relieved as Counsel (MC-051)
+  - Counsel filed an Order Granting Attorney’s Motion to Be Relieved as Counsel (MC-053)
+  - Counsel filed a Declaration in Support of Attorney’s Motion to Be Relieved as Counsel (MC-052)
+Agreements: 
+Laws: 
+  - CRC Rule 3.1362
+Case Citations: 
+Statutes: 
+Roles:
+  - Judge: Charles E. Smith, deciding on the motion to be relieved as counsel.
+  - Plaintiff: Charles Smith, represented by counsel.
+  - Counsel: Representing Charles Smith, seeking to withdraw.
+Significant Statements:
+  - "Counsel’s Motion to be Relieved as Counsel for Plaintiff Charles Smith is GRANTED."
+  - "The Court is satisfied that Counsel has a compelling reason to withdraw."
+
+
+
+```
+
+## English Summary
+
+The judge has issued a tentative ruling granting the motion of the Plaintiff's attorney,  [Counsel's Name], to be relieved as counsel for Charles Smith. 
+
+The judge acknowledges that the next hearing in the case is a final conference on December 22, 2023, followed by a trial scheduled for January 5, 2024.  The Court finds that the plaintiff will not be prejudiced by this withdrawal and that counsel has a valid reason for seeking to be relieved. 
+
+The order granting the motion will be effective once proof of service of a copy of the order to Charles Smith and all other parties involved in the case has been filed with the court.
+
+
+
+
+..................... .....................
+On 2025-02-05_18:44:44.853130
+The summary displayed below was created by an LLM named:  "llama3-8b-8192":
+Here is the summary in YAML format:
+
+```
+Case Number: 22STCV22226
+Plaintiff's Name: Charles E. Smith
+Defendant's Name: Richard Poe Suaava, et al.
+People Names:
+  - Charles E. Smith
+  - Richard Poe Suaava
+Company Names: None
+Places: None
+Dates:
+  - September 20, 2023
+  - December 22, 2023
+  - January 5, 2024
+Events:
+  - Hearing Date
+  - Motion to Be Relieved as Counsel
+  - Final Status Conference
+  - Trial
+Money: None
+Intentions:
+  - Counsel's Motion to be Relieved as Counsel for Plaintiff Charles Smith is GRANTED
+Facts:
+  - Counsel filed Notice of Motion, Motion to Be Relieved as Counsel, and Declaration in Support
+  - Next hearing is a final conference on December 22, 2023
+  - Trial is set to begin January 5, 2024
+Disputes:
+  - None mentioned
+Acts:
+  - Counsel's Motion to be Relieved as Counsel
+Agreements:
+  - None mentioned
+Laws:
+  - Cal. Rules of Court, rule 3.1362, subd. (a), (c), (e)
+Statutes: None
+Roles:
+  - Judge
+  - Counsel
+  - Plaintiff
+  - Defendant
+Significant Statements:
+  - Counsel has a compelling reason to withdraw
+  - Plaintiff will not be prejudiced if Counsel's motion is granted
+  - Effective date of the order relieving counsel is delayed until proof of service of a copy of the signed order on the client has been filed with the Court
+```
+
+And here is a summary of the judge's tentative ruling in English text:
+
+The judge has granted the motion of Charles Smith's counsel to be relieved as counsel for the plaintiff. The motion was filed with the court and accompanied by a declaration in support. The judge finds that the counsel has a compelling reason to withdraw and that granting the motion will not prejudice the plaintiff. The effective date of the order relieving counsel is delayed until a copy of the signed order is served on the client and filed with the court. The next hearing in the case is a final conference scheduled for December 22, 2023, and trial is set to begin on January 5, 2024.
+..................... .....................
+On 2025-02-05_18:45:10.644476
+The summary displayed below was created by an LLM named:  "llama-3.3-70b-specdec":
+Here is the summary of the tentative ruling in YAML format:
+
+```yml
+Case Number: 22STCV22226
+Plaintiff's Name: Charles E. Smith
+Defendant's Name: Richard Poe Suava
+People-Names:
+  - Charles E. Smith
+  - Richard Poe Suava
+Company-Names: []
+Places: []
+Dates:
+  - September 20, 2023
+  - December 22, 2023
+  - January 5, 2024
+Events:
+  - Motion to Be Relieved as Counsel for Plaintiff
+  - Final Status Conference
+  - Trial
+Money: []
+Intentions:
+  - Counsel's intention to withdraw as counsel for plaintiff
+Facts:
+  - Counsel filed a Notice of Motion and Motion to Be Relieved as Counsel
+  - Counsel filed a Declaration in Support of Attorney's Motion to Be Relieved as Counsel
+  - Plaintiff will not be prejudiced if Counsel's motion is granted
+Disputes: []
+Acts:
+  - Counsel's motion to be relieved as counsel for plaintiff
+Agreements: []
+Laws:
+  - California Rules of Court, rule 3.1362, subd. (a), (c), (e)
+Case Citations: []
+Statutes: []
+Roles:
+  - Counsel
+  - Plaintiff
+  - Defendant
+Significant Statements:
+  - "Counsel's Motion to be Relieved as Counsel for Plaintiff Charles Smith is GRANTED."
+  - "The effective date of the order relieving counsel is delayed until proof of service of a copy of the signed order on the client has been filed with the Court."
+```
+
+And here is a summary of the judge's tentative ruling in English text:
+
+The judge has granted the counsel's motion to be relieved as counsel for the plaintiff, Charles E. Smith, in the case 22STCV22226. The counsel had filed a notice of motion and motion to be relieved as counsel, along with a declaration in support of the motion. The judge found that the plaintiff will not be prejudiced if the counsel's motion is granted and that the counsel has a compelling reason to withdraw. The next hearing in the case is a final status conference on December 22, 2023, and the trial is set to begin on January 5, 2024. The effective date of the order relieving counsel is delayed until proof of service of a copy of the signed order on the client has been filed with the court. The moving party is required to give notice.
+..................... .....................
+On 2025-02-05_18:45:36.587652
+The summary displayed below was created by an LLM named:  "mixtral-8x7b-32768":
+case\_number: 22STCV22226
+hearing\_date: September 20, 2023
+dept: 30
+plaintiff\_name: Charles E. Smith
+defendant\_name: Richard Poe Suaava, et al.
+people\_names:
+  - Charles E. Smith
+  - Richard Poe Suaava
+company\_names:
+places:
+dates:
+  - December 22, 2023
+  - January 5, 2024
+events:
+  - Final Conference
+  - Trial
+money:
+intentions:
+  - Counsel's Motion to be Relieved as Counsel
+facts:
+  - Counsel filed a Notice of Motion and Motion to Be Relieved as Counsel
+  - Counsel filed an Order Granting Attorney’s Motion to Be Relieved as Counsel
+  - Counsel filed a Declaration in Support of Attorney’s Motion to Be Relieved as Counsel
+disputes: N/A
+acts:
+  - Withdrawal of Counsel
+agreements: N/A
+laws: CRC Rule 3.1362
+case\_citations: N/A
+statutes: N/A
+roles:
+  - Counsel
+significant\_statements:
+  - "Counsel’s Motion to be Relieved as Counsel for Plaintiff Charles Smith is GRANTED."
+  - "Plaintiff will not be prejudiced if Counsel’s motion is granted."
+  - "The Court is satisfied that Counsel has a compelling reason to withdraw."

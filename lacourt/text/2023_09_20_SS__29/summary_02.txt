@@ -247,3 +247,115 @@ On 2025-02-05_17:58:02.892931
 The summary displayed below was created by an LLM named:  "llama-3.3-70b-specdec":
 Exception:
 Error code: 429 - {'error': {'message': 'Rate limit reached for model `llama-3.3-70b-specdec` in organization `org_01hw84cjv0f12v63qt47723ar2` service tier `on_demand` on : Limit 100000, Used 98140, Requested 2060. Please try again in 2m52.662s. Visit https://console.groq.com/docs/rate-limits for more information.', 'type': '', 'code': 'rate_limit_exceeded'}}
+..................... .....................
+On 2025-02-05_18:08:05.958657
+The summary displayed below was created by an LLM named:  "mixtral-8x7b-32768":
+case\_number: 21STCV10256
+hearing\_date: September 20, 2023
+dept: 29
+
+plaintiff:
+
+* Tova Fagan
+
+defendant:
+
+* Paul Nichole Lawry
+
+people:
+
+* Tova Fagan
+* Barry Fagan
+* Noah Fagan
+
+companies: []
+
+places: []
+
+dates:
+
+* March 15, 2021: complaint filed
+* July 22, 2022: first amended complaint filed
+* December 11, 2020: vehicle accident
+* September 14, 2022: defendant served discovery requests
+
+events:
+
+* defendant's filing of three discovery motions on July 19, 2023
+* plaintiff's opposition to the motions on September 6
+* defendant's reply on September 13
+
+money:
+
+* $360 per motion for sanctions
+* $60 filing fee
+
+intentions:
+
+* defendant's intention to compel responses to discovery requests
+* defendant's intention to seek monetary sanctions
+
+facts:
+
+* defendant served discovery requests and plaintiff did not respond
+* plaintiff had health issues but had enough time to respond
+* initial trial date was in September 2022 but was continued
+* discovery cutoff is based on initial trial date
+* plaintiff argues that discovery is unduly burdensome
+* court finds nothing excessive in the discovery requests
+* court strikes request for documents related to plaintiff's legal status
+
+disputes:
+
+* plaintiff's failure to respond to discovery requests
+* plaintiff's argument that discovery is unduly burdensome
+
+acts:
+
+* defendant serving discovery requests
+* plaintiff not responding to discovery requests
+* court granting motions to compel in part
+* court ordering plaintiff to provide responses to discovery requests
+* court striking request for documents related to plaintiff's legal status
+* court granting sanctions in part
+* court ordering plaintiff to pay monetary sanctions
+
+agreements: none
+
+laws:
+
+* Code Civ. Proc., § 2030.260, subd. (a): party must respond to interrogatories within 30 days after service
+* Code Civ. Proc., § 2030.290, subd. (b): propounding party may move for an order compelling response to interrogatories if the party does not provide a timely response
+* Code Civ. Proc., § 2030.290, subd. (c): court shall impose a monetary sanction against a party who unsuccessfully makes or opposes a motion to compel a response to interrogatories
+* Code Civ. Proc., § 2031.260, subd. (a): party must respond to requests for production of documents within 30 days after service
+* Code Civ. Proc., § 2031.300, subd. (b): requesting party may move for an order compelling response to requests for production of documents if the party does not provide timely responses
+* Code Civ. Proc., § 2031.300, subd. (c): court shall impose a monetary sanction against a party who unsuccessfully makes or opposes a motion to compel a response to requests for production of documents
+* Code Civ. Proc., § 2023.010, subd. (d): misuses of the discovery process include failing to respond to or to submit to an authorized method of discovery
+* Code Civ. Proc., § 2023.030, subd. (a): court may impose a monetary sanction in the amount of reasonable expenses, including attorney's fees, incurred by anyone as a result of misuses of the discovery process
+
+case\_citations: none
+
+statutes: see laws
+
+roles:
+
+* plaintiff: Tova Fagan, Barry Fagan, Noah Fagan
+* defendant: Paul Nichole Lawry
+* judge: responsible for the tentative ruling
+
+significant\_statements:
+
+* "Defendant’s motions to compel are GRANTED in part."
+* "Defendant’s request for sanctions is GRANTED in part."
+* "Plaintiff has never served responses."
+* "There is no time limit for a motion to compel initial responses, and no meet and confer efforts are required."
+* "In addition, a party who fails to provide a timely response generally waives all objections."
+* " ‘[T]he court shall impose a monetary sanction under Chapter 7 (commencing with Section 2023.010) against any party, person, or attorney who unsuccessfully makes or opposes a motion to compel a response to interrogatories, unless it finds that the one subject to the sanction acted with substantial justification or that other circumstances make the imposition of the sanction unjust.’ "
+* " ‘[T]he court shall impose a monetary sanction under Chapter 7 (commencing with Section 2023.010) against any party, person, or attorney who unsuccessfully makes or opposes a motion to compel a response to a demand for inspection, copying, testing, or sampling, unless it finds that the one subject to the sanction acted with substantial justification or that other circumstances make the imposition of the sanction unjust.’ "
+* "Where a party or attorney has engaged in misuse of the discovery process, the court may impose a monetary sanction in the amount of ‘the reasonable expenses, including attorney’s fees, incurred by anyone as a result of that conduct.’ "
+* "Defendant has shown that she served Form Interrogatories (Set One), Special Interrogatories (Set One), and Request for Production (Set One) on Plaintiff, and Plaintiff never responded."
+* "Plaintiff has unsuccessfully opposed a motion to compel, she has not acted with substantial justification, and there is no evidence that the imposition of sanctions would be unjust."
+* "The Court, on its own motion, STRIKES Defendant’s Request for Production No. 12."
+
+Summary:
+The tentative ruling by the Judge is that defendant's motions to compel responses to discovery requests are granted in part, and defendant's request for sanctions is granted in part. The defendant served discovery requests, including Form Interrogatories, Special Interrogatories, and Request for Production, on the plaintiff, and the plaintiff never responded. The plaintiff had health issues, but there was enough time to respond. The discovery cutoff is based on the initial trial date, but the discovery deadlines were extended due to the COVID-19 pandemic. The plaintiff argues that the discovery is unduly burdensome, but the court finds nothing excessive in the discovery requests. The court strikes one request for documents related to the plaintiff's legal status. Monetary sanctions are awarded against the plaintiff in the amount of $1,080 ($360 per motion multiplied by three motions). The plaintiff is ordered to provide verified, code-compliant responses to the defendant's discovery requests within 30 days of notice of this order.
