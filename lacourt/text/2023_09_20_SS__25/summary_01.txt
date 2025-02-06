@@ -249,3 +249,73 @@ On 2025-02-05_14:34:44.689183
 The summary displayed below was created by an LLM named:  "llama-3.3-70b-specdec":
 Exception:
 Error code: 429 - {'error': {'message': 'Rate limit reached for model `llama-3.3-70b-specdec` in organization `org_01hw84cjv0f12v63qt47723ar2` service tier `on_demand` on : Limit 100000, Used 98649, Requested 2674. Please try again in 19m2.855s. Visit https://console.groq.com/docs/rate-limits for more information.', 'type': '', 'code': 'rate_limit_exceeded'}}
+..................... .....................
+On 2025-02-05_14:44:46.649617
+The summary displayed below was created by an LLM named:  "mixtral-8x7b-32768":
+case\_number: 20STLC05524
+hearing\_date: September 20, 2023
+dept: 25
+parties:
+  - name: State Farm Mutual Automobile Insurance Company
+    role: plaintiff
+  - name: Guadalupe Garcia
+    role: defendant
+people:
+  - name: Guadalupe Garcia
+    role: defendant
+companies:
+  - name: State Farm Mutual Automobile Insurance Company
+    role: plaintiff
+  - name: Infinity Insurance
+    role: defendant's insurance carrier
+places:
+  - state: California
+    code: CA
+dates:
+  - July 1, 2020
+  - October 5, 2020
+  - June 22, 2021
+  - July 15, 2021
+  - June 28, 2023
+events:
+  - plaintiff filed a lawsuit against defendant
+  - plaintiff compensated its insured for claimed damages
+  - defendant filed an answer to the complaint
+  - parties signed a stipulation for settlement and entry of judgment
+  - court dismissed the case without prejudice
+  - plaintiff filed a motion to vacate dismissal, enforce settlement agreement, and enter judgment
+disputes:
+  - plaintiff's claim for subrogation
+acts:
+  - plaintiff filed a lawsuit
+  - plaintiff compensated its insured
+  - defendant filed an answer
+  - parties signed a stipulation for settlement
+  - plaintiff filed a motion to vacate dismissal
+agreements:
+  - stipulation for settlement and entry of judgment
+laws:
+  - CCP § 664.6
+  - Los Angeles County Superior Court Local Rule 3.214
+facts:
+  - plaintiff filed a lawsuit against defendant for subrogation
+  - plaintiff compensated its insured for claimed damages
+  - defendant filed an answer to the complaint
+  - parties signed a stipulation for settlement and entry of judgment
+  - defendant stopped making payments and did not respond to plaintiff's written notice of default
+  - plaintiff filed a motion to vacate dismissal, enforce settlement, and enter judgment
+money:
+  - $21,815.33: claimed damages
+  - $14,500: settlement amount
+  - $10,000: payment by defendant's insurance carrier
+  - $4,500: remaining balance
+  - $13,609.67: judgment amount
+intentions:
+  - plaintiff seeks to enforce the settlement agreement and enter judgment
+  - plaintiff seeks attorney's fees and costs
+significant\_statements:
+  - the court retained jurisdiction to enforce the settlement agreement
+  - the stipulation for settlement and entry of judgment is valid and enforceable
+  - plaintiff is entitled to the settlement amount, less any payments made, costs incurred in enforcing the Stipulation, interest, and attorney's fees
+  - plaintiff's request for attorney's fees and costs is reasonable
+  - plaintiff's motion to vacate dismissal, enforce settlement, and enter judgment is granted
