@@ -47,3 +47,174 @@ Significant Statements:
 And here is the English-text summary:
 
 The judge's tentative ruling grants a petition for Minor's Compromise, approving a compromise of a pending action for 3-year-old Penelope Rae Estrada. The petition was unopposed, and the court orders the petitioner, Raylynn Estrada, to give notice of the court's order and file proof of service. The parties are encouraged to meet and confer to determine if a resolution may be reached, and if not, they should appear in-person or remotely at the hearing on September 20, 2023.
+..................... .....................
+On 2025-02-05_20:12:25.380401
+The summary displayed below was created by an LLM named:  "gemma2-9b-it":
+## Tentative Ruling Summary in YAML
+
+```yaml
+Case Number: 21STCV14568
+Hearing Date: September 20, 2023
+Department: 32
+People-Names:
+  - Raylynn Estrada
+  - Penelope Rae Estrada
+Company-Names: 
+  - 
+Places: 
+  - 
+Dates:
+  - September 20, 2023
+Events:
+  - Hearing on Petition for Minor's Compromise
+  - Court grants the petition
+Intentions:
+  - Petitioner Raylynn Estrada seeks approval for a minor's compromise
+Money: 
+  - 
+Facts:
+  - Penelope Rae Estrada is a 3-year-old minor.
+Disputes:
+  - Unopposed
+Acts:
+  - Petitioner filed a Petition to Approve Compromise of Pending Action of a Minor
+Agreements:
+  - 
+Laws:
+  - 
+Case Citations: 
+  - 
+Statutes: 
+  - 
+Roles:
+  - Raylynn Estrada: Petitioner
+  - Penelope Rae Estrada: Minor
+Significant Statements:
+  - The Court grants the petition.
+  - Petitioner shall give notice of the Court’s order and file a proof of service.
+```
+
+## English Text Summary
+
+The Court has reviewed a petition filed by Raylynn Estrada, seeking approval to settle a legal matter involving her 3-year-old daughter, Penelope Rae Estrada.  The petition was unopposed, meaning no party disagreed with the settlement. The Court has granted the petition, approving the settlement. The petitioner is required to formally notify the Court about the decision and provide proof of service to all parties involved. 
+
+
+
+
+..................... .....................
+On 2025-02-05_20:12:50.993330
+The summary displayed below was created by an LLM named:  "llama3-8b-8192":
+Here is the summary in YAML format:
+
+```
+Case Number: 21STCV14568
+Plaintiff's Name: Raylynn Estrada
+Defendant's Name: (Unopposed)
+People-Names:
+  - Penelope Rae Estrada (age 3)
+Company-Names: None
+Places: None
+Dates:
+  - Hearing Date: September 20, 2023
+Events:
+  - Petition to Approve Compromise of Pending Action of a Minor
+Money: None
+Intentions:
+  - The Court grants the petition
+Facts:
+  - The petition is for the compromise of a pending action of a minor, Penelope Rae Estrada (age 3)
+Disputes: None
+Acts:
+  - Petitioner shall give notice of the Court's order
+Agreements: None
+Laws: None
+Case Citations: None
+Statutes: None
+Roles:
+  - Petitioner: Raylynn Estrada
+  - Opposing Party: Unopposed
+Significant Statements:
+  - The Court has reviewed the Petition to Approve Compromise of Pending Action of a Minor
+  - Petitioner shall file a proof of service of the Court's order
+```
+
+And here is a summary of the judge's tentative ruling in English text:
+
+The judge has reviewed the petition to approve a compromise of a pending action of a minor, Penelope Rae Estrada (age 3). The judge grants the petition. The petitioner, Raylynn Estrada, must give notice of the court's order and file a proof of service.
+..................... .....................
+On 2025-02-05_20:13:16.700435
+The summary displayed below was created by an LLM named:  "llama-3.3-70b-specdec":
+Here is a YAML summary of the legal document:
+
+```yml
+Case Number: 21STCV14568
+Plaintiff's Name: Raylynn Estrada
+Defendant's Name: None (Unopposed)
+People-Names:
+  - Raylynn Estrada
+  - Penelope Rae Estrada
+Company-Names: None
+Places:
+  - Los Angeles County (implied by lacourt.org)
+Dates:
+  - September 20, 2023 (Hearing Date)
+Events:
+  - Hearing on Petition for Minor's Compromise
+  - Filing of Petition to Approve Compromise of Pending Action of a Minor
+Money: None
+Intentions:
+  - Petitioner seeks to approve a compromise of a pending action on behalf of a minor
+Facts:
+  - Penelope Rae Estrada is a minor (age 3)
+  - Raylynn Estrada is the petitioner (likely the minor's parent or guardian)
+Disputes: None (Unopposed)
+Acts:
+  - Petitioner filed a Petition to Approve Compromise of Pending Action of a Minor
+  - Court grants the petition
+Agreements: None
+Laws: None (specific laws not mentioned)
+Case Citations: None
+Statutes: None (specific statutes not mentioned)
+Roles:
+  - Petitioner: Raylynn Estrada
+  - Minor: Penelope Rae Estrada
+  - Court: Los Angeles County Superior Court (Dept 32)
+Significant Statements:
+  - "The Court grants the petition."
+  - "Petitioner shall give notice of the Court's order and file a proof of service of such."
+```
+
+And here is a summary of the judge's tentative ruling in English text:
+
+The judge has issued a tentative ruling in the case of 21STCV14568, which involves a petition to approve a compromise of a pending action on behalf of a minor, Penelope Rae Estrada (age 3). The petitioner, Raylynn Estrada, has filed a petition to approve the compromise, and the court has reviewed the petition. Since there is no opposition, the court grants the petition. The petitioner is required to give notice of the court's order and file a proof of service. The parties are encouraged to meet and confer to determine if a resolution can be reached, and if not, they should arrange to appear in-person or remotely at the hearing. If all parties submit on the tentative ruling, the court may adopt it as the final order.
+..................... .....................
+On 2025-02-05_20:13:42.412130
+The summary displayed below was created by an LLM named:  "mixtral-8x7b-32768":
+case\_number: 21STCV14568
+hearing\_date: September 20, 2023
+dept: 32
+people:
+- name: Raylynn Estrada
+  role: Petitioner
+- name: Penelope Rae Estrada
+  role: Minor
+events:
+- name: Filing of Petition for Minor's Compromise
+disputes:
+- name: None (unopposed)
+acts:
+- name: Granting of Petition for Minor's Compromise
+money: None
+intentions:
+- name: Petitioner to give notice of Court's order and file proof of service
+facts:
+- name: Penelope Rae Estrada is a minor (age 3)
+agreements: None
+laws: None
+case\_citations: None
+statutes: None
+roles:
+- name: Judge
+significant\_statements:
+- name: The Court grants the petition for the approval of the compromise of a pending action of a minor.
+- name: Petitioner shall give notice of the Court's order and file a proof of service of such.

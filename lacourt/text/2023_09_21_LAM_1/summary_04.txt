@@ -67,3 +67,179 @@ Significant Statements:
 And here is the English-text summary:
 
 The Judge has issued a tentative ruling denying Plaintiff Christopher Roberts' motion to transfer the case from the Southeast District to the Central District. The Judge finds that Plaintiff has not demonstrated a transfer is warranted based on the Local Rules of the Los Angeles Superior Court, which govern the assignment of cases between districts and departments. Specifically, the Judge notes that the case was properly filed in the Southeast District, where the Defendant resides and does business, and that Plaintiff has not shown that he attempted to file the case in the Central District. The Judge also rejects Plaintiff's reliance on his counsel's filing difficulties in a different case, finding that it is not relevant to the instant case. As a result, the motion is denied with prejudice.
+..................... .....................
+On 2025-02-05_23:35:41.118387
+The summary displayed below was created by an LLM named:  "gemma2-9b-it":
+## Tentative Ruling Summary: 
+
+**Case Number:** 23NWCV00093
+**Plaintiff's Name:** CHRISTOPHER ROBERTS
+**Defendant's Name:** ABC UNIFIED SCHOOL DISTRICT
+**People-Names:** CHRISTOPHER ROBERTS, Xie (likely referring to Plaintiff's counsel)
+
+**Company-Names:** ABC UNIFIED SCHOOL DISTRICT
+
+**Places:** Norwalk Courthouse (Southeast District), Stanley Mosk Courthouse (Central District), 16700 Norwalk Blvd., Cerritos, CA 90703
+
+**Dates:** September 21, 2023 (Hearing Date)
+
+**Events:** Defendant filed a Motion to Transfer District.
+
+**Money:** Not specified
+
+**Intentions:** Plaintiff wants to transfer the case to the Central District. Defendant seeks to keep the case in the Southeast District.
+
+**Facts:**
+* Plaintiff filed a civil case alleging employment-related claims against Defendant ABC Unified School District.
+* The case is currently assigned to the Norwalk Courthouse (Southeast District).
+* Plaintiff argues the case should be transferred to the Stanley Mosk Courthouse (Central District) due to alleged "clerical errors" by the court.
+
+**Disputes:**
+
+* Whether the case was properly filed in the Southeast District.
+* Whether the Plaintiff's alleged "clerical errors" justify a transfer.
+
+**Acts:**
+* Plaintiff filed a motion to transfer the case.
+* Plaintiff's counsel submitted a declaration in support of the motion.
+
+**Agreements:** None mentioned
+
+**Laws:**
+* Code of Civil Procedure § 402
+* Local Rules of the Los Angeles Superior Court, particularly:
+    * Rule 2.2(b)
+    * Rule 2.3(a)(1)(A)
+    * Rule 2.3(a)(1)(B)
+    * Rule 2.3(b)(2)
+
+**Case Citations:** None mentioned
+
+**Statutes:** Labor Code § 98.2
+
+**Roles:**
+* **Judge:** Deciding on the Motion to Transfer District.
+* **Plaintiff:** CHRISTOPHER ROBERTS, seeking transfer of case.
+* **Defendant:** ABC UNIFIED SCHOOL DISTRICT, opposing transfer.
+* **Plaintiff's Counsel:** Xie (represented by Plaintiff).
+
+**Significant Statements:**
+
+*  "The motion is DENIED."
+*  "Plaintiff failed to meet his burden and the motion is DENIED with prejudice." 
+*  Local Rules govern the assignment of cases and Plaintiff failed to demonstrate a transfer is warranted under the rules.
+
+
+
+
+## English-Text Summary:
+
+The judge has denied the Defendant's motion to transfer the case from the Norwalk Courthouse to the Stanley Mosk Courthouse.
+
+The judge found that the Plaintiff's complaint was properly filed in the Southeast District, as allowed by Local Rules.  The Plaintiff's argument for transfer was based on alleged "clerical errors" by the court in other cases, but there was no evidence that any such errors occurred in this specific case. The judge found that the Plaintiff failed to meet their burden of proving a transfer was warranted.  
+
+
+
+..................... .....................
+On 2025-02-05_23:36:07.102226
+The summary displayed below was created by an LLM named:  "llama3-8b-8192":
+Here is the summary in YAML format:
+
+```
+Case Number: 23NWCV00093
+Plaintiff's Name: CHRISTOPHER ROBERTS
+Defendant's Name: ABC UNIFIED SCHOOL DISTRICT
+People:
+  - CHRISTOPHER ROBERTS
+  - ABC School District
+Company:
+  - ABC School District
+Places:
+  - Los Angeles Superior Court
+  - Stanley Mosk Courthouse
+  - Central District
+  - Norwalk Courthouse
+  - Southeast District
+  - Cerritos
+Dates:
+  - September 21, 2023
+Events:
+  - Defendant's Motion to Transfer District
+  - Plaintiff's complaint filed in Southeast District
+  - Plaintiff's attempt to file case in Central District (alleged)
+Money: None
+Intentions:
+  - Defendant seeks to transfer case to Central District
+  - Plaintiff seeks to keep case in Southeast District
+Facts:
+  - Plaintiff's counsel filed case in Southeast District
+  - Plaintiff's counsel did not attempt to file case in Central District
+  - Defendant resides and does business in Southeast District
+Disputes:
+  - Whether case should be transferred to Central District
+Acts:
+  - Plaintiff filed complaint in Southeast District
+  - Defendant filed motion to transfer district
+  - Plaintiff relied on prior case filings in different district
+Agreements:
+  - Local Rules of the Los Angeles Superior Court
+  - LASC Local Rule 2.3(b)(2)
+Laws:
+  - Code Civ. Proc. § 402
+  - LASC Local Rule 2.3(a)(1)(A)
+  - LASC Local Rule 2.3(a)(1)(B)
+  - LASC Local Rule 2.2(b)
+  - LASC Local Rule 2.3(b)(2)
+Statutes:
+  - None
+Roles:
+  - Judge
+  - Plaintiff (CHRISTOPHER ROBERTS)
+  - Defendant (ABC UNIFIED SCHOOL DISTRICT)
+  - Court Administrator
+Significant Statements:
+  - "Plaintiff's motion and supporting declaration refer exclusively to Plaintiff's counsel's filing difficulties in a different case, 22SMCV02721 Chavez v. Santa Monica."
+  - "Plaintiff's reliance on its prior case filings, involving different cases and different districts, is misplaced."
+```
+
+And here is the summary in English text:
+
+The defendant, ABC Unified School District, has filed a motion to transfer the case to the Central District, and the plaintiff, Christopher Roberts, is opposing the motion. The court has reviewed the motion and the supporting declaration and has denied the motion with prejudice. The court has found that the plaintiff failed to demonstrate that the case should be transferred to the Central District and that the plaintiff's reliance on prior case filings in different districts is misplaced. The court has also found that the plaintiff's complaint was properly filed in the Southeast District, where the defendant resides and does business. The court has based its decision on the Local Rules of the Los Angeles Superior Court and the applicable statutes.
+..................... .....................
+On 2025-02-05_23:36:32.294824
+The summary displayed below was created by an LLM named:  "llama-3.3-70b-specdec":
+Exception:
+Error code: 429 - {'error': {'message': 'Rate limit reached for model `llama-3.3-70b-specdec` in organization `org_01hw84cjv0f12v63qt47723ar2` service tier `on_demand` on : Limit 100000, Used 99672, Requested 1343. Please try again in 14m36.420999999s. Visit https://console.groq.com/docs/rate-limits for more information.', 'type': '', 'code': 'rate_limit_exceeded'}}
+..................... .....................
+On 2025-02-05_23:46:33.366971
+The summary displayed below was created by an LLM named:  "mixtral-8x7b-32768":
+case\_number: 23NWCV00093
+hearing\_date: September 21, 2023
+dept: 1
+parties:
+  - name: CHRISTOPHER ROBERTS
+  - name: ABC UNIFIED SCHOOL DISTRICT
+people:
+  - name: Plaintiff's counsel
+places:
+  - name: Norwalk Courthouse
+  - name: Southeast District
+  - name: Stanley Mosk Courthouse
+  - name: Central District
+  - name: 16700 Norwalk Blvd. Cerritos, CA 90703
+events:
+  - name: Filing of 23NWCV00093
+  - name: Filing of 22SMCV02721
+disputes:
+  - name: Motion to Transfer District
+acts:
+  - name: Transfer of case based on clerical error
+agreements:
+  - name: Local Rules of the Los Angeles Superior Court
+laws:
+  - name: Code Civ. Proc. § 402
+significant\_statements:
+  - text: "The motion is DENIED."
+  - text: "Plaintiff’s motion is not supported by any applicable facts or law demonstrating a transfer of this action is warranted."
+  - text: "Plaintiff has not demonstrated a transfer is warranted based upon a ‘failure to file the case in accordance with the requirements set forth in . . . Chapter’ 2 of the Local Rules."
+  - text: "Plaintiff failed to meet his burden and the motion is DENIED with prejudice."

@@ -49,3 +49,146 @@ Significant Statements:
 And here is a summary of the judge's tentative ruling in English text:
 
 The judge is denying the plaintiff's motion for summary judgment or summary adjudication, which is an oversized brief exceeding the 20-page limit. Additionally, the plaintiff failed to comply with the rule requiring each issue to be stated verbatim in the separate statement. The judge has discretion to disregard the oversized brief and deny the motion due to non-compliance with the rule. The motion is denied without prejudice.
+..................... .....................
+On 2025-02-05_21:03:00.545219
+The summary displayed below was created by an LLM named:  "gemma2-9b-it":
+```yaml
+Case Number: 21STCV19869
+Plaintiff's Name: JANE DOE 448
+Defendant's Name: JOHN DOE 1, et al.
+People-Names: 
+  - JANE DOE 448
+  - JOHN DOE 1
+Company-Names: 
+Places: 
+  - Beverly Hills Courthouse / Department 205
+  - California
+  - Los Angeles – West District
+Dates: 
+  - September 21, 2023
+Events: 
+  - Hearing on Plaintiff’s Motion for Summary Judgment or in the Alternative, for Summary Adjudication 
+Money: 
+Intentions: 
+  - Plaintiff seeks summary judgment
+Facts: 
+  - Plaintiff filed a 33-page motion for summary judgment, exceeding the 20-page limit.
+Disputes: 
+  -  Disagreement over the legality of certain actions
+Acts: 
+  - Plaintiff filed a motion for summary judgment
+Agreements: 
+Laws: 
+  - California Rules of Court 3.1113(d)
+  - California Rules of Court 3.1300(d)
+  - California Rules of Court 3.1350(b)
+  - Code of Civil Procedure § 437c(b)(l)
+Case Citations: 
+  - Schmidlin v. City of Palo Alto (2007) 157 Cal.App.4th 728, 744
+Statutes: 
+Roles: 
+  - Judge Edward B. Moreton, Jr.
+  - Plaintiff JANE DOE 448
+  - Defendants JOHN DOE 1, et al.
+Significant Statements: 
+  - The Court has discretion to disregard oversize briefs.
+  - Each issue to be summarily adjudicated “must be stated specifically in the notice of motion and be repeated, verbatim, in the separate statement of undisputed material facts.”
+  - The Court DENIES WITHOUT PREJUDICE Plaintiff’s motion for summary judgment or in the alternative, for summary adjudication.
+
+
+
+```
+
+**English Summary:**
+
+The judge in this case has issued a tentative ruling denying the Plaintiff's motion for summary judgment or summary adjudication. The Plaintiff's motion exceeded the 20-page limit allowed for such motions. Additionally, the Plaintiff failed to properly format their separate statement, which is required to list each issue for summary adjudication verbatim. The Court denied the motion without prejudice, meaning the Plaintiff can refile it with the necessary corrections. 
+
+
+
+..................... .....................
+On 2025-02-05_21:03:26.442356
+The summary displayed below was created by an LLM named:  "llama3-8b-8192":
+Here is the summary of the tentative ruling in YAML format:
+
+```
+Case Number: 21STCV19869
+Plaintiff's Name: JANE DOE 448
+Defendant's Name: JOHN DOE 1, et al.
+People-Names:
+  - JANE DOE 448
+  - JOHN DOE 1
+Company-Names:
+  - None
+Places:
+  - Beverly Hills Courthouse
+  - Department 205
+  - Superior Court of California
+  - County of Los Angeles
+  - West District
+Dates:
+  - September 21, 2023
+Events:
+  - Plaintiff's motion for summary judgment or in the alternative, for summary adjudication
+Money:
+  - None
+Intentions:
+  - The Judge intends to deny Plaintiff's motion for summary judgment or in the alternative, for summary adjudication
+Facts:
+  - Plaintiff filed an oversize brief (33 pages) instead of the allowed 20 pages
+  - Plaintiff's separate statement does not comply with Rule 3.1350(b) of the California Rules of Court
+Disputes:
+  - Dispute over the format of summary judgment papers
+Acts:
+  - Plaintiff filed a motion for summary judgment or in the alternative, for summary adjudication
+  - The Judge has discretion to disregard Plaintiff's oversize brief
+Agreements:
+  - None
+Laws:
+  - California Rules of Court (CRC) 3.1113(d), 3.1113(g), 3.1300(d), 3.1350(b)
+  - California Code of Civil Procedure (CCP) § 437c(b)(1)
+  - Schmidlin v. City of Palo Alto (2007) 157 Cal.App.4th 728, 744
+Case Citations:
+  - None
+Statutes:
+  - California Rules of Court (CRC) 3.1113(d), 3.1113(g), 3.1300(d), 3.1350(b)
+  - California Code of Civil Procedure (CCP) § 437c(b)(1)
+Roles:
+  - Judge: Edward B. Moreton, Jr.
+Significant Statements:
+  - "The Court has discretion to disregard Plaintiff's oversize brief."
+  - "The Court has discretion to disregard late-filed papers and therefore also has discretion to disregard oversize briefs."
+  - "The failure to state each issue verbatim in the separate statement is grounds for denying the motion."
+```
+
+And here is a summary of the tentative ruling in English text:
+
+The Judge, Edward B. Moreton, Jr., has issued a tentative ruling denying Plaintiff JANE DOE 448's motion for summary judgment or in the alternative, for summary adjudication. The Plaintiff's brief exceeds the allowed 20-page limit, and the separate statement does not comply with Rule 3.1350(b) of the California Rules of Court, which requires each issue to be stated specifically and repeated verbatim in the separate statement. The Judge has discretion to disregard the oversize brief and has chosen to do so. The motion is denied without prejudice.
+..................... .....................
+On 2025-02-05_21:03:51.658782
+The summary displayed below was created by an LLM named:  "llama-3.3-70b-specdec":
+Exception:
+Error code: 429 - {'error': {'message': 'Rate limit reached for model `llama-3.3-70b-specdec` in organization `org_01hw84cjv0f12v63qt47723ar2` service tier `on_demand` on : Limit 100000, Used 100429, Requested 788. Please try again in 17m32.081999999s. Visit https://console.groq.com/docs/rate-limits for more information.', 'type': '', 'code': 'rate_limit_exceeded'}}
+..................... .....................
+On 2025-02-05_21:13:52.785157
+The summary displayed below was created by an LLM named:  "mixtral-8x7b-32768":
+case\_number: 21STCV19869
+hearing\_date: September 21, 2023
+dept: 205
+court: Superior Court of California, County of Los Angeles – West District, Beverly Hills Courthouse / Department 205
+plaintiff: Jane Doe 448
+defendants:
+- John Doe 1
+- others
+consolidated\_case\_number: 21STCV40239
+issues:
+- Plaintiff's motion for summary judgment exceeded the page limit (3.1113(d))
+- Plaintiff's motion for summary adjudication sought adjudication of multiple issues (3.1350(b))
+- Plaintiff's separate statement did not comply with Rule 3.1350(b) (Schmidlin v. City of Palo Alto (2007) 157 Cal.App.4th 728, 744)
+order:
+- The Court has discretion to disregard Plaintiff's oversize brief
+- Failure to state each issue verbatim in the separate statement is grounds for denying the motion
+- The Court denies Plaintiff's motion for summary judgment or in the alternative, for summary adjudication without prejudice
+judge: Edward B. Moreton, Jr.
+
+Summary:
+The Judge, Edward B. Moreton, Jr., issued a tentative ruling for a hearing on September 21, 2023, regarding case number 21STCV19869 and consolidated case number 21STCV40239. The Judge denied Plaintiff's motion for summary judgment or in the alternative, for summary adjudication without prejudice. The motion for summary judgment exceeded the page limit, and the motion for summary adjudication sought adjudication of multiple issues. The Plaintiff's separate statement did not comply with Rule 3.1350(b), which requires stating each issue for summary adjudication verbatim. The Court has the discretion to disregard oversize briefs and late-filed papers.

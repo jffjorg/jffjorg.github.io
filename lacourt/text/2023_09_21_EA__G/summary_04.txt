@@ -87,3 +87,281 @@ Significant Statements:
 And here is a summary of the judge's tentative ruling in English text:
 
 The judge has issued a tentative ruling denying Andes Harvest, Inc.'s application for a writ of attachment against Oceanus Decor & Flooring, Inc. without prejudice. The application was filed in a breach of contract action arising from a series of sublease agreements. The judge found that Andes failed to adequately allege how Oceanus breached the sublease agreement, specifically failing to identify the "required conditions" for the premises. The judge noted that the burden to establish the probable validity of Andes's claims rests with Andes, and the failure to demonstrate how Oceanus breached the sublease agreement is fatal to the application. The judge also noted that Andes's claims involve a contract or written agreement and that Andes seeks to secure $260,000, an amount greater than zero.
+..................... .....................
+On 2025-02-05_22:58:08.507808
+The summary displayed below was created by an LLM named:  "gemma2-9b-it":
+## Tentative Ruling Summary (YAML)
+
+```yaml
+Case Number: 23PSCV01816
+Hearing Date: September 21, 2023
+Dept: G
+
+People-Names:
+  - Zhigang Cui
+  - Lo (Andes Harvest, Inc. representative)
+
+Company-Names:
+  - Andes Harvest, Inc.
+  - Oceanus Decor & Flooring, Inc.
+  - Cups (DE) LP
+  - Wadd-II (TN) LP
+  - Novolex Holdings, LLC
+  - CBRE, Inc.
+
+Places:
+  - City of Industry, California
+
+Dates:
+  - May 3, 2023: Andes and Oceanus enter sublease agreement
+  - May 30, 2023: Andes makes payment to Oceanus
+  - May 31, 2023: Andes discovers electrical system removed
+  - June 20, 2023: Andes files complaint
+  - August 16, 2023: Andes files application for writ of attachment
+  - September 21, 2023: Hearing on application
+  - November 28, 2023: Case management conference
+
+Events:
+  - Breach of sublease agreement alleged
+  - Andes demands return of payment from Oceanus
+  - Oceanus offers to return payment in installments
+  - Andes files application for writ of attachment
+
+Money:
+  - $182,420.08: Andes's payment to Oceanus 
+  - $12,000: Andes's claimed costs
+  - $60,000: Andes's claimed attorney fees
+  - $260,000: Total amount Andes seeks to secure
+
+Intentions:
+  - Andes seeks to recover $260,000 from Oceanus
+
+Facts:
+  - Andes and Oceanus entered a sublease agreement
+  - Andes paid Oceanus $182,420.08
+  - Electrical system was removed from the property
+  - Andes demanded return of payment, Oceanus offered installments
+
+Disputes:
+  - Whether Oceanus breached the sublease agreement
+
+Acts:
+  - Andes entered into sublease agreement
+  - Andes paid Oceanus
+  - Andes discovered electrical system removed
+  - Andes demanded return of payment
+  - Oceanus offered installments
+  - Andes filed complaint
+  - Andes filed application for writ of attachment
+
+Agreements:
+  - Sublease agreement between Andes and Oceanus
+
+Laws:
+  - California Code of Civil Procedure § 480.090
+  - California Code of Civil Procedure § 483.010
+  - California Code of Civil Procedure § 481.190
+  - California Code of Civil Procedure § 484.030
+  - California Code of Civil Procedure § 482.040
+
+Case Citations:
+  - Bank of America v. Salinas Nissan, Inc. (1989) 207 Cal.App.3d 260
+  - Santa Clara Waste Water Co. v. Allied World National Assurance Co. (2017) 18 Cal.App.5th 881
+  - Lydig Construction, Inc. v. Martinez Steel Corp. (2015) 234 Cal.App.4th 937
+  - Oasis West Realty, LLC v. Goldman (2011) 51 Cal.4th 811
+
+Statutes:
+  - California Code of Civil Procedure
+
+Roles:
+  - Andes Harvest, Inc.: Plaintiff
+  - Oceanus Decor & Flooring, Inc.: Defendant
+  - Cups (DE) LP, Wadd-II (TN) LP, Novolex Holdings, LLC: Defendants
+
+Significant Statements:
+  - Andes failed to adequately allege how Oceanus breached the sublease agreement.
+
+
+
+```
+
+## English Summary
+
+This is a tentative ruling from a judge regarding a request by Plaintiff Andes Harvest, Inc. to attach assets of Defendant Oceanus Decor & Flooring, Inc. 
+
+Andes Harvest claims Oceanus breached a sublease agreement by failing to provide a functional electrical system, making the property unsuitable for Andes's business. Andes seeks $260,000 in damages, including costs and attorney fees.
+
+While the judge acknowledges the existence of a contract and Andes's payment, the ruling denies the attachment request because Andes failed to sufficiently demonstrate how Oceanus actually breached the agreement. 
+
+The sublease agreement doesn't specify any required conditions for the property, and Andes's argument that the lack of electricity constitutes a breach is not supported by specific contractual language.
+
+Therefore, the court finds Andes has not met its burden of demonstrating a probable validity of its breach of contract claim, resulting in the denial of the writ of attachment. This denial is without prejudice, meaning Andes can reapply if they can provide stronger evidence of breach.
+
+
+
+
+..................... .....................
+On 2025-02-05_22:58:35.168700
+The summary displayed below was created by an LLM named:  "llama3-8b-8192":
+Here is the summary in YAML format:
+
+```
+Case Number: 23PSCV01816
+Plaintiff's Name: Andes Harvest, Inc.
+Defendant's Name: Oceanus Decor & Flooring, Inc.
+People-Names:
+  - Zhigang Cui
+  - Cups (DE) LP (Cups)
+  - Wadd-II (TN) LP (Wadd)
+  - Novolex Holdings, LLC (Novolex)
+  - CBRE, Inc. (CBRE)
+Company-Names:
+  - Andes Harvest, Inc. (Andes)
+  - Oceanus Decor & Flooring, Inc. (Oceanus)
+  - Cups (DE) LP (Cups)
+  - Wadd-II (TN) LP (Wadd)
+  - Novolex Holdings, LLC (Novolex)
+  - CBRE, Inc. (CBRE)
+Places:
+  - City of Industry
+  - California
+Dates:
+  - May 2023
+  - June 2023
+  - June 20, 2023
+  - August 16, 2023
+  - September 21, 2023
+  - November 28, 2023
+Events:
+  - Sublease agreements
+  - Payment of $182,420.08
+  - Removal of electrical system
+  - Demand for return of payment
+  - Failure to return payment
+  - Filing of complaint
+  - Filing of application for writ of attachment
+Money:
+  - $182,420.08
+  - $12,000
+  - $60,000
+  - $260,000
+Intentions:
+  - To secure payment
+  - To recover damages
+Facts:
+  - Andes entered into a sublease agreement with Oceanus
+  - Andes made a payment of $182,420.08
+  - Oceanus failed to return the payment
+  - Andes discovered the electrical system was removed
+Disputes:
+  - Breach of contract
+  - Breach of implied covenant of good faith and fair dealing
+  - Concealment
+  - Conversion
+  - Restitution
+  - Breach of the duty of disclosure
+Acts:
+  - Payment of rent and security deposit
+  - Removal of electrical system
+  - Failure to return payment
+Agreements:
+  - Sublease agreement
+  - Contract
+Laws:
+  - California Code of Civil Procedure
+  - Code Civ. Proc., § 480.090
+  - Code Civ. Proc., § 483.010
+  - Code Civ. Proc., § 484.030
+  - Code Civ. Proc., § 482.040
+  - Code Civ. Proc., § 481.190
+Case Citations:
+  - Bank of America v. Salinas Nissan, Inc. (1989)
+  - Santa Clara Waste Water Co. v. Allied World National Assurance Co. (2017)
+  - Lydig Construction, Inc. v. Martinez Steel Corp. (2015)
+  - Klein v. Benaron (1967)
+  - Oasis West Realty, LLC v. Goldman (2011)
+Statutes:
+  - Code Civ. Proc., § 480.090
+  - Code Civ. Proc., § 483.010
+  - Code Civ. Proc., § 484.030
+  - Code Civ. Proc., § 482.040
+  - Code Civ. Proc., § 481.190
+Roles:
+  - Plaintiff: Andes Harvest, Inc.
+  - Defendant: Oceanus Decor & Flooring, Inc.
+  - Respondent: NO OPPOSITION
+Significant Statements:
+  - "Probable validity means that 'more likely than not' the plaintiff will obtain a judgment on that claim."
+  - "Plaintiff's application must 'be supported by an affidavit or declaration showing that the applicant, on the facts presented, would be entitled to a judgment on the claim upon which the attachment is based.'"
+```
+
+And here is a summary of the judge's tentative ruling in English text:
+
+The judge has issued a tentative ruling in the case of Andes Harvest, Inc. v. Oceanus Decor & Flooring, Inc. Andes Harvest, Inc. ("Andes") has applied for a writ of attachment against Oceanus Decor & Flooring, Inc. ("Oceanus") to secure payment of $260,000, including $12,000 in costs and $60,000 in attorney fees, for Oceanus's failure to return $182,420.08 pursuant to a sublease agreement. The judge has denied Andes's application for a writ of attachment without prejudice.
+
+The judge found that Andes failed to adequately allege how Oceanus breached the sublease agreement. Andes claimed that the lack of a functioning electrical system "failed to satisfy the required conditions," but failed to identify what these "required conditions" were. The sublease agreement did not appear to state any required conditions for the premises, and Andes failed to point to such language. Since the burden to establish the probable validity of Andes's claims rests with Andes, the court found that Andes's failure to demonstrate how Oceanus breached the sublease agreement was fatal to Andes's application.
+
+The judge noted that attachment is proper where the claim is one upon which an attachment may be issued, the plaintiff has established the probable validity of the claim upon which the attachment is based, the attachment is not sought for a purpose other than the recovery on the claim upon which the attachment is based, and the amount to be secured by the attachment is greater than zero. The court also noted that the burden to establish the probable validity of Andes's claims rests with Andes, and that Andes must be able to establish "the existence of the contract, plaintiff's performance or excuse for nonperformance, defendant's breach, and the resulting damages to the plaintiff."
+..................... .....................
+On 2025-02-05_22:59:00.410974
+The summary displayed below was created by an LLM named:  "llama-3.3-70b-specdec":
+Exception:
+Error code: 429 - {'error': {'message': 'Rate limit reached for model `llama-3.3-70b-specdec` in organization `org_01hw84cjv0f12v63qt47723ar2` service tier `on_demand` on : Limit 100000, Used 98746, Requested 1795. Please try again in 7m47.297s. Visit https://console.groq.com/docs/rate-limits for more information.', 'type': '', 'code': 'rate_limit_exceeded'}}
+..................... .....................
+On 2025-02-05_23:09:02.087087
+The summary displayed below was created by an LLM named:  "mixtral-8x7b-32768":
+case\_number: 23PSCV01816
+hearing\_date: September 21, 2023
+plaintiff: Andes Harvest, Inc.
+defendant: Oceanus Decor & Flooring, Inc.
+people:
+- Zhigang Cui
+- Does 1-25
+companies:
+- Cups (DE) LP
+- Wadd-II (TN) LP
+- Novolex Holdings, LLC
+- CBRE, Inc. (CBRE)
+places:
+- City of Industry
+dates:
+- 2001: Defendant Novolex started renting the City of Industry property
+- 2022: Defendant Oceanus started subleasing the City of Industry property
+- May 2023: Plaintiff Andes agreed to sublease the City of Industry property
+- June 2023: Plaintiff Andes discovered the electrical system had been removed
+- June 2023: Plaintiff Andes demanded return of first month's rent and security deposit
+- August 16, 2023: Plaintiff Andes filed the present application
+- November 28: Case management conference
+events:
+- Breach of contract action arising from a series of sublease agreements
+- Plaintiff Andes paid $182,420.08, including first month's rent and security deposit
+- Defendants denied liability and ignored Plaintiff Andes's demand
+money:
+- $182,420.08: first month's rent and security deposit
+- $260,000: amount Plaintiff Andes seeks to secure
+intentions:
+- Plaintiff Andes moves for a writ of attachment against Defendant Oceanus
+facts:
+- Plaintiff Andes and Defendant Oceanus entered into a sublease agreement
+- Plaintiff Andes made a payment of $182,420.08
+- Plaintiff Andes discovered the electrical system had been removed
+- Defendant Oceanus failed to return the payment
+disputes:
+- Plaintiff Andes's breach of contract claim
+- Whether Plaintiff Andes adequately alleged Defendant Oceanus's breach
+acts:
+- Plaintiff Andes filed a complaint against multiple parties
+- Plaintiff Andes filed the present application for a right to attach order and order for issuance of a writ of attachment
+laws:
+- Code Civ. Proc., § 480.090, subd. (a)
+- Code Civ. Proc., § 483.010, subd. (a)
+- Code Civ. Proc., § 481.190
+- Code Civ. Proc., § 484.030
+- Code Civ. Proc., § 482.040
+roles:
+- Plaintiff
+- Defendant
+significant\_statements:
+- Plaintiff Andes's application for a writ of attachment is DENIED without prejudice
+
+The Judge's tentative ruling denies Plaintiff Andes Harvest, Inc.'s application for a right to attach order and order for issuance of a writ of attachment against Defendant Oceanus Decor & Flooring, Inc. without prejudice. The Judge finds that Plaintiff Andes failed to adequately allege how Defendant Oceanus breached the sublease agreement, which is fatal to Plaintiff Andes's application.
