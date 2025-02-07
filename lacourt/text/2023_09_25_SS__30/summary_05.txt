@@ -50,3 +50,182 @@ Significant Statements:
 And here is the English-text summary:
 
 The Judge's tentative ruling grants the Motion to Compel Responses to Request for Production, Set Two, filed by Defendant Mohammad Meah. Plaintiff Efran Kohzadi is ordered to serve responses, without objection, within 20 days of notice of this order. The Judge denies the request for sanctions. The ruling is based on the fact that Plaintiff never served responses to the Requests for Production, Set Two, despite being served by Defendant on June 13, 2023. The Judge cites CCP sections 2031.300(a) in support of the ruling.
+..................... .....................
+On 2025-02-07_08:29:44.166138
+The summary displayed below was created by an LLM named:  "gemma2-9b-it":
+## Tentative Ruling Summary in YAML:
+
+```yaml
+Case Number: 21STCV30202
+Hearing Date: September 25, 2023
+Dept: 30
+
+Plaintiff's Name: Efran Kohzadi, et al.
+Defendant's Name: MOHAMMAD MEAH, et al.
+
+People-Names:
+- Efran Kohzadi
+- MOHAMMAD MEAH
+
+Company-Names: 
+
+Places: 
+
+Dates:
+- June 13, 2023: Defendant served Requests for Production, Set Two on Plaintiff.
+- July 21, 2023: Defendant filed a motion to compel Plaintiff to respond to discovery requests.
+- September 25, 2023: Tentative hearing date.
+
+Events:
+- Defendant served Requests for Production, Set Two on Plaintiff.
+- Plaintiff failed to respond to the request for production.
+- Defendant filed a motion to compel Plaintiff's response.
+
+Money: 
+
+Intentions:
+- Defendant seeks to compel Plaintiff's response to discovery requests.
+
+Facts:
+- Plaintiff failed to respond to Defendant's Requests for Production, Set Two.
+
+Disputes:
+- Plaintiff's failure to respond to discovery requests.
+
+Acts:
+- Defendant served Requests for Production, Set Two.
+- Defendant filed a motion to compel Plaintiff's response.
+
+Agreements: 
+
+Laws:
+- CCP sections 2031.300(a)
+
+Case Citations: 
+
+Statutes: 
+- CCP sections 2031.300(a)
+
+Roles:
+- Judge:  Rules on the motion to compel.
+- Plaintiff:  Failed to respond to discovery requests.
+- Defendant:  Filed a motion to compel Plaintiff's response.
+
+Significant Statements:
+- The Court GRANTS the Motion to Compel Responses to Request for Production, (Set Two).
+- Plaintiff Efran Kohzadi is ORDERED to serve responses, without objection, within 20 days of notice of this order.
+- The Court DENIES the request for sanctions.
+```
+
+## English Text Summary:
+
+In case 21STCV30202, Judge granted the defendant's motion to compel the plaintiff, Efran Kohzadi, to respond to a set of discovery requests. The defendant had served the requests on June 13, 2023, but the plaintiff failed to respond. The defendant filed the motion to compel on July 21, 2023. 
+
+The judge ruled that because the plaintiff had not responded to the discovery requests, the defendant was entitled to an order compelling a response. However, the judge denied the defendant's request for sanctions against the plaintiff, stating that the motion was unopposed. 
+
+The plaintiff has 20 days from the date of this order to serve their responses without objection. 
+
+
+
+..................... .....................
+On 2025-02-07_08:30:09.879120
+The summary displayed below was created by an LLM named:  "llama3-8b-8192":
+Here is the summary in YAML format:
+
+```
+Case Number: 21STCV30202
+Plaintiff's Name: Efran Kohzadi
+Defendant's Name: Mohammad Meah
+People-Names:
+  - Efran Kohzadi
+  - Mohammad Meah
+Company-Names: None
+Places: None
+Dates:
+  - June 13, 2023
+  - July 21, 2023
+  - September 25, 2023
+Events:
+  - Defendant served Requests for Production, Set Two on Plaintiff
+  - Plaintiff never served responses
+  - Defendant filed motion to compel Plaintiff to provide initial responses
+Money: None
+Intentions:
+  - Defendant to obtain responses to discovery request
+  - Plaintiff to provide responses without objection
+Facts:
+  - Plaintiff failed to respond to request for production
+  - Defendant is entitled to order compelling Plaintiff to respond
+Disputes:
+  - Plaintiff's failure to respond to discovery request
+Acts:
+  - Defendant served requests
+  - Plaintiff failed to respond
+  - Defendant filed motion to compel
+  - Court granted motion
+Agreements: None
+Laws:
+  - CCP section 2031.300(a)
+Case Citations: None
+Statutes:
+  - CCP (California Code of Civil Procedure)
+Roles:
+  - Judge (EFRAN KOHZADI, et al. vs MOHAMMAD MEAH, et al.)
+  - Plaintiff (Efran Kohzadi)
+  - Defendant (Mohammad Meah)
+Significant Statements:
+  - The Court GRANTS the Motion to Compel Responses to Request for Production
+  - Plaintiff is ORDERED to serve responses, without objection, within 20 days
+  - The Court DENIES the request for sanctions
+```
+
+And here is a summary of the judge's tentative ruling in English text:
+
+The judge has issued a tentative ruling in the case Efran Kohzadi vs Mohammad Meah, regarding a motion to compel responses to a request for production, set two. The defendant, Mohammad Meah, served the request for production on June 13, 2023, but the plaintiff, Efran Kohzadi, failed to respond. The defendant then filed a motion to compel the plaintiff to provide initial responses, which was unopposed. The judge has granted the motion, ordering the plaintiff to serve responses without objection within 20 days of notice of the order. The judge has also denied the request for sanctions.
+..................... .....................
+On 2025-02-07_08:30:35.091426
+The summary displayed below was created by an LLM named:  "llama-3.3-70b-specdec":
+Exception:
+Error code: 429 - {'error': {'message': 'Rate limit reached for model `llama-3.3-70b-specdec` in organization `org_01hw84cjv0f12v63qt47723ar2` service tier `on_demand` on : Limit 100000, Used 103582, Requested 422. Please try again in 57m40.249999999s. Visit https://console.groq.com/docs/rate-limits for more information.', 'type': '', 'code': 'rate_limit_exceeded'}}
+..................... .....................
+On 2025-02-07_08:40:36.652203
+The summary displayed below was created by an LLM named:  "mixtral-8x7b-32768":
+case\_number: 21STCV30202
+hearing\_date: September 25, 2023
+dept: 30
+plaintiff\_name: Efran Kohzadi, et al.
+defendant\_name: Mohammad Meah, et al.
+people\_names: Efran Kohzadi, Mohammad Meah
+dates:
+- June 13, 2023
+- July 21, 2023
+events:
+- Defendant served Requests for Production, Set Two on Plaintiff.
+- Plaintiff failed to respond to the request for production.
+- Defendant filed a motion to compel Plaintiff to provide initial responses.
+money: N/A
+intentions:
+- Defendant intends to compel Plaintiff to respond to the requests.
+facts:
+- Defendant served Requests for Production, Set Two on Plaintiff.
+- Plaintiff failed to serve responses.
+disputes: Plaintiff's failure to respond to discovery request.
+acts:
+- Defendant filing a motion to compel Plaintiff to provide initial responses.
+agreements: N/A
+laws: CCP sections 2031.300(a)
+case\_citations: N/A
+statutes: N/A
+roles:
+- Plaintiff: Efran Kohzadi, et al.
+- Defendant: Mohammad Meah, et al.
+significant\_statements:
+- The Court grants the Motion to Compel Responses to Request for Production, (Set Two).
+- Plaintiff is ordered to serve responses within 20 days of notice of this order.
+- The Court denies the request for sanctions.
+- The moving party is ordered to give notice.
+
+English text:
+Judge Kohzadi has issued a tentative ruling for the case 21STCV30202, scheduled for a hearing on September 25, 2023, in Dept 30. The ruling grants the Motion to Compel Responses to Request for Production, (Set Two) filed by the defendant, Mohammad Meah, et al. against the plaintiff, Efran Kohzadi, et al. The plaintiff is ordered to serve responses to the discovery request without objection within 20 days of notice of this order. However, the court declines to award sanctions as the motion is unopposed.
+
+The ruling is based on the fact that on June 13, 2023, the defendant served Requests for Production, Set Two on the plaintiff, who failed to serve responses. The defendant then filed a motion to compel the plaintiff to provide initial responses to the discovery request on July 21, 2023. As the plaintiff has failed to respond to the request for production, the defendant is entitled to an order compelling the plaintiff to respond to the requests without objections, pursuant to CCP sections 2031.300(a).

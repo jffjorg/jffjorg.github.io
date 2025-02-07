@@ -79,3 +79,8 @@ Facts:
   - Guangdong UNIS has no direct presence in California
 
 Disput
+..................... .....................
+On 2025-02-07_11:29:16.143229
+The summary displayed below was created by an LLM named:  "gemma2-9b-it":
+Exception:
+Error code: 400 - {'error': {'message': 'Please reduce the length of the messages or completion.', 'type': 'invalid_request_error', 'param': 'messages', 'code': 'context_length_exceeded'}}

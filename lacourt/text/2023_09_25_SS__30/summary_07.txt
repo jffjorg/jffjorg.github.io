@@ -64,3 +64,196 @@ Significant Statements:
 And here is the summary in English text:
 
 The Judge's tentative ruling is that the Defendant's motions to compel further responses are denied as moot. The Judge also declines to award sanctions against either party. The Plaintiff had failed to file verified responses, which is equivalent to not filing responses at all. As a result, the Plaintiff has waived their objections. The Defendant had requested the motion to be heard, but the issues are now different. The Defendant must start the procedural requirements for a motion to compel further responses and meet the requirements of the 8th Amended Standing Order, which includes a meet and confer regarding the date of the Independent Counsel's Declaration (IDC). The IDC must be filed in person in Dept. 30. The Judge notes that the Plaintiff has served responses after the filing of the motions and the hearing date, and assumes that these responses are verified.
+..................... .....................
+On 2025-02-07_08:52:21.157546
+The summary displayed below was created by an LLM named:  "gemma2-9b-it":
+## Tentative Ruling Summary in YAML:
+
+```yaml
+Case Number: 22STCV25177
+Hearing Date: September 25, 2023
+Dept: 30
+
+People-Names: 
+  - Abdul Aziz Willan
+  - Diana Escolero
+
+Company-Names: 
+
+Places: 
+
+Dates: 
+  - September 25, 2023
+
+Events:
+  - Motion to Compel Further Responses filed
+  - Plaintiff served verified responses after motion filing
+
+Money: 
+
+Intentions:
+  - Defendant sought to compel Plaintiff's responses to interrogatories
+
+Facts: 
+  - Plaintiff failed to file verified responses to interrogatories
+  - Responses were untimely filed
+
+Disputes: 
+  - Whether Plaintiff's failure to file verified responses constituted a failure to respond
+
+Acts: 
+  - Defendant filed motion to compel
+  - Plaintiff served verified responses
+
+Agreements: 
+
+Laws: 
+  - Appleton v. Superior Court (1988) 206 Cal.App.3d 632, 636
+
+Case Citations: 
+  - Appleton v. Superior Court (1988) 206 Cal.App.3d 632, 636
+
+Statutes:
+  - 8th Amended Standing Order
+
+Roles: 
+  - Judge: Decide on the motion to compel
+
+Significant Statements:
+  - "Defendant styles this motion as a motion to compel further. However, because plaintiff never filed verified responses, this is an initial motion to compel."
+  - "Failure to file verified responses is tantamount to not filing responses at all."
+  - "Since the filing of the motions and the hearing date, Plaintiff has served responses, which given the reply, the Court assumes are verified."
+
+
+
+```
+
+## English Summary:
+
+The Judge has denied Defendant's motions to compel further responses to interrogatories as moot because Plaintiff has now served verified responses.  
+
+The Judge notes that Plaintiff's original failure to file verified responses was equivalent to not filing any responses at all. Because the responses were also untimely, Plaintiff waived any objections. 
+
+Although the Defendant still wants the motion heard, the Judge points out that the issues are now different. The Defendant must start the process over for a motion to compel further responses, following the 8th Amended Standing Order which requires a meet and confer regarding an in-person Initial Discovery Conference (IDC). 
+
+The Judge declined to award sanctions against either party. 
+
+
+
+
+..................... .....................
+On 2025-02-07_08:52:47.030400
+The summary displayed below was created by an LLM named:  "llama3-8b-8192":
+Here is the summary in YAML format:
+
+```
+Case Number: 22STCV25177
+Plaintiff's Name: ABDUL AZZIZ WILLAN
+Defendant's Name: DIANA ESCOLERO
+People-Names:
+  - ABDUL AZZIZ WILLAN
+  - DIANA ESCOLERO
+Company-Names:
+Places:
+  - Dept. 30
+Dates:
+  - September 25, 2023
+Events:
+  - Motion to Compel Further Responses
+  - Form Interrogatories
+  - Special Interrogatories
+Money: None
+Intentions:
+  - Deny Defendant's motions to compel responses
+  - Decline to award sanctions
+Facts:
+  - Plaintiff never filed verified responses
+  - Defendant styles this motion as a motion to compel further
+  - Failure to file verified responses is tantamount to not filing responses at all
+  - Plaintiff has waived objections due to untimely responses
+Disputes:
+  - Failure to respond to interrogatories
+Acts:
+  - Filing of motions
+  - Hearing date
+  - Service of responses
+  - Meet and confer regarding IDC
+Agreements:
+  - 8th Amended Standing Order
+Laws:
+  - Appleton v. Superior Court (1988)
+  - California law (applicable but not specified)
+Case Citations:
+  - Appleton v. Superior Court (1988)
+  - 206 Cal.App.3d 632, 636
+Statutes:
+Roles:
+  - Judge (author of the tentative ruling)
+  - Plaintiff (ABDUL AZZIZ WILLAN)
+  - Defendant (DIANA ESCOLERO)
+Significant Statements:
+  - "Failure to file verified responses is tantamount to not filing responses at all."
+  - "Since the filing of the motions and the hearing date, Plaintiff has served responses, which given the reply, the Court assumes are verified."
+  - "The Court declines to award sanctions against either party."
+```
+
+And here is a summary of the judge's tentative ruling in English text:
+
+The judge has denied the defendant's motions to compel further responses to interrogatories, as the plaintiff has now served responses. The judge notes that the plaintiff's failure to file verified responses is tantamount to not filing responses at all, and the defendant's motion is therefore moot. The judge also declines to award sanctions against either party. The parties must now follow the procedural requirements for a motion to compel further responses, including a meet and confer regarding the date of the in-person discovery conference (IDC) required by the 8th Amended Standing Order.
+..................... .....................
+On 2025-02-07_08:53:12.236034
+The summary displayed below was created by an LLM named:  "llama-3.3-70b-specdec":
+Exception:
+Error code: 429 - {'error': {'message': 'Rate limit reached for model `llama-3.3-70b-specdec` in organization `org_01hw84cjv0f12v63qt47723ar2` service tier `on_demand` on : Limit 100000, Used 102012, Requested 504. Please try again in 36m13.946s. Visit https://console.groq.com/docs/rate-limits for more information.', 'type': '', 'code': 'rate_limit_exceeded'}}
+..................... .....................
+On 2025-02-07_09:03:13.755887
+The summary displayed below was created by an LLM named:  "mixtral-8x7b-32768":
+case\_number: 22STCV25177
+hearing\_date: September 25, 2023
+dept: 30
+plaintiff:
+- name: ABDUL AZZIZ WILLAN
+defendants:
+- name: DIANA ESCOLERO
+- name: "et al."
+people\_names:
+- name: ABDUL AZZIZ WILLAN
+- name: DIANA ESCOLERO
+places:
+- name: Dept. 30
+events:
+- name: Motion to Compel Further Responses
+- name: Hearing Date
+- name: Failure to file verified responses
+money:
+- amount: Not specified
+intentions:
+- name: Denied as moot
+- name: Not awarded sanctions
+- name: Start the procedural requirements for a motion to compel further responses
+facts:
+- name: Defendant styles this motion as a motion to compel further
+- name: Plaintiff never filed verified responses
+- name: Responses are untimely
+- name: Plaintiff served responses
+disputes:
+- name: Motion to Compel Further Responses
+acts:
+- name: Filed verified responses
+- name: Serve responses
+agreements:
+- name: 8th Amended Standing Order
+laws:
+- name: Appleton v. Superior Court (1988) 206 Cal.App.3d 632, 636
+case\_citations:
+- name: Appleton v. Superior Court
+roles:
+- name: Plaintiff
+- name: Defendant
+significant\_statements:
+- name: Failure to file verified responses is tantamount to not filing responses at all.
+- name: Since the filing of the motions and the hearing date, Plaintiff has served responses, which given the reply, the Court assumes are verified.
+- name: Defense must now start the procedural requirements for a motion to compel further responses, along with abiding by the 8th Amended Standing Order which requires a meet and confer regarding the date of the IDC.
+
+English text:
+The Judge's tentative ruling for case number 22STCV25177, scheduled for hearing on September 25, 2023 in Dept. 30, concerns the Defendant's motion to compel responses from the Plaintiff, ABDUL AZZIZ WILLAN. The motion pertains to Form Interrogatories and Special Interrogatories. The Judge denies the Defendant's motion as moot and declines to award sanctions. The Plaintiff failed to file verified responses, which is equivalent to not filing responses at all. Additionally, the responses were served untimely, causing Plaintiff to waive objections. Since the filing of the motion and the hearing date, the Plaintiff served responses, assumed to be verified. The Defense wants the motion heard, but the issues are different now. The Defense must initiate the procedural requirements for a motion to compel further responses and comply with the 8th Amended Standing Order, which involves a meet and confer regarding the date of the IDC. The IDCs in Dept. 30 must be in person. The Judge declines to impose sanctions on either party.

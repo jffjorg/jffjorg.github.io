@@ -253,3 +253,63 @@ On 2025-02-07_03:09:19.892659
 The summary displayed below was created by an LLM named:  "llama-3.3-70b-specdec":
 Exception:
 Error code: 429 - {'error': {'message': 'Rate limit reached for model `llama-3.3-70b-specdec` in organization `org_01hw84cjv0f12v63qt47723ar2` service tier `on_demand` on : Limit 100000, Used 98337, Requested 1919. Please try again in 3m40.627s. Visit https://console.groq.com/docs/rate-limits for more information.', 'type': '', 'code': 'rate_limit_exceeded'}}
+..................... .....................
+On 2025-02-07_03:19:21.618955
+The summary displayed below was created by an LLM named:  "mixtral-8x7b-32768":
+case\_number: 21NWLC43328
+hearing\_date: September 25, 2023
+dept: 25
+parties:
+  - name: Sunshine Logistics Enterprises
+    role: Plaintiff
+  - name: Cargomatic, Inc.
+    role: Defendant
+  - name: Cargomatic Transport, Inc.
+    role: Defendant
+  - name: Slieve Donard Logistics
+    role: Defendant
+people:
+  - name: Brett Thomas Abbott
+    role: Counsel for Plaintiff
+events:
+  - date: December 10, 2021
+    description: Plaintiff filed an action against Defendants for breach of contract and common counts.
+  - date: November 30, 2022
+    description: Court entered default against Defendant Slieve.
+  - date: December 16, 2022
+    description: Court determined this case is not a "collection hub" case and ordered it transferred for re-assignment.
+  - date: March 2, 2023
+    description: Plaintiff informed the Court that a settlement agreement had been reached with the Cargomatic entities.
+  - date: March 28, 2023
+    description: Court dismissed Defendants Cargomatic and Cargomatic Transport with prejudice.
+  - date: May 30, 2023
+    description: Plaintiff informed the Court that it intended to pursue entry of default judgment against Defendant Slieve.
+  - date: June 15, 2023
+    description: Counsel Brett Thomas Abbott filed a Motion to Be Relieved as Counsel as to Plaintiff Sunshine Logistics Enterprises.
+  - date: August 23, 2023
+    description: Court continued the hearing to allow Counsel an opportunity to correct deficiencies in the Motion.
+  - date: August 25, 2023
+    description: Counsel filed supplemental papers.
+  - date: August 30, 2023
+    description: Court continued the OSC Re: Entry of Default Judgment as to Remaining Defendant Slieve Donard Logistics, Inc. to November 8, 2023.
+money:
+  - amount: Not specified
+    role: Attorneys fees and costs owed by Plaintiff to Counsel
+intentions:
+  - intention: Counsel's intention to be relieved as counsel for Plaintiff.
+facts:
+  - fact: Significant differences between client and counsel.
+  - fact: Client has not responded to emails or phone calls.
+  - fact: Client has failed to pay its bill for attorneys fees and costs.
+disputes:
+  - dispute: Breach of contract and common counts between Plaintiff and Defendants.
+acts:
+  - act: Filing of Motion to Be Relieved as Counsel by Counsel.
+agreements:
+  - agreement: Settlement agreement between Plaintiff and Cargomatic entities.
+laws:
+  - law: Code of Civil Procedure § 284
+statutes:
+  - statute: Cal. Rules of Court, Rule 3.1362
+significant\_statements:
+  - statement: "The Court finds that Counsel has satisfied all of the requirements for the instant Motion. Accordingly, Counsel Abbott’s Motion to Be Relieved as Counsel as to Plaintiff Sunshine Logistics Enterprises is granted."

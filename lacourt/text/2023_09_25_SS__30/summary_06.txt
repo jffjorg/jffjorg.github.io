@@ -59,3 +59,168 @@ Significant Statements:
 And here is a summary of the judge's tentative ruling in English text:
 
 The judge has granted the defendant's motion to continue the trial date, which was set for November 16, 2023. The new trial date is set for June 17, 2024, at 8:30 am, and the final status conference is continued to June 3, 2024, at 10:00 am. The court has also continued all trial-related deadlines. The judge based this decision on the fact that the defendant filed its motion for summary judgment timely, and that the court is experiencing congestion and has a number of pending motions already filed. The judge has declined to advance the hearing on the summary judgment motion, citing the court's congestion and the age of the case.
+..................... .....................
+On 2025-02-07_08:41:02.988418
+The summary displayed below was created by an LLM named:  "gemma2-9b-it":
+## Tentative Ruling Summary in YAML
+
+```yaml
+Case Number: 22STCV03665
+Hearing Date: September 25, 2023
+Dept: 30
+Plaintiff's Name: GABRIELLA TRANCHINA
+Defendant's Name: UBER TECHNOLOGIES, INC.
+Company-Names: UBER TECHNOLOGIES, INC.
+People-Names: GABRIELLA TRANCHINA
+Dates: 
+  - November 16 (original trial date)
+  - May 2, 2024 (summary judgment motion hearing)
+  - June 17, 2024 (new trial date)
+  - June 3, 2024 (final status conference)
+Events:
+  - Defendant filed a motion for summary judgment.
+  - Defendant filed a motion to continue the trial date.
+  - Judge granted the motion to continue the trial date.
+Money: N/A
+Intentions: 
+  - Defendant intends to have its summary judgment motion heard.
+Facts:
+  - Case is over a year old.
+  - Several motions are pending before the court.
+Disputes: N/A
+Acts: 
+  - Defendant filed motions for summary judgment and to continue the trial date.
+  - Judge granted the motion to continue the trial date.
+Agreements: N/A
+Laws: N/A
+Case Citations: N/A
+Statutes: N/A
+Roles:
+  - Judge: Decides on motions and schedules hearings.
+  - Plaintiff: Brings the lawsuit against Defendant.
+  - Defendant: Responds to the lawsuit and defends against the claims.
+Significant Statements:
+  - "Each party has the right to have a timely filed motion for summary judgment heard before trial."
+  - "Given the Court's congestion, age of the case, and number of pending motions already filed, the Court declines to advance the hearing on the summary judgment motion."
+
+
+
+```
+
+## English Summary
+
+In the case of *Gabriella Tranchina v. Uber Technologies, Inc.*, the judge granted Uber's motion to continue the trial date from November 16, 2023, to June 17, 2024. The judge also continued the final status conference to June 3, 2024. This decision was made because Uber filed a motion for summary judgment which is scheduled for a hearing on May 2, 2024.  The judge reasoned that given the court's current workload, the age of the case, and the number of pending motions, it would be unreasonable to expedite the summary judgment hearing.  
+
+
+
+
+..................... .....................
+On 2025-02-07_08:41:28.693562
+The summary displayed below was created by an LLM named:  "llama3-8b-8192":
+Here is the YAML summary of the tentative ruling:
+
+```
+Case Number: 22STCV03665
+Plaintiff's Name: GABRIELLA TRANCHINA
+Defendant's Name: UBER TECHNOLOGIES, INC. et al
+People-Names:
+- GABRIELLA TRANCHINA
+Company-Names:
+- UBER TECHNOLOGIES, INC.
+Places:
+- Dept. 30
+- Court
+Dates:
+- September 25, 2023
+- November 16, 2023
+- May 2, 2024
+- June 3, 2024
+- June 17, 2024
+Events:
+- Motion to Continue Trial Date
+- Hearing on Summary Judgment Motion
+- Trial
+- Final Status Conference
+Money:
+- None mentioned
+Intentions:
+- Grant the Defendant's motion to continue the trial date
+Facts:
+- Defendant filed its motion for summary judgment timely
+- Court congestion
+- Age of the case
+- Number of pending motions already filed
+Disputes:
+- None mentioned
+Acts:
+- Defendant filed its motion for summary judgment
+- Court declines to advance the hearing on the summary judgment motion
+Agreements:
+- None mentioned
+Laws:
+- None mentioned
+Case Citations:
+- None mentioned
+Statutes:
+- None mentioned
+Roles:
+- Judge
+- Parties (Plaintiff and Defendant)
+Significant Statements:
+- "Good cause appearing, and no prejudice shown, the Court grants the motion to continue."
+```
+
+And here is a summary of the judge's tentative ruling in English text:
+
+The judge has granted the defendant's motion to continue the trial date from November 16, 2023 to June 17, 2024. The Final Status Conference is also continued to June 3, 2024. The court has declined to advance the hearing on the defendant's motion for summary judgment, citing court congestion, the age of the case, and the number of pending motions already filed. The parties are required to give notice of the new trial date and deadlines.
+..................... .....................
+On 2025-02-07_08:41:53.902974
+The summary displayed below was created by an LLM named:  "llama-3.3-70b-specdec":
+Exception:
+Error code: 429 - {'error': {'message': 'Rate limit reached for model `llama-3.3-70b-specdec` in organization `org_01hw84cjv0f12v63qt47723ar2` service tier `on_demand` on : Limit 100000, Used 102797, Requested 415. Please try again in 46m15.385s. Visit https://console.groq.com/docs/rate-limits for more information.', 'type': '', 'code': 'rate_limit_exceeded'}}
+..................... .....................
+On 2025-02-07_08:51:54.893863
+The summary displayed below was created by an LLM named:  "mixtral-8x7b-32768":
+case\_number: 22STCV03665
+hearing\_date: September 25, 2023
+dept: 30
+plaintiff:
+- name: Gabriella Tranchina
+defendant:
+- name: Uber Technologies, Inc.
+people\_names: []
+company\_names:
+- Uber Technologies, Inc.
+places: []
+dates:
+- November 16, 2023 (original trial date)
+- June 17, 2024 (new trial date)
+- May 2, 2024 (hearing date for summary judgment motion)
+- June 3, 2024 (final status conference)
+events:
+- Defendant's motion for summary judgment filed timely
+- Defendant's motion to continue the trial date granted
+money: []
+intentions:
+- Defendant intends to have motion for summary judgment heard before trial
+facts:
+- Case is old
+- Court has congestion
+- Multiple pending motions already filed
+disputes:
+- Whether to advance the hearing on the summary judgment motion
+acts:
+- Defendant filed motion for summary judgment
+- Defendant filed motion to continue the trial date
+agreements: []
+laws: []
+case\_citations: []
+statutes: []
+roles:
+- Plaintiff: Gabriella Tranchina
+- Defendant: Uber Technologies, Inc.
+significant\_statements:
+- "Defendant's motion to continue the trial date is GRANTED."
+- "Each party has the right to have a timely filed motion for summary judgment heard before trial."
+- "Given the Court's congestion, age of the case, and number of pending motions already filed, the Court declines to advance the hearing on the summary judgment motion."
+- "Good cause appearing, and no prejudice shown, the Court grants the motion to continue."

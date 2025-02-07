@@ -56,3 +56,178 @@ Significant Statements:
 And here is the English-text summary:
 
 The tentative ruling denies PRI's motion to quash the Doe amendment. The court sustains the objection to Exhibit One of the opposition due to hearsay, lack of foundation, and no authentication. The court finds that the plaintiff, Maricela Lemus, knew the name of the defendant, Ponce Recycling Inc. (PRI), but not its culpability. The plaintiff's opposition lacks admissible facts to support this contention, and the court infers that the plaintiff knew PRI was or should have been a defendant in the action. Therefore, the court denies the motion to quash and orders the moving party to give notice.
+..................... .....................
+On 2025-02-07_09:03:40.216032
+The summary displayed below was created by an LLM named:  "gemma2-9b-it":
+## Tentative Ruling Summary in YAML
+
+```yaml
+Case Number: 22STCV27194
+Hearing Date: September 25, 2023
+Dept: 30
+
+Plaintiff's Name: MARICELA LEMUS
+Defendant's Name: JOSE PONCE, PONCE RECYCLING INC. (PRI)
+
+People-Names:
+  - MARICELA LEMUS
+  - JOSE PONCE 
+
+Company-Names:
+  - PONCE RECYCLING INC.
+  - PRI
+
+Places: 
+
+Dates:
+  - September 25, 2023
+
+Events:
+  - Motion to Quash Doe Amendment filed by PRI
+  - Objection sustained to Exhibit One of the Opposition
+
+Money: 
+
+Intentions: 
+  - Plaintiff seeks to substitute PRI for a fictitious defendant.
+
+Facts:
+  - Plaintiff alleged PRI as a defendant in paragraph 5 of the Complaint.
+  - Plaintiff argues knowing the name but not the culpability of PRI.
+  - Plaintiff's opposition lacks admissible facts supporting their contention.
+
+Disputes:
+  - Whether Plaintiff genuinely didn't know PRI's identity or culpability at the time of filing the complaint.
+
+Acts:
+  - Plaintiff filed a complaint naming defendants.
+  - PRI filed a motion to quash Doe Amendment.
+
+Agreements: 
+
+Laws:
+  - Code Civ. Proc., section 474
+
+Case Citations:
+  - San Diego Navy Broadway Complex Coalition v California Coastal Com. (2019) 40 CA5th 563, 579
+  - Balon v Drost (1993) 20 CA4th 483, 488, 25 CR2d 12
+
+Statutes: 
+  - Code Civ. Proc. Section 474
+
+Roles:
+  - Judge: Decides on PRI's motion to quash.
+  - Plaintiff: Seeks to substitute PRI for a fictitious defendant.
+  - PRI: Motioned to quash the Doe Amendment.
+
+Significant Statements:
+  - "The Court finds, however, that Plaintiff's opposition is devoid of any admissible facts that support Plaintiff's contention..."
+  - "The plain inference to be drawn is that Plaintiff knew that PRI (Ponce Recycling Incorporated) was or should have been a defendant in the action."
+
+
+
+```
+
+## English Summary
+
+In this case, the Judge has denied PRI's motion to quash a Doe Amendment. 
+
+The Court found that Plaintiff's opposition to the motion was lacking in admissible evidence. Specifically, the Judge noted that there were no declarations under penalty of perjury filed to support Plaintiff's claim that they knew the name of PRI but not their culpability.  The Judge concluded that the plain inference from the Complaint is that Plaintiff knew PRI was or should have been a defendant. 
+
+
+
+Let me know if you need any further clarification or have other legal documents you'd like summarized!
+
+..................... .....................
+On 2025-02-07_09:04:06.082710
+The summary displayed below was created by an LLM named:  "llama3-8b-8192":
+Here is the summary in YAML format:
+
+```
+Case Number: 22STCV27194
+Plaintiff's Name: MARICELA LEMUS
+Defendant's Name: JOSE PONCE
+People: MARICELA LEMUS, JOSE PONCE
+Company Names: Ponce Recycling Inc. (PRI)
+Places:
+  - None mentioned
+Dates:
+  - September 25, 2023 (Hearing Date)
+  - 2019 (San Diego Navy Broadway Complex Coalition v California Coastal Com.)
+  - 1993 (Balon v Drost)
+Events:
+  - Motion to Quash Doe Amendment
+  - Court Hearing
+Money: None mentioned
+Intentions:
+  - Plaintiff seeks to substitute a named defendant for a fictitious defendant
+  - Defendant moves to quash the amendment
+Facts:
+  - Plaintiff specifically alleged defendant in paragraph 5 of the Complaint
+  - Plaintiff knew the name, but not the culpability
+  - Defendant is ordered to give notice
+Disputes:
+  - Plaintiff's lack of knowledge of the named defendant's identity or of facts giving rise to a cause of action
+Acts:
+  - Plaintiff filed a complaint
+  - Defendant moved to quash the amendment
+  - Court sustained the objection to Exhibit One of the Opposition
+Agreements:
+  - Code Civ. Proc., section 474
+  - San Diego Navy Broadway Complex Coalition v California Coastal Com. (2019)
+  - Balon v Drost (1993)
+Laws:
+  - Code of Civil Procedure (Civ. Proc.)
+Case Citations:
+  - San Diego Navy Broadway Complex Coalition v California Coastal Com. (2019)
+  - Balon v Drost (1993)
+Statutes:
+  - Code Civ. Proc., section 474
+Roles:
+  - Plaintiff: MARICELA LEMUS
+  - Defendant: JOSE PONCE
+  - Moving Party: PRI
+Significant Statements:
+  - The Court denies the motion to quash
+  - The Court sustains the objection to Exhibit One of the Opposition
+  - The Court finds that Plaintiff's opposition is devoid of any admissible facts that support Plaintiff's contention
+```
+
+And here is a summary of the judge's tentative ruling in English text:
+
+The court has issued a tentative ruling in the case of MARICELA LEMUS vs JOSE PONCE, denying the defendant's motion to quash an amendment to the complaint. The amendment seeks to substitute a named defendant for a fictitious defendant. The court found that the plaintiff's opposition to the motion was devoid of any admissible facts that support the plaintiff's contention that they did not know the identity of the named defendant at the time of filing the complaint. The court also sustained an objection to Exhibit One of the opposition due to hearsay, lack of foundation, and no authentication. The court relied on California Code of Civil Procedure section 474, which allows a named defendant to be substituted for a fictitious defendant if the plaintiff was genuinely unaware of the named defendant's identity or of facts giving rise to a cause of action against the named defendant at the time of filing the complaint. The court noted that the plaintiff's lack of knowledge must be real and not feigned, but whether the plaintiff's ignorance was due to misinformation or negligence is irrelevant.
+..................... .....................
+On 2025-02-07_09:04:31.320875
+The summary displayed below was created by an LLM named:  "llama-3.3-70b-specdec":
+Exception:
+Error code: 429 - {'error': {'message': 'Rate limit reached for model `llama-3.3-70b-specdec` in organization `org_01hw84cjv0f12v63qt47723ar2` service tier `on_demand` on : Limit 100000, Used 101226, Requested 605. Please try again in 26m22.136s. Visit https://console.groq.com/docs/rate-limits for more information.', 'type': '', 'code': 'rate_limit_exceeded'}}
+..................... .....................
+On 2025-02-07_09:14:32.858016
+The summary displayed below was created by an LLM named:  "mixtral-8x7b-32768":
+case\_number: 22STCV27194
+hearing\_date: September 25, 2023
+dept: 30
+plaintiff\_name: Maricela Lemus
+defendant\_name: Jose Poncerecycling\_company: Ponce Recycling Incorporated (PRI)
+people\_names: Maricela Lemus, Jose Ponce
+events: [Motion to Quash, Tentative Ruling]
+money: N/A
+intentions: [Substitution of a fictitious defendant, Denial of Motion to Quash]
+facts: [Plaintiff's lack of knowledge about the named defendant's culpability]
+disputes: [Moving Defendant's Motion to Quash]
+acts: [Plaintiff's failure to provide admissible facts supporting her contention]
+agreements: N/A
+laws: [Code Civ. Proc., section 474]
+case\_citations: [San Diego Navy Broadway Complex Coalition v California Coastal Com. (2019) 40 CA5th 563, Balon v Drost (1993) 20 CA4th 483]
+statutes: N/A
+roles: [Plaintiff, Defendant, Moving Defendant]
+significant\_statements:
+- "The Court denies the motion to quash"
+- "The plain inference to be drawn is that Plaintiff knew that PRI was or should have been a defendant in the action"
+
+English text:
+The tentative ruling for case number 22STCV27194, scheduled for September 25, 2023, in Dept 30, is denying the Motion to Quash filed by Ponce Recycling Incorporated (PRI). The plaintiff, Maricela Lemus, had specifically named PRI in paragraph 5 of the complaint. The plaintiff argued that she knew the name of the defendant but not their culpability. However, the court found that the opposition was devoid of any admissible facts that support the plaintiff's contention, as no declarations under penalty of perjury were filed. Therefore, the court denies the motion to quash.
+
+The court sustained the objection to Exhibit One of the Opposition due to hearsay, lack of foundation, and no authentication. The court referred to Code Civ. Proc., section 474, which allows a named defendant to be substituted for a fictitious defendant if the plaintiff was genuinely unaware of the named defendant's identity or of facts giving rise to a cause of action against the named defendant. However, the plaintiff's ignorance must be real and not feigned, and the plaintiff's lack of knowledge due to misinformation or negligence is irrelevant.
+
+In summary, the court denied the Motion to Quash filed by PRI and ordered the moving party and moving defendant to give notice. The court sustained the objection to Exhibit One of the Opposition due to hearsay, lack of foundation, and no authentication.

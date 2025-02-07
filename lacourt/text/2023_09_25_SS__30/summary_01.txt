@@ -62,3 +62,185 @@ Significant Statements:
 And here is the English-text summary:
 
 The tentative ruling denies the Plaintiff's motion to deem Request for Admissions (RFAs) admitted. However, the Court grants the Plaintiff's alternative motion to compel responses to RFAs without objections. The Defendant is required to serve responses within 20 days of notice of the ruling. The Court also awards sanctions to the Plaintiff, ordering the Defendant to pay $961.65 in monetary sanctions within 30 days. This is due to the Defendant's failure to serve timely responses to the RFAs, which waived any objections to the requests. The Court cites California Civil Procedure section 2033.280, which provides that a party who fails to serve a timely response to RFAs waives any objections.
+..................... .....................
+On 2025-02-07_08:07:06.443690
+The summary displayed below was created by an LLM named:  "gemma2-9b-it":
+## Tentative Ruling Summary - YAML
+
+```yaml
+Case Number: 20STCV42421
+Hearing Date: September 25, 2023
+Dept: 30
+Plaintiff's Name: OLGA CROCKER-MAY
+Defendant's Name: NALLELY ALVAREZ
+People-Names: 
+  - OLGA CROCKER-MAY
+  - NALLELY ALVAREZ
+Company-Names: 
+  
+Places: 
+  
+Dates: 
+  - September 16, 2023
+  - August 4, 2023
+Events: 
+  - Plaintiff propounded Requests for Admissions (RFAs) on Defendant on September 16, 2023.
+  - Defendant served responses to RFAs on August 4, 2023 (after deadline).
+  - Plaintiff filed motion to deem RFAs admitted or, alternatively, to compel responses without objection.
+Money: 
+  - $961.65 (monetary sanctions awarded to Plaintiff)
+Intentions: 
+  - Plaintiff seeks to compel Defendant's timely response to RFAs.
+Facts: 
+  - Defendant failed to serve timely responses to RFAs.
+Disputes: 
+  - Dispute regarding Defendant's late response to RFAs.
+Acts: 
+  - Plaintiff propounded RFAs on Defendant.
+  - Defendant served late responses to RFAs.
+Agreements: 
+  
+Laws: 
+  - CCP section 2033.280
+  - Code Civ. Proc., §2033.280(c)
+Case Citations: 
+  
+Statutes: 
+  
+Roles: 
+  - Plaintiff: OLGA CROCKER-MAY
+  - Defendant: NALLELY ALVAREZ
+Significant Statements: 
+  - "Plaintiff’s motion to deem RFAs admitted is denied."
+  - "The Court grants Plaintiff's alternative motion to compel responses... is granted."
+  - "Defendant is to serve responses... within 20 days of notice of ruling."
+  - "Defendant is ordered to pay Plaintiff $961.65... within 30 days."
+
+
+
+```
+
+
+
+## English Text Summary
+
+The Judge denied the Plaintiff's motion to deem the Defendant's late responses to Requests for Admissions (RFAs) as admitted. However, the Judge granted the Plaintiff's alternative motion to compel the Defendant to provide timely responses to the RFAs without objection. 
+
+The Defendant is required to serve their responses within 20 days of receiving notice of the ruling. Additionally, the Defendant was ordered to pay $961.65 in monetary sanctions to the Plaintiff for their late responses, representing three hours of attorney time at $300 per hour plus a $61.65 filing fee. 
+
+
+This ruling was based on the fact that the Defendant served their responses to the RFAs after the deadline, violating CCP section 2033.280, which mandates sanctions in such cases. 
+
+..................... .....................
+On 2025-02-07_08:07:32.271846
+The summary displayed below was created by an LLM named:  "llama3-8b-8192":
+Here is the YAML summary of the tentative ruling:
+
+```
+Case Number: 20STCV42421
+Plaintiff's Name: OLGA CROCKER-MAY
+Defendant's Name: NALLELY ALVAREZ
+People-Names:
+  - OLGA CROCKER-MAY
+  - NALLELY ALVAREZ
+Company-Names: None
+Places: None
+Dates:
+  - September 16, 2023
+  - August 4, 2023
+  - September 25, 2023
+Events:
+  - Motion to Deem Request for Admissions Admitted
+  - Motion to Compel Responses
+  - Request for Sanctions
+Money:
+  - $961.65 (monetary sanctions)
+Intentions:
+  - Deem request for admissions admitted
+  - Compel responses to request for admissions
+  - Award sanctions
+Facts:
+  - Defendant failed to serve a timely response to request for admissions
+  - Plaintiff propounded RFAs on September 16, 2023
+  - Defendant served responses on August 4, 2023
+Disputes:
+  - Defendant's failure to serve timely response
+Acts:
+  - Plaintiff propounded RFAs
+  - Defendant served responses
+  - Court awards sanctions
+Agreements:
+  - CCP section 2033.280
+  - Code Civ. Proc., §2033.280(c)
+Laws:
+  - CCP section 2033.280
+  - Code Civ. Proc., §2033.280(c)
+Case Citations: None
+Statutes:
+  - CCP section 2033.280
+  - Code Civ. Proc., §2033.280(c)
+Roles:
+  - Plaintiff: OLGA CROCKER-MAY
+  - Defendant: NALLELY ALVAREZ
+  - Court: Judge
+Significant Statements:
+  - "The Court grants Plaintiff's alternative motion to compel responses to request for admissions, without objections, is granted."
+  - "The request for sanctions is granted. Defendant is ordered to pay Plaintiff $ 961.65 in monetary sanctions within 30 days."
+  - "CCP section 2033.280 provides that when a party to whom requests for admissions are directed fails to serve a timely response, the party waives any objections to the requests."
+```
+
+And here is a summary of the tentative ruling in English text:
+
+The Court has issued a tentative ruling in the case of OLGA CROCKER-MAY vs NALLELY ALVAREZ. The Plaintiff's motion to deem request for admissions (RFAs) admitted was denied, but the Court granted the Plaintiff's alternative motion to compel responses to RFAs without objections. The Defendant is ordered to serve responses within 20 days of notice of the ruling. Additionally, the Court awarded the Plaintiff monetary sanctions of $961.65, which represents three hours of attorney time at a rate of $300, plus $61.65 in filing fees. This award was made mandatory due to the Defendant's failure to serve a timely response to the RFAs, as per CCP section 2033.280.
+..................... .....................
+On 2025-02-07_08:07:57.470128
+The summary displayed below was created by an LLM named:  "llama-3.3-70b-specdec":
+Exception:
+Error code: 429 - {'error': {'message': 'Rate limit reached for model `llama-3.3-70b-specdec` in organization `org_01hw84cjv0f12v63qt47723ar2` service tier `on_demand` on : Limit 100000, Used 105154, Requested 535. Please try again in 1h21m55.496s. Visit https://console.groq.com/docs/rate-limits for more information.', 'type': '', 'code': 'rate_limit_exceeded'}}
+..................... .....................
+On 2025-02-07_08:17:58.803455
+The summary displayed below was created by an LLM named:  "mixtral-8x7b-32768":
+case\_number: 20STCV42421
+hearing\_date: September 25, 2023
+dept: 30
+plaintiff\_name: OLGA CROCKER-MAY
+defendant\_name: NALLELY ALVAREZ
+people\_names:
+- OLGA CROCKER-MAY
+- NALLELY ALVAREZ
+places:
+dates:
+- September 16, 2023
+- August 4, 2023
+events:
+- Plaintiff propounded RFAs on Defendant on September 16, 2023
+- Defendant served responses to the RFAs on August 4, 2023
+money:
+- $961.65
+intentions:
+- Defendant failed to serve a timely response
+facts:
+- Defendant served responses to the RFAs on August 4, 2023, well after the deadline
+disputes:
+- Defendant's objections to the requests
+acts:
+- Plaintiff's motion to deem RFAs admitted
+- Court grants Plaintiff's alternative motion to compel responses to request for admissions, without objections
+agreements:
+- Defendant is to serve responses, without objection, within 20 days of notice of ruling
+laws:
+- CCP section 2033.280
+case\_citations:
+- CCP section 2033.280(c)
+statutes:
+- Code Civ. Proc., §2033.280(c)
+roles:
+- Plaintiff
+- Defendant
+significant\_statements:
+- Plaintiff’s motion to deem RFAs admitted is denied
+- Defendant is ordered to pay Plaintiff $961.65 in monetary sanctions within 30 days.
+- Moving party is to give notice of this ruling.
+- Sanctions with respect to motions to deem requests for admissions admitted are mandatory if a party to whom the requests for admissions have been directed failed to serve a timely response.
+
+The Judge's tentative ruling states that Plaintiff's motion to deem RFAs admitted is denied, but the alternative motion to compel responses to request for admissions, without objections, is granted. Defendant is to serve responses, without objection, within 20 days of notice of ruling. The Judge also grants the request for sanctions and orders Defendant to pay Plaintiff $961.65 in monetary sanctions within 30 days. The Judge's ruling is based on the fact that Defendant failed to serve a timely response to the RFAs, as per CCP section 2033.280. Sanctions are mandatory if a party to whom the requests for admissions have been directed failed to serve a timely response.

@@ -60,3 +60,182 @@ Significant Statements:
 And here is a summary of the judge's tentative ruling in English text:
 
 The judge has tentatively ruled that the defendant's motions to compel verified responses to discovery are continued to October 27, 2023 at 1:30 PM. The defendant had originally filed the motions on February 14, 2023, but the plaintiff was not served with notice of the motions until after the hearing date. The judge found that the motions were procedurally defective and continued them to allow the defendant to serve the plaintiff with notice by non-electronic means. However, the defendant has not yet filed proof of service, so the motions are being continued again. The judge warns that failure to comply with the order may result in sanctions and denial of the motions.
+..................... .....................
+On 2025-02-07_05:20:46.156748
+The summary displayed below was created by an LLM named:  "gemma2-9b-it":
+## Tentative Ruling Summary in YAML
+
+```yaml
+Case Number: 19STCV42431
+Hearing Date: September 25, 2023
+Dept: 27
+
+Plaintiff's Name: Richard Harris
+Defendant's Name: Universal Protection Service LP
+People-Names: 
+  - Richard Harris
+  - Kerry Bensinger
+Company-Names: 
+  - Universal Protection Service LP
+  - Park La Brea, LLC
+Places: 
+  - Los Angeles County Superior Court, Department 27
+Dates: 
+  - February 14, 2023
+  - August 24, 2023
+  - September 25, 2023
+  - October 27, 2023
+  - December 1, 2023
+Events:
+  - Defendant filed motions to compel responses to discovery.
+  - Motions heard on August 24, 2023.
+  - Court found motions procedurally defective.
+  - Motions continued to October 27, 2023.
+Money: N/A
+Intentions:
+  - Defendant seeks sanctions against Plaintiff.
+  - Court intends to enforce proper service procedures.
+Facts: 
+  - Plaintiff is self-represented.
+Disputes: 
+  - Defendant claims Plaintiff failed to respond to discovery requests.
+Acts:
+  - Defendant filed motions to compel.
+  - Court continued motions to allow proper service.
+Agreements: N/A
+Laws: 
+  - California Rules of Court, rule 2.551, subdivision (c)(3)(B)
+Case Citations: N/A
+Statutes: N/A
+Roles:
+  - Judge Kerry Bensinger: Presiding Judge
+  - Richard Harris: Plaintiff, self-represented
+  - Universal Protection Service LP: Defendant
+Significant Statements:
+  - "The motions were procedurally defective because the proofs of service indicated Plaintiff, in pro per, was not served with these motions pursuant to California Rules of Court, rule 2.551, subdivision (c)(3)(B)."
+  - "Failure to comply with the Court’s order may result in sanctions and denial of the motions."
+
+
+
+```
+
+
+
+## English Text Summary
+
+This is a tentative ruling by Judge Kerry Bensinger regarding a motion to compel discovery filed by Defendant Universal Protection Service LP against Plaintiff Richard Harris. The motion, filed on February 14, 2023, seeks to compel Harris to respond to discovery requests, and also asks for sanctions against him. 
+
+The Court initially identified procedural issues with the motion, as Plaintiff Harris, who represents himself, was not properly served with the original motion. The Court continued the hearing to allow Defendant to properly serve Harris. However, despite this, Defendant has not provided proof of proper service.  Therefore, the Court further continues the hearing to October 27, 2023, requiring Defendant to file proof of service by that date. Failure to comply may result in sanctions and dismissal of the motion.  
+
+
+
+
+
+..................... .....................
+On 2025-02-07_05:21:12.041582
+The summary displayed below was created by an LLM named:  "llama3-8b-8192":
+Here is the summary of the Judge's tentative ruling in YAML format:
+
+```
+Case Number: 19STCV42431
+Plaintiff's Name: Richard Harris
+Defendant's Name: Park La Brea, LLC, et al., Universal Protection Service LP
+People-Names:
+  - Richard Harris
+  - Kerry Bensinger
+Company-Names:
+  - Park La Brea, LLC
+  - Universal Protection Service LP
+Places:
+  - California
+Dates:
+  - February 14, 2023
+  - August 24, 2023
+  - September 25, 2023
+  - October 27, 2023
+  - December 1, 2023
+Events:
+  - Filing of motions to compel responses to discovery
+  - Hearing on motions to compel responses to discovery
+  - Failure to serve Plaintiff with notice of motions
+Money:
+  - Sanctions
+Intentions:
+  - Defendant seeks sanctions against Plaintiff
+  - Plaintiff is self-represented
+Facts:
+  - Plaintiff is self-represented
+  - Defendant filed motions to compel verified responses to discovery
+  - Plaintiff was not served with notice of motions
+Disputes:
+  - Procedural defects in motions to compel responses to discovery
+Acts:
+  - Defendant filed motions to compel responses to discovery
+  - Plaintiff was not served with notice of motions
+  - Defendant was ordered to serve Plaintiff with notice of motions by non-electronic means
+Agreements:
+  - Defendant is to file proof of service of motions by non-electronic means
+Laws:
+  - California Rules of Court, rule 2.551, subdivision (c)(3)(B)
+Case Citations:
+  - [None]
+Statutes:
+  - [None]
+Roles:
+  - Judge: Kerry Bensinger
+  - Plaintiff: Richard Harris
+  - Defendant: Universal Protection Service LP, Park La Brea, LLC, et al.
+Significant Statements:
+  - The motions are CONTINUED to October 27, 2023 at 1:30 PM.
+  - Defendant is to file proof of service of motions by non-electronic means no later than 5 court days before the rescheduled hearing.
+```
+
+And here is a summary of the Judge's tentative ruling in English text:
+
+The Judge, Kerry Bensinger, has issued a tentative ruling in the case of Richard Harris v. Park La Brea, LLC, et al. (Case No. 19STCV42431). The case involves motions filed by the defendant, Universal Protection Service LP, to compel verified responses to discovery from the plaintiff, Richard Harris, who is self-represented. The motions were originally heard on August 24, 2023, but were continued to allow the defendant to serve the plaintiff with notice of the motions by non-electronic means. The defendant has failed to file proof of service of the motions, and the Judge has continued the motions to October 27, 2023 at 1:30 PM. The defendant is required to file proof of service of the motions by non-electronic means no later than 5 court days before the rescheduled hearing. Failure to comply with the Court's order may result in sanctions and denial of the motions.
+..................... .....................
+On 2025-02-07_05:21:37.228686
+The summary displayed below was created by an LLM named:  "llama-3.3-70b-specdec":
+Exception:
+Error code: 429 - {'error': {'message': 'Rate limit reached for model `llama-3.3-70b-specdec` in organization `org_01hw84cjv0f12v63qt47723ar2` service tier `on_demand` on : Limit 100000, Used 100020, Requested 1040. Please try again in 15m16.022s. Visit https://console.groq.com/docs/rate-limits for more information.', 'type': '', 'code': 'rate_limit_exceeded'}}
+..................... .....................
+On 2025-02-07_05:31:38.630071
+The summary displayed below was created by an LLM named:  "mixtral-8x7b-32768":
+case\_number: 19STCV42431
+hearing\_date: September 25, 2023
+dept: 27
+judge: Kerry Bensinger
+
+case: Richard Harris v. Park La Brea, LLC, et al.
+
+moving\_party: Defendant, Universal Protection Service LP
+respondent: Plaintiff, Richrd Harris
+
+events:
+- date: February 14, 2023
+  description: Defendant filed motions to compel verified responses to discovery from Plaintiff.
+- date: August 24, 2023
+  description: Motions were heard, found procedurally defective for improper service.
+- date: September 25, 2023
+  description: Motions continued to October 27, 2023. Defendant must serve Plaintiff by non-electronic means.
+
+people:
+- Richard Harris
+- Kerry Bensinger
+
+companies:
+- Universal Protection Service LP
+- Park La Brea, LLC
+
+places:
+- California
+
+laws: California Rules of Court, rule 2.551, subdivision (c)(3)(B)
+
+significant\_statements:
+- "The motions are CONTINUED to October 27, 2023 at 1:30 PM."
+- "Defendant is to file proof of service of these motions by non-electronic means no later than 5 court days before the rescheduled hearing."
+- "Failure to comply with the Court’s order may result in sanctions and denial of the motions."
+
+summary:
+Judge Kerry Bensinger continued Defendant Universal Protection Service LP's motions to compel verified responses to discovery from Plaintiff Richard Harris. The motions were initially found procedurally defective due to improper service. Defendant is required to serve Plaintiff by non-electronic means before the rescheduled hearing on October 27, 2023. Failure to comply with the order may result in sanctions and denial of the motions.
