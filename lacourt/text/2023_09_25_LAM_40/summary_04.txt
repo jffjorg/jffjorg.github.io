@@ -241,3 +241,49 @@ On 2025-02-06_22:44:39.048960
 The summary displayed below was created by an LLM named:  "llama-3.3-70b-specdec":
 Exception:
 Error code: 429 - {'error': {'message': 'Rate limit reached for model `llama-3.3-70b-specdec` in organization `org_01hw84cjv0f12v63qt47723ar2` service tier `on_demand` on : Limit 100000, Used 98445, Requested 1753. Please try again in 2m50.936999999s. Visit https://console.groq.com/docs/rate-limits for more information.', 'type': '', 'code': 'rate_limit_exceeded'}}
+..................... .....................
+On 2025-02-06_22:54:41.386757
+The summary displayed below was created by an LLM named:  "mixtral-8x7b-32768":
+summary:
+  Case Number: "23STCV06765"
+  Hearing Date: "2023-09-25"
+  Plaintiff: "Alyssa M. Coley"
+  Defendant: "Los Angeles Sheriff’s Department, County of Los Angeles"
+  People: ["Alyssa M. Coley"]
+  Company: ["Los Angeles Sheriff’s Department"]
+  Places: ["Superior Court of California, County of Los Angeles"]
+  Dates:
+    - "May 12, 2023"
+    - "June 28, 2023"
+    - "July 5, 2023"
+    - "August 28, 2023"
+    - "September 25, 2023"
+  Events:
+    - "Plaintiff sues Defendants"
+    - "Defendant demurred to the FAC on the grounds of failure to comply with the mandatory statutory time of the California Tort Claims Act, sufficiency and uncertainty in pleading, and legal immunity"
+    - "Plaintiff failed to respond to a meet and confer letter from Defendant's counsel"
+    - "Plaintiff failed to oppose the Defendant's demurrer"
+    - "Defendant has not filed a reply or notice of non-opposition relating to its demurrer"
+  Money: N/A
+  Intentions: N/A
+  Facts: N/A
+  Disputes: N/A
+  Acts: N/A
+  Agreements: N/A
+  Laws:
+    - "Cal. Civ. Code 52(b)(3)"
+    - "Title VI of Civil Rights Act"
+    - "18 USC 242 of Title 18"
+    - "Cal. Civ. Code 425.16 (a)(b)(2)(c)(a)(e)"
+    - "Unconstitutional Policing"
+  Case Citations: N/A
+  Statutes: "California Tort Claims Act"
+  Roles:
+    - "Plaintiff appearing in pro per"
+    - "Defendant named in the FAC as Los Angeles Sheriff’s Department"
+  Significant Statements:
+    - "The Court STRIKES Plaintiff Coley’s FAC because it is not drawn in conformity with the laws of the State of California"
+    - "Plaintiff is granted 30 days’ leave to amend her pleadings"
+
+English:
+The tentative ruling for case number 23STCV06765, scheduled for hearing on September 25, 2023 in Department 40 of the Superior Court of California, County of Los Angeles, is as follows. The ruling is moot as the Court has struck Plaintiff Alyssa M. Coley's First Amended Complaint (FAC) due to it not being drawn in conformity with the laws of the State of California. Plaintiff Coley is granted 30 days' leave to amend her pleadings. The case involves Plaintiff Coley suing Defendants "Attorney General," Los Angeles Sheriff’s Department, and Does 1 to 2 for claims alleging Cal. Civ. Code 52(b)(3); Title VI of Civil Rights Act; 18 USC 242 of Title 18; Cal. Civ. Code 425.16 (a)(b)(2)(c)(a)(e); and Unconstitutional Policing. The FAC was filed on May 12, 2023 and fails to attach papers or provide facts explaining the grounds for these claims. The case was originally assigned to Department 30 and has since been transferred to multiple departments before being reassigned to Department 40 on April 28, 2023. On July 5, 2023, the Los Angeles County Sheriff’s Department (LASD) demurred to the FAC on the grounds of failure to comply with the mandatory statutory time of the California Tort Claims Act, sufficiency and uncertainty in pleading, and legal immunity. The LASD attached a declaration from counsel representing that they mailed a meet and confer letter to Plaintiff Coley on June 28, 2023, which Plaintiff Coley failed to respond to. The Court held an Order to Show Cause re Failure to File Proof of Service and Case Management Conference in this action on August 28, 2023, but Plaintiff Coley did not make an appearance. Plaintiff Coley requested copies of the LASD’s demurrer and its attached declaration on the same day, but has failed to oppose the LASD’s demurrer. The LASD has not filed a reply or notice of non-opposition relating to its demurrer.
