@@ -56,3 +56,193 @@ Significant Statements:
 And here is the English-language summary:
 
 The judge has issued a tentative ruling on a future court hearing. On August 24, 2023, the court overruled the defendant's demurrer to the plaintiff's Second Amended Complaint. The defendant then filed a motion for summary judgment, which was set for hearing on October 12, 2023. However, the court rescheduled the hearing to September 25, 2023, immediately before the scheduled trial. The judge has denied the defendant's motion for summary judgment, ruling that it is a mere reiteration of the same arguments made in the demurrer and does not add any new facts, evidence, or law to support a different outcome. The parties are reminded that trial is still scheduled to go forward and that they must meet and confer on joint trial documents.
+..................... .....................
+On 2025-02-07_01:58:46.987488
+The summary displayed below was created by an LLM named:  "gemma2-9b-it":
+## Tentative Ruling Summary in YAML Format
+
+```yaml
+Case Number: 22LBUD00619
+Hearing Date: September 25, 2023
+Dept: S27
+
+People-Names:
+- Judge (Name not provided in text)
+
+Company-Names:
+-  (Not mentioned in the text)
+
+Places:
+-  (Not mentioned in the text)
+
+Dates:
+- August 24, 2023: Demurrer hearing and overruled.
+- September 18, 2023: Defendant filed motion for summary judgment.
+- September 21, 2023: Final Status Conference, hearing on summary judgment rescheduled.
+- September 25, 2023: Summary judgment hearing.
+- October 12, 2023: Original scheduled hearing for summary judgment.
+
+Events:
+- Demurrer filed by Defendant.
+- Demurrer overruled by the Court.
+- Motion for summary judgment filed by Defendant.
+- Hearing on summary judgment motion rescheduled.
+- Trial scheduled immediately following summary judgment hearing.
+
+Money:
+- (Not mentioned in the text)
+
+Intentions:
+- Defendant intends to dismiss the case through summary judgment. 
+
+Facts:
+- Plaintiff filed a Second Amended Complaint.
+- Defendant filed a demurrer to the Second Amended Complaint.
+- Defendant filed a motion for summary judgment.
+
+Disputes:
+- The legal issues raised by the Plaintiff's Second Amended Complaint.
+
+Acts:
+- Defendant filed a demurrer.
+- Defendant filed a motion for summary judgment.
+- Court overruled the demurrer.
+- Court denied the motion for summary judgment.
+
+Agreements:
+- Parties ordered to meet and confer regarding joint trial documents.
+
+Laws:
+- (Not mentioned in the text)
+
+Case Citations:
+- (Not mentioned in the text)
+
+Statutes:
+- (Not mentioned in the text)
+
+Roles:
+- Judge: Decides legal issues and overrules demurrer, denies summary judgment.
+- Plaintiff: Filed the Second Amended Complaint.
+- Defendant: Filed demurrer and motion for summary judgment.
+
+Significant Statements:
+- "Defendant’s summary judgment motion is a mere reiteration of all arguments made in her demurrer, which was overruled on 8/24/23."
+- "The motion for summary judgment is denied for the reasons set forth in the 8/24/23 order on the demurrer."
+
+
+
+```
+
+## English Summary of the Judge's Tentative Ruling
+
+The Judge has denied the Defendant's motion for summary judgment. The Judge explains that the motion is essentially repeating the arguments made in the Defendant's previous demurrer, which was already overruled.  Since the Defendant did not provide any new facts, evidence, or legal arguments, the Judge denies the motion for summary judgment based on the previous ruling on the demurrer. 
+
+The Judge also reminds the parties that the trial is scheduled to begin immediately after the hearing on the motion and that they were previously ordered to meet and confer regarding joint trial documents. 
+
+
+
+
+..................... .....................
+On 2025-02-07_01:59:12.655886
+The summary displayed below was created by an LLM named:  "llama3-8b-8192":
+Here is the summary in YAML format:
+
+```
+Case Number: 22LBUD00619
+Plaintiff's Name: N/A
+Defendant's Name: N/A
+People-Names: N/A
+Company-Names: N/A
+Places: N/A
+Dates:
+  - 8/24/23
+  - 9/18/23
+  - 9/21/23
+  - 9/25/23
+  - 10/12/23
+Events:
+  - Hearing and overruling of demurrer
+  - Filing of motion for summary judgment
+  - Rescheduling of hearing
+Money: N/A
+Intentions:
+  - Denial of motion for summary judgment
+Facts:
+  - Defendant's demurrer was overruled
+  - No new facts, evidence, or law added to the moving papers
+Disputes:
+  - Dispute regarding the merits of the case
+Acts:
+  - Filing of demurrer
+  - Filing of motion for summary judgment
+Agreements:
+  - Parties to meet and confer regarding joint trial documents
+Laws:
+  - California rules of court
+Case Citations:
+  - 8/24/23 order on the demurrer
+Statutes: N/A
+Roles:
+  - Judge: presiding over the case
+Significant Statements:
+  - "Defendant's summary judgment motion is a mere reiteration of all arguments made in her demurrer, which was overruled on 8/24/23."
+```
+
+And here is a summary of the judge's tentative ruling in English text:
+
+The court has reviewed the defendant's motion for summary judgment and has denied the motion. The defendant's motion is simply a reiteration of the arguments made in her demurrer, which was previously overruled by the court. The defendant has not added any new facts, evidence, or law to support her motion, and therefore the outcome would be the same as the outcome of the demurrer. The parties are reminded that trial is scheduled to begin immediately after the hearing on this motion, and they are still required to meet and confer regarding joint trial documents.
+..................... .....................
+On 2025-02-07_01:59:37.864522
+The summary displayed below was created by an LLM named:  "llama-3.3-70b-specdec":
+Exception:
+Error code: 429 - {'error': {'message': 'Rate limit reached for model `llama-3.3-70b-specdec` in organization `org_01hw84cjv0f12v63qt47723ar2` service tier `on_demand` on : Limit 100000, Used 99896, Requested 447. Please try again in 4m56.094s. Visit https://console.groq.com/docs/rate-limits for more information.', 'type': '', 'code': 'rate_limit_exceeded'}}
+..................... .....................
+On 2025-02-07_02:09:38.986873
+The summary displayed below was created by an LLM named:  "mixtral-8x7b-32768":
+case\_number: 22LBUD00619
+hearing\_date: September 25, 2023
+dept: S27
+plaintiff\_name: not specified
+defendant\_name: not specified
+people\_names:
+- Defendant
+company\_names:
+- not specified
+places:
+- not specified
+dates:
+- August 24, 2023
+- September 18, 2023
+- September 21, 2023
+- September 25, 2023
+events:
+- Court heard and overruled Defendant’s demurrer to Plaintiff’s Second Amended Complaint
+- Defendant filed motion for summary judgment
+- Final Status Conference
+- Hearing on the summary judgment motion
+- Trial
+money: not specified
+intentions: not specified
+facts:
+- Defendant's summary judgment motion is a reiteration of arguments made in her demurrer
+- No new facts, evidence, or law added to the motion
+disputes:
+- Overruled demurrer
+- Motion for summary judgment
+acts:
+- Court incorporated 8/24/23 ruling by reference into this order
+- Rescheduled the hearing on the summary judgment motion to 9/25/23
+agreements:
+- Parties previously ordered to meet and confer regarding joint trial documents
+laws: not specified
+case\_citations: not specified
+statutes: not specified
+roles:
+- Plaintiff
+- Defendant
+significant\_statements:
+- "The motion for summary judgment is denied for the reasons set forth in the 8/24/23 order on the demurrer."
+- "The parties are reminded that trial is scheduled to go forward immediately after the hearing on this motion..."
+
+The Judge's tentative ruling is denying Defendant's motion for summary judgment as it is a reiteration of arguments made in her demurrer, which was previously overruled. No new facts, evidence, or law have been added to the motion that would result in a different outcome. The trial is scheduled to go forward immediately after the hearing on this motion.

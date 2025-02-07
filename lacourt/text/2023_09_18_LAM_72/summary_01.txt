@@ -40,3 +40,149 @@ Here is a summary of the tentative ruling in a format that mirrors the YAML form
 * May 3, 2023 (filing of Defendant's motion to compel production of 2017 appraisal)
 * May 5, 2023 (filing of Plaintiff's motion to disqualify)
 * May 16, 2023 (filing of opposition to Defendant's motion to compel production of 2017 appraisal
+..................... .....................
+On 2025-02-06_23:10:48.190606
+The summary displayed below was created by an LLM named:  "gemini-2.0-flash-exp":
+```yaml
+english_summary: |
+  Judge's tentative ruling on a case (21STCV04671) involving LW Acquisitions, LLC and 7080 Hollywood, LLC.
+  The court made several decisions regarding motions to compel, privilege, and sealing requests.
+  Specifically, the Judge:
+  1. Granted the defendant's motion to challenge the plaintiff's clawback of documents LW00002501 and LW00001114-1115.
+  2. Denied the defendant's motion to compel production of the 2017 appraisal.
+  3. Denied the plaintiff's motion to disqualify the defendant's counsel.
+  4. Granted the defendant's motion to compel production of Mr. Zoraster's 2020 appraisal files, except for communications between Mr. Zoraster and counsel, and the plaintiff must produce the 2020 appraisal files and a privilege log within 30 days.
+  5. Denied the plaintiff's motions to seal documents, except for portions referencing documents in the January 2022 clawback email. The Plaintiff has 30 days to file a single motion to seal with narrowly tailored redactions.
+
+case_number: 21STCV04671
+plaintiff_name: LW Acquisitions, LLC
+defendant_name: 7080 Hollywood, LLC
+people_names:
+  - Chris St. Denis
+  - Laura Worchell
+  - Bryan Kravetz
+  - David Zoraster
+  - Brad Thompson
+  - David Graeler
+company_names:
+  - LW Acquisitions, LLC
+  - 7080 Hollywood, LLC
+  - Curtis-Rosenthal
+  - Nossaman
+  - Sheppard Mullin
+  - First American Title Ins. Co.
+  - General Electric Co.
+  - State Water Resources Control Bd.
+  - Great American Savings & Loan
+  - Mitsubishi Motors Corp.
+  - CBRE
+places:
+  - Wyoming
+  - Delaware
+  - Los Angeles
+  - Hollywood
+  - Hawthorn Avenue
+  - La Brea Avenue
+dates:
+  - February 5, 2021
+  - November 2021
+  - January 7, 2022
+  - January 2022
+  - March 1, 2023
+  - March 2023
+  - March 31, 2023
+  - February 23, 2023
+  - April 2020
+  - April 24, 2023
+  - September 8, 2022
+  - August 11, 2016
+  - May 6, 2023
+  - May 9, 2023
+  - May 16, 2023
+  - May 26, 2023
+  - September 18, 2023
+events:
+  - Filing of Complaint
+  - Inadvertent Disclosure of Appraisal (November 2021)
+  - January 2022 Clawback
+  - Deposition of Laura Worchell (February 23, 2023)
+  - March 2023 Clawback
+  - Motion to Challenge Clawback (filed 4/3/2023)
+  - Motion to Compel Production of 2017 Appraisal (filed 5/3/2023)
+  - Motion to Disqualify (filed 5/5/2023)
+  - Motion to Compel Production of Zoraster's 2020 Appraisal (filed 5/18/2023)
+money:
+  - $22 million (fair market value claim)
+intentions:
+  - Defendant sought to challenge Plaintiff's clawback of documents.
+  - Defendant sought to compel production of the 2017 appraisal.
+  - Plaintiff sought to disqualify Defendant's counsel.
+  - Defendant sought to compel production of Mr. Zoraster's 2020 appraisal files.
+  - Plaintiff sought to seal documents.
+facts:
+  - Dispute over the value of land in Hollywood.
+  - Plaintiff inadvertently produced an appraisal in November 2021.
+  - Plaintiff realized the inadvertent disclosure on January 7, 2022, and sent a clawback email.
+  - Defendant's counsel overlooked the clawback email.
+  - Plaintiff sent a second clawback email in March 2023.
+  - Zoraster prepared 2020 appraisals before litigation.
+  - Zoraster designated as an expert.
+disputes:
+  - Whether certain documents are protected by attorney-client privilege or attorney work product doctrine.
+  - Whether Defendant waived its right to challenge the clawback by failing to act within 30 days.
+acts:
+  - Plaintiff filing a complaint.
+  - Plaintiff inadvertently producing documents.
+  - Plaintiff sending clawback emails.
+  - Defendant filing motions to compel.
+  - Plaintiff filing a motion to disqualify.
+  - Plaintiff filing motions to seal.
+agreements:
+  - None explicitly mentioned.
+laws:
+  - Code of Civil Procedure sections 2017.010, 2018.030, 2031.285, 1005(b)-(c), 128, subd. (a)(5)
+  - Evidence Code sections 771, 912, 954
+  - California Rules of Court, rules 2.550(d), 2.551(b)(1)
+case_citations:
+  - Costco Wholesale Corp. v. Super. Ct., (2009) 47 Cal.4th 725
+  - Citizens for Ceres v. Super. Ct., (2013) 217 Cal.App.4th 889
+  - HLC Properties, Limited v. Super. Ct. (2005) 35 Cal. 4th 54
+  - OXY Resources California LLC v. Super. Ct. (2004) 115 Cal.App.4th 874
+  - Venture Law Group v. Super. Ct. (2004) 118 Cal. App. 4th 96
+  - League of California Cities v. Super. Ct. (2014) 241 Cal.App.4th 976
+  - Guimei v. General Electric Co. (2009) 172 Cal. App. 4th 689
+  - City of Arcadia v. State Water Resources Control Bd. (2010) 191 Cal. App. 4th 156
+  - Jay v. Mahaffey (2013) 128 Cal.App.4th 1522
+  - Mack v. Super. Ct. (1968) 259 Cal.App.2d 7
+  - Kirk v. First American Title Ins. Co.(2010) 183 Cal.App.4th 776
+  - Mills Land & Water Co. v. Golden West Refining Co.(1986) 186 Cal.App.3d 116
+  - Henriksen v. Great American Savings & Loan(1992) 11 Cal.App.4th 109
+  - Rico v. Mitsubishi Motors Corp. (2007) 42 Cal.4th 807
+  - State Compensation Ins. Fund v. WPS, Inc. (1999) 70 Cal.App.4th 644
+  - Kadelbach v. Amaral (1973) 31 Cal.App.3d 814
+  - Regents of Univ. of Cal. v. Super. Ct. (2008) 165 Cal.App. 4th 672
+  - H.B. Fuller Co. v. Doe (2007) 151 Cal. App. 4th 879
+  - In re Marriage of Nicholas (2010) 186 Cal.App.4th 1566
+  - Box v. Super. Ct. (2022) 87 Cal.App.5th 60
+statutes:
+  - Code of Civil Procedure section 2031.285, subdivision (d)(1)
+roles:
+  - Judge
+  - Plaintiff
+  - Defendant
+  - Attorney
+  - Expert
+  - Appraiser
+significant_statements:
+  - "The Court grants Defendant’s motion."
+  - "The Court denies Defendant’s motion."
+  - "The Court denies Plaintiff’s motion."
+  - "Plaintiff must produce the 2020 appraisal files and a privilege log under the terms of this order within 30 days."
+  - "Plaintiff must file a single motion to seal within 30 days, along with revised public documents that redact only that small portion.  If Plaintiff does not do so, the documents will be unsealed."
+  - "The Court will disregard Plaintiff’s surreply."
+```
+..................... .....................
+On 2025-02-06_23:11:25.740648
+The summary displayed below was created by an LLM named:  "gemini-2.0-pro-exp":
+Exception:
+429 Resource has been exhausted (e.g. check quota).

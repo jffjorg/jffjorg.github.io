@@ -511,3 +511,82 @@ significant\_statements:
 - Defendants' motion to exclude evidence about dust levels is denied without prejudice to objection at trial
 - Defendants' motion to preclude evidence as harassing and irrelevant is denied without prejudice to objections at trial
 - Defendants are to give notice.
+..................... .....................
+On 2025-02-06_23:40:30.821389
+The summary displayed below was created by an LLM named:  "gemini-2.0-flash-exp":
+```yaml
+case_number: "23STCV00446"
+plaintiff_name:  # (Not specified in the excerpt)
+defendant_names:
+  - "HCR ManorCare, Inc."
+  - "VWR International, LLC"
+people_names: # (Not specified in the excerpt)
+company_names:
+  - "HCR ManorCare, Inc."
+  - "VWR International, LLC"
+places: # (Not specified in the excerpt)
+dates:
+  - "September 18, 2023"
+  - "July 8, 2022"
+  - "July 24, 2012"
+  - "November 4, 1983"
+events:
+  - "Court Hearing"
+money: # (Not specified in the excerpt)
+intentions:
+  - "Defendant HCR ManorCare, Inc. intends to exclude arguments about asbestos exposure and causation."
+  - "Defendant HCR ManorCare, Inc. intends to exclude documents relied upon by experts as hearsay."
+  - "Defendant HCR ManorCare, Inc. intends to exclude a position statement from the Joint Policy Committee."
+  - "Defendant HCR ManorCare, Inc. intends to exclude evidence about dust levels based on visual observations."
+  - "Defendant VWR International, LLC intends to preclude evidence that it has no documents dated before November 4, 1983."
+facts:
+  - "Asbestos exposure is the subject of the lawsuit."
+  - "Experts rely on documents, some of which might be hearsay."
+  - "Witnesses made visual observations of dust."
+disputes:
+  - "Dispute over the admissibility of arguments about asbestos exposure and causation."
+  - "Dispute over the admissibility of documents relied upon by experts."
+  - "Dispute over the admissibility of a position statement from the Joint Policy Committee."
+  - "Dispute over the admissibility of evidence about dust levels based on visual observations."
+  - "Dispute over the admissibility of evidence that VWR International, LLC has no documents dated before November 4, 1983."
+acts:
+  - "Defendants filed Motions in Limine (MIL)."
+  - "Judge issued a tentative ruling on the motions."
+agreements:
+  - "July 8, 2022 CMO deemed motions to exclude expert opinion about the term 'substantial factor' made and denied without prejudice."
+laws:
+  - "Rules of evidence regarding hearsay."
+  - "Rules of evidence regarding relevance and prejudice."
+case_citations:
+  - "People v. Veamatahau (2020) 9 Cal.5th 16, 22"
+statutes: # (Not specified in the excerpt)
+roles:
+  - "Judge: Presiding over the case and ruling on motions."
+  - "Plaintiff: Bringing the lawsuit."
+  - "Defendant: Defending against the lawsuit."
+  - "Expert Witness: Providing expert testimony."
+significant_statements:
+  - "Motion is denied without prejudice to objections at trial."
+  - "Motion is granted."
+  - "Motion is too vague."
+  - "An expert may rely on the reports even if they are hearsay."
+  - "A witness has personal knowledge of what the witness observed firsthand."
+```
+
+**Summary of the Judge's Tentative Ruling:**
+
+The Judge issued a tentative ruling on several Motions in Limine (MIL) filed by the defendants, HCR ManorCare, Inc. and VWR International, LLC, in an asbestos exposure case.
+
+*   **MIL No. 1, 5-9:** No motion was filed.
+*   **MIL No. 2:** HCR ManorCare's motion to exclude arguments about asbestos exposure and causation (no safe level, cumulative dose) was denied as too vague. The court also noted that motions to exclude expert opinion on "substantial factor" were previously deemed made and denied.
+*   **MIL No. 3:** HCR ManorCare's motion to preclude the plaintiff from telling the jury the contents of documents relied upon by experts was denied as too vague, and because some documents may be admissible.
+*   **MIL No. 4:** HCR ManorCare's motion to exclude a Joint Policy Committee statement was granted because the statement was hearsay, not subject to an exception, published after the alleged exposure, not evidence of the defendant's knowledge, and a call for political action rather than unbiased science.
+*   **MIL No. 10 (HCR ManorCare):** HCR ManorCare's motion to exclude evidence about dust levels based on visual observations was denied because witnesses have personal knowledge of their observations, and the evidence may be relevant.
+*   **MIL No. 10 (VWR International):** VWR International's motion to preclude evidence that it has no documents dated before November 4, 1983, was denied as too vague.
+
+In most instances where the motions were denied, it was "without prejudice," meaning the defendants can object again at trial if the evidence is presented. The moving party is responsible for providing notice of the ruling.
+..................... .....................
+On 2025-02-06_23:41:08.240666
+The summary displayed below was created by an LLM named:  "gemini-2.0-pro-exp":
+Exception:
+429 Resource has been exhausted (e.g. check quota).
