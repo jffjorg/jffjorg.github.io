@@ -416,3 +416,186 @@ significant\_statements:
 - Leave to amend is denied
 - The post-mediation status conference is advanced and vacated
 - Defendants' counsel shall provide notice and file proof with the Court.
+..................... .....................
+On 2025-02-06_22:16:08.129484
+The summary displayed below was created by an LLM named:  "gemini-2.0-flash-exp":
+```yaml
+Case Number: 22STCV32849
+Plaintiff's Name: Marvin Kay
+Defendant's Name: Gregory A. Yates, Gregory A. Yates, P.C., Steve Vartazarian, Vartazarian Law Firm
+People-Names:
+  - Marvin Kay
+  - Gregory A. Yates
+  - Steve Vartazarian
+  - Edward Steinrecher
+  - Anthony Miramontes
+Company-Names:
+  - Gregory A. Yates, P.C.
+  - Vartazarian Law Firm
+  - United Parcel Services, Inc. (UPS)
+  - Edward Steinrecher, P.C.
+Places:
+  - Court (Dept 39)
+Dates:
+  - September 18, 2023 (Hearing Date)
+  - May 2019 (Appointment of Plaintiff)
+  - June 12, 2019 (Agreement Signed by Plaintiff)
+  - June 13, 2019 (Agreement Signed by Yates)
+  - June 14, 2019 (Addendum to Agreement)
+  - August 26, 2019 (Fee splitting agreement signed by Miramontes)
+  - September 4, 2019 (Fee splitting agreement signed by Yates and Vartazarian)
+Events:
+  - Filing of Action by Plaintiff (Marvin Kay)
+  - Negotiation of Agreement between Plaintiff and Yates
+  - Signing of Agreement and Addendum
+  - Recruitment of Steve Vartazarian
+  - Settlement of Miramontes Case
+  - Filing of Motion for Judgment on the Pleadings by Defendants
+  - Court Hearing on Motion for Judgment on the Pleadings
+Money:
+  - $4,000,000 (Agreed Value of Steinrecher's Work)
+  - $1,000 (Hourly Rate)
+Intentions:
+  - Plaintiff intends to receive a portion of the attorney's fees from the Miramontes case settlement.
+  - Defendants intend to avoid paying Plaintiff the claimed fees.
+  - Plaintiff intends to seek treble damages and attorney's fees on a breach of contract claim.
+Facts:
+  - Plaintiff was appointed administrator of Edward Steinrecher's practice after his death.
+  - Steinrecher handled the Miramontes case before his death.
+  - Plaintiff and Yates entered into an agreement for Yates to handle the Miramontes case, with Plaintiff receiving a portion of the fees.
+  - Yates recruited Vartazarian to work on the case.
+  - The Miramontes case settled.
+Disputes:
+  - Whether Defendants owe Plaintiff attorney's fees from the Miramontes case settlement.
+  - Whether the fee splitting agreement between Yates and Vartazarian incorporates the agreement between Plaintiff and Yates.
+Acts:
+  - Filing a lawsuit for breach of contract and conversion.
+  - Filing a motion for judgement on the pleadings.
+Agreements:
+  - Agreement between Plaintiff and Yates for handling the Miramontes case and fee splitting.
+  - Fee splitting agreement between Yates and Vartazarian.
+Laws:
+  - Code of Civil Procedure, § 438, subd. (f)
+  - California Rules of Professional Conduct, rule 1.5.1
+Case Citations:
+  - Civic Partners Stockton, LLC v. Youssefi (2013) 218 Cal.App.4th 1005, 1013
+  - Rippon v. Bowen (2008) 160 Cal.App.4th 1308, 1313
+  - Wolf v. Superior Court (2004) 114 Cal.App.4th 1343, 1350-1351
+  - Kim v. Westmoore Partners, Inc. (2011) 201 Cal.App.4th 267, 284
+Statutes:
+  - Code Civ. Proc., § 438, subd. (f).
+Roles:
+  - Judge: Presiding over the case and issuing the tentative ruling.
+  - Plaintiff: Marvin Kay, administrator of Steinrecher's practice.
+  - Defendant: Gregory A. Yates, Gregory A. Yates, P.C., Steve Vartazarian, Vartazarian Law Firm.
+  - Attorney: Edward Steinrecher, Gregory A. Yates, Steve Vartazarian
+Significant Statements:
+  - "The Court grants the motion in part and denies the motion in part."
+  - "[T]he simple failure to pay money owed does not constitute conversion."
+  - "The Court denies leave to amend, as it is clear that no amendment would be successful."
+
+```
+
+**Summary of Tentative Ruling:**
+
+Judge Kay is ruling on a motion for judgment on the pleadings in the case of Marvin Kay v. Gregory A. Yates, et al. The case involves a dispute over attorney's fees from a settled personal injury case (Miramontes v. UPS) that was originally handled by attorney Edward Steinrecher.  After Steinrecher's death, Marvin Kay, as the administrator of Steinrecher's practice, entered into an agreement with Gregory Yates to handle the case, with Kay to receive a portion of the fees. Yates later brought in Steve Vartazarian.  Kay alleges he wasn't paid the agreed-upon fees after the Miramontes case settled and is suing for breach of contract and conversion.
+
+The Judge denies the motion for judgment on the pleadings regarding the breach of contract claim, finding that the alter ego allegations are sufficient to assert the claim against Yates and his practice, and that the interpretation of the fee splitting agreement requires further evidence. However, the Judge grants the motion for judgment on the pleadings regarding the conversion claim, stating that a simple failure to pay money owed is not conversion and denies leave to amend. The Judge believes the conversion claim is an attempt to seek treble damages and attorney's fees on a breach of contract claim.
+..................... .....................
+On 2025-02-06_22:16:57.517861
+The summary displayed below was created by an LLM named:  "gemini-2.0-pro-exp":
+```yaml
+case_number: 22STCV32849
+hearing_date: 2023-09-18
+department: 39
+plaintiff: Marvin Kay
+defendants:
+  - Gregory A. Yates
+  - Gregory A. Yates, P.C.
+  - Steve Vartazarian
+  - The Vartazarian Law Firm
+people_names:
+  - Marvin Kay
+  - Gregory A. Yates
+  - Steve Vartazarian
+  - Edward Steinrecher
+  - Anthony Miramontes
+company_names:
+  - Gregory A. Yates, P.C.
+  - The Vartazarian Law Firm
+  - Edward Steinrecher, P.C.
+  - United Parcel Services, Inc.
+places:
+  - "Dept: 39" # Courtroom
+dates:
+  - 2019-05: "Probate court appointment of Plaintiff"
+  - 2019-06-12: "Plaintiff signed agreement"
+  - 2019-06-13: "Yates signed agreement"
+  - 2019-06-14: "Addendum to agreement executed"
+  - 2019-08-26: "Miramontes signed fee splitting agreement"
+  - 2019-09-04: "Yates and Vartazarian signed fee splitting agreement"
+  - 2023-09-18: "Hearing Date"
+events:
+  - "Steinrecher's death"
+  - "Appointment of Plaintiff as practice administrator"
+  - "Negotiation of agreement between Plaintiff and Yates"
+  - "Signing of agreement and addendum"
+  - "Recruitment of Vartazarian by Yates"
+  - "Miramontes case settlement (alleged)"
+  - "Filing of lawsuit by Plaintiff"
+  - "Defendants' motion for judgment on the pleadings"
+  - "Court's ruling on the motion"
+  - "Vacating of post-mediation status conference"
+money:
+  - "$4 million (agreed value of Steinrecher's work)"
+  - "$1,000 per hour (rate for Steinrecher's work)"
+intentions:
+  - "Plaintiff: To recover attorney's fees allegedly owed"
+  - "Defendants: To dismiss the lawsuit"
+  - "Yates: To handle the Miramontes case and share fees with Plaintiff"
+  - "Vartazarian: To work on the Miramontes case"
+facts:
+  - "Steinrecher was an attorney who maintained a practice."
+  - "Steinrecher died and Plaintiff was appointed practice administrator."
+  - "Steinrecher had worked 4,000 hours on the Miramontes case."
+  - "An agreement was made for Yates to handle the Miramontes case and share fees."
+  - "Vartazarian was recruited to work on the case."
+  - "The Miramontes case allegedly settled."
+  - Plaintiff alleges that the Miramontes Case settled, but the
+   Defendants did not pay Plaintiff the required attorney’s fees.
+disputes:
+  - "Whether Defendants owe Plaintiff attorney's fees"
+  - "Whether the fee splitting agreement incorporates the Plaintiff-Yates agreement"
+  - "Whether the conversion claim is valid"
+acts:
+  - "Breach of contract (alleged)"
+  - "Conversion (alleged)"
+agreements:
+  - "Agreement between Plaintiff and Yates regarding Miramontes case fees"
+  - "Addendum to the agreement"
+  - "Fee splitting agreement between Yates and Vartazarian"
+laws:
+ - "California Rules of Professional Conduct, rule 1.5.1"
+case_citations:
+  - "Civic Partners Stockton, LLC v. Youssefi (2013) 218 Cal.App.4th 1005, 1013"
+  - "Rippon v. Bowen (2008) 160 Cal.App.4th 1308, 1313"
+  - "Wolf v. Superior Court (2004) 114 Cal.App.4th 1343, 1350-1351"
+  - "Kim v. Westmoore Partners, Inc. (2011) 201 Cal.App.4th 267, 284"
+statutes:
+  - "Code Civ. Proc., § 438, subd. (f)"
+roles:
+  - "Plaintiff: Practice administrator, seeking attorney's fees"
+  - "Defendant (Yates): Attorney who took over the Miramontes case"
+  - "Defendant (Vartazarian): Attorney recruited to work on the case"
+  - "Steinrecher: Deceased attorney"
+  - "Miramontes: Client in the underlying personal injury case"
+significant_statements:
+  -  "The Court grants the motion in part and denies the motion in part."
+  - "The only parties to the contract are Plaintiff and Yates."
+  - "Plaintiff’s theory against the Vartazarian defendants is as follows: The fee splitting agreement between Yates and Vartazarian incorporates Plaintiff’s agreement with Yates by reference."
+  - "“[T]he simple failure to pay money owed does not constitute conversion.”"
+  - "This cause of action is nothing more than an obvious attempt to seek treble damages and attorney’s fees on a breach of contract claim."
+
+summary: |
+  The judge's tentative ruling partially grants and partially denies the Defendants' motion for judgment on the pleadings. The breach of contract claim (first cause of action) against Yates and his practice survives, with the judge finding the alter ego allegation sufficient and indicating that the interpretation of the fee-splitting agreement involving Vartazarian might require extrinsic evidence, making it suitable for summary judgment, not dismissal at this stage.  However, the conversion claim (second cause of action) is dismissed without leave to amend, as the judge finds it to be merely a restatement of the breach of contract claim, and California law doesn't generally allow conversion claims for simple failure to pay a debt. The judge vacated a future conference.  The Defendants' attorney is ordered to provide notice of the ruling.
+```

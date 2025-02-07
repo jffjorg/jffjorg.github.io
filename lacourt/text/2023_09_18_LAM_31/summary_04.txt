@@ -281,3 +281,190 @@ roles: Plaintiff, defendant, officer, director, managing agent
 significant\_statements: The court disagrees with the defendant's contention that the plaintiff has not alleged sufficient facts to amount to egregious conduct and states that the plaintiff's first cause of action for elder abuse sufficiently states a cause of action at this pleading stage. The court finds that the plaintiff has sufficiently alleged malice for punitive damages.
 
 In this tentative ruling, the judge overrules the defendant's demurrer to the first cause of action for elder abuse and denies the defendant's motion to strike. The judge finds that the plaintiff has sufficiently alleged egregious conduct and authorization or ratification on the part of an officer, director, or managing agent for the cause of action for elder abuse. The judge also finds that the plaintiff has sufficiently alleged malice for punitive damages. The judge orders the moving party to give notice.
+..................... .....................
+On 2025-02-06_22:03:38.759408
+The summary displayed below was created by an LLM named:  "gemini-2.0-flash-exp":
+```yaml
+case_number: "22STCV25765"
+plaintiff_name:  # Name not specified in the document
+defendant_name: "Kaiser Foundation Health Plan Inc., Kaiser Foundation Hospitals, and Southern California Permanente Medical Group"
+people_names:
+  - "David J. Ozeran" #Attorney Name
+company_names:
+  - "Kaiser Foundation Health Plan Inc."
+  - "Kaiser Foundation Hospitals"
+  - "Southern California Permanente Medical Group"
+places:
+  - "State of California"
+dates:
+  - "September 18, 2023"
+events:
+  - "Court Hearing"
+money:
+  - "Punitive damages" #Reference
+intentions:
+  - "To determine if the complaint states a cause of action for elder abuse."
+  - "To determine if the motion to strike should be granted."
+facts:
+  - "Plaintiff alleges elder abuse due to neglect and understaffing at Kaiser."
+  - "Plaintiff alleges a pattern of withholding care."
+  - "Plaintiff alleges Kaiser's officers, directors, and managing agents ratified the misconduct."
+disputes:
+  - "Whether the facts pled amount to egregious misconduct needed to maintain a cause of action for elder abuse."
+  - "Whether Plaintiff has pled facts amounting to authorization or ratification by an officer, director, or managing agent of Kaiser."
+acts:
+  - "Defendants filed a demurrer to the First Amended Complaint (FAC)."
+  - "Defendants filed a motion to strike."
+agreements: # None explicitly stated
+  - # Implicitly, the court agrees with the Plaintiff's arguments, at least at the pleading stage
+laws:
+  - "Code Civ. Proc., §§ 430.30, 430.70, 436(a), 436(b), 436, 437"
+  - "Welfare and Institutions Code section 15610.57, § 15657(c)"
+  - "Civil Code, § 3294, § 3294(b), § 3294(a), § 3294(c)(1), § 3294(c)(2)"
+case_citations:
+  - "Hahn v. Mirda (2007) 147 Cal.App.4th 740, 747"
+  - "Donabedian v. Mercury Ins. Co. (2004) 116 Cal.App.4th 968, 994"
+  - "Semole v. Sansoucie (1972) 28 Cal. App. 3d 714, 721"
+  - "S. Shore Land Co. v. Petersen (1964) 226 Cal.App.2d 725, 732"
+  - "Vaccaro v. Kaiman (1998) 63 Cal.App.4th 761, 768"
+  - "Covenant Care, Inc. v. Superior Court (2004) 32 Cal.4th 771, 783"
+  - "Carter v. Prime Healthcare Paradise Valley LLC (2011) 198 Cal.App.4th 396, 405"
+  - "Fisher v. San Pedro Penninsula Hospital (1989) 214 Cal.App.3d 590, 604"
+  - "Sababin v. Superior Court (2006) 144 Cal.App.4th 81, 90"
+  - "Fenimore v. Regents of the University of California (2016) 245 Cal.App.4th 1339, 1349-50"
+  - "Worsham v. O’Connor Hospital (2014) 226 Cal.App.4th 331, 337-38"
+  - "Penner v. Falk (1984) 153 Cal.App.3d 858, 867"
+  - "Taylor v. Superior Court (1979) 24 Cal.3d 890, 894-95"
+  - "Hillard v. A.H. Robins Co. (1983) 148 Cal.App.3d 374, 391-92"
+statutes:
+   - "Cal. Welf. & Inst. Code, § 15657(c)"
+roles:
+  - "Judge": "Author of the tentative ruling"
+  - "Plaintiff": "Accuser of elder abuse"
+  - "Defendant": "Kaiser Foundation Health Plan Inc., Kaiser Foundation Hospitals, and Southern California Permanente Medical Group"
+significant_statements:
+  - "Defendant’s demurrer to the FAC is OVERRULED."
+  - "Defendant’s motion to strike is DENIED."
+  - "Plaintiff has alleged a pattern of withholding portions or types of care."
+  - "Plaintiff has sufficiently alleged malice for punitive damages."
+```
+
+**English Text Summary of the Judge's Tentative Ruling:**
+
+The Judge's tentative ruling in Case Number 22STCV25765, scheduled for a hearing on September 18, 2023, overrules the demurrer filed by the defendants, Kaiser Foundation Health Plan Inc., Kaiser Foundation Hospitals, and Southern California Permanente Medical Group. The Judge also denies the defendants' motion to strike.
+
+The Judge believes that the plaintiff has sufficiently alleged facts to support a cause of action for elder abuse, specifically regarding egregious misconduct and ratification by Kaiser's officers, directors, or managing agents. The court found that the plaintiff adequately pleaded a pattern of withholding care and allegations of understaffing and undertraining may be sufficient to arise to recklessness when there is a showing of a knowing pattern of violations of staffing regulations. The Judge also finds that the plaintiff has sufficiently alleged malice to pursue punitive damages. Therefore, both the demurrer and the motion to strike are denied. The moving party (presumably the Plaintiff) is ordered to give notice of this ruling.
+..................... .....................
+On 2025-02-06_22:04:30.719827
+The summary displayed below was created by an LLM named:  "gemini-2.0-pro-exp":
+```yaml
+case_number: 22STCV25765
+hearing_date: 2023-09-18
+department: 31
+plaintiff_name:  "Not specified in the provided text, but referred to as 'Plaintiff'"
+defendant_names:
+  - Kaiser Foundation Health Plan Inc.
+  - Kaiser Foundation Hospitals
+  - Southern California Permanente Medical Group
+people_names:
+  - David J. Ozeran
+company_names:
+    - Kaiser Foundation Health Plan Inc.
+    - Kaiser Foundation Hospitals.
+    - Southern California Permanente Medical Group
+    - Mercury Ins. Co.
+    - S. Shore Land Co.
+    -  A.H. Robins Co.
+places:
+  - California
+dates:
+  - 2023-09-18 (Hearing Date)
+  - 2007 (Hahn v. Mirda)
+  - 2004 (Donabedian v. Mercury Ins. Co., Covenant Care, Inc. v. Superior Court)
+  - 1972 (Semole v. Sansoucie)
+  - 1964 (S. Shore Land Co. v. Petersen)
+  - 1998 (Vaccaro v. Kaiman)
+  - 2011 (Carter v. Prime Healthcare Paradise Valley LLC)
+  - 1989 (Fisher v. San Pedro Penninsula Hospital)
+  - 2006 (Sababin v. Superior Court)
+    -2016 (Fenimore v. Regents of the
+University of California)
+  - 2014 (Worsham v. O’Connor Hospital)
+  - 1984 (Penner v. Falk)
+  - 1979 (Taylor v. Superior Court)
+  - 1983 (Hillard v. A.H. Robins Co.)
+events:
+  - Demurrer filing
+  - Motion to strike filing
+  - Meet and confer
+  - Alleged elder abuse
+  - Alleged understaffing
+  - Alleged inadequate training
+  - Court hearing (future)
+money: []  # No specific monetary amounts mentioned
+intentions:
+  - Defendant: Demur the complaint and strike portions of it.
+  - Defendant: Argue the complaint doesn't state a cause of action for elder abuse.
+  - Defendant: Argue lack of authorization/ratification by a managing agent.
+  - Plaintiff: Allege elder abuse.
+  - Plaintiff: Allege authorization/ratification.
+  - Plaintiff: Seek punitive damages.
+  - Court: Overrule the demurrer.
+  - Court: Deny the motion to strike.
+facts:
+  - Plaintiff filed a First Amended Complaint (FAC).
+  - Defendant filed a demurrer and motion to strike.
+  - A meet and confer occurred.
+  - Allegations of understaffing and inadequate training.
+  - Allegations of a pattern of withholding care.
+disputes:
+  - Whether the FAC states a cause of action for elder abuse.
+  - Whether the alleged facts constitute egregious misconduct.
+  - Whether there was authorization/ratification by a managing agent.
+  - Whether punitive damages are justified.
+acts:
+  - Filing of FAC
+  - Filing of demurrer
+  - Filing of motion to strike
+  - Alleged neglect/withholding of care
+agreements: [] # No explicit agreements mentioned
+laws:
+    - Code of Civil Procedure, §§ 430.30, 430.70, 436(a), 436(b), 437
+    - Welfare and Institutions Code section 15610.57, 15657(c)
+    - Civil Code, § 3294, 3294(a), 3294(b), 3294(c)(1), 3294(c)(2)
+case_citations:
+  - Hahn v. Mirda (2007) 147 Cal.App.4th 740, 747
+  - Donabedian v. Mercury Ins. Co. (2004) 116 Cal.App.4th 968, 994
+  - Semole v. Sansoucie (1972) 28 Cal. App. 3d 714, 721
+  - S. Shore Land Co. v. Petersen (1964) 226 Cal.App.2d 725, 732
+  - Vaccaro v. Kaiman (1998) 63 Cal.App.4th 761, 768
+  - Covenant Care, Inc. v. Superior Court (2004) 32 Cal.4th 771, 783
+  - Carter v. Prime Healthcare Paradise Valley LLC (2011) 198 Cal.App.4th 396, 405, 406-07
+  - Fisher v. San Pedro Penninsula Hospital (1989) 214 Cal.App.3d 590, 604
+  - Sababin v. Superior Court (2006) 144 Cal.App.4th 81, 90
+    - Fenimore v. Regents of the University of California (2016) 245 Cal.App.4th 1339, 1349-50
+  - Worsham v. O’Connor Hospital (2014) 226 Cal.App.4th 331, 337-38
+  - Penner v. Falk (1984) 153 Cal.App.3d 858, 867
+  - Taylor v. Superior Court (1979) 24 Cal.3d 890, 894-95
+  - Hillard v. A.H. Robins Co. (1983) 148 Cal.App.3d 374, 391-92
+statutes:
+    - Code of Civil Procedure sections:  430.30, 430.70, 436, 437
+    - Welfare and Institutions Code sections: 15610.57, 15657
+    - Civil Code section: 3294
+roles:
+  - Judge
+  - Plaintiff
+  - Defendant(s)
+  - Officer, Director, or Managing Agent (of Defendant)
+  - Attorney (David J. Ozeran)
+significant_statements:
+  - "Defendants...demurrer to the FAC is OVERRULED."
+  - "Defendant’s motion to strike is DENIED."
+  - "Plaintiff has alleged a pattern of withholding portions or types of care."
+  -  "Plaintiff has also sufficiently alleged authorization or ratification of the neglect by an officer, director, or managing agent."
+  - "The court disagrees with Defendant's contention."
+```
+
+English Text Summary:
+
+This tentative ruling addresses a demurrer and motion to strike filed by the defendants (Kaiser Foundation Health Plan, Inc., Kaiser Foundation Hospitals, and Southern California Permanente Medical Group) against the plaintiff's First Amended Complaint (FAC).  The judge *overrules* the demurrer, meaning the case can proceed on the elder abuse claim. The judge finds that the plaintiff has sufficiently alleged facts that could constitute "egregious misconduct" and has adequately pleaded that the actions were authorized or ratified by a managing agent of the defendant. The judge also *denies* the motion to strike, which means the plaintiff's request for punitive damages can remain in the complaint. The judge reasons that the allegations, if proven, could support a finding of recklessness, which is sufficient for punitive damages.  The moving party (likely the Defendant) must inform the other parties of the Court's ruling.

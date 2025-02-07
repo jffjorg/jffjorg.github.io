@@ -430,3 +430,88 @@ Significant Statements:
 **Summary of Judge's Tentative Ruling:**
 
 The Judge granted Plaintiff Jose Diaz's motion to compel the deposition of Defendant Carlos Lara because the motion was unopposed and Defendant failed to appear for the scheduled deposition. The Judge ordered Defendant to appear for a deposition within 30 days and to meet and confer with Plaintiff to schedule it within 10 days. If Defendant fails to cooperate, Plaintiff can unilaterally set the deposition date. Further non-appearance may result in sanctions against the Defendant. The Judge also imposed sanctions of $250 against Defendant for failing to appear. Finally, the Judge noted the upcoming Case Management Conference.
+..................... .....................
+On 2025-02-06_21:39:58.581897
+The summary displayed below was created by an LLM named:  "gemini-2.0-pro-exp":
+```yaml
+case_number: 22CHCV00755
+plaintiff_name: Jose Diaz
+defendant_name: Carlos Lara
+people_names:
+  - Jose Diaz
+  - Carlos Lara
+  - Aldo Flores
+company_names: []
+places:
+  - "Dept. F49"
+dates:
+  - "2023-09-18"  # Hearing Date
+  - "2021-01-18"  # Loan Agreement Date
+  - "2022-09-12"  # Complaint Filed Date
+  - "2021-11-14" # This date is incorrect in the original document; should likely be 2022
+  - "2023-09-19"  # Date for Motion to Compel Compliance
+  - "2023-12-06"  # Date for Case Management Conference
+  - "Within 30 days of 2023-09-18" # Deadline for deposition and sanctions
+  - "Within 10 days of 2023-09-18" # Deadline for meet and confer
+
+events:
+  - Loan Agreement
+  - Alleged Default on Loan
+  - Filing of Complaint
+  - Filing of General Denial
+  - Notice of Deposition
+  - Defendant's Failure to Appear at Deposition
+  - Motion to Compel Deposition
+  - Court Hearing (Tentative Ruling)
+money:
+  - "$40,000"  # Loan Amount
+  - "$250"  # Sanctions Amount
+intentions:
+  - Plaintiff:  To compel Defendant's deposition and recover loan amount.
+  - Defendant: (Initially) To deny the claims (via general denial).  Current intentions unclear due to non-appearance.
+  - Court: To compel Defendant's appearance at a deposition and potentially impose further sanctions for non-compliance.
+facts:
+  - Plaintiff loaned Defendant $40,000.
+  - A written agreement was executed.
+  - Plaintiff alleges Defendant defaulted.
+  - Plaintiff filed a complaint with multiple causes of action.
+  - Defendant filed a general denial.
+  - Plaintiff served a deposition notice.
+  - Defendant failed to appear for the deposition.
+  - No objection to deposition was served by defendant.
+disputes:
+  - Whether Defendant defaulted on the loan.
+  - The validity of Plaintiff's claims (Recission, Fraud, etc.).
+  - Defendant's failure to appear for deposition.
+acts:
+  - Loan Agreement Execution
+  - Filing of Complaint
+  - Filing of General Denial
+  - Service of Deposition Notice
+  - Defendant's Non-Appearance at Deposition
+  - Filing of Motion to Compel
+agreements:
+  - Loan Agreement (between Plaintiff and Defendant)
+laws:
+  - "Business and Profession Code section 17200" (Unfair Competition)
+case_citations: []
+statutes:
+  - "Code Civ. Proc., §2025.450, subd. (a)"
+  - "Code Civ. Proc., §2025.410, subd. (b)"
+  - "Code Civ. Proc., §2025.450, subd. (b)"
+  - "Code Civ. Proc., §2025.450, subd. (h)"
+  - "Code Civ. Proc., §2025.450, subd. (g)"
+roles:
+  - Plaintiff: Jose Diaz (Lender, Moving Party)
+  - Defendant: Carlos Lara (Borrower, Responding Party, Pro Per)
+  - Judge: (Unspecified, author of the tentative ruling)
+  - Attorney for Plaintiff: (Implied, represented by Aldo Flores, who declared facts)
+significant_statements:
+  - "Granted." (The court's ruling on the motion)
+  - "Defendant Carlos Lara is ordered to appear for a deposition within 30 days of this order."
+  - "Sanctions entered against Carlos Lara, in pro per, for $250."
+  - "Any subsequent non-appearance may constitute grounds for an evidentiary, issue or even terminating sanction (striking of the answer) in favor of moving defendant."
+
+summary_text: |
+  The Judge's tentative ruling grants Plaintiff Jose Diaz's motion to compel the deposition of Defendant Carlos Lara.  Lara, who is representing himself, failed to appear for a previously scheduled deposition and did not file an objection.  The Judge orders Lara to appear for a deposition within 30 days and to pay $250 in sanctions within 30 days. The parties must meet and confer within 10 days to set date. If Lara fails to cooperate or appear again, the Plaintiff can unilaterally set a deposition date, and further non-appearance could result in more severe sanctions, including the striking of Lara's answer. A Motion to Compel Compliance is set for September 19, 2023 and a Case Management Conference for December 6, 2023.
+```

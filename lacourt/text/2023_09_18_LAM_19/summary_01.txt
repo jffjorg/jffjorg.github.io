@@ -390,3 +390,166 @@ roles:
 - Defendants: alleged breach of contract
 - Judge: consider the briefing filed and oral argument at the hearing, and make
   a tentative ruling
+..................... .....................
+On 2025-02-06_21:54:38.271203
+The summary displayed below was created by an LLM named:  "gemini-2.0-flash-exp":
+```yaml
+summary:
+  Case Number: 22STCV15026
+  Plaintiff's Name: Rocio Ayala, Gary Rand & Suzanne E. Rand-Lewis, Professional Law Corporations
+  Defendant's Name: Valencia Fulfillment, Inc., Jose Corona, Marisol Corona
+  People-Names: Rocio Ayala, Gary Rand, Suzanne E. Rand-Lewis, Jose Corona, Marisol Corona, Robert Hirschman
+  Company-Names: Valencia Fulfillment, Inc., Gary Rand & Suzanne E. Rand-Lewis, Professional Law Corporations, Metropolitan Service Corp., Casa de Palms, Ltd., Commercial Acceptance Ins. Co.
+  Places: Petaluma
+  Dates:
+    - June 16, 2022
+    - September 18, 2023
+  Events:
+    - Breach of Contract lawsuit filed by Plaintiffs against Defendants.
+    - Default entered against Valencia Fulfillment, Inc.
+    - Motion to Set Aside Default Based On Attorney Fault filed by Defendants.
+    - Court hearing on the Motion to Set Aside Default.
+  Money:
+    - Reasonable compensatory legal fees and costs (to be paid by attorney if relief granted).
+  Intentions:
+    - Plaintiffs intend to pursue breach of contract and other claims.
+    - Defendants intend to set aside the default entered against Valencia Fulfillment, Inc.
+    - The Court intends to dispose of cases upon their merits, but also to ensure proper legal procedure.
+  Facts:
+    - Default was entered against Valencia Fulfillment, Inc. on June 16, 2022.
+    - Defendants filed a Motion to Set Aside Default Based On Attorney Fault.
+    - The motion is missing key pages.
+  Disputes:
+    - Whether the default against Valencia Fulfillment, Inc. should be set aside.
+    - Whether the motion was timely filed.
+    - Whether the motion and supporting documents are in proper form.
+  Acts:
+    - Plaintiffs filing a lawsuit.
+    - Entry of default against Valencia Fulfillment, Inc.
+    - Defendants filing a Motion to Set Aside Default.
+    - Judge ruling on the motion.
+  Agreements: N/A
+  Laws:
+    - Code of Civil Procedure section 473(b) (Relief from Judgment).
+    - Business and Professions Code §17200 (Unfair Competition).
+    - Code Civ. Proc., § 2015.5 [requirements for sworn affidavit]
+    - Section 583.310.
+  Case Citations:
+    - Laguna Village, Inc. v. Laborers' Internat. Union of North America (1983) 35 Cal.3d 174, 182
+    - Taliaferro v. Taliaferro (1963) 217 Cal.App.2d 216, 220
+    - Minick v. City of Petaluma (2016) 3 Cal.App.5th 15, 25-26
+    - Bailey v. Citibank, N.A. (2021) 66 Cal.App.5th 335, 348
+    - Metropolitan Service Corp. v. Casa de Palms, Ltd. (1995) 31 Cal.App.4th 1481, 1486–1487
+    - Beeman v. Burling (1990) 216 Cal.App.3d 1586, 1603
+    - Garcia v. Hejmadi (1997) 58 Cal.App.4th 674, 681
+    - Lorenz v. Commercial Acceptance Ins. Co. (1995) 40 Cal.App.4th 981, 989
+    - Sugasawara v. Newland (1994) 27 Cal.App.4th 294, 296-297
+    - Carmel, Ltd. v. Tavoussi (2009) 175 Cal.App.4th 393, 401-402
+  Statutes:
+    - Code of Civil Procedure section 473(b)
+    - Business and Professions Code §17200
+    - Code Civ. Proc., § 2015.5
+    - Section 583.310.
+  Roles:
+    - Judge: Presiding over the case and ruling on motions.
+    - Plaintiff: Rocio Ayala and Gary Rand & Suzanne E. Rand-Lewis, Professional Law Corporations, bringing the lawsuit.
+    - Defendant: Valencia Fulfillment, Inc., Jose Corona, and Marisol Corona, being sued.
+    - Attorney: Representing the parties in the case.
+  Signifcant Statements:
+    - "Defendants Valencia Fulfillment, Inc., Jose Corona, and Marisol Corona’s Motion to Set Aside Default Based On Attorney Fault is DENIED without prejudice."
+    - "Counsel for Plaintiffs to give notice."
+    - "It is well established that Code of Civil Procedure section 473 is remedial, and its provisions to be liberally construed so as to dispose of cases upon their merits."
+    - "Here, Defendant Valencia moves pursuant to the mandatory provision."
+    - "However, the Court agrees with Plaintiffs that the Motion is missing pages and is incomprehensible."
+
+english_summary: |
+  In Case Number 22STCV15026, Plaintiffs Rocio Ayala and Gary Rand & Suzanne E. Rand-Lewis, Professional Law Corporations, are suing Defendants Valencia Fulfillment, Inc., Jose Corona, and Marisol Corona for breach of contract and related claims. A default was entered against Valencia Fulfillment, Inc. The Defendants filed a Motion to Set Aside the Default Based on Attorney Fault. The Judge has issued a tentative ruling denying the motion without prejudice. The Court found that while the motion was not untimely because a default judgment hadn't been entered, the motion was incomprehensible and missing pages, including a signature page for the attorney's declaration and pages of the proposed demurrer. Therefore, the motion was not in "proper form" as required by law.
+```
+..................... .....................
+On 2025-02-06_21:55:29.209627
+The summary displayed below was created by an LLM named:  "gemini-2.0-pro-exp":
+```yaml
+case_number: 22STCV15026
+hearing_date: 2023-09-18
+department: 19
+plaintiffs:
+  - Rocio Ayala
+  - Gary Rand & Suzanne E. Rand-Lewis, Professional Law Corporations
+defendants:
+  - Valencia Fulfillment, Inc.
+  - Jose Corona
+  - Marisol Corona
+people_names:
+  - Rocio Ayala
+  - Gary Rand
+  - Suzanne E. Rand-Lewis
+  - Jose Corona
+  - Marisol Corona
+  - Robert Hirschman  # Defendant's Attorney
+company_names:
+  - Valencia Fulfillment, Inc.
+  - Gary Rand & Suzanne E. Rand-Lewis, Professional Law Corporations
+places: [] #  No specific places mentioned beyond court.
+dates:
+  - 2022-06-16:  Default entered against Valencia Fulfillment, Inc.
+  - 2023-09-18: Date of the hearing and tentative ruling.
+events:
+  - filing_of_lawsuit:  Plaintiffs filed suit against Defendants.
+  - entry_of_default: Default entered against Valencia Fulfillment, Inc.
+  - motion_to_set_aside: Defendants filed a Motion to Set Aside Default.
+  - denial_of_motion: Judge denied the motion without prejudice.
+money: [] # No specific monetary amounts are mentioned.
+intentions:
+  - defendants_intention:  To set aside the default entered against Valencia Fulfillment, Inc.
+  - plaintiffs_intention: To oppose the motion to set aside.
+facts:
+  - breach_of_contract_allegation: Plaintiffs allege breach of contract and other causes of action.
+  - default_against_valencia: Default was entered only against Valencia Fulfillment, Inc., not the individual defendants.
+  - attorney_fault_claim: Defendant Valencia claims attorney mistake as grounds for relief.
+disputes:
+  - underlying_dispute:  Breach of contract, unjust enrichment, violation of Business and Professions Code §17200, and interference with prospective economic advantage.
+  - procedural_dispute: Whether the default against Valencia Fulfillment, Inc. should be set aside.
+  - timeliness_dispute: Plaintiffs argued motion was late; judge disagreed
+  - completeness_dispute: Plaintiffs argued motion was incomplete; judge agreed
+acts:
+  - alleged_breach:  Defendants allegedly breached a contract.
+  - filing_motion: Defendants filed the Motion to Set Aside Default.
+agreements:
+  - alleged_contract:  An express contract is alleged to exist, but details are not provided in the ruling.
+laws:
+  - California Code of Civil Procedure section 473(b):  Governs relief from default (both discretionary and mandatory).
+  - California Business and Professions Code section 17200:  One of the causes of action alleged by Plaintiffs.
+  - California Code of Civil Procedure section 2015.5: Requirements for sworn affidavit
+case_citations:
+  - Laguna Village, Inc. v. Laborers' Internat. Union of North America (1983) 35 Cal.3d 174, 182
+  - Taliaferro v. Taliaferro (1963) 217 Cal.App.2d 216, 220
+  - Minick v. City of Petaluma (2016) 3 Cal.App.5th 15, 25-26
+  - Bailey v. Citibank, N.A. (2021) 66 Cal.App.5th 335, 348
+  - Metropolitan Service Corp. v. Casa de Palms, Ltd. (1995) 31 Cal.App.4th 1481, 1486–1487
+  - Beeman v. Burling (1990) 216 Cal.App.3d 1586, 1603
+  - Garcia v. Hejmadi (1997) 58 Cal.App.4th 674, 681
+  - Lorenz v. Commercial Acceptance Ins. Co. (1995) 40 Cal.App.4th 981, 989
+  - Sugasawara v. Newland (1994) 27 Cal.App.4th 294, 296-297
+  - Carmel, Ltd. v. Tavoussi (2009) 175 Cal.App.4th 393, 401-402
+statutes:
+  - Code of Civil Procedure section 473(b)
+  - Business and Professions Code §17200
+  - Code of Civil Procedure section 583.310
+  - Code of Civil Procedure section 2015.5
+roles:
+  - Judge:  Made the tentative ruling.
+  - Plaintiffs: Parties bringing the lawsuit.
+  - Plaintiffs'_Counsel: Represents the Plaintiffs.
+  - Defendants:  Parties being sued.
+  - Defendant_Valencia:  The corporate defendant with a default entered against it.
+  - Defendants'_Counsel (Robert Hirschman):  Represents the Defendants, filed the motion.
+significant_statements:
+  - "Motion to Set Aside Default Based On Attorney Fault is DENIED without prejudice.":  The Judge's ruling.
+  - "Counsel for Plaintiffs to give notice.":  Instruction to Plaintiffs' counsel.
+  - "the declaration of Robert Hirschman cannot constitute “an attorney’s sworn affidavit attesting to his or her mistake, inadvertence, surprise, or neglect.”":  Reason for denial related to missing pages.
+  - "Defendant Valencia has not submitted a responsive pleading.": Reason for denial related to missing pages.
+```
+
+**English Text Summary of the Tentative Ruling:**
+
+The Judge denied the motion by Defendants Valencia Fulfillment, Inc., Jose Corona, and Marisol Corona to set aside a default that had been entered against the company, Valencia Fulfillment, Inc. The denial was "without prejudice," meaning the Defendants can file the motion again.  The Judge denied the motion because the supporting documents, specifically the declaration of their attorney Robert Hirschman, were incomplete (missing pages and a signature) and because a required responsive pleading (a proposed demurrer, also incomplete) was not properly submitted.  The judge ruled that the motion was *not* untimely, despite the Plaintiffs' claim that it was filed too late. The underlying case involves a lawsuit by Plaintiffs Rocio Ayala and Gary Rand & Suzanne E. Rand-Lewis, Professional Law Corporations, against the Defendants for breach of contract and other claims.

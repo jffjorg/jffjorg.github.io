@@ -378,3 +378,199 @@ significant\_statements:
   - statement: "The amendment seeks to introduce new legal theories, but the proposed amendments relate to the same general set of facts."
   - statement: "The amendments merely 'make the original cause[s] of action complete.'"
   - statement: "The rule of great liberality in granting a plaintiff leave to amend an original complaint."
+..................... .....................
+On 2025-02-06_21:50:05.622088
+The summary displayed below was created by an LLM named:  "gemini-2.0-flash-exp":
+```yaml
+Case Number: "22PSCV01792"
+Plaintiff's Name: "David Shakhbazyan"
+Defendant's Name: "MERCEDES-BENZ USA, LLC; ENVISION WC MB AUTO d/b/a MERCEDES-BENZ OF WEST COVINA"
+People-Names:
+  - "David Shakhbazyan"
+  - "Starr" # From "Starr Decl., Exs. 1-4"
+Company-Names:
+  - "MERCEDES-BENZ USA, LLC"
+  - "ENVISION WC MB AUTO d/b/a MERCEDES-BENZ OF WEST COVINA"
+Places:
+  - "West Covina"
+  - "California DMV"
+Dates:
+  - "November 14, 2022"
+  - "April 3, 2023"
+  - "June 20, 2023"
+  - "August 22, 2023"
+  - "September 18, 2023"
+  - "April 15, 2020"
+Events:
+  - "Filing of lawsuit by Plaintiff"
+  - "Mercedes-Benz filed its answer"
+  - "Envision filed its answer"
+  - "Plaintiff filed motion for leave to amend complaint"
+  - "Purchase of vehicle by Plaintiff"
+Money: # No specific monetary amounts mentioned
+Intentions:
+  - "Plaintiff intends to file a First Amended Complaint (FAC)"
+  - "Plaintiff intends to dismiss certain claims against Envision"
+  - "Plaintiff intends to add new claims against Envision"
+Facts:
+  - "Plaintiff purchased a vehicle represented as 'new' from Envision."
+  - "The vehicle experienced problems."
+  - "Plaintiff discovered the warranty was 'expired'."
+  - "Evidence suggests Envision may have defrauded Plaintiff by selling a used vehicle as new."
+  - "Envision submitted an application for the registration of a new vehicle and, likewise, Plaintiff signed an MSRP Sticker Removal Authorization"
+Disputes:
+  - "Whether the vehicle sold to Plaintiff was actually 'new' as represented."
+  - "Whether Envision engaged in fraudulent misrepresentation."
+Acts:
+  - "Plaintiff filing lawsuit."
+  - "Defendants filing answers."
+  - "Plaintiff filing motion to amend."
+  - "Plaintiff purchasing vehicle."
+Agreements:
+  - "Full new vehicle express warranty (alleged)"
+Laws:
+  - "Song-Beverly Act"
+  - "Uniform Commercial Code"
+  - "Code Civ. Proc., § 473, subd. (a)(1)"
+  - "Bus. & Prof. Code§ 17200"
+  - "California's Consumer Legal Remedies Act"
+  - "California Rules of Court, rule 3.1324(a)"
+  - "California Rules of Court, rule 3.1324(b)"
+Case Citations:
+  - "Branick v. Downey Savings & Loan Association (2006) 39 Cal.4th 235, 242"
+  - "Kittredge Sports Co. v. Superior Court (1989) 213 Cal.App.3d 1045, 1047"
+  - "Kolani, supra, 64 Cal.App.4th at p. 411"
+  - "Higgins v. Del Faro (1981) 123 Cal.App.3d 558 565"
+Statutes:
+  - "Code Civ. Proc., § 473"
+Roles:
+  - "Judge (implied)"
+  - "Plaintiff: David Shakhbazyan"
+  - "Defendants: MERCEDES-BENZ USA, LLC; ENVISION WC MB AUTO d/b/a MERCEDES-BENZ OF WEST COVINA"
+Significant Statements:
+  - "PLAINTIFF’S MOTION FOR LEAVE TO FILE A FIRST AMENDED COMPLAINT (FAC) is GRANTED."
+  - "This discretion should be exercised liberally in favor of amendments, for judicial policy favors resolution of all disputed matters in the same lawsuit."
+  - "[I]t is irrelevant that new legal theories are introduced as long as the proposed amendments ‘relate to the same general set of facts.’"
+
+```
+
+**Summary of the Tentative Ruling:**
+
+The Judge has granted the Plaintiff, David Shakhbazyan's, motion to file a First Amended Complaint (FAC) in his lemon law case against Mercedes-Benz USA, LLC and Envision WC MB Auto. The Plaintiff seeks to dismiss certain claims against Envision and add new claims for fraudulent and negligent misrepresentation, breach of contract, violation of Bus. & Prof. Code § 17200, and violation of California's Consumer Legal Remedies Act. The Judge's decision is based on the principle of liberally allowing amendments to pleadings to ensure resolution of all disputed matters in the same lawsuit, as long as the amendments relate to the same general set of facts, which the Judge believes is the case here. The Plaintiff's claim is that Envision sold him a used vehicle as new, which he discovered during the discovery process after experiencing problems with the vehicle.
+..................... .....................
+On 2025-02-06_21:50:55.090057
+The summary displayed below was created by an LLM named:  "gemini-2.0-pro-exp":
+```yaml
+case_number: 22PSCV01792
+hearing_date: 2023-09-18
+department: O
+plaintiff:
+  name: David Shakhbazyan
+  role: Plaintiff
+defendant:
+  - name: MERCEDES-BENZ USA, LLC
+    role: Defendant
+    type: Company
+  - name: ENVISION WC MB AUTO d/b/a MERCEDES-BENZ OF WEST COVINA
+    role: Defendant
+    type: Company
+
+people_names:
+  - David Shakhbazyan
+
+company_names:
+  - MERCEDES-BENZ USA, LLC
+  - ENVISION WC MB AUTO
+  - MERCEDES-BENZ OF WEST COVINA
+
+places:
+  - West Covina (implied, from dealership name)
+  - California (From Laws mentioned)
+  
+
+dates:
+  - 2020-04-15:  Date of vehicle purchase.
+  - 2022-11-14: Date Plaintiff filed suit.
+  - 2023-04-03: Date Mercedes-Benz filed its answer.
+  - 2023-06-20: Date Envision filed its answer.
+  - 2023-08-22: Date Plaintiff filed the motion to amend.
+  - 2023-09-18: Hearing Date
+
+events:
+  - Vehicle Purchase: Plaintiff purchased a vehicle represented as "new."
+  - Warranty Issues:  Plaintiff experienced problems with the vehicle and discovered the warranty was "expired."
+  - Lawsuit Filing: Plaintiff filed a lawsuit against Defendants.
+  - Answer Filing (Mercedes-Benz): Mercedes-Benz responded to the lawsuit.
+  - Answer Filing (Envision): Envision responded to the lawsuit.
+  - Motion to Amend: Plaintiff filed a motion to amend the complaint.
+  - Discovery: Evidence of potential fraud discovered during the discovery process.
+  - Lease Application Discrepancy: Lease Application states the vehicle is "used".
+  - Sticker Removal: Signed MSRP Sticker Removal.
+
+money: [] # No specific monetary amounts mentioned in the ruling.
+
+intentions:
+  - Plaintiff: Amend complaint to dismiss certain claims and add fraud-related claims.
+  - Plaintiff: Prove that Envision engaged in fraudulent misrepresentation.
+  - Court:  Ensure justice and allow amendment of pleadings when appropriate.
+
+facts:
+  - Vehicle was sold as "new" with a full new vehicle express warranty.
+  - Envision submitted an application for registration of a new vehicle to the DMV.
+  - Plaintiff signed an MSRP Sticker Removal Authorization.
+  - Lease Application indicates the vehicle is "used."
+  - Three-year warranty was considered "expired."
+
+disputes:
+  - Whether the vehicle was new or used.
+  - Whether Envision committed fraud.
+  - Validity of the original warranty.
+  - Whether the Plaintiff is allowed to amend the original complaint.
+
+acts:
+  - Filing of Lawsuit
+  - Filing of Answers
+  - Filing of Motion to Amend Complaint
+  - Sale of Vehicle
+  - Representation of Vehicle as "New"
+  - Possible Fraudulent Misrepresentation
+
+agreements:
+  - Implied Warranty (mentioned in cause of action)
+  - Express Warranty (mentioned in cause of action)
+  - Purchase Agreement (implied)
+
+laws:
+  - Song-Beverly Act (California Lemon Law)
+  - Uniform Commercial Code
+  - California Business & Professions Code § 17200
+  - California's Consumer Legal Remedies Act
+  - California Rules of Court, rule 3.1324
+  - Code of Civil Procedure, § 473, subd. (a)(1)
+
+case_citations:
+  - Branick v. Downey Savings & Loan Association (2006) 39 Cal.4th 235, 242
+  - Kittredge Sports Co. v. Superior Court (1989) 213 Cal.App.3d 1045, 1047, 1048
+  - Kolani, supra, 64 Cal.App.4th at p. 411
+  - Higgins v. Del Faro (1981) 123 Cal.App.3d 558, 565
+
+statutes:
+  - Code Civ. Proc., § 473, subd. (a)(1)
+  - Bus. & Prof. Code § 17200
+
+roles:
+  - Plaintiff:  Party filing the lawsuit and seeking amendment.
+  - Defendant: Parties being sued.
+  - Judge:  Decides on the motion to amend.
+
+significant_statements:
+  - "PLAINTIFF’S MOTION FOR LEAVE TO FILE A FIRST AMENDED COMPLAINT (FAC) is GRANTED."
+  - "This discretion should be exercised liberally in favor of amendments, for judicial policy favors resolution of all disputed matters in the same lawsuit."
+  - "[I]t is irrelevant that new legal theories are introduced as long as the proposed amendments ‘relate to the same general set of facts.’"
+  - "...the proposed amendments relate to the same general set of facts, which minimizes concerns of prejudice and merely 'make the original cause[s] of action complete.'"
+  - "...abiding by the rule of great liberality in granting a plaintiff leave to amend an original complaint."
+```
+
+**Summary in English Text:**
+
+The Judge's tentative ruling grants the Plaintiff's motion to amend their complaint in this lemon law case (Case Number 22PSCV01792). The Plaintiff, David Shakhbazyan, originally sued Mercedes-Benz and Envision for breach of warranty and violations of the Song-Beverly Act and Uniform Commercial Code, related to the purchase of a vehicle that was represented as new.  The Plaintiff now seeks to amend the complaint to drop those claims against Envision, and instead add claims of fraudulent misrepresentation, negligent misrepresentation, breach of contract, and violations of California's Business & Professions Code § 17200 and Consumer Legal Remedies Act against Envision. This is based on evidence discovered during the case, including a Lease Application that indicates the vehicle was "used," contradicting the initial representation of it being "new." The Judge found that, although new legal theories are being introduced, the amendments relate to the same general set of facts as the original complaint, and therefore, the motion to amend is granted, favoring a full resolution of the dispute.

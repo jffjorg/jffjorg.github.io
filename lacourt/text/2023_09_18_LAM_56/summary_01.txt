@@ -247,3 +247,184 @@ summary:
 
 English:
 The Judge's tentative ruling is for the motion to set aside default and default judgment filed by Defendant Adelphia Properties, LLC. The Judge has considered the moving, opposition and reply papers. The case involves Plaintiff Luis Calderon and Defendant Adelphia Properties, LLC. The Complaint was filed on July 28, 2021, alleging violations of the Unruh Act. Moving Defendant's default was taken on July 26, 2022, and a default judgment was entered on January 26, 2023. Moving Defendant filed the motion on June 29, 2023, stating that it did not receive actual notice of the lawsuit. The Judge found that Moving Defendant did not have actual notice of the Complaint before May 2023 and granted the motion. The Judge also found that there is no evidence that Moving Defendant was aware that its registered agent, Antonio Munoz, was no longer serving or that the unknown individual who accepted service informed Moving Defendant of the service. The Judge also noted that Munoz's law license is suspended and that he does not maintain an office at the address where the Complaint was mailed. The Judge further ordered Moving party to give notice of this ruling.
+..................... .....................
+On 2025-02-06_22:31:49.230110
+The summary displayed below was created by an LLM named:  "gemini-2.0-flash-exp":
+Here's a YAML summary of the tentative ruling, followed by an English summary:
+
+```yaml
+Case Number: 21STCV27752
+Plaintiff's Name: Luis Calderon
+Defendant's Name: Adelphia Properties, LLC, et al.
+People-Names:
+  - Luis Calderon
+  - Antonio Munoz
+  - Thanos Paziouros
+  - Scott A. Miller
+  - Holly J. Fujie
+Company-Names:
+  - Adelphia Properties, LLC
+  - Philadelphia Television Network, Inc.
+  - Luxury Asset Lending, LLC
+Places:
+  - County of Los Angeles - Central District
+  - State of California
+Dates:
+  - July 28, 2021: Complaint filed
+  - July 26, 2022: Default taken against Adelphia Properties, LLC
+  - June 10, 2022: Substitute service on Antonio Munoz
+  - January 26, 2023: Default judgment entered
+  - June 29, 2023: Motion to set aside default filed
+  - May 2023: Adelphia Properties learned of the complaint
+  - July 13, 2023: Paziouros visited Munoz's listed business address
+  - September 18, 2023: Hearing Date
+Events:
+  - Filing of Complaint: July 28, 2021
+  - Default Taken: July 26, 2022
+  - Default Judgment Entered: January 26, 2023
+  - Motion to Set Aside Default: June 29, 2023
+  - Hearing on Motion: September 18, 2023
+Money: ~ # No monetary amounts mentioned
+Intentions:
+  - Plaintiff: To sue for violations of the Unruh Act.
+  - Defendant: To set aside the default and default judgment.
+  - Court: To rule on the motion to set aside default.
+Facts:
+  - Plaintiff filed a complaint alleging violations of the Unruh Act.
+  - Default was entered against Adelphia Properties, LLC.
+  - Adelphia Properties, LLC claims it did not receive actual notice of the lawsuit.
+  - Service was made on Antonio Munoz, but Munoz's law license was suspended, and he no longer maintained an office at the listed address.
+  - Adelphia Properties, LLC learned of the complaint in May 2023.
+Disputes: Whether Adelphia Properties, LLC received actual notice of the lawsuit and whether the lack of notice was due to avoidance or inexcusable neglect.
+Acts:
+  - Filing a complaint.
+  - Taking default.
+  - Entering default judgment.
+  - Filing a motion to set aside default.
+  - Substitute service.
+Agreements: ~ # No agreements mentioned
+Laws:
+  - Unruh Act
+  - California Code of Civil Procedure (CCP) section 473.5
+Case Citations:
+  - Luxury Asset Lending, LLC v. Philadelphia Television Network, Inc. (2021) 56 Cal.App.5th 894, 908
+Statutes:
+  - CCP § 473.5
+Roles:
+  - Plaintiff: Luis Calderon
+  - Defendant: Adelphia Properties, LLC
+  - Judge: Holly J. Fujie
+  - Attorney for Defendant: Antonio Munoz (formerly)
+  - Owner of Adelphia Properties, LLC: Thanos Paziouros
+  - Attorney for Defendant: Scott A. Miller
+Significant Statements:
+  - "The Court finds that Moving Defendant has demonstrated that it did not have actual notice of the existence of the Complaint before May 2023."
+  - "The Court therefore GRANTS the Motion in its entirety."
+```
+
+**English Summary of the Tentative Ruling:**
+
+Judge Fujie is inclined to grant Adelphia Properties, LLC's motion to set aside the default and default judgment against them in the case brought by Luis Calderon. The Judge finds that Adelphia Properties, LLC has shown they did not receive actual notice of the lawsuit until May 2023.  The evidence suggests that the substitute service on Antonio Munoz, Adelphia's registered agent, was ineffective because Munoz's law license was suspended, and he no longer maintained an office at the address where service was attempted.  The court believes the lack of notice was not due to avoidance or inexcusable neglect on the part of Adelphia Properties, LLC. Therefore, the motion to set aside the default will be granted. The moving party (Adelphia Properties) is ordered to give notice of the ruling.
+..................... .....................
+On 2025-02-06_22:32:37.309169
+The summary displayed below was created by an LLM named:  "gemini-2.0-pro-exp":
+```yaml
+case_number: 21STCV27752
+plaintiff_name: Luis Calderon
+defendant_name: ADELPHIA PROPERTIES, LLC
+people_names:
+  - Luis Calderon
+  - Antonio Munoz
+  - Jane Doe
+  - Thanos Paziouros
+  - Scott A. Miller
+  - Hon. Holly J. Fujie
+company_names:
+  - ADELPHIA PROPERTIES, LLC
+  - Luxury Asset Lending, LLC
+  - Philadelphia Television Network, Inc.
+places:
+  - "Los Angeles County, Central District"
+  - "Dept. 56"
+  - Munoz's business address
+dates:
+  - "July 28, 2021" # Complaint filed
+  - "June 10, 2022" # Substitute Service
+  - "July 26, 2022" # Default taken, Amended Proof of Service filed
+  - "January 26, 2023" # Default judgment entered
+  - "May 2023" # Defendant became aware.
+  - "June 29, 2023" # Motion to set aside filed
+  - "July 13, 2023" # Paziouros visited Munoz's address
+  - "September 18, 2023" # Hearing date, Tentative Ruling Date
+  - "2014" # Munoz's disbarment
+events:
+  - Filing of Complaint
+  - Substitute Service of Complaint and Summons
+  - Default Entry
+  - Default Judgment Entry
+  - Filing of Motion to Set Aside Default
+  - Phone call from Plaintiff's counsel to Defendant's owner.
+  - Investigation of Munoz's status and address.
+  - Court Hearing (scheduled)
+money: [] #Not specified in the provided text.
+
+intentions:
+  - Plaintiff: Sue Defendant for Unruh Act violations.
+  - Defendant: Set aside default and default judgment.
+  - Court: Grant the motion to set aside.
+
+facts:
+  - Plaintiff filed a complaint alleging Unruh Act violations.
+  - Defendant's default was taken, and default judgment was entered.
+  - Defendant claims they did not receive actual notice of the lawsuit.
+  - Substitute service was performed on an unknown individual ("Jane Doe") at the registered agent's address.
+  - The registered agent, Antonio Munoz, had a suspended law license and was not at the address.
+  - Defendant's owner learned of the lawsuit in May 2023.
+  - Munoz did not inform the Defendant of his disbarment.
+
+disputes:
+  - Whether the Defendant received actual notice of the lawsuit.
+  - Whether the lack of notice was due to the Defendant's avoidance or neglect.
+
+acts:
+  - Filing of Complaint
+  - Service of Process (Substitute)
+  - Entry of Default
+  - Entry of Default Judgment
+  - Filing of Motion to Set Aside
+  - Investigation by Defendant
+
+agreements: []  #No agreements mentioned in the provided text
+
+laws:
+  - Unruh Act
+  - California Code of Civil Procedure (CCP) section 473.5
+
+case_citations:
+  - "Luxury Asset Lending, LLC v. Philadelphia Television Network, Inc. (2021) 56 Cal.App.5th 894, 908"
+
+statutes:
+  - CCP § 473.5
+  - CCP § 473.5, subd. (b)
+
+roles:
+  - Plaintiff: Luis Calderon
+  - Defendant: Adelphia Properties, LLC
+  - Moving Defendant: Adelphia Properties, LLC
+  - Responding Party: Plaintiff
+  - Judge: Hon. Holly J. Fujie
+  - Registered Agent: Antonio Munoz
+  - Attorney for Defendant:  Scott A. Miller (appears to be representing Defendant in the motion)
+  - Owner of Defendant: Thanos Paziouros
+  - Receptionist: Jane Doe
+
+significant_statements:
+  - "The Court finds that Moving Defendant has demonstrated that it did not have actual notice of the existence of the Complaint before May 2023."
+  - "The Court therefore GRANTS the Motion in its entirety."
+```
+
+```text
+Summary of Tentative Ruling:
+
+The tentative ruling, issued by Judge Holly J. Fujie on September 18, 2023, addresses a motion by Defendant Adelphia Properties, LLC to set aside a default and default judgment in a case brought by Plaintiff Luis Calderon for alleged violations of the Unruh Act.  The Defendant argued they did not receive actual notice of the lawsuit due to issues with their registered agent, Antonio Munoz, who was disbarred and no longer at the listed address.  Substitute service had been made on a receptionist ("Jane Doe") at that address. The Court found that the Defendant had sufficiently demonstrated a lack of actual notice and that this was not due to avoidance or inexcusable neglect. Therefore, Judge Fujie *granted* the Defendant's motion to set aside the default and default judgment. The moving party (Defendant) is ordered to give notice of this ruling.  The hearing is scheduled for September 18, 2023, but the tentative ruling will stand if no party appears and the court receives email notification of intent to submit. If no email is received and no one appears, the motion will be taken off the calendar.
+```

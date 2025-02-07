@@ -280,3 +280,157 @@ amount: $1,280.00
 
 summary:
   The court grants the defendants' motions for sanctions against the plaintiff, Saul Larner, for bringing and maintaining this action in bad faith. The plaintiff was informed several times by defendants with citations to clear statutory law, but refused to dismiss the action. The plaintiff engaged in threats and filed bar complaints. The court orders the plaintiff to pay $7,600.00 in attorney's fees to Defendant Sorley and $1,280.00 in attorney's fees to Defendant Dobson.
+..................... .....................
+On 2025-02-06_22:28:51.358680
+The summary displayed below was created by an LLM named:  "gemini-2.0-flash-exp":
+```yaml
+case_number: "22STCV36561"
+plaintiff_name: "Saul Larner"
+defendant_name: "Christopher Sorley, Michele Dobson"
+people_names:
+  - "Saul Larner"
+  - "Christopher Sorley"
+  - "Michele Dobson"
+  - "Maurice A. Leiter"
+company_names: null
+places:
+  - "Superior Court of California, County of Los Angeles"
+dates:
+  - "September 18, 2023"
+  - "November 21, 2022"
+  - "October 25, 2022"
+  - "July 7, 2023"
+events:
+  - "Hearing on Motions for Sanctions"
+  - "Filing of Complaint by Saul Larner"
+  - "Denial of Anti-SLAPP Motions in Related Case 22STCV12097"
+  - "Sustaining of Demurrer by Defendant Sorley"
+money:
+  - "7600.00"
+  - "1280.00"
+intentions:
+  - "Defendants seek sanctions against Plaintiff for bringing and maintaining a lawsuit in bad faith."
+  - "Plaintiff allegedly intended to harass or cause unnecessary delay."
+facts:
+  - "Plaintiff filed a lawsuit against Defendants for malicious prosecution and SLAPP-back."
+  - "Defendants were counsel for the defendants in a related case (22STCV12097)."
+  - "The Court denied anti-SLAPP motions brought by Defendants in the related case."
+  - "The Court sustained Defendant Sorley's demurrer to the complaint without leave to amend."
+  - "Plaintiff was informed by counsel that there was no legal basis for his claims but refused to withdraw the suit."
+  - "Plaintiff engaged in inappropriate communications, threats of additional litigation, and frivolous State Bar complaints."
+disputes:
+  - "Whether Plaintiff's lawsuit was brought and maintained in bad faith."
+  - "Whether Plaintiff's actions warrant sanctions under CCP § 128.7 and § 128.5."
+acts:
+  - "Plaintiff filing a complaint."
+  - "Defendants filing anti-SLAPP motions in a related case."
+  - "Defendants filing motions for sanctions."
+  - "Plaintiff filing State Bar complaints."
+agreements: null
+laws:
+  - "CCP § 128.7"
+  - "CCP § 128.5"
+case_citations:
+  - "22STCV12097"
+statutes:
+  - "CCP § 128.7(b)"
+  - "CCP § 128.7(c)"
+  - "CCP § 128.5(a)"
+  - "CCP § 128.5(b)(1)"
+  - "CCP § 128.5(b)(2)"
+roles:
+  - "Saul Larner: Plaintiff"
+  - "Christopher Sorley: Defendant, Attorney"
+  - "Michele Dobson: Defendant, Attorney"
+  - "Maurice A. Leiter: Judge"
+significant_statements:
+  - "Defendants' motions are granted. Sanctions are payable within 30 days."
+  - "This action is not legally tenable."
+  - "Plaintiff was informed of this several times by Defendants with citations to clear statutory law."
+  - "Plaintiff then refused to dismiss the action and instead engaged in threats and filed bar complaints."
+```
+
+**English Text Summary of the Judge's Tentative Ruling:**
+
+Judge Leiter has issued a tentative ruling granting the defendants' motions for sanctions against the plaintiff, Saul Larner. The defendants, Christopher Sorley and Michele Dobson, argued that Larner's lawsuit for malicious prosecution and SLAPP-back was brought and maintained in bad faith, lacking legal basis. The judge agrees, noting that Larner was repeatedly informed of the flaws in his case but refused to dismiss it, instead engaging in threatening behavior and filing frivolous bar complaints.  Sorley is awarded $7,600 and Dobson is awarded $1,280 in attorney's fees, payable within 30 days.  The judge's ruling is based on California Code of Civil Procedure sections 128.7 and 128.5, which allow for sanctions when a party's actions are frivolous or intended to harass.
+..................... .....................
+On 2025-02-06_22:29:37.970884
+The summary displayed below was created by an LLM named:  "gemini-2.0-pro-exp":
+```yaml
+Case Number: 22STCV36561
+Plaintiff's Name: Saul Larner
+Defendant's Name:
+  - Christopher Sorley
+  - Michele A. Dobson
+People-Names:
+  - Saul Larner
+  - Christopher Sorley
+  - Michele A. Dobson
+  - Maurice A. Leiter (Judge)
+Company-Names: []
+Places:
+  - Superior Court of California, County of Los Angeles, Department 54
+  -  SMCdept54@lacourt.org
+Dates:
+  - November 21, 2022 (Complaint filed)
+  - October 25, 2022 (Anti-SLAPP motions denied in related case)
+  - July 7, 2023 (Demurrer sustained)
+  - September 18, 2023 (Hearing Date for Sanctions Motions)
+Events:
+  - Filing of complaint by Plaintiff.
+  - Anti-SLAPP motions in related case (22STCV12097).
+  - Court's denial of anti-SLAPP motions.
+  - Court sustains Defendant Sorley's demurrer.
+  - Motions for Sanctions filed by Defendants.
+  - Tentative Ruling granting sanctions.
+Money:
+  - $7,600.00 (Attorney's fees requested by Sorley)
+  - $1,280.00 (Attorney's fees requested by Dobson)
+Intentions:
+  - Defendants: Seek sanctions against Plaintiff for bad faith litigation.
+  - Plaintiff: Allegedly, to maliciously prosecute Defendants and engage in SLAPP-back.  The judge's ruling indicates the *actual* intention may have been harassment.
+Facts:
+  - Plaintiff filed a complaint for malicious prosecution and SLAPP-back.
+  - Defendants were counsel in a related case (22STCV12097).
+  - Defendants' anti-SLAPP motions in the related case were denied.
+  - Defendant Sorley's demurrer to the complaint was sustained without leave to amend.
+  - Plaintiff was allegedly informed multiple times that his claims had no legal basis.
+  - Plaintiff allegedly engaged in threats and filed State Bar complaints.
+Disputes:
+  - Whether Plaintiff's lawsuit was brought and maintained in bad faith.
+  - Whether Plaintiff's claims had any legal basis.
+  - Whether Plaintiff's conduct warranted sanctions.
+Acts:
+  - Filing of the complaint.
+  - Filing of anti-SLAPP motions (in the related case).
+  - Filing of motions for sanctions.
+  - Alleged threats and State Bar complaints by Plaintiff.
+Agreements: []
+Laws:
+ - CCP § 128.7 (Sanctions for improper filings)
+ - CCP § 128.5 (Sanctions for bad-faith actions or tactics)
+ - SLAPP-back statutory provisions
+Case Citations: []
+Statutes:
+  - CCP § 128.7(b)
+  - CCP § 128.7(c)
+  - CCP § 128.5(a)
+  - CCP § 128.5(b)(1)
+  - CCP § 128.5(b)(2)
+Roles:
+  - Plaintiff: Saul Larner
+  - Defendants: Christopher Sorley, Michele A. Dobson (Attorneys in related case)
+  - Judge: Maurice A. Leiter
+Significant Statements:
+  - "DEFENDANTS’ MOTIONS ARE GRANTED. SANCTIONS ARE PAYABLE WITHIN 30 DAYS."
+  - "This action is not legally tenable."
+  - "Plaintiff was informed of this several times by Defendants with citations to clear statutory law."
+  - "Plaintiff then refused to dismiss the action and instead engaged in threats and filed bar complaints."
+  - "The plain language of the SLAPP-back statutory provisions state that SLAPP-back actions may be filed by a prevailing Defendant against the Plaintiff who filed the underlying SLAPP suit. They do not allow SLAPP-back actions against Defendants who unsuccessfully bring an anti-SLAPP."
+
+---
+
+**English Text Summary of the Tentative Ruling:**
+
+Judge Maurice A. Leiter tentatively granted the motions for sanctions filed by Defendants Christopher Sorley and Michele Dobson against Plaintiff Saul Larner.  The judge found that Larner's lawsuit, alleging malicious prosecution and a "SLAPP-back" claim, was brought in bad faith and had no legal basis.  The judge noted that Larner had been repeatedly informed by the Defendants that his claims were invalid, citing relevant statutes, but Larner refused to dismiss the case and instead made threats and filed complaints with the State Bar.  Because the underlying lawsuit was frivolous and intended to harass, the judge granted Sorley's request for $7,600.00 in attorney's fees and Dobson's request for $1,280.00 in attorney's fees. The sanctions are payable within 30 days. The Defendants are to provide notice of the ruling.
+```

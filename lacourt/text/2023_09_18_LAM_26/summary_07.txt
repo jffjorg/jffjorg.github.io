@@ -199,3 +199,109 @@ new\_petition\_required: true
 The Judge has issued a tentative ruling for Case Number 23STCP02707, scheduled for September 18, 2023, in Department 26. The petitioner must review the spelling and legibility of the new name on the proposed decree. If satisfied, no appearance is necessary. However, if the new name is not clearly written or correctly spelled, the petitioner must appear at the hearing to submit a corrected proposed decree.
 
 The petition has been granted, and a signed decree will be available in Room 112 of the Clerk's Office seven days after the date of the hearing. Once the proposed decree is signed, it cannot be amended without a new petition to change the name.
+..................... .....................
+On 2025-02-06_21:58:54.962019
+The summary displayed below was created by an LLM named:  "gemini-2.0-flash-exp":
+```yaml
+summary:
+  Case Number: 23STCP02707
+  Plaintiff's Name:  (Not specified in document)
+  Defendant's Name: (Not specified in document)
+  People-Names: (Not specified in document, but implies "Petitioner" is a person)
+  Company-Names: (Not specified in document)
+  Places:
+    - Clerk's Office, Room 112
+    - Dept: 26 (Court Department)
+  Dates:
+    - September 18, 2023 (Hearing Date)
+    - Seven days after September 18, 2023 (Date when decree will be available)
+  Events:
+    - Court Hearing (September 18, 2023)
+    - Name Change Petition
+  Money: (Not specified in document)
+  Intentions:
+    - Judge intends to grant the petition if spelling/legibility are correct.
+    - Petitioner intends to change their name.
+  Facts:
+    - A petition for name change has been filed.
+    - A proposed decree exists with the new name.
+  Disputes: (Not specified in document, but implied is a potential dispute over the spelling/legibility of the new name)
+  Acts:
+    - Filing a petition to change name.
+    - Judge reviewing proposed decree.
+    - Judge granting the petition.
+    - Petitioner submitting a proposed decree.
+  Agreements: (Not specified in document)
+  Laws: (Not specified in document, but implied are laws regarding name changes)
+  Case Citations: (Not specified in document)
+  Statutes: (Not specified in document)
+  Roles:
+    - Judge
+    - Petitioner
+    - Clerk
+  Significant Statements:
+    - "Petitioner must double check the spelling and legibility of the new name on the proposed decree."
+    - "If Petitioner is satisfied with the spelling and legibility of the new name on the proposed decree, NO APPEARANCE IS NECESSARY."
+    - "The petition is granted."
+    - "Once the proposed decree is signed, it cannot be amended without a new petition to change name."
+```
+
+**English Text Summary of the Judge's Tentative Ruling:**
+
+The judge has reviewed the petition for a name change (Case Number 23STCP02707). If the petitioner verifies that the new name is spelled correctly and is legible on the proposed decree, they do *not* need to attend the court hearing on September 18, 2023. However, if there are any issues with the spelling or legibility of the new name on the proposed decree, the petitioner *must* attend the hearing to submit a corrected version. The judge intends to grant the petition. A signed copy of the decree will be available in Room 112 of the Clerk's Office seven days after the hearing.  The signed decree cannot be amended; any changes after signing require a new petition.
+..................... .....................
+On 2025-02-06_21:59:38.433547
+The summary displayed below was created by an LLM named:  "gemini-2.0-pro-exp":
+```yaml
+case_summary:
+  case_number: "23STCP02707"
+  hearing_date: "September 18, 2023"
+  department: "26"
+  plaintiff_name: "Petitioner" #  The document uses "Petitioner," assuming this is equivalent to Plaintiff.
+  defendant_name: null  # Not mentioned in the document. Name change petitions often don't have a defendant.
+  people_names:
+    - Petitioner # Generic name used in ruling.
+  company_names: []
+  places:
+    - "Dept: 26" # Department of the court
+    - "Room 112 of the Clerk's Office"
+  dates:
+    - hearing_date: "September 18, 2023"
+    - decree_availability: "Seven days after the hearing date" # Calculated, but best to represent as a relative date.
+  events:
+    - "Hearing"
+    - "Petition Filing" # Implied
+    - "Decree Signing" # Future event.
+    - "Decree Availability" # Future event.
+  money: []
+  intentions:
+    - Petitioner: "Change name" # Implied intention of the petitioner.
+    - Judge: "Grant the petition"
+  facts:
+    - "Petitioner filed a petition to change name." # Implied.
+    - "Proposed decree submitted."
+    - "New name spelling and legibility are crucial."
+  disputes: [] # No apparent dispute.
+  acts:
+    - "Filing of Petition"
+    - "Submission of Proposed Decree"
+    - "Review of Proposed Decree by Judge"
+  agreements: [] #No agreements described.
+  laws: []  # No specific laws or codes cited.
+  case_citations: []
+  statutes: [] # No specific statutes
+  roles:
+    - Petitioner: "Person seeking name change"
+    - Judge: "Authority to grant or deny the petition"
+    - Clerk's Office: "Custodian of the signed decree"
+  significant_statements:
+    - "Petitioner must double check the spelling and legibility of the new name on the proposed decree."
+    - "If Petitioner is satisfied with the spelling and legibility... NO APPEARANCE IS NECESSARY."
+    - "If the new name is not clearly written and correctly spelled... Petitioner must appear at the hearing to submit a corrected proposed decree."
+    - "The petition is granted."
+    - "A copy of the signed decree will be available in Room 112 of the Clerk's Office seven days after the date of the hearing."
+    - "Once the proposed decree is signed, it cannot be amended without a new petition to change name."
+
+english_summary: |
+  The Judge has tentatively granted the petition for a name change (Case Number 23STCP02707, Hearing Date: September 18, 2023).  The Petitioner does *not* need to appear at the hearing *if* the new name is spelled correctly and clearly written on the proposed decree.  If there are any errors in the spelling or legibility, the Petitioner *must* appear at the hearing with a corrected decree. A copy of the signed decree will be available in Room 112 of the Clerk's Office seven days after the hearing.  Importantly, the decree cannot be changed after it is signed without filing a completely new petition.
+```

@@ -211,3 +211,102 @@ consequences:
 - petition denied and dismissed without prejudice if ID not provided
 
 The Judge's tentative ruling states that the Petitioner has failed to provide Probation with a form of identification tied to a fingerprint on file, which is necessary for Probation to run a criminal history assessment. The Petitioner must provide Probation with some form of identification verified by a fingerprint to enable Probation to run a criminal history assessment. The Petitioner may do this by providing a California driver license number or California ID number, providing Probation with a driver license number or DMV-issued ID number from another state and identifying the state that issued the driver license or ID, or contacting Probation for fingerprint instructions. The Petitioner is given until October 30, 2023 at 9 am to pursue one of these options, or the petition will be denied and dismissed without prejudice. The Court Clerk is responsible for giving notice.
+..................... .....................
+On 2025-02-06_21:56:09.636173
+The summary displayed below was created by an LLM named:  "gemini-2.0-flash-exp":
+```yaml
+Case Number: "23STCP02574"
+Plaintiff's Name:  # Not explicitly stated in the excerpt, but implied to be the "Petitioner"
+Defendant's Name: # Not explicitly stated in the excerpt. Implied is the State/Public.
+People-Names: # Not explicitly stated in the excerpt, but implies a Probation Officer
+Company-Names: # Not explicitly stated in the excerpt.
+Places: "California"
+Dates:
+  - "September 18, 2023" # Hearing Date
+  - "October 30, 2023" # Continued Hearing Date
+Events:
+  - "Hearing"
+  - "Criminal History Assessment"
+  - "Fingerprint Verification"
+Money: # Not explicitly stated in the excerpt.
+Intentions:
+  - "To enable Probation to run a criminal history assessment."
+  - "To allow Petitioner to provide necessary identification."
+Facts:
+  - "Petitioner has not provided identification linked to a fingerprint on file."
+  - "Probation needs identification to run a criminal history assessment."
+Disputes: "Petitioner's inability to provide sufficient identification for criminal history assessment."
+Acts:
+  - "Providing a California driver license or ID number."
+  - "Providing a driver license or ID number from another state."
+  - "Contacting Probation for LIVESCAN fingerprinting."
+Agreements: # Not explicitly stated in the excerpt.
+Laws: # Not explicitly stated in the excerpt. Implied is the law pertaining to name change petitions and criminal background checks.
+Case Citations: # Not explicitly stated in the excerpt.
+Statutes: # Not explicitly stated in the excerpt. Implied is the statute related to name change petition requirements.
+Roles:
+  - "Judge"
+  - "Petitioner"
+  - "Probation"
+  - "Court Clerk"
+Signifcant Statements:
+  - "Petitioner has failed to provide any form of identification tied to a fingerprint on file, which is necessary for Probation to run a criminal history assessment."
+  - "If Petitioner fails to provide Probation with sufficient information to run a criminal history assessment prior to the next hearing date, the petition will be denied and dismissed without prejudice."
+  - "The petition is continued to October 30, 2023 at 9 am to enable Petitioner to pursue one of these three options."
+```
+
+**English Text Summary:**
+
+The judge has issued a tentative ruling in Case Number 23STCP02574, related to a hearing scheduled for September 18, 2023.  The Petitioner has not provided adequate identification to allow Probation to conduct a criminal history assessment. The Petitioner is ordered to provide Probation with acceptable identification by October 30, 2023, through one of three methods: providing a California driver's license or ID, providing a driver's license or ID from another state, or contacting Probation to arrange a LIVESCAN fingerprint. The hearing is continued to October 30, 2023, to allow the Petitioner to comply. If the Petitioner fails to provide the required information by that date, the petition will be denied and dismissed without prejudice. The Court Clerk is directed to provide notice of this ruling.
+..................... .....................
+On 2025-02-06_21:56:52.813350
+The summary displayed below was created by an LLM named:  "gemini-2.0-pro-exp":
+```yaml
+case_summary:
+  case_number: "23STCP02574"
+  plaintiff_name: "Petitioner" #  We don't have the actual name, just the role.
+  defendant_name:  null # Not applicable in this type of petition.
+  people_names:
+    - "Petitioner"
+    - "Name Change Probation Officer"
+  company_names:
+      - "Probation" #Probation Department
+      - "DMV" #Department of Motor Vehicles
+  places:
+    - "Dept: 26" # Court Department 26
+    - "California"
+  dates:
+    - "September 18, 2023" # Hearing Date
+    - "October 30, 2023" # Continued Hearing Date
+  events:
+    - "Hearing"
+    - "Petition for Name Change" # Implied
+    - "Criminal History Assessment"
+    - "LIVESCAN"
+  money: null  # No monetary amounts mentioned.
+  intentions:
+    - "Petitioner intends to change their name (implied)."
+    - "Probation intends to run a criminal history assessment."
+    - "Court intends to grant the petition if requirements are met."
+  facts:
+    - "Petitioner has not provided sufficient identification with fingerprint verification."
+    - "Probation requires fingerprint-verified identification to run a criminal history check."
+  disputes: null # No explicit dispute, but an unmet requirement.
+  acts:
+      - "Petitioner failed to provide identification."
+  agreements:  null # No agreements mentioned.
+  laws: null # No specific laws cited, but implied requirement for background check.
+  case_citations: null
+  statutes:  null
+  roles:
+    - "Petitioner": The person seeking the name change.
+    - "Probation Officer":  The person responsible for the criminal history assessment.
+    - "Court Clerk": Responsible for giving notice.
+  significant_statements:
+    - "Petitioner has failed to provide any form of identification tied to a fingerprint on file, which is necessary for Probation to run a criminal history assessment."
+    - "If Petitioner fails to provide Probation with sufficient information to run a criminal history assessment prior to the next hearing date, the petition will be denied and dismissed without prejudice."
+    - "Court Clerk to give notice."
+
+english_summary: |
+  The Judge's tentative ruling in case number 23STCP02574 continues the hearing to October 30, 2023. The Petitioner, who is seeking a name change, has not provided Probation with adequate identification that includes fingerprint verification.  This is required for Probation to conduct a criminal history assessment. The Petitioner has three options to comply: provide a California driver's license or ID number, provide a driver's license or ID number from another state, or contact the Name Change Probation Officer for instructions on getting a LIVESCAN fingerprint taken. If the Petitioner does not provide the necessary information by the next hearing, the petition will be denied and dismissed without prejudice. The Court Clerk is responsible for providing notice of this ruling.
+```

@@ -326,3 +326,164 @@ roles:
 significant\_statements:
 - "Defendant’s motions to compel responses to special interrogatories, request for production of documents, and supplemental production of documents are DENIED as MOOT."
 - "Defendant’s request for sanctions is GRANTED. Plaintiff Jocelyn Newman and counsel of record Martin Stanley are ordered to pay monetary sanctions in the amount of $530, jointly and severally, within 30 days of this order."
+..................... .....................
+On 2025-02-06_22:00:20.037306
+The summary displayed below was created by an LLM named:  "gemini-2.0-flash-exp":
+```yaml
+Case Number: "19STCV13174"
+Plaintiff's Name: "Jocelyn Newman"
+Defendant's Name: null
+People-Names:
+  - "Jocelyn Newman"
+  - "Martin Stanley"
+  - "Weiss"
+Company-Names: null
+Places: null
+Dates:
+  - "September 18, 2023"
+  - "March 9, 2023"
+  - "April 10, 2023"
+  - "July 27, 2023"
+  - "September 7, 2023"
+Events:
+  - "Hearing"
+  - "Service of Special Interrogatories (Set Two)"
+  - "Service of Request for Production of Documents (Set Two)"
+  - "Service of Supplemental Request for Production of Documents (Set One)"
+  - "Failure to provide discovery responses"
+  - "Receipt of discovery responses"
+Money: "$530"
+Intentions:
+  - "Defendant intended to compel responses to discovery requests."
+  - "Defendant intended to seek sanctions."
+Facts:
+  - "Defendant served discovery requests on Plaintiff."
+  - "Plaintiff initially failed to respond to discovery requests by the deadline."
+  - "Defendant's counsel emailed Plaintiff's counsel regarding the lack of response."
+  - "Plaintiff provided responses to the discovery requests on September 7, 2023."
+Disputes:
+  - "Whether Plaintiff should be compelled to respond to discovery requests."
+  - "Whether sanctions should be imposed on Plaintiff for failure to timely respond."
+Acts:
+  - "Defendant filing motions to compel."
+  - "Plaintiff failing to respond to discovery requests."
+  - "Plaintiff eventually providing responses to discovery requests."
+Agreements: null
+Laws:
+  - "Code Civ. Proc., § 2030.290, subd. (b)"
+  - "Code Civ. Proc. § 2031.300(b)"
+  - "Code Civ. Proc. § 2031.300(a)"
+  - "Code Civ. Proc., § 2031.050"
+  - "Code Civ. Proc., § 2024.010"
+  - "Code Civ. Proc., §§ 2031.050(b), 2030.070(b)"
+  - "Code Civ. Proc., §§ 2031.050(c), 2030.070(b)"
+  - "Code Civ. Proc. § 2030.290(c), 2031.300(c)"
+Case Citations:
+  - "Leach v. Superior Court (1980) 111 Cal.App.3d 902, 905–906"
+Statutes: null
+Roles:
+  - "Plaintiff: Jocelyn Newman"
+  - "Defendant: (not named)"
+  - "Judge: (not named)"
+  - "Plaintiff's Counsel: Martin Stanley"
+  - "Defendant's Counsel: Weiss"
+Signifcant Statements:
+  - "Defendant’s motions to compel responses to special interrogatories, request for production of documents, and supplemental production of documents are DENIED as MOOT."
+  - "Defendant’s request for sanctions is GRANTED."
+  - "Plaintiff Jocelyn Newman and counsel of record Martin Stanley are ordered to pay monetary sanctions in the amount of $530, jointly and severally, within 30 days of this order."
+
+```
+
+**Summary of the Judge's Tentative Ruling:**
+
+The Judge's tentative ruling addresses the Defendant's motions to compel the Plaintiff, Jocelyn Newman, to provide responses to discovery requests (special interrogatories, request for production of documents, and supplemental request for production of documents). Since the Plaintiff provided the responses on September 7, 2023, after the motions were filed, the Judge denies the motions to compel as moot. However, the Judge grants the Defendant's request for sanctions against Plaintiff Jocelyn Newman and her counsel, Martin Stanley, for the initial failure to timely respond. The sanctions are set at $530, to be paid jointly and severally within 30 days, a reduced amount reflecting the simplicity of the motions. The moving party (Defendant) is ordered to give notice.
+..................... .....................
+On 2025-02-06_22:01:05.688948
+The summary displayed below was created by an LLM named:  "gemini-2.0-pro-exp":
+```yaml
+case_number: 19STCV13174
+hearing_date: 2023-09-18
+department: 31
+plaintiff:
+  name: Jocelyn Newman
+  role: Plaintiff
+defendant:
+  name:  "Defendant" #The document doesn't provide the defendants Name.
+  role: Defendant
+people_names:
+  - Jocelyn Newman
+  - Martin Stanley
+  - Weiss # (Defendant's Counsel - Last name only provided)
+company_names: []
+places: []
+dates:
+  - 2023-09-18 # Hearing Date
+  - 2023-03-09 # Date Defendant served discovery requests
+  - 2023-04-10 # Date responses were due
+  - 2023-07-27 # Date Defendant's counsel emailed Plaintiff's counsel
+  - 2023-09-07 # Date responses were received by Defendant
+events:
+  - Service of Special Interrogatories (Set Two)
+  - Service of Request for Production of Documents (Set Two)
+  - Service of Supplemental Request for Production of Documents (Set One)
+  - Failure to provide responses by Plaintiff
+  - Email inquiry from Defendant's counsel to Plaintiff's counsel
+  - Plaintiff provides responses.
+  - Filing of motions to compel by Defendant
+  - Filing of notice of non-opposition
+money:
+  - amount: $530
+    description: Monetary sanctions
+  - amount: $175
+    description: Hourly rate.
+  - amount: $180
+    description: Filing Fee's
+intentions:
+  - Defendant: To compel responses to discovery requests and obtain sanctions.
+  - Plaintiff: Initially, no intention to respond was apparent; later, to provide responses (though late).
+facts:
+  - Defendant served discovery requests on Plaintiff on March 9, 2023.
+  - Responses were due April 10, 2023.
+  - Plaintiff failed to respond by the deadline and did not request an extension.
+  - Defendant's counsel inquired about the responses on July 27, 2023, but received no reply.
+  - Defendant received responses on September 7, 2023.
+  - Plaintiff and Counsel are substantially unjustified.
+disputes:
+  - Plaintiff's failure to provide timely responses to discovery requests.
+acts:
+  - Service of discovery requests
+  - Failure to respond
+  - Email communication
+  - Filing of motions
+  - Filing of notice of non-opposition
+  - Late provision of responses
+agreements: []
+laws:
+  - Code Civ. Proc., § 2030.290, subd. (b)
+  - Code Civ. Proc. § 2031.300(b)
+  - Code Civ. Proc. § 2031.300(a)
+  - Code Civ. Proc., § 2031.050
+  - Code Civ. Proc., § 2024.010 et seq.
+  - Code Civ. Proc., §§ 2031.050(b), 2030.070(b)
+  - Code Civ. Proc., §§ 2031.050(c), 2030.070(b)
+  - Code Civ. Proc. § 2030.290(c), 2031.300(c)
+case_citations:
+  - Leach v. Superior Court (1980) 111 Cal.App.3d 902, 905–906
+statutes: [] #The provided case citations are not statuates.
+roles:
+  - Plaintiff: Jocelyn Newman
+  - Plaintiff's Counsel: Martin Stanley
+  - Defendant's Counsel: Weiss
+  - Judge: (Not named in the provided text)
+significant_statements:
+    - "Defendant’s motions to compel responses... are DENIED as MOOT."
+    - "Defendant’s request for sanctions is GRANTED."
+    - "Plaintiff Jocelyn Newman and counsel of record Martin Stanley are ordered to pay monetary sanctions in the amount of $530, jointly and severally, within 30 days of this order."
+    - "Plaintiff’s counsel has not provided substantial justification for the failure to provide responses..."
+    -   "Moving party is ordered to give notice."
+
+```
+
+**Summary in English:**
+
+The Judge denied the Defendant's motions to compel the Plaintiff to answer questions and provide documents because the Plaintiff finally provided those answers, making the motions unnecessary ("moot").  However, because the Plaintiff was very late in responding, and offered no good reason for the delay, the Judge granted the Defendant's request for monetary sanctions. The Plaintiff, Jocelyn Newman, and her lawyer, Martin Stanley, must jointly pay $530 to the Defendant within 30 days. The $530 represents $175/hour * 2 hours, and $180 for filing fees. The moving party (Defendant) must notify the other parties about the court order.

@@ -334,3 +334,253 @@ Significant Statements:
 And here is a summary of the tentative ruling in English text:
 
 The court has issued a tentative ruling on the demurrer and motion to strike filed by defendant Pacific Urban Investors. The court has sustained the demurrer to the first cause of action for battery, finding that the complaint does not allege the requisite intent to harm or offend necessary for a battery claim. The court has also sustained the demurrer to the sixth cause of action for violation of Civil Code Section 1942.4, finding that the complaint fails to allege that plaintiffs reported the bed bug infestations to a public officer or employee responsible for the enforcement of housing law. The court has granted the motion to strike allegations and prayers for attorneys' fees related to the sixth cause of action. The plaintiffs have been given 14 days to amend the pleadings. The court's ruling is based on the allegations in the complaint and the applicable law, including the requirements for a battery claim and the elements of a claim for violation of Civil Code Section 1942.4.
+..................... .....................
+On 2025-02-06_22:17:45.112066
+The summary displayed below was created by an LLM named:  "gemini-2.0-flash-exp":
+```yaml
+english_summary: |
+  The Judge is tentatively ruling on Pacific Urban Investors' demurrer and motion to strike portions of the complaint filed by Marisela Vasquez and her children. The lawsuit stems from a bed bug infestation at the Haven Warner Center where the Vasquez family resided.
+
+  The Judge is sustaining the demurrer to the first cause of action (Battery) because the complaint doesn't adequately allege the intent to harm or offend necessary for a battery claim. The Judge finds that simply claiming "inaction" by the defendants is not enough to establish intent. While a bed bug bite *could* be the basis for a battery claim, the complaint needs to show that the *defendants' conduct* caused the bites with the intent to harm or offend.  The demurrer to the sixth cause of action (Violation of Civil Code § 1942.4) is also sustained because the complaint fails to allege that a public officer or employee responsible for housing law enforcement notified the defendants in writing about the need to abate the nuisance, a requirement of the statute.
+
+  The motion to strike claims for statutory damages, costs, and attorney's fees related to the sixth cause of action is granted, with leave to amend, because the demurrer to that cause of action was sustained.
+
+  The plaintiffs are given 14 days to amend their complaint.
+
+case_number: 21STCV20276
+plaintiff_name: Marisela Vasquez
+defendant_name: Haven Warner Center
+people_names:
+  - Marisela Vasquez
+  - Anthony Ixta
+  - Anabelle Ixta
+  - Luna Vasquez
+  - Manuel Vasquez
+  - Lisa Nguyen
+  - Dennis Treadaway
+  - Regina Jasinski
+company_names:
+  - Haven Warner Center
+  - FPI Management, Inc.
+  - Pacific Urban Investors
+places:
+  - Superior Court of California, County of Los Angeles, Department 40
+  - 6530 Independence Ave., Canoga Park, California 91303 (Haven Warner Center, Unit 237)
+dates:
+  - May 28, 2021 (Complaint filing)
+  - November 14, 2022 (Summons issued and filed)
+  - March 9, 2023 (Service on Pacific)
+  - April 11, 2023 (Demurrer and Motion to Strike filed)
+  - May 10, 2023 (Original hearing date)
+  - May 8, 2023 (Reassignment from Department 27)
+  - May 9, 2023 (Reassignment to Department 40)
+  - August 28, 2023 (Hearing reset)
+  - September 18, 2023 (Hearing Date)
+events:
+  - Bed bug infestation
+  - Filing of complaint
+  - Demurrer to complaint
+  - Motion to strike portions of complaint
+  - Court hearings
+money:
+  - Attorneys' fees (disputed)
+intentions:
+  - Plaintiffs allege Defendants acted with intent or reckless disregard regarding bed bug bites.
+  - Defendants deny intent to harm or offend.
+facts:
+  - Plaintiffs allege bed bug infestation at their apartment.
+  - Plaintiffs allege they notified Defendants of the infestation.
+  - Plaintiffs allege Defendants failed to remedy the infestation.
+  - Plaintiffs allege they suffered bites, injuries, and medical expenses.
+disputes:
+  - Whether Defendants had the requisite intent for a battery claim.
+  - Whether the Complaint adequately alleges a violation of Civil Code § 1942.4.
+acts:
+  - Defendants' alleged failure to abate the bed bug infestation.
+  - Pacific filing a demurrer and motion to strike.
+agreements:
+  - None explicitly stated.
+laws:
+  - California Civil Code Section 1942.4
+  - California Code of Civil Procedure Sections 430.10, 436, 431.10, 435, 437
+statutes:
+  - Civil Code Section 1941.1
+  - Health and Safety Code Sections 17920.10, 17920.3
+  - Code of Civil Procedure Section 1161(2)
+case_citations:
+  - Hahn v. Mirda (2007) 147 Cal.App.4th 740
+  - Blank v. Kirwan (1985) 39 Cal.3d 311
+  - C.A. v. William S. Hart Union High School Dist. (2012) 53 Cal.4th 861
+  - Aubry v. Tri-City Hospital Dist. (1992) 2 Cal.4th 962
+  - Daar v. Yellow Cab Co. (1967) 67 Cal.2d 695
+  - Taylor v. City of Los Angeles Dept. of Water and Power (2006) 144 Cal.App.4th 1216
+  - Jones v. Lodge at Torrey Pines Partnership (2008) 42 Cal.4th 1158
+  - Frantz v. Blackwell (1987) 189 Cal.App.3d 91
+  - Holland v. Morse Diesel Intern., Inc. (2001) 86 Cal.App.4th 1443
+  - White v. Cridlebaugh (2009) 178 Cal.App.4th 506
+  - So v. Shin (2013) 212 Cal.App.4th 652
+  - Mathias v. Accor Econ. Lodging, Inc. (7th Cir. 2003) 347 F.3d 672
+  - Mount Vernon Fire Ins. Corp. v. Oxnard Hospitality Enterprise, Inc. (2013) 219 Cal.App.4th 876
+  - Stafford v. Shultz (1954) 42 Cal.2d 767
+
+roles:
+  - Marisela Vasquez: Plaintiff
+  - Anthony Ixta: Plaintiff
+  - Anabelle Ixta: Plaintiff
+  - Luna Vasquez: Plaintiff
+  - Manuel Vasquez: Plaintiff
+  - Haven Warner Center: Defendant (erroneously sued as Pacific Urban Investors)
+  - FPI Management, Inc.: Defendant
+  - Lisa Nguyen: Defendant
+  - Dennis Treadaway: Defendant
+  - Regina Jasinski: Defendant
+  - Judge: Presiding over the case
+
+significant_statements:
+  - "The Complaint does not allege the requisite “intent to harm or offend” necessary for battery."
+  - "The Court finds that the allegations of Defendants’ “intent to cause a harmful or offensive contact” are conclusory without clearer ultimate facts alleging how Defendants—here, Pacific in particular—manifested an intent to harm or offend Plaintiffs through the bed bug bites."
+  - "Even though no case has been cited to this Court that holds that a landlord can be held liable for battery based on bedbugs, the Court does not hold a bed bug bite could never be sufficient for such a claim."
+  - "The Complaint fails to allege that Plaintiffs reported the beg bug infestations to some public officer or employee responsible for the enforcement of housing law, who, after inspecting the premises, notified Defendants in writing that they had an obligation to abate the beg bug nuisance."
+```
+..................... .....................
+On 2025-02-06_22:18:41.786613
+The summary displayed below was created by an LLM named:  "gemini-2.0-pro-exp":
+```yaml
+case_number: 21STCV20276
+plaintiffs:
+  - Marisela Vasquez
+  - Anthony Ixta (minor, represented by Marisela Vasquez)
+  - Anabelle Ixta (minor, represented by Marisela Vasquez)
+  - Luna Vasquez (minor, represented by Marisela Vasquez)
+  - Manuel Vasquez (minor, represented by Marisela Vasquez)
+defendants:
+  - Haven Warner Center (erroneously sued, actually Pacific Urban Investors)
+  - Pacific Urban Investors (Pacific)
+  - FPI Management, Inc. (FPI)
+  - Lisa Nguyen
+  - Dennis Treadaway
+  - Regina Jasinski
+  - DOES I through 20 (inclusive)
+people_names:
+  - Marisela Vasquez
+  - Anthony Ixta
+  - Anabelle Ixta
+  - Luna Vasquez
+  - Manuel Vasquez
+  - Lisa Nguyen
+  - Dennis Treadaway
+  - Regina Jasinski
+company_names:
+  - Pacific Urban Investors
+  - FPI Management, Inc.
+  - Haven Warner Center
+  - Yellow Cab Co.
+  - Superior Court of California
+  -  Mount Vernon Fire Ins. Corp.
+  -  Oxnard Hospitality Enterprise, Inc
+  -  William S. Hart Union High School Dist.
+places:
+  - Los Angeles, California (County)
+  - Canoga Park, California
+  - 6530 Independence Ave., Canoga Park, California 91303, Unit 237 (Subject Premises)
+  - Department 40, Superior Court of California, County of Los Angeles
+  - Spring Street Courthouse (Department 27)
+  - Stanley Mosk Courthouse (Department 40)
+  - Department 1
+dates:
+  - May 28, 2021: Complaint filed.
+  - November 14, 2022: Summons issued and filed
+  - March 9, 2023: Summons and Complaint served on Pacific.
+  - April 11, 2023: Pacific demurred and moved to strike.
+  - May 10, 2023: Original hearing date (taken off calendar).
+  - May 8, 2023: Case reassigned from Department 27.
+  - May 9, 2023: Case reassigned to Department 40.
+  - August 28, 2023: Court reset hearing.
+  - September 18, 2023: Hearing Date (for demurrer and motion to strike).
+events:
+  - Bed bug infestation at the Subject Premises.
+  - Plaintiffs reported infestation to Defendants.
+  - Defendants allegedly failed to adequately remedy the infestation.
+  - Plaintiffs allegedly suffered bites, injuries, and medical expenses.
+  - Filing of the Complaint.
+  - Service of the Complaint.
+  - Filing of demurrer and motion to strike.
+  - Reassignment of the case between court departments.
+  - Resetting of the hearing date.
+money:
+  -  Statutory damages
+  -  Attorney's fees
+  -  Rent collected
+  -  Medical expenses
+intentions:
+  - Plaintiffs: Seek damages and relief for injuries and violations.
+  - Defendants: Seek dismissal of claims and striking of portions of the complaint.
+  - Judge: To rule on the demurrer and motion to strike, determining the sufficiency of the complaint.
+facts:
+  - Plaintiffs were tenants at the Subject Premises.
+  - A bed bug infestation occurred.
+  - Plaintiffs allege Defendants were aware of the infestation and did not adequately address it.
+  - Plaintiffs allege injuries and damages.
+disputes:
+  - Whether the Complaint sufficiently alleges battery (specifically, the intent element).
+  - Whether the Complaint sufficiently alleges a violation of Civil Code Section 1942.4 (specifically, the "public officer" notification).
+  - Whether certain allegations and prayers for relief should be stricken.
+acts:
+  - Alleged failure to abate the bed bug infestation.
+  - Alleged collection of rent despite the infestation.
+  -  Spraying for bedbugs.
+  -  Bed bugs biting.
+agreements:
+  -  Tenancy (Landlord-Tenant relationship implied).
+  - Implied Warranty of Habitability.
+  - Covenant of Quiet Enjoyment.
+laws:
+  - California Civil Code Section 1942.4
+  - California Civil Code Section 1941.1
+  - California Health and Safety Code Section 17920.3
+  - California Health and Safety Code Section 17920.10
+  - California Code of Civil Procedure Section 430.10(e)
+  - California Code of Civil Procedure Section 436
+  - California Code of Civil Procedure Section 435
+  - California Code of Civil Procedure Section 437
+  - California Code of Civil Procedure Section 431.10
+  - California Code of Civil Procedure Section 1161(2)
+  - California Civil Code Section 1929
+  - California Civil Code Section 1941.2
+case_citations:
+  - Hahn v. Mirda (2007) 147 Cal.App.4th 740, 747
+  - Blank v. Kirwan (1985) 39 Cal.3d 311, 318
+  - C.A. v. William S. Hart Union High School Dist. (2012) 53 Cal.4th 861, 872
+  - Aubry v. Tri-City Hospital Dist. (1992) 2 Cal.4th 962, 966-967
+  - Daar v. Yellow Cab Co. (1967) 67 Cal.2d 695, 713
+  - Taylor v. City of Los Angeles Dept. of Water and Power (2006) 144 Cal.App.4th 1216, 1228
+  - Jones v. Lodge at Torrey Pines Partnership (2008) 42 Cal.4th 1158, 1162
+  - Frantz v. Blackwell (1987) 189 Cal.App.3d 91, 94
+  - Holland v. Morse Diesel Intern., Inc. (2001) 86 Cal.App.4th 1443, 1447
+  - White v. Cridlebaugh (2009) 178 Cal.App.4th 506, 521
+  - So v. Shin (2013) 212 Cal.App.4th 652, 669
+  - Mathias v. Accor Econ. Lodging, Inc. (7th Cir. 2003) 347 F.3d 672, 675
+  - Mount Vernon Fire Ins. Corp. v. Oxnard Hospitality Enterprise, Inc. (2013) 219 Cal.App.4th 876, 881
+  - Stafford v. Shultz (1954) 42 Cal.2d 767, 782
+statutes:
+   (See: Laws)
+roles:
+  - Plaintiffs: Tenants.
+  - Defendants: Landlord and property management.
+  - Judge: Adjudicator of the legal issues.
+  - Public Officer/Employee: (Mentioned in statute, but not specified in the facts).
+significant_statements:
+  - "The essential elements of a cause of action for battery are: (1) defendant touched plaintiff, or caused plaintiff to be touched, with the intent to harm or offend plaintiff; (2) plaintiff did not consent to the touching; (3) plaintiff was harmed or offended by defendant’s conduct; and (4) a reasonable person in plaintiff’s position would have been offended by the touching."
+  - "The Complaint does not allege the requisite “intent to harm or offend” necessary for battery."
+  -  "A landlord of a dwelling may not demand rent...if all of the following conditions exist..." (Regarding Civil Code 1942.4)
+  - "Plaintiffs...are provided 14 days’ leave to amend the pleadings."
+
+```
+
+Summary of the Judge's Tentative Ruling:
+
+The judge *sustained* (agreed with) the defendant's (Pacific Urban Investors) arguments regarding both the battery claim (first cause of action) and the violation of Civil Code 1942.4 claim (sixth cause of action).  The judge found that the complaint did *not* sufficiently allege the necessary *intent* for a battery claim, merely alleging inaction rather than a deliberate act to cause harm.  The judge also found that the complaint failed to allege that a *public officer* had notified the landlord of the need to abate the nuisance, a requirement of Civil Code 1942.4.
+
+Because the demurrer to the sixth cause of action was sustained, the judge also *granted* the defendant's motion to *strike* the related allegations and requests for statutory damages and attorney's fees.
+
+Crucially, the judge granted the plaintiffs *leave to amend* their complaint.  This means the plaintiffs have 14 days to file a revised complaint that attempts to correct the deficiencies identified by the judge. They can try to add more specific facts to show intent for the battery claim and to meet the requirements of Civil Code 1942.4. The case is not dismissed, but the plaintiffs must revise their claims to proceed.

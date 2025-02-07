@@ -286,3 +286,211 @@ significant\_statements:
   - Plaintiff has standing to bring this claim and has alleged a contractual obligation that permits Plaintiff to seek the remedy of specific performance
   - Defendant has not shown any prejudice by the purported defect or misjoinder
   - Defendant's demurrer based on a defect or misjoinder of parties fails
+..................... .....................
+On 2025-02-06_22:24:14.446914
+The summary displayed below was created by an LLM named:  "gemini-2.0-flash-exp":
+```yaml
+case_number: "23STCV03601"
+plaintiff_name: "CIC Inc."
+defendant_name: "Prestige Default Services, LLC"
+people_names:
+  - "Crystal R. Davieau"
+  - "Randolph M. Hammock"
+company_names:
+  - "CIC Inc."
+  - "Prestige Default Services, LLC"
+  - "JAMDAT Mobile, Inc."
+  - "Darbun Enterprises, Inc."
+  - "San Fernando Cmty. Hosp."
+  - "Real Est. Analytics, LLC"
+  - "Vallas"
+  - "Royal Surplus Lines Ins. Co."
+  - "Ranger Ins. Co."
+  - "Contractors’ State License Bd."
+places:
+  - "Los Angeles"
+dates:
+  - "September 18, 2023"
+  - "August 21, 2023"
+  - "September 11, 2023"
+  - "December 28, 2022"
+  - "January 3, 2023"
+  - "February 13, 2023"
+events:
+  - "Trustee's Sale"
+  - "Demurrer Hearing"
+money:
+  - "$471,101.00"
+intentions:
+  - "Defendant intends to argue Plaintiff's failure to plead statutory cause of action with particularity."
+  - "Defendant intends to argue Plaintiff has not alleged the elements of a cause of action for specific performance."
+  - "Defendant intends to argue Plaintiff lacks standing to bring the action."
+  - "Defendant intends to argue there is a defect or misjoinder of parties."
+facts:
+  - "Plaintiff CIC Inc., as Trustee of the Serra Trust, bid on a property at a trustee's sale conducted by Defendant Prestige Default Services, LLC."
+  - "Plaintiff was allegedly the only bidder and submitted a cashier's check."
+  - "Defendant allegedly rejected Plaintiff's bid."
+  - "Plaintiff alleges Defendant wrongfully rejected the bid in violation of California Civil Code § 2924m."
+  - "Defendant contends Plaintiff has failed to plead its statutory cause of action with particularity."
+  - "Defendant contends Plaintiff has not alleged the elements of a cause of action for specific performance."
+  - "Defendant contends Plaintiff lacks standing to bring the action."
+  - "Defendant contends there is a defect or misjoinder of parties."
+disputes:
+  - "Whether Plaintiff sufficiently pleaded its statutory cause of action with particularity."
+  - "Whether Plaintiff has alleged the elements of a cause of action for specific performance."
+  - "Whether Plaintiff has standing to bring the action."
+  - "Whether there is a defect or misjoinder of parties."
+acts:
+  - "Plaintiff placing a bid on the property."
+  - "Defendant rejecting Plaintiff's bid."
+  - "Plaintiff filing a complaint for specific performance."
+  - "Defendant filing a demurrer to the complaint."
+agreements:
+  - "None explicitly stated, but the legal document implies an agreement to the bidding process outlined in Civil Code Section 2924m"
+laws:
+  - "California Civil Code § 2924m"
+  - "CCP § 430.30(a)"
+  - "CCP § 430.30(b)"
+case_citations:
+  - "Hahn v. Mirda (2007) 147 Cal. App. 4th 740, 747"
+  - "Taylor v. City of Los Angeles Dept. of Water and Power (2006) 144 Cal. App. 4th 1216, 1228"
+  - "SKF Farms v. Superior Court (1984) 153 Cal. App. 3d 902, 905"
+  - "Covenant Care, Inc. v. Superior Ct. (2004) 32 Cal. 4th 771, 790"
+  - "Fox v. JAMDAT Mobile, Inc., 185 Cal. App. 4th 1068, 1078"
+  - "Darbun Enterprises, Inc. v. San Fernando Cmty. Hosp. (2015) 239 Cal. App. 4th 399, 409"
+  - "Real Est. Analytics, LLC v. Vallas (2008) 160 Cal. App. 4th 463, 472"
+  - "People v. McHenry (2000) 77 Cal. App. 4th 730, 732"
+  - "Royal Surplus Lines Ins. Co. v. Ranger Ins. Co. (2002) 100 Cal. App. 4th 193, 198"
+  - "Nava v. McMillan (1981) 123 Cal. App. 3d 262, 264"
+  - "Contractors’ State License Bd. v. Superior Court (2018) 23 Cal.App.5th 125, 131"
+  - "St. Mary v. Superior Court (2014) 223 Cal.App.4th 762, 783"
+statutes:
+  - "California Civil Code § 2924m"
+roles:
+  - "Plaintiff: CIC Inc. (Trustee of the Serra Trust)"
+  - "Defendant: Prestige Default Services, LLC"
+  - "Judge: Randolph M. Hammock"
+  - "Counsel for Defendant: Crystal R. Davieau"
+significant_statements:
+  - "Defendant’s Demurrer to the Complaint is OVERRULED."
+  - "Plaintiff is ordered to file an Answer within 21 days of this ruling."
+  - "Moving party to give notice, unless waived."
+```
+
+**English Text Summary of the Tentative Ruling:**
+
+The Judge has tentatively ruled to OVERRULE the Demurrer filed by Prestige Default Services against the Complaint filed by CIC Inc. The Judge believes that CIC Inc. has sufficiently alleged its claim for specific performance under California Civil Code § 2924m. The Judge rejected Prestige's arguments regarding the lack of particularity in pleading the statutory cause of action, the failure to allege elements of specific performance, the lack of standing, and the defect or misjoinder of parties. The Judge found that CIC Inc. has standing to bring the action, and that any alleged defect or misjoinder of parties does not prejudice Prestige. CIC Inc. is ordered to file an Answer to the Complaint within 21 days. Prestige is responsible for providing notice of the ruling, unless waived.
+..................... .....................
+On 2025-02-06_22:25:06.952579
+The summary displayed below was created by an LLM named:  "gemini-2.0-pro-exp":
+```yaml
+case_number: 23STCV03601
+hearing_date: September 18, 2023
+department: 49
+plaintiff:
+  name: CIC Inc.
+  role: Trustee of the Serra Trust
+  facts:
+    - "Placed a bid at a trustee's sale."
+    - "Was the only bidder."
+    - "Submitted a cashier's check for the bid amount."
+    - "Bid was rejected."
+    - "Seeks specific performance (delivery of title)."
+defendant:
+  name: Prestige Default Services, LLC
+  role: Conducted trustee's sale
+  facts:
+     - "Rejected Plaintiff's bid."
+     - "Offered to return funds."
+     - "Demurred to the complaint."
+people_names:
+  - Crystal R. Davieau (Counsel for Defendant)
+  - Randolph M. Hammock (Judge)
+company_names:
+  - CIC Inc.
+  - Prestige Default Services, LLC
+  - Serra Trust
+places:
+  - "Residential home (subject of trustee's sale)"
+  - "Superior Court, Department 49"
+dates:
+  - December 28, 2022: Trustee's sale conducted.
+  - January 3, 2023:  Plaintiff submitted intent to bid.
+  - February 13, 2023: Plaintiff tendered written bid and cashier's check.
+  - August 21, 2023:  Initial hearing date, continued.
+  - September 11, 2023: Plaintiff filed supplemental brief.
+  - September 18, 2023: Hearing Date and Tentative Ruling Date.
+events:
+  - "Trustee's sale"
+  - "Submission of bid"
+  - "Rejection of bid"
+  - "Filing of complaint"
+  - "Demurrer to complaint"
+  - "Hearing on demurrer"
+  - "Court ordered supplemental briefing."
+  - "Tentative ruling issued"
+money:
+  - 471101.00:  Amount of Plaintiff's bid.
+intentions:
+  Plaintiff: "To obtain the property through specific performance."
+  Defendant: "To have the complaint dismissed."
+  Court: "To rule on the demurrer, considering statutory interpretation and procedural rules."
+facts:
+  - "Plaintiff was the sole bidder."
+  - "Plaintiff's bid met the financial requirements."
+  - "Defendant rejected the bid."
+  -  The Court continued from 8/21/23, ordered, read, and considered Plaintiff's supplemental brief.
+disputes:
+  - "Whether Plaintiff's bid was wrongfully rejected."
+  - "Whether Plaintiff has stated a valid cause of action for specific performance."
+  - "Whether Plaintiff has standing to bring the action."
+  - "Whether there is a defect or misjoinder of parties."
+  - "Whether statutory requirements were met."
+acts:
+  - "Defendant's rejection of Plaintiff's bid."
+  -  Defendant's Demurrer.
+  -  Plaintiff's opposition.
+agreements:
+  - "No explicit contract, but the bidding process under Civil Code section 2924m is treated as creating an obligation."
+laws:
+  - California Civil Code § 2924m:  Governs the post-trustee's sale bidding process.
+  - CCP § 430.30(a):  Grounds for demurrer (defects on face of pleading or judicial notice).
+  - CCP § 430.30(b):  Objections not on face of pleading taken by answer.
+case_citations:
+  - "Hahn v. Mirda (2007) 147 Cal. App. 4th 740, 747"
+  - "Taylor v. City of Los Angeles Dept. of Water and Power (2006) 144 Cal. App. 4th 1216, 1228"
+  - "SKF Farms v. Superior Court (1984) 153 Cal. App. 3d 902, 905"
+  - "Covenant Care, Inc. v. Superior Ct. (2004) 32 Cal. 4th 771, 790"
+  - "Fox v. JAMDAT Mobile, Inc., 185 Cal. App. 4th 1068, 1078"
+  - "Darbun Enterprises, Inc. v. San Fernando Cmty. Hosp. (2015) 239 Cal. App. 4th 399, 409"
+  - "Real Est. Analytics, LLC v. Vallas (2008) 160 Cal. App. 4th 463, 472"
+  - "People v. McHenry (2000) 77 Cal. App. 4th 730, 732"
+  - "Royal Surplus Lines Ins. Co. v. Ranger Ins. Co. (2002) 100 Cal. App. 4th 193, 198"
+  - "Nava v. McMillan (1981) 123 Cal. App. 3d 262, 264"
+  - "Contractors' State License Bd. v. Superior Court (2018) 23 Cal.App.5th 125, 131"
+  - "St. Mary v. Superior Court (2014) 223 Cal.App.4th 762, 783"
+
+statutes:
+  - California Civil Code § 2924m
+  - CCP § 430.30(a)
+  - CCP § 430.30(b)
+roles:
+  - Plaintiff:  Bidder, seeking specific performance.
+  - Defendant:  Trustee service, demurring to the complaint.
+  - Judge:  Ruling on the demurrer.
+significant_statements:
+  - "Defendant’s Demurrer to the Complaint is OVERRULED."
+  - "Plaintiff is ordered to file an Answer within 21 days of this ruling."
+  - "Moving party to give notice, unless waived."
+  - "The court agrees with [Plaintiff's] position." (Regarding standing)
+  -  The court doubts the legislature intended that result.
+  -  The court therefore finds that Plaintiff has standing.
+  -  "There is no indication from the complaint...suggesting that someone other than Defendant holds title."
+  - "Any party may submit on the tentative ruling..."
+  -  IT IS SO ORDERED.
+
+```
+
+English Text Summary of the Tentative Ruling:
+
+Judge Randolph M. Hammock issued a tentative ruling OVERRULING the demurrer filed by Defendant Prestige Default Services, LLC.  The Plaintiff, CIC Inc. (acting as trustee for the Serra Trust), sued for specific performance after Prestige rejected their bid on a property following a trustee's sale, despite CIC Inc. being the only bidder and submitting the required funds. Prestige argued that CIC Inc. hadn't properly pleaded the statutory cause of action, lacked standing to sue for specific performance, and that there was a missing necessary party (the current property owner). The judge, after requesting and reviewing supplemental briefing, found that CIC Inc. *had* sufficiently alleged compliance with California Civil Code § 2924m (which governs post-sale bidding), *did* have standing to sue for specific performance (even though the statute mentions enforcement by public officials, it doesn't preclude private parties), and that the alleged missing party issue wasn't apparent on the face of the complaint. Therefore, the demurrer was overruled, and CIC Inc. was ordered to file an answer to the complaint within 21 days. The moving party (Prestige) is responsible for giving notice of the ruling.

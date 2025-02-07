@@ -385,3 +385,192 @@ roles:
 significant\_statements:
   - The court requests Plaintiff to provide a computation of interest using an interest rate that is in conformity with the state law
   - Should Plaintiff provide a supplemental declaration within a reasonable time prior to the hearing, the court will grant the application during the hearing, subject to the filing of a new/modified proposed order.
+..................... .....................
+On 2025-02-06_21:51:36.502453
+The summary displayed below was created by an LLM named:  "gemini-2.0-flash-exp":
+```yaml
+Case Number: "23PSCV01427"
+Plaintiff's Name: "BMO HARRIS BANK N.A"
+Defendant's Name: "ZYG WORLD INC, YURONG LIN"
+People-Names:
+  - "YURONG LIN"
+  - "Schrepel"
+Company-Names:
+  - "BMO HARRIS BANK N.A"
+  - "ZYG WORLD INC"
+Places:
+  - "California"
+Dates:
+  - "May 11, 2023"
+  - "May 26, 2023"
+  - "July 21, 2023"
+  - "August 2, 2023"
+  - "September 18, 2023"
+  - "September 28, 2023"
+Events:
+  - "Filing of Suit"
+  - "Filing of Applications for Writ of Possession"
+  - "Entry of Default"
+  - "Filing of Application for Default Judgment"
+  - "Hearing on ZYG's Application for Writ of Possession"
+  - "Hearing on Lin's Application for Writ of Possession"
+Money:
+  - "201,026.56"
+  - "177,983.37"
+  - "13,761.60"
+  - "3,669.83"
+  - "685.54"
+  - "4,926.22"
+  - "55,280.95"
+  - "4,799.54"
+  - "122,702.42"
+  - "10,868.28"
+Intentions:
+  - "Plaintiff seeks entry of default judgment against Defendants."
+  - "Court intends to grant the application during the hearing if Plaintiff provides supplemental declaration."
+Facts:
+  - "Plaintiff and Defendants entered into two Loan and Security Agreements."
+  - "Defendants have defaulted on both agreements."
+  - "Default was entered against Defendants on July 21, 2023."
+Disputes:
+  - "The appropriate interest rate to be applied."
+Acts:
+  - "Breach of Written Agreement"
+  - "Breach of Continuing Guaranty"
+  - "Claim and Delivery"
+  - "Conversion"
+Agreements:
+  - "Loan and Security Agreements"
+Laws:
+  - "California Constitution, article XV, section 1 (regarding interest rates)"
+Case Citations: ~
+Statutes: ~
+Roles:
+  - "Plaintiff: BMO HARRIS BANK N.A"
+  - "Defendant: ZYG WORLD INC, YURONG LIN"
+Significant Statements:
+  - "Plaintiff's Application for Entry of Default Judgment is DENIED without prejudice re: interest and evidence of repossession costs."
+  - "Writ of Possession Re: ZYG World Inc. is TBD/MOOT."
+  - "The court requests Plaintiff to provide a computation of interest using an interest rate that is in conformity with the state law."
+  - "Should Plaintiff provide this supplemental declaration within a reasonable time prior to the hearing, the court will grant the application during the hearing, subject to the filing of a new/modified proposed order."
+```
+
+**Summary in English Text:**
+
+This is a tentative ruling for Case Number 23PSCV01427, scheduled for a hearing on September 18, 2023.  BMO Harris Bank N.A., the plaintiff, is seeking a default judgment against ZYG World Inc. and Yurong Lin, the defendants, for defaulting on two loan agreements. The Judge is denying the plaintiff's application for default judgment without prejudice, specifically regarding the calculation of interest and the evidence of repossession costs.  The Judge is questioning the plaintiff's proposed 18% interest rate, stating it may violate California law. The Judge is asking the plaintiff to submit a supplemental declaration with a corrected interest calculation and proof of repossession fees. If the plaintiff provides this information before the hearing, the Judge will likely grant the default judgment, rendering the pending writ of possession applications moot.
+..................... .....................
+On 2025-02-06_21:52:24.989782
+The summary displayed below was created by an LLM named:  "gemini-2.0-pro-exp":
+```yaml
+case_number: 23PSCV01427
+hearing_date: 2023-09-18
+department: O
+
+plaintiff:
+  name: BMO HARRIS BANK N.A.
+
+defendants:
+  - name: ZYG WORLD INC.
+    type: corporation
+    state: California
+  - name: YURONG LIN
+    type: individual
+
+people_names:
+  - YURONG LIN
+
+company_names:
+  - BMO HARRIS BANK N.A.
+  - ZYG WORLD INC.
+
+places:
+  - California
+
+dates:
+  - 2023-05-11: Filing of lawsuit
+  - 2023-05-26: Plaintiff filed two applications for writ of possession
+  - 2023-07-21: Default entered against Defendants
+  - 2023-08-02: Plaintiff filed application for default judgment
+  - 2023-09-18: Hearing date for ZYG WORLD INC's writ of possession application
+  - 2023-09-28: Scheduled hearing date for LIN's writ of possession application.
+
+events:
+  - Loan and Security Agreements entered into.
+  - Defendants defaulted on the loans.
+  - Lawsuit filed.
+  - Applications for writ of possession filed.
+  - Default entered against defendants.
+  - Application for default judgment filed.
+  - Tentative ruling issued.
+
+money:
+  total_requested: $201,026.56
+  damages: $177,983.37
+  prejudgment_interest: $13,761.60  (Disputed, needs recalculation)
+  attorney_fees: $3,669.83
+  filing_fees: $685.54
+  repossession_costs: $4,926.22 (Needs evidence)
+  principal_due_agreement_0001: $55,280.95
+  interest_fees_agreement_0001: $4,799.54
+  principal_due_agreement_7001: $122,702.42
+  interest_fees_agreement_7001: $10,868.28
+  requested_interest_rate: 18% (Disputed)
+  legal_interest_rate: 10%
+
+intentions:
+  plaintiff:
+    - Obtain default judgment.
+    - Recover outstanding loan amounts, interest, fees, and costs.
+    - Obtain writ of possession.
+  judge:
+    - Deny default judgment without prejudice, pending further information.
+    - Potentially grant default judgment if supplemental declaration is provided.
+    - Render writ of possession applications moot if default judgment is granted.
+
+facts:
+  - Two Loan and Security Agreements exist.
+  - Defendants defaulted on both agreements.
+  - Default was entered against the defendants.
+
+disputes:
+  - Interest rate calculation (18% vs. 10% legal limit).
+  - Lack of evidence for repossession costs.
+
+acts:
+  - Breach of Written Agreement
+  - Breach of Continuing Guaranty
+  - Claim and Delivery
+  - Conversion
+
+agreements:
+  - Two Loan and Security Agreements (numbered #0001 and #7001)
+
+laws:
+  - California Constitution, article XV, section 1 (limits interest rates)
+
+case_citations: [] # None explicitly mentioned in this excerpt
+
+statutes: [] # None explicitly mentioned, but CA Constitution Art XV, Sec 1 is key
+
+roles:
+  - Plaintiff: BMO HARRIS BANK N.A.
+  - Defendant: ZYG WORLD INC., YURONG LIN
+  - Judge: (Unidentified, author of the tentative ruling)
+
+significant_statements:
+  - "Plaintiff BMO HARRIS BANK N.A’s APPLICATION FOR ENTRY OF DEFAULT JUDGMENT is DENIED without prejudice re: interest and evidence of repossession costs; but see ‘Conclusion’ section below."
+  -  "Writ of Possession Re: ZYG World Inc. is TBD/MOOT."
+  - "California Constitution, article XV, section 1 limits the interest rate...to the higher of: (1) 10 percent per annum."
+  - "Should Plaintiff provide this supplemental declaration within a reasonable time prior to the hearing, the court will grant the application during the hearing, subject to the filing of a new/modified proposed order."
+  - "Effectively, should the court grant the application for entry of default judgment, that would render the applications for writ of possession moot."
+```
+
+**English Text Summary of Tentative Ruling:**
+
+The Judge has tentatively DENIED BMO Harris Bank's application for a default judgment against ZYG World Inc. and Yurong Lin.  The denial is "without prejudice," meaning the bank can reapply. The Judge has two main issues:
+
+1.  **Incorrect Interest Calculation:** The bank requested an 18% interest rate on the defaulted loans.  California law limits this to 10%. The Judge wants the bank to recalculate the interest owed using the legal rate.
+
+2.  **Missing Evidence:** The bank claimed $4,926.22 in repossession costs but didn't provide any documentation to prove these costs.
+
+The Judge has instructed the bank to submit a supplemental declaration before the hearing. This declaration must include: (1) proof of the repossession costs, and (2) a revised calculation of the interest owed, using the 10% legal limit. If the bank provides this information, the Judge will likely *grant* the default judgment at the hearing. If the default judgment is granted, the bank's separate requests for a writ of possession (the right to seize property) will become unnecessary (moot). The hearing for the Writ of Possession for Defendant Lin is scheduled for September 28, 2023.

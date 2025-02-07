@@ -394,3 +394,214 @@ significant\_statements:
 
 Summary:
 The Judge's tentative ruling addresses Defendants' demurrers and motions to strike related to the case between Plaintiff Margarita Isais de Rodriguez and Defendants Utopia Management, Inc. and Rochelle Kiner. The Judge overrules the demurrer for the lost wages claim, as it falls under the three-year statute of limitations for property claims. However, the demurrer is sustained without leave to amend for the seventh cause of action (IIED), as emotional distress is a personal injury subject to the two-year statute of limitations. The motion to strike is denied for loss of income but granted for allegations of emotional and physical distress. Lastly, the motion to strike is denied for punitive damages, as Plaintiff has adequately pled malicious conduct.
+..................... .....................
+On 2025-02-06_22:08:21.523143
+The summary displayed below was created by an LLM named:  "gemini-2.0-flash-exp":
+```yaml
+case_number: "23STCV06861"
+plaintiff_name: "Margarita Isais de Rodriguez"
+defendant_names:
+  - "Utopia Management, Inc."
+  - "Rochelle Kiner"
+people_names:
+  - "Margarita Isais de Rodriguez"
+  - "Rochelle Kiner"
+company_names:
+  - "Utopia Management, Inc."
+places:
+  - "Subject Property"
+dates:
+  - "March 29, 2023"
+  - "July 17, 2023"
+  - "March 2019"
+  - "September 2020"
+  - "November 2020"
+  - "August 16, 2023"
+  - "August 5, 2023"
+  - "September 11, 2023"
+  - "September 18, 2023"
+events:
+  - "Electrical fire in November 2020"
+  - "Filing of First Amended Complaint (FAC) on July 17, 2023"
+  - "Filing of lawsuit on March 29, 2023"
+  - "Defendants filed demurrers and motions to strike on August 16, 2023"
+  - "Plaintiff filed opposition on August 5, 2023"
+  - "Defendants filed their reply on September 11, 2023"
+money:
+  - "Punitive Damages"
+intentions:
+  - "Plaintiff's intention to seek compensation for damages, including lost wages, property damage, and emotional distress."
+  - "Defendants' intention to demur and strike portions of the complaint."
+facts:
+  - "Plaintiff was a tenant in a property owned and managed by Defendants."
+  - "Plaintiff experienced substandard and dangerous conditions in the property."
+  - "Plaintiff notified Defendants of the conditions, but they were allegedly ignored or not properly addressed."
+  - "An electrical fire occurred, destroying the premises and Plaintiff's belongings."
+disputes:
+  - "Statute of limitations for lost wages claim (whether it's a personal injury or property damage claim)."
+  - "Whether the Plaintiff's lost wages claim stems from destruction of property rather than personal injury."
+  - "Whether punitive damages are warranted."
+acts:
+  - "Defendants allegedly failed to address dangerous conditions in the property."
+  - "Defendants hired an unqualified electrician, which allegedly led to the fire."
+  - "Plaintiff filed a lawsuit and amended complaint."
+  - "Defendants filed demurrers and motions to strike."
+agreements:
+  - "Defendants complied with the meet and confer requirement."
+laws:
+  - "Code of Civil Procedure § 335.1 (two-year statute of limitations for personal injury)"
+  - "Code of Civil Procedure § 338(b), (c)(1) (three-year statute of limitations for property damage)"
+  - "Code of Civil Procedure §§ 430.30, 435, 436, 437, 430.41, 435.5"
+  - "Civil Code, § 3294, subd. (a) (punitive damages)"
+case_citations:
+  - "Hahn v. Mirda (2007) 147 Cal.App.4th 740, 747"
+  - "Taylor v. City of Los Angeles Dept. of Water and Power (2006) 144 Cal.App.4th 1216, 1228"
+  - "SKF Farms v. Superior Court (1984) 153 Cal.App.3d 902, 905"
+  - "McKinney v. California Portland Cement Co. (2002) 96 Cal.App.4th 1214, 1231"
+  - "Bonneau v. North S. R. Co. (1907) 152 Cal. 406, 408"
+  - "Connolly v. Pre-Mixed Concrete Co. (1957) 49 Cal.2d 483"
+  - "Beeman v. Burling (1990) 216 Cal.App.3d 1586, 1599"
+  - "Pugliese v. Superior Court (2007) 146 Cal.App.4th 1444, 1450"
+statutes:
+  - "Code Civ. Proc., § 430.30, subd. (a)"
+roles:
+  - "Plaintiff: Margarita Isais de Rodriguez"
+  - "Defendants: Utopia Management, Inc., Rochelle Kiner"
+  - "Judge"
+significant_statements:
+  - "Defendants themselves acknowledge that the statute of limitations issue only applies “to the extent that the loss of earning capacity/loss of wages is rooted in plaintiff’s personal injury claims arising from the fire incident.”"
+  - "An injury is personal when it impairs the well-being or the mental or physical health of the victim."
+
+```
+
+**English Summary:**
+
+This is a tentative ruling by a judge regarding demurrers and motions to strike filed by the defendants, Utopia Management, Inc. and Rochelle Kiner, in a case brought by the plaintiff, Margarita Isais de Rodriguez. The case stems from alleged negligence and substandard conditions at a property managed by the defendants where the plaintiff was a tenant, culminating in an electrical fire that destroyed her belongings.
+
+The judge overrules the demurrer regarding the plaintiff's claim for lost wages, finding that it is based on property damage and therefore falls under the three-year statute of limitations. However, the judge sustains the demurrer regarding the intentional infliction of emotional distress claim, finding it is a personal injury claim subject to a two-year statute of limitations, and denies leave to amend.
+
+The judge denies the motion to strike the claim for loss of income, but grants the motion to strike allegations of emotional and physical distress. The motion to strike punitive damages is denied, as the judge finds that the plaintiff has adequately alleged malicious conduct by the defendants.
+..................... .....................
+On 2025-02-06_22:09:15.971149
+The summary displayed below was created by an LLM named:  "gemini-2.0-pro-exp":
+```yaml
+case_number: 23STCV06861
+hearing_date: 2023-09-18
+department: 32
+
+plaintiff:
+  name: Margarita Isais de Rodriguez
+
+defendants:
+  - name: Utopia Management, Inc.
+  - name: Rochelle Kiner
+
+people_names:
+  - Margarita Isais de Rodriguez
+  - Rochelle Kiner
+  - Vasandani (likely author of declaration)
+
+company_names:
+  - Utopia Management, Inc.
+
+places:
+  - Subject Property (rental property, location not specified)
+  - Court Department 32
+
+dates:
+  - 2019-03:  Plaintiff's tenancy began.
+  - 2020-09:  Plaintiff requested electrician.
+  - 2020-11:  Electrical fire occurred.
+  - 2023-03-29:  Plaintiff initiated the action.
+  - 2023-07-17: First Amended Complaint (FAC) filed.
+  - 2023-08-16: Defendants filed demurrers and motions to strike.
+  - 2023-08-05: Plaintiff filed opposition.  (TYPO IN ORIGINAL, should be Sept 5)
+  - 2023-09-11: Defendants filed reply.
+  - 2023-09-18: Hearing date.
+
+events:
+  - Tenancy: Plaintiff's residency at the Subject Property.
+  - Complaints/Notices: Plaintiff's reports of substandard conditions.
+  - Power Outages: Electrical problems at the property.
+  - Electrical Fire:  The fire that destroyed the premises and Plaintiff's belongings.
+  - Lawsuit Filing:  The initiation of the legal action.
+  - Demurrers/Motions: Defendants' legal challenges to the complaint.
+  - Opposition/Reply: Plaintiff and defendant's responses to motions
+
+money:
+  - Lost Wages:  Plaintiff's claim for lost income.
+  - Punitive Damages: Plaintiff's request for additional damages to punish Defendants.
+
+intentions:
+  - Plaintiff: To recover damages for losses due to the fire and conditions.
+  - Defendants: To dismiss parts of the complaint and strike certain claims.
+  - Defendants (alleged by Plaintiff):  To disregard Plaintiff's rights and safety (malice).
+
+facts:
+  - Plaintiff was a tenant of Defendants.
+  - Property had multiple alleged substandard conditions.
+  - Plaintiff reported the conditions to Defendants.
+  - An electrical fire occurred, destroying the property and Plaintiff's belongings.
+  - Plaintiff claims lost wages due to property destruction.
+  - Plaintiff claims emotional distress
+  - Defendants hired an unqualified electrician (according to Plaintiff).
+
+disputes:
+  - Statute of Limitations: Whether the claims for lost wages and IIED are time-barred.
+  - Nature of Damages: Whether lost wages are personal injury or property damage.
+  - Sufficiency of Pleadings: Whether the complaint adequately states causes of action.
+  - Punitive Damages: Whether the facts support a claim for punitive damages.
+
+acts:
+  - Negligence (alleged): Defendants' failure to maintain the property.
+  - Breach of Warranty (alleged): Failure to provide habitable premises.
+  - Breach of Covenant (alleged): Interference with Plaintiff's quiet enjoyment.
+  - Nuisance (alleged):  Maintenance of a private nuisance.
+  - Unfair Business Practices (alleged)
+  - Conversion (alleged)
+  - Intentional Infliction of Emotional Distress (IIED) (alleged)
+  - Filing of Demurrers and Motions to Strike: Defendants' legal actions.
+
+agreements:
+  - Lease Agreement (implied):  The agreement governing Plaintiff's tenancy.
+
+laws:
+  - Code of Civil Procedure (CCP) Section 335.1: Two-year statute of limitations for personal injury.
+  - CCP Section 338(b): Three-year statute of limitations for trespass/injury to real property.
+  - CCP Section 338(c)(1): Three-year statute of limitations for injury to goods/chattels.
+  - CCP Section 430.30(a): Grounds for demurrer.
+  - CCP Section 435: Motion to strike.
+  - CCP Section 436: Grounds for motion to strike.
+  - CCP Section 437: Grounds for motion to strike (judicial notice).
+  - CCP Section 430.41, 435.5: Meet and confer requirements.
+  - Civil Code Section 3294(a): Punitive damages.
+  - Civil Code Section 3294(c)(1),(2),(3) Definitions of Malice, Oppresion and Fraud
+
+case_citations:
+  - *Hahn v. Mirda* (2007) 147 Cal.App.4th 740, 747
+  - *Taylor v. City of Los Angeles Dept. of Water and Power* (2006) 144 Cal.App.4th 1216, 1228
+  - *SKF Farms v. Superior Court* (1984) 153 Cal.App.3d 902, 905
+  - *McKinney v. California Portland Cement Co.* (2002) 96 Cal.App.4th 1214, 1231
+  - *Bonneau v. North S. R. Co.* (1907) 152 Cal. 406, 408
+  - *Connolly v. Pre-Mixed Concrete Co.* (1957) 49 Cal.2d 483
+  - *Beeman v. Burling* (1990) 216 Cal.App.3d 1586, 1599
+  - *Pugliese v. Superior Court* (2007) 146 Cal.App.4th 1444, 1450
+
+statutes:
+ (See "Laws")
+
+roles:
+  - Plaintiff: Tenant, suing for damages.
+  - Defendants: Landlord/Property Manager, being sued.
+  - Judge:  Deciding on the motions.
+  - Electrician: Hired by defendants (allegedly unqualified).
+
+significant_statements:
+  - "Defendants themselves acknowledge that the statute of limitations issue only applies 'to the extent that the loss of earning capacity/loss of wages is rooted in plaintiff’s personal injury claims arising from the fire incident.'"
+  -  "...emotional distress is a personal injury subject to the two-year statute of limitations."
+  - "Plaintiff has adequately pled malicious conduct by alleging that Defendants knew about the dangerous conditions but refused to address them."
+```
+
+**Summary of the Judge's Tentative Ruling in English:**
+
+The judge issued a tentative ruling on the defendants' (Utopia Management, Inc. and Rochelle Kiner) motions to dismiss parts of the lawsuit and strike certain claims brought by the plaintiff (Margarita Isais de Rodriguez), a former tenant. The judge OVERRULED the demurrer related to the plaintiff's claim for lost wages.  The judge reasoned that because the lost wages stemmed from damage to the property (the fire), the three-year statute of limitations for property damage applied, not the two-year limit for personal injury. The judge SUSTAINED the demurrer related to the plaintiff's claim for Intentional Infliction of Emotional Distress (IIED), because that is considered a personal injury and is therefore time-barred by the two-year statute of limitations. The judge DENIED the motion to strike the claim for lost income, for the same reason as the demurrer was overruled. The Judge GRANTED the motion to strike claims related to emotional and physical distress, consistent with the IIED ruling. The Judge DENIED the motion to strike the request for punitive damages, finding that the plaintiff had sufficiently alleged facts that, if proven, could show the defendants acted with malice. In summary, the plaintiff's case can proceed, but she cannot claim damages for emotional distress or physical injury, only for lost wages and property damage, and she may pursue punitive damages.

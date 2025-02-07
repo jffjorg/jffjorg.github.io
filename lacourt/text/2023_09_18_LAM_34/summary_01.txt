@@ -266,3 +266,119 @@ roles:
 
 summary:
 The judge's tentative ruling is a dismissal of the case without prejudice, as the plaintiff was unable to serve the defendant. The plaintiff attempted service 12 times in May 2023 and 13 times in June 2023, but no attempts were made in the past two months. The court previously warned that failure to serve the defendant by the hearing date would result in dismissal, which occurred on September 18, 2023.
+..................... .....................
+On 2025-02-06_22:09:56.437840
+The summary displayed below was created by an LLM named:  "gemini-2.0-flash-exp":
+Okay, here's the YAML summary and the plain English summary of the judge's tentative ruling:
+
+**YAML Summary:**
+
+```yaml
+Case Number: 22STCV33955
+Plaintiff's Name:  (Not explicitly stated, but assumes Plaintiff exists)
+Defendant's Name: (Not explicitly stated, but assumes Defendant exists)
+People-Names:  (None explicitly stated)
+Company-Names: (None explicitly stated)
+Places: Court (Dept 34)
+Dates:
+  - October 20, 2022 (Case Filing Date)
+  - May 16, 2023 (Case Management Conference)
+  - July 17, 2023 (Case Management Conference)
+  - September 18, 2023 (Hearing Date/Case Management Conference)
+Events:
+  - Case Filing
+  - Case Management Conferences (x4)
+  - Unsuccessful attempts to serve Defendant
+Money: (None explicitly stated)
+Intentions:
+  - Judge's intention to dismiss the case if service not completed by the hearing date.
+Facts:
+  - Case filed October 20, 2022.
+  - Four Case Management Conferences held.
+  - Plaintiff has repeatedly failed to serve the Defendant.
+  - Plaintiff stated 13 unsuccessful attempts to serve defendant.
+  - No attempts to serve Defendant in the past two months.
+Disputes:  Failure to serve the defendant.
+Acts:
+  - Plaintiff's repeated attempts to serve Defendant (unsuccessful).
+  - Court's warning about dismissal.
+  - Court's dismissal of the case.
+Agreements: (None explicitly stated)
+Laws: (None explicitly stated)
+Case Citations: (None explicitly stated)
+Statutes: (None explicitly stated)
+Roles:
+  - Judge: Making the ruling/order.
+  - Plaintiff:  Filing the case, attempting service.
+  - Defendant:  Not served.
+Significant Statements:
+  - "If Plaintiff fails to serve the case by the above-mentioned hearing date, the Court will dismiss the case."
+  - "Defendant has not been served, nor have any attempts been made to serve Defendant in almost three months."
+  - "The case is dismissed without prejudice."
+```
+
+**English Text Summary:**
+
+The judge is dismissing case number 22STCV33955 without prejudice because the plaintiff has failed to serve the defendant after numerous attempts.  The case was filed on October 20, 2022, and despite multiple Case Management Conferences, the defendant has not been successfully served.  At a previous hearing on July 17, 2023, the judge warned that the case would be dismissed if service was not completed by the September 18, 2023, hearing. Since no attempts to serve the defendant have been made in the past two months, the judge is now dismissing the case.
+..................... .....................
+On 2025-02-06_22:10:41.459581
+The summary displayed below was created by an LLM named:  "gemini-2.0-pro-exp":
+```yaml
+case_number: 22STCV33955
+hearing_date: 2023-09-18  #  ISO 8601 format for dates
+department: 34
+plaintiff_name:  #  Not explicitly stated, but referred to as "Plaintiff"
+defendant_name:  #  Not explicitly stated, but referred to as "Defendant"
+people_names:
+  - Plaintiff
+  - Defendant
+company_names: []
+places:
+  - Court Department 34
+dates:
+  - 2022-10-20  # Case filing date
+  - 2023-05-16  # Case Management Conference (CMC)
+  - 2023-05-01 # Date of Plaintiff's first case management statement
+  - 2023-07-17  # CMC
+  - 2023-06-27 #Date of Plaintiff's second case management statement.
+  - 2023-09-18  # CMC and Tentative Ruling date
+events:
+  - Case Filing
+  - Case Management Conference (multiple)
+  - Attempted Service (multiple, unsuccessful)
+  - Court Order (dismissal)
+money: [] #No Money is mentioned.
+intentions:
+  - Plaintiff: To serve the Defendant.
+  - Court: To dismiss the case if service was not completed.
+facts:
+  - Plaintiff attempted service on Defendant 12 times (as of May 16, 2023).
+  - Plaintiff attempted service on Defendant 13 times (as of July 17, 2023, and again stated on September 18, 2023).
+  - No service attempts were made between July 17, 2023, and September 18, 2023.
+  - Defendant has not been served.
+disputes:
+  - Underlying dispute not described in the provided text.  The presented dispute is about *serving* the defendant.
+acts:
+  - Filing of the case.
+  - Attempting service.
+  - Filing Case Management Statements (CMS).
+agreements: [] # No agreements mentioned.
+laws: [] # No specific laws cited.  Implied: rules of civil procedure regarding service.
+case_citations: []
+statutes: []
+roles:
+  - Plaintiff:  The party initiating the lawsuit.
+  - Defendant: The party being sued.
+  - Court/Judge:  The authority overseeing the case.
+significant_statements:
+  - "If Plaintiff fails to serve the case by the above-mentioned hearing date, the Court will dismiss the case." (Court's statement on July 17, 2023)
+  - "The case is dismissed without prejudice." (Court's ruling on September 18, 2023)
+  - "Plaintiff informed the Court that he had unsuccessfully attempted service on Defendant “has attempted eight (12) times to serve her to no avail.”
+  - "Plaintiff informed the Court that he had unsuccessfully attempted service on Defendant 13 times."
+  - "there have been no attempts to serve Defendant during the past two months."
+
+```
+
+**English Text Summary of the Tentative Ruling:**
+
+The Judge dismissed the case (number 22STCV33955) without prejudice. This means the Plaintiff can refile the case later. The dismissal was due to the Plaintiff's failure to serve the Defendant with the lawsuit. The Plaintiff had reported multiple unsuccessful attempts to serve the Defendant at previous Case Management Conferences (CMCs). At the CMC on July 17, 2023, the Court warned that the case would be dismissed if the Defendant was not served by the next hearing. As of the September 18, 2023 hearing, the Defendant had still not been served, and no attempts at service had been made in almost three months. Therefore, the Judge dismissed the case.

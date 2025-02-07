@@ -402,3 +402,208 @@ significant\_statements:
 
 Summary:
 The Judge's tentative ruling grants the Defendant's Motion to Compel Arbitration in a dispute arising from the Plaintiff's purchase of windows from the Defendant. The case is stayed pending the conclusion of arbitration, and a post-arbitration Status Conference is set for November 25, 2024. The Plaintiff had signed a contract containing an arbitration provision and did not opt-out within 90 days of purchase. No fraud or rescission of the contract is found, and the arbitration provision applies to disputes arising out of or relating to the purchased products.
+..................... .....................
+On 2025-02-06_22:11:24.508046
+The summary displayed below was created by an LLM named:  "gemini-2.0-flash-exp":
+```yaml
+summary:
+  Case Number: 23STCV15703
+  Plaintiff's Name: Norma Sarkin
+  Defendant's Name: Pella Window and Door Showroom of South Pasadena
+  People-Names:
+    - Norma Sarkin
+    - Jonathan Gonzalez
+  Company-Names:
+    - Pella Window and Door Showroom of South Pasadena
+    - Pella
+    - Lucky Chances, Inc.
+    - Permanente Med. Group, Inc.
+    - Ericksen, Arbuthnot, McCarthy, Kearney & Walsh, Inc.
+  Places:
+    - South Pasadena
+  Dates:
+    - July 6, 2023
+    - August 11, 2023
+    - August 29, 2023
+    - September 1, 2023
+    - September 5, 2023
+    - September 11, 2023
+    - September 18, 2023
+    - June 13, 2022
+    - November 25, 2024
+  Events:
+    - Filing of Complaint
+    - Filing of Motion to Compel Arbitration
+    - Filing of Notice of Non-Opposition
+    - Late Filing of Opposition Documents
+    - Continued Hearing on Motion
+    - Filing of Reply
+    - Hearing on Motion to Compel Arbitration
+    - Post-Arbitration Status Conference
+  Money: N/A
+  Intentions:
+    - Defendant intends to compel arbitration.
+    - Plaintiff intends to oppose arbitration.
+    - Court intends to grant motion to compel arbitration.
+  Facts:
+    - Plaintiff purchased windows from Defendant.
+    - Contract containing arbitration provision was signed by Plaintiff.
+    - Plaintiff filed a complaint against defendant related to purchase of windows.
+    - Windows were allegedly non-conforming.
+    - Defendant filed a motion to compel arbitration, based on written contract with Plaintiff.
+  Disputes:
+    - Whether the arbitration provision applies given the nature of the dispute.
+    - Whether there are grounds for rescission of the contract.
+    - Whether Plaintiff took ownership of the goods.
+  Acts:
+    - Purchase of windows.
+    - Signing of contract.
+    - Filing of complaint.
+    - Filing of motion to compel arbitration.
+    - Filing of opposition to motion.
+    - Filing of reply to opposition.
+  Agreements:
+    - Arbitration agreement included in contract between Plaintiff and Defendant.
+  Laws:
+    - California Code of Civil Procedure sections 1281, 1281.2.
+    - California Civil Code section 1689, subd. (b)(1).
+  Case Citations:
+    - Tiri v. Lucky Chances, Inc. (2014) 226 Cal.App.4th 231, 239
+    - Ericksen, Arbuthnot, McCarthy, Kearney & Walsh, Inc. v. 100 Oak Street (1983) 35 Cal.3d 312, 323
+    - Engalla v. Permanente Med. Group, Inc. (1997) 15 Cal.4th 951, 973
+  Statutes:
+    - Code Civ. Proc., § 1281
+    - Code Civ. Proc., § 1281.2
+    - Civ. Code, § 1689, subd. (b)(1)
+  Roles:
+    - Judge: Deciding on the motion to compel arbitration.
+    - Plaintiff: Purchaser of windows, opposing arbitration.
+    - Defendant: Seller of windows, seeking arbitration.
+  Signifcant Statements:
+    - "The Motion is GRANTED."
+    - "This matter is STAYED pending the conclusion of arbitration."
+    - "The Court considers rescission of the contract prior to considering enforceability of the contract, as rescission of the contract would moot the issue of its enforceability."
+    - "Here, there are no allegations or evidence of fraud that go specifically to the making of the agreement to arbitrate. Thus, there is no basis here for rescinding the arbitration provision."
+    - "The 90-day period to opt out began from the date of purchase, and there is no dispute that the date of purchase was June 13, 2022. The 90-day period has long come and gone, and there is no allegation or evidence that Plaintiff opted out during that period and in the manner allowed by the arbitration provision."
+
+english_summary: |
+  The Judge is granting the Defendant's motion to compel arbitration in the case between Norma Sarkin and Pella Window and Door Showroom of South Pasadena. The Judge finds that a valid arbitration agreement exists between the parties and that Plaintiff's arguments against arbitration, including claims of fraud and rejection of non-conforming goods, are not sufficient to overcome the agreement. Specifically, the judge explains that there are no allegations or evidence of fraud related to the arbitration agreement itself, and that the 90-day window to opt-out of the arbitration agreement has long passed. The case is stayed pending the conclusion of arbitration, and a post-arbitration status conference is scheduled for November 25, 2024.
+```
+..................... .....................
+On 2025-02-06_22:12:13.141656
+The summary displayed below was created by an LLM named:  "gemini-2.0-pro-exp":
+```yaml
+case_number: 23STCV15703
+hearing_date: 2023-09-18
+department: 34
+subject: Motion to Compel Arbitration
+
+plaintiff:
+  name: Norma Sarkin
+  role: Plaintiff
+
+defendant:
+  name: Pella Window and Door Showroom of South Pasadena
+  role: Defendant, Moving Party
+
+people_names:
+  - Norma Sarkin
+  - Jonathan Gonzalez
+
+company_names:
+  - Pella Window and Door Showroom of South Pasadena
+  - Pella (and subsidiaries)
+  - Lucky Chances, Inc.
+  - Ericksen, Arbuthnot, McCarthy, Kearney & Walsh, Inc.
+  - 100 Oak Street
+  - Permanente Med. Group, Inc.
+
+places:
+  - South Pasadena
+  - www.pella.com/arbitration
+
+dates:
+  contract_date: 2022-06-13
+  complaint_filed: 2023-07-06
+  motion_filed: 2023-08-11
+  non_opposition_filed: 2023-08-29
+  opposition_filed: 2023-09-01
+  court_acceptance: 2023-09-05
+  reply_filed: 2023-09-11
+  hearing_date: 2023-09-18
+  status_conference: 2024-11-25
+  opt_out_period: 90 days from 2022-06-13
+
+events:
+  - Purchase of windows
+  - Filing of Complaint
+  - Filing of Motion to Compel Arbitration
+  - Filing of Notice of Non-Opposition
+  - Late filing of Opposition and Declarations
+  - Court acceptance of late-filed documents and continuance
+  - Filing of Reply
+  - Tentative Ruling (Motion Granted)
+  - Stay of matter pending arbitration
+  - Post-arbitration Status Conference scheduled
+
+money: [] # No specific monetary amounts mentioned
+
+intentions:
+  defendant: Compel arbitration, Enforce contract, argue no recission
+  plaintiff: Oppose arbitration, Rescind contract, Argue non-ownership of goods, argue fraud
+  court: Grant motion, Stay proceedings, Schedule Status Conference, enforce arbitrition agreement
+
+facts:
+  - Plaintiff purchased windows from Defendant.
+  - Contract included an arbitration provision.
+  - Plaintiff signed the contract.
+  - Plaintiff claims goods were non-conforming.
+  - Plaintiff alleges misrepresentation regarding the products.
+  - No evidence of fraud specific to the arbitration clause.
+  - Plaintiff did not opt out of arbitration within 90 days of purchase.
+
+disputes:
+  - Whether the arbitration provision applies.
+  - Whether Plaintiff took ownership of the goods.
+  - Whether grounds for rescission exist (fraud).
+  - Whether Plaintiff timely opted-out of the arbitration agreement.
+  - Whether the claims are subject to the arbitriation agreement.
+
+acts:
+  - Defendant's motion to compel arbitration.
+  - Plaintiff's opposition to the motion.
+  - Defendant's reply to the opposition.
+  - Purchase of Windows.
+
+agreements:
+  - Contract for purchase of windows, including arbitration provision.
+
+laws:
+  - Code of Civil Procedure, § 1281
+  - Code of Civil Procedure, § 1281.2
+  - Civil Code, § 1689, subd. (b)(1)
+
+case_citations:
+  - Tiri v. Lucky Chances, Inc. (2014) 226 Cal.App.4th 231, 239
+  - Ericksen, Arbuthnot, McCarthy, Kearney & Walsh, Inc. v. 100 Oak Street (1983) 35 Cal.3d 312, 323
+  - Engalla v. Permanente Med. Group, Inc. (1997) 15 Cal.4th 951, 973
+
+statutes: []
+
+roles:
+  - Plaintiff: Norma Sarkin
+  - Defendant: Pella Window and Door Showroom of South Pasadena
+  - Moving Party: Defendant
+  - Responding Party: Plaintiff
+
+significant_statements:
+  - "The Motion is GRANTED."
+  - "This matter is STAYED pending the conclusion of arbitration."
+  - "YOU and Pella ... AGREE TO ARBITRATE DISPUTES ARISING OUT OF OR RELATING TO YOUR PELLA PRODUCTS ... AND WAIVE THE RIGHT TO HAVE A COURT OR JURY DECIDE DISPUTES."
+  - "In the absence of indication of contrary intent, and where the arbitration clause is reasonably susceptible of such an interpretation, claims of fraud in the inducement of the contract (as distinguished from claims of fraud directed to the arbitration clause itself) will be deemed subject to arbitration."
+  -  "The 90-day period to opt out began from the date of purchase"
+```
+
+**Summary in English Text:**
+
+The Judge's tentative ruling grants the Defendant's (Pella Window and Door Showroom of South Pasadena) motion to compel arbitration in the case brought by Plaintiff Norma Sarkin (Case Number 23STCV15703).  The Judge found that a valid arbitration agreement exists within the contract signed by Sarkin on June 13, 2022, for the purchase of windows.  Sarkin's arguments against arbitration, including claims of non-conforming goods and fraud, were rejected.  The Judge determined there was no evidence of fraud specifically related to the arbitration clause itself, and therefore, the general fraud claims do not invalidate the agreement to arbitrate.  Furthermore, Sarkin failed to opt out of the arbitration agreement within the 90-day period allowed from the date of purchase.  As a result, the court proceedings are stayed pending the completion of arbitration, and a status conference is scheduled for November 25, 2024.

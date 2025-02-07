@@ -253,3 +253,179 @@ significant\_statements:
 - Defendant Xue Zhe Jin’s Motion for Protective Order and to Quash Subpoenas is GRANTED
 - The subpoenas are quashed
 - Sanctions are awarded against Plaintiff and his counsel in the amount of $830
+..................... .....................
+On 2025-02-06_22:39:29.880865
+The summary displayed below was created by an LLM named:  "gemini-2.0-flash-exp":
+```yaml
+summary:
+  Case Number: "19STCV45161"
+  Hearing Date: "September 18, 2023"
+  Dept: "61"
+  Plaintiff's Name: "Brandon Joaquin Rodarte Ayala"
+  Defendant's Name: "Xue Zhe Jin"
+  People-Names:
+    - "Brandon Joaquin Rodarte Ayala"
+    - "Xue Zhe Jin"
+    - "Larry Harrison"
+  Company-Names:
+    - "Alliance United Insurance Company (AUI)"
+  Places: 
+    - "Court"
+  Dates:
+    - "September 18, 2023"
+    - "January 2023"
+    - "September 5, 2023"
+    - "May 2023"
+  Events:
+    - "Motion for Protective Order"
+    - "Motion to Quash Subpoenas"
+    - "Accident/Collision"
+    - "Deposition"
+  Money:
+    - "$830"
+    - "$1,330.00"
+    - "$250 per hour"
+    - "$80 in filing fees and expenses"
+  Intentions:
+    - "Defendant's intention: To obtain a protective order and quash subpoenas."
+    - "Plaintiff's intention: To obtain information regarding the scope of Defendant's employment and potential fraud by AUI."
+  Facts:
+    - "Plaintiff issued subpoenas to AUI and Larry Harrison."
+    - "Subpoenas sought broad range of documents related to the parties, claim files, and investigations."
+    - "Similar subpoenas were previously served and subject to a prior motion."
+    - "Defendant argues the requests are overbroad and intrude on privileged information."
+    - "Plaintiff argues the information is relevant and Defendant hasn't proven privilege."
+  Disputes:
+    - "Scope of discovery: Whether the subpoenas are overly broad and seek irrelevant or privileged information."
+    - "Relevance of information: Whether the requested documents are relevant to the issues of scope of employment and fraud."
+    - "Privilege: Whether the requested documents are protected by attorney-client privilege or other protections."
+  Acts:
+    - "Issuance of subpoenas by Plaintiff."
+    - "Filing of motion for protective order and to quash subpoenas by Defendant."
+    - "Filing of opposition to the motion by Plaintiff."
+    - "Retaining counsel by insurer to defend its insured."
+  Agreements:
+    - "None mentioned."
+  Laws:
+    - "Code Civ. Proc. § 1987.1, subd. (a)"
+    - "Code Civ. Proc. § 1987.1, subd. (b)(1)"
+    - "Code Civ. Proc. § 2025.420, subd. (a), (b)"
+    - "Code Civ. Proc., § 2025.420, subd. (h)"
+    - "Code Civ. Proc., § 2023.010"
+  Case Citations:
+    - "Bank of America, N.A. v. Superior Court (2013) 212 Cal.App.4th 1076, 1083"
+    - "Soltani-Rastegar v. Superior Court (1989) 208 Cal.App.3d 424, 428"
+    - "Rael v. Davis (2008) 166 Cal.App.4th 1608, 1618 fn. 11"
+  Statutes:
+    - "California Code of Civil Procedure"
+  Roles:
+    - "Judge: Making the tentative ruling."
+    - "Plaintiff: Issuing subpoenas and opposing the motion."
+    - "Defendant: Moving for protective order and to quash subpoenas."
+    - "AUI: Defendant's insurer, subject to the subpoenas."
+    - "Larry Harrison: AUI employee, subject to a subpoena."
+  Significant Statements:
+    - "Subpoenas are overbroad and exceed the scope of Plaintiff's contentions."
+    - "Contract formation is governed by objective manifestations, not subjective intent."
+    - "Sanctions are awarded against Plaintiff and his counsel."
+
+english_summary: "The Judge's tentative ruling grants Defendant Xue Zhe Jin's motion for a protective order and to quash subpoenas issued by Plaintiff Brandon Joaquin Rodarte Ayala to Alliance United Insurance Company (AUI) and its employee Larry Harrison. The Judge finds the subpoenas to be overbroad, seeking information beyond the scope of the case and potentially intruding on privileged matters. The Judge also awards sanctions against Plaintiff and his counsel in the amount of $830, due to the unsuccessful opposition to the motion."
+```
+..................... .....................
+On 2025-02-06_22:40:21.459498
+The summary displayed below was created by an LLM named:  "gemini-2.0-pro-exp":
+```yaml
+case_number: 19STCV45161
+hearing_date: 2023-09-18
+department: 61
+plaintiff_name: Brandon Joaquin Rodarte Ayala
+defendant_name: Xue Zhe Jin
+people_names:
+  - Brandon Joaquin Rodarte Ayala
+  - Xue Zhe Jin
+  - Larry Harrison
+  - Mallory (Declarant - likely an attorney)
+company_names:
+  - Alliance United Insurance Company (AUI)
+  - Bank of America, N.A.
+places:
+  - Superior Court (California, implied)
+dates:
+  - 2023-09-18 (Hearing Date)
+  - 2023-09-05 (Previous Hearing Date)
+  - 2023-01 (Initial Subpoenas Served)
+  - 2023-05 (Subpoenas Re-issued)
+events:
+  - Subject Accident (Collision)
+  - Subpoenas Served (January 2023)
+  - Motion for Protective Order Filed (First)
+  - Motion for Protective Order Hearing (September 5, 2023)
+  - Subpoenas Re-issued (May 2023)
+  - Motion for Protective Order Filed (Second - the subject of this ruling)
+  - Motion for Protective Order Hearing (September 18, 2023)
+  - Settlement Demand (by Plaintiff)
+  - Counter-Offer (by AUI)
+  - Affidavit of no other insurance (Provided late by AUI, allegedly fraudulent)
+money:
+  - "$830" (Sanctions Awarded)
+  - "$1,330.00" (Sanctions Requested)
+  - "$250" (Attorney Hourly Rate)
+  - "$80" (Filing Fees and Expenses)
+intentions:
+  - Defendant:  Seek protective order and quash subpoenas;  Protect privileged information.
+  - Plaintiff: Obtain information to prove Defendant's scope of employment and AUI's alleged fraud.
+  - AUI: Protect claim files and internal communications.
+  - Judge: To rule on the motion based on presented information and applicable law.
+facts:
+  - Defendant filed a motion for a protective order and to quash subpoenas.
+  - Plaintiff issued subpoenas to Defendant's insurer (AUI) and its employee (Larry Harrison).
+  - The subpoenas sought documents and deposition testimony.
+  - Similar subpoenas were previously served and subject to a prior motion.
+  - Plaintiff re-issued the subpoenas after the first motion was filed.
+  - Defendant argues the requests are overbroad and seek privileged information.
+  - Plaintiff claims the information is relevant to scope of employment and fraud.
+disputes:
+  - Whether the subpoenas are overbroad and seek privileged information.
+  - Whether the requested information is relevant to the case.
+  - Whether Defendant provided a sufficient privilege log.
+  - Whether AUI committed fraud.
+  - Whether Defendant Jin was in scope of his employment.
+acts:
+  - Filing of Motion for Protective Order
+  - Issuance of Subpoenas
+  - Re-issuance of Subpoenas
+  - Providing Notice (by Defendant)
+agreements:
+  -  None explicitly stated, but the underlying dispute may involve a contract.  There is mention of a "contract defense."
+laws:
+  - Code of Civil Procedure Section 1987.1, subdivision (a)
+  - Code of Civil Procedure Section 1987.1, subdivision (b)(1)
+  - Code of Civil Procedure Section 2025.420, subdivision (a), (b)
+  - Code of Civil Procedure Section 2025.420, subdivision (h)
+  - Code of Civil Procedure, Chapter 7 (commencing with Section 2023.010)
+case_citations:
+  - Bank of America, N.A. v. Superior Court (2013) 212 Cal.App.4th 1076, 1083
+  - Soltani-Rastegar v. Superior Court (1989) 208 Cal.App.3d 424, 428
+  - Rael v. Davis (2008) 166 Cal.App.4th 1608, 1618 fn. 11
+statutes:
+  - (See "laws" above - these *are* statutes)
+roles:
+  - Plaintiff:  Brandon Joaquin Rodarte Ayala (Party initiating lawsuit)
+  - Defendant: Xue Zhe Jin (Party being sued)
+  - Insurer: Alliance United Insurance Company (AUI)
+  - Litigation Specialist: Larry Harrison (Employee of AUI)
+  - Counsel:  Attorneys for Plaintiff and Defendant (Mallory is likely Defendant's counsel)
+  - Judge:  Author of the tentative ruling
+significant_statements:
+  - "Defendant Xue Zhe Jin’s Motion for Protective Order and to Quash Subpoenas is GRANTED,  and the subpoenas are quashed."
+  - "Sanctions are awarded against Plaintiff and his counsel in the amount of $830."
+  - "The subpoenas to AUI and Larry Harrison are properly quashed in their entirety. They are overbroad in scope upon their own terms, and vastly exceed the scope of Plaintiff’s fraud and contractual contentions."
+  - "Contract formation is governed by objective manifestations, not subjective intent of any individual involved."
+  - "The court shall impose a monetary sanction...against any party, person, or attorney who unsuccessfully makes or opposes a motion for a protective order, unless it finds that the one subject to the sanction acted with substantial justification..."
+```
+
+English Text Summary:
+
+Judge's Tentative Ruling Summary:
+
+In case number 19STCV45161, the Judge granted Defendant Xue Zhe Jin's motion for a protective order.  The subpoenas issued by Plaintiff Brandon Joaquin Rodarte Ayala to Defendant's insurer, Alliance United Insurance Company (AUI), and its employee, Larry Harrison, were quashed (invalidated). The Judge found the subpoenas to be overly broad and seeking information irrelevant to the core issues of the case, including potentially privileged communications between the insurer and insured.  The Judge also awarded sanctions of $830 against the Plaintiff and his attorney, finding that they did not have substantial justification for opposing the motion. The sanctions were less than the $1,330 requested by the Defendant. The underlying dispute appears to involve a collision, with the Plaintiff alleging fraud related to a late affidavit from AUI and questioning whether the Defendant was acting within the scope of his employment at the time of the accident. The Judge found these claims did not justify the breadth of the subpoenas.

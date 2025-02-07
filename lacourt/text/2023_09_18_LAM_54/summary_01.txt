@@ -308,3 +308,163 @@ significant\_statements:
   - statement: Plaintiffs are required to specifically plead the time, place or nature of the alleged communications constituting racketeering activity.
   - statement: Al-Sabah's alleged breach of contract is not racketeering activity.
   - statement: Bass has not alleged an enterprise or pattern of racketeering activity.
+..................... .....................
+On 2025-02-06_22:27:20.018288
+The summary displayed below was created by an LLM named:  "gemini-2.0-flash-exp":
+```yaml
+Case Number: "20STCV19934 (Consolidated w/ 23STCV04590)"
+Plaintiff's Name: "Khaled J. Al-Sabah"
+Defendant's Name: "Michael Edward Bass"
+People-Names:
+  - "Khaled J. Al-Sabah"
+  - "Michael Edward Bass"
+  - "Ronald Richards"
+  - "Usman Shaikh"
+  - "Maurice A. Leiter"
+  - "David Ross"
+  - "David Turner"
+Company-Names:
+  - "Children’s Institute International"
+  - "Highland Federal Savings & Loan"
+Places:
+  - "United States"
+  - "Los Angeles County"
+  - "California"
+Dates:
+  - "July 15, 2020"
+  - "December 20, 2022"
+  - "March 2, 2023"
+  - "July 12, 2023"
+  - "September 18, 2023"
+Events:
+  - "Filing of First Amended Complaint by Al-Sabah"
+  - "Filing of Third Amended Cross-Complaint by Bass"
+  - "Filing of new action for fraudulent conveyance by Al-Sabah"
+  - "Consolidation of cases 20STCV19934 and 23STCV04590"
+  - "Filing of First Amended Cross-Complaint by Bass for RICO violations"
+  - "Hearing on Demurrer to First Amended Cross-Complaint"
+Money:
+  - "$2,500,000"
+  - "$2,000,000"
+  - "$5,000,000.00"
+Intentions:
+  - "Bass intended to file a first amended cross-complaint."
+  - "Al-Sabah intended to file a demurrer to the first amended cross-complaint."
+Facts:
+  - "Al-Sabah wired Bass $2.5 million to hire Shaikh for an embezzlement lawsuit."
+  - "Bass allegedly kept $2 million of Al-Sabah's money."
+  - "Bass alleges Al-Sabah agreed to pay him $5,000,000 for vague services."
+  - "Bass alleges Al-Sabah schemed with David Ross to transfer title of a corporation to David Turner."
+Disputes:
+  - "Breach of fiduciary duty, breach of contract, theft, money had and received, conversion, and accounting claims by Al-Sabah against Bass, Richards, and Shaikh."
+  - "Breach of written contract, breach of oral contract, intentional interference with prospective economic advantage, and intentional interference with contractual business relations claims by Bass against Al-Sabah."
+  - "RICO violations claim by Bass against Al-Sabah."
+Acts:
+  - "Filing lawsuits and cross-complaints."
+  - "Wiring money."
+  - "Breach of contract (alleged)."
+  - "Scheme to transfer title of corporation (alleged)."
+Agreements:
+  - "Alleged agreement between Al-Sabah and Bass for $5,000,000 payment for vague services."
+Laws:
+  - "CCP § 430.50(a)"
+  - "RICO (Racketeer Influenced and Corrupt Organizations Act)"
+Case Citations:
+  - "Picton v. Anderson Union High Sch. Dist. (1996) 50 Cal. App. 4th 726, 732"
+  - "McMartin v. Children’s Institute International (1989) 212 Cal.App.3d 1393, 1406"
+  - "People v. Highland Federal Savings & Loan (1993) 14 Cal.App.4th 1692, 1713, 1715"
+Statutes:
+  - "CCP § 430.50(a)"
+Roles:
+  - "Plaintiff: Khaled J. Al-Sabah"
+  - "Defendant: Michael Edward Bass, Ronald Richards, Usman Shaikh"
+  - "Cross-Complainant: Michael Edward Bass"
+  - "Cross-Defendant: Khaled J. Al-Sabah"
+  - "Judge: Maurice A. Leiter"
+Signifcant Statements:
+  - "AL-SABAH’S DEMURRER IS SUSTAINED WITHOUT LEAVE TO AMEND."
+  - "Al-Sabah alleges that Bass kept $2 million of his money."
+  - "These allegations are insufficient to state RICO claims against Al-Sabah."
+```
+
+**English Summary of Tentative Ruling:**
+
+Judge Leiter has issued a tentative ruling sustaining Plaintiff Khaled Al-Sabah's demurrer to Defendant Michael Bass's first amended cross-complaint (FACC) for RICO violations, *without* granting Bass leave to amend. This means Bass's RICO claim against Al-Sabah is dismissed and Bass cannot refile it in this case. The Judge found that Bass's allegations of racketeering activity were insufficient and conclusory, failing to adequately plead an enterprise or pattern of racketeering. The alleged breach of contract by Al-Sabah is not considered racketeering, and the other allegations lack the required specificity. Al-Sabah must provide notice of this ruling. If the parties agree with the tentative ruling, they can notify the court via email before 8:00 AM on September 18, 2023.
+..................... .....................
+On 2025-02-06_22:28:09.048081
+The summary displayed below was created by an LLM named:  "gemini-2.0-pro-exp":
+```yaml
+case_number: 20STCV19934 (Consolidated w/ 23STCV04590)
+plaintiff: Khaled J. Al-Sabah
+defendant: Michael Edward Bass
+other_people:
+  - Ronald Richards
+  - Usman Shaikh
+  - David Ross
+  - David Turner
+  - Judge Maurice A. Leiter
+companies: []
+places:
+  - United States
+  - Superior Court of California, County of Los Angeles, Department 54
+dates:
+  - "2020-07-15": Al-Sabah files first amended complaint.
+  - "2022-12-20": Bass files third amended cross-complaint.
+  - "2023-03-02": Al-Sabah files new action (23STCV04590).
+  - "2023-07-12": Bass files first amended cross-complaint in 23STCV04590.
+  - "2023-09-18": Hearing Date
+events:
+  - Filing of first amended complaint by Al-Sabah.
+  - Filing of third amended cross-complaint by Bass.
+  - Filing of new action for fraudulent conveyance by Al-Sabah.
+  - Consolidation of case 23STCV04590 with 20STCV19934.
+  - Filing of first amended cross-complaint (FACC) by Bass (RICO).
+  - Demurrer filed by Al-Sabah to the FACC.
+  - Court sustained Al-Sabah's prior demurrer without leave to amend.
+money:
+  - "$2,500,000": Amount Al-Sabah allegedly wired to Bass.
+  - "$2,000,000": Amount Bass allegedly kept.
+  - "$5,000,000": Amount of alleged agreement between Bass and Al-Sabah.
+intentions:
+  - Al-Sabah: Intended Bass to be his representative and hire a lawyer.
+  - Bass: Allegedly intended to provide "vague services" for $5,000,000.
+facts:
+  - Al-Sabah wired Bass money to hire a lawyer.
+  - Bass allegedly kept a portion of the money.
+  - Bass filed cross-complaints against Al-Sabah.
+  - Al-Sabah filed a fraudulent conveyance action against Bass.
+  - Cases were consolidated.
+disputes:
+  - Whether Bass breached a contract or fiduciary duty.
+  - Whether Bass committed theft, conversion, etc.
+  - Whether Al-Sabah engaged in RICO violations.
+  - Whether Bass's FACC states sufficient facts for a RICO claim.
+acts:
+  - Alleged breach of contract by Al-Sabah.
+  - Alleged scheme involving David Ross and David Turner.
+agreements:
+  - Alleged agreement between Al-Sabah and Bass for Bass to be Al-Sabah's representative.
+  - Alleged agreement for Al-Sabah to pay Bass $5,000,000 for vague services.
+laws:
+  - RICO (Racketeer Influenced and Corrupt Organizations Act)
+case_citations:
+  - "Picton v. Anderson Union High Sch. Dist. (1996) 50 Cal. App. 4th 726, 732"
+  - "McMartin v. Children’s Institute International (1989) 212 Cal.App.3d 1393, 1406"
+  - "People v. Highland Federal Savings & Loan (1993) 14 Cal.App.4th 1692, 1713, 1715"
+statutes:
+  - CCP § 430.50(a)
+roles:
+  - Plaintiff/Cross-Defendant: Khaled J. Al-Sabah
+  - Defendant/Cross-Complainant: Michael Edward Bass
+  - Judge: Maurice A. Leiter
+  - Attorney: Usman Shaikh (allegedly to be hired)
+significant_statements:
+  - "AL-SABAH’S DEMURRER IS SUSTAINED WITHOUT LEAVE TO AMEND."
+  - "Bass has not alleged an enterprise or pattern of racketeering activity."
+  -  "Al-Sabah's alleged breach of contract is not racketeering activity and the remaining allegations against Al-Sabah are limited and conclusory."
+
+```
+
+**Summary in English Text:**
+
+This tentative ruling addresses a demurrer filed by Khaled J. Al-Sabah (Plaintiff/Cross-Defendant) against a First Amended Cross-Complaint (FACC) filed by Michael Edward Bass (Defendant/Cross-Complainant) alleging RICO violations.  Judge Maurice A. Leiter states that the Court has reviewed the relevant filings. The original case involves Al-Sabah's claims against Bass for breach of contract and other related issues stemming from Al-Sabah sending Bass $2.5 million, allegedly for legal representation, of which Bass allegedly kept $2 million.  Bass's FACC alleges Al-Sabah violated RICO through breach of a separate $5 million agreement and a scheme involving third parties.  The Judge *tentatively rules* that Al-Sabah's demurrer is **sustained without leave to amend**, meaning Bass's RICO claim is dismissed and he is not given another opportunity to revise it.  The Judge finds that Bass's allegations are insufficient to establish a RICO claim, specifically noting that a breach of contract is not racketeering activity and that Bass failed to allege an enterprise or pattern of racketeering activity. Al-Sabah is to provide notice of the ruling.

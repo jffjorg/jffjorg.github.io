@@ -260,3 +260,164 @@ references:
     name: Plaintiff's opposition
   - type: amended\_opposition
     name: Plaintiff's amended opposition
+..................... .....................
+On 2025-02-06_22:22:41.872145
+The summary displayed below was created by an LLM named:  "gemini-2.0-flash-exp":
+```yaml
+summary: |
+  This is a tentative ruling by Judge Thomas D. Long, denying Defendant Santa Clarita Studios Corp.'s motion to compel further responses from Plaintiff Oscar Valle to Requests for Production Nos. 20, 21, and 22. The judge finds the requests, as phrased, to be overbroad and burdensome. The hearing is scheduled for September 18, 2023.
+
+case_number: 22STCV11413
+plaintiff_name: Oscar Valle
+defendant_name: Santa Clarita Studios Corp.
+people_names:
+  - Oscar Valle
+  - Gavin Newsom
+  - Thomas D. Long
+company_names:
+  - Santa Clarita Studios Corp.
+places:
+  - State of California
+  - County of Los Angeles
+  - Central District
+dates:
+  - March 10, 2023
+  - May 9, 2023
+  - July 7, 2023
+  - October 17, 2020
+  - October 21, 2020
+  - December 31, 2020
+  - March 4, 2020
+  - September 18, 2023
+events:
+  - Propounding Request for Production of Documents, Set One
+  - Serving Objections
+  - Meet and Confer between parties
+  - Filing Motion to Compel
+  - COVID-19 diagnosis alleged
+  - Governor Newsom declared state of emergency
+money: ~
+intentions:
+  - Defendant intended to compel further responses to document requests.
+  - Defendant intended to learn about Plaintiff's COVID-19 diagnosis and its effects.
+  - Defendant intended to learn about any investigation Plaintiff did regarding Covid-19.
+facts:
+  - Defendant served Request for Production of Documents, Set One, on Plaintiff on March 10, 2023.
+  - Plaintiff served objections on May 9, 2023.
+  - Parties met and conferred before Defendant filed a motion to compel on July 7, 2023.
+  - Plaintiff alleges a COVID-19 diagnosis on October 21, 2020.
+  - Governor Newsom declared a state of emergency in California on March 4, 2020.
+disputes:
+  - Whether Plaintiff should be compelled to provide further responses to the document requests.
+acts:
+  - Defendant filing a motion to compel.
+  - Plaintiff objecting to the requests.
+agreements: ~
+laws:
+  - Code Civ. Proc., § 2031.310, subd. (a)
+  - Code Civ. Proc., § 2031.310, subd. (b)(1)
+case_citations: ~
+statutes:
+  - Code of Civil Procedure 2031.310
+roles:
+  - Oscar Valle: Plaintiff
+  - Santa Clarita Studios Corp.: Defendant
+  - Thomas D. Long: Judge
+significant_statements:
+  - "As phrased, RFP No. 20 is overbroad and burdensome."
+  - "But again, this is not what Defendant requested."
+  - "As phrased, RFP No. 21 is overbroad."
+  - "Again, this limitation is not what Defendant requested."
+  - "As phrased, RFP No. 22 is overbroad and burdensome."
+  - "The motion is DENIED."
+```
+..................... .....................
+On 2025-02-06_22:23:29.899191
+The summary displayed below was created by an LLM named:  "gemini-2.0-pro-exp":
+```yaml
+case_number: 22STCV11413
+plaintiff:
+  name: Oscar Valle
+defendant:
+  name: Santa Clarita Studios Corp.
+people_names:
+  - Oscar Valle
+  - Gavin Newsom
+  - Thomas D. Long (Judge)
+  - Gershfeld (Attorney - Declaration Mentioned)
+company_names:
+  - Santa Clarita Studios Corp.
+places:
+  - California
+  - Los Angeles County - Central District
+  - Superior Court of the State of California (Court)
+  - Dept. 48 (Courtroom)
+  - SMCDEPT48@lacourt.org (Court Email)
+dates:
+  - March 10, 2023: Defendant propounded Request for Production.
+  - May 9, 2023: Plaintiff served objections.
+  - July 7, 2023: Defendant filed motion to compel.
+  - September 18, 2023: Hearing Date / Date of Tentative Ruling
+  - October 17, 2020: Start date of narrowed request scope (Defendant's argument).
+  - October 21, 2020: Plaintiff's alleged COVID-19 diagnosis.
+  - December 31, 2020: End date of narrowed request scope.
+  - March 4, 2020:  Governor Newsom declared state of emergency.
+  - 2020:  Year of requested documents.
+events:
+  - Request for Production of Documents (Set One)
+  - Objections to Request for Production
+  - Meet and Confer between parties
+  - Motion to Compel Further Responses
+  - Tentative Order Denying Motion
+  - COVID-19 Diagnosis
+  - Declaration of a state of emergency.
+  - Alleged discrimination/retaliation (implied)
+money: []
+intentions:
+  defendant:
+    - To compel further responses to Requests for Production (RFP) Nos. 20-22.
+    - To obtain information about Plaintiff's COVID-19 communications, investigation, and medical information.
+  plaintiff:
+    - To oppose the motion to compel, arguing requests are overbroad and burdensome.
+  judge:
+    - To deny the motion to compel.
+facts:
+  - Defendant propounded RFPs on Plaintiff.
+  - Plaintiff objected to the RFPs.
+  - Parties met and conferred.
+  - Defendant filed a motion to compel further responses.
+  - Plaintiff was diagnosed with COVID-19.
+  - Governor Newsom declared a state of emergency due to COVID-19.
+disputes:
+  - Whether the RFPs are overbroad and burdensome.
+  - Whether the requested information is relevant.
+  - Whether good cause exists to compel further responses.
+acts:
+  - Propounding RFPs
+  - Serving objections
+  - Filing a motion to compel
+  - Meeting and conferring
+agreements: []
+laws: []
+case_citations: []
+statutes:
+  - Code Civ. Proc., § 2031.310, subd. (a):  Allows a motion to compel further response to document demand.
+  - Code Civ. Proc., § 2031.310, subd. (b)(1): Requires showing of good cause for the discovery.
+roles:
+  - Plaintiff: Oscar Valle
+  - Defendant: Santa Clarita Studios Corp.
+  - Judge: Hon. Thomas D. Long
+  - Moving Party: Defendant (the party filing the motion)
+significant_statements:
+  - "As phrased, RFP No. 20 is overbroad and burdensome."
+  - "As phrased, RFP No. 21 is overbroad."
+  - "As phrased, RFP No. 22 is overbroad and burdensome."
+  - "The motion is DENIED."
+  - "Moving party to give notice."
+  - "Parties who intend to submit on this tentative must send an email to the Court..."
+
+```
+
+**English Text Summary of the Tentative Ruling:**
+
+Judge Thomas D. Long issued a tentative ruling *denying* Santa Clarita Studios Corp.'s motion to compel Oscar Valle to provide further responses to their Requests for Production (RFP) numbers 20, 21, and 22.  The RFPs all related to Valle's communications and investigations regarding COVID-19 in 2020. The judge found that all three requests, as originally written, were overly broad and burdensome.  While the Defendant attempted to narrow the scope of the requests in their motion, the judge ruled based on the original wording.  Specifically, RFP No. 20 asked for *all* communications about COVID-19 in 2020, which the judge deemed too broad given the widespread discussions about the pandemic. RFP No. 21 asked for all communications with healthcare providers about COVID-19 in 2020, which the judge found could include private medical records unrelated to the claimed disability. RFP No. 22 asked for all documents reflecting any investigation Valle conducted about COVID-19 in 2020, which the judge also found overly broad and burdensome, potentially encompassing a vast amount of information. The judge's tentative ruling is that the motion to compel is denied, and the Defendant must notify the other parties of the ruling. The parties can submit on the tentative ruling by email, and if all do so, no court appearance is required.

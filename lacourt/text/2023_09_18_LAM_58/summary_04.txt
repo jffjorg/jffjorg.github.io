@@ -305,3 +305,147 @@ roles:
 - Attorney for Defendant Higley - James Hornbuckle
 significant\_statements:
 - Motion to be relieved as counsel is denied based on substantial prejudice to Defendant Higley.
+..................... .....................
+On 2025-02-06_22:34:59.525020
+The summary displayed below was created by an LLM named:  "gemini-2.0-flash-exp":
+```yaml
+english_summary: |
+  The Judge has issued a tentative ruling denying Attorney James Hornbuckle's motion to be relieved as counsel for Defendant Cordelia Higley. While Hornbuckle complied with the required procedural rules for the motion, the Court found that granting the motion would substantially prejudice Higley, as the trial is scheduled for the day after the hearing on the motion. Leaving her without counsel on the eve of trial is deemed too prejudicial.
+
+case_number: Not specified in document
+plaintiff_name: Kathleen Bevan, Adam Bolton
+defendant_name: Cordelia Higley, Midfirst Bank
+people_names:
+  - Kathleen Bevan
+  - Adam Bolton
+  - Cordelia Higley
+  - Gilbert A. Bolton
+  - James Hornbuckle
+company_names:
+  - Midfirst Bank
+places:
+  - 2906 East Ave., R7, Palmdale, CA 93550
+  - Palmdale, CA
+dates:
+  - May 16, 2022
+  - September 18, 2023
+  - September 19, 2023
+events:
+  - Filing of Complaint (May 16, 2022)
+  - Motion to be Relieved as Counsel
+  - Trial (September 19, 2023)
+money: Not specified in document
+intentions:
+  - James Hornbuckle intends to be relieved as counsel for Cordelia Higley.
+  - Plaintiffs intend to pursue causes of action related to the property.
+facts:
+  - A dispute exists over property located at 2906 East Ave., R7, Palmdale, CA 93550.
+  - Plaintiffs filed a complaint against Defendants.
+  - Attorney Hornbuckle filed a motion to be relieved as counsel.
+  - Trial is set for September 19, 2023.
+disputes:
+  - Dispute over real property.
+acts:
+  - Filing a Complaint.
+  - Filing a Motion to be Relieved as Counsel.
+agreements: Not specified in document
+laws:
+  - Code of Civil Procedure § 284
+  - Code of Civil Procedure § 284(1)
+  - Code of Civil Procedure § 284(2)
+  - Code of Civil Procedure section 1013
+  - Cal. Rules of Court, rule 3.1362, subd. (a), (b), (e)
+  - Cal. Rules of Court, rule 3.1362, subd. (b)
+  - Cal. Rules of Court, rule 3.1362, subd. (d)(1)(A)-(B)
+case_citations:
+  - Ramirez v. Sturdevant (1994) 21 Cal.App.4th 904, 915
+statutes:
+  - Code of Civil Procedure § 284
+roles:
+  - Judge:  (Implied, issuing the Tentative Ruling)
+  - Kathleen Bevan: Plaintiff, Successor Trustee
+  - Adam Bolton: Plaintiff
+  - Cordelia Higley: Defendant
+  - Midfirst Bank: Defendant
+  - James Hornbuckle: Attorney for Cordelia Higley
+significant_statements:
+  - "The motion to be relieved is denied."
+  - "The prejudice to Defendant Higley in granting this motion is substantial; it would leave her without an attorney for trial."
+```
+..................... .....................
+On 2025-02-06_22:35:46.139507
+The summary displayed below was created by an LLM named:  "gemini-2.0-pro-exp":
+```yaml
+case_number:  "Not provided in the text, but would typically be on the document"
+plaintiffs:
+  - Kathleen Bevan (as Successor Trustee of the Gilbert A. Bolton Trust 2012)
+  - Kathleen Bevan
+  - Adam Bolton
+defendants:
+  - Cordelia Higley
+  - Midfirst Bank
+people_names:
+  - Kathleen Bevan
+  - Adam Bolton
+  - Cordelia Higley
+  - Gilbert A. Bolton (deceased, trust creator)
+  - James Hornbuckle (Attorney for Cordelia Higley)
+  - Ramirez
+  - Sturdevant
+company_names:
+  - Midfirst Bank
+  - Gilbert A. Bolton Trust 2012
+places:
+  - "2906 East Ave., R7, Palmdale, CA 93550"
+dates:
+  - "May 16, 2022": Complaint filed.
+  - "September 18, 2023": Hearing date for motion to be relieved.
+  - "September 19, 2023": Trial date.
+  - "2012" :  Date of the "Gilbert A. Bolton Trust".
+events:
+  - Filing of Complaint.
+  - Motion to be relieved as counsel.
+  - Upcoming trial.
+money: []  # No specific monetary amounts mentioned.
+intentions:
+  - Attorney Hornbuckle: To be relieved as counsel for Cordelia Higley.
+  - Plaintiffs:  To partition sale, cancel deeds and affidavit.
+facts:
+  - A dispute exists over real property.
+  - Attorney Hornbuckle claims an irreparable breakdown in the attorney-client relationship with Cordelia Higley.
+  - No opposition to the motion was filed.
+  - Attorney Hornbuckle followed proper procedure for the motion.
+  - Notice was given to Defendant Higley.
+disputes:
+  - Ownership/rights related to the property at 2906 East Ave., R7, Palmdale, CA 93550.
+  - Validity of quitclaim deeds, affidavit of death of joint tenant, and grant deeds.
+acts:
+  - Plaintiffs filed a Complaint.
+  - Attorney Hornbuckle filed a motion to be relieved as counsel.
+  - Service of notice to Defendant Higley.
+agreements: [] # No specific agreements mentioned in this excerpt.
+laws:
+  - "Code Civ. Proc. § 284":  Governs attorney withdrawal.
+  - "Cal. Rules of Court, rule 3.1362":  Specific rules for motion to be relieved as counsel.
+  - "Code of Civil Procedure section 1013": related to mail-service.
+case_citations:
+  - "Ramirez v. Sturdevant (1994) 21 Cal.App.4th 904, 915"
+statutes: [] #No specific statutes numbers cited, only general legal codes.
+roles:
+  - Plaintiffs:  Initiating the legal action.
+  - Defendant (Higley):  Responding to the legal action, subject of attorney's motion.
+  - Defendant (Midfirst Bank): Responding to the legal action.
+  - Attorney (Hornbuckle):  Seeking to withdraw from representing a client.
+  - Judge:  Making a ruling on the motion.
+  - Successor Trustee (Kathleen Bevan): Managing the Gilbert A. Bolton Trust.
+significant_statements:
+  - "The motion to be relieved is denied."
+  - "...citing an irreparable breakdown of the attorney-client relationship."
+  - "The prejudice to Defendant Higley in granting this motion is substantial; it would leave her without an attorney for trial."
+  - "Accordingly, the Court denies the motion to be relieved as counsel based on the substantial prejudice to Defendant Higley."
+
+```
+
+**English Text Summary of the Tentative Ruling:**
+
+Plaintiffs Kathleen Bevan (both individually and as trustee) and Adam Bolton sued Cordelia Higley and Midfirst Bank over a property in Palmdale, California.  They want to force a sale of the property and cancel several deeds.  Cordelia Higley's lawyer, James Hornbuckle, asked the court to allow him to stop representing her, citing a complete breakdown in their relationship.  He followed all the correct procedures and notified Higley.  However, the judge *denied* the request.  The reason is that the trial is scheduled for *the very next day* after the hearing on the lawyer's request.  The judge ruled that allowing the lawyer to withdraw would severely prejudice Higley by leaving her without legal representation at trial.
