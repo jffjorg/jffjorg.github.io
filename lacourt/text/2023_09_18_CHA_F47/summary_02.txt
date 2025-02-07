@@ -417,3 +417,208 @@ roles:
 significant\_statements:
 - "Plaintiff does not dispute that Defendant may seeking records regarding the physical conditions the patient-litigant has placed in issue."
 - "Defendant has failed to meet its burden of establishing all of the following: (1) the information/records sought are directly relevant to the issues in this case; (2) there is ‘a compelling need for discovery, and that compelling need [is] so strong as to outweigh the privacy right when these two competing interests are carefully balanced;’ (3) the scope is narrowly circumscribed and by the least intrusive manner; and (4) the information is not available from other sources or by less intrusive means."
+..................... .....................
+On 2025-02-06_21:30:04.876386
+The summary displayed below was created by an LLM named:  "gemini-2.0-flash-exp":
+```yaml
+Case Number: 22CHCV00910
+Plaintiff's Name: Blanca Fajardo
+Defendant's Name: Los Angeles County Metropolitan Transportation Authority
+People-Names:
+  - Blanca Fajardo
+  - Eitan Yehoshua
+Company-Names:
+  - Ashour Yehoshua APC
+  - Los Angeles City Fire Department (LAFD)
+  - Providence St. Joseph Medical Center
+Places:
+  - Van Nuys
+  - Laurel Canyon
+  - Valley Village, CA
+Dates:
+  - February 15, 2022
+  - October 18, 2022
+  - May 4, 2023
+  - May 12, 2023
+  - June 2, 2023
+  - June 9, 2023
+  - June 12, 2023
+  - September 18, 2023
+  - April 22, 2024
+Events:
+  - Incident on 2/15/22 where Plaintiff claims injury on a bus.
+  - Filing of lawsuit on 10/18/22.
+  - Defendant answering complaint on 5/4/23
+  - Issuance of subpoenas on 5/12/23.
+  - Filing of motion to quash on 6/2/23.
+  - Hearing on September 18, 2023.
+  - Trial date of April 22, 2024.
+Money:
+  - $2,060.00 (amount of sanctions requested by Plaintiff)
+Intentions:
+  - Plaintiff intends to quash subpoenas and obtain sanctions.
+  - Defendant intends to obtain medical and other records related to Plaintiff's injuries.
+Facts:
+  - Plaintiff alleges injury due to Defendant's negligence on a bus.
+  - Defendant issued four subpoenas to LAFD and Providence St. Joseph Medical Center for records.
+  - Plaintiff claims the subpoenas are overbroad.
+  - Defendant offered to limit subpoenas to 10 years, excluding mental health and STD records.
+Disputes:
+  - The scope of the subpoenas, specifically the time period and types of records sought.
+  - Whether Defendant's actions warrant sanctions.
+  - Exactly what injuries Plaintiff is claiming in this action.
+Acts:
+  - Plaintiff filing a lawsuit.
+  - Defendant issuing subpoenas.
+  - Plaintiff filing a motion to quash.
+  - Defendant opposing the motion.
+Agreements:
+  - Defendant agreed to limit subpoenas to 10 years and exclude certain records, but Plaintiff found this insufficient.
+Laws:
+  - CCP 1987.1(a) (regarding quashing subpoenas)
+  - CCP 1987.2(a) (regarding sanctions)
+  - CCP 2024.010(b)
+  - CCP 2023.030(a)
+  - CRC 3.1110(a) (regarding notice of motion)
+Case Citations:
+  - Britt (1978) 20 C3d 844
+  - Vinson (1987) 43 C3d 833
+  - Lantz (1994) 28 CA4th 1839
+  - Heller (1994) 8 C4th 30
+Statutes:
+  - None specifically mentioned, but CCP sections are cited.
+Roles:
+  - Judge: Makes tentative ruling on the motion to quash.
+  - Plaintiff: Seeks to quash subpoenas and obtain sanctions.
+  - Defendant: Seeks to obtain records through subpoenas.
+Significant Statements:
+  - "The request to quash deposition subpoenas is granted. The request for sanctions is denied." (Judge's ruling)
+  - "Plaintiff was seriously injured when the bus driver negligently drove off, before Plaintiff was safely seated." (Plaintiff's claim)
+  - Court notes Plaintiff failed to give clear notice of the relief sought.
+```
+
+**English Summary of Tentative Ruling:**
+
+The Judge is inclined to grant the Plaintiff's motion to quash the subpoenas issued by the Defendant, Los Angeles County Metropolitan Transportation Authority, because the subpoenas are overly broad in scope and time. The Judge finds that the Defendant has not sufficiently demonstrated the relevance of the information sought, nor has the defendant demonstrated a compelling need for the breadth of discovery requested. The specific injuries claimed by Plaintiff are unclear to the court. However, the Judge is denying the Plaintiff's request for sanctions against the Defendant because the Judge doesn't believe the Defendant acted in bad faith or misused the discovery process. The Judge also notes the Plaintiff's notice of motion was deficient.
+..................... .....................
+On 2025-02-06_21:31:07.449817
+The summary displayed below was created by an LLM named:  "gemini-2.0-pro-exp":
+```yaml
+case_number: 22CHCV00910
+hearing_date: 2023-09-18
+department: F47
+trial_date: 2024-04-22
+plaintiff:
+  name: Blanca Fajardo
+  counsel: Not specified in ruling, only opposing counsel.
+defendant:
+  name: Los Angeles County Metropolitan Transportation Authority
+  counsel:
+    - Eitan Yehoshua
+    - Ashour Yehoshua APC (Law Firm)
+    - Bagdassarian (Declared information)
+    - Nunez (Declared opposition)
+
+people_names:
+  - Blanca Fajardo
+  - Eitan Yehoshua
+  - Bagdassarian
+  - Nunez
+
+company_names:
+  - Los Angeles County Metropolitan Transportation Authority
+  - Ashour Yehoshua APC
+  - Los Angeles City Fire Department (LAFD)
+  - Providence St. Joseph Medical Center
+
+places:
+  - Van Nuys and Laurel Canyon (Incident location - approximate)
+  - Valley Village, CA (Plaintiff pickup location - approximate)
+  - Dept. F47 (Courtroom)
+
+dates:
+  - 2022-02-15: Date of incident
+  - 2022-10-18: Plaintiff filed action
+  - 2023-05-04: Defendant answered complaint
+  - 2023-05-12: Defendant issued subpoenas
+  - 2023-06-09: Subpoena production date
+  - 2023-06-02: Plaintiff filed motion to quash
+  - 2023-06-12: Plaintiff provided discovery responses (per Defendant)
+  - 2023-09-18: Hearing date / Tentative Ruling date
+  - 2024-04-22: Trial date
+
+events:
+  - Bus incident causing injury to Plaintiff
+  - Filing of complaint
+  - Defendant's answer to complaint
+  - Issuance of subpoenas
+  - Motion to quash subpoenas
+  - Communication between counsels re: limiting subpoena scope.
+  - Opposition to motion
+  - Reply to opposition
+  - Tentative ruling
+
+money:
+  - 2060.00: Sanctions requested by Plaintiff (denied)
+
+intentions:
+  - Plaintiff: Quash subpoenas, obtain sanctions. Protect privacy.
+  - Defendant: Obtain medical records related to Plaintiff's injuries. Oppose motion to quash.
+
+facts:
+  - Plaintiff alleges injury due to bus driver negligence.
+  - Defendant issued subpoenas to LAFD and Providence St. Joseph Medical Center.
+  - Subpoenas sought medical, billing, and radiological records.
+  - Parties discussed limiting subpoena scope, but no agreement reached.
+  - Plaintiff claims injuries, but specific injuries are not detailed in the ruling.
+  - Defendant claims Plaintiff's discovery responses indicate physical injuries, emotional distress, and pain and suffering, but provided no copies to the court.
+
+disputes:
+  - Overbreadth of subpoenas.
+  - Relevance of requested records.
+  - Plaintiff's right to privacy vs. Defendant's right to discovery.
+  - Whether sanctions are warranted.
+  - Specific body parts injured.
+
+acts:
+ - Negligent driving (alleged)
+ - Issuing Subpoenas.
+ - Filing the lawsuit.
+ - Filing a motion to quash.
+
+agreements:
+  - Defendant agreed to limit subpoenas to 10 years and exclude mental health records and records of STDs. (Partial agreement, not fully accepted by Plaintiff).  There was disagreement whether records of STDs and "gynecological records" were different or overlapping.
+
+laws:
+  - CCP 1987.1(a): Authorizes court to quash or modify subpoenas.
+  - CCP 1987.2(a): Addresses sanctions related to discovery motions.
+  - CCP 2024.010(b): (Referenced regarding discovery misuse, likely related to sanctions).
+  - CCP 2023.030(a): (Referenced regarding discovery misuse, likely related to sanctions).
+  - CRC 3.1110(a): Requires notice of motion to state nature of order sought.
+
+case_citations:
+  - Britt (1978) 20 C3d 844, 863-864
+  - Vinson (1987) 43 C3d 833, 842
+  - Lantz (1994) 28 CA4th 1839, 1854-1855, 1857, 1853-1854.
+  - Heller (1994) 8 C4th 30, 43, 55
+
+statutes:
+    - See "Laws"
+
+roles:
+  - Plaintiff: Injured party, seeking to quash subpoenas.
+  - Defendant: Transportation authority, seeking discovery.
+  - Judge: Deciding on the motion to quash.
+  - Counsel: Representing the parties.
+
+significant_statements:
+  - "The request to quash deposition subpoenas is granted.  The request for sanctions is denied."
+  - "...neither Plaintiff nor Defendant has informed the Court exactly which of Plaintiff’s body parts are at issue in this case."
+  - "Defendant has failed to meet its burden of establishing all of the following: (1) the information/records sought are directly relevant to the issues in this case; (2) there is “a compelling need for discovery, and that compelling need [is] so strong as to outweigh the privacy right when these two competing interests are carefully balanced;” (3) the scope is narrowly circumscribed and by the least intrusive manner; and (4) the information is not available from other sources or by less intrusive means."
+  - "Although the Court is quashing the subject subpoenas, it finds that sanctions against Defendant and its counsel are not warranted."
+  - Plaintiff made errors in the Notice of Motion, including miscounting the number of subpoenas and failing to specify which.
+```
+
+**Summary in English Text:**
+
+The Judge's tentative ruling in case number 22CHCV00910 grants Plaintiff Blanca Fajardo's motion to quash four subpoenas issued by Defendant Los Angeles County Metropolitan Transportation Authority. The subpoenas sought medical, billing, and radiological records from the LAFD and Providence St. Joseph Medical Center related to an incident where Fajardo claims she was injured due to a bus driver's negligence. The Judge found the subpoenas to be overly broad because neither party clearly identified the specific injuries Fajardo is claiming, making it impossible to determine the relevance of *all* the requested records. While the Defendant offered to limit the subpoenas to 10 years and exclude mental health and STD records, the Judge determined this was still insufficient without knowing the precise injuries. The Judge denied Fajardo's request for sanctions against the Defendant and their counsel, finding they acted with substantial justification. The judge also noted errors in the Plaintiff's notice of motion. The subpoenas are quashed, but the Defendant *may* be able to reissue more narrowly tailored subpoenas if the Plaintiff's injuries are clarified in further discovery.

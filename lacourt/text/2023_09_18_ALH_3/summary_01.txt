@@ -340,3 +340,200 @@ significant\_statements:
 
 Summary:
 The Judge's tentative ruling is for the case number 22AHCV00957, scheduled for a hearing on September 18, 2023, in Dept 3 of the Superior Court of the State of California for the County of Los Angeles - Northeast District. The lawsuit was filed by plaintiff Herbert Schwarz against defendants HumanGood and Steven Gowan. The Judge sustains Defendants’ demurrer to the Second Cause of Action for harassment and the Fourth Cause of Action for failure to prevent harassment. The demurrer is also sustained for the Sixth Cause of Action under the Unfair Competition Law (UCL) due to Plaintiff's lack of standing. Plaintiff has 20 days to amend the dismissed causes of action.
+..................... .....................
+On 2025-02-06_21:17:06.268949
+The summary displayed below was created by an LLM named:  "gemini-2.0-flash-exp":
+Exception:
+name 'parser' is not defined
+..................... .....................
+On 2025-02-06_21:18:44.667099
+The summary displayed below was created by an LLM named:  "gemini-2.0-flash-exp":
+```yaml
+summary: |
+  This is a tentative ruling by Judge Crowfoot regarding a demurrer filed by Steven Gowan and HumanGood against Plaintiff Herbert Schwarz's First Amended Complaint (FAC). The judge sustains the demurrer without leave to amend on the Second (harassment), Fourth (failure to prevent harassment), and Sixth (unfair competition) causes of action. The ruling treats HumanGood's demurrer as a motion for judgment on the pleadings.
+
+case_number: 22AHCV00957
+plaintiff_name: Herbert Schwarz
+defendant_name: Steven Gowan
+people_names:
+  - Herbert Schwarz
+  - Steven Gowan
+  - William A. Crowfoot
+company_names:
+  - HumanGood
+places:
+  - Los Angeles County, California
+  - Northeast District
+dates:
+  - October 31, 2022
+  - May 8, 2023
+  - May 18, 2023
+  - June 21, 2023
+  - September 18, 2023
+  - October 2017
+  - November 2, 2020
+events:
+  - Filing of lawsuit (October 31, 2022)
+  - Sustaining of demurrer with leave to amend (May 8, 2023)
+  - Filing of First Amended Complaint (May 18, 2023)
+  - Filing of joint demurrer (June 21, 2023)
+  - Hearing Date: September 18, 2023
+money:
+  - "damages and/or restitution of all monies and profits to be disgorged"
+intentions:
+  - Plaintiff intends to prove discrimination and harassment led to his resignation.
+  - Defendants intend to dismiss certain causes of action in the FAC.
+facts:
+  - Plaintiff was employed by HumanGood as an IT Help Desk Analyst from October 2017 to November 2, 2020.
+  - Gowan was Plaintiff's direct supervisor.
+  - Plaintiff alleges forced resignation due to discrimination and harassment.
+  - Plaintiff alleges Gowan harassed him by assigning more work, refusing assistance, writing him up, and keeping a personal personnel file.
+disputes:
+  - Whether the alleged actions constitute harassment versus necessary personnel management.
+  - Whether Plaintiff has standing to bring a claim under the Unfair Competition Law (UCL).
+acts:
+  - Assigning more work.
+  - Refusing assistance.
+  - Writing up Plaintiff.
+  - Keeping a "personal" personnel file.
+agreements:
+  - The Court agrees with the Defendants that the Plaintiff's claim of harassment is not distinct from discrimination.
+  - The Court agrees with the Defendants that the Plaintiff's claim for failure to prevent harassment must fail if the harassment claim fails.
+laws:
+  - Code of Civil Procedure, § 438
+  - Unfair Competition Law (UCL)
+  - FEHA (Fair Employment and Housing Act)
+case_citations:
+  - Hahn v. Mirda (2007) 147 Cal.App.4th 740
+  - Taylor v. City of Los Angeles Dept. of Water and Power (2006) 144 Cal.App.4th 1216
+  - Donabedian v. Mercury Ins. Co. (2004) 116 Cal.App.4th 968
+  - SKF Farms v. Superior Court (1984) 153 Cal.App.3d 902
+  - Aguilar v. Avis Rent A Car Sys., Inc. (1999) 21 Cal.4th 121
+  - Miller v. Dept. of Corrections (2005) 36 Cal.4th 446
+  - Reno v. Baird (1998) 18 Cal.4th 640
+  - Thompson v. City of Monrovia (2010) 186 Cal.App.4th 860
+  - Hope v. California Youth Authority (2005) 134 Cal.App.4th 577
+  - Serri v. Santa Clara University (2014) 226 Cal.App.4th 830
+  - Kwikset Corp. v. Superior Court (2011) 51 Cal.4th 310
+statutes: N/A
+roles:
+  - Herbert Schwarz: Plaintiff
+  - Steven Gowan: Defendant
+  - William A. Crowfoot: Judge
+  - HumanGood: Defendant/Employer
+significant_statements:
+  - "Discrimination is distinct from harassment, and while management decisions may be made with improper motives and found discriminatory, harassment is a different concept which 'focuses on situations in which the social environment of the workplace becomes intolerable because the harassment, whether verbal, physical, or visual, communicates an offensive message to the harassed employee.'"
+  - "Economic injury sufficient to support UCL standing exists where the plaintiff 'surrender[ed] in a transaction more, or acquire[d] less than he or she otherwise would have.'"
+```
+..................... .....................
+On 2025-02-06_21:19:45.981070
+The summary displayed below was created by an LLM named:  "gemini-2.0-pro-exp":
+```yaml
+Case Number: 22AHCV00957
+Plaintiff's Name: Herbert Schwarz
+Defendant's Name:
+  - HumanGood
+  - Steven Gowan
+People-Names:
+  - Herbert Schwarz
+  - Steven Gowan
+  - William A. Crowfoot (Judge)
+  - Aguilar
+  - Avis
+  - Miller
+  - Reno
+  - Baird
+  - Thompson
+  - Serri
+  - Hope
+  - Hahn
+  - Mirda
+  - Taylor
+  - Donabedian
+  - Mercury
+  - Kwikset
+Company-Names:
+  - HumanGood
+  - Avis Rent A Car Sys., Inc.
+  - Mercury Ins. Co.
+  - SKF Farms
+  - Santa Clara University
+  - California Youth Authority
+  - City of Los Angeles Dept. of Water and Power
+  - Kwikset Corp.
+Places:
+  - SUPERIOR COURT OF THE STATE OF CALIFORNIA, COUNTY OF LOS ANGELES - NORTHEAST DISTRICT, Dept. 3
+  - City of Monrovia
+Dates:
+  - October 31, 2022 (Initial filing)
+  - October 2017 (Schwarz employment start)
+  - November 2, 2020 (Schwarz employment end)
+  - May 8, 2023 (Prior demurrer sustained)
+  - May 18, 2023 (First Amended Complaint filed)
+  - June 21, 2023 (Demurrer to FAC filed)
+  - September 18, 2023 (Hearing Date and Tentative Ruling Date)
+Events:
+  - Filing of lawsuit
+  - Filing of First Amended Complaint (FAC)
+  - Filing of Demurrer to FAC
+  - Tentative Ruling on Demurrer
+  - Employment of Plaintiff
+  - Alleged discrimination, harassment, and retaliation
+  - Plaintiff's resignation
+  - Previous court order sustaining a demurrer with leave to amend.
+Money:
+  -  Not specified, but Plaintiff seeks "damages and/or restitution of all monies and profits"
+Intentions:
+  - Plaintiff:  To prove discrimination, harassment, retaliation, and unfair competition; to obtain damages and restitution.
+  - Defendants: To dismiss the Second, Fourth, and Sixth Causes of Action of the FAC.
+  - Judge: To rule on the demurrer, considering whether sufficient facts are alleged to support the causes of action.
+Facts:
+  - Schwarz was employed by HumanGood as an IT Help Desk Analyst.
+  - Gowan was Schwarz's supervisor.
+  - Schwarz alleges discrimination and harassment based on age.
+  - Schwarz alleges he was forced to resign.
+  - Defendant's previous demurrer was sustained with leave to amend.
+Disputes:
+  - Whether the FAC sufficiently states causes of action for harassment, failure to prevent harassment, and unfair competition.
+  - Whether HumanGood waived its right to demur. (Court treats it as a motion for judgment on the pleadings).
+  - Whether Gowan's actions constitute harassment or necessary personnel management.
+  - Whether Plaintiff has standing under the UCL.
+Acts:
+ - Alleged: Assigning excessive work, refusing assistance, writing up Plaintiff, keeping a "personal" personnel file.
+ - Demurrer (treated as motion for judgment on the pleadings for HumanGood).
+Agreements:
+  -  None explicitly mentioned, but employment relationship implies an agreement.
+Laws:
+  - Unfair Competition Law (UCL)
+  - California Fair Employment and Housing Act (FEHA) - Implicitly, based on discrimination and harassment claims.
+  - Code of Civil Procedure, § 438 (Motion for judgment on the pleadings)
+Case Citations:
+  - Hahn v. Mirda (2007) 147 Cal.App.4th 740
+  - Taylor v. City of Los Angeles Dept. of Water and Power (2006) 144 Cal.App.4th 1216
+  - Donabedian v. Mercury Ins. Co. (2004) 116 Cal.App.4th 968
+  - SKF Farms v. Superior Court (1984) 153 Cal.App.3d 902
+  - Aguilar v. Avis Rent A Car Sys., Inc. (1999) 21 Cal.4th 121
+  - Miller v. Dept. of Corrections (2005) 36 Cal.4th 446
+  - Reno v. Baird (1998) 18 Cal.4th 640
+  - Thompson v. City of Monrovia (2010) 186 Cal.App.4th 860
+  - Hope v. California Youth Authority (2005) 134 Cal.App.4th 577
+  - Serri v. Santa Clara University (2014) 226 Cal.App.4th 830
+  - Kwikset Corp. v. Superior Court (2011) 51 Cal.4th 310
+Statutes:
+ -Code Civ. Proc., § 438
+Roles:
+  - Plaintiff: Former employee
+  - Defendant (HumanGood): Employer
+  - Defendant (Gowan): Plaintiff's former supervisor
+  - Judge: William A. Crowfoot
+Significant Statements:
+  - "Harassment consists of “conduct outside the scope of necessary job performance, conduct presumably engaged in for personal gratification, because of meanness or bigotry, or for other personal motives.”" (Reno v. Baird)
+  - "Harassment is distinguishable from discrimination under the FEHA." (Serri v. Santa Clara University)
+  -  Economic injury for UCL standing exists where plaintiff “surrender[ed] in a transaction more, or acquire[d] less than he or she otherwise would have.” (Kwikset Corp. v. Superior Court)
+  - "Defendants’ demurrer is SUSTAINED as to Plaintiff’s Second, Fourth, and Sixth Causes of Action with 20 days’ leave to amend."
+
+---
+
+**English Text Summary of the Tentative Ruling:**
+
+Judge William A. Crowfoot issued a tentative ruling on Steven Gowan and HumanGood's demurrer (challenge) to Herbert Schwarz's First Amended Complaint. Schwarz, a former IT Help Desk Analyst at HumanGood, alleges he was forced to resign due to age discrimination and harassment by his supervisor, Gowan.  The judge *sustained* the demurrer for the causes of action related to harassment, failure to prevent harassment, and unfair competition. This means the judge *agreed* with the defendants that Schwarz's complaint, *as currently written*, does not provide enough specific facts to legally support those claims. The judge found that the alleged actions by Gowan, such as assigning more work and keeping a personnel file, fall under the category of necessary personnel management, rather than legally defined harassment.  The judge also found that Schwarz lacked standing to bring a claim under the Unfair Competition Law.  However, the judge granted Schwarz 20 days to amend his complaint, meaning he has the opportunity to revise and refile it with more specific details that might address the judge's concerns. The Court also addressed HumanGood's late filing, by treating it as a "motion for judgement on the pleadings."

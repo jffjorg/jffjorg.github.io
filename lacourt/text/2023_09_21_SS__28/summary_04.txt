@@ -91,3 +91,223 @@ Here is the summary of the judge's tentative ruling in YAML format:
 
 **Significant Statements:**
 * "The Court DENIES Defendant VA Building Company, Inc.'s motion for summary judgment."
+..................... .....................
+On 2025-02-06_15:17:02.600494
+The summary displayed below was created by an LLM named:  "gemma2-9b-it":
+##  Tentative Ruling Summary
+
+**Case Number:** 20STCV36426
+**Hearing Date:** September 21, 2023
+**Dept:** 28
+
+**Parties:**
+
+* **Plaintiff:** Tomas Gutierrez
+* **Defendant:** VA Building Company, Inc. (VA)
+* **Other Defendants:** Reign Investments, LLC, Ghafoori-Tabrizi Kamran, Summer Land Partners Group, Inc. (Summer Land)
+
+**Facts:**
+
+* On November 30, 2019, Plaintiff fell into an uncovered sump hole at a construction project.
+* Plaintiff was working at the project for Bob French Construction.
+* VA was the plumbing contractor at the project and completed its initial work in late October 2019.
+* Plaintiff alleges VA had a duty to ensure the sump hole was covered at all times and well-lit.
+
+**Legal Arguments:**
+
+* **VA:**
+    * Did not create the sump hole.
+    * Had no special relationship with Plaintiff.
+    * Scope of work did not include inspecting the property or ensuring the sump hole was covered.
+    * Presented evidence that an employee of Bob French Construction removed the sump hole cover and a "helper" of the "owner" forgot to replace it.
+* **Plaintiff:**
+    * VA had a duty to ensure the sump hole remained covered while work was not being performed.
+    * VA breached its duty by not replacing the cover.
+    * Inadequate lighting contributed to the fall.
+
+**Court Ruling:**
+
+* **Denies** VA's motion for summary judgment.
+* Finds Plaintiff has raised triable issues of fact regarding:
+    * VA's duty to Plaintiff.
+    * Whether VA breached its duty of care.
+
+**Key Points:**
+
+* The Court considers the testimony of Menashe Kozar, Summer Land's person most qualified, who stated VA was responsible for ensuring the sump hole remained covered.
+* Plaintiff's deposition testimony regarding lighting is not conclusive.
+* Both parties present evidence supporting their respective claims.
+
+
+
+..................... .....................
+On 2025-02-06_15:17:29.116982
+The summary displayed below was created by an LLM named:  "llama3-8b-8192":
+Here is the summary of the Judge's tentative ruling in YAML format:
+
+```
+Case Number: 20STCV36426
+Plaintiff's Name: Tomas Gutierrez
+Defendant's Name: VA Building Company, Inc.
+People-Names:
+  - Menashe Kozar
+  - Bob French
+  - Kamran Ghafoori-Tabrizi
+  - Mia Hong
+Company-Names:
+  - Reign Investments, LLC
+  - Summer Land Partners Group, Inc
+  - VA Building Company, Inc
+Places:
+  - 13724 Victory Boulevard, Van Nuys, California
+  - Project (construction site)
+Dates:
+  - September 24, 2020
+  - November 30, 2020
+  - December 22, 2021
+  - May 31, 2022
+  - December 20, 2022
+  - July 28, 2023
+  - August 4, 2023
+  - August 11, 2023
+  - September 21, 2023
+  - December 15, 2023
+Events:
+  - Plaintiff's fall in the garage of the construction project
+  - VA's work at the Project
+  - VA's alleged failure to ensure the sump hole remained covered
+  - Plaintiff's deposition testimony
+  - VA's presentation of evidence
+Money: None
+Intentions:
+  - Plaintiff seeks to hold VA liable for his injuries
+  - VA seeks to avoid liability for the accident
+Facts:
+  - Plaintiff fell into an 8-foot deep sump hole in the garage of the construction project
+  - The sump hole was typically covered, but was uncovered for up to two weeks before the accident
+  - VA was the plumbing contractor at the Project, but did not own the property or employ Plaintiff
+  - Plaintiff alleges that VA failed to ensure the sump hole remained covered and to provide adequate lighting in the area
+Disputes:
+  - Whether VA had a duty to ensure the sump hole remained covered
+  - Whether VA breached a duty of care to Plaintiff
+Acts:
+  - Plaintiff's fall into the sump hole
+  - VA's work at the Project, including the installation of a sump pump
+  - VA's alleged failure to ensure the sump hole remained covered
+Agreements:
+  - None
+Laws:
+  - California Code of Civil Procedure, Section 437c
+  - Kesner v. Superior Court (2016) 1 Cal.5th 1132
+  - Aguilar v. Atlantic Richfield Co. (2001) 25 Cal.4th 826
+Statutes:
+  - California Code of Civil Procedure, Section 437c
+Case Citations:
+  - LAOSD Asbestos Cases (2023) 87 Cal.App.5th 949
+  - Parkview Villas Assn. v. State Farm Fire & Casualty Co. (2006) 133 Cal.App.4th 1197
+Roles:
+  - Plaintiff: Tomas Gutierrez
+  - Defendant: VA Building Company, Inc.
+  - Judge: [Name of Judge]
+Significant Statements:
+  - The Court finds that VA has carried its initial burden on summary judgment, shifting the burden to Plaintiff.
+  - The Court finds that Plaintiff has raised triable issues of fact regarding duty and breach.
+  - The Court denies VA's motion for summary judgment.
+```
+
+And here is a summary of the Judge's tentative ruling in English text:
+
+The Judge has issued a tentative ruling in the case of Tomas Gutierrez v. VA Building Company, Inc. The case involves a premises liability claim, where Plaintiff Gutierrez alleges that he fell into an 8-foot deep sump hole in the garage of a construction project, and that Defendant VA Building Company, Inc. was negligent in failing to ensure the sump hole remained covered and to provide adequate lighting in the area.
+
+The Judge has ruled that Defendant VA has carried its initial burden on summary judgment, but that Plaintiff Gutierrez has raised triable issues of fact regarding duty and breach. Specifically, the Judge has found that Plaintiff has presented evidence that Defendant VA was responsible for ensuring the sump hole remained covered, and that Defendant VA breached this duty by failing to replace the cover on the sump hole for up to two weeks before the accident.
+
+The Judge has denied Defendant VA's motion for summary judgment, and the case will proceed to trial. The Judge has ordered the parties to comply with the rules of summary judgment and to file the required papers with the Court.
+..................... .....................
+On 2025-02-06_15:17:54.355801
+The summary displayed below was created by an LLM named:  "llama-3.3-70b-specdec":
+Exception:
+Error code: 429 - {'error': {'message': 'Rate limit reached for model `llama-3.3-70b-specdec` in organization `org_01hw84cjv0f12v63qt47723ar2` service tier `on_demand` on : Limit 100000, Used 98601, Requested 3412. Please try again in 28m59.201s. Visit https://console.groq.com/docs/rate-limits for more information.', 'type': '', 'code': 'rate_limit_exceeded'}}
+..................... .....................
+On 2025-02-06_15:27:56.273433
+The summary displayed below was created by an LLM named:  "mixtral-8x7b-32768":
+case\_number: 20STCV36426
+hearing\_date: September 21, 2023
+dept: 28
+parties:
+  - name: Tomas Gutierrez
+    role: Plaintiff
+  - name: Reign Investments, LLC
+    role: Defendant
+  - name: Ghafoori-Tabrizi Kamran
+    role: Defendant
+  - name: Summer Land Partners Group, Inc.
+    role: Defendant
+  - name: VA Building Company, Inc.
+    role: Defendant
+  - name: Roes 1-20
+    role: Cross-Defendants
+people:
+  - name: Tomas Gutierrez
+  - name: Menashe Kozar
+  - name: Mia Hong
+places:
+  - name: 13724 Victory Boulevard, Van Nuys, California
+    role: Project location
+companies:
+  - name: Bob French Construction
+  - name: Reign Investments, LLC
+  - name: Ghafoori-Tabrizi Kamran
+  - name: Summer Land Partners Group, Inc.
+  - name: VA Building Company, Inc.
+dates:
+  - September 24, 2020
+  - November 30, 2020
+  - December 22, 2021
+  - May 31, 2022
+  - December 20, 2022
+  - August 11, 2023
+  - September 21, 2023
+  - December 15, 2023
+events:
+  - name: Plaintiff filed a complaint for premises liability
+  - name: Reign filed an answer and a cross-complaint
+  - name: Summer Land and VA filed answers
+  - name: VA moved for summary judgment
+  - name: Plaintiff opposed VA's motion for summary judgment
+  - name: Court heard arguments and continued the hearing
+  - name: Trial is set for December 15, 2023
+money:
+intentions:
+  - name: VA
+    request: grant summary judgment
+  - name: Plaintiff
+    request: deny the motion
+laws:
+  - name: LAOSD Asbestos Cases
+  - name: Aguilar v. Atlantic Richfield Co.
+  - name: Code Civ. Proc., § 437c
+statutes:
+  - name: Kesner v. Superior Court
+disputes:
+  - name: negligence
+    elements:
+      - legal duty of care
+      - breach of duty
+      - proximate cause resulting in injury
+facts:
+  - name: Plaintiff fell in the garage of a construction project
+  - name: Plaintiff fell into a sump hole
+  - name: VA did not create the sump hole
+  - name: VA did not own the property
+  - name: VA's initial work was completed by the end of October 2019
+  - name: An employee of Bob French Construction placed a plywood cover over the sump hole
+acts:
+  - name: VA argues it did not have a duty to Plaintiff
+agreements:
+roles:
+  - name: VA
+    role: plumbing contractor
+significant\_statements:
+  - name: The Court DENIES Defendant VA Building Company, Inc.’s motion for summary judgment.
+
+In this tentative ruling, Judge rules on a summary judgment motion brought by VA Building Company, Inc. in a premises liability case. The judge considers the evidence presented by both parties and finds that Plaintiff has raised triable issues of fact regarding duty and breach. Therefore, the judge denies VA's motion for summary judgment.

@@ -67,3 +67,273 @@ Significant Statements:
 And here is the English-text summary:
 
 The Judge has issued a tentative ruling in the case of Petitioner's petition for a name change. The Judge has found that the Probation Office's criminal history assessment reveals that Petitioner has active outstanding warrants in Virginia, Ohio, and California. The warrants include charges such as assault, failure to appear, and petit larceny. The Judge has ordered Petitioner to clear all of the outstanding bench warrants and file evidence of such before the Court will rule on the petition. The OSC and hearing on the petition for name change have been continued to November 20, 2023 at 9:00 am. Petitioner must file written proof that the outstanding bench warrants have all been fully addressed and resolved no later than two weeks before the continued OSC and hearing. Failure to do so will result in the OSC and hearing being taken off calendar without prejudice to be placed back on calendar upon filing of proof that all outstanding warrants have been cleared.
+..................... .....................
+On 2025-02-06_20:46:48.548829
+The summary displayed below was created by an LLM named:  "gemma2-9b-it":
+## Tentative Ruling Summary in YAML
+
+```yaml
+Case Number: 23STCP02827
+Hearing Date: September 25, 2023
+Dept: 26
+
+People-Names:
+  - Petitioner
+
+Company-Names:
+  - CLETS
+  - Fairfax County PD
+  - Alexandria PD
+  - Pickaway Co Sheriffs
+  - Los Angeles PD
+  - Topanga
+  - Los Angeles PD
+  - Hollywood
+
+Places:
+  - Virginia
+    - Fairfax County
+    - Alexandria
+  - Ohio
+    - Pickaway County
+  - California
+    - Los Angeles
+      - Topanga
+      - Hollywood
+
+Dates:
+  - September 25, 2023
+  - November 20, 2023
+
+Events:
+  - Hearing on petition for name change
+  - Outstanding bench warrants discovered
+  - Hearing continued to November 20, 2023
+  - Petitioner required to clear warrants and file proof before ruling
+
+Money:
+  - Bail $150,000 (California Bench Warrant)
+  - Bail $20,000 (California Bench Warrant)
+
+Intentions:
+  - Petitioner seeks a name change
+
+Facts:
+  - Petitioner has active outstanding warrants in Virginia, Ohio, and California.
+
+Disputes:
+  - None explicitly stated
+
+Acts:
+  - Probation Office conducted criminal history assessment
+  - Petitioner's outstanding warrants listed
+
+Agreements:
+  - None explicitly stated
+
+Laws:
+  - California law regarding name changes
+
+Case Citations:
+  - None explicitly stated
+
+Statutes:
+  - None explicitly stated
+
+Roles:
+  - Judge: Deciding on the petition for name change
+  - Petitioner: Seeking a name change
+  - Probation Office: Providing criminal history assessment
+  - Court Clerk: Notifying all parties
+
+Significant Statements:
+  - "Petitioner must clear all of the outstanding bench warrants and file evidence of such before the Court will rule on the petition for name change."
+  - "Failure to do so will result in the OSC and hearing on the petition being taken off calendar without prejudice to be placed back on calendar upon filing of proof that all outstanding warrants have been cleared."
+
+
+
+```
+
+## English Summary
+
+The Judge issued a tentative ruling in a case where the Petitioner is seeking a name change. The ruling states that the Judge will not rule on the petition until the Petitioner clears all outstanding bench warrants in Virginia, Ohio, and California.
+
+The Probation Office discovered these warrants through a criminal history assessment. The warrants involve charges ranging from assault and larceny to flight and escape. 
+
+The hearing on the name change petition has been continued to November 20, 2023. The Petitioner must provide written proof that all warrants have been resolved by two weeks before the continued hearing. Failure to do so will result in the case being dismissed without prejudice, meaning it can be refiled once the warrants are cleared.  The Probation Office will run a new criminal history assessment before the continued hearing to verify that the warrants have been cleared.
+
+
+
+
+
+..................... .....................
+On 2025-02-06_20:47:14.372099
+The summary displayed below was created by an LLM named:  "llama3-8b-8192":
+Here is the summary in YAML format:
+
+```
+Case Number: 23STCP02827
+Plaintiff's Name: Petitioner
+Defendant's Name: None
+People-Names:
+  - Petitioner
+Company-Names:
+Places:
+  - Virginia (Fairfax County PD)
+  - Virginia (Alexandria PD)
+  - Ohio (Pickaway Co Sheriffs)
+  - California (Los Angeles PD/Topanga)
+  - California (Los Angeles PD/Hollywood)
+Dates:
+  - September 25, 2023
+  - November 20, 2023
+Events:
+  - Hearing on petition for name change
+  - Probation history assessment
+  - OSC (Order to Show Cause)
+Money:
+  - Bail: $150,000
+  - Bail: $20,000
+Intentions:
+  - Petitioner must clear outstanding bench warrants before petition for name change is ruled on
+Disputes:
+  - Outstanding bench warrants
+Facts:
+  - Petitioner has active outstanding warrants in multiple jurisdictions
+Acts:
+  - Petitioner must file written proof of cleared warrants
+  - Probation Office to run new criminal history assessment
+Agreements:
+  - Continued OSC and hearing on petition for name change
+Laws:
+  - None mentioned
+Case Citations:
+  - None mentioned
+Statutes:
+  - None mentioned
+Roles:
+  - Probation Officer
+  - Court Clerk
+  - Petitioner
+Significant Statements:
+  - "Petitioner has active outstanding warrants."
+  - "Petitioner must clear all of the outstanding bench warrants and file evidence of such..."
+```
+
+And here is a summary in English text:
+
+The Judge has issued a tentative ruling in the case of Petitioner's petition for a name change. The Probation Office has conducted a criminal history assessment and found that Petitioner has active outstanding warrants in multiple jurisdictions, including Virginia, Ohio, and California. The Judge has ordered Petitioner to clear all of these outstanding bench warrants before the Court will rule on the petition for a name change. The OSC and hearing on the petition for name change have been continued to November 20, 2023, at 9:00 am. Petitioner must file written proof that the outstanding bench warrants have been fully addressed and resolved at least two weeks before the continued OSC and hearing. Failure to do so will result in the OSC and hearing being taken off calendar without prejudice. The Probation Office will run a new criminal history assessment prior to the continued OSC to verify that the bench warrant has been cleared.
+..................... .....................
+On 2025-02-06_20:47:40.062842
+The summary displayed below was created by an LLM named:  "llama-3.3-70b-specdec":
+Here is a YAML summary of the tentative ruling:
+
+```yml
+Case Number: 23STCP02827
+Plaintiff's Name: Petitioner
+Defendant's Name: None
+People-Names: 
+  - Petitioner
+  - Probation Officer
+Company-Names: 
+  - Probation Office
+  - CLETS
+Places: 
+  - Virginia
+  - Fairfax County
+  - Alexandria
+  - Ohio
+  - Pickaway County
+  - California
+  - Los Angeles
+  - Topanga
+  - Hollywood
+Dates: 
+  - September 25, 2023
+  - November 20, 2023
+Events: 
+  - Hearing
+  - Filing of petition for name change
+  - Clearance of outstanding bench warrants
+Money: 
+  - $150,000 (bail)
+  - $20,000 (bail)
+Intentions: 
+  - Petitioner intends to change their name
+  - Court intends to rule on petition for name change after outstanding warrants are cleared
+Facts: 
+  - Petitioner has outstanding warrants in Virginia, Ohio, and California
+  - Petitioner must clear all outstanding warrants before the Court will rule on the petition for name change
+Disputes: 
+  - None
+Acts: 
+  - Petitioner's failure to appear in court
+  - Petitioner's alleged crimes (assault, larceny, etc.)
+Agreements: 
+  - None
+Laws: 
+  - None specified
+Case Citations: 
+  - None
+Statutes: 
+  - None specified
+Roles: 
+  - Judge
+  - Petitioner
+  - Probation Officer
+  - Court Clerk
+Significant Statements: 
+  - "Petitioner must clear all of the outstanding bench warrants and file evidence of such before the Court will rule on the petition for name change."
+```
+
+And here is a summary of the tentative ruling in English text:
+
+The Judge has issued a tentative ruling in case number 23STCP02827, which involves a petition for a name change. However, the Judge has discovered that the Petitioner has several outstanding warrants in Virginia, Ohio, and California. The warrants are for various crimes, including assault, larceny, and failure to appear in court. The Judge has ordered the Petitioner to clear all of the outstanding warrants and provide proof of this before the Court will consider the petition for a name change. The hearing on the petition has been continued to November 20, 2023, and the Petitioner must file written proof that the warrants have been cleared at least two weeks before the hearing. If the Petitioner fails to do so, the hearing will be taken off calendar without prejudice. The Probation Office will run a new criminal history assessment before the continued hearing to verify that the warrants have been cleared. The Court Clerk will give notice to all parties.
+..................... .....................
+On 2025-02-06_20:48:06.119421
+The summary displayed below was created by an LLM named:  "mixtral-8x7b-32768":
+case\_number: 23STCP02827
+hearing\_date: September 25, 2023
+dept: 26
+plaintiff: Not specified
+defendant: Not specified
+people\_names:
+- Petitioner
+places:
+- Virginia (Fairfax County PD)
+- Virginia (Alexandria PD)
+- Ohio (Pickaway Co Sheriffs)
+- California (Los Angeles PD/Topanga)
+- California (Los Angeles PD/Hollywood)
+dates:
+- Active outstanding warrants
+events:
+- Criminal history assessment
+- Outstanding warrants
+- Failure to appear
+money:
+- Bail: $150,000
+- Bail: $20,000
+intentions:
+- Name change
+facts:
+- Petitioner has active outstanding warrants
+disputes:
+- Petitioner's outstanding warrants
+acts:
+- Running a new criminal history assessment
+agreements:
+- Petitioner must clear all outstanding bench warrants
+- Petitioner must file evidence of such before the Court will rule on the petition for name change
+- The OSC and hearing on the petition for name change are continued to November 20, 2023 at 9:00 am
+- Petitioner must file written proof that the outstanding bench warrants have all been fully addressed and resolved no later than two weeks before the continued OSC
+- Failure to do so will result in the OSC and hearing on the petition being taken off calendar without prejudice
+- The Probation Office is to run a new criminal history assessment prior to the continued OSC to verify that the bench warrant has been cleared
+roles:
+- Judge
+- Petitioner
+- Probation Officer
+- Court Clerk
+significant\_statements:
+- "Petitioner must clear all of the outstanding bench warrants and file evidence of such before the Court will rule on the petition for name change."
+- "Failure to do so will result in the OSC and hearing on the petition being taken off calendar without prejudice to be placed back on calendar upon filing of proof that all outstanding warrants have been cleared."

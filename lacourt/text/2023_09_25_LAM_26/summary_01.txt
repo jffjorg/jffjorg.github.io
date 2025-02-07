@@ -41,3 +41,187 @@ Significant Statements:
 And here is the English text summary:
 
 The judge has issued a tentative ruling denying the petition without prejudice. The petition was continued on August 14, 2023, with the court ordering the petitioner to provide identification tied to a fingerprint to enable a criminal history assessment. However, the petitioner failed to comply with this order and has not provided the necessary identification. As a result, the petition is denied without prejudice, and the petitioner may resubmit a new petition once the identification issue is resolved.
+..................... .....................
+On 2025-02-06_20:18:58.247563
+The summary displayed below was created by an LLM named:  "gemma2-9b-it":
+## Tentative Ruling Summary in YAML
+
+```yaml
+Case Number: 23STCP01934
+Hearing Date: September 25, 2023
+Dept: 26
+People-Names:  Petitioner
+Company-Names: 
+Places: 
+Dates: 
+    - August 14, 2023
+Events:
+    - Court continued the petition on August 14, 2023
+    - Petitioner failed to provide identification with fingerprint
+Intentions: 
+    - Petitioner to submit a new petition addressing the lack of identification
+Facts:
+    - Petitioner failed to provide identification tied to a fingerprint 
+Disputes: 
+    - None
+Acts:
+    - Court continued the petition
+    - Petitioner failed to provide identification
+Agreements: 
+    - None
+Laws: 
+    - None
+Case Citations: 
+    - None
+Statutes: 
+    - None
+Roles:
+    - Judge:  Issued the tentative ruling
+    - Petitioner:  Failed to provide identification
+Significant Statements:
+    - "Petitioner has failed to provide any form of identification tied to a fingerprint, which is necessary for Probation to run a criminal history assessment."
+    - "Accordingly, the instant petition is DENIED WITHOUT PREJUDICE."
+    - "Petitioner may submit a new petition addressing the lack of identification tied to a fingerprint for Probation to run a criminal history assessment." 
+```
+
+
+
+
+## English Text Summary
+
+The judge's tentative ruling denies the petitioner's request. The reason for the denial is that the petitioner failed to provide identification with a fingerprint, which is required for a criminal history assessment by Probation. 
+
+The court had previously continued the petition on August 14, 2023, specifically addressing this issue and instructing the petitioner on how to provide the necessary identification. However, the petitioner did not comply with the court's order. 
+
+The denial is "without prejudice," meaning the petitioner can submit a new petition once they have provided the required identification. 
+
+
+
+..................... .....................
+On 2025-02-06_20:19:23.904447
+The summary displayed below was created by an LLM named:  "llama3-8b-8192":
+Here is the summary in YAML format:
+
+```
+Case Number: 23STCP01934
+Plaintiff's Name: 
+Defendant's Name: Petitioner
+People-Names: 
+Company-Names: 
+Places: 
+Dates:
+  - August 14, 2023
+  - September 25, 2023
+Events:
+  - Petitioner failed to provide identification tied to a fingerprint
+  - Court continued the petition and ordered Petitioner to provide identification
+  - Petitioner failed to comply with the order
+Money: 
+Intentions:
+  - Probation to run a criminal history assessment
+Facts:
+  - Petitioner has failed to provide identification tied to a fingerprint on file
+  - Court ordered Petitioner to provide identification verified by a fingerprint
+Disputes:
+  - Lack of identification tied to a fingerprint
+Acts:
+  - Petitioner failed to comply with the court's order
+  - Court continued the petition and denied it without prejudice
+Agreements:
+  - Petitioner may submit a new petition addressing the lack of identification
+Laws:
+  - None specified
+Case Citations: 
+Statutes: 
+Roles:
+  - Petitioner
+  - Court
+  - Probation
+Significant Statements:
+  - "Petitioner has failed to provide any form of identification tied to a fingerprint on file, which is necessary for Probation to run a criminal history assessment."
+```
+
+And here is a summary of the judge's tentative ruling in English text:
+
+The judge has issued a tentative ruling on a petition filed by Probation. The petition was denied without prejudice because the petitioner failed to provide any form of identification tied to a fingerprint on file, which is necessary for Probation to run a criminal history assessment. The court had previously continued the petition and ordered the petitioner to provide identification verified by a fingerprint, but the petitioner failed to comply with the order. The judge is giving the petitioner another chance to submit a new petition addressing the lack of identification, and the court clerk will provide notice of the denial.
+..................... .....................
+On 2025-02-06_20:19:49.443630
+The summary displayed below was created by an LLM named:  "llama-3.3-70b-specdec":
+Here is a YAML summary of the tentative ruling:
+
+```yml
+Case Number: 23STCP01934
+Plaintiff's Name: Petitioner
+Defendant's Name: None
+People-Names: None
+Company-Names: None
+Places: Court, Probation
+Dates:
+  - August 14, 2023
+  - September 25, 2023
+Events:
+  - Court hearing
+  - Petition submission
+  - Probation criminal history assessment
+Money: None
+Intentions:
+  - Petitioner: to submit a petition
+  - Court: to deny petition without prejudice
+Facts:
+  - Petitioner failed to provide identification tied to a fingerprint
+  - Probation requires identification for criminal history assessment
+Disputes: None
+Acts:
+  - Petitioner failed to provide identification
+  - Court ordered Petitioner to provide identification
+Agreements: None
+Laws: None
+Case Citations: None
+Statutes: None
+Roles:
+  - Petitioner: plaintiff
+  - Court: judge
+  - Probation: agency
+  - Court Clerk: clerk
+Significant Statements:
+  - "Petitioner has failed to provide any form of identification tied to a fingerprint on file"
+  - "Petitioner may submit a new petition addressing the lack of identification tied to a fingerprint for Probation to run a criminal history assessment"
+```
+
+And here is a summary of the tentative ruling in English text:
+
+The Judge has issued a tentative ruling in Case Number 23STCP01934, denying the Petitioner's petition without prejudice. The Petitioner failed to provide identification tied to a fingerprint, which is necessary for Probation to run a criminal history assessment. Despite being ordered to do so on August 14, 2023, the Petitioner did not provide the required identification. As a result, the Court is denying the petition, but the Petitioner may submit a new petition once they have provided the necessary identification. The Court Clerk is instructed to give notice of the ruling.
+..................... .....................
+On 2025-02-06_20:20:15.201162
+The summary displayed below was created by an LLM named:  "mixtral-8x7b-32768":
+case\_number: 23STCP01934
+hearing\_date: September 25, 2023
+dept: 26
+petitioner:
+name: [People-Names]
+issues:
+- lack\_of\_identification: true
+- criminal\_history\_assessment: true
+probation:
+- ordered\_criminal\_history\_assessment: true
+- fingerprint\_identification\_required: true
+events:
+- date: August 14, 2023
+  court\_continued\_petition: true
+  court\_order\_petitioner:
+    - provide\_identification: true
+    - fingerprint\_verification: true
+disputes:
+- petitioner\_failure\_to\_provide\_identification: true
+acts:
+- petition\_denied: true
+- without\_prejudice: true
+intentions:
+- petitioner\_to\_submit\_new\_petition: true
+roles:
+- judge: true
+- petitioner: true
+- probation: true
+- court\_clerk: true
+statements:
+- "Petitioner has failed to provide any form of identification tied to a fingerprint on file, which is necessary for Probation to run a criminal history assessment."

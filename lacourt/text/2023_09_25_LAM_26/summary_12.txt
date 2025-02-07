@@ -49,3 +49,117 @@ Significant Statements:
 And here is the English-text summary:
 
 The Judge has issued a tentative ruling in the case of 23STCP02846, granting the petition to change name. The Judge orders the Petitioner to review the proposed decree and ensure that the new name is clearly written and correctly spelled. If the Petitioner is satisfied with the proposed decree, no appearance is necessary at the hearing on September 25, 2023. However, if the new name is not accurately written, the Petitioner must appear at the hearing to submit a corrected proposed decree. The Judge also notes that once the proposed decree is signed, it cannot be amended without a new petition to change name.
+..................... .....................
+On 2025-02-06_20:59:52.032558
+The summary displayed below was created by an LLM named:  "gemma2-9b-it":
+## Tentative Ruling Summary in YAML
+
+```yaml
+Case Number: 23STCP02846
+Hearing Date: September 25, 2023
+Dept: 26
+People-Names: Petitioner
+Company-Names: 
+Places: Room 112 of the Clerk's Office
+Dates: September 25, 2023
+Events: Hearing, Name Change Petition Granted
+Money: 
+Intentions: Change name
+Facts: 
+Disputes: 
+Acts: Petitioner proposes decree with new name, Judge reviews
+Agreements: 
+Laws: 
+Case Citations: 
+Statutes: 
+Roles: Petitioner, Judge
+Significant Statements:  
+- "Petitioner must double check the spelling and legibility of the new name on the proposed decree."
+- "If Petitioner is satisfied with the spelling and legibility of the new name on the proposed decree, NO APPEARANCE IS NECESSARY."
+- "If the new name is not clearly written and correctly spelled on the proposed decree, Petitioner must appear at the hearing to submit a corrected proposed decree."
+- "A copy of the signed decree will be available in Room 112 of the Clerk's Office seven days after the date of the hearing."
+- "Once the proposed decree is signed, it cannot be amended without a new petition to change name." 
+```
+
+## English Summary 
+
+The Judge has tentatively ruled in favor of the Petitioner's name change request in case number 23STCP02846.  
+
+The Judge states that the Petitioner must carefully review the spelling and legibility of their new name on the proposed decree. If the Petitioner is satisfied with the proposed name, they do not need to appear at the hearing on September 25, 2023. 
+
+However, if the Petitioner finds any errors in the spelling or legibility of the new name, they must appear at the hearing to submit a corrected version of the decree. 
+
+Once the Judge signs the decree, it cannot be amended without filing a new petition for a name change. A signed copy of the decree will be available in Room 112 of the Clerk's Office seven days after the hearing. 
+
+
+
+
+
+
+..................... .....................
+On 2025-02-06_21:00:17.703254
+The summary displayed below was created by an LLM named:  "llama3-8b-8192":
+Here is the YAML summary:
+
+```
+Case Number: 23STCP02846
+Plaintiff's Name: Petitioner
+Defendant's Name: N/A
+People-Names:
+  - Petitioner
+Company-Names: N/A
+Places:
+  - Room 112 of the Clerk's Office
+Dates:
+  - September 25, 2023
+Events:
+  - Hearing
+  - Submission of proposed decree
+Money: N/A
+Intentions:
+  - Grant petition
+  - Sign decree
+Disputes:
+  - Inaccurate spelling and legibility of new name on proposed decree
+Facts:
+  - Petitioner must double-check spelling and legibility of new name
+Acts:
+  - Petitioner must appear at hearing to submit corrected proposed decree (if necessary)
+Agreements:
+  - Petitioner must ensure correct spelling and legibility of new name
+Laws: N/A
+Case Citations: N/A
+Statutes: N/A
+Roles:
+  - Petitioner: must ensure correct spelling and legibility of new name
+Significant Statements:
+  - "If Petitioner is satisfied with the spelling and legibility of the new name on the proposed decree, NO APPEARANCE IS NECESSARY."
+  - "Once the proposed decree is signed, it cannot be amended without a new petition to change name."
+```
+
+And here is the English text summary:
+
+The judge has issued a tentative ruling in the case 23STCP02846. The petition to change the petitioner's name has been granted, but the petitioner must ensure that the new name is correctly spelled and legible on the proposed decree. If the petitioner is satisfied with the spelling and legibility of the new name, they do not need to appear at the hearing. However, if the new name is not clearly written and correctly spelled, the petitioner must appear at the hearing to submit a corrected proposed decree. Once the proposed decree is signed, it cannot be amended without a new petition to change name. A copy of the signed decree will be available in Room 112 of the Clerk's Office seven days after the date of the hearing.
+..................... .....................
+On 2025-02-06_21:00:42.938538
+The summary displayed below was created by an LLM named:  "llama-3.3-70b-specdec":
+Exception:
+Error code: 429 - {'error': {'message': 'Rate limit reached for model `llama-3.3-70b-specdec` in organization `org_01hw84cjv0f12v63qt47723ar2` service tier `on_demand` on : Limit 100000, Used 99767, Requested 339. Please try again in 1m31.508s. Visit https://console.groq.com/docs/rate-limits for more information.', 'type': '', 'code': 'rate_limit_exceeded'}}
+..................... .....................
+On 2025-02-06_21:10:43.606604
+The summary displayed below was created by an LLM named:  "mixtral-8x7b-32768":
+case\_number: 23STCP02846
+hearing\_date: September 25, 2023
+dept: 26
+petitioner:
+people\_names:
+- Petitioner
+petition\_granted: true
+new\_name\_decree:
+- The new name on the proposed decree must be clearly written and correctly spelled.
+- Petitioner must double-check spelling and legibility before the hearing.
+- If Petitioner is satisfied with the new name on the proposed decree, no appearance is necessary.
+- If the new name is not correct, Petitioner must appear to submit a corrected proposed decree.
+- Once the proposed decree is signed, it cannot be amended without a new petition.
+copy\_decree:
+- A copy of the signed decree will be available in Room 112 of the Clerk's Office seven days after the hearing.

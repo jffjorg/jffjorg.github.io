@@ -413,3 +413,192 @@ significant\_statements:
 - Plaintiff has not provided admissible evidence in support of the motion
 - California Constitution prohibits imprisonment for debt
 - Court cannot hold defendant in contempt for failure to pay the debt owed.
+..................... .....................
+On 2025-02-06_21:26:15.576201
+The summary displayed below was created by an LLM named:  "gemini-2.0-flash-exp":
+```yaml
+case_number: SC129646
+plaintiff_name: Mela Ferrer
+defendant_name: Benson Gilliard DBA Better Cardio & Body LLC
+people_names:
+  - Mela Ferrer
+  - Benson Gilliard
+company_names:
+  - Better Cardio & Body LLC
+places:
+  - "City and County of San Francisco" #From Case Citation
+dates:
+  - "September 18, 2023" # Hearing Date
+  - "June 27, 2022" # Judgment Date
+  - "November 14, 2019" # Default Judgment Date
+  - "October 16, 2020" # Motion to Vacate Date
+  - "September 2, 2021" # Motion to Vacate Granted Date
+  - "September 8, 2021" # Defendant Answered Complaint Date
+  - "January 24, 2022" # Court Granted Opportunity to File Opposition Date
+  - "January 27, 2022" # Plaintiff Filed Opposition Date
+  - "March 25, 2022" # Court Granted Motion to Vacate Again Date
+  - "April 14, 2022" # Defendant to Answer Complaint
+  - "April 12, 2022" # Defendant Filed General Denial
+  - "June 10, 2022" # Court Denied Motion for Entry of Default
+  - "May 25, 2023" # Plaintiff Filed Motion for Document Fraud
+  - "June 7, 2023" # Plaintiff Filed Motion to Amend Motion for Document Fraud
+  - "June 22, 2023" # Court's Minute Order
+events:
+  - "Hearing on Motion for Contempt"
+  - "Loan Agreement"
+  - "Bench Trial"
+  - "Default Judgment"
+  - "Motion to Vacate Judgment"
+  - "Motion for Document Fraud"
+money:
+  - "44208.41" # Principal
+  - "18749.21" # Prejudgment Interest
+  - "62957.62" # Total Award
+intentions:
+  - "Plaintiff seeks contempt order against Defendant."
+  - "Plaintiff seeks to enforce judgment."
+  - "Defendant's intentions are unclear, but he has not opposed the motion."
+facts:
+  - "Plaintiff loaned money to Defendant for his business."
+  - "Defendant failed to repay the loan."
+  - "Court entered judgment for Plaintiff on June 27, 2022."
+  - "Defendant is sending Plaintiff invoices that omit prejudgment interest and contain improper deductions."
+  - "Plaintiff believes Defendant is not paying the full judgment."
+disputes:
+  - "Accuracy of Defendant's accounting of debt owed."
+  - "Defendant's compliance with the June 27, 2022 judgment."
+acts:
+  - "Defendant failed to repay the loan."
+  - "Defendant sent invoices to Plaintiff."
+  - "Plaintiff filed a motion for contempt."
+agreements:
+  - "Loan agreement between Plaintiff and Defendant."
+laws:
+  - "Code of Civil Procedure section 1209, subdivision (a)(5)"
+  - "Penal Code section 166"
+  - "California Constitution, article I, § 10"
+case_citations:
+  - "Cedars-Sinai Imaging Medical Group v. Superior Court (2000) 83 Cal.App.4th 1281"
+  - "Knutte v. Superior Court of City and County of San Francisco (1901) 134 Cal. 660"
+  - "Crider v. Superior Court (1993) 15 Cal.App.4th 227"
+statutes:
+  - "Code of Civil Procedure section 1209"
+  - "Penal Code section 166"
+roles:
+  - "Plaintiff: Mela Ferrer"
+  - "Defendant: Benson Gilliard DBA Better Cardio & Body LLC"
+  - "Judge: (Not Named)"
+significant_statements:
+  - "Court denies Plaintiff's motion for contempt as procedurally and substantively faulty."
+  - "Contempt proceedings are quasi-criminal in nature and require personal service."
+  - "Plaintiff has not provided admissible evidence."
+  - "The judgment did not order Defendant to provide an accounting."
+  - "California Constitution prohibits imprisonment for debt."
+```
+
+**Summary of Judge's Tentative Ruling:**
+
+The Judge is leaning towards denying Mela Ferrer's motion for contempt against Benson Gilliard. The Judge finds the motion procedurally and substantively improper.  Procedurally, the Defendant was served by mail instead of personal service, which is required for contempt motions. Substantively, the Judge states that the Plaintiff did not provide admissible evidence.  Also, the Judge notes that the original judgment did not order the Defendant to provide an accounting, so the invoices are not a direct violation of the judgment. Finally, the judge notes that the state constitution prohibits imprisonment for debt, so the Defendant cannot be held in contempt for failing to pay. Therefore, the Court intends to deny the motion.
+..................... .....................
+On 2025-02-06_21:27:16.679830
+The summary displayed below was created by an LLM named:  "gemini-2.0-pro-exp":
+```yaml
+case_number: SC129646
+plaintiff: Mela Ferrer
+defendant: Benson Gilliard
+defendant_dba: Better Cardio & Body LLC
+people_names:
+  - Mela Ferrer
+  - Benson Gilliard
+company_names:
+  - Better Cardio & Body LLC
+places:
+  - "Department 207"
+  - San Francisco (Mentioned in Case Citation)
+dates:
+  - "November 14, 2019" # Default judgment
+  - "October 16, 2020"   # Motion to vacate
+  - "September 2, 2021"  # Motion to vacate granted
+  - "September 8, 2021"  # Answer filed
+  - "January 24, 2022"   # Reconsideration of motion to vacate
+  - "January 27, 2022"   # Opposition to motion to vacate
+  - "March 25, 2022"     # Motion to vacate granted again
+  - "April 12, 2022"     # Answer by general denial
+  - "April 14, 2022"    # Deadline to Answer
+  - "June 10, 2022"     # Plaintiff motion for default denied
+  - "June 27, 2022"     # Bench trial and judgment date
+  - "May 25, 2023"     # Motion for document fraud
+  - "June 7, 2023"      # Motion to amend
+  - "June 22, 2023"      # Minute Order
+  - "September 18, 2023" # Hearing date for contempt motion
+events:
+  - Loan agreement
+  - Default judgment
+  - Motion to vacate judgment
+  - Answer to complaint (general denial)
+  - Reconsideration of motion to vacate
+  - Bench trial
+  - Judgment in favor of Plaintiff
+  - Motion for document fraud
+  - Motion to amend motion for document fraud
+  - Motion for Contempt
+  - Sending of Invoices by Defendant
+money:
+  - "$44,208.41": Principal amount of judgment
+  - "$18,749.21": Prejudgment interest
+  - "$62,957.62": Total judgment amount
+intentions:
+  - Plaintiff:  Seeks order of contempt, payment of judgment, believes invoices are fraudulent.
+  - Defendant: Appears to not intend to pay the full judgment amount, including interest (implied).
+  - Court: To apply the law correctly, deny the motion for contempt.
+facts:
+  - Plaintiff loaned money to Defendant for his business.
+  - Defendant failed to repay the loan per the agreement.
+  - Default judgment was entered, then vacated, then reinstated, then vacated again.
+  - A bench trial resulted in a judgment for Plaintiff.
+  - Defendant has been sending invoices that do not reflect the full judgment amount.
+  - Defendant did not oppose the contempt motion.
+  - Plaintiff did not properly serve the contempt motion.
+disputes:
+  - Defendant's failure to repay the loan.
+  - The accuracy of Defendant's invoices.
+  - Whether Defendant is in contempt of court.
+  - Defendant not including prejudgment interest.
+acts:
+  - "Loan": Plaintiff loaned Defendant Money.
+  - "Fail to Repay": Defendant did not repay the loan.
+  - "Motion for Contempt": Plaintiff filed motion.
+  - "Sending Invoices": Defendant sent invoices.
+  - "Failing to comply": Defendant has not paid the Judgment.
+agreements:
+  - Loan agreement between Plaintiff and Defendant.
+laws:
+  - California Constitution, Article I, Section 10 (prohibits imprisonment for debt)
+case_citations:
+  - Cedars-Sinai Imaging Medical Group v. Superior Court (2000) 83 Cal.App.4th 1281, 1286-1287
+  - Knutte v. Superior Court of City and County of San Francisco (1901) 134 Cal. 660, 661
+  - Crider v. Superior Court (1993) 15 Cal.App.4th 227, 232
+statutes:
+  - Code of Civil Procedure section 1209, subdivision (a)
+  - Penal Code section 166
+roles:
+  - Plaintiff: Lender, party seeking contempt order.
+  - Defendant: Borrower, party alleged to be in contempt.
+  - Judge: Decides the motion.
+significant_statements:
+    -  "Plaintiff...in pro per, seeks an order of contempt against Defendant..."
+    - "Defendant has not opposed the motion."
+    - "...the Court entered judgment in Plaintiff’s favor..."
+    - "Contempt proceedings are quasi-criminal in nature and require personal service..."
+    - "Plaintiff has not provided any admissible evidence in support of the motion."
+    - "...the judgment did not order Defendant to provide an accounting..."
+    - "the California Constitution prohibits imprisonment for debt."
+    - "Therefore, the Court denies Plaintiff’s motion for contempt..."
+
+```
+
+**Summary in English Text:**
+
+The Judge issued a tentative ruling denying Mela Ferrer's motion for contempt against Benson Gilliard (doing business as Better Cardio & Body LLC).  Ferrer, representing herself, claimed Gilliard was in contempt of court for not fully complying with a June 27, 2022 judgment.  The judgment stemmed from a loan Ferrer made to Gilliard that he didn't repay.  The court had previously awarded Ferrer $62,957.62, including principal and prejudgment interest.  Ferrer's contempt motion alleged Gilliard sent her invoices that didn't include the prejudgment interest and contained other improper deductions.
+
+The Judge denied the motion for several reasons. First, Ferrer didn't properly serve Gilliard with the motion; contempt proceedings require personal service, and Ferrer only served him by mail. Second, Ferrer didn't provide any admissible evidence (like a declaration under penalty of perjury) to support her claims.  Third, the original judgment didn't order Gilliard to provide an accounting, so the invoices themselves weren't a direct violation. Finally, even if Gilliard isn't intending to pay the full debt, the California Constitution prohibits jailing someone for debt, so contempt isn't an appropriate remedy for non-payment. The motion was therefore denied as both procedurally and substantively flawed.

@@ -96,3 +96,117 @@ Here is the summary of the judge's tentative ruling in YAML format:
 * "Plaintiffs' discovery requests are not overbroad."
 * "Caramedix's responses to discovery requests are incomplete and evasive."
 * "Sanctions are warranted against Caramedix in the total sum of $2,480."
+..................... .....................
+On 2025-02-06_14:16:56.813492
+The summary displayed below was created by an LLM named:  "gemma2-9b-it":
+## Tentative Ruling Summary: Hernandez et al. v. Caramedix, Inc.
+
+**Case Number:** 20STCV32190
+
+**Hearing Date:** September 21, 2023
+
+**Judge:** Kerry Bensinger, Department 27
+
+**Plaintiffs:** Adrian Hernandez, Raoul Guzman, and Araseli Zuniga
+
+**Defendant:** Caramedix, Inc.
+
+**Subject:**
+
+* Motion to compel Defendant Caramedix to provide a Person Most Knowledgeable (PMK) for deposition and to produce documents.
+* Motions to compel further responses to Plaintiffs' discovery requests (Form Interrogatories, Special Interrogatories, and Requests for Production of Documents).
+* Request for monetary sanctions against Caramedix.
+
+**Summary:**
+
+The Plaintiffs are suing Caramedix, a rideshare service, for the wrongful death of their mother, Christina Garcia.  They allege Caramedix's driver failed to properly secure Garcia's wheelchair, causing her to fall and ultimately die.
+
+The Court finds that Caramedix has unreasonably delayed providing a PMK for deposition and responsive documents.  The Court finds Caramedix's objections to the discovery requests meritless and orders them to provide complete and verified responses to all outstanding discovery within 10 days.
+
+The Court also grants Plaintiffs' request for monetary sanctions against Caramedix in the amount of $2,480, due to their unsuccessful opposition to these motions.
+
+**Key Points:**
+
+* **Discovery Disputes:** Plaintiffs successfully compelled Caramedix to provide a PMK for deposition and responsive documents. They also compelled Caramedix to provide complete and verified answers to their outstanding discovery requests.
+* **Sanctions:** The Court imposed monetary sanctions on Caramedix for their unsuccessful opposition to the Plaintiffs' discovery motions.
+* **Next Steps:** Caramedix is ordered to provide a PMK for deposition and complete discovery responses within 10 days. They must also pay sanctions of $2,480 within 30 days.
+
+
+
+..................... .....................
+On 2025-02-06_14:17:23.363261
+The summary displayed below was created by an LLM named:  "llama3-8b-8192":
+Here is the summary in YAML format:
+
+```
+Case Number: 20STCV32190
+Plaintiff's Name: Adrian Hernandez, Raoul Guzman, and Araseli Zuniga
+Defendant's Name: Caramedix, Inc.
+People-Names:
+  - Adrian Hernandez
+  - Raoul Guzman
+  - Araseli Zuniga
+  - Christina Garcia
+Company-Names:
+  - Caramedix, Inc.
+Places:
+  - California
+Dates:
+  - August 24, 2020
+  - August 22, 2023
+  - August 25, 2023
+  - September 21, 2023
+  - October 12, 2023
+Events:
+  - Motor vehicle incident
+  - Deposition notice
+  - Motion to compel
+  - Opposition to motion
+Money:
+  - $2,480 (sanctions)
+Intentions:
+  - To compel defendant to provide person most knowledgeable for deposition and produce responsive documents
+  - To compel defendant to provide further responses to discovery requests
+  - To impose sanctions on defendant for misconduct
+Facts:
+  - Defendant failed to provide person most knowledgeable for deposition
+  - Defendant failed to provide responsive documents
+  - Defendant made meritless objections to discovery requests
+Disputes:
+  - Dispute over whether defendant's objections to discovery requests are meritorious
+  - Dispute over whether defendant's failure to provide person most knowledgeable for deposition is justified
+Acts:
+  - Defendant's failure to provide person most knowledgeable for deposition
+  - Defendant's failure to provide responsive documents
+  - Defendant's making of meritless objections to discovery requests
+Agreements:
+  - None
+Laws:
+  - California Code of Civil Procedure sections 2025.010, 2025.450, 2030.220, 2030.290, 2031.310
+  - California Rules of Court Rule 3.1345
+Statutes:
+  - California Code of Civil Procedure sections 2023.010, 2023.040
+Roles:
+  - Judge: Kerry Bensinger
+  - Parties: Adrian Hernandez, Raoul Guzman, and Araseli Zuniga (Plaintiffs), Caramedix, Inc. (Defendant)
+  - Counsel: Plaintiffs' counsel, Defendant's counsel
+Significant Statements:
+  - "Plaintiffs are entitled to discovery."
+  - "Caramedix's objections to the deposition categories are boilerplate and lack merit."
+  - "A Court order is warranted."
+  - "Sanctions are warranted."
+```
+
+And here is a summary of the judge's tentative ruling in English text:
+
+The judge has granted the motion to compel the deposition of Caramedix, Inc.'s person most knowledgeable and to produce responsive documents. Caramedix, Inc. has failed to provide a person most knowledgeable for deposition and has made meritless objections to discovery requests. The judge has also granted the motions to compel further responses to discovery requests and has imposed sanctions on Caramedix, Inc. in the amount of $2,480. The judge has ordered Caramedix, Inc. to provide verified, objection-free responses to the discovery requests within 10 days and to pay the sanctions within 30 days.
+..................... .....................
+On 2025-02-06_14:17:48.614098
+The summary displayed below was created by an LLM named:  "llama-3.3-70b-specdec":
+Exception:
+Error code: 429 - {'error': {'message': 'Rate limit reached for model `llama-3.3-70b-specdec` in organization `org_01hw84cjv0f12v63qt47723ar2` service tier `on_demand` on : Limit 100000, Used 99022, Requested 3959. Please try again in 42m55.282s. Visit https://console.groq.com/docs/rate-limits for more information.', 'type': '', 'code': 'rate_limit_exceeded'}}
+..................... .....................
+On 2025-02-06_14:27:48.925532
+The summary displayed below was created by an LLM named:  "mixtral-8x7b-32768":
+Exception:
+Error code: 413 - {'error': {'message': 'Request too large for model `mixtral-8x7b-32768` in organization `org_01hw84cjv0f12v63qt47723ar2` service tier `on_demand` on tokens per minute (TPM): Limit 5000, Requested 5167, please reduce your message size and try again. Visit https://console.groq.com/docs/rate-limits for more information.', 'type': 'tokens', 'code': 'rate_limit_exceeded'}}

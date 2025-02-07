@@ -57,3 +57,151 @@ Significant Statements:
 And here is a summary of the judge's tentative ruling in English text:
 
 The judge has tentatively ruled that the petition filed by Petitioner is denied without prejudice because Petitioner failed to provide evidence that the outstanding warrant has been cleared. The warrant, which is for $30,000, was issued on June 12, 2019, and Petitioner was ordered to provide evidence to clear it two weeks before the continued hearing date. Since Petitioner failed to do so, the petition is denied. However, Petitioner may re-file the petition with evidence showing that the warrant has been cleared.
+..................... .....................
+On 2025-02-06_20:22:27.366307
+The summary displayed below was created by an LLM named:  "gemma2-9b-it":
+## Tentative Ruling Summary in YAML
+
+* **Case Number:** 23STCP02021
+* **Hearing Date:** September 25, 2023
+* **Dept:** 26
+* **Plaintiff's Name:** N/A (This appears to be a Petition, not a traditional lawsuit)
+* **Defendant's Name:** N/A
+* **People-Names:** Petitioner
+* **Company-Names:** N/A
+* **Places:** N/A
+* **Dates:**
+    * **August 14, 2023:** Court notes outstanding warrant
+    * **June 12, 2019:** Date of underlying criminal case (COM 9CS02691-01)
+    * **September 25, 2023:** Continued hearing date
+* **Events:**
+    * Petitioner has an outstanding bench warrant 
+    * Court orders Petitioner to clear warrant and provide evidence before continued hearing
+    * Petitioner fails to provide evidence
+    * Petition denied without prejudice
+* **Money:** $30,000 (Amount of warrant)
+* **Intentions:** N/A
+* **Facts:** Petitioner has an active outstanding warrant.
+* **Disputes:** N/A
+* **Acts:**
+    * Court noted outstanding warrant
+    * Court ordered Petitioner to clear warrant
+    * Petitioner failed to clear warrant
+* **Agreements:** N/A
+* **Laws:** N/A (Specific laws not mentioned)
+* **Case Citations:** N/A
+* **Statutes:** N/A
+* **Roles:** 
+    * Petitioner: Individual seeking relief
+    * Court: Judicial body issuing ruling
+    * Probation Officer: Officer overseeing Petitioner
+* **Significant Statements:**
+    * "Petitioner has an outstanding warrant of $30,000 for CS# COM 9CS02691-01 from June 12, 2019."
+    * "Petitioner may submit a new petition with evidence showing that the outstanding warrants have been cleared."
+
+
+
+## English Text Summary
+
+The Judge has issued a tentative ruling denying the Petitioner's petition. The reason for the denial is that the Petitioner failed to provide evidence showing that an outstanding warrant against them had been cleared, as ordered by the Court.  The Petitioner had an active warrant stemming from a 2019 criminal case.  The Court gave the Petitioner two weeks before the continued hearing to clear the warrant and provide evidence. The Petitioner did not do so, leading to the denial of the petition. Importantly, this denial is *without prejudice*, meaning the Petitioner can refile their petition once they have cleared the outstanding warrant and provided the necessary evidence to the court. 
+
+..................... .....................
+On 2025-02-06_20:22:53.467094
+The summary displayed below was created by an LLM named:  "llama3-8b-8192":
+Here is the summary in YAML format:
+
+```
+Case Number: 23STCP02021
+Plaintiff's Name: Petitioner
+Defendant's Name: None
+People-Names:
+  - Petitioner
+Company-Names: None
+Places: None
+Dates:
+  - August 14, 2023
+  - June 12, 2019
+  - September 25, 2023
+Events:
+  - Criminal history assessment through CLETS
+  - Outstanding warrant
+  - Failure to clear warrant
+Money:
+  - $30,000
+Intentions:
+  - To clear outstanding warrant
+Facts:
+  - Petitioner has an active outstanding warrant
+  - Probation Officer noted the warrant
+  - Court ordered evidence of cleared warrant
+Disputes:
+  - None
+Acts:
+  - Petitioner failed to provide evidence of cleared warrant
+Agreements:
+  - Petitioner to file evidence of cleared warrant
+Laws:
+  - None
+Case Citations: None
+Statutes:
+  - None
+Roles:
+  - Judge
+  - Probation Officer
+  - Petitioner
+Significant Statements:
+  - "Petitioner has an outstanding warrant of $30,000 for CS# COM 9CS02691-01 from June 12, 2019."
+  - "Petitioner failed to do so."
+```
+
+And here is a summary of the judge's tentative ruling in English text:
+
+The judge has denied the instant petition without prejudice due to the petitioner's failure to provide evidence that the outstanding bench warrant has been cleared. The petition was originally filed on August 14, 2023, after the court noted that the petitioner had an active outstanding warrant of $30,000 from June 12, 2019. The court had ordered the petitioner to provide evidence of cleared warrant two weeks before the continued hearing date, but the petitioner failed to do so. The judge has given the petitioner the opportunity to submit a new petition with evidence showing that the outstanding warrants have been cleared.
+..................... .....................
+On 2025-02-06_20:23:18.721538
+The summary displayed below was created by an LLM named:  "llama-3.3-70b-specdec":
+Exception:
+Error code: 429 - {'error': {'message': 'Rate limit reached for model `llama-3.3-70b-specdec` in organization `org_01hw84cjv0f12v63qt47723ar2` service tier `on_demand` on : Limit 100000, Used 100012, Requested 354. Please try again in 5m17.037s. Visit https://console.groq.com/docs/rate-limits for more information.', 'type': '', 'code': 'rate_limit_exceeded'}}
+..................... .....................
+On 2025-02-06_20:33:19.723412
+The summary displayed below was created by an LLM named:  "mixtral-8x7b-32768":
+case\_number: 23STCP02021
+hearing\_date: September 25, 2023
+dept: 26
+plaintiff: Not specified
+defendant: Not specified
+people\_names:
+- Petitioner
+company\_names:
+- Probation Office
+places:
+- CLETS
+dates:
+- August 14, 2023
+- June 12, 2019
+events:
+- The Probation Office has run a criminal history assessment through CLETS
+- The assessment revealed that Petitioner has an active outstanding warrant
+- Petitioner was ordered to file evidence showing that the outstanding bench warrant has been cleared
+- Petitioner failed to do so
+money:
+- $30,000
+intentions:
+- Petitioner's intention to clear the outstanding warrant
+facts:
+- Petitioner has an outstanding warrant of $30,000 for CS# COM 9CS02691-01 from June 12, 2019
+disputes:
+- None mentioned
+acts:
+- The Probation Office running a criminal history assessment
+- Petitioner not filing evidence showing that the outstanding warrant has been cleared
+agreements:
+- None mentioned
+laws: Not specified
+case\_citations: Not specified
+statutes: Not specified
+roles:
+- Petitioner
+- Probation Office
+significant\_statements:
+- "Accordingly, the instant petition is DENIED WITHOUT PREJUDICE. Petitioner may submit a new petition with evidence showing that the outstanding warrants have been cleared."
