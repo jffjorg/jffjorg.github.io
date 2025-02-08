@@ -206,3 +206,49 @@ On 2025-02-07_20:07:46.244171
 The summary displayed below was created by an LLM named:  "llama-3.3-70b-specdec":
 Exception:
 Error code: 429 - {'error': {'message': 'Rate limit reached for model `llama-3.3-70b-specdec` in organization `org_01hw84cjv0f12v63qt47723ar2` service tier `on_demand` on : Limit 100000, Used 99507, Requested 1418. Please try again in 13m18.709999999s. Visit https://console.groq.com/docs/rate-limits for more information.', 'type': '', 'code': 'rate_limit_exceeded'}}
+..................... .....................
+On 2025-02-07_20:17:47.563356
+The summary displayed below was created by an LLM named:  "mixtral-8x7b-32768":
+case\_number: 20STCV00823
+hearing\_date: September 26, 2023
+dept: 39
+plaintiff:
+  - name: Joseph Camarillo
+defendants:
+  - name: City of Los Angeles
+  - name: City of Riverside
+people\_names:
+  - name: Jamie Brown
+companies:
+  - name: Los Angeles Fire Department
+places:
+  - name: City of Los Angeles
+  - name: City of Riverside
+dates:
+  - October 23, 2018
+events:
+  - event: Plaintiff terminated from his employment
+  - event: Plaintiff filed action against City of Los Angeles and City of Riverside
+  - event: Plaintiff alleges City of Riverside employees communicated false information
+money:
+intentions:
+  - intention: Protective order to preclude Plaintiff’s counsel from examining Jamie Brown
+facts:
+  - fact: Plaintiff signed a waiver authorizing Los Angeles to obtain any information
+disputes:
+  - dispute: Written communications between Los Angeles and Riverside
+acts:
+  - act: Plaintiff’s counsel argues Court has no authority to grant motion in advance of deposition
+agreements:
+laws:
+  - name: Evidence Code section 1040(a)
+  - name: Code of Civil Procedure section 2025.420
+case\_citations:
+  - citation: Court’s Minute Order, dated June 29, 2023
+  - citation: Nativi v. Deutsche Bank National Trust Co. (2014) 223 Cal.App.4th 261, 218
+roles:
+  - role: Plaintiff
+  - role: Defendants
+significant\_statements:
+  - statement: Court grants the City’s motion for a protective order
+  - statement: Counsel for the City of Los Angeles shall provide notice and file proof of such with the Court.

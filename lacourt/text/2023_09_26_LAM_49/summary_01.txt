@@ -68,3 +68,207 @@ Significant Statements:
   - "The function of a motion for summary judgment or adjudication is to allow a determination as to whether an opposing party cannot show evidentiary support for a pleading or claim and to enable an order of summary dismissal without the need for trial."
   - "A jury could reasonably determine that Shapiro stayed on in an advisory attorney role until near the time of her death."
   - "Under Code of Civil Procedure section 12a(a), '[i]f the last day for the performance of any act provided or required by law to be performed within a specified period of time is a holiday, then that period is hereby extended to and including the next day that is not a holiday.'"
+..................... .....................
+On 2025-02-07_21:45:25.746672
+The summary displayed below was created by an LLM named:  "gemma2-9b-it":
+##  Tentative Ruling Summary: Kurt Knutsson et al. v. Judith Salkow Shapiro et al. 
+
+**Case Number:** 18STCV04752
+**Hearing Date:** September 26, 2023
+**Dept:** 49
+
+**People Involved:**
+
+* **Plaintiffs:** Kurt Knutsson and Woojivas, Inc.
+* **Defendants:** Judith Salkow Shapiro, APC, and San Pasqual Fiduciary Trust Company
+
+**Nature of the Case:** Legal malpractice and fraud related to representation in a right of publicity case against KTLA and other television stations.
+
+**Key Issues:**
+
+* **Statute of Limitations:** The main dispute centers around whether the statute of limitations for legal malpractice has expired. 
+* **Continuing Representation:** Plaintiffs argue that their attorney, Judith Shapiro, continued to represent them in the underlying case even after filing a notice of withdrawal, thereby extending the statute of limitations.
+
+**Summary:**
+
+This tentative ruling denies Defendants' motion for summary judgment and summary adjudication. The Court finds that there are factual disputes regarding whether Shapiro's representation of Plaintiffs continued past the point where the statute of limitations would begin to run.
+
+**Evidence Considered:**
+
+*  Plaintiffs presented evidence of phone calls and emails between them and Shapiro after the notice of withdrawal, suggesting ongoing legal advice and strategy discussions.
+*  Defendants argue that the notice of withdrawal, combined with Shapiro's communication explaining her reasons for withdrawing, should have signaled the end of representation.
+
+**Court's Reasoning:**
+
+*  The Court finds that a reasonable trier of fact could conclude that Shapiro continued to advise Plaintiffs on the underlying case until near her death.
+*  The Court also notes that the statute of limitations may have been extended to November 13, 2018, due to holidays, allowing Plaintiffs to file their complaint on that day.
+
+**Next Steps:**
+
+* The case will proceed to trial unless the parties reach a settlement.
+
+
+Let me know if you have any other questions.
+
+..................... .....................
+On 2025-02-07_21:45:52.199845
+The summary displayed below was created by an LLM named:  "llama3-8b-8192":
+Here is a summary of the judge's tentative ruling in YAML format:
+
+```
+Case Number: 18STCV04752
+Plaintiff's Name: Kurt Knutsson and Woojivas, Inc.
+Defendant's Name: Judith Salkow Shapiro, APC and San Pasqual Fiduciary Trust Company
+People-Names:
+  - Kurt Knutsson
+  - Judith Salkow Shapiro
+Company-Names:
+  - Judith Salkow Shapiro, APC
+  - San Pasqual Fiduciary Trust Company
+Places:
+  - Los Angeles
+  - California
+Dates:
+  - April 11, 2017
+  - November 11, 2017
+  - November 13, 2018
+  - September 26, 2023
+Events:
+  - Legal malpractice lawsuit
+  - Underlying action (Knutsson, et al. v. KTLA, et al.)
+  - Shapiro's death
+  - Filing of complaint
+Money:
+  - $327,171 in attorney's fees
+  - 10% post-judgment interest
+Intentions:
+  - To determine whether Plaintiffs' claims are barred by the statute of limitations
+  - To determine whether Shapiro continued to represent Knutsson after notice of withdrawal
+Facts:
+  - Shapiro filed a notice of withdrawal in the underlying action
+  - Shapiro continued to advise Knutsson on the KTLA case after notice of withdrawal
+  - Shapiro passed away on November 11, 2017
+  - Knutsson filed the malpractice lawsuit on November 13, 2018
+Disputes:
+  - Statute of limitations
+  - Continuing representation
+Acts:
+  - Shapiro's representation of Knutsson in the underlying action
+  - Shapiro's continued advice to Knutsson after notice of withdrawal
+  - Knutsson's filing of the malpractice lawsuit
+Agreements:
+  - Code of Civil Procedure section 340.6
+  - Code of Civil Procedure section 12a(a)
+Laws:
+  - California Civil Code section 3344
+  - Code of Civil Procedure section 437c
+  - Code of Civil Procedure section 10
+Statutes:
+  - Code of Civil Procedure section 340.6
+  - Code of Civil Procedure section 437c
+  - Code of Civil Procedure section 12a(a)
+Roles:
+  - Judge: Randolph M. Hammock
+  - Plaintiff: Kurt Knutsson and Woojivas, Inc.
+  - Defendant: Judith Salkow Shapiro, APC and San Pasqual Fiduciary Trust Company
+Significant Statements:
+  - "A reasonable trier of fact could construe this evidence as demonstrating an ongoing attorney-client relationship, in which Shapiro rendered 'professional services' in the form of 'negotiations, options, and strategy.'" (Nielsen v. Beck)
+  - "The limitations period can be tolled even though the client is aware of the attorney's negligence." (Nielsen v. Beck)
+  - "The court notes the following point for sake of thoroughness on the statute of limitations issue... assuming there was a continuing representation of Plaintiff up to and at the time of Shapiro's death and viewing the evidence in the light most favorable to Plaintiff, November 11, 2017, was the absolute last day that the one-year statute of limitations could begin running."
+```
+
+English-text summary:
+
+The judge's tentative ruling denies the defendants' motion for summary judgment and alternative motion for summary adjudication. The issue is whether the plaintiffs' claims are barred by the statute of limitations. The court finds that there are triable issues of fact as to whether Shapiro continued to represent Knutsson after notice of withdrawal, and therefore, the court cannot grant summary judgment. The court also notes that even if Shapiro did not continue to represent Knutsson, the statute of limitations would have been tolled due to the continuing representation theory. The court concludes that the plaintiffs' claims are timely and denies the defendants' motions.
+..................... .....................
+On 2025-02-07_21:46:17.429586
+The summary displayed below was created by an LLM named:  "llama-3.3-70b-specdec":
+Exception:
+Error code: 429 - {'error': {'message': 'Rate limit reached for model `llama-3.3-70b-specdec` in organization `org_01hw84cjv0f12v63qt47723ar2` service tier `on_demand` on : Limit 100000, Used 97158, Requested 4380. Please try again in 22m8.107s. Visit https://console.groq.com/docs/rate-limits for more information.', 'type': '', 'code': 'rate_limit_exceeded'}}
+..................... .....................
+On 2025-02-07_21:56:20.252735
+The summary displayed below was created by an LLM named:  "mixtral-8x7b-32768":
+summary:
+case\_number: 18STCV04752
+hearing\_date: September 26, 2023
+dept: 49
+plaintiffs:
+- Kurt Knutsson
+- Woojivas, Inc.
+defendants:
+- Judith Salkow Shapiro, APC
+- San Pasqual Fiduciary Trust Company
+people:
+- Kurt Knutsson
+- Judith Salkow Shapiro
+- Randolph M. Hammock
+companies:
+- Woojivas, Inc.
+- KTLA
+- Local TV
+- San Pasqual Fiduciary Trust Company
+places:
+- Los Angeles Superior Court
+- Underlying Action: BC500792
+dates:
+- April 11, 2017
+- November 13, 2018
+- November 11, 2017
+events:
+- Plaintiffs brought right of publicity claims against KTLA, Local TV, and other television stations
+- Plaintiffs defeated Local TV’s motion for summary judgment of the right of publicity claims
+- Local TV successfully petitioned the Court of Appeal for a writ of mandate
+- summary judgment was granted against Plaintiffs
+- Knutsson was ordered to pay $327,171 in attorney’s fees to Local TV
+- Plaintiffs allege Defendants failed to evaluate the claim they included for violation of California Civil Code Section 3344
+- Plaintiffs were ordered to pay attorneys’ fees to Local TV, LLC in the sum of $327,171.00 plus post judgment interest
+money:
+- $327,171.00
+- post judgment interest
+intentions:
+- Defendants’ Motion for Summary Judgment or, in the Alternative, Summary Adjudication
+- Plaintiffs opposed
+- Defendants want to dismiss the case without the need for trial
+- Plaintiffs want to proceed to trial
+facts:
+- Plaintiffs allege Defendants failed to evaluate the claim they included for violation of California Civil Code Section 3344
+- Plaintiffs were ordered to pay attorneys’ fees to Local TV, LLC in the sum of $327,171.00 plus post judgment interest
+- Shapiro passed away on November 11, 2017
+- Plaintiff filed this malpractice action on November 13, 2018
+- Shapiro filed a “Notice of Withdrawal” in the underlying action
+- Shapiro continued to advise Knutsson about the KTLA case after the Notice of Withdrawal
+- Knutsson called Shapiro to discuss his second deposition scheduled for a few weeks later
+- Shapiro advised him on how to handle himself at the second deposition
+- Knutsson learned of Shapiro’s death on or about November 12, 2017
+disputes:
+- Whether Plaintiffs’ claims are barred by the applicable statute of limitations
+- Whether Plaintiffs’ claims are timely within the one-year statute of limitations period
+- Whether there was a continuing representation of Plaintiff up to and at the time of Shapiro’s death
+acts:
+- Defendants’ Motion for Summary Judgment or, in the Alternative, Summary Adjudication
+- Plaintiffs’ opposition
+agreements:
+- None mentioned in the text
+laws:
+- Code of Civil Procedure section 340.6
+- Code of Civil Procedure section 12a(a)
+- Code of Civil Procedure section 135
+case\_citations:
+- Aguilar v. Atlantic Richfield Co. (2001) 25 Cal.4th 826
+- Hinesley v. Oakshade Town Center (2005) 135 Cal.App.4th 289
+- Villa v. McFarren (1995) 35 Cal.App.4th 733
+- Scalf v. D. B. Log Homes, Inc. (2005) 128 Cal.App.4th 1510
+- Bacon v. Southern Cal. Edison Co. (1997) 53 Cal.App.4th 854
+- Nielsen v. Beck (2007) 157 Cal. App. 4th 1041
+roles:
+- Plaintiffs: allege legal malpractice and fraud
+- Defendants: move for summary judgment or summary adjudication
+- Judge Randolph M. Hammock: issues tentative ruling
+significant\_statements:
+- Defendants’ Motion for Summary Judgment is DENIED
+- Defendants’ alternative Motion for Summary Adjudication is also DENIED
+- Plaintiffs have one year to bring a legal malpractice claim
+- the time to bring a legal malpractice claim is tolled during the time the attorney continues to represent the plaintiff
+- the court must consider all evidence in the light most favorable to the party opposing summary judgment
+
+In this tentative ruling, Judge Randolph M. Hammock denies Defendants’ Motion for Summary Judgment and their alternative Motion for Summary Adjudication. The case involves Plaintiffs Kurt Knutsson and Woojivas, Inc., who allege legal malpractice and fraud against Defendants Judith Salkow Shapiro, APC and San Pasqual Fiduciary Trust Company. The Plaintiffs brought right of publicity claims against KTLA, Local TV, and other television stations in the underlying action BC500792. The dispute centers around whether Plaintiffs’ claims are timely within the one-year statute of limitations period provided by Code of Civil Procedure section 340.6. The court finds that there is a triable issue of fact as to whether there was an ongoing relationship and activities in furtherance of the relationship between Plaintiff and Defendant Shapiro up to and at the time of her death. Therefore, the court denies Defendants’ motion for summary judgment.
