@@ -49,3 +49,157 @@ Here is a summary of the judge's tentative ruling in YAML format:
 * "The face of the pleading includes attachments and incorporations by reference (Frantz v. Blackwell, (1987) 189 Cal.App.3d 91, 94), but it does not include inadmissible hearsay. (Day v. Sharp, (1975) 50 Cal.App.3d 904, 914)."
 * "The power to order a reconsideration shall expire 30 days 'after the delivery or mailing of a decision to a respondent, or on the date set by the agency itself as the effective date of the decision if that date occurs prior to the expiration of the 30-day period….'"
 * "A party found 'necessary' pursuant to subdivision (a) may then be found 'indispensable' pursuant to subdivision (b). (County of Imperial v. Superior Court, ('Imperial') (2007) 152 Cal.App.4th 13, 26.)"
+..................... .....................
+On 2025-02-08_05:27:02.787331
+The summary displayed below was created by an LLM named:  "gemma2-9b-it":
+**Summary
+that a
+the
+interpretation
+**
+interest
+the
+the
+**
+The
+**(a)
+**
+The
+the
+**
+the a
+**
+the
+**
+the
+**
+**
+ the 
+
+
+**
+the
+**
+**
+the
+**
+**
+**
+
+**
+**
+
+
+**
+**
+**
+**The
+**
+
+**
+**
+**
+**
+**
+** the
+**
+**
+**
+
+
+**
+**
+**
+**
+**
+**
+
+
+**
+**
+**
+**
+**
+**
+
+**
+
+**
+
+**
+
+
+**the
+**
+**
+**
+the
+
+
+**
+**
+
+
+**
+**
+
+
+**
+**
+**
+**
+**
+**
+**
+
+
+**
+**
+**
+**
+**
+
+**
+**
+
+**
+**
+**
+**
+**
+**
+
+
+**
+
+**
+**
+
+
+**
+**
+
+
+**
+**
+
+
+**
+**
+
+
+..................... .....................
+On 2025-02-08_05:27:28.028126
+The summary displayed below was created by an LLM named:  "llama3-8b-8192":
+Exception:
+Error code: 413 - {'error': {'message': 'Request too large for model `llama3-8b-8192` in organization `org_01hw84cjv0f12v63qt47723ar2` service tier `on_demand` on tokens per minute (TPM): Limit 6000, Requested 7377, please reduce your message size and try again. Visit https://console.groq.com/docs/rate-limits for more information.', 'type': 'tokens', 'code': 'rate_limit_exceeded'}}
+..................... .....................
+On 2025-02-08_05:37:28.397650
+The summary displayed below was created by an LLM named:  "llama-3.3-70b-specdec":
+Exception:
+Error code: 429 - {'error': {'message': 'Rate limit reached for model `llama-3.3-70b-specdec` in organization `org_01hw84cjv0f12v63qt47723ar2` service tier `on_demand` on : Limit 100000, Used 101338, Requested 7377. Please try again in 2h5m30.23s. Visit https://console.groq.com/docs/rate-limits for more information.', 'type': '', 'code': 'rate_limit_exceeded'}}
+..................... .....................
+On 2025-02-08_05:47:28.801476
+The summary displayed below was created by an LLM named:  "mixtral-8x7b-32768":
+Exception:
+Error code: 413 - {'error': {'message': 'Request too large for model `mixtral-8x7b-32768` in organization `org_01hw84cjv0f12v63qt47723ar2` service tier `on_demand` on tokens per minute (TPM): Limit 5000, Requested 9372, please reduce your message size and try again. Visit https://console.groq.com/docs/rate-limits for more information.', 'type': 'tokens', 'code': 'rate_limit_exceeded'}}

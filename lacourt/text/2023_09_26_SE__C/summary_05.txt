@@ -57,3 +57,200 @@ Significant Statements:
 And here is the English-text summary:
 
 The Judge's tentative ruling is that the defendants' demurrer to the plaintiff's complaint is sustained with 10 days leave to amend. The defendants' motion to strike punitive damages is also granted with 10 days leave to amend. The plaintiff alleges causes of action for Strict Products Liability, Breach of Express and Implied Warranties, and Negligence based on Defective Product, but the Judge finds that the defendants are not liable as they did not sell the allegedly defective chair and are not part of the chain of distribution. The Judge notes that the injury suffered by the plaintiff is one for negligence and premises liability, which the defendants did not demur to.
+..................... .....................
+On 2025-02-08_10:02:03.981428
+The summary displayed below was created by an LLM named:  "gemma2-9b-it":
+## Tentative Ruling Summary: LOPEZ v. SUBWAY RESTAURANTS, LLC
+
+**Case Number:** 22NWCV00913
+**Hearing Date:** September 26, 2023
+**Department:** C
+
+**People-Names:**
+
+* Plaintiff: LOPEZ
+* Defendants: EAT FRESH, LLC, SUBWAY RESTAURANTS, LLC
+
+**Company-Names:**
+
+* EAT FRESH, LLC
+* SUBWAY RESTAURANTS, LLC
+
+**Places:**
+
+* Defendants' PREMISES (Subway Restaurant)
+
+**Dates:**
+
+* May 31, 2021 (Incident)
+
+**Events:**
+
+* Plaintiff fell from a defective chair at a Subway restaurant.
+
+**Money:**
+
+* None specified
+
+**Intentions:**
+
+* Not specified
+
+**Facts:**
+
+* Plaintiff alleges a defective chair at a Subway restaurant collapsed, causing her to fall.
+
+**Disputes:**
+
+* Whether Defendants (Subway and Eat Fresh) are liable for products liability as they did not sell the chair.
+
+**Acts:**
+
+* Plaintiff sat on a chair that collapsed. 
+* Defendants operated the Subway restaurant where the incident occurred.
+
+**Agreements:**
+
+* None specified
+
+**Laws:**
+
+* California Product Liability Law
+* California Negligence Law
+* OSHA
+
+**Case Citations:**
+
+* Soule v. General Motors Corp. (1994) 8 Cal.4th 548
+* Greenman v. Yuba Power Products, Inc. (1963) 59 Cal.2d 57
+
+**Statutes:**
+
+* Not specified
+
+**Roles:**
+
+* **Plaintiff:** Seeking damages from Defendants.
+* **Defendants:** Contesting liability, arguing they are not part of the chair's distribution chain.
+
+**Significant Statements:**
+
+* "A manufacturer, distributor, or retailer is liable in tort if a defect in the manufacture or design of its product causes injury while the product is being used in a reasonably foreseeable way." (Soule v. General Motors Corp.)
+* Judge sustains Defendants' demurrer to the 1st - 3rd and 5th causes of action with 10 days leave to amend. 
+* Judge grants Defendants' motion to strike punitive damages with 10 days leave to amend.
+
+
+
+**English Summary:**
+
+The Judge has tentatively ruled that Defendants EAT FRESH, LLC and SUBWAY RESTAURANTS, LLC are not liable for products liability because they did not sell the chair that allegedly caused the Plaintiff's injury.  The Judge has sustained the Defendants' demurrer to the first, second, third, and fifth causes of action, giving the Plaintiff 10 days to amend her complaint. The Judge has also granted the Defendants' motion to strike punitive damages, finding that the Plaintiff has not alleged sufficient facts to support a claim for punitive damages.  
+
+
+
+..................... .....................
+On 2025-02-08_10:02:30.185235
+The summary displayed below was created by an LLM named:  "llama3-8b-8192":
+Here is the summary in YAML format:
+
+```
+Case Number: 22NWCV00913
+Plaintiff's Name: 
+Defendant's Name: Eat Fresh, LLC and Subway Restaurants, LLC
+People-Names: 
+Company-Names: Eat Fresh, LLC, Subway Restaurants, LLC
+Places: 
+Dates:
+  - May 31, 2021
+  - September 26, 2023
+Events:
+  - Plaintiff fell onto the hard floor
+  - Demurrer to Plaintiff's complaint
+  - Motion to strike
+Money: 
+Intentions: 
+Facts:
+  - Plaintiff was dining inside Defendants' premises
+  - One of the chairs inside Defendants' premises was defective
+  - Plaintiff sat down on the chair and it collapsed
+Disputes:
+  - Causes of action for strict products liability, breach of express and implied warranties, and negligence based on defective product
+Acts:
+  - Plaintiff's complaint alleges that Defendants are liable for the injury
+  - Defendants demurred to the causes of action
+  - Plaintiff contends that Subway is a "retailer"
+Agreements: 
+Laws:
+  - Soule v. General Motors Corp. (1994)
+  - Greenman v. Yuba Power Products, Inc. (1963)
+  - California statutory laws
+Case Citations: 
+Statutes:
+  - OSHA
+Roles:
+  - Judge
+  - Plaintiff
+  - Defendant
+  - Manufacturer
+  - Seller
+  - Distributor
+Significant Statements:
+  - "A manufacturer, distributor, or retailer is liable in tort if a defect in the manufacture or design of its product causes injury while the product is being used in a reasonably foreseeable way."
+  - "Defendants do not sell chairs, and therefore are not manufacturers, sellers, and/or distributors in the chain of distribution."
+  - "Defendants are not part of the chain of distribution subject to products liability."
+  - "Like Plaintiff, Defendants' restaurant is the end-user of the chair, not part of the chain of distribution."
+```
+
+And here is a summary of the judge's tentative ruling in English text:
+
+The judge has issued a tentative ruling in the case of Lopez v. Subway Restaurants, LLC (Case No. 22NWCV00913). The defendants, Eat Fresh, LLC and Subway Restaurants, LLC, have demurred to the plaintiff's complaint, arguing that the causes of action for strict products liability, breach of express and implied warranties, and negligence based on defective product fail to state facts sufficient to constitute a cause of action. The judge has sustained the demurrer with 10 days leave to amend as to the 1st-3rd and 5th causes of action. The judge has also granted the motion to strike punitive damages, finding that the complaint fails to allege facts supporting malicious or despicable conduct.
+..................... .....................
+On 2025-02-08_10:02:55.365085
+The summary displayed below was created by an LLM named:  "llama-3.3-70b-specdec":
+Exception:
+Error code: 503 - {'error': {'message': 'Service Unavailable', 'type': 'internal_server_error'}}
+..................... .....................
+On 2025-02-08_10:12:57.011151
+The summary displayed below was created by an LLM named:  "mixtral-8x7b-32768":
+case\_number: 22NWCV00913
+hearing\_date: 2023-09-26
+dept: C
+plaintiff: LOPEZ
+defendant:
+  - Eat Fresh, LLC
+  - Subway Restaurants, LLC
+people:
+  - Lopez
+places:
+  - Premises
+  - State of California
+dates:
+  - 2021-05-31
+events:
+  - Lopez fell onto the hard floor after a chair collapsed
+money: N/A
+intentions: N/A
+facts:
+  - Lopez was a pregnant young woman
+  - Lopez was dining inside the Premises
+  - The chair was defective
+  - The chair collapsed when Lopez sat on it
+disputes:
+  - Whether Defendants are part of the chain of distribution
+acts:
+  - Demurrer to Plaintiff's complaint
+  - Motion to strike
+agreements: N/A
+laws:
+  - Soule v. General Motors Corp. (1994) 8 Cal.4th 548
+  - Greenman v. Yuba Power Products, Inc. (1963) 59 Cal.2d 57
+case\_citations: N/A
+statutes: N/A
+roles:
+  - Lopez as the plaintiff
+  - Eat Fresh, LLC and Subway Restaurants, LLC as the defendants
+significant\_statements:
+  - "A manufacturer, distributor, or retailer is liable in tort if a defect in the manufacture or design of its product causes injury while the product is being used in a reasonably foreseeable way."
+  - "Defendants contend that they do not sell chairs, and therefore are not manufacturers, sellers, and/or distributors in the chain of distribution."
+  - "Plaintiff contends that Subway is a 'retailer,' citing Soule v. General Motors Corp. (1994) 8 Cal.4th 548. However, in the portion cited, Soule referenced Greenman v. Yuba Power Products, Inc. (1963) 59 Cal.2d 57, which involves a 'retailer' of the sold defective good. Here, Defendants did not sell Plaintiff the allegedly defective chair. Therefore, Defendants are not part of the chain of distribution subject to products liability."
+
+The Judge's tentative ruling sustains Defendants Eat Fresh, LLC and Subway Restaurants, LLC's demurrer to Plaintiff's complaint and grants their motion to strike with 10 days leave to amend. The Judge agrees with Defendants that they are not part of the chain of distribution subject to products liability, as they did not sell the allegedly defective chair. The Judge also grants the motion to strike punitive damages as the complaint fails to allege facts supporting malicious or despicable conduct. The Judge sustains the demurrer as to the 1st, 2nd, 3rd, and 5th causes of action, but leaves 10 days for Plaintiff to amend the complaint.
