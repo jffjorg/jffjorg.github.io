@@ -274,3 +274,104 @@ On 2025-02-08_00:20:30.982132
 The summary displayed below was created by an LLM named:  "llama-3.3-70b-specdec":
 Exception:
 Error code: 429 - {'error': {'message': 'Rate limit reached for model `llama-3.3-70b-specdec` in organization `org_01hw84cjv0f12v63qt47723ar2` service tier `on_demand` on : Limit 100000, Used 98873, Requested 3004. Please try again in 27m1.091999999s. Visit https://console.groq.com/docs/rate-limits for more information.', 'type': '', 'code': 'rate_limit_exceeded'}}
+..................... .....................
+On 2025-02-08_00:30:33.322486
+The summary displayed below was created by an LLM named:  "mixtral-8x7b-32768":
+case\_number: BC611607
+hearing\_date: September 26, 2023
+dept: 61
+
+parties:
+plaintiff:
+- California Capital Insurance Company (CCIC)
+- Dallaswhite Corporation (Dallaswhite)
+- 328 Maple Limited Partnership (Maple)
+defendant:
+- California Capital Insurance Company (CCIC)
+- Dallaswhite Corporation (Dallaswhite)
+- 328 Maple Limited Partnership (Maple)
+
+people:
+- Dallaswhite
+- Maple
+- CCIC
+- Philip Henry (CCIC adjuster)
+
+companies:
+- California Capital Insurance Company (CCIC)
+- Dallaswhite Corporation (Dallaswhite)
+- 328 Maple Limited Partnership (Maple)
+
+places:
+- Maple’s building
+
+dates:
+- Before the expiration of its power to rule on a new trial
+- During trial
+
+events:
+- Motion for a new trial
+- Jury verdict
+- Payment for sprinkler system
+- Demobilization work
+- Demolition services
+
+money:
+- $357,071.83 (awarded to Maple for breach of contract and insurance bad faith)
+- $1.7 million (amount CCIC paid more than the value of the appraised costs)
+- $183,290.65 (claimed by Dallaswhite for amounts paid to Maple)
+- $119,306.72 (in demobilization costs)
+
+intentions:
+- CCIC: argue that the verdict in favor of Maple is without basis, that there was no evidence of actual costs incurred by Maple, and that the jury’s verdict finding that Maple owed no money to CCIC for its overpayments is unsupported
+- Dallaswhite: claim damages for demobilization work and demolition services
+
+facts:
+- CCIC paid more than the appraisal amounts
+- Maple’s contract and bad faith claims against CCIC rested on the claim that CCIC failed to adequately investigate the repairs and expenses
+- The sprinklers have actually been installed in Maple’s building
+- The amount of damages awarded is supported by the appraisal award
+- Dallaswhite presented evidence of adjusters’ practice of hiring contractors and consultants at CCIC’s expense
+- Dallaswhite presented evidence of the course of practice and payment that followed Henry’s assent to the contract at issue
+- Dallaswhite and Maple have settled their claims against one another
+
+disputes:
+- CCIC’s argument that there was no evidence at trial that Maple actually incurred the costs of the sprinkler system
+- CCIC’s argument that the jury’s verdict finding that Maple owed no money to CCIC for its overpayments is unsupported
+- CCIC’s argument that Dallaswhite cannot recover $183,290.65 for amounts paid to Maple
+- CCIC’s argument that Dallaswhite is not entitled to claim damages for demobilization work
+- CCIC’s argument that Dallaswhite should not be able to recover for demolition services
+
+acts:
+- CCIC moving for judgment notwithstanding the verdict
+- CCIC paying Maple the funds instead of interpleading
+
+agreements:
+- Existence of agency relationship
+- Authority of the agent to bind the principal
+
+laws:
+- Code Civ. Proc., § 629, subd. (a)
+- Hauter v. Zogarts (1975) 14 Cal.3d 104
+- Waller v. Truck Ins. Exchange, Inc. (1995) 11 Cal.4th 1
+- Devonwood Condominium Owners Assn. v. Farmers Ins. Exchange (2008) 162 Cal.App.4th 1498
+- Janney v. CSAA Ins. Exchange (2021) 70 Cal.App.5th 374
+- Everett v. State Farm General Ins. Co. (2008) 162 Cal.App.4th 649
+- Stephens & Stephens XII v. Fireman’s Fund Ins. Co. (2014) 231 Cal.App.4th 1131
+- Behnke v. State Farm General Ins. Co. (2011) 196 Cal.App.4th 1443
+- California Viking Sprinkler Co. v. Pacific Indem. Co. (1963) 213 Cal.App.2d 844
+
+statutes:
+- Insurance contract
+
+roles:
+- CCIC: insurer
+- Dallaswhite: principal
+- Maple: insured
+
+significant\_statements:
+- CCIC’s argument is unpersuasive
+- The jury had substantial basis for finding the damages that it did
+- CCIC’s argument as to the jury’s adverse verdict on its claim for restitution fails
+- CCIC’s motions as to Maple are denied
+- Dallaswhite presented contrary evidence
