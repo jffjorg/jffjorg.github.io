@@ -63,3 +63,212 @@ Significant Statements:
 And here is the English-text summary:
 
 The tentative ruling denies the defendant's motion to dismiss the plaintiff's complaint with prejudice. The defendant argues that the plaintiff's representation and debt collection agency, The Moore Law Group, APC, was not authorized to bring the action against the defendant and was not properly licensed at the time the action was initiated. The court finds that the defendant lacks legal authority for this motion and that the plaintiff's complaint must be maintained. The court notes that the Moore Law Group's license application was pending since December 2021 and was therefore authorized by statute to operate pending the approval of its application. The court concludes that the motion is denied.
+..................... .....................
+On 2025-02-07_14:38:50.113414
+The summary displayed below was created by an LLM named:  "gemma2-9b-it":
+## Tentative Ruling Summary:
+
+**Case Number:** 22CHLC10272
+**Hearing Date:** September 26, 2023
+**Dept:** F51
+
+**People-Names:**
+
+* Peter Bures
+* Matthew Keim
+
+**Company-Names:**
+
+* Citibank, N.A.
+* The Moore Law Group, APC
+
+**Places:** Los Angeles, California
+
+**Dates:**
+
+* July 5, 2023: Motion to Dismiss filed
+* September 7, 2023: Plaintiff's Opposition filed
+* May 3, 2019: First Amended General Order Re Mandatory Electronic Filing for Civil issued
+* December 2021: The Moore Law Group's debt collector license application submitted
+* March 2023: The Moore Law Group's license application approved
+* May 17, 2022: Complaint filed 
+
+**Events:**
+
+* Defendant files a motion to dismiss Plaintiff's complaint.
+* Plaintiff opposes the motion to dismiss.
+
+**Money:**
+
+* No specific dollar amounts mentioned.
+
+**Intentions:**
+
+* Plaintiff intends to collect a debt from Defendant.
+* Defendant intends to dismiss the complaint.
+
+**Facts:**
+
+* Plaintiff hired The Moore Law Group to collect a debt from Defendant.
+* Defendant argues The Moore Law Group was not authorized to bring the action.
+
+**Disputes:**
+
+* Whether The Moore Law Group was properly authorized to represent Plaintiff.
+
+**Acts:**
+
+* Defendant filed a motion to dismiss.
+* Plaintiff filed an opposition to the motion to dismiss.
+
+**Agreements:**
+
+* None explicitly mentioned.
+
+**Laws:**
+
+* California Code of Civil Procedure (CRC)
+* California Financial Code § 100000.5, subd. (c)
+
+**Case Citations:**
+
+* McKay v. Riverside County (1959) 175 Cal.App.2d 247
+* Barragan v. Banco BCH (1986) 188 Cal.App.3d 283
+
+**Statutes:**
+
+* California Financial Code § 100000.5, subd. (c)
+
+**Roles:**
+
+* **Judge:** Rules on the motion to dismiss.
+* **Plaintiff:** Citibank, N.A., suing to collect a debt.
+* **Defendant:** Peter Bures, facing the lawsuit.
+* **The Moore Law Group:** Debt collection agency representing Plaintiff.
+
+**Significant Statements:**
+
+* "There is no statutory authority for using a motion to dismiss to challenge pleadings."
+* "The Court notes that Defendant points to no legal authority for the instant motion."
+* "Here, because The Moore Law Group’s license application was pending since December 2021, the agency was authorized by statute to operate pending the approval of its application."
+
+
+
+**English Summary:**
+
+The Judge denied the Defendant's motion to dismiss the case. The Defendant argued that the Plaintiff's debt collection agency, The Moore Law Group, was not authorized to file the lawsuit. The Judge found no legal basis for this argument, noting that The Moore Law Group's license application was pending approval at the time the lawsuit was filed, making them legally authorized to operate.  The Judge reminded both parties to comply with the court's electronic filing requirements. 
+
+
+
+..................... .....................
+On 2025-02-07_14:39:16.082704
+The summary displayed below was created by an LLM named:  "llama3-8b-8192":
+Here is the summary in YAML format:
+
+```
+Case Number: 22CHLC10272
+Plaintiff's Name: Citibank, N.A.
+Defendant's Name: Peter Bures
+People-Names:
+  - Peter Bures
+  - Matthew Keim
+Company-Names:
+  - The Moore Law Group, APC
+  - Citibank, N.A.
+Places:
+  - Los Angeles
+Dates:
+  - 5/3/19
+  - 5/17/22
+  - 7/5/23
+  - 9/7/23
+  - September 26, 2023
+Events:
+  - Motion to Dismiss
+  - Mandatory Electronic Filing for Civil
+  - Debt Collection Licensing Act
+Money: None
+Intentions:
+  - Defendant seeks to dismiss Plaintiff's complaint with prejudice
+  - Plaintiff seeks to deny Defendant's motion
+Facts:
+  - Defendant argues that Plaintiff's representation and debt collection agency, The Moore Law Group, was not authorized to bring the action against Defendant
+  - Plaintiff argues that The Moore Law Group's license application was pending since December 2021 and was therefore authorized to operate and collect debt
+Disputes:
+  - Authorization of The Moore Law Group to bring the action against Defendant
+Acts:
+  - Defendant filed the motion to dismiss on 7/5/23
+  - Plaintiff filed its opposition on 9/7/23
+Agreements:
+  - None
+Laws:
+  - California Civil Code
+  - California Code of Civil Procedure
+  - Financial Code
+  - General Order Re Mandatory Electronic Filing for Civil
+Case Citations:
+  - McKay v. Riverside County (1959) 175 Cal.App.2d 247
+  - Barragan v. Banco BCH (1986) 188 Cal.App.3d 283
+Statutes:
+  - Financial Code § 100000.5, subd. (c) (eff. 1/1/22 to 9/26/22)
+Roles:
+  - Judge
+  - Defendant (Peter Bures)
+  - Plaintiff (Citibank, N.A.)
+  - The Moore Law Group, APC (debt collection agency)
+  - Commissioner (responsible for debt collector licenses)
+Significant Statements:
+  - "There is no statutory authority for using a motion to dismiss to challenge pleadings."
+  - "Plaintiff filed this Action while its CA DFPI Debt Collector License Number application was pending approval since December 2021."
+  - "The Court notes the parties' arguments regarding discovery, but declines to address them as they should be raised by relevant discovery motions."
+```
+
+Here is a summary of the judge's tentative ruling in English text:
+
+The judge has denied the defendant's motion to dismiss the plaintiff's complaint with prejudice. The defendant argued that the plaintiff's representation and debt collection agency, The Moore Law Group, was not authorized to bring the action against the defendant. However, the judge found that The Moore Law Group's license application was pending since December 2021 and was therefore authorized to operate and collect debt. The judge also noted that the parties' arguments regarding discovery were not addressed, as they should be raised by relevant discovery motions.
+..................... .....................
+On 2025-02-07_14:39:41.265082
+The summary displayed below was created by an LLM named:  "llama-3.3-70b-specdec":
+Exception:
+Error code: 429 - {'error': {'message': 'Rate limit reached for model `llama-3.3-70b-specdec` in organization `org_01hw84cjv0f12v63qt47723ar2` service tier `on_demand` on : Limit 100000, Used 99624, Requested 1103. Please try again in 10m27.996s. Visit https://console.groq.com/docs/rate-limits for more information.', 'type': '', 'code': 'rate_limit_exceeded'}}
+..................... .....................
+On 2025-02-07_14:49:42.302620
+The summary displayed below was created by an LLM named:  "mixtral-8x7b-32768":
+case\_number: 22CHLC10272
+hearing\_date: September 26, 2023
+dept: F51
+motion: Motion to Dismiss
+
+parties:
+  - moving\_party:
+      name: Peter Bures, in pro per (Defendant)
+  - responding\_party:
+      name: Citibank, N.A. (Plaintiff)
+
+relief\_requested: Order dismissing Plaintiff’s complaint with prejudice
+
+tentative\_ruling: Motion denied
+
+orders:
+  - reminder: Review 5/3/19 First Amended General Order Re Mandatory Electronic Filing for Civil
+  - warning: Failure to comply with technical requirements may result in sanctions
+
+events:
+  - motion\_filed\_date: 7/5/23
+  - opposition\_filed\_date: 9/7/23
+  - reply\_filed\_date: Not filed
+
+analysis:
+  - argument: The Moore Law Group was not authorized or properly licensed
+  - ruling: Lacks merit, Plaintiff's debt collection agency was authorized by statute to operate
+
+facts:
+  - The Moore Law Group’s license application was pending since December 2021
+  - The Moore Law Group received its CA DFPI Debt Collector License Number of 10223-99 in March 2023
+  - Plaintiff filed the action on 5/17/22
+
+laws\_and\_citations:
+  - Debt Collection Licensing Act
+  - Financial Code § 100000.5, subd. (c) (eff. 1/1/22 to 9/26/22)
+
+conclusion: Motion denied
