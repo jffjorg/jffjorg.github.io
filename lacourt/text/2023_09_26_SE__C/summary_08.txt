@@ -232,3 +232,58 @@ On 2025-02-08_10:36:53.497932
 The summary displayed below was created by an LLM named:  "llama-3.3-70b-specdec":
 Exception:
 Error code: 503 - {'error': {'message': 'Service Unavailable', 'type': 'internal_server_error'}}
+..................... .....................
+On 2025-02-08_10:46:54.897085
+The summary displayed below was created by an LLM named:  "mixtral-8x7b-32768":
+case\_number: 22STCV34687
+hearing\_date: September 26, 2023
+dept: C SANCHEZ
+plaintiff: v. EOS FITNESS, LLC, et al.
+people:
+- Sanchez, C
+- EOS Fitness LLC
+- Apparcel
+- Jones
+- Plaintiff
+places:
+- California
+dates:
+- May 13, 2022
+events:
+- Plaintiff's gym membership was cancelled
+- Plaintiff was informed that team members feel harassed and uncomfortable
+- Plaintiff was subjected to discrimination
+- Plaintiff was pushed, shoved, stricken, and beaten by unknown individuals
+money: N/A
+intentions:
+- Defendants demurred to the complaint on the grounds that the 1st, and 4th – 7th causes of action fail to state facts sufficient to constitute a cause of action and are uncertain.
+- Plaintiff alleges that he was discriminated against because of his race
+- Plaintiff alleges that he was assaulted by unknown Doe Defendants
+facts:
+- Plaintiff's gym membership was cancelled because team members feel harassed and uncomfortable
+- Plaintiff was subjected to discrimination because he used patriotic attire during workouts and opposed the use of steroids
+- Plaintiff was pushed, shoved, stricken, and beaten by unknown individuals
+disputes:
+- Defendants' demurrer to the complaint
+- Plaintiff's allegations of racial discrimination and assault
+acts:
+- Plaintiff's Opposition is 33 pages long, exceeding the 15-page limitation
+- Plaintiff was informed that his membership was cancelled
+- Plaintiff was pushed, shoved, stricken, and beaten by unknown individuals
+agreements: N/A
+laws:
+- CC § 51(b)
+- CC § 51.7(b)(1)
+- CC § 52
+- CC § 52.1
+- 42 USC § 1983
+case\_citations: N/A
+statutes: N/A
+roles:
+- Judge
+- Plaintiff
+- Defendants
+significant\_statements:
+- The court will overlook the transgression of the 15-page limitation once
+- The demurrer is SUSTAINED with 10 days leave to amend
+- The motion to strike is MOOT.
