@@ -257,3 +257,47 @@ On 2025-02-07_22:37:02.209766
 The summary displayed below was created by an LLM named:  "llama-3.3-70b-specdec":
 Exception:
 Error code: 429 - {'error': {'message': 'Rate limit reached for model `llama-3.3-70b-specdec` in organization `org_01hw84cjv0f12v63qt47723ar2` service tier `on_demand` on : Limit 100000, Used 99755, Requested 1821. Please try again in 22m41s. Visit https://console.groq.com/docs/rate-limits for more information.', 'type': '', 'code': 'rate_limit_exceeded'}}
+..................... .....................
+On 2025-02-07_22:47:03.791883
+The summary displayed below was created by an LLM named:  "mixtral-8x7b-32768":
+summary:
+  Case Number: 20STCV24195
+  Hearing Date: September 26, 2023
+  Dept: 54
+  Superior Court of California
+  County of Los Angeles
+  Plaintiff: Larry Waldie
+  Defendant: County of Los Angeles
+  Events:
+    - Larry Waldie filed a complaint for whistleblower retaliation against the County of Los Angeles on September 15, 2020.
+    - Waldie alleges that he was denied promotion and transfer for expressing opposition to the actions of an allegedly criminal gang within LASD, known as The Executioners.
+    - Waldie refused the request of a leader of the Executioners to promote a certain officer and reported this to a superior.
+    - On June 2, 2023, the jury found in favor of Defendant and determined that Waldie's complaint did not contribute to any adverse employment action.
+  Money: N/A
+  Intentions:
+    - Waldie's intention was to expose the illegal activities of The Executioners.
+    - The County's intention was to refuse promotion and transfer to Waldie after his complaint.
+  Facts:
+    - Waldie was a Lieutenant in the Los Angeles Sherriff’s Department and was the operations Lieutenant of Compton Station.
+    - Waldie made a complaint about the actions of The Executioners.
+    - Waldie was denied promotion and transfer after making the complaint.
+  Disputes:
+    - Waldie disputes the jury's decision that his complaint did not contribute to any adverse employment action.
+    - The County disputes Waldie's claim of whistleblower retaliation.
+  Acts:
+    - Waldie's act of making a complaint about The Executioners.
+    - The County's act of refusing to promote and transfer Waldie after his complaint.
+  Agreements: N/A
+  Laws:
+    - Whistleblower protection laws
+  Case Citations: N/A
+  Statutes: N/A
+  Roles:
+    - Plaintiff: Larry Waldie
+    - Defendant: County of Los Angeles
+  Significant Statements:
+    - "Plaintiff's motion for new trial is DENIED."
+    - "Plaintiff's motion for judgment notwithstanding the verdict is DENIED."
+
+English Text:
+The Judge's tentative ruling in the case of Larry Waldie vs. County of Los Angeles is denying the plaintiff's motion for a new trial and judgment notwithstanding the verdict. The plaintiff, Larry Waldie, filed a complaint for whistleblower retaliation against the County of Los Angeles on September 15, 2020. Waldie alleges that he was denied promotion and transfer for expressing opposition to the actions of an allegedly criminal gang within LASD, known as The Executioners. However, the jury found in favor of the defendant and determined that Waldie's complaint did not contribute to any adverse employment action. Waldie disputes this decision and moves for a new trial and judgment notwithstanding the verdict. The defendant, County of Los Angeles, disputes Waldie's claim of whistleblower retaliation. The judge's ruling denies both of Waldie's motions.
