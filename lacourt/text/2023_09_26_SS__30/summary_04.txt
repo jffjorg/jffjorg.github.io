@@ -54,3 +54,216 @@ Significant Statements:
 Here is a summary of the judge's tentative ruling in English text:
 
 The judge has granted the defendant's motion to dismiss the plaintiff's case due to the plaintiff's failure to comply with court orders. The defendant had ordered the plaintiff to attend a defense medical examination, but the plaintiff failed to schedule the examination and did not respond to the defendant's attempts to reschedule it. The judge also denied the defendant's request for monetary sanctions, as the court had already awarded terminating sanctions. The plaintiff has not filed an opposition to the motion and has not explained why terminating sanctions are not appropriate. The judge concludes that the plaintiff has effectively abandoned the case.
+..................... .....................
+On 2025-02-08_17:14:49.630523
+The summary displayed below was created by an LLM named:  "gemma2-9b-it":
+## Tentative Ruling Summary in YAML
+
+```yaml
+Case Number: 20STCV02402
+Hearing Date: September 26, 2023
+Dept: 30
+Plaintiff's Name: MIGUEL URIAS HIGUERA
+Defendant's Name: LOS ANGELES COUNTY METROPOLITAN TRANSPORTATION AUTHORITY
+People-Names:
+  - MIGUEL URIAS HIGUERA
+  - Judge (not specified)
+Company-Names:
+  - LOS ANGELES COUNTY METROPOLITAN TRANSPORTATION AUTHORITY
+Places: 
+  - Court (not specified)
+Dates:
+  - April 4, 2023
+  - September 26, 2023
+Events:
+  - April 4, 2023: Court ordered Plaintiff to attend a defense medical examination within 30 days or the earliest available appointment.
+  - Defendant attempted to schedule the medical examination with Plaintiff.
+  - Plaintiff did not respond to Defendant's scheduling attempts.
+  - Defendant filed a Motion to Dismiss for Failure to Obey Discovery Orders.
+  - Plaintiff did not file an opposition to the Motion.
+  - September 26, 2023: Judge granted Defendant's Motion to Dismiss.
+Money:
+  -  No monetary amounts mentioned
+Intentions:
+  - Defendant intended to schedule a medical examination.
+  - Plaintiff intended to abandon the case (implied).
+Facts:
+  - Plaintiff failed to comply with the Court's April 4th order.
+  - Plaintiff failed to schedule a date for the medical examination.
+Disputes:
+  - Plaintiff's failure to attend the medical examination.
+Acts:
+  - Court issued an order for a medical examination.
+  - Defendant attempted to schedule the examination.
+  - Defendant filed a Motion to Dismiss.
+Agreements:
+  - None mentioned
+Laws:
+  - Relevant discovery rules and statutes (not specified)
+Case Citations:
+  - None mentioned
+Statutes:
+  - None mentioned
+Roles:
+  - Judge: Decides on the Motion to Dismiss.
+  - Plaintiff: Failed to comply with court orders.
+  - Defendant: Filed the Motion to Dismiss.
+Significant Statements:
+  - "Defendant has presented sufficient evidence to show that terminating sanctions are appropriate."
+  - "Plaintiff has abandoned the case." 
+  - "Given that the Court awarded terminating sanctions, the Court declines to impose monetary sanctions as well." 
+
+```
+
+## English Summary
+
+The Judge has granted the Defendant's motion to dismiss the case because the Plaintiff failed to comply with a previous court order to attend a medical examination. The Court found that the Plaintiff had abandoned the case due to their lack of response to the Defendant's attempts to schedule the examination and their failure to oppose the motion to dismiss. Therefore, the Judge imposed terminating sanctions and declined to award monetary sanctions. 
+
+
+
+..................... .....................
+On 2025-02-08_17:15:15.324137
+The summary displayed below was created by an LLM named:  "llama3-8b-8192":
+Here is the summary in YAML format:
+
+```
+Case Number: 20STCV02402
+Plaintiff's Name: MIGUEL URIAS HIGUERA
+Defendant's Name: LOS ANGELES COUNTY METROPOLITAN TRANSPORTATION AUTHORITY
+People-Names:
+  - MIGUEL URIAS HIGUERA
+Company-Names:
+  - LOS ANGELES COUNTY METROPOLITAN TRANSPORTATION AUTHORITY
+Places:
+  - Los Angeles
+Dates:
+  - April 4, 2023
+  - September 26, 2023
+Events:
+  - Motion to Dismiss for Failure to Obey Discovery Orders
+  - Defense medical examination
+Acts:
+  - Failure to comply with Court's order
+  - Failure to schedule date for medical examination
+  - Failing to file opposition to motion
+Money:
+  - Request for monetary sanctions denied
+Intention:
+  - To dismiss the case
+Facts:
+  - Court ordered Plaintiff to attend medical examination within 30 days
+Disputes:
+  - Plaintiff's failure to comply with Court's order
+  - Defendant's request for terminating sanctions
+Agreements:
+  - Plaintiff failed to file opposition to motion
+Laws:
+  - Court's order of April 4, 2023
+Case Citations:
+  - None mentioned
+Statutes:
+  - None mentioned
+Roles:
+  - Judge: [Name not specified]
+  - Plaintiff: MIGUEL URIAS HIGUERA
+  - Defendant: LOS ANGELES COUNTY METROPOLITAN TRANSPORTATION AUTHORITY
+Significant Statements:
+  - "The Court finds that Defendant has presented sufficient evidence to show that terminating sanctions are appropriate."
+  - "In addition, it appears that Plaintiff has abandoned the case..."
+```
+
+And here is a summary of the judge's tentative ruling in English text:
+
+The judge has granted the defendant's motion to dismiss the case due to the plaintiff's failure to comply with a court order. The plaintiff was ordered to attend a defense medical examination within 30 days, but failed to do so. The defendant also requested terminating sanctions, which the court granted. The judge found that the plaintiff presented sufficient evidence to show that terminating sanctions were appropriate. Additionally, the judge noted that the plaintiff failed to file an opposition to the motion and has not explained why terminating sanctions are not appropriate. As a result, the court declined to impose monetary sanctions on top of the terminating sanctions.
+..................... .....................
+On 2025-02-08_17:15:41.159009
+The summary displayed below was created by an LLM named:  "llama-3.3-70b-specdec":
+Here is a YAML summary of the legal document:
+
+```yml
+Case Number: 20STCV02402
+Plaintiff's Name: Miguel Urias Higuera
+Defendant's Name: Los Angeles County Metropolitan Transportation Authority
+People-Names:
+  - Miguel Urias Higuera
+Company-Names:
+  - Los Angeles County Metropolitan Transportation Authority
+Places:
+  - Los Angeles County
+Dates:
+  - April 4, 2023
+  - September 26, 2023
+Events:
+  - Court Hearing
+  - Motion to Dismiss for Failure to Obey Discovery Orders
+Money:
+  - Monetary sanctions (requested but denied)
+Intentions:
+  - Defendant seeks to dismiss the case due to Plaintiff's failure to comply with discovery orders
+Facts:
+  - Plaintiff failed to attend a defense medical examination within 30 days of the Court's order
+  - Plaintiff did not reschedule the neurological exam
+  - Plaintiff did not file an opposition to the Motion to Dismiss
+Disputes:
+  - Plaintiff's failure to comply with discovery orders
+Acts:
+  - Plaintiff's failure to attend the defense medical examination
+  - Plaintiff's failure to reschedule the neurological exam
+Agreements:
+  - None
+Laws:
+  - Rules of Civil Procedure (implied)
+Case Citations:
+  - None
+Statutes:
+  - None
+Roles:
+  - Judge
+  - Plaintiff (Miguel Urias Higuera)
+  - Defendant (Los Angeles County Metropolitan Transportation Authority)
+Significant Statements:
+  - "The Court finds that Defendant has presented sufficient evidence to show that terminating sanctions are appropriate."
+  - "The Court declines to impose monetary sanctions as well."
+```
+
+And here is a summary of the Judge's tentative ruling in English text:
+
+The Judge has granted the Defendant's motion to dismiss the case due to the Plaintiff's failure to comply with discovery orders. The Plaintiff, Miguel Urias Higuera, was ordered to attend a defense medical examination within 30 days, but failed to do so. The Defendant, Los Angeles County Metropolitan Transportation Authority, requested terminating sanctions, which the Court found to be appropriate. The Plaintiff's failure to comply with the Court's order and their lack of response to the Motion to Dismiss suggest that they have abandoned the case. As a result, the Court has dismissed the case and denied the Defendant's request for monetary sanctions. The Judge has found that the Defendant has presented sufficient evidence to support the dismissal, and the Plaintiff's inaction has led to the termination of the case.
+..................... .....................
+On 2025-02-08_17:16:07.408677
+The summary displayed below was created by an LLM named:  "mixtral-8x7b-32768":
+case\_number: 20STCV02402
+hearing\_date: September 26, 2023
+dept: 30
+people:
+- Miguel Urias Higuera
+company:
+- Los Angeles County Metropolitan Transportation Authority
+places:
+events:
+- Defendant's motion to dismiss is granted
+- Request for monetary sanctions is denied
+money:
+intentions:
+- Defendant seeks terminating sanctions
+facts:
+- Plaintiff failed to comply with Court's April 4th order
+- Plaintiff did not schedule a new date for a medical examination
+disputes:
+- Defendant argues that Plaintiff abandoned the case
+acts:
+- Defendant wrote to Plaintiff to reschedule the neurological exam
+agreements:
+laws:
+case\_citations:
+statutes:
+roles:
+- Plaintiff: Miguel Urias Higuera
+- Defendant: Los Angeles County Metropolitan Transportation Authority
+significant\_statements:
+- "The Court finds that Defendant has presented sufficient evidence to show that terminating sanctions are appropriate."
+- "Plaintiff has abandoned the case."
+- "Given that the Court awarded terminating sanctions, the Court declines to impose monetary sanctions as well."
+
+English text:
+The tentative ruling is for Case Number 20STCV02402, with a hearing date of September 26, 2023, in Department 30. The Judge, Miguel Urias Higuera, grants the Defendant's motion to dismiss for failure to obey discovery orders. The request for monetary sanctions is denied. The Defendant, Los Angeles County Metropolitan Transportation Authority, sought terminating sanctions as the Plaintiff, Miguel Urias Higuera, failed to comply with the Court's April 4th order to attend a defense medical examination within 30 days or the earliest available appointment. The Defendant wrote to the Plaintiff to reschedule the neurological exam, but the Plaintiff never contacted defense counsel to schedule a new appointment. The Court finds that the Defendant has presented sufficient evidence to show that terminating sanctions are appropriate. The Plaintiff has abandoned the case, as they did not file an opposition to the instant Motion and have not explained to the Court why terminating sanctions are not appropriate. Therefore, the Court declines to impose monetary sanctions. The moving party is required to give notice.

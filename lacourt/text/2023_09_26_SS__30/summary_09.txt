@@ -57,3 +57,267 @@ Significant Statements:
 And here is a summary of the judge's tentative ruling in English text:
 
 The judge has reviewed the default package submitted by the plaintiff on June 12, 2023. The complaint is dismissed without prejudice due to the plaintiff's failure to comply with the court's order. The plaintiff was given 60 days to correct certain discrepancies, including dismissing certain defendants, excluding demands for future medical expenses and attorney fees, and providing evidence to support the demand for general damages. However, the plaintiff failed to do so, and as a result, the judge has denied the request for default judgment. The plaintiff's complaint is dismissed without prejudice, meaning it can be re-filed in the future.
+..................... .....................
+On 2025-02-08_17:29:37.668153
+The summary displayed below was created by an LLM named:  "gemma2-9b-it":
+## Tentative Ruling Summary in YAML Format
+
+```yaml
+Case Number: 21STCV21619
+Hearing Date: September 26, 2023
+Dept: 30
+Plaintiff's Name: Salvador R. Leguizamo, Francisca Leguizamo
+Defendant's Name: Maximino Mendez-Gil
+People-Names:
+  - Salvador R. Leguizamo
+  - Francisca Leguizamo
+  - Maximino Mendez-Gil
+Company-Names: 
+Places: 
+Dates:
+  - June 12, 2023
+  - June 23, 2023
+  - August 22, 2023
+  - September 20, 2023
+Events:
+  - Request for Entry of Default Judgment submitted on June 12, 2023
+  - Court continued request for default judgment for 60 days on June 23, 2023
+  - Court denied request for default judgment on August 22, 2023
+  -  Plaintiff failed to comply with June 23, 2023 order 
+  - Plaintiff's complaint dismissed without prejudice on September 26, 2023
+Money: 
+Intentions: 
+  - Plaintiff intended to obtain a default judgment against the Defendant.
+Facts:
+  - Plaintiff filed a complaint against Defendant.
+  - Defendant failed to respond to the complaint.
+  - Default was entered against Defendant.
+Disputes: 
+Acts:
+  - Plaintiff filed a request for entry of default judgment.
+  - Court continued the request for default judgment.
+  - Plaintiff failed to correct discrepancies in the request for default judgment.
+  - Court denied the request for default judgment.
+Agreements: 
+Laws: 
+  - Cal. Rules of Court, rule 3.110(h)
+Case Citations: 
+Statutes: 
+Roles:
+  - Judge: Presiding over the case, reviewing documents, issuing rulings.
+  - Plaintiff: Filed the complaint against the Defendant.
+  - Defendant: Failed to respond to the complaint, resulting in default.
+Significant Statements:
+  - "The Court has reviewed the default package submitted on June 12, 2023. The complaint is dismissed without prejudice."
+  - "When a default is entered, the party who requested the entry of default must obtain a default judgment against the defaulting party within 45 days after the default was entered, unless the court has granted an extension of time."
+
+
+
+```
+
+## English Text Summary
+
+In this case, Judge decided to dismiss Plaintiff's complaint against Defendant without prejudice.  
+
+The Plaintiff initially requested a default judgment because the Defendant failed to respond to the complaint. However, the Judge identified several issues with the Plaintiff's request, including:
+
+* **Demand for future medical expenses:** This was not properly supported.
+* **Demand for attorney fees:** This was not properly supported.
+* **DOE Defendants:** These defendants needed to be dismissed.
+* **Evidence for general damages:** This was lacking.
+
+The Judge granted the Plaintiff 60 days to correct these issues. However, the Plaintiff failed to do so within the given timeframe. Consequently, the court dismissed the case without prejudice, meaning the Plaintiff can refile the complaint after addressing the identified issues.
+
+
+
+
+
+..................... .....................
+On 2025-02-08_17:30:03.930462
+The summary displayed below was created by an LLM named:  "llama3-8b-8192":
+Here is the summary in YAML format:
+
+```
+Case Number: 21STCV21619
+Plaintiff's Name: Salvador R. Leguizamo and Francisca Leguizamo
+Defendant's Name: Maximino Mendez-Gil
+People-Names:
+  - Salvador R. Leguizamo
+  - Francisca Leguizamo
+  - Maximino Mendez-Gil
+Company-Names: None
+Places: None
+Dates:
+  - June 12, 2023
+  - June 23, 2023
+  - August 22, 2023
+  - September 20, 2023
+  - September 26, 2023
+Events:
+  - Request for Entry of Default Judgment
+  - Default entered
+  - Continuation of request for default judgment
+  - Denial of request for default judgment
+  - Filing of new request for entry of default judgment
+Money:
+  - Demand for future medical expenses
+  - Demand for attorney fees
+  - Demand for general damages
+Intentions:
+  - To obtain default judgment against Defendant
+  - To correct discrepancies in complaint
+Facts:
+  - Default was entered on unknown date
+  - Plaintiff failed to comply with Court's June 23, 2023 order
+  - No evidence filed to support demand for general damages
+  - No request for dismissal filed dismissing DOE Defendants
+Disputes:
+  - Plaintiff's request for default judgment was denied
+  - Plaintiff failed to correct discrepancies in complaint
+Acts:
+  - Plaintiff submitted default package
+  - Plaintiff continued request for default judgment
+  - Court denied request for default judgment
+  - Court dismissed complaint without prejudice
+Agreements:
+  - Plaintiff's request for default judgment was denied
+  - Court's June 23, 2023 order was not complied with
+Laws:
+  - Cal. Rules of Court, rule 3.110(h)
+Case Citations: None
+Statutes: None
+Roles:
+  - Judge: Salvador R. Leguizamo (Dept: 30)
+  - Plaintiff: Salvador R. Leguizamo and Francisca Leguizamo
+  - Defendant: Maximino Mendez-Gil
+Significant Statements:
+  - "When a default is entered, the party who requested the entry of default must obtain a default judgment against the defaulting party within 45 days after the default was entered, unless the court has granted an extension of time."
+```
+
+And here is a summary of the judge's tentative ruling in English text:
+
+The judge has reviewed the default package submitted by the plaintiff and has decided to dismiss the complaint without prejudice. The plaintiff had requested entry of default judgment, but failed to comply with the court's order to correct discrepancies in the complaint and provide evidence to support the demand for general damages. The plaintiff also failed to file a new request for entry of default judgment excluding the demand for future medical expenses and attorney fees. As a result, the 45-day deadline for obtaining a default judgment has passed, and the complaint is dismissed without prejudice.
+..................... .....................
+On 2025-02-08_17:30:29.945761
+The summary displayed below was created by an LLM named:  "llama-3.3-70b-specdec":
+Here is the summary of the tentative ruling in YAML format:
+
+```yml
+Case Number: 21STCV21619
+Plaintiff's Name: 
+  - Salvador R. Leguizamo
+  - Francisca Leguizamo
+Defendant's Name: Maximino Mendez-Gil
+People-Names: 
+  - Salvador R. Leguizamo
+  - Francisca Leguizamo
+  - Maximino Mendez-Gil
+Company-Names: []
+Places: []
+Dates: 
+  - June 12, 2023
+  - June 23, 2023
+  - August 22, 2023
+  - September 20, 2023
+  - September 26, 2023
+Events: 
+  - Request for Entry of Default Judgment
+  - Continuance of request for default judgment
+  - Denial of request for default judgment
+  - Dismissal of complaint without prejudice
+Money: 
+  - Demand for future medical expenses
+  - Demand for general damages
+  - Demand for attorney fees
+Intentions: 
+  - Plaintiff's intention to dismiss DOE Defendants
+  - Plaintiff's intention to provide evidence for general damages
+Facts: 
+  - Default was entered
+  - Plaintiff did not comply with Court's order
+Disputes: 
+  - Dispute over damages
+Acts: 
+  - Filing of default package
+  - Filing of request for default judgment
+Agreements: []
+Laws: 
+  - Cal. Rules of Court, rule 3.110(h)
+Case Citations: []
+Statutes: 
+  - Cal. Rules of Court, rule 3.110(h)
+Roles: 
+  - Plaintiff: Salvador R. Leguizamo and Francisca Leguizamo
+  - Defendant: Maximino Mendez-Gil
+  - Judge: 
+Signifcant Statements: 
+  - "The Court has reviewed the default package submitted on June 12, 2023."
+  - "The complaint is dismissed without prejudice."
+```
+
+And here is a summary of the judge's tentative ruling in English text:
+
+The judge has issued a tentative ruling in the case of Salvador R. Leguizamo and Francisca Leguizamo vs Maximino Mendez-Gil, with case number 21STCV21619. The plaintiffs had requested a default judgment, but the court had previously identified several discrepancies in their request, including the demand for future medical expenses and attorney fees, and the lack of evidence to support the demand for general damages. The court had given the plaintiffs 60 days to correct these discrepancies, but they failed to do so. As a result, the court has dismissed the complaint without prejudice, citing the plaintiffs' non-compliance with the court's order and the expiration of the 45-day time limit for obtaining a default judgment. The judge's ruling is based on the California Rules of Court, rule 3.110(h), which requires a party to obtain a default judgment within 45 days of the entry of default, unless an extension is granted.
+..................... .....................
+On 2025-02-08_17:30:56.382359
+The summary displayed below was created by an LLM named:  "mixtral-8x7b-32768":
+case\_number: 21STCV21619
+hearing\_date: September 26, 2023
+dept: 30
+plaintiffs:
+  - Salvador R. Leguizamo
+  - Francisca Leguizamo
+defendants:
+  - Maximino Mendez-Gil
+people:
+  - DOE Defendants
+places:
+  - Court
+dates:
+  - June 12, 2023
+  - June 23, 2023
+  - August 22, 2023
+  - September 20, 2023
+events:
+  - Submission of default package
+  - Continuation of request for default judgment for 60 days
+  - Denial of request for default judgment
+  - Dismissal of complaint
+money:
+  - Demand for future medical expenses
+  - Demand for general damages
+  - Demand for attorney fees
+intentions:
+  - Dismissal of DOE Defendants
+  - Exclusion of demand for future medical expenses
+  - Exclusion of demand for attorney fees
+  - Provision of evidence to support the demand for general damages
+facts:
+  - Plaintiff has not complied with the Court's order
+  - Forty-five days have passed since default was entered
+disputes:
+  - Request for entry of default judgment
+acts:
+  - Request for default judgment
+agreements:
+  - Cal. Rules of Court, rule 3.110(h)
+laws:
+  - Cal. Rules of Court
+case\_citations:
+  - N/A
+statutes:
+  - N/A
+roles:
+  - Plaintiff
+  - Defendant
+significant\_statements:
+  - Complaint dismissed without prejudice
+  - Plaintiff has not complied with the Court's order
+
+---
+
+The Judge has issued a tentative ruling for the case 21STCV21619, with a hearing date of September 26, 2023, in Department 30. The Judge has reviewed the default package submitted on June 12, 2023, and has decided to dismiss the complaint without prejudice. On June 23, 2023, the Court granted a 60-day continuance to allow the Plaintiff to correct certain discrepancies, including the dismissal of DOE Defendants, exclusion of demand for future medical expenses and attorney fees, provision of evidence to support the demand for general damages, and exclusion of demand for attorney fees. However, on August 22, 2023, the Court denied the request for default judgment as Plaintiff had not filed any paperwork correcting the above-identified discrepancies.
+
+As of September 20, 2023, Plaintiff Salvador R. Leguizamo and Francisca Leguizamo have not complied with the Court's order. A new request for entry of default judgment has not been filed excluding the demand for future medical expenses and demand for attorney fees. No evidence has been filed to support the demand for general damages. No request for dismissal has been filed dismissing the DOE Defendants. Forty-five days have passed since default was entered.
+
+Therefore, the complaint is DISMISSED without prejudice.

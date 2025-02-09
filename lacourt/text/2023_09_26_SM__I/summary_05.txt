@@ -53,3 +53,151 @@ Significant Statements:
 And here is the English-text summary:
 
 The judge's tentative ruling is a summary of the current state of the case, an unlawful detainer action where possession is still at issue. The judge notes that the Final Status Conference (FSC) order was given on September 11, 2023, and warned that a lot of work needed to be done to comply with the FSC requirements. The judge received FSC materials from the plaintiff on September 25, 2023, including a joint exhibit list, witness list, jury instructions, and statement of the case. The judge expresses concern that the materials appear to be unilateral, but if the defendant has signed off, the case may be ready for trial. The judge intends to inquire about the parties' intentions regarding trial and jury, and will proceed with the trial if the parties agree. The judge sets the trial date for October 2, 2023 at 10:30 am.
+..................... .....................
+On 2025-02-08_11:44:00.659595
+The summary displayed below was created by an LLM named:  "gemma2-9b-it":
+## Tentative Ruling Summary: Case 23SMCV03328
+
+```yaml
+Case Number: 23SMCV03328
+Hearing Date: September 26, 2023
+Dept: I
+Plaintiff's Name:  Not specified
+Defendant's Name: Not specified
+People-Names:  
+Company-Names: 
+Places: 
+Dates: 
+    - September 11, 2023
+    - September 25, 2023
+    - October 2, 2023 at 10:30 am
+Events:
+    - Final Status Conference (FSC) held on September 11, 2023
+    - Plaintiff provided notice to defendant for FSC
+    - Plaintiff submitted FSC materials on September 25, 2023
+Money: 
+Intentions: 
+    - Parties anticipate a 50-minute trial
+Facts:
+    - Unlawful detainer action
+    - Possession is still at issue
+Disputes: 
+    - Unclear if defendant has stipulated to authenticity or admissibility of plaintiff's exhibits
+Acts: 
+    - Judge warned parties at FSC that substantial work was needed to comply with requirements
+    - Judge stated case would not be deemed ready for trial if FSC requirements were not met
+Agreements:
+    - "Joint" exhibit list, witness list, jury instructions, and statement of the case submitted
+Laws:
+    - California Code of Civil Procedure
+Case Citations:
+    - Not specified
+Statutes:
+    - Not specified
+Roles:
+    - Judge: Presided over FSC, issued tentative ruling
+    - Plaintiff: Filed action, submitted FSC materials
+    - Defendant: Notified, but not present at FSC
+Significant Statements:
+    - "This appears to be unilateral, but if defendant has signed off, then other than the lack of a jury verdict, the case seems ready for trial."
+    - "If these documents are truly joint and if the parties do want to go forward, the case does appear READY FOR TRIAL and will begin on October 2, 2023 at 10:30 am." 
+```
+
+## English Summary:
+
+This is a tentative ruling for a final status conference in an unlawful detainer case.  The Judge previously warned the parties that they needed to complete all necessary steps to be ready for trial. While the plaintiff submitted documents outlining their case, the Judge is unsure if the defendant agreed to them. If the defendant did agree, the case appears ready for trial. The Judge will inquire with the parties if they still want to proceed with a jury trial. If the documents are indeed joint and the parties wish to proceed, the trial will begin on October 2nd at 10:30 am. 
+
+
+
+
+..................... .....................
+On 2025-02-08_11:44:26.440055
+The summary displayed below was created by an LLM named:  "llama3-8b-8192":
+Here is the summary in YAML format:
+
+```
+Case Number: 23SMCV03328
+Plaintiff's Name: 
+Defendant's Name: 
+People-Names: 
+Company-Names: 
+Places: 
+Dates:
+  - September 11, 2023
+  - September 25, 2023
+  - September 26, 2023
+  - October 2, 2023
+Events:
+  - Final status conference
+  - Unlawful detainer action
+  - FSC order
+  - Trial
+Money: 
+Intentions: 
+Facts:
+  - Possession is still at issue
+  - FSC requirements not met
+Disputes:
+  - Parties' compliance with FSC requirements
+  - Whether case is ready for trial
+  - Whether trial should be by jury
+Acts:
+  - Plaintiff gave notice
+  - Defendant was not present at last hearing
+Agreements:
+  - Joint exhibit list
+  - Joint witness list
+  - Joint jury instructions
+  - Joint statement of the case
+Laws: 
+Case Citations: 
+Statutes: 
+Roles:
+  - Judge
+  - Plaintiff
+  - Defendant
+Significant Statements:
+  - "The court warned at that time that a lot of work needed to be done to comply with the FSC requirements and that if the FSC requirements were not met, the court would not deem the case ready for trial."
+  - "Given that the parties anticipate a 50 minute trial, the court will inquire whether the parties really insist that the case go forward and whether the parties insist that there be a trial by jury here."
+  - "If these documents are truly joint and if the parties do want to go forward, the case does appear READY FOR TRIAL and will begin on October 2, 2023 at 10:30 am."
+```
+
+And here is a summary of the judge's tentative ruling in English text:
+
+The judge is holding a final status conference in an unlawful detainer action where possession is still at issue. The court previously issued a Final Status Conference (FSC) order on September 11, 2023, warning that a lot of work was needed to comply with the FSC requirements and that if the requirements were not met, the case would not be deemed ready for trial. Despite the defendant's absence at the last hearing, the plaintiff provided notice. The court received the FSC materials on September 25, 2023, which appear to be unilateral, except for the lack of a jury verdict. The judge will inquire whether the parties really want to proceed with the trial and whether they want to have a jury trial. If the parties confirm that they want to proceed, the case will be considered ready for trial and will begin on October 2, 2023 at 10:30 am.
+..................... .....................
+On 2025-02-08_11:44:51.638913
+The summary displayed below was created by an LLM named:  "llama-3.3-70b-specdec":
+Exception:
+Error code: 503 - {'error': {'message': 'Service Unavailable', 'type': 'internal_server_error'}}
+..................... .....................
+On 2025-02-08_11:54:52.732177
+The summary displayed below was created by an LLM named:  "mixtral-8x7b-32768":
+case\_number: 23SMCV03328
+hearing\_date: September 26, 2023
+dept: I
+people:
+- plaintiff
+- defendant
+places:
+- court
+dates:
+- September 11, 2023
+- September 25, 2023
+- October 2, 2023
+events:
+- final\_status\_conference
+- unlawful\_detainer\_action
+- FSC\_order
+- hearing\_without\_defendant
+- submission\_of\_FSC\_materials
+money:
+roles:
+- plaintiff
+- defendant
+significant\_statements:
+- "if defendant has signed off, then other than the lack of a jury verdict, the case seems ready for trial."
+- "if the parties do want to go forward, the case does appear READY FOR TRIAL and will begin on October 2, 2023 at 10:30 am."
+
+English summary:
+This is a summary of a tentative ruling for case number 23SMCV03328, scheduled for a final status conference on September 26, 2023, in department I. This is an unlawful detainer action where possession is still at issue. The court had previously given a final status conference (FSC) order on September 11, 2023, warning that a lot of work needed to be done to comply with the FSC requirements and that if the FSC requirements were not met, the court would not deem the case ready for trial. The defendant was not present at the last hearing, but the plaintiff gave notice. On September 25, 2023, the court received FSC materials, including a joint exhibit list, witness list, jury instructions, and statement of the case, all from the plaintiff. If the defendant has signed off on these materials, then the case seems ready for trial, except for the lack of a jury verdict. If the parties want to go forward, the case will be deemed ready for trial and will begin on October 2, 2023, at 10:30 am.

@@ -56,3 +56,252 @@ Significant Statements:
 And here is the English-text summary of the judge's tentative ruling:
 
 The judge has denied the motions of Robert Olie and Florence Olie to be relieved as counsel without prejudice. The case is being transferred to Department One as it is considered a non-PI (premises liability and breach of habitability) case. The upcoming dates will be vacated, and counsel may re-file their motion in the proper court if Department One accepts the transfer. The judge has denied the request to relieve counsel at this time because it is too soon to the trial date, which is less than a month away, and the client would be unduly prejudiced.
+..................... .....................
+On 2025-02-08_17:16:33.465835
+The summary displayed below was created by an LLM named:  "gemma2-9b-it":
+## Tentative Ruling Summary in YAML:
+
+```yaml
+Case Number: 20STCV32790
+Hearing Date: September 26, 2023
+Dept: 30
+
+People-Names:
+- SHANE ANTLEY
+- ROBERT OLIE
+- FLORENCE OLIE
+
+Company-Names: 
+
+Places: 
+
+Dates:
+- September 26, 2023
+
+Events:
+- Motion to be relieved as counsel filed for Robert Olie and Florence Olie
+- Motions denied without prejudice
+- Case transferred to Dept. One as non-PI
+
+Money: 
+
+Intentions:
+- Counsel seeks to be relieved from representing clients
+- Judge intends to prevent undue prejudice to clients
+
+Facts:
+- Case is a premises liability and breach of habitability case
+
+Disputes: 
+
+Acts:
+
+Agreements: 
+
+Laws: 
+
+Case Citations: 
+
+Statutes: 
+
+Roles:
+- JUDGE: Deciding on motions to relieve counsel
+- COUNSEL: Representing clients
+- PLAINTIFF: SHANE ANTLEY (et al.)
+- DEFENDANT: ROBERT OLIE (et al.)
+
+Significant Statements:
+- "The request is made too soon to the trial date. With less than a month to trial, the Client will be unduly prejudiced."
+- "Further, this is a premises liability and breach of habitability case, and thus considered non-PI."
+
+
+```
+
+## English Summary:
+
+The judge issued a tentative ruling denying motions filed by attorneys seeking to be relieved from representing defendants Robert Olie and Florence Olie in the case of Shane Antley et al. vs. Robert Olie et al.  
+
+The judge found that the requests were made too close to the trial date (less than a month), which would unduly prejudice the defendants. Additionally, the case involves premises liability and breach of habitability, classifying it as a non-PI (personal injury) case.  
+
+As a result, the case was transferred to Department One, which handles non-PI cases.  The judge indicated that if Department One accepts the transfer, the upcoming court dates will be vacated, allowing the attorneys to re-file their motions in the appropriate court. 
+
+
+
+
+..................... .....................
+On 2025-02-08_17:16:59.081996
+The summary displayed below was created by an LLM named:  "llama3-8b-8192":
+Here is the summary in YAML format:
+
+```
+Case Number: 20STCV32790
+Plaintiff's Name: SHANE ANTLEY, et al.
+Defendant's Name: ROBERT OLIE, et al.
+People-Names:
+  - SHANE ANTLEY
+  - ROBERT OLIE
+  - FLORENCE OLIE
+Company-Names: None
+Places: None
+Dates:
+  - September 26, 2023 (Hearing Date)
+  - Trial Date (not specified)
+Events:
+  - Motion to be Relieved as Counsel for Defendant
+  - Transfer of case to Dept. One
+Money: None
+Intentions:
+  - Denial of motions to be relieved as Counsel
+  - Transfer of case to Dept. One
+Facts:
+  - Less than a month to trial
+  - Premises liability and breach of habitability case
+Disputes:
+  - None
+Acts:
+  - Request to be relieved as Counsel
+  - Transfer of case to Dept. One
+Agreements: None
+Laws: None
+Case Citations: None
+Statutes: None
+Roles:
+  - Judge
+  - Counsel
+  - Client
+  - Clerk
+Significant Statements:
+  - Request made too soon to trial date
+  - Client will be unduly prejudiced
+  - Case is non-PI
+```
+
+And here is a summary of the judge's tentative ruling in English text:
+
+The judge denied the motions to be relieved as counsel for the defendants, Robert Olie and Florence Olie, without prejudice. The case is transferred to Dept. One as a non-personal injury (non-PI) case. The judge ruled that the request to be relieved as counsel is premature, with less than a month to trial, and would unduly prejudice the client. Additionally, the case is considered non-PI due to its premises liability and breach of habitability claims. The clerk is instructed to give notice of the transfer.
+..................... .....................
+On 2025-02-08_17:17:25.096353
+The summary displayed below was created by an LLM named:  "llama-3.3-70b-specdec":
+Here is a YAML summary of the legal document:
+
+```yml
+Case Number: 20STCV32790
+Plaintiff's Name: Shane Antley
+Defendant's Name: Robert Olie, Florence Olie
+People-Names:
+  - Shane Antley
+  - Robert Olie
+  - Florence Olie
+Company-Names: []
+Places: []
+Dates:
+  - September 26, 2023
+Events:
+  - Motion to be relieved as counsel
+  - Hearing
+  - Trial
+Money: []
+Intentions:
+  - Counsel's intention to be relieved
+Facts:
+  - The case is a premises liability and breach of habitability case
+  - The trial date is less than a month away
+Disputes:
+  - The defendants' counsel's request to be relieved
+Acts:
+  - Motion to be relieved as counsel
+  - Transfer of the case to Dept. One
+Agreements: []
+Laws: []
+Case Citations: []
+Statutes: []
+Roles:
+  - Judge
+  - Counsel
+  - Plaintiff
+  - Defendant
+Significant Statements:
+  - The motions to be relieved as counsel are denied without prejudice
+  - The case is transferred to Dept. One as non-PI
+```
+
+And here is a summary of the judge's tentative ruling in English text:
+
+The judge has denied the motions of Robert Olie and Florence Olie's counsel to be relieved without prejudice. The case, which involves premises liability and breach of habitability, is being transferred to Department One as a non-PI case. The judge has determined that granting the motions so close to the trial date (less than a month away) would unduly prejudice the clients. If Department One accepts the transfer, the upcoming dates will be vacated, and counsel may re-file their motion in the proper court. The clerk is instructed to give notice of the ruling.
+..................... .....................
+On 2025-02-08_17:17:51.030425
+The summary displayed below was created by an LLM named:  "mixtral-8x7b-32768":
+case\_number: 20STCV32790
+hearing\_date: September 26, 2023
+dept: 30
+plaintiff\_names:
+
+* Shane Antley
+* et al.
+
+defendant\_names:
+
+* Robert Olie
+* Florence Olie
+
+people\_names:
+
+* Shane Antley
+* Robert Olie
+* Florence Olie
+
+company\_names:
+
+* not specified
+
+places:
+
+* not specified
+
+dates:
+
+* not specified
+
+events:
+
+* Motion to be Relieved as Counsel for Defendant for Robert Olie
+* Motion to be Relieved as Counsel for Defendant for Florence Olie
+
+money: not specified
+
+intentions:
+
+* The defendants' counsel intends to be relieved as counsel.
+
+facts:
+
+* The requests to be relieved as counsel were made too soon to the trial date.
+* The case is a premises liability and breach of habitability case.
+
+disputes:
+
+* The plaintiff and defendants dispute the relief of counsel for the defendants.
+
+acts:
+
+* The plaintiff filed a motion to transfer the case to Dept. One as non-PI.
+
+agreements: not specified
+
+laws: not specified
+
+case\_citations: not specified
+
+statutes: not specified
+
+roles:
+
+* Shane Antley is the plaintiff.
+* Robert Olie and Florence Olie are the defendants.
+
+significant\_statements:
+
+* The motions to be relieved as counsel are denied without prejudice.
+* The case is transferred to Dept. One as non-PI.
+* The clerk will give notice.
+* The upcoming dates will be vacated and counsel may re-file its motion in the proper court if Dept. One accepts the transfer.

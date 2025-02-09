@@ -49,3 +49,139 @@ Significant Statements:
 And here is a summary in English text:
 
 The Judge has issued a tentative ruling on the ex parte application to advance the hearing date. The application is denied due to the Court's dark period between October 16, 2023 and November 1, 2023, which makes the dates suggested by the defendant unsuitable. However, the Judge will inquire about a solution to the scheduling conflict, taking into account the defendant's point that responses cannot be readily served before the hearing because the defendant may not be able to sign them. The Judge will also ask about the plaintiff's concerns about a response date in late November being prejudicial. The Judge may be able to move the hearing date up slightly, but not significantly, and is unsure about the materiality of the issue. Finally, the Judge will inquire about whether defense counsel expects any opposition to the motion to withdraw.
+..................... .....................
+On 2025-02-08_11:11:42.418511
+The summary displayed below was created by an LLM named:  "gemma2-9b-it":
+## Tentative Ruling Summary (YAML)
+
+**Case Number:** 22SMCV02357
+**Hearing Date:** September 26, 2023
+**Dept:** I
+
+* **People-Names:** 
+    * Plaintiff (Name not provided)
+    * Defendant (Name not provided)
+* **Company-Names:** None
+* **Places:** None
+* **Dates:**
+    * September 26, 2023: Tentative ruling issued
+    * October 16, 2023 - November 1, 2023: Court Closed
+    * Late November (tentative): Proposed response date
+* **Events:**
+    * Ex parte application to advance hearing denied.
+    * Court will inquire about alternative hearing dates.
+    * Court will inquire about potential prejudice to plaintiff from a late November response date.
+    * Potential for slight hearing date adjustment.
+    * Court will inquire about anticipated opposition to motion to withdraw.
+* **Money:** None
+* **Intentions:**
+    * Defendant seeks to advance hearing date.
+    * Plaintiff seeks to keep current hearing date.
+* **Facts:**
+    * Defendant's responses to motion cannot be served until motion is heard.
+* **Disputes:**
+    * Timing of hearing date and response date.
+* **Acts:**
+    * Defendant filed ex parte application to advance hearing.
+    * Judge issued tentative ruling denying application.
+* **Agreements:** None
+* **Laws:** None
+* **Case Citations:** None
+* **Statutes:** None
+* **Roles:**
+    * Judge: Deciding officer
+    * Plaintiff: Bringing the legal action
+    * Defendant: Responding to the legal action
+* **Significant Statements:**
+    * "The court will inquired, though, as to a solution."
+    * "Defendant has a good point that the responses cannot readily be served until the motion is heard because defendant might not be able to sign the responses."
+    * "The court will also inquire as to whether defense counsel expects there to be any opposition to the motion to withdraw."
+
+
+
+
+## English Summary
+
+The judge issued a tentative ruling on a case (Case Number: 22SMCV02357) denying a request to move the hearing date up. The court is closed from October 16th to November 1st, making the defendant's proposed dates unworkable. 
+
+The judge recognizes the defendant's point that they cannot sign their responses to the motion until the hearing takes place.  The judge will investigate why the plaintiff believes a late November response date would be unfair. 
+
+While the judge might be able to slightly adjust the hearing date, they don't see it as a major issue. The judge will also inquire about whether there will be any opposition to the defendant's motion to withdraw. 
+
+
+
+..................... .....................
+On 2025-02-08_11:12:08.107316
+The summary displayed below was created by an LLM named:  "llama3-8b-8192":
+Here is the summary in YAML format:
+
+```
+Case Number: 22SMCV02357
+Plaintiff's Name: None mentioned
+Defendant's Name: None mentioned
+People-Names:
+  - Defendant
+Company-Names: None mentioned
+Places: None mentioned
+Dates:
+  - September 26, 2023
+  - October 16, 2023
+  - November 1, 2023
+  - Late November
+Events:
+  - Ex parte application to advance the hearing
+  - Motion to withdraw
+Money: None mentioned
+Intentions:
+  - Deny ex parte application to advance the hearing
+  - Consider alternative solution
+  - Inquire about response date
+Disputes:
+  - Plaintiff's prejudice from late November response date
+  - Materiality of hearing date
+Acts:
+  - Serving responses
+  - Signing responses
+Agreements: None mentioned
+Laws: None mentioned
+Case Citations: None mentioned
+Statutes: None mentioned
+Roles:
+  - Judge
+  - Defendant
+  - Plaintiff
+  - Defense counsel
+Significant Statements:
+  - "The court will be dark between October 16, 2023 and November 1, 2023, so the dates defendant suggests do not work."
+  - "The court will inquire as to why plaintiff believes that a response date in late November will be prejudicial to it."
+  - "The court might be able to move the hearing date up slightly, but not a lot and the court fails to see the materiality of it."
+  - "The court will also inquire as to whether defense counsel expects there to be any opposition to the motion to withdraw."
+```
+
+And here is a summary of the judge's tentative ruling in English text:
+
+The judge has denied the ex parte application to advance the hearing date. The court is not available between October 16, 2023, and November 1, 2023, and the dates suggested by the defendant do not work. The judge is willing to consider alternative solutions, however. The court will inquire about the potential prejudice to the plaintiff from a response date in late November and will also ask if the defense counsel expects any opposition to the motion to withdraw. The judge may be able to slightly move up the hearing date, but does not see the materiality of the issue.
+..................... .....................
+On 2025-02-08_11:12:33.282722
+The summary displayed below was created by an LLM named:  "llama-3.3-70b-specdec":
+Exception:
+Error code: 503 - {'error': {'message': 'Service Unavailable', 'type': 'internal_server_error'}}
+..................... .....................
+On 2025-02-08_11:22:34.115113
+The summary displayed below was created by an LLM named:  "mixtral-8x7b-32768":
+case\_number: 22SMCV02357
+hearing\_date: September 26, 2023
+dept: I
+ex\_party\_application\_status: denied
+court\_dark\_dates:
+- October 16, 2023
+- November 1, 2023
+defendant\_point:
+- responses\_cannot\_be\_served\_until\_motion\_is\_heard
+plaintiff\_belief:
+- response\_date\_in\_late\_november\_prejudicial
+potential\_hearing\_date\_movement: slight
+court\_materiality\_view: fails\_to\_see
+defense\_counsel\_expectation: inquire
+
+The judge has denied the ex parte application to advance the hearing. The court will be dark between October 16, 2023 and November 1, 2023, making the suggested dates from the defendant unworkable. The court will inquire as to a solution regarding the defendant's point about not being able to sign the responses until the motion is heard. The plaintiff's belief that a response date in late November will be prejudicial will also be inquired. The court might be able to move the hearing date up slightly, but not significantly. The court does not see the materiality of moving the date up by much. The defense counsel's expectation of there being no opposition to the motion to withdraw will also be inquired.

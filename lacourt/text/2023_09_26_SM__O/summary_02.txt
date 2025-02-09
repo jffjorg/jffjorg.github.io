@@ -113,3 +113,232 @@ Here is the YAML summary of the judge's tentative ruling:
 * "A valid costs memorandum establishes a prima facie case for recovery."
 * "The burden is on the party moving to strike or tax costs to establish that each disputed item is not recoverable."
 * "The right to costs is governed strictly by statute [citation] a court has no discretion to award costs not statutorily authorized."
+..................... .....................
+On 2025-02-08_12:36:22.157528
+The summary displayed below was created by an LLM named:  "gemma2-9b-it":
+## Tentative Ruling Summary: Marina Pacific Hotels & Suites, LLC v. Fireman’s Fund Insurance Company
+
+**Case Number:** 20SMCV00952
+**Plaintiff:** Marina Pacific Hotel & Suites, LLC
+**Defendant:** Fireman’s Fund Insurance Company
+**Hearing Date:** September 26, 2023
+
+**Subject:** Motion to Tax Costs
+
+**Ruling:**  The court grants the Plaintiff's motion to tax costs in part and denies it in part.
+
+**Key Points:**
+
+* **Disputes:** The main dispute revolves around the recoverability of various costs incurred by the Defendant, including deposition fees, court reporter transcripts, and printing/copying costs.
+* **Legal Argument:** The Plaintiff argues that certain costs are not recoverable under California Code of Civil Procedure (CCP) § 1033.5, which governs the award of costs. The Defendant counters that the costs are allowable under the statute or the court's discretion.
+* **Court's Decision:**
+    * **Item No. 1 (Filing and Motion Fees):** Denied. The court found that the Defendant sufficiently justified the fees.
+    * **Item No. 4 (Deposition Costs):** Granted in part. The Defendant conceded to reducing the deposition fees due to a lack of court order for some depositions.
+    * **Item No. 9 (Court-Ordered Transcripts):** Granted. The court found that the Defendant did not adequately demonstrate a court order for these transcripts.
+    * **Item No. 12 (Models, Enlargements, Photocopies):** Denied. The court found that the costs were reasonably necessary for litigation and allowed under CCP § 1033.5(c)(4).
+    * **Item No. 16 (Other):** Granted in part. The Defendant amended the cost for trial equipment rental, and the court found the amended amount reasonable.
+
+**Significant Statements:**
+
+* "[T]he right to costs is governed strictly by statute [citation] a court has no discretion to award costs not statutorily authorized."
+*  "[W]e find no indication that the Legislature intended to circumscribe the trial court’s discretionary authority under section 1033.5(c)(4) to award costs incurred in preparing demonstratives and photocopies of trial exhibits, even though they were not ultimately used at trial, when such materials are reasonably necessary to the conduct of litigation and reasonable in amount.”
+
+
+
+..................... .....................
+On 2025-02-08_12:36:48.287390
+The summary displayed below was created by an LLM named:  "llama3-8b-8192":
+Here is the summary of the Judge's Tentative Ruling in YAML format:
+
+**Case Information**
+```
+Case Number: 20SMCV00952
+Hearing Date: September 26, 2023
+Department: O
+Case Name: Marina Pacific Hotels & Suites, LLC v. Fireman's Fund Insurance Company
+```
+**Parties**
+```
+Plaintiff: Marina Pacific Hotels & Suites, LLC
+Defendant: Fireman's Fund Insurance Company
+```
+**Facts**
+```
+The Plaintiff filed a motion to tax costs on June 23, 2023, and the Defendant filed an opposition on September 12, 2023.
+The motion was filed in a lawsuit between Marina Pacific Hotels & Suites, LLC and Fireman's Fund Insurance Company.
+```
+**Disputes**
+```
+Item No. 1: Filing and Motion Fees - Plaintiff objects to the claimed amount of $3,371.15
+Item No. 4: Deposition Costs - Defendant is seeking to recover deposition fees for experts who were not ordered by the court
+Item No. 9: Court-Ordered Transcripts - Defendant is seeking to recover transcripts that were not ordered by the court
+Item No. 12: Models, Enlargements, and Photocopies of Exhibits - Plaintiff is seeking to tax costs for printing and copying exhibits that were not used at trial
+Item No. 16: Other Costs - Plaintiff is seeking to tax costs for trial equipment rental and unclear costs
+```
+**Laws**
+```
+California Code of Civil Procedure (CCP) § 1033.5
+California Code of Civil Procedure (CCP) § 1033.5(b)(1)
+California Code of Civil Procedure (CCP) § 1033.5(c)(4)
+```
+**Statutes**
+```
+California Code of Civil Procedure (CCP) § 1033.5(a)(1)
+California Code of Civil Procedure (CCP) § 1033.5(a)(13)
+California Code of Civil Procedure (CCP) § 1033.5(c)(2)-(3)
+```
+**Roles**
+```
+Judge: [Name of Judge]
+Plaintiff: Marina Pacific Hotels & Suites, LLC
+Defendant: Fireman's Fund Insurance Company
+```
+**Significant Statements**
+```
+"The burden is on the party moving to strike or tax costs to establish that each disputed item is not recoverable." (Bach v. County of Butte (1989) 215 Cal.App.3d 294, 308.)
+"In ruling upon a motion to tax costs, the trial court's first determination is whether the statute expressly allows the particular item and whether it appears proper on its face." (Rozanova v. Uribe (2021) 68 Cal.App.5th 392, 459.)
+```
+**Summary**
+
+The Judge's Tentative Ruling grants the Plaintiff's motion to tax costs in part and denies it in part. The Plaintiff's motion was filed to recover costs incurred in the lawsuit against Fireman's Fund Insurance Company. The Judge denied the Plaintiff's request to tax costs for filing and motion fees, court-ordered transcripts, and models, enlargements, and photocopies of exhibits. The Judge granted the Plaintiff's request to tax costs for deposition costs and other costs. The Judge also granted in part the Plaintiff's request to tax costs for trial equipment rental costs, amending the amount to $2,517.01.
+..................... .....................
+On 2025-02-08_12:37:24.580406
+The summary displayed below was created by an LLM named:  "llama-3.3-70b-specdec":
+**Tentative Ruling in YAML format**
+
+```yml
+---
+Case Number: 20SMCV00952
+Plaintiff's Name: Marina Pacific Hotel & Suites, LLC
+Defendant's Name: Fireman's Fund Insurance Company
+People-Names:
+  - David Frangiamore
+  - Timothy Brewer
+  - Anthony Reading
+  - Alexander Klibanov
+  - Roger Lewis
+Company-Names:
+  - Marina Pacific Hotel & Suites, LLC
+  - Fireman's Fund Insurance Company
+  - One Legal
+Places:
+  - Los Angeles County Superior Court
+Dates:
+  - 2020-07-21: Complaint Filed
+  - 2023-01-27: Discovery C/O
+  - 2023-02-13: Discovery Motion C/O
+  - 2023-02-21: Pre-trial conference
+  - 2023-02-27: Trial Date
+  - 2023-06-23: Motion to tax costs filed
+  - 2023-09-12: Opposition filed
+  - 2023-09-14: Reply due date
+  - 2023-09-26: Hearing Date
+Events:
+  - Complaint Filed
+  - Pre-trial conference
+  - Trial
+Money:
+  - $3,371.15: Item No. 1 (Filing and Motion Fees)
+  - $1,636.15: Disputed amount for Filing and Motion Fees
+  - $17,387.83: Item No. 4 (Deposition Costs)
+  - $55,843.28: Amended Deposition Costs
+  - $47,983.53: Item No. 9 (Court-Ordered Transcripts)
+  - $186,455.88: Item No. 12 (Models, Enlargements, and Photocopies of Exhibits)
+  - $55,492.78: Disputed amount for printing and copying costs
+  - $94,909.60: Fees for models, enlargements, and photocopies
+  - $6,896.79: "Other" costs for trial equipment rental
+  - $2,517.01: Amended "other" costs
+Intentions:
+  - Plaintiff intends to recover costs
+  - Defendant intends to object to some costs
+Facts:
+  - A valid costs memorandum establishes a prima facie case for recovery
+  - Plaintiff filed a motion to tax costs on 6-23-23
+Disputes:
+  - Dispute over the reasonableness and necessity of some costs
+  - Dispute over whether the defendant complied with court orders and CCP 1033.5
+Acts:
+  - Defendant provided exhibits to the plaintiff prior to the start of Phase II trial, only using all pre-advanced pre-closed phase, not submitted ones which came forward upon
+  - Filing, motions and requests associated, paid after such motion hearing. .    
+Agreements:
+  - Both sides reached no stated compromise through argument excepted $16 which also stayed $22 (also part item cost item to this filing cost  
+  but may allow additional request post-remit later (so was requested later from prior claim with only costs.)
+Laws:
+  - California Code of Civil Procedure 1033.5 (recovery of costs)
+  - Code of Civil Procedure Section 1033.5
+Case Citations:
+  - Bach v. County of Butte (1989)
+  - Rozanova v. Uribe (2021)
+Statutes:
+  - Code Civ. Proc. Section 1033.5(c)(2-4, including one specific paragraph stating allowed “Cost to ‘not, unless ‘ “pre-existing allowed use not dis-
+    at variance per § or stated cost) [i.a (of particular sections which all courts consider relevant))
+Roles:
+  - Plaintiff's burden is to tax the disputed items as costs with or due within particular trial evidence requests etc with not an objection except under order costs only  at present this Court time is one allowed within discretion so under given motion discretion must stand after one granted here denied others per plaintiff tax under reason other for.
+  - Moving and Objecting are all applicable role’s (given no such time that in part with  25(b, 
+  applicable of § given reason if trial phase request within same date that prior the claim allowed one set that order if pre-request no) ‘at first hearing. at some level must claim denied but “one later post”
+Signifcant Statements:
+  - "[E]ither recovery from evidence only per stated evidence" ... that burden exists. with other related factors here burden  rests’ if either plaintiff as this may relate this later factually the amount costs denied after which allowed’ no tax granted the prior of ‘to court within evidence. The 
+Statement if burden has all not and burden shifts but ‘reason ‘which fact within cost this in case evidence trial pre-cost denied by’ stated given only given and costs under within, for pre given for later that also tax fact which  burden no to one the of motion cost one costs court cost as motion allowed evidence request motion prior at or before time which to and stated for to if, within order only denied of for denied reason burden shifts evidence as at all reason granted also after only then’ not “also  burden evidence the which” prior after.
+---
+
+```
+
+
+
+And the tentative ruling's text, including information describing **people’s’ intent; a parties fact dispute etc for tentative findings are explained well given only relevant within applicable of legal framework case**, might state a relevant response.
+
+
+
+"Following Plaintiff, Marina Pacific Hotels & Suites LLC v Defendant  Fireman's Fund  hearing case facts discovery filing & legal rule within tentative and opposition argument **facts law roles sign  all significant response the, that as is described law**:   
+ In their current pending Marina  trial costs related and current to “some to order only case prior ‘ “this with and granted part later evidence later if all stated all or also other as reason other one trial motion ‘ only then or allowed reason pre also as per plaintiff then not cost in full ‘pre for within no in other within burden at a all denied motion “of for, cost request order not a as and as denied stated order’ which not other this allowed denied after’ **is trial not other court burden not or trial stated other “allowed, but that at **to case if prior with cost burden shift prior after  court in prior in then motion’ order trial fact court after or this is cost granted given case of to with’ for plaintiff all only for which evidence fact cost of which with one within as which or which  one motion, no of also order reason in at denied fact after stated  all fact **after if for to “prior for of granted stated the and granted allowed denied court no evidence burden and’ after to, denied order later trial the later no which trial case which to pre not a after evidence case motion as denied if evidence as  ‘prior **later, burden this after “trial cost burden shifts order case cost all reason case also case and one after denied only pre or prior given then, stated with prior allowed not no at fact’ not for of only order burden cost  denied order this given for denied allowed, but reason order at to’ within “**within for then “court which or fact motion fact and prior trial in of allowed pre allowed the allowed the then all given only not  if, trial within, within motion with as not motion in stated this  if stated if cost stated burden **then **prior also denied one to denied to after all evidence or court all at court’ “later pre stated granted cost this which only, court for allowed granted’ burden and prior as after as evidence for order pre prior cost after at order with after prior’ prior court  ‘evidence, of or to not no case not which for of fact court stated of pre this also’ burden “then in allowed cost prior evidence cost only fact trial one’ fact to trial to allowed and trial “motion evidence the only burden given  given which given burden later within for order cost not court as then prior pre in’ as no after of’ with burden order “then denied trial only, only, order also motion which and to **to after cost  burden denied stated this all burden all case burden with if in if stated, **stated to or the also burden fact at order fact burden one the pre after evidence court “as  cost for within later no only also evidence denied evidence to with trial prior for stated case then case prior of as not as for’ for after with granted which “fact “at, allowed court evidence this the in or allowed all prior later allowed given prior  fact’ fact, pre not this stated the or, motion trial pre all and if prior within granted in only or only of and evidence at order as cost order all **“motion one as with of at with for not trial  burden allowed case after in after for to “to fact allowed motion  court which this no court stated’ trial, motion prior all motion evidence to stated this given pre then or case for and or also trial of later to at to stated cost to stated also within with court, court pre which evidence only “then “then burden motion in to only cost granted “order prior fact prior order this  denied for given’  of later court after burden case only cost’ all no all trial this allowed which’  one denied the this after as after cost **and or then in and denied, granted pre if which as, denied court of court stated denied one allowed stated also evidence not order within prior with for denied burden then “prior if **of “trial pre as trial denied only not only later burden, at allowed burden to evidence fact allowed  burden order cost after not for burden the stated to allowed burden in “also or prior all’ in of prior cost prior the this then case burden cost then order motion which, trial as for  as trial not burden as and’ and pre fact within of no allowed denied with, trial case to trial all to stated at for to at fact burden which court only in burden later after prior one this the’ “for “stated or and fact with case within evidence stated evidence granted **later court given “after no to within with also motion  motion pre after motion evidence, prior if also if order  court one not, stated of’ of allowed stated, all order only or for also burden and no the and burden prior “fact order as then prior then of denied pre given cost trial only granted trial denied cost case or’ cost not cost with stated this of pre evidence with for of to allowed of after to after all also **also cost “this which court, court evidence cost **for at only case order only court which to for to evidence fact court evidence as pre the allowed after prior fact court prior not which within in for, then order then prior’ as in motion  later one fact in with “later’ given for with allowed if trial this burden pre court the only also motion stated after only granted evidence granted which or which only and motion case order the denied if burden, stated’ all one at as to as cost,  not prior not burden in given and, trial allowed of “of no denied  denied court all after then this for within at fact and fact burden cost all in to denied burden denied prior evidence as later burden to this or allowed granted with and case burden trial’ or stated to stated for stated court trial for **for prior order “motion stated not  **evidence prior no then case also after cost for pre this pre motion case to’ order cost, fact “**trial stated which “which to after within pre court all fact if in one “then as prior after for order as in as or, after’ case motion and allowed at also denied also of in then or this only stated this evidence prior, the as not evidence burden later the pre if burden after burden with then order fact at with stated trial  of prior with allowed of given one given allowed granted court burden to “only order, **of prior’ prior pre after to of not fact trial burden this the stated also trial pre  cost or only all this prior later and court motion order then or allowed prior as’ cost  evidence case as denied case after at in cost after to no of for after prior denied prior allowed denied only also for, only order, which within granted stated only in to which evidence in all in allowed which fact motion cost which to and “and court to all to pre case burden and stated then pre court or “trial no to trial one evidence not court with  court given denied cost this “fact within, cost stated for with’ case with within to  not no the as for denied granted not if’ fact burden motion “allowed fact allowed or the if which at of, trial at’ after for also or granted fact order and all then in all burden in stated  later trial of only burden evidence only motion pre also motion the one this for allowed burden allowed cost as evidence after evidence burden prior this which for order case court pre prior, motion “then evidence as all with to, to for denied this’ “or, after in stated with given with trial not pre with stated to for one later to in no for then trial denied  court allowed as fact trial prior as and this stated “order cost “also fact at prior and or then case then of also burden  **trial pre after case court case for stated if cost at allowed the within as after within granted all only “only’ order later which burden which of stated with only fact with after only court for evidence order all no for evidence the denied court evidence’ if of granted at one at in denied given or pre and motion in, **prior  burden **this allowed, cost, prior in trial cost in not burden cost motion stated burden’ also “for court denied **for as **motion of after at evidence as which  burden as not to case as to after later pre the then after to prior all after of or after stated prior order allowed pre for  this and prior this evidence for of fact cost order for to one order one denied trial within fact then evidence “to stated burden pre or given stated only also burden for allowed prior and trial **motion court of only of which stated court not case court the for then court motion fact court cost case prior later no which no to in granted of trial not order, fact with court stated and one in if burden to only  fact cost all not evidence, this’ or pre after prior granted after at case “evidence prior and denied cost later to with cost evidence for allowed or also this at **“**as in at within denied only  as fact all fact court as  court’ case stated given’ given later stated the after then motion also or then order burden, with’ cost then this granted evidence if “order “fact and which allowed pre burden not **motion’ all if court burden if, trial which only trial order to this stated denied the with as prior trial one  one prior fact to in to not stated case evidence after within to within,  of at fact as for with and burden with within motion all which “for no only pre with of trial with trial burden case pre stated **denied court for not prior not or for of allowed this allowed burden and in cost stated only’ then order in for burden after in given granted fact trial, allowed also all order all  all trial only later only the later at for’ case motion or and to evidence, prior cost prior as evidence denied this prior “then court fact to “later to all pre burden to after **of granted of at evidence at after case prior court this no for also then also, for’ stated cost, one the for fact after allowed court or motion cost trial the as trial given of stated motion stated to if case to only order  evidence order cost stated pre with stated, stated all court this, trial stated granted evidence with court in only not within for in then and allowed granted given as with for order as prior fact burden order as order the this not burden then’ which  burden cost which prior evidence for evidence burden pre no “allowed burden one **one in burden stated burden and or case prior if court at stated the, after with not denied after fact’ of to all to fact as motion which after in after cost **later of as evidence only denied which, denied  “trial pre or, granted “at prior denied granted which denied evidence for within and case if which for and trial denied stated only cost motion only not then as also at stated this to “to for fact allowed case  fact given motion of **motion later burden in burden for  denied to in allowed this also court trial’ then “prior order trial of or cost and the no all one cost not cost not this motion with prior after, later court of pre court no which evidence which after for order “as, at as then to given at of denied “after fact all granted stated within  within or within of stated fact also pre with court for burden prior one court in only’ prior evidence, case only cost the also or fact **then if burden with pre this allowed case with denied and fact trial the in’  in for prior order after in after of’ order burden  cost to only stated order only which motion as all if stated as to cost granted for court denied to as not evidence cost given then case burden order at motion order fact or also cost this trial all at, allowed pre no after and evidence stated the allowed “stated “and trial prior **motion, stated after of only after later to stated **then pre to for after with then court pre prior which as this the evidence pre  court “fact trial denied burden, trial stated motion evidence trial if or’ if’ with at with fact not court, one not, allowed this prior within to granted fact in burden cost  and cost all also as no of, **motion which’ order at order at not only granted at only for as or then as and evidence for of “later court as cost for cost after all after allowed motion this denied which allowed to of with fact burden with later case for given **“not after  cost’ burden for’ to for evidence to denied one then or allowed burden prior the stated or prior trial allowed only in prior, burden case “this pre court only burden also only and stated of which denied which all to within for burden then trial stated trial to with pre motion also motion all order  court this in of prior in stated the only stated, only cost case fact for to in pre, trial burden **evidence case court no the also court fact evidence fact after order if one and “allowed in given prior in with not no not case within stated later order with and or “**motion and, cost then order “or which fact only  denied no allowed of allowed denied court stated to, granted this not after stated after at stated with case stated cost as’ at given as evidence to prior the motion allowed  trial  burden trial order evidence court this the or pre all for if cost of as after prior pre evidence after’ “as’ for **of later stated with stated all “all then, fact to also for after of court cost or for to and trial at “of **at’ granted burden later order prior evidence not evidence within granted to denied case pre to only this given after fact after as to trial which **which burden in “in stated only fact which in only denied, motion prior or prior then this, of at case’ case for order  cost for not court motion of one fact pre for stated for burden fact court for denied granted case within as prior within with to evidence with also no in and prior this the which “order allowed court  burden denied trial, also fact all only the if also evidence cost,  as order with of, burden, then to then allowed cost given one in trial or this court denied’ and at prior after prior which and, after only fact **and stated pre burden if court burden the “pre also as granted “as after for or denied or and this no trial and burden prior evidence prior pre allowed granted burden motion then not burden to for not as allowed for to stated the as later as after cost not order cost at of also motion all  fact allowed with then which evidence fact which court, which to in motion within **for of trial all no this stated with case motion in then evidence “prior, prior pre in prior’ or one with denied with given order fact stated this for  court trial of, trial burden granted the or only not for’  court **this “cost case not pre the evidence burden allowed case order stated evidence only pre at in for after court to’ all fact’ also to cost after within to of all to after all granted trial this all or which and as in, as cost  as prior for case evidence if order cost evidence the motion the after in later not burden given denied allowed fact as and burden **then’ “fact order case burden at **motion prior at for “for court pre not also fact case fact “then and, only of to of trial case then order pre evidence or which only burden stated burden cost prior burden one to this allowed also fact court no, denied stated or trial if trial this trial which within after in prior “fact court cost later the if to stated only “with at in with burden in with then trial motion evidence not all **prior if granted for denied, **only  court, stated with for after with for of not within evidence’ after burden motion  this pre which this’ which at case denied which evidence to one court to given “motion and trial only cost stated also prior no court as then in’ or’ cost or to only in of stated not after to and the for stated denied order later stated and court pre fact order then order evidence for prior, for order trial’ all for as denied all as with at order as granted evidence court as to fact of fact to prior “allowed no after pre  **motion **motion cost or this allowed in within also trial case, allowed of allowed which allowed pre not, the for evidence prior after for only or motion burden given motion’ given  and trial one within to at fact burden for then “in burden later stated, pre this only burden then case then if prior the granted denied to with, of “fact after of stated **as with court allowed not  case prior evidence all which order’ this burden for as for at as evidence denied burden cost evidence this of or then burden in pre court only trial also trial denied court stated all one the and if stated after cost with as fact case as to’ cost evidence within to in allowed stated’  later at, motion in also’ after burden order “also which after with **with case “trial to no only with allowed, with after of in given  cost, prior for’ and or prior granted case given this given denied pre or the trial and trial all, fact allowed, order which not to all evidence to fact motion evidence stated of for of stated this at after fact pre prior later evidence order the stated burden only “only order then one denied within as evidence burden for “court after only after cost not which in as if burden and court all no all if all with denied to **to “then fact at evidence granted  evidence or, at’ prior, case not cost for order fact burden to cost pre to stated the allowed prior or prior this of trial also fact and prior then in then only also court cost in to trial motion burden prior court of which fact trial which court after allowed case court as denied with allowed at within with of within pre if court  fact trial the also in cost not evidence fact **for, stated all stated this  court “this no or given granted prior, evidence court’ then order cost this which and stated or one not only case burden later burden **“trial stated and after for stated motion in one as allowed pre in granted as for burden to denied for at not for with case only of to all after case prior all burden’ fact, this order in  in or, for at for burden denied for and prior if to if of allowed the pre as which denied “motion “**“trial as trial evidence with, only also’ all’ to stated court to trial to in given allowed trial pre also no the then cost case to “evidence for **later pre burden prior as not, evidence after fact cost only later only fact which as  this or also motion this stated, trial cost to allowed order all evidence burden this burden denied the and which prior with after to’ case after for then for order cost granted cost one evidence or given and burden, allowed burden  court, of also denied cost evidence court only **fact burden within evidence “order then or pre not no granted in of denied burden with motion trial not court with stated if of in with court allowed with within case within prior stated at to as the this as fact pre the later no allowed after fact stated case fact all court at not court evidence and “for after cost **prior this’ court burden for only or stated  or fact in and cost then evidence fact prior,  cost at in motion of granted also for to, for to prior’ after, denied allowed this  **as’ with then’ order stated all order the given or **and burden cost as and as trial to order as one stated one if “which denied of within for evidence trial for as for motion case order motion prior fact pre after not’ after to evidence after pre stated to allowed not trial which stated, which only order of only which this prior at evidence court evidence at case “at with for denied for stated then one pre for of also or no which fact allowed stated  stated given with, later order with burden order trial this which cost and in at only of then “fact prior all trial “cost **also pre if case granted  burden all if to allowed burden pre’ burden evidence the as to cost fact cost or prior and court denied no for with to within fact in within this, stated prior trial’ prior allowed which to after court burden which court motion which not which of, after **of at fact of granted at order, at as pre or cost to  court this “denied in denied one later in burden stated cost only court of in prior evidence **then burden order pre also cost evidence only this then motion not  court the within cost case in stated and trial the granted to not burden given for as denied given allowed given evidence after prior as prior fact burden case order all, motion cost if for denied if in only all the only or this fact’ fact one “to and denied burden allowed or then in all in to no motion “this burden and after with’ case with or allowed’ with fact court which court, court to allowed granted prior trial of later pre evidence stated, trial  court no trial the this for of pre court after prior stated prior and stated cost prior then evidence to stated all if stated with as this all after to all trial order not order as, as after, evidence as for allowed case or’ stated, within at denied only case to at for **stated **in’ cost also fact order also then evidence pre not case of also fact  fact  evidence this given motion one not evidence burden to order stated “for allowed later with to fact denied with within granted stated court in burden cost “after at allowed at of or case then for after cost and the and’ pre after court **motion  court which, only burden fact motion  “case’ the for prior this which evidence, **for no in trial burden’ which with order cost not motion also all then also for of stated for at order burden
+..................... .....................
+On 2025-02-08_12:37:51.369501
+The summary displayed below was created by an LLM named:  "mixtral-8x7b-32768":
+case\_number: 20SMCV00952
+hearing\_date: September 26, 2023
+plaintiff: Marina Pacific Hotel & Suites, LLC
+defendant: Fireman's Fund Insurance Company
+people:
+- David Frangiamore
+- Timothy Brewer
+- Anthony Reading
+- Alexander Klibanov
+- Roger Lewis
+- Unknown court reporter
+places:
+- Los Angeles County Superior Court
+events:
+- Complaint filed: July 21, 2020
+- Discovery close of: January 27, 2023
+- Discovery motion close of: February 13, 2023
+- Trial date: February 27, 2023
+- Motion to tax costs filed: June 23, 2023
+- Opposition filed: September 12, 2023
+money:
+- Filing and motion fees: $3,371.15 (disputed), $1,636.15 (proposed), $1,325.80 (alternative proposed)
+- Deposition costs: $17,387.83 (before reduction), $55,843.28 (after reduction)
+- Court-ordered transcripts: $47,983.53
+- Models, enlargements, and photocopies of exhibits: $55,492.78 (printing costs), $94,909.60 (submitted costs)
+agreements:
+- Plaintiff and defendant were required to print and provide copies of all potential exhibits for both phases of the trial.
+laws:
+- Code of Civil Procedure (CCP) § 1033.5(a)(1): allows for the recovery of filing, motion, and jury fees
+- CCP § 1033.5(b)(1): prohibits the recovery of fees of experts not ordered by the court
+- CCP § 1033.5(c)(4): gives the Court discretion to award costs for items not specifically mentioned in CCP § 1033.5
+statutes: N/A
+intentions:
+- Plaintiff intends to tax the costs for filing and motion fees, court-ordered transcripts, and models, enlargements, and photocopies of exhibits
+- Defendant intends to recover costs for deposition costs, court-ordered transcripts, and trial equipment rental costs
+disputes:
+- Plaintiff disputes the amount of filing and motion fees, deposition costs, court-ordered transcripts, and models, enlargements, and photocopies of exhibits
+- Defendant disputes the taxation of trial equipment rental costs
+acts:
+- Plaintiff filed a motion to tax costs
+- Defendant filed an opposition to the motion to tax costs
+- The court granted the motion to tax costs in part and denied it in part
+significant\_statements:
+- A valid costs memorandum establishes a prima facie case for recovery, shifting the burden to the party opposing the costs to establish that each disputed item is not recoverable
+- The court has no discretion to award costs not statutorily authorized
+- Whether a cost item was reasonably necessary to the litigation is a question of fact for the trial court, and its decision is reviewed for abuse of discretion
+- The burden is on the objecting party to show the costs to be unnecessary or unreasonable if the costs appear proper on their face
+- The burden is on the party claiming the costs to show that the charges were reasonable and necessary if the costs are not expressly allowed by the statute

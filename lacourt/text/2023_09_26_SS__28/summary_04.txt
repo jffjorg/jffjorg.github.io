@@ -86,3 +86,186 @@ significant_statements:
 And here is a summary of the judge's tentative ruling in English text:
 
 This tentative ruling denies the petition without prejudice. The petition was filed by Eddy Rodriguez, the petitioner, on behalf of his son, Mark-Anthony Rodriguez, the claimant, who suffered a scalp laceration after striking his head on a playground structure. The petition was filed as an expedited petition without a hearing, permitted under California Rules of Court, rule 7.950.5. The court notes that the settlement amount is $5,000.00, and the petitioner's attorney did not become involved at the request of the defendant or the insurance carrier. However, the court requires clarification on the medical expenses and settlement proceeds, as the petition states that $379.19 in medical expenses need to be paid or reimbursed, but this amount is not consistent with the figures provided in the petition. The court denies the petition without prejudice, allowing the petitioner to correct the discrepancies and refile if necessary.
+..................... .....................
+On 2025-02-08_14:49:59.753818
+The summary displayed below was created by an LLM named:  "gemma2-9b-it":
+## Tentative Ruling Summary in YAML Format:
+
+```yaml
+Case Number: 20STCV15807
+Hearing Date: September 26, 2023
+Dept: 28
+
+People-Names:
+  - Mark-Anthony Rodriguez
+  - Eddy Rodriguez
+
+Company-Names: 
+
+Places: 
+
+Dates:
+  - September 26, 2023
+
+Events:
+  - Playground bridge incident resulting in scalp laceration
+  - Expedited petition filed
+  - Tentative ruling issued
+
+Money:
+  - SETTLEMENT: $5,000.00
+  - INJURIES: Scalp laceration
+  - MEDICAL EXPENSES: $379.19
+  - COSTS: $0.00
+  - ATTORNEY’S FEES: $0.00
+  - BALANCE OF PROCEEDS: $4,620.81
+  - Total medical expenses before reductions: $20,587.53
+  - Total medical expenses reductions: $20,332.33
+  - Remaining medical expenses: $255.20
+
+Intentions: 
+
+Facts:
+  - Claimant struck his head on a playground bridge, resulting in a scalp laceration.
+
+Disputes: 
+  - Discrepancy in reported medical expenses
+
+Acts:
+  - Claimant filed an expedited petition for settlement.
+
+Agreements: 
+  - Settlement agreement reached for $5,000.00
+
+Laws:
+  - California Rules of Court, rule 7.950.5
+
+Case Citations: 
+
+Statutes: 
+
+Roles:
+  - Judge: Deciding on the petition
+  - Claimant: Injured party
+  - Petitioner: Eddy Rodriguez, representing Claimant
+  - Defendant: Owner of the playground
+
+Significant Statements:
+  - The Court denies the petition without prejudice due to inconsistencies in reported medical expenses.
+
+
+```
+
+## English Text Summary:
+
+The judge issued a tentative ruling on a petition for settlement in a personal injury case. Claimant Mark-Anthony Rodriguez suffered a scalp laceration after hitting his head on a playground structure owned by the Defendant.  Petitioner Eddy Rodriguez, representing Claimant, filed an expedited petition for settlement. 
+
+The judge notes that while the settlement meets the requirements for expedited petitions, there is a discrepancy in the reported medical expenses. The petition states that total medical expenses were reduced by a significant amount, but then indicates a different amount still needs to be paid.  
+
+Due to this inconsistency, the judge denies the petition without prejudice, meaning Petitioner can refile with corrected information. 
+
+
+
+..................... .....................
+On 2025-02-08_14:50:25.591988
+The summary displayed below was created by an LLM named:  "llama3-8b-8192":
+Here is the summary in YAML format:
+
+```
+Case Number: 20STCV15807
+Plaintiff's Name: Mark-Anthony Rodriguez (Claimant)
+Defendant's Name: (Playground structure)
+People-Names:
+  - Eddy Rodriguez (Petitioner)
+  - Mark-Anthony Rodriguez (Claimant)
+Company-Names:
+  - (Insurance carrier)
+Places:
+  - California
+  - Playground structure (location not specified)
+Dates:
+  - September 26, 2023 (Hearing Date)
+  - (Date of injury not specified)
+Events:
+  - Claimant struck head on playground bridge
+  - Scalp laceration occurred
+  - Expedited petition filed without hearing
+  - Settlement reached for $5,000.00
+Money:
+  - $50,000 (settlement limit)
+  - $5,000.00 (actual settlement)
+  - $20,587.53 (total medical expenses)
+  - $20,332.33 (reduced medical expenses)
+  - $255.20 (remaining medical expenses)
+  - $379.19 (current medical expenses)
+  - $0.00 (costs and attorney's fees)
+Intentions:
+  - Petitioner seeks to settle claim for medical expenses
+Facts:
+  - Claimant struck head on playground structure
+  - Claimant suffered scalp laceration
+  - Medical expenses incurred: $20,587.53
+Disputes:
+  - Clarification needed on medical expenses
+  - Remaining amount of medical expenses still unpaid
+Acts:
+  - Claimant filed expedited petition without hearing
+  - Settlement reached for $5,000.00
+  - Petitioner seeks reimbursement for medical expenses
+Agreements:
+  - Settlement agreement reached for $5,000.00
+Laws:
+  - California Rules of Court, rule 7.950.5
+  - (Other laws potentially applicable, but not specified)
+Case Citations:
+  - (None specified)
+Statutes:
+  - (None specified)
+Roles:
+  - Judge: [Undisclosed]
+  - Claimant: Mark-Anthony Rodriguez
+  - Petitioner: Eddy Rodriguez
+  - Defendant: (Playground structure)
+Significant Statements:
+  - "Petitioner should clarify these figures."
+  - "The Court denies the petition without prejudice."
+```
+
+And here is a summary of the judge's tentative ruling in English text:
+
+The judge has denied the petition without prejudice. The petition was filed as an expedited petition without a hearing, and the settlement reached is for $5,000.00. The claimant, Mark-Anthony Rodriguez, struck his head on a playground structure and suffered a scalp laceration, resulting in medical expenses of $20,587.53. The petition states that this amount was reduced by $20,332.33, leaving $255.20 remaining. However, the petition also states that $379.19 in medical expenses still need to be paid or reimbursed from the settlement proceeds. The judge is requesting that the petitioner clarify these figures.
+..................... .....................
+On 2025-02-08_14:50:50.818706
+The summary displayed below was created by an LLM named:  "llama-3.3-70b-specdec":
+Exception:
+Error code: 429 - {'error': {'message': 'Rate limit reached for model `llama-3.3-70b-specdec` in organization `org_01hw84cjv0f12v63qt47723ar2` service tier `on_demand` on : Limit 100000, Used 100611, Requested 673. Please try again in 18m29.938s. Visit https://console.groq.com/docs/rate-limits for more information.', 'type': '', 'code': 'rate_limit_exceeded'}}
+..................... .....................
+On 2025-02-08_15:00:51.577115
+The summary displayed below was created by an LLM named:  "mixtral-8x7b-32768":
+case\_number: 20STCV15807
+hearing\_date: September 26, 2023
+dept: 28
+claimant: Mark-Anthony Rodriguez
+petitioner: Eddy Rodriguez
+defendant: Not specified
+people\_names: Mark-Anthony Rodriguez, Eddy Rodriguez
+places: Not specified
+dates: Not specified
+events: Claimant struck his head on a bridge of Defendant’s playground structure, resulting in a scalp laceration
+money:
+ settlement: 5000.00
+ injuries: Scalp laceration
+ medical\_expenses: 379.19
+ costs: 0.00
+ attorney\_fees: 0.00
+ balance\_of\_proceeds: 4620.81
+ intentions: Not specified
+ facts: Claimant struck his head on a bridge of Defendant’s playground structure, resulting in a scalp laceration
+ disputes: Not specified
+ acts: Not specified
+ agreements: Not specified
+ laws: Not specified
+ case\_citations: Not specified
+ statutes: Not specified
+ roles: Claimant, Petitioner, Defendant
+ significant\_statements: The Court denies the petition without prejudice due to unclear medical expense figures.

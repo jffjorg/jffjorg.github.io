@@ -194,3 +194,46 @@ On 2025-02-08_10:59:31.218815
 The summary displayed below was created by an LLM named:  "llama-3.3-70b-specdec":
 Exception:
 Error code: 503 - {'error': {'message': 'Service Unavailable', 'type': 'internal_server_error'}}
+..................... .....................
+On 2025-02-08_11:09:32.208231
+The summary displayed below was created by an LLM named:  "mixtral-8x7b-32768":
+case\_number: BC710923
+hearing\_date: September 26, 2023
+dept: C
+plaintiff: Not specified
+defendant: Not specified
+people:
+- Cole
+- three people, including two children ages three and eight
+places: Not specified
+dates:
+- 2018: Cole was euthanized
+- December 2023: five year statute is approaching
+events:
+- Cole attacked and/or bitten at least three people
+- Cole was muzzled prior to the subject incident
+- Cole was quarantined multiple times by governmental agencies
+- Plaintiff discovered the truth about Cole's behavior
+money: Not specified
+intentions:
+- Plaintiff's intention to terminate the case and impose monetary sanctions
+- Defendants' intention to affirm that Cole had never attacked or bitten anyone
+facts:
+- Defendants affirmed that Cole had never attacked or bitten anyone
+- Plaintiff discovered that Cole had attacked and/or bitten at least three people
+disputes:
+- The truth about Cole's behavior
+acts:
+- Defendants' failure to disclose the truth about Cole's behavior
+agreements: Not specified
+laws: Not specified
+case\_citations: Not specified
+statutes: Not specified
+roles:
+- Plaintiff: seeking terminating sanctions
+- Defendants: opposing terminating sanctions
+significant\_statements:
+- "Plaintiff's ex parte application for terminating and monetary sanctions for discovery abuse is GRANTED in the alternative."
+- "The court will shorten time on Plaintiff's motion for terminating sanctions."
+- "Plaintiff will be irreparably harmed if forced to proceed to trial without having this motion heard."
+- "The motion for terminating sanctions set for February 8, 2024, is advanced to this date and continued to November 7, 2023 at 10:30 am in Dept. C."

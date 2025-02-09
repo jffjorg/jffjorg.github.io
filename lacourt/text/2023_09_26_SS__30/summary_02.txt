@@ -47,3 +47,164 @@ Significant Statements:
 And here is the English-text summary:
 
 The Court has issued a tentative ruling granting the Plaintiff's Motion for Leave to File a First Amended Summons and First Amended Complaint. The Plaintiff, HAE HYUN PARK, seeks to correct a misspelling in the middle name on the original summons and complaint. The Court has determined that the Plaintiff meets the requirements under California Rule of Court, rule 3.1324, by providing a declaration that explains the effect of the amendment, why it is necessary and proper, when the facts giving rise to the amendment were discovered, and why the request for amendment was not made earlier. The Court has used its discretion to grant the Plaintiff's amended summons and complaint, allowing the correction of the misspelling and the potential entry of Default.
+..................... .....................
+On 2025-02-08_16:52:10.142349
+The summary displayed below was created by an LLM named:  "gemma2-9b-it":
+## Tentative Ruling Summary in YAML
+
+```yaml
+Case Number: 19STCV41785
+Hearing Date: September 26, 2023
+Dept: 30
+Plaintiff's Name: HAE HYUN PARK, et al.
+Defendant's Name: CHEONG SOO HAN, LAC, et al.
+People-Names: 
+  - HAE HYUN PARK
+  - CHEONG SOO HAN
+Company-Names: 
+  - LAC
+Places: 
+  - Court
+Dates: 
+  - September 26, 2023
+Events: 
+  - Motion for Leave to File First Amended Complaint
+  - Ruling: Motion granted
+  - First Amended Complaint and Summons deemed filed
+  - Plaintiffs to file and serve amended documents
+Intentions: 
+  - Correct misspelling in Plaintiff Park's middle name
+Facts: 
+  - Misspelling in Plaintiff Park's middle name on original summons and complaint
+  - Clerk refused to enter Default due to misspelling
+Disputes: 
+  - None explicitly stated
+Acts: 
+  - Original summons and complaint prepared by another law office
+  - Plaintiffs filed motion for leave to amend
+Agreements: 
+  - None explicitly stated
+Laws: 
+  - California Rule of Court, rule 3.1324
+Case Citations: 
+  - None explicitly stated
+Statutes: 
+  - None explicitly stated
+Roles: 
+  - Judge: Granted motion for leave to amend
+  - Plaintiffs: Filed motion, seeking to correct misspelling
+  - Defendants: Not explicitly mentioned in the ruling
+Significant Statements: 
+  - "Plaintiffs meet the requirements under California Rule of Court, rule 3.1324."
+  - "The Court uses its discretion to grant Plaintiffs’ amended summons and complaint."
+
+
+
+```
+
+## English Summary 
+
+The judge has granted the Plaintiffs' motion to file an amended complaint in case number 19STCV41785.  The original complaint contained a misspelling of Plaintiff Park's middle name, which prevented the clerk from entering a default judgment. The amended complaint corrects this error.  
+
+The judge found that the Plaintiffs met the requirements outlined in California Rule of Court, rule 3.1324 for filing an amended pleading, which includes demonstrating the necessity and reason for the amendment. 
+
+..................... .....................
+On 2025-02-08_16:52:35.847744
+The summary displayed below was created by an LLM named:  "llama3-8b-8192":
+Here is the summary of the tentative ruling in YAML format:
+
+```
+Case Number: 19STCV41785
+Plaintiff's Name: HAE HYUN PARK
+Defendant's Name: CHEONG SOO HAN, LAC, et al.
+People-Names:
+  - HAE HYUN PARK
+  - CHEONG SOO HAN
+Company-Names:
+  - LAC
+Places:
+  - California
+Dates:
+  - September 26, 2023
+Events:
+  - Motion for Leave to File First Amended Complaint
+Money:
+  - No mention of specific amounts
+Intentions:
+  - To grant the plaintiff's motion for leave to file a first amended summons and complaint
+Facts:
+  - Misspelling in the middle name of Plaintiff Park
+  - Original summons and complaint were prepared by another law office
+  - Clerk of the Court would not allow entry of default due to misspelling
+Disputes:
+  - None mentioned
+Acts:
+  - Plaintiff's motion for leave to file a first amended summons and complaint
+  - Plaintiff's proposed First Amended Complaint and Summons
+  - Defendant's (LAC) receipt of the First Amended Summons and Complaint
+Agreements:
+  - California Rule of Court, rule 3.1324
+Laws:
+  - California Rule of Court, rule 3.1324
+Case Citations:
+  - Wecker Decl. (¶ 3, 4, 11, 12)
+Statutes:
+  - No specific statutes mentioned
+Roles:
+  - Judge: HAE HYUN PARK, et al. vs CHEONG SOO HAN, LAC, et al.
+  - Moving party: Plaintiffs
+Significant Statements:
+  - "Plaintiffs meet the requirements under California Rule of Court, rule 3.1324."
+  - "The Court uses its discretion to grant Plaintiffs' amended summons and complaint."
+```
+
+And here is a summary of the judge's tentative ruling in English text:
+
+The judge has granted the plaintiff's motion for leave to file a first amended summons and complaint. The amendment is needed to correct a misspelling in the middle name of Plaintiff Park, which was not in alignment between the summons and complaint. The original documents were prepared by another law office, and the clerk of the court would not allow default to be entered due to the misspelling. The judge has deemed the proposed First Amended Complaint and Summons to be filed forthwith and has ordered the plaintiffs to serve the amended documents on all defendants.
+..................... .....................
+On 2025-02-08_16:53:01.026587
+The summary displayed below was created by an LLM named:  "llama-3.3-70b-specdec":
+Exception:
+Error code: 429 - {'error': {'message': 'Rate limit reached for model `llama-3.3-70b-specdec` in organization `org_01hw84cjv0f12v63qt47723ar2` service tier `on_demand` on : Limit 100000, Used 99793, Requested 506. Please try again in 4m17.544s. Visit https://console.groq.com/docs/rate-limits for more information.', 'type': '', 'code': 'rate_limit_exceeded'}}
+..................... .....................
+On 2025-02-08_17:03:02.357743
+The summary displayed below was created by an LLM named:  "mixtral-8x7b-32768":
+case\_number: 19STCV41785
+hearing\_date: September 26, 2023
+dept: 30
+people:
+- name: Hae Hyun Park
+- name: Cheong Soo Han
+- name: Wecker
+companies:
+- name: LAC
+places:
+roles:
+- name: Plaintiff
+- name: Defendant
+- name: Counsel
+events:
+- name: Motion for Leave to File First Amended Complaint
+- name: Hearing
+disputes:
+- name: Misspelling of Plaintiff's middle name
+acts:
+- name: Preparation of original summons and complaint by another law office
+- name: Clerk of the Court would not allow entry of Default due to the misspelling
+intentions:
+- name: Grant Plaintiff's Motion for Leave to File a First Amended Summons and Complaint
+facts:
+- name: Plaintiffs meet the requirements under California Rule of Court, rule 3.1324
+- name: Plaintiffs include a declaration
+- name: The effect of the amendment is to correct a misspelling in the middle name of Plaintiff Park
+laws:
+- name: California Rule of Court, rule 3.1324
+money:
+- name: Not mentioned
+dates:
+- name: Not mentioned
+statements:
+- name: The Court uses its discretion to grant Plaintiffs’ amended summons and complaint
+
+Summary:
+The Judge's tentative ruling is for the Plaintiff's Motion for Leave to File a First Amended Summons and First Amended Complaint to be granted. The Plaintiffs' proposed First Amended Complaint and Summons are deemed filed forthwith. The Plaintiffs are to file and serve the First Amended Summons and Complaint forthwith on all Defendants. The ruling is based on the fact that the Plaintiffs meet the requirements under California Rule of Court, rule 3.1324 and have provided a declaration that explains the effect of the amendment, why it is necessary and proper, when the facts giving rise to the amendment were discovered, and why the request for amendment was not made earlier. The amendment is intended to correct a misspelling in the middle name of Plaintiff Park, which appeared differently on the summons and complaint. The original summons and complaint were prepared by another law office, and the Plaintiffs offer the reason for the amendment as the clerk of the Court would not allow entry of Default due to the misspelling. The Court uses its discretion to grant Plaintiffs’ amended summons and complaint.

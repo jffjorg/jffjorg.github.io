@@ -61,3 +61,204 @@ Significant Statements:
 And here is the English text to summarize the judge's tentative ruling:
 
 The judge has denied the motion to consolidate the cases 20SMCV01023 and 23STLC00997, pending in the Los Angeles Superior Court. The defendants, GS Redwood Property, LLC, and Greystar California, Inc., had requested consolidation for the purposes of both discovery and trial, arguing that there was good cause for the consolidation due to the common questions of law and fact between the two cases. However, the judge noted that the cases were not currently assigned to the same department, as required by LASC Local Rule 3.3(g)(1), and therefore consolidation cannot occur.
+..................... .....................
+On 2025-02-08_12:06:41.610287
+The summary displayed below was created by an LLM named:  "gemma2-9b-it":
+## Tentative Ruling Summary (YAML)
+
+**Case Number:** 20SMCV01023
+**Plaintiff's Name:** Klenk
+**Defendant's Name:** 
+* Behringer Harvard Redwood LLC
+* GS Redwood Property, LLC
+* Greystar California, Inc.
+
+**People-Names:** 
+* Klenk 
+
+**Company-Names:**
+* Behringer Harvard Redwood LLC
+* GS Redwood Property, LLC
+* Greystar California, Inc.
+
+**Places:** Los Angeles, California
+
+**Dates:** 
+* September 26, 2023 (Hearing Date)
+* September 14, 2023 (Motion Hearing Date)
+
+**Events:** 
+* Motion to Consolidate filed
+* Motion Hearing held
+
+**Money:** Not specified
+
+**Intentions:**
+* Defendants want to consolidate cases for discovery and trial efficiency.
+
+**Facts:** 
+* Both Klenk and another plaintiff were tenants in the same apartment building owned by the defendants.
+* Both plaintiffs allege similar injuries from the same conditions.
+* Both plaintiffs are represented by the same law firm.
+
+**Disputes:** 
+* Whether consolidating cases is appropriate.
+
+**Acts:**
+* Defendants filed a motion to consolidate two cases.
+* The Court deemed the cases not related under LASC Local Rule 3.3(g).
+
+**Agreements:** 
+* Not specified
+
+**Laws:**
+* California Code of Civil Procedure (CCP) § 1048
+* California Rules of Court, rule 3.350
+* LASC Local Rule 3.3(g)
+
+**Case Citations:** 
+* National Electric Supply Co. v. Mt. Diablo Unified School Dist. (1960) 187 Cal. App. 2d 418
+
+**Statutes:** 
+* CCP §§ 402, 403
+* CCP § 1048
+
+**Roles:**
+* Judge: Presiding over the case
+* Plaintiff: Klenk
+* Defendants: Behringer Harvard Redwood LLC, GS Redwood Property, LLC, and Greystar California, Inc.
+
+**Significant Statements:**
+* The Court denied the motion to consolidate because the cases were not related under LASC Local Rule 3.3(g).
+
+## English Summary
+
+The judge has issued a tentative ruling denying a motion to consolidate two cases: 20SMCV01023 and 23STLC00997. Both cases involve claims against the same defendants by tenants in the same apartment building, represented by the same law firm.  
+
+Although the defendants argued consolidation was necessary for efficiency, the judge found that, according to local court rules, the cases must be assigned to the same department before consolidation can occur.  The judge determined that this requirement had not been met. Therefore, the motion to consolidate is denied. 
+
+
+
+..................... .....................
+On 2025-02-08_12:07:07.578917
+The summary displayed below was created by an LLM named:  "llama3-8b-8192":
+Here is the YAML summary of the tentative ruling:
+
+```
+Case Number: 20SMCV01023
+Plaintiff's Name: Klenk, Harvard Redwood LLC, et al.
+Defendant's Name: Behringer, GS Redwood Property, LLC, Greystar California, Inc.
+People-Names:
+  - Klenk
+  - Behringer
+Company-Names:
+  - Harvard Redwood LLC
+  - GS Redwood Property, LLC
+  - Greystar California, Inc.
+Places:
+  - Los Angeles
+  - California
+Dates:
+  - September 26, 2023 (Hearing Date)
+  - September 14, 2023 (Hearing Date)
+  - 1960 (Reference to Nat'l Elec. Supply Co. v. Mt. Diablo Unified Sch. Dist.)
+Events:
+  - Motion to Consolidate
+  - Notice of Motion to Consolidate
+  - Notices of Related Case
+  - Trial
+Money: None mentioned
+Intentions:
+  - To avoid unnecessary costs or delay
+  - To consolidate pending actions
+  - To have a single lead case
+Facts:
+  - Both plaintiffs are represented by the same law firm
+  - Both plaintiffs allege they were tenants in the same apartment building
+  - Both plaintiffs have identified the same liability witnesses
+  - Both plaintiffs utilized the same experts and sustained the same injuries
+Disputes:
+  - Whether the cases should be consolidated
+Acts:
+  - Filing of Notices of Related Case
+  - Filing of Notice of Motion to Consolidate
+  - Filing of supporting papers
+Agreements:
+  - CCP § 1048(a)
+  - CCP § 402, 403
+  - RC Rule 3.350
+  - LASC Local Rule 3.3(g)
+Laws:
+  - CCP (California Code of Civil Procedure)
+  - RC (Rules of Court)
+  - LASC (Los Angeles Superior Court) Local Rules
+Case Citations:
+  - Nat'l Elec. Supply Co. v. Mt. Diablo Unified Sch. Dist. (1960)
+  - CCP § 1048(a)
+Statutes:
+  - CCP § 1048(a)
+  - CCP § 402, 403
+  - RC Rule 3.350
+Roles:
+  - Judge: ruling on the motion to consolidate
+  - Plaintiff: seeking consolidation
+  - Defendant: seeking consolidation
+Significant Statements:
+  - "The trial court is authorized to consolidate pending actions involving a common question of law or fact…," so as to "avoid unnecessary costs or delay."
+  - "Consolidation cannot occur until [a] motion to consolidate two or more cases [is] noticed and heard after the cases, initially filed in different departments, have been related into a single department, or if the cases were already assigned to that department."
+```
+
+Here is a summary of the judge's tentative ruling in English text:
+
+The judge has denied the defendants' motion to consolidate cases 20SMCV01023 and 23STLC00997. The defendants, GS Redwood Property, LLC, and Greystar California, Inc., sought to consolidate the cases for the purposes of discovery and trial, arguing that there is good cause for consolidation due to the common questions of law and fact between the two cases. However, the court deemed the cases not related, and therefore, consolidation cannot occur until the cases are related into a single department or assigned to a single department. As the cases are not currently related, the motion is denied.
+..................... .....................
+On 2025-02-08_12:07:32.787818
+The summary displayed below was created by an LLM named:  "llama-3.3-70b-specdec":
+Exception:
+Error code: 503 - {'error': {'message': 'Service Unavailable', 'type': 'internal_server_error'}}
+..................... .....................
+On 2025-02-08_12:17:33.751023
+The summary displayed below was created by an LLM named:  "mixtral-8x7b-32768":
+case\_number: 20SMCV01023
+hearing\_date: September 26, 2023
+dept: M
+case\_name: Klenk v. Behringer Harvard Redwood LLC, et al.
+plaintiff: Klenk
+defendants:
+- GS Redwood Property, LLC
+- Greystar California, Inc.
+- Behringer Harvard Redwood LLC
+- others
+people:
+- Klenk
+- others
+companies:
+- GS Redwood Property, LLC
+- Greystar California, Inc.
+- Behringer Harvard Redwood LLC
+places: Los Angeles Superior Court
+dates:
+- September 14, 2023
+events:
+- Motion to Consolidate filed
+- Notices of Related Case filed
+- Matters deemed not related
+acts:
+- Consolidation denied
+agreements: none
+laws:
+- California Code of Civil Procedure (CCP)
+- California Rules of Court (RC)
+case\_citations:
+- Nat’l Elec. Supply Co. v. Mt. Diablo Unified Sch. Dist. (1960) 187 Cal. App. 2d 418, 421
+statutes:
+- CCP § 1048(a)
+- CCP §§ 402, 403, 1048
+- RC Rule 3.350
+roles:
+- Plaintiff
+- Defendant
+significant\_statements:
+- "The decision to consolidate pending actions is a matter wholly committed to the trial court’s discretion."
+- "LASC Local Rule 3.3(g) requires both cases to be related into a single department or assigned to a single department prior to consolidation."
+- "As such, consolidation cannot occur."

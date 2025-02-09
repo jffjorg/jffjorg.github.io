@@ -53,3 +53,218 @@ Significant Statements:
 And here is a summary of the judge's tentative ruling in English text:
 
 The judge has tentatively ruled that the motion to vacate the dismissal filed by Plaintiff Intellectual Property is granted. The dismissal entered on July 3, 2023 is hereby vacated. Additionally, an order to show cause regarding the failure to file proof of service is set for December 4, 2023 at 8:30am in Department 26 of the Spring Street Courthouse. The judge's decision is based on the fact that the motion was filed within six months of the dismissal and is supported by an affidavit of attorney fault, which states that the attorney suffered from health setbacks and was unable to attend to the action.
+..................... .....................
+On 2025-02-08_13:11:32.013755
+The summary displayed below was created by an LLM named:  "gemma2-9b-it":
+## Tentative Ruling Summary in YAML
+
+```yaml
+Case Number: 21STLC09037
+Hearing Date: September 26, 2023
+Dept: 26 
+
+Plaintiff's Name: Intellectual Property
+Defendant's Name: Elizabeth Cruz, Ruben Cruz
+
+People-Names:
+  - Elizabeth Cruz
+  - Ruben Cruz
+  - Bowman (Plaintiff's Attorney)
+
+Company-Names: 
+  - None
+
+Places:
+  - Spring Street Courthouse
+
+Dates:
+  - December 22, 2021: Complaint filed
+  - July 3, 2023: Case dismissed
+  - August 30, 2023: Motion to Vacate Dismissal filed
+  - December 4, 2023: Order to Show Cause hearing
+
+Events:
+  - Breach of contract and fraud lawsuit filed
+  - Case dismissed for failure to appear at trial
+  - Motion to Vacate Dismissal filed
+  - Order to Show Cause set regarding failure to file proof of service
+
+Money: 
+  - No specific monetary amounts mentioned
+
+Intentions:
+  - Plaintiff seeks to vacate the dismissal of the case.
+
+Facts:
+  - Plaintiff failed to appear at trial on July 3, 2023.
+  - No proof of service was filed for the Defendants.
+
+Disputes:
+  - Breach of contract and fraud alleged.
+
+Acts:
+  - Complaint filed
+  - Case dismissed
+  - Motion to Vacate Dismissal filed
+
+Agreements:
+  - None mentioned
+
+Laws:
+  - Code of Civil Procedure, section 473(b)
+
+Case Citations:
+  - English v. IKON Business Solutions (2001) 94 Cal.App.4th 130, 143
+
+Statutes:
+  - Code of Civil Procedure, section 473
+
+Roles:
+  - Plaintiff: Intellectual Property
+  - Defendant: Elizabeth Cruz and Ruben Cruz
+  - Judge: (Name not provided)
+  - Attorney: Bowman (representing Plaintiff)
+
+Significant Statements:
+  - The Court finds Plaintiff's attorney's declaration of health setbacks sufficient to warrant vacating the dismissal under CCP § 473(b).
+  - The Court sets an Order to Show Cause hearing for December 4, 2023, regarding the failure to file proof of service.
+
+
+
+```
+
+## English Text Summary
+
+The judge has tentatively ruled to grant the Plaintiff's, Intellectual Property's, motion to vacate the dismissal of the case. 
+
+The case was dismissed because Plaintiff failed to appear at trial on July 3rd, 2023. The Plaintiff's attorney claims this was due to numerous health setbacks throughout the year. 
+
+The judge finds this explanation sufficient to warrant vacating the dismissal under California Code of Civil Procedure section 473(b). 
+
+However, because the Plaintiff has still not filed proof of service for the Defendants, the judge has scheduled an Order to Show Cause hearing for December 4th, 2023 to address this issue. 
+
+
+
+
+..................... .....................
+On 2025-02-08_13:11:57.952190
+The summary displayed below was created by an LLM named:  "llama3-8b-8192":
+Here is the summary in YAML format:
+
+```yaml
+Case Number: 21STLC09037
+Plaintiff's Name: Intellectual Property
+Defendant's Name: Elizabeth Cruz, Ruben Cruz
+People-Names:
+  - Elizabeth Cruz
+  - Ruben Cruz
+  - Bowman (attorney)
+Company-Names:
+  - Intellectual Property
+Places:
+  - Spring Street Courthouse
+Dates:
+  - December 22, 2021
+  - July 3, 2023
+  - August 30, 2023
+  - December 4, 2023
+  - September 26, 2023
+Events:
+  - Filing of complaint
+  - Failure to serve summons
+  - Dismissal of action
+  - Motion to vacate dismissal
+  - Order to show cause re: failure to file proof of service
+Money: $0
+Intentions:
+  - Reinstatement of action
+Facts:
+  - Plaintiff failed to serve summons
+  - Plaintiff failed to appear at trial
+  - Plaintiff filed motion to vacate dismissal
+Disputes:
+  - Dismissal of action
+Acts:
+  - Plaintiff filed motion
+  - Plaintiff filed affidavit of attorney fault
+  - Court granted motion
+  - Court set order to show cause
+Agreements:
+  - Code of Civil Procedure, section 473, subdivision (b)
+Laws:
+  - Code of Civil Procedure, section 473, subdivision (b)
+  - English v. IKON Business Solutions (2001) 94 Cal.App.4th 130, 143
+Case Citations:
+  - Code Civ. Proc., § 473, subd. (b)
+Statutes:
+  - Code of Civil Procedure, section 473, subdivision (b)
+Roles:
+  - Plaintiff: Intellectual Property
+  - Defendant: Elizabeth Cruz, Ruben Cruz
+  - Attorney: Bowman
+  - Court: Department 26
+Significant Statements:
+  - "The motion is brought pursuant to Code of Civil Procedure, section 473, subdivision (b)."
+  - "The case must be reinstated under Code of Civil Procedure section 473, subdivision (b)."
+  - "Plaintiff's counsel declares that they suffered numerous health setbacks this year and were unable to attend to this action."
+```
+
+And here is a summary of the judge's tentative ruling in English text:
+
+The plaintiff, Intellectual Property, filed a motion to vacate the dismissal of their action against defendants Elizabeth Cruz and Ruben Cruz. The court granted the motion, reinstating the action and vacating the dismissal. The court also set an order to show cause for December 4, 2023, regarding the failure to file proof of service. The plaintiff's counsel had failed to serve the summons and had failed to appear at trial, leading to the dismissal of the action. The plaintiff's motion was brought under Code of Civil Procedure, section 473, subdivision (b), which allows for relief from a dismissal due to attorney fault. The court found that the motion was timely filed and supported by an affidavit of attorney fault, which stated that the counsel had suffered health setbacks and were unable to attend to the action.
+..................... .....................
+On 2025-02-08_13:12:23.128110
+The summary displayed below was created by an LLM named:  "llama-3.3-70b-specdec":
+Exception:
+Error code: 429 - {'error': {'message': 'Rate limit reached for model `llama-3.3-70b-specdec` in organization `org_01hw84cjv0f12v63qt47723ar2` service tier `on_demand` on : Limit 100000, Used 100230, Requested 807. Please try again in 14m56.377999999s. Visit https://console.groq.com/docs/rate-limits for more information.', 'type': '', 'code': 'rate_limit_exceeded'}}
+..................... .....................
+On 2025-02-08_13:22:24.718400
+The summary displayed below was created by an LLM named:  "mixtral-8x7b-32768":
+case\_number: 21STLC09037
+hearing\_date: September 26, 2023
+dept: 26
+parties:
+Plaintiff: Intellectual Property
+Defendants: Elizabeth Cruz, Ruben Cruz
+people:
+- Elizabeth Cruz
+- Ruben Cruz
+- Plaintiff's counsel
+places:
+- Spring Street Courthouse
+dates:
+- December 22, 2021: filing of the complaint
+- July 3, 2023: case dismissed without prejudice
+- August 30, 2023: filing of the motion to vacate dismissal
+events:
+- breach of contract and fraud against Defendants Cruz
+- Plaintiff's failure to appear at trial
+- Plaintiff's motion to vacate dismissal
+money: N/A
+intentions:
+- Plaintiff's intention to reinstate the case
+facts:
+- No proof of service of the Summons and Complaint was filed as to Defendants
+- Plaintiff's counsel suffered numerous health setbacks and were unable to attend to this action
+disputes: N/A
+acts:
+- Plaintiff's filing of the complaint
+- Defendants' alleged breach of contract and fraud
+- Plaintiff's failure to appear at trial
+- Plaintiff's motion to vacate dismissal
+agreements: N/A
+laws:
+- Code of Civil Procedure, section 473, subdivision (b)
+case\_citations:
+- English v. IKON Business Solutions (2001) 94 Cal.App.4th 130, 143
+roles:
+- Plaintiff: the party who filed the complaint
+- Defendants: the parties being sued for breach of contract and fraud
+- Plaintiff's counsel: the attorney representing the Plaintiff
+significant\_statements:
+- Plaintiff's motion to vacate dismissal is granted
+- The case is reinstated under Code of Civil Procedure section 473, subdivision (b)
+- An order to show cause regarding the failure to file proof of service is set for December 4, 2023.
+
+Summary:
+On September 26, 2023, the Judge of Department 26 issued a tentative ruling on the Motion to Vacate Dismissal filed by Plaintiff Intellectual Property against Defendants Elizabeth Cruz and Ruben Cruz. The case was initially filed on December 22, 2021, for breach of contract and fraud, but was dismissed on July 3, 2023, due to Plaintiff's failure to appear at trial. The Plaintiff filed the motion to vacate dismissal on August 30, 2023, which was supported by an affidavit of attorney fault, stating that Plaintiff's counsel suffered numerous health setbacks this year and were unable to attend to this action. The Judge granted the motion and reinstated the case under Code of Civil Procedure section 473, subdivision (b). An order to show cause regarding the failure to file proof of service is set for December 4, 2023, at 8:30 AM in Department 26 of the Spring Street Courthouse.
