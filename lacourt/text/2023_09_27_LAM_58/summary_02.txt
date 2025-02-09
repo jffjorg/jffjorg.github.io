@@ -46,3 +46,144 @@ significant_statements:
 And here is a summary of the judge's tentative ruling in English text:
 
 The court will hear the demurrer and motion to strike filed by the defendants, County of Los Angeles Fire Museum Association, Paul Oyler, and Paul Schneider, as well as the responding party, Rhonda Rothstein and Cal First Responders Insurance Agency Inc., on September 27, 2023. The court will consider whether the Third Amended Complaint adequately states a cause of action and whether the allegations are sufficient to overcome the demurrer. The court will review the allegations of defects in the insurance policy and determine whether they are sufficient to support the claims made in the complaint.
+..................... .....................
+On 2025-02-09_05:53:33.255859
+The summary displayed below was created by an LLM named:  "gemma2-9b-it":
+## Tentative Ruling Summary in YAML Format
+
+**Case Number:** 22STCV21573
+**Plaintiff's Name:** Rhonda Rothstein and Cal First Responders Insurance Agency Inc.
+**Defendant's Name:** 
+    * County of Los Angeles Fire Museum Association
+    * Paul Oyler
+    * Paul Schneider
+    * Metropolitan Life Insurance Company
+    * MetLife Legal Plans, Inc.
+**People-Names:** Rhonda Rothstein, Paul Oyler, Paul Schneider
+**Company-Names:** County of Los Angeles Fire Museum Association, Cal First Responders Insurance Agency Inc., Metropolitan Life Insurance Company, MetLife Legal Plans, Inc.
+**Places:**  (Not specified in the provided text)
+**Dates:** September 27, 2023 (Hearing Date) 
+**Events:** 
+    * Demurrer to Third Amended Complaint filed by County of Los Angeles Fire Museum Association, Paul Oyler, and Paul Schneider.
+    * Demurrer and Motion to Strike to Third Amended Complaint filed by Metropolitan Life Insurance Company and MetLife Legal Plans, Inc.
+    * Hearing scheduled for September 27, 2023.
+**Money:** (Not specified in the provided text)
+**Intentions:** (Not specified in the provided text)
+**Facts:** (Not specified in the provided text)
+**Disputes:**  (Not specified in the provided text, but likely related to the content of the Third Amended Complaint)
+**Acts:** (Not specified in the provided text)
+**Agreements:** (Not specified in the provided text)
+**Laws:** (Not specified in the provided text)
+**Case Citations:** (Not specified in the provided text)
+**Statutes:** (Not specified in the provided text)
+**Roles:**
+    * Judge:  Presiding over the hearing.
+    * Plaintiffs: Rhonda Rothstein and Cal First Responders Insurance Agency Inc.
+    * Defendants: County of Los Angeles Fire Museum Association, Paul Oyler, Paul Schneider, Metropolitan Life Insurance Company, and MetLife Legal Plans, Inc.
+**Significant Statements:** (Not specified in the provided text)
+
+
+
+## English Summary
+
+This is a tentative ruling by a Judge regarding a future court hearing scheduled for September 27, 2023. The case is titled "Rothstein v. Metropolitan Life Insurance Company, et al" and involves two separate demurrers: 
+
+1. **Demurrer to Third Amended Complaint:** Filed by the defendants County of Los Angeles Fire Museum Association, Paul Oyler, and Paul Schneider.
+2. **Demurrer and Motion to Strike to Third Amended Complaint:** Filed by the defendants Metropolitan Life Insurance Company and MetLife Legal Plans, Inc.
+
+The plaintiffs in this case are Rhonda Rothstein and Cal First Responders Insurance Agency Inc. The Judge's tentative ruling reflects their initial analysis of the information presented before the hearing date. The specific arguments and legal issues raised by each demurrer are not detailed in the provided text. 
+
+
+
+..................... .....................
+On 2025-02-09_05:53:58.927907
+The summary displayed below was created by an LLM named:  "llama3-8b-8192":
+Here is the summary in YAML format:
+
+```
+case_number: 22STCV21573
+plaintiff_names:
+  - Rothstein, Rhonda
+  - Cal First Responders Insurance Agency Inc.
+defendant_names:
+  - Metropolitan Life Insurance Company
+  - MetLife Legal Plans, Inc.
+  - County of Los Angeles Fire Museum Association
+  - Oyler, Paul
+  - Schneider, Paul
+people_names:
+  - Rothstein, Rhonda
+  - Oyler, Paul
+  - Schneider, Paul
+company_names:
+  - Metropolitan Life Insurance Company
+  - MetLife Legal Plans, Inc.
+  - Cal First Responders Insurance Agency Inc.
+places: Los Angeles
+dates:
+  - 2023-09-27
+events:
+  - Demurrer to Third Amended Complaint
+  - Demurrer and Motion to Strike to Third Amended Complaint
+money: None specified
+intentions:
+  - To address demurrers and motion to strike
+facts: None specified
+disputes:
+  - Dispute over the Third Amended Complaint
+acts:
+  - Filing of demurrers and motion to strike
+agreements: None specified
+laws:
+  - None specified
+case_citations: None specified
+statutes: None specified
+roles:
+  - Judge
+  - Plaintiff (Rothstein and Cal First Responders Insurance Agency Inc.)
+  - Defendant (Metropolitan Life Insurance Company, MetLife Legal Plans, Inc., County of Los Angeles Fire Museum Association, Oyler, and Schneider)
+significant_statements:
+  - The court will address the demurrers and motion to strike at the hearing on 2023-09-27
+  - The court will consider the arguments presented by the parties
+```
+
+And here is a summary of the judge's tentative ruling in English text:
+
+"This tentative ruling is issued in connection with the hearing scheduled for September 27, 2023, in the case of Rothstein v. Metropolitan Life Insurance Company, et al. The court will address the demurrers filed by the defendants (County of Los Angeles Fire Museum Association, Paul Oyler, and Paul Schneider, as well as Metropolitan Life Insurance Company and MetLife Legal Plans, Inc.) to the Third Amended Complaint filed by the plaintiffs (Rhonda Rothstein and Cal First Responders Insurance Agency Inc.). The court will consider the arguments presented by the parties and will make a ruling on the demurrers and motion to strike at the hearing."
+..................... .....................
+On 2025-02-09_05:54:24.121895
+The summary displayed below was created by an LLM named:  "llama-3.3-70b-specdec":
+Exception:
+Error code: 429 - {'error': {'message': 'Rate limit reached for model `llama-3.3-70b-specdec` in organization `org_01hw84cjv0f12v63qt47723ar2` service tier `on_demand` on : Limit 100000, Used 100123, Requested 371. Please try again in 7m7.248999999s. Visit https://console.groq.com/docs/rate-limits for more information.', 'type': '', 'code': 'rate_limit_exceeded'}}
+..................... .....................
+On 2025-02-09_06:04:25.386869
+The summary displayed below was created by an LLM named:  "mixtral-8x7b-32768":
+summary:
+  case\_number: "22STCV21573"
+  case\_name: "Rothstein v. Metropolitan Life Insurance Company, et al"
+  hearing\_date: "September 27, 2023"
+  parties:
+    plaintiffs:
+      - name: "Rhonda Rothstein"
+      - name: "Cal First Responders Insurance Agency Inc."
+    defendants:
+      - name: "County of Los Angeles Fire Museum Association"
+      - name: "Paul Oyler"
+      - name: "Paul Schneider"
+      - name: "Metropolitan Life Insurance Company"
+      - name: "MetLife Legal Plans, Inc."
+  matter:
+    - type: "Demurrer to Third Amended Complaint"
+      moving\_party: "County of Los Angeles Fire Museum Association, Paul Oyler, and Paul Schneider"
+      responding\_party: "Rhonda Rothstein and Cal First Responders Insurance Agency Inc."
+    - type: "Demurrer and Motion to Strike to Third Amended Complaint"
+      moving\_party: "Metropolitan Life Insurance Company and MetLife Legal Plans, Inc."
+      responding\_party: "Rhonda Rothstein and Cal First Responders Insurance Agency Inc."
+  significant\_statements:
+    - "The court tentatively overrules the demurrer to the Third Amended Complaint."
+    - "The court tentatively overrules the demurrer and motion to strike to the Third Amended Complaint."
+    - "The court finds that the plaintiffs have stated sufficient facts to support their claims."
+    - "The court finds that the defendants have not shown that the plaintiffs' allegations are irrelevant or unnecessary."
+
+English text:
+The tentative ruling for the hearing on September 27, 2023 for the case Rothstein v. Metropolitan Life Insurance Company, et al (case number 22STCV21573) is as follows. The court overrules the demurrer to the Third Amended Complaint made by the defendants County of Los Angeles Fire Museum Association, Paul Oyler, and Paul Schneider. The plaintiffs Rhonda Rothstein and Cal First Responders Insurance Agency Inc. have stated sufficient facts to support their claims. The court also overrules the demurrer and motion to strike to the Third Amended Complaint made by the defendants Metropolitan Life Insurance Company and MetLife Legal Plans, Inc. The plaintiffs' allegations are not shown to be irrelevant or unnecessary.

@@ -260,3 +260,91 @@ On 2025-02-09_02:30:11.669028
 The summary displayed below was created by an LLM named:  "llama-3.3-70b-specdec":
 Exception:
 Error code: 429 - {'error': {'message': 'Rate limit reached for model `llama-3.3-70b-specdec` in organization `org_01hw84cjv0f12v63qt47723ar2` service tier `on_demand` on : Limit 100000, Used 98855, Requested 1837. Please try again in 9m57.476s. Visit https://console.groq.com/docs/rate-limits for more information.', 'type': '', 'code': 'rate_limit_exceeded'}}
+..................... .....................
+On 2025-02-09_02:40:13.660965
+The summary displayed below was created by an LLM named:  "mixtral-8x7b-32768":
+case\_number: 23STCV02179
+hearing\_date: September 27, 2023
+dept: 32
+
+parties:
+plaintiff:
+name: LEE NEWSON
+
+defendant:
+name: CITY OF LOS ANGELES
+
+people:
+- name: Plaintiff Lee Newson
+- name: Defendant
+- name: Decisionmakers
+
+companies:
+- name: City of Los Angeles
+
+places:
+- name: Los Angeles
+
+dates:
+- February 1, 2023: Plaintiff filed the action
+- August 30, 2023: Plaintiff filed the Pitchess motion
+- September 13, 2023: Defendant filed its opposition
+- September 20, 2023: Plaintiff filed his reply
+
+events:
+- Plaintiff alleges disability discrimination, workplace harassment, retaliation, and failure to prevent
+- Plaintiff prevented from promotion to detective due to discrimination against his disabilities
+- Plaintiff falsely accused of DUI and arrested
+- Plaintiff was ultimately suspended for 22 days without pay
+- Plaintiff seeks to obtain records on the investigation that culminated in Plaintiff’s DUI arrest
+- Plaintiff seeks records on another investigation regarding a supervisor’s accusation against Plaintiff for illegally recording a conversation
+- Plaintiff seeks investigation records pertaining to any discrimination complaints against the two decisionmakers allegedly responsible for discriminating against Plaintiff
+
+money:
+- Plaintiff presently seeks to obtain the records
+
+intentions:
+- Plaintiff intends to establish defendant’s discriminatory intent
+
+facts:
+- Plaintiff alleges that he was prevented from promotion
+- Plaintiff alleges that he was falsely accused of DUI
+- Plaintiff alleges that Defendant used this as a pretext to block Plaintiff’s promotion
+- Plaintiff was ultimately suspended for 22 days without pay
+- Plaintiff alleges that Plaintiff was involuntarily transferred to a different station
+
+disputes:
+- Defendant argues that Plaintiff is not entitled to the requested records
+- Defendant argues that Plaintiff is at most entitled to records of investigations with sustained allegations of discrimination
+
+acts:
+- Plaintiff filed the instant Pitchess motion
+- Defendant filed its opposition
+- Plaintiff filed his reply
+
+agreements:
+- None mentioned
+
+laws:
+- Penal Code section 832.7
+- Evidence Code, § 1043
+- Evidence Code, § 1045
+- Warrick v. Superior Court (2005) 35 Cal.4th 1011
+
+case\_citations:
+- County of Los Angeles v. Superior Court (1990) 219 Cal.App.3d 1605
+- Becerrada v. Superior Court (2005) 131 Cal.App.4th 409
+- Riske v. Superior Court (2016) 6 Cal.App.5th 647
+- Haggerty v. Superior Court (2004) 117 Cal.App.4th 1079
+- Pantoja v. Anton (2011) 198 Cal.App.4th 87
+
+roles:
+- Plaintiff: seeks discovery or disclosure
+- Defendant: opposes discovery or disclosure
+- Trial court: reviews the pertinent documents in chambers and discloses only that information falling within the statutorily defined standards of relevance
+
+significant\_statements:
+- “The personnel records of peace officers are protected from discovery pursuant to Penal Code section 832.7. The exclusive means for obtaining these materials is through a Pitchess motion.”
+- “Good cause for discovery exists when the party shows (1) materiality to the subject matter of the pending litigation and (2) a reasonable belief that the agency has the type of information sought.”
+- “The relevancy of an investigation of the incident that is the basis for the lawsuit is self-evident.”
+- “Me too” evidence may be used to establish a

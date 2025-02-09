@@ -53,3 +53,190 @@ Significant Statements:
 And here is the English-text summary:
 
 This is a tentative ruling by the judge on a motion filed by plaintiff Omar Macedo. The motion is to compel defendant Charter Communications, Inc.'s further responses to requests for production. The judge has denied the motion. The defendant had moved for an order finding that the Evangelista Declaration failed to sustain its burden of showing that the Evangelista Report was covered by the attorney-client privilege. The judge found that the defendant had met its burden and that the statement made by Portillo to Evangelista was privileged. The judge cited case law, including Soltani-Rastegar v. Superior Court (1989) 208 Cal.App.3d 424, to support its decision. The judge also overruled plaintiff's objections Nos. 1-6.
+..................... .....................
+On 2025-02-09_09:28:39.013957
+The summary displayed below was created by an LLM named:  "gemma2-9b-it":
+## Tentative Ruling Summary - YAML
+
+```yaml
+Case Number: 21STCV03216
+Hearing Date: September 27, 2023
+Dept: C
+
+Plaintiff: Omar Macedo
+Defendant: Charter Communications, Inc.
+
+People-Names:
+  - Omar Macedo
+  - Portillo
+  - Evangelista
+
+Company-Names:
+  - Charter Communications, Inc.
+
+Places: 
+
+Dates:
+  - January 27, 2021
+  - September 27, 2023
+
+Events:
+  - Personal injury (motor vehicle) action filed on January 27, 2021
+  - Plaintiff moves to compel Defendant's further responses to Requests for Production
+  - Plaintiff files Motion for Order that the Evangelista Declaration Failed to Sustain its Burden
+
+Money: 
+
+Intentions:
+  - Defendant to defend against potential claims
+
+Facts:
+  - Defendant Portillo made a statement to his supervisor, Evangelista, regarding a subject incident.
+  - Evangelista prepared a report containing Portillo's statement and delivered it to an attorney.
+
+Disputes:
+  - Whether Portillo's statement to Evangelista is covered by the attorney-client privilege.
+
+Acts:
+  - Plaintiff objects to Defendant's evidence.
+
+Agreements: 
+
+Laws:
+  - California Evidence Code § 954
+
+Case Citations:
+  - D.I. Chadbourne, Inc. v. Superior Court (1964) 60 Cal.2d 723
+  - Soltani-Rastegar v. Superior Court (1989) 208 Cal.App.3d 424
+
+Statutes:
+  - California Evidence Code § 954
+
+Roles:
+  - Judge: Decides on the Motion for Order
+  - Plaintiff: Seeks to compel Defendant's further responses to Requests for Production and challenges the privilege claim.
+  - Defendant: Claims attorney-client privilege for Portillo's statement to Evangelista.
+
+Significant Statements:
+  - The court finds that Defendant has met its burden of showing that the statement is covered by the attorney-client privilege.
+```
+
+## English Text Summary
+
+The judge is considering a motion by Plaintiff Omar Macedo to compel Defendant Charter Communications, Inc. to provide further documents.  Macedo argues that a report by Evangelista, Portillo's supervisor, containing Portillo's statement about an incident should not be protected by attorney-client privilege. The judge disagrees, finding that the report was created in the course of Portillo's employment and intended for an attorney to defend against potential claims. The judge cites case law supporting this conclusion and denies Macedo's motion. 
+
+
+
+..................... .....................
+On 2025-02-09_09:29:05.496289
+The summary displayed below was created by an LLM named:  "llama3-8b-8192":
+Here is the summary in YAML format:
+
+```
+Case Number: 21STCV03216
+Plaintiff's Name: Omar Macedo
+Defendant's Name: Portillo, Charter Communications, Inc.
+People-Names:
+  - Evangelista
+  - Portillo
+  - Macedo
+Company-Names:
+  - Charter Communications, Inc.
+Places:
+  - California
+Dates:
+  - January 27, 2021
+  - September 27, 2023
+Events:
+  - Personal injury (motor vehicle) action
+  - Motion to compel further responses to Requests for Production
+Money:
+  - None mentioned
+Intentions:
+  - Defendant to show that Evangelista Report was covered by attorney-client privilege
+Facts:
+  - Plaintiff moves to compel Defendant's further responses to Requests for Production
+  - Evangelista Declaration provided that Evangelista prepared report as job duty, and report was created to assist Defendant's counsel
+  - Report was labelled as confidential
+  - Portillo's oral and written statements to Evangelista were part of job duties as Field Technician IV
+Disputes:
+  - Plaintiff argues that Evangelista Declaration failed to sustain Defendant's burden
+Acts:
+  - Plaintiff moved for order finding that Evangelista Declaration failed to sustain Defendant's burden
+  - Defendant provided Evangelista Declaration to support its claim
+  - Plaintiff's objections Nos. 1-6 were overruled
+Agreements:
+  - None mentioned
+Laws:
+  - Evidence Code, § 954
+  - D.I. Chadbourne, Inc. v. Superior Court (1964) 60 Cal.2d 723, 729
+  - Soltani-Rastegar v. Superior Court (1989) 208 Cal.App.3d 424
+Statutes:
+  - Evidence Code, § 954
+Roles:
+  - Plaintiff: Omar Macedo
+  - Defendant: Portillo, Charter Communications, Inc.
+  - Evangelista: direct supervisor of Portillo
+Significant Statements:
+  - "The party claiming privilege carries the burden of showing that the evidence which it seeks to suppress is within the terms of the statute."
+  - "To make the communication privileged the dominant purpose must be for transmittal to an attorney 'in the course of professional employment'."
+```
+
+And here is a summary of the judge's tentative ruling in English text:
+
+The judge has denied Plaintiff Omar Macedo's motion for an order finding that the Evangelista Declaration failed to sustain Defendant's burden of showing that the Evangelista Report was covered by the attorney-client privilege. The judge found that Defendant has met its burden of showing that Evangelista obtained Portillo's statement with the intention of transmitting it to an attorney to defend against potential claims, and this was done in the course of their employment. Therefore, the statement is covered by the attorney-client privilege. The judge overruled Plaintiff's objections Nos. 1-6 and denied the motion.
+..................... .....................
+On 2025-02-09_09:29:30.723696
+The summary displayed below was created by an LLM named:  "llama-3.3-70b-specdec":
+Exception:
+Error code: 429 - {'error': {'message': 'Rate limit reached for model `llama-3.3-70b-specdec` in organization `org_01hw84cjv0f12v63qt47723ar2` service tier `on_demand` on : Limit 100000, Used 100142, Requested 1137. Please try again in 18m25.601999999s. Visit https://console.groq.com/docs/rate-limits for more information.', 'type': '', 'code': 'rate_limit_exceeded'}}
+..................... .....................
+On 2025-02-09_09:39:32.233051
+The summary displayed below was created by an LLM named:  "mixtral-8x7b-32768":
+case\_number: 21STCV03216
+hearing\_date: September 27, 2023
+dept: C
+plaintiff:
+  - name: Omar Macedo
+defendant:
+  - name: Portillo
+  - name: Charter Communications, Inc.
+people\_names:
+  - name: Evangelista
+  - name: Portillo
+companies:
+  - name: Charter Communications, Inc.
+places:
+dates:
+  - January 27, 2021
+events:
+  - personal\_injury\_motor\_vehicle\_action
+money:
+intentions:
+  - defend\_against\_potential\_claims
+facts:
+  - Evangelista\_prepared\_a\_report
+  - Evangelista\_is\_Portillo's\_direct\_supervisor
+  - report\_created\_to\_assist\_Defendant’s\_counsel
+  - report\_labelled\_as\_confidential
+  - Portillo’s\_job\_duties\_as\_Field\_Technician\_IV\_for\_Charter
+disputes:
+  - Evangelista\_Declaration\_fails\_to\_sustain\_Defendant’s\_burden
+acts:
+  - Plaintiff\_moves\_to\_compel\_Defendants\_further\_responses\_to\_Requests\_for\_Production
+  - Plaintiff’s\_objections\_Nos.\_1-6\_are\_overruled
+agreements:
+laws:
+  - Evidence Code, § 954
+case\_citations:
+  - D.I. Chadbourne, Inc. v. Superior Court (1964) 60 Cal.2d 723
+  - Soltani-Rastegar v. Superior Court (1989) 208 Cal.App.3d 424
+roles:
+  - Plaintiff
+  - Defendant
+significant\_statements:
+  - Defendant\_has\_met\_its\_burden\_of\_showing\_that\_Evangelista\_obtained\_Portillo’s\_statement\_with\_the\_intention\_of\_transmitting\_it\_to\_an\_attorney\_to\_defend\_against\_potential\_claims
+  - The\_statement\_is\_covered\_by\_the\_attorney-client\_privilege
+  - Plaintiff’s\_Motion\_for\_Order\_that\_the\_Evangelista\_Declaration\_Failed\_to\_Sustain\_its\_Burden\_is\_DENIED
+
+In this tentative ruling, the Judge has denied Plaintiff Omar Macedo's motion for an order finding that the Evangelista Declaration failed to sustain Defendant Charter Communications, Inc.'s burden of showing that a statement made by Defendant Portillo to Evangelista was covered by the attorney-client privilege. The Judge found that Defendant has met its burden of showing that Evangelista obtained Portillo’s statement with the intention of transmitting it to an attorney to defend against potential claims, and this was done in the course of their employment. Therefore, the statement is covered by the attorney-client privilege.

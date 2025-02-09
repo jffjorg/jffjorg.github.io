@@ -63,3 +63,210 @@ Significant Statements:
 And here is a summary of the judge's tentative ruling in English text:
 
 The judge has issued a tentative ruling in the case of GSI Exchange v. Mark Cowper, regarding a motion to compel compliance with a demand for certain documents. The plaintiff, GSI Exchange, had agreed to produce the documents in response to a request for production, but failed to do so. The defendant, Mark Cowper, moved for an order compelling compliance, and the plaintiff claims that the motion is moot since it has now produced the documents. The judge agrees that the motion is moot, but notes that the plaintiff failed to justify its belated production of the documents. The judge also denies the defendant's request for monetary sanctions, citing a due process error in the way the request was made.
+..................... .....................
+On 2025-02-09_10:32:11.935437
+The summary displayed below was created by an LLM named:  "gemma2-9b-it":
+## Tentative Ruling Summary: GSI Exchange v. Cowper
+
+**Case Number:** 20SMCV01355
+**Hearing Date:** September 27, 2023
+**Dept:** M
+
+**People-Names:**
+* Mark Cowper
+* Robert E. Thompson
+
+**Company-Names:**
+* GSI Exchange
+
+**Places:** 
+*  (Not specified)
+
+**Dates:**
+* April 7, 2023: Plaintiff's Responses to Request for Production of Documents, set 2, served.
+* August 27, 2023: Plaintiff serves responsive documents to Defendant.
+* September 27, 2023: Hearing date.
+
+**Events:**
+* Defendant moves to compel Plaintiff to produce documents agreed upon in Responses to Request for Production of Documents.
+* Plaintiff argues motion is moot as documents were produced.
+* Defendant argues motion should be denied due to lack of separate statement.
+* Plaintiff argues they were unable to provide timely production.
+* Defendant requests sanctions of $787.50 against Plaintiff and counsel.
+
+**Money:**
+*  $787.50 requested in sanctions.
+
+**Intentions:**
+* Defendant seeks to compel document production.
+* Plaintiff seeks to avoid sanctions.
+
+**Facts:**
+* Plaintiff failed to timely produce documents requested by Defendant.
+* Plaintiff argues they produced documents as soon as they were in possession.
+
+**Disputes:**
+* Timing of document production.
+
+**Acts:**
+* Defendant filed a motion to compel production of documents.
+* Plaintiff served documents to Defendant, arguing motion is moot.
+
+**Agreements:**
+* Plaintiff agreed to produce documents in their Responses to Request for Production of Documents.
+
+**Laws:**
+* Code of Civil Procedure section 2031.320
+
+**Case Citations:**
+* (Not specified)
+
+**Statutes:**
+* CCP § 2031.320
+
+**Roles:**
+* Judge:  Deciding on the motion to compel and sanctions.
+* Plaintiff (GSI Exchange):  Facing a motion to compel and potential sanctions.
+* Defendant (Mark Cowper):  Moving to compel document production and requesting sanctions.
+
+**Significant Statements:**
+* "The court shall impose a monetary against any party, person, or attorney who unsuccessfully makes or opposes a motion to compel compliance with a demand, unless it finds that the one subject to the sanction acted with substantial justification or that other circumstances make the imposition of the sanction unjust." (CCP § 2031.320(b).)
+
+
+
+**English Summary:**
+
+Judge's Tentative Ruling:
+
+The Defendant, Mark Cowper, moved to compel Plaintiff, GSI Exchange, to produce documents they agreed to produce in April 2023. Plaintiff argues the motion is moot because they provided the documents on August 27, 2023. The Judge agrees that the motion is moot.
+
+However, the Judge finds Plaintiff's explanation for the delayed production insufficient and notes that monetary sanctions are mandatory unless justified or acted with substantial justification. 
+
+Although Defendant requested sanctions of $787.50, the Judge did not grant them due to procedural errors in how the sanctions request was made. The Judge believes Plaintiff should have produced the documents on time and finds their explanation lacking. 
+
+
+
+..................... .....................
+On 2025-02-09_10:32:37.819089
+The summary displayed below was created by an LLM named:  "llama3-8b-8192":
+Here is the summary in YAML format:
+
+```yaml
+Case Number: 20SMCV01355
+Plaintiff's Name: GSI Exchange
+Defendant's Name: Mark Cowper
+People-Names:
+  - Mark Cowper
+  - Robert E. Thompson
+Company-Names:
+  - GSI Exchange
+Places:
+  - None
+Dates:
+  - April 7, 2023
+  - August 27, 2023
+  - September 27, 2023
+Events:
+  - Motion to Compel Compliance
+  - Request for Production of Documents
+  - Failure to produce documents
+  - Belated production of documents
+  - Request for sanctions
+Money:
+  - $787.50
+Intentions:
+  - Compel compliance with demand for inspection, copying, testing, or sampling
+  - Obtain sanctions against Plaintiff and counsel
+Facts:
+  - Defendant moves for an order compelling Plaintiff to produce certain documents
+  - Plaintiff agreed to produce documents but failed to do so
+  - Plaintiff belatedly produced the documents
+  - Defendant requests sanctions in the amount of $787.50
+Disputes:
+  - Whether Plaintiff should be compelled to produce documents
+  - Whether Plaintiff should be sanctioned for failure to produce documents
+  - Whether the motion is moot
+Acts:
+  - Plaintiff's failure to produce documents
+  - Defendant's request for sanctions
+  - Plaintiff's belated production of documents
+Agreements:
+  - Plaintiff's agreement to produce documents
+Laws:
+  - Code of Civil Procedure section 2031.320
+Statutes:
+  - CCP § 2031.320
+Roles:
+  - Judge: renders tentative ruling
+  - Plaintiff: GSI Exchange
+  - Defendant: Mark Cowper
+  - Counsel: Robert E. Thompson
+Significant Statements:
+  - "If a party filing a response to a demand for inspection, copying, testing, or sampling…thereafter fails to permit the inspection, copying, testing, or sampling in accordance with that party's statement of compliance, the demanding party may move for an order compelling compliance." (CCP § 2031.320(a))
+  - "The court shall impose a monetary sanction against any party, person, or attorney who unsuccessfully makes or opposes a motion to compel compliance with a demand, unless it finds that the one subject to the sanction acted with substantial justification or that other circumstances make the imposition of the sanction unjust." (CCP § 2031.320(b))
+```
+
+And here is a summary of the judge's tentative ruling in English text:
+
+The judge has made a tentative ruling on a motion to compel compliance with a demand for inspection, copying, testing, or sampling. The defendant, Mark Cowper, is seeking an order compelling the plaintiff, GSI Exchange, to produce certain documents that it agreed to produce in its responses to the request for production of documents. The judge finds that the motion is moot because the plaintiff has already produced the documents. The judge also finds that the plaintiff failed to justify its belated production of the documents and that the defendant did not properly notice the request for sanctions. Therefore, the judge is not inclined to grant sanctions.
+..................... .....................
+On 2025-02-09_10:33:03.028005
+The summary displayed below was created by an LLM named:  "llama-3.3-70b-specdec":
+Exception:
+Error code: 429 - {'error': {'message': 'Rate limit reached for model `llama-3.3-70b-specdec` in organization `org_01hw84cjv0f12v63qt47723ar2` service tier `on_demand` on : Limit 100000, Used 100000, Requested 1070. Please try again in 15m24.647999999s. Visit https://console.groq.com/docs/rate-limits for more information.', 'type': '', 'code': 'rate_limit_exceeded'}}
+..................... .....................
+On 2025-02-09_10:43:04.636244
+The summary displayed below was created by an LLM named:  "mixtral-8x7b-32768":
+case\_number: 20SMCV01355
+hearing\_date: September 27, 2023
+case\_name: GSI Exchange v. Cowper
+people:
+- Mark Cowper
+- Robert E. Thompson
+companies:
+- GSI Exchange
+places:
+- California
+dates:
+- April 7, 2023
+- August 27, 2023
+events:
+- Defendant Cowper filed a motion to compel Plaintiff GSI Exchange to produce certain documents
+- Plaintiff GSI Exchange agreed to produce the documents in its Responses to Request for Production of Documents
+- Plaintiff GSI Exchange failed to produce the documents
+- Plaintiff GSI Exchange served Defendant Cowper all responsive documents on August 27, 2023
+- Defendant Cowper requested sanctions against Plaintiff GSI Exchange and counsel of record Robert E. Thompson
+money:
+- Defendant Cowper requested sanctions in the amount of $787.50
+intentions:
+- Defendant Cowper intends to enforce the production of the documents from Plaintiff GSI Exchange
+- Defendant Cowper intends to sanction Plaintiff GSI Exchange and counsel of record for failing to produce the documents in a timely manner
+facts:
+- Plaintiff GSI Exchange agreed to produce the documents in its Responses to Request for Production of Documents
+- Plaintiff GSI Exchange failed to produce the documents
+- Plaintiff GSI Exchange served Defendant Cowper all responsive documents on August 27, 2023
+- Defendant Cowper requested sanctions against Plaintiff GSI Exchange and counsel of record
+disputes:
+- Whether the motion is moot
+- Whether the motion should be substantively denied
+- Whether monetary sanctions should be imposed
+acts:
+- Defendant Cowper filed a motion to compel Plaintiff GSI Exchange to produce certain documents
+- Plaintiff GSI Exchange failed to produce the documents
+- Plaintiff GSI Exchange served Defendant Cowper all responsive documents on August 27, 2023
+- Defendant Cowper requested sanctions against Plaintiff GSI Exchange and counsel of record
+agreements:
+- Plaintiff GSI Exchange agreed to produce the documents in its Responses to Request for Production of Documents
+laws:
+- Code of Civil Procedure section 2031.320
+- California Rules of Court, rule 3.1345
+case\_citations:
+- Code of Civil Procedure section 2031.320
+- California Rules of Court, rule 3.1345
+roles:
+- Defendant Cowper: moving party
+- Plaintiff GSI Exchange: responding party
+significant\_statements:
+- "The Court agrees that the motion is moot."
+- "Plaintiff claims that it forwarded the documents responsive to Defendant’s demand as soon as the documents were in its possession or control. However, Plaintiff provided a response that the documents would be produced and does not explain why they did not provide a timely response."
+- "In light of this due process error, the Court is not inclined to grant sanctions."

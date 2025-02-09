@@ -89,3 +89,114 @@ Significant Statements:
 And here is a brief English-text summary:
 
 The Judge has denied the County of Los Angeles's motion for summary judgment in this case. The case involves claims of negligence, premises liability, and professional negligence against the County related to the treatment of a minor, Christopher Lopez Jr., who suffered cardiac arrest during a CT scan at Olive View-UCLA Medical Center. The County argued that its employees' conduct fell within the standard of care and that Lopez's injuries were not caused by its employees' conduct. However, the Judge found that there was a triable issue of material fact regarding the County's employees' conduct during the CT scan and that the County failed to meet its burden of showing that its employees were not incompetent or unfit. Therefore, the motion for summary judgment was denied.
+..................... .....................
+On 2025-02-09_07:46:43.783206
+The summary displayed below was created by an LLM named:  "gemma2-9b-it":
+## Tentative Ruling Summary
+
+**Case Number:** 21STCV01719
+**Hearing Date:** September 27, 2023
+**Court:** Superior Court of California, County of Los Angeles, Department 78
+
+**Parties:**
+
+* **Plaintiffs:**  
+    * Christopher Lopez Jr., a minor by and through his guardian ad litem Renee Lemos 
+* **Defendant:** The County of Los Angeles
+
+**Subject:** Motion for Summary Judgment
+
+**Facts:**
+
+* **December 2019:**  Christopher Lopez Jr. (Lopez) experienced stomach pain and vomiting, later diagnosed with appendicitis and septic shock requiring emergency treatment.
+* **Allegations:** Plaintiffs allege the County of Los Angeles was negligent in its care of Lopez at Olive View-UCLA Medical Center during a CT scan, leading to his worsened condition.
+
+**Issues:**
+
+* **Negligent Supervision/Hiring:** Plaintiffs claim County failed to ensure CT technicians were trained in CPR and failed to adequately supervise them, leading to Lopez's cardiac arrest during the scan.
+* **Medical Negligence:** Plaintiffs allege County staff breached the standard of care during the CT scan, contributing to Lopez's injuries.
+
+**Arguments:**
+
+* **County's Argument:** County claims its staff acted within the standard of care and provides expert testimony supporting their position. However, the testimony lacks details about the CT technician's actions during the CT scan.
+
+**Ruling:**
+
+* **Motion for Summary Judgment DENIED:**  The Judge finds insufficient evidence to rule on the County's motion for summary judgment because the record lacks details about the CT technician's conduct during Lopez's scan.  
+
+
+**Key Points:**
+
+* The Judge emphasizes the need for specific evidence regarding the CT technician's actions during the CT scan to determine if County was negligent in hiring or supervising them.
+
+
+Let me know if you need more details or have other documents you'd like summarized!
+
+..................... .....................
+On 2025-02-09_07:47:10.332713
+The summary displayed below was created by an LLM named:  "llama3-8b-8192":
+Here is a summary of the judge's tentative ruling in YAML format:
+
+```
+Case Number: 21STCV01719
+Plaintiff's Name: CHRISTOPHER LOPEZ JR., a minor by and through his guardian ad litem, RENEE LEMOS
+Defendant's Name: LOS ANGELES UNIFIED SCHOOL DISTRICT, et al.
+People-Names:
+  - RENEE LEMOS
+  - CHRISTOPHER LOPEZ JR.
+  - DR. DANIELLE MARIE RYBA
+  - DR. CARMEN PARTIDA
+  - DR. DAVID BARCAY
+Company-Names:
+  - LOS ANGELES UNIFIED SCHOOL DISTRICT
+  - COUNTY OF LOS ANGELES
+  - OLIVE VIEW-UCLA MEDICAL CENTER
+  - LAC-USC MEDICAL CENTER
+Places:
+  - Los Angeles
+  - Olive View
+  - LAC-USC
+Dates:
+  - December 12, 2019
+  - December 15, 2019
+  - December 15, 2022
+  - July 7, 2023
+  - September 27, 2023
+Events:
+  - Christopher Lopez Jr. began complaining of a stomachache
+  - Lopez was airlifted to LAC-USC Medical Center
+  - County filed a motion for summary judgment
+Laws:
+  - Code of Civil Procedure section 437c(c)
+  - Code of Civil Procedure section 437c(p)(2)
+Statutes:
+  - California Civil Code
+Roles:
+  - Judge: Hon. Jill Feeney
+  - Plaintiff: CHRISTOPHER LOPEZ JR., a minor by and through his guardian ad litem, RENEE LEMOS
+  - Defendant: LOS ANGELES UNIFIED SCHOOL DISTRICT, et al.
+  - Expert Witness: DR. DAVID BARCAY
+  - Healthcare providers: DR. DANIELLE MARIE RYBA, DR. CARMEN PARTIDA
+Significant Statements:
+  - County's employees failed to notice Lopez was in distress during his CT scan, failed to immediately render aid when Plaintiff went into cardiac arrest, and failed to have policies and procedures in place for when a patient undergoing CT scans goes into cardiac arrest.
+  - There is no evidence of whether the CT technician was trained or fit for his position.
+  - County's employees' conduct during the CT scan fell within the standard of care.
+```
+
+And here is a summary of the judge's tentative ruling in English text:
+
+The County of Los Angeles has moved for summary judgment in this case, alleging that it complied with the standard of care at all times and that no act or omission of the County was a substantial factor in causing the minor plaintiff's injuries. The County relies on expert testimony from Dr. David Barcay, a licensed physician, who states that the County's staff complied with the standard of care during Lopez's admission and resuscitation.
+
+The judge denies the County's motion for summary judgment, finding that there is no evidence of whether the County's employees' conduct during the CT scan fell within the standard of care. The judge also finds that the County failed to provide evidence of the CT technician's training or fitness for his position, and that there is no evidence showing whether the County's employees' conduct caused Lopez's injuries.
+
+The judge also denies the County's motion for summary judgment on the ground of negligent hiring, finding that there is no evidence that the County knew or should have known that hiring the employee created a particular risk or hazard, and that the County failed to show that the employee's conduct was the proximate cause of Lopez's injuries.
+..................... .....................
+On 2025-02-09_07:47:35.555134
+The summary displayed below was created by an LLM named:  "llama-3.3-70b-specdec":
+Exception:
+Error code: 429 - {'error': {'message': 'Rate limit reached for model `llama-3.3-70b-specdec` in organization `org_01hw84cjv0f12v63qt47723ar2` service tier `on_demand` on : Limit 100000, Used 99418, Requested 4603. Please try again in 57m53.520999999s. Visit https://console.groq.com/docs/rate-limits for more information.', 'type': '', 'code': 'rate_limit_exceeded'}}
+..................... .....................
+On 2025-02-09_07:57:35.823117
+The summary displayed below was created by an LLM named:  "mixtral-8x7b-32768":
+Exception:
+Error code: 413 - {'error': {'message': 'Request too large for model `mixtral-8x7b-32768` in organization `org_01hw84cjv0f12v63qt47723ar2` service tier `on_demand` on tokens per minute (TPM): Limit 5000, Requested 5018, please reduce your message size and try again. Visit https://console.groq.com/docs/rate-limits for more information.', 'type': 'tokens', 'code': 'rate_limit_exceeded'}}
