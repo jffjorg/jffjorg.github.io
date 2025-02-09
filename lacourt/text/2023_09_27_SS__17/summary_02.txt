@@ -211,3 +211,103 @@ On 2025-02-09_12:19:07.512261
 The summary displayed below was created by an LLM named:  "llama-3.3-70b-specdec":
 Exception:
 Error code: 429 - {'error': {'message': 'Rate limit reached for model `llama-3.3-70b-specdec` in organization `org_01hw84cjv0f12v63qt47723ar2` service tier `on_demand` on : Limit 100000, Used 99947, Requested 1858. Please try again in 25m59.514s. Visit https://console.groq.com/docs/rate-limits for more information.', 'type': '', 'code': 'rate_limit_exceeded'}}
+..................... .....................
+On 2025-02-09_12:29:09.946337
+The summary displayed below was created by an LLM named:  "mixtral-8x7b-32768":
+case\_number: 23STCV15315
+hearing\_date: September 27, 2023
+dept: 17
+superior\_court: California, Los Angeles County
+
+parties:
+  plaintiffs:
+    - The Dominguez Firm, LLP
+    - Top Reach Marketing, LLC
+  defendants:
+    - Jose Luis Nazar
+    - Land of the Free, L.P.
+    - Lead Capital, LLC
+    - 800.com, LLC
+    - The Telco
+    - Ring Pros, LC
+    - Champion Communications, Inc.
+    - Champion Communications, LTCD
+    - Lead Capital, LLC
+    - 800.com, LLC
+    - Greg Fernandez
+
+people:
+  - Jose Luis Nazar
+  - Greg Fernandez
+
+companies:
+  - The Dominguez Firm, LLP
+  - Top Reach Marketing, LLC
+  - Land of the Free, L.P.
+  - Lead Capital, LLC
+  - 800.com, LLC
+  - The Telco
+  - Ring Pros, LC
+  - Champion Communications, Inc.
+  - Champion Communications, LTCD
+
+places:
+  - California
+  - Los Angeles County
+
+dates:
+  - June 30, 20223
+  - October 3, 2023
+  - October 23, 2023
+
+events:
+  - Plaintiffs filed a lawsuit against Defendants.
+  - Defendants demurred to Plaintiffs' Complaint or requested a stay.
+  - There are three other pending lawsuits directed toward the same subject matter.
+  - The Nazar Action is scheduled for trial on October 23, 2023.
+  - Judge Long will decide if the Dominguez Lawsuit is related to the Nazar Lawsuit.
+
+money:
+  - The lawsuit involves specific performance of a contract, declaratory relief, and unfair business practices.
+
+intentions:
+  - Plaintiffs aim to protect their purported right to uninterrupted use of the Number in California.
+  - Defendants request a stay in the alternative.
+
+facts:
+  - This lawsuit is the third in California, and fourth in the nation, directed toward the alleged misconduct of the Fernandez Defendants.
+  - Plaintiffs are downstream licensees of the Number.
+  - The Nazar Defendants sued the Fernandez Defendants for fraud and breach of an agreement.
+  - The Fernandez Defendants were not seeking the Nazar Defendants' approval when entering agreements to sell ownership rights to the Number.
+
+disputes:
+  - Plaintiffs allege specific performance of a contract, declaratory relief, declaratory relief, declaratory relief, declaratory relief, and unfair business practices.
+  - Defendants argue that Plaintiffs' claims should be dismissed with prejudice or stayed.
+
+acts:
+  - Plaintiffs filed a lawsuit.
+  - Defendants demurred to Plaintiffs' Complaint or requested a stay.
+
+agreements:
+  - The Nazar Defendants and the Fernandez Defendants had an agreement permitting the Fernandez Defendants to market the Number to third parties.
+
+laws:
+  - Thomson v. Continental Ins. Co. (1967) 66 Cal.2d 738
+
+case\_citations:
+  - Thomson v. Continental Ins. Co. (1967) 66 Cal.2d 738
+
+statutes:
+  - Not mentioned in the document.
+
+roles:
+  - Plaintiffs: bringing the lawsuit to protect their right to uninterrupted use of the Number.
+  - Defendants: demurred to Plaintiffs' Complaint or requested a stay.
+  - Judge Long: will decide if the Dominguez Lawsuit is related to the Nazar Lawsuit.
+
+significant\_statements:
+  - "Granting a stay in a case where the issues in two actions are substantially identical . . . is a matter addressed to the sound discretion of the trial court." (Thomson v. Continental Ins. Co. (1967) 66 Cal.2d 738, 746)
+  - "Plaintiff requests a continuance of this hearing to a date after October 3, 2023, given that on October 3rd, 'Judge Long in Dept. 48 will decide if the Dominguez Lawsuit is related to the Nazar Lawsuit. If the Court relates the two lawsuits, Dominguez will then file a Motion to Consolidate the actions for all purposes.'" (Opp., 7: 1-4)
+
+Summary:
+The Judge's tentative ruling in the case of The Dominguez Firm, LLP, and Top Reach Marketing, LLC vs. Jose Luis Nazar, et al. involves a lawsuit filed by the Plaintiffs against multiple Defendants, alleging specific performance of a contract, declaratory relief, declaratory relief, declaratory relief, declaratory relief, and unfair business practices. The Defendants have demurred to the Complaint or requested a stay. The lawsuit is related to the misconduct of the Fernandez Defendants in marketing and selling the toll-free number 800-777-7777. The ruling is continued until after October 3, 2023, to allow for Judge Long's decision on the Notice of Related Cases.
