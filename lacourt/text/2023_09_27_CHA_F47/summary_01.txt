@@ -228,3 +228,85 @@ On 2025-02-08_20:38:44.163669
 The summary displayed below was created by an LLM named:  "llama-3.3-70b-specdec":
 Exception:
 Error code: 429 - {'error': {'message': 'Rate limit reached for model `llama-3.3-70b-specdec` in organization `org_01hw84cjv0f12v63qt47723ar2` service tier `on_demand` on : Limit 100000, Used 99711, Requested 1213. Please try again in 13m18.093s. Visit https://console.groq.com/docs/rate-limits for more information.', 'type': '', 'code': 'rate_limit_exceeded'}}
+..................... .....................
+On 2025-02-08_20:48:46.168128
+The summary displayed below was created by an LLM named:  "mixtral-8x7b-32768":
+case\_number: 22CHCV00856
+hearing\_date: September 27, 2023
+dept: F47
+trial\_date: April 8, 2024
+
+parties:
+plaintiff:
+- Ha Hoang Nguyen
+defendants:
+- Amy Jam
+- Mohsen Hadad
+
+people:
+- Ha Hoang Nguyen
+- Amy Jam
+- Mohsen Hadad
+
+places:
+- 20516 Shelley Lane, Porter Ranch, California 91326
+
+dates:
+- October 12, 2022
+- November 17, 2022
+- April 17, 2023
+- May 12, 2023
+- June 7, 2023
+- July 3, 2023
+
+events:
+- Nguyen filed a complaint against Jam and Hadad for Breach of Contract, Fraud, Unjust Enrichment, and Declaratory Relief.
+- Jam and Hadad filed an Answer to the Complaint.
+- Jam and Hadad filed a Cross-Complaint against Nguyen for Breach of Contract, General Negligence, Intentional Tort, and Intentional Infliction of Emotional Distress.
+- Nguyen filed and served a Special Motion to Strike seeking an order striking portions of the Cross-Complaint of Cross-Complainants Amy Jam and Mohsen Hadad.
+- Nguyen filed and served a motion seeking an order awarding attorney’s fees in the amount of $10,928.21 as the prevailing party on a Special Motion to Strike.
+
+money:
+- $10,928.21 in attorney’s fees and costs
+
+intentions:
+- Nguyen intends to recover attorney’s fees and costs as the prevailing party on the Special Motion to Strike.
+
+facts:
+- Nguyen and Jam and Hadad have a dispute over the rights to real property located at 20516 Shelley Lane, Porter Ranch, California 91326.
+- Nguyen claims that she purchased the Property and agreed to let Jam and Hadad live there in exchange for rent.
+- Jam and Hadad claim that they entered an agreement with Nguyen whereby they would live at the property, manage it, and eventually split the proceeds from the sale of the property with Nguyen.
+
+disputes:
+- Breach of Contract
+- Fraud
+- Unjust Enrichment
+- Declaratory Relief
+- Breach of Contract by Filing for Rent and Pleading Eviction
+- Breach of Contract by Not Selling the Property and Not Paying Shares of Jam and Hadad
+- General Negligence
+- Intentional Tort
+- Intentional Infliction of Emotional Distress
+
+acts:
+- Nguyen filed a complaint against Jam and Hadad.
+- Jam and Hadad filed a Cross-Complaint against Nguyen.
+- Nguyen filed and served a Special Motion to Strike.
+- Nguyen filed and served a motion seeking an order awarding attorney’s fees.
+
+agreements:
+- Nguyen and Jam and Hadad have a dispute over the terms of their agreement regarding the Property.
+
+laws:
+- CCP 425.16(c)
+
+case\_citations:
+- [6/7/23 Minute Order]
+
+roles:
+- Ha Hoang Nguyen: Plaintiff, Cross-Defendant, Moving Party
+- Amy Jam: Defendant, Cross-Complainant, Responding Party
+- Mohsen Hadad: Defendant, Cross-Complainant, Responding Party
+
+significant\_statements:
+- The motion is granted and Nguyen is awarded $10,928.21 in attorney’s fees and costs as the prevailing party on the Special Motion to Strike.
