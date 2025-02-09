@@ -216,3 +216,53 @@ On 2025-02-08_17:56:35.959205
 The summary displayed below was created by an LLM named:  "llama-3.3-70b-specdec":
 Exception:
 Error code: 429 - {'error': {'message': 'Rate limit reached for model `llama-3.3-70b-specdec` in organization `org_01hw84cjv0f12v63qt47723ar2` service tier `on_demand` on : Limit 100000, Used 99244, Requested 2002. Please try again in 17m56.142999999s. Visit https://console.groq.com/docs/rate-limits for more information.', 'type': '', 'code': 'rate_limit_exceeded'}}
+..................... .....................
+On 2025-02-08_18:06:37.199324
+The summary displayed below was created by an LLM named:  "mixtral-8x7b-32768":
+case\_number: 23STCV02219
+hearing\_date: September 26, 2023
+dept: 30
+plaintiff\_names:
+- Brandon Darnell Savage
+defendant\_names:
+- Angel Ricardo Escalante
+people\_names:
+- DOES 51 to 100
+company\_names:
+- None
+places:
+- None
+dates:
+- Date of collision (not specified)
+events:
+- Rear-end collision
+- Defendants fled the scene
+money:
+- None mentioned
+intentions:
+- Defendants' intent to flee the scene and escape liability
+- Plaintiffs' intention to seek punitive damages
+- Court's intention to grant 20 days leave to amend
+facts:
+- Defendants caused a rear-end collision
+- Defendants fled the scene
+- Plaintiffs suffered emotional distress, pain, and discomfort
+disputes:
+- Whether the demurrer for Intentional Infliction of Emotional Distress (IIED) is sustained
+- Whether a motion to strike punitive damages is granted
+acts:
+- Defendants' act of fleeing the scene
+- Plaintiffs' filing of the First Amended Complaint seeking punitive damages
+agreements:
+- None mentioned
+laws:
+- California Civil Code § 3294
+case\_citations:
+- Brooks v. E.J. Willig Truck Transp. Co. (1953) 40 Cal.2d 669
+roles:
+- Judge (ruling on the demurrer and motion to strike)
+significant\_statements:
+- "Plaintiff's allegations are not specific to show intent to cause emotional harm to Plaintiff."
+- "A motion to strike punitive damages is properly granted where a plaintiff does not state a prima facie claim for punitive damages."
+- "The allegations supporting a request for punitive damages must be alleged with specificity."
+- "Despicable conduct is 'conduct which is so vile, base, contemptible, miserable, wretched or loathsome that it would be looked down upon and despised by ordinary decent people.'"
