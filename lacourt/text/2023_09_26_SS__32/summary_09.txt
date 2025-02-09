@@ -230,3 +230,52 @@ On 2025-02-08_19:42:00.645464
 The summary displayed below was created by an LLM named:  "llama-3.3-70b-specdec":
 Exception:
 Error code: 429 - {'error': {'message': 'Rate limit reached for model `llama-3.3-70b-specdec` in organization `org_01hw84cjv0f12v63qt47723ar2` service tier `on_demand` on : Limit 100000, Used 100691, Requested 1817. Please try again in 36m7.096s. Visit https://console.groq.com/docs/rate-limits for more information.', 'type': '', 'code': 'rate_limit_exceeded'}}
+..................... .....................
+On 2025-02-08_19:52:01.784756
+The summary displayed below was created by an LLM named:  "mixtral-8x7b-32768":
+case\_number: 22STCV17909
+hearing\_date: September 26, 2023
+dept: 32
+
+parties:
+plaintiff:
+name: Nazario Mejia Jimenez
+defendant:
+name: Karen Sargsyan
+
+people:
+- name: Plaintiff's counsel
+role: Requesting no sanctions for Plaintiff
+- name: Defendant's counsel
+role: Requesting sanctions for Discovery abuse
+
+events:
+- type: Motor vehicle negligence
+date: May 28, 2020
+- type: Defendant's discovery motion filings
+date: August 29, 2023
+- type: No responses to Defendant's discovery requests
+date: October 24, 2022 - January 18, 2023
+
+motions:
+- type: Motion for an Order Compelling Responses to Form Interrogatories
+status: Granted
+- type: Motion for an Order Compelling Responses to Special Interrogatories
+status: Granted
+- type: Motion for Order Compelling Responses to Requests for Production of Documents
+status: Granted
+
+disputes:
+- type: Discovery abuse
+description: Plaintiff's failure to respond to Defendant's discovery requests
+
+laws:
+- name: Code of Civil Procedure section 2031.300, subdivision (b)
+- name: Code of Civil Procedure section 2030.290, subdivisions (b), (c)
+- name: California Rules of Court, rule 3.1348(a)
+
+monetary\_sanctions:
+amount: 705
+purpose: Discovery abuse sanctions
+recipient: Counsel for Defendant
+due\_date: 30 days from the date of the order
