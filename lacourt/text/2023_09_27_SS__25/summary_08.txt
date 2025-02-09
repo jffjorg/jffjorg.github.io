@@ -79,3 +79,170 @@ Significant Statements:
 And here is a summary in English text:
 
 The judge's tentative ruling grants the plaintiff's motions to compel responses to discovery requests and deem requests for admissions admitted. The plaintiff, Nazmudin M. Lalani, sued the defendants, Eddie L. Brown and Jacqueline R. Johnson, alleging causes of action for damages for failure to release funds deposited in escrow. The plaintiff served discovery requests on June 13, 2023, but the defendants failed to respond. The plaintiff filed motions to compel responses and deem requests for admissions admitted, and the court granted these motions. The court also awarded sanctions in the reduced total amount of $2,100.
+..................... .....................
+On 2025-02-09_13:18:25.931454
+The summary displayed below was created by an LLM named:  "gemma2-9b-it":
+## Summary of Tentative Ruling - Case: Lalani v. Brown, et al. 
+
+**Case Number:** 22STLC07612
+**Hearing Date:** September 27, 2023
+**Dept:** 25
+
+**Plaintiff:** Nazmudin M. Lalani
+**Defendant:** Eddie L. Brown and Jacqueline R. Johnson
+
+**Key Issues:**
+
+* **Discovery Disputes:** Plaintiff filed motions to compel responses to requests for production, interrogatories, and deemed requests for admissions as admitted. Defendants failed to timely respond to any discovery requests. 
+
+**Judge's Ruling:**
+
+* **Motions Granted:**  The Court GRANTS all of Plaintiff's motions.
+* **Sanctions:** The Court awards Plaintiff $2,100 in sanctions against Defendants for their failure to respond to discovery requests.
+
+**Background:**
+
+* Plaintiff sued Defendants on November 10, 2022, alleging damages for failure to release escrowed funds.
+* Plaintiff served discovery requests on June 13, 2023, with responses due by July 17, 2023.
+* Defendants did not respond to the discovery requests, nor did they request an extension.
+
+**Laws and Statutes Cited:**
+
+* California Code of Civil Procedure sections 2031.010, 2030.020, 2031.060, 2030.060, 2031.300, 2030.290, 2033.280, 2023.010, 2023.030, and 2016.040.
+
+**Significant Statements:**
+
+* The Court emphasized that Defendants' failure to respond to discovery requests constitutes misuse of the discovery process and is subject to sanctions.
+* The Court acknowledged that Plaintiff's motions to compel and deem requests for admissions admitted were well-supported and that Defendants provided no justification for their non-compliance.
+
+**English Summary:**
+
+The judge reviewed Plaintiff's motion to compel responses to discovery requests, and motions to deem requests for admissions as admitted from Defendants Brown and Johnson. The judge found that Defendants failed to respond to the discovery requests within the allowed time, and therefore, granted all of Plaintiff's motions. As a result, the judge ordered Defendants to respond to the discovery requests within 20 days and awarded Plaintiff $2,100 in sanctions for Defendants' failure to comply with discovery. 
+
+
+
+
+..................... .....................
+On 2025-02-09_13:18:52.139760
+The summary displayed below was created by an LLM named:  "llama3-8b-8192":
+Here is the YAML summary of the Tentative Ruling:
+
+**Case Information**
+
+* Case Number: 22STLC07612
+* Hearing Date: September 27, 2023
+* Department: 25
+
+**Parties**
+
+* Plaintiff: Nazmudin M. Lalani
+* Defendants: Eddie L. Brown and Jacqueline R. Johnson (collectively "Defendants")
+
+**Background**
+
+* The lawsuit was filed on November 10, 2022, alleging damages for failure to release funds deposited in escrow.
+* Plaintiff served discovery requests on June 13, 2023, which were due on July 17, 2023.
+
+**Discovery Motions**
+
+* Plaintiff filed three motions on each defendant: (1) Motion to Compel Responses to Request for Production, Set One, and Request for Monetary Sanctions; (2) Motion to Compel Responses to Request to Form Interrogatories, Set One, and Request for Monetary Sanctions; and (3) Motion to Deem Request for Admissions Admitted.
+* The motions are identical in substance and seek monetary sanctions totaling $7,710.
+
+**Judicial Notice**
+
+* The court grants Plaintiff's request to take judicial notice of: (1) the Complaint; (2) Plaintiff's motion to compel responses to documents requests filed in the unlawful detainer action; and (3) Defendant's opposition to Plaintiff's motion to compel.
+
+**Motions to Compel Responses**
+
+* Plaintiff's motions are granted, compelling Defendants to respond to the discovery requests without objection.
+* The court finds that Defendants failed to respond to the discovery requests and did not request an extension.
+
+**Motion to Deem RFAs Admitted**
+
+* Plaintiff's motion is granted, deeming its Request for Admissions admitted as to each Defendant.
+* The court finds that Defendants did not serve verified responses to Plaintiff's Request for Admissions.
+
+**Sanctions**
+
+* The court awards monetary sanctions against Defendant in the amount of $2,100, which includes attorney's fees and costs incurred in connection with the pending motions.
+
+**Significant Statements**
+
+* "If a party fails to timely respond to a request for production or interrogatories, the party to whom the request is directed waives any right to exercise the option to produce writings under Code Civ. Proc., § 2030.230, and waives any objection, including one based on privilege or on the protection for work product."
+* "The party who propounded the discovery request may bring a motion to compel and the court shall impose a monetary sanction against any party, person, or attorney who unsuccessfully makes or opposes a motion to compel a response to a demand for production of documents or interrogatories, unless the court finds that the one subject to the sanction acted with substantial justification or that other circumstances make the imposition of the sanction unjust."
+
+I hope this helps! Let me know if you have any further questions.
+..................... .....................
+On 2025-02-09_13:19:17.353847
+The summary displayed below was created by an LLM named:  "llama-3.3-70b-specdec":
+Exception:
+Error code: 429 - {'error': {'message': 'Rate limit reached for model `llama-3.3-70b-specdec` in organization `org_01hw84cjv0f12v63qt47723ar2` service tier `on_demand` on : Limit 100000, Used 99775, Requested 3678. Please try again in 49m42.815s. Visit https://console.groq.com/docs/rate-limits for more information.', 'type': '', 'code': 'rate_limit_exceeded'}}
+..................... .....................
+On 2025-02-09_13:29:19.873491
+The summary displayed below was created by an LLM named:  "mixtral-8x7b-32768":
+summary:
+case\_number: "22STLC07612"
+hearing\_date: "September 27, 2023"
+dept: "25"
+plaintiff:
+  - name: "Nazmudin M. Lalani"
+defendants:
+  - name: "Eddie L. Brown"
+  - name: "Jacqueline R. Johnson"
+people\_names:
+  - name: "Nazmudin M. Lalani"
+  - name: "Eddie L. Brown"
+  - name: "Jacqueline R. Johnson"
+places:
+  - name: "Los Angeles Superior Court"
+dates:
+  - "November 10, 2022": "Plaintiff sued Defendants"
+  - "June 13, 2023": "Plaintiff served discovery requests"
+  - "July 17, 2023": "Responses to discovery requests were due"
+  - "July 21, 2023": "Plaintiff's counsel emailed Defendant's counsel about overdue responses"
+  - "August 14, 2023": "Plaintiff filed motions to compel responses and for sanctions"
+  - "September 14, 2023": "Oppositions to Plaintiff's motions were due"
+events:
+  - "Plaintiff sued Defendants for damages for failure to release funds deposited in escrow"
+  - "Defendants did not respond to Plaintiff's discovery requests or request an extension"
+  - "Plaintiff filed motions to compel responses and for sanctions"
+  - "Plaintiff requested judicial notice of the complaint, a motion to compel in a related case, and the opposition to that motion"
+money:
+  - amount: "7,710"
+    reason: "Defendants' request for sanctions"
+intentions:
+  - "Defendants' intention to not respond to Plaintiff's discovery requests"
+facts:
+  - "Plaintiff timely served discovery requests on Defendants"
+  - "Defendants did not respond to the requests or request an extension"
+  - "Plaintiff's attorney declares that as of August 11, 2023, Defendants have not answered any of the discovery requests"
+disputes:
+  - "Defendants' failure to respond to Plaintiff's discovery requests"
+acts:
+  - "Plaintiff filing motions to compel responses and for sanctions"
+agreements:
+  - "None mentioned in the document"
+laws:
+  - name: "Code Civ. Proc., § 2031.020, subd. (b)"
+  - name: "Code Civ. Proc., § 2030.020, subd. (b)"
+  - name: "Code Civ. Proc., § 2031.060, subd. (a)"
+  - name: "Code Civ. Proc., § 2030.060, subd. (a)"
+  - name: "Code Civ. Proc., § 2031.070, subd. (a) - (b)"
+  - name: "Code Civ. Proc., § 2030.070, subd. (a) - (b)"
+  - name: "Code Civ. Proc., § 2031.300, subd. (a)"
+  - name: "Code Civ. Proc., § 2030.290, subd. (a)"
+  - name: "Code Civ. Proc., § 2033.280(c)"
+case\_citations:
+  - "None mentioned in the document"
+statutes:
+  - "None mentioned in the document"
+roles:
+  - "Plaintiff: Nazmudin M. Lalani"
+  - "Defendants: Eddie L. Brown, Jacqueline R. Johnson"
+significant\_statements:
+  - "Plaintiff's Motions are GRANTED"
+  - "Defendants are ordered to serve verified responses to Plaintiff's Request for Production, Form Interrogatories-General, all without objection, within 20 days"
+  - "The Court GRANTS Plaintiff's motion to deem Request for Admissions admitted as to Defendant Brown and Defendant Johnson"
+  - "The Court GRANTS sanctions in the reduced total amount of $2,100"
+
+In this tentative ruling, the Judge is granting Plaintiff's motion to compel Defendants to respond to discovery requests, and is also granting Plaintiff's motion to deem requests for admissions admitted as to each Defendant. The Judge is also granting sanctions in the amount of $2,100 against Defendants for their failure to respond to discovery requests. The Judge is ordering Defendants to serve verified responses to Plaintiff's request for production and form interrogatories within 20 days. The Judge has also granted Plaintiff's request for judicial notice of the complaint, a motion to compel in a related case, and the opposition to that motion.
