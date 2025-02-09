@@ -265,3 +265,59 @@ On 2025-02-08_23:08:22.938945
 The summary displayed below was created by an LLM named:  "llama-3.3-70b-specdec":
 Exception:
 Error code: 429 - {'error': {'message': 'Rate limit reached for model `llama-3.3-70b-specdec` in organization `org_01hw84cjv0f12v63qt47723ar2` service tier `on_demand` on : Limit 100000, Used 101102, Requested 1925. Please try again in 43m35.339999999s. Visit https://console.groq.com/docs/rate-limits for more information.', 'type': '', 'code': 'rate_limit_exceeded'}}
+..................... .....................
+On 2025-02-08_23:18:24.651668
+The summary displayed below was created by an LLM named:  "mixtral-8x7b-32768":
+case\_number: 22PSCV03023
+hearing\_date: September 27, 2023
+dept: G
+plaintiff:
+  - name: Hiram Muro
+defendants:
+  - name: United Towing & Transport Inc.
+  - name: Henry Hernandez
+people:
+  - name: Hiram Muro
+  - name: Henry Hernandez
+places:
+  - West Covina
+dates:
+  - April 12, 2022
+  - December 12, 2022
+  - April 6, 2023
+  - May 5, 2023
+  - July 3, 2023
+  - July 10, 2023
+events:
+  - Defendants responded to a call for service by Plaintiff
+  - Plaintiff's vehicle was placed on a flatbed truck
+  - Plaintiff fell from the raised bed and sustained severe injury
+  - Plaintiff filed a complaint against Defendants
+  - Plaintiff filed a First Amended Complaint (FAC)
+  - Defendants filed demurrer and motion to strike
+  - Parties met and conferred
+disputes:
+  - Defendants demur to Plaintiff's first cause of action for motor vehicle negligence
+  - Defendants argue they are not subject to the common carrier standard of care
+  - Defendants move to strike Plaintiff's allegations regarding common carrier liability
+money: N/A
+intentions:
+  - Defendants to answer the FAC in ten (10) days
+facts:
+  - Defendants operated a motor vehicle
+  - Plaintiff alleges Defendants' operation of the flatbed caused Plaintiff's injury
+laws:
+  - Code Civ. Proc., § 430.10, subd. (e)
+  - Code Civ. Proc., § 436, subd. (a)
+  - Code Civ. Proc., § 436, subd. (b)
+  - Code Civ. Proc., § 437, subd. (a)
+case\_citations: N/A
+statutes: N/A
+roles:
+  - Plaintiff
+  - Defendant
+significant\_statements:
+  - "Defendants United Towing & Transport Inc. and Henry Hernandez’s Demurrer to Plaintiff’s First Amended Complaint is OVERRULED."
+  - "Defendants United Towing & Transport Inc. and Henry Hernandez’s Motion to Strike Portions of Plaintiff’s First Amended Complaint is DENIED."
+
+This tentative ruling is for a personal injury action where the Plaintiff, Hiram Muro, alleges that the Defendants, United Towing & Transport Inc. and Henry Hernandez, caused severe injury to Plaintiff by operating a flatbed truck in a negligent manner. The ruling overrules Defendants' demurrer and denies their motion to strike, requiring Defendants to answer the First Amended Complaint in ten (10) days. The court finds that Plaintiff sufficiently pled a cause of action for motor vehicle negligence and denies Defendants' argument that they are not subject to the common carrier standard of care. The court also denies Defendants' motion to strike Plaintiff's allegations regarding common carrier liability as the pleading of ultimate facts is appropriate.
