@@ -63,3 +63,214 @@ Significant Statements:
 And here is a summary of the judge's tentative ruling in English text:
 
 The judge has considered the moving papers and has made a tentative ruling. John Yu, one of the defendants, has filed a demurrer, which the court will continue to a later date to allow the plaintiff, Abby Ademe, to file an opposition. The court previously granted Uber's motion to compel arbitration, which stayed the entire action pending the outcome of arbitration. However, the court will issue an order modifying this stay to clarify that it only applies to the plaintiff's claims against Uber, and not to the claims against John Yu. The court will provide a date for the continued hearing on the demurrer at tomorrow's hearing.
+..................... .....................
+On 2025-02-09_14:44:01.320466
+The summary displayed below was created by an LLM named:  "gemma2-9b-it":
+## Tentative Ruling Summary in YAML:
+
+```yaml
+Case Number: 21STCV19398
+Hearing Date: September 27, 2023
+Dept: 28
+
+People-Names:
+- Abby Ademe 
+- John Yu
+
+Company-Names:
+- Uber Technologies, Inc.
+
+Places: Not specified
+
+Dates:
+- May 24, 2021
+- May 3, 2023
+- June 20, 2023
+- August 8, 2023
+- September 18, 2023
+- September 27, 2023
+
+Events:
+- Plaintiff filed a lawsuit against Defendants.
+- Uber filed an answer.
+- Court granted Uber's motion to compel arbitration.
+- Yu filed a demurrer.
+- Yu filed a declaration regarding the scope of the arbitration stay.
+
+Money: Not specified
+
+Intentions:
+- Yu requests the Court sustain the demurrer.
+
+Facts: 
+- Plaintiff's lawsuit alleges motor vehicle tort, general negligence, intentional tort, products liability, premises liability, and emotional distress against Defendants.
+
+Disputes: 
+- Whether the Court's stay on arbitration applies to Plaintiff's claims against Yu.
+
+Acts:
+- Plaintiff filed a lawsuit.
+- Uber filed an answer.
+- Yu filed a demurrer.
+
+Agreements: Not specified
+
+Laws: 
+- Arbitration laws
+
+Case Citations: Not specified
+
+Statutes: Not specified
+
+Roles:
+- Plaintiff: Abby Ademe
+- Defendant: John Yu
+- Defendant: Uber Technologies, Inc.
+- Counsel: Yu's counsel
+
+Significant Statements:
+- The Court will modify its previous minute order to clarify that the stay on arbitration applies only to Plaintiff's claims against Uber.
+- Plaintiff's claims against Yu are not subject to the stay.
+- The hearing on the demurrer will be continued to allow Plaintiff to file an opposition.
+
+
+
+```
+
+## English Summary:
+
+The judge is considering a demurrer filed by Defendant John Yu.  The judge previously granted Uber Technologies, Inc.'s motion to compel arbitration, staying the case against Uber. However, the judge recognized that the original tentative ruling only stayed the case against Uber, while the subsequent minute order stayed the entire case.  
+
+Therefore, the judge will modify the minute order to clarify that the stay applies only to Plaintiff Abby Ademe's claims against Uber, not against Yu. The hearing on Yu's demurrer will be continued to give Plaintiff an opportunity to file an opposition.
+
+
+
+
+..................... .....................
+On 2025-02-09_14:44:27.126344
+The summary displayed below was created by an LLM named:  "llama3-8b-8192":
+Here is the summary in YAML format:
+
+```
+Case Number: 21STCV19398
+Plaintiff's Name: Abby Ademe
+Defendant's Name: John Yu
+People-Names:
+  - Abby Ademe
+  - John Yu
+Company-Names:
+  - Uber Technologies, Inc.
+Places:
+  - None mentioned
+Dates:
+  - May 24, 2021
+  - May 3, 2023
+  - June 20, 2023
+  - August 8, 2023
+  - September 18, 2023
+  - September 27, 2023
+Events:
+  - Filing of complaint
+  - Filing of answer
+  - Granting of motion to compel arbitration
+  - Filing of demurrer
+  - Filing of declaration
+  - Continued hearing
+Money:
+  - None mentioned
+Intentions:
+  - To clarify the scope of the stay imposed by the Court
+  - To provide an opportunity for the Plaintiff to file an opposition
+Facts:
+  - The Court granted Uber's motion to compel arbitration
+  - The Court stayed the entire action pending binding arbitration
+  - Plaintiff's claims against Yu are not subject to the stay
+Disputes:
+  - The scope of the stay imposed by the Court
+  - The need for the Plaintiff to file an opposition
+Acts:
+  - Filing of complaint
+  - Filing of answer
+  - Granting of motion to compel arbitration
+  - Filing of demurrer
+  - Filing of declaration
+Agreements:
+  - None mentioned
+Laws:
+  - None mentioned
+Case Citations:
+  - None mentioned
+Statutes:
+  - None mentioned
+Roles:
+  - Judge
+  - Plaintiff (Abby Ademe)
+  - Defendant (John Yu)
+  - Counsel for Yu
+Significant Statements:
+  - The Court will issue an order modifying the June 20, 2023 minute order to clarify that the stay applies only to Plaintiff's claims against Uber.
+  - The Court will continue the hearing on this demurrer to ensure that Plaintiff has an opportunity to file an opposition.
+```
+
+And here is a summary of the judge's tentative ruling in English text:
+
+The judge has reviewed the documents submitted by the parties and is issuing a tentative ruling. The case was previously stayed pending binding arbitration against Uber, but the judge now intends to modify the stay to only apply to the claims against Uber, leaving the claims against John Yu unaffected. The judge is continuing the hearing on John Yu's demurrer to give the plaintiff, Abby Ademe, an opportunity to file an opposition. The judge will provide a new date for the hearing at the next hearing.
+..................... .....................
+On 2025-02-09_14:44:52.336114
+The summary displayed below was created by an LLM named:  "llama-3.3-70b-specdec":
+Exception:
+Error code: 429 - {'error': {'message': 'Rate limit reached for model `llama-3.3-70b-specdec` in organization `org_01hw84cjv0f12v63qt47723ar2` service tier `on_demand` on : Limit 100000, Used 99970, Requested 795. Please try again in 11m0.838s. Visit https://console.groq.com/docs/rate-limits for more information.', 'type': '', 'code': 'rate_limit_exceeded'}}
+..................... .....................
+On 2025-02-09_14:54:53.693442
+The summary displayed below was created by an LLM named:  "mixtral-8x7b-32768":
+case\_number: 21STCV19398
+hearing\_date: September 27, 2023
+dept: 28
+parties:
+  plaintiff:
+    name: Abby Ademe
+  defendants:
+    - name: John Yu
+    - name: Uber Technologies, Inc.
+    - name: Does 1-20
+people:
+  - name: Abby Ademe
+  - name: John Yu
+companies:
+  - name: Uber Technologies, Inc.
+places:
+dates:
+  - May 24, 2021
+  - May 3, 2023
+  - June 20, 2023
+  - August 8, 2023
+  - September 18, 2023
+  - June 19, 2023
+  - June 20, 2023
+events:
+  - event: Plaintiff Abby Ademe filed a lawsuit against Defendants John Yu, Uber Technologies, Inc., and Does 1-20 for motor vehicle tort, general negligence, intentional tort, products liability, premises liability, and emotional distress.
+  - event: Uber filed an answer.
+  - event: The Court granted Uber’s motion to compel arbitration.
+  - event: Defendant John Yu filed a demurrer.
+  - event: Plaintiff Abby Ademe did not file an opposition.
+  - event: Defendant John Yu’s counsel filed a declaration regarding the scope of the arbitration stay.
+money: N/A
+intentions:
+  - intention: Defendant John Yu requests that the Court sustain the demurrer.
+facts:
+  - fact: The Court's tentative ruling on Uber's motion to compel arbitration stated that the action against Uber is stayed pending the outcome of arbitration.
+  - fact: The Court's subsequent minute order stated that the case is ordered stayed pending binding arbitration as to the entire action.
+disputes:
+  - dispute: The scope of the stay imposed by the Court when it granted Uber’s motion to compel arbitration.
+acts:
+  - act: The Court will issue an order modifying the June 20, 2023, minute order to clarify that the stay applies only to Plaintiff’s claims against Uber.
+agreements: N/A
+laws: N/A
+case\_citations: N/A
+statutes: N/A
+roles:
+  - role: Judge
+significant\_statements:
+  - statement: The Court CONTINUES the hearing on the demurrer of Defendant John Yu to a date to be provided at the September 27, 2023 hearing.
+  - statement: Moving party is ordered to give notice of this ruling.
+  - statement: Moving party is ordered to file the proof of service of this ruling with the Court within five days.

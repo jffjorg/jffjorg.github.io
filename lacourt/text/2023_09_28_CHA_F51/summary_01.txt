@@ -52,3 +52,203 @@ significant_statements:
 And here is the English text to summarize the judge's tentative ruling:
 
 The judge has tentatively ruled that a motion to be relieved as counsel filed by Mark T. Young, representing Mary Jo Davis, is continued. The motion was filed on July 5, 2023, and served on the client by mail. However, the proof of service is missing a signature. The judge has ordered Counsel to file a properly signed proof of service by the next hearing date. If the signature cannot be obtained, the motion will be continued to a later date. The judge has also noted that the statutory requirements for the motion have been satisfied, and Counsel's withdrawal does not raise the risk of unduly prejudicing his client.
+..................... .....................
+On 2025-02-09_23:27:34.423296
+The summary displayed below was created by an LLM named:  "gemma2-9b-it":
+## Tentative Ruling Summary: Case #20CHCV00390
+
+**YAML Format:**
+
+```yaml
+Case Number: 20CHCV00390
+Hearing Date: September 28, 2023
+Dept: F51
+MOTION TO BE RELIEVED AS COUNSEL
+
+People-Names:
+  - Mark T. Young
+  - Mary Jo Davis
+
+Company-Names:
+- 
+
+Places:
+- Los Angeles Superior Court
+
+Dates:
+- 7/5/23: Motion to be relieved as counsel filed 
+- 11/29/23: Next hearing date (OSC re: Dismissal (Settlement))
+
+Events:
+- Motion to be relieved as counsel filed by Mark T. Young on behalf of Mary Jo Davis.
+- Motion is continued to allow for a properly signed proof of service to be filed.
+
+Money: 
+- 
+
+Intentions:
+- Counsel (Mark T. Young) seeks to be relieved as attorney for Plaintiff (Mary Jo Davis).
+
+Facts:
+- Counsel cites Plaintiff's failure to communicate and pay for legal services as the reason for withdrawal.
+- The next hearing date is an OSC re: Dismissal (Settlement).
+
+Disputes:
+- 
+
+Acts:
+- Motion to be relieved as counsel filed.
+- Proof of service filed but missing a signature.
+
+Agreements:
+- 
+
+Laws:
+- Code Civ. Proc. § 284
+- Cal. Rules of Court, rule 3.1362
+
+Case Citations:
+- Ramirez v. Sturdevant (1994) 21 Cal.App.4th 904, 915
+
+Statutes:
+- Code of Civil Procedure section 284(1)
+- Code of Civil Procedure section 284(2)
+
+Roles:
+- Judge: Presiding over the hearing
+- Mark T. Young: Moving attorney seeking to be relieved
+- Mary Jo Davis: Plaintiff in the case
+- Defendant's counsel: Served with the motion
+
+Significant Statements:
+- "Counsel shall file with his motion: (1) a notice of the motion, directed to the client using Judicial Council form MC-051; (2) a declaration in support of the motion using Judicial Council form MC-052; and (3) a proposed order granting the motion; all to be served on the client and all other parties who have appeared in the case."
+- "The client must be provided no less than five days’ notice before hearing on the motion."
+- "An attorney may withdraw from a case when it can be accomplished without undue prejudice to the client’s interests."
+- "If the attorney withdraws at a critical point in the action, thereby prejudicing his client, he has violated her ethical duties."
+
+
+
+```
+
+
+**English Summary:**
+
+This tentative ruling addresses a motion filed by attorney Mark T. Young to be relieved as counsel for Plaintiff Mary Jo Davis in case number 20CHCV00390.  
+
+The Judge acknowledges that Mr. Young properly followed the procedural requirements for filing this type of motion, including providing notice to his client and filing the necessary forms. However, the Judge notes that the proof of service filed with the motion lacks a signature.
+
+As a result, the Judge is continuing the motion to allow Mr. Young to submit a properly signed proof of service. If this cannot be obtained, the motion will be continued further.
+
+The Judge states that while the motion appears to be procedurally sound, the necessity of relief will be further examined at the continued hearing.
+
+
+
+..................... .....................
+On 2025-02-09_23:28:00.477110
+The summary displayed below was created by an LLM named:  "llama3-8b-8192":
+Here is the summary in YAML format:
+
+```
+Case Number: 20CHCV00390
+Plaintiff's Name: Mary Jo Davis
+Defendant's Name: Not specified
+People-Names:
+  - Mark T. Young (Counsel)
+  - Mary Jo Davis (Plaintiff)
+Company-Names: None
+Places: Los Angeles
+Dates:
+  - July 5, 2023
+  - September 28, 2023
+  - November 29, 2023
+Events:
+  - Motion to be relieved as counsel filed
+  - Hearing on motion to be relieved as counsel
+  - OSC re: Dismissal (Settlement) hearing
+Money: None
+Intentions:
+  - Counsel seeks to be relieved as counsel for Plaintiff
+  - Plaintiff's interests to be protected
+Facts:
+  - Counsel filed and served the motion to be relieved as counsel
+  - Counsel served client by mail and filed a declaration stating client's mailing address was verified
+  - Proof of service is missing a signature
+  - Next hearing date is an OSC re: Dismissal (Settlement) set for 11/29/23
+Disputes:
+  - None mentioned
+Acts:
+  - Counsel filed and served the motion to be relieved as counsel
+  - Counsel failed to include a signed proof of service
+Agreements: None
+Laws:
+  - Code of Civil Procedure section 284
+  - California Rules of Court, rule 3.1362
+Case Citations:
+  - Ramirez v. Sturdevant (1994) 21 Cal.App.4th 904, 915
+Statutes:
+  - Code of Civil Procedure section 284
+  - California Rules of Court, rule 3.1362
+Roles:
+  - Counsel (Mark T. Young)
+  - Plaintiff (Mary Jo Davis)
+  - Defendant (not specified)
+Significant Statements:
+  - Counsel's withdrawal does not raise the risk of unduly prejudicing his client
+  - The motion is continued to allow counsel to file a properly signed proof of service
+```
+
+And here is a summary of the judge's tentative ruling in plain English:
+
+The judge is considering a motion by Counsel (Mark T. Young) to be relieved as counsel for Plaintiff (Mary Jo Davis). The judge has reviewed the motion and supporting documents and has determined that the statutory requirements have been satisfied. However, the judge is continuing the motion to allow Counsel to file a properly signed proof of service. The judge notes that Counsel's withdrawal does not raise the risk of unduly prejudicing his client, and the next hearing date is an OSC re: Dismissal (Settlement) set for November 29, 2023.
+..................... .....................
+On 2025-02-09_23:28:25.660319
+The summary displayed below was created by an LLM named:  "llama-3.3-70b-specdec":
+Exception:
+Error code: 429 - {'error': {'message': 'Rate limit reached for model `llama-3.3-70b-specdec` in organization `org_01hw84cjv0f12v63qt47723ar2` service tier `on_demand` on : Limit 100000, Used 99395, Requested 1068. Please try again in 6m39.711999999s. Visit https://console.groq.com/docs/rate-limits for more information.', 'type': '', 'code': 'rate_limit_exceeded'}}
+..................... .....................
+On 2025-02-09_23:38:26.623946
+The summary displayed below was created by an LLM named:  "mixtral-8x7b-32768":
+case\_number: 20CHCV00390
+hearing\_date: September 28, 2023
+dept: F51
+
+parties:
+plaintiff:
+name: Mary Jo Davis
+role: Plaintiff/Cross-Defendant
+
+defendant:
+- name: Not specified
+role: Defendant
+
+attorneys:
+- name: Mark T. Young
+role: Moving Attorney
+client: Mary Jo Davis
+
+events:
+- date: 7/5/23
+description: Motion to be relieved as counsel filed and served by Mark T. Young
+
+facts:
+- Plaintiff failed to communicate and pay for legal services
+
+disputes:
+- Motion to be relieved as counsel
+
+acts:
+- Filing and serving of motion to be relieved as counsel
+- Failure to pay for legal services
+
+agreements:
+- None specified
+
+laws:
+- Code Civ. Proc. § 284
+- Ramirez v. Sturdevant (1994) 21 Cal.App.4th 904
+
+intensions:
+- Mark T. Young intends to withdraw from the case as counsel for Mary Jo Davis
+
+summary:
+The Judge has issued a tentative ruling to continue the motion filed by Mark T. Young, counsel for Plaintiff Mary Jo Davis, to be relieved as counsel. The motion was filed on 7/5/23, and the Judge finds that the statutory requirements for the motion have been satisfied. However, the motion is continued so that counsel can file a properly signed proof of service. The next hearing date in this action is an OSC re: Dismissal (Settlement), set for 11/29/23, and Counsel's withdrawal does not raise the risk of unduly prejudicing his client.

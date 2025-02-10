@@ -234,3 +234,68 @@ On 2025-02-09_13:30:38.885190
 The summary displayed below was created by an LLM named:  "llama-3.3-70b-specdec":
 Exception:
 Error code: 429 - {'error': {'message': 'Rate limit reached for model `llama-3.3-70b-specdec` in organization `org_01hw84cjv0f12v63qt47723ar2` service tier `on_demand` on : Limit 100000, Used 98986, Requested 2854. Please try again in 26m29.349s. Visit https://console.groq.com/docs/rate-limits for more information.', 'type': '', 'code': 'rate_limit_exceeded'}}
+..................... .....................
+On 2025-02-09_13:40:41.185287
+The summary displayed below was created by an LLM named:  "mixtral-8x7b-32768":
+case\_number: 23STLC03804
+hearing\_date: September 27, 2023
+dept: 25
+parties:
+  - name: Douglas L. Hallett
+    role: Plaintiff
+  - name: VCA, Inc.
+    role: Defendant
+  - name: Marie Kerl, DVM
+    role: Defendant
+  - name: Michael Kwan, DVM
+    role: Defendant
+people:
+  - name: Douglas L. Hallett
+  - name: Marie Kerl, DVM
+  - name: Michael Kwan, DVM
+companies:
+  - name: VCA, Inc.
+places:
+  - name: Pasadena Humane Society
+dates:
+  - October 6, 2022
+events:
+  - Plaintiff's dog, Rosie, died.
+  - Plaintiff adopted Rosie on March 8, 2020.
+  - Rosie was spayed on February 27, 2020.
+  - Rosie experienced bloody discharge on or before July 12, 2022.
+  - Rosie was diagnosed with ORS on September 11, 2022.
+  - Rosie's condition degenerated into pyometra by September 5, 2022.
+  - Plaintiff communicated concerns about Rosie's condition to VCA on July 12, 2022.
+money:
+  - exemplary\_damages: Yes
+intentions:
+  - Defendants: refuse to treat Rosie based on false notion that she must be in heat
+  - Plaintiff: seek exemplary damages and referral of Kerl and Kwan to California Veterinary Medical Board
+facts:
+  - Rosie experienced bloody discharge, which was a symptom of a urinary tract infection and/or ORS.
+  - VCA's policy on diagnosing ORS falsely states that the dog must be in heat.
+disputes:
+  - Defendants' motion to strike Plaintiff's request for exemplary damages and supporting allegations.
+  - Defendants' motion to strike Plaintiff's request for referral of Kerl and Kwan to the California Veterinary Medical Board.
+acts:
+  - Defendants failed to return Plaintiff's phone call for three days.
+  - Defendants applied a "mistaken diagnosis protocol" to deny Rosie care.
+agreements:
+  - none mentioned
+laws:
+  - Code Civ. Proc. §§ 435; 436, subd. (a)
+  - Code Civ. Proc. § 92, subd. (d)
+  - Code Civ. Proc. § 435.5, subd. (a)
+  - Civil Code § 3340
+  - Bus. & Prof. Code § 4875.1, subd. (a)
+case\_citations:
+  - Eastburn v. Regional Fire Protection Authority (2003) 31 Cal.4th 1175
+  - City of Santa Barbara v. Superior Court (2007) 41 Cal.4th 747
+  - Eriksson v. Nunnink (2011) 191 Cal.App.4th 826
+  - Williamson v. Prida (1999) 75 Cal.App.4th 1417
+significant\_statements:
+  - "Defendants' failure to treat Rosie and refusal to take accountability was an extreme departure of the standard of conduct when medical literature existed prior to Rosie’s passing evidencing ORS could be diagnosed when a dog was not in heat."
+  - "The requested referral is not improper."
+
+In this tentative ruling, the Judge denies Defendants' motion to strike Plaintiff's request for exemplary damages and supporting allegations, as well as Plaintiff's request for referral of Kerl and Kwan to the California Veterinary Medical Board. The Judge finds that Plaintiff has sufficiently alleged his claim for exemplary damages under Civil Code § 3340. The lack of a formal referral mechanism does not render the request irrelevant, false, or improper. The California Veterinary Medical Board investigates and prosecutes veterinarian misconduct, including negligence, incompetence, and cruelty to animals. The Court has the power to create a remedy for a wrong in the absence of a statutory provision.

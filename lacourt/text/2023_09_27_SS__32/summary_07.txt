@@ -62,3 +62,224 @@ Significant Statements:
 English-text summary:
 
 The Judge's tentative ruling addresses a motion to compel responses to requests for production, specifically regarding a set of documents produced by the Defendant, The Doorman Security, Inc. The Plaintiff, Bryce Tipple, seeks to compel the production of documents and verified responses, while the Defendant seeks to avoid producing documents and responding to requests. The Court grants the motion to compel production of documents that are referenced in the responses to Requests for Production of Documents, but denies the motion to compel further responses. The Court also awards sanctions of $300 to the Plaintiff and orders the Defendant to pay this amount within 30 days.
+..................... .....................
+On 2025-02-09_19:48:29.241184
+The summary displayed below was created by an LLM named:  "gemma2-9b-it":
+## Tentative Ruling Summary (YAML)
+
+**Case Number:** 22STCV26670
+**Hearing Date:** September 27, 2023
+**Dept:** 32
+
+**People-Names:**
+* Bryce Tipple (Plaintiff)
+
+**Company-Names:**
+* The Doorman Security, Inc. (Defendant)
+
+**Places:**
+* Los Angeles (implied by "Los Angeles Superior Court")
+
+**Events:**
+* Plaintiff propounded Requests for Production of Documents, Set One on Defendant on December 23, 2022.
+* Defendant served unsigned responses on February 17, 2023.
+* Certain documents were not produced.
+* Plaintiff filed a Motion to Compel Responses to Requests for Production Set One.
+
+**Money:**
+* $6,060 (requested sanctions by Plaintiff)
+* $300 (sanctions awarded by Court)
+
+**Intentions:**
+* Plaintiff seeks an order to compel Defendant to produce documents and provide further responses.
+* Defendant appears to believe the issue is the lack of verified responses.
+* Plaintiff believes the responses are deficient.
+
+**Facts:**
+* Defendant failed to produce certain documents requested by Plaintiff.
+* Defendant served unsigned responses to the Requests for Production.
+
+**Disputes:**
+* Whether Defendant's responses to the Requests for Production are sufficient.
+* Whether Defendant should be sanctioned for failing to comply with discovery requests.
+
+**Acts:**
+* Plaintiff propounded Requests for Production of Documents.
+* Defendant served responses to the Requests for Production.
+* Plaintiff filed a Motion to Compel.
+
+**Agreements:**
+* None mentioned in the ruling.
+
+**Laws:**
+* Code of Civil Procedure § 2031.320
+
+**Case Citations:**
+* None mentioned in the ruling.
+
+**Statutes:**
+* Code of Civil Procedure § 2031.320
+
+**Roles:**
+* Plaintiff: Bryce Tipple
+* Defendant: The Doorman Security, Inc.
+* Judge: Presiding Judge of Department 32
+
+**Significant Statements:**
+* "To the extent that the motion seeks to compel the production of documents that are referenced in the responses to Requests for Production...the Court grants the motion to compel."
+* "Defendant is ordered to pay $300 to counsel for Plaintiff within 30 days."
+
+
+## English Summary
+
+The judge tentatively rules in favor of the Plaintiff, Bryce Tipple, on his motion to compel the Defendant, The Doorman Security, Inc., to produce certain documents. 
+
+The judge finds that Defendant's responses to Plaintiff's requests for production of documents are incomplete and orders Defendant to produce the missing documents within 30 days. 
+
+Although Plaintiff also requested sanctions against Defendant, the judge finds the requested amount excessive and awards sanctions in the amount of $300.
+
+
+
+
+..................... .....................
+On 2025-02-09_19:48:55.087673
+The summary displayed below was created by an LLM named:  "llama3-8b-8192":
+Here is the summary in YAML format:
+
+```
+Case Number: 22STCV26670
+Plaintiff's Name: Bryce Tipple
+Defendant's Name: The Doorman Security, Inc.
+People: Bryce Tipple, defense counsel
+Company: The Doorman Security, Inc.
+Places: N/A
+Dates:
+  - December 23, 2022
+  - February 17, 2023
+  - September 27, 2023
+Events:
+  - Propounding Request for Production of Documents, Set One
+  - Serving responses on February 17, 2023
+  - Filing motion to compel responses
+  - Scheduling Informal Discovery Conference
+Money:
+  - $6,060 (amount sought in sanctions)
+  - $300 (amount awarded in sanctions)
+Intentions:
+  - Plaintiff seeks to compel production of documents
+  - Defendant seeks to avoid producing documents
+Facts:
+  - Certain documents have not been produced
+  - Responses to Requests for Production of Documents were unsigned by defense counsel
+Disputes:
+  - Lack of verified responses to Requests for Production of Documents
+  - Failure to produce documents
+Acts:
+  - Serving responses on February 17, 2023
+  - Filing motion to compel responses
+Agreements: N/A
+Laws:
+  - Code Civ. Proc. § 2031.320(a)
+  - Code Civ. Proc. § 2031.320(b)
+Case Citations:
+  - N/A
+Statutes:
+  - N/A
+Roles:
+  - Plaintiff (Bryce Tipple)
+  - Defendant (The Doorman Security, Inc.)
+  - Defense counsel
+  - Judge
+Significant Statements:
+  - The motion actually appears to be a request for an order to produce documents and for further responses.
+  - The Court grants the motion to compel production of documents that are referenced in the responses to Requests for Production of Documents.
+  - The Court awards sanctions in the amount of $300.
+```
+
+And here is a summary of the judge's tentative ruling in English text:
+
+The judge has issued a tentative ruling in a motion to compel responses to requests for production, filed by plaintiff Bryce Tipple against defendant The Doorman Security, Inc. The motion seeks to compel the production of documents that are referenced in the responses to the requests for production, as well as verified responses. The judge grants the motion to compel production of the referenced documents, but denies the motion to compel further responses, as it appears to be moot. The judge also awards sanctions against the defendant in the amount of $300, finding the amount sought by the plaintiff to be excessive. The judge orders the defendant to pay the sanctions within 30 days and requires the plaintiff to provide notice of the court's order and file a proof of service.
+..................... .....................
+On 2025-02-09_19:49:20.284541
+The summary displayed below was created by an LLM named:  "llama-3.3-70b-specdec":
+Exception:
+Error code: 429 - {'error': {'message': 'Rate limit reached for model `llama-3.3-70b-specdec` in organization `org_01hw84cjv0f12v63qt47723ar2` service tier `on_demand` on : Limit 100000, Used 99519, Requested 1204. Please try again in 10m24.514s. Visit https://console.groq.com/docs/rate-limits for more information.', 'type': '', 'code': 'rate_limit_exceeded'}}
+..................... .....................
+On 2025-02-09_19:59:22.231876
+The summary displayed below was created by an LLM named:  "mixtral-8x7b-32768":
+case\_number: 22STCV26670
+hearing\_date: September 27, 2023
+dept: 32
+
+parties:
+plaintiff: Bryce Tipple
+defendant: The Doorman Security, Inc.
+
+people:
+- Bryce Tipple
+- defense counsel (unspecified)
+
+companies:
+- The Doorman Security, Inc.
+
+places:
+- unspecified
+
+dates:
+- December 23, 2022 (Request for Production of Documents)
+- February 17, 2023 (Response to Request for Production of Documents)
+
+events:
+- Plaintiff propounded Request for Production of Documents, Set One on Defendant
+- Defendant served responses on February 17, 2023 (unsigned)
+
+money:
+- $300 (sanctions awarded to Plaintiff)
+- $6,060 (requested by Plaintiff, deemed excessive)
+
+intentions:
+- Plaintiff seeks to compel production of documents and further responses
+- Defendant opposes the motion
+
+facts:
+- Plaintiff propounded Request for Production of Documents, Set One on Defendant
+- Defendant served responses on February 17, 2023 (unsigned)
+- Certain documents have not been produced
+- Motion appears to be a request for an order to produce documents and for further responses
+
+disputes:
+- Plaintiff claims that Defendant has failed to permit inspection of documents
+- Defendant believes the issue is the lack of verified responses
+- Plaintiff argues that the responses are deficient
+
+acts:
+- Plaintiff files Motion to Compel Responses to Requests for Production Set One
+- Defendant opposes the motion
+- Plaintiff replies to Opposition
+
+agreements:
+- None explicitly stated
+
+laws:
+- Code Civ. Proc. § 2031.320(a) (if a party fails to permit inspection, the demanding party may move for an order compelling compliance)
+- Code Civ. Proc. § 2031.320(b) (court shall impose a monetary sanction unless it finds that the party acted with substantial justification or that other circumstances make the imposition of the sanction unjust)
+
+case\_citations:
+- None explicitly stated
+
+statutes:
+- Code Civ. Proc. § 2031.320(a)
+- Code Civ. Proc. § 2031.320(b)
+
+roles:
+- Plaintiff (movant)
+- Defendant (opponent)
+
+significant\_statements:
+- "To the extent that the motion seeks to compel the production of documents that are referenced in the responses to Requests for Production of Documents, the Court grants the motion to compel."
+- "However, Defendant appears to believe the issue is the lack of verified responses to Requests for Production of Documents. To the extent that the motion seeks verified responses, the motion appears to be moot."
+- "Plaintiff must timely schedule an Informal Discovery Conference, as required by the Eighth Amended Standing Order for Procedures for the Personal Injury Hub."
+- "The Court finds the amount to be excessive and awards sanctions in the amount of $300."
+
+Summary:
+The Judge's tentative ruling in case number 22STCV26670, set for hearing on September 27, 2023, in Dept 32, pertains to Plaintiff Bryce Tipple's Motion to Compel Responses to Requests for Production Set One against Defendant The Doorman Security, Inc. The Judge grants the motion to compel the production of documents referenced in the responses but denies the motion regarding verified responses, which appear to be moot. Plaintiff is required to schedule an Informal Discovery Conference. Additionally, the Judge awards Plaintiff $300 in sanctions, finding the requested amount of $6,060 excessive. Parties are encouraged to meet and confer to reach a resolution.
