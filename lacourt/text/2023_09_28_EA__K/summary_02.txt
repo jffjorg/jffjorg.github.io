@@ -50,3 +50,194 @@ Significant Statements:
 And here is a summary of the judge's tentative ruling in English text:
 
 The judge is unsure if a request for default has been filed against Liu, a defendant in the Superior Court of California (SAC). A previous request for default was entered against Liu, but no answer has been filed. The judge is considering the application of Code of Civil Procedure § 583.240, which excludes time from calculations when certain conditions exist, such as the defendant not being amenable to the process of the court or the prosecution being stayed. The judge will likely rule on how to proceed with service of process and whether Liu's lack of response will result in a default judgment.
+..................... .....................
+On 2025-02-10_00:48:39.328828
+The summary displayed below was created by an LLM named:  "gemma2-9b-it":
+## YAML Summary:
+
+```yaml
+Case Number: Not specified
+Plaintiff's Name: Not specified
+Defendant's Name: Liu
+People-Names: Liu 
+Company-Names: Not specified
+Places: Not specified
+Dates: Not specified
+Events:
+  - Request for default entered against Liu
+  - No Answer filed to the SAC
+Intentions: Not specified
+Facts:
+  - It is unclear if Liu is litigating the case.
+Disputes:
+  - Whether Liu is properly served
+Acts:
+  - Request for default filed
+Agreements: Not specified
+Laws:
+  - Code of Civil Procedure § 583.240
+Case Citations: Not specified
+Statutes:
+  - Code of Civil Procedure § 583.240
+Roles: 
+  - Judge: Deciding on the validity of service
+  - Plaintiff: Filed a request for default
+  - Liu: Defendant, unclear if litigating
+Significant Statements:
+  - "It is unclear whether a request for entry of default has been filed concerning Liu as a defendant in the SAC or whether Liu is litigating the case."
+  - "Failure to discover relevant facts or evidence is not a cause beyond the plaintiff's control for the purpose of this subdivision.” 
+
+```
+
+
+
+## English Text Summary:
+
+The judge is considering whether service of the lawsuit was properly made upon the defendant, Liu.  
+
+The judge notes that a prior request for default was entered against Liu, and Liu has not filed an answer to the amended complaint (SAC). The judge cites California Code of Civil Procedure § 583.240, which outlines the circumstances under which time for service can be excluded.  
+
+The judge's statement highlights the uncertainty surrounding Liu's participation in the case, as it's unclear if Liu has been properly served and is actively defending against the lawsuit. 
+
+
+
+..................... .....................
+On 2025-02-10_00:49:04.964612
+The summary displayed below was created by an LLM named:  "llama3-8b-8192":
+Here is the summary in YAML format:
+
+```
+Case Number: [Not specified]
+Plaintiff's Name: [Not specified]
+Defendant's Name: Liu
+People-Names:
+  - Liu
+Company-Names: [None]
+Places: [Not specified]
+Dates:
+  - [Not specified]
+Events:
+  - Request for default
+  - Failure to file an answer
+  - Stay of prosecution
+  - Litigation over service validity
+Money: [Not specified]
+Intentions: [To clarify whether Liu is litigating the case]
+Facts:
+  - Prior request for default was entered against Liu
+  - No answer has been filed to the SAC
+  - Code of Civil Procedure § 583.240 provides rules for computing service time
+Disputes:
+  - Whether Liu is litigating the case
+  - Validity of service
+Acts:
+  - Request for default
+  - Failure to file an answer
+  - Stay of prosecution
+Agreements: [None]
+Laws:
+  - Code of Civil Procedure § 583.240
+Case Citations: [None]
+Statutes:
+  - Code of Civil Procedure § 583.240
+Roles:
+  - Plaintiff (unspecified)
+  - Defendant (Liu)
+Significant Statements:
+  - Unclear whether Liu is litigating the case
+  - Prior request for default was entered against Liu
+```
+
+And here is a summary of the judge's tentative ruling in English text:
+
+The judge is unclear whether Liu, a defendant, is actively litigating the case or not. A prior request for default was entered against Liu, and no answer has been filed. The judge is considering Code of Civil Procedure § 583.240, which sets rules for computing the time within which service must be made. The judge is attempting to determine whether any of the conditions outlined in the statute (such as the defendant being unavailable, a stay of prosecution, or litigation over service validity) may have affected the timing of service. The judge's goal is to clarify the situation and determine whether Liu is indeed litigating the case.
+..................... .....................
+On 2025-02-10_00:49:30.709596
+The summary displayed below was created by an LLM named:  "llama-3.3-70b-specdec":
+Here is a YAML summary of the tentative ruling:
+
+```yml
+Case Number: Unknown
+Plaintiff's Name: Unknown
+Defendant's Name: Liu
+People-Names:
+  - Liu
+Company-Names: None
+Places: None
+Dates: None
+Events:
+  - Request for entry of default filed against Liu
+  - Prior request for default entered against Liu
+  - No Answer filed as to the SAC
+Money: None
+Intentions:
+  - Determine whether Liu is litigating the case
+  - Decide on the request for entry of default
+Facts:
+  - No Answer has been filed as to the SAC
+  - Prior request for default was entered against Liu
+Disputes:
+  - Whether Liu is litigating the case
+  - Validity of service
+Acts:
+  - Filing of request for entry of default
+  - Entry of prior request for default
+Agreements: None
+Laws:
+  - Code of Civil Procedure § 583.240
+Case Citations: None
+Statutes:
+  - Code of Civil Procedure § 583.240
+Roles:
+  - Judge
+  - Plaintiff
+  - Defendant (Liu)
+Significant Statements:
+  - "It is unclear whether a request for entry of default has been filed concerning Liu as a defendant in the SAC or whether Liu is litigating the case."
+  - "Failure to discover relevant facts or evidence is not a cause beyond the plaintiff's control for the purpose of this subdivision."
+```
+
+And here is a summary of the tentative ruling in English text:
+
+The Judge has issued a tentative ruling regarding a request for entry of default against defendant Liu. The Judge notes that it is unclear whether Liu is actively litigating the case, as no Answer has been filed in response to the Second Amended Complaint (SAC). A prior request for default was entered against Liu, but it is unclear whether a new request for entry of default has been filed. The Judge cites Code of Civil Procedure § 583.240, which provides that certain conditions, such as the defendant's inability to be served or a stay in the proceedings, can toll the time for service. The Judge must determine whether Liu is litigating the case and whether the request for entry of default should be granted. The ruling highlights the importance of determining the validity of service and the plaintiff's control over the discovery of relevant facts and evidence.
+..................... .....................
+On 2025-02-10_00:49:56.871176
+The summary displayed below was created by an LLM named:  "mixtral-8x7b-32768":
+case\_number: ""
+plaintiff\_name: ""
+defendant\_name: ["Liu"]
+people\_names: ["Liu"]
+company\_names: []
+places: []
+dates: []
+events: [
+{"description": "request for entry of default not filed or litigated by Liu"},
+{"description": "prior request for default entered against Liu"},
+{"description": "no Answer filed as to the SAC"}
+]
+money: []
+intentions: []
+facts: []
+disputes: [
+{"description": "unclear whether request for entry of default has been filed or Liu is litigating the case"}
+]
+acts: [
+{"description": "plaintiff has not served Liu with the SAC"},
+{"description": "Liu has not filed an Answer as to the SAC"}
+]
+agreements: []
+laws: [
+{"name": "Code of Civil Procedure § 583.240",
+"description": "conditions that affect the time within which service must be made, including when defendant is not amenable to the process of the court, prosecution of the action or proceedings is stayed, validity of service is litigated by the parties, or service is impossible, impracticable, or futile due to causes beyond the plaintiff's control"}
+]
+case\_citations: []
+statutes: ["Code of Civil Procedure § 583.240"]
+roles: [
+{"name": "plaintiff", "description": "has not served Liu with the SAC"},
+{"name": "defendant", "description": "has not filed an Answer as to the SAC"}
+]
+significant\_statements: []
+
+---
+
+The judge's tentative ruling is regarding a case where it is unclear whether a request for entry of default has been filed concerning Liu as a defendant in the case or whether Liu is litigating the case. A prior request for default was entered against Liu and no Answer has been filed as to the SAC. The judge cites Code of Civil Procedure § 583.240, which provides conditions that affect the time within which service must be made, including when the defendant is not amenable to the process of the court, the prosecution of the action or proceedings is stayed, the validity of service is litigated by the parties, or service is impossible, impracticable, or futile due to causes beyond the plaintiff's control. The plaintiff has not served Liu with the SAC, and Liu has not filed an Answer as to the SAC.

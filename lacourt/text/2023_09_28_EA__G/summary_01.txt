@@ -225,3 +225,78 @@ On 2025-02-10_00:02:24.280337
 The summary displayed below was created by an LLM named:  "llama-3.3-70b-specdec":
 Exception:
 Error code: 429 - {'error': {'message': 'Rate limit reached for model `llama-3.3-70b-specdec` in organization `org_01hw84cjv0f12v63qt47723ar2` service tier `on_demand` on : Limit 100000, Used 98388, Requested 2264. Please try again in 9m22.642s. Visit https://console.groq.com/docs/rate-limits for more information.', 'type': '', 'code': 'rate_limit_exceeded'}}
+..................... .....................
+On 2025-02-10_00:12:26.289819
+The summary displayed below was created by an LLM named:  "mixtral-8x7b-32768":
+case\_number: 19PSCV00880
+hearing\_date: September 28, 2023
+plaintiffs:
+- William Loo
+- Tony To Chong Loo
+- Cui Ping Loo
+- Danny Weising Loo
+defendants:
+- Sunwest Trust FBO David W. Free
+- Steven Goldenberg
+- LC Equity Group, Inc.
+- Michael J. Tannenbaum
+- Oxnard Street, LLC
+- Zvi Gutentag and Michael Gutentag, Trustees of the Gutentag Family Trust
+- Sunwest Trust FBO Joseph Davis
+- Eyal Gutentag and Diane Gutentag, Trustees of the Gutentag Revocable Trust, Dated June 4, 2019
+- The Bernard Rothschild Pension Plan, by and through Bernard Rothschild and James Bernard Rothschild as Trustees
+- Summit Capital LLC
+- CDG Investments, LLC
+people:
+- Zixi Li
+- Weishi Xie
+- Agnes N. Nwapa-Jourdan
+- M. Zha
+- Does 1-25
+- Roes 1-20
+places:
+- California
+- Oxnard Street
+dates:
+- October 2, 2019
+- December 5, 2019
+- October 6, 2022
+- October 27
+- June 2023
+- June 7, 2023
+- September 1, 2023
+- September 28, 2023
+- January 18, 2024
+- January 29, 2024
+events:
+- Filing of a complaint by Tony To Chong Loo, Cui Ping Loo, Danny Weising Loo, and William Loo
+- Addition of defendants to the action
+- Filing of a cross-complaint by Tannenbaum, the Davis Trust, the 2019 Gutentag Trust, the Free Trust, the Gutentag Trust, Oxnard Street, CDG, and LC Equity
+- Filing of a verified complaint by William Loo
+- Filing of a cross-complaint by Summit and the Rothschild Pension Plan
+- Consolidation of the separate actions by the Loos and William Loo into the present action
+- Filing of the motion by the Loos
+- Setting of a hearing on the motion and a further status conference re: status of ADR
+- Setting of a final status conference
+money: N/A
+intentions:
+- To quiet title
+- To seek indemnity, contribution, and damages
+facts:
+- Zixi Li acted in concert with others to use the Loos’ names to forge, present, and notarize false powers of attorney and deeds of trust in order to obtain loans
+- William Loo filed a separate action against Li, M. Zha, Nwapa-Jourdan, Summit, the Rothschild Pension Plan, JMR Investments, Does 1-25, and all persons unknown
+disputes:
+- Disputes between the plaintiffs and defendants regarding the allegedly fraudulent loan applications
+agreements: N/A
+laws:
+- Code Civ. Proc., § 2016.040
+- Code Civ. Proc., § 2024.050, subd. (a)
+- Code Civ. Proc., § 2024.050, subd. (b)
+- Code Civ. Proc., § 2030.070, subdivision (c)
+- Code Civ. Proc., section 2031.050, subdivision (c)
+- Beverly Hospital v. Superior Court (1993) 19 Cal.App.4th 1289
+roles:
+- Plaintiffs: seeking to reopen discovery for the limited purpose of deposing American Title and LC Equity
+- Defendants: opposing the motion to reopen discovery
+significant\_statements:
+- The court grants the Loos’ motion to reopen discovery for the limited purpose of deposing the person(s) most knowledgeable for American Title and LC Equity.
