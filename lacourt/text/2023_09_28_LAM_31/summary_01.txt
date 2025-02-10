@@ -55,3 +55,198 @@ Roles:
   - Powell: None
 Significant Statements:
   - "Defendant is entitled to a court order directing Plaintiff to provide verified responses without objections to the discovery request served on Plaintiff."
+..................... .....................
+On 2025-02-10_03:00:18.984224
+The summary displayed below was created by an LLM named:  "gemma2-9b-it":
+## Tentative Ruling Summary
+
+**Case Number:** 21STCV03357
+**Hearing Date:** September 28, 2023
+**Dept:** 31
+
+**People-Names:** 
+*  Plaintiff (not named)
+*  Defendant (not named)
+*  Powell (likely Defendant's attorney)
+
+**Company-Names:** None
+
+**Places:** None
+
+**Dates:**
+* **July 1, 2022:** Defendant propounds Special Interrogatories, Set One
+* **August 2, 2022:** Plaintiff's responses due
+* **December 8, 2022:** Defendant's attorney sends letter reminding Plaintiff of overdue responses
+
+**Events:**
+* Defendant propounded special interrogatories to Plaintiff.
+* Plaintiff failed to respond to the interrogatories.
+* Defendant moved to compel Plaintiff to respond.
+* Defendant also requested sanctions against Plaintiff.
+
+**Money:** None specifically mentioned
+
+**Intentions:** 
+* **Defendant:** To obtain discovery responses from Plaintiff. 
+* **Plaintiff:**  To avoid providing discovery responses. 
+
+**Facts:**
+* Defendant properly served special interrogatories on Plaintiff.
+* Plaintiff did not respond to the interrogatories by the deadline.
+* Plaintiff did not respond to subsequent requests to provide answers.
+
+**Disputes:** 
+* Plaintiff's failure to respond to Defendant's interrogatories.
+
+**Acts:**
+* Defendant propounded special interrogatories.
+* Plaintiff failed to respond to interrogatories.
+* Defendant moved to compel responses.
+* Defendant requested sanctions.
+
+**Agreements:** None
+
+**Laws:**
+* Code of Civil Procedure § 2030.290 (compelling responses to interrogatories)
+* Code of Civil Procedure § 2023.030(a) (monetary sanctions for misuse of discovery)
+* Code of Civil Procedure § 2023.010 (failing to respond to discovery is misuse)
+
+**Case Citations:** 
+* Leach v. Superior Court (1980) 111 Cal.App.3d 902, 905–906.
+
+**Statutes:**  
+*  See Laws section
+
+**Roles:**
+* **Judge:** Makes ruling on motion to compel and sanctions request.
+* **Defendant:** Moving party seeking discovery responses.
+* **Plaintiff:** Party being asked to provide discovery responses.
+
+**Significant Statements:**
+* "The court finds Defendant is entitled to a court order directing Plaintiff to provide verified responses without objections to the discovery request served on Plaintiff."
+
+
+## English Summary
+
+The Judge has tentatively ruled that the Defendant's motion to compel the Plaintiff to answer their special interrogatories is **granted**. The Plaintiff must provide these answers within 30 days, without objection. 
+
+The Judge denied the Defendant's request for sanctions because the Defendant did not specify who they wanted sanctioned in their motion. 
+
+
+
+The Judge's reasoning is based on the fact that the Defendant properly served the interrogatories, and the Plaintiff failed to respond by the deadline despite several reminders.  
+
+..................... .....................
+On 2025-02-10_03:00:44.851206
+The summary displayed below was created by an LLM named:  "llama3-8b-8192":
+Here is the summary in YAML format:
+
+```
+Case Number: 21STCV03357
+Plaintiff's Name: unknown
+Defendant's Name: unknown
+People-Names: unknown
+Company-Names: unknown
+Places: unknown
+Dates:
+  - July 1, 2022
+  - August 2, 2022
+  - December 8, 2022
+  - September 28, 2023
+Events:
+  - Defendant propounded Special Interrogatories, Set One
+  - Plaintiff failed to serve responses
+  - Defendant wrote a letter to plaintiff's counsel indicating objections had been waived
+  - Multiple extensions to respond were provided
+Money:
+  - Sanctions: denied
+Intentions:
+  - Defendant seeks to compel plaintiff to provide responses to special interrogatories
+  - Defendant seeks sanctions for plaintiff's failure to serve responses
+Facts:
+  - Defendant properly served discovery requests
+  - Plaintiff failed to serve responses
+Disputes:
+  - Plaintiff's failure to serve responses
+  - Defendant's request for sanctions
+Acts:
+  - Defendant propounded Special Interrogatories, Set One
+  - Plaintiff failed to serve responses
+  - Defendant wrote a letter to plaintiff's counsel indicating objections had been waived
+Agreements:
+  - Plaintiff failed to serve responses
+Laws:
+  - Code Civ. Proc. § 2030.290
+  - Code Civ. Proc. § 2023.030
+  - Code Civ. Proc. § 2023.010
+  - Code Civ. Proc. § 2023.040
+Case Citations:
+  - Leach v. Superior Court (1980) 111 Cal.App.3d 902, 905–906
+Roles:
+  - Judge: granted defendant's motion to compel
+  - Plaintiff: failed to serve responses
+  - Defendant: propounded Special Interrogatories, Set One
+Significant Statements:
+  - "The court may impose a monetary sanction ordering that one engaging in the misuse of the discovery process, or any attorney advising that conduct, or both pay the reasonable expenses, including attorney's fees, incurred by anyone as a result of that conduct."
+  - "Failing to respond or to submit to an authorized method of discovery is a misuse of the discovery process."
+```
+
+And here is a summary of the judge's tentative ruling in English text:
+
+The defendant's motion to compel the plaintiff to provide responses to special interrogatories is granted. The plaintiff failed to serve responses to the defendant's discovery requests, despite multiple extensions being provided. The court finds that the defendant is entitled to a court order directing the plaintiff to provide verified responses without objections to the discovery requests served on the plaintiff. The defendant's request for sanctions is denied, as it did not specify who it was seeking sanctions against. The plaintiff is ordered to provide responses without objection to the defendant's request for special interrogatories within 30 days.
+..................... .....................
+On 2025-02-10_03:01:10.023981
+The summary displayed below was created by an LLM named:  "llama-3.3-70b-specdec":
+Exception:
+Error code: 429 - {'error': {'message': 'Rate limit reached for model `llama-3.3-70b-specdec` in organization `org_01hw84cjv0f12v63qt47723ar2` service tier `on_demand` on : Limit 100000, Used 99498, Requested 1063. Please try again in 8m4.546s. Visit https://console.groq.com/docs/rate-limits for more information.', 'type': '', 'code': 'rate_limit_exceeded'}}
+..................... .....................
+On 2025-02-10_03:11:11.508813
+The summary displayed below was created by an LLM named:  "mixtral-8x7b-32768":
+case_number: 21STCV03357
+hearing_date: September 28, 2023
+dept: 31
+people:
+  - plaintiff
+  - defendant
+  - powell (counsel for defendant)
+  - counsel for plaintiff
+places:
+  - Court
+dates:
+  - July 1, 2022 (defendant propounded Special Interrogatories, Set One on plaintiff)
+  - August 2, 2022 (plaintiff's responses to defendant's interrogatories were due)
+  - December 8, 2022 (counsel for defendant wrote a letter to counsel for plaintiff)
+events:
+  - defendant served special interrogatories to plaintiff
+  - plaintiff did not respond within the given time frame
+  - defendant requested plaintiff to provide responses without objections
+  - defendant requested for sanctions
+money:
+  - monetary sanctions (not imposed)
+intentions:
+  - defendant's intention to get responses from plaintiff
+  - defendant's intention to impose sanctions
+facts:
+  - defendant properly served discovery requests
+  - plaintiff failed to serve responses
+disputes:
+  - plaintiff's objections to discovery requests
+acts:
+  - defendant's motion to compel plaintiff to provide responses
+  - defendant's request for sanctions
+agreements:
+  - court ordered plaintiff to provide responses within 30 days
+laws:
+  - Code Civ. Proc., § 2030.290
+  - Code Civ. Proc., § 2023.030
+  - Code Civ. Proc., § 2023.040
+case_citations:
+  - Leach v. Superior Court (1980) 111 Cal.App.3d 902
+roles:
+  - judge
+significant_statements:
+  - "Defendant’s motions to compel Plaintiff to provide responses to special interrogatories is GRANTED."
+  - "Plaintiff is ordered to provide responses without objection to Defendant’s request for special interrogatories within 30 days."
+  - "Defendant’s request for sanctions is DENIED."
+
+In this tentative ruling, the Judge has granted the defendant's motion to compel the plaintiff to provide responses to special interrogatories. The plaintiff is ordered to provide responses without objection to defendant’s request for special interrogatories within 30 days. However, the Judge has denied the defendant's request for sanctions as they have not identified who they seek sanctions against in the notice of motion.

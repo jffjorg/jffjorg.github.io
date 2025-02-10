@@ -58,3 +58,190 @@ Significant Statements:
 And here is the English-text summary:
 
 The Tentative Ruling states that the motions to be relieved as counsel for the plaintiffs, Eileen Carry and Sylvia Merino, are granted. The moving party, Campbell & Farahani, LLP, has sought to withdraw from representation due to broken attorney-client relationships. The court finds that there is good cause for the withdrawal, as the trial is set for November 6, 2023, and no prejudice will result from the counsel's withdrawal. The court orders that counsel shall file proofs of service of order on the plaintiffs within 5 days of notice of ruling, and counsel will be relieved upon filing of proof of service of order.
+..................... .....................
+On 2025-02-10_06:55:49.335913
+The summary displayed below was created by an LLM named:  "gemma2-9b-it":
+## Tentative Ruling Summary in YAML
+
+```yaml
+Case Number: 22STCV15060
+Hearing Date: September 28, 2023
+Dept: 54
+
+People-Names: 
+  - Eileen Carry
+  - Sylvia Merino
+  - Maurice A. Leiter
+
+Company-Names: 
+  - Campbell & Farahani, LLP
+  - Boys’ & Girls’ Club of Santa Monica
+
+Places: 
+  - Superior Court of California 
+  - County of Los Angeles
+
+Events:
+  - Motions to Be Relieved as Counsel filed
+  - Hearing scheduled for September 28, 2023
+
+Intentions: 
+  - Counsel seeks to withdraw from representation
+
+Facts:
+  - Attorney-client relationships have broken down
+  - Trial is set for November 6, 2023
+
+Disputes: 
+  - None explicitly stated
+
+Acts:
+  - Counsel filed motions to withdraw
+
+Agreements: 
+  - None explicitly stated
+
+Laws:
+  - California Code of Civil Procedure § 284
+  - California Rule of Professional Conduct 3-700
+
+Case Citations:
+  - Ramirez v. Sturdevant (1994) 21 Cal. App. 4th 904, 915
+
+Statutes:
+  - California Code of Civil Procedure § 284
+
+Roles:
+  - Judge Maurice A. Leiter: Presiding Judge
+  - Campbell & Farahani, LLP: Attorneys for Plaintiffs Eileen Carry and Sylvia Merino
+
+Significant Statements:
+  - "The Court may issue an order allowing an attorney to withdraw from representation, after notice to the client."
+  - "The attorney may withdraw from representation if the withdrawal would not result in undue prejudice to the client’s interest..."
+
+
+
+```
+
+## English Summary
+
+The Judge has issued a tentative ruling granting the motion of Campbell & Farahani, LLP, to withdraw as counsel for Plaintiffs Eileen Carry and Sylvia Merino. The court finds that the attorney-client relationships have broken down and that no prejudice to the plaintiffs' interests will result from the withdrawal, as trial is not scheduled until November 6, 2023. The law firm must file proof of service of the withdrawal order with the court within 5 days of notice of the ruling. 
+
+
+
+..................... .....................
+On 2025-02-10_06:56:15.097164
+The summary displayed below was created by an LLM named:  "llama3-8b-8192":
+Here is the summary in YAML format:
+
+```
+Case Number: 22STCV15060
+Plaintiff's Name: Eileen Carry, et al.
+Defendant's Name: Boys' & Girls' Club of Santa Monica, et al.
+People-Names:
+  - Eileen Carry
+  - Sylvia Merino
+  - Maurice A. Leiter
+Company-Names:
+  - Campbell & Farahani, LLP
+Places:
+  - Santa Monica
+  - Los Angeles
+Dates:
+  - September 28, 2023
+  - November 6, 2023
+Events:
+  - Motions to Be Relieved as Counsel
+  - Withdrawal of Counsel
+Money:
+  - None mentioned
+Intentions:
+  - Counsel seeks to withdraw from representation
+Facts:
+  - Attorney-client relationships have broken down
+  - Trial is set for November 6, 2023
+  - Counsel has complied with CRC 3.1362
+Disputes:
+  - None mentioned
+Acts:
+  - Counsel files motions to withdraw
+  - Counsel is relieved from representation upon filing proof of service of order
+Agreements:
+  - None mentioned
+Laws:
+  - California Code of Civil Procedure (CCP) § 284
+  - California Rule of Professional Conduct 3-700
+  - California Rules of Court (CRC) 3.1362
+Case Citations:
+  - Ramirez v. Sturdevant (1994) 21 Cal. App. 4th 904, 915
+Statutes:
+  - None mentioned
+Roles:
+  - Judge Maurice A. Leiter
+  - Campbell & Farahani, LLP (counsel)
+Significant Statements:
+  - "The Court may issue an order allowing an attorney to withdraw from representation, after notice to the client." (CCP § 284)
+  - "Counsel cannot withdraw at a critical point in the litigation."
+```
+
+And here is a summary of the judge's tentative ruling in English text:
+
+The judge has granted the motion to be relieved as counsel for the plaintiffs, Eileen Carry and Sylvia Merino. Campbell & Farahani, LLP, the counsel of record, has sought to withdraw from representation due to a breakdown in the attorney-client relationship. The court has found that there is good cause for the withdrawal, as the trial is set for November 6, 2023, and no prejudice will result from the counsel's withdrawal. The court has ordered that counsel file proof of service of the order within 5 days of notice of the ruling, and that counsel will be relieved from representation upon filing of the proof of service.
+..................... .....................
+On 2025-02-10_06:56:40.282810
+The summary displayed below was created by an LLM named:  "llama-3.3-70b-specdec":
+Exception:
+Error code: 429 - {'error': {'message': 'Rate limit reached for model `llama-3.3-70b-specdec` in organization `org_01hw84cjv0f12v63qt47723ar2` service tier `on_demand` on : Limit 100000, Used 100212, Requested 606. Please try again in 11m47.531s. Visit https://console.groq.com/docs/rate-limits for more information.', 'type': '', 'code': 'rate_limit_exceeded'}}
+..................... .....................
+On 2025-02-10_07:06:41.659283
+The summary displayed below was created by an LLM named:  "mixtral-8x7b-32768":
+case\_number: 22STCV15060
+hearing\_date: September 28, 2023
+dept: 54
+court: Superior Court of California, County of Los Angeles
+plaintiffs:
+- Eileen Carry
+- Sylvia Merino
+defendants:
+- Boys’ & Girls’ Club of Santa Monica
+people:
+- Eileen Carry
+- Sylvia Merino
+- Maurice A. Leiter (Judge)
+companies:
+- Campbell & Farahani, LLP
+places:
+- Santa Monica
+dates:
+- November 6, 2023
+events:
+- Motion to be relieved as counsel by Campbell & Farahani, LLP
+money: N/A
+intentions:
+- Campbell & Farahani, LLP intends to withdraw from representing Eileen Carry and Sylvia Merino
+facts:
+- Campbell & Farahani, LLP has complied with CRC 3.1362
+- The attorney-client relationship has broken down
+disputes: N/A
+acts:
+- Filing of the motion to be relieved as counsel
+agreements: N/A
+laws:
+- California Code of Civil Procedure (CCP) § 284
+- California Rule of Professional Conduct 3-700
+case\_citations: N/A
+statutes: N/A
+roles:
+- Plaintiffs: Eileen Carry, Sylvia Merino
+- Defendants: Boys’ & Girls’ Club of Santa Monica
+- Counsel: Campbell & Farahani, LLP
+- Judge: Maurice A. Leiter
+significant\_statements:
+- "The motions are GRANTED."
+- "Counsel shall file proofs of service of order on plaintiffs within 5 days of notice of ruling."
+- "Counsel will be relieved upon filing of proof of service of order."
+- "The attorney may withdraw from representation if the withdrawal would not result in undue prejudice to the client’s interest."
+- "Trial is set for November 6, 2023; no prejudice will result from counsel’s withdrawal."
+
+English text:
+Judge Maurice A. Leiter of the Superior Court of California, County of Los Angeles has granted the motion made by Campbell & Farahani, LLP to be relieved as counsel for plaintiffs Eileen Carry and Sylvia Merino in case number 22STCV15060. The trial is set for November 6, 2023, and the judge has determined that the withdrawal of counsel will not result in undue prejudice to the plaintiffs. Campbell & Farahani, LLP has complied with CRC 3.1362, and the attorney-client relationship has broken down. The counsel must file proofs of service of order on plaintiffs within 5 days of notice of the ruling to be relieved.

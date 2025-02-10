@@ -246,3 +246,82 @@ On 2025-02-10_01:04:23.744951
 The summary displayed below was created by an LLM named:  "llama-3.3-70b-specdec":
 Exception:
 Error code: 429 - {'error': {'message': 'Rate limit reached for model `llama-3.3-70b-specdec` in organization `org_01hw84cjv0f12v63qt47723ar2` service tier `on_demand` on : Limit 100000, Used 99426, Requested 1304. Please try again in 10m30.317s. Visit https://console.groq.com/docs/rate-limits for more information.', 'type': '', 'code': 'rate_limit_exceeded'}}
+..................... .....................
+On 2025-02-10_01:14:25.433999
+The summary displayed below was created by an LLM named:  "mixtral-8x7b-32768":
+case\_number: 22PSCV02768
+hearing\_date: September 28, 2023
+dept: O
+tentative\_ruling: Defendant Doe 1 School District's demurrer to plaintiff’s first amended complaint for damages is continued as plaintiff’s counsel failed to adequately meet and confer.
+
+parties:
+  plaintiff:
+    name: Jennifer Parker
+  defendant:
+    name: Doe 1 School District
+  people:
+    - name: John Fernandez
+      role: Perpetrator
+
+places:
+  - name: High School
+
+dates:
+  - year: 1984
+  - date: December 9, 2022
+  - date: May 18, 2023
+  - date: June 26, 2023
+  - date: July 24, 2023
+  - date: August 25, 2023
+  - date: September 15, 2023
+  - date: September 20, 2023
+  - date: September 28, 2023
+
+events:
+  - plaintiff served as teaching assistant for perpetrator
+  - perpetrator made sexually inappropriate comments
+  - plaintiff informed another teacher, but no help was provided
+  - perpetrator sexually assaulted plaintiff
+  - school did not report incident to law enforcement
+  - plaintiff’s mother acted, but school transferred perpetrator to different school
+  - plaintiff filed suit for negligence, negligent supervision, negligent hiring, negligent failure to warn, intentional infliction of emotional distress, and sexual battery
+  - defendant filed demurrer to original complaint
+  - court sustained demurrer in part and overruled in part, granted leave to amend
+  - plaintiff filed first amended complaint
+  - defendant filed demurrer to first amended complaint
+  - plaintiff filed opposition
+  - defendant filed reply
+
+money: damages
+
+intentions:
+  plaintiff: seek damages
+  defendant: continue hearing on demurrer
+
+facts:
+  - plaintiff served as teaching assistant for perpetrator
+  - plaintiff informed another teacher about inappropriate comments
+  - plaintiff was sexually assaulted by perpetrator
+  - school did not report incident to law enforcement
+  - school transferred perpetrator to different school
+
+disputes:
+  - constitutionality of AB 218
+
+acts:
+  - defendant's failure to thoroughly investigate and take corrective action
+  - defendant's failure to warn subsequent parents and students of risks posed by perpetrator
+  - defendant's negligent hiring, retention, and supervision of perpetrator
+
+agreements:
+  - parties to meet and confer in good faith
+
+laws:
+  - Code of Civil Procedure (CCP) § 430.41
+
+case\_citations:
+  - Townsend v. Superior Court (1998) 61 Cal.App.4th 1431
+
+significant\_statements:
+  - "A reasonable and good-faith attempt at informal resolution entails something more than bickering with deponent's counsel at a deposition."
+  - "The crux of the demurrer is that AB 218 is purportedly unconstitutional, rendering the entire action to be dismissed."

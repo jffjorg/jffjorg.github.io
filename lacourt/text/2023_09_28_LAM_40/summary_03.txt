@@ -54,3 +54,23 @@ Case Citations:
 
 Significant Statements:
   - "An order to arbitrate the particular grievance should not be denied unless it may be said with positive assurance that the arbitration clause is not susceptible of an interpretation
+..................... .....................
+On 2025-02-10_05:30:17.170077
+The summary displayed below was created by an LLM named:  "gemma2-9b-it":
+Exception:
+Error code: 400 - {'error': {'message': 'Please reduce the length of the messages or completion.', 'type': 'invalid_request_error', 'param': 'messages', 'code': 'context_length_exceeded'}}
+..................... .....................
+On 2025-02-10_05:40:17.435541
+The summary displayed below was created by an LLM named:  "llama3-8b-8192":
+Exception:
+Error code: 413 - {'error': {'message': 'Request too large for model `llama3-8b-8192` in organization `org_01hw84cjv0f12v63qt47723ar2` service tier `on_demand` on tokens per minute (TPM): Limit 6000, Requested 11157, please reduce your message size and try again. Visit https://console.groq.com/docs/rate-limits for more information.', 'type': 'tokens', 'code': 'rate_limit_exceeded'}}
+..................... .....................
+On 2025-02-10_05:50:17.677673
+The summary displayed below was created by an LLM named:  "llama-3.3-70b-specdec":
+Exception:
+Error code: 429 - {'error': {'message': 'Rate limit reached for model `llama-3.3-70b-specdec` in organization `org_01hw84cjv0f12v63qt47723ar2` service tier `on_demand` on : Limit 100000, Used 97721, Requested 11157. Please try again in 2h7m49.907s. Visit https://console.groq.com/docs/rate-limits for more information.', 'type': '', 'code': 'rate_limit_exceeded'}}
+..................... .....................
+On 2025-02-10_06:00:18.075655
+The summary displayed below was created by an LLM named:  "mixtral-8x7b-32768":
+Exception:
+Error code: 413 - {'error': {'message': 'Request too large for model `mixtral-8x7b-32768` in organization `org_01hw84cjv0f12v63qt47723ar2` service tier `on_demand` on tokens per minute (TPM): Limit 5000, Requested 12791, please reduce your message size and try again. Visit https://console.groq.com/docs/rate-limits for more information.', 'type': 'tokens', 'code': 'rate_limit_exceeded'}}

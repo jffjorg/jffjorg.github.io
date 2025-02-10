@@ -45,3 +45,23 @@ The Court sustains the demurrer to the first, second, third, and fourth causes o
 * "To establish a prima facie case of discrimination under the FEHA, a plaintiff must show that he was a member of a protected class, he was qualified for the position he sought or was performing competently in the position he held, he suffered an adverse employment action, and some other circumstance suggests discriminatory motive."
 * "To establish a prima facie case of harassment, a plaintiff must show that he was an employee, he was subjected to unwanted harassing conduct based on his protected status, the harassing conduct was severe or pervasive, a reasonable person in the employee's circumstances would have considered the work environment to be hostile or abusive, and the employee considered the work environment to be hostile or abusive."
 * "To establish a prima facie case of retaliation under the FEHA, a plaintiff must prove that he engaged in a protected activity,
+..................... .....................
+On 2025-02-10_04:25:43.514725
+The summary displayed below was created by an LLM named:  "gemma2-9b-it":
+Exception:
+Error code: 400 - {'error': {'message': 'Please reduce the length of the messages or completion.', 'type': 'invalid_request_error', 'param': 'messages', 'code': 'context_length_exceeded'}}
+..................... .....................
+On 2025-02-10_04:35:43.949813
+The summary displayed below was created by an LLM named:  "llama3-8b-8192":
+Exception:
+Error code: 413 - {'error': {'message': 'Request too large for model `llama3-8b-8192` in organization `org_01hw84cjv0f12v63qt47723ar2` service tier `on_demand` on tokens per minute (TPM): Limit 6000, Requested 10849, please reduce your message size and try again. Visit https://console.groq.com/docs/rate-limits for more information.', 'type': 'tokens', 'code': 'rate_limit_exceeded'}}
+..................... .....................
+On 2025-02-10_04:45:44.229693
+The summary displayed below was created by an LLM named:  "llama-3.3-70b-specdec":
+Exception:
+Error code: 429 - {'error': {'message': 'Rate limit reached for model `llama-3.3-70b-specdec` in organization `org_01hw84cjv0f12v63qt47723ar2` service tier `on_demand` on : Limit 100000, Used 94934, Requested 10849. Please try again in 1h23m16.118s. Visit https://console.groq.com/docs/rate-limits for more information.', 'type': '', 'code': 'rate_limit_exceeded'}}
+..................... .....................
+On 2025-02-10_04:55:44.584667
+The summary displayed below was created by an LLM named:  "mixtral-8x7b-32768":
+Exception:
+Error code: 413 - {'error': {'message': 'Request too large for model `mixtral-8x7b-32768` in organization `org_01hw84cjv0f12v63qt47723ar2` service tier `on_demand` on tokens per minute (TPM): Limit 5000, Requested 13249, please reduce your message size and try again. Visit https://console.groq.com/docs/rate-limits for more information.', 'type': 'tokens', 'code': 'rate_limit_exceeded'}}

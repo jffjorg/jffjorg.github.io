@@ -87,3 +87,192 @@ Significant Statements:
 
 * "In any action predicated on anonymous speech, regardless of legal theory, the plaintiff should not be able to discover the speaker's identity without first making a prima facie showing that the speech in question is actionable."
 * "A plaintiff seeking discovery of an anonymous defendant's identity must make 'reasonable efforts' to provide notice of the discovery sought to the defendant."
+..................... .....................
+On 2025-02-10_08:32:02.310207
+The summary displayed below was created by an LLM named:  "gemma2-9b-it":
+## Tentative Ruling Summary in YAML
+
+```yaml
+Case Number: 23STCV14890
+Hearing Date: September 28, 2023
+Dept: 61
+
+Plaintiff: Stewart Lucas Murrey
+Defendant: 10 named individuals + 50 Doe defendants + Facebook + its administrators/moderators
+
+People-Names:
+- Stewart Lucas Murrey
+- Michal Ofek
+
+Company-Names:
+- Facebook
+
+Places:
+- Facebook groups "Are We Dating the Same Guy"
+
+Dates:
+- September 28, 2023 (Hearing Date)
+
+Events:
+- Plaintiff filed a motion to authorize third-party discovery to identify defendants.
+- Judge denied the motion.
+
+Money: 
+- Not mentioned
+
+Intentions:
+- Plaintiff: Identify defendants who made defamatory statements about him on Facebook.
+
+Facts:
+- Plaintiff claims several defendants made statements accusing him of murder, being a vexatious litigant, and engaging in unwelcome conduct towards women.
+
+Disputes:
+- Plaintiff seeks to discover the identities of anonymous defendants who made these statements.
+
+Acts:
+- Plaintiff filed a complaint naming 10 individuals and 50 potential Doe defendants.
+- Plaintiff filed a motion for third-party discovery.
+
+Agreements:
+- None mentioned
+
+Laws:
+- California Civil Procedure Code
+- Glassdoor, Inc. v. Superior Court (2017) 9 Cal.App.5th 623
+
+Case Citations:
+- Glassdoor, Inc. v. Superior Court (2017) 9 Cal.App.5th 623
+
+Statutes:
+- Not mentioned
+
+Roles:
+- Judge: Decides on the motion.
+- Plaintiff: Seeks to identify anonymous defendants.
+- Defendants: Made statements about Plaintiff that he considers defamatory.
+
+Significant Statements:
+- Judge: "In any action predicated on anonymous speech, regardless of legal theory, the plaintiff should not be able to discover the speaker's identity without first making a prima facie showing that the speech in question is actionable."
+- Judge: "If the defendant has not received notice of the attempt to lift the shield of anonymity, the plaintiff must make reasonable efforts to provide such notice."
+
+
+
+```
+
+
+
+
+## English Summary
+
+The judge denied Plaintiff Stewart Lucas Murrey's motion to authorize third-party discovery to identify the defendants in his case.  
+
+The judge found the motion defective because Murrey:
+
+* **Did not specify the discovery he sought**: He did not provide the court with a subpoena or other discovery requests aimed at Facebook.
+* **Did not clearly identify the individuals he wanted to discover**: His complaint lists 10 named defendants, 50 potential Doe defendants, and claims Facebook and its administrators/moderators are defendants. He also mentions numerous other women and Facebook moderators in his declaration without specifying who he wants to discover.
+* **Did not attempt to notify defendants**:  Before seeking discovery of anonymous defendants, a plaintiff must make reasonable efforts to notify them of the request. Murrey did not attempt to do this.
+
+The judge emphasized that in cases involving anonymous speech, the plaintiff must first demonstrate that the speech is actionable before being allowed to discover the speaker's identity.  
+
+
+
+..................... .....................
+On 2025-02-10_08:32:28.287474
+The summary displayed below was created by an LLM named:  "llama3-8b-8192":
+Here is the summary in YAML format:
+
+```
+Case Number: 23STCV14890
+Plaintiff's Name: Stewart Lucas Murrey
+Defendant's Name: Various defendants (including Facebook and its administrators/moderators)
+People:
+  - Stewart Lucas Murrey
+  - Michal Ofek
+Companies:
+  - Facebook
+Places:
+  - California
+Dates:
+  - September 28, 2023
+Events:
+  - Anonymous speech on Facebook groups
+  - Plaintiff's motion to authorize third-party discovery
+  - Defendant's motion to deny third-party discovery
+Money:
+  - None mentioned
+Intentions:
+  - Plaintiff seeks to identify defendants who made anonymous statements about him
+  - Defendant seeks to protect anonymity of defendants
+Facts:
+  - Plaintiff claims defendants made statements about him in Facebook groups
+  - Plaintiff has not served or presented the court with discovery documents
+  - Plaintiff has not notified defendants of his attempts to secure their information
+Disputes:
+  - Plaintiff's motion to authorize third-party discovery
+  - Defendant's motion to deny third-party discovery
+Acts:
+  - Plaintiff's motion to authorize third-party discovery
+  - Defendant's motion to deny third-party discovery
+Agreements:
+  - Glassdoor, Inc. v. Superior Court (2017) 9 Cal.App.5th 623
+Laws:
+  - California Code of Civil Procedure
+  - California Rules of Court
+Case Citations:
+  - Glassdoor, Inc. v. Superior Court (2017) 9 Cal.App.5th 623
+Statutes:
+  - None mentioned
+Roles:
+  - Plaintiff: Stewart Lucas Murrey
+  - Defendant: Various defendants (including Facebook and its administrators/moderators)
+Significant Statements:
+  - "In any action predicated on anonymous speech, regardless of legal theory, the plaintiff should not be able to discover the speaker's identity without first making a prima facie showing that the speech in question is actionable." (Glassdoor, Inc. v. Superior Court (2017) 9 Cal.App.5th 623, 634-635)
+  - "If the defendant has not received notice of the attempt to lift the shield of anonymity, the plaintiff must make reasonable efforts to provide such notice." (Glassdoor, Inc. v. Superior Court (2017) 9 Cal.App.5th 623, 634)
+```
+
+And here is a summary of the judge's tentative ruling in English text:
+
+The judge denies the plaintiff's motion to authorize third-party discovery to identify defendants who made anonymous statements about him on Facebook groups. The judge finds that the plaintiff's motion is defective because he has not presented the court with the discovery documents he seeks to use, nor has he notified the defendants of his attempts to secure their information. The judge notes that the plaintiff's complaint lists 10 individual defendants, 50 potential Doe defendants, and Facebook itself as defendants, making it unclear who the plaintiff is seeking to identify. The judge also finds that the plaintiff has not shown that discovery is necessary to identify some of the defendants, and that the potential scope of the discovery is incredibly broad. The judge cites the case of Glassdoor, Inc. v. Superior Court (2017) 9 Cal.App.5th 623, which holds that a plaintiff must make a prima facie showing that the speech in question is actionable before being allowed to discover the speaker's identity.
+..................... .....................
+On 2025-02-10_08:32:53.491678
+The summary displayed below was created by an LLM named:  "llama-3.3-70b-specdec":
+Exception:
+Error code: 429 - {'error': {'message': 'Rate limit reached for model `llama-3.3-70b-specdec` in organization `org_01hw84cjv0f12v63qt47723ar2` service tier `on_demand` on : Limit 100000, Used 100614, Requested 1093. Please try again in 24m34.903s. Visit https://console.groq.com/docs/rate-limits for more information.', 'type': '', 'code': 'rate_limit_exceeded'}}
+..................... .....................
+On 2025-02-10_08:42:54.961580
+The summary displayed below was created by an LLM named:  "mixtral-8x7b-32768":
+case\_number: 23STCV14890
+hearing\_date: September 28, 2023
+dept: 61
+plaintiff: Stewart Lucas Murrey
+defendants: [unidentified individuals in Facebook groups, Facebook, potentially Facebook administrators/moderators]
+people:
+  - Stewart Lucas Murrey
+  - Michal Ofek (licensed attorney)
+companies: Facebook
+places: California
+dates:
+  - time of ex-wife's murder (not specified)
+events:
+  - statements made in Facebook groups about Plaintiff's involvement in ex-wife's murder, vexatious litigation, and unpleasant conduct
+money: not explicitly mentioned
+intentions: Plaintiff seeking order for limited third-party discovery to identify Defendants
+facts: Plaintiff claims to have met or texted with several Defendants, and identifies one Defendant (Michal Ofek) as a licensed attorney
+disputes: Plaintiff's motion is defective due to lack of clear discovery sought, no attempt to notify Defendants, and unnecessary discovery for some individuals
+acts:
+  - Plaintiff filing motion for limited third-party discovery
+  - Defendants making statements in Facebook groups
+agreements: none explicitly mentioned
+laws:
+  - California law regarding discovery of anonymous defendant's identity (Glassdoor, Inc. v. Superior Court (2017) 9 Cal.App.5th 623)
+case\_citations: [Glassdoor, Inc. v. Superior Court (2017) 9 Cal.App.5th 623]
+statutes: not explicitly mentioned
+roles:
+  - Plaintiff seeking discovery
+  - Defendants being discovered
+significant\_statements:
+  - "In any action predicated on anonymous speech, the plaintiff should not be able to discover the speaker's identity without first making a prima facie showing that the speech in question is actionable." (Glassdoor, Inc. v. Superior Court (2017) 9 Cal.App.5th 623, 634–635)
+  - "A plaintiff seeking discovery of an anonymous defendant’s identity must make ‘reasonable efforts’ to provide notice of the discovery sought to the defendant." (Glassdoor, supra, 9 Cal.App.5th at p. 634)
+
+English text summary:
+The Judge's tentative ruling denies Plaintiff Stewart Lucas Murrey's motion for limited third-party discovery to identify Defendants. The Judge finds the motion defective due to Plaintiff's failure to clearly specify the discovery sought, failure to attempt notifying Defendants of the discovery, and unnecessary discovery for some individuals. Plaintiff's case arises from statements made in Facebook groups accusing him of being involved in his ex-wife's murder, vexatious litigation, and unpleasant conduct. The Judge cites California law requiring Plaintiff to make a prima facie showing that the speech in question is actionable before seeking to discover the speaker's identity. The Judge also notes that if the Defendant has not received notice of the attempt to lift the shield of anonymity, the Plaintiff must make reasonable efforts to provide such notice.
