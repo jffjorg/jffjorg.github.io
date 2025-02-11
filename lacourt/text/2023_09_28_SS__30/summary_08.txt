@@ -57,3 +57,172 @@ Significant Statements:
 And here is a summary of the judge's tentative ruling in English text:
 
 The judge grants the motion to continue the trial date, citing ongoing discovery as the reason. The trial will be calendared within 180 days, and the motion for summary judgment will be heard 45-60 days prior to the trial date. The moving party is required to give notice. The judge notes that the opposition has not shown good cause to continue the trial date, but the ongoing discovery justifies the continuance. The judge also reminds the parties that they have the right to have a timely filed motion for summary judgment heard.
+..................... .....................
+On 2025-02-10_22:46:36.684741
+The summary displayed below was created by an LLM named:  "gemma2-9b-it":
+## Tentative Ruling Summary in YAML
+
+```yaml
+Case Number: 22STCV20823
+Hearing Date: September 28, 2023
+Dept: 30
+Plaintiff's Name: LESLIE JEAN KANAWAH
+Defendant's Name: THOMAS JEFFERY PAUL, et al.
+People-Names: 
+  - LESLIE JEAN KANAWAH
+  - THOMAS JEFFERY PAUL
+Company-Names: 
+Places: 
+Dates: 
+  - September 28, 2023
+  - June 26, 2024 
+  - June 12, 2024
+  - February 27, 2024
+Events: 
+  - Motion to Continue Trial filed 
+  - Hearing on Motion to Continue Trial
+  - Trial date continued
+  - Motion for Summary Judgment to be filed
+Intentions: 
+  - Moving party wanted to continue trial date
+  - Court intends to hear motion for summary judgment
+Facts: 
+  - Moving party had not filed a motion for summary judgment
+  - Discovery was ongoing
+Disputes: 
+  - None explicitly stated
+Acts: 
+  - Motion to Continue Trial filed
+  - Court granted the motion to continue the trial date
+Agreements: 
+  - None explicitly stated
+Laws: 
+  - No specific laws mentioned
+Case Citations: 
+  - None provided
+Statutes: 
+  - None provided
+Roles: 
+  - JUDGE: Leslie Jean Kanawah
+  - MOVING PARTY: Not explicitly named 
+  - OPPOSING SIDE: Not explicitly named
+Significant Statements: 
+  - "A party has the right to have a timely filed motion for summary judgment heard."
+  - "The Court finds no good cause to continue the trial on that basis."
+  - "Good cause exists...to continue the trial date for on-going discovery."
+
+
+
+```
+
+## English Text Summary
+
+Judge Leslie Jean Kanawah has granted a motion to continue the trial date in the case of Leslie Jean Kanawah vs. Thomas Jeffery Paul, et al. (Case Number: 22STCV20823). 
+
+The court acknowledged that the moving party has not yet filed a motion for summary judgment, and that this was not a sufficient reason to continue the trial. However, the court did find good cause to continue the trial due to ongoing discovery. The court determined that the opposing side would not be prejudiced by the continuance.
+
+The trial has been scheduled for June 26, 2024, with a possible FSC (further status conference) on June 12, 2024, and a motion for summary judgment due 45-60 days prior to the trial date. 
+
+
+
+..................... .....................
+On 2025-02-10_22:47:02.319250
+The summary displayed below was created by an LLM named:  "llama3-8b-8192":
+Here is the summary in YAML format:
+
+```
+Case Number: 22STCV20823
+Plaintiff's Name: LESLIE JEAN KANAWAH
+Defendant's Name: THOMAS JEFFERY PAUL, et al.
+People-Names:
+  - LESLIE JEAN KANAWAH
+  - THOMAS JEFFERY PAUL
+Company-Names: None
+Places: None
+Dates:
+  - Hearing Date: September 28, 2023
+  - Trial Date: 06/26/2024
+  - FSC Date: 06/12/2024
+  - MSJ Date: 02/27/2024
+Events:
+  - Motion to Continue Trial
+  - On-going discovery
+Money: None
+Intentions:
+  - To continue the trial date
+Facts:
+  - The moving party has not filed a summary judgment motion
+  - The opposing side will not be prejudiced by a continued trial date
+Disputes:
+  - Good cause for continuing the trial date
+Acts:
+  - Calendar the trial within 180 days
+  - File a motion for summary judgment 45-60 days prior to the trial date
+Agreements: None
+Laws: None
+Case Citations: None
+Statutes: None
+Roles:
+  - Moving party
+  - Opposing side
+  - Judicial Assistant
+Significant Statements:
+  - "A party has the right to have a timely filed motion for summary judgment heard."
+  - "The Court finds no good cause to continue the trial on that basis."
+  - "Good cause exists, however, to continue the trial date for on-going discovery."
+```
+
+And here is a summary of the judge's tentative ruling in English text:
+
+The judge has granted the motion to continue the trial date. The trial will be rescheduled within 180 days, with a motion for summary judgment to be filed 45-60 days prior to the new trial date. The judge has allowed the trial date to be continued due to ongoing discovery, and believes that the opposing side will not be prejudiced by the delay.
+..................... .....................
+On 2025-02-10_22:47:27.504357
+The summary displayed below was created by an LLM named:  "llama-3.3-70b-specdec":
+Exception:
+Error code: 429 - {'error': {'message': 'Rate limit reached for model `llama-3.3-70b-specdec` in organization `org_01hw84cjv0f12v63qt47723ar2` service tier `on_demand` on : Limit 100000, Used 100244, Requested 371. Please try again in 8m52.116999999s. Visit https://console.groq.com/docs/rate-limits for more information.', 'type': '', 'code': 'rate_limit_exceeded'}}
+..................... .....................
+On 2025-02-10_22:57:28.403711
+The summary displayed below was created by an LLM named:  "mixtral-8x7b-32768":
+case\_number: 22STCV20823
+hearing\_date: September 28, 2023
+dept: 30
+plaintiff: Leslie Jean Kanawah
+defendants:
+- Thomas Jefferery Paul
+people:
+- Leslie Jean Kanawah
+- Thomas Jefferery Paul
+places:
+- not specified
+dates:
+- September 28, 2023 (hearing date)
+- within 180 days from the hearing date (trial date)
+- 02/27/2024 (MSJ date)
+- 06/12/2024 (FSC date)
+- 06/26/2024 (trial date)
+events:
+- motion to continue trial
+- on-going discovery
+money: not specified
+intentions:
+- grant the motion to continue the trial date
+- calendar the trial within 180 days
+- file motion for summary judgment 45-60 days prior to the trial date
+- give notice by the moving party
+facts:
+- a party has the right to have a timely filed motion for summary judgment heard
+- the moving party has not filed a summary judgment motion, let alone timely
+- the opposition will not be prejudiced
+disputes:
+- continuation of trial date
+acts:
+- motion for summary judgment
+agreements: not specified
+laws: not specified
+case\_citations: not specified
+statutes: not specified
+roles:
+- plaintiff (Leslie Jean Kanawah)
+- defendants (Thomas Jefferery Paul, et al.)
+significant\_statements:
+- "Given the opposition, the Court finds that opposing side will not be prejudiced."

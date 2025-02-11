@@ -296,3 +296,67 @@ On 2025-02-10_21:08:02.523581
 The summary displayed below was created by an LLM named:  "llama-3.3-70b-specdec":
 Exception:
 Error code: 429 - {'error': {'message': 'Rate limit reached for model `llama-3.3-70b-specdec` in organization `org_01hw84cjv0f12v63qt47723ar2` service tier `on_demand` on : Limit 100000, Used 99063, Requested 2837. Please try again in 27m20.912s. Visit https://console.groq.com/docs/rate-limits for more information.', 'type': '', 'code': 'rate_limit_exceeded'}}
+..................... .....................
+On 2025-02-10_21:18:04.216772
+The summary displayed below was created by an LLM named:  "mixtral-8x7b-32768":
+case\_number: 21STCV40339
+hearing\_date: September 28, 2023
+dept: 28
+plaintiff: Amanda Worley
+defendant: Kobi Vaknin
+people:
+  - Harlee Dickerson
+  - Plaintiff's counsel
+places:
+dates:
+  - November 2, 2021
+  - December 21, 2021
+  - June 26, 2023
+  - August 24, 2023
+  - September 14, 2023
+  - September 28, 2023
+  - March 4, 2024
+events:
+  - Plaintiff Amanda Worley filed a lawsuit against Defendant Kobi Vaknin for sexual battery and trespass.
+  - Defendant filed an answer.
+  - Defendant filed a motion to compel production of documents and supplemental testimony of third-party Harlee Dickerson.
+  - Plaintiff filed an opposition, and Defendant filed a reply.
+  - The Court heard argument and continued the hearing to September 28, 2023.
+  - The parties filed supplemental briefing.
+  - Trial is scheduled for March 4, 2024.
+money:
+  - Defendant requests $4,873.75 in sanctions.
+  - Plaintiff requests sanctions on Defendant.
+intentions:
+  - Defendant intends to obtain documents and testimony from third-party Harlee Dickerson.
+  - Plaintiff intends to deny the motion and impose sanctions on Defendant.
+facts:
+  - Harlee Dickerson appeared for her deposition but did not produce documents as requested.
+  - Dickerson stated she had not checked her iCloud or Instagram for responsive documents.
+  - Dickerson replaced a phone that could have contained responsive materials.
+  - Dickerson refused to provide copies of her email correspondence with Plaintiff’s counsel.
+disputes:
+  - Defendant argues Plaintiff and Dickerson have waived any objections to the document request.
+  - Defendant disputes the existence of an attorney-client relationship between Dickerson and Plaintiff’s counsel.
+acts:
+  - Defendant filed a motion to compel production of documents and testimony from Harlee Dickerson.
+  - Plaintiff filed an opposition, and Defendant filed a reply.
+  - The parties submitted supplemental briefing.
+agreements:
+  - The Court ordered that the answer be given or the production be made on the resumption of the deposition.
+laws:
+  - Code of Civil Procedure section 2025.480
+  - Code of Civil Procedure section 2023.030
+  - Code of Civil Procedure section 2023.010
+  - California Rules of Court, rule 3.1346
+case\_citations:
+  - Code of Civil Procedure section 2025.480, subds. (a), (b), (c), (h), (i), (j)
+roles:
+  - Plaintiff Amanda Worley
+  - Defendant Kobi Vaknin
+  - Third-party Harlee Dickerson
+significant\_statements:
+  - The Court finds that Defendant properly served the motion on Dickerson.
+  - The Court concludes that Defendant’s motion is premature.
+  - The Court grants Plaintiff’s request for sanctions.
+  - Defendant did not have substantial justification to file the motion to compel.

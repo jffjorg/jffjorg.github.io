@@ -55,3 +55,177 @@ Significant Statements:
 And here is a summary in English text:
 
 The judge has issued a tentative ruling in the case of Saeed Masjadi vs Elizabeth Valdez, case number 23STCV11253. The court has reviewed the legal file and determined that the case was erroneously filed as a Personal Injury (PI) action. As a result, the court is referring the case to Department 1 for review and determination as to whether the case should be reassigned to an Independent Calendar (IC) Court. The court has also vacated two upcoming hearings scheduled for September 28, 2023, pending further action by Department 1.
+..................... .....................
+On 2025-02-10_23:11:24.343497
+The summary displayed below was created by an LLM named:  "gemma2-9b-it":
+## Tentative Ruling Summary - SAEED MASJEDI vs ELIZABETH VALDEZ (Case No. 23STCV11253)
+
+```yaml
+Case Number: 23STCV11253
+Hearing Date: September 28, 2023
+Dept: 30
+
+People-Names:
+  - SAEED MASJEDI
+  - ELIZABETH VALDEZ
+
+Company-Names: 
+
+Places: 
+  - Spring Street Courthouse
+
+Dates:
+  - September 28, 2023
+
+Events:
+  -  Hearing on Demurrer - with Motion to Strike (CCP 430.10) to Plaintiff's Complaint scheduled
+  -  Hearing on Motion to Strike (not anti SLAPP) - without Demurrer the 2nd Cause of Actions and any Punitive Damages and Other Improper Allegations in the 1st and 2nd Causes of Action in the Plaintiff's Unverified Complaint scheduled
+  -  Both hearings vacated 
+
+Money: 
+
+Intentions:
+  - Reassign case to an Independent Calendar ("IC") Court if determined to be non-PI
+
+Facts:
+  - Action was erroneously filed as a Personal Injury ("PI") matter.
+
+Disputes: 
+  - Dispute over whether the case is a Personal Injury matter 
+
+Acts:
+  - Court reviewed the legal file
+  - Court ordered the action referred to Master Calendar Department, Department 1 for review
+
+Agreements: 
+  - None mentioned
+
+Laws:
+  - California Code of Civil Procedure Section 430.10 (CCP 430.10)
+
+Case Citations: 
+
+Statutes: 
+
+Roles:
+  - Judge: Presiding
+  - Plaintiff: SAEED MASJEDI
+  - Defendant: ELIZABETH VALDEZ
+
+Significant Statements:
+  - "The Court having reviewed the legal file determines that the above entitled-action was erroneously filed as a Personal Injury ("PI") matter."
+  - "The Court orders this action referred to the Master Calendar Department, Department 1 for review and determination as to whether this case should or should not be reassigned to an Independent Calendar ("IC") Court."
+```
+
+## English Summary
+
+The judge has determined that the current case, SAEED MASJEDI vs ELIZABETH VALDEZ, was incorrectly filed as a Personal Injury (PI) matter. As a result, the judge has referred the case to Department 1 of the Master Calendar for review. 
+
+Department 1 will decide whether the case should be reassigned to an Independent Calendar (IC) court, which handles cases that are not PI.
+
+The hearings scheduled for September 28, 2023, related to the lawsuit's legal arguments, have been vacated (canceled) and will be rescheduled by Department 1. 
+
+
+
+
+..................... .....................
+On 2025-02-10_23:11:50.078160
+The summary displayed below was created by an LLM named:  "llama3-8b-8192":
+Here is the YAML summary of the legal document:
+
+```
+Case Number: 23STCV11253
+Plaintiff's Name: Saeed Masjadi
+Defendant's Name: Elizabeth Valdez
+People-Names:
+  - Saeed Masjadi
+  - Elizabeth Valdez
+Company-Names: None
+Places:
+  - Spring Street Courthouse
+Dates:
+  - September 28, 2023
+Events:
+  - Referral of non-personal injury action to Department 1 for review/reassignment
+  - Hearing on demurrer and motion to strike vacated
+  - Hearing on motion to strike without demurrer vacated
+Money: None
+Intentions:
+  - To determine whether the case should be reassigned to an Independent Calendar (IC) court
+  - To review the case and determine whether it is a personal injury matter
+Facts:
+  - The case was erroneously filed as a personal injury matter
+  - The plaintiff's complaint contains allegations that may be improper
+Disputes:
+  - Whether the case is a personal injury matter
+  - Whether the plaintiff's allegations are proper
+Acts:
+  - Filing of the plaintiff's complaint
+  - Filing of the defendant's answer
+  - Referral of the case to Department 1 for review/reassignment
+Agreements: None
+Laws:
+  - California Code of Civil Procedure (CCP) 430.10
+  - California statutes governing personal injury actions
+Case Citations: None
+Statutes:
+  - CCP 430.10
+Roles:
+  - Judge: Saeed Masjadi (not a party to the case)
+  - Plaintiff: Saeed Masjadi
+  - Defendant: Elizabeth Valdez
+Significant Statements:
+  - "The Court having reviewed the legal file determines that the above entitled-action was erroneously filed as a Personal Injury ("PI") matter."
+  - "The Court orders this action referred to the Master Calendar Department, Department 1 for review and determination as to whether this case should or should not be reassigned to an Independent Calendar ("IC") Court."
+```
+
+And here is a summary of the judge's tentative ruling in English text:
+
+The judge has reviewed the case file and determines that the action was incorrectly filed as a personal injury matter. As a result, the court orders the case to be referred to Department 1 for review and determination as to whether it should be reassigned to an Independent Calendar (IC) court. The court also vacates the hearings scheduled for September 28, 2023, and will notify the parties of any new hearing dates set by Department 1.
+..................... .....................
+On 2025-02-10_23:12:15.259181
+The summary displayed below was created by an LLM named:  "llama-3.3-70b-specdec":
+Exception:
+Error code: 429 - {'error': {'message': 'Rate limit reached for model `llama-3.3-70b-specdec` in organization `org_01hw84cjv0f12v63qt47723ar2` service tier `on_demand` on : Limit 100000, Used 99759, Requested 493. Please try again in 3m37.256s. Visit https://console.groq.com/docs/rate-limits for more information.', 'type': '', 'code': 'rate_limit_exceeded'}}
+..................... .....................
+On 2025-02-10_23:22:16.701432
+The summary displayed below was created by an LLM named:  "mixtral-8x7b-32768":
+case\_number: 23STCV11253
+hearing\_date: September 28, 2023
+dept: 30
+plaintiff: SAEED MASJEDI
+defendant: ELIZABETH VALDEZ
+people:
+- SAEED MASJEDI
+- ELIZABETH VALDEZ
+places:
+- Spring Street Courthouse
+events:
+- Hearing on Demurrer - with Motion to Strike (CCP 430.10) to Plaintiff's Complaint
+- Hearing on Motion to Strike (not anti SLAPP) - without Demurrer the 2nd Cause of Actions and any Punitive Damages and Other Improper Allegations in the 1st and 2nd Causes of Action in Plaintiff's Unverified Complaint
+dates:
+- 09/28/2023
+money: N/A
+intentions:
+- Referral of Non-Personal Injury (PI) Action to Department 1 for Review/Reassignment
+- Vacate hearings on Demurrer and Motion to Strike
+facts:
+- The case was erroneously filed as a Personal Injury matter
+disputes:
+- Whether the case should or should not be reassigned to an Independent Calendar Court
+acts:
+- Referral of the case to Department 1 for review
+agreements: N/A
+laws:
+- CCP 430.10
+case\_citations: N/A
+statutes: N/A
+roles:
+- Plaintiff: SAEED MASJEDI
+- Defendant: ELIZABETH VALDEZ
+significant\_statements:
+- "The Court orders this action referred to the Master Calendar Department, Department 1 for review and determination as to whether this case should or should not be reassigned to an Independent Calendar Court."
+- "On the Court's own motion, the Hearing on Demurrer - with Motion to Strike (CCP 430.10) to Plaintiff's Complaint scheduled for 09/28/2023, and Hearing on Motion to Strike (not anti SLAPP) - without Demurrer the 2nd Cause of Actions and any Punitive Damages and Other Improper Allegations in the 1st and 2nd Causes of Action in Plaintiff's Unverified Complaint scheduled for 09/28/2023 are vacated, subject to being reset and notified Re: new hearing date by the receiving court at the direction of Department 1."
+
+Summary:
+The tentative ruling is for the case 23STCV11253, where SAEED MASJEDI is the plaintiff and ELIZABETH VALDEZ is the defendant. The case was erroneously filed as a Personal Injury matter, and the judge has ordered it to be reviewed and determined if it should be reassigned to an Independent Calendar Court. The hearings on Demurrer and Motion to Strike are vacated, subject to being reset and notified by the receiving court at the direction of Department 1. This ruling was made based on the information presented to the judge before today.

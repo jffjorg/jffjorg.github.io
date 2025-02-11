@@ -69,3 +69,217 @@ Significant Statements:
 And here is a summary in English text:
 
 The judge has issued a tentative ruling regarding a motion to compel a deposition. The plaintiff, Sandra Salvador, is seeking to compel the deposition of Michael Marquise Williams, an employee of the Los Angeles County Metropolitan Transportation Authority. The defendant opposes the motion. The judge has denied the motion, finding that the plaintiff did not make sufficient efforts to reschedule or resume the deposition after the initial deposition was cut short. The judge also found that the defendant was willing and able to produce Williams for the deposition, but the parties did not continue discussing the deposition after a previous agreed-upon date. The judge did not award sanctions, as the plaintiff's motion was denied. The parties are encouraged to meet and confer to reach an agreement, and if they do not, they should appear remotely or in person for oral argument.
+..................... .....................
+On 2025-02-10_23:22:43.571036
+The summary displayed below was created by an LLM named:  "gemma2-9b-it":
+## Tentative Ruling Summary in YAML
+
+```yaml
+Case Number: 19STCV22929
+Hearing Date: September 28, 2023
+Dept: 31
+
+Plaintiff's Name: Sandra Salvador
+Defendant's Name: Los Angeles County Metropolitan Transportation Authority (Metro), et al.
+
+People-Names:
+  - Sandra Salvador
+  - Michael Marquise Williams
+  - Thomas Fugger
+
+Company-Names:
+  - Los Angeles County Metropolitan Transportation Authority (Metro)
+
+Places:
+  - Los Angeles County, California 
+
+Dates:
+  - January 27, 2023: Williams' initial deposition
+  - February 2023: Difficulty reaching Williams for rescheduling
+  - March 13, 2023: Defense counsel informs Plaintiff's counsel about reaching Williams
+  - March 24, 2023: Agreement on April 4, 2023 for second deposition
+  - April 4, 2023: Agreed upon date for second deposition
+  - September 28, 2020: Production of entire DVR bus videos
+
+Events:
+  - Incident involving Plaintiff and Defendant's bus operator, Williams
+  - Initial deposition of Williams cut short
+  - Plaintiff moves to compel second deposition of Williams
+  - Defendant opposes motion, citing difficulties rescheduling and lack of exterior camera footage
+  - Plaintiff argues Defendant is engaging in gamesmanship
+
+Money:
+  - N/A 
+
+Intentions:
+  - Plaintiff seeks to depose Williams on incident details, policies, and video footage
+  - Defendant seeks to avoid unnecessary depositions and production of already provided materials
+
+Facts:
+  - Williams was the bus operator during the incident
+  - Exterior camera footage of the incident is unavailable
+  - Defendant previously produced all DVR bus videos, including those from interior cameras
+
+Disputes:
+  - Whether Plaintiff's counsel adequately attempted to reschedule Williams' deposition
+  - Whether Defendant is unfairly delaying the deposition process
+
+Acts:
+  - Plaintiff served a deposition notice on Williams
+  - Plaintiff's counsel deposes Williams initially
+  - Plaintiff's counsel moves to compel second deposition
+  - Defendant opposes the motion
+  - Plaintiff argues Defendant is engaging in gamesmanship
+  - Defendant argues Plaintiff did not inquire about rescheduling after refusing to move forward with the agreed date
+
+Agreements:
+  - Agreed upon date for second deposition on April 4, 2023
+
+Laws:
+  - California Code of Civil Procedure § 2025.450
+
+Case Citations:
+  - N/A
+
+Statutes:
+  - California Code of Civil Procedure § 2025.450
+
+Roles:
+  - Plaintiff: Sandra Salvador
+  - Defendant: Los Angeles County Metropolitan Transportation Authority (Metro)
+  - Judge: Michelle C. Kim
+
+Significant Statements:
+  - Court denies Plaintiff's motion to compel the second deposition of Williams
+  - Court finds no substantial justification for imposing sanctions on either party
+```
+
+
+
+## English Summary
+
+The judge has issued a tentative ruling denying the Plaintiff's motion to compel the deposition of Defendant's employee, Michael Marquise Williams. 
+
+The Plaintiff originally attempted to depose Williams, but the deposition was cut short due to time constraints. Plaintiff subsequently requested a second deposition, but Defendant opposed the motion, stating that they had tried to reschedule the deposition but were unable to reach Williams in February. They also argued that the Plaintiff did not inquire about rescheduling after refusing to proceed unless the Defendant produced footage from an inoperable exterior camera.
+
+The judge found that both parties had opportunities to reschedule the deposition and ultimately failed to do so. The judge denied the motion to compel and did not impose sanctions on either party.  
+
+Parties are encouraged to meet and confer to see if they can reach an agreement before the hearing. 
+
+..................... .....................
+On 2025-02-10_23:23:09.759215
+The summary displayed below was created by an LLM named:  "llama3-8b-8192":
+Here is the summary of the judge's tentative ruling in YAML format:
+
+```
+Case Number: 19STCV22929
+Plaintiff's Name: Sandra Salvador
+Defendant's Name: Los Angeles County Metropolitan Transportation Authority, ET AL.
+People-Names:
+  - Michael Marquise Williams (Defendant's employee)
+  - Thomas Fugger (Defendant's expert)
+Company-Names:
+  - Los Angeles County Metropolitan Transportation Authority
+Places:
+  - Los Angeles, California
+Dates:
+  - January 27, 2023 (initial deposition)
+  - March 13, 2023 (telephone conversation between counsel)
+  - March 24, 2023 (agreement on April 4, 2023 deposition date)
+  - April 4, 2023 (agreed-upon deposition date)
+  - September 28, 2020 (production of DVR bus videos)
+  - October 26, 2023 (trial date)
+  - September 27, 2023 (tentative ruling date)
+Events:
+  - Plaintiff's motion to compel deposition
+  - Initial deposition of Michael Marquise Williams
+  - Attempts to reschedule deposition
+  - Production of DVR bus videos
+  - Expert testimony by Thomas Fugger
+Money: None
+Intentions:
+  - Plaintiff seeks to compel deposition of Michael Marquise Williams
+  - Defendant opposes motion, citing lack of cooperation
+Facts:
+  - Michael Marquise Williams was the bus operator at the time of the incident
+  - Plaintiff's counsel deposed Williams on January 27, 2023, but the deposition was cut short
+  - Plaintiff's counsel seeks additional time to depose Williams on incident-related facts
+  - Defendant argues it has cooperated in rescheduling deposition, but Plaintiff's counsel has not made efforts to resume
+Disputes:
+  - Plaintiff's motion to compel deposition
+  - Defendant's opposition to motion
+Acts:
+  - Plaintiff's counsel deposed Michael Marquise Williams on January 27, 2023
+  - Defendant produced DVR bus videos on September 28, 2020
+  - Plaintiff's counsel requested additional deposition time
+  - Defendant offered April 4, 2023 deposition date, but Plaintiff's counsel refused due to lack of exterior camera footage
+Agreements:
+  - Defendant stipulated to produce Michael Marquise Williams for Volume II of his deposition
+  - Plaintiff's counsel agreed to April 4, 2023 deposition date, but refused to proceed without exterior camera footage
+Laws:
+  - CCP § 2025.450(a) (compelling deposition)
+  - CCP § 2025.410 (valid objections)
+  - CCP § 2025.450(g)(1) (sanctions)
+Statutes:
+  - CCP § 2025.230 (organization as a party)
+Roles:
+  - Plaintiff: Sandra Salvador
+  - Defendant: Los Angeles County Metropolitan Transportation Authority, ET AL.
+  - Judge: Hon. Michelle C. Kim
+Significant Statements:
+  - "The burden is on Plaintiff to move forward in pressing for Williams' deposition."
+  - "Defendant has demonstrated a willingness to cooperate in rescheduling Williams' deposition."
+  - "There is no evidence that Plaintiff noticed Williams' second deposition at any point after the last discussion."
+```
+
+And here is a summary of the judge's tentative ruling in English text:
+
+The court has denied Plaintiff Sandra Salvador's motion to compel the deposition of Defendant Los Angeles County Metropolitan Transportation Authority's employee Michael Marquise Williams. The motion was denied because the court found that Plaintiff's counsel did not make sufficient efforts to resume the deposition after the initial deposition was cut short. The court also found that Defendant had demonstrated a willingness to cooperate in rescheduling the deposition. The court awarded no sanctions, as the defendant did not act without substantial justification. The parties are encouraged to meet and confer to reach an agreement, and if a party intends to submit on this tentative ruling, they must send an email to the court.
+..................... .....................
+On 2025-02-10_23:23:34.981883
+The summary displayed below was created by an LLM named:  "llama-3.3-70b-specdec":
+Exception:
+Error code: 429 - {'error': {'message': 'Rate limit reached for model `llama-3.3-70b-specdec` in organization `org_01hw84cjv0f12v63qt47723ar2` service tier `on_demand` on : Limit 100000, Used 98972, Requested 1925. Please try again in 12m54.782999999s. Visit https://console.groq.com/docs/rate-limits for more information.', 'type': '', 'code': 'rate_limit_exceeded'}}
+..................... .....................
+On 2025-02-10_23:33:36.642932
+The summary displayed below was created by an LLM named:  "mixtral-8x7b-32768":
+case\_number: 19STCV22929
+hearing\_date: September 28, 2023
+dept: 31
+court: Superior Court of the State of California, County of Los Angeles - Central District
+plaintiff:
+- name: Sandra Salvador
+defendants:
+- name: Los Angeles County Metropolitan Transportation Authority
+- person: Michael Marquise Williams
+location:
+- place: California
+- place: Los Angeles County
+events:
+- date: January 27, 2023
+- event: Plaintiff's counsel deposed Williams but the deposition ended after two hours because Williams had to go to work.
+- date: March 13, 2023
+- event: Defense counsel informed Plaintiff’s counsel of difficulty reaching Williams.
+- date: March 24, 2023
+- event: Plaintiff’s counsel stated he would not resume Williams’ deposition until the exterior camera was produced.
+- date: April 4, 2023
+- event: Agreed date for Volume II of William’s deposition.
+disputes:
+- dispute: Defense counsel argues it previously produced the entire preserved DVR bus videos, consisting of 7 cameras, to Plaintiff’s counsel on September 28, 2020, and that Plaintiff’s counsel is aware that the one external camera was not operable.
+acts:
+- act: Plaintiff's motion to compel the deposition of Defendant's employee Michael Marquise Williams.
+- act: Defense counsel stipulated to produce Williams for Volume II of his deposition.
+- act: Plaintiff unilaterally noticed William’s second deposition, and defense counsel objected on the grounds of unilateral notice.
+intentions:
+- intention: Plaintiff’s counsel needs additional time to depose Williams on the facts of the incident, relevant policies and procedures, and the video footage of the interior of the bus capturing the incident.
+- intention: Defense counsel had difficulty reaching Williams in February 2023.
+laws:
+- law: CCP § 2025.450(a)
+- law: CCP § 2025.450(g)(1)
+role:
+- role: Judge Michelle C. Kim
+significant\_statements:
+- statement: The motion to compel Williams’ second deposition is DENIED.
+- statement: No sanctions are awarded.
+
+In this tentative ruling, Judge Michelle C. Kim of the Superior Court of the State of California for the County of Los Angeles - Central District, rules on Plaintiff Sandra Salvador's motion to compel the deposition of Defendant Los Angeles County Metropolitan Transportation Authority's employee Michael Marquise Williams. The Plaintiff alleges that Williams, who was the bus operator at the time of the incident, needs to provide additional information regarding the facts of the incident, relevant policies and procedures, and the video footage of the interior of the bus capturing the incident. The Defendant opposes the motion, stating that it previously produced the entire preserved DVR bus videos, including 7 cameras, to Plaintiff’s counsel on September 28, 2020, and that Plaintiff’s counsel is aware that the one external camera was not operable. The Court finds that the Plaintiff has not demonstrated sufficient efforts to reschedule or resume the deposition after the last discussion on March 24, 2023, and denies the motion to compel. The Court also declines to award sanctions.
