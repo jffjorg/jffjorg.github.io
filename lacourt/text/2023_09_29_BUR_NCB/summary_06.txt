@@ -51,3 +51,146 @@ Significant Statements:
 And here is a summary of the judge's tentative ruling in English text:
 
 The court has reviewed the defense counsel's motion to be relieved as counsel for the defendant, John Scott Germann. The motion was filed on September 8, 2023, and an amended motion was filed on the same date. However, the court notes that it had already signed an order granting the motion on September 15, 2023. Therefore, the amended motion is deemed duplicative and will be taken off-calendar. The original motion is also considered moot in light of the court's previous order. The court orders that notice of this decision be provided by the defense counsel.
+..................... .....................
+On 2025-02-11_04:14:23.085012
+The summary displayed below was created by an LLM named:  "gemma2-9b-it":
+## Tentative Ruling Summary in YAML
+
+**Case Number:** 21BBCV00977
+**Plaintiff's Name:** Maison mod, inc.
+**Defendant's Name:** John Scott Germann
+**People-Names:** 
+  - Taylor F. Williams-Moniz
+  - John Scott Germann
+**Company-Names:** 
+  - Donahoe Young & Williams LLP
+  - Maison mod, inc.
+**Places:** 
+  - Superior Court of California, County of Los Angeles, North Central District, Department B
+**Dates:** 
+  - September 8, 2023
+  - September 15, 2023
+  - September 29, 2023
+**Events:**
+  - Motion to be relieved as counsel filed by Defendant's attorney (September 8, 2023)
+  - Court grants motion to be relieved as counsel (September 15, 2023)
+  - Tentative ruling issued (September 29, 2023)
+**Money:** Not specified
+**Intentions:**
+  - Defendant's attorney seeks to be relieved from representing the Defendant.
+**Facts:**  
+  - Defendant's attorney filed a motion to be relieved as counsel.
+  - The Court granted the motion on September 15, 2023.
+**Disputes:** None specified
+**Acts:**
+  - Filing of a motion to be relieved as counsel.
+  - Granting of the motion to be relieved as counsel.
+**Agreements:** None specified
+**Laws:** Not specified
+**Case Citations:** Not specified
+**Statutes:** Not specified
+**Roles:**
+  - Judge: Decides on the motion to be relieved as counsel.
+  - Defendant's Attorney: Seeks to be relieved from representing the Defendant.
+  - Defendant: Represented by counsel seeking to be relieved.
+**Significant Statements:**
+  - "The Court notes that on September 15, 2023, it signed and entered the MC-053 form regarding the Order Granting Attorney’s Motion to be Relieved as Counsel – Civil in favor of Counsel and against Defendant."
+
+
+
+## English Text Summary
+
+This is a tentative ruling by a judge in a civil case. The judge's ruling essentially states that the attorney for the defendant, Taylor F. Williams-Moniz, has already been relieved from representing the defendant, John Scott Germann. 
+
+The judge notes that they signed an order granting the attorney's motion to be relieved on September 15th, 2023. Therefore, the defendant's attorney filed a duplicate motion on September 8th, 2023, which is now considered moot (meaning it is no longer relevant). The judge takes the duplicate motion off the calendar. 
+
+
+
+..................... .....................
+On 2025-02-11_04:14:48.747482
+The summary displayed below was created by an LLM named:  "llama3-8b-8192":
+Here is the summary in YAML format:
+
+```
+Case Number: 21BBCV00977
+Plaintiff's Name: Maison mod, inc.
+Defendant's Name: John Scott Germann
+People-Names:
+  - Taylor F. Williams-Moniz
+  - John Scott Germann
+Company-Names:
+  - Donahoe Young & Williams LLP
+Places:
+  - Los Angeles
+  - California
+Dates:
+  - September 8, 2023
+  - September 15, 2023
+  - September 29, 2023
+Events:
+  - Motion to be relieved as counsel
+  - Order granting attorney's motion to be relieved as counsel
+Money: None
+Intentions:
+  - Defense counsel to be relieved as counsel
+Facts:
+  - Counsel filed amended motion on September 8, 2023
+  - Court signed and entered MC-053 form on September 15, 2023
+Disputes:
+  - None
+Acts:
+  - Counsel filed motion to be relieved as counsel
+  - Court signed and entered order granting counsel's motion
+Agreements:
+  - Counsel to be relieved as counsel
+Laws:
+  - None specified
+Case Citations:
+  - MC-053
+Statutes:
+  - None specified
+Roles:
+  - Counsel: Taylor F. Williams-Moniz
+  - Defendant: John Scott Germann
+Significant Statements:
+  - Counsel has already been relieved as counsel
+  - Amended motion is duplicative and will be taken off-calendar
+  - Motion to be relieved as counsel is taken off-calendar as moot
+```
+
+And here is a summary in English text:
+
+This tentative ruling is regarding a motion filed by defense counsel, Taylor F. Williams-Moniz, to be relieved as counsel for defendant John Scott Germann. The motion was filed on September 8, 2023, and an amended motion was filed on the same date. However, the court notes that on September 15, 2023, it signed and entered an MC-053 form granting counsel's motion to be relieved as counsel. Therefore, the court has already relieved counsel as counsel for the defendant. As a result, the amended motion is duplicative and will be taken off-calendar, and the original motion is also taken off-calendar as moot. Counsel is to provide notice of this ruling.
+..................... .....................
+On 2025-02-11_04:15:13.916739
+The summary displayed below was created by an LLM named:  "llama-3.3-70b-specdec":
+Exception:
+Error code: 429 - {'error': {'message': 'Rate limit reached for model `llama-3.3-70b-specdec` in organization `org_01hw84cjv0f12v63qt47723ar2` service tier `on_demand` on : Limit 100000, Used 100446, Requested 508. Please try again in 13m44.59s. Visit https://console.groq.com/docs/rate-limits for more information.', 'type': '', 'code': 'rate_limit_exceeded'}}
+..................... .....................
+On 2025-02-11_04:25:14.741005
+The summary displayed below was created by an LLM named:  "mixtral-8x7b-32768":
+case\_number: 21BBCV00977
+hearing\_date: September 29, 2023
+dept: NCB
+court: Superior Court of California, County of Los Angeles, North Central District
+parties:
+  plaintiff:
+    name: Maison mod, inc.
+  defendant:
+    name: john scott germann
+    rep\_counsel:
+      name: Taylor F. Williams-Moniz
+      law\_firm: Donahoe Young & Williams LLP
+events:
+  - date: September 8, 2023
+    description: Filing of motion to be relieved as counsel by defense counsel
+  - date: September 15, 2023
+    description: Order granting attorney’s motion to be relieved as counsel
+order:
+  type: off-calendar
+  reason: duplicative and moot in light of the court's September 15, 2023 order
+notice:
+  required\_by: Counsel
+
+English text summary:
+The court has taken off-calendar the motion to be relieved as counsel filed by defense counsel Taylor F. Williams-Moniz of Donahoe Young & Williams LLP on September 8, 2023. The motion is duplicative and moot in light of the court's order granting the motion to be relieved as counsel on September 15, 2023. Counsel is required to provide notice.

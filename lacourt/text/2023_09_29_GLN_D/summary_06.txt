@@ -67,3 +67,23 @@ Significant Statements:
 ```
 
 The tentative ruling discusses the defendant's motion for summary adjudication of each cause of action, and the defendant's argument that the plaintiff will be unable to establish each cause of action because she cannot prove an essential element of each claim. The defendant relies on Rodriguez v. FCA US, LLC (2022) 77 Cal.App.5th 209, which held that the Song-Beverly Act does not apply to sales of used vehicles with a balance remaining on the new vehicle warranty. The plaintiff argues that Rodriguez is distinguishable and that the facts of the case are different from those in Rodriguez. The judge will consider the arguments and evidence presented and make a ruling on the defendant's motion.
+..................... .....................
+On 2025-02-11_09:47:36.153105
+The summary displayed below was created by an LLM named:  "gemma2-9b-it":
+Exception:
+Error code: 400 - {'error': {'message': 'Please reduce the length of the messages or completion.', 'type': 'invalid_request_error', 'param': 'messages', 'code': 'context_length_exceeded'}}
+..................... .....................
+On 2025-02-11_09:57:36.450843
+The summary displayed below was created by an LLM named:  "llama3-8b-8192":
+Exception:
+Error code: 413 - {'error': {'message': 'Request too large for model `llama3-8b-8192` in organization `org_01hw84cjv0f12v63qt47723ar2` service tier `on_demand` on tokens per minute (TPM): Limit 6000, Requested 11146, please reduce your message size and try again. Visit https://console.groq.com/docs/rate-limits for more information.', 'type': 'tokens', 'code': 'rate_limit_exceeded'}}
+..................... .....................
+On 2025-02-11_10:07:36.865780
+The summary displayed below was created by an LLM named:  "llama-3.3-70b-specdec":
+Exception:
+Error code: 429 - {'error': {'message': 'Rate limit reached for model `llama-3.3-70b-specdec` in organization `org_01hw84cjv0f12v63qt47723ar2` service tier `on_demand` on : Limit 100000, Used 98549, Requested 11146. Please try again in 2h19m36.244999999s. Visit https://console.groq.com/docs/rate-limits for more information.', 'type': '', 'code': 'rate_limit_exceeded'}}
+..................... .....................
+On 2025-02-11_10:17:37.160807
+The summary displayed below was created by an LLM named:  "mixtral-8x7b-32768":
+Exception:
+Error code: 413 - {'error': {'message': 'Request too large for model `mixtral-8x7b-32768` in organization `org_01hw84cjv0f12v63qt47723ar2` service tier `on_demand` on tokens per minute (TPM): Limit 5000, Requested 11414, please reduce your message size and try again. Visit https://console.groq.com/docs/rate-limits for more information.', 'type': 'tokens', 'code': 'rate_limit_exceeded'}}

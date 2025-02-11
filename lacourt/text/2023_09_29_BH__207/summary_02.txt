@@ -238,3 +238,78 @@ On 2025-02-11_02:17:19.660092
 The summary displayed below was created by an LLM named:  "llama-3.3-70b-specdec":
 Exception:
 Error code: 429 - {'error': {'message': 'Rate limit reached for model `llama-3.3-70b-specdec` in organization `org_01hw84cjv0f12v63qt47723ar2` service tier `on_demand` on : Limit 100000, Used 98996, Requested 3446. Please try again in 35m9.641999999s. Visit https://console.groq.com/docs/rate-limits for more information.', 'type': '', 'code': 'rate_limit_exceeded'}}
+..................... .....................
+On 2025-02-11_02:27:23.249726
+The summary displayed below was created by an LLM named:  "mixtral-8x7b-32768":
+summary:
+  case_number: 23SMCV02619
+  hearing_date: September 29, 2023
+  dept: 207
+  motion: Motion to Quash Service
+  moving_party: Defendant Connie Chein
+  opposing_parties:
+    - Plaintiffs Skye Hoppus and Mark Hoppus, as trustees of the Rollo Tomassi Trust
+  legal_standards:
+    - Code Civ. Proc., § 418.10, subd. (a)(1)-(2)
+    - Dill v. Berquist Construction Co. (1994) 24 Cal.App.4th 1426
+    - Lebel v. Mai (2012) 210 Cal.App.4th 1154
+    - Summers v. McClanahan (2006) 140 Cal.App.4th 403
+    - Evid. Code, § 647
+    - Evid. Code, § 641
+    - Zirbes v. Stratton (1986) 187 Cal.App.3d 1407
+    - Code Civ. Proc. § 415.10
+    - Code Civ. Proc., § 415.20, subd. (b)
+  evidence:
+    - Declaration of Liliana Vasquez
+  people_names:
+    - Connie Chein
+    - Liliana Vasquez
+    - Skye Hoppus
+    - Mark Hoppus
+  places:
+    - 9242 W. Olympic Blvd, Beverly Hills, California
+  dates:
+    - July 5, 2023
+    - July 6, 2023
+    - July 10, 2023
+    - July 11, 2023
+  events:
+    - service of summons and complaint to Defendant
+    - Declaration of Due Diligence
+    - Proof of Mailing
+  intentions:
+    - Defendant to quash service of summons and complaint
+  facts:
+    - Defendant was served by substitute service on July 10, 2023
+    - Defendant was not present on July 10, 2023
+    - Defendant never received a copy of the summons and complaint via mail
+  disputes:
+    - Defendant's claim of lack of jurisdiction of the court over her
+    - Defendant's claim of inconvenient forum
+  acts:
+    - filing of the complaint on June 9, 2023
+    - service of summons and complaint to Defendant
+    - production of the Declaration of Liliana Vasquez
+  agreements: none
+  laws:
+    - Code Civ. Proc., § 418.10, subd. (a)(1)-(2)
+    - Dill v. Berquist Construction Co. (1994) 24 Cal.App.4th 1426
+    - Lebel v. Mai (2012) 210 Cal.App.4th 1154
+    - Summers v. McClanahan (2006) 140 Cal.App.4th 403
+    - Evid. Code, § 647
+    - Evid. Code, § 641
+    - Zirbes v. Stratton (1986) 187 Cal.App.3d 1407
+    - Code Civ. Proc. § 415.10
+    - Code Civ. Proc., § 415.20, subd. (b)
+  case_citations: Dill v. Berquist Construction Co. (1994) 24 Cal.App.4th 1426; Lebel v. Mai (2012) 210 Cal.App.4th 1154; Summers v. McClanahan (2006) 140 Cal.App.4th 403
+  statutes: Code Civ. Proc., § 418.10, subd. (a)(1)-(2); Code Civ. Proc. § 415.10; Code Civ. Proc., § 415.20, subd. (b)
+  roles:
+    - Plaintiffs: bringing the motion to quash
+    - Defendant: opposing the motion
+  significant_statements:
+    - "The burden is on the plaintiff to prove the existence of jurisdiction by proving, inter alia, the facts requisite to an effective service."
+    - "A letter correctly addressed and properly mailed is presumed to have been received in the ordinary course of mail."
+    - "In order to obtain in personam jurisdiction through any form of constructive service there must be strict compliance with the requisite statutory procedures."
+
+Summary:
+This tentative ruling is for a hearing on September 29, 2023 in Department 207 for case number 23SMCV02619. The motion is for Defendant Connie Chein to quash service of the summons and complaint. Plaintiffs Skye Hoppus and Mark Hoppus, as trustees of the Rollo Tomassi Trust, oppose the motion. The legal standards for this motion include Code Civ. Proc., § 418.10, subd. (a)(1)-(2), Dill v. Berquist Construction Co. (1994) 24 Cal.App.4th 1426, Lebel v. Mai (2012) 210 Cal.App.4th 1154, Summers v. McClanahan (2006) 140 Cal.App.4th 403, Evid. Code, § 647, Evid. Code, § 641, and Zirbes v. Stratton (1986) 187 Cal.App.3d 1407. The evidence presented includes a declaration of Liliana Vasquez. The people involved are Connie Chein, Liliana Vasquez, Skye Hoppus, and Mark Hoppus. The places mentioned are 9242 W. Olympic Blvd, Beverly Hills, California. The dates relevant to the case are July 5, 2023, July 6, 2023, July 10, 2023, and July 11, 2023. The events that occurred include service of the summons and complaint to Defendant, a Declaration of Due Diligence, and a Proof of Mailing. The intention of the Defendant is to quash service of the summons and complaint. The facts of the case include Defendant being served by substitute service on July 10, 2023, Defendant not being present on July 10, 2023, and Defendant never receiving a copy of the summons and complaint via mail. The disputes in this case are Defendant's claim of lack of jurisdiction of the court over her and Defendant's claim of inconvenient forum. The acts that have taken place include filing of the complaint on June 9, 2023 and service of summons and complaint to Defendant. The agreements made are not mentioned in the document. The laws relevant to this case include Code Civ. Proc., § 418.10, subd. (a)(1)-(2), Code Civ. Proc. § 415.10, and Code Civ. Proc., § 415.20, subd. (b). The case citations are Dill v. Berquist Construction Co. (1994) 24 Cal.App.4th 1426, Lebel v. Mai (2012) 210 Cal.App.4th 1154, and Summers v. McClanahan (2006) 140 Cal.App.4th 403. The roles of the parties include Plaintiffs bringing the motion to quash and Defendant opposing the motion. The significant statements made include "The burden is on the plaintiff to prove the existence of jurisdiction by proving, inter alia, the facts requisite to an effective service" and "A letter correctly addressed and properly mailed is presumed to have been received in the ordinary course of mail."
