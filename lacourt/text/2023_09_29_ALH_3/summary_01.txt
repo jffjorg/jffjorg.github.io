@@ -43,3 +43,135 @@ Significant Statements:
 And here is the English-text summary:
 
 The Judge, William A. Crowfoot, has issued a tentative ruling regarding a motion to be relieved filed by Ray Hsu, counsel for the plaintiffs Jin Zhou and Qi He. The motion is unopposed and is based on a breakdown in communication between Hsu and his clients, which has caused extreme difficulty in maintaining representation. The Judge has determined that absent any showing of prejudice, a motion to be relieved should be granted. Since there is no prejudice to the parties and trial in the matter is not yet set, the Judge has granted the motion and ordered Hsu to serve a copy of the signed order on the plaintiffs and all parties who have appeared in the action. The Judge notes that if any party intends to submit on the tentative, they must send an email to the Court indicating their intention to do so, and that the Court may adopt the tentative as the final order or place the motion off calendar if no submissions are received.
+..................... .....................
+On 2025-02-11_01:18:01.949910
+The summary displayed below was created by an LLM named:  "gemma2-9b-it":
+## Tentative Ruling Summary (YAML)
+
+**Case Number:** 22AHCV00509
+**Hearing Date:** September 29, 2023
+**Plaintiffs:** Jin Zhou, Qi He (collectively, "Plaintiffs")
+**Defendant:** Shuangshuang Li
+**People-Names:** Jin Zhou, Qi He, Ray Hsu, William A. Crowfoot
+**Company-Names:** Law Offices of Ray Hsu
+**Places:** Los Angeles, California
+**Dates:** September 29, 2023
+**Events:** Motion to be relieved as counsel filed by Ray Hsu, hearing scheduled
+**Money:** N/A
+**Intentions:** Ray Hsu seeks to be relieved as counsel due to breakdown in communication
+**Facts:** Breakdown in communication between Ray Hsu and plaintiffs
+**Disputes:** None explicitly stated
+**Acts:** Ray Hsu filed motion to be relieved, Court reviewed motion
+**Agreements:** N/A
+**Laws:** 
+    - California Rules of Court, Rule 3.1362
+    - People v. Prince (1968) 268 Cal.App.2d 398, 406
+**Case Citations:** People v. Prince (1968) 268 Cal.App.2d 398, 406
+**Statutes:** N/A
+**Roles:** 
+    - Judge William A. Crowfoot: Presiding judge
+    - Ray Hsu: Attorney seeking to be relieved
+    - Jin Zhou, Qi He: Plaintiffs
+    - Shuangshuang Li: Defendant
+**Significant Statements:**
+    - "Absent any showing of prejudice, a motion to be relieved should be granted."
+    - "The Court notes that trial in this matter is not yet set and no prejudice will result from granting this motion."
+
+
+
+## English Summary
+
+The judge has issued a tentative ruling to grant the motion filed by Ray Hsu to be relieved as counsel for the plaintiffs, Jin Zhou and Qi He. The judge's reasoning is based on the fact that there has been a breakdown in communication between Ray Hsu and the plaintiffs, making it difficult to continue representing them.  The judge notes that no trial date has been set, and therefore, no prejudice will result from granting the motion.  The tentative ruling is effective as of September 29, 2023, and Ray Hsu is ordered to notify the plaintiffs and all other parties involved in the case. 
+
+
+
+..................... .....................
+On 2025-02-11_01:18:27.652366
+The summary displayed below was created by an LLM named:  "llama3-8b-8192":
+Here is the summary of the tentative ruling in YAML format:
+
+```
+Case Number: 22AHCV00509
+Plaintiff's Name: Jin Zhou, et al.
+Defendant's Name: Shuangshuang Li
+People-Names:
+  - Ray Hsu
+  - Qi He
+Company-Names: Law Offices of Ray Hsu
+Places:
+  - Los Angeles
+  - California
+Dates:
+  - September 29, 2023
+Events:
+  - Motion to be relieved as counsel of record
+  - Trial not yet set
+Money: None mentioned
+Intentions:
+  - Ray Hsu seeks to be relieved as counsel of record
+  - Grant the unopposed motion to be relieved
+Facts:
+  - Breakdown in communication with plaintiffs
+  - Difficulty in maintaining representation
+Disputes:
+  - None mentioned
+Acts:
+  - Ray Hsu's motion to be relieved
+  - Granting the motion
+Agreements:
+  - California Rules of Court, Rule 3.1362
+Laws:
+  - People v. Prince (1968) 268 Cal.App.2d 398, 406
+Statutes: None mentioned
+Roles:
+  - Ray Hsu: Counsel for Plaintiffs
+  - William A. Crowfoot: Judge of the Superior Court
+Significant Statements:
+  - "Absent any showing of prejudice, a motion to be relieved should be granted."
+  - "Absent a showing of resulting prejudice, an attorney's request for withdrawal should be granted."
+  - "The Court notes that trial in this matter is not yet set and no prejudice will result from granting this motion."
+```
+
+And here is a summary of the tentative ruling in English text:
+
+The Court has issued a tentative ruling on a motion to be relieved as counsel of record filed by Ray Hsu, attorney for plaintiffs Jin Zhou and Qi He. Hsu seeks to be relieved due to a breakdown in communication with the plaintiffs, which has caused extreme difficulty in maintaining representation. The Court notes that trial in the matter has not yet been set and that no prejudice will result from granting the motion. As a result, the motion is granted, and Hsu's service as counsel for the plaintiffs is terminated as of September 29, 2023.
+..................... .....................
+On 2025-02-11_01:18:52.824311
+The summary displayed below was created by an LLM named:  "llama-3.3-70b-specdec":
+Exception:
+Error code: 429 - {'error': {'message': 'Rate limit reached for model `llama-3.3-70b-specdec` in organization `org_01hw84cjv0f12v63qt47723ar2` service tier `on_demand` on : Limit 100000, Used 100512, Requested 759. Please try again in 18m18.742s. Visit https://console.groq.com/docs/rate-limits for more information.', 'type': '', 'code': 'rate_limit_exceeded'}}
+..................... .....................
+On 2025-02-11_01:28:53.752511
+The summary displayed below was created by an LLM named:  "mixtral-8x7b-32768":
+case\_number: 22AHCV00509
+hearing\_date: September 29, 2023
+dept: 3
+court: Superior Court of the State of California, County of Los Angeles - Northeast District
+
+plaintiff:
+- Jin Zhou
+- Qi He
+
+defendant:
+- Shuangshuang Li
+
+attorney:
+- Ray Hsu
+law\_firm: Law Offices of Ray Hsu
+
+events:
+- Ray Hsu moves to be relieved as counsel for the plaintiffs
+
+laws:
+- People v. Prince (1968) 268 Cal.App.2d 398, 406
+- California Rules of Court, Rule 3.1362
+
+order:
+- granting Ray Hsu's motion to be relieved as counsel for the plaintiffs
+- effective as of September 29, 2023
+- ordering counsel to serve a copy of the signed order on the plaintiffs and all parties who have appeared in this action
+
+significant\_statements:
+- the court notes that trial in this matter is not yet set and no prejudice will result from granting this motion
+- parties who intend to submit on this tentative must send an email to the Court at ALHDEPT3@lacourt.org
+- if the court does not receive emails from the parties indicating submission on this tentative ruling and there are no appearances at the hearing, the court may at its discretion, adopt the tentative as the final order or place the motion off calendar.

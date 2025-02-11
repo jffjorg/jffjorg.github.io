@@ -259,3 +259,81 @@ On 2025-02-11_00:12:37.358245
 The summary displayed below was created by an LLM named:  "llama-3.3-70b-specdec":
 Exception:
 Error code: 429 - {'error': {'message': 'Rate limit reached for model `llama-3.3-70b-specdec` in organization `org_01hw84cjv0f12v63qt47723ar2` service tier `on_demand` on : Limit 100000, Used 105113, Requested 2409. Please try again in 1h48m19.804999999s. Visit https://console.groq.com/docs/rate-limits for more information.', 'type': '', 'code': 'rate_limit_exceeded'}}
+..................... .....................
+On 2025-02-11_00:22:38.978926
+The summary displayed below was created by an LLM named:  "mixtral-8x7b-32768":
+case\_number: 21STCV15870
+hearing\_date: September 28, 2023
+dept: 32
+
+parties:
+plaintiff: Maria Susana Gallegos
+defendant: Los Angeles County Development Authority
+
+people:
+- Caroline Park
+
+companies:
+- Foothill Villa Management Office
+
+places:
+- California
+
+dates:
+- May 16, 2020
+
+events:
+- Plaintiff evacuated due to flood
+- Plaintiff slipped and fell during evacuation
+
+money:
+- Not specified
+
+intentions:
+- Plaintiff intends to amend complaint within 30 days
+
+facts:
+- Defendant is a public entity
+- Plaintiff alleges negligence and premises liability
+- Plaintiff suffered injuries during evacuation
+
+disputes:
+- Whether the complaint adequately states a statutory basis for negligence and premises liability
+- Whether the complaint identifies a defective aspect of the physical condition on the property
+- Whether the complaint alleges notice
+
+acts:
+- Filing of a demurrer by the Defendant
+- Meeting and conferring between parties
+
+agreements:
+- None specified
+
+laws:
+- Government Code section 815
+- Government Code section 835
+- Civil Code section 1714
+
+case\_citations:
+- Harris v. City of Santa Monica (2013) 56 Cal.4th 203
+- Ivanoff v. Bank of America, N.A. (2017) 9 Cal.App.5th 719
+- Donabedian v. Mercury Ins. Co. (2004) 116 Cal.App.4th 968
+- Blank v. Kirwan (1985) 39 Cal.3d 311
+- Afuso v. United States Fid. & Guar. Co. (1985) 169 Cal.App.3d 859
+- Guardian North Bay, Inc. v. Superior Court (2001) 94 Cal.App.4th 963
+- Torres v. Department of Corrections and Rehabilitation (2013) 217 Cal.App.4th 844
+- Searcy v. Hemet Unified School Dist. (1986) 177 Cal.App.3d 792
+
+statutes:
+- Code Civ. Proc. §§ 422.10, 589
+- Code Civ. Proc. § 430.41
+
+roles:
+- Plaintiff: alleges negligence and premises liability
+- Defendant: demurs to the complaint
+
+significant\_statements:
+- "A public entity is not liable for an injury, whether such injury arises out of an act or omission of the public entity or a public employee or any other person except as provided by statute." (Government Code, § 815, subd. (a))
+- "For purposes of the ruling on the demurrer, all facts pleaded in the complaint are assumed to be true."
+- "A demurrer can be utilized where the ‘face of the complaint’ itself is incomplete or discloses some defense that would bar recovery."
+- "Plaintiff to file an amended complaint within 30 days."

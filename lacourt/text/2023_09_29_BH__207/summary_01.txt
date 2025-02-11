@@ -53,3 +53,172 @@ Here is the summary of the judge's tentative ruling in YAML format:
 `Significant Statements`:
   - The judge intends to deny Cross-Complainant's Motion for Leave to Amend the Cross-Complaint.
   - The proposed amended cross-complaint would improperly reassert and reallege the fifth and sixth causes of action, which have already been resolved on the merits in Thrive's favor and dismissed.
+..................... .....................
+On 2025-02-11_02:05:07.455817
+The summary displayed below was created by an LLM named:  "gemma2-9b-it":
+##  Tentative Ruling Summary: Case Number 22SMCV00023
+
+**Case Number:** 22SMCV00023
+**Hearing Date:** September 29, 2023
+**Department:** 207
+
+**Parties:**
+
+* **Plaintiff:** Not specified in document
+* **Defendant/Cross-Complainant:** Linda Baggett
+* **Defendant/Cross-Defendant:** Thrive
+
+**Legal Issues:**
+
+* Motion for Leave to Amend Cross Complaint
+
+**Facts:**
+
+*  Cross-Complainant Linda Baggett filed a cross-complaint against Thrive alleging wage and hour violations.
+* Cross-Complainant seeks to amend her cross-complaint to add specific references to Labor Code sections related to unpaid wages, final paychecks, private right of action for wage penalties, attorneys' fees, and liquidated damages.
+* Cross-Complainant's fifth and sixth causes of action (wrongful termination and retaliation) were previously dismissed against Thrive.
+
+**Judge's Reasoning:**
+
+* The Court recognizes the general policy of liberally granting leave to amend pleadings.
+* However, the proposed amendments would essentially reassert the already dismissed wrongful termination and retaliation claims.
+* The Court finds that allowing the amendment would be improper and prejudicial to Thrive.
+
+**Ruling:**
+
+* The Court denies Cross-Complainant's Motion for Leave to Amend the Cross-Complaint.
+
+
+**English Summary:**
+
+The judge is denying the defendant's request to amend her cross-complaint against Thrive. The defendant wants to add more specific legal citations related to wage and hour law, but the judge found that these changes would essentially bring back claims that were already dismissed against Thrive.  The judge noted the general rule of allowing amendments to pleadings, but determined that in this case, the amendment would be improper and unfair to Thrive. 
+
+
+
+
+..................... .....................
+On 2025-02-11_02:05:33.730934
+The summary displayed below was created by an LLM named:  "llama3-8b-8192":
+Here is the summary in YAML format:
+
+```
+Case Number: 22SMCV00023
+Plaintiff's Name: (none)
+Defendant's Name: Linda Baggett
+People-Names:
+- Linda Baggett
+- Stacey M. Cooper
+Company-Names:
+- Thrive
+Places:
+- California
+Dates:
+- September 29, 2023
+- October 16, 2023
+- May 4, 2023
+- August 31, 2023
+Events:
+- Motion for Leave to Amend Cross Complaint
+- Trial
+- Dismissal of causes of action
+Money:
+- Overtime pay
+- Minimum wage
+- Liquidated damages
+Intentions:
+- To add references to Labor Code sections in the cross-complaint
+Facts:
+- Cross-Complainant seeks to amend the cross-complaint to add references to Labor Code sections
+- The motion is unopposed
+Disputes:
+- Dispute over whether the proposed amendments are necessary and proper
+- Dispute over whether the delay in seeking the amendments prejudices the opposing party
+Acts:
+- Cross-Complainant moves to amend the cross-complaint
+- Judge grants or denies the motion
+- Opposing party fails to oppose the motion
+Agreements:
+- Code of Civil Procedure section 473
+- Code of Civil Procedure section 576
+- California Rules of Court, rule 3.1324
+Laws:
+- Code of Civil Procedure
+- California Rules of Court
+Case Citations:
+- Code Civ. Proc., § 473, subd. (a)(1)
+- Code Civ. Proc., § 576
+- Marriage of Liss (1992) 10 Cal.App.4th 1426
+- Morgan v. Superior Court (1959) 172 Cal.App.2d 527
+- Kittredge Sports Co. v. Superior Court (1989) 213 Cal.App.3d 1045
+- Weil & Brown, Cal. Practice Guide: Civil Procedure Before Trial (2023)
+Statutes:
+- Labor Code
+- Code of Civil Procedure
+Roles:
+- Judge Michael E. Whitaker
+- Cross-Complainant Linda Baggett
+- Counsel Stacey M. Cooper
+Significant Statements:
+- "The court may, in furtherance of justice, and on any terms as may be proper, allow a party to amend any pleading or proceeding..." (Code Civ. Proc., § 473, subd. (a)(1))
+- "The court has wide discretion to allow either party to add or strike the name of a party or to correct a mistake in the name of a party or a mistake in any other respect..." (Code Civ. Proc., § 473, subd. (a)(1))
+- "The court may grant leave to amend the pleadings at any stage of the action." (Weil & Brown, Cal. Practice Guide: Civil Procedure Before Trial (2023))
+```
+
+And here is a summary of the judge's tentative ruling in English text:
+
+The judge has denied the motion for leave to amend the cross-complaint filed by Cross-Complainant Linda Baggett. The motion seeks to add references to Labor Code sections in the caption under the first cause of action for "Failure to Pay Lawful Wages, Including Overtime" and in the request for damages under the first cause of action. The motion is unopposed, but the judge has denied it because the proposed amendments would improperly reassert and reallege causes of action that have already been dismissed on the merits in favor of the opposing party. The judge has stated that the court has wide discretion to allow amendments, but the proposed amendments do not meet the requirements of California Rules of Court, rule 3.1324, and would prejudice the opposing party.
+..................... .....................
+On 2025-02-11_02:05:58.938885
+The summary displayed below was created by an LLM named:  "llama-3.3-70b-specdec":
+Exception:
+Error code: 429 - {'error': {'message': 'Rate limit reached for model `llama-3.3-70b-specdec` in organization `org_01hw84cjv0f12v63qt47723ar2` service tier `on_demand` on : Limit 100000, Used 99784, Requested 2748. Please try again in 36m27.295999999s. Visit https://console.groq.com/docs/rate-limits for more information.', 'type': '', 'code': 'rate_limit_exceeded'}}
+..................... .....................
+On 2025-02-11_02:16:00.422282
+The summary displayed below was created by an LLM named:  "mixtral-8x7b-32768":
+case\_number: 22SMCV00023
+hearing\_date: September 29, 2023
+dept: 207
+
+tentative\_ruling:
+people:
+- name: Linda Baggett
+roles:
+- defendant
+- cross-complainant
+- name: Thrive
+roles:
+- cross-defendant
+
+events:
+- date: August 31, 2023
+description: Counsel for Cross-Complainant became aware of the need to amend the Cross-Complaint
+
+motions:
+- moving\_party: Linda Baggett
+motion\_type: Motion for Leave to Amend Cross Complaint
+status: denied
+
+facts:
+- Cross-Complainant seeks to add references to various sections of the Labor Code in conjunction with the first cause of action
+- The proposed amended cross-complaint would improperly reassert and reallege the fifth and sixth causes of action, which have already been resolved on the merits in Thrive’s favor and dismissed
+
+laws:
+- name: Code of Civil Procedure section 473, subdivision (a)(1)
+- name: Code of Civil Procedure section 576
+- name: California Rules of Court, rule 3.1324
+
+disputes:
+- Cross-Complainant's motion for leave to amend the cross-complaint
+
+intentions:
+- The court denies Cross-Complainant's motion for leave to amend the cross-complaint
+
+significant\_statements:
+- The court has wide discretion to allow either party to amend pleadings before trial
+- Judicial policy favors resolution of all disputed matters between the parties and, therefore, leave to amend is liberally granted
+- It is an abuse of discretion for the court to deny leave to amend where the opposing party was not misled or prejudiced by the amendment
+- The court may grant leave to amend the pleadings at any stage of the action
+- Prejudice exists where the amendment would result in a delay of trial, along with loss of critical evidence, added costs of preparation, increased burden of discovery, etc.
+- Even if some prejudice is shown, the judge may still permit the amendment but impose conditions, as the Court is authorized to grant leave ‘on such terms as may be proper’
+- A motion to amend a pleading before trial must include a copy of the proposed amendment or amended pleadings, state what allegations in the previous pleading are proposed to be deleted, and state what allegations are proposed to be added to the previous pleading
+- A motion to amend a pleading before trial must be accompanied by a separate declaration that specifies the effect of the amendment, why the amendment is necessary and proper, when the facts giving rise to the amended allegations were discovered, and the reasons why the request for amendment was not made earlier.

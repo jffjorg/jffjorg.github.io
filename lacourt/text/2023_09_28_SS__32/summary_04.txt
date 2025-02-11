@@ -55,3 +55,176 @@ Significant Statements:
 And here is a summary of the judge's tentative ruling in English text:
 
 The judge is reviewing a motion and has made some observations and decisions. The plaintiff claims that the defendant's counsel may have signed a waiver, but the defendant has presented evidence of a custom and practice of requiring customers to sign the waiver. The plaintiff's argument about the Dance Act is unclear and the judge is not convinced. The judge is declining to consider the defendant's alternative argument that they did not have actual or constructive notice of a dangerous condition.
+..................... .....................
+On 2025-02-11_00:44:03.798424
+The summary displayed below was created by an LLM named:  "gemma2-9b-it":
+## Tentative Ruling Summary in YAML
+
+```yaml
+Case Number: 
+Plaintiff's Name: Mirano
+Defendant's Name: Fitness
+People-Names: 
+  - Mirano
+  - Lozano
+  - Castiglione
+Company-Names: Fitness
+Places: 
+Dates: 
+Events:
+  - Discovery
+  - Motion Hearing
+Money:  
+Intentions:
+  - Plaintiff alleges Defendant did not provide a copy of an agreement to Mirano
+  - Defendant argues that a waiver was signed by Mirano
+Facts:
+  - Plaintiff claims a violation of the Dance Act
+  - Defendant provided evidence of a custom practice requiring customer waivers
+Disputes:
+  - Whether a waiver was signed by Mirano
+  - Whether the Dance Act applies
+Acts:
+  - Plaintiff filed a motion
+  - Defendant presented evidence through declarations and depositions
+Agreements:
+  - A potential agreement alleged to be covered by the Dance Act
+Laws:
+  - Dance Act
+Case Citations: 
+Statutes: 
+Roles:
+  - Judge: Decides on the motion
+  - Plaintiff: Arguing for a violation of the Dance Act
+  - Defendant: Arguing that a waiver was signed and the Dance Act does not apply
+Significant Statements:
+  - Plaintiff suggests opposing counsel may have failed to provide a copy of an agreement to Mirano.
+  - Defendant provided evidence of a custom practice requiring customer waivers.
+  - Plaintiff's argument regarding the applicability of the Dance Act is unclear.
+  - The Court declines to rule on Defendant's argument regarding notice of a dangerous condition. 
+```
+
+
+
+## English Summary
+
+The Judge is considering a motion filed by the Plaintiff, Mirano, who alleges a violation of the Dance Act.  Mirano claims that Defendant, Fitness, did not provide a copy of an agreement to them. Fitness argues that Mirano signed a waiver, and provides evidence from employee testimonies stating that it's their standard practice to have customers sign waivers. 
+
+The Judge notes that Mirano's argument about the Dance Act is unclear, as they seem to be suggesting it applies to both the waiver and a separate, unspecified agreement.
+
+The Judge does not rule on Fitness's argument that they had no notice of a dangerous condition, as this is not necessary for their current decision.
+
+
+Let me know if you'd like me to elaborate on any specific point.
+
+..................... .....................
+On 2025-02-11_00:44:29.516544
+The summary displayed below was created by an LLM named:  "llama3-8b-8192":
+Here is a summary of the judge's tentative ruling in YAML format:
+
+```
+Case Number: [not specified]
+Plaintiff's Name: [not specified]
+Defendant's Name: [not specified]
+People-Names:
+  - Lozano
+  - Castiglione
+  - Mirano
+Company-Names:
+  - Fitness
+Places: [not specified]
+Dates:
+  - [not specified]
+Events:
+  - Discovery
+  - Depositions
+  - Motion
+Money: [not specified]
+Intentions:
+  - To argue that the waiver is not a contract for health studio services
+  - To argue that the waiver is covered by the Dance Act
+Disputes:
+  - Whether the waiver is a contract for health studio services
+  - Whether the waiver is covered by the Dance Act
+Acts:
+  - Requiring customers to sign the waiver
+  - Giving signature in discovery
+Agreements:
+  - Waiver
+  - Dance Act
+Laws:
+  - Dance Act
+Case Citations:
+  - Park Decl.
+Statutes:
+  - [not specified]
+Roles:
+  - Plaintiff
+  - Defendant
+  - Opposing counsel
+  - Fitness employees
+Significant Statements:
+  - Plaintiff appears to suggest that opposing counsel may have done so
+  - Defendant has presented evidence of testimony by Fitness employees
+  - The Court declines to reach Defendant's alternative argument
+```
+
+And here is a summary of the judge's tentative ruling in English text:
+
+The judge is considering a motion and has made some initial thoughts based on the information presented. The plaintiff argues that the waiver is not a contract for health studio services, but also suggests that it is covered by the Dance Act. However, the court is unclear on the plaintiff's argument and notes that a different agreement that is purportedly covered by the Dance Act has not been presented to the court. The judge also declines to consider the defendant's alternative argument that they had no actual or constructive notice of the dangerous condition. The court is also aware of testimony from Fitness employees regarding the custom and practice of requiring customers to sign the waiver.
+..................... .....................
+On 2025-02-11_00:44:54.702287
+The summary displayed below was created by an LLM named:  "llama-3.3-70b-specdec":
+Exception:
+Error code: 429 - {'error': {'message': 'Rate limit reached for model `llama-3.3-70b-specdec` in organization `org_01hw84cjv0f12v63qt47723ar2` service tier `on_demand` on : Limit 100000, Used 102871, Requested 417. Please try again in 47m21.375s. Visit https://console.groq.com/docs/rate-limits for more information.', 'type': '', 'code': 'rate_limit_exceeded'}}
+..................... .....................
+On 2025-02-11_00:54:55.918905
+The summary displayed below was created by an LLM named:  "mixtral-8x7b-32768":
+case\_number: None
+plaintiff\_name: Plaintiff
+defendant\_name: Defendant
+people\_names:
+  - Park
+  - Lozano
+  - Castiglione
+company\_names:
+  - Fitness
+places:
+  - Court
+dates: None
+events:
+  - signing\_waiver
+money: None
+intentions: None
+facts:
+  - plaintiff\_gave\_signature
+  - defendant\_presented\_testimony
+disputes:
+  - dance\_act\_applicability
+  - waiver\_as\_contract
+acts:
+  - defendant\_notice\_of\_dangerous\_condition
+agreements: None
+laws:
+  - Dance Act
+case\_citations: None
+statutes: None
+roles:
+  - plaintiff
+  - defendant
+significant\_statements:
+  - plaintiff\_argues\_discovery\_signature
+  - plaintiff\_argues\_dance\_act
+  - court\_declines\_defendant\_alternative\_argument
+
+---
+
+Summary:
+
+The Judge wrote a tentative ruling regarding a future court hearing. The Judge's decision is based on the information presented before today.
+
+The Plaintiff suggests that the opposing counsel may have acted inappropriately, but the Judge finds that the argument is not clearly presented. The Plaintiff seems to argue that the Dance Act applies, but also argues that the waiver is not a contract for health studio services. The Judge rules that the Dance Act does not apply and declines to reach the Defendant's alternative argument.
+
+The Judge notes that the Plaintiff gave her signature in discovery and the Defendant presented evidence of testimony by Fitness employees regarding the custom and practice of requiring customers to sign the waiver.
+
+The Judge did not provide information about the case number, people involved, places, dates, money, intentions, facts, agreements, laws, case citations, statutes, or roles.
