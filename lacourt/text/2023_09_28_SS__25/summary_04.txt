@@ -187,3 +187,152 @@ The judge's tentative ruling grants Western Surety's motion for interpleader.  W
 
 The trial date is set for June 5, 2024. 
 
+..................... .....................
+On 2025-02-10_17:54:46.093407
+The summary displayed below was created by an LLM named:  "llama3-8b-8192":
+Here is the YAML summary of the Judge's tentative ruling:
+
+```
+Case Number: 22STLC08146
+Plaintiff's Name: Western Surety Company
+Defendant's Name: AFDI Construction, Inc.
+People-Names:
+  - Lisa Barreras
+  - Farris Tarazi
+Company-Names:
+  - Western Surety Company
+  - AFDI Construction, Inc.
+Places:
+  - Spring Street Courthouse
+Dates:
+  - September 28, 2023
+  - November 3, 2022
+  - May 2, 2023
+  - February 24, 2023
+  - April 26, 2023
+  - December 7, 2021
+  - May 1, 2023
+  - June 5, 2024
+Events:
+  - Interpleader action
+  - Bond cancellation
+  - Default entered against AFDI
+  - Answer filed by Defendant Tarazi
+  - Default set aside for Defendant Barreras
+  - Answer filed by Defendant Barreras
+  - Trial set for June 5, 2024
+Money:
+  - $15,000 (bond amount)
+Intentions:
+  - Western Surety Company seeks to deposit the bond funds and be discharged from liability
+  - Western Surety Company seeks reasonable attorney's fees and costs
+Facts:
+  - Western Surety Company provided a bond to AFDI Construction, Inc.
+  - Bond was cancelled effective November 3, 2022
+  - Multiple claimants, including Lisa Barreras and Farris Tarazi, have made claims against the bond funds
+Disputes:
+  - Competing claims to the bond funds
+Acts:
+  - Western Surety Company interpleaded the disputed funds
+Agreements:
+  - CCP § 386(b)
+  - CCP § 386.6
+Laws:
+  - CCP § 386(b)
+  - CCP § 386.6
+  - Business and Professions Code § 7071.6
+Case Citations:
+  - Pacific Loan Mgmt. Corp. v. Sup.Ct. (Armstrong) (1987)
+  - Southern California Gas Co. v. Flannery (2014)
+  - Westamerica Bank v. City of Berkeley (2011)
+  - State Farm Fire & Cas. Co. v. Pietak (2001)
+  - Dial 800 v. Fesbender (2004)
+Statutes:
+  - CCP § 386(b)
+  - CCP § 386.6
+  - Business and Professions Code § 7071.6
+Roles:
+  - Western Surety Company: stakeholder
+  - AFDI Construction, Inc.: bond principal
+  - Lisa Barreras: claimant
+  - Farris Tarazi: claimant
+Significant Statements:
+  - "The function of an interpleader action is to eliminate the risk of incorrectly resolving conflicting claims."
+  - "A party to an action who follows the procedure set forth in Section 386 or 386.5 may insert in his motion, petition, complaint, or cross complaint a request for allowance of his costs and reasonable attorney fees incurred in such action."
+```
+
+And here is a summary of the Judge's tentative ruling in English text:
+
+The Judge has issued a tentative ruling in the case of Western Surety Company v. AFDI Construction, Inc. The case involves a bond cancellation and competing claims to the bond funds. Western Surety Company, the stakeholder, seeks to deposit the bond funds and be discharged from liability. The Judge grants Western Surety's motion, allowing it to deposit the bond funds and awarding it reasonable attorney's fees and costs. The Judge also notes that the trial remains set for June 5, 2024.
+..................... .....................
+On 2025-02-10_17:55:11.303553
+The summary displayed below was created by an LLM named:  "llama-3.3-70b-specdec":
+Exception:
+Error code: 429 - {'error': {'message': 'Rate limit reached for model `llama-3.3-70b-specdec` in organization `org_01hw84cjv0f12v63qt47723ar2` service tier `on_demand` on : Limit 100000, Used 99517, Requested 1867. Please try again in 19m55.024s. Visit https://console.groq.com/docs/rate-limits for more information.', 'type': '', 'code': 'rate_limit_exceeded'}}
+..................... .....................
+On 2025-02-10_18:05:13.641664
+The summary displayed below was created by an LLM named:  "mixtral-8x7b-32768":
+case\_number: 22STLC08146
+hearing\_date: September 28, 2023
+dept: 25
+plaintiff: Western Surety Company
+defendants:
+  - AFDI Construction, Inc.
+  - Lisa Barreras
+  - Farris Tarazi
+people:
+  - Lisa Barreras
+  - Farris Tarazi
+companies:
+  - Western Surety Company
+  - AFDI Construction, Inc.
+places: Spring Street Courthouse
+dates:
+  - November 3, 2022
+  - December 7, 2021
+  - May 2, 2023
+  - February 24, 2023
+  - April 26, 2023
+  - May 1, 2023
+  - June 5, 2024
+events:
+  - Plaintiff provided a bond to Defendant AFDI Construction, Inc. in the amount of $15,000.
+  - The bond was cancelled effective November 3, 2022.
+  - Plaintiff alleges various claimants/defendants allege that AFDI has committed some act giving rise to liability on the bond.
+  - On December 7, 2021, Plaintiff filed this action for interpleader against AFDI, Barreras and Tarazi.
+  - Default was entered against AFDI on May 2, 2023.
+  - Defendant Tarazi filed an answer on February 24, 2023.
+  - Defendant Barreras’s default was set aside by stip and order on May 1, 2023.
+  - Barreras filed an answer on April 26, 2023.
+money:
+  - $15,000
+intentions:
+  - Plaintiff Western Surety Company intends to deposit the fully penalty of Bond No. 65155751 in the amount of $15,000 issued on behalf of Defendant AFDI Construction.
+facts:
+  - Western Surety provided a contractor’s bond to AFDI in the amount of $15,000 pursuant to Bus. & Prof. C. §7071.6.
+  - Western Surety has no interest in the $15,000 bond and multiple claimants have made claims against that amount.
+disputes:
+  - Competing claims asserted by Barreras, Tarazi and AFDI.
+acts:
+  - Western Surety's motion for an order allowing it to deposit the fully penalty of Bond No. 65155751 in the amount of $15,000 issued on behalf of Defendant AFDI Construction.
+agreements:
+  - Western Surety is entitled to recovery of attorney’s fees and costs for interpleading the disputed funds pursuant to CCP §386.6.
+laws:
+  - CCP §386(b)
+  - CCP §386.6(a)
+case\_citations:
+  - Pacific Loan Mgmt. Corp. v. Sup.Ct. (Armstrong) (1987) 196 Cal.App.3d 1485
+  - Southern California Gas Co. v. Flannery (2014) 232 Cal.App.4th 477
+  - Westamerica Bank v. City of Berkeley (2011) 201 Cal.App.4th 598
+  - State Farm Fire & Cas. Co. v. Pietak (2001) 90 Cal.App.4th 600
+  - Dial 800 v. Fesbender (2004) 118 Cal.App.4th 32
+roles:
+  - Plaintiff
+  - Defendant
+  - Stakeholder
+significant\_statements:
+  - "The true test of suitability for interpleader is the stakeholder's disavowal of interest in the property sought to be interpleaded, coupled with the perceived ability of the court to resolve the entire controversy as to entitlement to the property without need for the stakeholder to be a party to the suit."
+  - "An interpleader action, however, may not be maintained upon the mere pretext or suspicion of double vexation; the plaintiff must allege facts showing a reasonable probability of double vexation or a valid threat of double vexation."
+  - "A complaint in interpleader must show that the defendants make conflicting claims to the subject matter, and that the plaintiff cannot safely determine which claim is valid and offers to deposit the money in court."
+
+The Judge's tentative ruling is granting Plaintiff Western Surety Company's motion to deposit the fully penalty of Bond No. 65155751 in the amount of $15,000 issued on behalf of Defendant AFDI Construction. Plaintiff is also awarded $1200 in reasonable fees and costs to be distributed from the disputed funds. The trial remains set for June 5, 2024, at 8:30 AM in Department 25 in the Spring Street Courthouse. No oppositions were filed.

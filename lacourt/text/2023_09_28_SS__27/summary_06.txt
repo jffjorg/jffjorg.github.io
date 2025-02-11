@@ -51,3 +51,197 @@ Significant Statements:
 And here is the English text summarizing the judge's tentative ruling:
 
 The court has granted the defendant's motion to continue the trial date. The defendant had requested to continue the trial to a date after February 1, 2024, and set all related cutoff dates to the new trial date. The court found good cause to continue the trial, citing the defendant's excuse for not having all essential testimony, documents, or other material evidence despite diligent efforts. The court has continued the trial date to the first available date on the court's calendar, and has set all trial-related dates to the new trial date of April 12, 2024. The final status conference has been continued to March 29, 2024, and the non-jury trial has been continued to April 12, 2024.
+..................... .....................
+On 2025-02-10_19:29:33.579161
+The summary displayed below was created by an LLM named:  "gemma2-9b-it":
+## Tentative Ruling Summary - YAML
+
+```yaml
+Case Number: 22STCV18833
+Hearing Date: September 28, 2023
+Plaintiff's Name: Shiloh Tate
+Defendant's Name: William Walsh
+People-Names:
+  - Shiloh Tate
+  - William Walsh
+  - Kerry Bensinger
+Company-Names:
+  -  
+Places:
+  - Spring Street Courthouse
+Dates:
+  - July 13, 2023
+  - August 29, 2023
+  - September 1, 2023
+  - September 28, 2023
+  - December 6, 2023
+  - November 22, 2024
+  - March 29, 2024
+  - April 12, 2024
+Events:
+  - Defendant filed a motion to continue the trial date.
+  - Motion heard on August 29, 2023, continued due to lack of proper service.
+  - Defendant filed proof of service on September 1, 2023.
+  - Motion granted and trial date continued.
+Money:
+  - 
+Intentions:
+  - Defendant seeks to continue the trial date.
+Facts:
+  - This is the first request for a trial continuance.
+Disputes:
+  - 
+Acts:
+  - Defendant filed a motion to continue the trial date.
+  - Defendant served the Plaintiff with the motion.
+Agreements:
+  - 
+Laws:
+  - California Rules of Court, rule 3.1332
+  - Code Civ. Proc., § 599
+Case Citations:
+  - 
+Statutes:
+  - 
+Roles:
+  - Judge Kerry Bensinger: Presiding Judge
+  - Shiloh Tate: Plaintiff
+  - William Walsh: Defendant
+Significant Statements:
+  - The Court found good cause to continue the trial date.
+  - The Court continued the trial date to the first available date on the Court’s calendar.
+  - All trial related dates are set to the new trial date of April 12, 2024.
+
+
+```
+
+## English Summary
+
+Judge Kerry Bensinger issued a tentative ruling in the case of Shiloh Tate vs. William Walsh (Case Number: 22STCV18833) granting Defendant William Walsh's motion to continue the trial date. 
+
+The trial was originally scheduled for December 6, 2023, but has been moved to April 12, 2024. All related deadlines, including discovery cut-offs, expert witness deadlines, and motion deadlines, have also been shifted to April 12, 2024.
+
+The Judge initially continued the motion for a continuance due to incomplete service on the Plaintiff, Shiloh Tate. However, after proper service was confirmed, the Judge granted the continuance, citing good cause. 
+
+
+
+..................... .....................
+On 2025-02-10_19:29:59.530276
+The summary displayed below was created by an LLM named:  "llama3-8b-8192":
+Here is the summary in YAML format:
+
+```
+Case Number: 22STCV18833
+Plaintiff's Name: Shiloh Tate
+Defendant's Name: William Walsh
+People-Names:
+  - William Walsh
+  - Shiloh Tate
+Company-Names: None
+Places:
+  - Spring Street Courthouse
+Dates:
+  - July 13, 2023
+  - August 29, 2023
+  - September 1, 2023
+  - September 28, 2023
+  - December 6, 2023
+  - February 1, 2024
+  - March 19, 2020
+  - November 22, 2024
+  - March 29, 2024
+  - April 12, 2024
+Events:
+  - Motion to continue trial
+  - Proof of service
+  - Continuance of trial date
+  - Setting of new trial date
+  - Continuance of Final Status Conference
+  - Continuance of Non-Jury Trial
+Money: None
+Intentions:
+  - Defendant seeks to continue trial date
+  - Court grants motion to continue trial
+Facts:
+  - Defendant filed motion to continue trial on July 13, 2023
+  - Court found good cause to continue trial
+  - Defendant provided proof of service showing plaintiff was served with motion
+Disputes:
+  - None
+Acts:
+  - Defendant filed motion to continue trial
+  - Plaintiff did not oppose motion
+  - Court granted motion to continue trial
+Agreements:
+  - None
+Laws:
+  - California Rules of Court, rule 3.1332
+  - California Rules of Court, rule 3.1332, subdivision (b)
+  - California Rules of Court, rule 3.1332, subdivision (c)
+  - California Rules of Court, rule 3.1332, subdivision (d)
+  - Code Civ. Proc., § 599
+Case Citations:
+  - California Rules of Court, rule 3.1332
+Statutes:
+  - Code Civ. Proc., § 599
+Roles:
+  - Judge: Kerry Bensinger
+  - Plaintiff: Shiloh Tate
+  - Defendant: William Walsh
+Significant Statements:
+  - "The unopposed motion to continue trial is granted."
+  - "The Court will continue the trial date to the first available date on the Court's calendar."
+```
+
+Summary in English text:
+
+The tentative ruling granted the defendant's motion to continue the trial date, which was previously set for December 6, 2023. The defendant had requested to continue the trial date to a date after February 1, 2024, and the court granted this motion. The court found good cause to continue the trial and noted that the defendant had cured the defect in the proof of service. The trial date will be continued to the first available date on the court's calendar, and all related deadlines will be set to the new trial date of April 12, 2024. The final status conference and non-jury trial will also be continued to March 29, 2024 and April 12, 2024, respectively.
+..................... .....................
+On 2025-02-10_19:30:24.718276
+The summary displayed below was created by an LLM named:  "llama-3.3-70b-specdec":
+Exception:
+Error code: 429 - {'error': {'message': 'Rate limit reached for model `llama-3.3-70b-specdec` in organization `org_01hw84cjv0f12v63qt47723ar2` service tier `on_demand` on : Limit 100000, Used 99118, Requested 1546. Please try again in 9m33.46s. Visit https://console.groq.com/docs/rate-limits for more information.', 'type': '', 'code': 'rate_limit_exceeded'}}
+..................... .....................
+On 2025-02-10_19:40:26.040217
+The summary displayed below was created by an LLM named:  "mixtral-8x7b-32768":
+case\_number: 22STCV18833
+hearing\_date: September 28, 2023
+dept: 27
+judge: Kerry Bensinger
+
+case: Shiloh Tate v. William Walsh
+
+motion\_to\_continue\_trial:
+moving\_party: Defendant William Walsh
+responsding\_party: No opposition
+
+background:
+
+* Defendant filed a motion to continue trial date on July 13, 2023
+* Motion was heard on August 29, 2023, and good cause was found but no proof of service
+* Proof of service was filed on September 1, 2023, showing Plaintiff was served by mail
+
+legal\_standard\_to\_continue\_trial:
+
+* A party seeking a continuance must make a request by a noticed motion or ex parte application
+* The Court may grant a continuance only on an affirmative showing of good cause
+* Circumstances that may indicate good cause include a party's excused inability to obtain essential testimony, documents, or other material evidence despite diligent efforts
+
+discussion:
+
+* Defendant has cured the defect noted in the Court's previous order
+* The motion to continue trial is granted
+* The trial date is continued to the first available date on the Court's calendar
+
+conclusion:
+
+* The unopposed motion to continue trial is granted
+* The Final Status Conference is continued to March 29, 2024
+* The Non-Jury Trial is continued to April 12, 2024
+* All discovery cut-off dates and pretrial deadlines are set to the new trial date of April 12, 2024
+
+moving\_party\_to\_give\_notice: true
+
+---
+
+This YAML summary is based on the tentative ruling provided. The Judge, Kerry Bensinger, has granted the motion to continue trial made by the Defendant, William Walsh. The trial date is continued to the first available date on the Court's calendar, and all related dates are also set to the new trial date. The Defendant has cured the defect noted in the previous order by providing proof of service showing that the Plaintiff, who is self-represented, was served with the motion by mail. The continuance is granted based on the legal standard outlined in California Rules of Court, rule 3.1332, subdivision (b) and (c), where a party must make a request for continuance by a noticed motion or an ex parte application, and the Court may grant a continuance only on an affirmative showing of good cause requiring the continuance.

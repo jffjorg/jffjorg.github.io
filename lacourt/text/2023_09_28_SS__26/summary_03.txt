@@ -65,3 +65,216 @@ Significant Statements:
 And here is a summary of the judge's tentative ruling in English text:
 
 The judge has issued a tentative ruling on the defendants' motion to vacate the entry of default. The defendants, Homa Badihian and Parviz Payghamy, failed to file a responsive pleading and as a result, the court entered default against them. However, the defendants then filed a motion to vacate the default. The plaintiff, Pasadena Lighting, Inc., did not oppose the motion, but instead filed a first amended complaint on September 12, 2023. Because the first amended complaint was filed, the entry of default is hereby vacated. Therefore, the motion to vacate the entry of default is moot and is placed off calendar.
+..................... .....................
+On 2025-02-10_18:42:28.042417
+The summary displayed below was created by an LLM named:  "gemma2-9b-it":
+## Tentative Ruling Summary in YAML Format
+
+```yaml
+Case Number: 23STLC02899
+Hearing Date: September 28, 2023
+Dept: 26
+Location: Pasadena
+
+Plaintiff: Pasadena Lighting, Inc.
+Defendant: 
+  - Homa Badihian
+  - Parviz Payghamy
+
+People-Names:
+  - Homa Badihian
+  - Parviz Payghamy
+
+Company-Names:
+  - Pasadena Lighting, Inc.
+
+Dates:
+  - May 2, 2023: Complaint filed
+  - July 28, 2023: Default entered against Defendant Badihian
+  - August 8, 2023: Default entered against Defendant Payghamy
+  - August 23, 2023: Motion to Vacate Default filed
+  - September 12, 2023: First Amended Complaint filed
+
+Events:
+  - Lawsuit filed for civil rights violations
+  - Defendants failed to file a responsive pleading
+  - Defaults entered against Defendants
+  - Motion to Vacate Default filed
+  - Plaintiff filed a First Amended Complaint
+
+Money: Not specified
+
+Intentions:
+  - Plaintiff seeks redress for civil rights violations
+  - Defendants intend to vacate the default judgment
+
+Facts:
+  - Defendants failed to respond to the complaint.
+  - Plaintiff filed a First Amended Complaint.
+
+Disputes:
+  - Civil rights violations alleged by Plaintiff
+
+Acts:
+  - Complaint filed
+  - Defaults entered
+  - Motion to Vacate Default filed
+  - First Amended Complaint filed
+
+Agreements: Not specified
+
+Laws:
+  - CCP § 473(b)
+
+Case Citations:
+  - Ford v. Superior Court (1973) 34 Cal.App.3d 338
+  - Tidwell v. Henricks (1955) 124 Cal.App.2d 64
+
+Statutes:
+  - CCP § 473(b)
+
+Roles:
+  - Judge: Rules on the motion to vacate default
+  - Plaintiff: Brings the lawsuit
+  - Defendants: Respond to the lawsuit
+
+Significant Statements:
+  - "Therefore, Defendants Homa Badihian and Parviz Payghamy’s Motion to Vacate Entry of Default is PLACED OFF CALENDAR AS MOOT."
+
+
+
+```
+
+## English-Text Summary of the Tentative Ruling:
+
+The court has decided to dismiss the defendants' motion to vacate the default judgment against them. 
+
+Initially, the defendants failed to respond to the plaintiff's lawsuit, leading to default judgments being entered against them. Subsequently, the defendants filed a motion to vacate these defaults. However, before the court could rule on the motion, the plaintiff filed an amended complaint.
+
+The court ruled that by filing the amended complaint, the previous default judgments became moot, effectively negating the need for the defendants' motion.
+
+
+
+..................... .....................
+On 2025-02-10_18:42:54.006098
+The summary displayed below was created by an LLM named:  "llama3-8b-8192":
+Here is the summary in YAML format:
+
+```
+Case Number: 23STLC02899
+Plaintiff's Name: Pasadena Lighting, Inc.
+Defendant's Name: Homa Badihian, Parviz Payghamy
+People-Names:
+  - Homa Badihian
+  - Parviz Payghamy
+Company-Names:
+  - Pasadena Lighting, Inc.
+Places:
+  - Pasadena
+Dates:
+  - May 2, 2023
+  - July 28, 2023
+  - August 8, 2023
+  - August 23, 2023
+  - September 12, 2023
+  - September 28, 2023
+Events:
+  - Civil rights violations
+  - Failure to file a responsive pleading
+  - Entry of default
+  - Filing of Motion to Vacate Default
+  - Filing of First Amended Complaint
+Money: N/A
+Intentions:
+  - To vacate entry of default
+Facts:
+  - Plaintiff filed a complaint
+  - Defendants failed to file a responsive pleading
+  - Defaults were entered
+  - Plaintiff filed a First Amended Complaint
+Disputes:
+  - Dispute over entry of default
+Acts:
+  - Filing of complaint and responsive pleading
+  - Entry of default
+  - Filing of Motion to Vacate Default
+  - Filing of First Amended Complaint
+Agreements: N/A
+Laws:
+  - CCP § 473(b)
+  - Ford v. Superior Court (1973) 34 Cal.App.3d 338, 343
+  - Tidwell v. Henricks (1955) 124 Cal.App.2d 64, 65-66
+Case Citations:
+  - Ford v. Superior Court (1973) 34 Cal.App.3d 338, 343
+  - Tidwell v. Henricks (1955) 124 Cal.App.2d 64, 65-66
+Statutes:
+  - CCP § 473(b)
+Roles:
+  - Judge
+  - Plaintiff
+  - Defendant
+Significant Statements:
+  - "Defendants Homa Badihian and Parviz Payghamy’s Motion to Vacate Entry of Default is PLACED OFF CALENDAR AS MOOT."
+  - "By filing a First Amended Complaint, the entry of default with respect to the Complaint is hereby vacated."
+```
+
+And here is a summary of the judge's tentative ruling in English text:
+
+The judge has tentatively ruled that the defendants' motion to vacate the entry of default is moot. The plaintiff, Pasadena Lighting, Inc., filed a complaint against the defendants, Homa Badihian and Parviz Payghamy, on May 2, 2023, but they failed to file a responsive pleading. As a result, the court entered their defaults on July 28, 2023, and August 8, 2023. The defendants then filed a motion to vacate the entry of default, but the plaintiff has since filed a first amended complaint, which vacates the entry of default. Therefore, the motion is no longer necessary and is placed off calendar as moot.
+..................... .....................
+On 2025-02-10_18:43:19.352566
+The summary displayed below was created by an LLM named:  "llama-3.3-70b-specdec":
+Exception:
+Error code: 429 - {'error': {'message': 'Rate limit reached for model `llama-3.3-70b-specdec` in organization `org_01hw84cjv0f12v63qt47723ar2` service tier `on_demand` on : Limit 100000, Used 100430, Requested 478. Please try again in 13m4.76s. Visit https://console.groq.com/docs/rate-limits for more information.', 'type': '', 'code': 'rate_limit_exceeded'}}
+..................... .....................
+On 2025-02-10_18:53:20.559711
+The summary displayed below was created by an LLM named:  "mixtral-8x7b-32768":
+case\_number: 23STLC02899
+hearing\_date: September 28, 2023
+dept: 26
+location: Pasadena
+parties:
+  - plaintiff: Pasadena Lighting, Inc.
+  - defendant:
+      - Homa Badihian
+      - Parviz Payghamy
+people:
+  - Homa Badihian
+  - Parviz Payghamy
+events:
+  - Plaintiff filed a civil rights violation lawsuit against Defendants on May 2, 2023
+  - Defendants failed to file a responsive pleading
+  - Court entered Defendants' defaults on July 28, 2023 and August 8, 2023
+  - Defendants filed Motion to Vacate Default on August 23, 2023
+  - Plaintiff filed First Amended Complaint on September 12, 2023
+money: N/A
+intentions:
+  - Plaintiff seeks civil rights violations redressal
+  - Defendants seek to vacate the default entry
+facts:
+  - Defendants failed to file a responsive pleading
+  - Plaintiff filed First Amended Complaint
+disputes:
+  - Defendants' default entry
+acts:
+  - Plaintiff filing lawsuit
+  - Defendants' failure to file responsive pleadings
+  - Court entering default
+  - Defendants' Motion to Vacate Default
+  - Plaintiff filing First Amended Complaint
+agreements: N/A
+laws:
+  - CCP § 473(b)
+case\_citations:
+  - Ford v. Superior Court (1973) 34 Cal.App.3d 338
+  - Tidwell v. Henricks (1955) 124 Cal.App.2d 64
+statutes: N/A
+roles:
+  - plaintiff
+  - defendant
+significant\_statements:
+  - "Defendants Homa Badihian and Parviz Payghamy’s Motion to Vacate Entry of Default is PLACED OFF CALENDAR AS MOOT."
+
+---
+
+The Judge's tentative ruling is that Defendants' Motion to Vacate Default is MOOT as Plaintiff has filed a First Amended Complaint, thereby vacating the default entry. This motion is therefore OFF CALENDAR.
