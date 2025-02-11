@@ -64,3 +64,275 @@ Significant Statements:
 And here is the English-text summary of the judge's tentative ruling:
 
 The court has issued a tentative ruling on the petition to appoint an arbitrator to determine the scope of repairs and apportion the costs of repairs to a private roadway. The petitioners, Thomas and Susan Corson, have made a good-faith effort to obtain the participation of the respondents, but without success. However, the petitioners failed to produce evidence that the amount in controversy did not exceed $50,000.00, as required by California Civil Code § 845. Additionally, the petitioners failed to serve all the respondents, and the court requires jurisdiction over the unserved respondents before it can order judicial arbitration. As a result, the court will continue the application and order the petitioners to provide the requested information five days before the next hearing.
+..................... .....................
+On 2025-02-10_16:02:59.122728
+The summary displayed below was created by an LLM named:  "gemma2-9b-it":
+## Tentative Ruling Summary - YAML
+
+```yaml
+Case Number: 23SMCP00075
+Plaintiff's Name: Corson, et al.
+Defendant's Name: Widjaja, et al.
+People-Names: 
+    - Thomas Corson
+    - Susan Corson
+    - Ananthan Thangavel
+    - Vincent Colin
+    - Lena Colin
+    - Wesley Widjaja
+    - Azita Razi Bakhshayandeh
+Company-Names: 
+Places: 
+Dates:
+    - September 28, 2023
+    - June 1, 2023
+Events:
+    - Motion to Appoint Arbitrator filed
+    - Hearing on Motion to Appoint Arbitrator held on June 1, 2023
+    - Motion to Appoint Arbitrator continued to September 28, 2023
+Money:
+    - $50,000.00 (amount in controversy cap for judicial arbitration)
+Intentions:
+    - Petitioners seek appointment of an arbitrator to determine repair scope and cost apportionment for a private roadway.
+Facts:
+    - Petitioners own a private roadway with easements for ingress and egress held by Respondents.
+    - Petitioners allege Respondents have not contributed to roadway repairs despite good-faith efforts.
+Disputes:
+    - Cost sharing and responsibility for repairs to the private roadway.
+Acts:
+    - Petitioners filed a motion to appoint an arbitrator.
+Agreements:
+    - None explicitly mentioned.
+Laws:
+    - California Civil Code § 845 (easement maintenance and repair)
+    - California Code of Civil Procedure § 1141.10 et seq. (judicial arbitration)
+    - California Rules of Court, Rule 3.810 et seq. (judicial arbitration procedures)
+Case Citations:
+    - Healy v. Onstott (1987) 192 Cal.App.3d 612
+    - Whitson v. Goudeseune (1955) 137 Cal.App.2d 445
+    - Mercury Ins. Group v. Superior Court (1998) 19 Cal.4th 332
+    - Stanley v. Superior Court (1982) 130 Cal.App.3d 460
+Statutes:
+    - California Civil Code § 845
+    - California Code of Civil Procedure § 1141.10 et seq.
+Roles:
+    - Petitioners: Thomas and Susan Corson
+    - Respondents: Ananthan Thangavel, Vincent Colin, Lena Colin, Wesley Widjaja, and Azita Razi Bakhshayandeh
+Significant Statements:
+    - Court continued the motion due to Petitioners' failure to provide evidence regarding the amount in controversy and service of all Respondents.
+    - Petitioners are ordered to provide the requested information five court days before the next hearing.
+
+
+
+```
+
+## English Summary
+
+This tentative ruling concerns a motion to appoint an arbitrator in a case involving the cost sharing for repairs to a private roadway. 
+
+The Court previously heard the motion on June 1, 2023, but continued it because the Petitioners (Thomas and Susan Corson) failed to provide evidence demonstrating that the amount in dispute was under $50,000, a requirement for judicial arbitration.  They also hadn't properly served all of the Respondents (Ananthan Thangavel, Vincent and Lena Colin, Wesley Widjaja, and Azita Razi Bakhshayandeh) involved in the dispute.
+
+The Court has therefore continued the motion to September 28, 2023, and ordered the Petitioners to provide the missing information five court days before the next hearing. 
+
+
+
+
+..................... .....................
+On 2025-02-10_16:03:25.081358
+The summary displayed below was created by an LLM named:  "llama3-8b-8192":
+Here is the summary in YAML format:
+
+```
+Case Number: 23SMCP00075
+Plaintiff's Name: Corson, et al.
+Defendant's Name: Widjaja, et al.
+People-Names:
+  - Thomas Corson
+  - Susan Corson
+  - Ananthan Thangavel
+  - Vincent Colin
+  - Lena Colin
+  - Wesley Widjaja
+  - Azita Razi Bakhshayandeh
+Company-Names: None
+Places:
+  - Private Roadway
+  - Superior Court
+  - California
+Dates:
+  - June 1, 2023
+  - September 28, 2023
+Events:
+  - Alleged duty to share in costs of repairs to Private Roadway
+  - Failure to produce evidence of amount in controversy
+  - Failure to serve all respondents
+Money:
+  - $50,000.00 (cap for judicial arbitration)
+Intentions:
+  - Appoint an impartial arbitrator to determine scope of repairs and costs
+Facts:
+  - Petitioners have easements for ingress and egress
+  - Respondents have easements for ingress and egress
+  - Petitioners failed to produce evidence of amount in controversy
+  - Petitioners failed to serve all respondents
+Disputes:
+  - Apportionment of costs of repairs to Private Roadway
+Acts:
+  - Petitioners' good-faith effort to obtain participation of respondents
+  - Petitioners' request for appointment of impartial arbitrator
+  - Court's order to continue the application
+  - Court's requirement for petitioners to provide requested information
+Agreements:
+  - None mentioned
+Laws:
+  - California Civil Code § 845
+  - CCP § 1141.10 et seq.
+  - CCP § 1141.11
+  - CRC Rule 3.810 et seq.
+  - CRC Rule 3.811(a)(4)
+  - CRC Rule 3.812(a)
+Statutes:
+  - California Civil Code § 845
+  - CCP § 1141.10 et seq.
+  - CCP § 1141.11
+Roles:
+  - Judge
+  - Petitioners (Corson, et al.)
+  - Respondents (Widjaja, et al.)
+Significant Statements:
+  - "Owners of an easement or the land to which it is attached must maintain and repair it."
+  - "The action shall be subject to judicial arbitration pursuant to CCP section 1141.10 et seq."
+```
+
+And here is a summary of the judge's tentative ruling in English text:
+
+The judge is continuing the motion to appoint an arbitrator to determine the scope of repairs and costs for a private roadway. The petitioners have easements for ingress and egress and have made a good-faith effort to obtain the participation of the respondents in the necessary repairs. However, the petitioners failed to produce evidence that the amount in controversy did not exceed $50,000.00 as to any petitioner, or a stipulation from the parties consenting to judicial arbitration. Additionally, the petitioners failed to serve all respondents subject to the claim. The court requires jurisdiction over the unserved respondents before it can order judicial arbitration. The court has ordered the petitioners to provide the requested information five court days before the next hearing, and the motion is continued to a future date.
+..................... .....................
+On 2025-02-10_16:04:24.418607
+The summary displayed below was created by an LLM named:  "llama-3.3-70b-specdec":
+Here is the YAML summary of the judge's tentative ruling:
+```yml
+Case Number: 23SMCP00075
+Plaintiff's Name: 
+  - Thomas Corson
+  - Susan Corson
+Defendant's Name: 
+  - Ananthan Thangavel
+  - Vincent Colin
+  - Lena Colin
+  - Wesley Widjaja
+  - Azita Razi Bakhshayandeh
+People-Names: 
+  - Healy
+  - Onstott
+  - Whitson
+  - Goudeseune
+  - Stanley
+Company-Names: 
+  - Mercury Ins. Group
+Places: 
+  - California
+  - County (unnamed)
+Dates: 
+  - June 1, 2023
+  - September 28, 2023
+Events: 
+  - Hearing on June 1, 2023
+  - Filing of petition by Corsons
+  - Request for appointment of arbitrator
+Money: 
+  - $50,000.00 (cap for judicial arbitration)
+Intentions: 
+  - To determine scope of repairs and apportion costs for Private Roadway
+Facts: 
+  - Petitioners own Private Roadway
+  - Respondents have easements for ingress and egress
+  - Petitioners have made effort to obtain participation from Respondents
+Disputes: 
+  - Responsibility for maintenance and repair of Private Roadway
+  - Apportionment of costs
+Acts: 
+  - Filing of petition
+  - Request for appointment of arbitrator
+  - Service of process ( incomplete )
+Agreements: 
+  - None
+Laws: 
+  - California Civil Code § 845
+  - CCP section 1141.10 et seq.
+  - CRC Rule 3.810 et seq.
+Case Citations: 
+  - Healy v. Onstott (1987) 192 Cal.App.3d 612
+  - Whitson v. Goudeseune (1955) 137 Cal.App.2d 445
+  - Mercury Ins. Group v. Superior Court (1998) 19 Cal.4th 332
+  - Stanley v. Superior Court (1982) 130 Cal.App.3d 460
+Statutes: 
+  - California Civil Code § 845
+  - CCP section 1141.11
+Roles: 
+  - Petitioners: Thomas and Susan Corson
+  - Respondents: Ananthan Thangavel, Vincent Colin, Lena Colin, Wesley Widjaja, and Azita Razi Bakhshayandeh
+Significant Statements: 
+  - Petitioners have failed to produce evidence of amount in controversy
+  - Petitioners have not served all Respondents
+```
+
+Here is an English-text summary of the judge's tentative ruling:
+The court is considering a petition by Thomas and Susan Corson to appoint an impartial arbitrator to determine the scope of repairs and apportion the costs of a private roadway. The petitioners have made an effort to obtain participation from the respondents, who have easements for ingress and egress, but have been unsuccessful. The court is continuing the application due to the petitioners' failure to provide evidence of the amount in controversy and serve all respondents. The court requires jurisdiction over the unserved respondents before it can order judicial arbitration. The petitioners are ordered to provide the requested information five court days before the next hearing.
+..................... .....................
+On 2025-02-10_16:04:50.967618
+The summary displayed below was created by an LLM named:  "mixtral-8x7b-32768":
+case\_number: 23SMCP00075
+hearing\_date: September 28, 2023
+case\_name: Corson, et al., v. Widjaja, et al.
+people:
+  - Thomas Corson
+  - Susan Corson
+  - Ananthan Thangavel
+  - Vincent Colin
+  - Lena Colin
+  - Wesley Widjaja
+  - Azita Razi Bakhshayandeh
+places:
+  - Private Roadway
+dates:
+  - June 1, 2023
+events:
+  - Petitioners made a good-faith effort to obtain Respondents' participation in necessary repairs to the Private Roadway
+  - Petitioners failed to produce evidence that the amount in controversy did not exceed $50,000.00 or a stipulation from the parties consenting to judicial arbitration
+  - Petitioners have not served all Respondents with the claim
+money:
+  - $50,000.00
+facts:
+  - Petitioners and Respondents have easements for ingress and egress to the Private Roadway
+  - The Private Roadway is owned by Petitioners Thomas and Susan Corson
+disputes:
+  - The duty of all the parties to share in the costs of repairs to the Private Roadway
+acts:
+  - Appointment of an impartial arbitrator in accordance with California Civil Code § 845
+agreements:
+  - None mentioned in the document
+laws:
+  - California Civil Code § 845
+  - CRC Rule 3.810 et seq.
+  - Mercury Ins. Group v. Superior Court (1998) 19 Cal.4th 332
+  - Stanley v. Superior Court (1982) 130 Cal.App.3d 460
+case\_citations:
+  - Healy v. Onstott (1987) 192 Cal.App.3d 612
+statutes:
+  - Civ. Code § 845(a)
+  - Civ. Code § 845(b)
+  - Civ. Code § 845(c)
+  - Civ. Code § 845(c)(1)-(3)
+  - CCP section 1141.10 et seq.
+  - CCP § 1141.11
+roles:
+  - Petitioners
+  - Respondents
+significant\_statements:
+  - "Petitioners failed to produce evidence that the amount in controversy did not exceed $50,000.00 as to any petitioner, or a stipulation from the parties consenting to judicial arbitration."
+  - "Petitioners have not served all Respondents subject to this claim."
+
+---
+
+The Judge's tentative ruling in this case is to continue the application made by the Petitioners to appoint an impartial arbitrator. The Judge's decision is based on the Petitioners' failure to provide evidence that the amount in controversy did not exceed $50,000.00 or a stipulation from the parties consenting to judicial arbitration. Additionally, the Petitioners have not served all Respondents with the claim, which is a requirement for the Court to order judicial arbitration. The Petitioners are ordered to provide the requested information five court days before the next hearing.

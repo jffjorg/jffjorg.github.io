@@ -58,3 +58,228 @@ Significant Statements:
 And here is the English-text summary:
 
 On September 28, 2023, the court is considering a tentative ruling regarding a case involving Triurol and an unknown plaintiff. The defendant, Triurol, had initially sought bankruptcy protection, which led the court to enter a stay of the entire case. However, the Bankruptcy Court has since granted relief from the stay. The court plans to inquire whether all parties agree to lift the stay and, if so, will set a trial date accordingly. The court may also seek to extend the time for trial to accommodate the case's complexity. Additionally, Triurol has suggested that the case may be entitled to statutory preference, which the court is aware of but does not yet have further information on.
+..................... .....................
+On 2025-02-10_15:27:12.144894
+The summary displayed below was created by an LLM named:  "gemma2-9b-it":
+## Tentative Ruling Summary in YAML
+
+```yaml
+Case Number: SC123657
+Hearing Date: September 28, 2023
+Dept: I 
+
+People-Names:
+  - Triurol (Defendant)
+  
+Company-Names:
+  - Triurol 
+
+Places: 
+  - Bankruptcy Court
+
+Dates:
+  - September 28, 2023
+  
+Events:
+  - Defendant filed for bankruptcy protection.
+  - Court issued a stay on the case.
+  - Triurol obtained relief from the stay in Bankruptcy Court.
+
+Money:
+  -  
+
+Intentions:
+  -  Triurol intends to move forward with the case. 
+  
+Facts:
+  - Defendant sought bankruptcy protection before trial.
+  - Bankruptcy Court granted relief from the automatic stay.
+
+Disputes:
+  -  
+
+Acts:
+  - Defendant filed for bankruptcy.
+  - Court issued a stay.
+  - Triurol obtained relief from the stay.
+  
+Agreements:
+  -  
+
+Laws:
+  -  Bankruptcy law
+  -  Likely relevant state law regarding trial scheduling
+
+Case Citations:
+  -  
+
+Statutes:
+  -  Statutory preference rules
+
+Roles: 
+  - Plaintiff
+  - Defendant (Triurol)
+  - Judge
+
+Significant Statements:
+  - Court will inquire if parties agree to lift the stay.
+  - Court will set a trial date based on parties' agreement on timeframe. 
+  - Court may seek further extension to accommodate trial schedule.
+  - Triurol suggests case may be entitled to statutory preference.
+```
+
+## English Summary
+
+The judge's tentative ruling states that the case, which was stayed due to the defendant's bankruptcy filing, can potentially proceed.  
+
+The court is waiting to confirm if all parties agree that the Bankruptcy Court's decision to lift the stay is acceptable. If agreed upon, the court will determine the remaining time to bring the case to trial and set a trial date accordingly. 
+
+The judge is also considering the possibility of extending this timeframe to accommodate the trial schedule, as the case appears to be lengthy.  The defendant suggests the case might be eligible for statutory preference, which could impact the trial scheduling. 
+
+
+
+
+Let me know if you need further clarification or have other documents you'd like summarized!
+
+..................... .....................
+On 2025-02-10_15:27:37.894398
+The summary displayed below was created by an LLM named:  "llama3-8b-8192":
+Here is the summary in YAML format:
+
+```
+Case Number: SC123657
+Plaintiff's Name: 
+Defendant's Name: 
+People-Names:
+  - Triurol
+Company-Names:
+  - Triurol
+Places:
+  - Bankruptcy Court
+Dates:
+  - September 28, 2023
+  - (14-day stay)
+Events:
+  - Defendant sought bankruptcy protection
+  - Court entered stay of the entire case
+  - Triurol moved Bankruptcy Court for relief from stay
+  - Bankruptcy Court lifted stay
+Money: 
+Intentions:
+  - Determine whether stay should be lifted
+  - Set trial date
+Facts:
+  - Defendant sought bankruptcy protection
+  - Court entered stay of the entire case
+  - Triurol successfully moved Bankruptcy Court for relief from stay
+  - Bankruptcy Court lifted stay
+Disputes:
+  - Whether stay should be lifted
+  - Whether to appeal Bankruptcy Court's ruling
+  - Whether to maintain stay of the entire case
+Acts:
+  - Court entered stay of the entire case
+  - Triurol moved Bankruptcy Court for relief from stay
+  - Bankruptcy Court lifted stay
+Agreements:
+  - Parties may agree to lift stay
+  - Parties may agree to extend trial date
+Laws:
+  - Bankruptcy laws
+  - Statutory preference laws
+Case Citations:
+  - (Bankruptcy Court's ruling)
+Statutes:
+  - Statutory preference laws
+Roles:
+  - Judge
+  - Defendant (Trixol)
+  - Plaintiff
+  - Bankruptcy Court
+Significant Statements:
+  - "The court will inquire whether all parties agree that the stay is lifted."
+  - "The court does not know whether any party is planning to appeal the Bankruptcy Court's ruling or whether any other grounds exist for the court to maintain the stay of the entire case."
+```
+
+And here is a summary of the judge's tentative ruling in English text:
+
+The judge is considering the status of a case scheduled for trial on September 28, 2023. The defendant had previously sought bankruptcy protection, which led the court to enter a stay of the entire case. However, the defendant has now successfully moved the Bankruptcy Court to lift the stay. The judge is seeking input from all parties on whether they agree to lift the stay and is considering setting a new trial date if the stay is lifted. The judge is also open to the parties agreeing to extend the trial date to accommodate the court's scheduling needs.
+..................... .....................
+On 2025-02-10_15:28:03.082841
+The summary displayed below was created by an LLM named:  "llama-3.3-70b-specdec":
+Exception:
+Error code: 429 - {'error': {'message': 'Rate limit reached for model `llama-3.3-70b-specdec` in organization `org_01hw84cjv0f12v63qt47723ar2` service tier `on_demand` on : Limit 100000, Used 99910, Requested 449. Please try again in 5m9.518999999s. Visit https://console.groq.com/docs/rate-limits for more information.', 'type': '', 'code': 'rate_limit_exceeded'}}
+..................... .....................
+On 2025-02-10_15:38:04.582248
+The summary displayed below was created by an LLM named:  "mixtral-8x7b-32768":
+case\_number: SC123657
+hearing\_date: September 28, 2023
+dept: I
+
+parties:
+plaintiff: not\_specified
+defendant:
+- Triurol
+
+people:
+- not\_specified
+
+companies:
+- Triurol
+
+places:
+- not\_specified
+
+dates:
+- September 28, 2023
+
+events:
+- defendant\_filed\_bankruptcy
+- court\_entered\_stay
+- bankruptcy\_court\_granted\_relief
+
+money:
+- not\_specified
+
+intentions:
+- defendant\_suggested\_statutory\_preference
+
+facts:
+- defendant\_sought\_bankruptcy\_protection
+- plaintiff\_informed\_court\_of\_bankruptcy
+- court\_entered\_stay
+- bankruptcy\_court\_granted\_relief\_from\_stay
+
+disputes:
+- whether\_to\_lift\_stay
+- potential\_appeal\_of\_bankruptcy\_court\_ruling
+- existence\_of\_other\_grounds\_to\_maintain\_stay
+
+acts:
+- defendant\_filed\_bankruptcy
+- bankruptcy\_court\_granted\_relief\_from\_stay
+
+agreements:
+- not\_specified
+
+laws:
+- bankruptcy\_law
+
+case\_citations:
+- not\_specified
+
+statutes:
+- not\_specified
+
+roles:
+- plaintiff
+- defendant
+
+significant\_statements:
+- "The court will inquire whether all parties agree that the stay is lifted."
+- "If all parties agree that the stay ought to be lifted, the court will inquire as to when the time to bring the case to trial expires and the court will set a trial date accordingly."
+- "The court might also seek to have the parties agree to further extend that time to allow the court to fit this case (which appears to be a long one) into its trial docket."
+- "The court is aware that Triurol is suggesting that the case might be entitled to statutory preference."
+
+English summary:
+On the eve of the trial, the defendant, Triurol, sought bankruptcy protection and the court entered a stay of the entire case. The bankruptcy court has granted relief from the stay, but the court is not aware of any plans to appeal the ruling or any other grounds for maintaining the stay. If all parties agree to lift the stay, the court will set a trial date and may seek to extend the time to fit the case into its trial docket. Triurol has suggested that the case might be entitled to statutory preference.
