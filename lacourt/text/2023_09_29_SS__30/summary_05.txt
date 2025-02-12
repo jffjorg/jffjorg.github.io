@@ -49,3 +49,174 @@ Significant Statements:
 And here is a summary of the judge's tentative ruling in English text:
 
 The judge has issued a tentative ruling granting the plaintiff's motion to set aside/vacate the dismissal of their complaint. The complaint was initially dismissed on June 15, 2023, due to the plaintiff's failure to appear for trial. However, the plaintiff's counsel claims that the failure to appear was due to a mistake by their paralegal, who calendared the wrong date. The plaintiff filed the motion to set aside the dismissal on September 6, 2023, within the six-month deadline. The judge finds that the plaintiff's failure to appear was due to their counsel's neglect, and therefore grants the motion.
+..................... .....................
+On 2025-02-12_08:02:02.798636
+The summary displayed below was created by an LLM named:  "gemma2-9b-it":
+## Tentative Ruling Summary - Case 21STCV45875
+
+```yaml
+Case Number: 21STCV45875
+Hearing Date: September 29, 2023
+Dept: 30
+Plaintiff's Name: GABRIELA MARTINEZ GOMEZ
+Defendant's Name: HILDA NAOMI BRAVO (et al.)
+People-Names: 
+  - GABRIELA MARTINEZ GOMEZ
+  - HILDA NAOMI BRAVO
+Company-Names: 
+Places: 
+Dates: 
+  - June 15, 2023
+  - September 6, 2023
+  - September 29, 2023
+Events: 
+  - Complaint dismissed June 15, 2023 under Code of Civil Procedure section 581, subdivision (b)(3)
+  - Motion to Set Aside/Vacate the Dismissal filed September 6, 2023
+  - Motion granted September 29, 2023
+Money: 
+Intentions: 
+  - Plaintiff seeking to vacate dismissal
+  - Judge granting motion to vacate dismissal
+Facts: 
+  - Plaintiff's counsel failed to appear for trial June 15, 2023 due to a paralegal's error.
+Disputes: 
+  - Plaintiff's dismissal
+Acts: 
+  - Complaint filed
+  - Dismissal order issued
+  - Motion to Set Aside/Vacate filed
+  - Motion granted
+Agreements: 
+Laws: 
+  - Code of Civil Procedure section 581, subdivision (b)(3)
+  - Code of Civ. Proc. section 473(b)
+Case Citations: 
+Statutes: 
+Roles: 
+  - Judge: Deciding on the motion
+  - Plaintiff: Seeking to vacate dismissal
+  - Defendant: Opposed to motion
+Significant Statements: 
+  - "Plaintiff’s motion is GRANTED."
+  - "Plaintiff failed to appear due to his counsel’s neglect."
+```
+
+## English Summary:
+
+In this case, Plaintiff GABRIELA MARTINEZ GOMEZ filed a motion to vacate the dismissal of her complaint against Defendant HILDA NAOMI BRAVO. The Court dismissed the case on June 15, 2023, because Plaintiff's counsel failed to appear for trial due to a paralegal's scheduling error.  
+
+The Plaintiff filed the motion to vacate the dismissal within the six-month deadline allowed by law. The Judge granted the motion, finding that Plaintiff's failure to appear was due to her counsel's neglect.  
+
+
+
+Let me know if you need any further clarification or have other documents you'd like summarized!
+
+..................... .....................
+On 2025-02-12_08:02:28.943025
+The summary displayed below was created by an LLM named:  "llama3-8b-8192":
+Here is the summary in YAML format:
+
+```
+Case Number: 21STCV45875
+Plaintiff's Name: Gabriela Martinez Gomez
+Defendant's Name: Hilda Naomi Bravo
+People-Names:
+  - Gabriel Martinez Gomez (Plaintiff's counsel)
+  - Hilda Naomi Bravo (Defendant)
+Company-Names: None
+Places: None
+Dates:
+  - June 15, 2023 (dismissal of Complaint)
+  - September 6, 2023 (filing of motion)
+  - September 29, 2023 (hearing date)
+Events:
+  - Dismissal of Complaint
+  - Filing of motion to set aside/vacate dismissal
+  - Hearing
+Money: None
+Intentions:
+  - Plaintiff's intention to set aside/vacate dismissal
+  - Defendant's intention (not stated)
+Facts:
+  - Plaintiff's Complaint was dismissed on June 15, 2023
+  - Plaintiff filed motion to set aside/vacate dismissal on September 6, 2023
+  - Plaintiff's counsel failed to appear for trial due to paralegal's mistake
+Disputes:
+  - Dispute over dismissal of Complaint
+Acts:
+  - Plaintiff filed motion to set aside/vacate dismissal
+  - Plaintiff's counsel failed to appear for trial
+Agreements: None
+Laws:
+  - Code of Civil Procedure section 581, subdivision (b)(3)
+  - Code of Civ. Proc. section 473(b)
+Case Citations: None
+Statutes:
+  - Code of Civil Procedure section 581, subdivision (b)(3)
+  - Code of Civ. Proc. section 473(b)
+Roles:
+  - Judge: deciding on motion to set aside/vacate dismissal
+  - Plaintiff: filing motion to set aside/vacate dismissal
+  - Defendant: not opposing motion
+Significant Statements:
+  - "The court dismissed Plaintiff's Complaint on June 15, 2023 pursuant to Code of Civil Procedure section 581, subdivision (b)(3)"
+  - "Plaintiff's counsel testifies that his paralegal mistakenly calendared the trial and thus, he failed to appear for trial on June 15, 2023."
+  - "Plaintiff failed to appear due to his counsel's neglect"
+```
+
+And here is a summary of the judge's tentative ruling:
+
+The judge has granted the plaintiff's motion to set aside/vacate the dismissal of their complaint. The complaint was dismissed on June 15, 2023 due to the plaintiff's failure to appear for trial, which was caused by their counsel's mistake. The plaintiff filed the motion to set aside/vacate the dismissal on September 6, 2023, within the six-month deadline. Since the motion was unopposed, it has been granted.
+..................... .....................
+On 2025-02-12_08:02:54.129231
+The summary displayed below was created by an LLM named:  "llama-3.3-70b-specdec":
+Exception:
+Error code: 429 - {'error': {'message': 'Rate limit reached for model `llama-3.3-70b-specdec` in organization `org_01hw84cjv0f12v63qt47723ar2` service tier `on_demand` on : Limit 100000, Used 99839, Requested 370. Please try again in 2m59.774999999s. Visit https://console.groq.com/docs/rate-limits for more information.', 'type': '', 'code': 'rate_limit_exceeded'}}
+..................... .....................
+On 2025-02-12_08:12:55.426370
+The summary displayed below was created by an LLM named:  "mixtral-8x7b-32768":
+case\_number: 21STCV45875
+hearing\_date: September 29, 2023
+dept: 30
+plaintiff:
+name: GABRIELA MARTINEZ GOMEZ
+defendants:
+- name: HILDA NAOMI BRAVO
+people\_names:
+- GABRIELA MARTINEZ GOMEZ
+- HILDA NAOMI BRAVO
+- paralegal (unspecified name)
+places:
+- unspecified court location
+dates:
+- June 15, 2023
+- September 6, 2023
+events:
+- dismissal of plaintiff's complaint on June 15, 2023
+- filing of motion to set aside/vacate the dismissal on September 6, 2023
+money: N/A
+intentions:
+- plaintiff's intention to set aside/vacate the dismissal
+facts:
+- plaintiff's complaint was dismissed on June 15, 2023
+- plaintiff's counsel's paralegal mistakenly calendared the trial
+- plaintiff's counsel failed to appear for trial on June 15, 2023 due to the paralegal's mistake
+disputes: N/A
+acts:
+- plaintiff's filing of motion to set aside/vacate the dismissal
+agreements: N/A
+laws:
+- Code of Civil Procedure section 581, subdivision (b)(3)
+- Code of Civil Procedure section 473(b)
+case\_citations: N/A
+statutes: N/A
+roles:
+- plaintiff
+- defendants
+- plaintiff's counsel
+- plaintiff's counsel's paralegal
+significant\_statements:
+- "Plaintiff’s Motion is GRANTED. Moving party is ordered to give notice."
+- "Plaintiff failed to appear due to his counsel’s neglect."
+
+This tentative ruling states that the plaintiff's motion to set aside/vacate the dismissal of her complaint is granted. The court had previously dismissed the plaintiff's complaint on June 15, 2023 due to the plaintiff's failure to appear for trial. However, the plaintiff's counsel asserts that this failure was due to the mistake of the counsel's paralegal, who had mistakenly calendared the trial date. As the plaintiff filed the motion to set aside/vacate the dismissal within the six-month deadline of Code of Civil Procedure section 473(b), the court grants the motion. This motion was unopposed.

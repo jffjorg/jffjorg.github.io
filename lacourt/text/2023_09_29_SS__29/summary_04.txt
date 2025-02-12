@@ -66,3 +66,189 @@ Significant Statements:
 And here is the English-text summary:
 
 The Judge has issued a tentative ruling granting the Defendant's motion to continue the trial from November 20, 2023, to late August 2024. The Judge found good cause to continue the trial due to the Defendant's recent filing of a motion to compel discovery responses, which is set to be heard on October 17, 2023, and a motion for summary judgment, which is set to be heard on June 4, 2024. The Judge considered the proximity of the trial date, the length of the continuance requested, and the availability of alternative means to address the problem. No opposition was filed, and the Judge determined that no party would be unfairly prejudiced by the trial continuance. The motion is granted, and the trial date is reset to late August 2024.
+..................... .....................
+On 2025-02-12_07:23:41.319417
+The summary displayed below was created by an LLM named:  "gemma2-9b-it":
+## Tentative Ruling Summary:
+
+**Case Number:** 21STCV43195
+**Hearing Date:** September 29, 2023
+**Department:** 29
+
+**People-Names:**  None specified 
+**Company-Names:** None specified
+**Places:** None specified
+**Dates:**
+* **Hearing Date:** September 29, 2023
+* **Original Trial Date:** November 20, 2023
+* **New Trial Date:** Late August 2024 
+* **Motion to Compel Hearing:** October 17, 2023
+* **Motion for Summary Judgment Hearing:** June 4, 2024
+**Events:**
+* Defendant filed a motion to continue trial. 
+* Defendant filed a motion to compel Plaintiff's discovery responses.
+* Defendant filed a motion for summary judgment.
+**Money:** None specified
+**Intentions:**
+* Defendant: Continue trial to allow time for discovery and motion for summary judgment.
+ **Facts:** None specified
+**Disputes:** Defendant is disputing Plaintiff's discovery responses. 
+**Acts:** Defendant filed motions to compel discovery and for summary judgment.
+**Agreements:** None specified
+**Laws:**
+* California Rules of Court, rule 3.1332
+* Code of Civil Procedure section 2024.050
+**Case Citations:** None specified
+**Statutes:** None specified
+**Roles:**
+* **Judge:** Deciding on the motion to continue trial.
+* **Defendant:** Moving party seeking to continue trial.
+* **Plaintiff:** Opposing party.
+ **Significant Statements:**
+* The Court finds good cause to continue the trial.
+* No party would be unfairly prejudiced by a trial continuance. 
+
+
+
+## English Text Summary:
+
+The judge has tentatively ruled to grant the defendant's motion to continue the trial. The trial was originally scheduled for November 20, 2023, but will now be held in late August 2024. 
+
+The judge determined there was good cause for the continuance because the defendant recently filed a motion to compel the plaintiff's discovery responses and a motion for summary judgment. These motions need to be heard before trial, and granting the continuance will allow the defendant sufficient time to address them.
+
+The judge also noted that no party opposed the continuance and that no party would be unfairly prejudiced by the delay.
+
+
+
+
+..................... .....................
+On 2025-02-12_07:24:07.075036
+The summary displayed below was created by an LLM named:  "llama3-8b-8192":
+Here is the summary in YAML format:
+
+```
+Case Number: 21STCV43195
+Plaintiff's Name: 
+Defendant's Name: 
+People-Names: 
+Company-Names: 
+Places: 
+Dates:
+  - September 29, 2023
+  - November 20, 2023
+  - October 17, 2023
+  - June 4, 2024
+  - Late August 2024
+Events:
+  - Trial continuance
+  - Motion to compel discovery responses
+  - Motion for summary judgment
+Money: 
+Intentions: 
+Facts:
+  - Defendant's recent motion to compel discovery responses
+  - Defendant's motion for summary judgment
+  - Current trial date (November 20, 2023)
+  - Current deadlines for discovery and motion cut-off
+Disputes: 
+Acts:
+  - Defendant's motion to continue trial
+  - Plaintiff's discovery responses
+  - Defendant's motion to compel discovery responses
+  - Motion for summary judgment
+Agreements:
+  - None mentioned
+Laws:
+  - California Rules of Court, rule 3.1332
+  - California Code of Civil Procedure section 2024.050
+Case Citations:
+  - California Rules of Court, rule 3.1332
+  - California Code of Civil Procedure section 2024.050
+Statutes:
+  - California Rules of Court, rule 3.1332
+  - California Code of Civil Procedure section 2024.050
+Roles:
+  - Judge
+  - Defendant
+  - Plaintiff
+Significant Statements:
+  - "Good cause" for a trial continuance includes unavailability of trial counsel or witnesses, addition of a new party, inability to obtain essential testimony, or a significant, unanticipated change in the status of the case.
+  - The Court finds there is good cause to continue trial due to the Defendant's motion to compel discovery responses and motion for summary judgment.
+```
+
+And here is a summary of the judge's tentative ruling in English text:
+
+The defendant has moved to continue the trial from November 20, 2023, to August 2024. The court has granted this motion, finding that there is good cause for the continuance. The defendant needs additional time to review the plaintiff's discovery responses and to have a motion for summary judgment heard before trial. The court has also reset the final status conference and all deadlines based on the new trial date.
+..................... .....................
+On 2025-02-12_07:24:32.272410
+The summary displayed below was created by an LLM named:  "llama-3.3-70b-specdec":
+Exception:
+Error code: 429 - {'error': {'message': 'Rate limit reached for model `llama-3.3-70b-specdec` in organization `org_01hw84cjv0f12v63qt47723ar2` service tier `on_demand` on : Limit 100000, Used 99352, Requested 1132. Please try again in 6m57.676s. Visit https://console.groq.com/docs/rate-limits for more information.', 'type': '', 'code': 'rate_limit_exceeded'}}
+..................... .....................
+On 2025-02-12_07:34:33.631637
+The summary displayed below was created by an LLM named:  "mixtral-8x7b-32768":
+case\_number: 21STCV43195
+hearing\_date: September 29, 2023
+dept: 29
+
+parties:
+plaintiff: Not specified
+defendant: Not specified
+
+people:
+- name: Not specified
+  role: Trial counsel or witnesses
+
+companies:
+- name: Not specified
+
+places: Not specified
+
+dates:
+- November 20, 2023
+- August 2024
+- October 17, 2023
+- June 4, 2024
+
+events:
+- Defendant's motion to continue trial
+- Defendant's motion to compel Plaintiff’s discovery responses
+- Defendant's motion for summary judgment
+
+money: Not specified
+
+intentions:
+- Defendant's intention to continue trial to August 2024
+- Defendant's intention to review Plaintiff’s discovery responses or seek additional discovery
+- Defendant's intention to have the motion for summary judgment heard before trial
+
+facts:
+- Defendant's motion to compel responses is currently scheduled to be heard on October 17, 2023
+- The discovery cutoff deadline will pass if Defendant needs to seek additional discovery
+- The motion for summary judgment is currently scheduled to be heard after the date of trial
+
+disputes: Not specified
+
+acts:
+- Defendant's motion to continue trial
+- Defendant's motion to compel Plaintiff’s discovery responses
+- Defendant's motion for summary judgment
+
+agreements: Not specified
+
+laws:
+- California Rules of Court, rule 3.1332, subdivision (c)
+- Code of Civil Procedure section 2024.050
+
+case\_citations: Not specified
+
+statutes: Not specified
+
+roles:
+- Trial counsel
+- Witnesses
+
+significant\_statements:
+- "Defendant’s motion to continue trial is GRANTED."
+- "The Court finds there is good cause to continue trial..."
+- "Trial is continued to late August 2024."

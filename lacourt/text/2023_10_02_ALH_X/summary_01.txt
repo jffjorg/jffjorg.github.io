@@ -68,3 +68,216 @@ Significant Statements:
 And here is a summary of the judge's tentative ruling in English text:
 
 The judge has granted the defendant's motion to compel discovery responses from the plaintiff. The defendant had served the plaintiff with requests for production of documents and form interrogatories, but the plaintiff failed to respond timely. The parties had agreed to extend the deadline for the plaintiff to respond, but the plaintiff still failed to provide discovery responses. The judge ordered the plaintiff to provide responses without objections to the defendant's requests within 10 days of the date of the order. The judge denied the defendant's request for sanctions.
+..................... .....................
+On 2025-02-12_09:03:56.927030
+The summary displayed below was created by an LLM named:  "gemma2-9b-it":
+## Tentative Ruling Summary in YAML
+
+```yaml
+Case Number: 22AHCV00049
+Plaintiff's Name: Jamie Zhao
+Defendant's Name: A-May Investment, LLC
+People-Names:
+  - Jamie Zhao
+  - Joel L. Lofton
+Company-Names:
+  - A-May Investment, LLC
+Places:
+  - Department X, Los Angeles Superior Court
+Dates:
+  - January 31, 2022: Complaint filed
+  - March 17, 2023: Form interrogatories served
+  - June 6, 2023: Requests for production served
+  - August 6, 2023: Agreed deadline for response
+  - September 1, 2023: Motion to compel filed
+  - October 2, 2023: Tentative ruling issued
+  - October 2, 2023: Hearing date
+  - October 24, 2023: Trial date
+Events:
+  - Motion filed to compel discovery responses
+  - Plaintiff failed to respond to discovery requests
+Money:
+  - $663,786.22: Unpaid principal
+  - $39,156.72: Unpaid late fees
+Intentions:
+  - Defendant seeks to compel discovery responses
+  - Plaintiff seeks to avoid providing discovery responses
+Facts:
+  - Defendant loaned money to Plaintiff
+  - Plaintiff failed to repay the loan
+Disputes:
+  - Whether Plaintiff breached the contract
+Acts:
+  - Plaintiff filed a complaint alleging breach of contract
+  - Defendant served discovery requests
+Agreements:
+  - Parties agreed to extend deadline for Plaintiff's response
+Laws:
+  - Code Civ. Proc. section 2030.290, subd. (b)
+  - Code Civ. Proc. section 2031.300, subd. (b)
+Case Citations:
+  - Not specified in the document
+Statutes:
+  - Code of Civil Procedure
+Roles:
+  - Judge Joel L. Lofton: Presiding Judge
+  - Plaintiff Jamie Zhao: Claimant
+  - Defendant A-May Investment, LLC: Defendant
+Significant Statements:
+  - "Defendant’s motions to compel discovery responses is GRANTED."
+  - "Plaintiff is ordered to provide responses without objections to Defendant’s requests for the production of documents and form interrogatories within 10 days of the date of this order."
+
+
+
+```
+
+## English Summary
+
+Judge Joel L. Lofton's tentative ruling grants Defendant A-May Investment, LLC's motion to compel Plaintiff Jamie Zhao to respond to discovery requests. 
+
+The case stems from a promissory note where Plaintiff alleges Defendant owes $663,786.22 in principal, $39,156.72 in late fees, and accrued interest. 
+
+Defendant served discovery requests on Plaintiff, but Plaintiff failed to respond by the agreed-upon deadline.  
+
+The Judge ruled that Defendant is entitled to the discovery responses and ordered Plaintiff to provide them without objections within 10 days. The Judge denied Defendant's request for sanctions.
+
+
+
+..................... .....................
+On 2025-02-12_09:04:22.726392
+The summary displayed below was created by an LLM named:  "llama3-8b-8192":
+Here is the summary in YAML format:
+
+```yaml
+Case Number: 22AHCV00049
+Plaintiff's Name: Jamie Zhao
+Defendant's Name: A-May Investment, LLC
+People-Names:
+  - Jamie Zhao
+  - Joel L. Lofton
+Company-Names:
+  - A-May Investment, LLC
+Places:
+  - California
+Dates:
+  - January 31, 2022
+  - March 17, 2023
+  - June 6, 2023
+  - August 6, 2023
+  - October 2, 2023
+  - October 24, 2023
+Events:
+  - Breach of contract
+  - Common counts
+  - Failure to repay promissory note
+Money:
+  - $663,786.22
+  - $39,156.72
+Intentions:
+  - Plaintiff: Breach of contract and common counts
+  - Defendant: Compel discovery responses
+Facts:
+  - Plaintiff filed complaint on January 31, 2022
+  - Defendant served discovery requests on March 17, 2023 and June 6, 2023
+  - Plaintiff failed to timely respond
+Disputes:
+  - Defendant's motion to compel discovery responses
+Acts:
+  - Plaintiff failed to respond to discovery requests
+  - Defendant moved for an order compelling discovery responses
+Agreements:
+  - Parties agreed to extend deadline for Plaintiff to respond
+Laws:
+  - Code Civ. Proc. section 2030.290, subd. (b)
+  - Code Civ. Proc. section 2031.300, subd. (b)
+Case Citations:
+  - None
+Statutes:
+  - Code of Civil Procedure
+Roles:
+  - Judge: Joel L. Lofton
+  - Plaintiff: Jamie Zhao
+  - Defendant: A-May Investment, LLC
+Significant Statements:
+  - Defendant's motions to compel discovery responses is GRANTED
+  - Plaintiff is ordered to provide responses without objections
+  - Defendant's request for sanctions is DENIED
+```
+
+And here is a summary of the judge's tentative ruling in English text:
+
+The judge has granted the defendant's motion to compel discovery responses from the plaintiff. The plaintiff failed to respond to the defendant's requests for production of documents and form interrogatories despite agreeing to extend the deadline. The judge has ordered the plaintiff to provide responses without objections within 10 days of the date of the order. The defendant's request for sanctions was denied.
+..................... .....................
+On 2025-02-12_09:04:47.917425
+The summary displayed below was created by an LLM named:  "llama-3.3-70b-specdec":
+Exception:
+Error code: 429 - {'error': {'message': 'Rate limit reached for model `llama-3.3-70b-specdec` in organization `org_01hw84cjv0f12v63qt47723ar2` service tier `on_demand` on : Limit 100000, Used 98930, Requested 1276. Please try again in 2m57.876999999s. Visit https://console.groq.com/docs/rate-limits for more information.', 'type': '', 'code': 'rate_limit_exceeded'}}
+..................... .....................
+On 2025-02-12_09:14:49.416617
+The summary displayed below was created by an LLM named:  "mixtral-8x7b-32768":
+case\_number: 22AHCV00049
+hearing\_date: October 2, 2023
+dept: X
+
+parties:
+plaintiff:
+name: Jamie Zhao
+type: individual
+
+defendant:
+name: A-May Investment, LLC
+type: California limited liability company
+
+people:
+- name: Joel L. Lofton
+role: Judge of the Superior Court
+
+places:
+- Department X
+
+dates:
+- January 31, 2022
+- September 1, 2023
+- October 2, 2023
+- October 24, 2023
+
+events:
+- Plaintiff Jamie Zhao filed the complaint against Defendant A-May Investment, LLC
+- Defendant failed to repay under a promissory note
+- Defendant owed $663,786.22 in unpaid principal, $39,156.72 in unpaid late fees, and accrued interest
+- Defendant served form interrogatories on March 17, 2023
+- Defendant served requests for production on June 6, 2023
+- Parties agreed to extend the deadline for Plaintiff to respond to August 6, 2023
+- Plaintiff failed to timely respond
+
+money:
+- $663,786.22
+- $39,156.72
+
+intentions:
+- Defendant moves for an order compelling Plaintiff to provide discovery responses
+- Defendant requests sanctions
+
+facts:
+- Defendant served Plaintiff with discovery requests
+- Plaintiff failed to provide any response
+
+disputes:
+- Plaintiff's failure to provide discovery responses
+
+acts:
+- Filing of the complaint
+- Serving of discovery requests
+- Failing to provide discovery responses
+
+agreements:
+- Parties agreed to extend the deadline for Plaintiff to respond
+
+laws:
+- Code Civ. Proc. section 2030.290, subd. (b)
+- Code Civ. Proc. section 2031.300, subd. (b)
+
+significant\_statements:
+- "Defendant’s motions to compel discovery responses is GRANTED."
+- "Plaintiff is ordered to provide responses without objections to Defendant’s requests for the production of documents and form interrogatories within 10 days of the date of this order."
+- "Defendant’s request for sanctions is DENIED."

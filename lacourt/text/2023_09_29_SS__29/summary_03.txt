@@ -56,3 +56,153 @@ Significant Statements:
 And here is the English-text summary:
 
 The Judge has issued a tentative ruling granting the Defendant's motion to continue trial from December 30, 2023, to early July 2024. The Judge finds that there is good cause to continue the trial due to the Defendant's motion for summary judgment, which is currently scheduled to be heard on April 30, 2024. As the current trial date would prevent the motion for summary judgment from being heard, the Judge has decided to grant the motion and reset the Final Status Conference and all deadlines to the new trial date.
+..................... .....................
+On 2025-02-12_07:12:23.313975
+The summary displayed below was created by an LLM named:  "gemma2-9b-it":
+## Tentative Ruling Summary - Case 21STCV24183
+
+**Case Number:** 21STCV24183
+**Hearing Date:** September 29, 2023
+**Dept:** 29
+
+**People-Names:**  Not specified in the provided text.
+**Company-Names:** Not specified in the provided text.
+**Places:** Not specified in the provided text.
+**Dates:**
+* **Hearing Date:** September 29, 2023
+* **Original Trial Date:** December 30, 2023
+* **New Trial Date:** Early July 2024
+* **Motion for Summary Judgment Hearing:** April 30, 2024
+**Events:** 
+* Defendant filed a motion to continue trial.
+* Judge issued a tentative ruling granting the motion.
+* Trial date is continued to early July 2024.
+* Final Status Conference and all deadlines are reset.
+**Money:** Not specified in the provided text.
+**Intentions:**
+* **Defendant's Intention:** Continue trial to allow time for a motion for summary judgment to be heard.
+**Facts:**  Not specified in the provided text.
+**Disputes:** Not explicitly stated, but the case likely involves a dispute that is being litigated.
+**Acts:**
+* **Defendant:** Filed a motion to continue trial.
+* **Judge:** Issued a tentative ruling granting the motion to continue trial.
+**Agreements:** Not specified in the provided text.
+**Laws:**
+* **California Rules of Court, rule 3.1332:** Governs continuances of trial dates.
+* **Code of Civil Procedure section 2024.050:** Allows for leave to complete discovery proceedings.
+**Case Citations:** Not specified in the provided text.
+**Statutes:**
+* **California Rules of Court, rule 3.1332**
+* **Code of Civil Procedure section 2024.050**
+**Roles:**
+* **Plaintiff:**  Not named in the text.
+* **Defendant:**  Moving party seeking to continue trial.
+* **Judge:** Issuing the tentative ruling.
+**Significant Statements:**
+* "The Court finds there is good cause to continue trial as Defendant’s motion for summary judgment is currently scheduled to be heard on April 30, 2024."
+
+## English Summary
+
+The judge has issued a tentative ruling granting the defendant's motion to continue the trial. The trial is currently set for December 30, 2023, but will now be held in early July 2024.  
+
+The judge found good cause for the continuance because the defendant plans to file a motion for summary judgment on April 30, 2024, and the current trial date would prevent the motion from being heard before the trial.  Since no party opposed the continuance, the judge determined that no party would be unfairly prejudiced.
+
+The Final Status Conference and all other deadlines will be reset based on the new trial date.
+
+
+
+..................... .....................
+On 2025-02-12_07:12:49.058969
+The summary displayed below was created by an LLM named:  "llama3-8b-8192":
+Here is the summary in YAML format:
+
+```
+Case Number: 21STCV24183
+Plaintiff's Name: Not mentioned
+Defendant's Name: Not mentioned
+People-Names: Not mentioned
+Company-Names: Not mentioned
+Places: Not mentioned
+Dates:
+  - September 29, 2023 (Hearing Date)
+  - December 30, 2023 (Original Trial Date)
+  - April 30, 2024 (Motion for Summary Judgment)
+  - July 2024 (New Trial Date)
+Events:
+  - Defendant's motion to continue trial
+Money: Not mentioned
+Intentions:
+  - Defendant's intention to file a motion for summary judgment
+Facts:
+  - Trial currently set for December 30, 2023
+  - Defendant's motion for summary judgment currently scheduled for April 30, 2024
+  - No opposition filed to the motion to continue trial
+Disputes:
+  - None mentioned
+Acts:
+  - Defendant's motion to continue trial
+  - Request to reset deadlines and status conference
+Agreements:
+  - None mentioned
+Laws:
+  - California Rules of Court, rule 3.1332
+  - Code of Civil Procedure section 2024.050
+Case Citations:
+  - California Rules of Court, rule 3.1332
+  - Code of Civil Procedure section 2024.050
+Statutes: Not mentioned
+Roles:
+  - Judge
+  - Defendant
+  - Plaintiff (not mentioned)
+Significant Statements:
+  - Defendant's motion for summary judgment cannot be heard before the current trial date
+  - No party would be unfairly prejudiced by a trial continuance
+```
+
+Here is a summary of the judge's tentative ruling in English text:
+
+The judge has granted the defendant's motion to continue the trial from December 30, 2023, to early July 2024. The defendant's motion for summary judgment is currently scheduled for April 30, 2024, and cannot be heard before the current trial date. Since no opposition has been filed, the judge finds that no party would be unfairly prejudiced by a trial continuance. The motion is granted, and the trial date, final status conference, and deadlines are reset based on the new trial date.
+..................... .....................
+On 2025-02-12_07:13:14.267157
+The summary displayed below was created by an LLM named:  "llama-3.3-70b-specdec":
+Exception:
+Error code: 429 - {'error': {'message': 'Rate limit reached for model `llama-3.3-70b-specdec` in organization `org_01hw84cjv0f12v63qt47723ar2` service tier `on_demand` on : Limit 100000, Used 100136, Requested 1041. Please try again in 16m57.063s. Visit https://console.groq.com/docs/rate-limits for more information.', 'type': '', 'code': 'rate_limit_exceeded'}}
+..................... .....................
+On 2025-02-12_07:23:15.058508
+The summary displayed below was created by an LLM named:  "mixtral-8x7b-32768":
+case\_number: 21STCV24183
+hearing\_date: September 29, 2023
+dept: 29
+
+tentative\_ruling: granted
+
+defendants:
+- Name: not\_specified
+
+events:
+- type: motion\_to\_continue\_trial
+  date: December 30, 2023
+  new\_date: early July 2024
+
+laws:
+- name: California Rules of Court, rule 3.1332, subdivision (c)
+- name: Code of Civil Procedure section 2024.050
+
+reasons\_for\_ruling:
+- necessity\_of\_discovery
+- diligence\_in\_seeking\_discovery
+- likelihood\_of\_interference\_with\_trial\_calendar
+- prejudice\_to\_a\_party
+- length\_of\_time\_since\_previous\_trial\_dates
+
+motion\_for\_summary\_judgment:
+- scheduled\_date: April 30, 2024
+- impact\_on\_trial: prevents\_hearing\_before\_trial\_date
+
+prejudice\_to\_parties: not\_apparent
+
+final\_status\_conference: reset\_based\_on\_new\_trial\_date
+
+moving\_party: defendants
+order: give\_notice

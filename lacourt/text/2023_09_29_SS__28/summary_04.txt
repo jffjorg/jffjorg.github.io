@@ -64,3 +64,215 @@ Significant Statements:
 And here is a summary of the judge's tentative ruling in English text:
 
 The court has considered the documents submitted in support of the default judgment and rules as follows. The plaintiff, State Farm General Insurance Company, has requested a default judgment against the defendant, Nabu Hernandez, for subrogation and indebtedness. The complaint demands $129,301.85 in damages. The court has granted the request and enters judgment of $129,833.35 against the defendant. The court has determined that the relief granted does not exceed the amount demanded in the complaint and that the defendant has been given adequate notice of the judgment. The court has also followed the requirements of California Rules of Court and California Code of Civil Procedure.
+..................... .....................
+On 2025-02-12_06:48:01.092598
+The summary displayed below was created by an LLM named:  "gemma2-9b-it":
+## Tentative Ruling Summary in YAML
+
+```yaml
+Case Number: 21STCV44910
+Hearing Date: September 29, 2023
+Dept: 28
+
+People-Names:
+  - Nabu Hernandez
+  - Does 1-100
+
+Company-Names:
+  - State Farm General Insurance Company
+
+Places: 
+
+Dates:
+  - December 9, 2021
+  - November 29, 2022
+  - March 13, 2023
+  - September 18, 2023
+  - September 29, 2023
+
+Events:
+  - Complaint filed by Plaintiff against Defendant and Does 1-100 for subrogation and indebtedness on December 9, 2021
+  - Default entered against Defendant on November 29, 2022
+  - Doe defendants dismissed without prejudice on March 13, 2023
+  - Plaintiff filed request for default judgment on September 18, 2023
+  - Hearing on default judgment scheduled for September 29, 2023
+
+Money:
+  - $129,301.85 (Original demand in complaint)
+  - $129,833.35 (Total requested judgment)
+  - $531.50 (Costs)
+
+Intentions:
+  - Plaintiff seeks default judgment against Defendant
+
+Facts: 
+
+Disputes: 
+
+Acts:
+  - Plaintiff filed complaint for subrogation and indebtedness
+  - Default entered against Defendant
+  - Doe defendants dismissed
+  - Plaintiff filed request for default judgment
+
+Agreements: 
+
+Laws:
+  - Code of Civil Procedure, §§ 580, subd. (a), 585, subd. (b)
+  - California Rules of Court, rule 3.1800(a)
+
+Case Citations:
+  - Johnson v. Stanhiser (1999) 72 Cal.App.4th 357
+  - Becker v. S.P.V. Construction Co. (1980) 27 Cal.3d 489
+
+Statutes: 
+
+Roles:
+  - Plaintiff: State Farm General Insurance Company
+  - Defendant: Nabu Hernandez
+  - Doe defendants: Fictitious defendants
+
+Significant Statements:
+  - "The Court grants the motion."
+  - "The Court enters judgment of $129,833.35 against Defendant Nabu Hernandez."
+
+
+
+```
+
+## English Summary
+
+The judge is tentatively ruling in favor of the Plaintiff, State Farm General Insurance Company, and against the Defendant, Nabu Hernandez, in a case regarding subrogation and indebtedness. 
+
+The Plaintiff filed a complaint in December 2021 seeking $129,301.85 in damages. The Defendant defaulted on November 29, 2022, and the Doe defendants were dismissed in March 2023. The Plaintiff then requested a default judgment, which is scheduled to be heard on September 29, 2023.
+
+The judge finds that the Plaintiff has met the requirements for a default judgment and will award the Plaintiff $129,833.35. This amount includes the original $129,301.85 demanded in the complaint, plus $531.50 in costs. 
+
+
+
+..................... .....................
+On 2025-02-12_06:48:27.124678
+The summary displayed below was created by an LLM named:  "llama3-8b-8192":
+Here is the summary of the judge's tentative ruling in YAML format:
+
+```
+Case Number: 21STCV44910
+Plaintiff's Name: State Farm General Insurance Company
+Defendant's Name: Nabu Hernandez
+People-Names:
+  - Nabu Hernandez
+Company-Names:
+  - State Farm General Insurance Company
+Places:
+  - None
+Dates:
+  - December 9, 2021
+  - November 29, 2022
+  - March 13, 2023
+  - September 18, 2023
+  - September 29, 2023
+Events:
+  - Filing of complaint
+  - Entry of default
+  - Dismissal of Doe defendants
+  - Request for default judgment
+  - Hearing on default judgment
+Money:
+  - $129,301.85 (demand of complaint)
+  - $0.00 (prejudgment interest)
+  - $0.00 (attorney's fees)
+  - $531.50 (costs)
+  - $129,833.35 (total judgment)
+Intentions:
+  - Plaintiff seeks default judgment against Defendant
+Facts:
+  - Plaintiff filed complaint on December 9, 2021
+  - Defendant was served with complaint
+  - Default was entered on November 29, 2022
+  - Doe defendants were dismissed on March 13, 2023
+Disputes:
+  - None
+Acts:
+  - Plaintiff filed request for default judgment
+  - Plaintiff submitted completed packet with necessary evidence
+  - Court granted motion for default judgment
+Agreements:
+  - None
+Laws:
+  - California Rules of Court, rule 3.1800(a)
+  - Code of Civil Procedure sections 580, 585
+  - Cal. Practice Guide: Civil Procedure Before Trial (Rutter 2023)
+Statutes:
+  - None
+Roles:
+  - Plaintiff: State Farm General Insurance Company
+  - Defendant: Nabu Hernandez
+  - Judge: (unspecified)
+Significant Statements:
+  - "The relief granted to a plaintiff upon entry of a defendant's default cannot exceed the amount demanded in the complaint or, for personal injury cases where damages may not be stated in the complaint, the amount listed in the statement of damages."
+  - "The notice requirement of section 580 was designed to insure fundamental fairness."
+```
+
+And here is a summary of the judge's tentative ruling in English text:
+
+The judge has considered the documents submitted in support of a default judgment against Nabu Hernandez and has granted the motion for default judgment. The plaintiff, State Farm General Insurance Company, is seeking $129,833.35 in damages, which includes $129,301.85 as the demand of the complaint, $0.00 in prejudgment interest, $0.00 in attorney's fees, and $531.50 in costs. The court has determined that the plaintiff has submitted a completed packet with all necessary evidence and has granted the motion for default judgment. The court enters judgment of $129,833.35 against Defendant Nabu Hernandez.
+..................... .....................
+On 2025-02-12_06:48:52.285704
+The summary displayed below was created by an LLM named:  "llama-3.3-70b-specdec":
+Exception:
+Error code: 429 - {'error': {'message': 'Rate limit reached for model `llama-3.3-70b-specdec` in organization `org_01hw84cjv0f12v63qt47723ar2` service tier `on_demand` on : Limit 100000, Used 100302, Requested 1209. Please try again in 21m45.846s. Visit https://console.groq.com/docs/rate-limits for more information.', 'type': '', 'code': 'rate_limit_exceeded'}}
+..................... .....................
+On 2025-02-12_06:58:53.727391
+The summary displayed below was created by an LLM named:  "mixtral-8x7b-32768":
+case\_number: 21STCV44910
+hearing\_date: September 29, 2023
+dept: 28
+plaintiff:
+  - name: State Farm General Insurance Company
+people:
+  - name: Nabu Hernandez
+  - name: Does 1-100
+places:
+  - name: unspecified
+dates:
+  - December 9, 2021
+  - November 29, 2022
+  - March 13, 2023
+  - September 18, 2023
+events:
+  - Plaintiff filed a complaint against Defendant and Does 1-100
+  - Clerk entered default against Defendant
+  - Court dismissed Does 1-100
+  - Plaintiff filed a request for default judgment
+money:
+  - $129,301.85 (Plaintiff's claim)
+  - $129,833.35 (Plaintiff's request)
+  - $0.00 (prejudgment interest)
+  - $0.00 (attorney's fees)
+  - $531.50 (costs)
+intentions:
+  - Plaintiff seeks a default judgment against Defendant
+facts:
+  - Plaintiff submitted all necessary evidence for default judgment
+disputes:
+  - None mentioned
+acts:
+  - Filing of the complaint
+  - Entering of default
+  - Request for default judgment
+agreements:
+  - None mentioned
+laws:
+  - Cal. Rules of Court, rule 3.1800(a)
+  - Code of Civil Procedure, sections 580, 585, 579
+case\_citations:
+  - Johnson v. Stanhiser (1999) 72 Cal.App.4th 357
+  - Becker v. S.P.V. Construction Co. (1980) 27 Cal.3d 489
+roles:
+  - Plaintiff
+  - Defendant
+significant\_statements:
+  - "The Court grants the motion."
+  - "The Court enters judgment of $129,833.35 against Defendant Nabu Hernandez."
+
+In this tentative ruling, the Judge considers a default judgment request from Plaintiff State Farm General Insurance Company against Defendant Nabu Hernandez. The case was filed on December 9, 2021, and the clerk entered default against Defendant on November 29, 2022. Plaintiff seeks $129,833.35, including the original $129,301.85 claim, $0.00 in prejudgment interest, $0.00 in attorney's fees, and $531.50 in costs. The Judge grants the motion based on Plaintiff's submitted evidence. The entered judgment is $129,833.35 against Defendant Nabu Hernandez. Plaintiff is ordered to give notice of this ruling.

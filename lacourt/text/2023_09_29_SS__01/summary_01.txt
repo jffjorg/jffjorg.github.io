@@ -40,3 +40,23 @@ Schmidt v. Foundation Health, 35 Cal.App.4th 1702 (1995); Taylor v. City of Los 
 ```
 
 The judge's tentative ruling overrules the demurrer in its entirety, finding that the complaint states a cause of action for violation of Civ. Code § 1940.1, Civ. Code § 52.1, negligence, and unfair competition. The court also finds that the class allegations are sufficient at the pleading stage and that the class is ascertainable.
+..................... .....................
+On 2025-02-12_04:54:34.489466
+The summary displayed below was created by an LLM named:  "gemma2-9b-it":
+Exception:
+Error code: 400 - {'error': {'message': 'Please reduce the length of the messages or completion.', 'type': 'invalid_request_error', 'param': 'messages', 'code': 'context_length_exceeded'}}
+..................... .....................
+On 2025-02-12_05:04:34.759869
+The summary displayed below was created by an LLM named:  "llama3-8b-8192":
+Exception:
+Error code: 413 - {'error': {'message': 'Request too large for model `llama3-8b-8192` in organization `org_01hw84cjv0f12v63qt47723ar2` service tier `on_demand` on tokens per minute (TPM): Limit 6000, Requested 9470, please reduce your message size and try again. Visit https://console.groq.com/docs/rate-limits for more information.', 'type': 'tokens', 'code': 'rate_limit_exceeded'}}
+..................... .....................
+On 2025-02-12_05:14:35.100674
+The summary displayed below was created by an LLM named:  "llama-3.3-70b-specdec":
+Exception:
+Error code: 429 - {'error': {'message': 'Rate limit reached for model `llama-3.3-70b-specdec` in organization `org_01hw84cjv0f12v63qt47723ar2` service tier `on_demand` on : Limit 100000, Used 98493, Requested 9470. Please try again in 1h54m39.235s. Visit https://console.groq.com/docs/rate-limits for more information.', 'type': '', 'code': 'rate_limit_exceeded'}}
+..................... .....................
+On 2025-02-12_05:24:35.544877
+The summary displayed below was created by an LLM named:  "mixtral-8x7b-32768":
+Exception:
+Error code: 413 - {'error': {'message': 'Request too large for model `mixtral-8x7b-32768` in organization `org_01hw84cjv0f12v63qt47723ar2` service tier `on_demand` on tokens per minute (TPM): Limit 5000, Requested 10829, please reduce your message size and try again. Visit https://console.groq.com/docs/rate-limits for more information.', 'type': 'tokens', 'code': 'rate_limit_exceeded'}}
