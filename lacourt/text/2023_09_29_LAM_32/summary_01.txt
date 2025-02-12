@@ -69,3 +69,224 @@ Significant Statements:
 And here is the English summary:
 
 This is a tentative ruling by the judge regarding a motion to compel responses to discovery filed by Defendant Dean A. Avedon. The case involves a dispute over a judgment entered in favor of the defendants in 2022, and the current motion is an attempt by Defendant Avedon to compel the plaintiffs to respond to post-judgment demands for inspection. The judge granted the motion, finding that no substantial justification has been provided for the plaintiffs' failure to respond to discovery. Sanctions of $765 are awarded against the plaintiffs, and they are required to serve responses to the subject demands for inspection within 15 days.
+..................... .....................
+On 2025-02-11_20:38:06.579357
+The summary displayed below was created by an LLM named:  "gemma2-9b-it":
+## Tentative Ruling Summary in YAML
+
+```yaml
+Case Number: 18MCV00212
+Hearing Date: September 29, 2023
+Dept: 32
+
+People-Names:
+  - Dean A. Avedon
+  - David Beitchman
+
+Company-Names:
+  - Hero Dogs Season One LLC (HDS1)
+  - Nuriya Entertainment LLC (Nuriya)
+  - Bemel, Ross & Avedon, LLP
+  - Beitchman & Zekian, a Professional Law Corporation
+
+Places: 
+  - Court
+
+Dates:
+  - November 9, 2018
+  - June 11, 2019
+  - October 31, 2022
+  - December 6, 2022
+  - September 1, 2023
+  - May 10, 2023
+  - June 14, 2023
+
+Events:
+  - Lawsuit commenced by HDS1 and Nuriya against Dean Avedon, Bemel, Ross & Avedon, LLP, David Beitchman, and Beitchman & Zekian, a Professional Law Corporation.
+  - First Amended Complaint filed.
+  - Bench trial held.
+  - Judgment entered in favor of Defendants.
+  - Appeal of judgment dismissed.
+  - Dean Avedon, as judgment creditor, filed a motion to compel Plaintiffs to respond to post-judgment demands for inspection.
+
+Money:
+  - $765 (sanctions)
+
+Intentions:
+  - Dean Avedon seeks to compel discovery responses from Plaintiffs.
+
+Facts:
+  - Plaintiffs HDS1 and Nuriya failed to respond to Dean Avedon's demands for inspection within the allotted time.
+  - No substantial justification was provided for the failure to respond.
+
+Disputes:
+  - Plaintiffs' failure to respond to discovery requests.
+
+Acts:
+  - Dean Avedon served demands for inspection on Plaintiffs.
+  - Plaintiffs failed to respond to the demands within 30 days.
+  - Dean Avedon filed a motion to compel responses.
+
+Agreements:
+  - None
+
+Laws:
+  - Code of Civil Procedure, Sections 2030.260(a), 2031.260(a), 2033.250(a), 2030.290(b), 2031.300(b), 2033.280(b)
+
+Case Citations:
+  - None
+
+Statutes:
+  - Code of Civil Procedure
+
+Roles:
+  - Plaintiffs: HDS1 and Nuriya
+  - Defendant: Dean Avedon
+  - Judgment Creditor: Dean Avedon
+  - Judgment Debtors: Plaintiffs
+
+Significant Statements:
+  - "No substantial justification has been provided for Plaintiffs’ failure to respond to discovery."
+  - "Sanctions are warranted in the amount of $765..."
+
+
+
+```
+
+## English Summary
+
+This tentative ruling addresses a motion filed by Defendant Dean Avedon to compel Plaintiffs Hero Dogs Season One LLC and Nuriya Entertainment LLC to respond to post-judgment demands for inspection. 
+
+The Court background briefly summarizes the underlying lawsuit and appeal, noting that Plaintiffs lost the case and the appeal has been dismissed. The motion at hand stems from Plaintiffs' failure to respond to discovery requests served by Dean Avedon. 
+
+The Court finds that Plaintiffs have failed to meet the statutory deadline for responding to the requests and have not provided justification for their inaction. As a result, the Court grants Defendant Avedon's motion to compel responses. Plaintiffs are ordered to provide their responses within 15 days. Furthermore, the Court imposes sanctions of $765 against Plaintiffs to cover the cost of the motion. 
+
+
+
+..................... .....................
+On 2025-02-11_20:38:32.366843
+The summary displayed below was created by an LLM named:  "llama3-8b-8192":
+Here is the summary in YAML format:
+
+```
+Case Number: 18MCV00212
+Plaintiff's Name: Hero Dogs Season One LLC, et al.
+Defendant's Name: Dean A. Avedon, et al.
+People-Names:
+  - Dean A. Avedon
+  - David Beitchman
+Company-Names:
+  - Hero Dogs Season One LLC
+  - Nuriya Entertainment LLC
+  - Bemel, Ross & Avedon, LLP
+  - Beitchman & Zekian, a Professional Law Corporation
+Places:
+  - None
+Dates:
+  - November 9, 2018
+  - June 11, 2019
+  - October 31, 2022
+  - December 6, 2022
+  - September 1, 2023
+  - May 10, 2023
+  - June 14, 2023
+  - September 29, 2023
+Events:
+  - Commencement of action
+  - Filing of First Amended Complaint
+  - Bench trial
+  - Entry of judgment
+  - Dismissal of appeal
+  - Filing of motion to compel
+Money:
+  - $765 (sanctions)
+Intentions:
+  - To compel responses to discovery requests
+Facts:
+  - Plaintiffs failed to respond to discovery requests
+  - Responses were due by June 14, 2023
+  - No extension was requested or agreed upon
+  - Sanctions are warranted for Plaintiffs' failure to respond
+Disputes:
+  - Failure to respond to discovery requests
+Acts:
+  - Service of discovery requests
+  - Failure to respond to discovery requests
+  - Filing of motion to compel
+  - Award of sanctions
+Agreements:
+  - None
+Laws:
+  - California Code of Civil Procedure (CCP)
+  - CCP §§ 2030.260(a), 2031.260(a), 2033.250(a)
+  - CCP §§ 2030.290(b), 2031.300(b), 2033.280(b)
+Case Citations:
+  - None
+Statutes:
+  - CCP
+Roles:
+  - Plaintiff
+  - Defendant
+  - Judge
+Significant Statements:
+  - "No substantial justification has been provided for Plaintiffs' failure to respond to discovery."
+..................... .....................
+On 2025-02-11_20:38:57.596358
+The summary displayed below was created by an LLM named:  "llama-3.3-70b-specdec":
+Exception:
+Error code: 429 - {'error': {'message': 'Rate limit reached for model `llama-3.3-70b-specdec` in organization `org_01hw84cjv0f12v63qt47723ar2` service tier `on_demand` on : Limit 100000, Used 100306, Requested 791. Please try again in 15m47.906999999s. Visit https://console.groq.com/docs/rate-limits for more information.', 'type': '', 'code': 'rate_limit_exceeded'}}
+..................... .....................
+On 2025-02-11_20:48:59.027578
+The summary displayed below was created by an LLM named:  "mixtral-8x7b-32768":
+case\_number: 18MCV00212
+hearing\_date: September 29, 2023
+dept: 32
+plaintiffs:
+- Hero Dogs Season One LLC (HDS1)
+- Nuriya Entertainment LLC (Nuriya)
+defendants:
+- Dean A. Avedon
+- Bemel, Ross & Avedon, LLP
+- David Beitchman
+- Beitchman & Zekian, a Professional Law Corporation
+people:
+- Dean A. Avedon
+- David Beitchman
+places:
+- not specified in the document
+dates:
+- November 9, 2018: Plaintiffs commenced the action
+- June 11, 2019: Operative First Amended Complaint was filed
+- October 31, 2022: Bench trial
+- December 6, 2022: Court found in favor of Defendants and entered judgment
+- September 1, 2023: Defendant Dean Avedon filed the motion to compel Plaintiffs to respond to post-judgment demands for inspection
+events:
+- Plaintiffs commenced the action against Defendants
+- Plaintiffs did not respond to Defendant's post-judgment demands for inspection
+money:
+- $765: sanctions awarded against Plaintiffs
+intentions:
+- Defendant Avedon intends to compel Plaintiffs to respond to post-judgment demands for inspection
+- Plaintiffs have not provided a substantial justification for their failure to respond to discovery
+facts:
+- Plaintiffs commenced the action against Defendants on November 9, 2018
+- Plaintiffs did not respond to Defendant's post-judgment demands for inspection
+disputes:
+- Plaintiffs' failure to respond to Defendant's post-judgment demands for inspection
+acts:
+- Defendant Avedon filed the motion to compel Plaintiffs to respond to post-judgment demands for inspection
+agreements:
+- not specified in the document
+laws:
+- Code Civ. Proc., §§ 2030.260(a), 2031.260(a), 2033.250(a)
+- Code Civ. Proc., §§ 2030.290(b), 2031.300(b), 2033.280(b)
+case\_citations: not specified in the document
+statutes: not specified in the document
+roles:
+- Plaintiffs: judgment debtors
+- Defendant Avedon: judgment creditor
+significant\_statements:
+- "Defendants were found in favor and entered judgment on December 6, 2022"
+- "Plaintiffs have not filed an opposition to Defendant Avedon's motion"
+- "Plaintiffs shall serve responses to the subject demands for inspection within 15 days"
+- "Sanctions are awarded against Plaintiffs in the total amount of $765, to be paid within 30 days"
