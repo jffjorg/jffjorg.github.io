@@ -73,3 +73,270 @@ Significant Statements:
 And here is a summary of the judge's tentative ruling in English text:
 
 The judge denies the plaintiff's request for entry of default judgment without prejudice. The plaintiff, Northern California Collection Service, Inc., is seeking a default judgment against the defendant, Iman Trucking, Inc., in the amount of $108,871.52. However, the judge finds that the plaintiff's request failed to use the proper form for requesting entry of default judgment, specifically Form CIV-105, which is required for debt collection cases subject to the Fair Debt Collection Practices Act. The judge orders the plaintiff to re-file its request for entry of default judgment using the proper form.
+..................... .....................
+On 2025-02-12_11:41:27.421386
+The summary displayed below was created by an LLM named:  "gemma2-9b-it":
+## Tentative Ruling Summary in YAML
+
+```yaml
+Case Number: 23PSCV01315
+Hearing Date: October 2, 2023
+Dept: 6
+
+People-Names:
+  - Iman Trucking, Inc.
+
+Company-Names:
+  - Northern California Collection Service, Inc.
+  - State Compensation Insurance Fund
+
+Places:
+  - Northern California
+
+Dates:
+  - May 2, 2023: Plaintiff filed the action
+  - August 29, 2023: Default entered against Defendant
+  - September 6, 2023: Plaintiff filed a default judgment package
+  - September 7, 2023: Proposed Judgment (Form JUD-100) filed
+
+Events:
+  - Collections case
+  - Plaintiff seeks default judgment against Defendant
+  - Court finds Plaintiff's request for default judgment used the wrong form
+
+Money:
+  - $108,871.52: Total amount sought by Plaintiff
+    - $90,336.06: Damages
+    - $18,035.46: Interest
+    - $500.00: Costs
+
+Intentions:
+  - Plaintiff intends to collect debt
+
+Facts:
+  - Plaintiff is the assignee of debt from the State Compensation Insurance Fund.
+  - Defendant failed to timely respond or appear.
+
+Disputes:
+  - Whether Plaintiff properly filed for default judgment
+
+Acts:
+  - Plaintiff filed a lawsuit
+  - Defendant failed to respond
+  - Default entered against Defendant
+  - Plaintiff filed a default judgment package
+
+Agreements:
+  - None mentioned
+
+Laws:
+  - Code of Civil Procedure section 585
+  - Cal. Rules of Court, rule 3.1800
+  - Fair Debt Collection Practices Act (Civil Code section 1788.50 et seq.)
+
+Case Citations:
+  - None mentioned
+
+Statutes:
+  - Code of Civil Procedure section 585
+  - Civil Code section 1788.50 et seq.
+
+Roles:
+  - Plaintiff: Northern California Collection Service, Inc.
+  - Defendant: Iman Trucking, Inc.
+
+Significant Statements:
+  - Court denies Plaintiff's request for default judgment without prejudice because the wrong form was used.
+
+
+
+```
+
+## English Text Summary
+
+The Judge has tentatively ruled to deny Plaintiff Northern California Collection Service, Inc.'s request for a default judgment against Defendant Iman Trucking, Inc. The reason for the denial is that Plaintiff used the incorrect form for requesting the default judgment. 
+
+Specifically, the Judge points out that debt collection cases subject to the Fair Debt Collection Practices Act require the use of a specific form (CIV-105). Plaintiff used a different form (CIV-100) which is generally used for other types of default judgments. 
+
+The denial is "without prejudice," meaning Plaintiff can re-file their request using the correct form. 
+
+
+
+..................... .....................
+On 2025-02-12_11:41:53.230450
+The summary displayed below was created by an LLM named:  "llama3-8b-8192":
+Here is the summary in YAML format:
+
+```
+Case Number: 23PSCV01315
+Plaintiff's Name: Northern California Collection Service, Inc.
+Defendant's Name: Iman Trucking, Inc.
+People-Names:
+  - None mentioned
+Company-Names:
+  - Northern California Collection Service, Inc.
+  - Iman Trucking, Inc.
+  - State Compensation Insurance Fund
+Places:
+  - Northern California
+Dates:
+  - May 2, 2023
+  - August 29, 2023
+  - September 6, 2023
+  - September 7, 2023
+  - October 2, 2023
+Events:
+  - Collections case
+  - Default entered against Defendant
+  - Plaintiff filed default judgment package
+  - Request for entry of default judgment denied
+Money:
+  - $108,871.52
+  - $90,336.06
+  - $18,035.46
+  - $500.00
+Intentions:
+  - Plaintiff seeks default judgment against Defendant
+Facts:
+  - Plaintiff is assignee of debt from State Compensation Insurance Fund
+  - Plaintiff filed action on May 2, 2023
+Disputes:
+  - None mentioned
+Acts:
+  - Plaintiff filed default judgment package
+  - Defendant failed to respond or appear
+Agreements:
+  - None mentioned
+Laws:
+  - California Code of Civil Procedure section 585
+  - California Rules of Court, rule 3.1800
+  - California Code of Civil Procedure section 579
+  - California Rules of Court, rule 3.1800, subd. (a)
+  - Civil Code section 1788.50 et seq.
+Statutes:
+  - California Code of Civil Procedure section 585
+  - California Code of Civil Procedure section 579
+  - Civil Code section 1788.50 et seq.
+Roles:
+  - Judge: issued tentative ruling
+  - Plaintiff: seeks default judgment
+  - Defendant: failed to respond or appear
+Significant Statements:
+  - "DENIED without prejudice."
+  - "Plaintiff’s request for entry of default judgment failed to use the proper form for requesting entry of default judgment."
+```
+
+And here is a summary of the judge's tentative ruling in English text:
+
+The judge has denied the plaintiff's request for entry of default judgment without prejudice. The plaintiff, Northern California Collection Service, Inc., is seeking to recover $108,871.52 from Iman Trucking, Inc. for open book monies due. The plaintiff filed the default judgment package, but failed to use the proper form required by the California Rules of Court. Specifically, the plaintiff should have used Form CIV-105, which is required for debt collection cases subject to the Fair Debt Collection Practices Act. The judge has denied the request without prejudice, meaning the plaintiff can re-file the request using the correct form.
+..................... .....................
+On 2025-02-12_11:42:19.049435
+The summary displayed below was created by an LLM named:  "llama-3.3-70b-specdec":
+Here is the summary of the tentative ruling in YAML format:
+
+```yml
+Case Number: 23PSCV01315
+Plaintiff's Name: Northern California Collection Service, Inc.
+Defendant's Name: Iman Trucking, Inc.
+People-Names: 
+  - None
+Company-Names: 
+  - Northern California Collection Service, Inc.
+  - Iman Trucking, Inc.
+  - State Compensation Insurance Fund
+Places: 
+  - Northern California
+Dates: 
+  - May 2, 2023
+  - August 29, 2023
+  - September 6, 2023
+  - September 7, 2023
+  - October 2, 2023
+Events: 
+  - Filing of complaint
+  - Entry of default
+  - Filing of default judgment package
+Money: 
+  - $108,871.52 (total amount sought)
+  - $90,336.06 (damages)
+  - $18,035.46 (interest)
+  - $500.00 (costs)
+Intentions: 
+  - Plaintiff seeks default judgment against Defendant
+Facts: 
+  - Plaintiff is assignee of debt from State Compensation Insurance Fund
+  - Defendant failed to respond or appear
+Disputes: 
+  - None
+Acts: 
+  - Plaintiff filed complaint
+  - Defendant failed to respond or appear
+Agreements: 
+  - None
+Laws: 
+  - Code of Civil Procedure section 585
+  - Fair Debt Collection Practices Act
+  - Civil Code section 1788.50 et seq.
+Case Citations: 
+  - None
+Statutes: 
+  - Code of Civil Procedure section 585
+  - Civil Code section 1788.50 et seq.
+Roles: 
+  - Plaintiff: Northern California Collection Service, Inc.
+  - Defendant: Iman Trucking, Inc.
+  - Judge: [Not specified]
+Significant Statements: 
+  - "The Court finds, however, that Plaintiff’s request for entry of default judgment failed to use the proper form for requesting entry of default judgment."
+  - "The Court DENIES the request for entry of default judgment without prejudice."
+```
+
+And here is a summary of the tentative ruling in English text:
+
+The Judge has denied the plaintiff's request for a default judgment against the defendant, Iman Trucking, Inc., without prejudice. The plaintiff, Northern California Collection Service, Inc., had sought a default judgment in the amount of $108,871.52, including $90,336.06 in damages, $18,035.46 in interest, and $500.00 in costs. However, the Judge found that the plaintiff's request failed to use the proper form, Form CIV-105, which is required for debt collection cases subject to the Fair Debt Collection Practices Act. The Judge denied the request without prejudice, allowing the plaintiff to refile the request using the correct form. The case will proceed to a future hearing, where the plaintiff will have the opportunity to refile the request and the defendant will have the opportunity to respond.
+..................... .....................
+On 2025-02-12_11:42:45.207709
+The summary displayed below was created by an LLM named:  "mixtral-8x7b-32768":
+case\_number: 23PSCV01315
+hearing\_date: October 2, 2023
+dept: 6
+plaintiff: Northern California Collection Service, Inc.
+defendant: Iman Trucking, Inc.
+people\_names: []
+company\_names:
+- Northern California Collection Service, Inc.
+- State Compensation Insurance Fund
+places: Northern California
+dates:
+- May 2, 2023: Plaintiff filed the action
+- August 29, 2023: Default entered against Defendant
+- September 6, 2023: Plaintiff filed a default judgment package
+events:
+- Plaintiff is the assignee of debt from the State Compensation Insurance Fund
+- Plaintiff filed a collections case against Defendant for open book monies due
+money:
+- $108,871.52: Total amount sought by Plaintiff in default judgment
+- $90,336.06: Damages
+- $18,035.46: Interest
+- $500.00: Costs
+intentions:
+- Plaintiff seeks default judgment against Defendant
+facts:
+- Plaintiff failed to use the proper form for requesting entry of default judgment
+disputes:
+- Debt collection case subject to the Fair Debt Collection Practices Act
+acts:
+- Plaintiff filed a Request for Court Judgment
+agreements: []
+laws:
+- Code of Civil Procedure section 585
+- Fair Debt Collection Practices Act
+case\_citations: []
+statutes:
+- Code of Civil Procedure section 585
+- Civil Code section 1788.50 et seq.
+roles:
+- Plaintiff: Requesting default judgment
+- Defendant: Subject of default judgment
+significant\_statements:
+- "The Court DENIES the request for entry of default judgment without prejudice."

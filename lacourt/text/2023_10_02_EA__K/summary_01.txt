@@ -63,3 +63,211 @@ Significant Statements:
 And here is the English-text summary:
 
 The Judge has issued a tentative ruling on the Plaintiff's Application for Default Judgment. The Plaintiff, Banc of America Leasing & Capital, LLC, is seeking default judgment against the Defendant, Little Fat Trucking (LFT), and its guarantor, Xing Wang (Wang). The Plaintiff alleges that LFT failed to make payments and surrender equipment under a commercial finance agreement, and that Wang executed a personal guaranty for the debt. The court grants the Plaintiff's Application for Default Judgment, but reduces the attorney's fees from $6,768.33 to $4,639.17. The Plaintiff is instructed to lodge a proposed judgment indicating the revised attorney's fees.
+..................... .....................
+On 2025-02-12_12:07:47.220690
+The summary displayed below was created by an LLM named:  "gemma2-9b-it":
+## Tentative Ruling Summary in YAML
+
+```yaml
+Case Number: 23PSCV01228
+Hearing Date: October 2, 2023
+Dept: K
+Plaintiff: Banc of America Leasing & Capital, LLC
+Defendant: Little Fat Trucking, Xing Wang
+People-Names:
+  - Xing Wang
+Company-Names:
+  - Banc of America Leasing & Capital, LLC
+  - Little Fat Trucking
+  - ENGS Commercial Finance Co.
+Places: N/A
+Dates:
+  - March 26, 2021
+  - March 24, 2022
+  - August 15, 2022
+  - April 25, 2023
+  - June 27, 2023
+  - October 2, 2023
+Events:
+  - LFT entered into a Commercial Finance Agreement with ENGS to finance five trailers.
+  - Wang executed a personal guaranty for the agreement.
+  - ENGS assigned the agreement to Plaintiff.
+  - LFT failed to make monthly payments.
+  - Plaintiff filed a complaint against LFT and Wang.
+  - Defaults were entered for LFT and Wang.
+  - Plaintiff filed an Application for Default Judgment.
+  - Judge granted default judgment, reducing attorney's fees.
+Money:
+  - $3,804.63 (monthly payment)
+  - $6,768.33 (original attorney fees)
+  - $4,639.17 (reduced attorney fees)
+Intentions:
+  - Plaintiff seeks default judgment against LFT and Wang.
+Facts:
+  - LFT defaulted on its payments for five trailers.
+Disputes:
+  - LFT and Wang dispute the validity of the agreement and the default.
+Acts:
+  - LFT entered into the agreement with ENGS.
+  - Wang executed the personal guaranty.
+  - ENGS assigned the agreement to Plaintiff.
+  - Plaintiff filed a complaint.
+Agreements:
+  - Commercial Finance Agreement between LFT and ENGS.
+  - Personal Guaranty by Wang for the agreement.
+Laws:
+  - N/A
+Case Citations: N/A
+Statutes: N/A
+Roles:
+  - Plaintiff: Banc of America Leasing & Capital, LLC
+  - Defendant: Little Fat Trucking, Xing Wang
+Significant Statements:
+  - Judge granted default judgment against LFT and Wang, reducing Plaintiff's requested attorney fees.
+
+```
+
+## English Summary
+
+The Judge has granted Banc of America Leasing & Capital, LLC's ("Plaintiff") application for a default judgment against Little Fat Trucking ("LFT") and Xing Wang ("Wang"). The Plaintiff alleged that LFT defaulted on a commercial finance agreement to purchase five trailers, and Wang personally guaranteed the loan.  
+
+While the Judge granted the default judgment, they reduced the requested attorney fees from $6,768.33 to $4,639.17. The Plaintiff has been instructed to submit a revised proposed judgment reflecting the lower attorney fee amount. 
+
+
+
+..................... .....................
+On 2025-02-12_12:08:13.255616
+The summary displayed below was created by an LLM named:  "llama3-8b-8192":
+Here is the summary in YAML format:
+
+```
+Case Number: 23PSCV01228
+Plaintiff's Name: Banc of America Leasing & Capital, LLC
+Defendant's Name: Little Fat Trucking (LFT) and Xing Wang (Wang)
+People-Names:
+  - Xing Wang (Wang)
+  - John Doe (Does 1-50)
+Company-Names:
+  - Banc of America Leasing & Capital, LLC
+  - ENGS Commercial Finance Co.
+  - Little Fat Trucking (LFT)
+Places:
+  - None mentioned
+Dates:
+  - March 26, 2021
+  - March 24, 2022
+  - August 15, 2022
+  - April 25, 2023
+  - June 27, 2023
+  - October 2, 2023
+Events:
+  - Commercial Finance Agreement Contract #120972 (Note)
+  - Assignment of Note, Guaranty, and Equipment
+  - Failure to pay monthly installment payments
+  - Failure to surrender Equipment
+  - Case Management Conference set for October 2, 2023
+  - Application for Default Judgment
+Money:
+  - $3,804.63 (monthly installment payment)
+  - $6,768.33 (initial attorney's fees)
+  - $4,639.17 (revised attorney's fees)
+Intentions:
+  - Plaintiff seeks default judgment against LFT and Wang
+Facts:
+  - LFT entered into commercial finance agreement with ENGS
+  - ENGS assigned rights to Plaintiff
+  - LFT failed to pay monthly installment payments and surrender Equipment
+Disputes:
+  - Breach of contract
+  - Possession of personal property
+Acts:
+  - Execution of personal guaranty (Guaranty)
+  - Failure to pay monthly installment payments
+  - Failure to surrender Equipment
+Agreements:
+  - Commercial Finance Agreement Contract #120972 (Note)
+  - Assignment of Note, Guaranty, and Equipment
+Laws:
+  - None mentioned
+Case Citations:
+  - None mentioned
+Statutes:
+  - None mentioned
+Roles:
+  - Plaintiff: Banc of America Leasing & Capital, LLC
+  - Defendant: Little Fat Trucking (LFT) and Xing Wang (Wang)
+  - Judge: (Tentative Ruling)
+Significant Statements:
+  - Plaintiff's Application for Default Judgment is granted, but attorney's fees are reduced
+  - Plaintiff is instructed to lodge a Proposed Judgment with revised attorney's fees
+```
+
+And here is a summary of the judge's tentative ruling in English text:
+
+The judge has granted Banc of America Leasing & Capital, LLC's application for default judgment against Little Fat Trucking (LFT) and Xing Wang (Wang). However, the judge has reduced the attorney's fees from $6,768.33 to $4,639.17. The plaintiff is instructed to lodge a proposed judgment with the revised attorney's fees. The case involves a commercial finance agreement between LFT and ENGS Commercial Finance Co., which was assigned to the plaintiff. LFT failed to make payments and surrender equipment, resulting in default. The judge has set a case management conference for October 2, 2023.
+..................... .....................
+On 2025-02-12_12:08:38.434881
+The summary displayed below was created by an LLM named:  "llama-3.3-70b-specdec":
+Exception:
+Error code: 429 - {'error': {'message': 'Rate limit reached for model `llama-3.3-70b-specdec` in organization `org_01hw84cjv0f12v63qt47723ar2` service tier `on_demand` on : Limit 100000, Used 100431, Requested 577. Please try again in 14m31.383s. Visit https://console.groq.com/docs/rate-limits for more information.', 'type': '', 'code': 'rate_limit_exceeded'}}
+..................... .....................
+On 2025-02-12_12:18:40.136335
+The summary displayed below was created by an LLM named:  "mixtral-8x7b-32768":
+case\_number: 23PSCV01228
+hearing\_date: October 2, 2023
+plaintiff:
+  - name: Banc of America Leasing & Capital, LLC
+defendant:
+  - name: Little Fat Trucking
+  - name: Xing Wang
+people\_names:
+  - name: Xing Wang
+company\_names:
+  - name: Banc of America Leasing & Capital, LLC
+  - name: ENGS Commercial Finance Co.
+places:
+events:
+  - date: March 26, 2021
+    description: Little Fat Trucking entered into Commercial Finance Agreement Contract #120972 with ENGS Commercial Finance Co.
+  - date: March 24, 2022
+    description: ENGS assigned all its rights, title, and interest in the Note, Guaranty, and Equipment to Plaintiff.
+  - date: August 15, 2022
+    description: LFT failed to pay the monthly installment payment.
+  - date: April 25, 2023
+    description: Plaintiff filed a complaint.
+  - date: June 27, 2023
+    description: LFT’s and Wang’s defaults were entered.
+money:
+  - amount: $3,804.63
+    description: Monthly installment payments for the Equipment.
+  - amount: $6,768.33
+    description: Original attorney’s fees requested by Plaintiff.
+  - amount: $4,639.17
+    description: Reduced attorney’s fees awarded to Plaintiff.
+dates:
+  - October 2, 2023
+    description: A Case Management Conference is set.
+intentions:
+  - Plaintiff's Application for Default Judgment is granted.
+  - The court reduces attorney’s fees from $6,768.33 to $4,639.17.
+facts:
+  - LFT entered into a Commercial Finance Agreement Contract with ENGS.
+  - LFT failed to make monthly installment payments and surrendered the Equipment.
+disputes:
+  - Breach of Contract
+  - Possession of Personal Property
+acts:
+  - ENGS assigned all its rights, title, and interest in the Note, Guaranty, and Equipment to Plaintiff.
+  - Plaintiff filed a complaint against LFT, Wang, and Does 1-50.
+agreements:
+  - Commercial Finance Agreement Contract #120972 between LFT and ENGS.
+laws:
+case\_citations:
+statutes:
+roles:
+  - Plaintiff: Banc of America Leasing & Capital, LLC
+  - Defendant: Little Fat Trucking, Xing Wang
+significant\_statements:
+  - "Plaintiff’s Application for Default Judgment is granted; however, the court reduces attorney’s fees from $6,768.33 to $4,639.17."
+
+The Judge's tentative ruling grants Plaintiff Banc of America Leasing & Capital, LLC's Application for Default Judgment against Defendants Little Fat Trucking and Xing Wang. However, the court reduces the attorney's fees from $6,768.33 to $4,639.17. The Plaintiff is instructed to lodge a Proposed Judgment indicating the revised attorney’s fees.

@@ -347,3 +347,8 @@ On 2025-02-12_09:37:02.110315
 The summary displayed below was created by an LLM named:  "llama-3.3-70b-specdec":
 Exception:
 Error code: 429 - {'error': {'message': 'Rate limit reached for model `llama-3.3-70b-specdec` in organization `org_01hw84cjv0f12v63qt47723ar2` service tier `on_demand` on : Limit 100000, Used 96692, Requested 7838. Please try again in 1h5m13.252999999s. Visit https://console.groq.com/docs/rate-limits for more information.', 'type': '', 'code': 'rate_limit_exceeded'}}
+..................... .....................
+On 2025-02-12_09:47:02.447838
+The summary displayed below was created by an LLM named:  "mixtral-8x7b-32768":
+Exception:
+Error code: 413 - {'error': {'message': 'Request too large for model `mixtral-8x7b-32768` in organization `org_01hw84cjv0f12v63qt47723ar2` service tier `on_demand` on tokens per minute (TPM): Limit 5000, Requested 9420, please reduce your message size and try again. Visit https://console.groq.com/docs/rate-limits for more information.', 'type': 'tokens', 'code': 'rate_limit_exceeded'}}
