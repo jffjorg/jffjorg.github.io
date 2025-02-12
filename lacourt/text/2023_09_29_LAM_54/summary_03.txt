@@ -56,3 +56,176 @@ Significant Statements:
 And here is the English-text summary:
 
 The Judge has made a tentative ruling on the demurrer to the first amended cross-complaint filed by Cross-Defendants Lat Long Infrastructure, LLC, Cavallo Capital Partners, LLC, Urban Tech Consulting, LLC, Jeffery Anon, and Daniel Urban. The demurrer is continued to October 31, 2023 at 8:30 am, to be heard at the same time as the previously scheduled OSC: re representation of corporate entities. The Court has relieved Cross-Defendants' counsel on September 12, 2023, and notes that three of the five moving Cross-Defendants are corporate entities who may not proceed in this action without counsel.
+..................... .....................
+On 2025-02-12_00:43:39.747409
+The summary displayed below was created by an LLM named:  "gemma2-9b-it":
+Exception:
+Connection error.
+..................... .....................
+On 2025-02-12_00:53:40.501250
+The summary displayed below was created by an LLM named:  "llama3-8b-8192":
+Here is the summary in YAML format:
+
+```
+Case Number: 22STCV00665
+Plaintiff's Name: Lat Long Infrastructure, LLC, et al.
+Defendant's Name: Trafero Technologies, LLC, et al.
+People-Names:
+  - Maurice A. Leiter
+  - Jeffery Anon
+  - Daniel Urban
+Company-Names:
+  - Lat Long Infrastructure, LLC
+  - Cavallo Capital Partners, LLC
+  - Urban Tech Consulting, LLC
+  - Trafero Technologies, LLC
+Places:
+  - Los Angeles
+  - California
+Dates:
+  - September 29, 2023
+  - October 31, 2023
+  - September 12, 2023
+  - January 19, 2023
+Events:
+  - Demurrer to First Amended Cross-Complaint
+  - OSC: re representation of corporate entities
+Money: None
+Intentions:
+  - To consider the moving papers
+  - To continue the demurrer to October 31, 2023
+Facts:
+  - Cross-Defendants' counsel was relieved on September 12, 2023
+  - Three of the five moving Cross-Defendants are corporate entities
+Disputes:
+  - None mentioned
+Acts:
+  - Demurrer to First Amended Cross-Complaint
+  - Continuing the demurrer
+Agreements:
+  - None mentioned
+Laws:
+  - None mentioned
+Case Citations:
+  - None mentioned
+Statutes:
+  - None mentioned
+Roles:
+  - Judge: Maurice A. Leiter
+  - Moving Party: Cross-Defendants
+  - Responding Party: None
+Significant Statements:
+  - The Court considers the moving papers
+  - No opposition has been received
+  - The demurrer is continued to October 31, 2023
+```
+
+And here is a summary of the tentative ruling in English text:
+
+The Court has issued a tentative ruling on the demurrer to the First Amended Cross-Complaint filed by Cross-Defendants. The Court has considered the moving papers, but no opposition has been received. The demurrer has been continued to October 31, 2023, at 8:30 am, to be heard at the same time as the previously scheduled OSC: re representation of corporate entities. The Court has relieved Cross-Defendants' counsel on September 12, 2023, and three of the five moving Cross-Defendants are corporate entities who may not proceed in this action without counsel.
+..................... .....................
+On 2025-02-12_00:54:06.616070
+The summary displayed below was created by an LLM named:  "llama-3.3-70b-specdec":
+Here is a YAML summary of the tentative ruling:
+
+```yml
+Case Number: 22STCV00665
+Plaintiff's Name: Lat Long Infrastructure, LLC, et al.
+Defendant's Name: Trafero Technologies, LLC, et al.
+People-Names:
+  - Jeffery Anon
+  - Daniel Urban
+  - Maurice A. Leiter
+Company-Names:
+  - Lat Long Infrastructure, LLC
+  - Trafero Technologies, LLC
+  - Cavallo Capital Partners, LLC
+  - Urban Tech Consulting, LLC
+Places:
+  - Los Angeles
+  - California
+Dates:
+  - September 29, 2023
+  - January 19, 2023
+  - September 12, 2023
+  - October 31, 2023
+Events:
+  - Demurrer to First Amended Cross-Complaint
+  - Hearing
+  - Order to Show Cause (OSC) re representation of corporate entities
+Money: None
+Intentions:
+  - The Court intends to continue the demurrer to October 31, 2023
+Facts:
+  - The Cross-Defendants' demurrer was filed on January 19, 2023
+  - The Court relieved Cross-Defendants' counsel on September 12, 2023
+  - Three of the five moving Cross-Defendants are corporate entities who may not proceed in this action without counsel
+Disputes: None
+Acts:
+  - The Court continued the demurrer to be heard at the same time as the previously scheduled OSC
+Agreements: None
+Laws: None
+Case Citations: None
+Statutes: None
+Roles:
+  - Judge: Maurice A. Leiter
+  - Cross-Defendants: Lat Long Infrastructure, LLC, Cavallo Capital Partners, LLC, Urban Tech Consulting, LLC, Jeffery Anon, and Daniel Urban
+Significant Statements:
+  - The Court considers the moving papers and no opposition has been received
+  - The Court relieved Cross-Defendants' counsel on September 12, 2023
+```
+
+And here is a summary of the tentative ruling in English text:
+
+The tentative ruling, written by Judge Maurice A. Leiter, pertains to Case Number 22STCV00665, a dispute between Lat Long Infrastructure, LLC, et al. (the plaintiffs) and Trafero Technologies, LLC, et al. (the defendants). The ruling addresses a demurrer to the First Amended Cross-Complaint filed by the Cross-Defendants, which includes Lat Long Infrastructure, LLC, Cavallo Capital Partners, LLC, Urban Tech Consulting, LLC, Jeffery Anon, and Daniel Urban. The Court has continued the demurrer to October 31, 2023, at 8:30 am, to be heard at the same time as a previously scheduled Order to Show Cause (OSC) regarding the representation of corporate entities. The Court has considered the moving papers and has not received any opposition. The ruling also notes that three of the five moving Cross-Defendants are corporate entities that may not proceed in this action without counsel, and the Court had previously relieved Cross-Defendants' counsel on September 12, 2023. The parties have been instructed to email the courtroom if they wish to submit on the tentative ruling, with notice to opposing counsel, before 8:00 am on the day of the hearing.
+..................... .....................
+On 2025-02-12_00:54:33.018055
+The summary displayed below was created by an LLM named:  "mixtral-8x7b-32768":
+case\_number: 22STCV00665
+hearing\_date: September 29, 2023
+dept: 54
+court: Superior Court of California, County of Los Angeles
+lat\_long\_infrastructure\_llc:
+  - type: Company-Name
+plaintiffs:
+  - type: Company-Name
+  - type: Company-Name
+  - type: People-Names
+  - type: People-Names
+defendants:
+  - type: Company-Name
+  - type: Company-Name
+moving\_party:
+  - type: Company-Name
+  - type: Company-Names
+  - type: Company-Name
+  - type: People-Names
+  - type: People-Names
+responding\_party: None
+tentative\_ruling: Cross-Defendants' demurrer is continued to October 31, 2023 at 8:30AM.
+clerk\_to\_notice: True
+courtroom\_email: SMCdept54@lacourt.org
+facts:
+  - type: Event
+  - date: January 19, 2023
+  - description: First amended cross-complaint filed.
+  - type: Event
+  - date: September 12, 2023
+  - description: Cross-Defendants' counsel relieved.
+  - type: Event
+  - date: October 31, 2023
+  - description: OSC: re representation of corporate entities.
+laws: None
+case\_citations: None
+statutes: None
+roles:
+  - type: Judge
+  - name: Maurice A. Leiter
+significant\_statements:
+  - type: Agreement
+  - date: September 29, 2023
+  - description: Cross-Defendants' demurrer continued to October 31, 2023 at 8:30AM.
+
+English Summary:
+
+The tentative ruling by Judge Maurice A. Leiter in case number 22STCV00665, to be heard on September 29, 2023 in Department 54 of the Superior Court of California, County of Los Angeles, relates to the demurrer by Cross-Defendants Lat Long Infrastructure, LLC, Cavallo Capital Partners, LLC, Urban Tech Consulting, LLC, Jeffery Anon, and Daniel Urban to the first amended cross-complaint filed on January 19, 2023. The ruling states that the demurrer is continued to October 31, 2023 at 8:30 am, due to the fact that three of the five moving Cross-Defendants are corporate entities who may not proceed in this action without counsel. The court relieved Cross-Defendants' counsel on September 12, 2023. If the parties wish to submit on the tentative, they must email the courtroom at SMCdept54@lacourt.org with notice to opposing counsel or the self-represented party before 8:00 am on the day of the hearing.

@@ -56,3 +56,153 @@ significant-statements:
 And here is a summary of the judge's tentative ruling in English text:
 
 The plaintiff, Jimmy Guzman, filed a notice of motion to quash the deposition subpoena for personal appearance and production of business records to Dr. Ben Tantayanubutr, M.D. However, the motion is procedurally defective because it was not accompanied by a supporting memorandum as required by the California Rules of Court. Additionally, the plaintiff did not provide a copy of the deposition subpoena or specify what it demands. Without this information, the court cannot rule on the merits of the motion. Therefore, the plaintiff's motion to quash the subpoena is denied.
+..................... .....................
+On 2025-02-11_21:58:00.866289
+The summary displayed below was created by an LLM named:  "gemma2-9b-it":
+## Tentative Ruling Summary in YAML
+
+```yaml
+Case Number: 21STCV02330
+Hearing Date: September 29, 2023
+Dept: 52
+Plaintiff's Name: Jimmy Guzman
+Defendant's Name: Not specified in document
+People-Names:
+  - Jimmy Guzman
+  - Dr. Ben Tantayanubutr
+Company-Names: Not specified
+Places: Not specified
+Dates:
+  - September 29, 2023
+Events:
+  - Motion to quash deposition subpoena filed by Plaintiff
+  - Motion deemed procedurally defective by Judge
+Disputes:
+  - Plaintiff's motion to quash subpoena
+Acts:
+  - Plaintiff filed notice of motion to quash subpoena
+  - Judge denied motion due to procedural defects
+Agreements: Not specified
+Laws:
+  - Cal. Rules of Court, rule 3.1112(a)(2), (3)
+  - Cal. Rules of Court, rule 3.1113(a)
+  - Cal. Rules of Court, rule 3.1345(a)(5)
+  - Cal. Rules of Court, rule 3.1345(c)
+Case Citations: Not specified
+Statutes: Not specified
+Roles:
+  - Judge: Rules on motion, finds procedural defects
+  - Plaintiff: Files motion to quash subpoena
+  - Defendant: Not directly involved in the ruling
+Significant Statements:
+  - "A party filing a motion … must serve and file a supporting memorandum.  The court may construe the absence of a memorandum as an admission that the motion or special demurrer is not meritorious and cause for its denial.”
+  - "A party filing a motion “to quash the production of documents or tangible things at a deposition” generally must file a separate statement ... that provides all the information necessary to understand each discovery request"
+
+
+
+```
+
+## English Summary
+
+The Judge has issued a tentative ruling denying Plaintiff Jimmy Guzman's motion to quash a subpoena for Dr. Ben Tantayanubutr. 
+
+The Judge finds the motion procedurally defective because Guzman failed to file the motion itself, a supporting memorandum, or a copy of the subpoena.  California Rules of Court require these documents for a motion to be properly considered.  Without knowing the specific demands of the subpoena, the court cannot rule on its merits.  
+
+
+
+
+..................... .....................
+On 2025-02-11_21:58:26.645982
+The summary displayed below was created by an LLM named:  "llama3-8b-8192":
+Here is the summary in YAML format:
+
+```
+Case Number: 21STCV02330
+Plaintiff's Name: Jimmy Guzman
+Defendant's Name: Dr. Ben Tantayanubutr, M.D.
+People-Names:
+  - Jimmy Guzman
+  - Dr. Ben Tantayanubutr, M.D.
+Company-Names: None
+Places: None
+Dates:
+  - September 29, 2023
+Events:
+  - Deposition subpoena for personal appearance and production of business records
+Money: None
+Intentions:
+  - Plaintiff's intention to quash the deposition subpoena
+Facts:
+  - Plaintiff filed a notice of motion to quash the deposition subpoena
+  - Plaintiff did not file the motion itself nor a memorandum in support of the motion
+  - Plaintiff did not file a copy of the deposition subpoena
+Disputes:
+  - Plaintiff disputes the subpoena
+Acts:
+  - Plaintiff filed a notice of motion to quash the deposition subpoena
+  - Judge reviewed the motion and found it procedurally defective
+Agreements: None
+Laws:
+  - Cal. Rules of Court, rule 3.1112(a)(2), (3)
+  - Cal. Rules of Court, rule 3.1113(a)
+  - Cal. Rules of Court, rule 3.1345(a)(5), (c)
+Case Citations: None
+Statutes: None
+Roles:
+  - Judge: [unspecified]
+  - Plaintiff: Jimmy Guzman
+  - Defendant: Dr. Ben Tantayanubutr, M.D.
+Significant Statements:
+  - "A party filing a motion … must serve and file a supporting memorandum."
+  - "The court may construe the absence of a memorandum as an admission that the motion or special demurrer is not meritorious and cause for its denial."
+  - "A party filing a motion 'to quash the production of documents or tangible things at a deposition' generally must file a separate statement that provides all the information necessary to understand each discovery request."
+```
+
+And here is a summary of the judge's tentative ruling in English text:
+
+The judge has denied Jimmy Guzman's motion to quash a deposition subpoena for personal appearance and production of business records for Dr. Ben Tantayanubutr, M.D. The motion was procedurally defective because Guzman only filed a notice of motion, but failed to file the actual motion and a supporting memorandum as required by California Rules of Court. Additionally, Guzman did not provide a copy of the deposition subpoena or specify what the subpoena demands. Without this information, the court cannot rule on the merits of the motion.
+..................... .....................
+On 2025-02-11_21:58:51.845358
+The summary displayed below was created by an LLM named:  "llama-3.3-70b-specdec":
+Exception:
+Error code: 429 - {'error': {'message': 'Rate limit reached for model `llama-3.3-70b-specdec` in organization `org_01hw84cjv0f12v63qt47723ar2` service tier `on_demand` on : Limit 100000, Used 99773, Requested 505. Please try again in 3m59.995s. Visit https://console.groq.com/docs/rate-limits for more information.', 'type': '', 'code': 'rate_limit_exceeded'}}
+..................... .....................
+On 2025-02-11_22:08:52.724877
+The summary displayed below was created by an LLM named:  "mixtral-8x7b-32768":
+case\_number: 21STCV02330
+hearing\_date: September 29, 2023
+dept: 52
+plaintiff: Jimmy Guzman
+defendant: N/A
+people\_names:
+  - Jimmy Guzman
+  - Dr. Ben Tantayanubutr, M.D.
+company\_names: N/A
+places: N/A
+dates: N/A
+events:
+  - filing of motion to quash subpoena
+  - hearing on motion to quash subpoena
+money: N/A
+intentions:
+  - plaintiff's intention to quash subpoena
+facts:
+  - plaintiff failed to file motion and memorandum in support
+  - plaintiff failed to file copy of deposition subpoena or state what it demands
+disputes:
+  - plaintiff's motion to quash subpoena
+acts:
+  - filing of notice of motion to quash
+agreements: N/A
+laws:
+  - Cal. Rules of Court, rule 3.1112(a)(2), (3)
+  - Cal. Rules of Court, rule 3.1113(a)
+  - Cal. Rules of Court, rule 3.1345(a)(5)
+  - Cal. Rules of Court, rule 3.1345(c)
+case\_citations: N/A
+statutes: N/A
+roles:
+  - plaintiff
+  - judge
+significant\_statements:
+  - plaintiff's motion to quash subpoena is denied due to procedural defects

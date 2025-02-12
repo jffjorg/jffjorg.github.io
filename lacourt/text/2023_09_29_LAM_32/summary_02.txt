@@ -221,3 +221,67 @@ On 2025-02-11_20:50:16.937281
 The summary displayed below was created by an LLM named:  "llama-3.3-70b-specdec":
 Exception:
 Error code: 429 - {'error': {'message': 'Rate limit reached for model `llama-3.3-70b-specdec` in organization `org_01hw84cjv0f12v63qt47723ar2` service tier `on_demand` on : Limit 100000, Used 99520, Requested 1057. Please try again in 8m18.393s. Visit https://console.groq.com/docs/rate-limits for more information.', 'type': '', 'code': 'rate_limit_exceeded'}}
+..................... .....................
+On 2025-02-11_21:00:18.523798
+The summary displayed below was created by an LLM named:  "mixtral-8x7b-32768":
+case\_number: 21STCV10900
+hearing\_date: September 29, 2023
+dept: 32
+plaintiff:
+  - name: Randall Stewart
+defendants:
+  - name: Los Angeles Police Department
+  - name: City of Los Angeles
+  - name: County of Los Angeles
+  - name: Bryan Dameworth
+people:
+  - name: Randall Stewart
+  - name: Bryan Dameworth
+companies: []
+places:
+  - name: Los Angeles
+dates:
+  - March 22, 2021
+  - May 30, 2020
+  - September 1, 2023
+  - September 18, 2023
+events:
+  - name: Plaintiff initiated the action
+  - name: Plaintiff attended a protest
+  - name: Officer Dameworth fired a rubber bullet
+  - name: Defendant City of Los Angeles filed a motion for judgment on the pleadings
+money: []
+intentions: []
+facts:
+  - name: Plaintiff alleges that he was attending a protest
+  - name: Plaintiff alleges that he was struck by a rubber bullet
+disputes:
+  - name: Negligent hiring
+acts:
+  - name: Officer Dameworth fired a rubber bullet
+agreements: []
+laws:
+  - name: Code Civ. Proc., § 815(a)
+case\_citations: []
+statutes:
+  - name: Code Civ. Proc., § 815(a)
+roles:
+  - name: Plaintiff
+  - name: Defendant
+  - name: Officer
+significant\_statements:
+  - name: "Plaintiff’s fourth cause of action for negligent hiring is a common law tort claim."
+  - name: "The allegations do not set forth any statutory basis for liability."
+  - name: "The fourth cause of action fails as a matter of law."
+
+---
+
+This is a tentative ruling for the case 21STCV10900, scheduled for a hearing on September 29, 2023 in Dept 32. The case involves Plaintiff Randall Stewart and Defendants Los Angeles Police Department, City of Los Angeles, County of Los Angeles, and Bryan Dameworth.
+
+The Plaintiff alleges that he was attending a protest in Los Angeles on May 30, 2020, when he was struck by a rubber bullet fired by Officer Dameworth. The incident left Plaintiff with severe injuries.
+
+On September 1, 2023, Defendant City of Los Angeles filed a motion for judgment on the pleadings against the fourth cause of action for negligent hiring. Plaintiff did not oppose the motion.
+
+A motion for judgment on the pleadings may be made on the same grounds as those supporting a general demurrer, i.e., that the pleading fails to state facts sufficient to constitute a legally cognizable claim or defense. Judgment on the pleadings must be denied where there are material factual issues that require evidentiary resolution.
+
+The court found that the fourth cause of action for negligent hiring is a common law tort claim and that the allegations do not set forth any statutory basis for liability. Therefore, the court grants Defendant City of Los Angeles’ motion for judgment on the pleadings.

@@ -69,3 +69,227 @@ significant_statements:
 And here is a summary in English text:
 
 The Judge's tentative ruling is in response to Plaintiff's counsel, Raymond Ghermezian, Esq.'s, failure to provide Code of Civil Procedure compliant discovery responses to Defendant's requests for production. The Judge has ordered Ghermezian to provide compliant responses by October 30, 2023, and has sanctioned him $1,000 for his failure to comply. The Judge has also set a hearing to show cause why Ghermezian should not be sanctioned $2,000 and/or Plaintiff's case dismissed for failing to provide compliant discovery responses. Additionally, the Judge has set a hearing to show cause why the Court should consider any of Plaintiff's discovery responses served after December 1, 2022, verified, and, if not properly verified, why the Court should not sanction Ghermezian $2,000 and/or dismiss Plaintiff's case.
+..................... .....................
+On 2025-02-12_01:45:48.613932
+The summary displayed below was created by an LLM named:  "gemma2-9b-it":
+## Tentative Ruling Summary in YAML Format:
+
+```yaml
+Case Number: 20STCV28221
+Hearing Date: September 29, 2023
+Dept: 71
+
+Plaintiff's Name: Juan Galicia
+Defendant's Name: DS Services of America, Inc.
+
+People-Names:
+- Raymond Ghermezian
+- Alexander Robinson
+- Juan Galicia
+
+Company-Names:
+- DS Services of America, Inc.
+
+Places: N/A
+Dates:
+- September 5, 2023
+- September 26, 2023
+- October 30, 2023
+- January 12, 2024
+- February 9, 2024
+
+Events:
+- Judge ordered Plaintiff's counsel to provide Code of Civil Procedure compliant discovery responses.
+- Plaintiff's counsel failed to comply with the order.
+- Judge sanctioned Plaintiff's counsel $1,000.
+- Defendant raised concerns about the authenticity of Plaintiff's verified discovery responses.
+- Judge ordered a hearing to determine if Plaintiff's discovery responses since December 2022 were properly verified.
+- Judge set a hearing to consider sanctions against Plaintiff's counsel and/or dismissal of Plaintiff's case.
+
+Money: $1,000
+
+Intentions:
+- Plaintiff's counsel intended to provide discovery responses, but they were not Code of Civil Procedure compliant.
+- Defendant intended to ensure proper compliance with discovery rules.
+
+Facts:
+- Plaintiff failed to provide Code of Civil Procedure compliant discovery responses.
+- Defendant raised concerns about the authenticity of Plaintiff's verified discovery responses.
+
+Disputes:
+- Whether Plaintiff's discovery responses were properly completed and verified.
+
+Acts:
+- Judge issued orders regarding discovery responses.
+- Plaintiff's counsel submitted discovery responses.
+- Defendant filed a response to Plaintiff's counsel's declaration.
+
+Agreements: N/A
+
+Laws:
+- Code of Civil Procedure sections 2032.210-2031.240
+
+Case Citations:
+- Deyo v. Kilbourne (1978) 84 Cal.App.3d 771, 779-783.
+- Drociak v. State Bar (1991) 52 Cal.3d 1085, 1090.
+
+Statutes: N/A
+
+Roles:
+- Judge: Presiding over the case and issuing orders.
+- Plaintiff's Counsel: Representing the Plaintiff and providing discovery responses.
+- Defendant: Opposing the Plaintiff and ensuring proper compliance with discovery rules.
+
+Significant Statements:
+- "Plaintiff cannot produce all documents requested because plaintiff does not have possession or control all requested documents." (This statement was deemed deficient by the Judge.)
+- "Plaintiff will comply in whole to this request." (This statement is the desired format for a compliant response if Plaintiff can produce all requested items.)
+- "If Plaintiff is unable to comply in whole, Plaintiff’s response must so state, and explain why." (This statement outlines the required format for a compliant response if Plaintiff cannot produce all requested items.)
+
+
+
+
+```
+
+## English Summary:
+
+This tentative ruling pertains to a case where Plaintiff Juan Galicia is suing Defendant DS Services of America, Inc.  The judge is concerned that Plaintiff's attorney, Raymond Ghermezian, has repeatedly failed to provide discovery responses that comply with California law. 
+
+Specifically, the judge found issue with the wording of Plaintiff's responses, which stated both that Plaintiff was fully complying with the request for documents and that they were unable to produce all requested documents. This ambiguity prevents Defendant from knowing what documents have been produced and what documents are still outstanding.
+
+As a result of these repeated failures, the judge has sanctioned Ghermezian $1,000 and ordered Plaintiff to provide compliant discovery responses by October 30, 2023.  
+
+The judge has also set hearings to determine:
+
+* Whether Plaintiff's discovery responses since December 2022 were properly verified.
+* Whether Plaintiff's counsel should face further sanctions, up to dismissal of the case, for failing to comply with discovery rules.
+
+The judge has advanced the trial date and set a Trial Setting Conference for October 30th to address these issues. 
+
+
+
+
+..................... .....................
+On 2025-02-12_01:46:14.905664
+The summary displayed below was created by an LLM named:  "llama3-8b-8192":
+Here is the summary in YAML format:
+
+```
+Case Number: 20STCV28221
+Plaintiff's Name: Juan Galicia
+Defendant's Name: DS Services of America, Inc.
+People-Names:
+  - Raymond Ghermezian
+  - Alexander Robinson
+Company-Names:
+  - DS Services of America, Inc.
+Places: None
+Dates:
+  - September 5, 2023
+  - September 29, 2023
+  - September 26, 2023
+  - October 30, 2023
+  - January 12, 2024
+  - February 9, 2024
+Events:
+  - Plaintiff's counsel ordered to provide Code of Civil Procedure compliant responses
+  - Plaintiff's counsel's response deemed non-compliant
+  - Sanctions imposed on Plaintiff's counsel
+  - Order to show cause set for October 30, 2023
+Money:
+  - $1,000 sanction
+  - $2,000 potential sanction
+Intentions:
+  - Plaintiff's counsel to provide compliant responses
+  - Defendant to receive complete and accurate discovery responses
+Facts:
+  - Plaintiff's counsel's previous responses deemed non-compliant
+  - Plaintiff's counsel's current response still non-compliant
+  - Defendant's request for production and response
+Disputes:
+  - Plaintiff's counsel's failure to provide compliant responses
+  - Defendant's request for production and response
+Acts:
+  - Plaintiff's counsel ordered to provide compliant responses
+  - Plaintiff's counsel's response deemed non-compliant
+  - Sanctions imposed on Plaintiff's counsel
+Agreements:
+  - None
+Laws:
+  - Code of Civil Procedure sections 2032.210-2031.240
+  - Code of Civil Procedure section 2031.220
+  - Code of Civil Procedure section 2031.230
+Statutes:
+  - California Supreme Court
+  - Deyo v. Kilbourne (1978)
+  - Drociak v. State Bar (1991)
+Case Citations:
+  - None
+Roles:
+  - Plaintiff: Juan Galicia
+  - Defendant: DS Services of America, Inc.
+  - Plaintiff's counsel: Raymond Ghermezian
+  - Defendant's counsel: Alexander Robinson
+Significant Statements:
+  - Plaintiff's counsel's failure to provide compliant responses is tantamount to a violation of the Court's prior orders
+  - Falsifying discovery verifications is a serious breach
+```
+
+And here is a summary of the judge's tentative ruling in English text:
+
+The judge has issued a tentative ruling in the case of Juan Galicia v. DS Services of America, Inc. The case involves a dispute over discovery responses, with the plaintiff's counsel, Raymond Ghermezian, being ordered to provide Code of Civil Procedure compliant responses to the defendant's requests for production. However, Ghermezian's responses have been deemed non-compliant, and the judge has imposed a $1,000 sanction on him. The judge has also ordered Ghermezian to provide compliant responses by October 30, 2023, and has set a hearing on an order to show cause why Ghermezian should not be sanctioned $2,000 and/or the case dismissed. Additionally, the judge has set a hearing to show cause why the Court should consider any of Plaintiff's discovery responses served after December 1, 2022, verified, and, if the Court finds that there were not properly verified, why the Court should not sanction Ghermezian $2,000 and/or dismiss the case.
+..................... .....................
+On 2025-02-12_01:46:40.239358
+The summary displayed below was created by an LLM named:  "llama-3.3-70b-specdec":
+Exception:
+Error code: 429 - {'error': {'message': 'Rate limit reached for model `llama-3.3-70b-specdec` in organization `org_01hw84cjv0f12v63qt47723ar2` service tier `on_demand` on : Limit 100000, Used 98049, Requested 2316. Please try again in 5m14.693999999s. Visit https://console.groq.com/docs/rate-limits for more information.', 'type': '', 'code': 'rate_limit_exceeded'}}
+..................... .....................
+On 2025-02-12_01:56:42.111820
+The summary displayed below was created by an LLM named:  "mixtral-8x7b-32768":
+case\_number: 20STCV28221
+hearing\_date: September 29, 2023
+dept: 71
+plaintiff: Galicia
+defendant: DS Services of America, Inc.
+people:
+- Raymond Ghermezian
+- Alexander Robinson
+- Juan Galicia
+places: Department 71
+events:
+- Plaintiff's counsel, Raymond Ghermezian, was ordered to provide Code of Civil Procedure compliant responses to Defendants’ requests for production and to show cause on September 29, 2023.
+- Plaintiff failed to comply with the requirements of Code of Civil Procedure sections 2032.210-2031.240.
+- Plaintiff's counsel filed a declaration with exhibits, including Exhibit 1, "Plaintiff’s Sixth Further Response to Defendant’s Production of Documents (Set One)".
+- Defendant filed a Response to Mr. Ghermezian’s Declaration, including a Declaration of Alexander Robinson.
+money:
+- $1,000 sanctioned to Raymond Ghermezian
+- $2,000 potential sanction
+intentions:
+- The Court orders Plaintiff, for a 6th time, to provide Code-complaint responses to Defendants’ First set of Requests for Production by October 30, 2023.
+- The Court sets a hearing on an order to show cause why Plaintiff’s counsel should not be sanctioned $2,000 and/or Plaintiff’s case dismissed.
+- The Court sets a hearing to show cause why the Court should consider any of Plaintiff’s discovery responses served after December 1, 2022, verified.
+facts:
+- Plaintiff's responses were uncertain and prevented Defendant from knowing whether the items Plaintiff has produced comprise the universe of the items responsive to the request.
+- Plaintiff may not have verified any of the responses served by Plaintiff’s counsel since December 1, 2022.
+- Plaintiff’s “DocuSign” signatures since that date appear to simply be a photocopy of a “DocuSign” signature dated December 1, 2022.
+disputes:
+- Plaintiff’s inability to fully comply with the request.
+acts:
+- Plaintiff was admonished for indicating that Plaintiff was both fully complying and yet unable to fully comply with the request.
+- Plaintiff's responses were that whatever items Plaintiff had, Plaintiff was producing, but Plaintiff refused to indicate what responsive documents he was not producing or why he was not producing them.
+agreements:
+- The Court sets a Trial Setting Conference on October 30, 2023 at 8:30 a.m. in Department 71.
+laws:
+- Code of Civil Procedure sections 2032.210-2031.240
+case\_citations:
+- Deyo v. Kilbourne (1978) 84 Cal.App.3d 771
+- Drociak v. State Bar (1991) 52 Cal.3d 1085
+roles:
+- Plaintiff
+- Defendant
+- Plaintiff’s counsel
+- Court
+significant\_statements:
+- "If Plaintiff is complying in whole, his response should read simply, “Plaintiff will comply in whole to this request.” (Code of Civil Procedure, section 2031.220.)"
+- "If Plaintiff is unable to comply in whole, Plaintiff’s response must so state, and explain why."
+- "Plaintiff’s submission of falsely verified discovery responses is tantamount to a violation of the Court’s prior orders to provide further discovery responses for which terminating sanctions may be appropriate."
+- "Verified discovery responses enable opposing counsel to properly assess the merits of a claim or defense and serve an important role in the efficient resolution of disputes."
