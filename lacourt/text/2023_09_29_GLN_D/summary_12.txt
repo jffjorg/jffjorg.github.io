@@ -108,3 +108,23 @@ Significant Statements:
   - "THE COURT'S RULING THAT BOTH SIDES NEED TO MAKE A MOTION RELATED TO THE DISCOVERY CUT-OFF DATE IS JUST TO NOT BE A GAP IN THE RECORD; THAT LATER ON, SOMEONE SAYS, OH, JUDGE ALLOWED FOR ADDITIONAL DISCOVERY AND DID ALL THIS WORK. AND ALL OF THAT STUFF CAME INTO THE TRIAL, AND NOW SHOULD BE EXCLUDED FROM THE TRIAL."
   - "WITH REGARD TO THE ISSUE OF WHETHER THERE HAS BEEN AN EXTENSION OF DISCOVERY, THE COURT HAS DISCRETION AND CAN EXTEND DISCOVERY ONCE A TRIAL DATE IS CONTINUED."
   - "ON MOTION OF ANY PARTY, THE COURT MAY GRANT LEAVE TO COMPLETE DISCOVERY PROCEEDINGS, OR TO HAVE A MOTION CONCERNING DISCOVERY HEARD, CLOSER TO THE INITIAL TRIAL DATE..."
+..................... .....................
+On 2025-02-11_11:43:25.246919
+The summary displayed below was created by an LLM named:  "gemma2-9b-it":
+Exception:
+Error code: 400 - {'error': {'message': 'Please reduce the length of the messages or completion.', 'type': 'invalid_request_error', 'param': 'messages', 'code': 'context_length_exceeded'}}
+..................... .....................
+On 2025-02-11_11:53:25.667036
+The summary displayed below was created by an LLM named:  "llama3-8b-8192":
+Exception:
+Error code: 413 - {'error': {'message': 'Request too large for model `llama3-8b-8192` in organization `org_01hw84cjv0f12v63qt47723ar2` service tier `on_demand` on tokens per minute (TPM): Limit 6000, Requested 12266, please reduce your message size and try again. Visit https://console.groq.com/docs/rate-limits for more information.', 'type': 'tokens', 'code': 'rate_limit_exceeded'}}
+..................... .....................
+On 2025-02-11_12:03:25.994955
+The summary displayed below was created by an LLM named:  "llama-3.3-70b-specdec":
+Exception:
+Error code: 429 - {'error': {'message': 'Rate limit reached for model `llama-3.3-70b-specdec` in organization `org_01hw84cjv0f12v63qt47723ar2` service tier `on_demand` on : Limit 100000, Used 96268, Requested 12266. Please try again in 2h2m52.677s. Visit https://console.groq.com/docs/rate-limits for more information.', 'type': '', 'code': 'rate_limit_exceeded'}}
+..................... .....................
+On 2025-02-11_12:13:26.284440
+The summary displayed below was created by an LLM named:  "mixtral-8x7b-32768":
+Exception:
+Error code: 413 - {'error': {'message': 'Request too large for model `mixtral-8x7b-32768` in organization `org_01hw84cjv0f12v63qt47723ar2` service tier `on_demand` on tokens per minute (TPM): Limit 5000, Requested 12226, please reduce your message size and try again. Visit https://console.groq.com/docs/rate-limits for more information.', 'type': 'tokens', 'code': 'rate_limit_exceeded'}}
