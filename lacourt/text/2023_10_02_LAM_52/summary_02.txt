@@ -230,3 +230,60 @@ On 2025-02-12_15:09:10.482761
 The summary displayed below was created by an LLM named:  "llama-3.3-70b-specdec":
 Exception:
 Error code: 429 - {'error': {'message': 'Rate limit reached for model `llama-3.3-70b-specdec` in organization `org_01hw84cjv0f12v63qt47723ar2` service tier `on_demand` on : Limit 100000, Used 99565, Requested 1417. Please try again in 14m8.289s. Visit https://console.groq.com/docs/rate-limits for more information.', 'type': '', 'code': 'rate_limit_exceeded'}}
+..................... .....................
+On 2025-02-12_15:19:11.977948
+The summary displayed below was created by an LLM named:  "mixtral-8x7b-32768":
+case\_number: 22STCV33878
+hearing\_date: 2023-10-02
+department: 52
+
+defendants:
+- Equinox Holdings, Inc.
+
+plaintiff: Joshua Canady
+
+people:
+- Joshua Canady
+- Michelle Iarusso
+
+companies:
+- Equinox Holdings, Inc.
+
+events:
+- Defendant served form interrogatories to plaintiff on November 1, 2022.
+- Plaintiff served verified responses to form interrogatories on June 5, 2023.
+- Defendant served requests for production to plaintiff on November 1, 2022.
+- Plaintiff served verified responses to requests for production on June 5, 2023.
+- Defendant filed a motion to compel plaintiff to respond without objections to form interrogatories and requests for production.
+
+disputes:
+- Plaintiff's failure to timely respond to form interrogatories and requests for production.
+
+acts:
+- Plaintiff waived objections to form interrogatories Nos. 1.0 and 2.1 through 2.10.
+- Plaintiff waived objections to requests for production Nos. 41-73.
+
+agreements:
+- Plaintiff is ordered to serve verified responses without objections to form interrogatories Nos. 1.0 and 2.1 through 2.10 within 20 days.
+- Plaintiff is ordered to serve verified responses without objections to requests for production Nos. 41-73 within 20 days.
+
+laws:
+- California Code of Civil Procedure (CCP) § 2030.290(b)
+- CCP § 2031.300(b)
+- CCP § 2023.010(d)
+
+case\_citations: None
+
+statutes: None
+
+roles:
+- Defendant: moving party, seeking to compel plaintiff's responses and sanctions.
+- Plaintiff: responding party, failed to timely respond to form interrogatories and requests for production.
+
+significant\_statements:
+- "Plaintiff did not timely respond to form interrogatories – general Nos. 1.0 and 2.1 through 2.10. He therefore waived any objections to them."
+- "Plaintiff did not timely respond to requests for production Nos. 41-73. He therefore waived any objections to them."
+- "The court finds plaintiff did not act with substantial justification and sanctions are just under the circumstances."
+
+Summary:
+The tentative ruling orders plaintiff Joshua Canady to serve verified responses without objections to form interrogatories Nos. 1.0 and 2.1 through 2.10 and requests for production Nos. 41-73 within 20 days. Additionally, plaintiff Joshua Canady and his counsel Michelle Iarusso are ordered to pay defendant Equinox Holdings, Inc. a total of $3,326 within 20 days for failing to respond to authorized discovery.
