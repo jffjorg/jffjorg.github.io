@@ -238,3 +238,70 @@ On 2025-02-12_22:15:09.266374
 The summary displayed below was created by an LLM named:  "llama-3.3-70b-specdec":
 Exception:
 Error code: 429 - {'error': {'message': 'Rate limit reached for model `llama-3.3-70b-specdec` in organization `org_01hw84cjv0f12v63qt47723ar2` service tier `on_demand` on : Limit 100000, Used 100364, Requested 2335. Please try again in 38m52.352999999s. Visit https://console.groq.com/docs/rate-limits for more information.', 'type': '', 'code': 'rate_limit_exceeded'}}
+..................... .....................
+On 2025-02-12_22:25:11.427064
+The summary displayed below was created by an LLM named:  "mixtral-8x7b-32768":
+case\_number: 23AHCV01048
+hearing\_date: October 3, 2023
+dept: 3
+plaintiff: Jane Doe
+defendants:
+  - SF Markets, LLC dba Sprouts Farmers Market
+  - George Mares
+people:
+  - Jane Doe
+  - George Mares
+  - Brandon Hartline (Sprouts' Human Resources Manager)
+  - Nancy LaMons (Sprouts' representative)
+  - Astbury (Plaintiff's counsel)
+companies:
+  - SF Markets, LLC dba Sprouts Farmers Market
+places:
+  - Superior Court of the State of California
+  - for the County of Los Angeles
+  - Northeast District
+  - Alhambra Courthouse
+dates:
+  - May 9, 2023 (Plaintiff filed the action)
+  - June 30, 2023 (Sprouts filed its answer)
+  - September 6, 2023 (Sprouts filed the motion to compel arbitration)
+  - September 20, 2023 (Plaintiff filed an opposition brief)
+  - September 26, 2023 (Sprouts filed a reply brief)
+events:
+  - Plaintiff filed an action against Sprouts and Mares for violations of the Fair Employment and Housing Act (FEHA) and Labor Code
+  - Sprouts filed a motion to compel Plaintiff to arbitrate her claims
+  - The Court determined whether the agreement exists and if any defense to its enforcement is raised
+intentions:
+  - Sprouts intends to prove the existence of an arbitration agreement by a preponderance of the evidence
+  - Plaintiff intends to identify a factual dispute as to the authenticity of the signature
+facts:
+  - Plaintiff signed the arbitration agreement in 2012 as part of her application process
+  - Sprouts provided an undated arbitration agreement entitled "Mutual Binding Arbitration Agreement"
+  - The agreement covers all complaints, charges, claims, controversies, disputes, courts, or causes of action of any nature
+  - The agreement applies to claims for discrimination, harassment, or retaliation, including harassment or discrimination based on sex and gender
+  - Sprouts argues that Plaintiff's claims within the scope of the Agreement and that they are not barred by the Ending Forced Arbitration of Sexual Assault and Sexual Harassment Act because they arose before March 3, 2022
+disputes:
+  - Plaintiff emphasizes that the Agreement is undated and declares that she does not recall receiving the Agreement as part of her hiring process in 2012 or signing it
+  - Plaintiff declares that the signature on the Agreement does not resemble her own and that she does not recognize it
+  - Plaintiff's counsel argues that this casts further doubt on Hartline’s assertion that the Agreement was given to Plaintiff as part of her onboarding process in 2012
+  - Plaintiff's counsel states that the Agreement was not produced in response to his request for Plaintiff’s personnel file; instead, a different 2-page document was included
+acts:
+  - Sprouts filed a motion for an order compelling Plaintiff to arbitrate her claims
+agreements:
+  - The arbitration agreement between Sprouts and Plaintiff
+laws:
+  - Code Civ. Proc., § 1281.2
+  - Fair Employment and Housing Act (FEHA)
+  - Labor Code
+case\_citations:
+  - Rosenthal v. Great Western Fin. Securities Corp. (1996) 14 Cal.4th 394
+  - Engalla v. Permanente Medical Group, Inc. (1997) 15 Cal.4th 951
+roles:
+  - Plaintiff is the person who filed the action against Sprouts and Mares
+  - Defendants are the parties being sued by Plaintiff
+  - Sprouts is the company that filed the motion to compel arbitration
+  - Plaintiff's counsel is the person who filed the opposition brief and the reply brief
+significant\_statements:
+  - "The Court agrees and notes that Plaintiff does not unequivocally state under penalty of perjury that the signature on the Agreement is not hers; only that she does not recognize it."
+  - "Even if Plaintiff sufficiently created a factual dispute as to the authenticity of her signature, Sprouts still meets its ultimate burden to establish an agreement to arbitrate by the preponderance of the evidence."
+  - "In light of the foregoing, Sprouts’ motion is GRANTED. The action is stayed until the completion of arbitration."
