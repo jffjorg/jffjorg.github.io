@@ -47,3 +47,130 @@ Significant Statements:
 And here is the English text summarizing the judge's tentative ruling:
 
 The judge, Kerry Bensinger, is considering a motion by Adam Mirza, counsel for Plaintiff Arturo Leal, to be relieved as counsel of record. The motion is unopposed, but the notice of motion is defective and needs to be amended. The judge notes that the attorney-client relationship has broken down, making it difficult for Mirza to effectively prosecute the case. The judge grants the motion, but only after the amended notice of motion is filed and served on all parties. The hearing on the motion is continued to November 2, 2023, at 1:30 PM in Department 27 at the Spring Street Courthouse.
+..................... .....................
+On 2025-02-12_19:33:37.541835
+The summary displayed below was created by an LLM named:  "gemma2-9b-it":
+## Tentative Ruling Summary:
+
+**Case Number:** 22STCV20709
+**Plaintiff's Name:** Arturo Leal
+**Defendant's Name:** Total Terminals International, LLC, et al.
+**People-Names:** Adam Mirza, Kerry Bensinger
+**Company-Names:** BD&J, P.C., Total Terminals International, LLC
+**Places:** Central District, Spring Street Courthouse
+**Dates:** August 10, 2023 (Motion filed), October 2, 2023 (Tentative Ruling), October 2, 2023 (Hearing Continued), November 2, 2023 (New Hearing Date)
+**Events:** Motion to be Relieved as Counsel filed, Motion unopposed, Hearing continued
+**Money:** None mentioned
+**Intentions:** Adam Mirza seeks to be relieved as counsel due to a breakdown in the attorney-client relationship.
+**Facts:** The attorney-client relationship has significantly deteriorated, hindering effective representation. 
+**Disputes:** None explicitly stated.
+**Acts:** Motion to be Relieved as Counsel filed, Notice of Motion defective (incorrect hearing location).
+**Agreements:** None mentioned.
+**Laws:** California Rule of Court rule 3.1362, Code of Civil Procedure section 284(1), Code of Civil Procedure section 284(2)
+**Case Citations:** Ramirez v. Sturdevant (1994) 21 Cal.App.4th 904, People v. Prince (1968) 268 Cal.App.2d 398
+**Statutes:** None mentioned.
+**Roles:** Adam Mirza (Attorney), Arturo Leal (Plaintiff), Kerry Bensinger (Judge)
+**Significant Statements:**
+* "There has been a significant breakdown in the attorney-client relationship, which has significantly impeded counsel's ability to effectively prosecute this case and represent Plaintiff's interest." - Adam Mirza
+* "Absent a showing of resulting prejudice, an attorney’s request for withdrawal should be granted." - Judge's ruling
+
+
+## English Summary:
+
+Judge Kerry Bensinger issued a tentative ruling on a motion filed by Adam Mirza, attorney for Plaintiff Arturo Leal, to be relieved as counsel.  The motion is unopposed.
+
+The Judge acknowledges a breakdown in the attorney-client relationship as justification for withdrawal. However, the motion is currently defective due to an incorrect hearing location listed in the Notice of Motion.
+
+The hearing is continued to November 2, 2023, at 1:30 PM in Department 27 at the Spring Street Courthouse. Mr. Mirza is instructed to serve an amended motion with the correct information by five court days before the new hearing.
+
+
+
+
+..................... .....................
+On 2025-02-12_19:34:03.828637
+The summary displayed below was created by an LLM named:  "llama3-8b-8192":
+Here is the summary in YAML format:
+
+```
+Case Number: 22STCV20709
+Plaintiff's Name: Arturo Leal
+Defendant's Names: Total Terminals International, LLC, et al.
+People Names: Adam Mirza, Judge Kerry Bensinger
+Company Names: BD&J, P.C.
+Places: California, Central District, 111 North Hill Street, Spring Street Courthouse
+Dates: August 10, 2023, October 2, 2023, June 24, 2024, November 2, 2023
+Events: Motion to be Relieved as Counsel, Hearing on Motion to be Relieved as Counsel
+Money: None mentioned
+Intentions: Adam Mirza seeks to be relieved as counsel of record for Plaintiff
+Facts: Significant breakdown in the attorney-client relationship, impeded counsel's ability to effectively prosecute the case
+Disputes: None mentioned
+Acts: Adam Mirza filed a Motion to be Relieved as Counsel, notice of motion is defective
+Agreements: None mentioned
+Laws: California Rule of Court rule 3.1362, Code of Civil Procedure section 284(1), Code of Civil Procedure section 284(2), Ramirez v. Sturdevant, People v. Prince
+Case Citations: Ramirez v. Sturdevant (1994) 21 Cal.App.4th 904, 915, People v. Prince (1968) 268 Cal.App.2d 398, 406
+Statutes: California Rule of Court rule 3.1362, Code of Civil Procedure section 284(1), Code of Civil Procedure section 284(2)
+Roles:
+  - Judge: Judge Kerry Bensinger
+  - Counsel: Adam Mirza
+Significant Statements:
+  - "There has been a significant breakdown in the attorney-client relationship, which has significantly impeded counsel's ability to effectively prosecute this case and represent Plaintiff's interest."
+  - "Absent a showing of resulting prejudice, an attorney's request for withdrawal should be granted."
+```
+
+And here is a summary in English text:
+
+A tentative ruling has been issued by Judge Kerry Bensinger regarding a motion filed by Adam Mirza, counsel for Plaintiff Arturo Leal, to be relieved as counsel of record. The motion is unopposed. The court's ruling notes that the notice of motion is defective and must be amended. The motion cannot be granted at this time due to the defect. The hearing on the motion is continued to November 2, 2023. The court has discretion to allow an attorney to withdraw, and such a motion should be granted provided that there is no prejudice to the client and it does not disrupt the orderly process of justice. The court will consider the motion again after the amended notice is filed.
+..................... .....................
+On 2025-02-12_19:34:29.107763
+The summary displayed below was created by an LLM named:  "llama-3.3-70b-specdec":
+Exception:
+Error code: 429 - {'error': {'message': 'Rate limit reached for model `llama-3.3-70b-specdec` in organization `org_01hw84cjv0f12v63qt47723ar2` service tier `on_demand` on : Limit 100000, Used 100384, Requested 1398. Please try again in 25m39.745999999s. Visit https://console.groq.com/docs/rate-limits for more information.', 'type': '', 'code': 'rate_limit_exceeded'}}
+..................... .....................
+On 2025-02-12_19:44:30.194556
+The summary displayed below was created by an LLM named:  "mixtral-8x7b-32768":
+case\_number: 22STCV20709
+hearing\_date: October 2, 2023
+dept: 27
+
+judge: Kerry Bensinger
+
+parties:
+plaintiff: Arturo Leal
+defendant: Total Terminals International, LLC, et al.
+moving\_party: Adam Mirza, BD&J, P.C.
+
+hearing:
+- type: Tentative Ruling
+date: October 2, 2023
+time: 1:30 PM
+location: Spring Street Courthouse
+
+motion:
+- type: Motion to be Relieved as Counsel
+filed\_date: August 10, 2023
+status: unopposed
+
+legal\_standards:
+- code: California Rule of Court rule 3.1362
+- code\_section: Code of Civil Procedure section 284(2)
+- code\_section: Code of Civil Procedure section 284(1)
+
+discussion:
+- reason: breakdown in attorney-client relationship
+- action: continued to 11/02/2023 at 01:30 PM in Department 27 at Spring Street Courthouse
+
+conclusion:
+- action: motion cannot be granted due to defective notice
+- notice\_defect: incorrect hearing address and dates
+- notice\_correction: amended motion to be served no later than 5 court days before the hearing
+
+order:
+- type: Order Granting Attorney's Motion to be Relieved as Counsel
+- status: pending amended motion
+- deadline: 5 court days before hearing
+
+notice:
+- type: Continuance
+- date: 11/02/2023 at 01:30 PM
+- location: Department 27 at Spring Street Courthouse
+- moving\_party\_responsibility: to give notice

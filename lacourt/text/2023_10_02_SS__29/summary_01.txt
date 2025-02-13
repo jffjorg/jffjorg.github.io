@@ -63,3 +63,282 @@ Roles:
   - Judge: (unnamed)
 Significant Statements:
   - The determination whether to grant or deny a motion to withdraw as counsel lies within the sound discretion of the trial court.
+..................... .....................
+On 2025-02-12_20:07:36.827324
+The summary displayed below was created by an LLM named:  "gemma2-9b-it":
+## Tentative Ruling Summary: Case 20STCV47802
+
+**YAML Format:**
+
+```yaml
+Case Number: 20STCV47802
+Hearing Date: October 2, 2023
+Dept: 29
+Plaintiff's Name: Rodrigo Valle
+Defendant's Name:
+  - Regal Cinemas, Inc.
+  - Cineworld Inc.
+  - El Paseo Center SPE LLC
+  - John Doe
+People-Names:
+  - Rodrigo Valle
+  - Vanessa Fantasia
+Company-Names:
+  - Regal Cinemas, Inc.
+  - Cineworld Inc.
+  - El Paseo Center SPE LLC
+Places:
+  - El Paseo Center (implied)
+Dates:
+  - December 15, 2020
+  - June 2, 2023
+  - August 7, 2023
+  - September 6, 2023
+  - September 7, 2023
+  - October 2, 2023
+Events:
+  - Complaint filed by Rodrigo Valle
+  - Motion to be relieved as counsel filed by Vanessa Fantasia
+  - Multiple continuances of the motion to be relieved as counsel
+  - New MC-051, MC-052, and MC-053 forms filed
+Money:
+  - Not specified
+Intentions:
+  - Vanessa Fantasia seeks to be relieved as counsel
+Facts:
+  - Rodrigo Valle alleges injuries from a collision with an unmarked glass door
+Disputes:
+  - None explicitly stated
+Acts:
+  - Filing of complaint
+  - Filing of motion to be relieved as counsel
+Agreements:
+  - None explicitly stated
+Laws:
+  - Code of Civ. Proc., § 284(b)
+  - Cal. Rules of Prof. Conduct 3-700(C)(1)
+Case Citations:
+  - Manfredi & Levine v. Superior Court (1998) 66 Cal.App.4th 1128
+Statutes:
+  - Code of Civil Procedure Section 284(b)
+Roles:
+  - Rodrigo Valle: Plaintiff
+  - Vanessa Fantasia: Attorney for Plaintiff
+  - Regal Cinemas, Inc., Cineworld Inc., El Paseo Center SPE LLC, John Doe: Defendants
+Significant Statements:
+  - The Court grants the motion to be relieved as counsel.
+  - The order is effective upon the filing of proof of service of the order on the client.
+
+
+
+```
+
+**English Summary:**
+
+The judge has granted the motion filed by Vanessa Fantasia to be relieved as counsel for Rodrigo Valle in this premises liability case. The case involves allegations that Mr. Valle was injured after colliding with an unmarked glass door. 
+
+The judge previously denied Ms. Fantasia's motion multiple times due to her failure to properly serve the defendants and the plaintiff with notices about the motion and subsequent hearings. After Ms. Fantasia filed the required paperwork and proof of service, the judge granted her motion to withdraw as counsel. The order is effective once Ms. Fantasia files proof of service on Mr. Valle. 
+
+
+
+
+..................... .....................
+On 2025-02-12_20:08:02.769236
+The summary displayed below was created by an LLM named:  "llama3-8b-8192":
+Here is the summary in YAML format:
+
+```
+Case Number: 20STCV47802
+Plaintiff's Name: Rodrigo Valle
+Defendant's Name: Regal Cinemas, Inc., Cineworld Inc., El Paseo Center SPE LLC, and John Doe
+People-Names:
+  - Vanessa Fantasia (counsel)
+  - Rodrigo Valle (plaintiff)
+Company-Names:
+  - Regal Cinemas, Inc.
+  - Cineworld Inc.
+  - El Paseo Center SPE LLC
+Places:
+  - El Paseo Center
+Dates:
+  - December 15, 2020
+  - June 2, 2023
+  - August 7, 2023
+  - September 6, 2023
+  - September 7, 2023
+  - October 2, 2023
+Events:
+  - Collision with an unmarked glass door
+Money:
+  - None mentioned
+Intentions:
+  - Counsel Vanessa Fantasia requests to be relieved as counsel for Plaintiff Rodrigo Valle
+Facts:
+  - Counsel Vanessa Fantasia failed to serve the client and other parties
+  - Counsel Vanessa Fantasia failed to update the Court about her ability to contact the plaintiff
+  - Counsel Vanessa Fantasia failed to file new proofs of service showing notice of the hearing date to the client
+Disputes:
+  - None mentioned
+Acts:
+  - Counsel Vanessa Fantasia filed new MC-051, MC-052, and MC-053 forms with the Court
+  - Counsel Vanessa Fantasia served the forms on the client and other parties
+Agreements:
+  - None mentioned
+Laws:
+  - Code of Civ. Proc., § 284(b)
+  - Cal. Rules of Prof. Conduct 3-700(C)(1)
+  - Cal. Rules of Court, rule 3.1362(a)
+  - Cal. Rules of Court, rule 3.1362(c)
+  - Cal. Rules of Court, rule 3.1362(e)
+  - Manfredi & Levine v. Superior Court (1998)
+Statutes:
+  - None mentioned
+Roles:
+  - Judge
+  - Counsel Vanessa Fantasia
+  - Plaintiff Rodrigo Valle
+Significant Statements:
+  - The court may order that an attorney be changed or substituted at any time before or after judgment or final determination upon request by either client or attorney and after notice from one to the other.
+  - The motion to be relieved as counsel is GRANTED.
+```
+
+And here is a summary of the judge's tentative ruling in English text:
+
+The judge has granted the motion of Counsel Vanessa Fantasia to be relieved as counsel for Plaintiff Rodrigo Valle. The motion was filed on September 7, 2023, after Counsel Fantasia failed to serve the client and other parties, failed to update the Court about her ability to contact the plaintiff, and failed to file new proofs of service showing notice of the hearing date to the client. The judge found that Counsel Fantasia had satisfied all applicable substantive and procedural requirements and had shown a sufficient basis for the relief requested. The order relieving Counsel Fantasia as counsel is effective upon the filing of proof of service of the order on the client.
+..................... .....................
+On 2025-02-12_20:08:29.184717
+The summary displayed below was created by an LLM named:  "llama-3.3-70b-specdec":
+Here's the summary of the legal document in YAML format:
+```yml
+case_info:
+  case_number: 20STCV47802
+  hearing_date: October 2, 2023
+  department: 29
+people:
+  plaintiff: Rodrigo Valle
+  counsel: Vanessa Fantasia
+  defendant:
+    - Regal Cinemas, Inc.
+    - Cineworld Inc.
+    - El Paseo Center SPE LLC
+    - John Doe
+companies:
+  - Regal Cinemas, Inc.
+  - Cineworld Inc.
+  - El Paseo Center SPE LLC
+places:
+  - El Paseo Center
+dates:
+  - December 15, 2020
+  - June 2, 2023
+  - August 7, 2023
+  - September 6, 2023
+  - September 7, 2023
+  - October 2, 2023
+events:
+  - Complaint filing
+  - Motion to be relieved as counsel
+  - Previous denials of motion to be relieved as counsel
+money: ~
+intentions:
+  - Counsel intends to withdraw as plaintiff's counsel
+  - Court intends to grant counsel's motion
+facts:
+  - Counsel filed new MC-051, MC-052, and MC-053 forms with the court
+  - Counsel served forms on plaintiff's last known address
+  - Counsel served forms on defendants
+  - Previous denials were due to counsel's failure to serve plaintiff and include an upcoming status conference on the proposed order and declaration
+disputes: ~
+acts:
+  - Collision with unmarked glass door
+agreements:
+  - Proposed order and declaration
+laws:
+  - Code of Civil Procedure § 284(b)
+  - California Rules of Professional Conduct 3-700(C)(1)
+case_citations:
+  - Manfredi & Levine v. Superior Court (1998) 66 Cal.App.4th 1128, 1133
+statutes: ~
+roles:
+  - Plaintiff: Rodrigo Valle
+  - Counsel: Vanessa Fantasia
+  - Court: Department 29
+significant_statements:
+  - The motion is GRANTED.
+  - "The determination whether to grant or deny a motion to withdraw as counsel lies within the sound discretion of the trial court."
+  - The order is effective upon the filing of proof of service of the order on the client.
+```
+Here's the summary in English text:
+The tentative ruling states that counsel's motion to be relieved as plaintiff Rodrigo Valle's counsel is granted. This is based on counsel Vanessa Fantasia's filings, which satisfy the necessary forms (MC-051, MC-052, and MC-053) and notice requirements to both plaintiff and defendants. According to Code of Civil Procedure § 284(b), a court can relieve an attorney if requested and served by client and after proving withdrawal doesn't impair other attorney party action performance agreements during hearing progress updates accordingly based facts gathered with required procedural following orders implemented here following a June decision then modified continuing October and eventually to set later  the terms given accordingly granted terms requested motion October meeting decision results this update has finalized decisions, a form requirement per local guidelines including any orders being carried final granted the trial given for such in request decision also follows and per relevant references set court citation made which all now completed moving required forward from filing dates the now confirmed current result that's for  order completion requested date which counsel confirmed on for completion filed which per such a the new requirements is with further confirmation accordingly request will per to update of results set current hearing  that request, on per confirmed information all applicable following facts were shown here following which will and terms follow moving set of to next update will  continue current, of ruling current tentative status this on with result also which of was all accordingly is all was filed a then made October granted all order result next final as on accordingly that follows October all in decision date a will order update per, information here follows decision then.
+..................... .....................
+On 2025-02-12_20:08:55.350346
+The summary displayed below was created by an LLM named:  "mixtral-8x7b-32768":
+case\_number: 20STCV47802
+hearing\_date: October 2, 2023
+dept: 29
+
+tentative\_ruling: granted
+
+parties:
+plaintiff:
+- Rodrigo Valle
+defendants:
+- Regal Cinemas, Inc.
+- Cineworld Inc.
+- El Paseo Center SPE LLC
+- John Doe
+
+people:
+- Rodrigo Valle
+- Vanessa Fantasia
+
+places:
+- El Paseo Center
+
+dates:
+- December 15, 2020
+- June 2, 2023
+- August 7, 2023
+- September 7, 2023
+
+events:
+- Plaintiff filed a complaint
+- Court denied counsel's motion to be relieved
+- Court continued the motion
+- Counsel filed new MC-051, MC-052, and MC-053 forms
+
+money: N/A
+
+intentions:
+- Counsel intends to be relieved as counsel
+
+facts:
+- Counsel did not serve the client until 3 days before the scheduled hearing
+- Counsel failed to update the Court about her ability or efforts to contact Plaintiff
+
+disputes:
+- Counsel's motion to be relieved as counsel
+
+acts:
+- Plaintiff filed a complaint
+- Counsel filed forms to be relieved as counsel
+
+agreements: N/A
+
+laws:
+- Code of Civ. Proc., § 284(b)
+- Cal. Rules of Prof. Conduct 3-700(C)(1)
+
+case\_citations: N/A
+
+statutes: N/A
+
+roles:
+- Plaintiff: Rodrigo Valle
+- Defendants: Regal Cinemas, Inc., Cineworld Inc., El Paseo Center SPE LLC, John Doe
+- Counsel: Vanessa Fantasia
+
+significant\_statements:
+- "The motion is GRANTED."
+- "Counsel has shown a sufficient basis for the relief requested and has satisfied all applicable substantive and procedural requirements."
+- "The order is effective upon the filing of proof of service of the order on the client."
