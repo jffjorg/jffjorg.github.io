@@ -236,3 +236,86 @@ On 2025-02-12_23:32:59.594702
 The summary displayed below was created by an LLM named:  "llama-3.3-70b-specdec":
 Exception:
 Error code: 429 - {'error': {'message': 'Rate limit reached for model `llama-3.3-70b-specdec` in organization `org_01hw84cjv0f12v63qt47723ar2` service tier `on_demand` on : Limit 100000, Used 96894, Requested 3852. Please try again in 10m44.465999999s. Visit https://console.groq.com/docs/rate-limits for more information.', 'type': '', 'code': 'rate_limit_exceeded'}}
+..................... .....................
+On 2025-02-12_23:43:01.387706
+The summary displayed below was created by an LLM named:  "mixtral-8x7b-32768":
+case\_number: 23SMCV00668
+hearing\_date: October 3, 2023
+dept: 207
+
+parties:
+plaintiffs:
+- The Lawman Group, APC
+- Shahin Gozarkhah
+defendants:
+- California Lawyers Group, Inc.
+- Mitra Chegini
+
+people:
+- Alireza Daneshi
+- Greg Byberg
+
+companies:
+- The Lawman Group, APC
+- California Lawyers Group, Inc.
+
+places:
+- California
+
+dates:
+- February 14, 2023
+- August 3
+- August 8
+- September 13
+- October 3
+- October 17
+
+events:
+- Plaintiffs filed suit against Defendants for breach of contract, common counts, compensation for legal services, and declaratory relief.
+- Defendants brought a cross-complaint for intentional interference with economic advantage and unfair business practices.
+- Plaintiffs demurred to the cross-complaint on the basis that it fails to state a cause of action.
+- Defendants opposed the demurrer.
+
+money:
+- $240,000 settlement check
+- $81,000 in fees
+
+intentions:
+- Plaintiffs intend to receive their appropriate share of attorneys' fees.
+- Defendants allege that Plaintiffs attempted to interfere with their business and cause economic harm.
+
+facts:
+- Plaintiffs did most of the work on a personal injury lawsuit.
+- Defendants took over legal representation at the end of the case.
+- Defendants refuse to pay Plaintiffs' share of the attorneys' fees.
+- Plaintiffs attempted to access Defendants' business account, complete filings, and update information through the Secretary of State's website.
+- Plaintiffs sent letters to Defendants threatening litigation and demanding money.
+- Plaintiffs asserted a lien and filed the instant litigation.
+
+disputes:
+- The allocation of attorneys' fees between the two law firms.
+- Plaintiffs' alleged attempts to interfere with Defendants' business.
+
+acts:
+- Breach of contract.
+- Intentional interference with economic advantage.
+- Unfair business practices.
+
+agreements:
+- None mentioned in the document.
+
+laws:
+- Code of Civil Procedure, section 430.10.
+- California Business and Professions Code, section 17200.
+
+case\_citations:
+- None mentioned in the document.
+
+roles:
+- Plaintiffs: The Lawman Group, APC and Shahin Gozarkhah.
+- Defendants: California Lawyers Group, Inc. and Mitra Chegini.
+- Judge: Michael E. Whitaker.
+
+significant\_statements:
+- "The Court overrules Cross-Defendants’ demurrer to the first and second causes of action."
+- "Cross-Defendants shall provide notice of the Court’s rulings and file a proof of service of such."
