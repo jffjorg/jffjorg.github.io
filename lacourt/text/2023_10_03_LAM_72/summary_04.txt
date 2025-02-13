@@ -64,3 +64,205 @@ Significant Statements:
 And here is a summary of the judge's tentative ruling in English text:
 
 The judge has denied Defendant's motion to compel further responses as moot. The motion was filed by Defendant in response to Plaintiff's deposition notice, but the parties have since agreed to a deposition date of October 13, 2023, making the motion unnecessary. The judge has also continued the trial date and discovery cut-offs to permit the current motion to be heard and any subsequent deposition taken.
+..................... .....................
+On 2025-02-13_12:01:06.116209
+The summary displayed below was created by an LLM named:  "gemma2-9b-it":
+## Tentative Ruling Summary in YAML
+
+```yaml
+Case Number: 22STCV11847
+Hearing Date: October 3, 2023
+Dept: 72
+
+People-Names:
+  - KENNETH MACKENZIE
+  - Arash Yaraghchian
+
+Company-Names:
+  - GENERAL MOTORS LLC
+
+Places:
+  - LOS ANGELES, CALIFORNIA
+
+Events:
+  - Plaintiff sued Defendant on April 7, 2022.
+  - Defendant noticed Plaintiff's deposition on May 8, 2023.
+  - Plaintiff objected to the deposition notice on May 23, 2023.
+  - Defendant attempted to reschedule the deposition but received no response.
+  - Defendant filed a motion to compel further responses on August 24, 2023.
+  - The Court continued the trial date and discovery cut-offs on September 7, 2023.
+  - Plaintiff filed opposing papers indicating the motion is moot on September 19, 2023.
+  - Parties agreed to a new deposition date of October 13, 2023.
+
+Money: None
+
+Intentions:
+  - Plaintiff sued Defendant for various violations of the Song Beverly Consumer Warranty Act.
+  - Defendant sought to depose Plaintiff.
+
+Facts:
+  - Plaintiff sued Defendant for violating California's "lemon law."
+
+Disputes:
+  - Plaintiff objected to Defendant's deposition notice.
+
+Acts:
+  - Plaintiff filed a lawsuit against Defendant.
+  - Defendant noticed Plaintiff's deposition.
+  - Plaintiff objected to the deposition notice.
+  - Defendant attempted to reschedule the deposition.
+  - Defendant filed a motion to compel further responses.
+  - The Court continued the trial date and discovery cut-offs.
+  - Plaintiff filed opposing papers indicating the matter is moot.
+
+Agreements:
+  - Parties agreed to a new deposition date.
+
+Laws:
+  - Song Beverly Consumer Warranty Act (California's "lemon law")
+
+Case Citations: None
+
+Statutes: None
+
+Roles:
+  - KENNETH MACKENZIE: Plaintiff
+  - GENERAL MOTORS LLC: Defendant
+  - Arash Yaraghchian: Attorney for Defendant
+
+Significant Statements:
+  - The Court denied Defendant's motion as moot because the parties agreed to a new deposition date.
+
+
+
+```
+
+## English Summary
+
+The judge denied the Defendant's motion to compel further responses in this case.  The Plaintiff sued the Defendant for violations of California's "lemon law" on April 7, 2022. The Defendant tried to depose the Plaintiff on May 26, 2023, but the Plaintiff objected.  After the Defendant tried to reschedule the deposition, they filed a motion to compel further responses on August 24, 2023.  
+
+The court continued the trial date and discovery cut-offs to allow for the motion to be heard. However, the Plaintiff filed papers on September 19, 2023, stating the motion was moot because the parties had agreed to a new deposition date of October 13, 2023. The Defendant did not respond to indicate otherwise. Since neither party requested sanctions, the court took no further action.
+
+
+
+
+
+..................... .....................
+On 2025-02-13_12:01:31.987603
+The summary displayed below was created by an LLM named:  "llama3-8b-8192":
+Here is the summary in YAML format:
+
+```
+Case Number: 22STCV11847
+Plaintiff's Name: Kenneth Mackenzie
+Defendant's Name: General Motors LLC et al
+People-Names:
+  - Arash Yaraghchian
+Company-Names:
+  - General Motors LLC
+Places: Los Angeles
+Dates:
+  - April 7, 2022
+  - May 8, 2023
+  - May 23, 2023
+  - May 26, 2023
+  - August 24, 2023
+  - September 7, 2023
+  - September 19, 2023
+  - October 3, 2023
+  - October 13, 2023
+Events:
+  - Plaintiff's lawsuit
+  - Defendant's motion to compel further responses
+  - Deposition notice
+  - Objection to deposition notice
+  - Rescheduling of deposition
+  - Trial date and discovery cut-offs continued
+  - Parties agree to new deposition date
+Money: None
+Intentions:
+  - Defendant's intention to compel further responses
+  - Plaintiff's intention to object to deposition notice
+Facts:
+  - Plaintiff sued Defendant on April 7, 2022
+  - Defendant noticed Plaintiff's deposition on May 8, 2023
+  - Plaintiff objected to deposition notice on May 23, 2023
+  - Defendant repeatedly attempted to reschedule deposition
+  - Parties agreed to new deposition date of October 13, 2023
+Disputes:
+  - Dispute over deposition notice and rescheduling
+Acts:
+  - Defendant's motion to compel further responses
+  - Plaintiff's objection to deposition notice
+  - Defendant's attempts to reschedule deposition
+  - Parties agreeing to new deposition date
+Agreements:
+  - Parties agree to new deposition date of October 13, 2023
+Laws:
+  - Song Beverly Consumer Warranty Act (California's "lemon law")
+Case Citations: None
+Statutes: None
+Roles:
+  - Judge
+  - Plaintiff (Kenneth Mackenzie)
+  - Defendant (General Motors LLC et al)
+  - Counsel (Arash Yaraghchian)
+Significant Statements:
+  - "Defendant's motion is denied as moot."
+  - "Neither party having sought sanctions, no further court order is required."
+```
+
+And here is a summary of the judge's tentative ruling in English text:
+
+The judge has issued a tentative ruling denying the defendant's motion to compel further responses as moot. The plaintiff sued the defendant on April 7, 2022, alleging violations of the Song Beverly Consumer Warranty Act, California's "lemon law". The defendant noticed the plaintiff's deposition on May 8, 2023, but the plaintiff objected to the notice and the parties were unable to agree on a new deposition date. The defendant repeatedly attempted to reschedule the deposition, but the plaintiff's counsel did not respond. The parties eventually agreed to a new deposition date of October 13, 2023, rendering the defendant's motion moot. The judge notes that neither party has sought sanctions, so no further court order is required.
+..................... .....................
+On 2025-02-13_12:01:57.185350
+The summary displayed below was created by an LLM named:  "llama-3.3-70b-specdec":
+Exception:
+Error code: 429 - {'error': {'message': 'Rate limit reached for model `llama-3.3-70b-specdec` in organization `org_01hw84cjv0f12v63qt47723ar2` service tier `on_demand` on : Limit 100000, Used 100285, Requested 591. Please try again in 12m37.074s. Visit https://console.groq.com/docs/rate-limits for more information.', 'type': '', 'code': 'rate_limit_exceeded'}}
+..................... .....................
+On 2025-02-13_12:11:58.490552
+The summary displayed below was created by an LLM named:  "mixtral-8x7b-32768":
+case\_number: 22STCV11847
+hearing\_date: 2023-10-03
+dept: 72
+plaintiff:
+  - name: KENNETH MACKENZIE
+defendants:
+  - name: GENERAL MOTORS LLC
+  - name: et al
+
+parties:
+  - name: KENNETH MACKENZIE
+  - name: GENERAL MOTORS LLC
+  - name: Arash Yaraghchian
+
+places:
+  - name: Superior Court of California
+  - name: County of Los Angeles
+
+events:
+  - name: Plaintiff sued Defendant
+  - name: Defendant noticed Plaintiff's deposition
+  - name: Plaintiff objected to deposition notice
+  - name: Defendant filed motion to compel further responses
+  - name: Court continued trial date and discovery cut-offs
+  - name: Plaintiff filed opposing papers
+  - name: Defendant filed no reply
+
+disputes:
+  - violation of Song Beverly Consumer Warranty Act
+
+laws:
+  - name: Song Beverly Consumer Warranty Act
+
+case\_citations:
+  - name: California’s “lemon law”
+
+roles:
+  - role: plaintiff
+  - role: defendant
+  - role: counsel
+
+summary:
+  "The tentative ruling is about a case where the plaintiff, Kenneth MacKenzie, sued the defendant, General Motors LLC, for violations of the Song Beverly Consumer Warranty Act, California’s ‘lemon law’, on April 7, 2022. The defendant noticed the plaintiff’s deposition on May 8, 2023, for May 26, 2023. However, the plaintiff objected to the deposition notice on May 23. The defendant made repeated attempts to reschedule the deposition but received no response from the plaintiff’s counsel. The defendant then filed a motion to compel further responses on August 24, 2023. On September 7, 2023, the court continued the trial date and discovery cut-offs to permit the motion to be heard and any subsequent deposition taken. On September 19, 2023, the plaintiff filed opposing papers indicating the motion is moot, and the parties have agreed to a deposition date of October 13, 2023. Since neither party has sought sanctions, no further court order is required."

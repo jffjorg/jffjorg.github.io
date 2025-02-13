@@ -60,3 +60,257 @@ Significant Statements:
 And here is a summary of the judge's tentative ruling in English text:
 
 The judge has denied the plaintiff's request for default judgment and has vacated the default entered by the clerk on June 7, 2023. The plaintiff had sued the defendant for breach of lease and had filed a proof of substituted service on April 26, 2023. However, the judge has found that the plaintiff's proof of service is invalid because it did not specify which unit of the residential building the process server left the summons and complaint at, and the copies of the summons and complaint were not mailed to the precise address where they were left. The judge has set an Order to Show Cause (OSC) re service for December 12, 2024 at 8:30 a.m. to give the parties an opportunity to resolve the issue of service.
+..................... .....................
+On 2025-02-13_12:44:42.914133
+The summary displayed below was created by an LLM named:  "gemma2-9b-it":
+## Tentative Ruling Summary in YAML
+
+```yaml
+Case Number: 23STCV07979
+Hearing Date: October 3, 2023
+Plaintiff's Name: Towne Center, L.P.
+Defendant's Name: Jay Yoon
+People-Names: 
+  - Jay Yoon
+Company-Names: 
+  - Towne Center, L.P.
+Places: 
+  - 20438 Osage Ave., Torrance, CA 90503 
+Dates: 
+  - April 11, 2023
+  - April 26, 2023
+  - June 7, 2023
+  - October 3, 2023
+  - December 12, 2024
+Events: 
+  - Lawsuit filed for breach of lease
+  - Proof of substituted service filed
+  - Defendant's default entered
+  - Plaintiff requests default judgment
+  - Judge denies default judgment and vacates default
+  - OSC re service set for December 12, 2024
+Money: 
+Intentions: 
+  - Plaintiff seeks default judgment
+  - Judge aims to ensure proper service of process
+Facts: 
+  - Defendant was served at 20438 Osage Ave., Unit C
+  - Process server left documents with occupant of Unit C
+  - Declaration of mailing sent to 20438 Osage Ave. without specifying a unit
+Disputes: 
+  - Validity of substituted service
+Acts: 
+  - Filing of lawsuit
+  - Filing of proof of service
+  - Entry of default
+  - Request for default judgment
+Agreements: 
+  - Lease agreement (implied)
+Laws: 
+  - California Code of Civil Procedure § 415.20
+Case Citations: 
+  - Not provided
+Statutes: 
+  - California Code of Civil Procedure § 415.20
+Roles: 
+  - Judge: Decides on the motion for default judgment
+  - Plaintiff: Seeks default judgment against Defendant
+  - Defendant: Served with lawsuit, but default entered due to procedural issues
+Significant Statements: 
+  - "Plaintiff’s proof of substituted service is invalid."
+  - "The court DENIES Plaintiff’s request for default judgment and VACATES the default entered by the clerk on June 7, 2023."
+
+
+
+```
+
+## English Summary
+
+This Tentative Ruling concerns a lawsuit filed by Towne Center, L.P. against Jay Yoon for breach of lease.  
+
+The Court finds that the Plaintiff's attempt to serve the Defendant through "substituted service" was invalid. While the process server correctly served Mr. Yoon at his residence, the mailing address used in the proof of service did not specify a unit number. 
+
+Therefore, the Court denies the Plaintiff's request for default judgment and vacates the default previously entered against Mr. Yoon. 
+
+The Court sets a new hearing date for December 12, 2024, to address proper service of process. 
+
+
+
+..................... .....................
+On 2025-02-13_12:45:08.708318
+The summary displayed below was created by an LLM named:  "llama3-8b-8192":
+Here is the summary in YAML format:
+
+```
+Case Number: 23STCV07979
+Plaintiff's Name: Towne Center, L.P.
+Defendant's Name: Jay Yoon
+People-Names:
+  - Jay Yoon
+Places:
+  - Los Angeles County
+  - Torrance
+  - CA
+  - 20438 Osage Ave.
+Dates:
+  - April 11, 2023
+  - April 26, 2023
+  - June 7, 2023
+  - October 3, 2023
+  - December 12, 2024
+Events:
+  - Breach of Lease
+  - Service of process
+  - Request for default judgment
+  - OSC re service
+Money: None
+Intentions:
+  - Plaintiff seeks default judgment
+  - Judge denies request for default judgment
+Facts:
+  - Plaintiff sued defendant on April 11, 2023
+  - Plaintiff filed proof of substituted service on April 26, 2023
+  - Clerk entered defendant's default on June 7, 2023
+  - Plaintiff's proof of service is invalid
+  - Defendant's default will be vacated
+Disputes:
+  - Validity of substituted service
+Acts:
+  - Plaintiff filed proof of substituted service
+  - Clerk entered defendant's default
+  - Judge will direct clerk to vacate entry of defendant's default
+Agreements: None
+Laws:
+  - Code Civ. Proc., § 415.20, subd. (a)
+Case Citations: None
+Statutes:
+  - Code Civ. Proc.
+Roles:
+  - Judge
+  - Plaintiff (Towne Center, L.P.)
+  - Defendant (Jay Yoon)
+Significant Statements:
+  - Plaintiff's proof of substituted service is invalid
+  - Defendant's default will be vacated
+  - Judge sets OSC re service for December 12, 2024 at 8:30 a.m.
+```
+
+Here is a summary of the judge's tentative ruling in English text:
+
+The judge has denied the plaintiff's request for default judgment and vacated the default entered by the clerk on June 7, 2023. The plaintiff had sued the defendant for breach of lease and had filed a proof of substituted service on April 26, 2023. However, the court has found that the plaintiff's proof of service is invalid because it did not specify which unit at the listed address (20438 Osage Ave., Torrance, CA 90503) the summons and complaint were mailed to. The judge has set an order to show cause (OSC) for December 12, 2024 at 8:30 a.m. to determine how service should be made on the defendant.
+..................... .....................
+On 2025-02-13_12:45:34.781203
+The summary displayed below was created by an LLM named:  "llama-3.3-70b-specdec":
+Here is a YAML summary of the tentative ruling:
+
+```yml
+Case Number: 23STCV07979
+Plaintiff's Name: Towne Center, L.P.
+Defendant's Name: Jay Yoon
+People-Names:
+  - Jay Yoon
+Company-Names:
+  - Towne Center, L.P.
+Places:
+  - Los Angeles County
+  - Torrance, CA
+  - 20438 Osage Ave.
+Dates:
+  - April 11, 2023
+  - April 26, 2023
+  - June 7, 2023
+  - October 3, 2023
+  - December 12, 2024
+Events:
+  - Filing of lawsuit
+  - Proof of substituted service
+  - Entry of default
+  - Request for default judgment
+Money: None
+Intentions:
+  - Plaintiff seeks default judgment
+Facts:
+  - Plaintiff sued defendant for breach of lease
+  - Defendant's default was entered by the clerk
+  - Plaintiff's proof of substituted service is invalid
+Disputes:
+  - Validity of substituted service
+Acts:
+  - Plaintiff filed lawsuit
+  - Plaintiff filed proof of substituted service
+  - Clerk entered defendant's default
+Agreements: None
+Laws:
+  - Code Civ. Proc., § 415.20, subd. (a)
+Case Citations: None
+Statutes:
+  - Code Civ. Proc., § 415.20, subd. (a)
+Roles:
+  - Judge
+  - Plaintiff
+  - Defendant
+  - Clerk
+Significant Statements:
+  - "The court DENIES Plaintiff's request for default judgment and VACATES the default entered by the clerk on June 7, 2023."
+  - "Plaintiff's proof of substituted service is invalid."
+```
+
+And here is a summary of the tentative ruling in English text:
+
+The Judge has issued a tentative ruling in the case of Towne Center, L.P. vs. Jay Yoon, case number 23STCV07979. The plaintiff, Towne Center, L.P., sued the defendant, Jay Yoon, for breach of lease on April 11, 2023. The plaintiff filed a proof of substituted service on April 26, 2023, and the clerk entered the defendant's default on June 7, 2023. However, the Judge has denied the plaintiff's request for default judgment and vacated the default entered by the clerk. The reason for this decision is that the plaintiff's proof of substituted service is invalid. The process server left the summons and complaint at the defendant's address, but the declaration of mailing did not specify the individual unit where the defendant lives. The Judge has set an Order to Show Cause (OSC) regarding service for December 12, 2024, at 8:30 a.m. The plaintiff's request for default judgment is denied, and the court will direct the clerk to vacate the entry of the defendant's default.
+..................... .....................
+On 2025-02-13_12:46:01.269510
+The summary displayed below was created by an LLM named:  "mixtral-8x7b-32768":
+case\_number: 23STCV07979
+hearing\_date: 2023-10-03
+dept: 72
+
+plaintiff:
+  name: Towne Center, L.P.
+
+defendant:
+  name: Jay Yoon
+
+people:
+  - name: plaintiff's process server
+  - name: occupant of Unit C
+
+places:
+  - name: 20438 Osage Ave., Torrance, CA 90503
+
+events:
+  - name: filing of the complaint
+    date: 2023-04-11
+  - name: filing of the proof of substituted service
+    date: 2023-04-26
+  - name: entry of default by the clerk
+    date: 2023-06-07
+  - name: denial of default judgment
+    date: 2023-10-03
+  - name: setting of OSC re service
+    date: 2024-12-12
+
+laws:
+  - code: Code Civ. Proc., § 415.20, subd. (a)
+
+facts:
+  - plaintiff sued defendant for breach of lease
+  - plaintiff filed proof of substituted service on April 26, 2023
+  - clerk entered defendant’s default on June 7, 2023
+  - plaintiff seeks default judgment
+  - plaintiff's proof of substituted service is invalid
+  - plaintiff left a copy of the summons and complaint at defendant's usual mailing address
+  - plaintiff mailed a copy of the summons and complaint to the defendant at the same address without specifying any individual unit
+
+disputes:
+  - validity of plaintiff's proof of substituted service
+
+acts:
+  - plaintiff's request for default judgment is denied
+  - court directs the clerk to vacate entry of Defendant’s default
+
+significant\_statements:
+  - "The court DENIES Plaintiff’s request for default judgment and VACATES the default entered by the clerk on June 7, 2023."
+
+Summary:
+The Judge, through this tentative ruling, denies Plaintiff Towne Center, L.P.'s request for default judgment against Defendant Jay Yoon in Case No. 23STCV07979. The Judge vacates the default entered by the clerk on June 7, 2023, due to Plaintiff's invalid proof of substituted service. The Judge sets an OSC re service for December 12, 2024, at 8:30 a.m. The proof of service indicates that an occupant of the listed address informed Plaintiff's process server that there are other units with the same address. The process server determined that the Plaintiff lives in Unit C, and that is where the process server left the summons and complaint. However, Plaintiff's declaration of mailing indicates the summons and complaint were mailed to 20438 Osage Ave., without specifying any individual unit. Copies of the summons and complaint were not mailed to the precise address where they were left.
