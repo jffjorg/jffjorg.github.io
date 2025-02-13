@@ -52,3 +52,247 @@ Significant Statements:
 And here is the English-text summary:
 
 This is a tentative ruling by a judge regarding motions to compel filed by the defendant in a lawsuit. The defendant propounded form interrogatories and a request for production of documents on the plaintiff on July 1, 2022, and the plaintiff failed to respond. Despite multiple extensions being provided, the plaintiff still has not responded. The defendant filed a motion to compel the plaintiff to provide responses to the discovery requests, and the court has granted the motion. The plaintiff is ordered to provide verified responses without objections to the discovery requests served on them within 30 days. The defendant's request for sanctions is denied because it did not identify who it seeks sanctions against in the notice of motion.
+..................... .....................
+On 2025-02-13_05:30:59.665672
+The summary displayed below was created by an LLM named:  "gemma2-9b-it":
+## Tentative Ruling Summary - YAML Format
+
+```yaml
+Case Number: 21STCV03357
+Hearing Date: October 3, 2023
+Dept: 31
+
+People-Names:  
+Company-Names: 
+Places: 
+Dates: 
+    - July 1, 2022
+    - August 2, 2022
+    - December 8, 2022
+Events: 
+    - Defendant served Plaintiff with Form Interrogatories and Request for Production of Documents
+    - Plaintiff failed to respond by August 2, 2022
+    - Defendant sent a letter to Plaintiff's counsel reminding them of the deadline and waiving objections
+    - Defendant filed a motion to compel Plaintiff's responses
+Money: 
+Intentions: 
+    - Defendant: To obtain Plaintiff's responses to discovery requests
+    - Plaintiff: 
+Facts: 
+    - Defendant properly served Plaintiff with discovery requests.
+    - Plaintiff did not respond to the discovery requests.
+Disputes: 
+    - Plaintiff's failure to respond to discovery requests.
+Acts: 
+    - Defendant served discovery requests.
+    - Plaintiff failed to respond to discovery requests.
+    - Defendant sent a letter to Plaintiff's counsel reminding them of the deadline and waiving objections.
+    - Defendant filed a motion to compel Plaintiff's responses.
+Agreements: 
+Laws:
+    - Code Civ. Proc., § 2030.290, subd. (b)
+    - Code Civ. Proc., § 2031.300(b)
+    - Code Civ. Proc., § 2031.300(a)
+    - Code Civ. Proc., §§ 2030.290(c), 2031.300(c)
+    - Code Civ. Proc. § 2023.030(a)
+    - Code Civ. Proc. § 2023.010
+Case Citations: 
+    - Leach v. Superior Court (1980) 111 Cal.App.3d 902, 905–906
+Statutes: 
+Roles: 
+    - Defendant: Moving party seeking to compel Plaintiff's responses to discovery.
+    - Plaintiff: Party against whom discovery is sought.
+Significant Statements: 
+    - "Defendant is entitled to a court order directing Plaintiff to provide verified responses without objections to the discovery requests served on Plaintiff."
+    - "Defendant has not identified who it seeks sanctions against in the notice of motion."
+
+
+
+```
+
+## English-Text Summary
+
+This tentative ruling addresses the Defendant's motion to compel the Plaintiff to provide responses to form interrogatories and requests for production of documents. The Judge finds that the Defendant properly served the discovery requests and the Plaintiff failed to respond within the allotted time. As a result, the Defendant's motions to compel are **GRANTED**. The Plaintiff is ordered to provide complete and un-objected responses to the discovery requests within 30 days.
+
+The Judge also denied the Defendant's request for sanctions because the Defendant did not specify which individuals or entities should be sanctioned in their motion.  
+
+
+
+..................... .....................
+On 2025-02-13_05:31:25.746542
+The summary displayed below was created by an LLM named:  "llama3-8b-8192":
+Here is the summary in YAML format:
+
+```
+Case Number: 21STCV03357
+Plaintiff's Name: 
+Defendant's Name: 
+People-Names: 
+Company-Names: 
+Places: 
+Dates:
+  - July 1, 2022
+  - August 2, 2022
+  - December 8, 2022
+  - October 3, 2023
+Events:
+  - Defendant propounded Form Interrogatories, Set One, and Request for Production of Documents, Set One
+  - Plaintiff failed to serve responses
+  - Defendant wrote a letter to plaintiff indicating that responses were due on August 2, 2022
+  - Multiple extensions were provided
+  - Defendant filed a motion to compel responses
+Money:
+  - Sanctions
+Intentions:
+  - Defendant wants to compel plaintiff to provide responses to interrogatories and requests for production
+  - Defendant wants to deny plaintiff's objections to discovery requests
+Facts:
+  - Plaintiff failed to serve responses to defendant's discovery requests
+  - Defendant properly served discovery requests
+  - Defendant provided multiple extensions to respond
+Disputes:
+  - Plaintiff's failure to serve responses to defendant's discovery requests
+Acts:
+  - Defendant propounded discovery requests
+  - Plaintiff failed to respond
+Agreements:
+  - None
+Laws:
+  - California Code of Civil Procedure (CCP) sections 2030.290, 2031.300, 2023.030, 2023.010
+  - Leach v. Superior Court (1980) 111 Cal.App.3d 902, 905-906
+Case Citations:
+  - Leach v. Superior Court (1980) 111 Cal.App.3d 902, 905-906
+Statutes:
+  - CCP sections 2030.290, 2031.300, 2023.030, 2023.010
+Roles:
+  - Judge
+  - Plaintiff
+  - Defendant
+  - Counsel for defendant
+  - Counsel for plaintiff
+Significant Statements:
+  - "Defendant is entitled to a court order directing Plaintiff to provide verified responses without objections to the discovery requests served on Plaintiff."
+  - "As Defendant properly served discovery requests and Plaintiff failed to serve responses, the Court finds Defendant is entitled to a court order directing Plaintiff to provide verified responses without objections to the discovery requests served on Plaintiff."
+```
+
+And here is a summary of the judge's tentative ruling in English text:
+
+The defendant's motion to compel the plaintiff to provide responses to form interrogatories and requests for production of documents is granted. The plaintiff failed to serve responses to the defendant's discovery requests, despite multiple extensions being provided. The court finds that the defendant is entitled to a court order directing the plaintiff to provide verified responses without objections to the discovery requests served on the plaintiff. The plaintiff is ordered to provide responses without objection to the defendant's request for form interrogatories and requests for production within 30 days.
+
+The defendant's request for sanctions is denied, as it did not identify who it seeks sanctions against in the notice of motion.
+..................... .....................
+On 2025-02-13_05:31:51.895753
+The summary displayed below was created by an LLM named:  "llama-3.3-70b-specdec":
+Here is a YAML summary of the tentative ruling:
+
+```yml
+Case Number: 21STCV03357
+Plaintiff's Name: Not specified
+Defendant's Name: Not specified
+People-Names:
+  - Powell (declarant)
+Company-Names: None
+Places: None
+Dates:
+  - July 1, 2022 (defendant propounded discovery requests)
+  - August 2, 2022 (responses due)
+  - December 8, 2022 (counsel for defendant wrote a letter to counsel for plaintiff)
+  - October 3, 2023 (hearing date)
+Events:
+  - Defendant propounded Form Interrogatories and Request for Production of Documents
+  - Plaintiff failed to respond to discovery requests
+  - Defendant's counsel wrote a letter to plaintiff's counsel
+  - Multiple extensions to respond were provided
+Money:
+  - Reasonable expenses, including attorney's fees (potential sanction)
+Intentions:
+  - Defendant seeks to compel plaintiff to provide responses to discovery requests
+  - Defendant seeks sanctions against plaintiff
+Facts:
+  - Defendant properly served discovery requests
+  - Plaintiff failed to serve responses
+  - Plaintiff's responses were due no later than August 2, 2022
+Disputes:
+  - Plaintiff's failure to respond to discovery requests
+Acts:
+  - Defendant propounded discovery requests
+  - Plaintiff failed to respond
+  - Defendant's counsel wrote a letter to plaintiff's counsel
+Agreements: None
+Laws:
+  - Code of Civil Procedure (CCP) section 2030.290
+  - Code of Civil Procedure (CCP) section 2031.300
+  - Code of Civil Procedure (CCP) section 2023.030
+  - Code of Civil Procedure (CCP) section 2023.040
+Case Citations:
+  - Leach v. Superior Court (1980) 111 Cal.App.3d 902
+Statutes:
+  - Code of Civil Procedure (CCP) section 2030.290
+  - Code of Civil Procedure (CCP) section 2031.300
+  - Code of Civil Procedure (CCP) section 2023.030
+  - Code of Civil Procedure (CCP) section 2023.040
+Roles:
+  - Judge
+  - Plaintiff
+  - Defendant
+  - Counsel for defendant
+  - Counsel for plaintiff
+Significant Statements:
+  - "Defendant's motions to compel Plaintiff to provide responses to form interrogatories and requests for production for documents are GRANTED."
+  - "Plaintiff is ordered to provide responses without objection to Defendant's request for form interrogatories and request for production within 30 days."
+  - "Defendant's request for sanctions is DENIED."
+```
+
+And here is a summary of the tentative ruling in English text:
+
+The judge has issued a tentative ruling granting the defendant's motions to compel the plaintiff to provide responses to form interrogatories and requests for production of documents. The plaintiff failed to respond to the discovery requests, which were due on August 2, 2022. The defendant's counsel wrote a letter to the plaintiff's counsel on December 8, 2022, indicating that responses were due and that objections had been waived. The court finds that the defendant is entitled to a court order directing the plaintiff to provide verified responses without objections to the discovery requests. The plaintiff is ordered to provide responses within 30 days. The defendant's request for sanctions is denied due to a technical issue with the notice of motion. The moving party is ordered to give notice.
+..................... .....................
+On 2025-02-13_05:32:18.386589
+The summary displayed below was created by an LLM named:  "mixtral-8x7b-32768":
+case\_number: 21STCV03357
+hearing\_date: 2023-10-03
+dept: 31
+plaintiff: Plaintiff
+defendant: Defendant
+people:
+- name: Powell
+date: 2022-07-01
+- name: Counsel for Defendant
+date: 2022-12-08
+companies: []
+places: []
+events:
+- date: 2022-07-01
+description: Defendant propounded Form Interrogatories, Set One, and Request for Production of Documents, Set One on plaintiff
+- date: 2022-08-02
+description: Plaintiff's responses to defendant's discovery were due
+- date: 2022-12-08
+description: Counsel for defendant wrote a letter to counsel for plaintiff indicating that responses to the discovery were due on August 2, 2022 and that therefore objections had been waived
+money: []
+intentions:
+- defendant: Compel Plaintiff to provide responses to Form Interrogatories and Request for Production of Documents
+- plaintiff: Provide responses without objection to Defendant's request for Form Interrogatories and Request for Production of Documents
+facts:
+- defendant: Properly served discovery requests
+- plaintiff: Failed to serve responses
+disputes:
+- plaintiff: Failed to respond to discovery requests
+acts:
+- defendant: Filed a motion to compel Plaintiff to provide responses to Form Interrogatories and Request for Production of Documents
+- judge: Granted Defendant's motion to compel Plaintiff to provide responses to Form Interrogatories and Request for Production of Documents
+agreements: []
+laws:
+- name: Code Civ. Proc., § 2030.290, subd. (b)
+- name: Code Civ. Proc., § 2031.300(b)
+- name: Code Civ. Proc., § 2031.300(a)
+- name: Code Civ. Proc. § 2023.030(a)
+- name: Code Civ. Proc. § 2023.010
+case\_citations:
+- name: Leach v. Superior Court (1980) 111 Cal.App.3d 902
+roles:
+- name: Defendant
+role\_description: Moving party
+- name: Plaintiff
+role\_description: Responding party
+significant\_statements:
+- judge: "Defendant’s motions to compel Plaintiff to provide responses to form interrogatories and requests for production for documents are GRANTED. Plaintiff is ordered to provide responses without objection to Defendant’s request for form interrogatories and request for production within 30 days. Defendant’s request for sanctions is DENIED."

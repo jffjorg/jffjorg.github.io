@@ -55,3 +55,186 @@ Significant Statements:
 And here is a summary of the judge's tentative ruling in English text:
 
 The judge has tentatively ruled that the Defendant's Motion for Summary Judgment is continued to November 7, 2023, at 8:30 a.m. due to the improper redaction of evidence filed in support of the motion. The judge has ordered a hearing to consider the sealing of the redacted evidence and has granted the Defendant an opportunity to follow the procedures for filing records under seal. The Defendant must file a memorandum and supporting declaration for the motion to seal by November 7, 2023, and provide courtesy copies of all briefing filed by October 31, 2023. The judge has also warned that the court cannot consider evidence that is partially redacted without a court order, and has cited relevant California Rules of Court and case law.
+..................... .....................
+On 2025-02-13_04:21:13.381455
+The summary displayed below was created by an LLM named:  "gemma2-9b-it":
+## Tentative Ruling Summary in YAML
+
+```yaml
+Case Number: 21STCV06797
+Hearing Date: October 3, 2023
+Dept: 19
+
+People-Names: 
+  - Judge (Unspecified)
+
+Company-Names:
+  - County of Los Angeles
+
+Places:
+  - Stanley Mosk Courthouse
+  - Department 19
+
+Dates:
+  - October 3, 2023
+  - November 7, 2023
+
+Events:
+  - Defendant's Motion for Summary Judgment CONTINUED to 11/07/2023
+  - Hearing Re: Sealing of Redacted Evidence In Support Of Motion for Summary Judgment scheduled for 11/07/2023
+
+Money: 
+  - None
+
+Intentions:
+  - Defendant seeks to have their evidence considered in the Summary Judgment motion. 
+
+Facts:
+  - Defendant filed evidence containing redactions without a court order. 
+
+Disputes:
+  - Legal issue regarding proper filing of redacted evidence.
+
+Acts:
+  - Judge continued the Summary Judgment hearing.
+  - Judge ordered a hearing to address the redacted evidence.
+
+Agreements:
+  - None
+
+Laws:
+  - California Rules of Court, rule 2.551(a)
+  - California Rules of Court, rule 2.550-2.551
+  - Cal. R. Ct., 2.500(c)
+  - McNair v. National Collegiate Athletic Association (2015) 234 Cal.App.4th 25, 31
+
+Case Citations:
+  - McNair v. National Collegiate Athletic Association (2015) 234 Cal.App.4th 25, 31
+
+Statutes:
+  - None
+
+Roles:
+  - Judge: Determines legal issues and sets hearing dates.
+  - Defendant: Filed evidence with redactions and seeks to have it considered.
+
+Significant Statements:
+  - "Substantive courtroom proceedings in ordinary civil cases, and the transcripts and records pertaining to these proceedings, are presumptively open.” 
+  - “A record must not be filed under seal without a court order.” 
+
+
+
+```
+
+## English Text Summary
+
+The Judge has continued the Defendant's Motion for Summary Judgment to November 7, 2023. This is because the Defendant filed evidence with redactions without first obtaining a court order allowing for such redactions. The Judge cites California Rules of Court, emphasizing that court records are presumptively open, and redactions require a court order. 
+
+The Judge has scheduled a hearing on November 7th to address the issue of the redacted evidence. The Defendant has the opportunity to file a motion to seal the records appropriately, with supporting documentation. Alternatively, the Defendant can refile the exhibits without redactions. The Judge has also ordered the Defendant to provide courtesy copies of all briefing related to the motion by October 31st. 
+
+
+
+..................... .....................
+On 2025-02-13_04:21:39.475889
+The summary displayed below was created by an LLM named:  "llama3-8b-8192":
+Here is the summary in YAML format:
+
+```
+Case Number: 21STCV06797
+Plaintiff's Name: None
+Defendant's Name: County of Los Angeles
+People-Named: None
+Company-Named: None
+Places:
+  - Stanley Mosk Courthouse
+Dates:
+  - October 3, 2023
+  - November 7, 2023
+  - October 31, 2023
+Events:
+  - Defendant's Motion for Summary Judgment
+  - Hearing Re: Sealing of Redacted Evidence
+Money: None
+Intentions:
+  - To set a hearing to address redacted evidence
+  - To grant Defendant opportunity to follow proper procedures for filing records under seal
+Facts:
+  - Defendant's evidence contains improper redactions
+  - Redactions violate California Rules of Court
+Disputes:
+  - Defendant's Motion for Summary Judgment
+  - Sealing of redacted evidence
+Acts:
+  - Filing of redacted evidence
+  - Filing of motion for summary judgment
+  - Filing of motion to seal
+  - Filing of opposition and reply
+Agreements:
+  - California Rules of Court
+  - McNair v. National Collegiate Athletic Association (2015)
+  - Cal. R. Ct., 2.500(c) and 2.551(a)
+Laws:
+  - California Rules of Court
+  - Cal. R. Ct., 2.500(c) and 2.551(a)
+Case Citations:
+  - McNair v. National Collegiate Athletic Association (2015)
+Statutes:
+  - None
+Roles:
+  - Judge (author of the tentative ruling)
+  - Defendant (County of Los Angeles)
+Significant Statements:
+  - "Substantive courtroom proceedings in ordinary civil cases, and the transcripts and records pertaining to these proceedings, are presumptively open."
+  - "A record must not be filed under seal without a court order."
+```
+
+And here is a brief summary in English text:
+
+The Judge has issued a tentative ruling on the Defendant's Motion for Summary Judgment. The Judge has determined that a portion of the Defendant's evidence contains improper redactions and violates California Rules of Court. As a result, the Judge has continued the hearing to November 7, 2023, and set a separate hearing to address the sealing of the redacted evidence. The Defendant is granted the opportunity to follow the proper procedures for filing records under seal and must file a motion to seal with supporting documentation. The Defendant may also refile the exhibits without redactions.
+..................... .....................
+On 2025-02-13_04:22:04.654595
+The summary displayed below was created by an LLM named:  "llama-3.3-70b-specdec":
+Exception:
+Error code: 429 - {'error': {'message': 'Rate limit reached for model `llama-3.3-70b-specdec` in organization `org_01hw84cjv0f12v63qt47723ar2` service tier `on_demand` on : Limit 100000, Used 99510, Requested 733. Please try again in 3m29.646s. Visit https://console.groq.com/docs/rate-limits for more information.', 'type': '', 'code': 'rate_limit_exceeded'}}
+..................... .....................
+On 2025-02-13_04:32:05.867203
+The summary displayed below was created by an LLM named:  "mixtral-8x7b-32768":
+case\_number: 21STCV06797
+hearing\_date: October 3, 2023
+dept: 19
+plaintiff: Not explicitly mentioned
+defendant: County of Los Angeles
+people:
+- McNair
+places:
+- Stanley Mosk Courthouse
+dates:
+- 11/07/2023
+events:
+- Defendant's Motion for Summary Judgment continued to 11/07/2023
+- Hearing Re: Sealing of Redacted Evidence In Support Of Motion for Summary Judgment on 11/07/2023
+money: Not explicitly mentioned
+intentions:
+- Defendant to file a motion or an application for an order sealing the record
+- Defendant to refile and serve the exhibits without redactions
+- Moving party to give notice
+facts:
+- A portion of Defendant's evidence filed in support of the Motion for Summary Judgment improperly contains redactions
+- Substantive courtroom proceedings are presumptively open
+- Defendant filed evidence containing redactions without obtaining a court order
+disputes: The redaction of evidence in support of a motion for summary judgment
+acts:
+- Defendant's Motion for Summary Judgment
+- The court's continuation of the hearing to 11/07/2023
+- The court's order to follow the procedures for filing the records under seal
+agreements: Not explicitly mentioned
+laws:
+- California Rules of Court, rule 2.551(a)
+- California Rules of Court, rule 2.550-2.551
+case\_citations: McNair v. National Collegiate Athletic Association (2015) 234 Cal.App.4th 25, 31
+roles:
+- Judge
+significant\_statements:
+- "The Court cannot consider evidence that is partially redacted evidence in support or opposition of a motion for summary judgment unless leave to do so has first been granted."
+- "Defendant is granted this opportunity to follow the procedures for filing the records under seal and to make the requisite showing."
+- "Defendant is ordered to provide courtesy copies of all briefing filed, including any Reply, by October 31, 2023."

@@ -58,3 +58,186 @@ And here is the English-text summary:
 The judge has issued a tentative ruling in the case of Justice in Aging (JIA) v. California Department of Healthcare Services. JIA filed a Complaint and Petition for Writ of Mandate, alleging that the Department failed to comply with its Public Records Act (PRA) requests for "quality measure information regarding the Assisted Living Waiver" for Medicaid. The Department produced a 34-page report from the Centers for Medicare & Medicaid Services (CMS), with redactions to protect information security records. The Department argues that the redactions are proper because the report was written for internal use and includes sensitive information about its MedCompass system architecture. JIA argues that the redactions are too vague and don't relate to information security records, and that the public would benefit greatly from knowing how MedCompass works.
 
 In the tentative ruling, the judge finds that the redactions are proper because they relate to information that poses a security risk. The redacted portions of the report relate to how the MedCompass system interacts and connects with other systems, which could be exploited by hackers to obtain patient information. The judge concludes that the public interest served by nondisclosure outweighs the public interest in disclosure, and that the Department has shown that the redactions are justified under Government Code Section 7922.000. The Department is ordered to give notice of the tentative ruling, and counsel are strongly encouraged to submit briefs on the tentative or appear by LACourtConnect due to the COVID-19 pandemic.
+..................... .....................
+On 2025-02-13_04:34:17.797695
+The summary displayed below was created by an LLM named:  "gemma2-9b-it":
+## Tentative Ruling Summary
+
+**Case Number:** Not specified in the text.
+**Plaintiff's Name:** Justice In Aging (“JIA”)
+**Defendant's Name:** California Department of Healthcare Services (“the Department”)
+**People-Names:**  
+    * Justice In Aging ("JIA")
+    * McKibben (likely Department representative)
+**Company-Names:** 
+    * Justice In Aging (“JIA”)
+    * California Department of Healthcare Services (“the Department”)
+    * Centers for Medicare & Medicaid Services (“CMS”)
+**Places:** Not specified.
+**Dates:**  
+    * December 8, 2022: Complaint filed
+    * March 20, 2023: Department produced CMS report
+**Events:**  
+    * JIA filed a complaint alleging the Department failed to comply with a Public Records Act (PRA) request.
+    * The Department produced a CMS report with redactions.
+    * JIA argues the redactions are unjustified.
+    * The Department argues the redactions are necessary to protect information security.
+**Money:** Not specified.
+**Intentions:** 
+    * JIA: Seeks full disclosure of the CMS report. 
+    * Department: Protect internal system security.
+**Facts:** 
+    * JIA requested information from the Department regarding "quality measure information regarding the Assisted Living Waiver"
+    * The Department produced a 34-page CMS report with redactions.
+    * The redactions concern the Department's MedCompass system and its interaction with other systems.
+**Disputes:** 
+    * Whether the redactions are justified under the Public Records Act.
+**Acts:** 
+    * JIA filed a complaint.
+    * The Department produced a report with redactions.
+**Agreements:** None mentioned.
+**Laws:** 
+    * California Government Code § 7929.210 (information security records)
+    * California Government Code § 7922.000 (public interest outweighing disclosure)
+**Case Citations:** Not specified.
+**Statutes:** 
+    * California Government Code § 7929.210
+    * California Government Code § 7922.000
+
+
+**Significant Statements:** 
+
+* The Court finds the redactions are proper because they relate to information that poses a security risk. 
+* The Court believes the redacted information could be exploited by hackers to obtain patient information.
+* The Department has shown that the “the public interest served by not disclosing the record clearly outweighs the public interest served by disclosure of the record.”  (Gov. Code § 7922.000.)
+
+
+## English Summary
+
+The judge has reviewed a complaint filed by Justice In Aging (JIA) against the California Department of Healthcare Services (the Department) regarding the Department's redactions of a report from the Centers for Medicare & Medicaid Services (CMS).  JIA alleges the Department failed to comply with a Public Records Act (PRA) request, while the Department argues the redactions are necessary to protect the security of their MedCompass system. 
+
+The judge agrees with the Department, finding that the redacted information, which relates to the inner workings of the MedCompass system, could pose a security risk if released publicly. The judge believes this risk outweighs the public's interest in knowing exactly how the system functions. 
+
+
+
+..................... .....................
+On 2025-02-13_04:34:45.668495
+The summary displayed below was created by an LLM named:  "llama3-8b-8192":
+Here is the summary in YAML format:
+
+```
+case_number: unknown
+plaintiff: Justice In Aging (JIA)
+defendant: California Department of Healthcare Services (the Department)
+people:
+  - Justice In Aging (JIA)
+  - California Department of Healthcare Services
+  - Centers for Medicare & Medicaid Services (CMS)
+  - McKibben (Department employee)
+  - Unknown hackers
+companies:
+  - Justice In Aging (JIA)
+  - California Department of Healthcare Services (the Department)
+  - Centers for Medicare & Medicaid Services (CMS)
+places:
+  - California
+  - March
+  - December
+dates:
+  - December 8, 2022
+  - March 20, 2023
+events:
+  - PRA requests from JIA to the Department
+  - Production of a report from CMS
+  - Redactions by the Department
+  - Court review of the report and redactions
+money:
+  - unknown
+intentions:
+  - JIA: to obtain quality measure information
+  - Department: to protect information security
+  - Court: to determine if redactions are proper
+facts:
+  - JIA made PRA requests for information
+  - Department produced a report with redactions
+  - Redactions relate to internal system architecture
+  - Department claims redactions are necessary to protect information security
+disputes:
+  - JIA argues that redactions are not necessary
+  - Department argues that redactions are necessary to protect information security
+acts:
+  - JIA filed a Complaint and Petition for Writ of Mandate
+  - Department produced a report with redactions
+  - Court reviewed the report and redactions
+agreements:
+  - unknown
+laws:
+  - Government Code Section 7929.210
+  - Government Code Section 7922.000
+  - Public Records Act (PRA)
+case_citations:
+  - unknown
+statutes:
+  - Government Code Section 7929.210
+  - Government Code Section 7922.000
+roles:
+  - Judge: to review the report and redactions
+  - JIA: to obtain quality measure information
+  - Department: to protect information security
+significant_statements:
+  - Redactions are proper because they relate to information that poses a security risk
+  - The public interest served by not disclosing the record clearly outweighs the public interest served by disclosure of the record
+```
+
+And here is a summary of the judge's tentative ruling in English text:
+
+The judge has reviewed the report produced by the California Department of Healthcare Services (the Department) in response to a public records request from Justice In Aging (JIA). The report was redacted to protect information security, specifically to prevent the disclosure of how the Department's internal system (MedCompass) interacts with other systems. The Department claims that this information could be exploited by hackers to obtain patient information. The judge agrees that the redactions are proper because they relate to information that poses a security risk. The judge also finds that the public interest served by not disclosing the record (i.e., the redacted information) clearly outweighs the public interest served by disclosure of the record. Therefore, the Department's redactions are upheld. The Department is ordered to give notice of this ruling.
+..................... .....................
+On 2025-02-13_04:35:10.858268
+The summary displayed below was created by an LLM named:  "llama-3.3-70b-specdec":
+Exception:
+Error code: 429 - {'error': {'message': 'Rate limit reached for model `llama-3.3-70b-specdec` in organization `org_01hw84cjv0f12v63qt47723ar2` service tier `on_demand` on : Limit 100000, Used 100051, Requested 1124. Please try again in 16m55.634999999s. Visit https://console.groq.com/docs/rate-limits for more information.', 'type': '', 'code': 'rate_limit_exceeded'}}
+..................... .....................
+On 2025-02-13_04:45:12.242209
+The summary displayed below was created by an LLM named:  "mixtral-8x7b-32768":
+case\_number: None provided
+plaintiff: Justice In Aging (JIA)
+defendant: California Department of Healthcare Services
+people:
+- Justice In Aging
+- Judge (name not provided)
+companies:
+- Centers for Medicare & Medicaid Services (CMS)
+places:
+- California
+dates:
+- December 8, 2022: JIA filed a Complaint and Petition for Writ of Mandate
+- March 20, 2023: Department produced a report from CMS
+events:
+- JIA made PRA requests from the Department for "quality measure information regarding the Assisted Living Waiver" for Medicaid
+- Department produced a 34-page report with redactions for about 9 sentences related to the Department’s new MedCompass system
+money: Not applicable
+intentions:
+- Department: protect information security records pursuant to Gov. Code Section 7929.210
+- JIA: argue that the redacted information has not been described sufficiently, the redactions do not relate to an “information security record”, and any security concerns are speculative
+facts:
+- Department's internal system architecture might be compromised if the redacted information is released publicly
+- Redacted information provides potentially exploitable information regarding how the Department’s internal systems interact
+- The report was not written as a ‘public-facing’ document
+disputes: Whether the redactions are proper under Gov. Code Sections 7929.210 and 7922.000
+acts:
+- JIA filed a Complaint and Petition for Writ of Mandate
+- Department produced a report from CMS with redactions
+agreements: None provided
+laws:
+- Gov. Code Section 7929.210
+- Gov. Code Section 7922.000
+case\_citations: Not applicable
+statutes: Not applicable
+roles:
+- Plaintiff: JIA
+- Defendant: Department
+significant\_statements:
+- "The Court has reviewed the unredacted report and finds that the redactions are proper in that they relate to information that poses a security risk."
+- "The Department has shown that the ‘the public interest served by not disclosing the record clearly outweighs the public interest served by disclosure of the record.’ (Gov. Code § 7922.000.)"
+- "If counsel do not submit on the tentative, they are strongly encouraged to appear by LACourtConnect rather than in person due to the COVID-19 pandemic."

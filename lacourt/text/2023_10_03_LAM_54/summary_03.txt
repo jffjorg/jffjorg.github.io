@@ -60,3 +60,192 @@ Significant Statements:
 And here is a summary of the judge's tentative ruling in English text:
 
 The judge has tentatively ruled that the motion for approval of the PAGA settlement is DENIED. The settlement provides for payment of $73,750.00, with $750.00 allocated for representative PAGA claims and $73,000.00 for the plaintiff's individual claims. The settlement also provides for the release of PAGA claims for all aggrieved employees, with a small allocation of $187.50 for approximately seven similarly aggrieved employees. The judge finds the settlement to be unreasonably low considering the release of claims and the plaintiff's large individual settlement. The motion is denied, and the parties are encouraged to submit any further arguments or evidence if they wish to contest the tentative ruling.
+..................... .....................
+On 2025-02-13_10:15:23.652357
+The summary displayed below was created by an LLM named:  "gemma2-9b-it":
+## Tentative Ruling Summary in YAML
+
+```yaml
+Case Number: 20STCV31735
+Hearing Date: October 3, 2023
+Plaintiff's Name: Cesar Ureña-Taswell
+Defendant's Name: OP LA, Inc. et al.
+People-Names:
+  - Cesar Ureña-Taswell
+  - Maurice A. Leiter
+Company-Names:
+  - OP LA, Inc.
+Places:
+  - Los Angeles, California
+Dates:
+  - August 20, 2019
+  - October 3, 2023
+Events:
+  - Motion for Approval of PAGA Settlement filed
+  - No opposition received
+Events-Description:
+  - Plaintiff seeks approval of a settlement
+  - Settlement includes $73,750.00 total payment
+    - $750.00 for representative PAGA claims
+    - $73,000.00 for Plaintiff's individual claims
+  - Settlement releases PAGA claims for all aggrieved employees
+  - Seven similarly aggrieved employees will receive $187.50 each
+Intentions:
+  - Court will consider the moving papers
+  - Parties can submit on the tentative ruling
+Money:
+  - $73,750.00 total settlement amount
+  - $750.00 allocated for representative PAGA claims
+  - $73,000.00 allocated for Plaintiff's individual claims
+  - $187.50 per similarly aggrieved employee
+Facts:
+  - Plaintiff filed a lawsuit alleging violations of the PAGA
+Disputes:
+  - Whether the proposed settlement is fair and reasonable
+Acts:
+  - Plaintiff filed a motion for approval of the PAGA settlement
+Agreements:
+  - Settlement agreement between Plaintiff and Defendants
+Laws:
+  - California Labor Code § 2698, et seq. (PAGA)
+Case Citations:
+  - None provided
+Statutes:
+  - California Labor Code § 2698, et seq.
+Roles:
+  - Judge Maurice A. Leiter: Presiding Judge
+  - Cesar Ureña-Taswell: Plaintiff
+  - OP LA, Inc. et al.: Defendants
+Significant Statements:
+  - "The settlement agreement provides a release of PAGA claims for all aggrieved employees."
+  - "There are approximately seven similarly aggrieved employees who will share $187.50 in exchange for a release of PAGA claims."
+  - "This settlement is unreasonably low considering the release of claims and Plaintiff’s large individual settlement."
+  - "The motion is DENIED."
+
+
+```
+
+## English Summary
+
+Judge Maurice A. Leiter has denied Plaintiff Cesar Ureña-Taswell's motion to approve a proposed settlement under the Private Attorneys General Act (PAGA).  
+
+The settlement involved a total payment of $73,750.00, with $750.00 allocated to representative PAGA claims and $73,000.00 to Plaintiff's individual claims.  
+
+Seven similarly aggrieved employees would receive $187.50 each in exchange for releasing their PAGA claims. The Judge found that this settlement was unreasonably low given the scope of the released claims and the significant individual settlement amount for the Plaintiff. Therefore, the motion was denied. 
+
+
+
+
+..................... .....................
+On 2025-02-13_10:15:49.441899
+The summary displayed below was created by an LLM named:  "llama3-8b-8192":
+Here is the summary in YAML format:
+
+```
+Case Number: 20STCV31735
+Plaintiff's Name: Cesar Ureña-Taswell
+Defendant's Name: OP LA, Inc. et al.
+People:
+  - Cesar Ureña-Taswell
+  - Maurice A. Leiter
+Companies:
+  - OP LA, Inc.
+Places:
+  - Los Angeles
+  - California
+Dates:
+  - August 20, 2019
+  - October 3, 2023
+Events:
+  - Motion for Approval of PAGA Settlement
+  - Hearing
+Money:
+  - $73,750.00
+  - $750.00
+  - $73,000.00
+  - $187.50
+Intentions:
+  - Grant approval of proposed settlement
+  - Release PAGA claims
+  - Final and binding settlement
+Facts:
+  - Plaintiff moves for approval of proposed settlement
+  - No opposition received
+  - Settlement includes release of PAGA claims
+Disputes:
+  - Reasonableness of settlement
+Acts:
+  - Plaintiff moves for approval of settlement
+  - Settlement agreement provides release of PAGA claims
+  - Aggrieved employees will share $187.50
+Laws:
+  - Private Attorneys General Act of 2004 (PAGA)
+  - Cal. Lab Code § 2698, et seq.
+Case Citations:
+  - None
+Statutes:
+  - Cal. Lab Code § 2698, et seq.
+Roles:
+  - Plaintiff: Cesar Ureña-Taswell
+  - Judge: Maurice A. Leiter
+  - Defendants: OP LA, Inc. et al.
+Significant Statements:
+  - "The motion is DENIED."
+  - "The settlement agreement provides a release of PAGA claims for all aggrieved employees."
+  - "The PAGA Settlement Approval order entered by the Court shall have full res judicata effect and be final and binding upon Aggrieved Employees regarding the Released Claims."
+```
+
+Here is a summary in English text:
+
+In this tentative ruling, Judge Maurice A. Leiter denies the motion for approval of a proposed settlement brought by Plaintiff Cesar Ureña-Taswell under the Private Attorneys General Act of 2004 (PAGA). The proposed settlement provides for the payment of $73,750.00 to Plaintiff, with $750.00 allocated for representative PAGA claims and $73,000.00 for Plaintiff's individual claims. The settlement also includes a release of PAGA claims for all aggrieved employees. The Judge finds that the settlement is unreasonably low considering the release of claims and Plaintiff's large individual settlement. The motion is denied, and the parties are advised to submit any further arguments or evidence by email before the hearing.
+..................... .....................
+On 2025-02-13_10:16:14.613350
+The summary displayed below was created by an LLM named:  "llama-3.3-70b-specdec":
+Exception:
+Error code: 429 - {'error': {'message': 'Rate limit reached for model `llama-3.3-70b-specdec` in organization `org_01hw84cjv0f12v63qt47723ar2` service tier `on_demand` on : Limit 100000, Used 100368, Requested 744. Please try again in 16m0.772999999s. Visit https://console.groq.com/docs/rate-limits for more information.', 'type': '', 'code': 'rate_limit_exceeded'}}
+..................... .....................
+On 2025-02-13_10:26:15.706401
+The summary displayed below was created by an LLM named:  "mixtral-8x7b-32768":
+case\_number: 20STCV31735
+hearing\_date: October 3, 2023
+dept: 54
+plaintiff: Cesar Ureña-Taswell
+defendants:
+- OP LA, Inc.
+people:
+- Cesar Ureña-Taswell
+- Maurice A. Leiter (Judge)
+places:
+- Superior Court of California, County of Los Angeles
+dates:
+- August 20, 2019
+- present
+events:
+- Motion for approval of PAGA settlement
+money:
+- 73750.00 USD (settlement)
+roles:
+- Plaintiff
+- Defendants
+- Judge
+intentions:
+- Approval of the proposed settlement of claims brought pursuant to the Private Attorneys general Act of 2004 (PAGA)
+facts:
+- Defendants have agreed to pay 73,750.00 USD total
+- 750.00 USD allocated for the representative PAGA claims
+- 73,000.00 USD for Plaintiff’s individual claims
+- Attorney’s fees and costs are to be deducted from Plaintiff’s individual settlement funds
+disputes:
+- The settlement is unreasonably low considering the release of claims and Plaintiff’s large individual settlement
+acts:
+- The motion for approval of the PAGA settlement was denied
+agreements:
+- Release of PAGA claims for all aggrieved employees
+laws:
+- Private Attorneys general Act of 2004 (PAGA), Cal. Lab Code § 2698, et seq.
+statutes:
+- Superior Court of California, County of Los Angeles
+significant\_statements:
+- The motion is DENIED.
+- PLAINTIFF TO NOTICE.
+- If the parties wish to submit on the tentative, please email the courtroom at SMCdept54@lacourt.org with notice to opposing counsel (or self-represented party) before 8:00 am on the day of the hearing.

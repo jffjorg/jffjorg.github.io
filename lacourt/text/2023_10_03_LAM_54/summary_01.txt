@@ -58,3 +58,190 @@ Significant Statements:
 And here is a summary of the judge's tentative ruling in English text:
 
 The judge has granted the defendants' motion to bifurcate the trial, allowing them to hear their cross-complaint for specific performance of the settlement agreement before the plaintiff's claims. The judge finds that bifurcation is appropriate because it will either eliminate the need for a jury trial or streamline the jury trial. The judge cites cases that support the idea that equitable issues, such as those involved in the cross-complaint, should be tried before legal issues. The judge also notes that bifurcation does not deprive the plaintiff of her right to a jury trial, as she will still be entitled to a jury trial on her claims. The judge will address whether the cross-complaint states a claim when the plaintiff's demurrer is heard.
+..................... .....................
+On 2025-02-13_10:02:18.719911
+The summary displayed below was created by an LLM named:  "gemma2-9b-it":
+## Tentative Ruling Summary in YAML
+
+**Case Number:** 19STCV17195
+**Hearing Date:** October 3, 2023
+**Department:** 54
+
+**People-Names:**
+* Nicolle DeSanto
+* Lynda Medof Levin
+
+**Company-Names:** N/A
+**Places:** Los Angeles, California
+**Dates:** October 3, 2023
+**Events:**
+* Motion to Bifurcate hearing
+**Money:** N/A
+**Intentions:**
+* Defendants seek to bifurcate the trial to hear their cross-complaint before Plaintiff's claims.
+**Facts:**
+* Defendants filed a cross-complaint for specific performance of a settlement agreement.
+* Plaintiff argues that the cross-complaint lacks merit and bifurcation would deprive her of a jury trial.
+**Disputes:**
+* Whether bifurcation is appropriate.
+* Whether the cross-complaint states a valid claim.
+**Acts:**
+* Defendants filed a motion to bifurcate.
+* Plaintiff opposed the motion.
+**Agreements:**
+* Settlement agreement mentioned in cross-complaint.
+**Laws:**
+* Code of Civil Procedure section 598
+**Case Citations:**
+* Estate of Young (2008) 160 Cal. App. 4th 62
+* Nwosu v. Uba (2004) 122 Cal.App.4th 1229
+**Statutes:** Code of Civil Procedure section 598
+**Roles:**
+* Judge Maurice A. Leiter (Presiding Judge)
+* Defendants' Counsel
+* Plaintiff's Counsel
+**Significant Statements:**
+* "Bifurcation does not deprive Plaintiff of her right to a jury."
+* "The Court will address whether the cross-complaint states a claim when Plaintiff’s demurrer is heard."
+
+
+
+## English Text Summary
+
+The judge has granted the defendants' motion to bifurcate the trial. This means that the court will first hear the defendants' cross-complaint for specific performance of a settlement agreement. The judge believes that this will either eliminate the need for a jury trial altogether or streamline the process. The judge also stated that the plaintiff is not entitled to a jury trial on the cross-complaint and that the court will address the validity of the cross-complaint at a later date when the plaintiff's demurrer is heard. 
+
+
+
+..................... .....................
+On 2025-02-13_10:02:44.723710
+The summary displayed below was created by an LLM named:  "llama3-8b-8192":
+Here is the summary in YAML format:
+
+```
+Case Number: 19STCV17195
+Plaintiff's Name: Nicolle DeSanto
+Defendant's Name: Lynda Medof Levin, et al.
+People-Names:
+  - Nicolle DeSanto
+  - Lynda Medof Levin
+Company-Names: None
+Places:
+  - Los Angeles
+  - California
+Dates:
+  - October 3, 2023
+Events:
+  - Motion to Bifurcate
+  - Trial
+Money: None
+Intentions:
+  - To bifurcate the trial
+Facts:
+  - Plaintiff's claims
+  - Defendant's cross-complaint for specific performance of the settlement agreement
+  - Bench trial on the cross-complaint
+Disputes:
+  - Plaintiff's right to a jury trial
+  - Merit of the cross-complaint
+Acts:
+  - Filing of the motion
+  - Filing of opposition and reply
+  - Consideration of papers by the court
+Agreements: None
+Laws:
+  - Code of Civil Procedure section 598
+  - Estate of Young (2008) 160 Cal. App. 4th 62, 90
+  - Nwosu v. Uba (2004) 122 Cal.App.4th 1229, 1238
+Statutes:
+  - Code of Civil Procedure section 598
+Roles:
+  - Judge Maurice A. Leiter
+  - Plaintiff Nicolle DeSanto
+  - Defendant Lynda Medof Levin, et al.
+Significant Statements:
+  - "Code of Civil Procedure section 598 allows a party to seek an order before trial 'that the trial of any issue or any part thereof shall precede the trial of any other issue or any part thereof in the case,'"
+  - "The Court finds bifurcation appropriate."
+  - "Defendants' motion is GRANTED."
+```
+
+And here is a summary of the judge's tentative ruling in English text:
+
+The judge has granted the defendants' motion to bifurcate the trial, meaning that the trial on the defendants' cross-complaint for specific performance of the settlement agreement will take place before the trial on the plaintiff's claims. The judge found that bifurcation is appropriate because it will either eliminate the need for a jury trial on the plaintiff's claims or streamline the jury trial. The judge also noted that the trial of the cross-complaint will likely take only one day. The plaintiff had argued that bifurcation would deprive them of their right to a jury trial, but the judge disagreed, stating that the plaintiff is not entitled to a jury trial on the cross-complaint. The judge will address whether the cross-complaint states a claim when the plaintiff's demurrer is heard.
+..................... .....................
+On 2025-02-13_10:03:09.897694
+The summary displayed below was created by an LLM named:  "llama-3.3-70b-specdec":
+Exception:
+Error code: 429 - {'error': {'message': 'Rate limit reached for model `llama-3.3-70b-specdec` in organization `org_01hw84cjv0f12v63qt47723ar2` service tier `on_demand` on : Limit 100000, Used 99562, Requested 807. Please try again in 5m18.325s. Visit https://console.groq.com/docs/rate-limits for more information.', 'type': '', 'code': 'rate_limit_exceeded'}}
+..................... .....................
+On 2025-02-13_10:13:11.393226
+The summary displayed below was created by an LLM named:  "mixtral-8x7b-32768":
+case\_number: 19STCV17195
+hearing\_date: 2023-10-03
+dept: 54
+court: Superior Court of California, County of Los Angeles
+
+plaintiff:
+  name: Nicolle DeSanto
+
+defendants:
+  - name: Lynda Medof Levin
+
+people:
+  - name: Nicolle DeSanto
+  - name: Lynda Medof Levin
+  - name: Maurice A. Leiter
+
+places:
+  - Superior Court of California
+  - County of Los Angeles
+
+dates:
+  - 2023-10-03
+
+events:
+  - hearing for Defendants' Motion to Bifurcate
+
+money: {}
+
+intentions:
+  - Defendants seek bifurcation of trial
+  - Plaintiff opposes bifurcation
+
+facts:
+  - Code of Civil Procedure section 598 allows a party to seek an order for bifurcation
+  - Defendants' cross-complaint for specific performance of the settlement agreement
+  - Defendants' bench trial on cross-complaint likely to take only one day
+  - Plaintiff's claims may not require a jury trial if cross-complaint is resolved
+
+disputes:
+  - Plaintiff's right to a jury trial
+  - Cross-complaint's merit
+
+acts:
+  - Defendants move for bifurcation
+  - Plaintiff opposes the motion
+
+agreements:
+  - settlement agreement (not detailed)
+
+laws:
+  - Code of Civil Procedure section 598
+
+case\_citations:
+  - Estate of Young (2008) 160 Cal. App. 4th 62, 90
+  - Nwosu v. Uba (2004) 122 Cal.App.4th 1229, 1238
+
+statutes: {}
+
+roles:
+  - Plaintiff: Nicolle DeSanto
+  - Defendants: Lynda Medof Levin
+  - Judge: Maurice A. Leiter
+
+significant\_statements:
+  - "Defendants’ Motion to Bifurcate is Granted"
+  - "Bifurcation does not deprive Plaintiff of her right to a jury"
+  - "The Court will address whether the cross-complaint states a claim when Plaintiff’s demurrer is heard"
+
+summary\_english:
+"The Judge grants Defendants' motion to bifurcate the trial, allowing Defendants' cross-complaint for specific performance of the settlement agreement to be heard before Plaintiff's claims. The Judge finds bifurcation appropriate to streamline the trial and ensure equitable issues are tried before legal issues. Plaintiff's right to a jury trial is not affected, as the trial on the complaint would still be by jury. The Court will address the merit of the cross-complaint when Plaintiff's demurrer is heard."

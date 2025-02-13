@@ -316,3 +316,75 @@ On 2025-02-13_02:45:45.449818
 The summary displayed below was created by an LLM named:  "llama-3.3-70b-specdec":
 Exception:
 Error code: 429 - {'error': {'message': 'Rate limit reached for model `llama-3.3-70b-specdec` in organization `org_01hw84cjv0f12v63qt47723ar2` service tier `on_demand` on : Limit 100000, Used 99032, Requested 2417. Please try again in 20m51.410999999s. Visit https://console.groq.com/docs/rate-limits for more information.', 'type': '', 'code': 'rate_limit_exceeded'}}
+..................... .....................
+On 2025-02-13_02:55:47.607205
+The summary displayed below was created by an LLM named:  "mixtral-8x7b-32768":
+case\_number: 23PSCV01362
+hearing\_date: October 3, 2023
+dept: K
+defendants:
+  - Brighten Investment Group Inc.
+  - Huandan Luan
+plaintiff: Connie Lin Sun
+people:
+  - Connie Lin Sun
+  - Huandan Luan
+  - Claire Education Management Inc.
+  - Pico Global LLC
+companies:
+  - Walnut Education Time Inc. (WETI)
+  - Brighten Investment Group Inc.
+places:
+  - Walnut, CA
+dates:
+  - April 2018
+  - October 15, 2018
+  - March 2021 - August 2022
+  - May 5, 2023
+events:
+  - Huandan Luan approached Connie Lin Sun with a business proposal
+  - Luan and Sun entered into a verbal agreement
+  - Luan and Brighten deposited $500,000.00 into WETI
+  - Luan filed immigration visa petitions, motions and appeals
+  - Luan demanded $120,000.00 in legal expenses and filing fees
+  - A Case Management Conference is set for October 3, 2023
+money:
+  - $500,000.00
+  - $65,000.00 in wages
+  - $14,175.00
+  - $120,000.00
+intentions:
+  - Luan and Brighten intended to invest money in WETI for an immigration visa
+  - Luan and Brighten intended to hold a 51% ownership interest in WETI
+facts:
+  - WETI's outstanding 1,000,000 shares were held by Plaintiff, Claire Education Management Inc., and Pico Global LLC
+  - Luan and Brighten deposited $500,000.00 into WETI
+  - Luan filed immigration visa petitions, motions and appeals
+disputes:
+  - Rescission
+  - Declaratory Relief
+acts:
+  - Luan and Brighten's business proposal
+  - Luan and Sun's verbal agreement
+  - Luan's attorney prepared a stock certificate and an Investment Agreement
+  - Plaintiff signed the Investment Agreement on WETI’s behalf
+  - Luan and Brighten demanded $120,000.00 in legal expenses and filing fees
+agreements:
+  - Verbal agreement between Luan and Sun
+laws:
+  - Code Civ. Proc., § 430.10, subds. (e)&(f)
+  - Civil Code § 1689, subdivision (b)
+  - Code Civ. Proc., § 1060
+case\_citations:
+  - Donabedian v. Mercury Ins. Co. (2004) 116 Cal.App.4th 968
+  - SKF Farms v. Superior Court (1984) 153 Cal.App.3d 902
+  - Semole v. Sansoucie (1972) 28 Cal. App. 3d 714
+  - S. Shore Land Co. v. Petersen (1964) 226 Cal.App.2d 725
+roles:
+  - Plaintiff: Connie Lin Sun
+  - Defendants: Brighten Investment Group Inc., Huandan Luan
+significant\_statements:
+  - "Defendants Brighten Investment Group Inc.’s and Huandan Luan’s Demurrer to Complaint is SUSTAINED."
+  - "The court will hear from counsel for Plaintiff as to whether leave to amend is requested, and as to which cause(s) of action, and will require an offer of proof if so."
+
+In this tentative ruling, the court sustains the demurrer of Defendants Brighten Investment Group Inc. and Huandan Luan to Plaintiff Connie Lin Sun's first and second causes of action, Rescission and Declaratory Relief, respectively. The court finds that Plaintiff has failed to plead facts that would constitute a breach of contract cause of action within the bounds of her first cause of action and has failed to identify an actual controversy between the parties in her second cause of action. The court will hear from Plaintiff's counsel as to whether leave to amend is requested and as to which cause(s) of action, and will require an offer of proof if so.
