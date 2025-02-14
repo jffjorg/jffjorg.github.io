@@ -2289,3 +2289,8 @@ Significant Statements:
 ```
 
 Please note that this summary is based on the provided text and may not be a complete or accurate representation of the actual ruling.
+..................... .....................
+On 2025-02-14_11:18:58.273232
+The summary displayed below was created by an LLM named:  "llama-3.3-70b-specdec":
+Exception:
+Error code: 429 - {'error': {'message': 'Rate limit reached for model `llama-3.3-70b-specdec` in organization `org_01hw84cjv0f12v63qt47723ar2` service tier `on_demand` on : Limit 100000, Used 98976, Requested 5036. Please try again in 57m45.92s. Visit https://console.groq.com/docs/rate-limits for more information.', 'type': '', 'code': 'rate_limit_exceeded'}}
