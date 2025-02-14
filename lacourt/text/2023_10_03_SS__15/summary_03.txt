@@ -312,3 +312,62 @@ Significant Statements:
 And here is a summary of the tentative ruling in English text:
 
 The Judge has issued a tentative ruling on the motion for trial preference filed by Plaintiff Margarita Colemenero. The Plaintiff, who is 80 years old and has been diagnosed with mesothelioma, has established that her health is such that a preference is necessary to prevent prejudicing her interest in the litigation. The Judge has granted the motion for trial preference, subject to the Plaintiff filing a proof of service for or dismissing Himmel Management Co. LLC. The trial is set for January 29, 2024, and a status conference is scheduled for October 11, 2023. The Judge has also ordered the moving party to give notice. The ruling is based on the Code of Civil Procedure sections 36, subdivisions (a) and (d), which allow for a party to petition the court for a preference if they are over 70 years old and have a substantial interest in the action. The Plaintiff's medical condition and age have satisfied the court that a preference is necessary to prevent prejudicing her interest in the litigation.
+..................... .....................
+On 2025-02-13_20:06:58.959917
+The summary displayed below was created by an LLM named:  "mixtral-8x7b-32768":
+case\_number: 23STCV11921
+hearing\_date: October 3, 2023
+dept: 15
+plaintiff:
+  - name: Margarita Colemenero
+defendants:
+  - name: Himmel Management Co. LLC
+  - name: Himmel Media LLC
+people:
+  - name: Margarita Colemenero
+    role: plaintiff
+    age: 80
+    health:
+      - diagnosis: mesothelioma
+      - surgery: yes
+      - immunotherapy: yes
+      - weight\_loss: 30 pounds
+      - pain: increasing
+      - hospice\_care: yes
+companies:
+  - name: Himmel Management Co. LLC
+  - name: Himmel Media LLC
+places:
+  - location: not specified
+dates:
+  - May 25, 2023: plaintiff filed the action
+  - January 29, 2024: trial date
+  - October 11, 2023: status conference re trial setting order
+  - January 16, 2024: final status conference
+events:
+  - plaintiff filed motion for trial preference
+  - plaintiff filed action against multiple defendants for personal injury caused by asbestos exposure
+  - plaintiff tried to dismiss Himmel Management Co. LLC but the request was rejected
+  - plaintiff is to file proof of service for, or dismiss, Himmel Management Co. LLC
+money: not specified
+intentions:
+  - plaintiff seeks trial preference
+facts:
+  - plaintiff is over 70 years old
+  - plaintiff has a substantial interest in the action
+  - plaintiff's health is such that a preference is necessary to prevent prejudicing her interest in the litigation
+disputes: not specified
+acts:
+  - plaintiff filed the action
+  - plaintiff filed motion for trial preference
+agreements: not specified
+laws:
+  - name: Code of Civil Procedure sections 36, subdivisions (a) and (d)
+  - name: Code of Civil Procedure, § 36, subdivision (c)
+case\_citations: not specified
+statutes: not specified
+roles:
+  - name: plaintiff
+  - name: defendant
+significant\_statements:
+  - "Subject to Plaintiff filing a proof of service for, or dismissing, Himmel Management, the motion for trial setting preference is GRANTED. Trial is set for January 29, 2024 at 9 a.m. The Final Status Conference is January16, 2024 at 9 a.m. The court sets a status conference re a trial setting order for October 11, 2023 at 8:30 a.m."

@@ -57,3 +57,187 @@ Significant Statements:
 And here is the English-text summary:
 
 The judge, Hon. Jill Feeney, has issued a tentative ruling on a motion to be relieved as counsel filed by Daniel Lavi, representing plaintiff Sabrina Aguilera. The motion is granted, and the proposed MC-053 will be amended by checking box 5a. Counsel is ordered to serve the signed document on Sabrina Aguilera by both regular mail and overnight delivery, and to file proof of service on or before October 5, 2023. Counsel remains counsel of record for Sabrina Aguilera until the proof of service is filed with the court.
+..................... .....................
+On 2025-02-14_00:37:19.228264
+The summary displayed below was created by an LLM named:  "gemma2-9b-it":
+## Tentative Ruling Summary in YAML Format:
+
+```yaml
+Case Number: 22STCV06609
+Hearing Date: October 3, 2023
+Dept: 78
+Plaintiff's Name: Tobias Aguilera, et al.
+Defendant's Name: R&E MANAGEMENT, INC., et al.
+People-Names:
+  - Daniel Lavi
+  - Sabrina Aguilera
+  - Jill Feeney
+Company-Names:
+  - R&E MANAGEMENT, INC.
+Places:
+  - Superior Court of California
+  - County of Los Angeles
+  - Department 78
+Dates:
+  - October 3, 2023
+Events:
+  - Motion to be relieved as counsel filed 
+  - Motion granted
+  - Judge amends proposed MC-053
+  - Counsel ordered to serve signed MC-053
+  - Counsel ordered to file proof of service
+Money: 
+  - N/A
+Intentions: 
+  - Daniel Lavi seeks to be relieved as counsel for Sabrina Aguilera
+  - Judge seeks to ensure proper notice and service
+Facts:
+  - Daniel Lavi represented Sabrina Aguilera as counsel
+  - Motion to be relieved as counsel was filed
+Disputes:
+  - N/A
+Acts:
+  - Motion filed
+  - Motion granted
+  - MC-053 amended
+  - Service ordered
+Agreements:
+  - N/A
+Laws:
+  - N/A
+Case Citations:
+  - N/A
+Statutes:
+  - N/A
+Roles:
+  - Daniel Lavi: Counsel for Plaintiff Sabrina Aguilera
+  - Judge Jill Feeney: Presiding Judge
+Significant Statements:
+  - "The motion to be relieved as counsel filed by Daniel Lavi, Counsel for Plaintiff Sabrina Aguilera, is granted."
+
+
+```
+
+## English Summary:
+
+Judge Jill Feeney has granted Daniel Lavi's motion to be relieved as counsel for plaintiff Sabrina Aguilera in the case of Tobias Aguilera, et al. vs. R&E MANAGEMENT, INC., et al.  
+
+The court will amend the necessary paperwork (MC-053) to reflect this change.  Mr. Lavi is required to serve the amended paperwork on Ms. Aguilera both by regular mail and overnight delivery by today. He must also file proof of service with the court and opposing counsel by October 5th, 2023.  
+
+Until the proof of service is filed, Mr. Lavi will remain counsel of record for Ms. Aguilera. 
+
+
+
+Let me know if you have any other legal documents you'd like summarized!
+
+..................... .....................
+On 2025-02-14_00:37:44.991173
+The summary displayed below was created by an LLM named:  "llama3-8b-8192":
+Here is the summary in YAML format:
+
+```
+Case Number: 22STCV06609
+Plaintiff's Name: TOBIAS AGUILERA, et al.
+Defendant's Name: R&E MANAGEMENT, INC., et al.
+People-Names:
+  - Sabrina Aguilera
+  - Daniel Lavi
+  - Hon. Jill Feeney
+Company-Names:
+  - R&E Management, Inc.
+Places:
+  - Los Angeles
+  - California
+Dates:
+  - October 3, 2023
+  - October 5, 2023
+Events:
+  - Motion to be relieved as counsel
+  - Filing of proof of service
+Money:
+  - None mentioned
+Intentions:
+  - Granting the motion to be relieved as counsel
+  - Serving the signed MC-053 on Sabrina Aguilera
+Facts:
+  - Daniel Lavi is counsel for Plaintiff Sabrina Aguilera
+  - The Court has received a motion to be relieved as counsel
+Disputes:
+  - None mentioned
+Acts:
+  - Checking box 5a on the proposed MC-053
+  - Serving the signed MC-053 on Sabrina Aguilera
+  - Filing proof of service on Sabrina Aguilera and opposing counsel
+Agreements:
+  - The Court will amend the proposed MC-053
+  - Counsel remains counsel of record for Plaintiff Sabrina Aguilera until proof of service is filed
+Laws:
+  - None mentioned
+Case Citations:
+  - None mentioned
+Statutes:
+  - None mentioned
+Roles:
+  - Judge: Hon. Jill Feeney
+  - Counsel: Daniel Lavi
+  - Plaintiff: TOBIAS AGUILERA, et al.
+  - Defendant: R&E MANAGEMENT, INC., et al.
+Significant Statements:
+  - The motion to be relieved as counsel is granted.
+```
+
+And here is a summary of the judge's tentative ruling in English text:
+
+The court has issued a tentative ruling granting the motion filed by Daniel Lavi, counsel for plaintiff Sabrina Aguilera, to be relieved as counsel. The court will amend the proposed MC-053 by checking box 5a. Daniel Lavi is ordered to serve the signed MC-053 on Sabrina Aguilera by regular mail and overnight delivery, and to file proof of service with the court and opposing counsel by October 5, 2023. Until the proof of service is filed, Daniel Lavi will remain counsel of record for Sabrina Aguilera. The court's ruling is effective as of October 3, 2023.
+..................... .....................
+On 2025-02-14_00:38:10.179546
+The summary displayed below was created by an LLM named:  "llama-3.3-70b-specdec":
+Exception:
+Error code: 429 - {'error': {'message': 'Rate limit reached for model `llama-3.3-70b-specdec` in organization `org_01hw84cjv0f12v63qt47723ar2` service tier `on_demand` on : Limit 100000, Used 103995, Requested 417. Please try again in 1h3m32.716999999s. Visit https://console.groq.com/docs/rate-limits for more information.', 'type': '', 'code': 'rate_limit_exceeded'}}
+..................... .....................
+On 2025-02-14_00:48:11.313670
+The summary displayed below was created by an LLM named:  "mixtral-8x7b-32768":
+case\_number: 22STCV06609
+hearing\_date: October 3, 2023
+dept: 78 Superior Court of California, County of Los Angeles, Department 78
+parties:
+  plaintiffs:
+    - Tobias Aguilera
+    - Sabrina Aguilera
+  defendants:
+    - R&E Management, Inc.
+people:
+  - Daniel Lavi
+places:
+  - California
+  - Los Angeles
+dates:
+  - October 3, 2023
+  - October 5, 2023
+events:
+  - hearing
+  - motion to be relieved as counsel filed by Daniel Lavi
+intentions:
+  - granting the motion
+facts:
+  - Daniel Lavi is counsel for Plaintiff Sabrina Aguilera
+disputes:
+  - none mentioned
+acts:
+  - filing motion to be relieved as counsel
+agreements:
+  - none mentioned
+laws:
+  - MC-053
+case\_citations:
+  - none mentioned
+statutes:
+  - none mentioned
+roles:
+  - Judge: Hon. Jill Feeney
+significant\_statements:
+  - "The motion to be relieved as counsel filed by Daniel Lavi, Counsel for Plaintiff Sabrina Aguilera, is granted."
+  - "Counsel is ordered to serve the signed MC-053 on Sabrina Aguilera today by (1) regular mail and (2) overnight delivery."
+  - "Counsel remains counsel of record for Plaintiff Sabrina Aguilera until the proof of service is filed with the Court."
+
+The Judge has granted the motion to be relieved as counsel filed by Daniel Lavi, counsel for Plaintiff Sabrina Aguilera. Daniel Lavi is ordered to serve the signed MC-053 on Sabrina Aguilera today by regular mail and overnight delivery, and to file proof of service on or before October 5, 2023. Daniel Lavi remains counsel of record for Plaintiff Sabrina Aguilera until the proof of service is filed with the Court.

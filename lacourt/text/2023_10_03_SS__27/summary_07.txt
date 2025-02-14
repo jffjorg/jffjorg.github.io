@@ -59,3 +59,129 @@ Significant Statements:
 
 Summary:
 The Judge has sustained the demurrer to the Fifth Cause of Action for Strict Products Liability brought by the Plaintiff, Pete Martinez, against the Uber Defendants. The Judge has also granted the motion to strike punitive damages. The Plaintiff has been ordered to file a First Amended Complaint within 10 days, and the Uber Defendants have been ordered to serve and file their responsive pleading within 30 days.
+..................... .....................
+On 2025-02-13_22:40:11.395604
+The summary displayed below was created by an LLM named:  "gemma2-9b-it":
+##  Tentative Ruling Summary
+
+**Case Number:** 23STCV09795
+**Plaintiff:** Pete Martinez
+**Defendant(s):** Bhupendra Singh Virk, Uber USA, Uber Technologies, Rasier, LLC, Rasier-CA, Rasier-Portier, Uber Freight, Uber 
+**Date:** October 3, 2023 
+**Hearing:** October 3, 
+**Trial Date:** October 29, 2024
+**Subject:** Demurrer with Motion to Strike Punitive Damages
+
+**Summary:**
+
+Judge Kerry Bensinger, in a tentative ruling, sustains Uber Defendants' demurrer to Plaintiff's Fifth Cause of Action for Strict Products Liability and grants the motion to strike punitive damages. The judge finds that the complaint fails to adequately allege facts supporting a claim for punitive damages against Uber Defendants. Plaintiff alleges that Defendant Virk was driving for Uber at the time of the accident and was using the Uber app at the time of the accident. Plaintiff alleges Uber Defendants'
+
+**Key Points:**
+
+* **Demurrer Sustained:** The court sustained the demurrer to the Fifth Cause of Action alleging Strict Products Liability.
+* **Motion to Strike Granted:** The court granted the motion to strike punitive damages from the complaint. 
+* **Insufficient Allegations:** The court found the complaint lacked facts supporting a claim for punitive damages.
+* **No Leave to Amend:** The court denied Plaintiff's request to amend the complaint.
+
+**Court Reasoning:**
+
+The court's reasoning is based on the fact that the complaint does not provide evidence to support punitive damages.
+
+**Next Steps:**
+
+* Plaintiff has 10 days to file an amended complaint.
+* Uber Defendants have 30 days to file a response to the amended complaint. 
+
+
+
+Let me know if you'd like further clarification on any specific section.
+
+
+
+This is a summary and should not be taken as legal advice.
+
+
+
+ 
+
+
+..................... .....................
+On 2025-02-13_22:40:38.440139
+The summary displayed below was created by an LLM named:  "llama3-8b-8192":
+Here is the summary of the tentative ruling in YAML format:
+
+```
+case_number: 23STCV09795
+plaintiff_name: Pete Martinez
+defendant_name: Bhupendra Singh Virk, et al.
+people_names:
+  - Pete Martinez
+  - Bhupendra Singh Virk
+company_names:
+  - Uber Technologies, Inc.
+  - Rasier, LLC
+  - Rasier-CA, LLC
+places:
+  - California
+dates:
+  - May 2, 2023
+  - August 11, 2023
+  - October 3, 2023
+  - October 29, 2024
+events:
+  - Motor vehicle collision
+  - Demurrer to strict products liability cause of action
+  - Motion to strike punitive damages
+money:
+  - Punitive damages
+intentions:
+  - To hold Uber Defendants liable for strict products liability
+facts:
+  - Virk was driving for Uber at the time of the collision
+  - Virk made an unsafe left turn and struck Martinez's oncoming vehicle
+  - Uber App is not a product, but a way to connect Uber drivers to users
+disputes:
+  - Whether Uber App is a product or not
+  - Whether Uber Defendants are liable for punitive damages
+acts:
+  - Virk's alleged negligence and recklessness
+  - Uber Defendants' alleged failure to properly train Virk
+agreements:
+  - None mentioned
+laws:
+  - California Vehicle Code
+  - Civil Code section 3294 (punitive damages)
+  - Code of Civil Procedure section 430.10 (demurrer)
+  - Code of Civil Procedure section 452 (judicial notice)
+  - Financial Corporation of America v. Wilburn (1987)
+  - Khoury v. Maly's of California, Inc. (1993)
+  - Mitchell v. California Department of Public Health (2016)
+  - People ex rel. Dept. of Transportation v. Superior Court (1992)
+  - Pierson v. Sharp Memorial Hospital, Inc. (1989)
+  - Romine v. Johnson Controls, Inc. (2014)
+  - Taylor v. Superior Court (1979)
+  - Williams v. Beechnut Nutrition Corp. (1986)
+roles:
+  - Judge: Kerry Bensinger
+  - Plaintiff: Pete Martinez
+  - Defendant: Bhupendra Singh Virk, et al.
+  - Uber Defendants: Rasier, LLC, Rasier-CA, LLC, and Uber Technologies, Inc.
+significant_statements:
+  - The demurrer to the Fifth Cause of Action for strict products liability is sustained.
+  - The motion to strike punitive damages is granted.
+  - Leave to amend is denied.
+```
+
+And here is a brief summary of the tentative ruling in English:
+
+The court has ruled on a demurrer to the fifth cause of action for strict products liability and a motion to strike punitive damages. The court has sustained the demurrer, meaning that the complaint does not state a valid cause of action for strict products liability. The court has also granted the motion to strike punitive damages, finding that the complaint does not allege sufficient facts to support a claim for punitive damages. Finally, the court has denied leave to amend the complaint, meaning that the plaintiff will not be allowed to revise the complaint to address the court's concerns.
+..................... .....................
+On 2025-02-13_22:41:03.654600
+The summary displayed below was created by an LLM named:  "llama-3.3-70b-specdec":
+Exception:
+Error code: 429 - {'error': {'message': 'Rate limit reached for model `llama-3.3-70b-specdec` in organization `org_01hw84cjv0f12v63qt47723ar2` service tier `on_demand` on : Limit 100000, Used 99111, Requested 4651. Please try again in 54m9.598s. Visit https://console.groq.com/docs/rate-limits for more information.', 'type': '', 'code': 'rate_limit_exceeded'}}
+..................... .....................
+On 2025-02-13_22:51:03.896007
+The summary displayed below was created by an LLM named:  "mixtral-8x7b-32768":
+Exception:
+Error code: 413 - {'error': {'message': 'Request too large for model `mixtral-8x7b-32768` in organization `org_01hw84cjv0f12v63qt47723ar2` service tier `on_demand` on tokens per minute (TPM): Limit 5000, Requested 5909, please reduce your message size and try again. Visit https://console.groq.com/docs/rate-limits for more information.', 'type': 'tokens', 'code': 'rate_limit_exceeded'}}
