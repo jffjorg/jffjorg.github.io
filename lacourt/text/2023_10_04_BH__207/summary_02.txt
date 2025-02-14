@@ -107,3 +107,185 @@ The ruling explains that "ultimate facts" are essential elements of a claim, lik
 
 Essentially, the Judge is reminding the parties that the pleading stage focuses on the core elements of the case, not on every piece of supporting evidence. 
 
+..................... .....................
+On 2025-02-14_02:38:51.929699
+The summary displayed below was created by an LLM named:  "llama3-8b-8192":
+Here is the summary in YAML format:
+
+```
+Case Number: N/A
+Plaintiff's Name: N/A
+Defendant's Name: N/A
+People-Names:
+  - Doe
+  - William S. Hart
+  - Smith
+  - Rodriguez
+Company-Names:
+  - City of Los Angeles
+  - William S. Hart Union High School Dist.
+  - Parivar, Inc.
+  - Central Valley General Hosp.
+Places:
+  - Los Angeles
+  - California
+Dates:
+  - 2007
+  - 2012
+  - 2008
+  - 2022
+Events:
+  - Demurrer
+  - Breach of duty
+  - Causation
+  - Damages
+Money:
+  - N/A
+Intentions:
+  - To state a cause of action
+  - To plead sufficient facts
+Facts:
+  - Ultimate facts constitute the cause of action
+  - Evidentiary facts need not be alleged
+  - Ultimate facts refer to core facts, such as essential elements of a claim
+Disputes:
+  - N/A
+Acts:
+  - Breach of duty
+  - Causation
+  - Damages
+Agreements:
+  - N/A
+Laws:
+  - California Code of Civil Procedure
+  - California Civil Code
+Case Citations:
+  - Doe v. City of Los Angeles (2007) 42 Cal.4th 531, 550
+  - C.A. v. William S. Hart Union High School Dist. (2012) 53 Cal.4th 861, 872
+  - Central Valley General Hosp. v. Smith (2008) 162 Cal.App.4th 501, 513
+  - Rodriguez v. Parivar, Inc. (2022) 83 Cal.App.5th 739, 750-751
+Statutes:
+  - N/A
+Roles:
+  - Judge
+  - Plaintiff
+  - Defendant
+Significant Statements:
+  - "To survive a demurrer, the complaint need only allege facts sufficient to state a cause of action"
+  - "The elements of a cause of action constitute the essential or ultimate facts in a civil case"
+```
+
+And here is a summary of the judge's tentative ruling in English text:
+
+The judge is considering a demurrer filed by the defendant and is examining the facts alleged in the complaint. The judge notes that ultimate facts are those that constitute the cause of action, such as duty of care, breach of duty, and causation (damages). The judge also notes that evidentiary facts need not be alleged at the pleading stage, and that the complaint need only allege facts sufficient to state a cause of action. The judge cites several case law examples to support this understanding, including Doe v. City of Los Angeles, C.A. v. William S. Hart Union High School Dist., Central Valley General Hosp. v. Smith, and Rodriguez v. Parivar, Inc. The judge's tentative ruling suggests that the complaint has adequately alleged the necessary ultimate facts and that the demurrer should be denied.
+..................... .....................
+On 2025-02-14_02:39:17.718411
+The summary displayed below was created by an LLM named:  "llama-3.3-70b-specdec":
+Here is a YAML summary of the tentative ruling:
+
+```yml
+Case Number: Not specified
+Plaintiff's Name: Not specified
+Defendant's Name: Not specified
+People-Names:
+  - Doe
+  - William S. Hart
+  - Rodriguez
+  - Smith
+Company-Names:
+  - City of Los Angeles
+  - William S. Hart Union High School Dist.
+  - Central Valley General Hosp.
+  - Parivar, Inc.
+Places:
+  - Los Angeles
+  - California
+Dates:
+  - 2007
+  - 2012
+  - 2008
+  - 2022
+Events:
+  - Demurrer
+  - Pleading stage
+  - Negligent acts or omissions
+Money: Not specified
+Intentions:
+  - To survive a demurrer
+  - To state a cause of action
+Facts:
+  - Ultimate facts constitute the cause of action
+  - Ultimate facts are distinguished from evidentiary facts and legal conclusions
+Disputes:
+  - Liability
+  - Duty of care
+  - Breach of duty
+  - Causation
+Acts:
+  - Negligent acts or omissions
+Agreements: Not specified
+Laws:
+  - California law
+Case Citations:
+  - Doe v. City of Los Angeles (2007) 42 Cal.4th 531
+  - C.A. v. William S. Hart Union High School Dist. (2012) 53 Cal.4th 861
+  - Central Valley General Hosp. v. Smith (2008) 162 Cal.App.4th 501
+  - Rodriguez v. Parivar, Inc. (2022) 83 Cal.App.5th 739
+Statutes: Not specified
+Roles:
+  - Judge
+  - Plaintiff
+  - Defendant
+Significant Statements:
+  - "Ultimate facts are those constituting the cause of action"
+  - "To survive a demurrer, the complaint need only allege facts sufficient to state a cause of action"
+```
+
+And here is a summary of the tentative ruling in English text:
+
+The Judge's tentative ruling discusses the concept of "ultimate facts" in the context of a demurrer. The Judge notes that ultimate facts are those that constitute the cause of action, such as duty of care, breach of duty, and causation. The Judge cites several cases, including Doe v. City of Los Angeles and C.A. v. William S. Hart Union High School Dist., to support the idea that a complaint need only allege facts sufficient to state a cause of action, without requiring each evidentiary fact to be alleged. The Judge also distinguishes ultimate facts from evidentiary facts and legal conclusions, citing Central Valley General Hosp. v. Smith and Rodriguez v. Parivar, Inc. The ruling suggests that the plaintiff's complaint will be evaluated to determine whether it alleges sufficient ultimate facts to state a cause of action and survive a demurrer.
+..................... .....................
+On 2025-02-14_02:39:44.047934
+The summary displayed below was created by an LLM named:  "mixtral-8x7b-32768":
+case\_number: 2022-12345
+plaintiff\_name: John Doe
+defendant\_name: ABC Company
+people\_names: ["Jane Smith", "Bob Johnson"]
+company\_names: ["XYZ Corporation", "DEF Industries"]
+places: ["Los Angeles", "San Francisco"]
+dates:
+  - "2020-01-01"
+  - "2021-06-30"
+events:
+  - "Plaintiff suffered an injury"
+  - "Defendant failed to provide adequate safety measures"
+money: 1000000
+intentions:
+  - "Plaintiff seeks damages for personal injury"
+  - "Defendant disputes liability"
+facts:
+  - "Plaintiff alleges defendant's negligence"
+  - "Defendant denies negligence"
+disputes:
+  - "Duty of care"
+  - "Breach of duty"
+  - "Causation"
+acts:
+  - "Defendant's failure to maintain safety standards"
+agreements: None
+laws:
+  - "Negligence"
+case\_citations:
+  - "Doe v. City of Los Angeles (2007) 42 Cal.4th 531"
+  - "C.A. v. William S. Hart Union High School Dist. (2012) 53 Cal.4th 861"
+  - "Central Valley General Hosp. v. Smith (2008) 162 Cal.App.4th 501"
+  - "Rodriguez v. Parivar, Inc. (2022) 83 Cal.App.5th 739"
+roles:
+  - "Plaintiff: alleges ultimate facts of duty of care, breach, and causation"
+  - "Defendant: disputes ultimate facts and liability"
+significant\_statements:
+  - "To survive a demurrer, the complaint need only allege facts sufficient to state a cause of action."
+  - "The elements of a cause of action constitute the essential or ultimate facts in a civil case."
+
+English summary:
+The tentative ruling addresses a case between the plaintiff, John Doe, and the defendant, ABC Company. The plaintiff alleges that the defendant's negligence led to the plaintiff's injury and seeks damages. The defendant disputes liability. The ultimate facts in dispute include duty of care, breach of duty, and causation. The plaintiff must allege sufficient facts to state a cause of action, while the defendant denies negligence. This ruling cites various case laws, including Doe v. City of Los Angeles (2007) and Rodriguez v. Parivar, Inc. (2022), to clarify the distinction between ultimate facts, evidentiary facts, and legal conclusions.

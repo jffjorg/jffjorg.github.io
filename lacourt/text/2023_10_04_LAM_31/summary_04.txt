@@ -58,3 +58,201 @@ Significant Statements:
 And here is a summary of the judge's tentative ruling in English text:
 
 The judge grants GEICO's motion to bifurcate the products liability claims against FCA from the insurance coverage claims against GEICO. The judge concludes that the claims against GEICO are based on separate and distinct transactions, occurrences, legal theories, and factual proof that is not common to all defendants. The claims against FCA, on the other hand, require evidence of an alleged defect and how it caused the accident and injuries. The judge finds that bifurcation will avoid prejudice and expedite trial, as the jury would not have to sit through testimony unrelated to GEICO's causes of action. The judge also rejects the plaintiff's argument that bifurcation will lead to inconsistent verdicts, finding that the claims and defendants are completely different and there is no risk of inconsistent rulings.
+..................... .....................
+On 2025-02-14_08:08:26.779189
+The summary displayed below was created by an LLM named:  "gemma2-9b-it":
+## Tentative Ruling Summary - YAML Format
+
+**Case Number:** BC631370
+**Hearing Date:** October 4, 2023
+**Dept:** 31
+
+**People-Names:**
+* Carla Noble 
+
+**Company-Names:**
+* GEICO
+* GEICO General Insurance Company
+* FCA
+* FCA US (Chrysler)
+
+**Places:** N/A
+**Dates:** N/A
+**Events:**
+* Vehicle crash
+
+**Money:** N/A
+**Intentions:**
+* GEICO: To bifurcate the case to separate product liability claims against FCA from insurance coverage claims against GEICO.
+* Plaintiff: To oppose bifurcation, arguing common questions of fault exist between all defendants.
+
+**Facts:**
+* Plaintiff was a passenger in a vehicle driven by Carla Noble.
+* The vehicle was manufactured by FCA.
+* GEICO was the Plaintiff's insurer.
+
+**Disputes:**
+* Whether the claims against GEICO and FCA should be tried together or separately.
+
+**Acts:**
+* GEICO filed a motion to bifurcate the case.
+* Plaintiff opposed the motion to bifurcate.
+
+**Agreements:** N/A
+**Laws:**
+* Code of Civil Procedure section 1048(b)
+
+**Case Citations:**
+* Foreman & Clark Corp. v. Fallon (1971) 3 Cal.3d 875
+
+**Statutes:** N/A
+**Roles:**
+* Judge: Decides whether to bifurcate the case.
+* Plaintiff: Seeks recovery for injuries sustained in the vehicle crash.
+* Defendant GEICO: Carla Noble's insurer, facing claims related to insurance coverage.
+* Defendant FCA: Manufacturer of the vehicle involved in the crash, facing product liability claims.
+
+**Significant Statements:**
+* "The major objective of bifurcated trials is to expedite and simplify the presentation of evidence." 
+* "There are different sets of claims between different defendants."
+
+
+## English Summary
+
+The Judge has tentatively ruled to grant GEICO's motion to bifurcate the case. This means that the product liability claims against FCA will be tried separately from the insurance coverage claims against GEICO. 
+
+The Judge believes that the two sets of claims involve distinct legal theories, factual proof, and defendants, and that trying them together would be confusing and unnecessarily lengthy. The Plaintiff argued that there are common issues of fault between all defendants, but the Judge disagreed, finding that the claims against GEICO are unrelated to the personal injury claims against FCA.
+
+
+
+..................... .....................
+On 2025-02-14_08:08:52.605957
+The summary displayed below was created by an LLM named:  "llama3-8b-8192":
+Here is the summary in YAML format:
+
+```
+Case Number: BC631370
+Plaintiff's Name: 
+Defendant's Name: GEICO, FCA
+People-Names:
+  - Carla Noble
+Company-Names:
+  - GEICO
+  - GEICO General Insurance Company
+  - FCA
+  - FCA US (Chrysler)
+Places: 
+Dates:
+  - October 4, 2023
+Events:
+  - Bifurcation of trial
+Money: 
+Intentions:
+  - To expedite and simplify the presentation of evidence
+Facts:
+  - Multiple potential tortfeasors involved in a vehicle crash
+  - Different sets of claims against different defendants
+Disputes:
+  - Whether separate trials will result in inconsistent and irreconcilable verdicts
+Acts:
+  - GEICO moving to bifurcate the products liability causes of action against FCA
+  - Plaintiff objecting to Defendant's evidence
+Agreements:
+  - Code of Civil Procedure section 1048(b)
+  - Foreman & Clark Corp. v. Fallon (1971)
+Laws:
+  - California Constitution
+  - California statute
+  - United States statute
+Case Citations:
+  - Foreman & Clark Corp. v. Fallon (1971) 3 Cal.3d 875, 888
+Statutes:
+  - California Code of Civil Procedure section 1048(b)
+Roles:
+  - Judge
+  - GEICO
+  - FCA
+  - Plaintiff
+  - Carla Noble
+Significant Statements:
+  - "The major objective of bifurcated trials is to expedite and simplify the presentation of evidence."
+  - "There are different sets of claims between different defendants."
+  - "There are no common issues of fact or law."
+```
+
+And here is a summary of the judge's tentative ruling in English text:
+
+The judge has granted Defendant GEICO's motion to bifurcate the products liability causes of action against FCA from the insurance coverage claims against GEICO. The judge finds that the claims against GEICO and FCA are based on separate and distinct transactions, occurrences, legal theories, and factual proof that is not common to all defendants. The judge concludes that the triable issues are separate and that there are no common issues of fact or law. The bifurcation will avoid prejudice and be conducive to expediency and economy. The judge notes that GEICO's argument that it stands in the shoes of Carla Noble, the driver of the vehicle, is not applicable. The judge orders GEICO to give notice of the bifurcation.
+..................... .....................
+On 2025-02-14_08:09:17.799662
+The summary displayed below was created by an LLM named:  "llama-3.3-70b-specdec":
+Exception:
+Error code: 429 - {'error': {'message': 'Rate limit reached for model `llama-3.3-70b-specdec` in organization `org_01hw84cjv0f12v63qt47723ar2` service tier `on_demand` on : Limit 100000, Used 98881, Requested 1195. Please try again in 1m4.92s. Visit https://console.groq.com/docs/rate-limits for more information.', 'type': '', 'code': 'rate_limit_exceeded'}}
+..................... .....................
+On 2025-02-14_08:19:19.410730
+The summary displayed below was created by an LLM named:  "mixtral-8x7b-32768":
+case\_number: BC631370
+hearing\_date: 2023-10-04
+dept: 31
+
+parties:
+  plaintiff:
+    name: not\_provided
+  defendant:
+    - name: Government Employees Insurance Company
+    - name: GEICO General Insurance Company
+    - name: FCA US
+
+people:
+  - name: Carla Noble
+
+places: not\_provided
+
+events:
+  - name: Vehicle crash
+
+money: not\_provided
+
+intentions:
+  - name: Bifurcate the trial
+
+facts:
+  - name: Different sets of claims
+  - name: Distinct transactions
+  - name: Separate occurrences
+  - name: Different legal theories
+
+disputes:
+  - name: Factual proof
+
+acts:
+  - name: Breach of contract
+  - name: Breach of implied covenant of good faith and fair dealing
+  - name: Declaratory relief
+  - name: Negligent infliction of emotional distress
+  - name: Violation of California Unfair Competition law
+  - name: Unjust enrichment
+  - name: Strict product liability
+  - name: Negligence
+
+agreements: not\_provided
+
+laws:
+  - name: Code of Civil Procedure section 1048(b)
+
+case\_citations: not\_provided
+
+statutes: not\_provided
+
+roles:
+  - name: Plaintiff
+  - name: Defendant
+
+significant\_statements:
+  - name: The triable issues are separate
+  - name: No common issues of fact or law
+  - name: The jury would have to sit through testimony unrelated to Defendant GEICO’s causes of action
+  - name: The court does not find this argument availing
+
+english\_summary:
+  "The Judge's tentative ruling in Case Number BC631370, set for hearing on October 4, 2023 in Dept 31, grants the defendant's motion to bifurcate the trial. The legal standard for bifurcation is met, as separate trials will expedite and simplify the presentation of evidence. The plaintiff's objection to the defendant's evidence is overruled, but the unpublished case cited is not relied upon. The claims against Government Employees Insurance Company, GEICO General Insurance Company, and FCA US are based on separate transactions, occurrences, and legal theories, and involve distinct factual proof. The plaintiff's argument for common questions of law and fact, potentially leading to inconsistent verdicts, is not found convincing. The distinct claims against GEICO are for breach of contract, breach of implied covenant of good faith and fair dealing, declaratory relief, negligent infliction of emotional distress, violation of California Unfair Competition law, and unjust enrichment, based on insurance coverage. The claims against FCA US are for strict product liability and negligence, based on the vehicle involved in the crash. As there are no common issues of fact or law, the motion to bifurcate is granted. The moving party is ordered to give notice."

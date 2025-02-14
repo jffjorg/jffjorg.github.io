@@ -53,3 +53,260 @@ Significant Statements:
 And here is the summary in English text:
 
 The tentative ruling is based on information presented before the court. The case is about Plaintiffs who are trying to prevent Defendants Clear Recon Corp. and PNC Bank, N.A. from foreclosing on an expired lien against their property. The Plaintiffs have filed a verified Complaint seeking relief and have moved the court for an order enjoining the Defendants from proceeding with foreclosure. The motion is unopposed, which means that the other parties do not oppose it and are essentially conceding that the motion has merit. The Judge grants the motion and orders the Defendants to refrain from proceeding with foreclosure until the case is resolved.
+..................... .....................
+On 2025-02-14_06:19:24.187217
+The summary displayed below was created by an LLM named:  "gemma2-9b-it":
+## Tentative Ruling Summary in YAML
+
+```yaml
+Case Number: 23STCV11652
+Hearing Date: October 4, 2023
+Dept: 14
+
+People-Names: 
+    - Plaintiffs 
+    - Defendants
+    - Judge (not named)
+
+Company-Names: 
+    - Clear Recon Corp. 
+    - PNC Bank, N.A. 
+
+Places: 
+    - California (implied)
+
+Dates: 
+    - May 23, 2023
+    - May 26, 2023
+    - October 4, 2023
+
+Events:
+    - Plaintiffs filed a Complaint on May 23, 2023. 
+    - Defendants Clear and PNC were served on May 26, 2023.
+    - Plaintiffs filed a motion for injunctive relief on an unspecified date. 
+    - Hearing scheduled for October 4, 2023.
+    - Judge granted Plaintiffs' request for judicial notice. 
+    - Judge granted Plaintiffs' motion for injunctive relief. 
+
+Money: 
+    - Not specified
+
+Intentions: 
+    - Plaintiffs: To prevent foreclosure on their property while the case is pending.
+    - Defendants:  Unclear, but silence suggests they concede the motion has merit.
+
+Facts: 
+    - Defendants are attempting to foreclose on a lien against Plaintiffs' property.
+    - The lien may have expired.
+
+Disputes: 
+    - Whether the lien is valid and enforceable.
+
+Acts: 
+    - Plaintiffs filed a lawsuit.
+    - Defendants were served with the lawsuit but did not respond.
+    - Plaintiffs moved for a temporary injunction.
+
+Agreements: 
+    - None explicitly mentioned.
+
+Laws:
+    - California Rules of Court Rule 3.1113(a)
+    - California Rules of Court Rule 3.1320(f)
+
+Case Citations:
+    - Herzberg v. County of Plumas (2005) 133 Cal.App.4th 1, 20.
+
+Statutes: 
+    - Not specified
+
+Roles: 
+    - Plaintiff:  The party who initiates a lawsuit.
+    - Defendant: The party being sued.
+    - Judge: The presiding official in the court case.
+
+Significant Statements: 
+    - "The motion is unopposed. This operates as a concession by the other parties that the motion has merit."
+
+
+```
+
+## English Summary
+
+This tentative ruling concerns a lawsuit filed by Plaintiffs against Defendants Clear Recon Corp. and PNC Bank, N.A. Plaintiffs allege that Defendants are attempting to foreclose on a lien against their property, a lien which may have expired.  
+
+The Judge granted Plaintiffs' request for judicial notice and their motion for a temporary injunction. This means Defendants are barred from proceeding with the foreclosure while the case is ongoing. The Judge noted that Defendants did not oppose the motion, which is considered an acknowledgement that the motion has merit. 
+
+
+
+..................... .....................
+On 2025-02-14_06:19:49.851449
+The summary displayed below was created by an LLM named:  "llama3-8b-8192":
+Here is the summary of the judge's tentative ruling in YAML format:
+
+```
+Case Number: 23STCV11652
+Plaintiff's Name: Plaintiffs (no specific name mentioned)
+Defendant's Name: Clear Recon Corp. and PNC Bank, N.A.
+People-Names: Plaintiffs, Clear Recon Corp., PNC Bank, N.A.
+Company-Names: Clear Recon Corp., PNC Bank, N.A.
+Places: None mentioned
+Dates:
+  - May 23, 2023: Plaintiffs filed their verified Complaint
+  - May 26, 2023: Defendants were served
+  - October 4, 2023: Hearing Date
+Events:
+  - Filing of verified Complaint
+  - Service of defendants
+  - Request for injunction
+Money: None mentioned
+Intentions:
+  - Plaintiffs intend to enjoin defendants from proceeding with foreclosure
+  - Defendants conceded the motion's merit
+Facts:
+  - Plaintiffs allege expired lien against their property
+  - No responsive pleading filed by defendants
+  - No trial date set
+  - Motion unopposed
+Disputes:
+  - Dispute over foreclosure of expired lien
+Acts:
+  - Plaintiffs filed verified Complaint
+  - Defendants were served
+  - Request for injunction made
+Agreements:
+  - None mentioned
+Laws:
+  - California Rules of Court Rule 3.1113(a)
+  - California Rules of Court Rule 3.1320(f)
+  - Herzberg v. County of Plumas (2005) 133 Cal.App.4th 1
+Statutes: None mentioned
+Roles:
+  - Judge: ruling on motion
+  - Plaintiffs: requesting injunction
+  - Defendants: conceding motion's merit
+Significant Statements:
+  - The motion is GRANTED
+  - The request for judicial notice is GRANTED
+```
+
+And here is the English text summary:
+
+The judge's tentative ruling grants a motion for an order enjoining defendants Clear Recon Corp. and PNC Bank, N.A. from proceeding with foreclosure while the lawsuit is pending. The motion was unopposed, which means that the defendants conceded the motion's merit. The judge also grants the request for judicial notice. The lawsuit was filed by the plaintiffs on May 23, 2023, and the defendants were served on May 26, 2023. No trial date has been set.
+..................... .....................
+On 2025-02-14_06:20:15.876583
+The summary displayed below was created by an LLM named:  "llama-3.3-70b-specdec":
+Here is a YAML summary of the legal document:
+
+```yml
+Case Number: 23STCV11652
+Plaintiff's Name: Not specified
+Defendant's Name:
+  - Clear Recon Corp. (Clear)
+  - PNC Bank, N.A. (PNC)
+  - DOES 1-20
+People-Names: None
+Company-Names:
+  - Clear Recon Corp. (Clear)
+  - PNC Bank, N.A. (PNC)
+Places: None
+Dates:
+  - May 23, 2023: Plaintiffs filed their verified Complaint
+  - May 26, 2023: Defendants Clear and PNC were served
+  - October 4, 2023: Hearing Date
+Events:
+  - Plaintiffs filed their verified Complaint
+  - Defendants were served
+  - Plaintiffs moved for an order enjoining Defendants from proceeding with foreclosure
+Money: None
+Intentions:
+  - Plaintiffs intend to prevent Defendants from foreclosing on their property
+  - Defendants intend to foreclose on an expired lien against Plaintiffs' property
+Facts:
+  - Defendants are trying to foreclose on an expired lien against Plaintiffs' property
+  - No responsive pleading has been filed by Defendants
+  - No attempt to enter default has been made
+Disputes:
+  - Plaintiffs dispute Defendants' right to foreclose on their property
+Acts:
+  - Plaintiffs filed their verified Complaint
+  - Defendants were served
+  - Plaintiffs moved for an order enjoining Defendants from proceeding with foreclosure
+Agreements: None
+Laws:
+  - California Rules of Court Rule 3.1113(a)
+  - California Rules of Court Rule 3.1320(f)
+Case Citations:
+  - Herzberg v. County of Plumas (2005) 133 Cal.App.4th 1, 20
+Statutes: None
+Roles:
+  - Judge: The Judge making the tentative ruling
+  - Plaintiffs: The parties bringing the lawsuit
+  - Defendants: The parties being sued
+Significant Statements:
+  - "The motion is GRANTED."
+  - "This operates as a concession by the other parties that the motion has merit."
+```
+
+And here is a summary of the judge's tentative ruling in English text:
+
+The judge has made a tentative ruling in the case of 23STCV11652, which involves a dispute over a potential foreclosure on a property. The plaintiffs have filed a complaint against the defendants, Clear Recon Corp. and PNC Bank, N.A., alleging that they are trying to foreclose on an expired lien. The defendants have not responded to the complaint, and the plaintiffs have moved for an order to prevent the defendants from proceeding with the foreclosure. The judge has granted the plaintiffs' request for judicial notice and has also granted the motion, as it is unopposed. The judge notes that the lack of opposition from the defendants operates as a concession that the motion has merit, citing California Rules of Court and a relevant case citation. The ruling prevents the defendants from proceeding with the foreclosure while the lawsuit is pending.
+..................... .....................
+On 2025-02-14_06:20:42.530122
+The summary displayed below was created by an LLM named:  "mixtral-8x7b-32768":
+case\_number: 23STCV11652
+hearing\_date: 2023-10-04
+dept: 14
+
+parties:
+  plaintiffs:
+    - name: Not specified
+  defendants:
+    - name: Clear Recon Corp. ("Clear")
+    - name: PNC Bank, N.A. ("PNC")
+    - name: DOES 1-20
+
+people\_names: []
+company\_names:
+  - Clear Recon Corp. ("Clear")
+  - PNC Bank, N.A. ("PNC")
+places: []
+dates:
+  - 2023-05-23: Plaintiffs filed their verified Complaint
+  - 2023-05-26: Defendants Clear and PNC were served
+events:
+  - Plaintiffs allege Defendants are trying to foreclose on an expired lien against Plaintiffs' property
+  - Plaintiffs filed a Complaint for Quiet Title, Declaratory Relief, Cancellation of Instruments, and Injunctive Relief
+  - No responsive pleading has been filed, and no attempt to enter default has been made
+  - Plaintiffs moved for an order enjoining Defendants from proceeding with foreclosure while this action is pending
+money: []
+intentions:
+  - Defendants' intention to foreclose on an expired lien
+  - Plaintiffs' intention to enjoin the foreclosure
+facts:
+  - Plaintiffs allege the lien has expired
+  - Defendants have not filed a responsive pleading or attempted to enter default
+disputes:
+  - Validity of the lien
+  - Defendants' right to foreclose
+acts:
+  - Filing of the Complaint
+  - Service of the Complaint on Defendants
+  - Failure to file a responsive pleading by Defendants
+agreements: None specified
+laws:
+  - California Rules of Court Rule 3.1113(a)
+  - California Rules of Court Rule 3.1320(f)
+case\_citations:
+  - Herzberg v. County of Plumas (2005) 133 Cal.App.4th 1, 20
+statutes: None specified
+roles:
+  - Plaintiffs: seeking Quiet Title, Declaratory Relief, Cancellation of Instruments, and Injunctive Relief
+  - Defendants: being sued for attempting to foreclose on an expired lien
+significant\_statements:
+  - "Plaintiffs’ Request for Judicial Notice is GRANTED"
+  - "The motion is GRANTED"
+  - "The motion is unopposed. This operates as a concession by the other parties that the motion has merit"
+
+Summary:
+The Judge's tentative ruling grants Plaintiffs' request for an order enjoining Defendants from proceeding with foreclosure while the action is pending. The Judge granted Plaintiffs' request for judicial notice. The motion was unopposed, which operates as a concession by the other parties that the motion has merit. The case involves Plaintiffs alleging that Defendants are trying to foreclose on an expired lien against Plaintiffs' property. Plaintiffs filed a verified Complaint for Quiet Title, Declaratory Relief, Cancellation of Instruments, and Injunctive Relief against Defendants Clear Recon Corp., PNC Bank, and DOES 1-20. Defendants Clear and PNC were served on May 26, 2023, but have not filed a responsive pleading or attempted to enter default. No trial date is currently set.
