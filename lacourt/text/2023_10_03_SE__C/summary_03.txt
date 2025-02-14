@@ -61,3 +61,189 @@ Significant Statements:
 And here is a summary of the judge's tentative ruling in English text:
 
 The Judge has granted the Defendant's motion to compel responses to discovery, including form interrogatories, special interrogatories, and request for production of documents. The Plaintiff, Kim, is ordered to serve responses without objections within 15 days. The Judge has also imposed reduced sanctions of $1,500.00 payable within 30 days against the Plaintiff for failing to serve timely responses to discovery. The Plaintiff's argument that the discovery is premature because the complaint is not at issue was rejected, as the right to discovery does not depend on the status of the pleadings.
+..................... .....................
+On 2025-02-13_17:21:21.095500
+The summary displayed below was created by an LLM named:  "gemma2-9b-it":
+## Tentative Ruling Summary in YAML
+
+**Case Number:** 22NWCV00380
+**Hearing Date:** October 3, 2023
+**Department:** C
+
+**People-Names:**
+* Kim (Plaintiff)
+*  (Judge's name not provided in text)
+
+**Company-Names:**
+* Sekero One, LLC (Defendant)
+
+**Places:**
+*  (Not specified in text)
+
+**Dates:**
+* January 15, 2023: Defendant served discovery.
+* October 3, 2023: Hearing date.
+
+**Events:**
+* Defendant filed motions to compel responses to discovery requests (form interrogatories, special interrogatories, and document requests).
+* Plaintiff failed to respond to discovery requests.
+* Plaintiff argued that discovery was premature because the complaint was not yet at issue.
+
+**Money:**
+* Damages alleged in the complaint: $19,500.00
+* Requested sanctions by Defendant: $2,580.00
+* Imposed sanctions by Judge: $1,500.00
+
+**Intentions:**
+* Defendant intends to compel Plaintiff to respond to discovery requests.
+* Plaintiff intends to argue that discovery is premature.
+
+**Facts:**
+* A contract for goods (grains) is alleged.
+* Plaintiff failed to respond to discovery requests served on January 15, 2023.
+
+**Disputes:**
+* Whether discovery is premature.
+* The amount of sanctions to be imposed.
+
+**Acts:**
+* Defendant served discovery requests.
+* Plaintiff failed to respond to discovery requests.
+* Defendant filed motions to compel responses.
+* Judge granted motions to compel and imposed sanctions.
+
+**Agreements:**
+* (Not specified in text)
+
+**Laws:**
+* CCP §§ 2030.290 and 2031.300
+* CCP §§ 2023.010(d), 2030.290(c), and 2031.300(c)
+
+**Case Citations:**
+* Mattco Forge, Inc. v. Arthur Young & Co. (1990) 223 Cal.App.3d 1429, 1436
+
+**Statutes:**
+* CCP §§ 2030.290, 2031.300, 2023.010(d)
+
+**Roles:**
+* Judge: Decides on motions to compel and imposes sanctions.
+* Plaintiff: Kim, party alleging breach of contract.
+* Defendant: Sekero One, LLC, party responding to breach of contract allegations.
+
+
+
+## English Summary of the Tentative Ruling
+
+The Judge has granted Defendant Sekero One, LLC’s motions to compel Plaintiff Kim to respond to form interrogatories, special interrogatories, and document requests. The Judge found that Plaintiff's argument that discovery was premature because the complaint was not yet at issue was not valid.  
+
+Plaintiff Kim is ordered to serve complete responses to the discovery requests within 15 days.  The Judge also imposed reduced sanctions of $1,500.00 against Plaintiff Kim, payable within 30 days. This is less than the $2,580.00 requested by Defendant. 
+
+
+
+..................... .....................
+On 2025-02-13_17:21:47.067773
+The summary displayed below was created by an LLM named:  "llama3-8b-8192":
+Here is the summary in YAML format:
+
+```
+case_number: 22NWCV00380
+plaintiff_name: Kim
+defendant_name: Sekero One, Inc.
+people_names:
+  - Kim
+  - Sekero One, Inc.
+company_names:
+  - Sekero One, Inc.
+places:
+  - None specified
+dates:
+  - January 15, 2023
+  - October 3, 2023
+events:
+  - Defendant's motion to compel discovery responses
+  - Failure to serve timely responses to discovery
+  - Request for sanctions
+money:
+  - $19,500.00 (alleged damages in the Second Amended Complaint)
+  - $2,580.00 (total sanctions requested by Defendant)
+  - $1,500.00 (reduced sanctions imposed by the court)
+intentions:
+  - Defendant seeks to compel discovery responses from Plaintiff
+  - Plaintiff seeks to avoid discovery responses
+facts:
+  - Plaintiff failed to serve timely responses to form interrogatories, special interrogatories, and document requests
+  - Defendant served discovery on January 15, 2023
+disputes:
+  - Dispute over whether discovery responses are premature
+acts:
+  - Failure to serve timely responses to discovery
+  - Request for sanctions
+agreements:
+  - None specified
+laws:
+  - California Code of Civil Procedure (CCP) §§ 2023.010(d), 2030.290, 2031.300
+  - CCP §§ 2030.290(b) and 2031.300(b) allow the propounding party to file a motion to compel responses to interrogatories and document demands
+  - CCP §§ 2030.290(a) and 2031.300(a) if responses are untimely, responding party waives objections
+case_citations:
+  - Weil & Brown, Civil Procedure Before Trial at 8:58
+  - Mattco Forge, Inc. v. Arthur Young & Co. (1990) 223 Cal.App.3d 1429, 1436
+statutes:
+  - CCP §§ 2023.010(d), 2030.290, 2031.300
+roles:
+  - Judge: C
+  - Plaintiff: Kim
+  - Defendant: Sekero One, Inc.
+significant_statements:
+  - "The right to discovery generally does not depend on the status of the pleadings."
+  - "Sanctions are warranted because Plaintiff failed to serve timely responses to discovery."
+  - "Reduced sanctions are imposed against Plaintiff Kim in the reasonable sum of $1,500.00 payable within 30 days."
+```
+
+And here is a summary of the judge's tentative ruling in English text:
+
+The judge has granted Defendant Sekero One, Inc.'s motion to compel discovery responses from Plaintiff Kim. The Plaintiff failed to serve timely responses to form interrogatories, special interrogatories, and document requests despite the Defendant's discovery requests on January 15, 2023. The judge finds that the Plaintiff's failure to respond is without substantial justification and imposes reduced sanctions of $1,500.00 payable within 30 days. The Plaintiff is ordered to serve responses without objections within 15 days.
+..................... .....................
+On 2025-02-13_17:22:12.269570
+The summary displayed below was created by an LLM named:  "llama-3.3-70b-specdec":
+Exception:
+Error code: 429 - {'error': {'message': 'Rate limit reached for model `llama-3.3-70b-specdec` in organization `org_01hw84cjv0f12v63qt47723ar2` service tier `on_demand` on : Limit 100000, Used 99714, Requested 875. Please try again in 8m28.218s. Visit https://console.groq.com/docs/rate-limits for more information.', 'type': '', 'code': 'rate_limit_exceeded'}}
+..................... .....................
+On 2025-02-13_17:32:13.709672
+The summary displayed below was created by an LLM named:  "mixtral-8x7b-32768":
+summary:
+  case\_number: 22NWCV00380
+  hearing\_date: 2023-10-03
+  department: C KIM v. SEKERO ONE, INC.
+  tentative\_order:
+    - defendant: Sekero One, LLC
+      motion: compel responses to form interrogatories, monetary sanctions
+      status: granted
+    - defendant: Sekero One, LLC
+      motion: compel responses to request for production of documents, monetary sanctions
+      status: granted
+    - defendant: Sekero One, LLC
+      motion: compel responses to special interrogatories, monetary sanctions
+      status: granted
+  plaintiff: Kim
+  order:
+    - serve responses to form interrogatories, special interrogatories, and document requests without objections within 15 days
+    - pay sanctions of $1,500 within 30 days
+  moving\_party\_notice: Defendant Sekero One, LLC
+  second\_amended\_complaint:
+    causes\_of\_action:
+      - breach of oral contract
+      - breach of implied covenant of good faith and fair dealing
+    damages: $19,500.00
+  codes:
+    - CCP §§ 2030.290
+    - CCP §§ 2031.300
+    - CCP §§ 2023.010(d)
+    - CCP §§ 2030.290(c)
+    - CCP §§ 2031.300(c)
+  discovery\_served\_date: 2023-01-15
+  plaintiff\_failure: serve timely responses to discovery
+  sanctions\_justification: failure to serve timely responses to discovery
+  sanctions\_imposed: $1,500 payable within 30 days
+
+English text:
+The tentative ruling for case number 22NWCV00380, scheduled for hearing on October 3, 2023 in department C KIM v. SEKERO ONE, INC., grants Sekero One, LLC's motion to compel responses to form interrogatories, request for production of documents, and special interrogatories, and imposes monetary sanctions. Plaintiff Kim is ordered to serve responses without objections within 15 days and pay reduced sanctions of $1,500 within 30 days. The motion was made pursuant to CCP §§ 2030.290 and 2031.300. Discovery was served on January 15, 2023 and Plaintiff Kim failed to serve timely responses, justifying the imposition of sanctions.
