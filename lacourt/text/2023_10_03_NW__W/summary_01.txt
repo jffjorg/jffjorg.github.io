@@ -255,3 +255,86 @@ On 2025-02-13_15:22:42.660132
 The summary displayed below was created by an LLM named:  "llama-3.3-70b-specdec":
 Exception:
 Error code: 429 - {'error': {'message': 'Rate limit reached for model `llama-3.3-70b-specdec` in organization `org_01hw84cjv0f12v63qt47723ar2` service tier `on_demand` on : Limit 100000, Used 99137, Requested 2379. Please try again in 21m49.802s. Visit https://console.groq.com/docs/rate-limits for more information.', 'type': '', 'code': 'rate_limit_exceeded'}}
+..................... .....................
+On 2025-02-13_15:32:45.278288
+The summary displayed below was created by an LLM named:  "mixtral-8x7b-32768":
+case\_number: 22VECV00728
+hearing\_date: October 3, 2023
+dept: W ALBERT BOYAJIAN V. SURGE GLOBAL BAKERIES PARTNERS GP, ET AL.
+
+parties:
+plaintiff: Albert Boyajian
+defendants:
+- Surge Global Bakeries Holdings LLC
+- Surge Global Bakeries Partners LP
+- Surge Global Bakeries Partners GP
+- Surge Private Equity LLC
+- Surge Private Equity
+- McLarty Capital Partners SBIC II, LP
+- The Firmament Group
+- Thomas Beauchamp
+- Lewis Sharp
+- Lauren Steel
+- Parris Boyd
+- Tobias Keller
+- Andy Burchfield
+- Ashur Aghasi
+- Specially Appearing Defendants: Lewis Sharp, Thomas Beauchamp, Surge Private Equity LLC
+
+background:
+- Plaintiff sold his bakery for an equity position in a parent entity
+- Plaintiff alleges the purchase was the first step of a lender’s scheme to exploit the company for the lender’s benefit
+- Plaintiff alleges the company unwarrantedly acquired two companies and took on additional dramatic debt
+- Plaintiff alleges mismanagement by inept managers and the lender who controlled the board
+- Plaintiff alleges he has not received any information on the companies or been called for a board meeting
+
+tentative\_ruling:
+- Specially Appearing Defendants Surge Private Equity LLC, Lewis Sharp, and Thomas Beauchamp’s Motions to Quash Service of Summons on Complaint and Complaint are CONTINUED
+
+discussion:
+- Plaintiff bears the burden of establishing by a preponderance of the evidence the factual bases justifying the exercise of jurisdiction
+- A nonresident defendant is subject to the forum’s general jurisdiction where the defendant’s contacts are substantial, continuous, and systematic
+- A court may exercise specific jurisdiction over a nonresident defendant if the defendant has purposefully availed itself of forum benefits by purposefully and voluntarily directing its activities toward the forum, the controversy is related to or arises out of the defendant’s contacts with the forum, and the forum’s assertion of personal jurisdiction over the defendant would comport with fair play and substantial justice
+- Surge LLC argues it has no offices or employees in California and does not have continuous or systematic contacts in California
+- Plaintiff contends Surge LLC was instrumental in negotiating the acquisition price, obtaining investors, and then facilitating and structuring the asset purchase transaction of Global Bakeries via the entities it created
+- The court finds Plaintiff has demonstrated further discovery will lead to the production of evidence establishing jurisdiction against Surge LLC
+- The court continues Defendant Sharp and Beauchamp’s motion so jurisdictional discovery may be conducted
+
+facts:
+- Plaintiff sold his bakery
+- Plaintiff alleges the purchase was the first step of a lender’s scheme to exploit the company for the lender’s benefit
+- Plaintiff alleges the company unwarrantedly acquired two companies and took on additional dramatic debt
+- Plaintiff alleges mismanagement by inept managers and the lender who controlled the board
+- Plaintiff alleges he has not received any information on the companies or been called for a board meeting
+
+disputes:
+- Jurisdiction over Surge LLC, Lewis Sharp, and Thomas Beauchamp
+
+acts:
+- Plaintiff sold his bakery
+- Surge LLC negotiated the acquisition price, obtained investors, and then facilitated and structured the asset purchase transaction of Global Bakeries via the entities it created
+- Thomas Beauchamp and Lewis Sharp met with Plaintiff in person in Los Angeles on multiple occasions
+- Thomas Beauchamp and Lewis Sharp permanently granted their voting rights to Surge LLC
+
+agreements:
+- Underlying agreement between Plaintiff and Surge LLC
+
+laws:
+- Jurisdiction laws in California
+
+case\_citations:
+- Viaview, Inc. v. Retzlaff (2016) 1 Cal.App.5th 198, 216
+- DVI, Inc. v. Superior Court (2002) 104 Cal.App.4th 1080, 1090
+- Jensen v. Jensen (2019) 31 Cal.App.5th 682, 686-87
+- HealthMarkets, Inc. v. Superior Court (2009) 171 Cal. App. 4th 1160
+- Goehring v. Superior Court (1998) 62 Cal.App.4th 894
+- In re Auto. Antitrust Cases I & II (2005) 135 Cal. App. 4th 100
+
+roles:
+- Plaintiff: Albert Boyajian
+- Defendants: Surge Global Bakeries Holdings LLC, Surge Global Bakeries Partners LP, Surge Global Bakeries Partners GP, Surge Private Equity LLC, Surge Private Equity, McLarty Capital Partners SBIC II, LP, The Firmament Group, Thomas Beauchamp, Lewis Sharp, Lauren Steel, Parris Boyd, Tobias Keller, Andy Burchfield, Ashur Aghasi
+- Specially Appearing Defendants: Lewis Sharp, Thomas Beauchamp, Surge Private Equity LLC
+
+significant\_statements:
+- Plaintiff has not met its initial burden of demonstrating facts justifying the exercise of jurisdiction
+- Plaintiff has demonstrated further discovery will lead to the production of evidence establishing jurisdiction against Surge LLC

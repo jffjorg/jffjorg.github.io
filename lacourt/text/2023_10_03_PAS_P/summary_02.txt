@@ -78,3 +78,144 @@ Significant Statements:
 And here is a summary of the judge's tentative ruling in English text:
 
 The court has issued a tentative ruling denying Fuxin Sun's motion to hold Lin Gan criminally accountable for filing a "false" proof of service. The court found that the proof of service attached to Lin Gan's answer complies with the requirements of California Code of Civil Procedure section 1013a (1) and is presumed valid in the absence of contrary evidence. While Fuxin Sun did not receive a copy of Lin Gan's answer, the court declined to find that service was invalid without more evidence. The court also held that Fuxin Sun's due process rights have not been shown to be impacted, and therefore, denied the motion.
+..................... .....................
+On 2025-02-13_16:09:04.548114
+The summary displayed below was created by an LLM named:  "gemma2-9b-it":
+## Tentative Ruling Summary: Case No. 23AHCV00652
+
+**Case Number:** 23AHCV00652
+
+**Plaintiff's Name:** Fuxin Sun
+
+**Defendant's Name:** Lin Gan
+
+**People-Names:**
+* Fuxin Sun
+* Lin Gan
+
+**Company-Names:** None
+
+**Places:** Los Angeles County, California
+
+**Dates:**
+* October 3, 2023 (Hearing Date)
+
+**Events:**
+* Domestic violence incident
+* Police called to Sun and Gan's home
+* Sun arrested and held for two days
+* Sun files motion alleging Gan filed a false proof of service
+
+**Money:** None mentioned
+
+**Intentions:**
+* Sun seeks to hold Gan criminally accountable for allegedly filing a false proof of service.
+
+**Facts:**
+* Sun and Gan were formerly married.
+* Sun alleges Gan's version of a domestic violence incident to the police was false.
+* Sun claims he did not receive a copy of Gan's answer to the lawsuit.
+
+**Disputes:**
+* Whether Gan's proof of service is valid.
+* Whether Gan's actions constitute a crime.
+
+**Acts:**
+* Sun filed a motion alleging Gan filed a false proof of service.
+
+**Agreements:** None mentioned
+
+**Laws:**
+* Penal Code §§ 115, 118, and 126
+* Code Civ. Proc. §1013a
+* Evidence Code § 641
+
+**Case Citations:**
+* Craig v. Brown & Root, Inc. (2000) 84 Cal.App.4th 416
+
+**Statutes:**
+* Penal Code §§ 115, 118, and 126
+* Code Civ. Proc. §1013a
+* Evidence Code § 641
+
+**Roles:**
+* Judge: Margaret L. Oldendorf
+
+**Significant Statements:**
+* The Judge denied Sun's motion because this is a civil court and Sun did not provide legal authority for the requested relief.
+* The Judge acknowledged that the presumption of service disappears if contradicted by evidence, but found that Sun's declaration was insufficient to prove service was invalid.
+
+
+
+**English Summary:**
+
+The judge denied Plaintiff Fuxin Sun's motion to declare Defendant Lin Gan's proof of service "inauthentic."  The judge explained that this is a civil court and Sun did not provide legal grounds for seeking criminal sanctions against Gan. While Sun claims he didn't receive a copy of Gan's answer, the judge found that Sun's declaration was not enough to prove the proof of service was false. Sun's due process rights were not violated because he has received a copy of the answer. 
+
+..................... .....................
+On 2025-02-13_16:09:30.345285
+The summary displayed below was created by an LLM named:  "llama3-8b-8192":
+Here is the summary of the judge's tentative ruling in YAML format:
+
+```
+Case Number: 23AHCV00652
+Plaintiff's Name: Fuxin Sun
+Defendant's Name: Lin Gan
+People-Names: Fuxin Sun, Lin Gan
+Company-Names: None
+Places: Los Angeles, California
+Dates: October 3, 2023
+Events: Domestic violence incident, police response, arrest, proof of service
+Money: None
+Intentions: Plaintiff seeks to hold defendant criminally accountable for filing a "false" proof of service
+Facts: Police believed defendant's version of events, plaintiff was arrested and held for two days, proof of service attached to defendant's answer
+Disputes: Plaintiff disputes the validity of the proof of service
+Acts: Plaintiff's motion for an order holding defendant criminally accountable for filing a "false" proof of service
+Agreements: None
+Laws: Penal Code §§115, 118, 126, Code Civ. Proc. §1013a, Evid. Code §641
+Case Citations: Craig v. Brown & Root, Inc. (2000) 84 Cal.App.4th 416
+Statutes: None
+Roles: Judge Margaret L. Oldendorf
+Significant Statements: "To the extent the proof of service is false, which has not been established, it is not clear what relief that would entitle Sun to." "The Court declines to find that service was invalid here."
+```
+
+And here is a summary of the judge's tentative ruling in English text:
+
+The judge has issued a tentative ruling denying the plaintiff's motion for an order holding the defendant criminally accountable for filing a "false" proof of service. The plaintiff, Fuxin Sun, alleges that the police believed the defendant, Lin Gan's, version of events during a domestic violence incident and that he was arrested and held for two days as a result. Sun claims that Gan's proof of service is false because he never received a copy of Gan's answer. The judge found that the proof of service complies with the requirements of Code Civ. Proc. §1013a and that service is presumed valid in the absence of contrary evidence. While Sun provided evidence that he never received the answer, the judge declined to find that service was invalid without more evidence. The judge also noted that Sun's due process rights were not impacted by any supposed defect in service.
+..................... .....................
+On 2025-02-13_16:09:55.548932
+The summary displayed below was created by an LLM named:  "llama-3.3-70b-specdec":
+Exception:
+Error code: 429 - {'error': {'message': 'Rate limit reached for model `llama-3.3-70b-specdec` in organization `org_01hw84cjv0f12v63qt47723ar2` service tier `on_demand` on : Limit 100000, Used 99131, Requested 1309. Please try again in 6m19.576s. Visit https://console.groq.com/docs/rate-limits for more information.', 'type': '', 'code': 'rate_limit_exceeded'}}
+..................... .....................
+On 2025-02-13_16:19:56.962907
+The summary displayed below was created by an LLM named:  "mixtral-8x7b-32768":
+case\_number: 23AHCV00652
+hearing\_date: October 3, 2023
+dept: P
+plaintiff: Fuxin Sun
+defendant: Lin Gan
+people:
+  - Fuxin Sun
+  - Lin Gan
+events:
+  - domestic violence incident
+  - police summoned to their home
+  - Plaintiff arrested and held for two days
+disputes:
+  - Plaintiff alleges Defendant filed a "false" proof of service
+  - Plaintiff did not receive a copy of Defendant's answer
+acts:
+  - Plaintiff's motion for an order holding Defendant criminally accountable
+laws:
+  - Penal Code §§115, 118, and 126
+analysis:
+  - possibility that the proof of service is false
+  - possibility that the answer was lost in the mail
+  - proof of service complies with the requirements of Code Civ. Proc. §1013a (1)
+  - presumption of valid service in the absence of contrary evidence
+order:
+  - Plaintiff's motion is denied
+  - the Clerk is ordered to give notice of this ruling
+judge: MARGARET L. OLDENDORF
+
+The tentative ruling summarized: The Judge, Margaret L. Oldendorf, denied the Plaintiff's motion for an order holding the Defendant criminally accountable for a "false" proof of service. The Judge found that the proof of service attached to the Defendant's answer complies with the requirements of Code Civ. Proc. §1013a (1) and there is insufficient evidence to prove that service was invalid. The Judge also stated that the Plaintiff's due process rights have not been impacted by any defect with service. The Judge ordered the Clerk to give notice of this ruling.
