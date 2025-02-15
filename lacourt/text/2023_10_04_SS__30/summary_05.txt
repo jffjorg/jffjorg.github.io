@@ -185,3 +185,108 @@ Significant Statements:
 And here is a summary of the judge's tentative ruling in English text:
 
 The judge has issued a tentative ruling on the defendant's motion to continue the trial date. The defendant has requested a continuance of four months from October 24, 2023, to February 20, 2024, due to the plaintiffs' refusal to respond to written discovery and the pending motions for terminating sanctions. The judge has granted the continuance and set a trial setting conference in early December to consider the rulings on the terminating sanctions. The judicial assistant will calendar a date convenient to the court for the trial setting conference, and the moving party must provide notice.
+..................... .....................
+On 2025-02-14_23:27:10.869611
+The summary displayed below was created by an LLM named:  "llama-3.3-70b-specdec":
+Here is the summary of the tentative ruling in YAML format:
+
+```yml
+Case Number: 21STCV38633
+Plaintiff's Name: Maria Guadalupe Muro Aguirre
+Defendant's Name: Amir Daghahi Asli
+People-Names:
+  - Maria Guadalupe Muro Aguirre
+  - Amir Daghahi Asli
+Company-Names: []
+Places:
+  - Department 30
+Dates:
+  - October 4, 2023
+  - October 24, 2023
+  - February 20, 2024
+  - December 6, 2023
+Events:
+  - Hearing
+  - Trial setting conference
+  - Motion to Continue Trial Date
+Money: []
+Intentions:
+  - Defendant's intention to continue the trial date
+Facts:
+  - Plaintiffs have refused to respond to written discovery
+  - Motions for terminating sanctions are pending
+Disputes:
+  - Dispute over discovery responses
+Acts:
+  - Defendant's motion to continue the trial date
+  - Plaintiffs' refusal to respond to written discovery
+Agreements: []
+Laws: []
+Case Citations: []
+Statutes: []
+Roles:
+  - Judge
+  - Judicial Assistant
+  - Plaintiff
+  - Defendant
+Significant Statements:
+  - "Defendant's Motion to Continue the Trial Date is granted."
+  - "The Court will grant the continuance and set a trial setting conference in early December so that the rulings on the terminating sanctions can be considered."
+```
+
+And here is a summary of the judge's tentative ruling in English text:
+
+The judge has granted the defendant's motion to continue the trial date from October 24, 2023, to February 20, 2024. The defendant requested this continuance due to the plaintiffs' refusal to respond to written discovery, and the court has agreed to grant the continuance. The court will schedule a trial setting conference in early December to consider the rulings on the pending motions for terminating sanctions. The judicial assistant has proposed a date of December 6, 2023, at 8:30 a.m. in Department 30 for the trial setting conference. The defendant is required to give notice of the new trial date. The judge's decision is based on the fact that the plaintiffs have not responded to written discovery and that motions for terminating sanctions are still pending.
+..................... .....................
+On 2025-02-14_23:27:37.064346
+The summary displayed below was created by an LLM named:  "mixtral-8x7b-32768":
+case\_number: 21STCV38633
+hearing\_date: 2023-10-04
+dept: 30
+plaintiff\_names:
+- MARIA GUADALUPE MURO AGUIRRE
+- others\_not\_named
+defendant\_name: AMIR DAGHIHI ASL
+people\_names:
+- MARIA GUADALUPE MURO AGUIRRE
+- AMIR DAGHIHI ASL
+- others\_not\_named
+company\_names:
+places:
+- not\_specified
+dates:
+- 2023-10-24: trial date initially set
+- 2023-12-early: new trial setting conference date
+- 2024-02-20: new trial date requested by defendant
+events:
+- defendant's motion for continuance
+- plaintiffs' refusal to respond to written discovery
+- motions for terminating sanctions
+money: not_specified
+intentions:
+- defendant's intention to continue trial date
+- court's intention to set new trial setting conference date
+- moving party to give notice
+facts:
+- defendant moves for a continuance of four months
+- court grants the continuance
+- court sets a trial setting conference in early December
+disputes:
+- plaintiffs' refusal to respond to written discovery
+acts:
+- defendant moves for a continuance
+- court grants the continuance
+agreements: not_specified
+laws: not_specified
+case\_citations: not_specified
+statutes: not_specified
+roles:
+- plaintiff
+- defendant
+significant\_statements:
+- "Defendant's Motion to Continue the Trial Date is granted."
+- "Judicial Assistant to calendar a date convenient to Court in early December for trial setting conference. Moving party to give notice."
+
+---
+
+This tentative ruling grants the defendant's motion to continue the trial date from October 24, 2023, to February 20, 2024, due to the plaintiffs' refusal to respond to written discovery. The court will set a trial setting conference in early December to consider rulings on pending motions for terminating sanctions. The judicial assistant will calendar a date and time for the trial setting conference, and the moving party is required to give notice.
