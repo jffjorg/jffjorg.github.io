@@ -317,3 +317,83 @@ On 2025-02-14_18:25:20.362169
 The summary displayed below was created by an LLM named:  "llama-3.3-70b-specdec":
 Exception:
 Error code: 429 - {'error': {'message': 'Rate limit reached for model `llama-3.3-70b-specdec` in organization `org_01hw84cjv0f12v63qt47723ar2` service tier `on_demand` on : Limit 100000, Used 97768, Requested 2591. Please try again in 5m9.578s. Visit https://console.groq.com/docs/rate-limits for more information.', 'type': '', 'code': 'rate_limit_exceeded'}}
+..................... .....................
+On 2025-02-14_18:35:22.971560
+The summary displayed below was created by an LLM named:  "mixtral-8x7b-32768":
+case\_number: 21STLC07288
+hearing\_date: October 4, 2023
+dept: 25
+plaintiff: Anne Lee
+defendant: Alonso Jauregui
+people:
+- Gary C. Harvey
+- Anne Lee
+- Alonso Jauregui
+- Lili Mostofi
+companies:
+- Martinez, Dieterich & Zarcone Legal Group (MDZ)
+- Loya Casualty Insurance Company (Loya)
+- Chavez Legal Group
+places:
+- Stanley Mosk Courthouse
+- Spring Street Courthouse
+dates:
+- October 6, 2021
+- February 3, 2022
+- May 18, 2023
+- June 6, 2023
+- June 14, 2023
+- June 20, 2023
+- July 19, 2023
+- August 1, 2023
+- August 29, 2023
+- September 5, 2023
+- September 12, 2023
+- September 18, 2023
+- September 20, 2023
+events:
+- Plaintiff Anne Lee brought an action against Defendant Alonso Jauregui arising out of an alleged motor vehicle accident that took place on December 11, 2019.
+- Pursuant to Plaintiff's request, default was entered against Defendant on February 3, 2022.
+- Default judgment was entered for Plaintiff and against Defendant in the amount of $15,824.22 on May 18, 2023.
+- Defendant filed a Motion to Vacate Entry of Default Judgment Against Defendant on June 20, 2023.
+- Plaintiff filed an Opposition on July 19, 2023.
+- Defendant filed a reply on September 20, 2023.
+- The Court placed Defendant's August 1, 2023 Motion off calendar on September 12, 2023.
+money:
+- $15,824.22
+intentions:
+- Defendant intends to vacate the entry of default judgment against him.
+- Plaintiff opposes the motion to vacate.
+facts:
+- Defendant's insurance carrier, Loya, is represented by MDZ.
+- MDZ neglected to contact Defendant from the time the Complaint was filed until the default was taken.
+- MDZ neglected to ensure staff were sufficiently monitoring the County of Los Angeles Superior Court docket.
+- Plaintiff argues that Defendant's own failure to act was the actual cause of a default judgment being entered against him.
+- Defendant argues that the Chavez Legal Group changed its name to MDZ in March 2023.
+- Defendant argues that Plaintiff served Defendant by substitute service on February 2, 2022, but filed a proof of service by publication on May 18, 2023.
+disputes:
+- Whether Defendant's own failure to act was the actual cause of a default judgment being entered against him.
+- Whether MDZ was counsel for Defendant between the time Defendant was served with the Summons to the time Default was entered.
+- Whether this is the proper motion to file.
+acts:
+- Plaintiff brought an action against Defendant.
+- Defendant filed a Motion to Vacate Entry of Default Judgment Against Defendant.
+- Plaintiff filed an Opposition.
+- Defendant filed a reply.
+agreements:
+- None mentioned in the document.
+laws:
+- Code Civ. Proc., § 473, subd. (b)
+case\_citations:
+- Pagnini v. Union Bank, N.A. (2018) 28 Cal.App.5th 298
+- English v. IKON Business Solutions (2001) 94 Cal.App.4th 130
+roles:
+- Plaintiff
+- Defendant
+- Attorney (Gary C. Harvey)
+- Law firm (MDZ)
+- Insurance company (Loya)
+- Attorney (Lili Mostofi)
+significant\_statements:
+- "For the foregoing reasons, Defendant’s Motion to Set Aside Default Judgment is GRANTED. Defendant's answer to be separately filed within 10-days."
+- "Trial in this action is reset for June 4, 2024 at 8:30 a.m. in Department 25 of the Spring Street Courthouse. Discovery and all other trial related deadlines to comport with the new trial date."

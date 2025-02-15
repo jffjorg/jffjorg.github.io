@@ -66,3 +66,202 @@ significant_statements:
 And here is a summary of the judge's tentative ruling in English text:
 
 The judge has tentatively ruled that the Demurrer to the Notice of Appeal filed by Diamond Bar City Hall (Respondent) is sustained without leave to amend. The Notice of Appeal was filed by Shaolin Liu (Petitioner) on July 24, 2023, but it was past the 20-day deadline for filing the appeal. The deadline was July 18, 2023, and the final administrative order or decision was served by mail on June 28, 2023. The judge has concluded that the Notice of Appeal was filed after the time the challenged order or decision was deemed confirmed, and therefore the Demurrer is sustained.
+..................... .....................
+On 2025-02-14_19:13:19.812200
+The summary displayed below was created by an LLM named:  "gemma2-9b-it":
+## Tentative Ruling Summary in YAML:
+
+```yaml
+Case Number: 23STLC04628
+Hearing Date: October 4, 2023
+Dept: 26
+
+Plaintiff's Name: Shaolin Liu
+Defendant's Name: Diamond Bar City Hall
+
+People-Names: 
+  - Shaolin Liu
+  - Sanchez
+
+Company-Names:
+  - Diamond Bar City Hall
+
+Places:
+
+Dates:
+  - July 24, 2023 (Notice of Appeal filed)
+  - June 28, 2023 (Final administrative decision served)
+  - July 18, 2023 (Deadline for appeal)
+  - August 25, 2023 (Demurrer filed)
+
+Events:
+  - Fines and penalties issued for illegal cannabis cultivation
+  - Notice of Appeal filed against fines and penalties
+  - Demurrer to Notice of Appeal filed
+
+Money:
+
+Intentions:
+  - Petitioner seeks to appeal fines and penalties
+  - Respondent seeks to dismiss the appeal
+
+Facts:
+  - Petitioner received final administrative decision on June 28, 2023
+  - Petitioner filed Notice of Appeal six days late on July 24, 2023
+
+Disputes:
+  - Whether the Notice of Appeal was filed within the required 20-day timeframe
+
+Acts:
+  - Petitioner filed Notice of Appeal
+  - Respondent filed Demurrer to Notice of Appeal
+
+Agreements:
+
+Laws:
+  - Code of Civil Procedure § 430.10, et seq.
+  - Government Code § 53069.4
+
+Case Citations:
+
+Statutes:
+  - Government Code § 53069.4
+
+Roles:
+  - Petitioner: Shaolin Liu
+  - Respondent: Diamond Bar City Hall
+
+Significant Statements:
+  - "The Demurrer to the Notice of Appeal is sustained without leave to amend."
+
+
+
+```
+
+## English Summary:
+
+Judge's tentative ruling in the case of Liu v. Diamond Bar City Hall sustains the city's demurrer to Liu's Notice of Appeal. This means the Judge believes Liu's appeal is invalid because it was filed six days after the 20-day deadline outlined in Government Code Section 53069.4. The Judge notes that Liu received the final administrative decision on June 28th, 2023, and the deadline to file an appeal was July 18th, 2023, but the Notice of Appeal was not filed until July 24th, 2023.  As a result, the Judge rules that the Notice of Appeal is untimely and dismisses it.  
+
+
+
+
+
+..................... .....................
+On 2025-02-14_19:13:45.628987
+The summary displayed below was created by an LLM named:  "llama3-8b-8192":
+Here is the YAML summary of the tentative ruling:
+
+```
+Case Number: 23STLC04628
+Plaintiff's Name: Shaolin Liu
+Defendant's Name: Diamond Bar City Hall
+People-Names:
+  - Shaolin Liu
+  - Sanchez
+Company-Names:
+  - Diamond Bar City Hall
+Places:
+  - Diamond Bar
+Dates:
+  - July 24, 2023
+  - August 25, 2023
+  - June 28, 2023
+  - July 18, 2023
+  - October 4, 2023
+Events:
+  - Filing of Notice of Appeal
+  - Filing of Demurrer
+  - Meet and confer declaration
+Money: None
+Intentions:
+  - To sustain or dismiss the Demurrer
+Facts:
+  - Petitioner filed Notice of Appeal after time allowed by Government Code section 53069.4
+  - Notice of Appeal was filed 6 days late
+  - Demurrer was filed and no opposition was filed
+  - Petitioner has not sufficiently stated their appeal
+Disputes:
+  - Whether the Notice of Appeal was filed within the time allowed
+Acts:
+  - Filing of Notice of Appeal
+  - Filing of Demurrer
+  - Filing of meet and confer declaration
+Agreements:
+  - None
+Laws:
+  - Government Code section 53069.4
+  - Code of Civil Procedure section 430.10
+  - Code of Civil Procedure section 430.41
+Case Citations:
+  - Government Code section 53069.4
+  - Code of Civil Procedure section 430.10
+  - Code of Civil Procedure section 430.41
+Statutes:
+  - Government Code section 53069.4
+  - Code of Civil Procedure section 430.10
+  - Code of Civil Procedure section 430.41
+Roles:
+  - Petitioner: Shaolin Liu
+  - Respondent: Diamond Bar City Hall
+Significant Statements:
+  - The Demurrer is sustained without leave to amend
+  - The Notice of Appeal was filed after the time allowed by Government Code section 53069.4
+  - Petitioner has not sufficiently stated their appeal
+```
+
+And here is a summary of the tentative ruling in English text:
+
+The judge has issued a tentative ruling sustaining the demurrer filed by Diamond Bar City Hall to the notice of appeal filed by Shaolin Liu. The demurrer was filed on August 25, 2023, and no opposition was filed. The notice of appeal concerns fines and penalties issued for illegal cannabis cultivation. The judge found that the notice of appeal was filed after the time allowed by Government Code section 53069.4, which states that a person contesting a final administrative order or decision must file an appeal within 20 days. The notice of appeal was filed six days late, and therefore, the demurrer is sustained without leave to amend.
+..................... .....................
+On 2025-02-14_19:14:10.827824
+The summary displayed below was created by an LLM named:  "llama-3.3-70b-specdec":
+Exception:
+Error code: 429 - {'error': {'message': 'Rate limit reached for model `llama-3.3-70b-specdec` in organization `org_01hw84cjv0f12v63qt47723ar2` service tier `on_demand` on : Limit 100000, Used 99762, Requested 833. Please try again in 8m33.936s. Visit https://console.groq.com/docs/rate-limits for more information.', 'type': '', 'code': 'rate_limit_exceeded'}}
+..................... .....................
+On 2025-02-14_19:24:12.179317
+The summary displayed below was created by an LLM named:  "mixtral-8x7b-32768":
+case\_number: 23STLC04628
+hearing\_date: October 4, 2023
+dept: 26
+parties:
+  - Plaintiff: Shaolin Liu
+  - Defendants:
+    - Diamond Bar City Hall
+    - et al.
+people:
+  - Sanchez
+places:
+  - local\_agency
+dates:
+  - June 28, 2023
+  - July 18, 2023
+  - July 24, 2023
+events:
+  - final\_administrative\_order\_or\_decision\_served
+  - notice\_of\_appeal\_filed
+money:
+  - fines
+  - penalties
+intentions:
+  - appeal
+facts:
+  - illegal\_cannabis\_cultivation
+disputes:
+  - timeliness\_of\_notice\_of\_appeal
+acts:
+  - demurrer
+agreements:
+  - Government Code section 53069.4
+laws:
+  - Code of Civil Procedure section 430.10
+  - Code of Civil Procedure section 430.41
+case\_citations:
+statutes:
+  - Government Code section 53069.4
+roles:
+  - moving\_party
+significant\_statements:
+  - "Respondent Diamond Bar City Hall’s Demurrer to the Notice of Appeal is SUSTAINED WITHOUT LEAVE TO AMEND."
+
+**Summary:**
+The Judge's tentative ruling is about the case Liu v. Diamond Bar City Hall, et al. The case number is 23STLC04628 and the hearing date is on October 4, 2023 in Dept 26. The Plaintiff, Shaolin Liu, filed a Notice of Appeal against the Defendants, Diamond Bar City Hall and et al., regarding fines and penalties issued for illegal cannabis cultivation. Respondent Diamond Bar City Hall filed a Demurrer to the Notice of Appeal, stating that the Notice of Appeal was not filed within the allowed time by Government Code section 53069.4. The Judge sustained the Demurrer without leave to amend, as the Notice of Appeal was filed after the challenged order or decision was deemed confirmed. The moving party is required to give notice.
