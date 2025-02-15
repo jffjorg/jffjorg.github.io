@@ -211,3 +211,35 @@ On 2025-02-14_20:14:25.116140
 The summary displayed below was created by an LLM named:  "llama-3.3-70b-specdec":
 Exception:
 Error code: 429 - {'error': {'message': 'Rate limit reached for model `llama-3.3-70b-specdec` in organization `org_01hw84cjv0f12v63qt47723ar2` service tier `on_demand` on : Limit 100000, Used 100171, Requested 2326. Please try again in 35m57.592999999s. Visit https://console.groq.com/docs/rate-limits for more information.', 'type': '', 'code': 'rate_limit_exceeded'}}
+..................... .....................
+On 2025-02-14_20:24:26.838771
+The summary displayed below was created by an LLM named:  "mixtral-8x7b-32768":
+summary:
+  Case Number: 21STCV31494
+  Hearing Date: October 4, 2023
+  Dept: 27
+  Judge: Kerry Bensinger
+  Tentative Ruling:
+    - Case: Marie Vega v. Brodie Dawson Galland
+    - Defendant Brodie Dawson Galland filed a motion to compel Plaintiff Marie Vega to respond to Demand for Supplemental Inspection and Production of Documents, and a motion for an order establishing the truth of each matter specified in Requests for Admission against Defendant.
+    - Plaintiff seeks sanctions against Defendant and his counsel.
+    - Motions are unopposed.
+    - Legal Standards:
+      - If a party fails to serve a timely response to discovery demands, the propounding party may move for an order to compel responses without objections.
+      - Monetary sanctions can be imposed for misuse of the discovery process, such as making unmeritorious objections or evasive responses to discovery.
+    - Discussion:
+      - Defendant served Plaintiff with at-issue discovery requests on November 22, 2022 and February 7, 2023, but Plaintiff has not responded.
+      - All objections to the inspection demands and requests for admission are waived.
+      - Defendant is entitled to an order directing Plaintiff to provide responses and an order deeming admitted Request for Admissions against Plaintiff.
+    - Monetary Sanctions:
+      - Sanctions are warranted against Plaintiff and her counsel.
+      - Sanctions are mandatory in the context of admissions requests.
+      - Imposition of monetary sanctions against counsel is proper unless counsel shows that he or she did not counsel the discovery abuse.
+      - Plaintiff’s counsel does not meet their burden.
+      - Sanctions are imposed against Plaintiff and her counsel in the amount of $355.17.
+    - Conclusion:
+      - The motions are granted.
+      - Plaintiff is ordered to provide verified, objection-free responses and Defendant’s Request for Admissions is deemed admitted against Plaintiff.
+      - Plaintiff and her counsel are ordered to pay sanctions of $355.17 within 30 days.
+
+In this tentative ruling, Judge Kerry Bensinger grants the unopposed motions filed by Defendant Brodie Dawson Galland. Plaintiff Marie Vega has failed to respond to Defendant's discovery requests, and as a result, all objections to the inspection demands and requests for admission are waived. Defendant is entitled to an order directing Plaintiff to provide responses and an order deeming admitted Request for Admissions against Plaintiff. Monetary sanctions of $355.17 are imposed against Plaintiff and her counsel for their failure to respond to discovery requests. The sanctions are mandatory in the context of admissions requests, and are proper unless counsel shows that he or she did not counsel the discovery abuse. Plaintiff and her counsel are ordered to pay the sanctions within 30 days.
