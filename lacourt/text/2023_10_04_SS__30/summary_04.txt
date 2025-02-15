@@ -47,3 +47,164 @@ Significant Statements:
 And here is the English-text summary:
 
 The judge has issued a tentative ruling denying the defendant's motion to abate the action. The defendant's motion was based on a complaint in another action, but the judge ruled that the same parties and causes of action must be involved for a plea in abatement to apply. Since the defendants and causes of action differ in this case, the motion is denied. The judge relied on the case law of Bush v. Super. Ct. (1991) 10 Cal.App.4th 1374, 1384 to support the ruling.
+..................... .....................
+On 2025-02-14_23:15:00.736359
+The summary displayed below was created by an LLM named:  "gemma2-9b-it":
+## Tentative Ruling Summary - YAML
+
+```yaml
+Case Number: 21STCV09786
+Hearing Date: October 4, 2023
+Dept: 30
+Plaintiff's Name: ANNASTACIA LAMBRINOS
+Defendant's Name: SHIRIN TOWFIGH, M.D.
+People-Names:
+  - ANNASTACIA LAMBRINOS
+  - SHIRIN TOWFIGH
+  - MICHAEL E. de COSTER
+Company-Names:
+  - Davol, Inc.
+  - C.R. Bard, Inc.
+Places:
+  - California
+Dates:
+Events:
+  - Motion to Abate Action filed
+  - Hearing scheduled for October 4, 2023
+Money: 
+Intentions:
+  - Defendant seeks to abate the action.
+Facts: 
+  - There is a separate lawsuit against Davol, Inc. and C.R. Bard, Inc.
+Disputes:
+  - Whether the pending motion to abate should be granted.
+Acts:
+  - Defendant filed a declaration from his attorney, Michael E. de Coster.
+Agreements:
+  - None mentioned.
+Laws:
+  - California Code of Civil Procedure
+  - Bush v. Super. Ct. (1991) 10 Cal.App.4th 1374, 1384
+Statutes:
+  - Rule of another action pending
+Roles:
+  - Judge: Decides on the motion to abate
+  - Plaintiff: ANNASTACIA LAMBRINOS
+  - Defendant: SHIRIN TOWFIGH, M.D.
+  - Attorney: MICHAEL E. de COSTER
+Significant Statements:
+  - "Because the defendants differ in the two actions and the causes of action differ, the motion to abate is denied."
+
+
+
+```
+
+## English Summary 
+
+The judge has reviewed a motion filed by Defendant SHIRIN TOWFIGH, M.D. to postpone (abate) the current case, citing a related lawsuit against different parties (Davol, Inc. and C.R. Bard, Inc.) in California. 
+
+The judge determined that the two lawsuits are not closely enough related to warrant postponing the current case. Specifically, the judge highlighted that the parties involved and the specific legal claims made are different in each case.  Therefore, the judge denied the motion to abate. 
+
+
+
+
+Let me know if you'd like me to elaborate on any specific aspect of the ruling!
+
+..................... .....................
+On 2025-02-14_23:15:26.642193
+The summary displayed below was created by an LLM named:  "llama3-8b-8192":
+Here is the summary in YAML format:
+
+```
+Case Number: 21STCV09786
+Plaintiff's Name: ANNASTACIA LAMBRINOS
+Defendant's Name: SHIRIN TOWFIGH, M.D.
+People-Names:
+  - Michael E. de Coster
+Company-Names:
+  - Davol, Inc.
+  - C.R. Bard, Inc.
+Places:
+  - None
+Dates:
+  - October 4, 2023
+Events:
+  - Motion to Abate Action
+  - Complaint in another action
+Money: None
+Intentions:
+  - To deny the defendant's motion to abate the action
+Facts:
+  - The defendant is suing the same parties as the plaintiff in another action
+  - The causes of action differ between the two actions
+Disputes:
+  - Whether the rule of another action pending applies
+Acts:
+  - The defendant filed a motion to abate the action
+Agreements: None
+Laws:
+  - Res judicata
+  - Rule of another action pending
+  - Bush v. Super. Ct. (1991) 10 Cal.App.4th 1374, 1384
+Statutes: None
+Roles:
+  - Judge: deciding the tentative ruling
+  - Plaintiff: bringing the action
+  - Defendant: responding to the motion
+Significant Statements:
+  - "The same parties and causes of action must be involved, such that a judgment in the earlier action would become res judicata in the later one."
+  - "Because the defendants differ in the two actions and the causes of action differ, the motion to abate is denied."
+```
+
+And here is a summary of the judge's tentative ruling in English text:
+
+The judge has denied the defendant's motion to abate the action. The defendant argued that the rule of another action pending should apply, citing a complaint in another action that names the same parties as this action. However, the judge found that the causes of action differ between the two actions, and therefore a judgment in the earlier action would not become res judicata in this later action. The judge relied on the California Court of Appeal's decision in Bush v. Super. Ct. (1991) 10 Cal.App.4th 1374, 1384. The defendant is to give notice of the ruling, and the motion is denied.
+..................... .....................
+On 2025-02-14_23:15:51.827065
+The summary displayed below was created by an LLM named:  "llama-3.3-70b-specdec":
+Exception:
+Error code: 429 - {'error': {'message': 'Rate limit reached for model `llama-3.3-70b-specdec` in organization `org_01hw84cjv0f12v63qt47723ar2` service tier `on_demand` on : Limit 100000, Used 99653, Requested 461. Please try again in 1m38.055s. Visit https://console.groq.com/docs/rate-limits for more information.', 'type': '', 'code': 'rate_limit_exceeded'}}
+..................... .....................
+On 2025-02-14_23:25:53.020488
+The summary displayed below was created by an LLM named:  "mixtral-8x7b-32768":
+case\_number: 21STCV09786
+hearing\_date: 2023-10-04
+dept: 30
+plaintiff\_name: ANNASTACIA LAMBRINOS
+defendant\_name: SHIRIN TOWFIGH, M.D.
+people\_names:
+- ANNASTACIA LAMBRINOS
+- SHIRIN TOWFIGH, M.D.
+- Michael E. de Coster
+company\_names:
+- Davol, Inc.
+- C.R. Bard, Inc.
+places:
+dates:
+events:
+- Motion to Abate Action
+money: N/A
+intentions:
+- Defendant's motion to abate is denied
+facts:
+- Defendant submits the declaration of his attorney, Michael E. de Coster
+- Plaintiffs sue Davol, Inc. and C.R. Bard, Inc. for various claims
+disputes:
+- Whether the same parties and causes of action are involved in both actions
+acts:
+- Filing of the motion to abate
+agreements: N/A
+laws:
+- Rule of another action pending to apply and result in a plea in abatement
+case\_citations:
+- Bush v. Super. Ct. (1991) 10 Cal.App.4th 1374
+statutes: N/A
+roles:
+- Plaintiff
+- Defendant
+- Attorney for Defendant
+significant\_statements:
+- "For the rule of another action pending to apply, and result in a plea in abatement, the same parties and causes of action must be involved, such that a judgment in the earlier action would become res judicata in the later one."
+
+English Summary:
+In the case of ANNASTACIA LAMBRINOS vs SHIRIN TOWFIGH, M.D., the Defendant's motion to abate the action was denied by Judge AnnaStacia Lambrinos. The motion was denied because the parties and causes of action in the two actions are not the same. In the other action, Plaintiffs sue Davol, Inc. and C.R. Bard, Inc. for various claims, while in this action, the Plaintiff sues the Defendant for different claims. For the rule of another action pending to apply, and result in a plea in abatement, the same parties and causes of action must be involved, such that a judgment in the earlier action would become res judicata in the later one. Therefore, the Defendant's motion to abate was denied.

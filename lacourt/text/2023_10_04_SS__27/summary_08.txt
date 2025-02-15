@@ -238,3 +238,57 @@ On 2025-02-14_20:25:45.228345
 The summary displayed below was created by an LLM named:  "llama-3.3-70b-specdec":
 Exception:
 Error code: 429 - {'error': {'message': 'Rate limit reached for model `llama-3.3-70b-specdec` in organization `org_01hw84cjv0f12v63qt47723ar2` service tier `on_demand` on : Limit 100000, Used 99385, Requested 1251. Please try again in 9m8.687s. Visit https://console.groq.com/docs/rate-limits for more information.', 'type': '', 'code': 'rate_limit_exceeded'}}
+..................... .....................
+On 2025-02-14_20:35:47.208937
+The summary displayed below was created by an LLM named:  "mixtral-8x7b-32768":
+case\_number: 22STCV04619
+hearing\_date: October 4, 2023
+dept: 27
+judge: Kerry Bensinger
+
+parties:
+  plaintiffs:
+    - Teresita Mayela Navarro
+    - Steve Navarro
+    - Valeria Guadalupe Navarro
+    - Andrew Navarro
+    - Natalie Navarro (minor)
+  defendants:
+    - Ruben Jesus Jaramilla, Jr.
+    - Andiamo Logistics, Inc.
+    - Element Fleet Corporation
+    - Gelco Fleet Trust, LSR
+    - Amazon.com Services LLC
+    - United Parcel Service, Inc. (UPS, previously subpoenaed)
+
+case\_events:
+  - date: February 7, 2022
+    event: Plaintiffs filed a wrongful death action against Defendants.
+  - date: September 23, 2021
+    event: Collision between Jaramilla's vehicle and decedent's motorcycle.
+  - date: March 18, 2022
+    event: Plaintiffs filed the First Amended Complaint (FAC) asserting causes of action for wrongful death and loss of consortium.
+  - date: June 23, 2023
+    event: Plaintiffs issued a deposition subpoena to UPS seeking Jaramilla's employment documents.
+  - date: July 21, 2023
+    event: Defendants filed a motion to quash the deposition subpoenas and requested a protective order and in camera review of the documents for relevancy.
+  - date: October 4, 2023
+    event: Defendants represent that Plaintiffs have withdrawn the UPS subpoena.
+
+motions:
+  - moving\_party: Defendants
+    motion\_type: Motion to Quash Deposition Subpoena for Production of Business Records
+    status: Moot
+
+intention:
+  - Defendants seek sanctions against Plaintiffs and their counsel.
+
+summary:
+  - Plaintiffs filed a wrongful death action against Defendants, alleging that Jaramilla caused the death of decedent Jose Erubey Navarro Maya during the course and scope of his employment and/or partnership with Andiamo and/or Amazon.
+  - Plaintiffs issued a deposition subpoena to UPS seeking Jaramilla's employment documents but later withdrew it.
+  - Defendants filed a motion to quash the deposition subpoenas, seeking a protective order and in camera review of the documents for relevancy, and sanctions against Plaintiffs and their counsel.
+  - The motion is now moot as Plaintiffs have withdrawn the UPS subpoena.
+
+significant\_statements:
+  - "In their reply, Defendants represent that Plaintiffs have withdrawn the UPS subpoena."
+  - "As such, the issue is moot."
