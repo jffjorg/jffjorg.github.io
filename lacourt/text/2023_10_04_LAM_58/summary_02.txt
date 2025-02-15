@@ -56,3 +56,181 @@ Significant Statements:
 And here is the summary in English text:
 
 The Judge has issued a tentative ruling denying the Defendant's motion to set aside the default judgment. The case is an unlawful detainer action, in which the Plaintiff, Hollywood Tower, LLC, seeks to evict the Defendant, Nicole Narian, for breaching the terms of the lease by failing to pay rent. The Defendant had failed to timely respond to the Complaint and a default judgment was entered on November 4, 2022. The Defendant then moved to set aside the default judgment on May 18, 2023, claiming that she had retained a law firm to handle her eviction case, but the law firm did not do any work for her. However, the Judge found that the Defendant's evidence was insufficient to demonstrate a mistake warranting relief, and that the motion was untimely and defective. The Judge also noted that the Defendant's declaration was suspiciously vague and not credible. As a result, the Judge denied the Defendant's motion to set aside the default judgment.
+..................... .....................
+On 2025-02-14_12:06:56.627381
+The summary displayed below was created by an LLM named:  "gemma2-9b-it":
+## Tentative Ruling Summary in YAML
+
+**Case Number:** 22STCV31584
+**Plaintiff's Name:** Hollywood Tower, LLC
+**Defendant's Name:** Nicole Narian
+**People-Names:** Nicole Narian
+**Company-Names:** Hollywood Tower, LLC
+**Places:**  (Not specified)
+**Dates:**
+* November 3, 2022: Default entered.
+* November 4, 2022: Default judgment entered on possession.
+* May 18, 2023: Defendant's motion to set aside default filed.
+* February 23, 2023: Proof of service for motion filed (date is suspect).
+* October 4, 2023: Hearing date.
+**Events:**
+* Defendant breached lease agreement by failing to pay rent.
+* Default judgment entered against Defendant.
+* Defendant filed motion to set aside default judgment.
+**Money:**  (Specific amounts not mentioned, but rent payment is the dispute)
+**Intentions:** Defendant intends to set aside the default judgment against her.
+**Facts:**
+* Defendant rented a unit from Plaintiff.
+* Defendant failed to pay rent as per lease agreement.
+* Defendant claims she retained legal counsel who did no work on her case.
+* Defendant claims she was not served with the Complaint.
+**Disputes:**
+* Defendant's failure to pay rent.
+* Validity of service of the Complaint.
+* Whether Defendant's claim of legal representation is credible.
+**Acts:**
+* Plaintiff filed an unlawful detainer action.
+* Defendant failed to respond to the Complaint.
+* Defendant filed a motion to set aside default judgment.
+**Agreements:** Lease agreement between Plaintiff and Defendant.
+**Laws:**
+* Code of Civil Procedure section 473, subdivision (b)
+**Case Citations:**
+* Luriv. Greenwald (2003) 107 Cal.App.4th 1119
+* Rappleyea v. Campbell (1994) 8 Cal.4th 975
+**Statutes:** Code of Civil Procedure section 473, subdivision (b)
+**Roles:**
+* Plaintiff: Hollywood Tower, LLC, landlord
+* Defendant: Nicole Narian, tenant
+**Significant Statements:**
+* Defendant claims she retained legal counsel who did no work on her case but provides no evidence.
+* Defendant claims she was not served with the Complaint but provides no evidence to support this claim.
+* The court finds Defendant's declarations insufficient to justify relief.
+* The court finds Defendant's motion untimely and defective.
+
+
+
+## English Summary
+
+The judge has issued a tentative ruling denying Defendant Nicole Narian's motion to set aside the default judgment entered against her in the unlawful detainer action filed by Plaintiff Hollywood Tower, LLC.
+
+The judge finds that Narian's arguments are insufficient and untimely.  She claims that her attorney failed to do any work on her case, but provides no evidence to support this claim. She also claims that she was not served with the Complaint, but provides no evidence to support this claim either.
+
+The judge further notes that Narian's motion was filed more than six months after the default judgment was entered, making it untimely under the relevant statute. The judge also finds that the proof of service for the motion is defective.  
+
+Therefore, the judge is denying Narian's motion to set aside the default judgment. 
+
+..................... .....................
+On 2025-02-14_12:07:22.483900
+The summary displayed below was created by an LLM named:  "llama3-8b-8192":
+Here is the summary in YAML format:
+
+```
+Case Number: 22STCV31584
+Plaintiff's Name: Hollywood Tower, LLC
+Defendant's Name: Nicole Narian
+People-Names:
+  - Nicole Narian
+Company-Names:
+  - Hollywood Tower, LLC
+Places: None
+Dates:
+  - October 4, 2023
+  - November 3, 2022
+  - November 4, 2022
+  - May 18, 2023
+Events:
+  - Unlawful detainer action
+  - Default judgment entered
+  - Motion to set aside default judgment filed
+Money: None
+Intentions:
+  - Defendant seeks to set aside default judgment
+  - Plaintiff seeks to maintain default judgment
+Facts:
+  - Defendant breached lease agreement by failing to pay rent
+  - Default judgment entered on November 4, 2022
+  - Defendant moves to set aside default judgment on May 18, 2023
+Disputes:
+  - Defendant claims mistake and lack of representation led to default
+  - Plaintiff claims defendant failed to provide sufficient evidence
+Acts:
+  - Defendant retained a law firm to handle eviction case
+  - Law firm did not perform any work for defendant
+  - Default judgment entered
+  - Defendant files motion to set aside default judgment
+Agreements: None
+Laws:
+  - Code of Civil Procedure section 473, subdivision (b)
+  - Rappleyea v. Campbell (1994) 8 Cal.4th 975, 980
+Case Citations:
+  - Luri¿v. Greenwald¿(2003) 107 Cal.App.4th 1119, 1124
+Statutes:
+  - Code of Civil Procedure section 473, subdivision (b)
+Roles:
+  - Judge: ruled on motion to set aside default judgment
+  - Plaintiff: Hollywood Tower, LLC
+  - Defendant: Nicole Narian
+Significant Statements:
+  - "The motion to set aside the entry of default and default judgment is denied."
+  - "This evidence is insufficient to demonstrate a mistake warranting relief."
+  - "Defendant's declaration is not credible."
+```
+
+And here is a summary in English text of the Judge's tentative ruling:
+
+The Judge has denied the Defendant's motion to set aside the default judgment. The Defendant, Nicole Narian, claimed that she was unaware of the eviction proceedings and that her law firm failed to represent her. However, the Judge found that the Defendant's evidence was insufficient to demonstrate a mistake warranting relief. The Judge also noted that the Defendant's motion was untimely and that the proof of service of the motion was defective. Additionally, the Judge found that the Defendant's declaration regarding her lack of representation and her whereabouts at the time of service to be suspiciously vague and not credible.
+..................... .....................
+On 2025-02-14_12:07:47.672620
+The summary displayed below was created by an LLM named:  "llama-3.3-70b-specdec":
+Exception:
+Error code: 429 - {'error': {'message': 'Rate limit reached for model `llama-3.3-70b-specdec` in organization `org_01hw84cjv0f12v63qt47723ar2` service tier `on_demand` on : Limit 100000, Used 99750, Requested 1359. Please try again in 15m57.403s. Visit https://console.groq.com/docs/rate-limits for more information.', 'type': '', 'code': 'rate_limit_exceeded'}}
+..................... .....................
+On 2025-02-14_12:17:49.021196
+The summary displayed below was created by an LLM named:  "mixtral-8x7b-32768":
+case\_number: 22STCV31584
+plaintiff: Hollywood Tower, LLC
+defendant: Nicole Narian
+people:
+- Nicole Narian
+- Unnamed law firm
+places:
+- Hollywood Tower
+dates:
+- November 3, 2022 (default entered)
+- November 4, 2022 (default judgment entered)
+- May 18, 2023 (motion to set aside default judgment filed)
+events:
+- Defendant breached lease terms by not paying rent
+- Default judgment entered against defendant for possession only
+- Defendant moved to set aside default judgment
+- No opposition filed
+money:
+- Rent owed by defendant
+intentions:
+- Defendant's intention to set aside default judgment
+facts:
+- Defendant retained a law firm for her eviction case but they did not do any work
+- Defendant did not provide sufficient evidence of mistake or neglect
+- Defendant's motion for relief was untimely
+- Defendant's proof of service of motion is defective
+- Defendant claims she was not served with the Complaint but lacks credible evidence
+disputes:
+- Defendant's claim of mistake or neglect
+- Defendant's claim of not being served with the Complaint
+agreements:
+- Lease agreement between plaintiff and defendant
+laws:
+- Code of Civil Procedure section 473, subdivision (b)
+case\_citations:
+- Luri¿v. Greenwald¿(2003) 107 Cal.App.4th 1119
+- Rappleyea v. Campbell (1994) 8 Cal.4th 975
+roles:
+- Plaintiff: landlord
+- Defendant: tenant
+significant\_statements:
+- "The Motion to Set Aside Default Judgment is denied."
+- "Defendant’s declaration is insufficient to justify relief."
+- "Defendant cannot obtain relief pursuant to Code of Civil Procedure section 473, subdivision (b)."
+- "The declaration is not credible."
+- "Accordingly, Defendant’s motion to set aside the default judgment is denied."

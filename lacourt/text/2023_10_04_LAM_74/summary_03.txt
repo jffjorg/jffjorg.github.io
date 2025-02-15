@@ -56,3 +56,198 @@ Significant Statements:
 And here is the English-text summary:
 
 This tentative ruling denies the plaintiff's motion to produce documents for inspection, also known as a Pitchess motion. The motion was filed on September 13, 2023, but is considered untimely because it was not filed at least 16 court days before the hearing date, as required by Evidence Code section 1043. The plaintiff had previously filed a complaint on January 3, 2023, and a notice of motion and supporting declaration on May 22, 2023, but did not file the motion itself until September 13, 2023. The court finds that the motion is not timely and therefore denies it.
+..................... .....................
+On 2025-02-14_14:07:21.501162
+The summary displayed below was created by an LLM named:  "gemma2-9b-it":
+## Tentative Ruling Summary in YAML
+
+```yaml
+Case Number: 23STCV00093
+Hearing Date: October 4, 2023
+Dept: 74
+
+Plaintiff's Name: Mariela Isabel Avila
+Defendant's Name: City of Irwindale, Ty Henshaw
+
+People-Names:
+- Mariela Isabel Avila
+- Ty Henshaw
+
+Company-Names:
+- City of Irwindale
+
+Places:
+- Irwindale
+
+Dates:
+- January 3, 2023: Complaint filed
+- May 22, 2023: Notice of motion, proposed order, and declaration filed
+- September 13, 2023: Pitchess Motion filed
+
+Events:
+- Employment dispute
+- Filing of complaint
+- Filing of Pitchess Motion
+
+Money: 
+- Not mentioned
+
+Intentions:
+- Plaintiff seeks to produce documents
+
+Facts:
+- Plaintiff filed a complaint against the City of Irwindale and former Chief of Police Ty Henshaw.
+
+Disputes:
+- Employment dispute
+
+Acts:
+- Filing of complaint
+- Filing of motion for documents
+
+Agreements:
+- None mentioned
+
+Laws:
+- Evidence Code section 1043
+- Code of Civil Procedure section 1005
+
+Case Citations:
+- None mentioned
+
+Statutes:
+- Evidence Code section 1043
+- Code of Civil Procedure section 1005
+
+Roles:
+- Plaintiff: Mariela Isabel Avila
+- Defendants: City of Irwindale, Ty Henshaw
+- Judge: Deciding on the motion
+
+Significant Statements:
+- The court denies the Plaintiff's motion because it is not timely filed.
+- Plaintiff's motion is untimely because she waited until September 13 to file it.
+
+
+
+```
+
+## English Summary
+
+The judge's tentative ruling denies Plaintiff Mariela Isabel Avila's motion for an order to produce documents (a Pitchess Motion) due to its untimeliness. 
+
+The motion, relating to an employment dispute against the City of Irwindale and former Chief of Police Ty Henshaw, was filed on September 13, 2023, after the required 16-court-day notice period had passed. 
+
+
+The judge cites Evidence Code section 1043 and Code of Civil Procedure section 1005, which mandate timely filing of such motions.  
+
+..................... .....................
+On 2025-02-14_14:07:47.386522
+The summary displayed below was created by an LLM named:  "llama3-8b-8192":
+Here is the summary in YAML format:
+
+```
+Case Number: 23STCV00093
+Plaintiff's Name: Mariela Isabel Avila
+Defendant's Name: City of Irwindale, Ty Henshaw (former Chief of Police)
+People-Names:
+  - Mariela Isabel Avila
+  - Ty Henshaw
+Company-Names:
+  - City of Irwindale
+Places:
+  - Irwindale
+Dates:
+  - January 3, 2023
+  - May 22, 2023
+  - September 13, 2023
+  - October 4, 2023
+Events:
+  - Employment dispute
+  - Filing of complaint
+  - Filing of notice of motion
+  - Filing of motion for order to produce documents
+Money: None
+Intentions:
+  - Plaintiff seeks to produce documents for inspection (Pitchess Motion)
+Facts:
+  - Plaintiff filed complaint on January 3, 2023
+  - Plaintiff filed notice of motion on May 22, 2023
+  - Plaintiff filed motion for order to produce documents on September 13, 2023
+Disputes:
+  - Timeliness of Plaintiff's motion
+Acts:
+  - Plaintiff's failure to file motion in a timely manner
+Agreements: None
+Laws:
+  - Evidence Code section 1043
+  - Code of Civil Procedure section 1005, subdivision (b)
+Case Citations:
+  - Evidence Code, § 1043, subdivision (a)(1)
+  - Code Civ. Proc., § 1005, subdivision (b)
+  - Evidence Code, § 1043, subdivision (d)
+Statutes:
+  - Evidence Code, § 1043
+  - Code of Civil Procedure, § 1005
+Roles:
+  - Plaintiff: Mariela Isabel Avila
+  - Defendant: City of Irwindale and Ty Henshaw
+Significant Statements:
+  - "The court denies Plaintiff's motion because it is not timely."
+```
+
+And here is a summary of the judge's tentative ruling in English text:
+
+The judge denied Plaintiff Mariela Isabel Avila's motion to produce documents for inspection (Pitchess Motion) because it was filed late. The motion was filed on September 13, 2023, but it should have been filed at least 16 court days before the hearing date, which was October 4, 2023. The judge ruled that the motion was untimely and denied it based on Evidence Code section 1043 and Code of Civil Procedure section 1005, subdivision (b).
+..................... .....................
+On 2025-02-14_14:08:12.588233
+The summary displayed below was created by an LLM named:  "llama-3.3-70b-specdec":
+Exception:
+Error code: 429 - {'error': {'message': 'Rate limit reached for model `llama-3.3-70b-specdec` in organization `org_01hw84cjv0f12v63qt47723ar2` service tier `on_demand` on : Limit 100000, Used 99662, Requested 554. Please try again in 3m5.936999999s. Visit https://console.groq.com/docs/rate-limits for more information.', 'type': '', 'code': 'rate_limit_exceeded'}}
+..................... .....................
+On 2025-02-14_14:18:13.922824
+The summary displayed below was created by an LLM named:  "mixtral-8x7b-32768":
+case\_number: 23STCV00093
+hearing\_date: October 4, 2023
+dept: 74
+plaintiff:
+  name: Mariela Isabel Avila
+defendants:
+  - name: City of Irwindale
+  - name: Ty Henshaw (former Chief of Police)
+people:
+  - name: Mariela Isabel Avila
+  - name: Ty Henshaw
+places:
+  - name: City of Irwindale
+events:
+  - date: January 3, 2023
+    event: Plaintiff Mariela Isabel Avila filed a complaint
+  - date: May 22, 2023
+    event: Plaintiff filed a notice for a motion
+  - date: September 13, 2023
+    event: Plaintiff filed this motion for a Pitchess Motion
+money: N/A
+intentions:
+  - plaintiff: to produce documents for inspection
+disputes:
+  - plaintiff: the motion for a Pitchess Motion is timely
+  - court: the motion for a Pitchess Motion is untimely
+acts:
+  - plaintiff: filed a complaint
+  - plaintiff: filed a notice for a motion
+  - plaintiff: filed this motion for a Pitchess Motion
+agreements: N/A
+laws:
+  - name: Evidence Code section 1043
+  - name: Code of Civil Procedure, section 1005
+case\_citations: N/A
+statutes: N/A
+roles:
+  - name: Plaintiff
+  - name: Defendants
+significant\_statements:
+  - "The court denies Plaintiff Mariela Isabel Avila’s motion because it is not timely."
+
+English text summary:
+The tentative ruling is for case number 23STCV00093, which will have a hearing on October 4, 2023, in department 74. The case is about an employment dispute between plaintiff Mariela Isabel Avila and defendants City of Irwindale and former Chief of Police Ty Henshaw. On January 3, 2023, plaintiff Mariela Isabel Avila filed a complaint. On May 22, 2023, plaintiff filed a notice for a motion, but did not file the motion itself. On September 13, 2023, plaintiff filed this motion for a Pitchess Motion. The court denies plaintiff's motion because it is not timely, as it was filed after the required 16 court days before the hearing.

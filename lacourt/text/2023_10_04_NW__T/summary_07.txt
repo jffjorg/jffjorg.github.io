@@ -53,3 +53,190 @@ Significant Statements:
 And here is a summary of the judge's tentative ruling in English text:
 
 The judge has tentatively ruled in favor of Swift Financial, LLC (as Servicing Agent of WebBank) and granted its petition to confirm an arbitration award of $90,641.50 against Recovery Advocates, LLC and Stuart Birnbaum. The award was entered on March 7, 2023, and the respondents failed to file a petition to correct or vacate the award or file a response/opposition to the petition. The judge cites California Code of Civil Procedure section 1286 and a relevant court case to support the ruling, stating that courts are required to enter judgment in conformity with the award unless a valid petition or response is filed.
+..................... .....................
+On 2025-02-14_15:20:34.103595
+The summary displayed below was created by an LLM named:  "gemma2-9b-it":
+## Tentative Ruling Summary in YAML
+
+```yaml
+Case Number: 23VECP00410
+Hearing Date: October 4, 2023
+Dept: T 
+
+People-Names:
+  - Swift
+  - Birnbaum
+  - Stuart
+
+Company-Names:
+  - Swift Financial, LLC
+  - WebBank
+  - Recovery Advocates, LLC
+
+Places: 
+
+Dates:
+  - March 7, 2023 
+  - October 4, 2023
+
+Events:
+  - Arbitration hearing
+  - Arbitration award issued on March 7, 2023 for $90,641.50
+  - Swift Financial, LLC filed a Petition to Confirm Arbitration Award
+  - Respondents Recovery Advocates, LLC and Stuart Birnbaum did not file a response or opposition
+
+Money:
+  - $90,641.50
+
+Intentions:
+  - Swift Financial, LLC seeks to confirm the arbitration award
+
+Facts:
+  - Arbitration award was issued against Respondents
+
+Disputes:
+
+Acts:
+  - Arbitration hearing
+  - Swift Financial, LLC filed a Petition to Confirm Arbitration Award
+  - Respondents did not file a response or opposition
+
+Agreements: 
+
+Laws:
+  - Code of Civ. Proc. sec. 1286
+  - Valsan Partners Ltd. Partnership v. Calcor Space Facility (1994) 25 Cal.App.4th 809, 818
+
+Statutes: 
+  - Code of Civ. Proc. sec. 1286
+
+Roles:
+  - Petitioner: Swift Financial, LLC as Servicing Agent of WebBank
+  - Respondents: Recovery Advocates, LLC and Stuart Birnbaum
+
+Significant Statements:
+  - "Unless a petition or response seeking to correct or vacate an arbitration award was filed properly based upon valid grounds, or the proceeding is dismissed, courts are required to enter judgment in conformity with the award."
+  - "The Petition to Confirm the Award is GRANTED."
+
+
+
+```
+
+## English Summary
+
+The Judge has issued a tentative ruling in the case of Swift Financial, LLC v. Recovery Advocates, LLC and Stuart Birnbaum. Swift Financial is seeking to confirm a $90,641.50 arbitration award issued against Recovery Advocates and Birnbaum on March 7, 2023. 
+
+The Judge notes that unless a valid petition or response seeking to correct or vacate the arbitration award was filed, the court is required to confirm the award. Since Recovery Advocates and Birnbaum did not file any such response, the Judge grants Swift Financial's petition to confirm the award. 
+
+
+
+..................... .....................
+On 2025-02-14_15:20:59.887060
+The summary displayed below was created by an LLM named:  "llama3-8b-8192":
+Here is the summary in YAML format:
+
+```
+Case Number: 23VECP00410
+Plaintiff's Name: Swift Financial, LLC
+Defendant's Name: Recovery Advocates, LLC and Stuart Birnbaum
+People-Names:
+  - Swift Financial, LLC
+  - WebBank
+  - Recovery Advocates, LLC
+  - Stuart Birnbaum
+Company-Names:
+  - Swift Financial, LLC
+  - WebBank
+  - Recovery Advocates, LLC
+Places:
+  - None mentioned
+Dates:
+  - March 7, 2023
+  - October 4, 2023
+Events:
+  - Arbitration award of $90,641.50
+  - Petition to confirm arbitration award
+Money:
+  - $90,641.50
+Intentions:
+  - Confirm arbitration award
+Facts:
+  - Petitioner submitted a copy of the arbitration award
+  - Respondents did not file a separate petition to correct or vacate
+  - Respondents did not file a response/opposition to the instant Petition
+Disputes:
+  - None mentioned
+Acts:
+  - Petitioner moved to confirm the March 7, 2023 arbitration award
+  - Respondents did not file a response/opposition to the instant Petition
+Agreements:
+  - None mentioned
+Laws:
+  - Code of Civ. Proc. sec. 1286
+  - Valsan Partners Ltd. Partnership v. Calcor Space Facility (1994) 25 Cal.App.4th 809, 818
+Case Citations:
+  - Valsan Partners Ltd. Partnership v. Calcor Space Facility (1994) 25 Cal.App.4th 809, 818
+Statutes:
+  - Code of Civ. Proc. sec. 1286
+Roles:
+  - Petitioner: Swift Financial, LLC as Servicing Agent of WebBank
+  - Respondents: Recovery Advocates, LLC and Stuart Birnbaum
+Significant Statements:
+  - "Unless a petition or response seeking to correct or vacate an arbitration award was filed properly based upon valid grounds, or the proceeding is dismissed, courts are required to enter judgment in conformity with the award."
+```
+
+Here is a summary of the judge's tentative ruling in English text:
+
+The judge is granting the petition to confirm the arbitration award of $90,641.50 against Recovery Advocates, LLC and Stuart Birnbaum. The award was entered on March 7, 2023, and the respondents did not file a petition to correct or vacate the award or respond to the petition to confirm the award. Therefore, the court is required to enter judgment in conformity with the award. The judge cites California Code of Civil Procedure section 1286 and a court case, Valsan Partners Ltd. Partnership v. Calcor Space Facility, to support the decision.
+..................... .....................
+On 2025-02-14_15:21:25.080937
+The summary displayed below was created by an LLM named:  "llama-3.3-70b-specdec":
+Exception:
+Error code: 429 - {'error': {'message': 'Rate limit reached for model `llama-3.3-70b-specdec` in organization `org_01hw84cjv0f12v63qt47723ar2` service tier `on_demand` on : Limit 100000, Used 100088, Requested 486. Please try again in 8m16.122s. Visit https://console.groq.com/docs/rate-limits for more information.', 'type': '', 'code': 'rate_limit_exceeded'}}
+..................... .....................
+On 2025-02-14_15:31:26.371770
+The summary displayed below was created by an LLM named:  "mixtral-8x7b-32768":
+case\_number: 23VECP00410
+hearing\_date: 2023-10-04
+dept: T
+people\_names:
+- Swift Financial, LLC
+- WebBank
+- Recovery Advocates, LLC
+- Stuart Birnbaum
+places:
+- Court
+dates:
+- 2023-03-07
+events:
+- Arbitration award entered
+money:
+- 90641.50
+intentions:
+- Confirm arbitration award
+- Grant petition
+facts:
+- Petitioner submitted a copy of the arbitration award
+- Respondents did not file a separate petition to correct or vacate
+- Respondents did not file a response/opposition
+disputes:
+- None mentioned
+acts:
+- Arbitration
+- Moving to confirm the arbitration award
+agreements:
+- Arbitration award
+laws:
+- Code of Civil Procedure section 1286
+case\_citations:
+- Valsan Partners Ltd. Partnership v. Calcor Space Facility (1994) 25 Cal.App.4th 809, 818
+roles:
+- Petitioner: Swift Financial, LLC as Servicing Agent of WebBank
+- Respondents: Recovery Advocates, LLC, and Stuart Birnbaum
+significant\_statements:
+- Court is required to enter judgment in conformity with the award unless a petition or response seeking to correct or vacate an arbitration award was filed properly based upon valid grounds
+- Respondents did not file a separate petition to correct or vacate and did not file a response/opposition to the instant Petition despite sufficient notice and opportunity to be heard
+- The Petition to Confirm the Award is GRANTED
+
+English text:
+The tentative ruling is for Case Number 23VECP00410, with a hearing date of October 4, 2023, in Department T. The case involves Swift Financial, LLC as Servicing Agent of WebBank (Petitioner) and Recovery Advocates, LLC and Stuart Birnbaum (Respondents). The Petitioner moved to confirm an arbitration award of $90,641.50 against the Respondents. The Petitioner submitted a copy of the arbitration award, and because the Respondents did not file a separate petition to correct or vacate and did not file a response/opposition, the Petition is granted.
