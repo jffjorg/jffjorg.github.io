@@ -304,3 +304,231 @@ roles:
 significant\_statements:
   - name: Service upon the Defendant corporation is not statutorily compliant
   - name: Plaintiff has not complied with the requirements for a default judgment
+..................... .....................
+On 2025-02-16_00:13:38.405667
+The summary displayed below was created by an LLM named:  "gemma2-9b-it":
+## Tentative Ruling Summary: Case No. 23PSCV00895
+
+**Case Number:** 23PSCV00895
+**Hearing Date:** September 19, 2023
+**Department:** O
+
+**Plaintiff:** 9920 Management LLC
+**Defendant:** GV Yummy Inc.
+
+**People:** 
+* Heidi Gao (employee of Defendant)
+
+**Companies:** 
+* 9920 Management LLC
+* GV Yummy Inc.
+
+**Places:** Restaurant (unspecified)
+
+**Events:**
+* **March 24, 2023:** Plaintiff filed a lawsuit against Defendant for unlawful detainer (UD).
+* **April 28, 2023:** Default entered against Defendant.
+* **May 12, 2023:** Plaintiff filed a 'Declaration for Default Judgment by Court.'
+* **September 19, 2023:** Tentative Ruling scheduled.
+
+**Money:**
+* **$71,047.50:** Amount of default judgment Plaintiff seeks (past-due rent: $60,000, holdover damages: $9,500, attorney fees: $1,000, costs: $547.50).
+
+**Intentions:**
+* Plaintiff seeks default judgment against Defendant.
+
+**Facts:**
+* Service on Defendant was attempted by delivering the summons and complaint to Heidi Gao, an employee of the Defendant.
+* Plaintiff did not provide sufficient evidence to support the requested default judgment amount, including an authenticated spreadsheet of rent and a computation of attorney fees.
+
+**Disputes:**
+* Whether service on Defendant was properly effectuated.
+* Whether Plaintiff provided sufficient evidence to support the requested default judgment amount.
+
+**Acts:**
+* Plaintiff filed a lawsuit against Defendant.
+* Defendant did not respond to the lawsuit within the allotted time.
+* Plaintiff filed a declaration for default judgment.
+
+**Agreements:**
+* None mentioned in the ruling.
+
+**Laws:**
+* California Code of Civil Procedure section 416.10 (service of summons on corporations)
+* California Code of Civil Procedure section 585 (default judgment)
+* California Rules of Court, Rule 3.1800 (requirements for default judgment applications)
+
+**Case Citations:** 
+* Ramos v. Homeward Residential, Inc. (2014) 223 Cal.App.4th 1434, 1443
+
+
+**Significant Statements:**
+* "Service on an employee of a corporation does not effectuate service of summons and complaint."
+
+
+**Summary:** 
+
+The Judge has tentatively ruled to deny Plaintiff's application for default judgment against Defendant. The denial is based on two primary reasons:
+
+1. **Improper Service:** The Judge found that service on Defendant was not properly effectuated as it was served on an employee, Heidi Gao, rather than one of the individuals specifically authorized to receive service under California Code of Civil Procedure section 416.10. 
+2. **Insufficient Evidence:** The Judge determined that Plaintiff failed to provide sufficient evidence to support the requested default judgment amount, lacking documentation such as an authenticated spreadsheet of rent and a computation of attorney fees.
+
+
+
+The Judge denied the application "without prejudice," meaning Plaintiff can refile their application with corrected service and sufficient evidence.
+
+..................... .....................
+On 2025-02-16_00:14:04.587548
+The summary displayed below was created by an LLM named:  "llama3-8b-8192":
+Here is a summary of the tentative ruling in Markdown format:
+
+Case Number: `23PSCV00895`
+Plaintiff's Name: `9920 Management LLC`
+Defendant's Name: `GV Yummy Inc.`
+People-Names: `Hiedi Gao`
+Company-Names: `GV Yummy Inc.`, `9920 Management LLC`
+Places: `restaurant`
+Dates: `March 24, 2023`, `April 28, 2023`, `May 12, 2023`, `September 19, 2023`
+Events: `unlawful detainer`, `default judgment`
+Money: `$71,047.50` (calculated as `$60,000 in past-due rent, $9,500 in holdover damages, $1,000 in attorney fees, and $547.50 in costs`)
+Intentions: `Plaintiff seeks default judgment against Defendant`
+Facts: `Plaintiff served a Hiedi Gao, an employee, of Defendant; Plaintiff did not file all application material`
+Disputes: `improper service of process`, `lack of adequate evidence`
+Acts: `service of summons and complaint`, `filing of application for default judgment`
+Agreements: `California Code of Civil Procedure, California Rules of Court`
+Laws: `California Code of Civil Procedure, section 416.10`, `California Code of Civil Procedure, section 585`, `California Rules of Court, Rule 3.1800`
+Case Citations: `Ramos v. Homeward Residential, Inc. (2014) 223 Cal.App.4th 1434`
+Statutes: `California Code of Civil Procedure, section 416.10`, `California Code of Civil Procedure, section 585`
+Roles: `Plaintiff (9920 Management LLC)`, `Defendant (GV Yummy Inc.)`, `Judge`
+Significant Statements: `“By its terms, section 416.10 permits service on a corporation by way of service on an individual or entity designated as an agent for service of process (§ 416.10, subdivision (a));” “mere receipt of the summons by an unknown employee of the corporation who is not a person specified in section 416.10 does not necessarily establish substantial compliance.”`
+
+And here is a summary of the judge's tentative ruling in English text:
+
+The plaintiff, 9920 Management LLC, has applied for a default judgment against the defendant, GV Yummy Inc., in the amount of $71,047.50. The judge has denied the application for two reasons.
+
+Firstly, the service of process on the defendant appears to be improper. The plaintiff served a Hiedi Gao, an employee of the defendant, who is not a person specified in California Code of Civil Procedure section 416.10 as a valid recipient of service. The judge notes that service on an employee of a corporation does not effectuate service of summons and complaint, and that the plaintiff has not provided sufficient information about the employee to establish that they were a valid representative of the corporation.
+
+Secondly, the plaintiff has not filed all the necessary material to support their application for a default judgment. California Code of Civil Procedure section 585 requires that a party seeking judgment on the default by the court must file a request for court judgment, along with a brief summary of the case, declarations or other admissible evidence in support of the judgment requested, and other supporting documents. The plaintiff has only filed an authenticated lease and the eviction notice, and has not provided sufficient evidence of damages or a computation of attorney fees.
+
+Therefore, the judge has denied the application for default judgment without prejudice, meaning that the plaintiff may re-file the application if they can provide the necessary supporting material and correct the improper service of process.
+..................... .....................
+On 2025-02-16_00:14:29.779731
+The summary displayed below was created by an LLM named:  "llama-3.3-70b-specdec":
+Exception:
+Error code: 429 - {'error': {'message': 'Rate limit reached for model `llama-3.3-70b-specdec` in organization `org_01hw84cjv0f12v63qt47723ar2` service tier `on_demand` on : Limit 100000, Used 98900, Requested 1371. Please try again in 3m53.469s. Visit https://console.groq.com/docs/rate-limits for more information.', 'type': '', 'code': 'rate_limit_exceeded'}}
+..................... .....................
+On 2025-02-16_00:24:33.052078
+The summary displayed below was created by an LLM named:  "mixtral-8x7b-32768":
+**Case Number:** 23PSCV00895
+
+**Hearing Date:** September 19, 2023
+
+**Dept:** O
+
+**Tentative Ruling**
+
+* Plaintiff's Application for Default Judgment is DENIED without prejudice due to improper service and lack of adequate evidence.
+
+---
+
+**Parties:**
+
+* Plaintiff: 9920 Management LLC
+* Defendant: GV Yummy Inc.
+
+---
+
+**People:**
+
+* Hiedi Gao (an employee of Defendant)
+
+---
+
+**Places:**
+
+* Not specified in the document
+
+---
+
+**Dates:**
+
+* March 24, 2023: Plaintiff filed suit against Defendant
+* April 28, 2023: Default entered against Defendant
+* May 12, 2023: Plaintiff filed 'Declaration for Default Judgment by Court'
+
+---
+
+**Events:**
+
+* Unlawful detainer (UD) case
+
+---
+
+**Money:**
+
+* $71,047.50: total amount Plaintiff seeks in default judgment (calculated as follows: $60,000 in past-due rent, $9,500 in holdover damages, $1,000 in attorney fees, and $547.50 in costs)
+
+---
+
+**Intentions:**
+
+* Plaintiff seeks default judgment against Defendant
+
+---
+
+**Facts:**
+
+* Plaintiff served Hiedi Gao, an employee of Defendant, but service on an employee of a corporation does not effectuate service of summons and complaint
+* Plaintiff has not complied with most requirements for a default judgment (e.g., providing evidence of damages and a computation of attorney fees)
+
+---
+
+**Disputes:**
+
+* Improper service and lack of adequate evidence for default judgment
+
+---
+
+**Acts:**
+
+* Improper service by Plaintiff on Defendant
+* Plaintiff's failure to comply with requirements for default judgment
+
+---
+
+**Agreements:**
+
+* Not specified in the document
+
+---
+
+**Laws:**
+
+* Code Civ. Proc., § 416.10(a), (b)
+* California Code of Civil Procedure section 585 (CCP)
+
+---
+
+**Case Citations:**
+
+* Ramos v. Homeward Residential, Inc. (2014) 223 Cal.App.4th 1434
+
+---
+
+**Statutes:**
+
+* Cal. Rules of Court, Rule 3.1800
+
+---
+
+**Roles:**
+
+* Plaintiff: the party who filed suit
+* Defendant: the party against whom the suit was filed
+
+---
+
+**Significant Statements:**
+
+* "Service upon the Defendant corporation is not statutorily compliant, meaning default was improperly entered."
+* "Plaintiff has not complied with most of the requirements such as providing evidence of damages (e.g., authenticated spreadsheet of rent) and providing a computation of attorney fees."

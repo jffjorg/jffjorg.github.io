@@ -501,3 +501,43 @@ On 2025-02-15_21:36:26.916191
 The summary displayed below was created by an LLM named:  "llama-3.3-70b-specdec":
 Exception:
 Error code: 429 - {'error': {'message': 'Rate limit reached for model `llama-3.3-70b-specdec` in organization `org_01hw84cjv0f12v63qt47723ar2` service tier `on_demand` on : Limit 100000, Used 97684, Requested 2718. Please try again in 5m46.671s. Visit https://console.groq.com/docs/rate-limits for more information.', 'type': '', 'code': 'rate_limit_exceeded'}}
+..................... .....................
+On 2025-02-15_21:46:28.971783
+The summary displayed below was created by an LLM named:  "mixtral-8x7b-32768":
+**Case Summary**
+
+* Case Number: 22STLC08083
+* Hearing Date: September 18, 2023
+* Dept: 25
+* Parties: Richard Dahl v. Pursche-Gillingham, LLC, et al.
+* Legal Issue: Motion to compel HGL Restaurant Group, LLC's answer to interrogatory
+
+**Background**
+
+* Plaintiff Richard Dahl filed a lawsuit against Pursche-Gillingham, LLC, Apelila and J, LLC, Ono Hawaiian BBQ, Inc., Joshua Liang, HGL Restaurant Group, LLC, and Upside Crenshaw Holding, LLC for an alleged violation of the Unruh Civil Rights Act.
+* Plaintiff served HGL Restaurant Group, LLC with special interrogatories, but did not receive a verified response to Special Interrogatory No. 5.
+* Plaintiff filed a motion to compel HGL Restaurant Group, LLC's answer to the interrogatory and requested monetary sanctions.
+
+**Legal Analysis**
+
+* A party must respond to interrogatories within 30 days after service. (Code Civ. Proc. § 2030.260(a))
+* If a party does not provide timely responses, the requesting party may move for an order compelling response. (Code Civ. Proc. § 2030.290(b))
+* Once compelled to respond, the party waives the right to make any objections, including ones based on privilege or work-product protection. (Code Civ. Proc. § 2030.290(a))
+* There is no time limit for a motion to compel responses to interrogatories other than the cut-off on hearing discovery motions 15 days before trial. (Code Civ. Proc. §§ 2024.020(a), 2030.290)
+* Plaintiff moves to compel HGL Restaurant Group, LLC's verified answer to Special Interrogatory No. 5 from Special Interrogatories (Set One) and requests monetary sanctions in the amount of $500.
+
+**Conclusion**
+
+* The Court finds that HGL Restaurant Group, LLC has properly served the response to Special Interrogatory No. 5 and Plaintiff has confirmed receipt at the August 16, 2023 hearing.
+* Accordingly, the Motion to Compel is placed off calendar as moot.
+* Plaintiff's request for monetary sanctions is denied.
+* Plaintiff's motion is off calendar as moot, and moving party is ordered to give notice.
+
+**Significant Statements**
+
+* "The Court indicated that it would address the matter of monetary sanctions at the next scheduled hearing." (8-16-23 Minute Order)
+* "Defendant HGL argues that it inadvertently missed Special Interrogatory No. 5 and served a response after the Motion was filed, but did not present the Court with any evidence that the response was properly served." (8-16-23 Minute Order)
+* "Defendant HGL argues that the Motion has been rendered moot." (Supp. Brief p. 2)
+* "The Court finds that Defendant has properly served the response to Special Interrogatory No. 5 and Plaintiff has confirmed receipt at the August 16, 2023 hearing. Accordingly, the Motion to Compel is placed off calendar as moot."
+* "The Court finds that Defendant HGL's failure to timely respond to Special Interrogatory No. 5 was due to an administrative error and not misuse of the discovery process. After discovering the error, Defendant acted promptly to provide the response. Thus, Defendant acted with substantial justification and the imposition of sanctions would be unjust."
+* "Plaintiff's request for monetary sanctions is denied."
