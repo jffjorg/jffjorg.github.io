@@ -364,3 +364,148 @@ On 2025-02-06_22:56:31.336225
 The summary displayed below was created by an LLM named:  "gemini-2.0-pro-exp":
 Exception:
 429 Resource has been exhausted (e.g. check quota).
+..................... .....................
+On 2025-02-15_18:43:28.262994
+The summary displayed below was created by an LLM named:  "gemma2-9b-it":
+## Case Summary: West Coast Add It Up Ad Agency vs. Los Angeles County Metropolitan Transportation Authority 
+
+**Case Number:** 22STCV06315
+**Hearing Date:** September 18, 2023
+**Department:** 68
+
+**People:**
+
+* **Plaintiff:** West Coast Add It Up Ad Agency
+* **Defendant:** Los Angeles County Metropolitan Transportation Authority (LACMTA)
+
+**Companies:**
+
+* West Coast Add It Up Ad Agency 
+* Los Angeles County Metropolitan Transportation Authority (LACMTA)
+
+**Subject Matter:**
+
+*  Alleged agreement for usage of the TAP App.
+
+**Facts:**
+
+* Plaintiff claims an agreement with Defendant regarding the TAP App.
+* The Second Amended Complaint (SAC) lacks specifics about the agreement's terms and doesn't attach a copy.
+* Email quotes are included, but they don't explicitly confirm a formal agreement.
+
+**Disputes:**
+
+* Defendant demurs to Plaintiff's SAC, challenging its sufficiency.
+
+**Law:**
+
+* **Demurrer Standard:** Defects must be apparent on the face of the pleading or via proper judicial notice.
+* **Government Tort Claims Act:**  Plaintiff failed to demonstrate compliance with the Act before filing.
+* **Quantum Meruit and Common Count:**  These theories are inapplicable to public entities.
+
+**Judge's Findings:**
+
+* The SAC lacks formal causes of action, a Civil Cover Sheet Addendum and Statement of Location, and a prayer for relief.
+*  Plaintiff cannot pursue quantum meruit or common count claims against a public entity.
+*  Plaintiff failed to show compliance with the Government Tort Claims Act.
+
+**Order:**
+
+* Defendant's demurrer is sustained with leave to amend.
+* Plaintiff has 20 days to file a Third Amended Complaint.
+
+
+
+
+**English Summary:**
+
+The Judge determined that Plaintiff's Second Amended Complaint doesn't adequately state a legal claim against the Defendant, the Los Angeles County Metropolitan Transportation Authority (LACMTA). 
+
+Specifically, the complaint lacks:
+
+* A clear description of the agreement with LACMTA regarding the TAP App.
+* A proper identification of legal claims.
+* Required court-mandated documents.
+*  Compliance with the Government Tort Claims Act, which governs lawsuits against public entities. 
+
+While the Judge sustained the demurrer (meaning the complaint was rejected), they allowed Plaintiff 20 days to revise and resubmit the complaint, potentially addressing these issues. 
+
+..................... .....................
+On 2025-02-15_18:43:54.918229
+The summary displayed below was created by an LLM named:  "llama3-8b-8192":
+Here is a summary of the Judge's tentative ruling in Markdown format:
+
+**Case Number**: 22STCV06315
+**Plaintiff's Name**: West Coast Add It Up Ad Agency
+**Defendant's Name**: Los Angeles County Metropolitan Transportation Authority
+**People-Names**: None mentioned
+**Company-Names**: West Coast Add It Up Ad Agency, Los Angeles Metropolitan Transportation Authority
+**Places**: Los Angeles
+**Dates**: August 10, 2023, September 18, 2023
+**Events**: Demurrer, filing of Second Amended Complaint
+**Money**: None mentioned
+**Intentions**: Defendant seeks to dismiss Plaintiff's Second Amended Complaint
+**Facts**: Plaintiff claims to have entered an agreement with Defendant for the usage of the Tap App, but the agreement is not attached to the complaint and only includes quotes from emails
+**Disputes**: Defendant argues that the complaint fails to state a cause of action, pleads impermissible causes of action, and fails to comply with basic pleading rules
+**Acts**: Defendant filed a demurrer to Plaintiff's Second Amended Complaint
+**Agreements**: None mentioned
+**Laws**: California Rules of Court, California Code of Civil Procedure, Government Code
+**Case Citations**: Donabedian v. Mercury Ins. Co. (2004), E-Fab, Inc. v. Accountants, Inc. Servs. (2007), Hahn v. Mirda (2007), Goodman v. Kennedy (1976), Lewis v. YouTube, LLC (2015), Youngman v. Nevada Irrigation Dist. (1969), Katsura v. City of San Buenaventura (2007), Janis v. California State Lottery Com. (1998)
+**Statutes**: California Rules of Court, California Code of Civil Procedure, Government Code
+**Roles**: Judge, Plaintiff, Defendant
+**Significant Statements**:
+
+* The court assumes the truth of the complaint's properly pleaded or implied factual allegations.
+* A demurrer tests the pleading alone, and not the evidence or facts alleged.
+* A public entity cannot be sued on theories of quantum meruit or common count.
+* The Government Tort Claims Act requires a claimant to present a claim to the public entity and have it acted on or rejected before filing a lawsuit.
+
+And here is a summary of the Judge's tentative ruling in English text:
+
+The court has issued a tentative ruling in favor of the defendant, Los Angeles County Metropolitan Transportation Authority, in its demurrer to the plaintiff, West Coast Add It Up Ad Agency's, Second Amended Complaint. The demurrer seeks to dismiss the complaint, which alleges that the plaintiff entered into an agreement with the defendant for the usage of the Tap App. However, the complaint does not include the specific terms of the agreement or attach it to the complaint, and only includes quotes from emails. The court finds that the complaint fails to state a cause of action, impermissibly pleads causes of action for quantum meruit and common count against a public entity, and fails to comply with basic pleading rules. The court sustains the demurrer with leave to amend, giving the plaintiff 20 days to file a Third Amended Complaint.
+..................... .....................
+On 2025-02-15_18:44:20.104580
+The summary displayed below was created by an LLM named:  "llama-3.3-70b-specdec":
+Exception:
+Error code: 429 - {'error': {'message': 'Rate limit reached for model `llama-3.3-70b-specdec` in organization `org_01hw84cjv0f12v63qt47723ar2` service tier `on_demand` on : Limit 100000, Used 99177, Requested 1311. Please try again in 7m1.425999999s. Visit https://console.groq.com/docs/rate-limits for more information.', 'type': '', 'code': 'rate_limit_exceeded'}}
+..................... .....................
+On 2025-02-15_18:54:22.049122
+The summary displayed below was created by an LLM named:  "mixtral-8x7b-32768":
+**Case Number:** 22STCV06315
+**Hearing Date:** September 18, 2023
+**Dept:** 68
+**Parties:** West Coast Add It Up Ad Agency vs. Los Angeles County Metropolitan Transportation Authority
+
+**Summary:**
+
+In the case of West Coast Add It Up Ad Agency vs. Los Angeles County Metropolitan Transportation Authority (LACMTA), the plaintiff alleges that it entered an agreement with the defendant for the usage of the Tap App. However, the specific terms of the agreement are not provided in the Second Amended Complaint (SAC).
+
+Defendant LACMTA filed a demurrer to the SAC on August 10, 2023, arguing that the complaint fails to state a cause of action against them, improperly pleads causes of action for quantum meruit and common count against a public entity, and fails to comply with basic pleading rules.
+
+The court has sustained the demurrer with leave to amend. Plaintiff West Coast Add It Up Ad Agency is given 20 days from the date of service of this order to amend and file a Third Amended Complaint.
+
+**Significant Statements:**
+
+* "As such, the court assumes the truth of the complaint’s properly pleaded or implied factual allegations."
+* "Where a demurrer is sustained, leave to amend must be allowed where there is a reasonable possibility of successful amendment."
+* "If there is any reasonable possibility that the plaintiff can state a good cause of action, it is error to sustain a demurrer without leave to amend."
+* "The only issue a demurrer is concerned with is whether the complaint, as it stands, states a cause of action."
+* "No causes of action are identified or numbered."
+* "A public entity cannot be sued on theories of quantum meruit or common count because of the need to limit a public entity’s contractual obligations."
+* "There is no indication that Plaintiff complied with the Government Tort Claims Act before filing this action against Defendant."
+
+**Case Citations, Statutes, and Laws:**
+
+* Donabedian v. Mercury Ins. Co. (2004) 116 Cal.App.4th 968, 994.
+* E-Fab, Inc. v. Accountants, Inc. Servs. (2007) 153 Cal.App.4th 1308, 1315.
+* Hahn v. Mirda (2007) 147 Cal.App.4th 740, 747.
+* Goodman v. Kennedy (1976) 18 Cal.3d 335, 348.
+* Lewis v. YouTube, LLC (2015) 244 Cal.App.4th 118, 226.
+* Youngman v. Nevada Irrigation Dist. (1969) 70 Cal.2d 240, 245.
+* L.A. Sup. Ct. Rule 2.3(a).
+* Cal. Rules of Court. Rule 2.112.
+* CCP § 425.10(a)(2).
+* Katsura v. City of San Buenaventura (2007) 155 Cal.App.4th 104,109-110.
+* Janis v. California State Lottery Com. (1998) 68 Cal.App.4th 824, 830.
+* Gov. Code § 911.2.
+* Gov. Code § 910 et seq.

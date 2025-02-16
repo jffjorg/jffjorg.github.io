@@ -186,3 +186,23 @@ On 2025-02-06_23:11:25.740648
 The summary displayed below was created by an LLM named:  "gemini-2.0-pro-exp":
 Exception:
 429 Resource has been exhausted (e.g. check quota).
+..................... .....................
+On 2025-02-15_18:56:33.203576
+The summary displayed below was created by an LLM named:  "gemma2-9b-it":
+Exception:
+Error code: 400 - {'error': {'message': 'Please reduce the length of the messages or completion.', 'type': 'invalid_request_error', 'param': 'messages', 'code': 'context_length_exceeded'}}
+..................... .....................
+On 2025-02-15_19:06:33.461823
+The summary displayed below was created by an LLM named:  "llama3-8b-8192":
+Exception:
+Error code: 413 - {'error': {'message': 'Request too large for model `llama3-8b-8192` in organization `org_01hw84cjv0f12v63qt47723ar2` service tier `on_demand` on tokens per minute (TPM): Limit 6000, Requested 9831, please reduce your message size and try again. Visit https://console.groq.com/docs/rate-limits for more information.', 'type': 'tokens', 'code': 'rate_limit_exceeded'}}
+..................... .....................
+On 2025-02-15_19:16:33.770180
+The summary displayed below was created by an LLM named:  "llama-3.3-70b-specdec":
+Exception:
+Error code: 429 - {'error': {'message': 'Rate limit reached for model `llama-3.3-70b-specdec` in organization `org_01hw84cjv0f12v63qt47723ar2` service tier `on_demand` on : Limit 100000, Used 98534, Requested 9831. Please try again in 2h0m27.267999999s. Visit https://console.groq.com/docs/rate-limits for more information.', 'type': '', 'code': 'rate_limit_exceeded'}}
+..................... .....................
+On 2025-02-15_19:26:34.201602
+The summary displayed below was created by an LLM named:  "mixtral-8x7b-32768":
+Exception:
+Error code: 413 - {'error': {'message': 'Request too large for model `mixtral-8x7b-32768` in organization `org_01hw84cjv0f12v63qt47723ar2` service tier `on_demand` on tokens per minute (TPM): Limit 5000, Requested 12482, please reduce your message size and try again. Visit https://console.groq.com/docs/rate-limits for more information.', 'type': 'tokens', 'code': 'rate_limit_exceeded'}}

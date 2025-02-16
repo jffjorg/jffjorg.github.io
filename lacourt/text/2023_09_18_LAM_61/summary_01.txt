@@ -596,3 +596,47 @@ On 2025-02-15_18:08:31.045702
 The summary displayed below was created by an LLM named:  "llama-3.3-70b-specdec":
 Exception:
 Error code: 429 - {'error': {'message': 'Rate limit reached for model `llama-3.3-70b-specdec` in organization `org_01hw84cjv0f12v63qt47723ar2` service tier `on_demand` on : Limit 100000, Used 100182, Requested 1319. Please try again in 21m37.21s. Visit https://console.groq.com/docs/rate-limits for more information.', 'type': '', 'code': 'rate_limit_exceeded'}}
+..................... .....................
+On 2025-02-15_18:18:33.258195
+The summary displayed below was created by an LLM named:  "mixtral-8x7b-32768":
+**Case Number:** 19STCV39466
+
+**Hearing Date:** September 18, 2023
+
+**Plaintiff:** Aecom Energy & Construction, Inc.
+
+**Defendant:** Topolewski
+
+**People-Names:** Kumar, Hiatt
+
+**Company-Names:** URS Holdings, Inc., Northern Resources
+
+**Places:** Not specified
+
+**Dates:** January 2020, June 2023
+
+**Events:** Aecom transferred the right to enforce the underlying judgment to URS Holdings, Inc., and the underlying judgment was amended to reflect this substitution.
+
+**Money:** Not specified
+
+**Intentions:** Plaintiff seeks leave to file a first amended complaint to replace Aecom Energy & Construction, Inc. as plaintiff with URS Holdings, Inc., and to add allegations of an alter ego relationship between Defendants Topolewski and Northern Resources.
+
+**Facts:** Plaintiff argues that the right to enforce the underlying judgment has been transferred to URS, a subsidiary of the same parent company as Aecom. Plaintiff also seeks to add allegations concerning the procedural history in the underlying litigation, including the entry of a new judgment in Aecom’s favor against Topolewski. Defendant argues that Plaintiff has failed to explain why these corporate transactions and transfer of rights to enforce the judgment were not introduced sooner, and that the introduction of alter ego allegations would occasion new discovery and prejudice Defendant.
+
+**Disputes:** Plaintiff and Defendant dispute the timeliness of the motion to amend and the potential for prejudice resulting from the addition of alter ego allegations.
+
+**Acts:** Plaintiff filed a motion for leave to file a first amended complaint. Defendant filed an opposition to the motion.
+
+**Agreements:** Not specified
+
+**Laws:** Code Civ. Proc. section 473 subd. (a)(1)
+
+**Case Citations:** Armenta ex rel. City of Burbank v. Mueller Co. (2006) 142 Cal.App.4th 636, Magpali v. Farmers Group, Inc. (1996) 48 Cal.App.4th 471
+
+**Statutes:** California Rule of Court Rule 3.1324
+
+**Roles:** Plaintiff seeks to amend the complaint, Defendant opposes the motion
+
+**Significant Statements:** "Instances justifying the court's denial of leave to amend are rare" (Armenta ex rel. City of Burbank v. Mueller Co. (2006) 142 Cal.App.4th 636, 642); "This policy should be applied only ‘[w]here no prejudice is shown to the adverse party’" (Magpali v. Farmers Group, Inc. (1996) 48 Cal.App.4th 471, 487).
+
+The Judge grants Plaintiff Aecom Energy & Construction, Inc.'s motion for leave to file a first amended complaint, permitting the substitution of URS Holdings, Inc. as plaintiff and the addition of alter ego allegations. The Judge finds that the motion was brought within a reasonable time after the judgment at issue was amended and that Defendant's arguments regarding prejudice are speculative.
