@@ -463,3 +463,120 @@ significant_statements:
 summary: |
   The Judge's tentative ruling grants in part Maria Leon's (Plaintiff) motion to compel Fathers of St. Charles (Defendant) to produce further documents. Specifically, the Defendant must provide offer letters issued between January 1, 2021, and the present (an 18-month period, shorter than originally requested).  The Judge found the offer letters relevant to determining if the Defendant's stated reason for terminating the Plaintiff (financial constraints) was pretextual, as the letters could show whether someone was hired to replace the Plaintiff.  The Judge denied both parties' requests for monetary sanctions. The Defendant is ordered to produce the documents within 10 days.
 ```
+..................... .....................
+On 2025-02-15_16:29:39.761808
+The summary displayed below was created by an LLM named:  "gemma2-9b-it":
+## Case Summary:
+
+**Case Number:** 21STCV29331
+**Hearing Date:** September 18, 2023
+**Plaintiff:** Maria Leon
+**Defendant:** Fathers of St. Charles dba Villa Scalabrini Retirement Center & Special Care Unit (and others)
+
+**Background:**
+
+Maria Leon sued her former employer, Fathers of St. Charles, alleging discrimination and retaliation based on age and disability. She claims she was terminated after requesting reasonable accommodations and exercising her rights under the California Family Rights Act (CFRA).
+
+**Disputed Issue:**
+
+* **Offer letters:** Leon requested all offer letters given to new employees between January 1, 2020, and the present. Fathers of St. Charles objected, claiming overbreadth and privacy concerns.
+
+**Judge's Ruling:**
+
+* **Motion to Compel GRANTED in Part:** The judge ordered Fathers of St. Charles to produce offer letters for the period from January 1, 2021, to the present (an 18-month window) to determine if anyone was hired to replace Leon's specific role after she requested medical leave in January 2021. 
+* **Sanctions DENIED:** The judge declined to impose sanctions on either party as the motion had mixed results.
+
+**Rationale:**
+
+* **Relevance:** The judge found the offer letters relevant to Leon's claims of pretextual termination, as they could show if her employer genuinely hired someone to replace her or used financial constraints as a cover.
+* **Overbreadth:** The judge narrowed the production request from 3 years to 18 months, finding the 18-month window sufficient to investigate the relevant period.
+* **Privacy:** The judge acknowledged privacy concerns but balanced them against the strong state interest in preventing discrimination. The judge also noted that Fathers of St. Charles already provided employee names, ages, and hiring dates, mitigating some privacy concerns.
+
+**Next Steps:**
+
+Fathers of St. Charles must produce the requested offer letters within 10 days.
+
+
+**English Summary:**
+
+The judge ruled in favor of Maria Leon, ordering her former employer to provide offer letters for a specific period to support her claims of age and disability discrimination. The judge narrowed the request time frame and considered privacy concerns but ultimately prioritized Leon's right to investigate potential discrimination.  No sanctions were imposed on either party.
+
+..................... .....................
+On 2025-02-15_16:30:06.180823
+The summary displayed below was created by an LLM named:  "llama3-8b-8192":
+Here is a summary of the Judge's Tentative Ruling in Markdown format:
+
+**Case Number**: 21STCV29331
+**Plaintiff's Name**: Maria Leon
+**Defendant's Name**: Villa Scalabrini, Villa Scalabrini Council, Villa Scalabrini (9682), Villa Scalabrini Retirement Center & Special Care Unit, Ardeshir Afshar, Rolando Escamilla, Alicia Ávila, and DOES 1 to 100
+**People Names**: Maria Leon, Ardeshir Afshar, Rolando Escamilla, Alicia Ávila, Maria Ochoa
+**Company Names**: Villa Scalabrini, Villa Scalabrini Council, Villa Scalabrini (9682), Villa Scalabrini Retirement Center & Special Care Unit, Fathers of St. Charles
+**Places**: None mentioned
+**Dates**:
+	* August 9, 2021 (Complaint filed)
+	* January 1, 2020 (start of time period for offer letters)
+	* March 24, 2023 (Plaintiff propounded Requests for Production of Documents, Set Two)
+	* May 12, 2023 (Defendants responded to plaintiff's discovery)
+	* June 13, 2023 - July 14, 2023 (parties met and conferred regarding supplemental responses)
+	* July 24, 2023 (Defendants served supplemental responses)
+	* July 28, 2023 (Plaintiff moved to compel further production)
+	* September 5, 2023 (Defendants opposed the motion)
+	* September 11, 2023 (Plaintiff replied to the opposition)
+	* September 18, 2023 (Hearing date)
+	* November 28, 2023 (Trial date)
+**Events**:
+	* Plaintiff's employment with Defendants (March 31, 1995 - August 6, 2020)
+	* Plaintiff's termination from employment
+	* Plaintiff's motion to compel further production
+	* Defendants' opposition to the motion
+	* Plaintiff's reply to the opposition
+**Money**: None mentioned
+**Intentions**: Plaintiff seeks to compel Defendants to produce offer letters given to individuals between January 1, 2020 and the present.
+**Facts**: Plaintiff was employed by Defendants as a Food Service Employee between March 31, 1995 and August 6, 2020. She alleges that she was discriminated against and harassed based on her age and actual or perceived disabilities, and that her termination was due to her age, disabilities, and/or perceived disabilities.
+**Disputes**: Plaintiff disputes Defendants' objections to producing offer letters and seeks further production of documents.
+**Acts**: Plaintiff propounded Requests for Production of Documents, Set Two, and moved to compel further production. Defendants responded to the discovery and opposed the motion.
+**Agreements**: The parties agreed to extend Plaintiff's time to move to compel further production.
+**Laws**: California Code of Civil Procedure, Section 2016.040; California Code of Civil Procedure, Section 2031.310
+**Case Citations**: Sinaiko Healthcare Consulting, Inc. v. Pacific Healthcare Consultants (2007) 148 Cal.App.4th 390, 403; Catalina Island Yacht Club v. Superior Court (2015) 242 Cal.App.4th 1116, 1127; Department of Fair Employment and Housing v. Superior Court (2002) 99 Cal.App.4th 896, 905
+**Statutes**: California Code of Civil Procedure, Section 2016.040; California Code of Civil Procedure, Section 2031.310
+**Roles**: Plaintiff Maria Leon seeks to compel further production of documents from Defendants. Judge issues tentative ruling on the motion.
+**Significant Statements**: The Court finds that the information sought by Plaintiff is relevant and that good cause is shown for its production. The Court also finds that the production request is overbroad and modifies the request to 18 months' worth of offer letters. The Court denies Plaintiff's request for monetary sanctions and Defendants' request for monetary sanctions.
+..................... .....................
+On 2025-02-15_16:30:31.381057
+The summary displayed below was created by an LLM named:  "llama-3.3-70b-specdec":
+Exception:
+Error code: 429 - {'error': {'message': 'Rate limit reached for model `llama-3.3-70b-specdec` in organization `org_01hw84cjv0f12v63qt47723ar2` service tier `on_demand` on : Limit 100000, Used 97337, Requested 3137. Please try again in 6m49.292s. Visit https://console.groq.com/docs/rate-limits for more information.', 'type': '', 'code': 'rate_limit_exceeded'}}
+..................... .....................
+On 2025-02-15_16:40:33.221757
+The summary displayed below was created by an LLM named:  "mixtral-8x7b-32768":
+**Case Number:** 21STCV29331
+
+**Plaintiff:** Maria Leon
+
+**Defendants:** Villa Scalabrini; Villa Scalabrini Council; Villa Scalabrini (9682); Villa Scalabrini Retirement Center & Special Care Unit; Ardeshir Afshar; Rolando Escamilla; Alicia Ávila; Does 1 to 100
+
+**People:** Maria Leon, Ardeshir Afshar, Rolando Escamilla, Alicia Ávila
+
+**Company:** Villa Scalabrini Retirement Center & Special Care Unit
+
+**Dates:** August 9, 2021, March 24, 2023, May 12, 2023, June 13, 2023 - July 14, 2023, July 28, 2023, September 5, 2023, September 11, 2023
+
+**Events:** Plaintiff Maria Leon sued Defendants for age discrimination, disability discrimination, failure to provide reasonable accommodations, retaliation, and wrongful termination. Plaintiff requested production of offer letters given to individuals from January 1, 2020 to the present. Defendants objected and a motion to compel was filed.
+
+**Acts:** Defendants hired Maria Ochoa to replace Plaintiff Leon.
+
+**Agreements:** Parties agreed to extend Plaintiff's time to move to compel further production to July 28, 2023.
+
+**Laws:** Fair Employment and Housing Act (FEHA), California Family Rights Act (CFRA)
+
+**Case Citations:** Department of Fair Employment and Housing v. Superior Court (2002) 99 Cal.App.4th 896
+
+**Statutes:** Code of Civil Procedure section 2016.040, Code of Civil Procedure section 2031.310
+
+**Roles:** Plaintiff Maria Leon seeks to compel Defendants to produce offer letters given to individuals from January 1, 2021 to August 6, 2023.
+
+**Significant Statements:** "The Court finds that an 18-month window is more appropriate, beginning on January 1, 2021, for evidence that would tend to undercut the reason given by Fathers of St. Charles for her termination."
+
+---
+
+This tentative ruling grants Plaintiff Maria Leon's motion to compel Defendants Villa Scalabrini Retirement Center & Special Care Unit to produce offer letters given to individuals from January 1, 2021 to August 6, 2023. The Court finds that the information is relevant to determining whether Defendants in fact hired someone to take over Plaintiff's job duties during her employment. However, the production request is modified to an 18-month window beginning on January 1, 2021. The Court denies both parties' requests for monetary sanctions.
