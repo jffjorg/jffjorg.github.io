@@ -303,3 +303,33 @@ On 2025-02-16_21:25:30.224251
 The summary displayed below was created by an LLM named:  "llama-3.3-70b-specdec":
 Exception:
 Error code: 429 - {'error': {'message': 'Rate limit reached for model `llama-3.3-70b-specdec` in organization `org_01hw84cjv0f12v63qt47723ar2` service tier `on_demand` on : Limit 100000, Used 101114, Requested 3081. Please try again in 1h0m24.726s. Visit https://console.groq.com/docs/rate-limits for more information.', 'type': '', 'code': 'rate_limit_exceeded'}}
+..................... .....................
+On 2025-02-16_21:35:33.873566
+The summary displayed below was created by an LLM named:  "mixtral-8x7b-32768":
+**Case Summary**
+
+* Case Number: 22STCV01315
+* Hearing Date: September 20, 2023
+* Judge: Kerry Bensinger, Department 27
+* Parties:
+  * Plaintiff: Brodie Stephenson
+  * Defendants: Patricia A. Jacobs, Craig Randell
+* Background:
+  * The plaintiff, represented by his mother and guardian Amber Stephenson, filed a wrongful death action against the defendants on January 11, 2022, due to a car accident on June 10, 2020, that killed the plaintiff's father, Matthew Ryan Randell.
+  * The case was consolidated with another case filed by nominal defendant Craig Randell against Jacobs on September 19, 2022.
+  * On June 30, 2023, the plaintiff filed a motion for summary judgment, which Mr. Randell opposes.
+* Legal Standard for Summary Judgment:
+  * The moving party must make a prima facie showing that there are no triable issues of material fact.
+  * A defendant moving for summary judgment must show that the plaintiff cannot reasonably obtain evidence to support their claim.
+  * If the defendant meets their burden, the burden shifts to the plaintiff to show the existence of a triable, material factual issue.
+* Discussion:
+  * The court will consider the opposing party's evidence in the light most favorable to them and draw all reasonable inferences in their favor.
+  * Mr. Randell objects to the exhibits submitted by the plaintiff, but the court will overrule the objections for exhibits 1 and 4 if the plaintiff requests judicial notice.
+  * The primary issue is whether the custody decree issued in the Eighth Judicial District Court of the State of Nevada is entitled to full faith and credit in the State of California.
+  * Mr. Randell opposes the motion because the relief being sought is not stated in the Complaint.
+  * Mr. Randell seeks to continue the hearing and file a motion for leave to amend his complaint to add a survivorship cause of action and a claim for reimbursement of burial expenses.
+* Conclusion:
+  * The court will hear from counsel due to various problems with the motion and the request to continue the hearing.
+
+[1] The objections to Exhibits 1 and 4 will be overruled if the plaintiff requests judicial notice.
+[2] Mr. Randell's request to continue the hearing is procedurally deficient because counsel failed to include a declaration in support of the request.
