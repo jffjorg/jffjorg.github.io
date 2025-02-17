@@ -389,3 +389,43 @@ On 2025-02-16_12:54:31.055411
 The summary displayed below was created by an LLM named:  "llama-3.3-70b-specdec":
 Exception:
 Error code: 429 - {'error': {'message': 'Rate limit reached for model `llama-3.3-70b-specdec` in organization `org_01hw84cjv0f12v63qt47723ar2` service tier `on_demand` on : Limit 100000, Used 99370, Requested 2672. Please try again in 29m24.195s. Visit https://console.groq.com/docs/rate-limits for more information.', 'type': '', 'code': 'rate_limit_exceeded'}}
+..................... .....................
+On 2025-02-16_13:04:32.621173
+The summary displayed below was created by an LLM named:  "mixtral-8x7b-32768":
+**Case Number:** 22STCV41042
+
+**Plaintiff:** Estate of Shane E. Minassian by Executor Arthur Minassian
+
+**Defendants:** Dariush G. Aldi, Datev Shenian, Safarian Choi & Bolstad, LLP, and David Bolstad
+
+**People-Names:** Shane E. Minassian, Arthur Minassian, Dariush G. Aldi, Datev Shenian, David Bolstad
+
+**Company-Names:** Safarian Choi & Bolstad, LLP
+
+**Places:** Los Angeles County, California
+
+**Dates:** April 28, 2023; September 20, 2023
+
+**Events:** Plaintiff filed a complaint against Defendants for professional negligence and breach of fiduciary duty, alleging legal malpractice resulting in a multi-million-dollar judgment against Plaintiff. Defendants moved to compel arbitration based on the arbitration provision in their respective retainer agreements.
+
+**Money:** Multi-million-dollar judgment
+
+**Intentions:** Plaintiff seeks to proceed with the court action, while Defendants seek to resolve the dispute through arbitration.
+
+**Facts:** Plaintiff entered into retainer agreements with Defendants Safarian Choi & Bolstad, LLP and David Bolstad on March 30, 2013, and with Defendants Dariush G. Aldi and Datev Shenian on March 29, 2016. Both agreements contain arbitration provisions.
+
+**Disputes:** Plaintiff argues that the claims against the Aldi Defendants should not be arbitrated because there is no agreement to arbitrate against them, and that arbitrating the Bolstad claims could create conflicting rulings.
+
+**Acts:** Defendants filed motions to compel arbitration.
+
+**Agreements:** Retainer agreements with arbitration provisions.
+
+**Laws:** California Code of Civil Procedure § 1281.2, Pinnacle Museum Tower Assn. v. Pinnacle Market Development (US), LLC (2012) 55 Cal.4th 223
+
+**Case Citations:** N/A
+
+**Statutes:** N/A
+
+**Roles:** Plaintiff as the executor of the estate, Defendants as legal service providers.
+
+**Significant Statements:** The tentative ruling grants the Aldi Defendants' and Bolstad Defendants' motions to compel arbitration, stating that an agreement to arbitrate exists and that there are no defenses to enforcement. The action is stayed, and Defendants are to notice.
