@@ -268,3 +268,132 @@ significant\_statements:
   - type: tentative ruling
     by: judge
     description: granting in part plaintiff's motions to compel further responses to discovery
+..................... .....................
+On 2025-02-17_08:17:24.309563
+The summary displayed below was created by an LLM named:  "gemma2-9b-it":
+## Case Summary:
+
+**Case Number:** 22STCV21229
+**Plaintiff:** The Law Firm of Fox and Fox, a General Partnership
+**Defendant:** Miguel Arteaga
+
+**Summary:**  This is a tentative ruling on motions to compel further discovery responses from Defendant Miguel Arteaga filed by Plaintiff The Law Firm of Fox and Fox. 
+
+**Key Points:**
+
+* **E-Filing Issues:** The Court warns that the parties' filings do not comply with electronic filing requirements and may face sanctions if they continue.
+* **Requests for Admission (RFAs):**
+    * Defendant's denial to RFA No. 2 is deemed complete, and the motion to compel is denied.
+    * Defendant's objections to RFA No. 12 are overruled, and the motion to compel is granted. Defendant must provide a code-compliant response within 30 days.
+    * Defendant's response to RFA No. 15 is deemed insufficient, and the motion to compel is granted. Defendant must provide supplemental responses within 30 days.
+* **Form Interrogatories:**
+    * Defendant's response to Form Rog No. 17.1 regarding RFA No. 2 is deemed complete, and the motion to compel is denied.
+    * Defendant's response to Form Rog No. 17.1 regarding RFA No. 12 and 15 are  deemed insufficient, and the motion to compel is granted. Defendant must provide supplemental responses within 30 days.
+* **Requests for Production of Documents (RFPs):**
+    * Defendant's response to RFP No. 1 is deemed insufficient, and the motion to compel is granted. Defendant must provide supplemental responses within 30 days.
+    * Defendant's response to RFP No. 2 is deemed insufficient, and the motion to compel is granted. Defendant must provide supplemental responses within 30 days.
+    * Defendant's responses to RFP Nos. 3, 18, and 19 are deemed sufficient, and the motions to compel are denied.
+    * Defendant's responses to RFP Nos. 4-14, 16-17, and 20 are deemed insufficient, and the motion to compel is granted. Defendant must provide supplemental responses within 30 days.
+    * Defendant's response to RFP No. 15 is deemed sufficient, and the motion to compel is denied.
+
+**Next Steps:**
+
+* The parties have 30 days to provide supplemental responses to the granted motions to compel.
+* The parties can submit on this tentative ruling by emailing the Court.  
+
+
+
+**Judge:** Hon. Thomas D. Long
+
+..................... .....................
+On 2025-02-17_08:17:51.683246
+The summary displayed below was created by an LLM named:  "llama3-8b-8192":
+Here is a summary of the Judge's tentative ruling in Markdown format:
+**Case Number**: 22STCV21229
+**Plaintiff's Name**: The Law Firm of Fox and Fox, composed of Frank O. Fox and Claire S. Fox
+**Defendant's Name**: Miguel Arteaga
+**People-Names**: Frank O. Fox, Claire S. Fox
+**Company-Names**: The Law Firm of Fox and Fox
+**Places**: Los Angeles Superior Court, Los Angeles County
+**Dates**:
+	* February 3, 2023: Plaintiff filed three motions to compel defendant's further responses to discovery
+	* August 10, 2023: Court continued hearings on motions and ordered parties to meet and confer and file joint statements
+	* September 21, 2023: Court issued tentative ruling
+**Events**:
+	* Plaintiff filed motions to compel defendant's further responses to discovery
+	* Defendant responded to motions, but some responses were incomplete or insufficient
+	* Court ordered parties to meet and confer and file joint statements
+**Money**: None mentioned
+**Intentions**: The Court's intention is to grant some of the motions to compel further responses to discovery
+**Facts**:
+	* Defendant failed to provide complete responses to requests for admission (RFAs)
+	* Defendant's responses to interrogatories were incomplete or insufficient
+	* Defendant failed to provide complete responses to requests for production of documents (RFPs)
+**Disputes**:
+	* Dispute over defendant's failure to provide complete responses to RFAs, interrogatories, and RFPs
+	* Dispute over whether defendant's responses were evasive or incomplete
+**Acts**:
+	* Plaintiff filed motions to compel defendant's further responses to discovery
+	* Defendant responded to motions, but some responses were incomplete or insufficient
+	* Court ordered parties to meet and confer and file joint statements
+**Agreements**: None mentioned
+**Laws**:
+	* California Rules of Court, rule 3.1110(f)(4)
+	* Code of Civil Procedure, sections 2030.300, 2031.310, 2033.220, 2031.280, 2031.230
+**Case Citations**: None mentioned
+**Statutes**: None mentioned
+**Roles**:
+	* Judge: Hon. Thomas D. Long
+	* Plaintiff: The Law Firm of Fox and Fox
+	* Defendant: Miguel Arteaga
+**Significant Statements**:
+	* "If the parties continue to electronically file noncompliant documents, the Court may strike the filings or issue sanctions."
+	* "The motion is GRANTED. Defendant must provide a code-compliant response to RFP No. 12 within 30 days."
+	* "The motion is GRANTED. Defendant must provide supplemental responses to RFAs No. 12, 15, and 17 within 30 days."
+
+Here is a summary of the Judge's tentative ruling in English text:
+
+The Court has issued a tentative ruling on the motions to compel further responses to discovery filed by the Plaintiff, The Law Firm of Fox and Fox. The Court has granted some of the motions, including motions to compel further responses to requests for admission (RFAs), interrogatories, and requests for production of documents (RFPs). The Court has also denied some of the motions, finding that the defendant's responses were complete or insufficient.
+
+The Court has also addressed the parties' compliance with electronic filing requirements, noting that the parties' filings do not comply with the requirements and warning that if the parties continue to file noncompliant documents, the Court may strike the filings or issue sanctions.
+
+The Court has ordered the defendant to provide further responses to RFAs, interrogatories, and RFPs within 30 days. The Court has also ordered the parties to meet and confer and file joint statements.
+
+The Court's tentative ruling will be made final unless the parties submit written objections or appear in court to argue the issues.
+..................... .....................
+On 2025-02-17_08:18:16.874592
+The summary displayed below was created by an LLM named:  "llama-3.3-70b-specdec":
+Exception:
+Error code: 429 - {'error': {'message': 'Rate limit reached for model `llama-3.3-70b-specdec` in organization `org_01hw84cjv0f12v63qt47723ar2` service tier `on_demand` on : Limit 100000, Used 99753, Requested 2385. Please try again in 30m46.746999999s. Visit https://console.groq.com/docs/rate-limits for more information.', 'type': '', 'code': 'rate_limit_exceeded'}}
+..................... .....................
+On 2025-02-17_08:28:18.101118
+The summary displayed below was created by an LLM named:  "mixtral-8x7b-32768":
+**Case Number: 22STCV21229**
+**Hearing Date: September 21, 2023**
+**Dept: 48**
+
+**Parties:**
+- Plaintiff: The Law Firm of Fox and Fox
+- Defendant: Miguel Arteaga
+
+**Electronic Filing Issues:**
+- The parties' filings do not comply with the court's electronic filing requirements.
+- The court may strike the filings or issue sanctions if the parties continue to file noncompliant documents.
+
+**Requests for Admission:**
+- Defendant's denial of RFA No. 2 is considered a complete answer. The motion is denied.
+- Defendant must provide a code-compliant response to RFP No. 12 within 30 days. The motion is granted.
+
+**Form Interrogatories:**
+- Plaintiff's response to Form Rog No. 17.1 for RFA No. 2 is considered a complete response. The motion is denied.
+- Defendant must provide supplemental responses for RFA Nos. 12 and 15 within 30 days. The motion is granted.
+
+**Requests for Production of Documents:**
+- Defendant must provide supplemental responses for RFP Nos. 1 and 2 within 30 days. The motion is granted.
+- Defendant must provide a more specific response for RFP Nos. 4-14, 16-17, and 20. The motion is granted.
+- Defendant's response for RFP No. 15 is considered compliant. The motion is denied.
+- Defendant's response for RFP Nos. 18-19 is compliant. The motion is denied.
+
+**Moving party to give notice. Parties who intend to submit on this tentative must send an email to the Court at SMCDEPT48@lacourt.org indicating intention to submit.**
+
+**Judge: Hon. Thomas D. Long**
