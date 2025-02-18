@@ -389,3 +389,152 @@ significant\_statements:
 - "The City has not provided evidence to support its request for $660,000 in damages."
 - "The City has not established a prima facie case for damages."
 - "The City has not dismissed the Roe Cross-Defendants."
+..................... .....................
+On 2025-02-17_21:34:50.795225
+The summary displayed below was created by an LLM named:  "gemma2-9b-it":
+##  Case Summary: Tentative Ruling 
+
+**Case Number:** 20STCV08783
+**Hearing Date:** September 21, 2023
+**Department:** 28
+
+**Plaintiff:** Jose Adan Hernandez
+**Defendant:** City of Los Angeles, Los Angeles Fire Department, Francisco Martinez, Cosme Colon Fajardo, Does 1-25 
+
+**Events:**
+
+* **March 3, 2020:** Plaintiff Jose Adan Hernandez filed a lawsuit against the City of Los Angeles, Los Angeles Fire Department, Francisco Martinez, Cosme Colon Fajardo, and Does 1-25 for negligence and loss of consortium.
+* **April 3, 2020:** Plaintiff amended his complaint removing Zoila Hernandez as a plaintiff and the loss of consortium claim.
+* **May 21, 2020:** The City and Martinez filed their answers to the complaint.
+* **October 7, 2020:** The City filed a cross-complaint against Fajardo and Does 1-10 for indemnification, apportionment of fault, declaratory relief, and motor vehicle negligence.
+* **February 6, 2023:** Fajardo's default was entered on the City's cross-complaint.
+* **March 2, 2023:** The City filed a statement of damages against Fajardo. 
+* **March 21, 2023:**  The City served Fajardo with the statement of damages. 
+* **August 7, 2023:** The City filed a request for default judgment against Fajardo.
+
+**Money:**
+
+* The City is requesting $660,000 from Fajardo: $560,000 in special damages, $100,000 in general damages.
+
+
+**Disputes:**
+
+*  The core dispute is the City's claim against Fajardo for damages related to a cross-complaint.
+
+**Acts:**
+
+* The City entered a default against Fajardo.
+
+
+**Laws:**
+
+*  California Code of Civil Procedure sections 580, 585, and 425.11.
+*  California Rules of Court, rule 3.1800(a)
+
+**Judge's Ruling:**
+
+* The judge vacated Fajardo's default because it was entered before the service of the statement of damages.
+* The judge denied the City's request for default judgment because the City did not provide sufficient evidence to support its claimed damages.
+
+**Significant Statements:**
+
+* The judge emphasized the importance of proper notice to defendants in default judgment proceedings, citing the case of *Becker v. S.P.V. Construction Co.*
+*  The judge stressed the City's need to provide a factual basis for its requested damages amount.
+
+
+
+**English Summary:**
+
+The judge ruled that the default judgment against Cosme Colon Fajardo was improperly entered because the City did not serve him with the required statement of damages before defaulting him. The judge also denied the City's request for a default judgment because they failed to provide sufficient evidence to support their claim for $660,000 in damages. The judge ordered the City to provide proper notice to Fajardo and set a future hearing to address the status of the case. 
+
+
+
+..................... .....................
+On 2025-02-17_21:35:17.292342
+The summary displayed below was created by an LLM named:  "llama3-8b-8192":
+Here is a summary of the judge's tentative ruling in Markdown format:
+
+**Case Number**: 20STCV08783
+**Plaintiff's Name**: Jose Adan Hernandez and Zoila Hernandez
+**Defendant's Name**: City of Los Angeles, Los Angeles Fire Department, Francisco Martinez, Cosme Colon Fajardo, and Does 1-25
+**People-Names**: Jose Adan Hernandez, Zoila Hernandez, Francisco Martinez, Cosme Colon Fajardo, Liliana Funez
+**Company-Names**: City of Los Angeles, Los Angeles Fire Department
+**Places**: Los Angeles
+**Dates**: March 3, 2020, April 3, 2020, May 21, 2020, October 7, 2020, February 6, 2023, March 2, 2023, March 21, 2023, August 7, 2023, September 21, 2023, November 8, 2023
+**Events**: Filing of complaint, filing of amended complaint, filing of answers, filing of cross-complaint, filing of statement of damages, filing of request for court judgment
+**Money**: $660,000 (requested damages), $560,000 (special damages), $100,000 (general damages), $0 (prejudgment interest, attorney's fees, costs)
+**Intentions**: The City of Los Angeles seeks to enter a default judgment against Cosme Colon Fajardo for damages in the amount of $660,000
+**Facts**: The City filed a cross-complaint against Fajardo and others, alleging negligence and seeking indemnification, apportionment of fault, declaratory relief, and motor vehicle negligence. Fajardo's default was entered on February 6, 2023, at the City's request. The City served Fajardo with a statement of damages on March 21, 2023.
+**Disputes**: The City's request for default judgment based on Fajardo's default
+**Acts**: Filing of complaint, filing of amended complaint, filing of answers, filing of cross-complaint, filing of statement of damages, filing of request for court judgment
+**Agreements**: None mentioned
+**Laws**: California Rules of Court, rule 3.1800(a); Code of Civil Procedure, sections 580, 585, 425.11
+**Case Citations**: Johnson v. Stanhiser (1999) 72 Cal.App.4th 357, 361; Becker v. S.P.V. Construction Co. (1980) 27 Cal.3d 489, 494; Cal. Practice Guide: Civil Procedure Before Trial (Rutter 2023) ¶ 5:213.1, p. 5-56
+**Statutes**: Code of Civil Procedure, sections 580, 585, 425.11
+**Roles**: The City of Los Angeles is the cross-complainant, seeking to enter a default judgment against Fajardo. Fajardo is the cross-defendant.
+**Significant Statements**:
+
+* The Court vacates the default entered against Fajardo because it was entered before service of the statement of damages.
+* The City has not established a prima facie case for damages, as it has not provided evidence to support its estimated damage amount.
+* The Court denies the application for default judgment filed by the City.
+* The Court sets an OSC re: Status of Entry of Default on November 8, 2023, at 8:30 a.m. in Department 28 of the Spring Street Courthouse.
+..................... .....................
+On 2025-02-17_21:35:42.506571
+The summary displayed below was created by an LLM named:  "llama-3.3-70b-specdec":
+Exception:
+Error code: 429 - {'error': {'message': 'Rate limit reached for model `llama-3.3-70b-specdec` in organization `org_01hw84cjv0f12v63qt47723ar2` service tier `on_demand` on : Limit 100000, Used 100067, Requested 2208. Please try again in 32m46.165s. Visit https://console.groq.com/docs/rate-limits for more information.', 'type': '', 'code': 'rate_limit_exceeded'}}
+..................... .....................
+On 2025-02-17_21:45:45.077874
+The summary displayed below was created by an LLM named:  "mixtral-8x7b-32768":
+**Case Number:** 20STCV08783
+
+**Hearing Date:** September 21, 2023
+
+**Department:** 28
+
+---
+
+**Plaintiff:** Jose Adan Hernandez
+
+**Defendant:** City of Los Angeles, Los Angeles Fire Department, Francisco Martinez, Cosme Colon Fajardo, and Does 1-25
+
+**Cross-Defendant:** Cosme Colon Fajardo
+
+**People-Names:** Jose Adan Hernandez, Francisco Martinez, Cosme Colon Fajardo, Liliana Funez
+
+**Company-Names:** City of Los Angeles, Los Angeles Fire Department
+
+**Places:** Los Angeles
+
+**Dates:** March 3, 2020 - September 21, 2023
+
+**Events:** Filing of complaint, filing of amended complaint, filing of answers, filing of cross-complaint, entering of default, filing of statement of damages, filing of proof of service, filing of request for court judgment
+
+**Money:** $660,000.00
+
+**Intentions:** The City of Los Angeles seeks a default judgment against Cosme Colon Fajardo and requests $660,000.00 in damages
+
+**Facts:** Plaintiff Jose Adan Hernandez filed a complaint against the City of Los Angeles, Los Angeles Fire Department, Francisco Martinez, Zoila Hernandez, and Does 1-25 for negligence and loss of consortium. The City of Los Angeles filed a cross-complaint against Cosme Colon Fajardo and Roes 1-10.
+
+**Disputes:** The City of Los Angeles seeks a default judgment against Cosme Colon Fajardo and requests $660,000.00 in damages.
+
+**Acts:** Filing of complaint, filing of amended complaint, filing of answers, filing of cross-complaint, entering of default, filing of statement of damages, filing of proof of service, filing of request for court judgment
+
+**Agreements:** N/A
+
+**Laws:** Code of Civil Procedure sections 580, 585, 579, 425.11, 425.115; California Rules of Court, rule 3.1800
+
+**Case Citations:** Becker v. S.P.V. Construction Co. (1980) 27 Cal.3d 489; Johnson v. Stanhiser (1999) 72 Cal.App.4th 357
+
+**Roles:** Plaintiff, Defendant, Cross-Complainant, Cross-Defendant
+
+**Significant Statements:**
+
+- "A party seeking a default judgment on declarations must use mandatory Request for Entry of Default (Application to Enter Default) (form CIV-100) . . . The following must be included in the documents filed with the clerk: (1) Except in unlawful detainer cases, a brief summary of the case identifying the parties and the nature of plaintiff's claim; (2) Declarations or other admissible evidence in support of the judgment requested; (3) Interest computations as necessary; (4) A memorandum of costs and disbursements; (5) A declaration of nonmilitary status for each defendant against whom judgment is sought; (6) A proposed form of judgment; (7) A dismissal of all parties against whom judgment is not sought or an application for separate judgment against specified parties under Code of Civil Procedure section 579, supported by a showing of grounds for each judgment; (8) Exhibits as necessary; and (9) A request for attorney fees if allowed by statute or by the agreement of the parties.” (Cal. Rules of Court, rule 3.1800(a).)
+- "Where a cause of action is stated in the complaint, plaintiff merely needs to introduce evidence establishing a prima facie case for damages." (L. Edmon & C. Karnow, Cal. Practice Guide: Civil Procedure Before Trial (Rutter 2023) ¶ 5:213.1, p. 5-56 (Cal. Practice Guide: Procedure), citing Johnson v. Stanhiser (1999) 72 Cal.App.4th 357, 361)
+- "The relief granted to a plaintiff upon entry of a defendant's default cannot exceed the amount demanded in the complaint or, for personal injury cases where damages may not be stated in the complaint, the amount listed in the statement of damages. (Code Civ. Proc., §§ 580, subd. (a), 585, subd. (b).)”
+- "The court shall hear the evidence offered by the plaintiff, and shall render judgment in the plaintiff’s favor for that relief, not exceeding the amount stated in the complaint, in the statement required by Section 425.11, or in the statement provided for by Section 425.115, as appears by the evidence to be just. If the taking of an account, or the proof of any fact, is necessary to enable the court to give judgment or to carry the judgment into effect, the court may take the account or hear the proof . . . . (Code Civ. Proc., § 585, subd. (b).)"
+
+---
+
+In this tentative ruling, the Court considers the City of Los Angeles' request for a default judgment against Cosme Colon Fajardo in the amount of $660,000.00. The Court finds that the default was entered before service of the statement of damages, which is a violation of due process. Therefore, the Court vacates the default and denies the application for default judgment. The City has also failed to provide evidence to support its damage claim or dismiss the Roe Cross-Defendants. The Court sets an OSC re: Status of Entry of Default on November 8, 2023.

@@ -1324,3 +1324,165 @@ On 2025-02-06_08:49:22.639153
 The summary displayed below was created by an LLM named:  "mixtral-8x7b-32768":
 Exception:
 Error code: 413 - {'error': {'message': 'Request too large for model `mixtral-8x7b-32768` in organization `org_01hw84cjv0f12v63qt47723ar2` service tier `on_demand` on tokens per minute (TPM): Limit 5000, Requested 5609, please reduce your message size and try again. Visit https://console.groq.com/docs/rate-limits for more information.', 'type': 'tokens', 'code': 'rate_limit_exceeded'}}
+..................... .....................
+On 2025-02-17_14:59:31.088818
+The summary displayed below was created by an LLM named:  "gemma2-9b-it":
+## Case Number: 21STCV35833 
+
+**People:**
+
+* **Plaintiffs:** Siddiq Mumin, et al.
+* **Defendants:** Laibco, LLC, et al.
+* **Deceased:** Betty Webb
+
+**Company Names:** Laibco, LLC
+
+**Places:** Los Angeles, California 
+
+**Dates:**
+
+* **Complaint Filed:** September 29, 2021
+* **Tentative Ruling:** September 21, 2023
+
+**Events:**
+
+* Betty Webb was admitted to Las Flores Convalescent Hospital for an infection, mobility assistance, fall risks, and other limiting conditions.
+* Betty Webb died on May 16, 2020.
+* Plaintiffs filed a complaint alleging wrongful death, elder abuse, violations of the Health and Safety Code § 1430(b), and negligence.
+* Defendants filed a demurrer (challenging the legal sufficiency of the complaint) and a motion to strike portions of the complaint.
+* The judge issued a tentative ruling overruling the demurrer and denying the motion to strike.
+
+
+**Money:**
+
+* Plaintiffs seek monetary damages, including attorneys' fees.
+
+**Intentions:**
+
+* Plaintiffs intend to pursue a claim for wrongful death, elder abuse, and violations of Health and Safety Code § 1430(b).
+
+**Facts:** 
+
+* Plaintiffs allege that Defendants' conduct, including negligence, caused Betty Webb's death.
+
+**Disputes:**
+
+*  Defendants dispute the allegations in the complaint.
+
+**Acts:**
+
+* Defendants allegedly provided inadequate care to Betty Webb.
+
+
+**Agreements:**
+
+* None mentioned in the document.
+
+
+**Laws:**
+
+* **California Code of Civil Procedure:** Sections 430.10, 425.13, 435.
+
+**Case Citations:**
+
+* **Schmidt v. Foundation Health (1995) 35 Cal.App. 1702
+* Blank v. Kirwan (1985) 39 Cal.3d 311
+* Moore v. Conliffe (1994) 7 Cal.App.4th 634
+* Stevens v. Superior Court (1986) 180 Cal.App.3d 605
+* Gressley v. Williams (1961) 193 Cal.App.2d 636
+* Covenant Care, Inc. v. Superior Court (2004) 32 Cal.4th 771
+* Delaney v. Baker (1999) 20 Cal.4th 23
+ Carter v. Prime Healthcare Paradise Valley LLC (2011) 198 Cal.App.4th 396
+* Health & Saf. Code § 1430 
+
+**Roles:**
+
+* **Judge Gary Y. Tanaka - presiding judge
+* **Rita R. Kanno -  Defendants' declaration author
+
+**Significant Statements**
+
+* The court overruled the demurrer to all four causes of Plaintiff's complaint.
+* The court denied the Motion to Strike of Defendant's motion to strike portions of Plaintiffs' complaint. 
+
+
+
+**Note:** This is a tentative ruling, subject to modification before the final ruling.
+
+
+Let me know if you'd like me to elaborate on any specific section.
+
+
+
+
+**Disclaimer:** I am an AI and cannot provide legal advice. This is for informational purposes only.
+
+
+
+
+..................... .....................
+On 2025-02-17_14:59:57.303106
+The summary displayed below was created by an LLM named:  "llama3-8b-8192":
+Here is a summary of the tentative ruling in Markdown format:
+
+**Case Information**
+----------------
+
+* Case Number: 21STCV35833
+* Hearing Date: September 21, 2023
+* Department: B, Los Angeles Superior Court - Southwest District
+
+**Parties**
+---------
+
+* **Plaintiffs:** Siddiq Mumin, et al.
+* **Defendants:** Laibco, LLC, et al.
+
+**Background**
+---------
+
+* Plaintiffs filed a complaint on September 29, 2021, alleging four causes of action against Defendants.
+* The complaint alleges that the decedent, Betty Webb, was admitted to Las Flores Convalescent Hospital due to an infection, mobility assistance, lack of mobility, fall risks, and other limiting conditions.
+* The decedent died on May 16, 2020, due to the egregious conduct of Defendants.
+
+**Demurrer**
+---------
+
+* Defendants demurred to the complaint, arguing that the causes of action failed to state facts sufficient to constitute a cause of action.
+* The court considered the factual allegations and determined that Plaintiffs alleged sufficient facts to state a cause of action for wrongful death, elder abuse, and violation of the Patient's Bill of Rights.
+
+**Rulings**
+---------
+
+* The court overruled the demurrer to the first and second causes of action for wrongful death and elder abuse.
+* The court overruled the demurrer to the third cause of action for violation of the Patient's Bill of Rights.
+* The court overruled the demurrer to the fourth cause of action for wrongful death (negligence).
+
+**Motion to Strike**
+-------------------
+
+* Defendants moved to strike certain paragraphs and prayers for relief from the complaint.
+* The court denied the motion to strike, finding that the factual allegations in the complaint were sufficient to support the claims.
+
+**Orders**
+---------
+
+* Defendants are ordered to file and serve an Answer within 10 days of the date of the ruling.
+* Plaintiffs are ordered to give notice of the ruling.
+
+**Significant Statements**
+-------------------------
+
+* The court found that Plaintiffs alleged sufficient facts to state a cause of action for wrongful death, elder abuse, and violation of the Patient's Bill of Rights.
+* The court determined that Plaintiffs were entitled to enhanced remedies and attorneys' fees under the Elder Abuse Act.
+* The court denied the motion to strike, finding that the factual allegations in the complaint were sufficient to support the claims.
+..................... .....................
+On 2025-02-17_15:00:22.537701
+The summary displayed below was created by an LLM named:  "llama-3.3-70b-specdec":
+Exception:
+Error code: 429 - {'error': {'message': 'Rate limit reached for model `llama-3.3-70b-specdec` in organization `org_01hw84cjv0f12v63qt47723ar2` service tier `on_demand` on : Limit 100000, Used 97838, Requested 4404. Please try again in 32m16.885s. Visit https://console.groq.com/docs/rate-limits for more information.', 'type': '', 'code': 'rate_limit_exceeded'}}
+..................... .....................
+On 2025-02-17_15:10:22.924554
+The summary displayed below was created by an LLM named:  "mixtral-8x7b-32768":
+Exception:
+Error code: 413 - {'error': {'message': 'Request too large for model `mixtral-8x7b-32768` in organization `org_01hw84cjv0f12v63qt47723ar2` service tier `on_demand` on tokens per minute (TPM): Limit 5000, Requested 5607, please reduce your message size and try again. Visit https://console.groq.com/docs/rate-limits for more information.', 'type': 'tokens', 'code': 'rate_limit_exceeded'}}

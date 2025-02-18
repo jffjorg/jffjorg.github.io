@@ -289,3 +289,189 @@ roles: ["Judge", "Claimant", "Defendant", "Petitioner"]
 significant\_statements:
 - "The Court denies the application."
 - "Petitioner should revise the petition to address the discrepancies noted above and to make sure that all liens are resolved prior to seeking Court approval."
+..................... .....................
+On 2025-02-17_21:23:32.267676
+The summary displayed below was created by an LLM named:  "gemma2-9b-it":
+## Tentative Ruling Summary: Case No. 19STCV44000
+
+**Case Number:** 19STCV44000
+
+**Hearing Date:** September 21, 2023
+
+**Dept:** 28
+
+**Plaintiff:** Leslie Davis (Petitioner) 
+
+**Defendant:** Ross Middle School (Defendant)
+
+**People-Names:**
+
+* Malaki Turner (Claimant)
+* Leslie Davis (Petitioner)
+
+**Company-Names:** 
+
+*  None
+
+**Places:**
+
+* Ross Middle School
+
+**Dates:**
+
+* Date of incident: Not specified
+* Hearing Date: September 21, 2023
+
+**Events:**
+
+* Malaki Turner, a student at Ross Middle School, was injured by a rolling pin thrown by another student while attending a ceramics class.
+*  The injury resulted in a lacerated upper lip and broken teeth.
+* Leslie Davis filed an expedited petition for settlement on behalf of Malaki Turner.
+
+**Money:**
+
+* **Settlement Amount:** $50,000.00
+* **Medical Expenses Paid:** $18,481.23
+* **Costs:** $955.78
+* **Attorney's Fees:** $12,500.00 (25% of gross settlement)
+* **Balance of Proceeds:** $18,062.99
+* **Outstanding Liens:** $10,867.23
+* **Medical Expense Reimbursement Request:** $18,481.23
+
+**Intentions:**
+
+* Petitioner seeks court approval for the settlement.
+
+**Facts:**
+
+* Malaki Turner was unsupervised during ceramics class.
+* Another student threw a rolling pin, injuring Malaki Turner.
+
+**Disputes:**
+
+* Discrepancies in the petition regarding medical expense reimbursement amounts and outstanding liens.
+
+**Acts:**
+
+* Petitioner filed an expedited petition for settlement.
+
+
+**Agreements:**
+
+* Settlement agreement for $50,000.00
+
+**Laws:**
+
+* California Rules of Court, rule 7.950.5
+
+**Case Citations:**
+
+* None provided
+
+**Statutes:**
+
+*  None provided
+
+**Roles:**
+
+* **Petitioner:** Leslie Davis, representing Malaki Turner
+* **Defendant:** Ross Middle School
+
+
+**Significant Statements:**
+
+* The court cannot approve a minor's compromise unless it reimburses all medical expenses that have not been reduced or waived.
+* Petitioner should revise the petition to address discrepancies and ensure all liens are resolved before seeking court approval.
+
+
+
+**English Summary:**
+
+The judge has denied the application for settlement approval because there are inconsistencies in the information provided in the petition. Specifically, the petitioner claims to have paid $18,481.23 for the claimant's medical expenses but also requests reimbursement of that amount, along with attorney fees and other expenses. Additionally, there are discrepancies regarding outstanding liens. The judge requires the petitioner to revise the petition to accurately reflect the medical expenses paid, resolve all outstanding liens, and clarify the reimbursement requests before the court will consider approving the settlement. 
+
+
+
+..................... .....................
+On 2025-02-17_21:23:57.963712
+The summary displayed below was created by an LLM named:  "llama3-8b-8192":
+Here is a summary of the legal document in Markdown format:
+```
+**Case Number**: 19STCV44000
+**Plaintiff's Name**: Malaki Turner (Claimant)
+**Defendant's Name**: Ross Middle School (Defendant)
+**People-Names**: Leslie Davis (Petitioner)
+**Company-Names**: None
+**Places**: Ross Middle School
+**Dates**: September 21, 2023
+**Events**: Ceramics class incident where Claimant was hit in the face with a rolling pin
+**Money**: $50,000 (settlement limit)
+**Intentions**: Petitioner seeks court approval for a minor's compromise to settle the claim
+**Facts**: Claimant suffered a lacerated upper lip and two broken teeth as a result of the incident
+**Disputes**: Discrepancies in the petition regarding medical expenses and liens
+**Acts**: Petitioner's attorney did not become involved at the request of Defendant or insurance carrier
+**Agreements**: Settlement must not exceed $50,000; settlement proceeds will not be placed in a trust
+**Laws**: California Rules of Court, rule 7.950.5
+**Case Citations**: None
+**Statutes**: None
+**Roles**: Judge, Claimant, Petitioner, Defendant, Attorney
+**Significant Statements**:
+* The Court cannot approve a minor's compromise unless it reimburses all medical expenses that have not been reduced or waived.
+* Petitioner should revise the petition to address the discrepancies noted above and to ensure that all liens are resolved prior to seeking Court approval.
+* The Court denies the application.
+```
+And here is a summary of the judge's tentative ruling in English text:
+The judge has denied the application for a minor's compromise, citing discrepancies in the petition regarding medical expenses and liens. The petition requires revision to address these issues and ensure that all medical expenses are reimbursed and liens are resolved prior to seeking court approval. The judge notes that the court cannot approve a minor's compromise unless it reimburses all medical expenses that have not been reduced or waived.
+..................... .....................
+On 2025-02-17_21:24:23.146613
+The summary displayed below was created by an LLM named:  "llama-3.3-70b-specdec":
+Exception:
+Error code: 429 - {'error': {'message': 'Rate limit reached for model `llama-3.3-70b-specdec` in organization `org_01hw84cjv0f12v63qt47723ar2` service tier `on_demand` on : Limit 100000, Used 100853, Requested 832. Please try again in 24m16.662s. Visit https://console.groq.com/docs/rate-limits for more information.', 'type': '', 'code': 'rate_limit_exceeded'}}
+..................... .....................
+On 2025-02-17_21:34:24.108137
+The summary displayed below was created by an LLM named:  "mixtral-8x7b-32768":
+**Case Summary**
+
+- **Case Number:** 19STCV44000
+- **Hearing Date:** September 21, 2023
+- **Dept:** 28
+
+**Parties:**
+
+- Plaintiff: Malaki Turner (Claimant)
+- Defendant: Ross Middle School (Defendant)
+
+**Facts:**
+
+- Malaki Turner, a minor, was left unsupervised during a ceramics class at Ross Middle School.
+- Another student threw a rolling pin, hitting Turner in the face, causing a lacerated upper lip and two broken teeth.
+
+**Proposed Settlement:**
+
+- $50,000
+
+**Medical Expenses:**
+
+- Paid: $18,481.23
+- Requested reimbursement: $18,481.23
+
+**Costs:**
+
+- $955.78
+
+**Attorney's Fees:**
+
+- $12,500 (25% of the gross settlement)
+
+**Balance of Proceeds:**
+
+- $18,062.99
+
+**Issues:**
+
+- The petition states different amounts for medical expenses, reimbursements, and liens.
+- The court cannot approve a minor's compromise without reimbursing all medical expenses that have not been reduced or waived.
+
+**Judge's Ruling:**
+
+- The petition should be revised to address discrepancies and resolve all liens before seeking court approval.
+- The application is denied.

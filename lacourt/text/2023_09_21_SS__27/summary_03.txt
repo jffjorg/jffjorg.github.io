@@ -210,3 +210,94 @@ On 2025-02-06_14:27:48.925532
 The summary displayed below was created by an LLM named:  "mixtral-8x7b-32768":
 Exception:
 Error code: 413 - {'error': {'message': 'Request too large for model `mixtral-8x7b-32768` in organization `org_01hw84cjv0f12v63qt47723ar2` service tier `on_demand` on tokens per minute (TPM): Limit 5000, Requested 5167, please reduce your message size and try again. Visit https://console.groq.com/docs/rate-limits for more information.', 'type': 'tokens', 'code': 'rate_limit_exceeded'}}
+..................... .....................
+On 2025-02-17_20:46:05.544072
+The summary displayed below was created by an LLM named:  "gemma2-9b-it":
+## Tentative Ruling Summary: Hernandez et al. v. Caramedix, Inc.
+
+This is a tentative ruling by Judge Kerry Bensinger in a wrongful death case.
+
+**Case Information:**
+
+* **Case Number:** 20STCV32190
+* **Hearing Date:** September 21, 2023
+* **Trial Date:** October 12, 2023
+
+**Parties:**
+
+* **Plaintiffs:** Adrian Hernandez, Raoul Guzman, and Araseli Zuniga (representing the estate of Christina Garcia)
+* **Defendant:** Caramedix, Inc. (a health care rideshare service)
+
+**Facts:**
+
+* Plaintiffs allege Caramedix's driver failed to properly secure Christina Garcia's wheelchair in their van, causing her to fall and die.
+
+**Issues:**
+
+*  **Motion to Compel:** Plaintiffs moved to compel Caramedix to provide a "person most knowledgeable" (PMK) for deposition and to produce documents.
+* **Motion to Compel Further Responses to Discovery:** Plaintiffs also moved to compel further responses from Caramedix to interrogatories, special interrogatories, and requests for production of documents.
+* **Sanctions:** Plaintiffs requested monetary sanctions against Caramedix for their failure to cooperate with discovery.
+
+**Ruling:**
+
+* **PMK Deposition and Documents:** The court granted the motion to compel, ordering Caramedix to provide a PMK for deposition and all requested documents within 10 days.
+* **Further Discovery Responses:** The court granted the motion to compel further discovery responses, requiring Caramedix to provide complete and objection-free responses within 10 days.
+* **Sanctions:** The court granted the request for sanctions, ordering Caramedix to pay $2,480 to plaintiffs within 30 days.
+
+**Reasons for Ruling:**
+
+* Caramedix's objections to discovery were deemed meritless and insufficient.
+* Caramedix failed to provide a PMK for deposition despite repeated requests.
+* Caramedix's failure to cooperate with discovery warranted sanctions.
+
+
+**Next Steps:**
+
+* Caramedix must comply with the court's order within the specified timeframes.
+* Plaintiffs will likely proceed with the deposition and use the compelled discovery.
+* A final order will be issued if no party objects to the tentative ruling.
+
+
+
+Let me know if you would like me to elaborate on any specific aspect of the ruling.
+
+..................... .....................
+On 2025-02-17_20:46:31.746994
+The summary displayed below was created by an LLM named:  "llama3-8b-8192":
+Here is a summary of the tentative ruling in Markdown format:
+
+**Case Number:** 20STCV32190
+**Plaintiff's Name:** Adrian Hernandez, Raoul Guzman, and Araseli Zuniga
+**Defendant's Name:** Caramedix, Inc.
+**People-Names:** Kerry Bensinger (Judge)
+**Company-Names:** Caramedix, Inc.
+**Places:** None mentioned
+**Dates:** August 24, 2020, August 22, 2023, August 25, 2023, September 21, 2023, October 12, 2023
+**Events:** Motor vehicle incident, wrongful death action, deposition, production of documents, motion to compel
+**Money:** Monetary sanctions of $2,480
+**Intentions:** Plaintiffs seek to compel Defendant to provide person most knowledgeable for deposition and produce responsive documents
+**Facts:** Plaintiffs' children suffered wrongful death due to Caramedix's driver failing to properly restrain their mother's wheelchair in a rideshare van
+**Disputes:** Defendant opposes motions to compel deposition and production of documents, arguing that responses are incomplete and objections are valid
+**Acts:** Defendant has failed to provide person most knowledgeable for deposition and has produced incomplete and evasive responses to discovery requests
+**Agreements:** None mentioned
+**Laws:** California Code of Civil Procedure, California Rules of Court
+**Case Citations:** Code Civ. Proc., § 2025.010, § 2025.450, subd. (a), § 2030.220(a), § 2030.290, subd. (c), § 2031.310, subd. (b)(1), § 2031.310, subd. (h)
+**Statutes:** California Code of Civil Procedure, California Rules of Court
+**Roles:** Kerry Bensinger (Judge), Adrian Hernandez, Raoul Guzman, Araseli Zuniga (Plaintiffs), Caramedix, Inc. (Defendant)
+**Significant Statements:**
+
+* The Court grants Plaintiffs' motion to compel Defendant to provide person most knowledgeable for deposition and produce responsive documents.
+* The Court grants Plaintiffs' motions to compel further responses to discovery, including Form Interrogatories, Special Interrogatories, and Requests for Production of Documents.
+* The Court imposes monetary sanctions of $2,480 against Defendant Caramedix, Inc.
+
+Let me know if you'd like me to summarize the ruling in plain English!
+..................... .....................
+On 2025-02-17_20:46:56.964794
+The summary displayed below was created by an LLM named:  "llama-3.3-70b-specdec":
+Exception:
+Error code: 429 - {'error': {'message': 'Rate limit reached for model `llama-3.3-70b-specdec` in organization `org_01hw84cjv0f12v63qt47723ar2` service tier `on_demand` on : Limit 100000, Used 98145, Requested 3961. Please try again in 30m18.853s. Visit https://console.groq.com/docs/rate-limits for more information.', 'type': '', 'code': 'rate_limit_exceeded'}}
+..................... .....................
+On 2025-02-17_20:56:57.283718
+The summary displayed below was created by an LLM named:  "mixtral-8x7b-32768":
+Exception:
+Error code: 413 - {'error': {'message': 'Request too large for model `mixtral-8x7b-32768` in organization `org_01hw84cjv0f12v63qt47723ar2` service tier `on_demand` on tokens per minute (TPM): Limit 5000, Requested 5165, please reduce your message size and try again. Visit https://console.groq.com/docs/rate-limits for more information.', 'type': 'tokens', 'code': 'rate_limit_exceeded'}}
