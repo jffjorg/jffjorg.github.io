@@ -253,3 +253,91 @@ On 2025-02-07_02:34:01.678239
 The summary displayed below was created by an LLM named:  "mixtral-8x7b-32768":
 Exception:
 Error code: 413 - {'error': {'message': 'Request too large for model `mixtral-8x7b-32768` in organization `org_01hw84cjv0f12v63qt47723ar2` service tier `on_demand` on tokens per minute (TPM): Limit 5000, Requested 5015, please reduce your message size and try again. Visit https://console.groq.com/docs/rate-limits for more information.', 'type': 'tokens', 'code': 'rate_limit_exceeded'}}
+..................... .....................
+On 2025-02-18_09:11:11.019561
+The summary displayed below was created by an LLM named:  "gemma2-9b-it":
+## Case Number: 21STCV23555  Hearing Date: September 25, 2023  Dept: 15 
+
+This document is a tentative ruling by a Judge on various motions in limine (MIL) filed by both the Plaintiffs and the Defendants.  
+
+**Parties:**
+
+* **Plaintiffs:**  (Names not provided in the document)
+* **Defendants:** 
+    * Charles B. Chrystal Company
+    * Johnson & Johnson
+
+**Key Issues:**
+
+The Judge is considering whether certain evidence should be allowed or disallowed at trial.  The main disputes center around:
+
+* **Insurance and Settlements:** Plaintiffs want to exclude evidence of insurance coverage, settlements, or other collateral source benefits.  The Judge mostly grants this request, except for information about the actual amount paid for medical bills.
+* **Expert Testimony:**  The Judge addresses several motions regarding the admissibility of testimony from expert Barry Horn.  His testimony is partially allowed, but only if specific conditions are met.
+* **Genetic Cause of Mesothelioma:** The Judge denies a motion to exclude evidence about a speculative genetic cause of mesothelioma because it is too vague.  
+* **Talc Pleurodesis:** The Judge denies a motion to exclude evidence about the medical procedure called talc pleurodesis, but leaves the door open for objections at trial depending on the Plaintiff's testimony.
+* **Asbestos Definitions and Cleavage Fragments:** The Judge denies a motion to exclude evidence about asbestos definitions and cleavage fragments, finding it to be a disputed issue that needs to be decided at trial.
+* **Evidence of Talc Products:**  The Judge rules on several motions related to evidence about the Defendants' talc products, including:
+    * Granting a motion to exclude evidence of talc-based baby powder sales.
+    * Denying a motion to exclude evidence about the discontinuation of sales.
+    * Ruling on the admissibility of certain media articles.
+* **Foreign Governmental Investigations:**  The Judge grants a motion to exclude evidence about foreign governmental investigations and proceedings into talc.
+
+**Overall:**
+
+This tentative ruling reflects the Judge's preliminary thoughts on the admissible evidence in this case.  It is important to note that this is not a final decision.  Further arguments and objections can be made at the trial hearing.
+
+
+Let me know if you need any further clarification or summary of specific sections.
+
+..................... .....................
+On 2025-02-18_09:11:37.533243
+The summary displayed below was created by an LLM named:  "llama3-8b-8192":
+Here is a summary of the judge's tentative ruling in Markdown format:
+
+**Case Number:** 21STCV23555
+**Hearing Date:** September 25, 2023
+**Dept:** 15
+
+### Motions in Limine
+
+#### Plaintiffs' Motions
+
+* **MIL No. 1:** Exclude evidence of insurance coverage, settlements, or other collateral source benefits. **Granted**, except for evidence of insurance to establish actual amount paid for medical bills.
+* **MIL No. 2:** Exclude evidence of or reference to two 2013 orders precluding Plaintiffs' expert Barry Horn from testifying. **Granted**, but if Horn testifies that his opinions have never been excluded, he is allowed to testify.
+* **MIL No. 3:** Exclude evidence of speculative genetic cause of mesothelioma. **Denied**, without prejudice to objection at trial.
+* **MIL No. 4:** Exclude evidence of talc pleurodesis as not relevant to causation and irrelevant, prejudicial, and confusing to the jury. **Denied**, without prejudice to objection at trial, if Plaintiff had this procedure.
+* **MIL Nos. 5, 6:** Exclude irrelevant definitions of asbestos and arguments about cleavage fragments. **Denied**, without prejudice to objection at trial.
+
+#### Defendants' Motions
+
+* **MIL No. 1:** Exclude evidence that Defendants' product contained asbestos because Plaintiffs have no admissible evidence of this. **Denied**, as a disputed issue for the jury.
+* **MIL No. 1:** Exclude evidence about diseases caused by talc other than mesothelioma, such as ovarian cancer. **Granted**, as more prejudicial than probative and confusing to the jury.
+* **MIL No. 2:** Exclude references to other lawsuits involving J&J companies. **Partially granted**, as some references may be relevant, but detailed evidence will be more prejudicial than probative.
+* **MIL No. 3:** Exclude evidence that Plaintiff used Avon products except during 1993-1997. **Denied**, without prejudice to objection at trial.
+* **MIL No. 4:** Exclude evidence that Defendant discontinued sales of talc-based baby powder in 2020 as irrelevant, unduly prejudicial, and confusing. **Denied**, without prejudice to objection at trial.
+* **MIL No. 5:** Exclude all media reports about talc litigation, including three Reuters articles. **Granted**, as hearsay, misleading, and prejudicial.
+* **MIL No. 6:** Exclude evidence about foreign governmental investigations and proceedings into talcum powder. **Granted**, as irrelevant, prejudicial, and time-consuming.
+* **MIL No. 7:** Exclude statements that litigation forced Defendant to make public the story of asbestos in cosmetic talc. **Granted**, as time-consuming and prejudicial.
+* **MIL No. 8:** Exclude an article titled "Asbestos in Commercial Talcum Powder as a Cause of Mesothelioma in Women" by Gordon, Millette, and Fitzgerald. **Partially granted**, as some contents may be admissible, but expert testimony is required.
+* **MIL No. 9:** Exclude an article written by Dr. Jacqueline Moline. **Partially granted**, as some contents may be admissible, but expert testimony is required.
+* **MIL No. 10:** Exclude a paper authored by Teresa Emory, John Maddox, and Richard Kradin. **Partially granted**, as some contents may be admissible, but expert testimony is required.
+* **MIL No. 11:** Exclude evidence that Alice Blount tested Defendant's talc and found asbestos. **Partially granted**, as some contents may be admissible, but expert testimony is required.
+* **MIL No. 12:** Exclude references to the LTL Management bankruptcy proceedings. **Denied**, without prejudice, as not a proper motion in limine.
+* **MIL No. 13:** Exclude references to the LTL Management bankruptcy proceedings. **Granted**, as irrelevant and time-consuming.
+
+Significant statements:
+
+* The July 8, 2022 CMO will be followed in handling prior deposition testimony and motions for exclusion of speculative evidence.
+* The trial court will have its own rules for trial procedure.
+* Expert testimony is required to establish the admissibility of certain evidence.
+* The court will consider the probative value and potential prejudice of the evidence in making its ruling.
+..................... .....................
+On 2025-02-18_09:12:02.749041
+The summary displayed below was created by an LLM named:  "llama-3.3-70b-specdec":
+Exception:
+Error code: 429 - {'error': {'message': 'Rate limit reached for model `llama-3.3-70b-specdec` in organization `org_01hw84cjv0f12v63qt47723ar2` service tier `on_demand` on : Limit 100000, Used 98552, Requested 4610. Please try again in 45m31.179s. Visit https://console.groq.com/docs/rate-limits for more information.', 'type': '', 'code': 'rate_limit_exceeded'}}
+..................... .....................
+On 2025-02-18_09:22:02.992912
+The summary displayed below was created by an LLM named:  "mixtral-8x7b-32768":
+Exception:
+Error code: 413 - {'error': {'message': 'Request too large for model `mixtral-8x7b-32768` in organization `org_01hw84cjv0f12v63qt47723ar2` service tier `on_demand` on tokens per minute (TPM): Limit 5000, Requested 5013, please reduce your message size and try again. Visit https://console.groq.com/docs/rate-limits for more information.', 'type': 'tokens', 'code': 'rate_limit_exceeded'}}
