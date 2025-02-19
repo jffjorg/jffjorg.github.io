@@ -393,3 +393,35 @@ On 2025-02-18_16:40:57.410466
 The summary displayed below was created by an LLM named:  "llama-3.3-70b-specdec":
 Exception:
 Error code: 429 - {'error': {'message': 'Rate limit reached for model `llama-3.3-70b-specdec` in organization `org_01hw84cjv0f12v63qt47723ar2` service tier `on_demand` on : Limit 100000, Used 98502, Requested 2235. Please try again in 10m36.751s. Need more tokens? Upgrade to Dev Tier today at https://console.groq.com/settings/billing', 'type': '', 'code': 'rate_limit_exceeded'}}
+..................... .....................
+On 2025-02-18_16:50:59.209573
+The summary displayed below was created by an LLM named:  "mixtral-8x7b-32768":
+**Case Number:** 23STCP019141
+
+**Hearing Date:** September 25, 2023
+
+**Parties:** Dr. Paul C. Broun, Sheri Gilligan, and VoterGA (Petitioners) vs. State of Georgia
+
+**People:** Dr. Paul C. Broun, Sheri Gilligan, Garland Favorito, Mark Beeart
+
+**Company:** Konnech, Inc.
+
+**Places:** Los Angeles County District Attorney’s Office, State of Michigan
+
+**Events:** Petitioners served LADA with their first and second subpoena duces tecum, requesting forensically sound evidence drives from Konnech, Inc. LADA objected and refused to produce any documents. Petitioners filed a motion to compel LADA to comply with the second subpoena.
+
+**Laws:** C.C.P. §2025.480(a), Evidence Code §1040
+
+**Ruling:**
+
+- Petitioners' motion to compel LADA's compliance with their second subpoena duces tecum is granted.
+- LADA is to produce the items responsive to Petitioners' request within 30 days of this ruling.
+- Petitioners' request for judicial notice is denied.
+- LADA's evidentiary objection to the Declaration of Garland Favorito is overruled for Nos. 2, 3, 5, and 7, and sustained for Nos. 1, 4, and 6.
+
+**Significant Statements:**
+
+- "LADA fails to demonstrate that the items requested are privileged."
+- "Absent a showing that the items were acquired in confidence, no privilege applies."
+- "LADA has made no showing that disclosure would be ‘against the public interest.’"
+- "Petitioners' evidence belies the assertion that the Konnech matter is an open investigation."
