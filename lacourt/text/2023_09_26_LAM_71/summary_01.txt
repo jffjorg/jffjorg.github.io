@@ -222,3 +222,42 @@ On 2025-02-08_00:41:52.096862
 The summary displayed below was created by an LLM named:  "mixtral-8x7b-32768":
 Exception:
 Error code: 413 - {'error': {'message': 'Request too large for model `mixtral-8x7b-32768` in organization `org_01hw84cjv0f12v63qt47723ar2` service tier `on_demand` on tokens per minute (TPM): Limit 5000, Requested 5104, please reduce your message size and try again. Visit https://console.groq.com/docs/rate-limits for more information.', 'type': 'tokens', 'code': 'rate_limit_exceeded'}}
+..................... .....................
+On 2025-02-19_10:15:21.073281
+The summary displayed below was created by an LLM named:  "gemma2-9b-it":
+Exception:
+Error code: 503 - {'error': {'message': 'Service Unavailable', 'type': 'internal_server_error'}}
+..................... .....................
+On 2025-02-19_10:25:23.039975
+The summary displayed below was created by an LLM named:  "llama3-8b-8192":
+**Case Summary**
+
+**Case Number:** 20STCV00965
+
+**Plaintiff:** Edna Herrarte-Giron
+
+**Defendants:** Al Malaikah Auditorium Company, Goldenvoice LLC, and BMW Nationwide Security, Inc.
+
+**Background:** The plaintiff filed a personal injury complaint against the defendants, alleging two causes of action: negligence and premises liability, arising from an incident at the Shrine Auditorium on February 8, 2019.
+
+**Tentative Ruling:** The court denied the defendant BMW's motion for summary judgment and motion for summary adjudication on issues 1 and 2.
+
+**Key Points:**
+
+* BMW argued it did not owe a duty to the plaintiff because its duties prohibited its employees from ushering and illuminating the plaintiff's path, but the court found that BMW failed to submit evidence that it did not owe a duty to the plaintiff to use ordinary care.
+* The court found that Staff Pro met its burden to raise a triable issue of material fact as to whether BMW owed the plaintiff a duty of ordinary care.
+* BMW argued that it had a special employment relationship with Staff Pro that absolved it of respondeat superior liability, but the court found that Staff Pro met its burden to raise a triable issue of material fact as to whether BMW had a special employment relationship with Staff Pro.
+* The court denied BMW's motion for summary adjudication on issue 2, finding that Staff Pro met its burden to raise a triable issue of material fact as to whether Aceves breached his duty to illuminate the plaintiff's path and caused the plaintiff's fall.
+* The court denied BMW's motion for summary adjudication on issue 1, finding that Staff Pro met its burden to raise a triable issue of material fact as to whether BMW had control over the premises.
+
+**Next Steps:** The parties are directed to give notice of this tentative ruling.
+..................... .....................
+On 2025-02-19_10:25:48.255233
+The summary displayed below was created by an LLM named:  "llama-3.3-70b-specdec":
+Exception:
+Error code: 429 - {'error': {'message': 'Rate limit reached for model `llama-3.3-70b-specdec` in organization `org_01hw84cjv0f12v63qt47723ar2` service tier `on_demand` on : Limit 100000, Used 96760, Requested 3864. Please try again in 8m58.827999999s. Need more tokens? Upgrade to Dev Tier today at https://console.groq.com/settings/billing', 'type': '', 'code': 'rate_limit_exceeded'}}
+..................... .....................
+On 2025-02-19_10:35:48.484186
+The summary displayed below was created by an LLM named:  "mixtral-8x7b-32768":
+Exception:
+Error code: 413 - {'error': {'message': 'Request too large for model `mixtral-8x7b-32768` in organization `org_01hw84cjv0f12v63qt47723ar2` service tier `on_demand` on tokens per minute (TPM): Limit 5000, Requested 5102, please reduce your message size and try again. Visit https://console.groq.com/docs/rate-limits for more information.', 'type': 'tokens', 'code': 'rate_limit_exceeded'}}
