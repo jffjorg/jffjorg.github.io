@@ -320,3 +320,128 @@ significant\_statements:
   - "The court cannot permit a plaintiff to amend the pleadings once the defendants have established that the complaint arises from acts in furtherance of their constitutional rights."
   - "The anti-SLAPP statute precludes claims that are based on oral or written statements made 'in connection with' litigation activity."
   - "Plaintiff has not filed an opposition and has therefore, failed
+..................... .....................
+On 2025-02-18_22:45:10.036647
+The summary displayed below was created by an LLM named:  "gemma2-9b-it":
+## Case Summary: Donald L. Crawford Sr. v. Ally Financial, Inc. et al. (Case Number: 23CMCV00461)
+
+**Parties:**
+
+* **Plaintiff:** Donald L. Crawford Sr.
+* **Defendants:** 
+    * Hertz Car Rental
+    * Ally Bank
+    * Other unnamed defendants.
+
+**Subject Matter:**
+
+This is a legal dispute arising from an underlying case (Crawford I) where Plaintiff alleged a defective vehicle purchase from Hertz.
+
+**Key Events:**
+
+* **Crawford I:** Plaintiff sued Hertz in Riverside County alleging a defective vehicle and breach of warranty. The case was settled through mediation, but Plaintiff alleges the settlement was not honored.
+* **Present Case (23CMCV00461):** Plaintiff filed a new lawsuit (23CMCV00461) against Hertz and Ally Bank alleging:
+    * Tortious breach of settlement agreement
+    * Unfair business practices
+    * Fraud
+    * Negligent hiring/training/supervision
+    * Intentional infliction of emotional distress
+    * Punitive damages
+* **Defendant's Motions:**
+    * **Demurrer:** Defendants filed a demurrer arguing the case is barred by res judicata (final judgment in Crawford I) and lack of jurisdiction. 
+    * **Anti-SLAPP Motion:** Defendants filed an anti-SLAPP motion to strike the first three causes of action, arguing they were retaliatory against Defendants for defending against Plaintiff's claims in Crawford I.
+
+**Judge's Ruling:**
+
+* **Demurrer:** Taken off calendar as moot because Plaintiff filed a First Amended Complaint (FAC).
+* **Anti-SLAPP Motion:** **GRANTED**. The court ruled that Plaintiff failed to demonstrate a probability of prevailing on the first three causes of action, which were based on protected activity related to litigation in Crawford I. 
+
+**Attorney Fees:**
+
+* Defendants are entitled to reasonable attorney fees related to the successful anti-SLAPP motion.  They will need to submit a supplemental declaration with details about the fees incurred.
+
+**Key Points:**
+
+* The judge found that the Plaintiff's claims stemmed from protected activity (litigation and settlement negotiations) in the prior case.
+* The Plaintiff failed to present sufficient evidence to overcome the Defendants' anti-SLAPP motion.
+
+**Note:** This is a tentative ruling, meaning it is subject to change before the final hearing.
+
+
+
+..................... .....................
+On 2025-02-18_22:45:36.539975
+The summary displayed below was created by an LLM named:  "llama3-8b-8192":
+**Tentative Ruling:**
+
+**Case Number:** 23CMCV00461
+
+**Hearing Date:** September 26, 2023
+
+**Department:** A
+
+**Donald L. Crawford Sr. v. Ally Financial, Inc., et al.**
+
+**Tentative Order:**
+
+**1. Demurrer to Complaint:** The demurrer to the complaint is taken off calendar as it has been rendered moot by the filing of the First Amended Complaint (FAC).
+
+**2. Anti-SLAPP Motion to Strike:** The anti-SLAPP motion to strike the first through third causes of action alleged in the complaint as against Hertz and Ally is GRANTED.
+
+**Background:**
+
+* The complaint alleges that the plaintiff settled an underlying dispute against Hertz, which was filed in Riverside County, and alleges claims for tortious breach of agreement, unfair business practices, fraud, negligent hiring/training/supervision, intentional infliction of emotional distress, and punitive damages.
+
+**Arguments:**
+
+* Ally and Hertz demurred to the entire complaint on grounds it is barred by res judicata resulting from the final judgment in Crawford I and because the court lacks jurisdiction under the rule of exclusive concurrent jurisdiction.
+* The defendants also filed an anti-SLAPP special motion to strike the first through third causes of action as the claims are barred because the plaintiff is attempting to punish the defendants for defending against the plaintiff's claims in Crawford I.
+
+**Discussion:**
+
+* The court finds that the defendants have met their initial burden of establishing that the challenged allegations or claims arise from protected activity in furtherance of their rights of petition or free speech.
+* The court concludes that the first, second, and third causes of action alleged in the complaint are barred by the anti-SLAPP statute and are stricken.
+* The defendants are entitled to recover attorney's fees as mandated by statute.
+
+**Conclusion:**
+
+* Based on the foregoing, the anti-SLAPP motion to strike the first through third causes of action alleged in the complaint as against Hertz and Ally is GRANTED. The defendants are entitled to reasonable attorney's fees and costs as prevailing parties and are ordered to file a supplemental declaration substantiating fees and costs incurred to prepare this anti-SLAPP motion to strike only.
+
+**Significant Statements:**
+
+* The court cannot permit a plaintiff to amend the pleadings once the defendants have established that the complaint arises from acts in furtherance of their constitutional rights.
+* A claim is "in connection with" litigation if it "relates to the substantive issues in the litigation and is directed to persons having some interest in the litigation."
+* The anti-SLAPP statute precludes claims that are based on oral or written statements made "in connection with an issue under consideration or review" by any judicial body or any other official proceeding, or any other conduct in furtherance of the exercise of the constitutional right of petition.
+..................... .....................
+On 2025-02-18_22:46:01.749925
+The summary displayed below was created by an LLM named:  "llama-3.3-70b-specdec":
+Exception:
+Error code: 429 - {'error': {'message': 'Rate limit reached for model `llama-3.3-70b-specdec` in organization `org_01hw84cjv0f12v63qt47723ar2` service tier `on_demand` on : Limit 100000, Used 98507, Requested 2967. Please try again in 21m13.032s. Need more tokens? Upgrade to Dev Tier today at https://console.groq.com/settings/billing', 'type': '', 'code': 'rate_limit_exceeded'}}
+..................... .....................
+On 2025-02-18_22:56:03.128510
+The summary displayed below was created by an LLM named:  "mixtral-8x7b-32768":
+**Case Number:** 23CMCV00461
+
+**Hearing Date:** September 26, 2023
+
+**Parties:** Donald L. Crawford Sr. (Plaintiff) vs. Ally Financial, Inc., Hertz Car Rental, and others (Defendants)
+
+**Background:**
+
+- Plaintiff settled a dispute (Crawford I) with Hertz regarding a defective vehicle.
+- The settlement was not honored by Hertz, Ally Bank, and their attorneys.
+- Plaintiff alleges claims for tortious breach of agreement, unfair business practices, fraud, negligent hiring/training/supervision, intentional infliction of emotional distress, and punitive damages.
+
+**Tentative Ruling:**
+
+- The demurrer to the complaint is taken off calendar due to the filing of the First Amended Complaint (FAC).
+- The FAC does not affect the pending anti-SLAPP motion.
+- Defendants have met their initial burden for the anti-SLAPP motion.
+- Plaintiff's failure to file an opposition results in the striking of the first cause of action.
+- The second and third causes of action are also stricken as they are based on litigation activity in Crawford I, which is protected by the anti-SLAPP statute.
+- Defendants are entitled to recover attorney's fees as mandated by statute, but only for the motion to strike.
+
+**Significant Statements:**
+
+- "An amendatory pleading supersedes the original one, which ceases to perform any function as a pleading." (Sylmar Air Conditioning v. Pueblo Contracting Services, Inc. (2004) 122 Cal.App.4th 1049, 1054)
+- "The court cannot permit a plaintiff to amend the pleadings once the defendants have established that the complaint arises from acts in furtherance of their constitutional rights." (Simmons v. Allstate Ins. Co. (2001) 92 Cal.App.4th 1068, 1073)

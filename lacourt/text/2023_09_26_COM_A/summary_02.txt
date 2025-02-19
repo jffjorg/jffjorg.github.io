@@ -152,3 +152,13 @@ On 2025-02-18_21:50:43.963645
 The summary displayed below was created by an LLM named:  "llama3-8b-8192":
 Exception:
 Error code: 413 - {'error': {'message': 'Request too large for model `llama3-8b-8192` in organization `org_01hw84cjv0f12v63qt47723ar2` service tier `on_demand` on tokens per minute (TPM): Limit 6000, Requested 8373, please reduce your message size and try again. Visit https://console.groq.com/docs/rate-limits for more information.', 'type': 'tokens', 'code': 'rate_limit_exceeded'}}
+..................... .....................
+On 2025-02-18_22:00:44.393816
+The summary displayed below was created by an LLM named:  "llama-3.3-70b-specdec":
+Exception:
+Error code: 429 - {'error': {'message': 'Rate limit reached for model `llama-3.3-70b-specdec` in organization `org_01hw84cjv0f12v63qt47723ar2` service tier `on_demand` on : Limit 100000, Used 100548, Requested 8373. Please try again in 2h8m28.471s. Need more tokens? Upgrade to Dev Tier today at https://console.groq.com/settings/billing', 'type': '', 'code': 'rate_limit_exceeded'}}
+..................... .....................
+On 2025-02-18_22:10:44.698196
+The summary displayed below was created by an LLM named:  "mixtral-8x7b-32768":
+Exception:
+Error code: 413 - {'error': {'message': 'Request too large for model `mixtral-8x7b-32768` in organization `org_01hw84cjv0f12v63qt47723ar2` service tier `on_demand` on tokens per minute (TPM): Limit 5000, Requested 9744, please reduce your message size and try again. Visit https://console.groq.com/docs/rate-limits for more information.', 'type': 'tokens', 'code': 'rate_limit_exceeded'}}
