@@ -234,3 +234,98 @@ roles:
 significant\_statements:
 - "Plaintiff’s motion is denied."
 - "Plaintiff is ordered to provide notice of this order."
+..................... .....................
+On 2025-02-19_06:09:11.288654
+The summary displayed below was created by an LLM named:  "gemma2-9b-it":
+Exception:
+Error code: 503 - {'error': {'message': 'Service Unavailable', 'type': 'internal_server_error'}}
+..................... .....................
+On 2025-02-19_06:19:12.410600
+The summary displayed below was created by an LLM named:  "llama3-8b-8192":
+Here is the summary in Markdown format:
+
+**Case Number**: 22STCV22174
+**Plaintiff's Name**: Tenant Mike Harsini
+**Defendant's Name**: South Bay Property Management Inc. and Agents: Wanda Rafael
+**People-Names**: Mike Harsini, Wanda Rafael, T. Spivey
+**Company-Names**: South Bay Property Management Inc.
+**Places**: Los Angeles, California
+**Dates**:
+	* July 11, 2022: Plaintiff filed the action
+	* January 31, 2023: Plaintiff filed the Amended Complaint
+	* August 14, 2023: Plaintiff filed the motion for summary judgment
+	* September 26, 2023: Hearing date
+**Events**:
+	* Plaintiff alleged breach of covenant of quiet enjoyment, breach of lease contract, and failure to remedy noxious fumes
+	* Plaintiff filed motion for summary judgment, which is unopposed
+**Money**:
+	* No specific amount mentioned
+**Intentions**: Plaintiff seeks summary judgment
+**Facts**:
+	* Plaintiff alleges that defendants failed to act within 30 days to remedy noxious fumes
+	* Plaintiff filed proof of service on August 14, 2023, indicating that the motion was served on defendants on that date
+**Disputes**:
+	* Plaintiff's failure to timely serve the motion under Code of Civil Procedure section 437c, subdivision (a)(2)
+	* Plaintiff's failure to include a separate statement setting forth material facts in support of the motion
+**Acts**:
+	* Plaintiff filed the motion for summary judgment
+	* Plaintiff failed to timely serve the motion
+**Agreements**:
+	* None mentioned
+**Laws**:
+	* Code of Civil Procedure sections 437c, subdivision (a)(1), (a)(2), (b)(1), and (p)(1)
+**Case Citations**:
+	* Aguilar v. Atlantic Richfield Co. (2001) 25 Cal.4th 826, 850
+	* Dore v. Arnold Worldwide, Inc. (2006) 39 Cal.4th 384, 389
+**Statutes**:
+	* Code of Civil Procedure sections 437c, 437c(a)(1), 437c(a)(2), 437c(b)(1), and 437c(p)(1)
+**Roles**:
+	* Judge: Hon. Rolf M. Treu
+	* Plaintiff: Tenant Mike Harsini
+	* Defendant: South Bay Property Management Inc. and Agents: Wanda Rafael
+**Significant Statements**:
+	* "The moving party bears the initial burden of production to make a prima facie showing that there are no triable issues of material fact." (Code Civ. Proc., § 437c, subd. (c))
+	* "A party may move for summary judgment in an action or proceeding if it is contended that the action has no merit or that there is no defense to the action or proceeding." (Code Civ. Proc., § 437c, subd. (a)(1))
+	* "The Court notes that Plaintiff did not timely serve the instant motion under Code of Civil Procedure section 437c, subdivision (a)(2)."
+..................... .....................
+On 2025-02-19_06:19:37.610752
+The summary displayed below was created by an LLM named:  "llama-3.3-70b-specdec":
+Exception:
+Error code: 429 - {'error': {'message': 'Rate limit reached for model `llama-3.3-70b-specdec` in organization `org_01hw84cjv0f12v63qt47723ar2` service tier `on_demand` on : Limit 100000, Used 99997, Requested 1632. Please try again in 23m27.44s. Need more tokens? Upgrade to Dev Tier today at https://console.groq.com/settings/billing', 'type': '', 'code': 'rate_limit_exceeded'}}
+..................... .....................
+On 2025-02-19_06:29:39.149260
+The summary displayed below was created by an LLM named:  "mixtral-8x7b-32768":
+**Case Number:** 22STCV22174 \
+**Hearing Date:** September 26, 2023 \
+**Hearing Time:** 2:00 p.m.
+
+**Tentative Ruling**
+
+**Parties:**
+
+* Tenant Mike Harsini, Plaintiff
+* South Bay Property Management Inc. and Agents: Wanda Rafael, Defendants
+
+**Background:**
+
+* On July 11, 2022, Plaintiff filed a complaint against Defendants for breach of lease contract and covenant of quiet enjoyment.
+* On August 14, 2023, Plaintiff filed an unopposed motion for summary judgment.
+
+**Legal Standard:**
+
+* A motion for summary judgment shall be granted if there are no triable issues of material fact and the moving party is entitled to judgment as a matter of law.
+
+**Discussion:**
+
+* The motion for summary judgment was not served on the defendants within the required 75-day period before the hearing.
+* Plaintiff's motion does not include a separate statement setting forth all material facts and references to supporting evidence.
+* The motion does not demonstrate that there is no defense to the action or proceeding.
+
+**Conclusion:**
+
+* Plaintiff's motion for summary judgment is denied.
+
+**Significant Statements:**
+
+* "The failure to comply with the requirement of a separate statement may in the court's discretion constitute a sufficient ground for denying the motion."
+* "A plaintiff has met his or her burden of showing that there is no defense to a cause of action if that party has proved each element of the cause of action entitling the party to judgment on the cause of action."

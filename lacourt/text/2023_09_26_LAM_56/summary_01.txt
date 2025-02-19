@@ -293,3 +293,95 @@ significant\_statements:
 English summary:
 
 In the case 21STCV06362, the plaintiff Patrick Krug brought a motion to seal portions of documents related to the defendant The Board of Trustees of the California State University's motion for summary judgment. The court has considered the moving, opposition, and reply papers and granted the motion to seal certain identifying information about third parties. The court found that the redaction of third parties’ identifying information is consistent with previous orders and is justified due to the undisputed privacy interests of the third parties. The sealing order is limited to the redaction of identifying information about third parties.
+..................... .....................
+On 2025-02-19_07:46:25.341283
+The summary displayed below was created by an LLM named:  "gemma2-9b-it":
+Exception:
+Error code: 503 - {'error': {'message': 'Service Unavailable', 'type': 'internal_server_error'}}
+..................... .....................
+On 2025-02-19_07:56:26.884830
+The summary displayed below was created by an LLM named:  "llama3-8b-8192":
+Here is the summary of the Judge's tentative ruling in Markdown format:
+
+### Case Information
+* Case Number: 21STCV06362
+* Hearing Date: September 26, 2023
+* Department: 56
+
+### Parties
+* Plaintiff: Patrick Krug
+* Defendant: The Board of Trustees of the California State University, et al.
+
+### Background
+* Employment relationship dispute
+* Current operative second amended complaint (SAC) alleges:
+	+ Discrimination
+	+ Harassment
+	+ Retaliation
+	+ Failure to prevent, investigate and remedy harassment and discrimination
+	+ Whistleblower retaliation
+	+ Reprisal/retaliation
+
+### Motion to Seal
+* Plaintiff filed a motion to seal portions of documents filed as evidence in support of Defendant's motion for summary judgment
+* Defendant objects to the wholesale sealing of the identified documents but does not contest the propriety of redacting certain identifying information
+
+### Discussion
+* California Rules of Court (CRC) rule 2.550(c) presumes court records are open unless confidentiality is required by law
+* A court record must not be filed under seal without a court order
+* Party requesting sealing must file a motion or application with a memorandum and declaration justifying the sealing
+* Trial court must hold a hearing and find that:
+	+ Overriding interest supporting closure and/or sealing exists
+	+ Substantial probability of prejudice absent closure and/or sealing
+	+ Proposed closure and/or sealing is narrowly tailored to serve the overriding interest
+	+ No less restrictive means of achieving the overriding interest exists
+
+### Ruling
+* The Court grants the Motion with limitations
+* Sealing order is limited to the redaction of identifying information about third parties
+* Moving party is ordered to give notice of this ruling
+
+### Next Steps
+* Parties who intend to submit on this tentative must send an email to the Court at SMC_DEPT56@lacourt.org as directed by the instructions provided on the court website
+* If the department does not receive an email and there are no appearances at the hearing, the motion will be placed off calendar
+..................... .....................
+On 2025-02-19_07:56:52.075908
+The summary displayed below was created by an LLM named:  "llama-3.3-70b-specdec":
+Exception:
+Error code: 429 - {'error': {'message': 'Rate limit reached for model `llama-3.3-70b-specdec` in organization `org_01hw84cjv0f12v63qt47723ar2` service tier `on_demand` on : Limit 100000, Used 99722, Requested 1193. Please try again in 13m9.759999999s. Need more tokens? Upgrade to Dev Tier today at https://console.groq.com/settings/billing', 'type': '', 'code': 'rate_limit_exceeded'}}
+..................... .....................
+On 2025-02-19_08:06:53.535008
+The summary displayed below was created by an LLM named:  "mixtral-8x7b-32768":
+**Case Number:** 21STCV06362
+
+**Hearing Date:** September 26, 2023
+
+**Parties:**
+
+- Patrick Krug (Plaintiff)
+- The Board of Trustees of the California State University, et al. (Defendants)
+
+**People-Names:** Patrick Krug, Holly J. Fujie (Judge of the Superior Court)
+
+**Company-Names:** The Board of Trustees of the California State University
+
+**Places:** Superior Court of the State of California, Central District (Los Angeles County)
+
+**Dates:** July 18, 2023 (filing date of the Motion)
+
+**Events:** Consideration of the moving, opposition, and reply papers
+
+**Laws:** California Rules of Court (CRC), rule 2.550 (c), 2.551 (b)
+
+**Case Citations:** Overstock.com, Inc. v. Goldman Sachs Group, Inc. (2014) 231 Cal.App.4th 471, 486; Universal City Studios, Inc. v. Superior Court (2003) 110 Cal.App.4th 1273, 1279; Mary R. v. B. & R. Corp. (1983) 149 Cal.App.3d 308, 317
+
+**Roles:** Holly J. Fujie (Judge), Patrick Krug (Moving Party), The Board of Trustees of the California State University (Responding Party)
+
+**Significant Statements:**
+
+- "The burden rests on the party seeking to deny public access to those records to establish compelling reasons why and to what extent these records should be made private." (Mary R. v. B. & R. Corp. (1983) 149 Cal.App.3d 308, 317)
+- "The redaction of third parties’ identifying information is consistent with the discussion regarding the confidentiality designations and sealing of documents in the Court’s June 21, 2023 and July 13, 2023 orders."
+
+---
+
+Judge Holly J. Fujie has granted the Plaintiff's motion to seal portions of documents filed as evidence in support of Defendant’s motion for summary judgment. The sealing order is limited to the redaction of identifying information about third parties. The Judge found that the redaction of third parties' identifying information is consistent with previous orders regarding the confidentiality designations and sealing of documents. Furthermore, the Judge reiterated the principle that the burden of denying public access to records lies with the party seeking to seal the records and must provide compelling reasons for such sealing.

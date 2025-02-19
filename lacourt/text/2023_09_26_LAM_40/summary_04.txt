@@ -2087,3 +2087,125 @@ On 2025-02-07_21:33:38.698790
 The summary displayed below was created by an LLM named:  "mixtral-8x7b-32768":
 Exception:
 Error code: 413 - {'error': {'message': 'Request too large for model `mixtral-8x7b-32768` in organization `org_01hw84cjv0f12v63qt47723ar2` service tier `on_demand` on tokens per minute (TPM): Limit 5000, Requested 6410, please reduce your message size and try again. Visit https://console.groq.com/docs/rate-limits for more information.', 'type': 'tokens', 'code': 'rate_limit_exceeded'}}
+..................... .....................
+On 2025-02-19_04:52:45.411722
+The summary displayed below was created by an LLM named:  "gemma2-9b-it":
+Exception:
+Error code: 503 - {'error': {'message': 'Service Unavailable', 'type': 'internal_server_error'}}
+..................... .....................
+On 2025-02-19_05:02:47.090603
+The summary displayed below was created by an LLM named:  "llama3-8b-8192":
+Here is a summary of the Judge's tentative ruling in Markdown format:
+
+**Case Number:** 23STCP02448
+**Hearing Date:** September 26, 2023
+**Department:** 40 Superior Court of California, County of Los Angeles
+**Parties:**
+* **Petitioner:** Robin Hood Funding, LLC (RH Funding)
+* **Responding Party:** Los Angeles Child Support Services Department
+* **Real Party in Interest:** J.T.
+
+**Background:** RH Funding seeks a transfer of $1,836,596.97 in structured settlement payment rights belonging to J.T. for a one-time payment of $541,475.
+
+**Legal Standard:** A transfer of structured settlement payment rights is void unless a court reviews and approves the transfer and finds that:
+	* The transfer is fair and reasonable in the best interest of the payee, taking into account the welfare and support of his or her dependents.
+	* The transfer complies with the requirements of Insurance Code Sections 10134 to 10139.5.
+
+**Section 10136 Requirements:**
+	* The transfer agreement satisfies the disclosure form requirements set out in Insurance Code section 10136.
+	* The transfer agreement satisfies the transfer-agreement requirements set out in Insurance Code section 10136.
+	* The transfer agreement does not violate Section 10138.
+	* J.T. has not sought cancellation of the transfer agreement.
+
+**Section 10139.5 Requirements:**
+	* The transfer has been approved in advance in a final court order based on express written findings by the court.
+	* The transfer has been brought in the county in which the payee, J.T., resides.
+	* The petition has been filed with the Court and served on all interested parties more than 20 days before this hearing.
+	* The notice and petition have attached all necessary documents required from this subdivision.
+
+**Findings:**
+	* The transfer is fair and reasonable in the best interest of J.T. and his dependents.
+	* J.T. has been advised in writing by RH Funding to seek independent professional advice regarding the transfer and has either received that advice or knowingly waived, in writing, the opportunity to receive the advice.
+	* RH Funding has complied with the notification requirements and has provided J.T. with a disclosure form that complies with Section 10136.
+	* The transfer does not contravene any applicable statute or the order of any court or other government authority.
+	* J.T. understands the terms of the transfer agreement, including the terms set forth in the disclosure statement required by Section 10136.
+	* J.T. understands and does not wish to exercise the payee's right to cancel the transfer agreement.
+
+**Conclusion:** RH Funding's Petition is GRANTED, on the condition that child support arrearages in the amount of $30,353.07 as of September 1, 2023 will be paid off the top by no later than September 29, 2023.
+..................... .....................
+On 2025-02-19_05:03:13.844396
+The summary displayed below was created by an LLM named:  "llama-3.3-70b-specdec":
+### Case Summary in Markdown Format
+#### Case Information
+* **Case Number:** 23STCP02448
+* **Plaintiff's Name:** Robin Hood Funding, LLC (Petitioner)
+* **Defendant's Name:** Los Angeles Child Support Services Department (Responding Party)
+* **Real Party in Interest:** J.T.
+* **People-Names:**
+	+ J.T. (Real Party in Interest)
+	+ Oliver Kupe (FINRA registered investment adviser)
+	+ Nick Brustin (Attorney)
+* **Company-Names:**
+	+ Robin Hood Funding, LLC (Petitioner)
+	+ Los Angeles Child Support Services Department (Responding Party)
+* **Places:**
+	+ Los Angeles, CA
+	+ California
+	+ West Sacramento, CA
+* **Dates:**
+	+ September 26, 2023 (Hearing Date)
+	+ September 12, 2023 (Previous Hearing Date)
+	+ July 20, 2023 (Motion for Order Approving Transfer)
+	+ August 21, 2023 (Amended Petition)
+	+ August 29, 2023 (Response to Petitioner's Motion)
+	+ September 1, 2023 (Child Support Arrearages Date)
+	+ September 25, 2023 (Supplemental Filings)
+	+ September 29, 2023 (Payment Due Date)
+* **Events:**
+	+ Hearing on Petitioner's Verified Petition for Transfer of Structured Settlement Payment Rights
+	+ Filing of Response to Petitioner's Motion
+	+ Filing of Amended Petition
+	+ Filing of Supplemental Filings
+* **Money:**
+	+ $541,475 (one-time payment to J.T.)
+	+ $1,836,596.97 (structured settlement payment rights)
+	+ $873,267.18 (discounted present value of structured settlement)
+	+ $30,353.07 (child support arrearages)
+* **Intentions:**
+	+ J.T.'s intention to invest in high-yield investment opportunities
+	+ Petitioner's intention to transfer structured settlement payment rights
+* **Facts:**
+	+ J.T. has child support arrearages in three cases
+	+ J.T. has not previously assigned any portion of his structured settlement payment rights
+	+ J.T. has a financial adviser and has received independent professional advice regarding the transfer
+* **Disputes:**
+	+ Los Angeles Child Support Services Department's response to Petitioner's Motion
+* **Acts:**
+	+ Petitioner's filing of Verified Petition for Transfer of Structured Settlement Payment Rights
+	+ Responding Party's filing of Response to Petitioner's Motion
+	+ J.T.'s execution of Transfer Agreement and disclosure statement
+* **Agreements:**
+	+ Transfer Agreement between J.T. and Petitioner
+	+ Disclosure statement signed by J.T.
+* **Laws:**
+	+ California Insurance Code § 10134 et seq.
+	+ Insurance Code Sections 10136 to 10139.5
+* **Case Citations:**
+	+ None
+* **Statutes:**
+	+ California Insurance Code § 10134 et seq.
+	+ Insurance Code Sections 10136 to 10139.5
+* **Roles:**
+	+ Petitioner: Robin Hood Funding, LLC
+	+ Responding Party: Los Angeles Child Support Services Department
+	+ Real Party in Interest: J.T.
+* **Significant Statements:**
+	+ J.T.'s declaration that he understands the terms of the transfer agreement and does not wish to exercise his right to cancel
+
+### English Text Summary
+The court has issued a tentative ruling granting Petitioner Robin Hood Funding, LLC's Verified Petition for Transfer of Structured Settlement Payment Rights Pursuant to California Insurance Code § 10134 et seq. The petition seeks to transfer $1,836,596.97 in structured settlement payment rights belonging to J.T. in exchange for a one-time payment of $541,475. The court has found that the transfer agreement satisfies the requirements of Insurance Code sections 10136 and 10139.5, and that the petition meets all procedural and substantive requirements to effect a transfer of structured settlement payment rights. The court has conditioned the grant of the petition on the payment of child support arrearages in the amount of $30,353.07 by September 29, 2023.
+..................... .....................
+On 2025-02-19_05:03:39.104233
+The summary displayed below was created by an LLM named:  "mixtral-8x7b-32768":
+Exception:
+Error code: 413 - {'error': {'message': 'Request too large for model `mixtral-8x7b-32768` in organization `org_01hw84cjv0f12v63qt47723ar2` service tier `on_demand` on tokens per minute (TPM): Limit 5000, Requested 6408, please reduce your message size and try again. Visit https://console.groq.com/docs/rate-limits for more information.', 'type': 'tokens', 'code': 'rate_limit_exceeded'}}
