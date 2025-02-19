@@ -306,3 +306,157 @@ On 2025-02-19_12:02:36.077767
 The summary displayed below was created by an LLM named:  "gemma2-9b-it":
 Exception:
 Error code: 503 - {'error': {'message': 'Service Unavailable', 'type': 'internal_server_error'}}
+..................... .....................
+On 2025-02-19_12:12:37.153528
+The summary displayed below was created by an LLM named:  "llama3-8b-8192":
+Here is a summary of the Judge's tentative ruling in Markdown format:
+
+**Case Number**: 23STCV05971
+**Plaintiff's Name**: Jong Bum Lee
+**Defendant's Name**: FCA US, LLC, et al.
+**People-Names**: Jong Bum Lee, Hanson
+**Company-Names**: FCA US, LLC
+**Places**: Los Angeles
+**Dates**:
+	* March 17, 2023 (filing of lawsuit)
+	* April 3, 2023 (propounding of discovery)
+	* June 7, 2023 (extended deadline for response)
+	* July 13, 2023 (filing of motion)
+	* September 9, 2023 (code-compliant responses from FCA)
+	* September 13, 2023 (additional code-compliant responses from FCA)
+	* September 26, 2023 (hearing date)
+**Events**:
+	* Plaintiff propounded discovery on April 3, 2023
+	* FCA failed to respond timely, prompting Plaintiff's motion to compel
+	* FCA provided code-compliant responses on September 9 and 13, 2023
+**Money**:
+	* Sanctions awarded in the amount of $1,930.00
+**Intentions**: Plaintiff seeks to compel FCA to respond to discovery requests and deem admitted the matters referred to in the requests for admissions
+**Facts**:
+	* Plaintiff purchased a 2021 Chrysler Pacifica in May 2021
+	* The vehicle exhibited substantial defects
+	* Plaintiff sued FCA for three violations of Civil Code section 1793.2, breach of express written warranty, and breach of the implied warranty of habitability
+**Disputes**:
+	* FCA failed to respond timely to Plaintiff's discovery requests
+	* FCA argues mistake, inadvertence, or excusable neglect for the delay
+**Acts**:
+	* Plaintiff propounded discovery on April 3, 2023
+	* FCA failed to respond timely
+	* FCA provided code-compliant responses on September 9 and 13, 2023
+**Agreements**: None mentioned
+**Laws**:
+	* Code of Civil Procedure sections 2030.290, 2031.300, 2033.280
+	* Cal. Rule of Court, rule 3.1348
+**Case Citations**: None mentioned
+**Statutes**: Civil Code section 1793.2
+**Roles**:
+	* Judge: awarded sanctions against FCA US, LLC
+	* Plaintiff: Jong Bum Lee
+	* Defendant: FCA US, LLC, et al.
+**Significant Statements**:
+	* "The motions to compel are DENIED as moot because FCA has belatedly served discovery responses to the discovery propounded by Plaintiff."
+	* "Plaintiff’s motion for monetary sanctions is GRANTED in part in the amount of $1,930.00."
+	* "FCA shall pay Plaintiff’s counsel $1,930.00 within 30 days."
+..................... .....................
+On 2025-02-19_12:13:02.388913
+The summary displayed below was created by an LLM named:  "llama-3.3-70b-specdec":
+Exception:
+Error code: 429 - {'error': {'message': 'Rate limit reached for model `llama-3.3-70b-specdec` in organization `org_01hw84cjv0f12v63qt47723ar2` service tier `on_demand` on : Limit 100000, Used 99886, Requested 2061. Please try again in 28m1.711s. Need more tokens? Upgrade to Dev Tier today at https://console.groq.com/settings/billing', 'type': '', 'code': 'rate_limit_exceeded'}}
+..................... .....................
+On 2025-02-19_12:23:04.658844
+The summary displayed below was created by an LLM named:  "mixtral-8x7b-32768":
+**Case Number:** 23STCV05971
+
+**Hearing Date:** September 26, 2023
+
+**Department:** 72
+
+**SUPERIOR COURT OF CALIFORNIA, COUNTY OF LOS ANGELES**
+
+---
+
+**Parties:**
+
+- Jong Bum Lee (Plaintiff)
+- FCA US, LLC, et al. (Defendants)
+
+**People-Names:**
+
+- Jong Bum Lee
+- Hanson (Defendant's counsel)
+
+**Company-Names:**
+
+- FCA US, LLC
+
+**Places:**
+
+- Los Angeles County, California
+
+**Dates:**
+
+- May 2021 (Purchase of the vehicle)
+- March 17, 2023 (Filing of the lawsuit)
+- April 3, 2023 (Plaintiff propounded discovery)
+- June 7, 2023 (Response deadline)
+- July 13, 2023 (Filing of Plaintiff's motion)
+- September 9 and 13, 2023 (FCA provided responses)
+
+**Events:**
+
+- Plaintiff purchased a 2021 Chrysler Pacifica in May 2021.
+- The vehicle exhibited substantial defects.
+- Defendants failed to replace it or make restitution.
+- Plaintiff filed a lawsuit on March 17, 2023 for three violations of Civil Code section 1793.2, breach of express written warranty, and breach of the implied warranty of habitability.
+- Plaintiff moved for an order compelling defendant FCA to respond to her initial sets of written discovery, to deem matters referred to in her RFAs admitted, and imposing monetary sanctions against FCA for failure to timely respond.
+
+**Money:**
+
+- $1,930.00 (Monetary sanctions awarded to Plaintiff)
+
+**Intentions:**
+
+- FCA to pay Plaintiff's counsel $1,930.00 within 30 days.
+
+**Facts:**
+
+- Plaintiff propounded discovery on April 3, 2023 and granted Defendant a thirty-day extension to respond.
+- FCA provided code-compliant responses on September 9 and 13, 2023.
+- Plaintiff appears to acknowledge she has received code-compliant responses to RFAs.
+
+**Disputes:**
+
+- Failure to timely respond to discovery requests.
+
+**Acts:**
+
+- Plaintiff's motion for monetary sanctions is granted in part.
+- FCA shall pay Plaintiff's counsel $1,930.00 within 30 days.
+
+**Agreements:**
+
+- None explicitly mentioned.
+
+**Laws:**
+
+- Code of Civil Procedure section 2030.290
+- Code of Civil Procedure section 2031.300
+- Code of Civil Procedure section 2033.280
+- Civil Discovery Act
+
+**Case Citations:**
+
+- Code Civ. Proc., § 2030.290, subds. (a)-(b)
+- Code Civ. Proc., § 2031.300, subds. (a)-(b)
+- Code Civ. Proc., § 2033.280, subd. (a)
+- Code Civ. Proc., § 2033.280, subd. (b)
+- Code Civ. Proc., § 2033.280, subd. (c)
+- Code Civ. Proc., § 2030.290, subd. (c)
+- Code Civ. Proc., § 2031.90
+- Cal. Rule of Court, rule 3.1348
+
+---
+
+**Summary:**
+
+In this lemon law action, Plaintiff Jong Bum Lee filed a lawsuit against FCA US, LLC for substantial defects in her 2021 Chrysler Pacifica. Plaintiff moved to compel defendant FCA US, LLC to respond to her initial sets of written discovery and to deem matters referred to in her RFAs admitted, seeking monetary sanctions for failure to timely respond. The court denied the motion to compel as moot since FCA provided belated responses. However, the court granted Plaintiff's motion for sanctions in part, awarding $1,930.00 against FCA US, LLC for failing to timely respond.
