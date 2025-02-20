@@ -370,3 +370,29 @@ On 2025-02-19_17:30:46.253896
 The summary displayed below was created by an LLM named:  "llama-3.3-70b-specdec":
 Exception:
 Error code: 429 - {'error': {'message': 'Rate limit reached for model `llama-3.3-70b-specdec` in organization `org_01hw84cjv0f12v63qt47723ar2` service tier `on_demand` on : Limit 100000, Used 100225, Requested 1124. Please try again in 19m25.713s. Need more tokens? Upgrade to Dev Tier today at https://console.groq.com/settings/billing', 'type': '', 'code': 'rate_limit_exceeded'}}
+..................... .....................
+On 2025-02-19_17:40:47.408399
+The summary displayed below was created by an LLM named:  "mixtral-8x7b-32768":
+**Case Number:** 23VECV01461
+
+**Plaintiff:** 13630 Victory Boulevard, LLC
+
+**Defendant:** Victor Cobar
+
+**Location:** Victory Boulevard, LLC's property
+
+**Date:** August 14, 2020 (Lease Agreement), January 17, 2021 (Defendant vacated), April 3, 2023 (Complaint filed)
+
+**Events:** Defendant Cobar, as tenant, breached the lease agreement by vacating the property and owing approximately $85,000 in unpaid rent.
+
+**Money:** $85,000 (Unpaid rent)
+
+**Acts:** Defendant Cobar's breach of the lease agreement.
+
+**Agreements:** Written lease agreement between Plaintiff and Defendant.
+
+**Laws:** Breach of contract (California Civil Code § 1653)
+
+**Case Citations:** Wall Street Network, Ltd. v. New York Times Co. (2008) 164 Cal.App.4th 1171, McKell v. Washington Mutual, Inc. (2006) 142 Cal.App.4th 1457, Maxwell v. Dolezal (2014) 231 Cal.App.4th 93
+
+**Tentative Ruling:** Defendant Victor Cobar’s Demurrer to the Complaint is OVERRULED. The court finds the complaint sufficiently alleges the parties entered into a written agreement, and Plaintiff has attached a copy of the agreement as an exhibit. Defendant Cobar failed to file a meet and confer declaration, which is required by law. As a result, the demurrer is overruled.
